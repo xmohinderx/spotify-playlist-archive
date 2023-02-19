@@ -2685,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "san andreas theme song",
+        "url": "https://open.spotify.com/album/3EyFSWaRWqgih5PvAMZQOG"
+      },
+      "artists": [
+        {
+          "name": "Xenoner",
+          "url": "https://open.spotify.com/artist/6CyTY01MSE05psT3dC7ep0"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86700,
+      "name": "san andreas theme song",
+      "url": "https://open.spotify.com/track/3rp1uFBHe72uxyXx1Dz9io"
+    },
+    {
+      "album": {
         "name": "San Andreas Original Mixtape",
         "url": "https://open.spotify.com/album/5eH1GJwSmZXI4Xebe1A9X3"
       },
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 86546,
       "name": "San Andreas Theme Song",
       "url": "https://open.spotify.com/track/5f7F8ovtEmFzOdyN5fTOKl"

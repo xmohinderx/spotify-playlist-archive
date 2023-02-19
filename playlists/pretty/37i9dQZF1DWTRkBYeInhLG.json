@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu adem untuk segala suasana.",
-  "num_followers": 392398,
+  "num_followers": 392452,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUzMTU2OCwwMDAwMDAwMDQxYmU1OGJlNWI2YmE2MWU4ZDk1OTNlYjlmYzg3OGU0",
+  "snapshot_id": "MTY3MzUzMTU2OCwwMDAwMDAwMGYwMmEwNTA4ZjVmNzI1ODBmNTI4OTY2MGJkZDgyZGI0",
   "tracks": [
     {
       "added_at": "2023-01-12 13:52:48",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-01-12 13:52:48",
       "album": {
-        "name": "Melawan Restu",
-        "url": "https://open.spotify.com/album/5LEnyJ9RP1ZyVgvcKfpwd0"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 219896,
-      "name": "Melawan Restu",
-      "url": "https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL"
-    },
-    {
-      "added_at": "2023-01-12 13:52:48",
-      "album": {
         "name": "Konspirasi Alam Semesta",
         "url": "https://open.spotify.com/album/6d2K6Ku4sXH63OQnsGVbbe"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 213236,
       "name": "Garis Terdepan",
       "url": "https://open.spotify.com/track/4JozU4Ud30FGyDYzoUKasI"
+    },
+    {
+      "added_at": "2023-01-12 13:52:48",
+      "album": {
+        "name": "Melawan Restu",
+        "url": "https://open.spotify.com/album/5LEnyJ9RP1ZyVgvcKfpwd0"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 219896,
+      "name": "Melawan Restu",
+      "url": "https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL"
     },
     {
       "added_at": "2023-01-12 13:52:48",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-01-12 13:52:48",
       "album": {
-        "name": "Aku Yang Salah",
-        "url": "https://open.spotify.com/album/3H5eQDyoOyoOy9yYXnyTPh"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        },
-        {
-          "name": "Nuca",
-          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
-        }
-      ],
-      "duration_ms": 250122,
-      "name": "Aku Yang Salah",
-      "url": "https://open.spotify.com/track/0OgwkVbQ4jVfsZJO4Xs9hC"
-    },
-    {
-      "added_at": "2023-01-12 13:52:48",
-      "album": {
         "name": "Kereta Kencan",
         "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
       },
@@ -539,6 +519,22 @@
       "duration_ms": 218426,
       "name": "Remaja",
       "url": "https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe"
+    },
+    {
+      "added_at": "2023-01-12 13:52:48",
+      "album": {
+        "name": "The 2000's Greatest",
+        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        }
+      ],
+      "duration_ms": 300512,
+      "name": "Kangen",
+      "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
     },
     {
       "added_at": "2023-01-12 13:52:48",
@@ -559,18 +555,22 @@
     {
       "added_at": "2023-01-12 13:52:48",
       "album": {
-        "name": "The 2000's Greatest",
-        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
+        "name": "Aku Yang Salah",
+        "url": "https://open.spotify.com/album/3H5eQDyoOyoOy9yYXnyTPh"
       },
       "artists": [
         {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        },
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
         }
       ],
-      "duration_ms": 300512,
-      "name": "Kangen",
-      "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
+      "duration_ms": 250122,
+      "name": "Aku Yang Salah",
+      "url": "https://open.spotify.com/track/0OgwkVbQ4jVfsZJO4Xs9hC"
     },
     {
       "added_at": "2023-01-12 13:52:48",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-01-12 13:52:48",
       "album": {
-        "name": "Like All My Friends",
-        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
-      },
-      "artists": [
-        {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
-        }
-      ],
-      "duration_ms": 187918,
-      "name": "Like All My Friends",
-      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
-    },
-    {
-      "added_at": "2023-01-12 13:52:48",
-      "album": {
         "name": "The Best of Dewa 19",
         "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 241266,
       "name": "Kamulah Satu-Satunya",
       "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
+    },
+    {
+      "added_at": "2023-01-12 13:52:48",
+      "album": {
+        "name": "Like All My Friends",
+        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
+      },
+      "artists": [
+        {
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+        }
+      ],
+      "duration_ms": 187918,
+      "name": "Like All My Friends",
+      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
       "added_at": "2023-01-12 13:52:48",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-01-12 13:52:48",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/4UktwuqbTJJFnsuDhkf7kb"
+        "name": "Teman Bahagia",
+        "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
       },
       "artists": [
         {
-          "name": "Mocca",
-          "url": "https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ"
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
         }
       ],
-      "duration_ms": 81213,
-      "name": "On the Night Like This",
-      "url": "https://open.spotify.com/track/0rk3F1mm2Yrvh4zSrNpa0J"
+      "duration_ms": 208104,
+      "name": "Teman Bahagia",
+      "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
     },
     {
       "added_at": "2023-01-12 13:52:48",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-01-12 13:52:48",
       "album": {
-        "name": "Teman Bahagia",
-        "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/4UktwuqbTJJFnsuDhkf7kb"
       },
       "artists": [
         {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+          "name": "Mocca",
+          "url": "https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ"
         }
       ],
-      "duration_ms": 208104,
-      "name": "Teman Bahagia",
-      "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
+      "duration_ms": 81213,
+      "name": "On the Night Like This",
+      "url": "https://open.spotify.com/track/0rk3F1mm2Yrvh4zSrNpa0J"
     },
     {
       "added_at": "2023-01-12 13:52:48",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-01-12 13:52:48",
       "album": {
-        "name": "Nowhere to Go",
-        "url": "https://open.spotify.com/album/5TE09M0eIZSl83RGPrusxU"
+        "name": "Dari Mata",
+        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
       },
       "artists": [
         {
-          "name": "Endah N Rhesa",
-          "url": "https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7"
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
         }
       ],
-      "duration_ms": 271653,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/2XWsariqeTCH61B53r8yA3"
+      "duration_ms": 223462,
+      "name": "Dari Mata",
+      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
     }
   ],
   "unique_name": "Santai Sejenak",

@@ -7190,7 +7190,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 151048,
       "name": "lemon sorbet",
       "url": "https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS"
@@ -14252,6 +14252,24 @@
       "duration_ms": 246068,
       "name": "You",
       "url": "https://open.spotify.com/track/7HyEVTcgQdkHGEvR565bTt"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/7vgBcj3mlMEm7mmockI4IA"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128444,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/2yY8uvStXUNPxmwlI2KWdQ"
     },
     {
       "album": {

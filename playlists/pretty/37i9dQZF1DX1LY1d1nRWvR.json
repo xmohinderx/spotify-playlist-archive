@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDY2ZGVjNzM5ZjIzMTY4YjdmZWMzODZiNTJlMTJhZWZk",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDMyZjAwZTA2NDNjMTI5ZDBkNTU1NGM3MGU3NTEyNjNl",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
-      },
-      "artists": [
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 327231,
-      "name": "Rainbow Road",
-      "url": "https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Yardley Suite",
         "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 235803,
       "name": "Yardley Suite",
       "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 327231,
+      "name": "Rainbow Road",
+      "url": "https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd"
     },
     {
       "added_at": "2021-10-08 17:36:35",

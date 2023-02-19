@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-298 songs - 18 hr 45 min
+299 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Glory Born](https://open.spotify.com/track/6cRyGFZQz9omLVKIlzZdUc) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Heath Balltzglier](https://open.spotify.com/artist/3GB2s5tExZuuqiaWGRPM4M) | [Ring The Bells](https://open.spotify.com/album/7g3xFxJHim7tERwKYR2wU7) | 3:18 | 2021-12-24 | 2022-07-26 |
 | [Glory In The Highest](https://open.spotify.com/track/2U8ktRTW0SpL7GS994KNQE) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Receive Our King](https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy) | 4:51 | 2021-12-24 | 2022-07-28 |
 | [Glory To You In The Highest \(O Come Let Us Adore\)](https://open.spotify.com/track/2XPZo7qF5lQY7wnbqtmkG8) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [These Christmas Lights](https://open.spotify.com/album/2Z4WYBmQ21S7rvsyzQWdCu) | 5:16 | 2021-12-24 | 2022-07-24 |
-| [Go Tell It On The Mountain](https://open.spotify.com/track/6MaTesDJBXPBsULCNSfTCB) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Go Tell It On The Mountain](https://open.spotify.com/album/6g9UTRdRELfFRrykZhZ0US) | 2:20 | 2021-12-24 |  |
+| [Go Tell It On The Mountain](https://open.spotify.com/track/6MaTesDJBXPBsULCNSfTCB) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Go Tell It On The Mountain](https://open.spotify.com/album/6g9UTRdRELfFRrykZhZ0US) | 2:20 | 2021-12-24 | 2023-02-19 |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/0cvJyg1sNVNwZlSzV0NTd8) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Go Tell It On The Mountain](https://open.spotify.com/album/5sG5B0zUzWDNf9WepSGntM) | 2:47 | 2021-12-24 | 2022-07-29 |
 | [Go Tell It on the Mountain](https://open.spotify.com/track/28w1ZQX25tnDIaHdMR9kbu) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq), [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Go Tell It on the Mountain](https://open.spotify.com/album/2WCkmIbCNpo4ulg7BeyfvU) | 3:13 | 2021-12-24 | 2022-11-17 |
 | [Go Tell It on the Mountain \(feat\. Brad Wheeler\)](https://open.spotify.com/track/4bRJr0gSXtgOrLVG3Iwolh) | [GENTRI](https://open.spotify.com/artist/4sk2zZdhVRMhb1BEtcxUKf), [Brad Wheeler](https://open.spotify.com/artist/5IJ4o6qVqQHdD4ey0ZUl2F) | [Season of Light](https://open.spotify.com/album/5kUqoEk2Vuk9fmOfDCZFbB) | 4:02 | 2021-12-24 | 2022-07-29 |
@@ -130,6 +130,7 @@
 | [His Name Shall Be](https://open.spotify.com/track/0mzyK6XVIC90D5q94tE7FY) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [His Name Shall Be](https://open.spotify.com/album/09acCs0YrzMbeb2ASCXsXz) | 5:16 | 2021-12-24 | 2022-07-28 |
 | [His Name Shall Be](https://open.spotify.com/track/1rhs3UZ8J2xXbrJnbOqRPa) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [These Christmas Lights](https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a) | 5:16 | 2021-12-24 |  |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6V0o74Ptf4aygUPCT2Wdcu) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [More The Merrier](https://open.spotify.com/album/7o83BpMH6xfIhOfDGxLcpa) | 2:21 | 2021-12-24 |  |
+| [Holy](https://open.spotify.com/track/7ykbXoPWUNDj0txNJo0GJt) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Holy](https://open.spotify.com/album/5noo9mmDQjfL9nzXSJmJjG) | 3:40 | 2022-12-11 |  |
 | [Home](https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3), [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Home](https://open.spotify.com/album/0TxoOroboezaKCvWAwVVpP) | 3:32 | 2021-12-24 | 2022-12-20 |
 | [How Glorious The Love Of Heaven](https://open.spotify.com/track/3VJLvwssjJJEZgE2BwjU5L) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [How Glorious The Love Of Heaven](https://open.spotify.com/album/5BAmXMvVZeq8Glme23qNC3) | 3:58 | 2021-12-24 | 2022-07-25 |
 | [I Don't Want Christmas to End](https://open.spotify.com/track/2bc79MDIi1VULLU3KqyMoB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [I Don't Want Christmas to End](https://open.spotify.com/album/76Vw1t2n6PBb0GiQK7p5aj) | 3:49 | 2021-12-24 |  |

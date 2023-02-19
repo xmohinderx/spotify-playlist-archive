@@ -1,12 +1,12 @@
 {
   "description": "Listen to the women of the world at full volume. Cover: Leony",
-  "num_followers": 863618,
+  "num_followers": 863600,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ2MzE4OSwwMDAwMDAwMGFiMjRkMDc0ODA3YzJkYjNlNGJiNDMwNzdmODRhZGRk",
+  "snapshot_id": "MTY3NjQ2MzE4OSwwMDAwMDAwMDZlNzAxYjI3ODMyN2U5NzMxY2U3NWI5MmE4ODU0MmI3",
   "tracks": [
     {
       "added_at": "2023-02-15 12:13:09",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-02-15 12:13:09",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        }
-      ],
-      "duration_ms": 179890,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T"
-    },
-    {
-      "added_at": "2023-02-15 12:13:09",
-      "album": {
         "name": "A Special Place",
         "url": "https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 174193,
       "name": "A Special Place",
       "url": "https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb"
+    },
+    {
+      "added_at": "2023-02-15 12:13:09",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "duration_ms": 179890,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T"
     },
     {
       "added_at": "2023-02-15 12:13:09",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-02-15 12:13:09",
       "album": {
-        "name": "MAPSI",
-        "url": "https://open.spotify.com/album/2D1OkejpfnqXVPoxhrQM05"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "MAPSI",
-      "url": "https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG"
-    },
-    {
-      "added_at": "2023-02-15 12:13:09",
-      "album": {
         "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
         "url": "https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 164266,
       "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
       "url": "https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY"
+    },
+    {
+      "added_at": "2023-02-15 12:13:09",
+      "album": {
+        "name": "MAPSI",
+        "url": "https://open.spotify.com/album/2D1OkejpfnqXVPoxhrQM05"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "MAPSI",
+      "url": "https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG"
     },
     {
       "added_at": "2023-02-15 12:13:09",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-02-15 12:13:09",
       "album": {
+        "name": "Ma Place",
+        "url": "https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK"
+      },
+      "artists": [
+        {
+          "name": "RORI",
+          "url": "https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I"
+        }
+      ],
+      "duration_ms": 161565,
+      "name": "Ma Place",
+      "url": "https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P"
+    },
+    {
+      "added_at": "2023-02-15 12:13:09",
+      "album": {
         "name": "Child Of Sin",
         "url": "https://open.spotify.com/album/1GUJ68BpXPPp98eAMzLT6N"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 230462,
       "name": "Child Of Sin",
       "url": "https://open.spotify.com/track/3ASAvmNlhz4VYt5iUApaHc"
-    },
-    {
-      "added_at": "2023-02-15 12:13:09",
-      "album": {
-        "name": "Ma Place",
-        "url": "https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK"
-      },
-      "artists": [
-        {
-          "name": "RORI",
-          "url": "https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I"
-        }
-      ],
-      "duration_ms": 161565,
-      "name": "Ma Place",
-      "url": "https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P"
     },
     {
       "added_at": "2023-02-15 12:13:09",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-15 12:13:09",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/1Ipdh7E0cyxXCxPhz3wBxJ"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 204622,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/6v28bvjhEHYmBmG1xbpuxL"
-    },
-    {
-      "added_at": "2023-02-15 12:13:09",
-      "album": {
         "name": "Mi Historia",
         "url": "https://open.spotify.com/album/2FQg1fzHKwyTEZgk1XziKf"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 184517,
       "name": "Amante y Amigo",
       "url": "https://open.spotify.com/track/4UvRhamcRD4kpjEFtVN2ef"
+    },
+    {
+      "added_at": "2023-02-15 12:13:09",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/1Ipdh7E0cyxXCxPhz3wBxJ"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 204622,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/6v28bvjhEHYmBmG1xbpuxL"
     },
     {
       "added_at": "2023-02-15 12:13:09",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-02-15 12:13:09",
       "album": {
-        "name": "Juguito Ma\u00f1anero",
-        "url": "https://open.spotify.com/album/68JOn4Xtdqgez41Wkvic88"
-      },
-      "artists": [
-        {
-          "name": "Chule",
-          "url": "https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe"
-        }
-      ],
-      "duration_ms": 166511,
-      "name": "Juguito Ma\u00f1anero",
-      "url": "https://open.spotify.com/track/3H5Esjz1C6r3nWyBMRNpQI"
-    },
-    {
-      "added_at": "2023-02-15 12:13:09",
-      "album": {
         "name": "Down Down Down Down",
         "url": "https://open.spotify.com/album/4dggVrjDYcUArNkVpqdHKU"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 191040,
       "name": "Down Down Down Down",
       "url": "https://open.spotify.com/track/2N0P1fCYL7tnxq4RiPAz2l"
+    },
+    {
+      "added_at": "2023-02-15 12:13:09",
+      "album": {
+        "name": "Juguito Ma\u00f1anero",
+        "url": "https://open.spotify.com/album/68JOn4Xtdqgez41Wkvic88"
+      },
+      "artists": [
+        {
+          "name": "Chule",
+          "url": "https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe"
+        }
+      ],
+      "duration_ms": 166511,
+      "name": "Juguito Ma\u00f1anero",
+      "url": "https://open.spotify.com/track/3H5Esjz1C6r3nWyBMRNpQI"
     },
     {
       "added_at": "2023-02-15 12:13:09",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-02-15 12:13:09",
       "album": {
-        "name": "The One (I Haven't Met)",
-        "url": "https://open.spotify.com/album/3U2fV9wl1XLqA3AYAfpYF1"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Ezmeralda",
-          "url": "https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "The One (I Haven't Met)",
-      "url": "https://open.spotify.com/track/69AXV3HDhBaenIesoWmbwU"
-    },
-    {
-      "added_at": "2023-02-15 12:13:09",
-      "album": {
         "name": "O quarto (fado Pagem)",
         "url": "https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 200000,
       "name": "O quarto (fado Pagem)",
       "url": "https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn"
+    },
+    {
+      "added_at": "2023-02-15 12:13:09",
+      "album": {
+        "name": "The One (I Haven't Met)",
+        "url": "https://open.spotify.com/album/3U2fV9wl1XLqA3AYAfpYF1"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Ezmeralda",
+          "url": "https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "The One (I Haven't Met)",
+      "url": "https://open.spotify.com/track/69AXV3HDhBaenIesoWmbwU"
     },
     {
       "added_at": "2023-02-15 12:13:09",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-02-15 12:13:09",
       "album": {
-        "name": "Haze",
-        "url": "https://open.spotify.com/album/3Wb8cdmD4QrVJBkAVFmjsk"
-      },
-      "artists": [
-        {
-          "name": "Gwenji",
-          "url": "https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Haze",
-      "url": "https://open.spotify.com/track/0JNE7FY4YAaabbvtnH2Anw"
-    },
-    {
-      "added_at": "2023-02-15 12:13:09",
-      "album": {
         "name": "friday",
         "url": "https://open.spotify.com/album/5aRjH7I1J7EQwyInITKUt2"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 169185,
       "name": "friday",
       "url": "https://open.spotify.com/track/1kElYu8m1PcJ7DTTVv0d2u"
+    },
+    {
+      "added_at": "2023-02-15 12:13:09",
+      "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/3Wb8cdmD4QrVJBkAVFmjsk"
+      },
+      "artists": [
+        {
+          "name": "Gwenji",
+          "url": "https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/0JNE7FY4YAaabbvtnH2Anw"
     },
     {
       "added_at": "2023-02-15 12:13:09",

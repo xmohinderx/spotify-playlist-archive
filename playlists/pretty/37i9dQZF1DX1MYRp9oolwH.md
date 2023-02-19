@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Hit 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,977 likes - 92 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,017 likes - 92 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

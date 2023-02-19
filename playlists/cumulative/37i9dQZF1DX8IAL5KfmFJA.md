@@ -4,7 +4,7 @@
 
 > In loving memory of Marie Fredriksson.
 
-80 songs - 5 hr 19 min
+81 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,8 +51,9 @@
 | [Paint](https://open.spotify.com/track/32f8ABUmz8CSXztbvabYf3) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 3:30 | 2022-05-05 |  |
 | [Paint](https://open.spotify.com/track/6I65MPuHaxas6QldsBSIkJ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! 30th Anniversary Edition](https://open.spotify.com/album/70EpMMqKGTqr61NHxBlLvt) | 3:30 | 2022-05-05 | 2022-11-13 |
 | [Perfect Excuse](https://open.spotify.com/track/2C15CwZ176WSxYqA5YPGDJ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Travelling](https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq) | 3:40 | 2020-10-01 |  |
-| [Queen Of Rain](https://open.spotify.com/track/0ldvEFBbZAbC6CedMsCrri) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism](https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy) | 4:50 | 2022-05-05 |  |
+| [Queen Of Rain](https://open.spotify.com/track/0ldvEFBbZAbC6CedMsCrri) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism](https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy) | 4:50 | 2022-05-05 | 2023-02-19 |
 | [Queen Of Rain](https://open.spotify.com/track/1JJdm396S3IhI88Wh5J4YJ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(2009 Version\)](https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d) | 4:50 | 2020-10-01 | 2022-07-29 |
+| [Queen Of Rain](https://open.spotify.com/track/4jBEyGpFHppg5jknR0yxcy) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(Extended Version\)](https://open.spotify.com/album/6yhZFWd0wGN0QCchNFYn0Q) | 4:50 | 2022-05-05 |  |
 | [Run To You](https://open.spotify.com/track/1zeqAF6Hf1lPJoNkkmNA9j) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(2009 Version\)](https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs) | 3:39 | 2020-10-01 | 2022-07-29 |
 | [Run To You](https://open.spotify.com/track/6f4xbgWKdECm1QyTGEm1ua) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(Extended Version\)](https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV) | 3:39 | 2022-05-05 |  |
 | [Run to You \- G.M\. Remaster '03](https://open.spotify.com/track/4pjvjrnAQK2sYnaiT7zq6V) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The 30 Biggest Hits XXX](https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ) | 3:38 | 2022-05-05 | 2022-11-13 |

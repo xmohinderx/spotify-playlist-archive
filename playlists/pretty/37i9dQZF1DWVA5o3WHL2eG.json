@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Leony",
-  "num_followers": 23366,
+  "num_followers": 23364,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIwNjAwMCwwMDAwMDAwMGRlZWE4MDE1YzJjZTNjZjkzZWRhOThkNmIzMDI4OGU4",
+  "snapshot_id": "MTY3NTIwNjAwMCwwMDAwMDAwMDNjODFmYmZhNGM2OGYxYzgyY2UyYjMxMTBhOTYwNDBj",
   "tracks": [
     {
       "added_at": "2023-01-31 23:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "WENN ICH STERBE",
-        "url": "https://open.spotify.com/album/1IZYLoQLnt9pLvUgpoWRQR"
-      },
-      "artists": [
-        {
-          "name": "ELIF",
-          "url": "https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "WENN ICH STERBE",
-      "url": "https://open.spotify.com/track/5PNNnInglyngBvmMPlQkyx"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "LUNE",
         "url": "https://open.spotify.com/album/110in5Qcb8ry1bmvFNA2yl"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 143276,
       "name": "MON B\u00c8B\u00c8",
       "url": "https://open.spotify.com/track/7Iki6p3Qsh1mAbvccSqbWF"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "WENN ICH STERBE",
+        "url": "https://open.spotify.com/album/1IZYLoQLnt9pLvUgpoWRQR"
+      },
+      "artists": [
+        {
+          "name": "ELIF",
+          "url": "https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "WENN ICH STERBE",
+      "url": "https://open.spotify.com/track/5PNNnInglyngBvmMPlQkyx"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Kein Limit",
-        "url": "https://open.spotify.com/album/6cWFbbsBwQ2YXk6B2cfoAi"
-      },
-      "artists": [
-        {
-          "name": "Liyah",
-          "url": "https://open.spotify.com/artist/3UaA29cd7jUb9YmzXAdImR"
-        }
-      ],
-      "duration_ms": 152419,
-      "name": "Kein Limit",
-      "url": "https://open.spotify.com/track/2MsDRBxvDMIrRuaqGikmIu"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/5IT3PmuTYMzz35OOgiO4J2"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 221066,
       "name": "Gib Mir Deine Liebe - \u00c4TNA Edit",
       "url": "https://open.spotify.com/track/5AkN6pp0GOyXazmuhVhSzE"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "Kein Limit",
+        "url": "https://open.spotify.com/album/6cWFbbsBwQ2YXk6B2cfoAi"
+      },
+      "artists": [
+        {
+          "name": "Liyah",
+          "url": "https://open.spotify.com/artist/3UaA29cd7jUb9YmzXAdImR"
+        }
+      ],
+      "duration_ms": 152419,
+      "name": "Kein Limit",
+      "url": "https://open.spotify.com/track/2MsDRBxvDMIrRuaqGikmIu"
     },
     {
       "added_at": "2023-01-31 23:00:00",

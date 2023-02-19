@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-236 songs - 17 hr 8 min
+237 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [February](https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU) | [Paulette Verlée](https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL) | [choses vues à droite et à gauche \(sans lunettes\)](https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN) | 4:38 | 2022-02-25 |  |
 | [Feel What You Need](https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan) | [Thomas Slinger](https://open.spotify.com/artist/0hbbekz6DXUyzhwY0RtcQ7), [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Autonomy](https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98) | [Higher Ground](https://open.spotify.com/album/5QwPCN1Fn7WGvOUcjIsNlW) | 3:01 | 2022-02-04 |  |
 | [Finding solace in the stars](https://open.spotify.com/track/3RF3QEGZwyQFHl6KICwnN5) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [VOISART](https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE) | [Finding solace in the stars](https://open.spotify.com/album/17twwmQ7sZhUQ4rG5Eg71h) | 2:58 | 2021-12-10 | 2022-04-02 |
-| [Flame \- Edit](https://open.spotify.com/track/650KMeGMULRMpcKUz1duOQ) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Flame](https://open.spotify.com/album/78Iy1BiGfXAP7RzVGhy8B3) | 4:04 | 2022-09-09 |  |
+| [Flame \- Edit](https://open.spotify.com/track/650KMeGMULRMpcKUz1duOQ) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Flame](https://open.spotify.com/album/78Iy1BiGfXAP7RzVGhy8B3) | 4:04 | 2022-09-09 | 2023-02-19 |
 | [Fly \- Reimagined by Mercan Dede and Dexter Crowe](https://open.spotify.com/track/1yiS9iXNPZIlwE0zBNe106) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY), [Dexter Crowe](https://open.spotify.com/artist/2MdTMSsrjQTTvP1Jc5g0Zk) | [Reimagined\. Volume 1, Chapter 1](https://open.spotify.com/album/3BOArV9ude9rgHwqhMWqO3) | 8:06 | 2021-12-10 | 2022-01-17 |
 | [G\-Minor](https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Venice \- Infinitely Avantgarde \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9) | 3:55 | 2022-07-22 |  |
 | [G\-Minor](https://open.spotify.com/track/7JRF4gqX6lYMPO6FnhPwKl) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [G\-Minor](https://open.spotify.com/album/3ZinSpYPsXsjkt3qcMQhrr) | 3:55 | 2022-02-18 | 2022-07-29 |
@@ -220,6 +220,7 @@
 | [The Turning Year](https://open.spotify.com/track/53sR7EKIy3Yc2a3xPXMz9h) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke) | [The Turning Year](https://open.spotify.com/album/7qIBorzIVw58P2LWsSVqLX) | 2:40 | 2022-01-14 |  |
 | [The Universe Before Matter](https://open.spotify.com/track/3wXF1n6Y0sV6gsmwD5ykaQ) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o), [Paraorchestra](https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm) | [The Universe Before Matter](https://open.spotify.com/album/39uFwdyW9MQbaJ7Zi9OPMQ) | 10:58 | 2022-03-25 | 2022-07-13 |
 | [Think Of Home \- Kelly Moran Rework](https://open.spotify.com/track/6H8tvKj4JkpYAiDhUaZjd6) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Reworks I](https://open.spotify.com/album/7ajMV5xymvcCA7EtwWvY79) | 3:38 | 2021-12-10 | 2022-07-26 |
+| [Time](https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 5:53 | 2023-02-19 |  |
 | [Transformotion](https://open.spotify.com/track/4RBecpK3zimf5RLUMof1f2) | [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Environ Me](https://open.spotify.com/album/2VPgmbUGnO0kj2LjYg50cb) | 4:02 | 2021-12-10 | 2022-04-01 |
 | [Traveller \- Lambert rework](https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha) | [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW), [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Traveller \(Lambert rework\)](https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql) | 3:20 | 2022-10-07 |  |
 | [Trouble](https://open.spotify.com/track/7w5O56SCgNMVt9O9CsO1FV) | [Lissom](https://open.spotify.com/artist/5BRxWwvhe1BxvK6fs4V0dx), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Trouble](https://open.spotify.com/album/5vCMVucMnkg9OMZ46TD6o2) | 2:56 | 2022-03-25 | 2022-04-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 104308,
+  "num_followers": 104307,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc2NjgwMCwwMDAwMDAwMGMxMTE3ZTEyNDU5ZWEzNjI5MjY4YThlMDc4ZWVmZTcw",
+  "snapshot_id": "MTY3NDc2NjgwMCwwMDAwMDAwMDQ1ZjNiMjRmNzMyNmYwYWU4NjRkODU5YTEwN2MyZWVm",
   "tracks": [
     {
       "added_at": "2023-01-26 21:00:00",
@@ -195,18 +195,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Adesso",
-        "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
+        "name": "Valse pour Johann",
+        "url": "https://open.spotify.com/album/37bbp6xNCJxf1z17XGqIwd"
       },
       "artists": [
         {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+          "name": "Fjellson Weber",
+          "url": "https://open.spotify.com/artist/3t6bNYrd5aYZ4WQlqHvKx2"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Adesso",
-      "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
+      "duration_ms": 145075,
+      "name": "Valse pour Johann",
+      "url": "https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Valse pour Johann",
-        "url": "https://open.spotify.com/album/37bbp6xNCJxf1z17XGqIwd"
+        "name": "Adesso",
+        "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
       },
       "artists": [
         {
-          "name": "Fjellson Weber",
-          "url": "https://open.spotify.com/artist/3t6bNYrd5aYZ4WQlqHvKx2"
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
         }
       ],
-      "duration_ms": 145075,
-      "name": "Valse pour Johann",
-      "url": "https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC"
+      "duration_ms": 147000,
+      "name": "Adesso",
+      "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO"
-      },
-      "artists": [
-        {
-          "name": "Renato Luigi",
-          "url": "https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Hope Street Tunnel Blues: Music for Piano By Philip Glass and Alvin Curran",
         "url": "https://open.spotify.com/album/1czSDn7BftdygjY200OXTy"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 353146,
       "name": "Opening",
       "url": "https://open.spotify.com/track/1QmhkjuUlosROqKk59sBSK"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO"
+      },
+      "artists": [
+        {
+          "name": "Renato Luigi",
+          "url": "https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Fallboard",
-        "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
-      },
-      "artists": [
-        {
-          "name": "Esther Dutch",
-          "url": "https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7"
-        }
-      ],
-      "duration_ms": 160009,
-      "name": "Fallboard",
-      "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Open Window",
         "url": "https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 126000,
       "name": "Open Window",
       "url": "https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Fallboard",
+        "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
+      },
+      "artists": [
+        {
+          "name": "Esther Dutch",
+          "url": "https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7"
+        }
+      ],
+      "duration_ms": 160009,
+      "name": "Fallboard",
+      "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Mosel Reflections (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/53NCQhNYxx6IPEMaFG38hi"
-      },
-      "artists": [
-        {
-          "name": "Nikolas Belalis",
-          "url": "https://open.spotify.com/artist/1TQOscEuZTmlsbkGPqkI4M"
-        }
-      ],
-      "duration_ms": 98993,
-      "name": "Mosel Reflections (Solo Piano Version)",
-      "url": "https://open.spotify.com/track/0iSA3uRjsCPvL43BO22xDt"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Feels like home",
         "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 153902,
       "name": "Feels like home",
       "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Mosel Reflections (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/53NCQhNYxx6IPEMaFG38hi"
+      },
+      "artists": [
+        {
+          "name": "Nikolas Belalis",
+          "url": "https://open.spotify.com/artist/1TQOscEuZTmlsbkGPqkI4M"
+        }
+      ],
+      "duration_ms": 98993,
+      "name": "Mosel Reflections (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/0iSA3uRjsCPvL43BO22xDt"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765"
-      },
-      "artists": [
-        {
-          "name": "Dunham Froebel",
-          "url": "https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Visionaire",
         "url": "https://open.spotify.com/album/3kAsZxO4D7aYpaJbcGyfQa"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 103000,
       "name": "Visionaire",
       "url": "https://open.spotify.com/track/3XmRYyDspHCnlXkvHAYVLL"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765"
+      },
+      "artists": [
+        {
+          "name": "Dunham Froebel",
+          "url": "https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Midnight Musette",
-        "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
-      },
-      "artists": [
-        {
-          "name": "De Maynes",
-          "url": "https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn"
-        }
-      ],
-      "duration_ms": 197084,
-      "name": "Midnight Musette",
-      "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Azure (Piano Version)",
         "url": "https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 222129,
       "name": "Azure - Piano Version",
       "url": "https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Midnight Musette",
+        "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
+      },
+      "artists": [
+        {
+          "name": "De Maynes",
+          "url": "https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn"
+        }
+      ],
+      "duration_ms": 197084,
+      "name": "Midnight Musette",
+      "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Ready Set Love",
-        "url": "https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25"
-      },
-      "artists": [
-        {
-          "name": "Piotr Miteska",
-          "url": "https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c"
-        }
-      ],
-      "duration_ms": 89918,
-      "name": "Ready Set Love",
-      "url": "https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "50 Masterworks - Arthur Rubinstein",
         "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 376440,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
       "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Ready Set Love",
+        "url": "https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25"
+      },
+      "artists": [
+        {
+          "name": "Piotr Miteska",
+          "url": "https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c"
+        }
+      ],
+      "duration_ms": 89918,
+      "name": "Ready Set Love",
+      "url": "https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
+        "name": "The Ember",
+        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+      },
+      "artists": [
+        {
+          "name": "Albie Monroy",
+          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+        }
+      ],
+      "duration_ms": 198298,
+      "name": "Trail of Light",
+      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
         "name": "Synchronicity",
         "url": "https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 147874,
       "name": "Eden",
       "url": "https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
-      },
-      "artists": [
-        {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
-        }
-      ],
-      "duration_ms": 198298,
-      "name": "Trail of Light",
-      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Dark Taupe",
-        "url": "https://open.spotify.com/album/4jVtjvaOT1SppdADH8DfQK"
+        "name": "Amalfi Moon",
+        "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
       },
       "artists": [
         {
-          "name": "Arden Forest",
-          "url": "https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7"
+          "name": "Ana Olgica",
+          "url": "https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc"
         }
       ],
-      "duration_ms": 182435,
-      "name": "African Violet",
-      "url": "https://open.spotify.com/track/5vIug0SecVlX2XcfsZnJ3B"
+      "duration_ms": 151693,
+      "name": "Amalfi Moon",
+      "url": "https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Amalfi Moon",
-        "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
+        "name": "Dark Taupe",
+        "url": "https://open.spotify.com/album/4jVtjvaOT1SppdADH8DfQK"
       },
       "artists": [
         {
-          "name": "Ana Olgica",
-          "url": "https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc"
+          "name": "Arden Forest",
+          "url": "https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7"
         }
       ],
-      "duration_ms": 151693,
-      "name": "Amalfi Moon",
-      "url": "https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc"
+      "duration_ms": 182435,
+      "name": "African Violet",
+      "url": "https://open.spotify.com/track/5vIug0SecVlX2XcfsZnJ3B"
     },
     {
       "added_at": "2023-01-26 21:00:00",

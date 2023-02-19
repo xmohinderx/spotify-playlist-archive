@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
-  "num_followers": 50645,
+  "num_followers": 50649,
   "original_name": "Reggae Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDNhZjE2Nzc1MWNjY2FkZWIyOWQ5ZDYxMTM1YjA0YWVm",
+  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMGY3NjRhNDBjNmE4NzhiMjcwM2ZmYTNiNzUxNGE5YjAw",
   "tracks": [
     {
       "added_at": "2022-12-23 03:00:00",
@@ -491,26 +491,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Espejitos",
-        "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
+        "name": "C\u00f3mo Ver?",
+        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
       },
       "artists": [
         {
           "name": "Los Cafres",
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        },
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/21R24s5D1g9dIOpYj6TacH"
         }
       ],
-      "duration_ms": 314491,
-      "name": "Waitin en Vano",
-      "url": "https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty"
+      "duration_ms": 308522,
+      "name": "C\u00f3mo Ver?",
+      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -579,18 +571,26 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "C\u00f3mo Ver?",
-        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
+        "name": "Espejitos",
+        "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
       },
       "artists": [
         {
           "name": "Los Cafres",
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        },
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/21R24s5D1g9dIOpYj6TacH"
         }
       ],
-      "duration_ms": 308522,
-      "name": "C\u00f3mo Ver?",
-      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
+      "duration_ms": 314491,
+      "name": "Waitin en Vano",
+      "url": "https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Bahiano BH+",
+        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 260266,
+      "name": "No Mires Atras",
+      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Emocionado",
         "url": "https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 250243,
       "name": "Emocionado",
       "url": "https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Bahiano BH+",
-        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 260266,
-      "name": "No Mires Atras",
-      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -975,18 +975,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "S\u00ed Ser\u00e1s",
-        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
+        "name": "Qui\u00e9n Sos?",
+        "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
       },
       "artists": [
         {
           "name": "Rondamon",
           "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
         }
       ],
-      "duration_ms": 198680,
-      "name": "Puede Parecer",
-      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
+      "duration_ms": 231464,
+      "name": "Qui\u00e9n Sos?",
+      "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1131,22 +1135,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Que Bonita Vecindad",
-        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
+        "name": "S\u00ed Ser\u00e1s",
+        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
       },
       "artists": [
         {
           "name": "Rondamon",
           "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
         }
       ],
-      "duration_ms": 223405,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
+      "duration_ms": 198680,
+      "name": "Puede Parecer",
+      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1271,42 +1271,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Amanecido",
-        "url": "https://open.spotify.com/album/5IasRQZbiBI7TJQhsYSaUi"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "En el Sonido",
-      "url": "https://open.spotify.com/track/142f0JPC6R9GQI3X9C23M8"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Qui\u00e9n Sos?",
-        "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
-        }
-      ],
-      "duration_ms": 231464,
-      "name": "Qui\u00e9n Sos?",
-      "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "La Naturaleza",
         "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
       },
@@ -1323,6 +1287,42 @@
       "duration_ms": 254058,
       "name": "La Naturaleza",
       "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Que Bonita Vecindad",
+        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "duration_ms": 223405,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Amanecido",
+        "url": "https://open.spotify.com/album/5IasRQZbiBI7TJQhsYSaUi"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "En el Sonido",
+      "url": "https://open.spotify.com/track/142f0JPC6R9GQI3X9C23M8"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "S\u00fabete",
-        "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
-      },
-      "artists": [
-        {
-          "name": "12 Tribus",
-          "url": "https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "A Contratiempo",
-      "url": "https://open.spotify.com/track/5tDfbfJCQyXuCOft8hbRIg"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Negro",
         "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "S\u00fabete",
+        "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
+      },
+      "artists": [
+        {
+          "name": "12 Tribus",
+          "url": "https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "A Contratiempo",
+      "url": "https://open.spotify.com/track/5tDfbfJCQyXuCOft8hbRIg"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "The Lady in Red",
         "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
       },
@@ -1427,6 +1427,26 @@
       "duration_ms": 225703,
       "name": "The Lady in Red",
       "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Va Salir",
+        "url": "https://open.spotify.com/album/4YxwFWxeTj9cqJej7q40Vy"
+      },
+      "artists": [
+        {
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
+        },
+        {
+          "name": "Cuatro Pesos de Propina",
+          "url": "https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND"
+        }
+      ],
+      "duration_ms": 253170,
+      "name": "Va Salir",
+      "url": "https://open.spotify.com/track/7FF4TyQSAvpukqX66mTGu0"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1451,26 +1471,6 @@
       "duration_ms": 202306,
       "name": "M\u00e1s Libre",
       "url": "https://open.spotify.com/track/5v69zCbt88Xy2Td6i2m1vw"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Va Salir",
-        "url": "https://open.spotify.com/album/4YxwFWxeTj9cqJej7q40Vy"
-      },
-      "artists": [
-        {
-          "name": "BRAZA",
-          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
-        },
-        {
-          "name": "Cuatro Pesos de Propina",
-          "url": "https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND"
-        }
-      ],
-      "duration_ms": 253170,
-      "name": "Va Salir",
-      "url": "https://open.spotify.com/track/7FF4TyQSAvpukqX66mTGu0"
     },
     {
       "added_at": "2022-12-23 03:00:00",

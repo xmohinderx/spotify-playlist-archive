@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 426414,
+  "num_followers": 426430,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDA1Zjk4MWFlYWQxOWY2ZGJjZWIyZTE1MGM4NDJkYjJi",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDUyMmI3NWU2NjAxODM5YjlmOTYwOTE5Y2EwMzdkNTdk",
   "tracks": [
     {
       "added_at": "2023-02-17 05:01:00",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC"
-      },
-      "artists": [
-        {
-          "name": "Earl St. Clair",
-          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
-        }
-      ],
-      "duration_ms": 179310,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Set Sail",
@@ -643,6 +627,22 @@
       "duration_ms": 295546,
       "name": "Nightflyer",
       "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC"
+      },
+      "artists": [
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "duration_ms": 179310,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-05-27 04:03:00",
       "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 290482,
+      "name": "Rock & Roll",
+      "url": "https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
         "name": "Push The Blues Away",
         "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 221213,
       "name": "Thinking 'Bout Myself",
       "url": "https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 290482,
-      "name": "Rock & Roll",
-      "url": "https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1061,6 +1061,22 @@
       "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
     },
     {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI"
+      },
+      "artists": [
+        {
+          "name": "War & Pierce",
+          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
+        }
+      ],
+      "duration_ms": 247478,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "GET ON BOARD",
@@ -1079,22 +1095,6 @@
       "duration_ms": 259946,
       "name": "Hooray Hooray",
       "url": "https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI"
-      },
-      "artists": [
-        {
-          "name": "War & Pierce",
-          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
-        }
-      ],
-      "duration_ms": 247478,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
     },
     {
       "added_at": "2022-05-27 04:03:00",

@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1726581,
+  "num_followers": 1726620,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0NjAwMCwwMDAwMDAwMGUxYWM5MmNiMTVkMjgyMjA5ODNlYTExYmIxMmRhZjJi",
+  "snapshot_id": "MTY3NjY0NjAwMCwwMDAwMDAwMDZkMDk4MGI5NWI4NjgwNWI3MzA1MGIwYjFmNTFmYTRl",
   "tracks": [
     {
       "added_at": "2023-02-10 17:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-02-10 17:00:00",
       "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 186255,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi"
-    },
-    {
-      "added_at": "2023-02-10 17:00:00",
-      "album": {
         "name": "Infieles",
         "url": "https://open.spotify.com/album/4DARi06HF0mOTbnibgzXWd"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 211764,
       "name": "Infieles",
       "url": "https://open.spotify.com/track/2bta5uOxojY072yAOSniu3"
+    },
+    {
+      "added_at": "2023-02-10 17:00:00",
+      "album": {
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 186255,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi"
     },
     {
       "added_at": "2023-02-10 17:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-02-10 17:00:00",
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/1uSRXFGgEkukRZIa9WsX52"
+    },
+    {
+      "added_at": "2023-02-10 17:00:00",
+      "album": {
         "name": "B\u00e9same Bonito",
         "url": "https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 275026,
       "name": "Un Mill\u00f3n Como T\u00fa",
       "url": "https://open.spotify.com/track/619zlIsV7csW2h2narAoPC"
-    },
-    {
-      "added_at": "2023-02-10 17:00:00",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/1uSRXFGgEkukRZIa9WsX52"
     },
     {
       "added_at": "2023-02-10 17:00:00",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2023-02-10 17:00:00",
       "album": {
-        "name": "Te echo de menos",
-        "url": "https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj"
+        "name": "Lo siento (feat. Sof\u00eda Reyes)",
+        "url": "https://open.spotify.com/album/4rrjJBAIMEZZG8i9GDwoLu"
       },
       "artists": [
         {
           "name": "Beret",
           "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 194986,
-      "name": "Te echo de menos",
-      "url": "https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE"
+      "duration_ms": 232655,
+      "name": "Lo siento (feat. Sof\u00eda Reyes)",
+      "url": "https://open.spotify.com/track/5dITA6jTX7f1gHwEAyS3YZ"
     },
     {
       "added_at": "2023-02-10 17:00:00",
@@ -1099,22 +1103,18 @@
     {
       "added_at": "2023-02-10 17:00:00",
       "album": {
-        "name": "Lo siento (feat. Sof\u00eda Reyes)",
-        "url": "https://open.spotify.com/album/4rrjJBAIMEZZG8i9GDwoLu"
+        "name": "Te echo de menos",
+        "url": "https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj"
       },
       "artists": [
         {
           "name": "Beret",
           "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 232655,
-      "name": "Lo siento (feat. Sof\u00eda Reyes)",
-      "url": "https://open.spotify.com/track/5dITA6jTX7f1gHwEAyS3YZ"
+      "duration_ms": 194986,
+      "name": "Te echo de menos",
+      "url": "https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE"
     },
     {
       "added_at": "2023-02-10 17:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-02-10 17:00:00",
       "album": {
-        "name": "Tr\u00e1iler",
-        "url": "https://open.spotify.com/album/1ayrDfnBGwEtBHjS4u5gHw"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Vas A Quedarte",
-      "url": "https://open.spotify.com/track/2b3JxLi8KAiOsD8ehnOxDZ"
-    },
-    {
-      "added_at": "2023-02-10 17:00:00",
-      "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 224333,
       "name": "No Quer\u00edas Lastimarme",
       "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
+    },
+    {
+      "added_at": "2023-02-10 17:00:00",
+      "album": {
+        "name": "Tr\u00e1iler",
+        "url": "https://open.spotify.com/album/1ayrDfnBGwEtBHjS4u5gHw"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Vas A Quedarte",
+      "url": "https://open.spotify.com/track/2b3JxLi8KAiOsD8ehnOxDZ"
     },
     {
       "added_at": "2023-02-10 17:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-02-10 17:00:00",
       "album": {
-        "name": "rifresh",
-        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 177515,
-      "name": "Doler\u00eda",
-      "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
-    },
-    {
-      "added_at": "2023-02-10 17:00:00",
-      "album": {
         "name": "Con Las Ganas",
         "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2023-02-10 17:00:00",
       "album": {
+        "name": "rifresh",
+        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 177515,
+      "name": "Doler\u00eda",
+      "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
+    },
+    {
+      "added_at": "2023-02-10 17:00:00",
+      "album": {
         "name": "Por Tu Bien",
         "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 233026,
       "name": "Por Tu Bien",
       "url": "https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C"
-    },
-    {
-      "added_at": "2023-02-10 17:00:00",
-      "album": {
-        "name": "A\u00fan me amas",
-        "url": "https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "A\u00fan me amas",
-      "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
     },
     {
       "added_at": "2023-02-10 17:00:00",
@@ -1455,6 +1439,22 @@
       "duration_ms": 198448,
       "name": "Lo Siento Mucho",
       "url": "https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ"
+    },
+    {
+      "added_at": "2023-02-10 17:00:00",
+      "album": {
+        "name": "A\u00fan me amas",
+        "url": "https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "A\u00fan me amas",
+      "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
     },
     {
       "added_at": "2023-02-10 17:00:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2023-02-10 17:00:00",
       "album": {
-        "name": "Otra Piel",
-        "url": "https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00fa",
-          "url": "https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR"
-        },
-        {
-          "name": "Antonio Orozco",
-          "url": "https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf"
-        }
-      ],
-      "duration_ms": 246840,
-      "name": "Devuelveme la Vida (with Antonio Orozco)",
-      "url": "https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw"
-    },
-    {
-      "added_at": "2023-02-10 17:00:00",
-      "album": {
         "name": "Tiene Que Existir",
         "url": "https://open.spotify.com/album/7rZehTzCB1s3QlUFGMFUGo"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 189473,
       "name": "Tiene Que Existir",
       "url": "https://open.spotify.com/track/6Hc7T09nwRTTm4X6iTJbKN"
+    },
+    {
+      "added_at": "2023-02-10 17:00:00",
+      "album": {
+        "name": "Otra Piel",
+        "url": "https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00fa",
+          "url": "https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR"
+        },
+        {
+          "name": "Antonio Orozco",
+          "url": "https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "Devuelveme la Vida (with Antonio Orozco)",
+      "url": "https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw"
     },
     {
       "added_at": "2023-02-10 17:00:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-02-10 17:00:00",
       "album": {
+        "name": "Limonada",
+        "url": "https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "C\u00f3mo Decirle",
+      "url": "https://open.spotify.com/track/6MZ9o9OdyLojAxQeDq8Wke"
+    },
+    {
+      "added_at": "2023-02-10 17:00:00",
+      "album": {
         "name": "Tiempo Pa Olvidar",
         "url": "https://open.spotify.com/album/1odX16Hd8maqVuVuiFlGBd"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 199521,
       "name": "Tiempo Pa Olvidar",
       "url": "https://open.spotify.com/track/69dNigIQhkCnL6pr7iRJPA"
-    },
-    {
-      "added_at": "2023-02-10 17:00:00",
-      "album": {
-        "name": "Limonada",
-        "url": "https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "C\u00f3mo Decirle",
-      "url": "https://open.spotify.com/track/6MZ9o9OdyLojAxQeDq8Wke"
     },
     {
       "added_at": "2023-02-10 17:00:00",

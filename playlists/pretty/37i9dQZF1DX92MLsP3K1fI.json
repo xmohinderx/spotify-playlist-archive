@@ -1,15 +1,15 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! RBD en portada.",
-  "num_followers": 61214,
+  "num_followers": 61227,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY1MDI3NywwMDAwMDAwMGY4MTM4Y2M4ZmYzM2Q1OGQzMWU0YzA3ZGExNDJjMzhh",
+  "snapshot_id": "MTY3NjY1MDI3NywwMDAwMDAwMDdkZjJkOGM1NzIwZDFjODZhNGRkYWUyZGM0N2FkMDVk",
   "tracks": [
     {
-      "added_at": "2023-02-19 01:32:08",
+      "added_at": "2023-02-19 06:55:38",
       "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
     },
     {
-      "added_at": "2023-02-19 01:32:08",
+      "added_at": "2023-02-19 06:55:38",
       "album": {
         "name": "Dije Que No Me Iba a Enamorar",
         "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
     },
     {
-      "added_at": "2023-02-19 01:32:08",
+      "added_at": "2023-02-19 06:55:38",
       "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Bailo Sola",
-        "url": "https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 155061,
-      "name": "Bailo Sola",
-      "url": "https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 180600,
       "name": "T.A.C.O.",
       "url": "https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Bailo Sola",
+        "url": "https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 155061,
+      "name": "Bailo Sola",
+      "url": "https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Frida",
-        "url": "https://open.spotify.com/album/55k1P0FF1ouQ4JbhP3VjCK"
-      },
-      "artists": [
-        {
-          "name": "Salma",
-          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
-        }
-      ],
-      "duration_ms": 167870,
-      "name": "Frida",
-      "url": "https://open.spotify.com/track/4FJ3UEXLSb071ZWAmoYjyx"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Fotonovela",
         "url": "https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 282020,
       "name": "Fotonovela",
       "url": "https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Frida",
+        "url": "https://open.spotify.com/album/55k1P0FF1ouQ4JbhP3VjCK"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "duration_ms": 167870,
+      "name": "Frida",
+      "url": "https://open.spotify.com/track/4FJ3UEXLSb071ZWAmoYjyx"
     },
     {
       "added_at": "2023-02-10 05:00:00",

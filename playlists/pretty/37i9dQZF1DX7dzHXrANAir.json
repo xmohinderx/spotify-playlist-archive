@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 84221,
+  "num_followers": 84239,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwNjQwMCwwMDAwMDAwMDVhMTc3YzM3ZDBmYWU0ZDg1OGY3YTBiNmQyNjNlYjli",
+  "snapshot_id": "MTY3NjYwNjQwMCwwMDAwMDAwMGQxNWQzMmE2MjEwNjY2ZGZmYzE4OTcwNWM1NjNmZjcw",
   "tracks": [
     {
       "added_at": "2023-02-10 04:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "aubades",
-        "url": "https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 277853,
-      "name": "amour",
-      "url": "https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7"
-    },
-    {
-      "added_at": "2023-02-10 04:00:00",
-      "album": {
         "name": "Gymnop\u00e9dies",
         "url": "https://open.spotify.com/album/0Nda1Wpk7K7Wax1EsdvQuI"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 162000,
       "name": "Gymnop\u00e9dies",
       "url": "https://open.spotify.com/track/6r0Jqgnd5i92R2cuE0Z1q6"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "aubades",
+        "url": "https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 277853,
+      "name": "amour",
+      "url": "https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7"
     },
     {
       "added_at": "2023-02-10 04:00:00",
@@ -323,26 +323,6 @@
     {
       "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Reimagined. Volume 2, Chapter 3",
-        "url": "https://open.spotify.com/album/6iyXg5JupzZxpAeyNXkOdw"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        },
-        {
-          "name": "Mercan Dede",
-          "url": "https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY"
-        }
-      ],
-      "duration_ms": 423047,
-      "name": "Nuvole Bianche - Reimagined by Mercan Dede",
-      "url": "https://open.spotify.com/track/2aqhXN3IEdTOoNP9wWCPsQ"
-    },
-    {
-      "added_at": "2023-02-10 04:00:00",
-      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Reimagined. Volume 2, Chapter 3",
+        "url": "https://open.spotify.com/album/6iyXg5JupzZxpAeyNXkOdw"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Mercan Dede",
+          "url": "https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY"
+        }
+      ],
+      "duration_ms": 423047,
+      "name": "Nuvole Bianche - Reimagined by Mercan Dede",
+      "url": "https://open.spotify.com/track/2aqhXN3IEdTOoNP9wWCPsQ"
     },
     {
       "added_at": "2023-02-10 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
-      },
-      "artists": [
-        {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Caf\u00e9 Papantla",
-      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
-    },
-    {
-      "added_at": "2023-02-10 04:00:00",
-      "album": {
         "name": "Satori by the Sea",
         "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
       },
@@ -467,26 +451,18 @@
     {
       "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Circle 23 (Slow Meadow Rework)",
-        "url": "https://open.spotify.com/album/66rfRw6aDTgOeSTT8xfN6J"
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
       },
       "artists": [
         {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
         }
       ],
-      "duration_ms": 323855,
-      "name": "Circle 23 - Slow Meadow Rework",
-      "url": "https://open.spotify.com/track/6Rk40KBJsfnmmQbg3R35VY"
+      "duration_ms": 186000,
+      "name": "Caf\u00e9 Papantla",
+      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
     },
     {
       "added_at": "2023-02-10 04:00:00",
@@ -515,6 +491,30 @@
     {
       "added_at": "2023-02-10 04:00:00",
       "album": {
+        "name": "Circle 23 (Slow Meadow Rework)",
+        "url": "https://open.spotify.com/album/66rfRw6aDTgOeSTT8xfN6J"
+      },
+      "artists": [
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 323855,
+      "name": "Circle 23 - Slow Meadow Rework",
+      "url": "https://open.spotify.com/track/6Rk40KBJsfnmmQbg3R35VY"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
         "name": "Mists Inhabit This Place",
         "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
       },
@@ -527,54 +527,6 @@
       "duration_ms": 230213,
       "name": "Mists Inhabit This Place",
       "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
-    },
-    {
-      "added_at": "2023-02-10 04:00:00",
-      "album": {
-        "name": "Ensemb7e",
-        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
-      },
-      "artists": [
-        {
-          "name": "Chapelier Fou",
-          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "Les m\u00e9tamorphoses du vide - Ensemb7e Version",
-      "url": "https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK"
-    },
-    {
-      "added_at": "2023-02-10 04:00:00",
-      "album": {
-        "name": "Music for Film and Theatre",
-        "url": "https://open.spotify.com/album/2lxo1T9lLWrS9EGdMOx37W"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 233148,
-      "name": "Soleil P\u00e2le",
-      "url": "https://open.spotify.com/track/4ybl2VlK5Iw5zVT8WeSzhJ"
-    },
-    {
-      "added_at": "2023-02-10 04:00:00",
-      "album": {
-        "name": "Round",
-        "url": "https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB"
-      },
-      "artists": [
-        {
-          "name": "Steven Gutheinz",
-          "url": "https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW"
-        }
-      ],
-      "duration_ms": 163945,
-      "name": "Pattern of Water",
-      "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
     },
     {
       "added_at": "2023-02-10 04:00:00",
@@ -595,6 +547,38 @@
       "duration_ms": 153120,
       "name": "Home",
       "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Music for Film and Theatre",
+        "url": "https://open.spotify.com/album/2lxo1T9lLWrS9EGdMOx37W"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 233148,
+      "name": "Soleil P\u00e2le",
+      "url": "https://open.spotify.com/track/4ybl2VlK5Iw5zVT8WeSzhJ"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Ensemb7e",
+        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
+      },
+      "artists": [
+        {
+          "name": "Chapelier Fou",
+          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "Les m\u00e9tamorphoses du vide - Ensemb7e Version",
+      "url": "https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK"
     },
     {
       "added_at": "2023-02-10 04:00:00",
@@ -623,6 +607,22 @@
       "duration_ms": 174855,
       "name": "Integration",
       "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Round",
+        "url": "https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB"
+      },
+      "artists": [
+        {
+          "name": "Steven Gutheinz",
+          "url": "https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW"
+        }
+      ],
+      "duration_ms": 163945,
+      "name": "Pattern of Water",
+      "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
     },
     {
       "added_at": "2023-02-10 04:00:00",
@@ -679,18 +679,30 @@
     {
       "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Silver Sky",
-        "url": "https://open.spotify.com/album/00DwQxtjO2UzwLf1DU1lsS"
+        "name": "By This River",
+        "url": "https://open.spotify.com/album/11o6UQ8kXXknp41Dsg75ca"
       },
       "artists": [
         {
-          "name": "Adam Bokesch",
-          "url": "https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI"
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+        },
+        {
+          "name": "Moebius",
+          "url": "https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/5nRTsSxPNnsySXsuJ6UHGq"
+        },
+        {
+          "name": "Pascal Schumacher",
+          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
         }
       ],
-      "duration_ms": 200137,
-      "name": "Silver Sky",
-      "url": "https://open.spotify.com/track/5S9EkxIUWgxcBuwmcVnits"
+      "duration_ms": 247301,
+      "name": "By This River",
+      "url": "https://open.spotify.com/track/1ZZV73dkqJx1Wc9THSXpGZ"
     },
     {
       "added_at": "2023-02-10 04:00:00",
@@ -735,30 +747,18 @@
     {
       "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "By This River",
-        "url": "https://open.spotify.com/album/11o6UQ8kXXknp41Dsg75ca"
+        "name": "Silver Sky",
+        "url": "https://open.spotify.com/album/00DwQxtjO2UzwLf1DU1lsS"
       },
       "artists": [
         {
-          "name": "Roedelius",
-          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
-        },
-        {
-          "name": "Moebius",
-          "url": "https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/5nRTsSxPNnsySXsuJ6UHGq"
-        },
-        {
-          "name": "Pascal Schumacher",
-          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
+          "name": "Adam Bokesch",
+          "url": "https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI"
         }
       ],
-      "duration_ms": 247301,
-      "name": "By This River",
-      "url": "https://open.spotify.com/track/1ZZV73dkqJx1Wc9THSXpGZ"
+      "duration_ms": 200137,
+      "name": "Silver Sky",
+      "url": "https://open.spotify.com/track/5S9EkxIUWgxcBuwmcVnits"
     },
     {
       "added_at": "2023-02-10 04:00:00",
@@ -841,20 +841,20 @@
       "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
     },
     {
-      "added_at": "2023-02-10 04:00:00",
+      "added_at": "2023-02-19 06:01:09",
       "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/5s3d1Fzwn0DTupeNktBJOF"
+        "name": "On Giacometti",
+        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
       },
       "artists": [
         {
-          "name": "Dobrawa Czocher",
-          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
         }
       ],
-      "duration_ms": 258221,
-      "name": "Zima",
-      "url": "https://open.spotify.com/track/642zqDakl1ffk9M3vjYzWe"
+      "duration_ms": 353200,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
     },
     {
       "added_at": "2023-02-10 04:00:00",
@@ -887,6 +887,22 @@
       "duration_ms": 277021,
       "name": "We Begin",
       "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/5s3d1Fzwn0DTupeNktBJOF"
+      },
+      "artists": [
+        {
+          "name": "Dobrawa Czocher",
+          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
+        }
+      ],
+      "duration_ms": 258221,
+      "name": "Zima",
+      "url": "https://open.spotify.com/track/642zqDakl1ffk9M3vjYzWe"
     },
     {
       "added_at": "2023-02-10 04:00:00",
@@ -1099,50 +1115,6 @@
     {
       "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Gabriel (Tom Player Strings Version)",
-        "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        },
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/0qDEhyfeFBVihHtyPWCDdh"
-        },
-        {
-          "name": "Tom Player",
-          "url": "https://open.spotify.com/artist/6kEt6wb2fUfh3iB7Sr0PrJ"
-        }
-      ],
-      "duration_ms": 182212,
-      "name": "Gabriel - Tom Player Strings Version",
-      "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
-    },
-    {
-      "added_at": "2023-02-10 04:00:00",
-      "album": {
-        "name": "Human Reworked",
-        "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        },
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
-      "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
-    },
-    {
-      "added_at": "2023-02-10 04:00:00",
-      "album": {
         "name": "Recaptures",
         "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
       },
@@ -1175,6 +1147,30 @@
     {
       "added_at": "2023-02-10 04:00:00",
       "album": {
+        "name": "Gabriel (Tom Player Strings Version)",
+        "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/0qDEhyfeFBVihHtyPWCDdh"
+        },
+        {
+          "name": "Tom Player",
+          "url": "https://open.spotify.com/artist/6kEt6wb2fUfh3iB7Sr0PrJ"
+        }
+      ],
+      "duration_ms": 182212,
+      "name": "Gabriel - Tom Player Strings Version",
+      "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
         "name": "Traveller (Lambert rework)",
         "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
       },
@@ -1191,6 +1187,26 @@
       "duration_ms": 200259,
       "name": "Traveller - Lambert rework",
       "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Human Reworked",
+        "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        },
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
+      "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
     },
     {
       "added_at": "2023-02-10 04:00:00",
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Phases",
-        "url": "https://open.spotify.com/album/608DP618oad2ENr4JzaYdT"
-      },
-      "artists": [
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        }
-      ],
-      "duration_ms": 189241,
-      "name": "Phases",
-      "url": "https://open.spotify.com/track/62dZwFD4glaESrFFPGrXAN"
-    },
-    {
-      "added_at": "2023-02-10 04:00:00",
-      "album": {
         "name": "On Being [Foam and Sand Rework]",
         "url": "https://open.spotify.com/album/4XJwtAr2AISvX4GZByc0pG"
       },
@@ -1327,6 +1327,22 @@
       "duration_ms": 254769,
       "name": "On Being [Foam and Sand Rework]",
       "url": "https://open.spotify.com/track/2D43pD0M7hHCanJwgGJz5H"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/608DP618oad2ENr4JzaYdT"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        }
+      ],
+      "duration_ms": 189241,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/62dZwFD4glaESrFFPGrXAN"
     },
     {
       "added_at": "2023-02-10 04:00:00",
@@ -1583,22 +1599,6 @@
       "duration_ms": 257314,
       "name": "Circle 31",
       "url": "https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ"
-    },
-    {
-      "added_at": "2023-02-10 04:00:00",
-      "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/78Iy1BiGfXAP7RzVGhy8B3"
-      },
-      "artists": [
-        {
-          "name": "Angus MacRae",
-          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
-        }
-      ],
-      "duration_ms": 244531,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/650KMeGMULRMpcKUz1duOQ"
     }
   ],
   "unique_name": "Classical X",

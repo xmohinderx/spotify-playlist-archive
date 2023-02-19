@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Oruam, Borges, Chefin",
-  "num_followers": 86522,
+  "num_followers": 86528,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI5NTYzNiwwMDAwMDAwMDVjMzhhZTg2MzhjMTZkODQ4YWQwMDFhNGU5Y2Y1M2M0",
+  "snapshot_id": "MTY3NjI5NTYzNiwwMDAwMDAwMDRlYmQxZDM5YjhlYTc5NjBhMjNkZjY1MzViNmE2NWI1",
   "tracks": [
     {
       "added_at": "2023-02-13 13:40:36",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-02-13 13:40:36",
       "album": {
+        "name": "Aulas e Cursos",
+        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
+      },
+      "artists": [
+        {
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+        }
+      ],
+      "duration_ms": 213634,
+      "name": "Aulas e Cursos",
+      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
+    },
+    {
+      "added_at": "2023-02-13 13:40:36",
+      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 238208,
       "name": "Tropa do Mant\u00e9m",
       "url": "https://open.spotify.com/track/3tpfnn4QoKrkzWW20UKili"
-    },
-    {
-      "added_at": "2023-02-13 13:40:36",
-      "album": {
-        "name": "Aulas e Cursos",
-        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
-      },
-      "artists": [
-        {
-          "name": "DNASTY",
-          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
-        }
-      ],
-      "duration_ms": 213634,
-      "name": "Aulas e Cursos",
-      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
     },
     {
       "added_at": "2023-02-13 13:40:36",

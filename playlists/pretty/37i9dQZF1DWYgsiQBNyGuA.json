@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 50061,
+  "num_followers": 50067,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYzNjk4OSwwMDAwMDAwMDg1NzQ2MzgzMDFmZDdhZjc2Yzc3Mzk3MDNjYzUyOWQ5",
+  "snapshot_id": "MTY3NjYzNjk4OSwwMDAwMDAwMDhjNTRlNGFlYTAwOTgxMGVkYWRhYjIxYmMwYmYwZWIx",
   "tracks": [
     {
       "added_at": "2022-01-05 09:24:56",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
     },
     {
-      "added_at": "2023-02-19 00:14:18",
+      "added_at": "2023-02-19 06:20:39",
       "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Underneath the Surface",
-        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 254680,
-      "name": "Cards",
-      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "A Weird Kinda Wonderful",
         "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 311453,
       "name": "Can't Change Me",
       "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Underneath the Surface",
+        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 254680,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5"
-      },
-      "artists": [
-        {
-          "name": "Chico DeBarge",
-          "url": "https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx"
-        }
-      ],
-      "duration_ms": 247560,
-      "name": "Oh No (Man)",
-      "url": "https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Powerhouse",
         "url": "https://open.spotify.com/album/7jge7It8TJ7XVSjcKFRFfE"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 453533,
       "name": "I Found Love (On A Lonely Highway)",
       "url": "https://open.spotify.com/track/0k7kfdefyPCDVHtHzgaq6t"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5"
+      },
+      "artists": [
+        {
+          "name": "Chico DeBarge",
+          "url": "https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx"
+        }
+      ],
+      "duration_ms": 247560,
+      "name": "Oh No (Man)",
+      "url": "https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj"
     },
     {
       "added_at": "2022-01-05 09:24:56",

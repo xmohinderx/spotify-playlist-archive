@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzNDc5MiwwMDAwMDAwMDNlYTg1ZjhjMzlmNGM3OTExMDc0OTFmOTY0Zjc2MDgz",
+  "snapshot_id": "MTY3NDYzNDc5MiwwMDAwMDAwMDZlNDJjMmNmMzE0NzE0NWE1Mzg2NmUzMjEwNDc2ZWI4",
   "tracks": [
     {
       "added_at": "2023-01-25 08:19:52",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
-        "name": "Loving You is Loving Me",
-        "url": "https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG"
+        "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
       },
       "artists": [
         {
-          "name": "Han Yeoyoo",
-          "url": "https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 223258,
-      "name": "Loving You is Loving Me",
-      "url": "https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd"
+      "duration_ms": 189905,
+      "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
+      "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
     },
     {
       "added_at": "2023-01-25 08:19:52",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
-        "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 189905,
-      "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
-      "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
-    },
-    {
-      "added_at": "2023-01-25 08:19:52",
-      "album": {
         "name": "inside",
         "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 243037,
       "name": "mistaken",
       "url": "https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP"
+    },
+    {
+      "added_at": "2023-01-25 08:19:52",
+      "album": {
+        "name": "Loving You is Loving Me",
+        "url": "https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG"
+      },
+      "artists": [
+        {
+          "name": "Han Yeoyoo",
+          "url": "https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP"
+        }
+      ],
+      "duration_ms": 223258,
+      "name": "Loving You is Loving Me",
+      "url": "https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd"
     },
     {
       "added_at": "2023-01-25 08:19:52",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 325150,
-      "name": "Even though I hate you, I love you (Special Track)",
-      "url": "https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4"
-    },
-    {
-      "added_at": "2023-01-25 08:19:52",
-      "album": {
         "name": "3.0",
         "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 239674,
       "name": "\uc9dd\uc0ac\ub791 Crush",
       "url": "https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8"
+    },
+    {
+      "added_at": "2023-01-25 08:19:52",
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 325150,
+      "name": "Even though I hate you, I love you (Special Track)",
+      "url": "https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4"
     },
     {
       "added_at": "2023-01-25 08:19:52",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
-        "name": "\ud654\ubd84",
-        "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
-      },
-      "artists": [
-        {
-          "name": "Alex",
-          "url": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
-      "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
-    },
-    {
-      "added_at": "2023-01-25 08:19:52",
-      "album": {
         "name": "Subtitle",
         "url": "https://open.spotify.com/album/6o0BLd2crZG1yXqFX6HWVH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 194508,
       "name": "\uc9dd\uc0ac\ub791 Zzak Sarang",
       "url": "https://open.spotify.com/track/4byD6wDh7z54vwLjXIAfEa"
+    },
+    {
+      "added_at": "2023-01-25 08:19:52",
+      "album": {
+        "name": "\ud654\ubd84",
+        "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
+      },
+      "artists": [
+        {
+          "name": "Alex",
+          "url": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
+      "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
     },
     {
       "added_at": "2023-01-25 08:19:52",

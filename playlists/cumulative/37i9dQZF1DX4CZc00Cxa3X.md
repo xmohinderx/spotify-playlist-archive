@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-194 songs - 15 hr 28 min
+195 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Severance](https://open.spotify.com/track/1Xb23c8l5v0syXyCcUmpPH) | [Mark Rushton](https://open.spotify.com/artist/3o7In5aHAnzK7WYGHY5Khx) | [There Are Always Other Possibilities](https://open.spotify.com/album/3VAhvgDUmBYGgUlS5jAliL) | 9:07 | 2022-12-20 |  |
 | [Severed Seas](https://open.spotify.com/track/0JCS05r42jjYLPrUm9dl2g) | [Amulets](https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt) | [Severed Seas](https://open.spotify.com/album/6IRHUBpwNwCOpIBC25kYUO) | 8:08 | 2022-03-17 | 2023-01-07 |
 | [Silken Pt\. 2.1](https://open.spotify.com/track/6rzDeRJStPBNFRho5sduJG) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:52 | 2022-03-17 | 2022-09-13 |
+| [Sleep Cycle](https://open.spotify.com/track/0I3dIMAX86mepOPGEOJpQC) | [Rosentwig](https://open.spotify.com/artist/3RvDvs8u3A7qVJjkG6NoPb) | [Sleep Cycle](https://open.spotify.com/album/0yazt3WhxjNeM6cTmMmcAl) | 4:32 | 2023-01-27 |  |
 | [Slipping the Mooring/Pond](https://open.spotify.com/track/62X9DAVP5ZH2A5Yzn5Rzdt) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 3:55 | 2022-03-17 | 2022-12-21 |
 | [Slow Flight](https://open.spotify.com/track/6EWVZFJmD1bFWn2enlrAKS) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4), [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd) | [Slow Flight](https://open.spotify.com/album/2bxwWxbOE2nsyTstCq83s8) | 2:11 | 2022-11-11 |  |
 | [Smooth Sailing](https://open.spotify.com/track/3PgXYJK9SqK9vO0qSVNB9i) | [Suntapes](https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6), [Tomas Johan Kristian](https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ) | [Smooth Sailing](https://open.spotify.com/album/4aszooOL9d4NAqcuRgObVa) | 1:47 | 2022-05-06 |  |
@@ -173,7 +174,7 @@
 | [They Being Dead Yet Speaketh \- Pt.3 \- From „The Miners’ Hymns” Soundtrack](https://open.spotify.com/track/0EVfcXz7EgfOHjniBA8nqy) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Miners’ Hymns \(Original Soundtrack\)](https://open.spotify.com/album/02mbXjMS4qDuZjPXKOLNTA) | 3:44 | 2022-03-17 | 2022-05-31 |
 | [This Is What I Wanted to Tell You \- Group Listening Remix](https://open.spotify.com/track/2CtX0WqmREcZvi09m9awBx) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78), [Group Listening](https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe) | [Basement Tapes](https://open.spotify.com/album/0mVdQU5dMnhqxwdlMDoOGc) | 8:54 | 2022-03-30 | 2022-04-21 |
 | [Timeless / calmato](https://open.spotify.com/track/3lDzXZwt0P0ZaGKjzj2dik) | [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Timeless](https://open.spotify.com/album/2i3o4VzTVdAuqpEX5Z27P7) | 4:17 | 2022-03-30 | 2022-07-28 |
-| [To Love or Die Together](https://open.spotify.com/track/4ryimwBuu81PFtGzjEa1DM) | [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Ross Christopher](https://open.spotify.com/artist/44jyylTQIB8qkPlQUHI614) | [Wider Than the Sky](https://open.spotify.com/album/3xQoblvBc5jHCmg2sWnJrv) | 4:13 | 2023-01-27 |  |
+| [To Love or Die Together](https://open.spotify.com/track/4ryimwBuu81PFtGzjEa1DM) | [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Ross Christopher](https://open.spotify.com/artist/44jyylTQIB8qkPlQUHI614) | [Wider Than the Sky](https://open.spotify.com/album/3xQoblvBc5jHCmg2sWnJrv) | 4:13 | 2023-01-27 | 2023-02-19 |
 | [Today I Learned What Makes Bugs Sick and How To Tie My Shoelaces](https://open.spotify.com/track/4EfpRkLUsPCdGfhq7em1iz) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [You Always Will Be](https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18) | 2:29 | 2022-12-20 |  |
 | [tsukimi dango](https://open.spotify.com/track/6xFoMmZIkhOgRv7Zj3luYA) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tsukimi dango](https://open.spotify.com/album/3iof4fuNnejiULldVY8Z1R) | 3:02 | 2022-05-06 |  |
 | [Tsukiyo](https://open.spotify.com/track/0LcM0jJCxhAOw8fjLjehes) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 2:48 | 2023-01-13 |  |

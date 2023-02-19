@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-219 songs - 12 hr 0 min
+220 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Half Of Me \- Acoustic](https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Half Of Me \(Acoustic\)](https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7) | 2:55 | 2023-01-06 |  |
 | [Handful \- Acoustic](https://open.spotify.com/track/7pAFcp3k95JFqAYNGQQMC4) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Handful / Already Broke Up](https://open.spotify.com/album/3ef62M5CFUa1tZ9rpKZuDS) | 2:42 | 2023-02-17 |  |
 | [Hard \- Live on the Grand](https://open.spotify.com/track/3R3IrdzoSYyI8cq9c4pcRg) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Hard \(Live on the Grand\)](https://open.spotify.com/album/3bMcMleKkLMqj7ZuRXnhxO) | 3:24 | 2022-06-17 | 2022-07-19 |
-| [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 | 2021-12-17 |  |
+| [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 | 2021-12-17 | 2023-02-19 |
 | [Heart Shut \(feat\. Tenille Townes\)](https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Six Strings](https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk) | 3:21 | 2021-12-17 |  |
 | [Hell Of A Way To Go \- Acoustic](https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Hell Of A Way To Go \(Acoustic\)](https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9) | 2:53 | 2022-08-26 |  |
 | [Helpless](https://open.spotify.com/track/6Ah1dC9Hwktu1FRHC2Nl5M) | [Clare Bowen](https://open.spotify.com/artist/1LBeAxaCAHECiK355bwtlW), [Brandon Robert Young](https://open.spotify.com/artist/7A4uKbTxHktDTmVefgc3az) | [Helpless](https://open.spotify.com/album/3WA8FUqjTvP8QxIKgbQdwK) | 5:16 | 2021-12-17 | 2022-01-08 |
@@ -184,6 +184,7 @@
 | [The Bullet \- Acoustic Version](https://open.spotify.com/track/6h8eR0E639sq08smLG7SYb) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ), [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [The Bullet \(Acoustic Version\)](https://open.spotify.com/album/6yrE8ZQkXM0h8Xhy9MKEpT) | 3:21 | 2022-01-21 | 2022-07-29 |
 | [The Cowboy In Me \- Yellowstone Edition](https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [The Cowboy In Me \(Yellowstone Edition\)](https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR) | 3:37 | 2021-12-17 |  |
 | [The Middle \- Acoustic](https://open.spotify.com/track/6DLprBjko8crRbx7n9LuSG) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Maren Morris: Reimagined](https://open.spotify.com/album/0Kyfw8VQKjy8KpxRJr35Bc) | 3:18 | 2022-07-08 | 2022-07-24 |
+| [The Night \(Part 2 \- Acoustic\)](https://open.spotify.com/track/4PJPrTq598dd2HvLxQfh36) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [The Night: The Collection](https://open.spotify.com/album/1GyXxGLL5CydaN34idnfzr) | 3:33 | 2023-02-17 |  |
 | [The Ocean \- Acoustic Live In Studio \(feat\. Charlie Worsham\)](https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly \(Deluxe\)](https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY) | 3:32 | 2022-12-16 | 2023-02-18 |
 | [Therapy \(Rainy Days Version\)](https://open.spotify.com/track/0V8s9vPRwAFxcImLRSjoGD) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Therapy \(Rainy Days Version\)](https://open.spotify.com/album/4JEz7TLU7JCfMXKUrWLoLe) | 3:08 | 2022-01-14 | 2022-07-29 |
 | [Things A Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 | 2022-07-15 |  |

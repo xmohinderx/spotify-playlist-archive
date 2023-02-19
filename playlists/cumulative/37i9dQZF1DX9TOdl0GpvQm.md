@@ -4,7 +4,7 @@
 
 > Walk the threshold into the netherworld...
 
-214 songs - 15 hr 31 min
+215 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Moogies Bloogies](https://open.spotify.com/track/6gaWoxdfAfB2yQKKBQeQ59) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Anthony Newley](https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI) | [Moogies Bloogies](https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6) | 2:24 | 2021-10-27 |  |
 | [Moonlight and Magic](https://open.spotify.com/track/3cSV9CdfTgLo6z7NtFZjtK) | [The Night Monitor](https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm) | [Their Dark Dominion](https://open.spotify.com/album/1iazXYZ9hqFnkapgU1BrBf) | 2:56 | 2022-04-06 |  |
 | [My Beautiful White Dog](https://open.spotify.com/track/1EDWlisAe1lpsY6Rr7ubME) | [Vincent Gallo](https://open.spotify.com/artist/4nMMOojbg03LrgAN3uOjZF) | [When](https://open.spotify.com/album/1X94MbbHmlffXdGeAyxhNp) | 4:00 | 2021-10-27 | 2023-02-02 |
+| [My Beautiful White Dog](https://open.spotify.com/track/2GuZ0I1IToF2FTiXhfaRc6) | [Vincent Gallo](https://open.spotify.com/artist/4nMMOojbg03LrgAN3uOjZF) | [When](https://open.spotify.com/album/6Jd8jPjZp7sUxwmNa0R3de) | 4:00 | 2021-10-27 |  |
 | [New Dimensions In](https://open.spotify.com/track/0lle1Oh7IBpWWvChKZRlEW) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Study Series 02: Cycles and Seasons](https://open.spotify.com/album/3aveIyfZNhiUTOO1618y0T) | 4:02 | 2021-10-27 | 2022-07-29 |
 | [Nexus On The Beach](https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 6:09 | 2021-10-27 |  |
 | [Night](https://open.spotify.com/track/0tdZbCUN57uLhTPMjfQz1f) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes](https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9) | 3:38 | 2021-10-27 |  |
@@ -156,7 +157,7 @@
 | [Song For Francoise](https://open.spotify.com/track/59Bgzhll0tIQECwB1A4phI) | [Pierre Raph](https://open.spotify.com/artist/5mvn4QDfC0rOICm4VKY3o7) | [Le Rose De Fer/Intiaani Kesa¨](https://open.spotify.com/album/28H0NZ6hoIdp77EfY2KlWs) | 1:46 | 2021-10-27 | 2022-07-29 |
 | [Sonus Ruinae part 1](https://open.spotify.com/track/6zBMShkhey4dGfJb9DjHxS) | [Marta De Pascalis](https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr) | [Sonus Ruinae](https://open.spotify.com/album/5GWWgKTuTNLVTlMB44ognu) | 9:43 | 2022-09-26 |  |
 | [Sopa De Salsa](https://open.spotify.com/track/2FR1LR3aD2CNF2w2HZoYyI) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Los Desamores de Dewey Martino](https://open.spotify.com/album/5KqUemb8SlcZsA3SZQrE6e) | 3:12 | 2021-10-27 |  |
-| [Spacemen Mystery of the Terror Triangle](https://open.spotify.com/track/6pXPxr0ZgW6mp3Oz2K5bZG) | [The Night Monitor](https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm) | [Spacemen Mystery of the Terror Triangle](https://open.spotify.com/album/6NWEGsCYZxiyyc4ULdLntX) | 2:10 | 2021-10-27 |  |
+| [Spacemen Mystery of the Terror Triangle](https://open.spotify.com/track/6pXPxr0ZgW6mp3Oz2K5bZG) | [The Night Monitor](https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm) | [Spacemen Mystery of the Terror Triangle](https://open.spotify.com/album/6NWEGsCYZxiyyc4ULdLntX) | 2:10 | 2021-10-27 | 2023-02-19 |
 | [Spectral Corridor Part 4](https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW) | [The House In the Woods](https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Spectral Corridor](https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV) | 8:31 | 2022-04-06 |  |
 | [St Henri](https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3) | [Ö](https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y), [Nömak](https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY) | [Hypernormality](https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5) | 5:16 | 2022-03-11 |  |
 | [Strangled To Death In A Public Toilet](https://open.spotify.com/track/60o3KN2AC1egj7Tk3I0laZ) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/4mdIrf0fbkfODM1vlJQ47V) | 3:15 | 2021-10-27 | 2023-02-03 |

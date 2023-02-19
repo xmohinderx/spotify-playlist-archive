@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5MTYxOCwwMDAwMDAwMDllZGI2ZmNkNmFlMDg2N2U4NjQ1YmVjNTE4YzczZWRh",
+  "snapshot_id": "MTY3NDc5MTYxOCwwMDAwMDAwMDIxNGY5ZDc3MTk2NGRlYjdlMWY1Mzc1Y2FhOTM1ZTEy",
   "tracks": [
     {
       "added_at": "2023-01-27 03:53:38",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-01-27 03:53:38",
       "album": {
+        "name": "Tapas: Le balbum (L'honneur de ceux qui le font, le bonheur de ceux qui l'ont - Musique du monde et d'ailleurs)",
+        "url": "https://open.spotify.com/album/3Yty5AK5k4FUuS9MYNXQmd"
+      },
+      "artists": [
+        {
+          "name": "Accordz\u00eaam",
+          "url": "https://open.spotify.com/artist/0YipPOM5AooNU5bq9F1v0h"
+        }
+      ],
+      "duration_ms": 340506,
+      "name": "Natzurka",
+      "url": "https://open.spotify.com/track/1pWRYRMf2eg45qR7QGj1q0"
+    },
+    {
+      "added_at": "2023-01-27 03:53:38",
+      "album": {
         "name": "Summer Classics: Spanish Nights",
         "url": "https://open.spotify.com/album/4fHSfiyMWFy6CfYcBjYYeG"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 291066,
       "name": "Suite Espa\u00f1ola, Op. 47: I. Granada - arr. for Guitar",
       "url": "https://open.spotify.com/track/2V0TK5l3PBqgtJNyKJjwnE"
-    },
-    {
-      "added_at": "2023-01-27 03:53:38",
-      "album": {
-        "name": "Tapas: Le balbum (L'honneur de ceux qui le font, le bonheur de ceux qui l'ont - Musique du monde et d'ailleurs)",
-        "url": "https://open.spotify.com/album/3Yty5AK5k4FUuS9MYNXQmd"
-      },
-      "artists": [
-        {
-          "name": "Accordz\u00eaam",
-          "url": "https://open.spotify.com/artist/0YipPOM5AooNU5bq9F1v0h"
-        }
-      ],
-      "duration_ms": 340506,
-      "name": "Natzurka",
-      "url": "https://open.spotify.com/track/1pWRYRMf2eg45qR7QGj1q0"
     },
     {
       "added_at": "2023-01-27 03:53:38",

@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 105419,
+  "num_followers": 105435,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDJmNjg1ZWVmNDkzZGMzYzI0NjQ2MDVmNWVmNmJlMjI4",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDNlODkxOWU2YjAyODZhYzY5OTdhMDU5OTU2ZTYyZTlk",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
     },
     {
-      "added_at": "2022-06-29 18:13:00",
-      "album": {
-        "name": "Moonlight Feels Right",
-        "url": "https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9"
-      },
-      "artists": [
-        {
-          "name": "Starbuck",
-          "url": "https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Moonlight Feels Right",
-      "url": "https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK"
-    },
-    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "Legend",
@@ -859,6 +843,22 @@
       "duration_ms": 294533,
       "name": "Heart Of The Night",
       "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
+    },
+    {
+      "added_at": "2022-06-29 18:13:00",
+      "album": {
+        "name": "Moonlight Feels Right",
+        "url": "https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9"
+      },
+      "artists": [
+        {
+          "name": "Starbuck",
+          "url": "https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Moonlight Feels Right",
+      "url": "https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/3XJC8vRhbtm3NzHXE1XAta"
     },
     {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1OLaHAb4ZU4epzZ3k7JV0T"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Just One Look - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0Jq7kVcsOi4lEmw5oQeWqO"
-    },
-    {
       "added_at": "2022-01-26 21:27:23",
       "album": {
         "name": "The Nightfly",
@@ -1083,6 +1067,22 @@
       "duration_ms": 347333,
       "name": "The Nightfly",
       "url": "https://open.spotify.com/track/7icC0mHYpROmIRhpa2DaFC"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1OLaHAb4ZU4epzZ3k7JV0T"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Just One Look - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0Jq7kVcsOi4lEmw5oQeWqO"
     },
     {
       "added_at": "2021-04-22 18:12:12",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 143751,
+  "num_followers": 143771,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQzMTUxNiwwMDAwMDAwMDBiN2RjNGY1ZTkxNzA2ZTE2MTY2ZTA4N2NlN2FjOTAy",
+  "snapshot_id": "MTY3MjQzMTUxNiwwMDAwMDAwMDZjOGRmYmY1MGIxYzc4ODcyMzI2ZDM2YWRkZDA0ZDU4",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Llego La Salsa",
-        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 278871,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Solo Salsa",
         "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 290742,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Llego La Salsa",
+        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 414706,
-      "name": "El Gran Var\u00f3n",
-      "url": "https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Exitos Bailables",
         "url": "https://open.spotify.com/album/1n1QP3u4JAI4XkxMDd51Fo"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 282746,
       "name": "Vestida De Blanco",
       "url": "https://open.spotify.com/track/1EwOtt45TzDHOHC2pho6t2"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 414706,
+      "name": "El Gran Var\u00f3n",
+      "url": "https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w"
     },
     {
       "added_at": "2022-12-30 20:18:36",

@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Kelela
 
-744 songs - 1 day 16 hr 10 min
+745 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,7 +377,7 @@
 | [Leave It](https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [What If? / Leave It](https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8) | 3:52 | 2022-07-15 | 2022-10-15 |
 | [Leave Me Alone](https://open.spotify.com/track/7gbB9Wy6GkDr0dOZvw6ihK) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Leave Me Alone](https://open.spotify.com/album/1jnZuo1cL5ICy4uKci9aHb) | 2:36 | 2022-08-19 | 2022-12-03 |
 | [Lee & Lovie \(with reggie\)](https://open.spotify.com/track/403tC8spWXnKcdXdbFnayL) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:51 | 2022-10-28 |  |
-| [lemon sorbet](https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS) | [SASH](https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ) | [lemon sorbet](https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd) | 2:31 | 2022-12-02 |  |
+| [lemon sorbet](https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS) | [SASH](https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ) | [lemon sorbet](https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd) | 2:31 | 2022-12-02 | 2023-02-19 |
 | [Lemonhaze](https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:36 | 2021-09-17 | 2022-10-08 |
 | [Let Go](https://open.spotify.com/track/0505eVcf7DTvaXVbTN0L5Y) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Ready Is Always Too Late \(Deluxe\)](https://open.spotify.com/album/7KaTBMubEkwwczNjyLyEB0) | 2:52 | 2022-01-28 | 2022-07-16 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-10 |  |
@@ -743,6 +743,7 @@
 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 | 2022-09-16 |  |
 | [YOGA](https://open.spotify.com/track/4Sp0JZpae4D08l3E6gV1D8) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Love & Isolation](https://open.spotify.com/album/4sMkAZXTXdtFikLhLqviyZ) | 3:11 | 2021-04-30 | 2022-01-10 |
 | [You](https://open.spotify.com/track/7HyEVTcgQdkHGEvR565bTt) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [You](https://open.spotify.com/album/446ZiXI32FxjZZd9OBsdca) | 4:06 | 2022-04-01 | 2022-04-13 |
+| [You & I](https://open.spotify.com/track/2yY8uvStXUNPxmwlI2KWdQ) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [You & I](https://open.spotify.com/album/7vgBcj3mlMEm7mmockI4IA) | 2:08 | 2023-02-17 |  |
 | [You & Me](https://open.spotify.com/track/6KcRrFkHegWvb8D3W2XGN9) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [You & Me](https://open.spotify.com/album/3ro5vbRR4ONfo390anN3VH) | 3:22 | 2022-04-01 | 2022-04-14 |
 | [You Are \(feat\. Amber Olivier\)](https://open.spotify.com/track/44BHlMee98Ftjyl9rSfzqQ) | [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2), [Amber Olivier](https://open.spotify.com/artist/5qeWpRuIDDT5BBPojh8afd) | [You Are \(feat\. Amber Olivier\)](https://open.spotify.com/album/0Ljp9U5ducX5iGA5L34Ui6) | 3:12 | 2021-03-19 | 2022-01-04 |
 | [You Don't Own Me / Canopy](https://open.spotify.com/track/1b2xXaiAwlq87uVUtfTrBa) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [You Don't Own Me / Canopy](https://open.spotify.com/album/38kR3rvWbKM9gW4S8ZER82) | 3:22 | 2022-04-01 | 2022-04-16 |

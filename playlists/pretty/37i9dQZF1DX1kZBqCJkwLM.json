@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 74305,
+  "num_followers": 74308,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0MzU5OSwwMDAwMDAwMDdlZTNjMDRmM2Y2ODBiYjg4NTk5MDk2YjZmYzUyNzQ2",
+  "snapshot_id": "MTY3NjY0MzU5OSwwMDAwMDAwMGVkMGQ4YzU1ZTNiNWY5NTcyMmYwNGRjYWQyMWU0YzIw",
   "tracks": [
     {
       "added_at": "2023-02-17 14:19:59",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "Laurel Hell",
-        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196433,
-      "name": "Stay Soft",
-      "url": "https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL"
-    },
-    {
-      "added_at": "2023-02-17 14:19:59",
-      "album": {
         "name": "Loved By U",
         "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
+    },
+    {
+      "added_at": "2023-02-17 14:19:59",
+      "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196433,
+      "name": "Stay Soft",
+      "url": "https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL"
     },
     {
       "added_at": "2023-02-17 14:19:59",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "I'm Every Woman (From \u201cBlack History Always / Music For the Movement Vol. 2\")",
-        "url": "https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 219348,
-      "name": "I'm Every Woman - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
-      "url": "https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo"
-    },
-    {
-      "added_at": "2023-02-17 14:19:59",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -695,18 +675,22 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd"
+        "name": "I'm Every Woman (From \u201cBlack History Always / Music For the Movement Vol. 2\")",
+        "url": "https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3"
       },
       "artists": [
         {
-          "name": "Lucy Park",
-          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 151150,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
+      "duration_ms": 219348,
+      "name": "I'm Every Woman - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
+      "url": "https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo"
     },
     {
       "added_at": "2023-02-17 14:19:59",
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "I Like What I Like",
-        "url": "https://open.spotify.com/album/13W5hU5lcNFTBUo72oJsWT"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd"
       },
       "artists": [
         {
-          "name": "Maliibu Miitch",
-          "url": "https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx"
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
         }
       ],
-      "duration_ms": 147685,
-      "name": "I Like What I Like",
-      "url": "https://open.spotify.com/track/6hZXsWyRgRLcBzjAQfQTQD"
+      "duration_ms": 151150,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
     },
     {
       "added_at": "2023-02-17 14:19:59",
@@ -759,6 +743,22 @@
       "duration_ms": 253202,
       "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1"
+    },
+    {
+      "added_at": "2023-02-17 14:19:59",
+      "album": {
+        "name": "I Like What I Like",
+        "url": "https://open.spotify.com/album/13W5hU5lcNFTBUo72oJsWT"
+      },
+      "artists": [
+        {
+          "name": "Maliibu Miitch",
+          "url": "https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx"
+        }
+      ],
+      "duration_ms": 147685,
+      "name": "I Like What I Like",
+      "url": "https://open.spotify.com/track/6hZXsWyRgRLcBzjAQfQTQD"
     },
     {
       "added_at": "2023-02-17 14:19:59",
@@ -1267,18 +1267,22 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "Moxie (Music from the Netflix Film)",
-        "url": "https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq"
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/0Qf2zbgqkcBQ6FHiOaRLzV"
       },
       "artists": [
         {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+        },
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
         }
       ],
-      "duration_ms": 161424,
-      "name": "Rebel Girl",
-      "url": "https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D"
+      "duration_ms": 163500,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2wVlyzhcwcJmM46l4BfVj0"
     },
     {
       "added_at": "2023-02-17 14:19:59",
@@ -1299,22 +1303,18 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/0Qf2zbgqkcBQ6FHiOaRLzV"
+        "name": "Moxie (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq"
       },
       "artists": [
         {
-          "name": "AmPm",
-          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
-        },
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
         }
       ],
-      "duration_ms": 163500,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/2wVlyzhcwcJmM46l4BfVj0"
+      "duration_ms": 161424,
+      "name": "Rebel Girl",
+      "url": "https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D"
     },
     {
       "added_at": "2023-02-17 14:19:59",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
+        "name": "THE GRATITUDE PROJECT",
+        "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 217258,
+      "name": "SHOULD I BE OK?",
+      "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
+    },
+    {
+      "added_at": "2023-02-17 14:19:59",
+      "album": {
         "name": "Nobody Knows We Are Fun",
         "url": "https://open.spotify.com/album/2OCnfYbcMDebH1TPworZVG"
       },
@@ -1515,26 +1531,6 @@
       "duration_ms": 181040,
       "name": "Nobody Knows We Are Fun",
       "url": "https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2"
-    },
-    {
-      "added_at": "2023-02-17 14:19:59",
-      "album": {
-        "name": "Weekenders (feat. Hans.)",
-        "url": "https://open.spotify.com/album/6Ey4kcZS1m0IQvv7R8ZaXu"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        },
-        {
-          "name": "Hans.",
-          "url": "https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Weekenders (feat. Hans.)",
-      "url": "https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w"
     }
   ],
   "unique_name": "Dope AF",

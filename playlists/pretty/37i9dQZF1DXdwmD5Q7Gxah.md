@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > All the indescribable feelings that music gives you\. cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000,155 likes - 97 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,000,400 likes - 97 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

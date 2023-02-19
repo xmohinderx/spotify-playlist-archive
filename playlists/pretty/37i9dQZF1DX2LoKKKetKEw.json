@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Uwa",
-  "num_followers": 31169,
+  "num_followers": 31197,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAyMzc3NiwwMDAwMDAwMDg3NjdmOTMyZThlMmQwY2JkZjA5M2E1OWM3ZmQyYzhh",
+  "snapshot_id": "MTY3NjAyMzc3NiwwMDAwMDAwMGEyODliNDdiZTFhZTE3YmFlYmQ1YmFmYTAxOTZlZGVl",
   "tracks": [
     {
       "added_at": "2023-02-10 10:09:36",
@@ -343,26 +343,18 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA"
+        "name": "I Get",
+        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
       },
       "artists": [
         {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        },
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        },
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 162569,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO"
+      "duration_ms": 210124,
+      "name": "I Get",
+      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -383,18 +375,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "I Get",
-        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA"
       },
       "artists": [
         {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
         }
       ],
-      "duration_ms": 210124,
-      "name": "I Get",
-      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
+      "duration_ms": 162569,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Hallow",
-        "url": "https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 158608,
-      "name": "Hallow",
-      "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 145278,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Hallow",
+        "url": "https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 158608,
+      "name": "Hallow",
+      "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -603,30 +603,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Savior",
-        "url": "https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        }
-      ],
-      "duration_ms": 153473,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Siyahamba",
         "url": "https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6"
       },
@@ -647,6 +623,30 @@
       "duration_ms": 179500,
       "name": "Siyahamba",
       "url": "https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "duration_ms": 153473,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Shining",
-        "url": "https://open.spotify.com/album/1afbLhtXnQbyLrBqNeRVhX"
-      },
-      "artists": [
-        {
-          "name": "Phontera",
-          "url": "https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm"
-        },
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        }
-      ],
-      "duration_ms": 132662,
-      "name": "Shining",
-      "url": "https://open.spotify.com/track/2Rn8O7Er19MwnyOlJDhpgA"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Oluwa",
         "url": "https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p"
       },
@@ -815,18 +795,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/2ICTiVfpQ9tSNb9vdITG09"
+        "name": "Shining",
+        "url": "https://open.spotify.com/album/1afbLhtXnQbyLrBqNeRVhX"
       },
       "artists": [
         {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+          "name": "Phontera",
+          "url": "https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
         }
       ],
-      "duration_ms": 215880,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/3zBWaXjXVUqyk3CfH8k8OI"
+      "duration_ms": 132662,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/2Rn8O7Er19MwnyOlJDhpgA"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -847,18 +831,18 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/4O8ywGSfxrLmIctXsdBaA4"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/2ICTiVfpQ9tSNb9vdITG09"
       },
       "artists": [
         {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Standing",
-      "url": "https://open.spotify.com/track/1IHSapgG9NsoqLKSqFroRG"
+      "duration_ms": 215880,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/3zBWaXjXVUqyk3CfH8k8OI"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -875,6 +859,22 @@
       "duration_ms": 156735,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/13oiGSbxvEZD9MvRcPnrHy"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/4O8ywGSfxrLmIctXsdBaA4"
+      },
+      "artists": [
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Standing",
+      "url": "https://open.spotify.com/track/1IHSapgG9NsoqLKSqFroRG"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/1eiKWT8uMg2QC1F8N34jdC"
-      },
-      "artists": [
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        },
-        {
-          "name": "GAV",
-          "url": "https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge"
-        }
-      ],
-      "duration_ms": 155326,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/3hH73HFk0SrSCTLxsTw9gD"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Still Blessed",
         "url": "https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 175200,
       "name": "Still Blessed",
       "url": "https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/1eiKWT8uMg2QC1F8N34jdC"
+      },
+      "artists": [
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "GAV",
+          "url": "https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge"
+        }
+      ],
+      "duration_ms": 155326,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/3hH73HFk0SrSCTLxsTw9gD"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -975,22 +975,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Feeling Good",
-        "url": "https://open.spotify.com/album/6sYCJnsF6Io91R5GOVlvFs"
+        "name": "On God",
+        "url": "https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0"
       },
       "artists": [
         {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
         },
         {
-          "name": "Greg Cox",
-          "url": "https://open.spotify.com/artist/0sSaM0P7mPCUyS7QE0HANt"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 206181,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/1hjfRY5lZd5XYAVRgCg1g8"
+      "duration_ms": 224000,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1015,26 +1019,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "On God",
-        "url": "https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0"
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/6sYCJnsF6Io91R5GOVlvFs"
       },
       "artists": [
         {
-          "name": "Protek Illasheva",
-          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
         },
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+          "name": "Greg Cox",
+          "url": "https://open.spotify.com/artist/0sSaM0P7mPCUyS7QE0HANt"
         }
       ],
-      "duration_ms": 224000,
-      "name": "On God",
-      "url": "https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK"
+      "duration_ms": 206181,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/1hjfRY5lZd5XYAVRgCg1g8"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1275,58 +1275,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/1mlJct71ayzMOAS7oTiaqW"
-      },
-      "artists": [
-        {
-          "name": "Martin Toe",
-          "url": "https://open.spotify.com/artist/3qQlOGleEEh9SPVX0Jx5JK"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3taZaAT7ZjTKqmZv4ahX5B"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ"
-      },
-      "artists": [
-        {
-          "name": "SESS",
-          "url": "https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip"
-        }
-      ],
-      "duration_ms": 155530,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Keep You",
-        "url": "https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh"
-      },
-      "artists": [
-        {
-          "name": "Michael Oyo",
-          "url": "https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB"
-        },
-        {
-          "name": "Mike Aremu",
-          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Keep You",
-      "url": "https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Regardless",
         "url": "https://open.spotify.com/album/6KbtVKh2Rmg2VCnx4fIKSE"
       },
@@ -1371,6 +1319,42 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Keep You",
+        "url": "https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh"
+      },
+      "artists": [
+        {
+          "name": "Michael Oyo",
+          "url": "https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB"
+        },
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Keep You",
+      "url": "https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ"
+      },
+      "artists": [
+        {
+          "name": "SESS",
+          "url": "https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip"
+        }
+      ],
+      "duration_ms": 155530,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "ATTNTN",
         "url": "https://open.spotify.com/album/6OE9lvvKzTkXjWQafV4rjU"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 196048,
       "name": "ATTNTN",
       "url": "https://open.spotify.com/track/18EBejyRsQZGCdUGcXKqYj"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/1mlJct71ayzMOAS7oTiaqW"
+      },
+      "artists": [
+        {
+          "name": "Martin Toe",
+          "url": "https://open.spotify.com/artist/3qQlOGleEEh9SPVX0Jx5JK"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3taZaAT7ZjTKqmZv4ahX5B"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Show Dem",
+        "url": "https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD"
+      },
+      "artists": [
+        {
+          "name": "Paul Chisom",
+          "url": "https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV"
+        },
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "duration_ms": 206897,
+      "name": "Show Dem",
+      "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "Belongs to You (EDM Remix)",
         "url": "https://open.spotify.com/album/5bO2RKSu7dpos2tguifru8"
       },
@@ -1487,42 +1507,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Show Dem",
-        "url": "https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD"
-      },
-      "artists": [
-        {
-          "name": "Paul Chisom",
-          "url": "https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV"
-        },
-        {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
-        }
-      ],
-      "duration_ms": 206897,
-      "name": "Show Dem",
-      "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/6vSih1BvJIucern09KQfs1"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/2tNFcj500dviGARgafUT6d"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Yakpa",
         "url": "https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh"
       },
@@ -1559,6 +1543,26 @@
       "duration_ms": 164702,
       "name": "Efficient",
       "url": "https://open.spotify.com/track/2RFl6yLQk6qZNJ1if9LW7o"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1jEbLKBbUdvKqLoCoNTDz4"
+      },
+      "artists": [
+        {
+          "name": "Paul-Emmanuel",
+          "url": "https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3"
+        },
+        {
+          "name": "Break The Eyes",
+          "url": "https://open.spotify.com/artist/0ySk960unJNGQV1FrSen3p"
+        }
+      ],
+      "duration_ms": 176969,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/4bJfDj5FDY5cP1cndlE9Vj"
     },
     {
       "added_at": "2023-02-10 10:09:36",

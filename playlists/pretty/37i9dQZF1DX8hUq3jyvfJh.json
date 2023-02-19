@@ -1,12 +1,12 @@
 {
   "description": "Carol Biazin e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 132436,
+  "num_followers": 132452,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDQ1ZDM4MjViOWZlYWFmOWQ2ODQ4M2MwM2I3ZTUxNjRi",
+  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDhiZTgzYWU0OWViY2E1ZmQ4N2U5NDQxMzU0ZjRlZGQ4",
   "tracks": [
     {
       "added_at": "2023-02-01 03:00:00",
@@ -211,22 +211,18 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Desfruta",
-        "url": "https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB"
+        "name": "TIPO EU",
+        "url": "https://open.spotify.com/album/0jQseakS3kI0YEtyzJl76n"
       },
       "artists": [
         {
-          "name": "Alice Caymmi",
-          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
         }
       ],
-      "duration_ms": 194250,
-      "name": "Desfruta",
-      "url": "https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO"
+      "duration_ms": 208333,
+      "name": "TIPO EU",
+      "url": "https://open.spotify.com/track/5rnZwEM4x70Arx4hbEOPSg"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -247,18 +243,22 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "TIPO EU",
-        "url": "https://open.spotify.com/album/0jQseakS3kI0YEtyzJl76n"
+        "name": "Desfruta",
+        "url": "https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB"
       },
       "artists": [
         {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+          "name": "Alice Caymmi",
+          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
         }
       ],
-      "duration_ms": 208333,
-      "name": "TIPO EU",
-      "url": "https://open.spotify.com/track/5rnZwEM4x70Arx4hbEOPSg"
+      "duration_ms": 194250,
+      "name": "Desfruta",
+      "url": "https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Dona de Mim",
-        "url": "https://open.spotify.com/album/0Zx3yoffLuua8XnnuBYyEq"
-      },
-      "artists": [
-        {
-          "name": "Paulla",
-          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Dona de Mim",
-      "url": "https://open.spotify.com/track/1Uoy9jGX9JcYnMQk15HYvT"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/5QStCkR4isxn3C9HPJXGe0"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 127118,
       "name": "pantera",
       "url": "https://open.spotify.com/track/6SgwJ1u5mkWWCG3Cvw11x8"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Dona de Mim",
+        "url": "https://open.spotify.com/album/0Zx3yoffLuua8XnnuBYyEq"
+      },
+      "artists": [
+        {
+          "name": "Paulla",
+          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Dona de Mim",
+      "url": "https://open.spotify.com/track/1Uoy9jGX9JcYnMQk15HYvT"
     },
     {
       "added_at": "2023-02-01 03:00:00",

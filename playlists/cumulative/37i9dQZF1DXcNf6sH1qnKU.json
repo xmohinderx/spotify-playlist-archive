@@ -186,6 +186,24 @@
     {
       "album": {
         "name": "Maida Vale Sessions",
+        "url": "https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203848,
+      "name": "Come On Let's Go",
+      "url": "https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG"
+    },
+    {
+      "album": {
+        "name": "Maida Vale Sessions",
         "url": "https://open.spotify.com/album/3SIC8gQNPxgqjax8o204Nx"
       },
       "artists": [
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 208333,
       "name": "Nearer Than Heaven",
       "url": "https://open.spotify.com/track/1jVlXUiM48CQaQup6899a8"

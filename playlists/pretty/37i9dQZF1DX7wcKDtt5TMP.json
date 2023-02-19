@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 80. \n\n",
-  "num_followers": 69814,
+  "num_followers": 69869,
   "original_name": "Rock en Espa\u00f1ol: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjA5MiwwMDAwMDAwMDc0NjdmY2UxMmU2ZGJlMGU2M2EwNDFlMDBiZmZkZmU4",
+  "snapshot_id": "MTY1MDkxNjA5MiwwMDAwMDAwMDc2NDRiZjM2ZTQ3NmM1Mjk2NzQyNjI2NDFmYTFkMDVk",
   "tracks": [
     {
       "added_at": "2022-03-29 18:50:52",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "Solos en Am\u00e9rica",
-        "url": "https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM"
-      },
-      "artists": [
-        {
-          "name": "Miguel Mateos - Zas",
-          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
-        }
-      ],
-      "duration_ms": 294973,
-      "name": "Es Tan F\u00e1cil Romper un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0n2IudFRHDBfn64pNFGShg"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 271400,
       "name": "Perd\u00ed Mi Ojo de Venado",
       "url": "https://open.spotify.com/track/4YKBYzHTtBZA2P12N5VomO"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "Solos en Am\u00e9rica",
+        "url": "https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM"
+      },
+      "artists": [
+        {
+          "name": "Miguel Mateos - Zas",
+          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
+        }
+      ],
+      "duration_ms": 294973,
+      "name": "Es Tan F\u00e1cil Romper un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0n2IudFRHDBfn64pNFGShg"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "GIT, El Album",
-        "url": "https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN"
-      },
-      "artists": [
-        {
-          "name": "GIT",
-          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
-        }
-      ],
-      "duration_ms": 199373,
-      "name": "Tarado De Cumplea\u00f1os",
-      "url": "https://open.spotify.com/track/1okGO68FnEbaG8Rz8LcKw7"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
         "name": "Yo Te Avis\u00e9",
         "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 174306,
       "name": "Yo No Me Sentar\u00eda en Tu Mesa - Remasterizado 2008",
       "url": "https://open.spotify.com/track/7Jy41XI7wVBnXvOifdoaxG"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "GIT, El Album",
+        "url": "https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN"
+      },
+      "artists": [
+        {
+          "name": "GIT",
+          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
+        }
+      ],
+      "duration_ms": 199373,
+      "name": "Tarado De Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/1okGO68FnEbaG8Rz8LcKw7"
     },
     {
       "added_at": "2022-03-29 18:50:52",

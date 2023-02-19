@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 82359,
+  "num_followers": 82364,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDg1NWM5OWY0MmVjNzYwZTNmNjU0MWVmNGE0NjRjNDhl",
+  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDU3YzZhNDFjNzk5NThjMjAwYTdlOWQxNWViYzRhMWU3",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -479,22 +479,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Afro Tropical Soundz, Vol. 1",
-        "url": "https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz"
-      },
-      "artists": [
-        {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7"
-        }
-      ],
-      "duration_ms": 365693,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Rex Lawson's Greatest Hits",
         "url": "https://open.spotify.com/album/7CTFf1WCY4Ay6SOwzkizH0"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 180386,
       "name": "Sawale",
       "url": "https://open.spotify.com/track/5WyWNQZr7oiGoResxNSrj0"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Afro Tropical Soundz, Vol. 1",
+        "url": "https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7"
+        }
+      ],
+      "duration_ms": 365693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Ivory Music Classics, Vol. 2",
-        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
-      },
-      "artists": [
-        {
-          "name": "Onyeka Onwenu",
-          "url": "https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7"
-        }
-      ],
-      "duration_ms": 364706,
-      "name": "Living Music",
-      "url": "https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Rain Man: Original Motion Picture Soundtrack",
@@ -607,6 +591,22 @@
       "duration_ms": 245626,
       "name": "Scatterlings Of Africa",
       "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Ivory Music Classics, Vol. 2",
+        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
+      },
+      "artists": [
+        {
+          "name": "Onyeka Onwenu",
+          "url": "https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7"
+        }
+      ],
+      "duration_ms": 364706,
+      "name": "Living Music",
+      "url": "https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd"
     },
     {
       "added_at": "2019-06-28 16:54:51",

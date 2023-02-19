@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-679 songs - 1 day 16 hr 32 min
+680 songs - 1 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 | 2022-07-22 |  |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2022-01-24 |  |
 | [Colors](https://open.spotify.com/track/5zn38bzjOZhCNmipZ9agN1) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Colors](https://open.spotify.com/album/3uO1F4TvpNqp1EQ6RNxfF1) | 3:11 | 2021-12-17 | 2022-07-28 |
+| [Colors](https://open.spotify.com/track/6pPMNzjGavElntvvM4eLoA) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 3:11 | 2023-02-10 |  |
 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 | 2021-12-17 |  |
 | [Come To The Beach \- Acoustic Version](https://open.spotify.com/track/5AYixj0Xa8qMPVeFS2uuzT) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Come To The Beach \(Acoustic Version\)](https://open.spotify.com/album/4cAEODeG7oWbfqAbXZD59Y) | 2:28 | 2021-12-17 | 2022-07-29 |
 | [Control](https://open.spotify.com/track/0H2oAJ06XboQPa4DnKSbXL) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Control](https://open.spotify.com/album/7Ea1qWHjd65hekrOI51DJl) | 3:30 | 2021-12-17 | 2022-07-25 |
@@ -577,7 +578,7 @@
 | [The Big One](https://open.spotify.com/track/2yzo8yTdYCJ6VEBO8qUyNB) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [The Big One](https://open.spotify.com/album/7pwt1GDIuIvHcWkirF8OwQ) | 3:39 | 2022-03-11 | 2022-07-29 |
 | [The Boy Who Cried Wolf](https://open.spotify.com/track/02KgB1Qyk4PrFweUMGl9NO) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:16 | 2022-01-24 | 2022-04-20 |
 | [The Chocolate Cake Song](https://open.spotify.com/track/6HixN5KQdFqqPwbIgT9yXh) | [Wes Fowler](https://open.spotify.com/artist/5ybg4SrLDI6OjxoQztI7aS) | [The Chocolate Cake Song](https://open.spotify.com/album/4sShHWJ8Z7hMAtoBKJIWs8) | 2:38 | 2021-12-17 | 2022-04-21 |
-| [The City](https://open.spotify.com/track/58gvTZSWei1plTDPQIqXfD) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The City](https://open.spotify.com/album/1XbD968N9Kh3NsAG5sDYMS) | 3:41 | 2021-12-17 |  |
+| [The City](https://open.spotify.com/track/58gvTZSWei1plTDPQIqXfD) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The City](https://open.spotify.com/album/1XbD968N9Kh3NsAG5sDYMS) | 3:41 | 2021-12-17 | 2023-02-19 |
 | [The Hardest Part](https://open.spotify.com/track/4Gcikn8y1cLRXki0xguC5G) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3lLhc2xpQ3LsBMYVozns7L) | 4:20 | 2021-12-17 | 2022-04-21 |
 | [The Heart of Life](https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:18 | 2021-12-17 |  |
 | [The Last Song On Earth](https://open.spotify.com/track/6n8QYU46m0dO6HIKG0GN8S) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Two Songs For Now](https://open.spotify.com/album/6iU4TOsjA7CmhOb7XgXp40) | 3:53 | 2021-12-17 | 2022-07-29 |

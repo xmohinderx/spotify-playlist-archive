@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > calling his 📱 like "yo, send me a 📍"
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,751 likes - 620 songs - 1 day 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,762 likes - 620 songs - 1 day 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 142282,
+  "num_followers": 142330,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMGQ2NTkwZTQ1MWVlOWVlNTI5NWJkNDc2OTBhZGYzMzNl",
+  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMDZiMDczMzM1ZjM1Njg0Mjk3M2Y0ZWRkZTI2ODkwYmY2",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Very Best of The Dixie Cups: Chapel of Love",
-        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
       },
       "artists": [
         {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
         }
       ],
-      "duration_ms": 170786,
-      "name": "Chapel Of Love",
-      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
+      "duration_ms": 163680,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -615,18 +615,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
+        "name": "The Very Best of The Dixie Cups: Chapel of Love",
+        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
       },
       "artists": [
         {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
         }
       ],
-      "duration_ms": 163680,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
+      "duration_ms": 170786,
+      "name": "Chapel Of Love",
+      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "I Love How You Love Me",
-        "url": "https://open.spotify.com/album/4gurJ6L9p3piSJutIH2E3z"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 150066,
-      "name": "I Love How You Love Me",
-      "url": "https://open.spotify.com/track/6wceQSqQDvdcw0cMNKdp7s"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/3clrlTlu2wENPvdXz88YPh"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 216266,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "I Love How You Love Me",
+        "url": "https://open.spotify.com/album/4gurJ6L9p3piSJutIH2E3z"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 150066,
+      "name": "I Love How You Love Me",
+      "url": "https://open.spotify.com/track/6wceQSqQDvdcw0cMNKdp7s"
     },
     {
       "added_at": "2022-05-30 13:02:24",

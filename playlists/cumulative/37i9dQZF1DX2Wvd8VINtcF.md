@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-338 songs - 18 hr 53 min
+339 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Can't Get Over You](https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y5](https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB) | 3:36 | 2022-11-10 | 2022-11-18 |
 | [Can't Stop Me](https://open.spotify.com/track/19WXgURSdoxJUf7pKZPw1X) | [EUT](https://open.spotify.com/artist/41doMenKZkgW8DUwH3WwV5) | [Can't Stop Me](https://open.spotify.com/album/39f2dYxMUkGhJqDsfoRMvQ) | 3:19 | 2022-12-01 | 2022-12-24 |
 | [Carbon Dioxide](https://open.spotify.com/track/5JTDPZDDetda3wazmZA3D0) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Carbon Dioxide](https://open.spotify.com/album/6anWFtYOzbbEs8It4Lpi4V) | 4:51 | 2022-11-10 | 2022-12-24 |
+| [Ceremony](https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Don’t Get Too Close](https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0) | 3:12 | 2023-02-19 |  |
 | [chanson triste](https://open.spotify.com/track/5WFiYXOtO5u45X5mLv6ckW) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [chanson triste](https://open.spotify.com/album/1QurzPgalUkcteDy3b6DUm) | 3:22 | 2022-11-24 | 2023-01-13 |
 | [Chasing Paradise \(veggi Remix\)](https://open.spotify.com/track/14d8Wq66lf1dVeWJHIfkYj) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA), [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [Chasing Paradise \(veggi Remix\)](https://open.spotify.com/album/0tikmnRkujvStXn026TY9J) | 2:19 | 2022-10-28 | 2022-11-18 |
 | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1) | 2:55 | 2023-02-02 |  |

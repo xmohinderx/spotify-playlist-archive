@@ -3532,7 +3532,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 293800,
       "name": "Heliosphan",
       "url": "https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1"
@@ -6235,6 +6235,24 @@
     },
     {
       "album": {
+        "name": "Clarence Park",
+        "url": "https://open.spotify.com/album/5CB6pVh3JNBHQ4I6zQuYXv"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193680,
+      "name": "Proper Lo-Fi",
+      "url": "https://open.spotify.com/track/03s0gEeySKKKYctNadlhHg"
+    },
+    {
+      "album": {
         "name": "International Times",
         "url": "https://open.spotify.com/album/1tTQzBRUUmtySzC6dY2cIp"
       },
@@ -8016,7 +8034,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 547133,
       "name": "Tha",
       "url": "https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S"
@@ -8412,7 +8430,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 414533,
       "name": "Transalpin",
       "url": "https://open.spotify.com/track/59KPifzZyuiCA61ePMILDR"

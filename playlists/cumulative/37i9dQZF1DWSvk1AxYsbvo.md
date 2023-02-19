@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-148 songs - 8 hr 42 min
+149 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 | 2022-08-09 |  |
 | [iMessage \(feat\. Yeongene\)](https://open.spotify.com/track/3UASE6XnUUZnajVFc8DgBm) | [Uaieo](https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf), [Yeongene](https://open.spotify.com/artist/6EIodgHkqbx8zdgFCE06CL) | [iMessage](https://open.spotify.com/album/1dKIGupdr1iOs4cIqPK1JW) | 3:18 | 2022-06-18 | 2022-07-28 |
 | [Installing](https://open.spotify.com/track/5VrgEsjpYN9FS7hG5YHeGY) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [Installing](https://open.spotify.com/album/4mxUPvgPxZeQ16vtxoRmEM) | 2:21 | 2022-06-18 | 2022-07-19 |
+| [Is you](https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb) | [Jay Chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk) | 3:51 | 2023-01-25 |  |
 | [Is you](https://open.spotify.com/track/36HZ2Z3rvP3i4YFB5tUjY9) | [Jay chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/7y8QDramTNvHWnbFANijH1) | 3:51 | 2022-05-03 | 2022-07-28 |
 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Kim Ho Yeon](https://open.spotify.com/artist/4bE7weEOII2Pjnf9wnbXT1) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 | 2023-01-10 |  |
 | [It's strange](https://open.spotify.com/track/5UUb6UXXjGhdO9gcyrjeCs) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Bygones at night](https://open.spotify.com/album/4sFVw84S0iMunYWJrcMUQA) | 3:10 | 2022-05-03 | 2022-07-27 |
@@ -145,7 +146,7 @@
 | [You don't have to say anything \(I already know\)](https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [You don't have to say anything \(I already know\)](https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC) | 4:25 | 2022-10-13 |  |
 | [가을과 겨울 사이 \- New Version](https://open.spotify.com/track/55TblT0IIaJYUenOCqOzRM) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [겨울밤](https://open.spotify.com/album/5QOgLJm5qWxhjBlywukFg4) | 3:34 | 2022-05-03 | 2022-07-28 |
 | [경의선 숲길](https://open.spotify.com/track/0AfxZaAXwUaacv8QaWqHKf) | [Evenight](https://open.spotify.com/artist/1iiDSmH3N5VBxqn36Ppia1) | [경의선 숲길](https://open.spotify.com/album/2lb0AxSa5SjEvJ85YJSXCh) | 3:21 | 2022-05-03 | 2022-07-26 |
-| [곁에 있어도 될까 Gently, By Your Side](https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [곁에 있어도 될까 Gently, By Your Side](https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld) | 2:58 | 2023-01-10 |  |
+| [곁에 있어도 될까 Gently, By Your Side](https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [곁에 있어도 될까 Gently, By Your Side](https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld) | 2:58 | 2023-01-10 | 2023-02-19 |
 | [그대와 춤을 Dancing With You](https://open.spotify.com/track/3EVhjxPooIaS3AzpIejqVz) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [그대와 춤을 Dancing With You](https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R) | 3:56 | 2022-11-09 |  |
 | [낮잠](https://open.spotify.com/track/68yhHnSR9kCqRdJImjeHxj) | [Misty Blue](https://open.spotify.com/artist/7LyaQJxH634U3S8Xu6DDrK) | [4/4 Sentimental Painkiller \- 겨울은 봄의 심장](https://open.spotify.com/album/1dtfsrO1AAHYHZmbzIbmLu) | 3:32 | 2022-05-03 | 2022-06-15 |
 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:53 | 2022-05-03 |  |

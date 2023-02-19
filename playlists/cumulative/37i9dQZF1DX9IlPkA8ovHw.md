@@ -4,7 +4,7 @@
 
 > The best of the Fab Four and their post\-Beatles ventures and solo albums.
 
-137 songs - 8 hr 12 min
+139 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Get Back \- Take 8](https://open.spotify.com/track/4Nv5jaoI3rsX5JauuCfZ2f) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Super Deluxe\)](https://open.spotify.com/album/1BdxbYp1FaNejpDgtDo25V) | 3:52 | 2021-09-17 |  |
 | [Get Back \- Take 8](https://open.spotify.com/track/5ht3wCSbJQAckuV6O17fUm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Get Back \(Take 8\)](https://open.spotify.com/album/7jdqXhvQ9oqseZI0M9uNIL) | 3:52 | 2021-09-17 | 2022-07-29 |
 | [Girl \- Remastered 2009](https://open.spotify.com/track/6tQvjqDIK9GXWIC6mejms8) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:31 | 2021-09-17 |  |
-| [Give Me Love \(Give Me Peace On Earth\)](https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living In The Material World \(Remastered\)](https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg) | 3:35 | 2021-09-17 |  |
+| [Give Me Love \(Give Me Peace On Earth\)](https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living In The Material World \(Remastered\)](https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg) | 3:35 | 2021-09-17 | 2023-02-19 |
+| [Give Me Love \(Give Me Peace on Earth\) \- 2014 Remaster](https://open.spotify.com/track/71fXxvXqo1zxWDtBmjoEVk) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living in the Material World \(2014 Remaster\)](https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os) | 3:35 | 2021-09-17 |  |
 | [God \- Remastered 2010](https://open.spotify.com/track/7kipZd4tWx6Mu8kBgB2Z2r) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K) | 4:12 | 2021-09-17 |  |
 | [Golden Slumbers \- Remastered 2009](https://open.spotify.com/track/01SfTM5nfCou5gQL70r6gs) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 1:31 | 2021-09-17 |  |
 | [Got My Mind Set On You \- 2004 Remaster](https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:54 | 2021-09-17 |  |
@@ -119,7 +120,8 @@
 | [Stuck Inside A Cloud](https://open.spotify.com/track/0IF7XHfvCoEkabkVvaLvv4) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Brainwashed](https://open.spotify.com/album/2VFLjY1S0D8nKml6nlU2MD) | 4:04 | 2021-09-17 | 2023-02-19 |
 | [Stuck Inside A Cloud](https://open.spotify.com/track/57wq2D80KGwZEca5Cw018c) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Brainwashed](https://open.spotify.com/album/2vKE95MoA7121JceosMm3d) | 4:04 | 2021-09-17 |  |
 | [Taxman \- Remastered 2009](https://open.spotify.com/track/4BRkPBUxOYffM2QXVlq7aC) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:38 | 2021-09-17 |  |
-| [That's The Way It Goes \- Remastered 2004](https://open.spotify.com/track/1WnaMlprEQHKVoXm7RInm4) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Gone Troppo](https://open.spotify.com/album/6hqxSTZauLStrt5lThvY2r) | 3:37 | 2021-09-17 |  |
+| [That's The Way It Goes \- 2004 Remaster](https://open.spotify.com/track/4To7pXp0pjNNC1fzmDVEhq) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Gone Troppo](https://open.spotify.com/album/7G7x2c3R3aDIv6x1C25YpG) | 3:37 | 2021-09-17 |  |
+| [That's The Way It Goes \- Remastered 2004](https://open.spotify.com/track/1WnaMlprEQHKVoXm7RInm4) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Gone Troppo](https://open.spotify.com/album/6hqxSTZauLStrt5lThvY2r) | 3:37 | 2021-09-17 | 2023-02-19 |
 | [The End \- Remastered 2009](https://open.spotify.com/track/5aHHf6jrqDRb1fcBmue2kn) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 2:21 | 2021-09-17 |  |
 | [The Long And Winding Road \- 2021 Mix](https://open.spotify.com/track/1GO1BHrYnc8dy623A4mDQA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Long And Winding Road \(2021 Mix\)](https://open.spotify.com/album/5MLKpsTKwnAlQgslJWdIyl) | 3:37 | 2021-10-08 | 2022-07-29 |
 | [The Long And Winding Road \- 2021 Mix](https://open.spotify.com/track/4r1AmkTzmi35mAFc3nsG3r) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Super Deluxe\)](https://open.spotify.com/album/1BdxbYp1FaNejpDgtDo25V) | 3:37 | 2021-10-08 |  |

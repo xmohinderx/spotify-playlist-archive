@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 10975,
+  "num_followers": 10978,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM2MDkzNSwwMDAwMDAwMDZmNzYxZTYyNmFhYjUxNjA3ZTE4NjYzMzc2NWUxZmIx",
+  "snapshot_id": "MTY3NjM2MDkzNSwwMDAwMDAwMDMyYTEzZDk4YThhMzMyNjg5OGVhZDMyN2MwMGFkMzM4",
   "tracks": [
     {
       "added_at": "2023-02-14 07:48:55",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-02-14 07:48:55",
       "album": {
+        "name": "SOULBYSEL Compilation 04",
+        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "Image",
+          "url": "https://open.spotify.com/artist/58L7Wn6gqkg86DH0I3z2p5"
+        }
+      ],
+      "duration_ms": 124572,
+      "name": "Donut",
+      "url": "https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5"
+    },
+    {
+      "added_at": "2023-02-14 07:48:55",
+      "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 199093,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu"
-    },
-    {
-      "added_at": "2023-02-14 07:48:55",
-      "album": {
-        "name": "SOULBYSEL Compilation 04",
-        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
-      },
-      "artists": [
-        {
-          "name": "SOULBYSEL",
-          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
-        },
-        {
-          "name": "Image",
-          "url": "https://open.spotify.com/artist/58L7Wn6gqkg86DH0I3z2p5"
-        }
-      ],
-      "duration_ms": 124572,
-      "name": "Donut",
-      "url": "https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5"
     },
     {
       "added_at": "2023-02-14 07:48:55",

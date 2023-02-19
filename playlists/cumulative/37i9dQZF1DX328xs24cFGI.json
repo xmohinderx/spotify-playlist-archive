@@ -735,6 +735,24 @@
     },
     {
       "album": {
+        "name": "\u597d\u304d\u3060",
+        "url": "https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217512,
+      "name": "\u597d\u304d\u3060",
+      "url": "https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu"
+    },
+    {
+      "album": {
         "name": "\u604b\u3059\u308b (10YEARS THANK YOU)",
         "url": "https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo"
       },
@@ -872,7 +890,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 204614,
       "name": "\u75c5",
       "url": "https://open.spotify.com/track/16Dklj36BXIa9bY1ZgP7DK"

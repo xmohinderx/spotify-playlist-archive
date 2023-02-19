@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 93703,
+  "num_followers": 93725,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMGIwYzM1YjcyNGY0N2E5ODIwZjAxY2U0N2Y3NmI4ZTdh",
+  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMGE5ODRiYWZhYWQ1ZTIwNTFiODkzN2FmYzA0ZDU3ZDVi",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Con Tu Amor",
-        "url": "https://open.spotify.com/album/5QQBnJ6jJF0hwQ7KrMJs4X"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 249546,
-      "name": "Con Tu Amor",
-      "url": "https://open.spotify.com/track/4cusMbDIB1bt7Z3F8YXxXX"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 312066,
       "name": "L\u00e1grimas",
       "url": "https://open.spotify.com/track/2zrXo3DZdEgp317Hfj2g08"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Con Tu Amor",
+        "url": "https://open.spotify.com/album/5QQBnJ6jJF0hwQ7KrMJs4X"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 249546,
+      "name": "Con Tu Amor",
+      "url": "https://open.spotify.com/track/4cusMbDIB1bt7Z3F8YXxXX"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "El Pr\u00edncipe de la Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Soy As\u00ed",
-      "url": "https://open.spotify.com/track/6HcYWQs3yAb1CJH4MS41N1"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Gracias por Esperar",
         "url": "https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 308520,
       "name": "Vienes o Voy",
       "url": "https://open.spotify.com/track/7JholUL3Iv83zpEY8CsuZf"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "El Pr\u00edncipe de la Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Soy As\u00ed",
+      "url": "https://open.spotify.com/track/6HcYWQs3yAb1CJH4MS41N1"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "El Mexico Que Se Nos Fue",
-        "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
+        "name": "40 Y 20",
+        "url": "https://open.spotify.com/album/72HLf3LP783UMuU1zQ6XgL"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 277120,
-      "name": "El M\u00e9xico Que Se Nos Fue",
-      "url": "https://open.spotify.com/track/0pgLQNQUeji7Dc7SASQaIW"
+      "duration_ms": 262240,
+      "name": "Eso Nom\u00e1s",
+      "url": "https://open.spotify.com/track/7EmvOxDhWWlxIktbT4Yhgo"
     }
   ],
   "unique_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",

@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: Bea Miller",
-  "num_followers": 84978,
+  "num_followers": 84992,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDBiYjA2NTJhN2Y1NWNiMDljNDZiNDZkYWY3ODk0NDZk",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDBmNTY0N2UwOGExODNkYmZiNTY3OWY2MjE4MGZhZTgw",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Girls Make Me Wanna Die",
+        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 135297,
+      "name": "Girls Make Me Wanna Die",
+      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Growing/Dying",
         "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
       },
@@ -895,18 +911,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Girls Make Me Wanna Die",
-        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg"
       },
       "artists": [
         {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Slush Puppy",
+          "url": "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
         }
       ],
-      "duration_ms": 135297,
-      "name": "Girls Make Me Wanna Die",
-      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
+      "duration_ms": 138894,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -931,26 +951,6 @@
       "duration_ms": 189946,
       "name": "down bad - fanclubwallet & Preloved Remix",
       "url": "https://open.spotify.com/track/3XDT0FTfVGBK9Y48h09QJy"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg"
-      },
-      "artists": [
-        {
-          "name": "Lost Kings",
-          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
-        },
-        {
-          "name": "Slush Puppy",
-          "url": "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
-        }
-      ],
-      "duration_ms": 138894,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Your Internet Sucks",
-        "url": "https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "Your Internet Sucks",
-      "url": "https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "OTT",
         "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 157817,
       "name": "OTT",
       "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Your Internet Sucks",
+        "url": "https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Your Internet Sucks",
+      "url": "https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
-      },
-      "artists": [
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
-        }
-      ],
-      "duration_ms": 128906,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "worm food",
         "url": "https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Bumblebee",
-        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
       },
       "artists": [
         {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Bumblebee",
-      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
+      "duration_ms": 128906,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1167,6 +1151,22 @@
       "duration_ms": 184797,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Bumblebee",
+        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Perfectly Imperfect",
-        "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 144478,
-      "name": "Perfectly Imperfect",
-      "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Grow Up Tomorrow",
         "url": "https://open.spotify.com/album/3rm9AdtOaIPkWNfSQoIcvI"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 192451,
       "name": "Grow Up Tomorrow",
       "url": "https://open.spotify.com/track/01RyfioUxfQO4gSIg2NXb9"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Perfectly Imperfect",
+        "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 144478,
+      "name": "Perfectly Imperfect",
+      "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Would Ya Could Ya",
-        "url": "https://open.spotify.com/album/2x7LOKpKzlPL9vvvnqONBG"
-      },
-      "artists": [
-        {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Would Ya Could Ya",
-      "url": "https://open.spotify.com/track/7Fh24Qm2fng2eJLveOw3AL"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Elevator",
         "url": "https://open.spotify.com/album/0bG8tpGG0eY8VW4PLXa6uC"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "This Is What They Meant",
-        "url": "https://open.spotify.com/album/10NLVV7jqlEAjMuyv03Dnq"
+        "name": "Would Ya Could Ya",
+        "url": "https://open.spotify.com/album/2x7LOKpKzlPL9vvvnqONBG"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
         }
       ],
-      "duration_ms": 174986,
-      "name": "This Is What They Meant",
-      "url": "https://open.spotify.com/track/0tZHm9L4ssbjBoJ2N5vOiK"
+      "duration_ms": 169000,
+      "name": "Would Ya Could Ya",
+      "url": "https://open.spotify.com/track/7Fh24Qm2fng2eJLveOw3AL"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "This Is What They Meant",
+        "url": "https://open.spotify.com/album/10NLVV7jqlEAjMuyv03Dnq"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 174986,
+      "name": "This Is What They Meant",
+      "url": "https://open.spotify.com/track/0tZHm9L4ssbjBoJ2N5vOiK"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Further Joy (Deluxe)",
         "url": "https://open.spotify.com/album/3c5DNRo3UUU3DBGd96BgoW"
       },
@@ -1579,22 +1579,6 @@
       "duration_ms": 196466,
       "name": "Dummy",
       "url": "https://open.spotify.com/track/2Bc4O6c1kI99Ug2Xnv4RAI"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 196592,
-      "name": "Lucky - Edit",
-      "url": "https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/1z3JyDP4NBJEOmQiBw4wLt"
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl"
       },
       "artists": [
         {
-          "name": "Transviolet",
-          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 199591,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/0YiCeKLuA8N6a8KimB4sNg"
+      "duration_ms": 196592,
+      "name": "Lucky - Edit",
+      "url": "https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 225128,
       "name": "Where Are You Now? (feat. girlhouse)",
       "url": "https://open.spotify.com/track/6yqCz1a30TyBBkLQrAcs7L"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1z3JyDP4NBJEOmQiBw4wLt"
+      },
+      "artists": [
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "duration_ms": 199591,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/0YiCeKLuA8N6a8KimB4sNg"
     },
     {
       "added_at": "2023-01-13 05:00:00",

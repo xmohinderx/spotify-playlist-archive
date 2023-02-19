@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-524 songs - 2 day 1 hr 14 min
+525 songs - 2 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Hector's House](https://open.spotify.com/track/2aaLOIGfCXEgiXdf1UYJvd) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Bluff Limbo](https://open.spotify.com/album/0l8dymo7QwPHkQRNEInA9A) | 4:26 | 2022-04-13 | 2022-07-26 |
 | [Hector's House](https://open.spotify.com/track/72uwGFdnyzQc0AXtOzst5j) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Bluff Limbo](https://open.spotify.com/album/18nE7bx6O1nC1MGpAYCPJv) | 4:26 | 2022-04-13 |  |
 | [Heidelberger Platz](https://open.spotify.com/track/3jAg0zZ3djLfPJZUg8tqWB) | [Studio Pankow](https://open.spotify.com/artist/2u2gYNDjDWwtkkr2XYVffq) | [Linienbusse](https://open.spotify.com/album/34DqwBqIa0Vkj2RbqvZxge) | 8:27 | 2022-04-13 |  |
-| [Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2022-04-13 | 2023-02-17 |
+| [Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2022-04-13 |  |
 | [Hello Meow](https://open.spotify.com/track/5NiGo2cVctozuCn6jCdtjn) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hello Everything](https://open.spotify.com/album/7wZuW9tw66vgchGn7DNb1n) | 4:31 | 2022-04-13 | 2022-07-21 |
 | [Herr Bar](https://open.spotify.com/track/0XesvWT3fGTXGLO7dUlBlU) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Body Riddle](https://open.spotify.com/album/04onGeB7bKwWHPPTXAiszV) | 3:54 | 2022-04-13 | 2023-02-03 |
 | [Herr Bar](https://open.spotify.com/track/1t86Aqm7uk30h9vVOl5c9h) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Body Riddle](https://open.spotify.com/album/3ofEXRsMidOzWed9dZsqfg) | 3:54 | 2022-04-13 |  |
@@ -351,6 +351,7 @@
 | [Pot Noddle](https://open.spotify.com/track/0kpuP6Zs39L1o6yocQw8On) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Spanners](https://open.spotify.com/album/2xP369vU8kb1QJWIT9vSFH) | 7:13 | 2022-04-13 | 2023-02-02 |
 | [Pressure](https://open.spotify.com/track/1Hh7FoTJQo4zjDJxnAvn2M) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Tttrial And Eror Mini](https://open.spotify.com/album/6mHdilGPGP3qZZkL7vxfSn) | 7:20 | 2022-04-13 | 2022-07-28 |
 | [Proper Lo\-Fi](https://open.spotify.com/track/6sIPYlmJhsYQRWnwLqkHg9) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Clarence Park](https://open.spotify.com/album/5jk81IdEKWXpJQ0nyAap8O) | 3:13 | 2022-04-13 | 2023-02-02 |
+| [Proper Lo\-Fi](https://open.spotify.com/track/03s0gEeySKKKYctNadlhHg) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Clarence Park](https://open.spotify.com/album/5CB6pVh3JNBHQ4I6zQuYXv) | 3:13 | 2022-04-13 |  |
 | [Protean](https://open.spotify.com/track/0FrhmMQ3dkCXYwoax6MQOY) | [Transglobal Underground](https://open.spotify.com/artist/1J3SQiv951KEbTdyDHFWVQ) | [International Times](https://open.spotify.com/album/1tTQzBRUUmtySzC6dY2cIp) | 4:33 | 2022-04-13 |  |
 | [Protean](https://open.spotify.com/track/2526Vqp94nRuBDnS8Xu5nm) | [Transglobal Underground](https://open.spotify.com/artist/1J3SQiv951KEbTdyDHFWVQ) | [International Times](https://open.spotify.com/album/1WZhYmjHlkCJwRo3e5th0z) | 4:33 | 2022-04-13 | 2022-07-28 |
 | [Psil\-cosyin](https://open.spotify.com/track/3OTbsxbLdlBLBe20W3BXNW) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Spanners](https://open.spotify.com/album/2xP369vU8kb1QJWIT9vSFH) | 10:34 | 2022-04-13 | 2023-02-02 |
@@ -448,7 +449,7 @@
 | [Ten Days Of Blue](https://open.spotify.com/track/2Ktuc6919DC0C0hx1tXDQH) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Ten Days Of Blue](https://open.spotify.com/album/6Fq0lGFFhZ01BfsBWKGolA) | 7:33 | 2022-04-13 |  |
 | [Tendency](https://open.spotify.com/track/6Py6ERVoAbMCwQhTatlluh) | [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Loop\-Finding\-Jazz\-Records](https://open.spotify.com/album/6UK4EMYa7by9xwU4eeAoE4) | 7:21 | 2022-04-13 |  |
 | [Testfour](https://open.spotify.com/track/5Wa5pB95EwA1To7TuoHbik) | [Sweet Exorcist](https://open.spotify.com/artist/1n5Q0UoYwXeQza7ucLqFne) | [Warp10+2 Classics 89\-92](https://open.spotify.com/album/3tLe4xr0HkqxdaDmmLV9KS) | 5:47 | 2022-04-13 | 2023-02-03 |
-| [Tha](https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 9:07 | 2022-04-13 |  |
+| [Tha](https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 9:07 | 2022-04-13 | 2023-02-19 |
 | [thaem nue \- 2021 Remaster](https://open.spotify.com/track/3r6QaDjVQEc3nr8atyKgEX) | [Arovane](https://open.spotify.com/artist/6wNOfYFlLoZxi37nmPIB0c) | [Atol Scrap \(2021 Remaster\)](https://open.spotify.com/album/68YzQMfr2LA79zpNS3k3s1) | 7:29 | 2022-04-13 |  |
 | [The Box, Pt\. 1](https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 6:28 | 2022-04-13 |  |
 | [The Shrine Of The Serpent Goddess](https://open.spotify.com/track/2gAtn1FWeoEbUmctNHY4U8) | [Hieroglyphic Being](https://open.spotify.com/artist/6zh25V1pQ8IQpxDYVmFSrT) | [The Disco's Of Imhotep](https://open.spotify.com/album/7JOBQa2I1VIwVn2IcC9Uq4) | 1:06 | 2022-09-15 |  |
@@ -470,7 +471,7 @@
 | [Tokyo Ghost Stories](https://open.spotify.com/track/7DxrpQ64RjENyP4j8z8p0s) | [Arovane](https://open.spotify.com/artist/6wNOfYFlLoZxi37nmPIB0c) | [Lilies](https://open.spotify.com/album/5nRyzaR3hTNo81R1hCQrbL) | 5:07 | 2022-04-13 |  |
 | [tracing Rays \[reality glo\]](https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [tracing Rays \[reality glo\]](https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY) | 4:22 | 2022-04-13 |  |
 | [Tranquillizer](https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 8:18 | 2022-04-13 |  |
-| [Transalpin](https://open.spotify.com/track/59KPifzZyuiCA61ePMILDR) | [Herrmann & Kleine](https://open.spotify.com/artist/4eAvv4YZKpFzu7O8kPYHJk) | [Transalpin](https://open.spotify.com/album/70HEIoCxykfb8Q9p76AMDp) | 6:54 | 2022-04-13 |  |
+| [Transalpin](https://open.spotify.com/track/59KPifzZyuiCA61ePMILDR) | [Herrmann & Kleine](https://open.spotify.com/artist/4eAvv4YZKpFzu7O8kPYHJk) | [Transalpin](https://open.spotify.com/album/70HEIoCxykfb8Q9p76AMDp) | 6:54 | 2022-04-13 | 2023-02-19 |
 | [Transient Pathways](https://open.spotify.com/track/0soPoKQ1Kftq5sG4Zck34k) | [B12](https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm) | [Electro\-Soma II](https://open.spotify.com/album/3W82mxtSUsJFyskiPX5StP) | 3:57 | 2022-04-13 | 2022-07-26 |
 | [Tropical Metal](https://open.spotify.com/track/309EUbySvUaKi1TucdGCOk) | [Jackson And His Computer Band](https://open.spotify.com/artist/7Jdjjb3kJWyPmV5MbdVdTv) | [Smash](https://open.spotify.com/album/4eqfKz9wOPGKS7hMXCmac3) | 3:36 | 2022-04-13 | 2022-07-27 |
 | [Turquoise Hexagon Sun](https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:07 | 2022-04-13 | 2023-01-01 |

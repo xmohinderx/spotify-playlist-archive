@@ -1,12 +1,12 @@
 {
   "description": "You better duck, when I show you up, the goo goo muck! The Cramps on the cover.",
-  "num_followers": 553484,
+  "num_followers": 553606,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU5NDAxOSwwMDAwMDAwMDlmZmRiM2NlNjRhYTRjYzEwYTEyMzIzOWE5MDBmNzhm",
+  "snapshot_id": "MTY3NDU5NDAxOSwwMDAwMDAwMGM5Njk0ZWNmOWM5NzExYTI5YzkyOWFiMDRmNGZlODA0",
   "tracks": [
     {
       "added_at": "2022-11-28 15:12:32",
@@ -335,6 +335,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Sugarbread",
+        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
+      },
+      "artists": [
+        {
+          "name": "Soap&Skin",
+          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Me and the Devil",
+      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Night Time",
         "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 448466,
       "name": "Pictures of You - 2010 Remaster",
       "url": "https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Sugarbread",
-        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
-      },
-      "artists": [
-        {
-          "name": "Soap&Skin",
-          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Me and the Devil",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
     },
     {
       "added_at": "2021-10-15 04:04:50",

@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora do ver\u00e3o.",
-  "num_followers": 86032,
+  "num_followers": 86035,
   "original_name": "Ver\u00e3o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDBmZWYwNDNlMjgzZDllMTQyODk2MmY2YzI5NjMwYjBi",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDZmYWUwNjllYWQ3Yjc5YjdlYjQwZDQ1MDkyM2VlMzdh",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "SORRIA",
-        "url": "https://open.spotify.com/album/2zGGywHWKqNShqjjpbA3fs"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 181122,
-      "name": "SORRIA",
-      "url": "https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "A Um Beijo (Ao Vivo)",
         "url": "https://open.spotify.com/album/57DH7MBymmvWBf5yBMKeSd"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 156164,
       "name": "A Um Beijo - Ao Vivo",
       "url": "https://open.spotify.com/track/4PbwSgOB9azMBS0eGO2tX7"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "SORRIA",
+        "url": "https://open.spotify.com/album/2zGGywHWKqNShqjjpbA3fs"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 181122,
+      "name": "SORRIA",
+      "url": "https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk"
     },
     {
       "added_at": "2022-10-13 23:00:00",

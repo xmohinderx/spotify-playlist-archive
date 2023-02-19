@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas para voc\u00ea curtir com seu amor.",
-  "num_followers": 762200,
+  "num_followers": 762206,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDYzODAwMCwwMDAwMDAwMDYwNTQ5ZTM3YTZlY2Q1NDRmY2JjODBjN2QwZDZiNmJi",
+  "snapshot_id": "MTYzMDYzODAwMCwwMDAwMDAwMDdjYTQ2MTNmYWE4ZjNiYjNiMzg2NTZkOTJiZWMwNTI5",
   "tracks": [
     {
       "added_at": "2021-09-03 03:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
+        "name": "Algo Parecido",
+        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
+      },
+      "artists": [
+        {
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Algo Parecido",
+      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
         "name": "A Milenar Arte De Meter O Louco",
         "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 175270,
       "name": "Linda",
       "url": "https://open.spotify.com/track/6wnCBT8ip4i9HRhM3HVk6d"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
-        "name": "Algo Parecido",
-        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
-      },
-      "artists": [
-        {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Algo Parecido",
-      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
     },
     {
       "added_at": "2021-09-03 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro.",
-  "num_followers": 26382,
+  "num_followers": 26383,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMGYwMmI1ZDBlNmRkOGVkM2ZiY2VkMmVmMzJiZGZiOTY5",
+  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMDkwNTc2MTIwOGQxY2JmOTdiOTQyZTk3MzI3ZjJhNmFj",
   "tracks": [
     {
       "added_at": "2023-02-10 00:00:00",
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
     },
     {
-      "added_at": "2023-02-19 01:14:59",
+      "added_at": "2023-02-19 06:46:17",
       "album": {
         "name": "Solteiros",
         "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "VOLTA",
-        "url": "https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 241565,
-      "name": "VOLTA",
-      "url": "https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "3,14",
         "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 324763,
       "name": "3,14",
       "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "VOLTA",
+        "url": "https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 241565,
+      "name": "VOLTA",
+      "url": "https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Gota D'Espa\u00e7o",
-        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
+        "name": "Farda",
+        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
       },
       "artists": [
         {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
         }
       ],
-      "duration_ms": 236571,
-      "name": "Ar",
-      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
+      "duration_ms": 189011,
+      "name": "Farda",
+      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Farda",
-        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
+        "name": "Gota D'Espa\u00e7o",
+        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
       },
       "artists": [
         {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         }
       ],
-      "duration_ms": 189011,
-      "name": "Farda",
-      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
+      "duration_ms": 236571,
+      "name": "Ar",
+      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "PRA MIM",
-        "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 153858,
-      "name": "PRA MIM",
-      "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Salto Alto",
         "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 219968,
       "name": "Salto Alto",
       "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "PRA MIM",
+        "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 153858,
+      "name": "PRA MIM",
+      "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
+        "name": "GUUD",
+        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "GUUD",
+      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
         "name": "Come quarantine w me",
         "url": "https://open.spotify.com/album/4w38KrD6iNjnzUUEj8hfsi"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "GUUD",
-        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 168631,
-      "name": "GUUD",
-      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
         "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
@@ -815,8 +815,8 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Cad\u00e1ver",
-        "url": "https://open.spotify.com/album/3kklO925aQsir4f7YPpWpG"
+        "name": "Lat\u00eancia",
+        "url": "https://open.spotify.com/album/4V3IpiTNQowJOxQv4oTzH3"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx"
         }
       ],
-      "duration_ms": 240298,
-      "name": "Cad\u00e1ver",
-      "url": "https://open.spotify.com/track/6zaozdqUEfE86imEE4mfue"
+      "duration_ms": 229463,
+      "name": "Katrina",
+      "url": "https://open.spotify.com/track/5YDwsOw12TSkpjNT57YvgG"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -859,22 +859,6 @@
       "duration_ms": 279423,
       "name": "Depois da Chuva",
       "url": "https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "Jony Driver",
-        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Fe.",
-      "url": "https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -951,6 +935,58 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/2cJ1jf9Oo3mhiDK7dLJfeq"
+      },
+      "artists": [
+        {
+          "name": "Ziki Ks",
+          "url": "https://open.spotify.com/artist/5h7FvtwckwDBdLlC3yOHgU"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "777",
+      "url": "https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Jony Driver",
+        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Fe.",
+      "url": "https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Cad\u00e1ver",
+        "url": "https://open.spotify.com/album/3kklO925aQsir4f7YPpWpG"
+      },
+      "artists": [
+        {
+          "name": "xtinto",
+          "url": "https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx"
+        }
+      ],
+      "duration_ms": 240298,
+      "name": "Cad\u00e1ver",
+      "url": "https://open.spotify.com/track/6zaozdqUEfE86imEE4mfue"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
         "name": "Sobe & Desce",
         "url": "https://open.spotify.com/album/3IF3Qh0KHKMHFbb8fJXJWY"
       },
@@ -967,22 +1003,6 @@
       "duration_ms": 148670,
       "name": "Sobe & Desce",
       "url": "https://open.spotify.com/track/71vNZgRE80njllFK6kHj3z"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "Lat\u00eancia",
-        "url": "https://open.spotify.com/album/4V3IpiTNQowJOxQv4oTzH3"
-      },
-      "artists": [
-        {
-          "name": "xtinto",
-          "url": "https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx"
-        }
-      ],
-      "duration_ms": 229463,
-      "name": "Katrina",
-      "url": "https://open.spotify.com/track/5YDwsOw12TSkpjNT57YvgG"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1007,26 +1027,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/2cJ1jf9Oo3mhiDK7dLJfeq"
-      },
-      "artists": [
-        {
-          "name": "Ziki Ks",
-          "url": "https://open.spotify.com/artist/5h7FvtwckwDBdLlC3yOHgU"
-        },
-        {
-          "name": "AET",
-          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "777",
-      "url": "https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Mais Uma Vez",
         "url": "https://open.spotify.com/album/2Cy2WpJjRQ4ZMxqEcK4srx"
       },
@@ -1041,7 +1041,7 @@
       "url": "https://open.spotify.com/track/6G1qfNxVKAjxaVInNwj2aK"
     },
     {
-      "added_at": "2023-02-19 01:14:59",
+      "added_at": "2023-02-19 06:46:17",
       "album": {
         "name": "brilhante",
         "url": "https://open.spotify.com/album/40CKlrqbamQhrynPYJXjqz"

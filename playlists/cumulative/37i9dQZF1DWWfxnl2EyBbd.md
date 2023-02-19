@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-416 songs - 1 day 8 hr 58 min
+417 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Memories Of Her Music](https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Memories Of Her Music](https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV) | 3:33 | 2023-02-02 |  |
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-01 |  |
 | [Mia's Lullaby](https://open.spotify.com/track/3ETpB2M7yhqSwmuAMeQTF2) | [Dean Stockdale Trio](https://open.spotify.com/artist/5osQPHnFc9DPK1uEf2yRk0) | [Promise the Moon](https://open.spotify.com/album/0bCrIRrZJTc1GK4ar61t3m) | 5:33 | 2022-03-17 | 2022-11-24 |
-| [Midday Walk](https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Midday Walk](https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp) | 3:31 | 2022-11-12 |  |
+| [Midday Walk](https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Midday Walk](https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp) | 3:31 | 2022-11-12 | 2023-02-19 |
 | [Midnight Fairytale](https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Midnight Fairytale](https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev) | 2:09 | 2023-02-09 |  |
 | [Midnight Waves](https://open.spotify.com/track/7xCbsQ2xX8fEGiAB1KVwNH) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 6:21 | 2022-05-19 | 2022-11-12 |
 | [Misty](https://open.spotify.com/track/6638Vx73iajSnMO9ZmQoHB) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Misty](https://open.spotify.com/album/5JQpMlF00cytK3RkoRwEtb) | 4:32 | 2022-02-10 | 2022-07-29 |
@@ -347,6 +347,7 @@
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2022-11-12 | 2022-12-20 |
 | [The Circle](https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:56 | 2022-04-07 | 2022-11-09 |
 | [The Dance That Never Was](https://open.spotify.com/track/2IUAOAEEDYwnfVZB1tQRoT) | [Kevin Day](https://open.spotify.com/artist/1eytUg0DncW4jwVXM6NXGs), [Josh Trentadue](https://open.spotify.com/artist/0c3PuoczwnUfQEcEKcdEFi) | [The Dance That Never Was](https://open.spotify.com/album/3eRGSCF9oZ9PkPIVe55htw) | 7:19 | 2022-02-25 | 2022-11-12 |
+| [The Day that I Felt](https://open.spotify.com/track/7IVkAhHfWNsc7HUxKddN1x) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:18 | 2023-02-16 |  |
 | [The End and The Beginning](https://open.spotify.com/track/2Sgr7Jsy8zwh2m23HpPOWE) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Steel House](https://open.spotify.com/album/1rBSrhlhmksroEC1qJvv5R) | 7:23 | 2022-02-10 | 2022-11-09 |
 | [The Fate of Love](https://open.spotify.com/track/59VY0huVKd5pSuJLI9RrMO) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [The Fate of Love](https://open.spotify.com/album/4LYUSTQLCYtx3DZTfsXFly) | 2:50 | 2023-01-19 |  |
 | [The First Touch](https://open.spotify.com/track/5fDmVPtwQAo45rLxKBUZod) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 4:13 | 2022-02-10 | 2022-11-12 |

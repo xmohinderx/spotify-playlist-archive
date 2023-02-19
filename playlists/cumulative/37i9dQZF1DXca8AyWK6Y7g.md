@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Mae Stephens
 
-1,524 songs - 3 day 5 hr 45 min
+1,526 songs - 3 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [100 degrees](https://open.spotify.com/track/3CUpbtzoKSma5AnP7kLoEv) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [100 degrees](https://open.spotify.com/album/1FtqIRyFbGToVdXkmWN9f0) | 2:38 | 2022-10-21 | 2022-12-03 |
 | [12345](https://open.spotify.com/track/0fxUGOzBYJGKgs5ZKw1Em5) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Egg in the Backseat](https://open.spotify.com/album/1iHhuUxL99xxbDjlLwHV8W) | 2:44 | 2022-07-22 | 2022-08-13 |
 | [14](https://open.spotify.com/track/1AlbmEnnFgR9b4yCw9zkzf) | [India Dupriez](https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a) | [14](https://open.spotify.com/album/6Y8manNCbK8DfkDFZrEQMh) | 3:28 | 2022-07-01 | 2022-07-08 |
-| [1st](https://open.spotify.com/track/7ocjI38QtLM2Jk3ewzGh04) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [1st](https://open.spotify.com/album/3ar66R02DuMSuvw56H0Ivd) | 3:03 | 2023-02-03 |  |
+| [1st](https://open.spotify.com/track/7ocjI38QtLM2Jk3ewzGh04) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [1st](https://open.spotify.com/album/3ar66R02DuMSuvw56H0Ivd) | 3:03 | 2023-02-03 | 2023-02-19 |
 | [2 The Weekend](https://open.spotify.com/track/4CLQ440AxCJfft2pwjDR8x) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [2 The Weekend](https://open.spotify.com/album/3IjdYALpGG1oDMU0PRmFTw) | 2:35 | 2021-11-19 | 2022-03-12 |
 | [20 Questions](https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG) | 2:59 | 2022-09-23 | 2022-11-12 |
 | [20 Questions](https://open.spotify.com/track/5CvDcpK3CK6BhIXOgIuLBD) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/6LeZXjHYz5lylgFED1mVHL) | 2:59 | 2022-09-23 | 2022-10-14 |
@@ -580,6 +580,7 @@
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2020-08-20 | 2022-01-01 |
 | [Heat Waves \(with iann dior\)](https://open.spotify.com/track/3pXVWgkWybiGchdKGYDgdl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Heat Waves \(with iann dior\)](https://open.spotify.com/album/5DytspFb0BRnjtToyLzU2m) | 2:55 | 2021-04-20 | 2022-01-01 |
 | [Heatwave \(feat\. More Giraffes\)](https://open.spotify.com/track/2CM1iotrmpuwTe4sIQjuKW) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d), [More Giraffes](https://open.spotify.com/artist/1SKIyebAAhyPaaFp4x1Vp0) | [Heatwave \(feat\. More Giraffes\)](https://open.spotify.com/album/1ZIXNW1nqyEihYi0LB2quB) | 2:54 | 2019-05-26\* | 2019-08-13 |
+| [Heaven](https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Heaven](https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W) | 3:00 | 2023-02-17 |  |
 | [heaven come](https://open.spotify.com/track/2lTpnVnrqmYfAlgUNRfDSR) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [heaven come](https://open.spotify.com/album/151jH4X7h8l0lf0L6svPUr) | 2:56 | 2019-07-27 | 2021-11-10 |
 | [Heaven Knows](https://open.spotify.com/track/3sXb0KaAlEOw7p7ui8Oyzd) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Heaven Knows](https://open.spotify.com/album/6QRgGuzC3dsRAfQGFBHzLN) | 3:20 | 2019-09-06 | 2020-02-19 |
 | [Heaven Wasn't Made For Me](https://open.spotify.com/track/3B6lwaPB9rocO48swMX56B) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Heaven Wasn't Made For Me](https://open.spotify.com/album/0J1jJ3La9PwPYYiZyVdepi) | 2:53 | 2019-05-26\* | 2019-08-13 |
@@ -651,7 +652,7 @@
 | [i can't help it](https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [i can't help it](https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK) | 2:57 | 2022-08-26 | 2022-10-13 |
 | [i can't help it](https://open.spotify.com/track/3F3roWqJPMtmLbPPl93bbR) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:57 | 2022-09-09 | 2022-11-30 |
 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 | 2021-05-26 | 2022-01-08 |
-| [I Do You](https://open.spotify.com/track/6sddeX1f4BHzmHB94p4lRI) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [I Do You](https://open.spotify.com/album/3J99ffNNhFsr6hHVmNkJlE) | 3:09 | 2023-01-20 |  |
+| [I Do You](https://open.spotify.com/track/6sddeX1f4BHzmHB94p4lRI) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [I Do You](https://open.spotify.com/album/3J99ffNNhFsr6hHVmNkJlE) | 3:09 | 2023-01-20 | 2023-02-19 |
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 | 2022-01-14 | 2022-09-03 |
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 3:15 | 2021-09-10 | 2022-07-29 |
 | [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 | 2022-10-28 | 2023-01-28 |
@@ -1525,6 +1526,7 @@
 | [Year of the Ex](https://open.spotify.com/track/5m1Wm07bfb58sEWw7wosy7) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Year of the Ex](https://open.spotify.com/album/3zT0wDFGo5yeKwyGvEc41e) | 3:04 | 2022-01-14 | 2022-03-12 |
 | [YOU AGAINST YOURSELF](https://open.spotify.com/track/3Cozx0ZC9RjHOPhW8VOdXC) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [YOU AGAINST YOURSELF](https://open.spotify.com/album/4ICdRtrHEOUftxkU4inMc5) | 2:26 | 2022-08-19 |  |
 | [You Are Losing Me](https://open.spotify.com/track/2RZG69vGcBkMGZQf7JiO3v) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [You Are Losing Me](https://open.spotify.com/album/6oZI1hY0Xm2CYBA2Wvs2GA) | 3:27 | 2019-09-27 | 2020-04-18 |
+| [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 | 2023-02-17 |  |
 | [Young And On Fire](https://open.spotify.com/track/09WWY8SJbQ2Sc6vqkRwNZ7) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3), [Night Panda](https://open.spotify.com/artist/4pmV88dqzWGC82M7yFVx5z) | [Young And On Fire](https://open.spotify.com/album/7s7PkNqB2vgIGrjEBecLo6) | 3:49 | 2019-05-26\* | 2020-02-19 |
 | [YOUR GHOST](https://open.spotify.com/track/6X8NtXpTWAdHj01tn03LCz) | [RILEY](https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4) | [LOSS ANGELES: OVERDOSE](https://open.spotify.com/album/4J0gMzK8BpoGaNtHdTbH2W) | 2:53 | 2022-03-25 | 2022-05-14 |
 | [Your Internet Sucks](https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Your Internet Sucks](https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R) | 2:49 | 2023-01-13 | 2023-01-28 |

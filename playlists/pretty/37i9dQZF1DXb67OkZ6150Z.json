@@ -1,12 +1,12 @@
 {
   "description": "The best indie covers. Cover: Remi Wolf",
-  "num_followers": 276636,
+  "num_followers": 276639,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDA1OWYwNTg0MTNmODc0ZDVlYWM2MWFkZmE5MzAxOWM1",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDFiZmQ3ZGE1MDNkM2QyMzJlNmRjZTQ4ZTA5NzczODUy",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -317,6 +317,22 @@
       "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Sweater Weather",
+        "url": "https://open.spotify.com/album/0p9EbDmUVOaXwkzLyJEdsl"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/0CYAqKC8CkyAu1bsXQ5lS4"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "No Surprises",
@@ -347,22 +363,6 @@
       "duration_ms": 197576,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Sweater Weather",
-        "url": "https://open.spotify.com/album/0p9EbDmUVOaXwkzLyJEdsl"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/0CYAqKC8CkyAu1bsXQ5lS4"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -485,6 +485,30 @@
       "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/746wjyF8LAeRWH7pBGDO9S"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        }
+      ],
+      "duration_ms": 193344,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Home",
@@ -515,30 +539,6 @@
       "duration_ms": 140741,
       "name": "As I Rise",
       "url": "https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/746wjyF8LAeRWH7pBGDO9S"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        },
-        {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
-        }
-      ],
-      "duration_ms": 193344,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -653,6 +653,30 @@
       "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
     },
     {
+      "added_at": "2022-12-05 15:39:19",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        }
+      ],
+      "duration_ms": 262714,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "true colors (from Life is Strange)",
@@ -683,30 +707,6 @@
       "duration_ms": 179176,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz"
-    },
-    {
-      "added_at": "2022-12-05 15:39:19",
-      "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
-        },
-        {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        }
-      ],
-      "duration_ms": 262714,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Singing Other People's Love Songs",
+        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 136891,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Build Me Up Buttercup",
         "url": "https://open.spotify.com/album/75pu09lJh763j3ymMi9Fn5"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 313520,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Singing Other People's Love Songs",
-        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 136891,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1117,6 +1117,22 @@
       "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "West Coast",
+        "url": "https://open.spotify.com/album/3XZP9FEuWaS66Gquo2cKaa"
+      },
+      "artists": [
+        {
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/3JjqTp1P1igYmNHFPb6SDH"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Music From The Pen Gala 1983",
@@ -1163,22 +1179,6 @@
       "duration_ms": 209000,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/0akpudMz8aq9UgPTMUK0qq"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "West Coast",
-        "url": "https://open.spotify.com/album/3XZP9FEuWaS66Gquo2cKaa"
-      },
-      "artists": [
-        {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "West Coast",
-      "url": "https://open.spotify.com/track/3JjqTp1P1igYmNHFPb6SDH"
     },
     {
       "added_at": "2022-11-11 05:00:00",

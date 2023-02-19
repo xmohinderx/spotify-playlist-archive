@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. La Receta en portada.
 
-246 songs - 12 hr 52 min
+247 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [KDR](https://open.spotify.com/track/66OK4uEWo71v2hcsPqxMNn) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [KDR](https://open.spotify.com/album/6ATbvwDHxLn5dfzGpqfygm) | 3:21 | 2022-04-29 | 2022-10-15 |
 | [Kenwood En Los Radios \(En Vivo\)](https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C) | [Desde Culiacán Con Servando Zl \(En Vivo\)](https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg) | 3:07 | 2022-12-05 |  |
 | [La Bachata](https://open.spotify.com/track/4h3L3S6gEEKGETQHrGZafH) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7IoQkL9C3vfSmF0Q9mXelv) | 2:58 | 2022-12-23 | 2023-02-18 |
+| [La Bachata](https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as) | 2:58 | 2022-12-23 |  |
 | [La Charla](https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Charla](https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr) | 3:50 | 2022-07-08 | 2022-09-24 |
 | [la del rencoroso](https://open.spotify.com/track/7rGR1C1xvHzZ4D0wRPnJm5) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [la del rencoroso](https://open.spotify.com/album/0lonH1EHVMwAJghZUHxnxX) | 2:12 | 2022-09-30 | 2022-12-24 |
 | [La Negra](https://open.spotify.com/track/2TNjM6ceY3RaA5u2kDSI8Y) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Dani Tapia](https://open.spotify.com/artist/0ODccomcktwx3B6hJVAF1C) | [La Negra](https://open.spotify.com/album/3Zh9RTB7X8uUsPGiUHWI7u) | 3:34 | 2022-04-01 | 2022-08-06 |
@@ -192,7 +193,7 @@
 | [Puro Pa' Delante](https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Puro Pa' Delante](https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B) | 2:33 | 2023-01-13 |  |
 | [Quiero Contarte](https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Quiero Contarte](https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC) | 2:40 | 2022-09-23 | 2022-12-10 |
 | [Quién Como Ella](https://open.spotify.com/track/34IPKpDvkxraMK2roBo2O7) | [Elebier Lopez](https://open.spotify.com/artist/3ePsUyFbJdTgoiGV6iIn6r) | [Quién Como Ella](https://open.spotify.com/album/4dpn4WmpnHdo68TfbZaQsA) | 1:59 | 2022-09-30 | 2022-12-10 |
-| [Quién Te Entiende \- En Vivo](https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Quién Te Entiende \(En Vivo\)](https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8) | 3:13 | 2023-01-13 |  |
+| [Quién Te Entiende \- En Vivo](https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Quién Te Entiende \(En Vivo\)](https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8) | 3:13 | 2023-01-13 | 2023-02-19 |
 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 | 2022-06-17 | 2022-09-24 |
 | [Refuego por Culiacan](https://open.spotify.com/track/5KvVBN8WLI8RRy4iryZnMg) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Refuego por Culiacan](https://open.spotify.com/album/3E0kYtbOyjAPPaSK5G2pY5) | 3:30 | 2022-12-23 |  |
 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 | 2022-09-16 | 2022-12-10 |

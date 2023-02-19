@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-430 songs - 1 day 0 hr 3 min
+431 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Just A Little While](https://open.spotify.com/track/4ofr8ORQ9w1QuxGLBwRiQk) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/3epIoUnC4FeVi8g59Hxd9F) | 2:42 | 2022-06-27 |  |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-03-11 |  |
 | [Keep Together](https://open.spotify.com/track/4w7AR9JcOsWuHilyvFsbQV) | [Hunter Hunted](https://open.spotify.com/artist/1Xqfa9sfJ094hHdEVS1C6t) | [Hunter Hunted](https://open.spotify.com/album/3kr3oStfixmG1UGPYsZq45) | 3:28 | 2022-03-11 | 2022-04-19 |
+| [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 | 2023-02-17 |  |
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2022-06-27 |  |
 | [Kilby Girl](https://open.spotify.com/track/3fsaxdtRDMEvZu1XC3FN2i) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/0tIHVQTSqQB3DW6Nt7amsA) | 4:42 | 2021-03-10 | 2022-07-29 |
 | [Killer Whales](https://open.spotify.com/track/0qnOjNW04qpcgXqD9dwru2) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:42 | 2021-03-10 |  |
@@ -359,7 +360,7 @@
 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 | 2022-07-29 |  |
 | [Sunroof](https://open.spotify.com/track/1zLEXRNVucrDxxI1qmGO9Z) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Denial in Paradise](https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY) | 3:12 | 2022-06-27 |  |
 | [Sunroof](https://open.spotify.com/track/2ivkl6Gefp1tMg3LcjuzQB) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Sunroof](https://open.spotify.com/album/2i4t0YIgyLyIC7DOGKU1m7) | 3:12 | 2021-03-10 | 2022-07-29 |
-| [Sunshine Time](https://open.spotify.com/track/08ag3RWt1LlRWDFU44XSss) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Going Mainstream](https://open.spotify.com/album/2K2u7usRIF03pywk6qxGlM) | 3:31 | 2021-07-30 |  |
+| [Sunshine Time](https://open.spotify.com/track/08ag3RWt1LlRWDFU44XSss) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Going Mainstream](https://open.spotify.com/album/2K2u7usRIF03pywk6qxGlM) | 3:31 | 2021-07-30 | 2023-02-19 |
 | [Superglue](https://open.spotify.com/track/5tTpyVtQuj1j8ZBnjn9WPC) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Superglue](https://open.spotify.com/album/39IcaBkeuTzJQcNJ5Hi9CM) | 4:10 | 2023-02-17 |  |
 | [Surefire](https://open.spotify.com/track/3CxBGLrVRt9sanlpCcpOMf) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Surefire](https://open.spotify.com/album/7Gp6tjO66qmd1OmSXPEBis) | 4:00 | 2021-03-10 | 2022-07-29 |
 | [Surefire](https://open.spotify.com/track/6iWvETAILWAYOdm2DioSEF) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 4:01 | 2022-06-27 | 2022-11-09 |

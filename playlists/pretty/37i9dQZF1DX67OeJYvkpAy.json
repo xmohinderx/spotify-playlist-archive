@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 83655,
+  "num_followers": 83660,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGNjY2RjODU2ZjM4OWViNDdlMzkyOTFmZTNlNGMyMzFi",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGRkMTA1Yzk0NmI0ZTY1YjQwMDMxMzVjY2Q4MWE1ZTIw",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 80613,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Hoods Hottest",
         "url": "https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 156053,
       "name": "Why you gotta lie?",
       "url": "https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 80613,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Broken Hearted Crook",
-        "url": "https://open.spotify.com/album/4uUlH56l3S2AehDBiFiVjP"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 168182,
-      "name": "Broken Hearted Crook",
-      "url": "https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Better With You Than On My Own",
         "url": "https://open.spotify.com/album/7L5a0opz3RoRKg7e3683D7"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 140444,
       "name": "Better With You Than On My Own",
       "url": "https://open.spotify.com/track/32M9aAAuuhybp33wiLWtes"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Broken Hearted Crook",
+        "url": "https://open.spotify.com/album/4uUlH56l3S2AehDBiFiVjP"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 168182,
+      "name": "Broken Hearted Crook",
+      "url": "https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "In my head",
-        "url": "https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4"
-      },
-      "artists": [
-        {
-          "name": "Gbnga",
-          "url": "https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ"
-        }
-      ],
-      "duration_ms": 155725,
-      "name": "Champions League",
-      "url": "https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Take The Risk",
         "url": "https://open.spotify.com/album/4RMlVn3P7BppnyMKJ8lu6R"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 200039,
       "name": "Take The Risk",
       "url": "https://open.spotify.com/track/5EGAO3pl7UtmG1M24rXAnD"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "In my head",
+        "url": "https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4"
+      },
+      "artists": [
+        {
+          "name": "Gbnga",
+          "url": "https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ"
+        }
+      ],
+      "duration_ms": 155725,
+      "name": "Champions League",
+      "url": "https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Love Don't Change",
+        "url": "https://open.spotify.com/album/5pCvpUnLgq5etnBXOTzql8"
+      },
+      "artists": [
+        {
+          "name": "K5ive",
+          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
+        }
+      ],
+      "duration_ms": 215063,
+      "name": "Love Don't Change",
+      "url": "https://open.spotify.com/track/0Mrqm8cGahrzooiKmCE9lu"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Circle Of Life",
         "url": "https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 146729,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Love Don't Change",
-        "url": "https://open.spotify.com/album/5pCvpUnLgq5etnBXOTzql8"
-      },
-      "artists": [
-        {
-          "name": "K5ive",
-          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "Love Don't Change",
-      "url": "https://open.spotify.com/track/0Mrqm8cGahrzooiKmCE9lu"
     },
     {
       "added_at": "2022-08-02 15:42:28",

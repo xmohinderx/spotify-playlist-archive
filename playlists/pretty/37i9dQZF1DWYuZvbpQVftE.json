@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 14549,
+  "num_followers": 14560,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTkzNTA0MiwwMDAwMDAwMGQ1YjEzZTA4Njk5ODdhZTM3YjQxYmJiNjJlZjg5NGJm",
+  "snapshot_id": "MTY3NTkzNTA0MiwwMDAwMDAwMDViNWRjYWJhZDgxOGE3YmJkYWZjM2ViMDdjOTkwNzNj",
   "tracks": [
     {
       "added_at": "2023-01-26 14:28:32",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-01-26 14:28:32",
       "album": {
-        "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
-        "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        },
-        {
-          "name": "Bud Powell Quartet",
-          "url": "https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
-    },
-    {
-      "added_at": "2023-01-26 14:28:32",
-      "album": {
         "name": "Westward Bound! (Live)",
         "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 518000,
       "name": "Happily Dancing / Deep Harmonies Falling - Live",
       "url": "https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs"
+    },
+    {
+      "added_at": "2023-01-26 14:28:32",
+      "album": {
+        "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
+        "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        },
+        {
+          "name": "Bud Powell Quartet",
+          "url": "https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
     },
     {
       "added_at": "2023-01-26 14:28:32",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-01-26 14:28:32",
       "album": {
-        "name": "Jazz Loves Paris",
-        "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
-      },
-      "artists": [
-        {
-          "name": "Buddy Collette",
-          "url": "https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR"
-        }
-      ],
-      "duration_ms": 146306,
-      "name": "Pigalle",
-      "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
-    },
-    {
-      "added_at": "2023-01-26 14:28:32",
-      "album": {
         "name": "The Quartet and the Quintet",
         "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 195546,
       "name": "Ahmoore",
       "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
+    },
+    {
+      "added_at": "2023-01-26 14:28:32",
+      "album": {
+        "name": "Jazz Loves Paris",
+        "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
+      },
+      "artists": [
+        {
+          "name": "Buddy Collette",
+          "url": "https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR"
+        }
+      ],
+      "duration_ms": 146306,
+      "name": "Pigalle",
+      "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
     },
     {
       "added_at": "2023-01-26 14:28:32",

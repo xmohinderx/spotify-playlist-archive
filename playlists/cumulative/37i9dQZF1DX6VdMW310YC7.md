@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,437 songs - 4 day 3 hr 21 min
+1,438 songs - 4 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Carry On](https://open.spotify.com/track/6l5O6RzzSuCnwTjy9KQrdm) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Carry On](https://open.spotify.com/album/3p9Ovi8isYNXv6g1xgPCm5) | 3:49 | 2022-10-07 | 2022-11-12 |
 | [Cascade](https://open.spotify.com/track/5p6ayj39ygf7W8nkc8mGw4) | [Nyte](https://open.spotify.com/artist/5FAjeD9eW52qvpik9OsnVp) | [Cascade](https://open.spotify.com/album/407UNoBN8fpl7a5KsCLbo4) | 3:34 | 2021-05-07 | 2022-05-21 |
 | [Catchfire \(Sun Sun Sun\) \(feat\. Anna Leyne\) \- EDX Radio Edit](https://open.spotify.com/track/5rh9SC5MSOZSgRE3jBqQOY) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Anna Leyne](https://open.spotify.com/artist/7GCoz67CzP8geNIXE7lQrb) | [Catchfire \(Sun Sun Sun\) \[feat\. Anna Leyne\] \[EDX Remix\]](https://open.spotify.com/album/6cHhdl3PLqIPkA06JGK35c) | 2:47 | 2020-05-22 | 2020-07-03 |
+| [Catching Eyes](https://open.spotify.com/track/22Vsz6sIdD97KROSX7oAyq) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3rR9PxHvLdjXtOsBGUwWHD) | 4:09 | 2023-02-17 |  |
 | [Catching Eyes](https://open.spotify.com/track/2aUYt0CwHeJLrlgi0akUGp) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3vyUE4IyiLM471hbKVQ9i2) | 4:09 | 2022-07-01 | 2023-02-14 |
 | [Catching Eyes](https://open.spotify.com/track/3LJ7dXJzZ2umb3Ccsuq5fT) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/66SXZvXGSD2NEtFSos2HtB) | 4:09 | 2020-05-22 | 2022-07-29 |
 | [Celestial](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celestial](https://open.spotify.com/album/4F7Rdp5RCkiFUqP0vShZi3) | 2:46 | 2022-08-12 | 2022-08-20 |
@@ -305,7 +306,7 @@
 | [Divinity \- filous Remix](https://open.spotify.com/track/5EEb0Vm8xUKjpwH2jlftOl) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Amy Millan](https://open.spotify.com/artist/3lj7jldByrrpUgW5Je8o1p), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Divinity \(filous Remix\)](https://open.spotify.com/album/14i5IIywwM8fMuuI87M4Ap) | 4:07 | 2020-05-18 | 2020-07-03 |
 | [DJs Gotta Dance More](https://open.spotify.com/track/30HLXV5dIVOlrp2ncsUyjn) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [DJs Gotta Dance More](https://open.spotify.com/album/4IhHOv33cZ5J14gdrGbSoF) | 4:12 | 2020-05-18 | 2021-01-11 |
 | [Do It Like You](https://open.spotify.com/track/5h1Gi50T9QxVfzvIF8vciC) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Do It Like You](https://open.spotify.com/album/4PKH86wn7Gw4iel2WD564k) | 3:10 | 2020-05-18 | 2020-07-18 |
-| [Do You Feel The Same? \- OCULA Remix](https://open.spotify.com/track/588upfdUtSJ3Mvsqvyqzhs) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Do You Feel The Same? \(OCULA Remix\)](https://open.spotify.com/album/6wdkY0pX5shDrKlGRZX1Gw) | 3:52 | 2023-02-17 |  |
+| [Do You Feel The Same? \- OCULA Remix](https://open.spotify.com/track/588upfdUtSJ3Mvsqvyqzhs) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Do You Feel The Same? \(OCULA Remix\)](https://open.spotify.com/album/6wdkY0pX5shDrKlGRZX1Gw) | 3:52 | 2023-02-17 | 2023-02-19 |
 | [don't be so hard on yourself](https://open.spotify.com/track/0j69d3zENO7ZVjplwetmQp) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [it's good to hear your voice](https://open.spotify.com/album/5gaYJvbHf1NlOScEQvUSzZ) | 2:25 | 2020-11-20 | 2022-10-13 |
 | [don't forget to breathe today](https://open.spotify.com/track/1mjWyzZeXGkxyVoc81sRWP) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [stay vibrant](https://open.spotify.com/album/7g5WAl4SPgBZrLI1heU4Jt) | 4:07 | 2020-04-24 | 2022-04-21 |
 | [Don't Give Up](https://open.spotify.com/track/7E5Tl1oyZW5JPdhqGgW5hz) | [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Charlz](https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv) | [Don't Give Up](https://open.spotify.com/album/7eJ0TQWlnSy4z744vHgDm6) | 3:16 | 2020-08-20 |  |

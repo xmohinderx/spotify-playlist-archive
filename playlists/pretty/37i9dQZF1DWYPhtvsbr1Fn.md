@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPhtvsbr1Fn.md) - [plain]
 
 > resurging tracks coming in hot\. cover: Sure Thing era Miguel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,340 likes - 76 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,407 likes - 76 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

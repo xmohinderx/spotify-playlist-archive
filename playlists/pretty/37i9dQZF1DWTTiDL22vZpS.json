@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 5552,
+  "num_followers": 5566,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMxNjQzMSwwMDAwMDAwMDg3ODdhMDExODMzNzhhNjdkNTQ0MTM1NmFlMjIzZWVm",
+  "snapshot_id": "MTY3NjMxNjQzMSwwMDAwMDAwMDAyMjAxN2YzNzE2OWE5MjUyYmZhOGMwZjQ1OGZjMDc4",
   "tracks": [
     {
       "added_at": "2023-02-13 19:27:11",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-02-13 19:27:11",
       "album": {
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 275785,
+      "name": "A\u00f1ejo",
+      "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
+    },
+    {
+      "added_at": "2023-02-13 19:27:11",
+      "album": {
         "name": "LIKE THAT! \u26a1",
         "url": "https://open.spotify.com/album/2jHX0jyxu8aRPHRXQNcZib"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 166475,
       "name": "LIKE THAT! \u26a1",
       "url": "https://open.spotify.com/track/0SloUwZzPagpfOOo9kl33A"
-    },
-    {
-      "added_at": "2023-02-13 19:27:11",
-      "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 275785,
-      "name": "A\u00f1ejo",
-      "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
     },
     {
       "added_at": "2023-02-13 19:27:11",
@@ -863,22 +863,18 @@
     {
       "added_at": "2023-02-13 19:27:11",
       "album": {
-        "name": "Amanece",
-        "url": "https://open.spotify.com/album/17P39aFRw00nZ5bLqxmFKN"
+        "name": "Turista",
+        "url": "https://open.spotify.com/album/5hnEgpae3aS7ws5LE8zvVo"
       },
       "artists": [
         {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
-        },
-        {
-          "name": "Gil Cerezo",
-          "url": "https://open.spotify.com/artist/0IriYFJ4bOlHotHiwweJdG"
+          "name": "Cazzeros",
+          "url": "https://open.spotify.com/artist/5jzrYCX3klqShv1fnZNbVi"
         }
       ],
-      "duration_ms": 292546,
-      "name": "Amanece (feat. Gil Cerezo)",
-      "url": "https://open.spotify.com/track/5xnq09bL61Y11b2rutlyF9"
+      "duration_ms": 210000,
+      "name": "Turista",
+      "url": "https://open.spotify.com/track/75CvJyaMNLIRXkrHQOVblP"
     }
   ],
   "unique_name": "feels like latin funk",

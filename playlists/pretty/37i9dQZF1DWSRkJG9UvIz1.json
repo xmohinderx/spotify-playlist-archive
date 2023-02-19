@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 121239,
+  "num_followers": 121245,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDFiY2VjYTgwYWRhNzY5NWYyMTMyZDhlZDRjM2RlNTkw",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDM2NjY0YWQ2MjFmNzAzMWJkMDRmY2I5Y2MwYWU4NzQz",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Achados e Perdidos",
+        "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
+      },
+      "artists": [
+        {
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "Vem Menina",
+      "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Bossanova",
         "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 201878,
       "name": "Bossanova",
       "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Achados e Perdidos",
-        "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
-      },
-      "artists": [
-        {
-          "name": "Curumin",
-          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "Vem Menina",
-      "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
     },
     {
       "added_at": "2022-11-25 03:00:00",

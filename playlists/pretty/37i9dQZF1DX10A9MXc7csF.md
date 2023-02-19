@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Lluvia Arámbula
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,578 likes - 99 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,582 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 39 | [Mil Horas](https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:16 |
 | 40 | [Modo Avión](https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Modo Avión](https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1) | 3:31 |
 | 41 | [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 |
-| 42 | [Me Saliste Regular](https://open.spotify.com/track/1ZMn6X1evKqK0oYyyYf7Ul) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Saliste Regular](https://open.spotify.com/album/79dk6KkeC4SNEobig0hmCy) | 3:46 |
-| 43 | [Ni Como Ni cuando \(En Vivo\)](https://open.spotify.com/track/2Gs4NvmZXYfVPxizpZ892I) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [Ni Como Ni Cuando \(En Vivo\)](https://open.spotify.com/album/00LPgUJSYt1X5UQRK6YIu3) | 2:08 |
+| 42 | [Ni Como Ni cuando \(En Vivo\)](https://open.spotify.com/track/2Gs4NvmZXYfVPxizpZ892I) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [Ni Como Ni Cuando \(En Vivo\)](https://open.spotify.com/album/00LPgUJSYt1X5UQRK6YIu3) | 2:08 |
+| 43 | [Me Saliste Regular](https://open.spotify.com/track/1ZMn6X1evKqK0oYyyYf7Ul) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Saliste Regular](https://open.spotify.com/album/79dk6KkeC4SNEobig0hmCy) | 3:46 |
 | 44 | [Una Linda Canción](https://open.spotify.com/track/3MZ7iOuTBONZuBkiFtCEgn) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Una Linda Canción](https://open.spotify.com/album/1K9iqpu7B6SJ00AluBmIRw) | 4:28 |
 | 45 | [amorlove](https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ) | 2:29 |
 | 46 | [Manzana en el Mapa](https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Manzana en el Mapa](https://open.spotify.com/album/6CbT6DH726p3P8oAtmox7j) | 3:03 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 61 | [Te Mereces A Mi](https://open.spotify.com/track/5UFmU41FARfLkGGi4u7mQq) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Te Mereces A Mi](https://open.spotify.com/album/6ipurHHwRzradhwlT4JFZN) | 2:20 |
 | 62 | [Sola](https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Sola](https://open.spotify.com/album/4Z0DuXLsLDEgd1a3we0MRC) | 2:53 |
 | 63 | [Ilusionado](https://open.spotify.com/track/0oxC5a4WHrQ4EwsJqzKHEL) | [Jason Nunez](https://open.spotify.com/artist/5QRR2yQ8isWuBfcS1FbqSH) | [Ilusionado](https://open.spotify.com/album/539MYDSsxCxabAEkxEdJZg) | 2:32 |
-| 64 | [Mi Corazón](https://open.spotify.com/track/7nFCfXEl2JiaxzPF8233hz) | [Porto Fino](https://open.spotify.com/artist/1KBAMss5TbuIZUDf9STspe) | [Mi Corazón](https://open.spotify.com/album/6WjLL6O3dxamFqfKF0AJ21) | 3:37 |
-| 65 | [Mi Último Adiós](https://open.spotify.com/track/1RrXAK6MWeXtiunKhKHky9) | [Jayceee](https://open.spotify.com/artist/6AXGyJf6E8sUdWnyGxHsKt) | [Mi Último Adiós](https://open.spotify.com/album/6O1L0u1bhDy2duwIcVwdhH) | 4:41 |
+| 64 | [Mi Último Adiós](https://open.spotify.com/track/1RrXAK6MWeXtiunKhKHky9) | [Jayceee](https://open.spotify.com/artist/6AXGyJf6E8sUdWnyGxHsKt) | [Mi Último Adiós](https://open.spotify.com/album/6O1L0u1bhDy2duwIcVwdhH) | 4:41 |
+| 65 | [Mi Corazón](https://open.spotify.com/track/7nFCfXEl2JiaxzPF8233hz) | [Porto Fino](https://open.spotify.com/artist/1KBAMss5TbuIZUDf9STspe) | [Mi Corazón](https://open.spotify.com/album/6WjLL6O3dxamFqfKF0AJ21) | 3:37 |
 | 66 | [MIA](https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [MIA](https://open.spotify.com/album/11hjzgKjphCyjn5w1ydbNw) | 3:17 |
 | 67 | [Estilo Palazuelos](https://open.spotify.com/track/0XYMZS9FTl0MSPUaZkDqmF) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh), [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Estilo Palazuelos](https://open.spotify.com/album/6HsO8c5hUFWSxr0C4zuCLC) | 2:35 |
 | 68 | [Ganas de Amarte](https://open.spotify.com/track/7FzqgB7Ho4mMCXXPrZFGRv) | [Grupo Nueva Liga](https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk) | [Ganas de Amarte](https://open.spotify.com/album/6RGTD8Hrab0jvfgP3Z56Tt) | 3:23 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 98 | [Poder Sangriento](https://open.spotify.com/track/1ywZ5YvDT4hbGk1Dg31cEf) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z), [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [Poder Sangriento](https://open.spotify.com/album/5JBsJBLvGoQ9m4hnHcMVao) | 3:49 |
 | 99 | [WhatsApp](https://open.spotify.com/track/2dpxmuF4RltdQvh0sg5wcA) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [WhatsApp](https://open.spotify.com/album/27iHl47FNY4y2h4LJLCv98) | 2:38 |
 
-Snapshot ID: `MTY3NjYxNzEzMSwwMDAwMDAwMGFiNjYzZDQ4YWU2YWY3ZTdlNDIzMmU0MDBhNzQ0Mzlj`
+Snapshot ID: `MTY3NjYxNzEzMSwwMDAwMDAwMDdiZTk0NDdhMjM3NjJhY2Y1MzQ0ODk1ODVjNzliZGFm`

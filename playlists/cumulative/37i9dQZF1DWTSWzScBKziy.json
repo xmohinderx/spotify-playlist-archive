@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Holy Spirit Come",
+        "url": "https://open.spotify.com/album/675wCYd2ed5JUJF9sLBsyG"
+      },
+      "artists": [
+        {
+          "name": "Yancy",
+          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254358,
+      "name": "Holy Spirit Come",
+      "url": "https://open.spotify.com/track/0fFPUhjQSy1TWgK7W09fmo"
+    },
+    {
+      "album": {
         "name": "Home Called Heaven",
         "url": "https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV"
       },
@@ -2122,7 +2140,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 194935,
       "name": "More Than Ever",
       "url": "https://open.spotify.com/track/00cHdJO9E4TvmJBeuJq0pr"

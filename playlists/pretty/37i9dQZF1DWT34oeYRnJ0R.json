@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Feid & DJ Premier",
-  "num_followers": 696046,
+  "num_followers": 696050,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ2NDE1OSwwMDAwMDAwMDdiMWE4MGUyMjY0MmQzNDBjNDcyN2ZiZmQxZTFmMDFm",
+  "snapshot_id": "MTY3NTQ2NDE1OSwwMDAwMDAwMGYzYjQyZDU4NjMzMzU1ODJiNmQyN2NiYTgxYTM3MDAy",
   "tracks": [
     {
       "added_at": "2023-02-03 22:42:39",
@@ -227,42 +227,6 @@
     {
       "added_at": "2023-02-03 22:42:39",
       "album": {
-        "name": "Lo Tengo",
-        "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 167442,
-      "name": "LO TENGO",
-      "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
-    },
-    {
-      "added_at": "2023-02-03 22:42:39",
-      "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "La Fama",
-      "url": "https://open.spotify.com/track/3Lk9DyjczkS9qf8PlJgBYj"
-    },
-    {
-      "added_at": "2023-02-03 22:42:39",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws"
       },
@@ -283,18 +247,38 @@
     {
       "added_at": "2023-02-03 22:42:39",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 169526,
-      "name": "P\u00cdDELO",
-      "url": "https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK"
+      "duration_ms": 134482,
+      "name": "La Fama",
+      "url": "https://open.spotify.com/track/3Lk9DyjczkS9qf8PlJgBYj"
+    },
+    {
+      "added_at": "2023-02-03 22:42:39",
+      "album": {
+        "name": "Lo Tengo",
+        "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 167442,
+      "name": "LO TENGO",
+      "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
     },
     {
       "added_at": "2023-02-03 22:42:39",
@@ -335,6 +319,22 @@
       "duration_ms": 223469,
       "name": "Amandita",
       "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+    },
+    {
+      "added_at": "2023-02-03 22:42:39",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 169526,
+      "name": "P\u00cdDELO",
+      "url": "https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK"
     },
     {
       "added_at": "2023-02-03 22:42:39",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-02-03 22:42:39",
       "album": {
-        "name": "mE RecHaZasTe :(",
-        "url": "https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 176590,
-      "name": "mE RecHaZasTe :(",
-      "url": "https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa"
-    },
-    {
-      "added_at": "2023-02-03 22:42:39",
-      "album": {
         "name": "Otro D\u00eda Lluvioso (with Lenny Tavarez & Becky G feat. Dalex)",
         "url": "https://open.spotify.com/album/6MGhjZ5uPXwciHnjOGUIxK"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 265280,
       "name": "Otro D\u00eda Lluvioso (with Lenny Tavarez & Becky G feat. Dalex)",
       "url": "https://open.spotify.com/track/2qhcTAKmpFNXBEu1FYo69t"
+    },
+    {
+      "added_at": "2023-02-03 22:42:39",
+      "album": {
+        "name": "mE RecHaZasTe :(",
+        "url": "https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 176590,
+      "name": "mE RecHaZasTe :(",
+      "url": "https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa"
     },
     {
       "added_at": "2023-02-03 22:42:39",
@@ -875,6 +875,38 @@
     {
       "added_at": "2023-02-03 22:42:39",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
+      },
+      "artists": [
+        {
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+        }
+      ],
+      "duration_ms": 204296,
+      "name": "Adelantah",
+      "url": "https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK"
+    },
+    {
+      "added_at": "2023-02-03 22:42:39",
+      "album": {
+        "name": "B-Day",
+        "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
+    },
+    {
+      "added_at": "2023-02-03 22:42:39",
+      "album": {
         "name": "NINF\u00d3MANA",
         "url": "https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U"
       },
@@ -911,38 +943,6 @@
       "duration_ms": 171428,
       "name": "Just Fine (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4810VYLNArmiy9ftC7yhzV"
-    },
-    {
-      "added_at": "2023-02-03 22:42:39",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
-      },
-      "artists": [
-        {
-          "name": "Chris Palace",
-          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
-        }
-      ],
-      "duration_ms": 204296,
-      "name": "Adelantah",
-      "url": "https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK"
-    },
-    {
-      "added_at": "2023-02-03 22:42:39",
-      "album": {
-        "name": "B-Day",
-        "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
     },
     {
       "added_at": "2023-02-03 22:42:39",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-02-03 22:42:39",
       "album": {
+        "name": "Til Death",
+        "url": "https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 97391,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV"
+    },
+    {
+      "added_at": "2023-02-03 22:42:39",
+      "album": {
         "name": "Serendipia",
         "url": "https://open.spotify.com/album/0MXa4IrTzK02RQxLj5VtWJ"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 184906,
       "name": "New Name (Mamacita!)",
       "url": "https://open.spotify.com/track/5uogBxa27boBVk8Q9bySzR"
-    },
-    {
-      "added_at": "2023-02-03 22:42:39",
-      "album": {
-        "name": "Til Death",
-        "url": "https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb"
-      },
-      "artists": [
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 97391,
-      "name": "Para Ti",
-      "url": "https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV"
     },
     {
       "added_at": "2023-02-03 22:42:39",

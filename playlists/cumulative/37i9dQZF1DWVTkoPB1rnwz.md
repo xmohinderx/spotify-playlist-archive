@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-291 songs - 16 hr 39 min
+292 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Bittern](https://open.spotify.com/track/4BAnBnoMh2NIImT9kzTR6I) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/74ExKX0TXhIQE30UrTiPlD) | 1:21 | 2021-10-16 |  |
 | [Bittern](https://open.spotify.com/track/64qOH2bUXO1Lfl1Lr5fnC5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 1:21 | 2021-10-16 | 2023-01-28 |
 | [blinding tunnel](https://open.spotify.com/track/14AP7MGqCLnJfLGsrwzrKR) | [Sownbones](https://open.spotify.com/artist/0gIMQx6hCQ9COuMORi6SWA) | [helpless](https://open.spotify.com/album/0tCBu2Dsa20w0msgy5IXsr) | 2:15 | 2022-01-19 | 2022-07-29 |
-| [Blue Surround](https://open.spotify.com/track/5ja2D6G7nq2rC3xCeFaMBH) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Infinite Echo](https://open.spotify.com/album/3hxC9wqR62FRcQGR2jcOh4) | 3:08 | 2022-11-10 |  |
+| [Blue Surround](https://open.spotify.com/track/5ja2D6G7nq2rC3xCeFaMBH) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Infinite Echo](https://open.spotify.com/album/3hxC9wqR62FRcQGR2jcOh4) | 3:08 | 2022-11-10 | 2023-02-19 |
 | [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-16 | 2022-07-13 |
 | [Borren](https://open.spotify.com/track/1FLskas14MnoxOj3nyPL5i) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Underbelly](https://open.spotify.com/artist/0sRH4nJGFNV1pu9cutNw5O) | [Chillhop Daydreams](https://open.spotify.com/album/5Tv8LWNku2lmWXxAy4xYhI) | 2:51 | 2021-10-16 | 2022-10-01 |
 | [Botanique](https://open.spotify.com/track/1pWIPbmvcqy9N06Bmasdfa) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Habitat](https://open.spotify.com/album/784eJcaYZn3cQXHkpQuqLN) | 9:10 | 2021-10-16 |  |
@@ -215,6 +215,7 @@
 | [Sansevieria](https://open.spotify.com/track/3APZAHZbjudqp4755vGl2K) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 4:24 | 2021-10-16 |  |
 | [Saturdays](https://open.spotify.com/track/5Y3wg5ksnQh6PAYL4smBtr) | [Bokki](https://open.spotify.com/artist/1gmAvUNIqrPSGklxtoj514) | [Saturdays](https://open.spotify.com/album/5ZwkkaeEvcdL4IvmZEtDwR) | 2:51 | 2021-10-16 | 2022-07-25 |
 | [Sauco](https://open.spotify.com/track/1vqGAfat3f7d09c3jSaO3Z) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Vegetalia](https://open.spotify.com/album/4pbymaEC9lqpbnLoLvNspG) | 3:46 | 2021-10-16 | 2022-07-29 |
+| [Seals](https://open.spotify.com/track/0kLnVksfJso8EyfwctEVw4) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/0TnVlRcyGLlnxPfhk9ov1A) | 2:18 | 2021-10-16 |  |
 | [Seals](https://open.spotify.com/track/5yBwN4BHv5WUvch6MR5L68) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/6MEySYP7MoW6HTEL0fkXwF) | 2:18 | 2021-10-16 | 2022-10-15 |
 | [Seals](https://open.spotify.com/track/6AlFSBiCpW73fOQUWDJ3q5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/1vGxp3fYpDr1weKcyLzvSK) | 2:18 | 2021-10-16 | 2023-01-27 |
 | [Seaside](https://open.spotify.com/track/6gYVKVLsz5hMURG0A42MUE) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [Seaside](https://open.spotify.com/album/4pX3op6h4EQl3MPV28ffxr) | 3:10 | 2021-10-16 | 2022-07-19 |

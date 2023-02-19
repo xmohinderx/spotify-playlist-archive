@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: ALO",
-  "num_followers": 14160,
+  "num_followers": 14171,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDZmNTFmZWQ5MmViZjAwMmFiNzUwOGY4YjUxYjExZDYx",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDcyNTY3NWJkYmU3Y2NjNGQyZjEwOGQxMzQxZDkyYTFm",
   "tracks": [
     {
       "added_at": "2023-02-17 05:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Casino Cabaret",
-        "url": "https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco"
-      },
-      "artists": [
-        {
-          "name": "The Magic Beans",
-          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
-        }
-      ],
-      "duration_ms": 448385,
-      "name": "Mr. Scientist",
-      "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Night Lights",
         "url": "https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 401213,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Casino Cabaret",
+        "url": "https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco"
+      },
+      "artists": [
+        {
+          "name": "The Magic Beans",
+          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
+        }
+      ],
+      "duration_ms": 448385,
+      "name": "Mr. Scientist",
+      "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Native Sons",
-        "url": "https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM"
+        "name": "Dopapod",
+        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
       },
       "artists": [
         {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+          "name": "Dopapod",
+          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
         }
       ],
-      "duration_ms": 513070,
-      "name": "The World Is A Ghetto",
-      "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
+      "duration_ms": 304826,
+      "name": "Nuff",
+      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
     }
   ],
   "unique_name": "Modern Jam Band",

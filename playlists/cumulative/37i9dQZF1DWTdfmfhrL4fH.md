@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-532 songs - 1 day 9 hr 23 min
+533 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Hurricane](https://open.spotify.com/track/6fsHQN6zZT64dapQ2XjI19) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [The Truth Is..\. \(Special Edition\)](https://open.spotify.com/album/2JUpjRRxWKUZwVwY9sTXS1) | 4:17 | 2022-05-25 | 2022-07-29 |
 | [I Always Knew](https://open.spotify.com/track/6E3NosMXYlGD21K7KqIxQ1) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Come Of Age](https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4) | 3:34 | 2022-05-25 |  |
 | [I Am the Fire](https://open.spotify.com/track/5MapUlM1un2Kh4aZ3IyWcL) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:37 | 2022-05-25 |  |
+| [I Can Talk](https://open.spotify.com/track/2OqI9fjaLeXnphj1Vcs1bi) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:57 | 2023-01-18 |  |
 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 | 2022-05-25 |  |
 | [I Just Wanna Shine](https://open.spotify.com/track/4GZ3YCkuH0VvTluVLwUp4g) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:27 | 2022-05-25 |  |
 | [I Like It](https://open.spotify.com/track/6kw1FgFiPt7Z2X1o8StG3q) | [Foxy Shazam](https://open.spotify.com/artist/5qRXoCC1CDTMTli9gplUvk) | [The Church of Rock and Roll](https://open.spotify.com/album/6k6gbpR9h1fIuXSEKRp3Yo) | 2:48 | 2022-05-25 | 2022-07-23 |
@@ -441,7 +442,7 @@
 | [State of My Head](https://open.spotify.com/track/1fnULsZuORnAgCFFbM8nTZ) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:25 | 2022-05-25 |  |
 | [Stay](https://open.spotify.com/track/48777AboKgh2UsZbR21bDC) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:22 | 2022-05-25 | 2022-07-29 |
 | [Stay](https://open.spotify.com/track/4y2a8Gi924VQXgHdZQlXQd) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Stay](https://open.spotify.com/album/3RkTphhXZG2bzI1lkeHh1G) | 3:01 | 2022-05-25 | 2022-07-24 |
-| [Stick Up](https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:42 | 2022-05-25 |  |
+| [Stick Up](https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:42 | 2022-05-25 | 2023-02-19 |
 | [Still Swingin'](https://open.spotify.com/track/7p0sSbjOo0c0edsfGapmHg) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Connection](https://open.spotify.com/album/1rHU2Tufch52Hn7R0TzVli) | 3:23 | 2022-05-25 | 2022-07-29 |
 | [Stoke The Fire](https://open.spotify.com/track/6ROjuAUFml5e83OArSJntB) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Poison The Parish \(Deluxe Edition\)](https://open.spotify.com/album/2CbMgWfTfT4n80PjrDkbbt) | 3:44 | 2022-05-25 | 2022-07-29 |
 | [Straight to Hell](https://open.spotify.com/track/3cjPSKlHrekNwiE1fZybZ5) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Straight to Hell](https://open.spotify.com/album/621f68tD6k8azl9FuQgxJT) | 3:45 | 2022-05-25 | 2022-07-28 |

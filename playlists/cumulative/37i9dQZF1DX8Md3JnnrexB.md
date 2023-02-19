@@ -4,7 +4,7 @@
 
 > Laid back soul music.
 
-311 songs - 22 hr 0 min
+312 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA) | 3:21 | 2022-01-03 |  |
 | [Can We Talk](https://open.spotify.com/track/01bcg6fYKilCK9yIB7HjN1) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [Smooth Soul Music](https://open.spotify.com/album/56BXRYMePDpLPoJz5zfeV3) | 4:44 | 2022-02-21 | 2022-03-31 |
 | [Caught Up in the Rapture](https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:10 | 2021-12-13 | 2022-07-29 |
+| [Caught Up In the Rapture](https://open.spotify.com/track/5ygOH8xQGicxuxa43vSWwd) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Jazzy Soul](https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I) | 4:10 | 2022-05-11 |  |
 | [Caught Up In the Rapture \- Single Version](https://open.spotify.com/track/3rkDgf97gFGDEmFUrALomV) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Hot Tub Smooth Sounds](https://open.spotify.com/album/6wmux9b2RmC5LzpN9a8wA6) | 4:08 | 2022-05-11 | 2023-02-15 |
 | [Changes](https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Changes](https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90) | 3:25 | 2022-03-24 | 2022-11-13 |
 | [Cheating on Me](https://open.spotify.com/track/2zuOOTaQm1nO2rquzEJRmb) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Love + War](https://open.spotify.com/album/5W5oxg0Z2aFfbudPakSHqH) | 5:01 | 2022-01-03 | 2022-07-14 |
@@ -254,7 +255,7 @@
 | [Some Of Us Are Brave](https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn) | 3:53 | 2022-09-08 |  |
 | [Somebody Is Gonna Lose A Good Woman](https://open.spotify.com/track/5EJZKffdlqfITcIce4oTM1) | [Jeff Floyd](https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe) | [The Power Is Still On](https://open.spotify.com/album/63YiJ6IIvvEhxJ8uydvYFE) | 5:01 | 2022-01-05 | 2022-01-06 |
 | [Someone to Love \(feat\. Babyface\)](https://open.spotify.com/track/0vupPI8zGxy3QAgIynKtbh) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Bonafide](https://open.spotify.com/album/1q8qdjJU2M2hG9Wx8IO6GT) | 4:33 | 2022-02-21 | 2022-04-21 |
-| [Someone to Love \(feat\. Babyface\)](https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Bonafide](https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY) | 4:33 | 2022-05-11 |  |
+| [Someone to Love \(feat\. Babyface\)](https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Bonafide](https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY) | 4:33 | 2022-05-11 | 2023-02-19 |
 | [Someone Watching Over You](https://open.spotify.com/track/5NnJSCpeSRmk5WHlQtdPCW) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Day by Day](https://open.spotify.com/album/64proknDreMseIw47loqez) | 4:51 | 2021-12-13 | 2023-02-04 |
 | [Somethin' in the Water](https://open.spotify.com/track/7sPXFGmXXN181CTUCnwQCg) | [Jeverson](https://open.spotify.com/artist/4sm6r5jbyfm1lq1ENy0SnX) | [JEVERSON](https://open.spotify.com/album/4ojMLOYiyDGvWdjYNKgxPc) | 3:01 | 2022-04-27 | 2022-04-29 |
 | [Something He Can Feel](https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Sparkle](https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3) | 6:21 | 2022-01-03 | 2022-12-24 |

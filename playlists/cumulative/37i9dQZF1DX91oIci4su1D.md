@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-527 songs - 1 day 8 hr 27 min
+528 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Chains](https://open.spotify.com/track/6yyjcaUe0zqxo2CV1Jv3ar) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Marty Longstaff](https://open.spotify.com/artist/0JtMH7U9d7Z8pOSBz2U8Wn) | [Chains](https://open.spotify.com/album/2odIsNw88KYMvRYws0xCmI) | 3:37 | 2022-08-19 |  |
 | [Change The World](https://open.spotify.com/track/7DDWs7TCnDrQyZJQ6B7maV) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id), [Sarah Russell](https://open.spotify.com/artist/130O0cb6ht7pUyIJmpbQuP) | [Change The World](https://open.spotify.com/album/1UudyzciU5nu3hvFSZJQOm) | 3:08 | 2022-01-21 |  |
 | [Change The World](https://open.spotify.com/track/1FmEpLeaNbYe5MhgKdCtfg) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Change The World](https://open.spotify.com/album/2vAdIgnJ7UZuQtgReo1EYY) | 2:57 | 2021-12-17 | 2022-02-26 |
+| [Chasing Dreams](https://open.spotify.com/track/0JZJFrMgPkjFIlJ4h4cDde) | [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [Chasing Dreams](https://open.spotify.com/album/193OHe6QohyJUPd8ENNlKa) | 3:56 | 2023-02-17 |  |
 | [Chemistry](https://open.spotify.com/track/7CxE6dW7KdjablhTfDhOE4) | [Avao](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw), [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH) | [Chemistry](https://open.spotify.com/album/1mC8BQslGkPQUgAfp7N2zi) | 3:08 | 2022-02-18 | 2022-04-02 |
 | [Cielo](https://open.spotify.com/track/3xYp6ZdiTc9CmUlbPadggJ) | [Shogun](https://open.spotify.com/artist/6diiyZ15AVZoSxzAyjIYJT) | [Cielo](https://open.spotify.com/album/4QrrkplqMBiX8ZQ0u647In) | 3:32 | 2022-10-14 |  |
 | [Cisza \(A Dreamstate Anthem\)](https://open.spotify.com/track/3NacPqMDaYYEwhX21x9yp8) | [Key4050](https://open.spotify.com/artist/22sHF6RlJRVbkcLbaTLxaD) | [Cisza \(A Dreamstate Anthem\)](https://open.spotify.com/album/0BLFWwhAg6yOfshQSzLVeW) | 2:50 | 2022-09-09 |  |
@@ -412,7 +413,7 @@
 | [Searching \(For A Kinder Love\)](https://open.spotify.com/track/7HsNq025c5crDgp3qvqhPn) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Searching \(For A Kinder Love\)](https://open.spotify.com/album/53nPvnk4liIBS1XjuxoDvm) | 3:07 | 2022-04-22 | 2022-08-27 |
 | [Seasons Will Change](https://open.spotify.com/track/5Hu4zGdnLQ3sFyqmS1jDq1) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [Cari](https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re) | [Seasons Will Change](https://open.spotify.com/album/0kiJKPUkb5S6eIbBPhAa1d) | 4:06 | 2022-02-25 | 2023-02-11 |
 | [Seeing Red](https://open.spotify.com/track/05FXC7v7Cx6o2PRRryLr0d) | [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Seeing Red](https://open.spotify.com/album/71SfJZa5hxhcwHdvcukPFl) | 3:23 | 2021-12-17 | 2022-01-15 |
-| [Select Player Mode](https://open.spotify.com/track/6qHgiPHe7EQMYtr69TbEbd) | [Kudus](https://open.spotify.com/artist/6s69joiC63fdwO83zTquv8), [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Select Player Mode](https://open.spotify.com/album/125EOW6b3RCqnguPNE8r45) | 3:54 | 2022-08-26 |  |
+| [Select Player Mode](https://open.spotify.com/track/6qHgiPHe7EQMYtr69TbEbd) | [Kudus](https://open.spotify.com/artist/6s69joiC63fdwO83zTquv8), [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Select Player Mode](https://open.spotify.com/album/125EOW6b3RCqnguPNE8r45) | 3:54 | 2022-08-26 | 2023-02-19 |
 | [Serenity \(Original Mix\)](https://open.spotify.com/track/4NOFk7EWCJSiOnoFhYRhQs) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Serenity](https://open.spotify.com/album/5MFesWkrQAgo0NbtgqpDQz) | 3:23 | 2022-03-11 | 2022-05-28 |
 | [Shadows](https://open.spotify.com/track/3QjUQpn6qb3MybBsoaSPwD) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Shadows](https://open.spotify.com/album/1IMlfH57fXWEmaFe3S6HIT) | 3:43 | 2022-08-05 |  |
 | [Shadows Dancing](https://open.spotify.com/track/4zPyGlnzLKHOPcxQznJR6r) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id), [Susanne Teutenberg](https://open.spotify.com/artist/1Xx7LP7rI1PIQeCtr6mN7K) | [Shadows Dancing](https://open.spotify.com/album/75E2Q2Che1Bji7rPG8PUa4) | 3:15 | 2021-12-17 | 2022-04-23 |

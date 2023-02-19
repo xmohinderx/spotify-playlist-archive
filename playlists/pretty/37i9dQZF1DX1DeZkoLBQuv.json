@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMDE1OWE1YjA5MWZjYjZmZTU0MmI2NzI1YjNlMDQ4ZTgx",
+  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMGQzZGQ4OTIyZDE3MTQ0MDBlNjlhMTI3OWY4OGViOWU1",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -451,26 +451,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Gl\u00f3ria a Deus nas Alturas",
-        "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
-      },
-      "artists": [
-        {
-          "name": "Laura Morena",
-          "url": "https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU"
-        },
-        {
-          "name": "Sullivan Dutra",
-          "url": "https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki"
-        }
-      ],
-      "duration_ms": 242192,
-      "name": "Gl\u00f3ria a Deus nas Alturas",
-      "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Apaixonado",
         "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 337537,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Gl\u00f3ria a Deus nas Alturas",
+        "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
+      },
+      "artists": [
+        {
+          "name": "Laura Morena",
+          "url": "https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU"
+        },
+        {
+          "name": "Sullivan Dutra",
+          "url": "https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki"
+        }
+      ],
+      "duration_ms": 242192,
+      "name": "Gl\u00f3ria a Deus nas Alturas",
+      "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+        "name": "Revolu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7lzq7OwJjzlM8ZD7g2kwqR"
       },
       "artists": [
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 196765,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
+      "duration_ms": 258054,
+      "name": "Filho de Deus Amigo Meu",
+      "url": "https://open.spotify.com/track/6Ho433JPP8UAtgUsasuOZZ"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -559,18 +559,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Revolu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7lzq7OwJjzlM8ZD7g2kwqR"
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 258054,
-      "name": "Filho de Deus Amigo Meu",
-      "url": "https://open.spotify.com/track/6Ho433JPP8UAtgUsasuOZZ"
+      "duration_ms": 196765,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -787,26 +787,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "O Primeiro Natal",
-        "url": "https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH"
-      },
-      "artists": [
-        {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "O Primeiro Natal",
-      "url": "https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
         "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
       },
@@ -823,18 +803,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Deus Emanuel",
-        "url": "https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi"
+        "name": "O Primeiro Natal",
+        "url": "https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH"
       },
       "artists": [
         {
-          "name": "Adora\u00e7\u00e3o Central",
-          "url": "https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4"
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
         }
       ],
-      "duration_ms": 313652,
-      "name": "Deus Emanuel",
-      "url": "https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M"
+      "duration_ms": 278000,
+      "name": "O Primeiro Natal",
+      "url": "https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -859,6 +843,22 @@
       "duration_ms": 282500,
       "name": "Como Um de N\u00f3s - Ao Vivo",
       "url": "https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Deus Emanuel",
+        "url": "https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi"
+      },
+      "artists": [
+        {
+          "name": "Adora\u00e7\u00e3o Central",
+          "url": "https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4"
+        }
+      ],
+      "duration_ms": 313652,
+      "name": "Deus Emanuel",
+      "url": "https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M"
     },
     {
       "added_at": "2022-12-09 06:26:14",

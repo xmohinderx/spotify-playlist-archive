@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-319 songs - 1 day 5 hr 42 min
+320 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 | 2023-01-25 |  |
 | [9](https://open.spotify.com/track/0c35I79bxG3qq2z12pL5Kc) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/4oopTeOoJJNiUkc6AVjmAA) | 6:31 | 2021-07-30 | 2022-07-29 |
 | [9](https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv) | 6:31 | 2021-07-30 |  |
-| [A Final Warning](https://open.spotify.com/track/0sa7zxqiWLtqW0RZGc9TKS) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [The Milk of Human Kindness](https://open.spotify.com/album/4oG14WGnh4TXMI92JQJ5SZ) | 7:15 | 2021-07-30 |  |
+| [A Final Warning](https://open.spotify.com/track/0sa7zxqiWLtqW0RZGc9TKS) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [The Milk of Human Kindness](https://open.spotify.com/album/4oG14WGnh4TXMI92JQJ5SZ) | 7:15 | 2021-07-30 | 2023-02-19 |
 | [A Final Warning](https://open.spotify.com/track/47U8foovlO8ekCIopmqojT) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [The Milk of Human Kindness](https://open.spotify.com/album/6DrIyhtCOAFTEY4dB2mKl9) | 7:15 | 2021-07-30 | 2022-07-29 |
 | [A Haze Of Patriotic Fervor](https://open.spotify.com/track/1Pwb0rGhxhnyxkwk3sbJ3E) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Music of Grand Theft Auto V, Vol\. 2: The Score](https://open.spotify.com/album/0NeWQGtJD0LfXdVvgYNZM4) | 5:30 | 2021-07-30 | 2022-11-30 |
 | [A Haze Of Patriotic Fervor](https://open.spotify.com/track/7vRplv4cDf3zUzYJk6CgVI) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Music of Grand Theft Auto V, Vol\. 2: The Score](https://open.spotify.com/album/5EJAJsaHhQYLwVbynpcGkD) | 5:30 | 2021-07-30 |  |
@@ -210,6 +210,7 @@
 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 | 2023-01-12 |  |
 | [Pass The Hatchet, I Think I'm Goodkind](https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Am Not Afraid Of You And I Will Beat Your Ass](https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL) | 10:46 | 2021-07-30 |  |
 | [Pendulum](https://open.spotify.com/track/1zQ9HyzqFr7xpNeUszTfUf) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/3AUkbuxvj1fH2jkbWI2gzn) | 4:21 | 2021-07-30 | 2023-02-02 |
+| [Pendulum](https://open.spotify.com/track/6hbP2Xs5W0SVvepjLWnTeL) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 4:21 | 2021-07-30 |  |
 | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF) | 3:39 | 2021-07-30 |  |
 | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/track/6P3wuqOj57ljpXpSHOy8fH) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/album/30MHkRh4rQIwdFDopFGTbC) | 3:39 | 2021-07-30 | 2023-02-10 |
 | [Polished Chrome \(The Friend, Pt\. 1\) \- Remixed by Chris Carter](https://open.spotify.com/track/3zNVEks111bPdsn0wAQHYg) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE), [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [BURN SLOW REMIXES PT\. II](https://open.spotify.com/album/6N38WEXjOrNyQvINkXQt2l) | 5:22 | 2021-07-30 | 2022-07-29 |

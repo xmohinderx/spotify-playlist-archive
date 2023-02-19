@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1063856,
+  "num_followers": 1063852,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDRlNTJhMzc1OThlYWMzNTJlYTQ0ZWNiY2IwYmJiNjg1",
+  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDNjNjMzOGI2MTM1NGU4NTU0MmEwNWExYTRhNzdkNDc4",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "I Wanna Feel",
-        "url": "https://open.spotify.com/album/18hwLKK9KK28ceLoxjPCG3"
-      },
-      "artists": [
-        {
-          "name": "Secondcity",
-          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "I Wanna Feel",
-      "url": "https://open.spotify.com/track/5nrdOK0i7daIsDAt4zRbHM"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Together - The Best Of",
         "url": "https://open.spotify.com/album/6ksyAGg2voMofLSmaQycHq"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
+        "name": "I Wanna Feel",
+        "url": "https://open.spotify.com/album/18hwLKK9KK28ceLoxjPCG3"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Secondcity",
+          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
         }
       ],
-      "duration_ms": 181772,
-      "name": "Busy Earnin'",
-      "url": "https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu"
+      "duration_ms": 186066,
+      "name": "I Wanna Feel",
+      "url": "https://open.spotify.com/track/5nrdOK0i7daIsDAt4zRbHM"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1511,6 +1495,22 @@
       "duration_ms": 175081,
       "name": "When I Was A Youngster",
       "url": "https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181772,
+      "name": "Busy Earnin'",
+      "url": "https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu"
     },
     {
       "added_at": "2020-08-27 16:10:25",

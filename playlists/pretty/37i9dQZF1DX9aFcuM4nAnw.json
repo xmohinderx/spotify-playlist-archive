@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 2426,
+  "num_followers": 2428,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMDlmZWIyYTNmOWE0YTYzNGRmMTU0ZTk3Nzk0MmQ4ZDYx",
+  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMDhiZjBlNmQ4NjZkZmMxOWVjY2U2MzM5ZDY2ODRiNjE5",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Draconian Poetry",
-        "url": "https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp"
-      },
-      "artists": [
-        {
-          "name": "Sephiroth",
-          "url": "https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo"
-        }
-      ],
-      "duration_ms": 543560,
-      "name": "Now Night Her Course Began",
-      "url": "https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 279666,
       "name": "#4",
       "url": "https://open.spotify.com/track/4fQEbOabaTSC80INS7cD3Q"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Draconian Poetry",
+        "url": "https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp"
+      },
+      "artists": [
+        {
+          "name": "Sephiroth",
+          "url": "https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo"
+        }
+      ],
+      "duration_ms": 543560,
+      "name": "Now Night Her Course Began",
+      "url": "https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj"
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
       },
       "artists": [
         {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 363843,
-      "name": "A Curved Blade",
-      "url": "https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT"
+      "duration_ms": 176254,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/47Iu8veHUAGjZkZRtVmqfo"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -759,18 +759,34 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Tomorrow's Harvest",
-        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 176254,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/47Iu8veHUAGjZkZRtVmqfo"
+      "duration_ms": 535266,
+      "name": "#5",
+      "url": "https://open.spotify.com/track/2waF939RizyTNhrDoq7ePY"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj"
+      },
+      "artists": [
+        {
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+        }
+      ],
+      "duration_ms": 363843,
+      "name": "A Curved Blade",
+      "url": "https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -803,42 +819,6 @@
       "duration_ms": 601827,
       "name": "Babel",
       "url": "https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Black Corner Den",
-        "url": "https://open.spotify.com/album/10flibooBjjwWKy02B5obV"
-      },
-      "artists": [
-        {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
-        },
-        {
-          "name": "Cities Last Broadcast",
-          "url": "https://open.spotify.com/artist/4TiCdaMLVAz0W8GqeZ6jN4"
-        }
-      ],
-      "duration_ms": 264127,
-      "name": "Prepare the Stage of Night",
-      "url": "https://open.spotify.com/track/2LNvSjqhxh9UBv0rF1PMlR"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 535266,
-      "name": "#5",
-      "url": "https://open.spotify.com/track/2waF939RizyTNhrDoq7ePY"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -883,6 +863,42 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 211373,
+      "name": "#6",
+      "url": "https://open.spotify.com/track/4mqUX75CSaFamxxjEHbS2i"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Black Corner Den",
+        "url": "https://open.spotify.com/album/10flibooBjjwWKy02B5obV"
+      },
+      "artists": [
+        {
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+        },
+        {
+          "name": "Cities Last Broadcast",
+          "url": "https://open.spotify.com/artist/4TiCdaMLVAz0W8GqeZ6jN4"
+        }
+      ],
+      "duration_ms": 264127,
+      "name": "Prepare the Stage of Night",
+      "url": "https://open.spotify.com/track/2LNvSjqhxh9UBv0rF1PMlR"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Lost Themes",
         "url": "https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9"
       },
@@ -919,86 +935,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 211373,
-      "name": "#6",
-      "url": "https://open.spotify.com/track/4mqUX75CSaFamxxjEHbS2i"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "The Willows",
-        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "The Willows",
-      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Asleep And Well Hidden",
-        "url": "https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ"
-      },
-      "artists": [
-        {
-          "name": "Kammarheit",
-          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
-        }
-      ],
-      "duration_ms": 430986,
-      "name": "The Ruins And The Serene",
-      "url": "https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Tomorrow's Harvest",
-        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 256401,
-      "name": "Sick Times",
-      "url": "https://open.spotify.com/track/1kWsVllnOYVv84DpXxoWr3"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Cycles \"Cyclic Law's 10th Year Anniversary Label Sampler\"",
-        "url": "https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp"
-      },
-      "artists": [
-        {
-          "name": "ALLSEITS",
-          "url": "https://open.spotify.com/artist/3KEZRlZ6GtlMcK6ICypOAD"
-        }
-      ],
-      "duration_ms": 508630,
-      "name": "The Moment Before You Fall Asleep",
-      "url": "https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/1LN7F08ntBaf1E63RlSmpT"
       },
@@ -1023,6 +959,38 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "The Willows",
+        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "The Willows",
+      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 256401,
+      "name": "Sick Times",
+      "url": "https://open.spotify.com/track/1kWsVllnOYVv84DpXxoWr3"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Lost Themes II",
         "url": "https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK"
       },
@@ -1035,6 +1003,38 @@
       "duration_ms": 227626,
       "name": "Utopian Facade",
       "url": "https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Asleep And Well Hidden",
+        "url": "https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ"
+      },
+      "artists": [
+        {
+          "name": "Kammarheit",
+          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
+        }
+      ],
+      "duration_ms": 430986,
+      "name": "The Ruins And The Serene",
+      "url": "https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Cycles \"Cyclic Law's 10th Year Anniversary Label Sampler\"",
+        "url": "https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp"
+      },
+      "artists": [
+        {
+          "name": "ALLSEITS",
+          "url": "https://open.spotify.com/artist/3KEZRlZ6GtlMcK6ICypOAD"
+        }
+      ],
+      "duration_ms": 508630,
+      "name": "The Moment Before You Fall Asleep",
+      "url": "https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk"
     },
     {
       "added_at": "2022-07-06 17:58:03",

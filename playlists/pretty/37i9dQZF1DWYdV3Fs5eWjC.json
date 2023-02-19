@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Honey Dijon",
-  "num_followers": 73512,
+  "num_followers": 73523,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU3OTAwNiwwMDAwMDAwMDA0NDk4YTVhZWRhOTYxZTRjYjg1NGNlMmFiOGI0ZTBm",
+  "snapshot_id": "MTY3NDU3OTAwNiwwMDAwMDAwMDJjMWJkZjQ4NGZhZGY5NThlMTExYzVkZTRkMzIwOGJm",
   "tracks": [
     {
       "added_at": "2022-05-31 20:14:29",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-05-31 20:14:29",
       "album": {
-        "name": "SULA (Paperback)",
-        "url": "https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s"
-      },
-      "artists": [
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 255906,
-      "name": "SULA (Paperback)",
-      "url": "https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB"
-    },
-    {
-      "added_at": "2022-05-31 20:14:29",
-      "album": {
         "name": "Vest & Boxers",
         "url": "https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 177064,
       "name": "Vest & Boxers",
       "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
+    },
+    {
+      "added_at": "2022-05-31 20:14:29",
+      "album": {
+        "name": "SULA (Paperback)",
+        "url": "https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 255906,
+      "name": "SULA (Paperback)",
+      "url": "https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB"
     },
     {
       "added_at": "2020-06-01 21:07:43",

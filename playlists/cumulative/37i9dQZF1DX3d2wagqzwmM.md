@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Maddix
 
-284 songs - 15 hr 23 min
+285 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Bring It Back To Me](https://open.spotify.com/track/5pqm3ulg0pXHgJ53dHpP23) | [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM) | [Bring It Back To Me](https://open.spotify.com/album/1MFcZzdhLf5W9gxjLhtECA) | 2:42 | 2022-04-14 | 2022-07-28 |
 | [Bring It Home](https://open.spotify.com/track/5psWU2jGCGr96IkgqHsHHs) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Bring It Home](https://open.spotify.com/album/6YekFTHei1ykAcF2p51hJx) | 2:42 | 2022-04-14 | 2022-07-27 |
 | [Bulldog](https://open.spotify.com/track/19nsltZHkVqAcbb2l88nZl) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [Bulldog](https://open.spotify.com/album/3rgoXlNRYK7WbG4LsDWzjs) | 3:13 | 2022-04-14 | 2022-06-22 |
-| [Burn It To The Ground \(feat\. Jay Mason\)](https://open.spotify.com/track/0MKp1X6mSiufIbIalTzgTn) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Burn It To The Ground \(feat\. Jay Mason\)](https://open.spotify.com/album/1PkH2IioGVPWzd0Jmh2Wk3) | 2:54 | 2022-04-14 |  |
+| [Burn It To The Ground \(feat\. Jay Mason\)](https://open.spotify.com/track/0MKp1X6mSiufIbIalTzgTn) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Burn It To The Ground \(feat\. Jay Mason\)](https://open.spotify.com/album/1PkH2IioGVPWzd0Jmh2Wk3) | 2:54 | 2022-04-14 | 2023-02-19 |
 | [Cafe Del Mar](https://open.spotify.com/track/5rYJdqK0TTWSqSRbOnsLmg) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Cafe Del Mar](https://open.spotify.com/album/7fBrYVTlHm2HDWLciyiWUy) | 3:31 | 2022-04-21 |  |
 | [Call On Me \(feat\. Georgia Ku\) \- Justus Remix](https://open.spotify.com/track/5OFvLsXk7c0aBParNuigiL) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Call On Me \(feat\. Georgia Ku\) \[Justus Remix\]](https://open.spotify.com/album/7LU7n5PuOXFApyoZvsh8T2) | 3:27 | 2022-04-14 | 2022-09-26 |
 | [Caution](https://open.spotify.com/track/3kb6CrEAEFXQhv4F0fzJ0W) | [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI), [AndyG](https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3) | [Caution](https://open.spotify.com/album/41PHDKzQZhm5mi1yZXTLd3) | 2:36 | 2022-12-27 | 2023-01-03 |
@@ -250,6 +250,7 @@
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2022-04-21 | 2022-05-01 |
 | [TARAKA \- Tiësto Remix](https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TARAKA \(Tiësto Remix\)](https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3) | 4:24 | 2022-12-02 | 2023-01-26 |
 | [Techno Party](https://open.spotify.com/track/4GT1NVYkxsN3grh7zclyLa) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Murotani](https://open.spotify.com/artist/3fTYN3plW2oMZXGZf7JQWX) | [Techno Party](https://open.spotify.com/album/3e6xQP58Y5f2VHOpxNpsYh) | 3:17 | 2022-09-01 |  |
+| [Tell Me Why \- Maddix Remix](https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Tell Me Why \(Maddix Remix\)](https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe) | 3:11 | 2023-02-16 |  |
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-10-06 |  |
 | [The Age of Love 2022](https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [The Age of Love 2022](https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE) | 3:09 | 2022-10-14 |  |
 | [The Age Of Rave](https://open.spotify.com/track/0MJrPeuSXdHBPfsoaaFEIG) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Age Of Rave](https://open.spotify.com/album/5Xb58SF94wdSAJd5iaA5KP) | 3:04 | 2022-05-26 | 2023-01-17 |

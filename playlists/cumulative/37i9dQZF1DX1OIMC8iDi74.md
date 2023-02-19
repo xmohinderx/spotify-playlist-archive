@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-236 songs - 13 hr 1 min
+237 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [East Bridge](https://open.spotify.com/track/1ppxq2JdEEAUL5K8imMVTj) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A), [Sejo](https://open.spotify.com/artist/0KPmCqiU6iscwxQo62WBXN) | [East Bridge](https://open.spotify.com/album/0Qa4PNGOp2K9lbrEF9DeNy) | 3:31 | 2021-11-19 | 2022-02-02 |
 | [Echelon](https://open.spotify.com/track/6PXGhhC502UkxHSKKXQjaK) | [Levianth](https://open.spotify.com/artist/1kTBGIBgFuqaxbdeXX3L6H) | [Echelon](https://open.spotify.com/album/77ZmYo3i76tieicsQ5VmbR) | 3:02 | 2022-01-21 | 2022-02-01 |
 | [Eden](https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden](https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ) | 2:56 | 2022-06-24 | 2023-02-15 |
+| [Eden \(feat\. fussy\)](https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden \(feat\. fussy\)](https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj) | 2:56 | 2022-12-02 |  |
 | [enough](https://open.spotify.com/track/4uoVYbhitSNdQoqnJneYTg) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [enough](https://open.spotify.com/album/6NBSOdNlc2dhzHrHttMUhw) | 2:38 | 2021-11-19 | 2022-12-01 |
 | [Eternal](https://open.spotify.com/track/1Bhy4eBv3f3m7cXQxyQVZ6) | [Onur Ormen](https://open.spotify.com/artist/45YI93cvo54OYOBHiNI9zL), [R3VXS](https://open.spotify.com/artist/2utEH3EfW0uJCHSDyXnJjB) | [Eternal](https://open.spotify.com/album/1GykPsowuX6anZe67MflnU) | 2:24 | 2021-11-19 | 2022-02-02 |
 | [Eternity](https://open.spotify.com/track/6OsdOBA7VE0ZYzV99CRutB) | [Bafu](https://open.spotify.com/artist/7noh40d76QRMnTPGW2VvO6), [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Eternity](https://open.spotify.com/album/02wSxU0vXahHp0r0qbIDsH) | 3:43 | 2021-11-19 | 2022-02-02 |
@@ -159,7 +160,7 @@
 | [Neck Crack Flashback](https://open.spotify.com/track/6aBsZrg7hCNwF8y67QMVtx) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Quarter Inch](https://open.spotify.com/album/1ballTU8qOSa1JF7ASeBDp) | 3:55 | 2021-11-19 | 2022-01-29 |
 | [Neo Tokyo](https://open.spotify.com/track/7r3tmo5lZ7Byl87hHiWtIw) | [Kelypso](https://open.spotify.com/artist/1bLDJZohT9vqUXDPpPxtMC) | [Neo Tokyo](https://open.spotify.com/album/0bco3oIPLmORqDp5Ck3l2v) | 3:37 | 2021-11-19 | 2022-01-29 |
 | [Nightmares](https://open.spotify.com/track/6q9NOT3nkvXG5946RxwQp1) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm) | [Nightmares](https://open.spotify.com/album/6QLhslevfTp5oUz7yURzd0) | 3:43 | 2021-11-19 | 2022-02-02 |
-| [No Chill](https://open.spotify.com/track/46VgwcEKnjPCcSEsJ5fWY2) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [Sable Valley Summer Vol\. 2](https://open.spotify.com/album/7ybQzVkmLNJ0Lidjk1AEZ5) | 2:58 | 2021-11-19 |  |
+| [No Chill](https://open.spotify.com/track/46VgwcEKnjPCcSEsJ5fWY2) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [Sable Valley Summer Vol\. 2](https://open.spotify.com/album/7ybQzVkmLNJ0Lidjk1AEZ5) | 2:58 | 2021-11-19 | 2023-02-19 |
 | [No Limit](https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Limit](https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0) | 3:00 | 2021-12-03 | 2022-02-02 |
 | [No More \- chromonicci Remix](https://open.spotify.com/track/7llGHIv1mHxhXt0q72ReCL) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Trinity \(The Remixes\)](https://open.spotify.com/album/3pmgVDuRtbAIpoRYI4ZcQJ) | 2:40 | 2021-11-19 | 2022-02-01 |
 | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/track/4ckoZlzQTOTEN8rhfQPbBl) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H) | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/album/4qSwKluIRxsN75COJJAC7J) | 2:40 | 2021-11-19 | 2022-02-02 |

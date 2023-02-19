@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Carol Biazin e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,436 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,452 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 9 | [súplica](https://open.spotify.com/track/4omVsjOJY7aCHcBV9l6UkC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [para\-raio](https://open.spotify.com/album/6iZPdkQAcuvcc4sYlfqGDw) | 2:49 |
 | 10 | [Macetar](https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Macetar](https://open.spotify.com/album/5a1k4OWYmvWyaz1UvqLh2v) | 1:54 |
 | 11 | [ANESTESIA](https://open.spotify.com/track/1soqtHYm1K8oChNDEmpZrP) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [ANESTESIA](https://open.spotify.com/album/2jHqfa5pVSOI0giNVlDB0c) | 2:22 |
-| 12 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
+| 12 | [TIPO EU](https://open.spotify.com/track/5rnZwEM4x70Arx4hbEOPSg) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [TIPO EU](https://open.spotify.com/album/0jQseakS3kI0YEtyzJl76n) | 3:28 |
 | 13 | [Droga](https://open.spotify.com/track/5DhDHmJ3F62xk4mQAtosRt) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [TRÊS](https://open.spotify.com/album/3QiDWIyxyDbRfMsgZJrdCV) | 2:31 |
-| 14 | [TIPO EU](https://open.spotify.com/track/5rnZwEM4x70Arx4hbEOPSg) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [TIPO EU](https://open.spotify.com/album/0jQseakS3kI0YEtyzJl76n) | 3:28 |
+| 14 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
 | 15 | [Degradê](https://open.spotify.com/track/0d0HsamQYE3b4Owr3lLtM5) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 2:44 |
 | 16 | [Telepatia](https://open.spotify.com/track/4mYq9GLiRglw3V6lztdV4e) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Telepatia](https://open.spotify.com/album/3VqbvFIVanUEBnSHnIVNHS) | 2:28 |
 | 17 | [bonita e miserável](https://open.spotify.com/track/6GQIy9IDBTKDTuFin2GYwW) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [para\-raio](https://open.spotify.com/album/6iZPdkQAcuvcc4sYlfqGDw) | 2:51 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 39 | [Viciado em Mentir](https://open.spotify.com/track/6e2aPJbVJw9L8QDd421zNY) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [Viciado em Mentir](https://open.spotify.com/album/2TJ1ZwEFlLzhDPXmfCligh) | 2:25 |
 | 40 | [eu me derreto](https://open.spotify.com/track/3EQWVZKgqIjvIQii6BEMUg) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [eu me derreto](https://open.spotify.com/album/4yAdm4VdUGAD8RZwYMW2lL) | 2:45 |
 | 41 | [Conto de Falhas](https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Conto de Falhas](https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl) | 2:36 |
-| 42 | [Dona de Mim](https://open.spotify.com/track/1Uoy9jGX9JcYnMQk15HYvT) | [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns) | [Dona de Mim](https://open.spotify.com/album/0Zx3yoffLuua8XnnuBYyEq) | 2:51 |
-| 43 | [pantera](https://open.spotify.com/track/6SgwJ1u5mkWWCG3Cvw11x8) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [Pantera](https://open.spotify.com/album/5QStCkR4isxn3C9HPJXGe0) | 2:07 |
+| 42 | [pantera](https://open.spotify.com/track/6SgwJ1u5mkWWCG3Cvw11x8) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [Pantera](https://open.spotify.com/album/5QStCkR4isxn3C9HPJXGe0) | 2:07 |
+| 43 | [Dona de Mim](https://open.spotify.com/track/1Uoy9jGX9JcYnMQk15HYvT) | [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns) | [Dona de Mim](https://open.spotify.com/album/0Zx3yoffLuua8XnnuBYyEq) | 2:51 |
 | 44 | [Magnetizar](https://open.spotify.com/track/7vPzZiHSVYeJH09mBTgaES) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Magnéticah](https://open.spotify.com/album/0U9w4cLY0S13Y3gi24x75w) | 3:14 |
 | 45 | [Desamor](https://open.spotify.com/track/77ylP1AFdw0i0T435Sm20F) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Desamor](https://open.spotify.com/album/2AATRFcL1HPWlx4P6bT9kr) | 1:58 |
 | 46 | [Ainda É Verão](https://open.spotify.com/track/3aW8hApguw9MG56v8jrz6F) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Número 1](https://open.spotify.com/track/2socHRYT8zT7noGhOKeztH) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [CARA](https://open.spotify.com/album/5gHeIIHjKzEIlHJchlobxJ) | 2:03 |
 | 50 | [Amor Indefinido](https://open.spotify.com/track/1rSdYMsc9Ct1AMtvRgNBvv) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Amor Indefinido](https://open.spotify.com/album/4S3iDE7Uwtm8uR9acKqHiz) | 2:27 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDQ1ZDM4MjViOWZlYWFmOWQ2ODQ4M2MwM2I3ZTUxNjRi`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDhiZTgzYWU0OWViY2E1ZmQ4N2U5NDQxMzU0ZjRlZGQ4`

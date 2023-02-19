@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,225 songs - 2 day 18 hr 51 min
+1,226 songs - 2 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [4 Da Gang \(with Roddy Ricch\)](https://open.spotify.com/track/4KIkADzoVm3A10E9qyjsQ5) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [4 Da Gang \(with Roddy Ricch\)](https://open.spotify.com/album/6NRf3rD5JCAsD3tHBTKZ6P) | 2:35 | 2021-04-20 | 2021-05-27 |
 | [6 FEET UNDER](https://open.spotify.com/track/5ry7zR2iPX67LOYtz5mV8L) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [6 FEET UNDER](https://open.spotify.com/album/1LGHr6LUPNXskgpGdzcKUz) | 3:43 | 2019-11-15 | 2020-02-27 |
 | [911 \- Remix](https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [911 \(Remix\)](https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR) | 3:28 | 2021-07-18 | 2021-10-13 |
-| [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2022-03-30 |  |
+| [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2022-03-30 | 2023-02-19 |
 | [A Milli \- SIDEPIECE Remix](https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [A Milli \(SIDEPIECE Remix\)](https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS) | 2:33 | 2023-02-14 |  |
 | [Acronym](https://open.spotify.com/track/2LDzkukrAPSqUpCzuggJRN) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Acronym](https://open.spotify.com/album/0LIUuVfhyE6CzCbuXJ6t18) | 6:46 | 2020-07-03 | 2020-09-15 |
 | [Act a Fool](https://open.spotify.com/track/3KIMdTgROcteSwwKwoK3Bs) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Act a Fool](https://open.spotify.com/album/0a7jB92VAx5XUNqvryHsox) | 4:48 | 2019-08-09 | 2021-03-16 |
@@ -862,6 +862,7 @@
 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 | 2022-07-25 |  |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-21 | 2022-07-29 |
 | [Rapture](https://open.spotify.com/track/5Q8uxf5IIGcvB18tRXu0Rp) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Daniel Blume](https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj) | [Rapture](https://open.spotify.com/album/4lyMqsR3T6SEFEgqzOHgMu) | 2:46 | 2021-01-21 | 2022-07-29 |
+| [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 | 2023-02-17 |  |
 | [Rave \(feat\. Kris Kiss\)](https://open.spotify.com/track/4R11XhEETozc8q9Q6TjNqx) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Rave \(feat\. Kris Kiss\)](https://open.spotify.com/album/3meN22ulcRCK8aH5FVk3KT) | 3:25 | 2019-07-05 | 2020-05-30 |
 | [RAWSIDE](https://open.spotify.com/track/0EDyoVqPdg9AMt8PuDeu9c) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [RAWSIDE](https://open.spotify.com/album/1zIe2BCGhrVrMp228rUV7X) | 3:24 | 2019-06-24 | 2019-10-23 |
 | [Ready](https://open.spotify.com/track/5nwyekHR6MQTKFVvBhdfHz) | [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Ready](https://open.spotify.com/album/1TgqdrNstjL0V9lNRjai4w) | 2:51 | 2019-10-23 | 2020-07-03 |

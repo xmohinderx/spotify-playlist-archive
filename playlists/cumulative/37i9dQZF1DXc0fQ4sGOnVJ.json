@@ -2261,6 +2261,24 @@
     },
     {
       "album": {
+        "name": "Southern",
+        "url": "https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd"
+      },
+      "artists": [
+        {
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183336,
+      "name": "Southern",
+      "url": "https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m"
+    },
+    {
+      "album": {
         "name": "Dirt Road Revival",
         "url": "https://open.spotify.com/album/69xqGT8TBqJ1ewk8LnCJMk"
       },
@@ -2876,7 +2894,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 394287,
       "name": "Yee Yee Like Me - Remix",
       "url": "https://open.spotify.com/track/1ejQFgJS3UYIzhsZ6KFl1Q"

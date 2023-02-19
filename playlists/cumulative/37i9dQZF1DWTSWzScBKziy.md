@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-182 songs - 11 hr 50 min
+183 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 | 2022-05-27 | 2022-10-30 |
 | [High Calling](https://open.spotify.com/track/2gB0rcZPb6q0P3Pd828K8Y) | [The Shelter](https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [High Calling](https://open.spotify.com/album/3g41qW3oYLAsJmp81NDHe0) | 3:09 | 2022-05-27 | 2022-07-28 |
 | [HOLY GHOST](https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [HOLY GHOST](https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA) | 4:50 | 2022-10-29 |  |
+| [Holy Spirit Come](https://open.spotify.com/track/0fFPUhjQSy1TWgK7W09fmo) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [Holy Spirit Come](https://open.spotify.com/album/675wCYd2ed5JUJF9sLBsyG) | 4:14 | 2022-10-29 |  |
 | [Home Called Heaven](https://open.spotify.com/track/1RUgjAvt8majG62li8evpf) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Home Called Heaven](https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV) | 3:47 | 2022-05-27 |  |
 | [How Can I Be Silent](https://open.spotify.com/track/7IgnVHqxDysutaj7txWS9U) | [Chelsea](https://open.spotify.com/artist/68rhcOBBEa3q3lKZbOAd18) | [How Can I Be Silent](https://open.spotify.com/album/3GudEZtWF1vRHf1AM0hH9C) | 3:24 | 2022-05-27 | 2022-10-30 |
 | [How Can You Not](https://open.spotify.com/track/0covwa001dCZVFNB2Jz2tt) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [How Can You Not](https://open.spotify.com/album/2TBFTCdartNacGPFgiVxSz) | 3:12 | 2022-10-29 |  |
@@ -119,7 +120,7 @@
 | [Mind of Christ \(Philippians 2\)](https://open.spotify.com/track/5Ol2f8NBEASW6JYQswBWpi) | [Brian Doerksen](https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7), [Steve Mitchinson](https://open.spotify.com/artist/0pVGOg9sIx3AsJisBwKfAb) | [Mind of Christ \(Philippians 2\)](https://open.spotify.com/album/78xHy1AXOcqDNevyty5BK6) | 4:02 | 2022-05-27 | 2022-10-30 |
 | [Miracle Power](https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Miracle Power](https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq) | 4:37 | 2022-05-27 |  |
 | [More](https://open.spotify.com/track/0hFyyBF7BntGhLPffwliYh) | [Katy Weirich](https://open.spotify.com/artist/3QubzJpthCbzrOI1bisB0d) | [More](https://open.spotify.com/album/0OP9HYBOIsuXYluIctWpuN) | 3:48 | 2022-10-29 |  |
-| [More Than Ever](https://open.spotify.com/track/00cHdJO9E4TvmJBeuJq0pr) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd) | [More Than Ever](https://open.spotify.com/album/68OLHztu1jW6VilxvWZEtf) | 3:14 | 2022-05-27 |  |
+| [More Than Ever](https://open.spotify.com/track/00cHdJO9E4TvmJBeuJq0pr) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd) | [More Than Ever](https://open.spotify.com/album/68OLHztu1jW6VilxvWZEtf) | 3:14 | 2022-05-27 | 2023-02-19 |
 | [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 | 2022-05-27 | 2022-10-30 |
 | [Need You](https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq) | [Caz](https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu) | [Need You](https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl) | 3:20 | 2022-05-27 | 2022-10-30 |
 | [Never Not God](https://open.spotify.com/track/6zWdaANy7zVHGPqzv1fZeT) | [The Sound](https://open.spotify.com/artist/3bsZZ1rEW7u6BqsIorxUPy) | [God Is Real](https://open.spotify.com/album/15WYTz5xlfGzNacurKTrqW) | 2:57 | 2022-05-27 | 2022-10-30 |

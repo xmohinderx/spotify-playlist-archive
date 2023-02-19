@@ -1,12 +1,12 @@
 {
   "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: JUNNY w/ SOULBYSEL)",
-  "num_followers": 828154,
+  "num_followers": 828184,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ0MzkzMSwwMDAwMDAwMDI4YTc1MWUxNTdkYTA1MjhhOGNhNjQxYmIyMjU0YWQx",
+  "snapshot_id": "MTY3NjQ0MzkzMSwwMDAwMDAwMDFmMDlkYzI0YmMwOTVkMjlhOTM2YjU5MTFmOTNkODM4",
   "tracks": [
     {
       "added_at": "2023-02-15 06:52:11",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-02-15 06:52:11",
       "album": {
-        "name": "B",
-        "url": "https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7"
+        "name": "you won't be there for me",
+        "url": "https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5"
       },
       "artists": [
         {
-          "name": "BamBam",
-          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
         }
       ],
-      "duration_ms": 152666,
-      "name": "Slow Mo",
-      "url": "https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF"
+      "duration_ms": 182645,
+      "name": "you won't be there for me",
+      "url": "https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR"
     },
     {
       "added_at": "2023-02-15 06:52:11",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-02-15 06:52:11",
       "album": {
-        "name": "you won't be there for me",
-        "url": "https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5"
+        "name": "B",
+        "url": "https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7"
       },
       "artists": [
         {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
         }
       ],
-      "duration_ms": 182645,
-      "name": "you won't be there for me",
-      "url": "https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR"
+      "duration_ms": 152666,
+      "name": "Slow Mo",
+      "url": "https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF"
     },
     {
       "added_at": "2023-02-15 06:52:11",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-02-15 06:52:11",
       "album": {
-        "name": "Darling (feat. dress)",
-        "url": "https://open.spotify.com/album/1nDGEzBI75Dan159KrtNAj"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "dress",
-          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
-        }
-      ],
-      "duration_ms": 254955,
-      "name": "Darling (feat. dress)",
-      "url": "https://open.spotify.com/track/0vVVMt1bmd7K87IstridSS"
-    },
-    {
-      "added_at": "2023-02-15 06:52:11",
-      "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
+    },
+    {
+      "added_at": "2023-02-15 06:52:11",
+      "album": {
+        "name": "Darling (feat. dress)",
+        "url": "https://open.spotify.com/album/1nDGEzBI75Dan159KrtNAj"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "dress",
+          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+        }
+      ],
+      "duration_ms": 254955,
+      "name": "Darling (feat. dress)",
+      "url": "https://open.spotify.com/track/0vVVMt1bmd7K87IstridSS"
     },
     {
       "added_at": "2023-02-15 06:52:11",

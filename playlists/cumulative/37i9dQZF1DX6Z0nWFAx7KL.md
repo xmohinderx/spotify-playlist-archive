@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-125 songs - 6 hr 14 min
+126 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Drift](https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Drift](https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J) | 2:44 | 2022-09-15 |  |
 | [Easy On Me](https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS) | [Cookie Crumble](https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V) | [Easy On Me](https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg) | 2:55 | 2022-09-15 |  |
 | [Echo \[Chaël Remix\]](https://open.spotify.com/track/0tYWJ4GvHzNvcbh9hLRFAX) | [MKJ](https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0), [YOTO](https://open.spotify.com/artist/1oFSLlpB3eM6V7Ka71a8Lx), [AVY X](https://open.spotify.com/artist/6CfEqFJScEOoO0meiW88px), [Chaël](https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk) | [Echo \[Chaël Remix\]](https://open.spotify.com/album/1QjzaTNqb5lC73XzhfG1Lv) | 2:33 | 2022-12-29 |  |
+| [Elenore](https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:34 | 2023-02-16 |  |
 | [Escaping](https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Urban Love](https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7) | [Escaping](https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn) | 2:44 | 2022-09-15 |  |
 | [Even If You Don't](https://open.spotify.com/track/5XSjmXj79UdVdT5ndQHM2x) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh) | [Even If You Don't](https://open.spotify.com/album/21uycqDEGwq19UBzFrmqlh) | 2:36 | 2022-09-15 | 2022-09-30 |
 | [Eye Of The Storm](https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Eye Of The Storm](https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey) | 2:27 | 2022-09-15 |  |
@@ -93,7 +94,7 @@
 | [My Darling](https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG) | [Junerule](https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y) | [My Darling](https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq) | 2:54 | 2022-09-15 |  |
 | [Never Give Up On You](https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj) | [Never Give Up On You](https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa) | 3:36 | 2022-09-15 |  |
 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/12aAoKT43mVGdW1ofZVCwr) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/album/0GqBHBdVgx0H48cON75KE4) | 3:19 | 2022-09-15 | 2022-09-30 |
-| [Nightcall](https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Nightcall](https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2) | 2:06 | 2022-09-15 |  |
+| [Nightcall](https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Nightcall](https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2) | 2:06 | 2022-09-15 | 2023-02-19 |
 | [No One Hurries Time](https://open.spotify.com/track/46njaMNjHhIipCp5O2OJop) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Andrea Hamilton](https://open.spotify.com/artist/6KHaRRRqsIRnkLcApkyELs) | [No One Hurries Time](https://open.spotify.com/album/2hIhs4onnfovulkkODKLaP) | 2:36 | 2022-09-15 |  |
 | [Ocean Drive](https://open.spotify.com/track/7lN0cKK4jrnolhjv0myUGm) | [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ), [Manil](https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl) | [Ocean Drive](https://open.spotify.com/album/3vIjOeb2pMV5FfpTk3tOYf) | 2:33 | 2022-09-15 | 2022-12-13 |
 | [On My Mind](https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz) | [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45) | [On My Mind](https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS) | 2:35 | 2022-09-15 | 2023-01-21 |
