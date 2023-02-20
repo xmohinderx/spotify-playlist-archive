@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072 likes - 31 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074 likes - 31 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 23 | [Great Zoos of the World](https://open.spotify.com/track/4HnfjfedOmmZkxjaAeEkcY) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:37 |
 | 24 | [Doctor Who Closing Titles \(40" Version\)](https://open.spotify.com/track/3DLtzJulhFfQBRqwiuhwyC) | [Ron Grainer](https://open.spotify.com/artist/4qLcZ00bh6qqKil3lXj23A), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- The 50th Anniversary Collection \(Original Television Soundtrack\)](https://open.spotify.com/album/6oXILFHezMvby8D9Jx6x1Q) | 1:15 |
 | 25 | [Hannett and Delia synth exchanges track 6](https://open.spotify.com/track/6fzWYlEBCGq0OXVLcw5yTV) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:06 |
-| 26 | [Circle of Light, Pt\. 2](https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 10:25 |
+| 26 | [Circle of Light, Pt\. 1](https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 21:14 |
 | 27 | [A New View of Politics](https://open.spotify.com/track/5tT0o5xxlpwCpPgAPOhsH6) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:41 |
 | 28 | [Hannett and Delia synth exchanges track 9](https://open.spotify.com/track/1kmJMLFVnW7GtqrK37ngN4) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 1:45 |
-| 29 | [Circle of Light, Pt\. 1](https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 21:14 |
+| 29 | [Circle of Light, Pt\. 2](https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 10:25 |
 | 30 | [Time on Our Hands](https://open.spotify.com/track/0dDAu6FlLjQxSlE9NcvWmS) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 1:13 |
 | 31 | [Science and Health](https://open.spotify.com/track/3CsSFQJyWG9gYqP6mwkqAj) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:57 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDAxZDg5ZDdmZWI5MjIyNWM2YTk1N2Y1ZWViZDI2MzYzNQ==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDAzZGQwMzk3ZWFkMDU0MjdlYmZiZmM2ZTZjOWU3YzQ3ZA==`

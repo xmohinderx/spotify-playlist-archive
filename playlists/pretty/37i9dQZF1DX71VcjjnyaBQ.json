@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 370248,
+  "num_followers": 370341,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMGViYzhmYmZjYmIwMDM0NGMxMGUwMjk1YWRhMWQyMzY5",
+  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMDk0ZGIyMzQ4ZjIwMzlmNWQyNDQ5YTE3ZDg4NWFhOTQw",
   "tracks": [
     {
       "added_at": "2023-02-16 23:00:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Cononbridge",
+        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Cononbridge",
+      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Deep in a Dream",
         "url": "https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 340760,
       "name": "Deep in a Dream",
       "url": "https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Cononbridge",
-        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Cononbridge",
-      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Colour Yes (Special Edition)",
-        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 672520,
-      "name": "Together - Special Edition",
-      "url": "https://open.spotify.com/track/6sJUbzyzNOrAt9dr3pkOPk"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Kelly Blue (Keepnews Collection)",
         "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 393000,
       "name": "Softly As In A Morning Sunrise",
       "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Colour Yes (Special Edition)",
+        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 672520,
+      "name": "Together - Special Edition",
+      "url": "https://open.spotify.com/track/6sJUbzyzNOrAt9dr3pkOPk"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "In the Wee Small Hours of the Morning",
-        "url": "https://open.spotify.com/album/6onu3dtSozmPb5GBbcXL3m"
-      },
-      "artists": [
-        {
-          "name": "Will Bonness",
-          "url": "https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo"
-        }
-      ],
-      "duration_ms": 315903,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/0kHc5lXxGsf4Dfe0iLhEsE"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "En attendant",
         "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 333213,
       "name": "Riders On The Storm",
       "url": "https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "In the Wee Small Hours of the Morning",
+        "url": "https://open.spotify.com/album/6onu3dtSozmPb5GBbcXL3m"
+      },
+      "artists": [
+        {
+          "name": "Will Bonness",
+          "url": "https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo"
+        }
+      ],
+      "duration_ms": 315903,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/0kHc5lXxGsf4Dfe0iLhEsE"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -575,22 +575,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "A Ballad Moment",
-        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
+        "name": "Homeward Bound",
+        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
       },
       "artists": [
         {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        },
-        {
-          "name": "Karl-Martin Almqvist",
-          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
         }
       ],
-      "duration_ms": 317545,
-      "name": "Moonlight in Vermont",
-      "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
+      "duration_ms": 204733,
+      "name": "Abiyoyo",
+      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -623,22 +619,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Homeward Bound",
-        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
-      },
-      "artists": [
-        {
-          "name": "Johnathan Blake",
-          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Abiyoyo",
-      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Tributary",
         "url": "https://open.spotify.com/album/4Smd5XsAnGKCt8QepEw9AM"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 347240,
       "name": "Tributary",
       "url": "https://open.spotify.com/track/7q6UmBKNhBLgMt0dg9UKr2"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "A Ballad Moment",
+        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        }
+      ],
+      "duration_ms": 317545,
+      "name": "Moonlight in Vermont",
+      "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Pure Imagination",
-        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
-      },
-      "artists": [
-        {
-          "name": "Rob Barron",
-          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
-        }
-      ],
-      "duration_ms": 358853,
-      "name": "Pure Imagination",
-      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "The Jazz Seekers",
         "url": "https://open.spotify.com/album/4Vsb19WKYRPRGmpx83EQEH"
       },
@@ -919,62 +903,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Where or When",
-        "url": "https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo"
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
       },
       "artists": [
         {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+          "name": "Rob Barron",
+          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
         }
       ],
-      "duration_ms": 230337,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Little Bird of Passage",
-        "url": "https://open.spotify.com/album/2qRhnK6la2N6J1JMX6KeFT"
-      },
-      "artists": [
-        {
-          "name": "Niclas Knudsen Trio",
-          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
-        },
-        {
-          "name": "Niclas Knudsen",
-          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
-        }
-      ],
-      "duration_ms": 321800,
-      "name": "Little Bird of Passage",
-      "url": "https://open.spotify.com/track/7Ax5oHgngxCgqJNsBBzaub"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "A Drums Comes True",
-        "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
-      },
-      "artists": [
-        {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        },
-        {
-          "name": "Jimmy Cobb",
-          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
-        },
-        {
-          "name": "John Webber",
-          "url": "https://open.spotify.com/artist/2DcPd1TuEWKCjnokl3EIO5"
-        }
-      ],
-      "duration_ms": 353280,
-      "name": "Will You Still Be Mine?",
-      "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
+      "duration_ms": 358853,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1007,6 +947,26 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Little Bird of Passage",
+        "url": "https://open.spotify.com/album/2qRhnK6la2N6J1JMX6KeFT"
+      },
+      "artists": [
+        {
+          "name": "Niclas Knudsen Trio",
+          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
+        },
+        {
+          "name": "Niclas Knudsen",
+          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
+        }
+      ],
+      "duration_ms": 321800,
+      "name": "Little Bird of Passage",
+      "url": "https://open.spotify.com/track/7Ax5oHgngxCgqJNsBBzaub"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Cloud 10",
         "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
       },
@@ -1019,6 +979,50 @@
       "duration_ms": 513373,
       "name": "Tubby Chaser",
       "url": "https://open.spotify.com/track/4PrgpZoUYGKBqhyGpVYJMX"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "A Drums Comes True",
+        "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        },
+        {
+          "name": "John Webber",
+          "url": "https://open.spotify.com/artist/2DcPd1TuEWKCjnokl3EIO5"
+        }
+      ],
+      "duration_ms": 353280,
+      "name": "Will You Still Be Mine?",
+      "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1055,22 +1059,38 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
+        "name": "Where or When",
+        "url": "https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo"
       },
       "artists": [
         {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
         }
       ],
-      "duration_ms": 275200,
-      "name": "Going Up",
-      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
+      "duration_ms": 230337,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "In the Mountains",
+        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        },
+        {
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+        }
+      ],
+      "duration_ms": 496933,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1099,26 +1119,6 @@
       "duration_ms": 454548,
       "name": "In The End",
       "url": "https://open.spotify.com/track/4wZbWbTqS657emJy9xuJ2Q"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "In the Mountains",
-        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        },
-        {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
-        }
-      ],
-      "duration_ms": 496933,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Where Will the River Flow",
-        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 334925,
-      "name": "Hopeful Morning",
-      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Lead Belly Reimagined",
         "url": "https://open.spotify.com/album/3PptUbT8wyVA5DcDDe8s3R"
       },
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Where Will the River Flow",
+        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 334925,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Boo's Blues",
         "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 205094,
       "name": "Boo's Blues",
       "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Ballad for K",
+        "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
+      },
+      "artists": [
+        {
+          "name": "Ruhi Erdogan",
+          "url": "https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "Ballad for K",
+      "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1243,22 +1259,6 @@
       "duration_ms": 371773,
       "name": "Where We Belong",
       "url": "https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Ballad for K",
-        "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
-      },
-      "artists": [
-        {
-          "name": "Ruhi Erdogan",
-          "url": "https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "Ballad for K",
-      "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Mosa\u00efque",
+        "url": "https://open.spotify.com/album/0O9jMs6Dvt9L17P6KMChd5"
+      },
+      "artists": [
+        {
+          "name": "Oilly Wallace",
+          "url": "https://open.spotify.com/artist/2Str5hCf89OLMWRz2zwJ6F"
+        },
+        {
+          "name": "Johannes Wamberg",
+          "url": "https://open.spotify.com/artist/7yExmYa8Owoe73xabfjOWY"
+        }
+      ],
+      "duration_ms": 285770,
+      "name": "Mosa\u00efque",
+      "url": "https://open.spotify.com/track/46ENsWZeNIoYgu8VQfxhUc"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Lovers Moment (H\u00e5kan Brostr\u00f6m Meets Carl Winther Trio)",
         "url": "https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig"
       },
@@ -1407,38 +1427,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Mosa\u00efque",
-        "url": "https://open.spotify.com/album/0O9jMs6Dvt9L17P6KMChd5"
+        "name": "Best of 1965-76",
+        "url": "https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv"
       },
       "artists": [
         {
-          "name": "Oilly Wallace",
-          "url": "https://open.spotify.com/artist/2Str5hCf89OLMWRz2zwJ6F"
-        },
-        {
-          "name": "Johannes Wamberg",
-          "url": "https://open.spotify.com/artist/7yExmYa8Owoe73xabfjOWY"
+          "name": "Nathan Davis",
+          "url": "https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO"
         }
       ],
-      "duration_ms": 285770,
-      "name": "Mosa\u00efque",
-      "url": "https://open.spotify.com/track/46ENsWZeNIoYgu8VQfxhUc"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge",
-          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
-        }
-      ],
-      "duration_ms": 330213,
-      "name": "To Mr K.K.",
-      "url": "https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC"
+      "duration_ms": 208880,
+      "name": "Sconsolato",
+      "url": "https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Best of 1965-76",
-        "url": "https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv"
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
       },
       "artists": [
         {
-          "name": "Nathan Davis",
-          "url": "https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO"
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
         }
       ],
-      "duration_ms": 208880,
-      "name": "Sconsolato",
-      "url": "https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM"
+      "duration_ms": 330213,
+      "name": "To Mr K.K.",
+      "url": "https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "The Starter",
-        "url": "https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI"
+        "name": "Happy Hours",
+        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
       },
       "artists": [
         {
-          "name": "Per Thornberg",
-          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
+          "name": "Christophe Marguet",
+          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
         }
       ],
-      "duration_ms": 375267,
-      "name": "The Starter",
-      "url": "https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c"
+      "duration_ms": 397306,
+      "name": "Dear Don",
+      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Happy Hours",
-        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
+        "name": "The Starter",
+        "url": "https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI"
       },
       "artists": [
         {
-          "name": "Christophe Marguet",
-          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
+          "name": "Per Thornberg",
+          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
         }
       ],
-      "duration_ms": 397306,
-      "name": "Dear Don",
-      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
+      "duration_ms": 375267,
+      "name": "The Starter",
+      "url": "https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
-      },
-      "artists": [
-        {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
-        }
-      ],
-      "duration_ms": 414760,
-      "name": "As if We Were Just Friends",
-      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Some Gospel According to Matthew",
         "url": "https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO"
       },
@@ -1747,6 +1731,46 @@
       "duration_ms": 323426,
       "name": "Some Gospel According to Matthew - Live",
       "url": "https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+        }
+      ],
+      "duration_ms": 414760,
+      "name": "As if We Were Just Friends",
+      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Los Bandidos Bogarolles",
+        "url": "https://open.spotify.com/album/7djCtwPzAUjSRsyTAEckuu"
+      },
+      "artists": [
+        {
+          "name": "Judith O'Higgins",
+          "url": "https://open.spotify.com/artist/3OJqhnI1ZkG8UD6diD6Q51"
+        },
+        {
+          "name": "Dave O'Higgins",
+          "url": "https://open.spotify.com/artist/77i77txKM79mxoukQFNaMm"
+        },
+        {
+          "name": "His'n'Hers",
+          "url": "https://open.spotify.com/artist/1Lq8xzHmwzSI1wr5UaVg92"
+        }
+      ],
+      "duration_ms": 415106,
+      "name": "Los Bandidos Bogarolles",
+      "url": "https://open.spotify.com/track/4Z0iEYAkE3fjpu7DG3n7nw"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1775,30 +1799,6 @@
       "duration_ms": 296253,
       "name": "Elisian/Inutil Paisagem",
       "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Los Bandidos Bogarolles",
-        "url": "https://open.spotify.com/album/7djCtwPzAUjSRsyTAEckuu"
-      },
-      "artists": [
-        {
-          "name": "Judith O'Higgins",
-          "url": "https://open.spotify.com/artist/3OJqhnI1ZkG8UD6diD6Q51"
-        },
-        {
-          "name": "Dave O'Higgins",
-          "url": "https://open.spotify.com/artist/77i77txKM79mxoukQFNaMm"
-        },
-        {
-          "name": "His'n'Hers",
-          "url": "https://open.spotify.com/artist/1Lq8xzHmwzSI1wr5UaVg92"
-        }
-      ],
-      "duration_ms": 415106,
-      "name": "Los Bandidos Bogarolles",
-      "url": "https://open.spotify.com/track/4Z0iEYAkE3fjpu7DG3n7nw"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1851,6 +1851,26 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Michael Blicher",
+          "url": "https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ"
+        }
+      ],
+      "duration_ms": 259073,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "First Light (CTI Records 40th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu"
       },
@@ -1895,22 +1915,6 @@
       "duration_ms": 260266,
       "name": "Queen Of The South",
       "url": "https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Presenting Jimmy Forrest",
-        "url": "https://open.spotify.com/album/3PKLsD2Wne8PaE68ILMgPv"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Forrest",
-          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
-        }
-      ],
-      "duration_ms": 249800,
-      "name": "Bolo Blues",
-      "url": "https://open.spotify.com/track/0aTlJ59aJoZ27Ghrhp2hqq"
     }
   ],
   "unique_name": "Good Morning Jazz",

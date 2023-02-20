@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,534 likes - 86 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,546 likes - 86 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

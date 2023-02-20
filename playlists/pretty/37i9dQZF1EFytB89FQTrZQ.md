@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 85 | [Trash](https://open.spotify.com/track/5lzWrMDYLuAugJCHG5C2d0) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 2:53 |
 | 86 | [Cheque](https://open.spotify.com/track/2PRjwWPjJHmjFmC3NPXrTy) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [FORΞVΞR \(DΞLUXΞ ΞDITION\)](https://open.spotify.com/album/53F4qZCDBwulb9eoMuWHf2) | 2:45 |
 | 87 | [Deeper](https://open.spotify.com/track/5XCJndUuktaxfVruAek3mT) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Deeper](https://open.spotify.com/album/2HhX8FC1y861CrSLMYwQLC) | 4:08 |
-| 88 | [Wish You Were Here](https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr) | 3:41 |
-| 89 | [Feels](https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Feels](https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK) | 2:27 |
-| 90 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 |
+| 88 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 |
+| 89 | [Wish You Were Here](https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr) | 3:41 |
+| 90 | [Feels](https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Feels](https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK) | 2:27 |
 | 91 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
 | 92 | [Cruel](https://open.spotify.com/track/69Q9unT80s08dUolhcgr4T) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [All I Need \(Deluxe Version\)](https://open.spotify.com/album/6fpZzsdzd04nqiDPWnF2iw) | 3:46 |
 | 93 | [More Than A Miracle](https://open.spotify.com/track/21AbakVGnrNSdineegyZnB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:05 |
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 258 | [Breathe \- Extended Reggaeton Rough Mix](https://open.spotify.com/track/7m7rZmcChdxe3SphKJZtL0) | [Kar Vogue](https://open.spotify.com/artist/1P0BWH63MKkRzVDo6KENaB) | [Big Hits in Reggaeton Mix Vol\. 1](https://open.spotify.com/album/3gIlukVpz1M1t8rBYUBn0t) | 4:32 |
 | 259 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 
-Snapshot ID: `Mjc5NDY0NDQsMDAwMDAwMDAyMmIwOTBjNzgzZGM3ZDYwZWJiZGNkNjBlZjNlODQwMA==`
+Snapshot ID: `Mjc5NDc1MjQsMDAwMDAwMDBiYWRkMTZlNTE5ZTkxNWY3NjlmNDRmMjc3NTM4YzM5Yg==`

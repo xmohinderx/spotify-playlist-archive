@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,566 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,594 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 44 | [Midnight Caller](https://open.spotify.com/track/26LjeIJNpcnnCAy0Y9jHP4) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Youth Attraction](https://open.spotify.com/album/1qEYAW03qOUzZi6QaVVcuC) | 5:33 |
 | 45 | [Zoo Lion](https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Zoo Lion](https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF) | 4:26 |
 | 46 | [Mi Necedad](https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa) | [Solar](https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4) | 3:55 |
-| 47 | [Dejarte Ir](https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir](https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc) | 3:12 |
-| 48 | [nuncatevayasnunca](https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut) | [Floridablanca](https://open.spotify.com/artist/3Ri7j4vT0iYvMjMv5I3iqp) | [Hay frases que sólo escuchamos de noche](https://open.spotify.com/album/6x9Nd9EHF4c2M9nIuVLhIS) | 3:57 |
+| 47 | [nuncatevayasnunca](https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut) | [Floridablanca](https://open.spotify.com/artist/3Ri7j4vT0iYvMjMv5I3iqp) | [Hay frases que sólo escuchamos de noche](https://open.spotify.com/album/6x9Nd9EHF4c2M9nIuVLhIS) | 3:57 |
+| 48 | [Dejarte Ir](https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir](https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc) | 3:12 |
 | 49 | [Da Funk](https://open.spotify.com/track/3y5hMwMAne5VD8635DBpj0) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Da Funk](https://open.spotify.com/album/1RkDdrEwwERzb4bvTAYalH) | 2:36 |
 | 50 | [Turista](https://open.spotify.com/track/75CvJyaMNLIRXkrHQOVblP) | [Cazzeros](https://open.spotify.com/artist/5jzrYCX3klqShv1fnZNbVi) | [Turista](https://open.spotify.com/album/5hnEgpae3aS7ws5LE8zvVo) | 3:30 |
 
-Snapshot ID: `MTY3NjMxNjQzMSwwMDAwMDAwMDAyMjAxN2YzNzE2OWE5MjUyYmZhOGMwZjQ1OGZjMDc4`
+Snapshot ID: `MTY3NjMxNjQzMSwwMDAwMDAwMDljMmZjZjE3NTNlN2RlYzkxMmE5Yjg2ZDRjYTNlY2Ri`

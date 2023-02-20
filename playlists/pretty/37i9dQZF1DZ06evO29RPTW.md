@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,894 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,926 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 49 | [Run Rabbit Run \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 3:01 |
 | 50 | [The Scorpion Sleeps](https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:38 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDA0MWU5NjMxZjYwN2I2YTY1MjhkZTM3NDQ1MWJkMDM0NA==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDBmNGEzYzUwMDMyOGE1NzhkN2U0NjMxOGM3MDUyYWU4OQ==`

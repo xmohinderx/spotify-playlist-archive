@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-89 songs - 7 hr 34 min
+90 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bye Bye Blackbird](https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Bye Bye Blackbird](https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v) | 3:08 | 2022-09-09 |  |
 | [Bésame Mucho](https://open.spotify.com/track/5mP6m2m775f2VYYLddc6qa) | [Oscar Aleman](https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK) | [GRABACIONES RECUPERADAS](https://open.spotify.com/album/3u0TegUGeLCo0VtxNBUeJ4) | 2:12 | 2022-08-12 |  |
 | [Cabrera's Blues](https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv) | [Oscar Giunta Supertrío!](https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Flavio Romero](https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl) | [Apaláp!](https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv) | 8:15 | 2022-09-23 | 2022-11-04 |
+| [Cafetin de Buenos Aires](https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6) | [Adrian Iaies Trio](https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje) | [Las Tardecitas de Miton's](https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4) | 6:08 | 2022-11-18 |  |
 | [Caminando Con Audífonos](https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im) | [Pat Nuño](https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN) | [En Las Afueras](https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my) | 3:50 | 2022-08-12 |  |
 | [Cero](https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ) | [Commodore](https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN) | [Enero](https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b) | 6:52 | 2022-08-12 |  |
 | [Chacafrik](https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 6:35 | 2022-08-12 |  |
@@ -49,7 +50,7 @@
 | [Fly Me to the Moon](https://open.spotify.com/track/7a2N6gnNqKvfN5rz3kHCTV) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 2:09 | 2022-08-12 |  |
 | [Full Glasses](https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Onyx](https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1) | 6:04 | 2022-08-12 |  |
 | [Full House \- Live](https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc) | [Valentino Jazz Bazar](https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm) | [Essence of Wes Montgomery \(Live in Thelonious Club, Buenos Aires, Argentina\)](https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH) | 4:46 | 2022-08-12 |  |
-| [Here´s That Rainy Day](https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc) | [Gustavo Musso](https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [Here´s That Rainy Day](https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb) | 3:12 | 2022-09-23 |  |
+| [Here´s That Rainy Day](https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc) | [Gustavo Musso](https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [Here´s That Rainy Day](https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb) | 3:12 | 2022-09-23 | 2023-02-20 |
 | [I Remember Clifford](https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Facundo Canosa](https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS) | [I Remember Clifford](https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY) | 3:12 | 2022-08-12 |  |
 | [I Should Care](https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH) | [Ruben Lopez Furst](https://open.spotify.com/artist/2U16v6XmFw7LIeoXwfTIsX), [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV), [Luis Ceravolo](https://open.spotify.com/artist/11NMVUYGwcgCJQ9H0mRb2E) | [All the Things You Are](https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB) | 6:48 | 2022-08-12 | 2023-02-01 |
 | [I'm Beginning to See the Light](https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 2:20 | 2022-08-12 |  |

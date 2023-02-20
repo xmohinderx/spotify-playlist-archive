@@ -4,7 +4,7 @@
 
 > Close the curtains, it's time for some leftfield gems.
 
-182 songs - 15 hr 40 min
+183 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,10 +176,11 @@
 | [Too Far](https://open.spotify.com/track/3ezs97FpxasPrTnlptVVau) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Too Far](https://open.spotify.com/album/3MtgDkmYIb64YIlMNfpKQt) | 4:44 | 2022-05-20 | 2022-07-28 |
 | [TOUCH](https://open.spotify.com/track/1rCaFb3YaSBjkbgh6tmiFU) | [KARMA SHE](https://open.spotify.com/artist/6kuuHVyXGEt2Zcj67hoxlf) | [WHY SHE DANCE](https://open.spotify.com/album/2SEibQxk8PIqiPgUduiPfG) | 4:59 | 2022-05-06 | 2022-07-27 |
 | [Untitled IV](https://open.spotify.com/track/1m6l9yUMnbFpBdaxYZXsuj) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Untitled IV](https://open.spotify.com/album/1z4Q3HjmtpRViik5kb1fGZ) | 4:44 | 2022-05-06 | 2023-02-18 |
+| [Untitled IV](https://open.spotify.com/track/4ziCKpNj8dDFCi5kNrUECp) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 4:44 | 2022-11-14 |  |
 | [Violet Sky \- Joe Goddard Remix](https://open.spotify.com/track/5WMXCbXEjqfVrvZ6YtInor) | [Valentina](https://open.spotify.com/artist/0qDEhyfeFBVihHtyPWCDdh), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Violet Sky \(Joe Goddard Remix\)](https://open.spotify.com/album/1xc77ezoUV9dp7TsF1RFHh) | 4:45 | 2022-05-06 | 2022-07-23 |
 | [Vocoder](https://open.spotify.com/track/4nT9x3zgwomLhyuc6ZXPeD) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Vocoder](https://open.spotify.com/album/7nlHOrNbeFFid40EuBoTsN) | 7:35 | 2022-05-06 |  |
 | [Volca](https://open.spotify.com/track/28NpDrD2786HAM55WX21ux) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Volca](https://open.spotify.com/album/3mbTIUXfzrkP1frqjZbjY8) | 6:36 | 2022-09-09 |  |
-| [Water](https://open.spotify.com/track/7tqoivFzlTVYaRTGbIuSuc) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP), [Ryan Elliott](https://open.spotify.com/artist/3SZBUeVJfGLUpAPNEQbBKk) | [Water](https://open.spotify.com/album/0TKpXk55uoVWjIylRFWeYt) | 5:34 | 2022-11-14 |  |
+| [Water](https://open.spotify.com/track/7tqoivFzlTVYaRTGbIuSuc) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP), [Ryan Elliott](https://open.spotify.com/artist/3SZBUeVJfGLUpAPNEQbBKk) | [Water](https://open.spotify.com/album/0TKpXk55uoVWjIylRFWeYt) | 5:34 | 2022-11-14 | 2023-02-20 |
 | [We Live We Die](https://open.spotify.com/track/78CD5cWN9wunrkn5ibb7Cx) | [DJ Hell](https://open.spotify.com/artist/4WgFczZafuUFBvsCuSK44C) | [We Live We Die](https://open.spotify.com/album/7keFRmq9qc36S7pEWBUwG9) | 6:58 | 2022-05-06 | 2022-07-27 |
 | [Wet x3](https://open.spotify.com/track/3Js9HDMcXtQIpYorsbERcD) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Taraval](https://open.spotify.com/artist/7nfNAw10popYtPuxLEUjrF) | [DJ\-Kicks: Jessy Lanza](https://open.spotify.com/album/3RVxiA5FxTloZGWsdPZVXs) | 4:56 | 2022-05-06 | 2022-07-19 |
 | [What Could I Say?](https://open.spotify.com/track/4XDPNzYcvHEeZRfUw1Er4D) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [What Could I Say?](https://open.spotify.com/album/7ntLV6Kf1wjsAXpaVUBDUx) | 4:59 | 2022-05-20 | 2022-06-30 |

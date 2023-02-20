@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 7250,
+  "num_followers": 7257,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM1ODI1OSwwMDAwMDAwMDg2Y2I5YzhlZjU4MWYzYmU5OTViNmJjZDgxYjBkNDUw",
+  "snapshot_id": "MTY3NjM1ODI1OSwwMDAwMDAwMDVhODM4YzNmYjViNGNiYTA4ZGFiOTY1MWYxNmFjYjkz",
   "tracks": [
     {
       "added_at": "2023-01-25 01:26:56",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "Simon Dominic Presents `SNL LEAGUE BEGINS`",
-        "url": "https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 274493,
-      "name": "Stay Cool",
-      "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
         "name": "Primary and the Messengers LP",
         "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 247092,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
+        "name": "Simon Dominic Presents `SNL LEAGUE BEGINS`",
+        "url": "https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 274493,
+      "name": "Stay Cool",
+      "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -491,30 +491,6 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "Show Me The Money 9 Final",
-        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
-      },
-      "artists": [
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        },
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 240520,
-      "name": "Daydreamin (Feat. sogumm & Woo) (Prod. Yosi & CODE KUNST)",
-      "url": "https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -535,6 +511,30 @@
       "duration_ms": 159230,
       "name": "Color (Feat. youra)",
       "url": "https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
+        "name": "Show Me The Money 9 Final",
+        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
+      },
+      "artists": [
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Daydreamin (Feat. sogumm & Woo) (Prod. Yosi & CODE KUNST)",
+      "url": "https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -711,30 +711,6 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "SS",
-        "url": "https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR"
-      },
-      "artists": [
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 205818,
-      "name": "SS (Prod. by KHYO)",
-      "url": "https://open.spotify.com/track/7GltFE6DxuGvPH0mQ9Snlj"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA"
       },
@@ -759,22 +735,26 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "Do Not Go Gentle Into That Good Night II",
-        "url": "https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD"
+        "name": "SS",
+        "url": "https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR"
       },
       "artists": [
         {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         },
         {
-          "name": "Illinit",
-          "url": "https://open.spotify.com/artist/5N9rfcaITVgayz1OzCqu4h"
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
         }
       ],
-      "duration_ms": 207280,
-      "name": "Noble Game (Feat. ILLINIT) (Prod. ILLUID HALLER)",
-      "url": "https://open.spotify.com/track/3pLgl8HxGWbypR0yG6KlPS"
+      "duration_ms": 205818,
+      "name": "SS (Prod. by KHYO)",
+      "url": "https://open.spotify.com/track/7GltFE6DxuGvPH0mQ9Snlj"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -811,6 +791,26 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
+        "name": "Do Not Go Gentle Into That Good Night II",
+        "url": "https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD"
+      },
+      "artists": [
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        },
+        {
+          "name": "Illinit",
+          "url": "https://open.spotify.com/artist/5N9rfcaITVgayz1OzCqu4h"
+        }
+      ],
+      "duration_ms": 207280,
+      "name": "Noble Game (Feat. ILLINIT) (Prod. ILLUID HALLER)",
+      "url": "https://open.spotify.com/track/3pLgl8HxGWbypR0yG6KlPS"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
         "name": "INSTANT (feat. SUMIN)",
         "url": "https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0"
       },
@@ -827,6 +827,26 @@
       "duration_ms": 178860,
       "name": "INSTANT (feat. SUMIN)",
       "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
+        "name": "Shininryu",
+        "url": "https://open.spotify.com/album/3QvaB5HzfSEz5yqbNCHtT3"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 210432,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/1jDHmJvfcfjbOMXRFR98zf"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -851,26 +871,6 @@
       "duration_ms": 220429,
       "name": "Money Serenade (Feat. Wonstein & Kim Seung Min)",
       "url": "https://open.spotify.com/track/1rZAKzPkA1VfkakGSszBg7"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
-        "name": "Shininryu",
-        "url": "https://open.spotify.com/album/3QvaB5HzfSEz5yqbNCHtT3"
-      },
-      "artists": [
-        {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 210432,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/1jDHmJvfcfjbOMXRFR98zf"
     },
     {
       "added_at": "2023-01-25 01:26:56",

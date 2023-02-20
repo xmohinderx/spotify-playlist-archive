@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-417 songs - 1 day 9 hr 4 min
+418 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Closing Doors](https://open.spotify.com/track/5Bjhtzgcewszhdw5COwnIm) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Closing Doors](https://open.spotify.com/album/1MKxoZMGkMo2lmubT8KwQM) | 3:00 | 2022-11-12 | 2023-02-07 |
 | [Come Sunday](https://open.spotify.com/track/3Nctgma8nqUtYcfOUbmSLn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Come Sunday](https://open.spotify.com/album/2ntGI3niS9mmoSvTdt4BtS) | 3:29 | 2022-02-10 | 2022-11-12 |
 | [Counting Sheep](https://open.spotify.com/track/4Z1gZdDIGrnV7OvHdSyzJM) | [Addison Frei](https://open.spotify.com/artist/4NfMAQV9vkPudAdPGTDKSq), [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P) | [Time and Again](https://open.spotify.com/album/7AbI9I8qhECFl9dxFnphs6) | 4:08 | 2022-02-10 | 2022-11-12 |
-| [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-11-12 |  |
+| [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-11-12 | 2023-02-20 |
 | [Cry Me a River \- Live](https://open.spotify.com/track/1T1vnu1TrKqbscghZb4npM) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Progression: The Art of the Trio, Vol\. 5](https://open.spotify.com/album/6b6b4JqCmmzwD4enWK8lf0) | 8:50 | 2022-07-07 | 2022-11-09 |
 | [Cry Me a River \- Live](https://open.spotify.com/track/518gXaq0LZe99Bz0Laspi2) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Progression: The Art of the Trio, Vol\. 5](https://open.spotify.com/album/4P8bWmuZtipCFvNsnzGXLd) | 8:50 | 2022-02-10 | 2022-07-29 |
 | [Danny Boy](https://open.spotify.com/track/3GimzseMaUjoAWjo6Gs3QH) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Empathy](https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH) | 3:40 | 2022-04-08 | 2022-11-09 |
@@ -121,6 +121,7 @@
 | [For You I'll Do Anything](https://open.spotify.com/track/1I9FUmm7nEBZix5guZxmEJ) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Who Do You Love the Most?](https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR) | 5:50 | 2022-04-29 | 2022-11-09 |
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-11-17 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-11-12 |  |
+| [From Paris with love](https://open.spotify.com/track/7Mrz01pIRqW3IGQro5IqDq) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [From Paris with love](https://open.spotify.com/album/3cCLtvehudXUYm2uw571LX) | 3:05 | 2023-02-16 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 | 2022-11-12 |  |
 | [Glade](https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Forest Floor](https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi) | 5:42 | 2022-04-07 | 2022-10-06 |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-11-12 |  |

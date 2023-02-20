@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,011 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,081 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 13 | [Signals](https://open.spotify.com/track/6drhkuOJp1qekWmTydy0Vt) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 4:01 |
 | 14 | [Homesick](https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:13 |
 | 15 | [I Waited for You](https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/57CTi3hCyV59RC8r5Yu9Wu) | 3:24 |
-| 16 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
-| 17 | [The Longer The Waiting \(The Sweeter The Kiss\)](https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA) | [The Night Visitor](https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ) | 3:51 |
+| 16 | [The Longer The Waiting \(The Sweeter The Kiss\)](https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA) | [The Night Visitor](https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ) | 3:51 |
+| 17 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
 | 18 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 | 19 | [For Someone](https://open.spotify.com/track/4u42LckHYKddjPpUySqHnJ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Can Summer Love Last Forever?](https://open.spotify.com/album/409EdmKQVMvhRHpJSHBnJ3) | 4:43 |
 | 20 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 30 | [Waiting](https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [EPII \(+ Skisser EP\)](https://open.spotify.com/album/4WQf5Do7ASTXKeaRjnzgm9) | 3:04 |
 | 31 | [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 |
 | 32 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
-| 33 | [Vikings](https://open.spotify.com/track/5qirIQ2MMhySjzxVDDWTas) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO), [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Drömmer](https://open.spotify.com/album/5kIFqtdB34Q3nFsOUavKUB) | 4:37 |
-| 34 | [Modern Drift](https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu) | 4:53 |
+| 33 | [Modern Drift](https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu) | 4:53 |
+| 34 | [Vikings](https://open.spotify.com/track/5qirIQ2MMhySjzxVDDWTas) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO), [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Drömmer](https://open.spotify.com/album/5kIFqtdB34Q3nFsOUavKUB) | 4:37 |
 | 35 | [Dark](https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:13 |
 | 36 | [\(It's Not About\) Running](https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:06 |
 | 37 | [Your Ghost](https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Your Ghost](https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU) | 3:20 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 56 | [Grey](https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Grey](https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J) | 3:52 |
 | 57 | [Time of Waiting](https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Roberto Dalla Vecchia](https://open.spotify.com/artist/7bfm99qXAlGJQrkcudmwyA) | [Time of Waiting](https://open.spotify.com/album/55d318EyF219Cbnei0f0wV) | 2:48 |
 | 58 | [Cheap Disposition](https://open.spotify.com/track/312PDc82PEWHeP6Px2UZWE) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Cheap Disposition / Bitre Miner](https://open.spotify.com/album/7imJLmLYlNOgwuwuT6NEHy) | 3:24 |
-| 59 | [Tangerine](https://open.spotify.com/track/321CAPcR4HTnaaxR0dus2e) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Tangerine](https://open.spotify.com/album/4yJnsynVnA85f4GcZkZaKg) | 3:05 |
-| 60 | [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 |
+| 59 | [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 |
+| 60 | [Tangerine](https://open.spotify.com/track/321CAPcR4HTnaaxR0dus2e) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Tangerine](https://open.spotify.com/album/4yJnsynVnA85f4GcZkZaKg) | 3:05 |
 
-Snapshot ID: `MTY3NjU4ODQ2MCwwMDAwMDAwMGI5ZGQyYmViNjRhYzVkYTNmNzNhODUwMDQ0MDU5NDg0`
+Snapshot ID: `MTY3NjU4ODQ2MCwwMDAwMDAwMDc3N2ZhNDVmZDc3NTMzZTEyMTZmNTY3ZjViODBjMjdk`

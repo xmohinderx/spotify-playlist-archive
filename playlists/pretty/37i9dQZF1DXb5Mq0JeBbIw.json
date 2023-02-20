@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 149038,
+  "num_followers": 149069,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAxMTAyMCwwMDAwMDAwMDQzYmUzYTBlNTI4NWY5ZTM0NzA4ZTU2MWJlYTVmM2U0",
+  "snapshot_id": "MTY3NjAxMTAyMCwwMDAwMDAwMGU0YzRmZjRkNDRhYzRjNGRlMGViNWYxZDVjNGJlMzBh",
   "tracks": [
     {
       "added_at": "2023-02-03 11:15:00",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
     },
     {
-      "added_at": "2023-02-19 06:58:54",
+      "added_at": "2023-02-20 00:38:26",
       "album": {
         "name": "Amelie",
         "url": "https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8"
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "Wild Love (Acoustic)",
-        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Wild Love - Acoustic",
-      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
         "name": "What a Time To Be Alive",
         "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 198101,
       "name": "Just You and I - Acoustic",
       "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
+        "name": "Wild Love (Acoustic)",
+        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Wild Love - Acoustic",
+      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
         "name": "Darling Arithmetic",
         "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 210013,
       "name": "Everything I Am Is Yours",
       "url": "https://open.spotify.com/track/281ioxkZbJ3p9hCvjD2bon"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "#Acoustic",
-        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Rockabye - Acoustic Version",
-      "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
         "name": "Fill Me Up",
         "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 154560,
       "name": "Fill Me Up",
       "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
+        "name": "#Acoustic",
+        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Rockabye - Acoustic Version",
+      "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "Malibu Nights",
-        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
-      },
-      "artists": [
-        {
-          "name": "Cole Norton",
-          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
-        }
-      ],
-      "duration_ms": 216422,
-      "name": "Malibu Nights",
-      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
       },
       "artists": [
         {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+          "name": "Cole Norton",
+          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
         }
       ],
-      "duration_ms": 212400,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
+      "duration_ms": 216422,
+      "name": "Malibu Nights",
+      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -735,6 +719,22 @@
       "duration_ms": 196067,
       "name": "Easy Tiger",
       "url": "https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "Deny Me",
-        "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
-      },
-      "artists": [
-        {
-          "name": "Grace Gardner",
-          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
-        }
-      ],
-      "duration_ms": 307620,
-      "name": "Deny Me",
-      "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
         "name": "Sometimes It's Something, Sometimes It's Nothing at All",
         "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+        "name": "Deny Me",
+        "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
       },
       "artists": [
         {
-          "name": "sadHAPPY",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+          "name": "Grace Gardner",
+          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
+      "duration_ms": 307620,
+      "name": "Deny Me",
+      "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -1171,6 +1155,22 @@
       "duration_ms": 208723,
       "name": "Hailey - Acoustic",
       "url": "https://open.spotify.com/track/3npU19eWW7PoB2Va7UinRu"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+      },
+      "artists": [
+        {
+          "name": "sadHAPPY",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "I Will Wait",
-        "url": "https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 216841,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
         "name": "Hold On To Happiness",
         "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 131644,
       "name": "Bizarre Love Triangle - Acoustic",
       "url": "https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
+        "name": "I Will Wait",
+        "url": "https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 216841,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 186128,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
         "name": "Sending Light (For Lucas)",
         "url": "https://open.spotify.com/album/5AUid2DhC3kqOsq0lnLqo0"
       },
@@ -1523,22 +1507,6 @@
       "duration_ms": 194094,
       "name": "Sending Light (For Lucas)",
       "url": "https://open.spotify.com/track/2YyiusQW8kLLyz4f5kYyJc"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
-        "name": "Wonderwall",
-        "url": "https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG"
-      },
-      "artists": [
-        {
-          "name": "Ryan Innes",
-          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
-        }
-      ],
-      "duration_ms": 236094,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -1563,6 +1531,22 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG"
+      },
+      "artists": [
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        }
+      ],
+      "duration_ms": 236094,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
         "name": "Live from the Village (Acoustic)",
         "url": "https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq"
       },
@@ -1575,22 +1559,6 @@
       "duration_ms": 227296,
       "name": "Pink - Live & Acoustic",
       "url": "https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
-        "name": "When the Party's Over",
-        "url": "https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 154732,
-      "name": "When the Party's Over",
-      "url": "https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -1611,6 +1579,38 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
+        "name": "When the Party's Over",
+        "url": "https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 154732,
+      "name": "When the Party's Over",
+      "url": "https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 186128,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
         "name": "Luck Pusher",
         "url": "https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm"
       },
@@ -1625,7 +1625,7 @@
       "url": "https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI"
     },
     {
-      "added_at": "2023-02-19 06:58:54",
+      "added_at": "2023-02-20 00:38:26",
       "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/53zBEG9p7iIwBCwhW5pOaa"

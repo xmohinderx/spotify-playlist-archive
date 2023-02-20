@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "A Brief Silence (Original Score)",
+        "url": "https://open.spotify.com/album/0rxCVW4B9jiUPEHp8WkQCO"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Trabanino",
+          "url": "https://open.spotify.com/artist/3blJXUBNjlTFWMMrtsSLI3"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140250,
+      "name": "A Brief Silence",
+      "url": "https://open.spotify.com/track/3ZZllAawjzTFYz5HN3x38I"
+    },
+    {
+      "album": {
+        "name": "A Brief Silence (Original Score)",
         "url": "https://open.spotify.com/album/1QP0OlYoRl93vhZBGOhzOC"
       },
       "artists": [
@@ -16,7 +34,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 140250,
       "name": "A Brief Silence",
       "url": "https://open.spotify.com/track/3e4aHnazy2RkEl95ixPoK4"

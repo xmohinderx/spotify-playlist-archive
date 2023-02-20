@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-246 songs - 15 hr 28 min
+247 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bayou Blues \- Demo Version](https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm) | [Lily Belle](https://open.spotify.com/artist/52JMyJYhF7HqCb0Ric9Zqd) | [Bayou Blues \(Demo Version\)](https://open.spotify.com/album/4HpxmLgbT4eK3zMA4wVsQM) | 3:37 | 2023-02-03 |  |
 | [Bees Making Honey](https://open.spotify.com/track/08VbstN22j4jlgMemYE2xk) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bees Making Honey](https://open.spotify.com/album/2BIa0ZW6IpukvlDfRrhhH4) | 2:49 | 2022-08-26 | 2022-09-17 |
 | [Believe](https://open.spotify.com/track/44HwerWFM8qbpcDL6nJ0xS) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Believe](https://open.spotify.com/album/6qnFIHXyFvhEQ04PsRqi6f) | 3:54 | 2021-12-17 | 2022-07-28 |
-| [Believe](https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY) | 3:54 | 2022-05-27 |  |
+| [Believe](https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY) | 3:54 | 2022-05-27 | 2023-02-20 |
 | [belladonna](https://open.spotify.com/track/0nrFU9qiAFB8ATkkPPlDJl) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/2zj883AQcsxbBdjHZhVrBU) | 3:15 | 2021-12-17 | 2022-07-29 |
 | [belladonna](https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:15 | 2022-01-28 |  |
 | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd) | 4:03 | 2023-01-20 | 2023-02-04 |
@@ -75,6 +75,7 @@
 | [Freedom Road](https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95) | [Indra Rios\-Moore](https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9) | [Freedom Road](https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG) | 3:43 | 2022-03-18 | 2022-11-19 |
 | [Full Throttle](https://open.spotify.com/track/3a9hjQyEt5g1L6jbK46oM3) | [Clayton Sturgeon](https://open.spotify.com/artist/48MYOaXNicyTiWBlRCkogN) | [Full Throttle](https://open.spotify.com/album/19GYEqqEXkYbCGNh65mRlu) | 3:11 | 2022-08-05 | 2022-09-05 |
 | [Get Real High](https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz) | 4:07 | 2022-04-22 | 2023-02-12 |
+| [Get Real High](https://open.spotify.com/track/571hnpYJoZeQoDFhagsDqq) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/7aMqrSC4M8RqB8sNODlPWF) | 4:07 | 2022-04-22 |  |
 | [Gonna Walk This Road](https://open.spotify.com/track/1VcKAAbJoU9tUtjrLHuEAW) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 2:30 | 2021-12-17 |  |
 | [Good Thing](https://open.spotify.com/track/7ztepPjeNZuOUFCsEmlzDj) | [Drew Foust](https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE) | [Good Thing](https://open.spotify.com/album/2OyrsRxTuxC5mgAvYPaOYI) | 4:04 | 2022-09-02 | 2022-09-17 |
 | [Good To You](https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17) | [Jonny P](https://open.spotify.com/artist/3UtTKOuKlWMQPSCyIvCDl6) | [Good To You](https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15) | 2:38 | 2021-12-17 |  |

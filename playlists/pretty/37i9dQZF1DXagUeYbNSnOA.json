@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Paola Guanche. Updates every Wednesday.",
-  "num_followers": 168910,
+  "num_followers": 168917,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQzNzIwMCwwMDAwMDAwMGU0ZDljYTA4Mjc3MmNiMDI1NDVkMjU4MzRlOWI4YmIw",
+  "snapshot_id": "MTY3NjQzNzIwMCwwMDAwMDAwMDZiNTFhOGY0MDQ4OTczYmMwZWVjZmJkNDI1NmM3OTQ4",
   "tracks": [
     {
       "added_at": "2023-02-15 05:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
+        "name": "Doble Vida",
+        "url": "https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV"
+      },
+      "artists": [
+        {
+          "name": "Kathy Palma",
+          "url": "https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb"
+        }
+      ],
+      "duration_ms": 214125,
+      "name": "Doble Vida",
+      "url": "https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 155439,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S"
-    },
-    {
-      "added_at": "2023-02-15 05:00:00",
-      "album": {
-        "name": "Papaya dulce",
-        "url": "https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1"
-      },
-      "artists": [
-        {
-          "name": "Aristi",
-          "url": "https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1"
-        }
-      ],
-      "duration_ms": 211581,
-      "name": "Papaya dulce",
-      "url": "https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb"
     },
     {
       "added_at": "2023-02-15 05:00:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
-        "name": "Doble Vida",
-        "url": "https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV"
+        "name": "Papaya dulce",
+        "url": "https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1"
       },
       "artists": [
         {
-          "name": "Kathy Palma",
-          "url": "https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb"
+          "name": "Aristi",
+          "url": "https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1"
         }
       ],
-      "duration_ms": 214125,
-      "name": "Doble Vida",
-      "url": "https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX"
+      "duration_ms": 211581,
+      "name": "Papaya dulce",
+      "url": "https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb"
     },
     {
       "added_at": "2023-02-15 05:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
-        "name": "Mar\u00eda Indebida",
-        "url": "https://open.spotify.com/album/4mmHX5RHEVJ51X1Fq0Ggax"
+        "name": "Mi Cuerpo Subira",
+        "url": "https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7"
       },
       "artists": [
         {
-          "name": "La Zorra Zapata",
-          "url": "https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5"
+          "name": "Wekafor\u00e9",
+          "url": "https://open.spotify.com/artist/73qySwnVMlJZsR9Lk5MOpn"
         }
       ],
-      "duration_ms": 194723,
-      "name": "Mar\u00eda Indebida",
-      "url": "https://open.spotify.com/track/5OiE4KbWfrHnhCAcXdMWlQ"
+      "duration_ms": 136981,
+      "name": "Mi Cuerpo Subira",
+      "url": "https://open.spotify.com/track/1YyDgqeagZ4fjjfGcI9c3S"
     },
     {
       "added_at": "2023-02-15 05:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
+        "name": "Mar\u00eda Indebida",
+        "url": "https://open.spotify.com/album/4mmHX5RHEVJ51X1Fq0Ggax"
+      },
+      "artists": [
+        {
+          "name": "La Zorra Zapata",
+          "url": "https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5"
+        }
+      ],
+      "duration_ms": 194723,
+      "name": "Mar\u00eda Indebida",
+      "url": "https://open.spotify.com/track/5OiE4KbWfrHnhCAcXdMWlQ"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
         "name": "Mar\u00eda Jos\u00e9",
         "url": "https://open.spotify.com/album/7xwMkhp2I3xoLR3zh9FazM"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 195648,
       "name": "Mar\u00eda Jos\u00e9",
       "url": "https://open.spotify.com/track/4D4hqAjmeaUYG4B0PdcMiP"
-    },
-    {
-      "added_at": "2023-02-15 05:00:00",
-      "album": {
-        "name": "Mi Cuerpo Subira",
-        "url": "https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7"
-      },
-      "artists": [
-        {
-          "name": "Wekafor\u00e9",
-          "url": "https://open.spotify.com/artist/73qySwnVMlJZsR9Lk5MOpn"
-        }
-      ],
-      "duration_ms": 136981,
-      "name": "Mi Cuerpo Subira",
-      "url": "https://open.spotify.com/track/1YyDgqeagZ4fjjfGcI9c3S"
     },
     {
       "added_at": "2023-02-15 05:00:00",

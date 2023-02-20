@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,627 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,691 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 5 | [hot girl bummer](https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [hot girl bummer](https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT) | 3:05 |
 | 6 | [Little Lion Man](https://open.spotify.com/track/6oyJip5XQHRqcsy6hOTqw3) | [Tonight Alive](https://open.spotify.com/artist/5pjCYG6hPLBO3y4swxu3dh), [Dave Petrovic](https://open.spotify.com/artist/3jqy0lRa0e09KPyUhMELsC) | [Punk Goes Pop, Vol\. 4](https://open.spotify.com/album/5hhohR69grzBTGp1IZKYIG) | 3:53 |
 | 7 | [Beat It](https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt) | 3:49 |
-| 8 | [Torn](https://open.spotify.com/track/55SMBnlZaMebqCYUkFU2dT) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Torn](https://open.spotify.com/album/5zF5pEzJQgwu97Qze67WRL) | 4:04 |
-| 9 | [Take On Me](https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [The Best Of Us For The Rest Of Us](https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI) | 3:19 |
+| 8 | [Take On Me](https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [The Best Of Us For The Rest Of Us](https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI) | 3:19 |
+| 9 | [Torn](https://open.spotify.com/track/55SMBnlZaMebqCYUkFU2dT) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Torn](https://open.spotify.com/album/5zF5pEzJQgwu97Qze67WRL) | 4:04 |
 | 10 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/6qXdC5KUAii87YnD9MOGG9) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Attack Of The Killer B\-Sides](https://open.spotify.com/album/7fd8ive8XSSC9iVlop89AC) | 3:31 |
 | 11 | [Bad Guy](https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Bad Guy](https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx) | 2:37 |
 | 12 | [Umbrella](https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Umbrella](https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq) | 3:49 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 37 | [My Own Worst Enemy](https://open.spotify.com/track/28DVBHTfrD0pFK5EpcwevN) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Punk Goes 90's, Vol\. 2](https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv) | 3:00 |
 | 38 | [The kids aren't alright](https://open.spotify.com/track/3v7u4pUZcvpxDtPgwMMh5u) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Kill us all](https://open.spotify.com/album/0oHclsVKO0voqIP0u2cifF) | 3:00 |
 | 39 | [Eye of the Tiger](https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:24 |
-| 40 | [In Too Deep](https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [In Too Deep](https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw) | 3:41 |
-| 41 | [Shape of my Heart](https://open.spotify.com/track/04Bg0IZ8mMs7OniLNGibX4) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Shape of my Heart](https://open.spotify.com/album/6RD8qEnRpGirna7pYeXTPe) | 5:37 |
+| 40 | [Shape of my Heart](https://open.spotify.com/track/04Bg0IZ8mMs7OniLNGibX4) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Shape of my Heart](https://open.spotify.com/album/6RD8qEnRpGirna7pYeXTPe) | 5:37 |
+| 41 | [In Too Deep](https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [In Too Deep](https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw) | 3:41 |
 | 42 | [Crawling](https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Crawling](https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc) | 3:32 |
 | 43 | [Can’t Feel My Face](https://open.spotify.com/track/2TZu0eg6gBNwbqPyzSDqnf) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:21 |
 | 44 | [Without Me](https://open.spotify.com/track/2ErhC6VNFH8DFV9x7lZ8Cm) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Without Me](https://open.spotify.com/album/1L8knGs23OsDiIWcREQUUK) | 3:04 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 92 | [You're Dead / Vampire Ska](https://open.spotify.com/track/65k4rC8pAWcKq6xkGPhtbt) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [You're Dead / Vampire Ska](https://open.spotify.com/album/7L9mILJxtPj59Mwj0YT0Sh) | 2:29 |
 | 93 | [Surrender](https://open.spotify.com/track/1yHvODNeWfw7yKdlyEzNOu) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Surrender](https://open.spotify.com/album/6fvyhhViksucPFXiYHs1DG) | 3:32 |
 | 94 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
-| 95 | [Dynamite](https://open.spotify.com/track/1c20ubPE1Rj6Eg6R0cgiJF) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Dynamite](https://open.spotify.com/album/5YLKBH5NM6nRKpGVGcZMqt) | 3:19 |
-| 96 | [Wake Me Up When September Ends](https://open.spotify.com/track/1Rr4FlKdImwLx8AKvjwdyi) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Not Your American Idiots](https://open.spotify.com/album/3PoOM4CglYzNmpLxVFvePx) | 3:16 |
+| 95 | [Wake Me Up When September Ends](https://open.spotify.com/track/1Rr4FlKdImwLx8AKvjwdyi) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Not Your American Idiots](https://open.spotify.com/album/3PoOM4CglYzNmpLxVFvePx) | 3:16 |
+| 96 | [Dynamite](https://open.spotify.com/track/1c20ubPE1Rj6Eg6R0cgiJF) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Dynamite](https://open.spotify.com/album/5YLKBH5NM6nRKpGVGcZMqt) | 3:19 |
 | 97 | [Teenage Dream](https://open.spotify.com/track/0kpDTCeGWOfGor1kcJUFwu) | [The Plugs](https://open.spotify.com/artist/4ER2AgS7VMGpUcTXcbBddj) | [Judging Books by Their Covers](https://open.spotify.com/album/3easwftCM6KOgEo0FzYZ1E) | 3:27 |
 | 98 | [Fake Friends \(feat\. Joan Jett\)](https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Fake Friends](https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR) | 3:08 |
 | 99 | [I Won't Back Down](https://open.spotify.com/track/1r72N7UrcmJIVsib0F7vsV) | [Alone I Walk](https://open.spotify.com/artist/15KhAhIzQCzIDNDq1QXAGc) | [I Won't Back Down](https://open.spotify.com/album/2PnX4AnA5v2WyzUHmJ7ZpR) | 2:38 |
 | 100 | [Larger Than Life](https://open.spotify.com/track/7gTKH7BRYJ1hfVuTHbAfoK) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Homebound](https://open.spotify.com/album/2Ctb46rmaHdsvHDzjzMLvC) | 3:47 |
 
-Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMDYyM2JiMzNhMTFmNDA0MjMyNTAwMDM0YTliYjc2Yjhk`
+Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMDJmNjJkZWYzYzk4NWI1ZmJkYTYzOTMyYWU2ZGE4NDM3`

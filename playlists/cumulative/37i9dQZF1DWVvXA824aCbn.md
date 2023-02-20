@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-372 songs - 1 day 0 hr 45 min
+374 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Can't Help Loving That Man](https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Can't Help Loving That Man](https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U) | 4:29 | 2023-01-26 |  |
 | [Candlelight](https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 5:42 | 2022-06-14 | 2022-11-28 |
 | [Candy](https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:24 | 2023-01-12 |  |
-| [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 | 2021-12-14 |  |
+| [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 | 2021-12-14 | 2023-02-20 |
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2020-10-20\* | 2020-12-09 |
 | [Clear as Autumn Nights](https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [This Is What I Want for Christmas](https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV) | 5:01 | 2021-11-30 |  |
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-09-29 |  |
@@ -150,6 +150,7 @@
 | [I'm Glad There's You](https://open.spotify.com/track/46xwl2PYDmeEnYGdXnvW2g) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:01 | 2022-09-20 |  |
 | [I'm Old Fashioned](https://open.spotify.com/track/2yOraIy6RgkENDX4Wo2z33) | [Tonya Malone](https://open.spotify.com/artist/3uC9zMR3YcPCLX47MTDq6N) | [All Blues](https://open.spotify.com/album/6fC5AN5GxERt3MSZcie5eB) | 3:59 | 2020-10-20\* | 2021-01-21 |
 | [I'm Through With Love](https://open.spotify.com/track/38DuwiVs95AQqNTYTJLJFe) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [I'm Through With Love](https://open.spotify.com/album/1468tP4UUGtE9dHEKSBnbq) | 4:44 | 2022-08-17 |  |
+| [i've got a crush on you](https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [i've got a crush on you](https://open.spotify.com/album/3bdegMUGxFxJbgKocQE2G4) | 3:36 | 2023-02-16 |  |
 | [I've Got the World on a String](https://open.spotify.com/track/08CCBWNLV3SzYjhSYPswQs) | [Johnny Christoff](https://open.spotify.com/artist/2waZtHlhD0EjlIQl5Kpbmo) | [Easy To Love](https://open.spotify.com/album/3AH2fKZ4ERtOrXx4zo01Pw) | 2:34 | 2020-10-20\* | 2021-01-21 |
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4UJTsC3tnszd4RnwKFtBkh) | [Jessica Albert](https://open.spotify.com/artist/7lI5xu3g1pfJ3zSkQjPflN) | [Stars Fell on Alabama](https://open.spotify.com/album/4udI8I069Mwb3lbzTBacpH) | 3:37 | 2020-10-20\* | 2021-01-21 |
 | [I've Never Been in Love Before](https://open.spotify.com/track/7bsrxWD78NPHkQGdWDtVKA) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [I've Never Been in Love Before](https://open.spotify.com/album/1X73HhmwH7gDohGimuAagb) | 3:46 | 2021-06-18 | 2022-12-09 |
@@ -190,6 +191,7 @@
 | [Lady Sings the Blues](https://open.spotify.com/track/3JlzYRcXGNW8Gay4WQdmZm) | [The Capital Club Trio](https://open.spotify.com/artist/5zYKDdUuVKola3uCqk6WeW) | [Beyond the Sea](https://open.spotify.com/album/1HemrEZkZ9CNgCXhUy7uih) | 4:30 | 2020-10-20\* | 2020-12-02 |
 | [Lament](https://open.spotify.com/track/3HeycjEKlBwsSyAm78dle6) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Lament](https://open.spotify.com/album/42sHzP8X3IDIZLdIQem4b7) | 2:55 | 2021-05-09 | 2023-01-09 |
 | [Landing](https://open.spotify.com/track/5Ay0F2FMw9j8HiAKqDI8re) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Landing](https://open.spotify.com/album/3iwyJEQgPwHdyBl2eCxjjZ) | 3:01 | 2020-10-20\* | 2022-11-30 |
+| [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-02-16 |  |
 | [Last Call](https://open.spotify.com/track/40VZS93r0MMG6m9K0j7VJ7) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 3:21 | 2022-12-22 |  |
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2020-10-20\* |  |
 | [Last Time](https://open.spotify.com/track/1hJDVrOqH92eenr4R1xDge) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Last Time](https://open.spotify.com/album/0jagdC0GzcXXZ3K8K7pubH) | 3:31 | 2022-12-01 |  |
@@ -312,7 +314,7 @@
 | [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 | 2023-01-05 |  |
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2021-03-27 |  |
 | [The Beauty of Everyday Things](https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Beauty of Everyday Things](https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk) | 3:23 | 2022-01-05 | 2022-08-11 |
-| [The End Of A Love Affair](https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [The End Of A Love Affair](https://open.spotify.com/album/42PyETdAanQLbNeoNR1ulI) | 5:38 | 2021-08-07 |  |
+| [The End Of A Love Affair](https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [The End Of A Love Affair](https://open.spotify.com/album/42PyETdAanQLbNeoNR1ulI) | 5:38 | 2021-08-07 | 2023-02-20 |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2021-04-23 |  |
 | [The Longing for You](https://open.spotify.com/track/2rqmp9sBeJyhJhpOuabjax) | [Bill Swindon](https://open.spotify.com/artist/7C4qb62TIDk7IbyMORyqTs) | [The Longing for You](https://open.spotify.com/album/6sUORQKRmdqINREz80FmA2) | 3:39 | 2020-10-20\* | 2020-12-09 |
 | [The Masquerade Is Over](https://open.spotify.com/track/3Sg76cvYesfYDtHcMQ2fxn) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [The Masquerade Is Over](https://open.spotify.com/album/0A7QiAU3NJBMHzlZliGrKp) | 4:05 | 2022-03-17 |  |

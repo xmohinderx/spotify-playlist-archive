@@ -4,7 +4,7 @@
 
 > Psychedelic beat science.
 
-125 songs - 12 hr 7 min
+126 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aftermath](https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 7:38 | 2021-06-25 |  |
 | [All Mine](https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:00 | 2021-06-25 |  |
 | [Aquaself](https://open.spotify.com/track/1ZgrhT1NfwUt2cNdZG0wHC) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight \(Digital Deluxe\)](https://open.spotify.com/album/1papIBvEjjXA80q6eW7Gtw) | 6:16 | 2021-06-25 | 2023-02-02 |
+| [Aquaself](https://open.spotify.com/track/1wzs9FslOr3savmjvtKsKr) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K) | 6:16 | 2021-06-25 |  |
 | [Autumn Leaves](https://open.spotify.com/track/7KQSvoKOECoIdyH5CEIFc5) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Tone Tales From Tomorrow](https://open.spotify.com/album/1GZkKCcURaTItobePLur4B) | 4:01 | 2021-06-25 |  |
 | [B Monkey](https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Hed Phone Sex](https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW) | 7:21 | 2021-06-25 |  |
 | [Black Baby \(DJ\-KiCKS\)](https://open.spotify.com/track/13FO5ag4v62zedndUziMI7) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [DJ\-Kicks](https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53) | 6:20 | 2021-06-25 |  |
@@ -50,7 +51,7 @@
 | [Five Days](https://open.spotify.com/track/749wOMW7G4HSApFFRu3JpL) | [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [My Left Pussyfoot](https://open.spotify.com/album/45tUfsKQT0VmV27YBSgaCt) | 5:22 | 2021-06-25 |  |
 | [Free Your Turntable And Your Scratch Will Follow](https://open.spotify.com/track/0HVYAM7HheGaM2pMHVfFcD) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 7:36 | 2021-06-25 | 2022-11-12 |
 | [Galactic Funk](https://open.spotify.com/track/5DRfoGTpzVbyddq2LMe6ZD) | [DJ Spooky](https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm) | [This Is Home Entertainment](https://open.spotify.com/album/3evzzoWZxpu1buDbcSc2fn) | 6:07 | 2021-06-25 |  |
-| [Get Your Head Down](https://open.spotify.com/track/4SYVoeYf6tMll3e0UHKInU) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [Cold Krush Cuts](https://open.spotify.com/album/2pIjSXfVTFQsoSGKrtqF8B) | 7:42 | 2021-06-25 |  |
+| [Get Your Head Down](https://open.spotify.com/track/4SYVoeYf6tMll3e0UHKInU) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [Cold Krush Cuts](https://open.spotify.com/album/2pIjSXfVTFQsoSGKrtqF8B) | 7:42 | 2021-06-25 | 2023-02-20 |
 | [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 | 2021-06-25 |  |
 | [Hell Is Round The Corner](https://open.spotify.com/track/04hr5vtWbtWaN0qehBfBCL) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 3:46 | 2021-06-25 | 2022-07-29 |
 | [Hell Is Round The Corner](https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:47 | 2021-06-25 |  |

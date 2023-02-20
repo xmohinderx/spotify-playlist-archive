@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 1003331,
+  "num_followers": 1003341,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0Nzg5MCwwMDAwMDAwMDM0NTIzM2U5NjBlNzE2MjBhN2YwMGM4OTg5ZGYxNmQ1",
+  "snapshot_id": "MTY3NjY0Nzg5MCwwMDAwMDAwMGViZDcwYTY5MDFlYTk2MjBiYTUxOWQxNmYwZGU1ZmI5",
   "tracks": [
     {
       "added_at": "2022-10-14 17:40:40",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-10-14 17:40:40",
       "album": {
+        "name": "FICA \u00c0 VONTADE",
+        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "FICA \u00c0 VONTADE",
+      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
+    },
+    {
+      "added_at": "2022-10-14 17:40:40",
+      "album": {
         "name": "Dennis Dj Apresenta: Funk Now",
         "url": "https://open.spotify.com/album/0do59jY4QowP4C8MkRlvz5"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 187839,
       "name": "Automaticamente",
       "url": "https://open.spotify.com/track/6AaoEX192rJ6o3UFwG43sV"
-    },
-    {
-      "added_at": "2022-10-14 17:40:40",
-      "album": {
-        "name": "FICA \u00c0 VONTADE",
-        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "FICA \u00c0 VONTADE",
-      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
     },
     {
       "added_at": "2022-10-14 17:40:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,374 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,381 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 | 43 | [Wombo Lombo](https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Fifa](https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm) | 4:15 |
 | 44 | [Dignity](https://open.spotify.com/track/0j3uAYpq1xkuqekBjcEjdv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:15 |
 | 45 | [Wanyinyin](https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [MHD](https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE) | 3:25 |
-| 46 | [Bahia](https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 3:32 |
-| 47 | [Born Under Punches](https://open.spotify.com/track/2lhaHl8ZY8JcHdyKpgkF5x) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 3:49 |
-| 48 | [Jamaica Farewell](https://open.spotify.com/track/5cYxD1ChuvEUlIIQBlv42J) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [House Party](https://open.spotify.com/album/0b2CR3vA6z1lSd8PFQ6n8O) | 3:14 |
-| 49 | [Omije](https://open.spotify.com/track/66nZxjiOXRNRu4PziSyf7A) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 7:30 |
-| 50 | [Lady](https://open.spotify.com/track/5gvaAKMIFt0zrejxzHaDrU) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Akua Naru](https://open.spotify.com/artist/2xxyuUOZJxayJDF6SxLG2K) | [Red Hot + Fela](https://open.spotify.com/album/7F0vKpkZTsklsKFaVEIUcr) | 5:16 |
+| 46 | [Born Under Punches](https://open.spotify.com/track/2lhaHl8ZY8JcHdyKpgkF5x) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 3:49 |
+| 47 | [Bahia](https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 3:32 |
+| 48 | [Omije](https://open.spotify.com/track/66nZxjiOXRNRu4PziSyf7A) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 7:30 |
+| 49 | [Bala Bala](https://open.spotify.com/track/4fY90F0MrBT2EPXqYgfAMv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oyaya !](https://open.spotify.com/album/5RnEFNyd3XdDRWTJE2qiW8) | 3:42 |
+| 50 | [The Great Curve](https://open.spotify.com/track/0Fi5C4uBEW6kNG6UF2ahm0) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 4:08 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDAyYTRmMGQzZjk5MjMwYTZhNzRhMDU4OGYyOTY3Y2JmMg==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDBkMWI5ZmIwNWI5N2I3OWMxZDI5MjIwNGM0MjNiMTAwNw==`

@@ -1,13 +1,33 @@
 {
   "description": "The official Trap Nation playlist - cover featuring  <a href=\"https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ\">INZO </a>.",
-  "num_followers": 2032660,
+  "num_followers": 2032867,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTI4OTUsZTUwNjBjMWE4MWJkYmQ4MGMzYTg3NGZjMTQ3ZmNkNTI0OWQ2MTFkMg==",
+  "snapshot_id": "MTI4OTYsNDA1NzlmMzY1ZDFkZjM0NzgyMzE0ZjU0NGY0NzBlYzU3NDRjOGI3MQ==",
   "tracks": [
+    {
+      "added_at": "2023-02-19 16:41:24",
+      "album": {
+        "name": "Neutron",
+        "url": "https://open.spotify.com/album/0MxOlBzmmQgVng4oG86V9M"
+      },
+      "artists": [
+        {
+          "name": "BEATSMASH",
+          "url": "https://open.spotify.com/artist/7FFbcFSr2g8ylh2P0S7TTB"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Neutron",
+      "url": "https://open.spotify.com/track/6f0ahiwbNW5NYzlvolTWQ2"
+    },
     {
       "added_at": "2023-02-17 17:30:46",
       "album": {

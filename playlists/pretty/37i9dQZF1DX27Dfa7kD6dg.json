@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 15752,
+  "num_followers": 15783,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5NDc4NCwwMDAwMDAwMGMzOTA1YmM1MjUyYTI0MjM1ZWU0ZmQ5MmVkMGEyNmNj",
+  "snapshot_id": "MTY3NTk5NDc4NCwwMDAwMDAwMDFhOWM5NzE0MGRlOWE3MzBkMDQ2N2UwNjAwNjIzYTY3",
   "tracks": [
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
-        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        },
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        }
-      ],
-      "duration_ms": 271072,
-      "name": "Carro de Fuego",
-      "url": "https://open.spotify.com/track/3SXRNFtlBYZKgJeBstl8b3"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 351333,
       "name": "Ublabad\u00fa",
       "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "duration_ms": 271072,
+      "name": "Carro de Fuego",
+      "url": "https://open.spotify.com/track/3SXRNFtlBYZKgJeBstl8b3"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
+        "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
+        "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
+      "url": "https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
         "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
         "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 293067,
       "name": "Mujer de Carne y Hueso",
       "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
-        "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
-        "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
-      "url": "https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "From Hollywood",
-        "url": "https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
-        }
-      ],
-      "duration_ms": 172226,
-      "name": "Cuando Sale El Sol",
-      "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
         "name": "Yo Soy La Rumba",
         "url": "https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 214360,
       "name": "Tanga",
       "url": "https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
+        "name": "From Hollywood",
+        "url": "https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 172226,
+      "name": "Cuando Sale El Sol",
+      "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
+        "name": "West Side Beat",
+        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Matrimonio Feliz",
+      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
         "name": "Vintage Cuba No. 90 - EP: Salta Perico",
         "url": "https://open.spotify.com/album/0PP7vABwnCQJAwR6g2nGnl"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 332532,
       "name": "Nuestro Sue\u00f1o",
       "url": "https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
-        "name": "West Side Beat",
-        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Matrimonio Feliz",
-      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
     },
     {
       "added_at": "2023-02-10 02:06:24",

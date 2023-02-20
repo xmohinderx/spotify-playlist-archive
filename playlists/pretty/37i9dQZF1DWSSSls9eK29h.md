@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,062 likes - 60 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,189 likes - 60 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 38 | [The Way To You](https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Always](https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov) | 4:51 |
 | 39 | [Aruban Nights](https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF) | [Bobby Lyle](https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On) | [The Power Of Touch](https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9) | 5:10 |
 | 40 | [Just Hold Me](https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Intimacy](https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK) | 4:16 |
-| 41 | [City Lights](https://open.spotify.com/track/6R0QJQ6DSFoOrK4wsd37dW) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Long Night Out](https://open.spotify.com/album/2ULPLDQxClCxnuuQ9xPmjC) | 5:34 |
+| 41 | [Sunset Bay](https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Steppin' Out](https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi) | 4:57 |
 | 42 | [Glass Dolphins](https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe) | [John Klemmer](https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK) | [Touch](https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ) | 3:27 |
-| 43 | [Sunset Bay](https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Steppin' Out](https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi) | 4:57 |
+| 43 | [City Lights](https://open.spotify.com/track/6R0QJQ6DSFoOrK4wsd37dW) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Long Night Out](https://open.spotify.com/album/2ULPLDQxClCxnuuQ9xPmjC) | 5:34 |
 | 44 | [Charisma](https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Yours Truly](https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w) | 3:41 |
 | 45 | [Greener Grass](https://open.spotify.com/track/3lrOns0djV4xYUh1sSLfbx) | [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Voices In The Rain](https://open.spotify.com/album/6OJNzlbzjFRHOevcIli9TM) | 5:20 |
 | 46 | [Daydreamer](https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19) | [Hiroshima](https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc) | [East](https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT) | 5:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 59 | [Smooth](https://open.spotify.com/track/3ZDDCrqWqDDQT1M3TCI3dO) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [For the Love of You](https://open.spotify.com/album/0ZnVjuFuNGngUDzQrP2JH9) | 4:34 |
 | 60 | [The East from the West](https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [A River In The Desert](https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX) | 5:38 |
 
-Snapshot ID: `MTY2MTc4MzY2MSwwMDAwMDAwMDg0NzM3OTg5ZjM4ZmNkYWVlMGZmMmJlZmFlMjEzNDY5`
+Snapshot ID: `MTY2MTc4MzY2MSwwMDAwMDAwMDFlM2E4MTZkMGMxZTgzOTViZmYzYjY2OGMzNjZhYTBh`

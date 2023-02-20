@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed. Alejandro Fern\u00e1ndez en portada.",
-  "num_followers": 861227,
+  "num_followers": 861474,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4OTYwMCwwMDAwMDAwMDU1NzIzMmE3YzgwMWE1NDM0MDRhOWY0YmM2MDMwZTc2",
+  "snapshot_id": "MTY3MzU4OTYwMCwwMDAwMDAwMDBhNTM4MDRmNDdlMmI3OWYzOTIxOWFmMTIyMTRiYzI0",
   "tracks": [
     {
       "added_at": "2023-01-06 06:00:00",
@@ -311,22 +311,18 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "100 A\u00f1os",
-        "url": "https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz"
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 185074,
-      "name": "100 A\u00f1os",
-      "url": "https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL"
+      "duration_ms": 152173,
+      "name": "Si Nos Dejan - En Vivo",
+      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -351,18 +347,22 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
+        "name": "100 A\u00f1os",
+        "url": "https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 152173,
-      "name": "Si Nos Dejan - En Vivo",
-      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
+      "duration_ms": 185074,
+      "name": "100 A\u00f1os",
+      "url": "https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL"
     },
     {
       "added_at": "2022-01-25 16:44:28",

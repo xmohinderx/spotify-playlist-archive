@@ -4,12 +4,13 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-71 songs - 3 hr 24 min
+72 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Gentle Thunderstorm](https://open.spotify.com/track/7t2gqm0vQJ9sdmiLXgmb9o) | [Liquid Planet Recordings](https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ) | [Rain Sounds to Fall Asleep](https://open.spotify.com/album/63XNfdp6TaWsZflQDDgg3v) | 3:06 | 2022-10-28 |  |
 | [A Storm For Sleep](https://open.spotify.com/track/7jV5HQ9V02hy2r0WjZDGnl) | [A Tempestade](https://open.spotify.com/artist/6L7uhP0Pp0USs4lVQepDJk) | [A Storm For Sleep](https://open.spotify.com/album/7IyU3zk03UTNgtMiW4U921) | 3:45 | 2022-10-28 |  |
+| [Almost Supernatural](https://open.spotify.com/track/5zvfHSjOJj3oWIV7CtUAe7) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Thundering Heights](https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4) | 3:08 | 2023-01-13 |  |
 | [Archipelago Rain & Thunder](https://open.spotify.com/track/6TxDMAKrOapQFF4MBsf4UV) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Stormy Seasons](https://open.spotify.com/album/3Ms2VW0VJri8JHjSuJKh9x) | 2:22 | 2022-10-28 |  |
 | [Atmosphère Nord](https://open.spotify.com/track/12YwouliX4zdxGoI9jArlO) | [Thibaut Lozé](https://open.spotify.com/artist/6xcbQLZPMTSqeZ46TU9ihv) | [Histoires Sur Le Flash](https://open.spotify.com/album/0gN2h9IwwX05KBG8xH7P33) | 1:50 | 2022-10-28 |  |
 | [Costa Tormenta](https://open.spotify.com/track/1fK6fnY1WSGzInlketXt6D) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Mal tiempo](https://open.spotify.com/album/6eBLkE1aKrdhIudV9HdtZr) | 1:52 | 2022-10-28 |  |
@@ -71,7 +72,7 @@
 | [Thunder Nap](https://open.spotify.com/track/5QTEWgziJG1uV32tAgYjv7) | [Heatriction](https://open.spotify.com/artist/2FbDF4xiccQePu55TLkYHx) | [Thunder Nap](https://open.spotify.com/album/6CJ2CVPzlBhg9bfLQbQ1yJ) | 3:41 | 2022-10-28 |  |
 | [Thunder Rain](https://open.spotify.com/track/2pDK60CgXRz5uwKMI74sKx) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Stormy Evening](https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk) | 3:28 | 2022-10-28 |  |
 | [Thunder Run](https://open.spotify.com/track/6pwYNA6ASZQ2Q0rMG8yVO0) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Thunder Run](https://open.spotify.com/album/3j8JVgZckDVWg8UWU2if5g) | 3:28 | 2022-10-28 |  |
-| [Thunder Volts](https://open.spotify.com/track/3sQRC5dgFDkPbVReUwMN9W) | [650 Watts](https://open.spotify.com/artist/0LC81vaWHA3XuTkp8pqWOW) | [Thunder Volts](https://open.spotify.com/album/1go2Vu6ge1LxQIOH3ot16t) | 2:45 | 2023-01-13 |  |
+| [Thunder Volts](https://open.spotify.com/track/3sQRC5dgFDkPbVReUwMN9W) | [650 Watts](https://open.spotify.com/artist/0LC81vaWHA3XuTkp8pqWOW) | [Thunder Volts](https://open.spotify.com/album/1go2Vu6ge1LxQIOH3ot16t) | 2:45 | 2023-01-13 | 2023-02-20 |
 | [Thunderstorm at Night](https://open.spotify.com/track/2Uuu9xFGwFfoY30wGWOG01) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 1:37 | 2022-12-09 |  |
 | [Thunderstorm Lullaby](https://open.spotify.com/track/2Bk7dbzRy1TDNsL4mdH6dg) | [Wellseed](https://open.spotify.com/artist/1zItvztjRaMupg7QMvV1Sl) | [Thunderstorm Lullaby](https://open.spotify.com/album/6zQCoBm1SdOdM2tEBAx07e) | 2:54 | 2022-10-28 |  |
 | [Thunderstorms In Italy \- Seamless](https://open.spotify.com/track/4usbGXSHEFUs8W9lXvGRw5) | [Pluvious](https://open.spotify.com/artist/5m8Ny76aXScYfB1HkcjzB6) | [Thunderstorms In Italy](https://open.spotify.com/album/59SfFs0fby6KmMp9A6hnPu) | 2:17 | 2022-12-09 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjUyOTkwOCwwMDAwMDAwMGYwODUzMzNhNjFmM2Y5YTlkOWVmY2Q1MWUzODQxYzI5",
+  "snapshot_id": "MTY3NjUyOTkwOCwwMDAwMDAwMGRiMjQ1M2Y0OGFlNmMyZDQ4ODcyMDg4MDZmMTM2ODU3",
   "tracks": [
     {
       "added_at": "2023-01-26 05:00:03",
@@ -325,6 +325,22 @@
       "url": "https://open.spotify.com/track/4mOf7FNqxwLer8Skri59Li"
     },
     {
+      "added_at": "2023-02-20 00:52:17",
+      "album": {
+        "name": "I Love You Enough to Die Now",
+        "url": "https://open.spotify.com/album/2zBzmS2KlASC41G8Qz9vzf"
+      },
+      "artists": [
+        {
+          "name": "Chawoo",
+          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "I Love You Enough to Die Now",
+      "url": "https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr"
+    },
+    {
       "added_at": "2023-01-26 05:00:03",
       "album": {
         "name": "How To Love (Feat.Paul Kim)",
@@ -359,22 +375,6 @@
       "duration_ms": 221369,
       "name": "BETTER (with MINO)",
       "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
-    },
-    {
-      "added_at": "2023-02-19 06:58:36",
-      "album": {
-        "name": "I Love You Enough to Die Now",
-        "url": "https://open.spotify.com/album/2zBzmS2KlASC41G8Qz9vzf"
-      },
-      "artists": [
-        {
-          "name": "Chawoo",
-          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "I Love You Enough to Die Now",
-      "url": "https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr"
     },
     {
       "added_at": "2023-01-26 05:00:03",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-01-26 05:00:03",
       "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/5DFMm7GU1BWf5zokCD9qSi"
+    },
+    {
+      "added_at": "2023-01-26 05:00:03",
+      "album": {
         "name": "New Edition 42",
         "url": "https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 164288,
       "name": "Eunha Store (feat. KIM YUNA)",
       "url": "https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm"
-    },
-    {
-      "added_at": "2023-01-26 05:00:03",
-      "album": {
-        "name": "ONE",
-        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/5DFMm7GU1BWf5zokCD9qSi"
     },
     {
       "added_at": "2023-01-26 05:00:03",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-01-26 05:00:03",
       "album": {
+        "name": "The Blowing",
+        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
+      },
+      "artists": [
+        {
+          "name": "Highlight",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "duration_ms": 197720,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/1bdwAw470DRWXrDP6Ktxk5"
+    },
+    {
+      "added_at": "2023-01-26 05:00:03",
+      "album": {
         "name": "YOU (feat .Beenzino)",
         "url": "https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 255689,
       "name": "YOU (feat. Beenzino)",
       "url": "https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj"
-    },
-    {
-      "added_at": "2023-01-26 05:00:03",
-      "album": {
-        "name": "The Blowing",
-        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
-      },
-      "artists": [
-        {
-          "name": "Highlight",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
-        }
-      ],
-      "duration_ms": 197720,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/1bdwAw470DRWXrDP6Ktxk5"
     },
     {
       "added_at": "2023-01-26 05:00:03",

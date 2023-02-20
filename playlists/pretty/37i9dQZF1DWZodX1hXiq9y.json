@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 56144,
+  "num_followers": 56245,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAxOTY5MywwMDAwMDAwMDU2ODJjYWNmOTc4OGQwMjhjNzUyYjAyZjdjMTlmNzY2",
+  "snapshot_id": "MTY3NjAxOTY5MywwMDAwMDAwMDJkN2JmMWYyOTJlMDY2ZjAwNDA5ODg2ODY5OGEzMzc4",
   "tracks": [
     {
       "added_at": "2023-02-10 09:01:33",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-02-10 09:01:33",
       "album": {
-        "name": "Look Out! (Remastered)",
-        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
-    },
-    {
-      "added_at": "2023-02-10 09:01:33",
-      "album": {
         "name": "Blue Train",
         "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 643127,
       "name": "Blue Train",
       "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7"
+    },
+    {
+      "added_at": "2023-02-10 09:01:33",
+      "album": {
+        "name": "Look Out! (Remastered)",
+        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
     },
     {
       "added_at": "2023-02-10 09:01:33",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-02-10 09:01:33",
       "album": {
-        "name": "Eastern Sounds",
-        "url": "https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f"
-      },
-      "artists": [
-        {
-          "name": "Yusef Lateef",
-          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
-        }
-      ],
-      "duration_ms": 293653,
-      "name": "Don't Blame Me - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/6tY5UzJKw5Ihy2d3C8EIQo"
-    },
-    {
-      "added_at": "2023-02-10 09:01:33",
-      "album": {
         "name": "Stan Getz & Bill Evans",
         "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 304426,
       "name": "Melinda",
       "url": "https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq"
+    },
+    {
+      "added_at": "2023-02-10 09:01:33",
+      "album": {
+        "name": "Eastern Sounds",
+        "url": "https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f"
+      },
+      "artists": [
+        {
+          "name": "Yusef Lateef",
+          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+        }
+      ],
+      "duration_ms": 293653,
+      "name": "Don't Blame Me - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/6tY5UzJKw5Ihy2d3C8EIQo"
     },
     {
       "added_at": "2023-02-10 09:01:33",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-02-10 09:01:33",
       "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
-    },
-    {
-      "added_at": "2023-02-10 09:01:33",
-      "album": {
         "name": "The Magnificent Charlie Parker",
         "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 162805,
       "name": "Au Privave - Take 3 Master",
       "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
+    },
+    {
+      "added_at": "2023-02-10 09:01:33",
+      "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
     },
     {
       "added_at": "2023-02-10 09:01:33",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-02-10 09:01:33",
       "album": {
-        "name": "Inner Urge (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 442200,
-      "name": "You Know I Care - Rudy Van Gelder Edition / 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV"
-    },
-    {
-      "added_at": "2023-02-10 09:01:33",
-      "album": {
         "name": "Third Season",
         "url": "https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 414360,
       "name": "Don't Cry, Just Sigh",
       "url": "https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp"
+    },
+    {
+      "added_at": "2023-02-10 09:01:33",
+      "album": {
+        "name": "Inner Urge (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 442200,
+      "name": "You Know I Care - Rudy Van Gelder Edition / 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV"
     },
     {
       "added_at": "2023-02-10 09:01:33",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-02-10 09:01:33",
       "album": {
-        "name": "The Blues And The Abstract Truth",
-        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        }
-      ],
-      "duration_ms": 383400,
-      "name": "Yearnin'",
-      "url": "https://open.spotify.com/track/4L102q3UPh5dyJDUeuPVjY"
-    },
-    {
-      "added_at": "2023-02-10 09:01:33",
-      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 310866,
       "name": "Poor Butterfly",
       "url": "https://open.spotify.com/track/2GOnuiV0bi8oOy3eNgByYw"
+    },
+    {
+      "added_at": "2023-02-10 09:01:33",
+      "album": {
+        "name": "The Blues And The Abstract Truth",
+        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "duration_ms": 383400,
+      "name": "Yearnin'",
+      "url": "https://open.spotify.com/track/4L102q3UPh5dyJDUeuPVjY"
     },
     {
       "added_at": "2023-02-10 09:01:33",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-02-10 09:01:33",
       "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 340173,
+      "name": "You've Come Home",
+      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
+    },
+    {
+      "added_at": "2023-02-10 09:01:33",
+      "album": {
         "name": "East Of The Sun",
         "url": "https://open.spotify.com/album/3480op1epAO8uwXjonzuc9"
       },
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2023-02-10 09:01:33",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 340173,
-      "name": "You've Come Home",
-      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
-    },
-    {
-      "added_at": "2023-02-10 09:01:33",
-      "album": {
         "name": "Tell It The Way It Is",
         "url": "https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi"
       },
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2023-02-10 09:01:33",
       "album": {
-        "name": "Just You, Just Me",
-        "url": "https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN"
+        "name": "Swingin' Till The Girls Come Home",
+        "url": "https://open.spotify.com/album/4yl06rWUAfJwtgC4O3ZfSw"
       },
       "artists": [
         {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+          "name": "Eddie \"Lockjaw\" Davis",
+          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
         }
       ],
-      "duration_ms": 208400,
-      "name": "On the Sunny Side of the Street - 2003 Remastered Version",
-      "url": "https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB"
+      "duration_ms": 220933,
+      "name": "Bye bye blackbird",
+      "url": "https://open.spotify.com/track/4vKfWkaLc1gJ5swCnib2a6"
     }
   ],
   "unique_name": "Saxophone Classics",

@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 246265,
+  "num_followers": 246707,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ0ODI1OSwwMDAwMDAwMDBmNGEyOWRiMzExY2UzMjZhZDU1NWYwMzMxYjMyMGVh",
+  "snapshot_id": "MTY3NjQ0ODI1OSwwMDAwMDAwMDZlMGRlYWRkNDNjOWY0ZmI2ZTc5OWU5NjRiM2U1ZGM3",
   "tracks": [
     {
       "added_at": "2023-02-07 12:05:53",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
-        }
-      ],
-      "duration_ms": 197880,
-      "name": "La Rua Madureira",
-      "url": "https://open.spotify.com/track/3jFtKmNqDyHp27m8lmEANY"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "The Very Thought of You",
         "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 286423,
       "name": "Les yeux ouverts (dream a little dream of me)",
       "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "duration_ms": 197880,
+      "name": "La Rua Madureira",
+      "url": "https://open.spotify.com/track/3jFtKmNqDyHp27m8lmEANY"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -131,6 +131,38 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
+        "name": "chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "Seule ce soir",
+        "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 196780,
+      "name": "C'est si bon - 2012",
+      "url": "https://open.spotify.com/track/5PcCSUGriuhWuyyWxuBnnM"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
         "name": "Splendor in the Grass",
         "url": "https://open.spotify.com/album/7gZtYR8vztnBIiJYDsmIyF"
       },
@@ -147,22 +179,6 @@
       "duration_ms": 252653,
       "name": "Ou Est Ma Tete?",
       "url": "https://open.spotify.com/track/30N6mzmZPQ0fUGW59krTc0"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
-        "name": "chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -199,22 +215,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "Breakfast on the Morning Tram (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
       },
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
         "name": "La fauve",
         "url": "https://open.spotify.com/album/1geDLI1FruuDNU8knNZKnS"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 227426,
       "name": "O\u00f9 est la fantaisie ?",
       "url": "https://open.spotify.com/track/73Dh1k49xHgPCXo9wXvKuW"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
-        "name": "Seule ce soir",
-        "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 196780,
-      "name": "C'est si bon - 2012",
-      "url": "https://open.spotify.com/track/5PcCSUGriuhWuyyWxuBnnM"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Cajueiro",
-        "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
       },
       "artists": [
         {
-          "name": "M\u00e1rcio Faraco",
-          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 201807,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
+      "duration_ms": 173436,
+      "name": "Chez moi",
+      "url": "https://open.spotify.com/track/0oPbNzAAmWaKIcf5WQE6A0"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+        "name": "Cajueiro",
+        "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "M\u00e1rcio Faraco",
+          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
         }
       ],
-      "duration_ms": 173436,
-      "name": "Chez moi",
-      "url": "https://open.spotify.com/track/0oPbNzAAmWaKIcf5WQE6A0"
+      "duration_ms": 201807,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "My One And Only Thrill",
-        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 198346,
-      "name": "Les Etoiles",
-      "url": "https://open.spotify.com/track/3a61AXiLnRT456B4MeW7mT"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "Trenet",
         "url": "https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 194186,
       "name": "J\u2019ai ta main",
       "url": "https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 198346,
+      "name": "Les Etoiles",
+      "url": "https://open.spotify.com/track/3a61AXiLnRT456B4MeW7mT"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 113493,
-      "name": "Une histoire de plage",
-      "url": "https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "Chansons",
         "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 167199,
       "name": "Je cherche un homme",
       "url": "https://open.spotify.com/track/6VKXPG2C2PSuseVx21iYua"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "Samba Saravah",
+      "url": "https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
       },
       "artists": [
         {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
         }
       ],
-      "duration_ms": 170186,
-      "name": "Samba Saravah",
-      "url": "https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn"
+      "duration_ms": 113493,
+      "name": "Une histoire de plage",
+      "url": "https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Rendez Vous",
-        "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Le Temps Qui Passe",
-      "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "De La Chanson Et Puis C'Est Tout...",
         "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 150760,
       "name": "Il Faut Du Temps Au Temps",
       "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "Rendez Vous",
+        "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Le Temps Qui Passe",
+      "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+        "name": "Tous mes r\u00eaves",
+        "url": "https://open.spotify.com/album/1zDcTxR4u2YE80bUsjaQpw"
       },
       "artists": [
         {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
         }
       ],
-      "duration_ms": 186253,
-      "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
-      "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
+      "duration_ms": 155664,
+      "name": "Tous mes r\u00eaves",
+      "url": "https://open.spotify.com/track/6lCv1OYP94cH0yni2WDDmD"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Tous mes r\u00eaves",
-        "url": "https://open.spotify.com/album/1zDcTxR4u2YE80bUsjaQpw"
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
       },
       "artists": [
         {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
         }
       ],
-      "duration_ms": 155664,
-      "name": "Tous mes r\u00eaves",
-      "url": "https://open.spotify.com/track/6lCv1OYP94cH0yni2WDDmD"
+      "duration_ms": 186253,
+      "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
+      "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 111626,
-      "name": "\u00c7a valait la peine",
-      "url": "https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "Lovely Difficult",
         "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 227026,
       "name": "Les mots d'amour",
       "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 111626,
+      "name": "\u00c7a valait la peine",
+      "url": "https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
+        "name": "Balade \u00e0 Saint-Germain, vol 6. Rue Saint Benoit: Nouvelle Vague",
+        "url": "https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS"
+      },
+      "artists": [
+        {
+          "name": "Marie Lafor\u00eat",
+          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
+        }
+      ],
+      "duration_ms": 139548,
+      "name": "Saint-tropez blues",
+      "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
         "name": "Nord Destin",
         "url": "https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 247292,
       "name": "Je voudrais me divertir",
       "url": "https://open.spotify.com/track/0uaVqzoBegeh8lfOzf4uso"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
-        "name": "Balade \u00e0 Saint-Germain, vol 6. Rue Saint Benoit: Nouvelle Vague",
-        "url": "https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS"
-      },
-      "artists": [
-        {
-          "name": "Marie Lafor\u00eat",
-          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
-        }
-      ],
-      "duration_ms": 139548,
-      "name": "Saint-tropez blues",
-      "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "La disparition",
-        "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
+        "name": "Quelqu'un m'a dit",
+        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
       },
       "artists": [
         {
-          "name": "Keren Ann",
-          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 257240,
-      "name": "Mes pas dans la neige - Spanish Song Bird",
-      "url": "https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z"
+      "duration_ms": 213586,
+      "name": "Chanson triste",
+      "url": "https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Quelqu'un m'a dit",
-        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+        "name": "La disparition",
+        "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
         }
       ],
-      "duration_ms": 213586,
-      "name": "Chanson triste",
-      "url": "https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om"
+      "duration_ms": 257240,
+      "name": "Mes pas dans la neige - Spanish Song Bird",
+      "url": "https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Monsieur Gainsbourg Originals",
-        "url": "https://open.spotify.com/album/0SywgxMeOlmVNDa2IXAa3G"
+        "name": "Quelqu'un m'a dit",
+        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
       },
       "artists": [
         {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 122466,
-      "name": "Ces petits riens",
-      "url": "https://open.spotify.com/track/3ttOCwpDbGFLf3VbZinXF1"
+      "duration_ms": 242120,
+      "name": "La noy\u00e9e",
+      "url": "https://open.spotify.com/track/0NwrKodXe9xPCFn5wNDene"
     }
   ],
   "unique_name": "French Jazz Caf\u00e9",

@@ -1,12 +1,12 @@
 {
   "description": "New wave took the 70s punk blueprint and ran wild! Cover: Blondie",
-  "num_followers": 799870,
+  "num_followers": 800155,
   "original_name": "Is it New Wave?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3OTAzNjYwMSwwMDAwMDAwMGE3ZjEzZjQwY2ZmNGRhZDkzMWI3MGRlZjgxYzQxZDA3",
+  "snapshot_id": "MTU3OTAzNjYwMSwwMDAwMDAwMGJhMmE5NDQ1NmJiYTRmNzc0NDM0ZDI2YzA2MDQ4N2I5",
   "tracks": [
     {
       "added_at": "2020-01-14 21:16:41",
@@ -763,22 +763,6 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Beauty And The Beat (30th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nkB6F63xkKusB4M8I5zR6"
-      },
-      "artists": [
-        {
-          "name": "The Go-Go's",
-          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
-        }
-      ],
-      "duration_ms": 151106,
-      "name": "We Got The Beat - 2011 Remaster",
-      "url": "https://open.spotify.com/track/5o37x6LpNSec4jSfPIChsQ"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
         "name": "Love and Rockets",
         "url": "https://open.spotify.com/album/3lqy9ZOzLlwDTfXOkpubgU"
       },
@@ -795,18 +779,34 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Entertainment!",
-        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
+        "name": "Beauty And The Beat (30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nkB6F63xkKusB4M8I5zR6"
       },
       "artists": [
         {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
         }
       ],
-      "duration_ms": 206786,
-      "name": "Damaged Goods",
-      "url": "https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n"
+      "duration_ms": 151106,
+      "name": "We Got The Beat - 2011 Remaster",
+      "url": "https://open.spotify.com/track/5o37x6LpNSec4jSfPIChsQ"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Soul Mining",
+        "url": "https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "duration_ms": 297066,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/3FjYAj4hg5KiXpVAMjpLKq"
     }
   ],
   "unique_name": "Is it New Wave?",

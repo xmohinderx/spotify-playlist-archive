@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,780 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,798 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 19 | [First Love](https://open.spotify.com/track/2Hh69n2i61JeqHZj7YbdYl) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [First Love](https://open.spotify.com/album/5TM27OLZV1wODLu97JYuzp) | 4:18 |
 | 20 | [Start Again](https://open.spotify.com/track/0MbSD9IRGxOb3lfNgfzjsH) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again](https://open.spotify.com/album/7vDeKzFvXgmuypvzlw1ViX) | 3:05 |
 | 21 | [Fell Asleep In Paradise](https://open.spotify.com/track/4smKBOIZWzkaNBH76wdlo2) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Fell Asleep In Paradise](https://open.spotify.com/album/4uWooAK4gqZ5WdUh29jrBJ) | 3:10 |
-| 22 | [How To Drive](https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How To Drive](https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0) | 3:39 |
-| 23 | [Nervous \- Piano Version](https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND \(Solo Piano Version\)](https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo) | 3:14 |
+| 22 | [Nervous \- Piano Version](https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND \(Solo Piano Version\)](https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo) | 3:14 |
+| 23 | [How To Drive](https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How To Drive](https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0) | 3:39 |
 | 24 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 |
 | 25 | [She's Got You](https://open.spotify.com/track/2vxA74DuID8LBkCr1nxJCo) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [She's Got You](https://open.spotify.com/album/5pegL29fvLU4J3tM8gD0Yc) | 2:53 |
 | 26 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 43 | [DOCUMENT](https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [NOT IN ALMIGHTY](https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov) | 4:40 |
 | 44 | [luv revolution](https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [R](https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol) | 1:49 |
 | 45 | [Neon wo Keshite](https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [The Youth Night](https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp) | 3:23 |
-| 46 | [Sea Lions](https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Pink Balloon / Sea Lions](https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0) | 5:19 |
-| 47 | [I can't seem to let you go](https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Rocket Science](https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91) | 5:20 |
+| 46 | [I can't seem to let you go](https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Rocket Science](https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91) | 5:20 |
+| 47 | [Sea Lions](https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Pink Balloon / Sea Lions](https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0) | 5:19 |
 | 48 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 |
 | 49 | [Last Peace](https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH), [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [27](https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj) | 3:43 |
 | 50 | [Feathers](https://open.spotify.com/track/4DHB29tTCeEf2f0BlS8Nn4) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Feathers](https://open.spotify.com/album/1KOV5YYqduEevT4YiMTgui) | 3:55 |
 
-Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDYxZjVjMmJjYjA5MDI4ZmQ1OTEyYzVjNGNmMGU4YWMx`
+Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDExZGI2MDg5ZTBhYzA2NzgxOTA0ZjJkYWI0MmI0MTg0`

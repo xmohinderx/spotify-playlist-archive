@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 4393,
+  "num_followers": 4394,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzNDc5MiwwMDAwMDAwMDZlNDJjMmNmMzE0NzE0NWE1Mzg2NmUzMjEwNDc2ZWI4",
+  "snapshot_id": "MTY3NDYzNDc5MiwwMDAwMDAwMDZjMjQwODdkNmUxOTgwMzI0Y2U4ZTVhZjM3NzI1MThl",
   "tracks": [
     {
       "added_at": "2023-01-25 08:19:52",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
-        "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
         }
       ],
-      "duration_ms": 189905,
-      "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
-      "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
+      "duration_ms": 243037,
+      "name": "mistaken",
+      "url": "https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP"
     },
     {
       "added_at": "2023-01-25 08:19:52",
@@ -435,34 +435,18 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+        "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
       },
       "artists": [
         {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 243037,
-      "name": "mistaken",
-      "url": "https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP"
-    },
-    {
-      "added_at": "2023-01-25 08:19:52",
-      "album": {
-        "name": "Loving You is Loving Me",
-        "url": "https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG"
-      },
-      "artists": [
-        {
-          "name": "Han Yeoyoo",
-          "url": "https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP"
-        }
-      ],
-      "duration_ms": 223258,
-      "name": "Loving You is Loving Me",
-      "url": "https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd"
+      "duration_ms": 189905,
+      "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
+      "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
     },
     {
       "added_at": "2023-01-25 08:19:52",
@@ -479,6 +463,22 @@
       "duration_ms": 205626,
       "name": "Greeting",
       "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
+    },
+    {
+      "added_at": "2023-01-25 08:19:52",
+      "album": {
+        "name": "Loving You is Loving Me",
+        "url": "https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG"
+      },
+      "artists": [
+        {
+          "name": "Han Yeoyoo",
+          "url": "https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP"
+        }
+      ],
+      "duration_ms": 223258,
+      "name": "Loving You is Loving Me",
+      "url": "https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd"
     },
     {
       "added_at": "2023-01-25 08:19:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,484 likes - 52 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,513 likes - 52 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 10 | [Saana Kastam](https://open.spotify.com/track/6GbObXudr6oFWk8FdHHLeh) | [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [Acharya](https://open.spotify.com/album/5UlyI2OfFD3HPWgsui3YL3) | 4:04 |
 | 11 | [Guche Gulabi](https://open.spotify.com/track/7t2bn7EHAvTPKn7wNKLCoK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Most Eligible Bachelor](https://open.spotify.com/album/10WgwwI8tcErXXUWzQhOOJ) | 4:42 |
 | 12 | [Iraga Iraga](https://open.spotify.com/track/2RCigtiYWf4LBCbp60m7Qg) | [Rahul Sipligunj, Mohana Bhogaraju](https://open.spotify.com/artist/61QdqNUW0qSz0GoaeVe6Gw) | [Naa Peru Surya Naa Illu India](https://open.spotify.com/album/3S0ezMfLB53pIEfYwAdG9R) | 4:00 |
-| 13 | [Kanne Kanne \(From "Arjun Suravaram"\)](https://open.spotify.com/track/1Ufd6lvT02tqohgJr8FEtM) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Kanne Kanne \(From "Arjun Suravaram"\)](https://open.spotify.com/album/6iMuAQSexPEINcUSTwCK3f) | 4:50 |
-| 14 | [Dimaak Kharaab](https://open.spotify.com/track/1elXc8r6RHfMCwm0QSJRC0) | [Keerthana Sharma](https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7), [Saketh](https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ) | [Ismart Shankar](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 4:40 |
+| 13 | [Dimaak Kharaab](https://open.spotify.com/track/1elXc8r6RHfMCwm0QSJRC0) | [Keerthana Sharma](https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7), [Saketh](https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ) | [Ismart Shankar](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 4:40 |
+| 14 | [Kanne Kanne \(From "Arjun Suravaram"\)](https://open.spotify.com/track/1Ufd6lvT02tqohgJr8FEtM) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Kanne Kanne \(From "Arjun Suravaram"\)](https://open.spotify.com/album/6iMuAQSexPEINcUSTwCK3f) | 4:50 |
 | 15 | [Kaatuka Kanule \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/track/1HobaVS51OdBZqNmqt1TX7) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Kaatuka Kanule \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/album/182Ps1T0Kkl5thJcmCT0aC) | 4:06 |
 | 16 | [I Wanna Fly](https://open.spotify.com/track/78PoXHAbXHvOx0HMaa1a8z) | [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Krishnarjuna Yudham](https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8) | 3:58 |
 | 17 | [Ek Baar](https://open.spotify.com/track/7KWksSySkwqGS3vo59yygt) | [Dsp](https://open.spotify.com/artist/2TxDLvRVA0F4LAIyqakei7), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Vinaya Vidheya Rama](https://open.spotify.com/album/6LgFMvJH3ChdcFHgpCYCkF) | 4:19 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 51 | [Hey Abbayi](https://open.spotify.com/track/0IDhvvZHORFGPDh0fWqPbk) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H), [Hymath Mohammed](https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV) | [Sreekaram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72FQPRyqPBYcuJcYriY56P) | 3:42 |
 | 52 | [Hola Chica \(Hi Girl\)](https://open.spotify.com/track/6BfsuH0mceuShQkrEa6QHE) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Alludu Adhurs](https://open.spotify.com/album/3wI4njxJGFMbyxMI2rOsK6) | 4:05 |
 
-Snapshot ID: `MTY2OTgwNDkyNywwMDAwMDAwMDVkMzBjMzE0NTQyMzZiYzQzNmIyODNmMjYxNzQ4Mjk5`
+Snapshot ID: `MTY2OTgwNDkyNywwMDAwMDAwMDc2NDY3N2ViYzJhNTI2NzZjZDFmZDVlYzZiYTI3YjNh`

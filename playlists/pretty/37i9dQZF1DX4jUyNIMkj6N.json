@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 174011,
+  "num_followers": 174081,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMGI5ZGQyYmViNjRhYzVkYTNmNzNhODUwMDQ0MDU5NDg0",
+  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMDc3N2ZhNDVmZDc3NTMzZTEyMTZmNTY3ZjViODBjMjdk",
   "tracks": [
     {
       "added_at": "2023-02-16 23:01:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "The Night Visitor",
         "url": "https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 231133,
       "name": "The Longer The Waiting (The Sweeter The Kiss)",
       "url": "https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
+        "name": "Magic Chairs",
+        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
+      },
+      "artists": [
+        {
+          "name": "Efterklang",
+          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+        }
+      ],
+      "duration_ms": 293760,
+      "name": "Modern Drift",
+      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
         "name": "Dr\u00f6mmer",
         "url": "https://open.spotify.com/album/5kIFqtdB34Q3nFsOUavKUB"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 277657,
       "name": "Vikings",
       "url": "https://open.spotify.com/track/5qirIQ2MMhySjzxVDDWTas"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Magic Chairs",
-        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
-      },
-      "artists": [
-        {
-          "name": "Efterklang",
-          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
-        }
-      ],
-      "duration_ms": 293760,
-      "name": "Modern Drift",
-      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/4yJnsynVnA85f4GcZkZaKg"
-      },
-      "artists": [
-        {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/321CAPcR4HTnaaxR0dus2e"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "Joni Was Right Pt. II",
         "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 200262,
       "name": "Bluebelle Mountain",
       "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/4yJnsynVnA85f4GcZkZaKg"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/321CAPcR4HTnaaxR0dus2e"
     }
   ],
   "unique_name": "Nordic Folk",

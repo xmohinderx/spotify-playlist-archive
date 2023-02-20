@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,854 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,905 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 24 | [Un Poquito De Ti \(feat\. Movimiento Original\)](https://open.spotify.com/track/3axbIOoM5lUXADunn5WVos) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Alma](https://open.spotify.com/album/5oX7WtRFG6PnzhIRgmlTY7) | 5:01 |
 | 25 | [Ay, Ay](https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:14 |
 | 26 | [Tú](https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:56 |
-| 27 | [Lo Más Sincero](https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [YO](https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX) | 3:26 |
-| 28 | [Tu Eres Como el Fuego](https://open.spotify.com/track/3Lz5e2T5LK7k6QcUqvoFIF) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Indica Sound](https://open.spotify.com/artist/5VcnstRhnyK8Bft8RLIsC7) | [Tu Eres Como el Fuego](https://open.spotify.com/album/4WfZ8y9zEy9z1VCZM88fm9) | 3:31 |
+| 27 | [Tu Eres Como el Fuego](https://open.spotify.com/track/3Lz5e2T5LK7k6QcUqvoFIF) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Indica Sound](https://open.spotify.com/artist/5VcnstRhnyK8Bft8RLIsC7) | [Tu Eres Como el Fuego](https://open.spotify.com/album/4WfZ8y9zEy9z1VCZM88fm9) | 3:31 |
+| 28 | [Lo Más Sincero](https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [YO](https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX) | 3:26 |
 | 29 | [Sentimento Original](https://open.spotify.com/track/221XD85dLV8jiMyrEz1JBQ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 4:50 |
 | 30 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 |
 | 31 | [En Tus Manos](https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:08 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 49 | [Mi Dulce Amor](https://open.spotify.com/track/5IMiNgnJHMzSva0maocFXB) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Radiante](https://open.spotify.com/album/3KnKXcmHFsu5GsDREoxtQW) | 3:09 |
 | 50 | [Tu Amor](https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:29 |
 | 51 | [No Me Dejes De Querer](https://open.spotify.com/track/3P75lxnADvxMQw81uF4V60) | [Isza](https://open.spotify.com/artist/1tfNf2ifQq25aQvlVxXvlj), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [No Me Dejes de Querer](https://open.spotify.com/album/1LJ3HPkh4xk1SzSGw8svfs) | 3:57 |
-| 52 | [Placer](https://open.spotify.com/track/6VDVW9NnhfB0J9AzTdyyQq) | [Dos Garza](https://open.spotify.com/artist/7zsTwOXAbIeL7H8hJXgLt8) | [Placer](https://open.spotify.com/album/0e1ZAcg5owwo6xy9lOCiP7) | 2:53 |
-| 53 | [Prende](https://open.spotify.com/track/5SAPEts9WtHjBgsMUx51pq) | [Providencia](https://open.spotify.com/artist/5Jfv3Fh8E4Gb8AYLwl4OCv) | [Prende](https://open.spotify.com/album/04MfLrwrB2ts8uHInFBWS1) | 3:51 |
+| 52 | [Prende](https://open.spotify.com/track/5SAPEts9WtHjBgsMUx51pq) | [Providencia](https://open.spotify.com/artist/5Jfv3Fh8E4Gb8AYLwl4OCv) | [Prende](https://open.spotify.com/album/04MfLrwrB2ts8uHInFBWS1) | 3:51 |
+| 53 | [Placer](https://open.spotify.com/track/6VDVW9NnhfB0J9AzTdyyQq) | [Dos Garza](https://open.spotify.com/artist/7zsTwOXAbIeL7H8hJXgLt8) | [Placer](https://open.spotify.com/album/0e1ZAcg5owwo6xy9lOCiP7) | 2:53 |
 | 54 | [Así](https://open.spotify.com/track/1I2aoG0klUhom3xnQvz6IV) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:33 |
 | 55 | [Por Ti](https://open.spotify.com/track/6ZC7xd02NYawCQnAYLdLGt) | [Kalacawas](https://open.spotify.com/artist/3dEiQw6wbcXR3VaoYRNXc1) | [Todo Se Puede](https://open.spotify.com/album/5GZWJDXkfDLVRvYsUo0TlD) | 3:59 |
 | 56 | [Llegaste a Mí](https://open.spotify.com/track/6wiG6K6xHQd8Nj9CPblg2V) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [El Poder de Tu Alma](https://open.spotify.com/album/2qj7avJ1IwhmIXZQkj0Ro4) | 3:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 59 | [Sensación](https://open.spotify.com/track/6LbMjdYpQvJxDTgAVqNM0T) | [Contravos](https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC), [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B) | [Actor Espectador](https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF) | 3:49 |
 | 60 | [Distancia y Ficción](https://open.spotify.com/track/6YZFu1qIZA9o8ryEeoCVpl) | [Tarará](https://open.spotify.com/artist/3pOCFYJe0tWqFlX7XqF4cn) | [Distancia y Ficción](https://open.spotify.com/album/3dpycFGnz2H4v4CGOHs1kO) | 2:15 |
 
-Snapshot ID: `MTY3NDc5NTY2MCwwMDAwMDAwMGVjYTljMWEyMzlmODRkZWVjMDU0NzQwM2E3ZGNmODcw`
+Snapshot ID: `MTY3NDc5NTY2MCwwMDAwMDAwMDE2M2YwNDViNTlkMmVlMzBmZTVhYjJiZGM3MWU5N2Nl`

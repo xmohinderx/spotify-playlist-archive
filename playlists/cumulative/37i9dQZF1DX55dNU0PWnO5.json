@@ -737,6 +737,36 @@
     },
     {
       "album": {
+        "name": "Bootyscoot",
+        "url": "https://open.spotify.com/album/57Re4Gq4x1NvimVAytLmKT"
+      },
+      "artists": [
+        {
+          "name": "The Polish Ambassador",
+          "url": "https://open.spotify.com/artist/2dI9IuajQnLR5dLxHjTTqU"
+        },
+        {
+          "name": "Jesse Klein",
+          "url": "https://open.spotify.com/artist/6EVgiuWVrdencro4gjLJKE"
+        },
+        {
+          "name": "Robin Jackson",
+          "url": "https://open.spotify.com/artist/7E3Dm7icYWJNSN8pK57Ufy"
+        },
+        {
+          "name": "Ananda Vaughan",
+          "url": "https://open.spotify.com/artist/5i1E5D2bW5VBtcIvi04S9V"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397090,
+      "name": "Bootyscoot",
+      "url": "https://open.spotify.com/track/7nb8sYJDmnbEEEET8EZh59"
+    },
+    {
+      "album": {
         "name": "Bopatron",
         "url": "https://open.spotify.com/album/5C43Ud4wj7T3TYbS7LpKh2"
       },
@@ -4792,7 +4822,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 182361,
       "name": "Sombra Bajo El Limero",
       "url": "https://open.spotify.com/track/1ETV3x7A3sYplEfLnbpfao"

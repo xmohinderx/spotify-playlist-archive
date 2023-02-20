@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 
 > Music from the most memorable Super Bowl halftime shows\. Cover: Rihanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,019 likes - 96 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,097 likes - 96 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 58 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 | 59 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
 | 60 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
-| 61 | [m.A.A.d city](https://open.spotify.com/track/439TlnnznSiBbQbgXiBqAd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 5:50 |
-| 62 | [Black or White](https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 4:14 |
+| 61 | [Black or White](https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 4:14 |
+| 62 | [m.A.A.d city](https://open.spotify.com/track/439TlnnznSiBbQbgXiBqAd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 5:50 |
 | 63 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 |
 | 64 | [Independent Women, Pt\. 1](https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 3:41 |
-| 65 | [Bad Boy for Life](https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49), [Mark Curry](https://open.spotify.com/artist/20N6dS0vq9kMWXUqEkFrBA) | [The Saga Continues...](https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv) | 4:13 |
-| 66 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 |
+| 65 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 |
+| 66 | [Bad Boy for Life](https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49), [Mark Curry](https://open.spotify.com/artist/20N6dS0vq9kMWXUqEkFrBA) | [The Saga Continues...](https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv) | 4:13 |
 | 67 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
 | 68 | [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 |
 | 69 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 83 | [Working On a Dream](https://open.spotify.com/track/08QZBupqwLXOalOpgiTi5e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Working On A Dream](https://open.spotify.com/album/5xJSVog0izeuIURO34C7Qa) | 3:28 |
 | 84 | [Turn the Beat Around](https://open.spotify.com/track/5EExhZiAXIqw6M5FFGAiUb) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Hold Me, Thrill Me, Kiss Me](https://open.spotify.com/album/0gAN0kuGJrIZXVq8jG8sij) | 3:53 |
 | 85 | [Hey Jude](https://open.spotify.com/track/6gAlATIOLSKLwGltB0HZ41) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Back In The U.S.](https://open.spotify.com/album/0PoRrBKXrrsRTE4tyq45Xz) | 7:01 |
-| 86 | [Tracks of My Tears](https://open.spotify.com/track/5QizJ1IfhrJemVys14KlJF) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Platoon And Songs From the Era](https://open.spotify.com/album/61ueQv6BTjwSURyp2yV4fd) | 2:57 |
-| 87 | [I Gotta Feeling](https://open.spotify.com/track/3w01lhgzYV8BHPqwC9BOte) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Throwback Party](https://open.spotify.com/album/1FVXIAyitK6wgpiKMSqc40) | 4:49 |
+| 86 | [I Gotta Feeling](https://open.spotify.com/track/3w01lhgzYV8BHPqwC9BOte) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Throwback Party](https://open.spotify.com/album/1FVXIAyitK6wgpiKMSqc40) | 4:49 |
+| 87 | [Tracks of My Tears](https://open.spotify.com/track/5QizJ1IfhrJemVys14KlJF) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Platoon And Songs From the Era](https://open.spotify.com/album/61ueQv6BTjwSURyp2yV4fd) | 2:57 |
 | 88 | [All For You](https://open.spotify.com/track/28IZUzBnFsBxyrgdsdlQPg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Best Of Number Ones](https://open.spotify.com/album/7qxMrD1a1AEWPmTiiltWda) | 4:32 |
 | 89 | [This One's for the Children](https://open.spotify.com/track/78bDGxqn2KF2VU1G3Kz6J0) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Merry, Merry Christmas](https://open.spotify.com/album/0Ttc1BQu1k3SfU02vn2cM5) | 3:58 |
 | 90 | [It's A Little Too Late](https://open.spotify.com/track/0j3Ly6UYhwEgAiXeCERVJM) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Greatest Hits 1990\-1992](https://open.spotify.com/album/1VvHSKStQBrQV5bOPBsq16) | 2:39 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 95 | [Caravan](https://open.spotify.com/track/3yQKTiqSp2tnEarIw5WhuR) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Bennett Sings Ellington / Hot And Cool](https://open.spotify.com/album/7uRqIpnqW1nI0d3fkamMa9) | 4:36 |
 | 96 | [Let's Get It Started](https://open.spotify.com/track/50w5mfnGoJMFQwlf3yq98v) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/0XZkDl6U3R1gdTvTIpZKL7) | 7:32 |
 
-Snapshot ID: `MTY3NDg2NjY4NCwwMDAwMDAwMGQyZjEwNzUyNGNiYzAyYTU2NzAwNDFiN2Y3OWE1MDVi`
+Snapshot ID: `MTY3NDg2NjY4NCwwMDAwMDAwMDdlNzJjMWFlMGRiM2Y2ZDliMDdjOGU0MzA0OGQ4NDRj`

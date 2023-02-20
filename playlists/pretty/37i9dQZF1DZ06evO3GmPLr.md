@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,948 likes - 33 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,996 likes - 33 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 32 | [Blank Canvas \(Interlude\)](https://open.spotify.com/track/42cVaoypjCYHO00SEj8d7a) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Blank Canvas](https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu) | 1:35 |
 | 33 | [Backseat](https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI) | 3:31 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDAzZDRiOTk0NzNlNTBkMDE5ZWRmNGE0YTBjNTk3YWE3Ng==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDBmZWIyNzExM2ZiZDU1OWY2NmZhNzFhYjczZDUwMzI4NQ==`

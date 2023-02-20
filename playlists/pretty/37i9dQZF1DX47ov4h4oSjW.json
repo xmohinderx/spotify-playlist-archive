@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 104307,
+  "num_followers": 104320,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc2NjgwMCwwMDAwMDAwMDQ1ZjNiMjRmNzMyNmYwYWU4NjRkODU5YTEwN2MyZWVm",
+  "snapshot_id": "MTY3NDc2NjgwMCwwMDAwMDAwMDY3MjA4YzlhOWJlNTRmYjdmMTIxOTZiMmJjZDBlNzhi",
   "tracks": [
     {
       "added_at": "2023-01-26 21:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Bienveillant",
-        "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
-      },
-      "artists": [
-        {
-          "name": "Edie Chastain",
-          "url": "https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk"
-        }
-      ],
-      "duration_ms": 117472,
-      "name": "Bienveillant",
-      "url": "https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/0BNnVpYY4xnQkmUNEMUhuO"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 134706,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/0rlR7gBOx5jfIvVsPfGQsC"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Bienveillant",
+        "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Edie Chastain",
+          "url": "https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk"
+        }
+      ],
+      "duration_ms": 117472,
+      "name": "Bienveillant",
+      "url": "https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "The Wind",
-        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        }
-      ],
-      "duration_ms": 81641,
-      "name": "Nos",
-      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Home full of solipsism",
         "url": "https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Un Lent Mouvement",
-        "url": "https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb"
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
       },
       "artists": [
         {
-          "name": "Moleno",
-          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
         }
       ],
-      "duration_ms": 161624,
-      "name": "Un Lent Mouvement",
-      "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
+      "duration_ms": 81641,
+      "name": "Nos",
+      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -555,6 +539,22 @@
       "duration_ms": 125000,
       "name": "Seascape",
       "url": "https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Un Lent Mouvement",
+        "url": "https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb"
+      },
+      "artists": [
+        {
+          "name": "Moleno",
+          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
+        }
+      ],
+      "duration_ms": 161624,
+      "name": "Un Lent Mouvement",
+      "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Hearts of Us",
-        "url": "https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e"
-      },
-      "artists": [
-        {
-          "name": "Niels Wang",
-          "url": "https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Hearts of Us",
-      "url": "https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Coelicolor",
         "url": "https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 162495,
       "name": "Coelicolor",
       "url": "https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Hearts of Us",
+        "url": "https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e"
+      },
+      "artists": [
+        {
+          "name": "Niels Wang",
+          "url": "https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Hearts of Us",
+      "url": "https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
-      },
-      "artists": [
-        {
-          "name": "Olivier DeGrasse",
-          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Visionaire",
         "url": "https://open.spotify.com/album/3kAsZxO4D7aYpaJbcGyfQa"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 103000,
       "name": "Visionaire",
       "url": "https://open.spotify.com/track/3XmRYyDspHCnlXkvHAYVLL"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
+      },
+      "artists": [
+        {
+          "name": "Olivier DeGrasse",
+          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Finding Rain",
-        "url": "https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq"
-      },
-      "artists": [
-        {
-          "name": "Emily Rubye",
-          "url": "https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp"
-        }
-      ],
-      "duration_ms": 134915,
-      "name": "Next",
-      "url": "https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Azure (Piano Version)",
         "url": "https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 222129,
       "name": "Azure - Piano Version",
       "url": "https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Finding Rain",
+        "url": "https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq"
+      },
+      "artists": [
+        {
+          "name": "Emily Rubye",
+          "url": "https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp"
+        }
+      ],
+      "duration_ms": 134915,
+      "name": "Next",
+      "url": "https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
+        "name": "Ready Set Love",
+        "url": "https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25"
+      },
+      "artists": [
+        {
+          "name": "Piotr Miteska",
+          "url": "https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c"
+        }
+      ],
+      "duration_ms": 89918,
+      "name": "Ready Set Love",
+      "url": "https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
         "name": "50 Masterworks - Arthur Rubinstein",
         "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Ready Set Love",
-        "url": "https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25"
+        "name": "Airbourne",
+        "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
       },
       "artists": [
         {
-          "name": "Piotr Miteska",
-          "url": "https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c"
+          "name": "Eric Badanti",
+          "url": "https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7"
         }
       ],
-      "duration_ms": 89918,
-      "name": "Ready Set Love",
-      "url": "https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2"
+      "duration_ms": 238588,
+      "name": "Airbourne",
+      "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1359,22 +1375,6 @@
       "duration_ms": 206369,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/01tRuWrspjX9qrrLqASycJ"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
-        "name": "Airbourne",
-        "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
-      },
-      "artists": [
-        {
-          "name": "Eric Badanti",
-          "url": "https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7"
-        }
-      ],
-      "duration_ms": 238588,
-      "name": "Airbourne",
-      "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
     },
     {
       "added_at": "2023-01-26 21:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Hamza",
-  "num_followers": 202145,
+  "num_followers": 202138,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU5MjA2MCwwMDAwMDAwMDQ2MTVjMmViYjU2MWM0MzMwOWZmODEzY2EzMzhjNzFi",
+  "snapshot_id": "MTY3NjU5MjA2MCwwMDAwMDAwMDMwMGFiZDY2YWQ3NzRiMzllNzExYzMzN2M1YTVkNzdk",
   "tracks": [
     {
       "added_at": "2023-02-17 00:01:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-02-17 00:01:00",
       "album": {
-        "name": "We Caa Done (feat. Drake)",
-        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "We Caa Done (feat. Drake)",
-      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
-    },
-    {
-      "added_at": "2023-02-17 00:01:00",
-      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 148571,
       "name": "True Love",
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "added_at": "2023-02-17 00:01:00",
+      "album": {
+        "name": "We Caa Done (feat. Drake)",
+        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "We Caa Done (feat. Drake)",
+      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
     },
     {
       "added_at": "2023-02-17 00:01:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-02-17 00:01:00",
       "album": {
-        "name": "Down In Atlanta",
-        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 164041,
-      "name": "Down In Atlanta",
-      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
-    },
-    {
-      "added_at": "2023-02-17 00:01:00",
-      "album": {
         "name": "Two Tens (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
+    },
+    {
+      "added_at": "2023-02-17 00:01:00",
+      "album": {
+        "name": "Down In Atlanta",
+        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 164041,
+      "name": "Down In Atlanta",
+      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
     },
     {
       "added_at": "2023-02-17 00:01:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-02-17 00:01:00",
       "album": {
-        "name": "Martin's Sofa",
-        "url": "https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O"
+        "name": "Me & You",
+        "url": "https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42"
       },
       "artists": [
         {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 240363,
-      "name": "Martin's Sofa",
-      "url": "https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv"
+      "duration_ms": 187034,
+      "name": "Me & You",
+      "url": "https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I"
     },
     {
       "added_at": "2023-02-17 00:01:00",
@@ -1143,6 +1143,22 @@
       "duration_ms": 184213,
       "name": "Motley Crew",
       "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "added_at": "2023-02-17 00:01:00",
+      "album": {
+        "name": "Martin's Sofa",
+        "url": "https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "duration_ms": 240363,
+      "name": "Martin's Sofa",
+      "url": "https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv"
     },
     {
       "added_at": "2023-02-17 00:01:00",
@@ -1167,22 +1183,6 @@
       "duration_ms": 283196,
       "name": "To The Bone (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
-    },
-    {
-      "added_at": "2023-02-17 00:01:00",
-      "album": {
-        "name": "Me & You",
-        "url": "https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 187034,
-      "name": "Me & You",
-      "url": "https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I"
     },
     {
       "added_at": "2023-02-17 00:01:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-02-17 00:01:00",
       "album": {
-        "name": "GOATED.",
-        "url": "https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 197380,
-      "name": "GOATED. (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
-    },
-    {
-      "added_at": "2023-02-17 00:01:00",
-      "album": {
         "name": "Fighting Demons (Deluxe)",
         "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 231220,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
+    },
+    {
+      "added_at": "2023-02-17 00:01:00",
+      "album": {
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
       "added_at": "2023-02-17 00:01:00",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2023-02-17 00:01:00",
       "album": {
-        "name": "POPSTAR (feat. Drake)",
-        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+        "name": "GOATED.",
+        "url": "https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         }
       ],
-      "duration_ms": 200221,
-      "name": "POPSTAR (feat. Drake)",
-      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+      "duration_ms": 197380,
+      "name": "GOATED. (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
     },
     {
       "added_at": "2023-02-17 00:01:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-02-17 00:01:00",
       "album": {
-        "name": "Munch (Feelin\u2019 U)",
-        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 104819,
-      "name": "Munch (Feelin\u2019 U)",
-      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
-    },
-    {
-      "added_at": "2023-02-17 00:01:00",
-      "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
       },
@@ -1483,6 +1467,38 @@
       "duration_ms": 178176,
       "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
       "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+    },
+    {
+      "added_at": "2023-02-17 00:01:00",
+      "album": {
+        "name": "Munch (Feelin\u2019 U)",
+        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 104819,
+      "name": "Munch (Feelin\u2019 U)",
+      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
+    },
+    {
+      "added_at": "2023-02-17 00:01:00",
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 154997,
+      "name": "HOLIDAY",
+      "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
     },
     {
       "added_at": "2023-02-17 00:01:00",
@@ -1519,22 +1535,6 @@
       "duration_ms": 174474,
       "name": "Do It Right",
       "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
-    },
-    {
-      "added_at": "2023-02-17 00:01:00",
-      "album": {
-        "name": "HOLIDAY",
-        "url": "https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 154997,
-      "name": "HOLIDAY",
-      "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
     },
     {
       "added_at": "2023-02-17 00:01:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-02-17 00:01:00",
       "album": {
-        "name": "No More Leaks",
-        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "One Up",
-      "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
-    },
-    {
-      "added_at": "2023-02-17 00:01:00",
-      "album": {
         "name": "Underrated",
         "url": "https://open.spotify.com/album/5GnCVEvwaFZPogirSgrrtv"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 128014,
       "name": "Onna Come Up",
       "url": "https://open.spotify.com/track/0e4A9Fak1nJ7RtBD8YpoEo"
+    },
+    {
+      "added_at": "2023-02-17 00:01:00",
+      "album": {
+        "name": "No More Leaks",
+        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "One Up",
+      "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
     },
     {
       "added_at": "2023-02-17 00:01:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-02-17 00:01:00",
       "album": {
+        "name": "Distraction",
+        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 171319,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
+    },
+    {
+      "added_at": "2023-02-17 00:01:00",
+      "album": {
         "name": "Never Sleep",
         "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 185785,
       "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
       "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
-    },
-    {
-      "added_at": "2023-02-17 00:01:00",
-      "album": {
-        "name": "Distraction",
-        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 171319,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
     },
     {
       "added_at": "2023-02-17 00:01:00",

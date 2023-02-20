@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila esta cumbia! Los \u00e9xitos de Latinoam\u00e9rica en un solo lugar. Foto: Los \u00c1ngeles Azules",
-  "num_followers": 967489,
+  "num_followers": 967980,
   "original_name": "100% Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ3MTU5MSwwMDAwMDAwMGE0YjlkODQ4Y2ExZDQyY2ZlZTlkYjBiZTQ5MDJkYzgy",
+  "snapshot_id": "MTY3NjQ3MTU5MSwwMDAwMDAwMGI2MGIyYWRkZDNiOTg5OWUyMDQwZjc4M2M3MGI3MjA2",
   "tracks": [
     {
       "added_at": "2023-02-13 16:43:39",
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
     },
     {
-      "added_at": "2023-02-19 06:02:24",
+      "added_at": "2023-02-20 00:56:12",
       "album": {
         "name": "Tres D\u00edas",
         "url": "https://open.spotify.com/album/4ynV4pOaULTyRwGZErX5Dn"
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-02-13 16:43:39",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
-    },
-    {
-      "added_at": "2023-02-13 16:43:39",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2023-02-13 16:43:39",
       "album": {
-        "name": "Humildad y Talento",
-        "url": "https://open.spotify.com/album/4kL9pFuQ2QF46cxCCAcrsF"
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
       },
       "artists": [
         {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 230213,
-      "name": "Y Ahora Te Vas",
-      "url": "https://open.spotify.com/track/33D63T3UWawJDiuGtdqs0a"
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
     },
     {
       "added_at": "2023-02-13 16:43:39",
@@ -659,6 +643,22 @@
       "duration_ms": 226586,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/415WOC7qIqb1pvOOhe90si"
+    },
+    {
+      "added_at": "2023-02-13 16:43:39",
+      "album": {
+        "name": "Humildad y Talento",
+        "url": "https://open.spotify.com/album/4kL9pFuQ2QF46cxCCAcrsF"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/33D63T3UWawJDiuGtdqs0a"
     },
     {
       "added_at": "2023-02-13 16:43:39",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-02-13 16:43:39",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
-    },
-    {
-      "added_at": "2023-02-13 16:43:39",
-      "album": {
         "name": "Desnudos",
         "url": "https://open.spotify.com/album/3bPO3lMoj5AdStRso5Q2bH"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 208040,
       "name": "Deber\u00eda Odiarte",
       "url": "https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N"
+    },
+    {
+      "added_at": "2023-02-13 16:43:39",
+      "album": {
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2023-02-13 16:43:39",

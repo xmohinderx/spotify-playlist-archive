@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > First Time NBA All\-Star <a href="www.instagram.com/jaren"> Jaren Jackson Jr.</a> takes over Locked In.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,297,689 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,298,457 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

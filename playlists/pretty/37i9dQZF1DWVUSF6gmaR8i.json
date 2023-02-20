@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of classic and new piano rock and pop.",
-  "num_followers": 152687,
+  "num_followers": 152707,
   "original_name": "The Piano Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzA2MDg2MCwwMDAwMDAwMDIxYjFjMDI0MzU5MjgzYzhkMzFhZGE1ZjU5ZDdhNjg1",
+  "snapshot_id": "MTYzMzA2MDg2MCwwMDAwMDAwMGExYjE2M2QzOGIyMWJiNDRkYTI1YWEyMTEzMzc3YzA5",
   "tracks": [
     {
       "added_at": "2021-10-01 04:01:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Vibrate: The Best Of (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3gnHdybV7CsMxPGwmzFXyS"
-      },
-      "artists": [
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
-        }
-      ],
-      "duration_ms": 251586,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/2u6fRGcaBhpI4uNBHpGv0b"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "Automatic For The People",
         "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 258066,
       "name": "Nightswimming",
       "url": "https://open.spotify.com/track/6G0NzOx2jEPFsSmhr9N8Ys"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Vibrate: The Best Of (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3gnHdybV7CsMxPGwmzFXyS"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "duration_ms": 251586,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2u6fRGcaBhpI4uNBHpGv0b"
     },
     {
       "added_at": "2021-10-01 04:01:00",

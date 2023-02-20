@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Indigo De Souza",
-  "num_followers": 60626,
+  "num_followers": 60664,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGIwOWQzNTYyMjMxNGE1NTI3MjU4ZTZhMjAzNmQ3YzY3",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDc1YzU2YjI4YzJlMjFkM2JhZWNhYjM2MzkyMTYxMjc3",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Projections",
-        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
-      },
-      "artists": [
-        {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
-        }
-      ],
-      "duration_ms": 149422,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "History Of A Feeling",
         "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 173426,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Projections",
+        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 149422,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Telephone",
-        "url": "https://open.spotify.com/album/4Qp1PN0SHjCjm8KGzh5qGu"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Telephone",
-      "url": "https://open.spotify.com/track/0Y9QZo9l948hcvBIt9TQSO"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 246666,
       "name": "Everything I had",
       "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Telephone",
+        "url": "https://open.spotify.com/album/4Qp1PN0SHjCjm8KGzh5qGu"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/0Y9QZo9l948hcvBIt9TQSO"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8"
-      },
-      "artists": [
-        {
-          "name": "Rachel Bobbitt",
-          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
-        }
-      ],
-      "duration_ms": 286042,
-      "name": "More",
-      "url": "https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Dr. Johann Averies",
         "url": "https://open.spotify.com/album/1t2aKCQheAqrUtItw1T2K3"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 233984,
       "name": "Dr. Johann Averies",
       "url": "https://open.spotify.com/track/0FXTj56OeM7A1FDV6N3bmw"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 286042,
+      "name": "More",
+      "url": "https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
+      },
+      "artists": [
+        {
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Bad Radio",
@@ -1257,6 +1273,22 @@
       "url": "https://open.spotify.com/track/64XLoFc5NQjjFgaM5n7UzF"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Closing the Door on Us",
+        "url": "https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 135338,
+      "name": "Closing the Door on Us",
+      "url": "https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Local Valley",
@@ -1271,22 +1303,6 @@
       "duration_ms": 235773,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
-      },
-      "artists": [
-        {
-          "name": "Lunar Vacation",
-          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Fun House",
-        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "i only sing about food",
         "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 144586,
       "name": "i only sing about food",
       "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Fun House",
+        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 281252,
-      "name": "Truth Nugget",
-      "url": "https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "An Overview on Phenomenal Nature",
         "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
       },
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Let Go of the Myth",
-        "url": "https://open.spotify.com/album/4VSYheyF1IVK4x2SiDUmPi"
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
       "artists": [
         {
-          "name": "Baerd",
-          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 165573,
-      "name": "Let Go of the Myth",
-      "url": "https://open.spotify.com/track/61KPTGdmcm1PO88DER3OPz"
+      "duration_ms": 281252,
+      "name": "Truth Nugget",
+      "url": "https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+        "name": "Let Go of the Myth",
+        "url": "https://open.spotify.com/album/4VSYheyF1IVK4x2SiDUmPi"
       },
       "artists": [
         {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
         }
       ],
-      "duration_ms": 247258,
-      "name": "It Wasn't Me",
-      "url": "https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1"
+      "duration_ms": 165573,
+      "name": "Let Go of the Myth",
+      "url": "https://open.spotify.com/track/61KPTGdmcm1PO88DER3OPz"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1479,6 +1479,22 @@
       "duration_ms": 222333,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 247258,
+      "name": "It Wasn't Me",
+      "url": "https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 327440,
-      "name": "Hard Drive",
-      "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Serpentine Prison (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA"
       },
@@ -1625,20 +1625,20 @@
       "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Closing the Door on Us",
-        "url": "https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3"
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
       },
       "artists": [
         {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
         }
       ],
-      "duration_ms": 135338,
-      "name": "Closing the Door on Us",
-      "url": "https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz"
+      "duration_ms": 327440,
+      "name": "Hard Drive",
+      "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 215793,
-      "name": "Pick Apart",
-      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Vagabon",
         "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
       },
@@ -1743,18 +1727,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
       "artists": [
         {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
         }
       ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
+      "duration_ms": 215793,
+      "name": "Pick Apart",
+      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1791,18 +1775,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "At the Moonbase",
-        "url": "https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
       "artists": [
         {
-          "name": "Slaughter Beach, Dog",
-          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
         }
       ],
-      "duration_ms": 283536,
-      "name": "Do You Understand (What Has Happened to You)",
-      "url": "https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc"
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1819,6 +1803,22 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "At the Moonbase",
+        "url": "https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA"
+      },
+      "artists": [
+        {
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+        }
+      ],
+      "duration_ms": 283536,
+      "name": "Do You Understand (What Has Happened to You)",
+      "url": "https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Convention",
+      "url": "https://open.spotify.com/track/2QnSMKFZw9dD2Fhp0bO3lb"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/4bqE0GxxSdnrfJMiFB6MAA"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 278316,
       "name": "Rare to Wake",
       "url": "https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Convention",
-      "url": "https://open.spotify.com/track/2QnSMKFZw9dD2Fhp0bO3lb"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -2047,18 +2047,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Whole New Mess",
-        "url": "https://open.spotify.com/album/1Y0nAMTZkFEU0cmSkk751e"
+        "name": "To Enjoy Is the Only Thing",
+        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
       },
       "artists": [
         {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
         }
       ],
-      "duration_ms": 222786,
-      "name": "Whole New Mess",
-      "url": "https://open.spotify.com/track/7G2qiNMmclEQvBI5QiVKvs"
+      "duration_ms": 252413,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
     }
   ],
   "unique_name": "Folk Arc",

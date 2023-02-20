@@ -4,7 +4,7 @@
 
 > 
 
-190 songs - 11 hr 19 min
+191 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Freefall](https://open.spotify.com/track/3uplouj624e3YhiPd3lETR) | [Arlow](https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ) | [Freefall](https://open.spotify.com/album/1RJeTvqGeHB41zJL1ouC8h) | 3:15 | 2023-02-03 |  |
 | [Fuck You](https://open.spotify.com/track/1GCbc1vpkZA2zhjsSFhmHT) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/39zjAZD6nlscx5DafH8GI8) | 3:39 | 2023-02-03 |  |
 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 | 2022-08-26 |  |
+| [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-19 |  |
 | [Go Go](https://open.spotify.com/track/5nq1uTNIR1cBR72T87viS0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 承 'Her'](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) | 3:55 | 2022-08-26 |  |
 | [gogobebe](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [White Wind](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) | 3:15 | 2022-08-26 |  |
 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 | 2022-08-26 |  |

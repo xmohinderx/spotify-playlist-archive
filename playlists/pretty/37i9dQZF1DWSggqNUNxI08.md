@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 
 > <a href="spotify:artist:69zPIMRgsZieOHFtHtvnj0">Yu Su</a>'s favorite tracks\. Updated regularly\. Curated by Yu Su\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,686 likes - 96 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,701 likes - 96 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 | 38 | [Grains Of Sand](https://open.spotify.com/track/1cTs6eoFuFDXUdR7oa1Rc6) | [D\. Tiffany](https://open.spotify.com/artist/2LMaARRMktW5O2umBFaQUu), [Roza Terenzi](https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs) | [Edge Of Innocence](https://open.spotify.com/album/4gQtuhnk16SeSYt1UQhhzi) | 6:41 |
 | 39 | [Flight Mode \- Yu Su Remix](https://open.spotify.com/track/3enZFYWSYUCZbnGXXaomUr) | [Fede Lng](https://open.spotify.com/artist/77gkripb5ZSATI1DNfDCwp), [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [Flight Mode \- EP](https://open.spotify.com/album/1vZYBWZ0sCxBigqYrS6ox6) | 7:18 |
 | 40 | [Acid Kid](https://open.spotify.com/track/0C55DUJaNkGGkUB5twbipk) | [Make A Dance](https://open.spotify.com/artist/0uCHsPscaxehIexzf7nkXP) | [Acid Kid](https://open.spotify.com/album/7Cf3oJOMjLIAWY6eXjcyGT) | 6:30 |
-| 41 | [The Right Moment](https://open.spotify.com/track/2cOWOP6Yl99cZbJrArw7vF) | [Lipelis](https://open.spotify.com/artist/5kqJ14A5azjdD37MJr7VOd), [TMO \(RU\)](https://open.spotify.com/artist/2YPPS16X2uDlhmF3RdDRBK) | [Function As A Meaning EP](https://open.spotify.com/album/0fWUB6YDSeUSadBnuIU20u) | 6:29 |
+| 41 | [The Right Moment](https://open.spotify.com/track/5q9tzjRWD1vHH3oJzFYYyM) | [Lipelis](https://open.spotify.com/artist/5kqJ14A5azjdD37MJr7VOd), [TMO](https://open.spotify.com/artist/4izMpSz6U2VqJjqTqVuGnT) | [Function as a Meaning](https://open.spotify.com/album/0DnQP1n5ULaaufv6uJhtRQ) | 6:29 |
 | 42 | [Transsib](https://open.spotify.com/track/3pkMjejXiSRDcCCgI0wULP) | [Natasha Bai](https://open.spotify.com/artist/4ewUW6zC84BPLDlYU7KBNp) | [Transsib EP](https://open.spotify.com/album/1gAtVUOmMw1SUNlTPWofSj) | 5:52 |
 | 43 | [Tu Sei Pazza \- Original Mix](https://open.spotify.com/track/0DWpgeKDZAfzRjkefFuUXe) | [Daniel Monaco](https://open.spotify.com/artist/0XH2zyfKSIvX51AkRD16iC) | [Tu Sei Pazza](https://open.spotify.com/album/7M9POEcp8C2LM20f1hBlwM) | 6:15 |
 | 44 | [Hokus Pokus](https://open.spotify.com/track/4bJt3iYTlelwxg7PcEBiKE) | [Hanzo & Yaman](https://open.spotify.com/artist/6JTsVPpfsBIvmsPA2NTpEJ) | [Muy Duro, Vol\. 5](https://open.spotify.com/album/4gjJ67JUvm0PTj9hxLtPOr) | 6:20 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 | 95 | [Show Some Love \- Rhythm Invention Remix](https://open.spotify.com/track/5ZDDPBtrCvr42KFPyIaadw) | [Jaco](https://open.spotify.com/artist/0aCjTRsnxds1RhhLfvHzeT), [Rhythm Invention](https://open.spotify.com/artist/3BqNVifkvumKTZp6YXGIO4) | [Show Some Love](https://open.spotify.com/album/7kAq9IgkxJ9ccEhMXmDbJK) | 6:37 |
 | 96 | [Techno Cave \- Sharif Laffrey Nightwork Remix](https://open.spotify.com/track/6JoiH5Hnnx63LWwagrTR0A) | [Ruf Dug](https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T), [Sharif Laffrey](https://open.spotify.com/artist/3QEeHLDl1Pk9xlAOm7413Q) | [Ruffy's Island](https://open.spotify.com/album/19XIG9qAf6trDqzYpy72j7) | 10:15 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGIyZWVjNDkxZGJkZjY4NDgzOTI0Nzg3ZWEwNzdjYWIw`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDk1ZjZhMTc3MWNkNTQwMTdhZmNlNTAwNGU4ODE5OWU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,791 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,802 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 9 | [Só Tinha De Ser Com Você](https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:53 |
 | 10 | [Night And Day](https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:38 |
 | 11 | [And I Love Him](https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Travelin' Light](https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD) | 2:29 |
-| 12 | [Les yeux ouverts \(dream a little dream of me\)](https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Very Thought of You](https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP) | 4:46 |
-| 13 | [I'm Glad There Is You](https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:27 |
+| 12 | [I'm Glad There Is You](https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:27 |
+| 13 | [Les yeux ouverts \(dream a little dream of me\)](https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Very Thought of You](https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP) | 4:46 |
 | 14 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
 | 15 | [As Time Goes By](https://open.spotify.com/track/4N6xY1v1oOuXb6GdEJqQTP) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [As Time Goes By](https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR) | 2:34 |
-| 16 | [Body and Soul](https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 3:20 |
-| 17 | [Crazy](https://open.spotify.com/track/0ia1R0P4iFNG8UMWLSEhDn) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Crazy](https://open.spotify.com/album/5QSer2rfhnPzkzPxamHk0u) | 3:16 |
+| 16 | [Crazy](https://open.spotify.com/track/0ia1R0P4iFNG8UMWLSEhDn) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Crazy](https://open.spotify.com/album/5QSer2rfhnPzkzPxamHk0u) | 3:16 |
+| 17 | [Body and Soul](https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 3:20 |
 | 18 | [Stars Fell On Alabama](https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 3:52 |
 | 19 | [This Guy's In Love With You](https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 3:43 |
 | 20 | [O Barquinho](https://open.spotify.com/track/5TUmfePkCdoSYSavOykhau) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Obras\-Primas](https://open.spotify.com/album/6eVTZVohCd8lmcnPIrZ7GP) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 74 | [Never Let Me Go](https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [First Conversation](https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1) | 4:31 |
 | 75 | [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 |
 
-Snapshot ID: `MTY3NjI1OTg3MSwwMDAwMDAwMGMxMDc1NzIxOTk4MDFhODhkYmU3MmNjYTk2OThhYjcy`
+Snapshot ID: `MTY3NjI1OTg3MSwwMDAwMDAwMGViYWUxOWRkOWQ3NjU3OGY5MjBjOTM1MGQwMWQ0Y2Q5`

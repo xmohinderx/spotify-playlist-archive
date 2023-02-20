@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Paky",
-  "num_followers": 70702,
+  "num_followers": 70783,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMDUwMTYwNzUzNzA4OTE4MGMxYTRjOTU0ZTk5ZGM3ZjU5",
+  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMGFiZmM0OWFiZTlmNGJlODk4YjkzNGIwMzBlNGM3MWNj",
   "tracks": [
     {
       "added_at": "2023-01-13 00:01:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "PLAYA",
-        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
-      },
-      "artists": [
-        {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
-        }
-      ],
-      "duration_ms": 154926,
-      "name": "PLAYA",
-      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Famoso",
         "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
       },
@@ -763,6 +747,58 @@
       "duration_ms": 193554,
       "name": "Baby (with J Balvin)",
       "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "duration_ms": 154926,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "LISTA 47",
+        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "duration_ms": 183038,
+      "name": "ADVICE",
+      "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -787,42 +823,6 @@
       "duration_ms": 166522,
       "name": "PULL UP (feat. Big P)",
       "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "LISTA 47",
-        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        }
-      ],
-      "duration_ms": 183038,
-      "name": "ADVICE",
-      "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Porto Cervo",
+        "url": "https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 235425,
+      "name": "Porto Cervo",
+      "url": "https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "Louboutin",
         "url": "https://open.spotify.com/album/1L10rKUr6ll3JmEj94BXoU"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 240000,
       "name": "Louboutin",
       "url": "https://open.spotify.com/track/7fzaDe7qR6IX2w275uX4Th"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "Porto Cervo",
-        "url": "https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 235425,
-      "name": "Porto Cervo",
-      "url": "https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
+        "url": "https://open.spotify.com/album/1Ldy8KRZOLtwLJP3NmIR3q"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 174983,
+      "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2mKxTSrVPzc6dS8VqNTIYZ"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
       },
@@ -1335,30 +1359,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
-        "url": "https://open.spotify.com/album/1Ldy8KRZOLtwLJP3NmIR3q"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 174983,
-      "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
-      "url": "https://open.spotify.com/track/2mKxTSrVPzc6dS8VqNTIYZ"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
         "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 159910,
+      "name": "Boogieman (feat. Salmo)",
+      "url": "https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 140297,
       "name": "181",
       "url": "https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 159910,
-      "name": "Boogieman (feat. Salmo)",
-      "url": "https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW"
     },
     {
       "added_at": "2023-01-13 00:01:00",

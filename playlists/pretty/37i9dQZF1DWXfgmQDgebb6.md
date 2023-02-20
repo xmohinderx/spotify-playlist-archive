@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: So!YoON!\(황소윤\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,532 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,543 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 31 | [Swim \- Virus Edit](https://open.spotify.com/track/6SgtEjK5R4DkUQS0jhqMLH) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3A9cmVhxoyst19YbEsMvr0) | 3:27 |
 | 32 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 |
 | 33 | [Daisy \(Feat\. Han Yo Han\)](https://open.spotify.com/track/2ZdhVj2NAYOxY36rMjgN6b) | [ABLE](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Daisy](https://open.spotify.com/album/0EjZp5PnEXF0UD1OXlwUXk) | 3:05 |
-| 34 | [Dew](https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y) | [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js), [DASU](https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b) | [Dew](https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo) | 3:20 |
+| 34 | [Donut](https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Image](https://open.spotify.com/artist/58L7Wn6gqkg86DH0I3z2p5) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:04 |
 | 35 | [yayou hoi](https://open.spotify.com/track/72uerGsS3eLO72OU4fZLjj) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [yayou hoi](https://open.spotify.com/album/1tnFNHePi4sCzUWPXSRFrD) | 3:08 |
-| 36 | [크림빵 Creamppang](https://open.spotify.com/track/4WeheYfylgvepzqwV0WiLW) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [크림빵 Creamppang](https://open.spotify.com/album/63GZq7rpyZPIVV79W7Qol4) | 2:49 |
-| 37 | [Donut](https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Image](https://open.spotify.com/artist/58L7Wn6gqkg86DH0I3z2p5) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:04 |
+| 36 | [Dew](https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y) | [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js), [DASU](https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b) | [Dew](https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo) | 3:20 |
+| 37 | [크림빵 Creamppang](https://open.spotify.com/track/4WeheYfylgvepzqwV0WiLW) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [크림빵 Creamppang](https://open.spotify.com/album/63GZq7rpyZPIVV79W7Qol4) | 2:49 |
 | 38 | [SPACE MULAN](https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [SPACE MULAN](https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a) | 2:39 |
 | 39 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 |
 | 40 | [Unhappiness](https://open.spotify.com/track/3o1Myd7WTxfeK49bRjRmPh) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [Unhappiness](https://open.spotify.com/album/3eC4GHAWS2In8EyyNphHus) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 49 | [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 |
 | 50 | [be around me](https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [be around me](https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG) | 2:56 |
 
-Snapshot ID: `MTY3NjYyNDY0MCwwMDAwMDAwMDE4MzU3ZTEzNTYxY2JlNjgwY2M5ODZhMDk5NTY4ZTdh`
+Snapshot ID: `MTY3NjYyNDY0MCwwMDAwMDAwMGRkNDgxOGRlYzYwMGQxN2EzMTA3MGVkYzg2MDZiYTYy`

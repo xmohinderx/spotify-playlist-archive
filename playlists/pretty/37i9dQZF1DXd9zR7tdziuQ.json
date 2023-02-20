@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 826770,
+  "num_followers": 827150,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4NDQwOCwwMDAwMDAwMDAzMDIzYzQ4ZDg3NGU1NDQxMjhkZTJlZjhkYzIwNDIw",
+  "snapshot_id": "MTY2MzY4NDQwOCwwMDAwMDAwMDkxZDAzNmUzMzA2Nzg5ZTAyYzY0MGE4ZmUzMmJhMmVl",
   "tracks": [
     {
       "added_at": "2022-08-25 19:21:22",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
+        "name": "1.22.03 Acoustic",
+        "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 254853,
+      "name": "Sunday Morning - Acoustic",
+      "url": "https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
         "name": "Cold Heart (Acoustic)",
         "url": "https://open.spotify.com/album/78pahaG6oQu93YqFLVYGEv"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "1.22.03 Acoustic",
-        "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
+        "name": "Spotify Session",
+        "url": "https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 254853,
-      "name": "Sunday Morning - Acoustic",
-      "url": "https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F"
+      "duration_ms": 195840,
+      "name": "I'm Not the Only One - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -335,22 +351,6 @@
       "duration_ms": 230440,
       "name": "Naked - Acoustic Version",
       "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
-        "name": "Spotify Session",
-        "url": "https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "I'm Not the Only One - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Something Just Like This",
-        "url": "https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7"
-      },
-      "artists": [
-        {
-          "name": "Missy & Blonde",
-          "url": "https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh"
-        },
-        {
-          "name": "Julia Ross",
-          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
-        }
-      ],
-      "duration_ms": 189793,
-      "name": "Something Just Like This - Acoustic",
-      "url": "https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Save Tonight",
         "url": "https://open.spotify.com/album/2jHuPMC1tJvcyqvWMrlvQI"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 270698,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/110YC8JMSnxlr5dFrtEdiP"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Something Just Like This",
+        "url": "https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7"
+      },
+      "artists": [
+        {
+          "name": "Missy & Blonde",
+          "url": "https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh"
+        },
+        {
+          "name": "Julia Ross",
+          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
+        }
+      ],
+      "duration_ms": 189793,
+      "name": "Something Just Like This - Acoustic",
+      "url": "https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Get Lucky (Acoustic)",
-        "url": "https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW"
-      },
-      "artists": [
-        {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
-        }
-      ],
-      "duration_ms": 188605,
-      "name": "Get Lucky - Acoustic",
-      "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Little Talks",
         "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 219760,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Get Lucky (Acoustic)",
+        "url": "https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 188605,
+      "name": "Get Lucky - Acoustic",
+      "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1051,22 +1051,18 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Firestone (Live Acoustic Version)",
-        "url": "https://open.spotify.com/album/2LkJP9u5oUPaum7gBHBKJy"
+        "name": "Dancing On My Own (Acoustic)",
+        "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Conrad Sewell",
-          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 226345,
-      "name": "Firestone - Live Acoustic Version",
-      "url": "https://open.spotify.com/track/4gek9UL5WceAq1qiZlhmGM"
+      "duration_ms": 253482,
+      "name": "Dancing On My Own - Acoustic",
+      "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1087,18 +1083,22 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Dancing On My Own (Acoustic)",
-        "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
+        "name": "Firestone (Live Acoustic Version)",
+        "url": "https://open.spotify.com/album/2LkJP9u5oUPaum7gBHBKJy"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Conrad Sewell",
+          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
         }
       ],
-      "duration_ms": 253482,
-      "name": "Dancing On My Own - Acoustic",
-      "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
+      "duration_ms": 226345,
+      "name": "Firestone - Live Acoustic Version",
+      "url": "https://open.spotify.com/track/4gek9UL5WceAq1qiZlhmGM"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Se\u00f1orita (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0TzAmx7RweolHPec1rPi1q"
-      },
-      "artists": [
-        {
-          "name": "Jonah Baker",
-          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
-        },
-        {
-          "name": "Celine",
-          "url": "https://open.spotify.com/artist/5ZheOSzgxKh55R5LlDApTq"
-        }
-      ],
-      "duration_ms": 179754,
-      "name": "Se\u00f1orita - Acoustic Version",
-      "url": "https://open.spotify.com/track/6mVswwibnIGvVYgP1y9s4I"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
         "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 231013,
       "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
       "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Se\u00f1orita (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0TzAmx7RweolHPec1rPi1q"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        },
+        {
+          "name": "Celine",
+          "url": "https://open.spotify.com/artist/5ZheOSzgxKh55R5LlDApTq"
+        }
+      ],
+      "duration_ms": 179754,
+      "name": "Se\u00f1orita - Acoustic Version",
+      "url": "https://open.spotify.com/track/6mVswwibnIGvVYgP1y9s4I"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/51FVeMKotCRXxe2BKfTVTT"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        }
-      ],
-      "duration_ms": 141142,
-      "name": "Havana - Acoustic",
-      "url": "https://open.spotify.com/track/0P2HFqXUhqvdZ2bS8doDjR"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Pretty Girl (Acoustic Version)",
         "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 180828,
       "name": "Pretty Girl - Acoustic Version",
       "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/51FVeMKotCRXxe2BKfTVTT"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        }
+      ],
+      "duration_ms": 141142,
+      "name": "Havana - Acoustic",
+      "url": "https://open.spotify.com/track/0P2HFqXUhqvdZ2bS8doDjR"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Your Song (Acoustic)",
-        "url": "https://open.spotify.com/album/0qEUDm9Vrh5YE0BIoD1DLZ"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 181907,
-      "name": "Your Song - Acoustic",
-      "url": "https://open.spotify.com/track/08peGCGwTVXc1WT2UNdVs5"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 280827,
       "name": "When Doves Cry - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Your Song (Acoustic)",
+        "url": "https://open.spotify.com/album/0qEUDm9Vrh5YE0BIoD1DLZ"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 181907,
+      "name": "Your Song - Acoustic",
+      "url": "https://open.spotify.com/track/08peGCGwTVXc1WT2UNdVs5"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Ordinary World",
-        "url": "https://open.spotify.com/album/0yN19KuHWWvVMcaC7ygfIp"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 314343,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/1Rzv9hwuNO1H7N947tD1e8"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "The Tip Jar Volume One",
         "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 298800,
       "name": "Hey Ya - solo version",
       "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Ordinary World",
+        "url": "https://open.spotify.com/album/0yN19KuHWWvVMcaC7ygfIp"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 314343,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/1Rzv9hwuNO1H7N947tD1e8"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "New Rules",
-        "url": "https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE"
-      },
-      "artists": [
-        {
-          "name": "Becca Adams",
-          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
-        }
-      ],
-      "duration_ms": 227279,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Think Before I Talk (Acoustic)",
         "url": "https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 217400,
       "name": "Think Before I Talk - Acoustic",
       "url": "https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "New Rules",
+        "url": "https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE"
+      },
+      "artists": [
+        {
+          "name": "Becca Adams",
+          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+        }
+      ],
+      "duration_ms": 227279,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "RAWsession - 5.25.10",
-        "url": "https://open.spotify.com/album/1VjkHEj9MtBnoA3MTH4feP"
-      },
-      "artists": [
-        {
-          "name": "Jess Delgado",
-          "url": "https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5"
-        }
-      ],
-      "duration_ms": 266813,
-      "name": "Why Georgia - RAWsession",
-      "url": "https://open.spotify.com/track/1ZyNC4ePk2gAtRWBNVmd6B"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Lift Your Spirit",
         "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 225106,
       "name": "Wake Me Up - Acoustic",
       "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "RAWsession - 5.25.10",
+        "url": "https://open.spotify.com/album/1VjkHEj9MtBnoA3MTH4feP"
+      },
+      "artists": [
+        {
+          "name": "Jess Delgado",
+          "url": "https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5"
+        }
+      ],
+      "duration_ms": 266813,
+      "name": "Why Georgia - RAWsession",
+      "url": "https://open.spotify.com/track/1ZyNC4ePk2gAtRWBNVmd6B"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -2479,22 +2479,18 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Swalla (Acoustic Version)",
-        "url": "https://open.spotify.com/album/032arX7VC6xQ1WbR92jVoy"
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
       },
       "artists": [
         {
-          "name": "Missy & Blonde",
-          "url": "https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh"
-        },
-        {
-          "name": "Julia Ross",
-          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
         }
       ],
-      "duration_ms": 217597,
-      "name": "Swalla - Acoustic Version",
-      "url": "https://open.spotify.com/track/02dcOQGdOgZyErpbJT4hr5"
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
     }
   ],
   "unique_name": "Hits ac\u00fasticos",

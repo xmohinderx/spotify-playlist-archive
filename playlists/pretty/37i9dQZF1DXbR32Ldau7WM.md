@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: a flood of circle
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,981 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,046 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 41 | [Nice Day](https://open.spotify.com/track/24PyTTd3CiplNPpmYpJifN) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [Our Best Place](https://open.spotify.com/album/0YD5rzXGLNjCslvo8x6igD) | 3:30 |
 | 42 | [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 |
 | 43 | [More Than Words](https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [More Than Words](https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC) | 3:50 |
-| 44 | [Get Wild](https://open.spotify.com/track/5G48nS1vgkQherzj2bHE3F) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [MIYAVIVERSE \- Anima \-](https://open.spotify.com/album/60rJiOVY3wSlVwV7fB5HRB) | 4:34 |
-| 45 | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT) | 3:09 |
+| 44 | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT) | 3:09 |
+| 45 | [Get Wild](https://open.spotify.com/track/5G48nS1vgkQherzj2bHE3F) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [MIYAVIVERSE \- Anima \-](https://open.spotify.com/album/60rJiOVY3wSlVwV7fB5HRB) | 4:34 |
 | 46 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
 | 47 | [EL MARIACHI](https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 3:32 |
 | 48 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 |
-| 49 | [バードヘッドブルース](https://open.spotify.com/track/1oPGZM3eWNMXo7KJiUwPPB) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [バードヘッドブルース](https://open.spotify.com/album/0zgAmWHJSVbQpSSIekqYXH) | 3:49 |
-| 50 | [Tsuki no Wan](https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Adapt](https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4) | 4:10 |
+| 49 | [Tsuki no Wan](https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Adapt](https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4) | 4:10 |
+| 50 | [バードヘッドブルース](https://open.spotify.com/track/1oPGZM3eWNMXo7KJiUwPPB) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [バードヘッドブルース](https://open.spotify.com/album/0zgAmWHJSVbQpSSIekqYXH) | 3:49 |
 
-Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDc1YmIwY2M4M2M2MThjOTE0NWE3OGE1YjJhYTA4ODkx`
+Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDc4NGExOWFhZjlhODI0NTBkNmY3MGUzZmYwOWJjZmY4`

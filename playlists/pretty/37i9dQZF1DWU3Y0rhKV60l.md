@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 
 > Keep your focus and drown out distracting sounds with white noise from the oceans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,751 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,781 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 32 | [Baltic Ocean Wave Sounds](https://open.spotify.com/track/01Q7qJ90WP59CceunoiD7B) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Ocean Sounds Vol\. 1](https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59) | 2:55 |
 | 33 | [Soft Waves](https://open.spotify.com/track/4AtqK695Bo1OxeXHG9uzGp) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Oceanic Samples](https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt) | 3:01 |
 | 34 | [Naples Beach](https://open.spotify.com/track/0P3wyNDU63zoKiqJmrQI7g) | [Tailormade Ocean Waves](https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:02 |
-| 35 | [Stormy Ocean](https://open.spotify.com/track/6gViURBimCpiLxGRo2afuG) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Soft Waves](https://open.spotify.com/album/0AVeNcB2nbFWNFCoN4znCx) | 1:50 |
-| 36 | [Sea Waves](https://open.spotify.com/track/6Ur0qE68F4aPlI515XfVYJ) | [Relaxation Makers](https://open.spotify.com/artist/4IHmgRUGokc5EEm9pmUHmF) | [Relaxation Makers](https://open.spotify.com/album/3SY2zYzHrnx5bceJlLCWpl) | 3:57 |
+| 35 | [Sea Waves](https://open.spotify.com/track/6Ur0qE68F4aPlI515XfVYJ) | [Relaxation Makers](https://open.spotify.com/artist/4IHmgRUGokc5EEm9pmUHmF) | [Relaxation Makers](https://open.spotify.com/album/3SY2zYzHrnx5bceJlLCWpl) | 3:57 |
+| 36 | [Stormy Ocean](https://open.spotify.com/track/6gViURBimCpiLxGRo2afuG) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Soft Waves](https://open.spotify.com/album/0AVeNcB2nbFWNFCoN4znCx) | 1:50 |
 | 37 | [Slow Waves](https://open.spotify.com/track/5Is3rDh7Y7JcdmeaiOomYp) | [Sleep Factory](https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8) | [Slow Waves](https://open.spotify.com/album/5v5qT4eyJfLXD8lnNAIo2d) | 1:47 |
 | 38 | [Bali Beach Waves](https://open.spotify.com/track/6AiS3Vw8NbfUvrgbMeRC1V) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Coastal Clifftop Waves](https://open.spotify.com/album/5zjuTmzWlK96s1zHSZSFoj) | 4:10 |
 | 39 | [Soothing Ocean Sound](https://open.spotify.com/track/2ACz2tjRaxwK2v7Gsmm5X2) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Soothing Ocean Sound](https://open.spotify.com/album/6YwzxAxdw92YooMgYSLbeq) | 2:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 59 | [Windy Beach 3](https://open.spotify.com/track/7ge6TRJoEc97N5Aa3rS59U) | [Surrounded by Sound](https://open.spotify.com/artist/0F7xvD7p2K3aCiXBZEZ90i) | [Ocean Waves Volume 2](https://open.spotify.com/album/1UIjE0VjMi2pvv8GP2EzpR) | 2:38 |
 | 60 | [Watching Heavy Ocean Waves](https://open.spotify.com/track/0eyBqBpSrc7XNnQfW8pvCk) | [EarthMovies](https://open.spotify.com/artist/3T3jDhDfzFEBtXWcPNKqNe) | [Crashing Ocean Waves](https://open.spotify.com/album/23is2ikMTPfqd5ASwbCvkB) | 2:40 |
 
-Snapshot ID: `MTY3NjQ1MTk2OCwwMDAwMDAwMGU3NjA3Y2ZkODQzYjMyNDRiNmYzZWFiYjJkNDM0ZWY1`
+Snapshot ID: `MTY3NjQ1MTk2OCwwMDAwMDAwMDQ2M2U4NDgwYTM0ZTczOTRiZDQzOTg2NjAyM2E4NjUy`

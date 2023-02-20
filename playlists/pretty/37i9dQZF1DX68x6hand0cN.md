@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,280 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,397 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Europa](https://open.spotify.com/track/67KWWEkbl4RmmhLUd4drKH) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Elai](https://open.spotify.com/artist/41qfKbF6qreDxiWBmOX39N) | [Europa](https://open.spotify.com/album/04WETNvpvGGwXYku6oLPME) | 4:35 |
-| 2 | [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 |
+| 2 | [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/65tCcMEIc3guWLBpgLA5AQ) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 |
 | 3 | [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 |
 | 4 | [Soweto](https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:28 |
 | 5 | [Low](https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ) | [Kidda](https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj) | [Low](https://open.spotify.com/album/0HpwLRomUn6DGADacaO0id) | 3:14 |

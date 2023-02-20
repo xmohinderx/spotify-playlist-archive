@@ -4257,6 +4257,28 @@
     },
     {
       "album": {
+        "name": "Death Row",
+        "url": "https://open.spotify.com/album/4FHEoH5SH3vkufw8XBEAzg"
+      },
+      "artists": [
+        {
+          "name": "Bedwetters",
+          "url": "https://open.spotify.com/artist/6b0am8pgRC1zqN3iyC7pKO"
+        },
+        {
+          "name": "ollie",
+          "url": "https://open.spotify.com/artist/4LnKOvRAQHuQKsEqmhYWiv"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Death Row",
+      "url": "https://open.spotify.com/track/2eXA6qVP0PfR01YmTuiUl0"
+    },
+    {
+      "album": {
         "name": "The Christmas Song (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
       },
@@ -8040,7 +8062,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 163306,
       "name": "hoia end (feat. villemdrillem)",
       "url": "https://open.spotify.com/track/1Oiw6x4fhsCEuh4CMaa8kc"
@@ -8250,7 +8272,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 264473,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
@@ -10866,7 +10888,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -16884,7 +16906,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -21414,7 +21436,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 198736,
       "name": "vamos",
       "url": "https://open.spotify.com/track/2XNRbWeHolZn9SqAUnxeO4"
@@ -23316,7 +23338,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 119475,
       "name": "\u0417\u0410 \u0414\u0415\u041d\u042c\u0413\u0418 \u0414\u0410",
       "url": "https://open.spotify.com/track/4PGzoH4hL1vORGOTxHdWjB"
@@ -23722,7 +23744,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 153142,
       "name": "\u041e\u0442\u043a\u043b\u044e\u0447\u0430\u044e \u0442\u0435\u043b\u0435\u0444\u043e\u043d",
       "url": "https://open.spotify.com/track/6F81SMHDIUMRyBb9bJ2ZRL"

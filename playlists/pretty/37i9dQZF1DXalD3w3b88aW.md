@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 
 > The emotional interludes we wish were longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,292 likes - 76 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,293 likes - 76 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 7 | [Fertilizer](https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 0:39 |
 | 8 | [All Of The Lights \(Interlude\)](https://open.spotify.com/track/4D6TpthzUVNTjWQqfBW5Kb) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 1:02 |
 | 9 | [NO SECRET \(feat\. Drake\)](https://open.spotify.com/track/1Gb6r4iX8w60t6OFTvWI4K) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 0:47 |
-| 10 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 |
-| 11 | [Bluff](https://open.spotify.com/track/3hHOTDFrciIXTZ9SttBHNy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N) | 1:12 |
+| 10 | [Bluff](https://open.spotify.com/track/3hHOTDFrciIXTZ9SttBHNy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N) | 1:12 |
+| 11 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 |
 | 12 | [Endlessly Interlude](https://open.spotify.com/track/2QoDA4PQiLA5gZME35my0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 0:34 |
 | 13 | [Bria's Interlude \(feat\. Omarion\)](https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 2:19 |
 | 14 | [Kaytra's Interlude \(feat\. KAYTRANADA\)](https://open.spotify.com/track/5Sf02v5Q9Z9Ewfxmn69JOt) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Overgrown](https://open.spotify.com/album/55kmFrMvcnO54KbEurJTrM) | 1:20 |
-| 15 | [Superstar \- Interlude](https://open.spotify.com/track/22IVvpKhaLiYGzu3FdqBwB) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 1:04 |
+| 15 | [Looks Good With Trouble](https://open.spotify.com/track/0yJl8GDfihXsPOqGQE9bFp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP) | 1:30 |
 | 16 | [End](https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 2:14 |
-| 17 | [Looks Good With Trouble](https://open.spotify.com/track/0yJl8GDfihXsPOqGQE9bFp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP) | 1:30 |
+| 17 | [Superstar \- Interlude](https://open.spotify.com/track/22IVvpKhaLiYGzu3FdqBwB) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 1:04 |
 | 18 | [I Wanna Be Where You Are](https://open.spotify.com/track/7KZqVqDuJOlxwwZa6mmOGS) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You \(Deluxe Edition\)](https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW) | 1:16 |
 | 19 | [Hey Sugah \- Interlude](https://open.spotify.com/track/0xgkQ67LbDWjL86nIHeXS3) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 0:51 |
 | 20 | [Runnin' \- Interlude](https://open.spotify.com/track/0dYDmow4l5hbPs5E6QLMSC) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [You Should Be Here](https://open.spotify.com/album/34JNly8P6uZRKTGnmmLNAt) | 2:17 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 51 | [I've Changed \(feat\. Lil' Mo\) \- Interlude](https://open.spotify.com/track/6BqzBaFjRWUbZx59inQaY8) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 1:05 |
 | 52 | [Tears Away \(Interlude\)](https://open.spotify.com/track/1wxzkfNwBwpB43Y7KiybNe) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 1:41 |
 | 53 | [Room 454: De Vante's " Inhermission"](https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 2:10 |
-| 54 | [Looking For Love \(Interlude\)](https://open.spotify.com/track/3vBQKlQIql3ACIW9wCwt1w) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Damita Jo](https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S) | 1:29 |
-| 55 | [Interlude](https://open.spotify.com/track/2CpIzsORlIOclbE1nB8NEq) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 1:24 |
+| 54 | [Interlude](https://open.spotify.com/track/2CpIzsORlIOclbE1nB8NEq) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 1:24 |
+| 55 | [Looking For Love \(Interlude\)](https://open.spotify.com/track/3vBQKlQIql3ACIW9wCwt1w) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Damita Jo](https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S) | 1:29 |
 | 56 | [Smoke \(Interlude\) \(feat\. Soko\)](https://open.spotify.com/track/5XrSD5qp2cTeSz7zDsNskG) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Soko](https://open.spotify.com/artist/7jY8kqH6TphQsiT0wjlsqZ) | [Vibes](https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr) | 2:42 |
 | 57 | [Nothing \(Interlude\)](https://open.spotify.com/track/0B6HLF4uh7dDwbWzqR57tP) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 1:31 |
 | 58 | [Stay \(Interlude\)](https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 1:56 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 75 | [Truth or Dare \(Interlude\)](https://open.spotify.com/track/5OVOuE9dQ4BLM3A6jzjf9o) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 1:22 |
 | 76 | [I Tried \(Interlude\)](https://open.spotify.com/track/3sCc3U2W4Nj2aqzmHJr7BI) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 2:04 |
 
-Snapshot ID: `MTY3MDA0NTM1NiwwMDAwMDAwMGY1Y2YwZDk0NzBlZTQ5NzBlZWY3YjI3OTY2MmQxYTQ3`
+Snapshot ID: `MTY3MDA0NTM1NiwwMDAwMDAwMGU3NjI2MTc1NGJmMjdlNjViOWVlYTU4NzZhNzE3MTY3`

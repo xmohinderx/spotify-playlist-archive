@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,906 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,910 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 49 | [De Corazon Ranchero](https://open.spotify.com/track/4nARb8o7ElcHDrAoeVj6K8) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 3:03 |
 | 50 | [Diamante Negro](https://open.spotify.com/track/0ceiWUkNNYVmF1uzkGyj3H) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mas Llegadoras](https://open.spotify.com/album/4AFzIdSy43aJ2Hk26O9MS7) | 3:15 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDBiOTI1Y2M4ZjIxYzhlMDI3MDhjMDgyZjdhNWZhYjMwYg==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDAwNDFjY2E0Y2RjYzQyZDBlOGFkZTMxNmNkNzI3NTczOA==`

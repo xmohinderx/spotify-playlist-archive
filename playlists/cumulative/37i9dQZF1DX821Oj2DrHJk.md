@@ -4,7 +4,7 @@
 
 > Rock that was on repeat during the summers of the 1970s.
 
-154 songs - 11 hr 1 min
+155 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Angie \- Remastered](https://open.spotify.com/track/5FQdAbZKZWwgeWTqTFVVMo) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Made In The Shade](https://open.spotify.com/album/2IP71ETmY8bjS3VYYXcidI) | 4:31 | 2021-04-09 |  |
 | [Back In the Saddle](https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 4:40 | 2021-04-09 | 2023-01-13 |
 | [Back In the Saddle](https://open.spotify.com/track/3WPYapjyqcVpShYXQuChcs) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP) | 4:40 | 2021-04-09 |  |
-| [Bad Bad Boy](https://open.spotify.com/track/0UIpa8py2QChTdE1KB4yKa) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Razamanaz](https://open.spotify.com/album/0qdXvUUZQ8kUaNDFdEit90) | 3:57 | 2021-04-09 |  |
+| [Bad Bad Boy](https://open.spotify.com/track/0UIpa8py2QChTdE1KB4yKa) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Razamanaz](https://open.spotify.com/album/0qdXvUUZQ8kUaNDFdEit90) | 3:57 | 2021-04-09 | 2023-02-20 |
 | [Bad Bad Boy](https://open.spotify.com/track/3w5sVhdCNzQyCx0aANMMmD) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Razamanaz](https://open.spotify.com/album/19kMBEeYJUwXUI92KPCGeg) | 3:58 | 2021-04-09 | 2022-07-29 |
 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2021-04-09 |  |
 | [Bang a Gong \(Get It On\)](https://open.spotify.com/track/0ayyOT6Qf86os2BkVfH7kO) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Bang a Gong \(Get It On\) / Raw Ramp \[45 Version\]](https://open.spotify.com/album/4r3r9eOPhjXVMTIEvNGw8N) | 4:24 | 2021-04-09 | 2022-11-14 |
@@ -58,6 +58,7 @@
 | [Give Me Love \(Give Me Peace On Earth\)](https://open.spotify.com/track/0UkZexeWaFY7geHlCLqjQR) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living In The Material World \(Remastered\)](https://open.spotify.com/album/7be23wKM6wpduQKzbCcvH3) | 3:35 | 2021-04-09 | 2022-07-29 |
 | [Give Me Love \(Give Me Peace On Earth\)](https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living In The Material World \(Remastered\)](https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg) | 3:35 | 2021-04-09 | 2023-02-19 |
 | [Give Me Love \(Give Me Peace On Earth\) \- 2009 Mix](https://open.spotify.com/track/09VtDFWlxC9v9tyRnmpGPl) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Let It Roll \- Songs Of George Harrison](https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU) | 3:35 | 2021-04-09 | 2022-11-14 |
+| [Give Me Love \(Give Me Peace on Earth\) \- 2014 Remaster](https://open.spotify.com/track/71fXxvXqo1zxWDtBmjoEVk) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living in the Material World \(2014 Remaster\)](https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os) | 3:35 | 2022-11-17 |  |
 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:43 | 2021-04-09 |  |
 | [Good Old\-Fashioned Lover Boy \- Remastered 2011](https://open.spotify.com/track/1mnQiO568zXIrUncttTZGp) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Remastered Version\)](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) | 2:53 | 2021-04-09 |  |
 | [Good Old\-Fashioned Lover Boy \- Remastered 2011](https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 2:53 | 2021-04-09 | 2022-07-21 |

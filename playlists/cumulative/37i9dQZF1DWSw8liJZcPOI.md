@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-399 songs - 1 day 4 hr 5 min
+400 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [External Cephalic Version](https://open.spotify.com/track/4ss1mW6G2J0GFaKh4UV69l) | [Koki Nakano](https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE) | [External Cephalic Version](https://open.spotify.com/album/6MX0I3mt0cqM9aD9mdrLXD) | 3:38 | 2022-03-25 | 2022-04-20 |
 | [Eyes Closed And Traveling](https://open.spotify.com/track/0e6LTSh5p4F548NMY7bQVn) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Eyes Closed And Traveling](https://open.spotify.com/album/6kzSi2DczQjVc9ABiKoYJP) | 3:39 | 2021-02-24 | 2022-04-20 |
 | [Eyes Closed And Traveling](https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Eyes Closed And Traveling](https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb) | 3:39 | 2022-07-22 |  |
+| [fable](https://open.spotify.com/track/2x4JUfTNw6Ht4lUxtAS0OP) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [fable](https://open.spotify.com/album/0PgDvzkzNQ54WDXqmaGgmv) | 2:29 | 2023-02-17 |  |
 | [Fairytail](https://open.spotify.com/track/05gpQCSjj80MvJtRbAz8Th) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Fairytail](https://open.spotify.com/album/7CqBWefDxohyKsKdP50e1I) | 2:50 | 2020-10-21 | 2022-07-29 |
 | [Fight to Make It Up](https://open.spotify.com/track/7urVuBvdhiOpWGiWX81iXe) | [Takénobu](https://open.spotify.com/artist/0gnKKarIUyBnDcORsbOdeY) | [Conclusion](https://open.spotify.com/album/2vxiffHHOTPAbhRiAn44B8) | 5:42 | 2020-10-20\* | 2022-05-12 |
 | [Final Parade](https://open.spotify.com/track/0GP4AxKX6DvTOuTZI0s1p6) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Mya](https://open.spotify.com/album/7oyU81vvHM7QOb5zty1fc3) | 2:23 | 2020-10-21 | 2021-01-15 |
@@ -144,7 +145,7 @@
 | [Footsteps](https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Anna De Bruin](https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4) | [Footsteps](https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ) | 3:09 | 2020-10-20\* | 2022-06-29 |
 | [For Mark](https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [For Mark](https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c) | 5:09 | 2022-03-04 | 2023-01-27 |
 | [For Now I Am Winter \- Nils Frahm Rework](https://open.spotify.com/track/6XfYMFnnwPZasthiS7ph3g) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Arnór Dan](https://open.spotify.com/artist/6LnEuWyi5kVOZ4aLqnD1Qo), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [For Now I Am Winter \(Nils Frahm Rework\)](https://open.spotify.com/album/3gxFx3lf6a5xzxIDFkyG20) | 4:10 | 2020-10-20\* | 2022-06-05 |
-| [For You](https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7) | [Matteo de Grandis](https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce) | [For You](https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O) | 3:21 | 2020-10-21 |  |
+| [For You](https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7) | [Matteo de Grandis](https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce) | [For You](https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O) | 3:21 | 2020-10-21 | 2023-02-20 |
 | [Forest Path](https://open.spotify.com/track/0lAdbtwKnf92FXD5p5N03h) | [Damjan Krajacic](https://open.spotify.com/artist/48XnG6WkLWkpww5oIJib0X), [Robert Thies](https://open.spotify.com/artist/3JGu3awfnadacdeNLJ9AfI) | [Blue Landscapes III: Frontiers \(Music from a Quieter Place\)](https://open.spotify.com/album/0xTXEf18BW9CQ5VxZjVj6e) | 6:54 | 2020-10-20\* | 2022-07-27 |
 | [Fredag](https://open.spotify.com/track/0maSnp4yKgYgbRfPvNvxud) | [Søndag Søndag](https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H) | [Fredag](https://open.spotify.com/album/1o3P9viqum7MErNHVLhjk2) | 3:02 | 2020-10-21 | 2022-07-19 |
 | [Friedland \(feat\. Esther Abrami\)](https://open.spotify.com/track/2Y6vlUuLHn7ehTd3wQPuJG) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6), [Steingrímur Þórhallsson](https://open.spotify.com/artist/1vGyNDrxMTRpuQgDzrOFft), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [SinfoniaNord](https://open.spotify.com/artist/2wyAa4WC10hLoq4ye80EUd) | [Friedland \(feat\. Esther Abrami\)](https://open.spotify.com/album/7BBPKJLBtxrMedyU8NCOzf) | 3:56 | 2021-02-23 | 2022-04-18 |

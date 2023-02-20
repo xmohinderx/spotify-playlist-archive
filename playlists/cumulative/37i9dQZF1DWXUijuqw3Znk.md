@@ -4,7 +4,7 @@
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-341 songs - 19 hr 57 min
+342 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [6 feet](https://open.spotify.com/track/2nyBr3DtVGGNaZvq3OUyyr) | [Hippie Kunda](https://open.spotify.com/artist/1E6nM6pTyYrR4XmMnRKoZR) | [6 feet](https://open.spotify.com/album/7Ht1WFvVA834VZ1tyt2De5) | 3:40 | 2022-06-03 | 2022-07-28 |
 | [A SOLITARY MAN](https://open.spotify.com/track/3kCnWwL7H4HNxSOV2CwBCa) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [A SOLITARY MAN](https://open.spotify.com/album/1qFLsgIIgQ46hwoCnutc3P) | 3:07 | 2022-05-11 | 2022-07-29 |
 | [A.O.M.G.](https://open.spotify.com/track/78eSaVjwrDs5dLoQKcb1KS) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 2:41 | 2022-05-11 | 2023-02-10 |
+| [A.O.M.G.](https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 2:42 | 2023-02-14 |  |
 | [Acceptance Speech \(Feat\. B.I\)](https://open.spotify.com/track/07jvrbj5MwSRSzzkwrDQ3l) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu) | 3:16 | 2022-07-22 |  |
 | [AEAO](https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8) | 5:16 | 2022-07-22 |  |
 | [AEAO](https://open.spotify.com/track/7hrlGlLnzusciZyzxwhkn9) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/1CM29NkWfipbcqasYZh0bU) | 5:16 | 2022-06-03 | 2022-07-15 |
@@ -95,7 +96,7 @@
 | [Fair Wind](https://open.spotify.com/track/2ms7j0upec0K7luDsstdBI) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [FLOCC](https://open.spotify.com/album/7dAqulrkYexBBsAAbSEmb4) | 2:38 | 2022-05-11 | 2022-07-28 |
 | [FEELING](https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BREATHE](https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW) | 3:08 | 2022-05-11 | 2022-07-28 |
 | [FIREWORKS](https://open.spotify.com/track/6QBy66P7M5zzetwg4ut6iw) | [IndEgo Aid](https://open.spotify.com/artist/5qGemt8SgMneJacS62LXRA), [COKEONSOBER](https://open.spotify.com/artist/2wg8fxRqlaJxAL97oqvXVz) | [EVP : Earth Venturing Poetry](https://open.spotify.com/album/0RTZlNxjj7lwrgjqod3b1G) | 3:14 | 2022-05-11 | 2022-07-29 |
-| [First Rollie \(feat\. Seori\)](https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [First Rollie](https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A) | 3:19 | 2022-05-11 |  |
+| [First Rollie \(feat\. Seori\)](https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [First Rollie](https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A) | 3:19 | 2022-05-11 | 2023-02-20 |
 | [Flashing \(Feat\. HanYoHan, OLNL\)](https://open.spotify.com/track/699iM8x19NFJx0MKsdqkqo) | [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM), [HanYoHan](https://open.spotify.com/artist/5i5QDc9kjQE2DEVfTuu8gb), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:14 | 2022-05-11 | 2023-01-06 |
 | [Flex Forever](https://open.spotify.com/track/6jvr4hLUk5sDSuC5hyWZEq) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Flex Forever](https://open.spotify.com/album/3ZkvR9Ma1eAh8E9IuVPsQm) | 3:19 | 2022-05-11 | 2022-07-21 |
 | [Flip](https://open.spotify.com/track/2wCgfAzLWEo390ngYq6S9s) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Good Time For The Team](https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw) | 3:31 | 2022-05-11 | 2022-07-28 |

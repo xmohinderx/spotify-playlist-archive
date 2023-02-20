@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1801937,
+  "num_followers": 1801973,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDc4YWYzNWU3NTg0NjMxYThmNzIwNTYyMTk0ZWUzM2M5",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGQyZTkwNzU5NDFjNDlkMmY1MDFhZjhkNzYyMGM5ODM1",
   "tracks": [
     {
       "added_at": "2023-01-18 17:20:30",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "To the Mountains",
-      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Part Of The Light",
         "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 296386,
       "name": "Such A Simple Thing",
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "To the Mountains",
+      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Work Out",
-        "url": "https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 291776,
-      "name": "Work Out",
-      "url": "https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Slow Reveal: Chapter One",
         "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "River Fools & Mountain Saints",
-        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+        "name": "Work Out",
+        "url": "https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h"
       },
       "artists": [
         {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
         }
       ],
-      "duration_ms": 193080,
-      "name": "Tom Barrett",
-      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+      "duration_ms": 291776,
+      "name": "Work Out",
+      "url": "https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -539,6 +523,22 @@
       "duration_ms": 229773,
       "name": "BRIGHTSIDE",
       "url": "https://open.spotify.com/track/55yQgka1wuEeSmrpW8NeG2"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -607,6 +607,26 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
+        "name": "Notes from the Archive: Recordings 2011-2016",
+        "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        },
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 382613,
+      "name": "New Song",
+      "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
         "name": "Bonny Light Horseman",
         "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
       },
@@ -635,22 +655,18 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Notes from the Archive: Recordings 2011-2016",
-        "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        },
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
         }
       ],
-      "duration_ms": 382613,
-      "name": "New Song",
-      "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -675,22 +691,6 @@
       "duration_ms": 255533,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -727,6 +727,22 @@
       "duration_ms": 147853,
       "name": "white lies",
       "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -775,22 +791,6 @@
       "duration_ms": 253848,
       "name": "The Breach",
       "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Forever Turned Around",
-        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
       "artists": [
         {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 236453,
-      "name": "Valleys (My Love)",
-      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1031,18 +1031,34 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+        "name": "Forever Turned Around",
+        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
         }
       ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+      "duration_ms": 236453,
+      "name": "Valleys (My Love)",
+      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1079,34 +1095,18 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+        "name": "My Finest Work Yet",
+        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
         }
       ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
-        "name": "What Is There",
-        "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
-      },
-      "artists": [
-        {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "It Ain\u2019t Easy",
-      "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
+      "duration_ms": 317413,
+      "name": "Manifest",
+      "url": "https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "My Finest Work Yet",
-        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
+        "name": "What Is There",
+        "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
         }
       ],
-      "duration_ms": 317413,
-      "name": "Manifest",
-      "url": "https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG"
+      "duration_ms": 200946,
+      "name": "It Ain\u2019t Easy",
+      "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Projections",
-        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
-      },
-      "artists": [
-        {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
-        }
-      ],
-      "duration_ms": 149422,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 219782,
       "name": "Slide Tackle",
       "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Projections",
+        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 149422,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Santa Barbara",
-        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Santa Barbara",
-      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 277093,
       "name": "Run It",
       "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Santa Barbara",
+        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Santa Barbara",
+      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
+        "name": "Peace Or Love",
+        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 210377,
+      "name": "Rocky Trail",
+      "url": "https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
       },
@@ -1431,26 +1447,6 @@
       "duration_ms": 194053,
       "name": "October Sky",
       "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
-        "name": "Pressure Machine (Abridged)",
-        "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
-      "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1471,18 +1467,22 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Peace Or Love",
-        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
+        "name": "Pressure Machine (Abridged)",
+        "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
       "artists": [
         {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 210377,
-      "name": "Rocky Trail",
-      "url": "https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW"
+      "duration_ms": 204466,
+      "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
+      "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Up Granville",
-        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 230747,
-      "name": "Up Granville",
-      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "So Unimportant",
         "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 263320,
       "name": "So Unimportant",
       "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Up Granville",
+        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 230747,
+      "name": "Up Granville",
+      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Mermaid Salt",
-        "url": "https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD"
+        "name": "Holy Smokes Future Jokes",
+        "url": "https://open.spotify.com/album/10D5ke3EYdoFD89zQZjjVc"
       },
       "artists": [
         {
-          "name": "John Craigie",
-          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
         }
       ],
-      "duration_ms": 335859,
-      "name": "Microdose",
-      "url": "https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v"
+      "duration_ms": 213525,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/1H669K2zLp8ombaLNTCi96"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Show Up",
-        "url": "https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY"
+        "name": "Mermaid Salt",
+        "url": "https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD"
       },
       "artists": [
         {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+          "name": "John Craigie",
+          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
         }
       ],
-      "duration_ms": 201053,
-      "name": "Show Up",
-      "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
+      "duration_ms": 335859,
+      "name": "Microdose",
+      "url": "https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

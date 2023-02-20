@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Drugdealer",
-  "num_followers": 394272,
+  "num_followers": 394347,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGM1MjA1ODdmYTMwM2UyNzhlMjNjYjE3NWZiOTU0YWIz",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGI0YjIwMDc5NjM4MTBjODc4MjgzNTI1ZTgyNjRhMzQy",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -323,22 +323,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "A Pillar of Salt",
-        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
       },
       "artists": [
         {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 319053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -359,34 +355,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+        "name": "A Pillar of Salt",
+        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "My Ego Dies At The End",
-        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
-      },
-      "artists": [
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        },
         {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+      "duration_ms": 319053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -403,6 +387,22 @@
       "duration_ms": 238613,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Note to Self",
-        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
       },
       "artists": [
         {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 242266,
-      "name": "Nothing Compares",
-      "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+        "name": "Note to Self",
+        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
         }
       ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
+      "duration_ms": 242266,
+      "name": "Nothing Compares",
+      "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Old Bone / Trust No Man",
-        "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "Old Bone",
-      "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 295546,
       "name": "Nightflyer",
       "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Old Bone / Trust No Man",
+        "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Old Bone",
+      "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "What A Day - Edit",
+      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "What A Day - Edit",
-      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Best Day Of My Life",
+        "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 146895,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Home Video",
         "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Best Day Of My Life",
-        "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 146895,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "PAINLESS",
         "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
       },
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Filming School",
+        "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
+      },
+      "artists": [
+        {
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Filming School",
+      "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Shadowglow",
         "url": "https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 233533,
       "name": "Hear It Again",
       "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Filming School",
-        "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
-      },
-      "artists": [
-        {
-          "name": "Sidney Gish",
-          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
-        }
-      ],
-      "duration_ms": 190746,
-      "name": "Filming School",
-      "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "Can\u2019t Do Much",
+      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Love Factory",
         "url": "https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 319777,
       "name": "Love Factory",
       "url": "https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "Can\u2019t Do Much",
-      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 218740,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "LIFE ON EARTH",
         "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 271206,
       "name": "Rae Street",
       "url": "https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 218740,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1999,26 +1999,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Deli Daydreams",
-        "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
-      },
-      "artists": [
-        {
-          "name": "Kojaque",
-          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
-        },
-        {
-          "name": "Kean Kavanagh",
-          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
-        }
-      ],
-      "duration_ms": 294296,
-      "name": "Eviction Notice",
-      "url": "https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Spin It Faster",
         "url": "https://open.spotify.com/album/1T6SLtqelpeRnPQAG2ehKI"
       },
@@ -2035,6 +2015,26 @@
       "duration_ms": 236217,
       "name": "Spin It Faster",
       "url": "https://open.spotify.com/track/65kIGQ8TIXVLKxcZahctVO"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Deli Daydreams",
+        "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
+      },
+      "artists": [
+        {
+          "name": "Kojaque",
+          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
+        },
+        {
+          "name": "Kean Kavanagh",
+          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
+        }
+      ],
+      "duration_ms": 294296,
+      "name": "Eviction Notice",
+      "url": "https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Satan / Jacob Rose",
-        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 196264,
-      "name": "Satan",
-      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Fever Breaks",
         "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 286440,
       "name": "Old Black Magic",
       "url": "https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Satan / Jacob Rose",
+        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 196264,
+      "name": "Satan",
+      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 236813,
-      "name": "Lose This Number",
-      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Turn Off The News (Build A Garden)",
         "url": "https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 181349,
       "name": "Turn Off The News (Build A Garden) - Acoustic",
       "url": "https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 236813,
+      "name": "Lose This Number",
+      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Quitters",
+        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 208911,
+      "name": "Rubberneckers",
+      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Latch",
         "url": "https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi"
       },
@@ -2303,22 +2319,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Quitters",
-        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 208911,
-      "name": "Rubberneckers",
-      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Begin Again - EP",
         "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
       },
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Dublin, Texas",
-        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
-      },
-      "artists": [
-        {
-          "name": "RF Shannon",
-          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
-        }
-      ],
-      "duration_ms": 269286,
-      "name": "Dublin, Texas",
-      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Marika Hackman (7 Layers Session)",
         "url": "https://open.spotify.com/album/2k2FmxjLCxOp5bTZoPRVlm"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 116040,
       "name": "Cigarette - 7 Layers Session",
       "url": "https://open.spotify.com/track/6bOq0IV8aehkfePJOnqUK2"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Dublin, Texas",
+        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
+      },
+      "artists": [
+        {
+          "name": "RF Shannon",
+          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
+        }
+      ],
+      "duration_ms": 269286,
+      "name": "Dublin, Texas",
+      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
     },
     {
       "added_at": "2023-02-10 05:00:00",

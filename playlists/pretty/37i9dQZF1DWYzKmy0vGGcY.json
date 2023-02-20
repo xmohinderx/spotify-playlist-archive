@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 220463,
+  "num_followers": 220678,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk1ODU0OSwwMDAwMDAwMGFjYzRmZjUwZWI2N2I2NWNiZmE1YWQwYjczYzE0NDQw",
+  "snapshot_id": "MTY2Mjk1ODU0OSwwMDAwMDAwMDlhYmI3NjhkZTE5ZGMyOGY1MjQ4ZmQ2YzI4MTc3YzM3",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -191,18 +191,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 156653,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -223,18 +223,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Music From Big Pink (Remastered)",
-        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
       },
       "artists": [
         {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 274493,
-      "name": "The Weight - Remastered 2000",
-      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
+      "duration_ms": 156653,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The Voice of Scott McKenzie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ"
+      },
+      "artists": [
+        {
+          "name": "Scott McKenzie",
+          "url": "https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "San Francisco (Be Sure to Wear Some Flowers In Your Hair)",
+      "url": "https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Platinum - A Life In Music",
         "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Voice of Scott McKenzie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ"
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/2CqXO4zgYnv1KwiFiDAw1u"
       },
       "artists": [
         {
-          "name": "Scott McKenzie",
-          "url": "https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO"
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
         }
       ],
-      "duration_ms": 178933,
-      "name": "San Francisco (Be Sure to Wear Some Flowers In Your Hair)",
-      "url": "https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX"
+      "duration_ms": 113066,
+      "name": "(Ummmm, Oh Yeah) Dearest",
+      "url": "https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1135,22 +1151,6 @@
       "duration_ms": 157960,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/2CqXO4zgYnv1KwiFiDAw1u"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 113066,
-      "name": "(Ummmm, Oh Yeah) Dearest",
-      "url": "https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "A Date with The Everly Brothers",
-        "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "Love Hurts - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
         "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 158613,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/6VqVieqjDEwS3mByMq4OzB"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "A Date with The Everly Brothers",
+        "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 142306,
+      "name": "Love Hurts - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "A Date with The Everly Brothers",
-        "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 145933,
-      "name": "Cathy's Clown - 2007 Remaster",
-      "url": "https://open.spotify.com/track/27bw4i8LnECzVlbMZ4kFHw"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Kitty Kallen's Coloring Book",
         "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 176400,
       "name": "Wishin' And Hopin'",
       "url": "https://open.spotify.com/track/1UBcwKIAUHo7BYAvae6yeA"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "A Date with The Everly Brothers",
+        "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 145933,
+      "name": "Cathy's Clown - 2007 Remaster",
+      "url": "https://open.spotify.com/track/27bw4i8LnECzVlbMZ4kFHw"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "A Valentine For You",
+        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 127186,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Ooo Baby Baby: The Anthlogy",
-        "url": "https://open.spotify.com/album/7iNG3yfard0TYDWKTFC6qr"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "You've Really Got A Hold On Me",
-      "url": "https://open.spotify.com/track/1vG906bxMqUVufJoLSF4rV"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Bobby Vee",
         "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 149973,
       "name": "More Than I Can Say",
       "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Ooo Baby Baby: The Anthlogy",
+        "url": "https://open.spotify.com/album/7iNG3yfard0TYDWKTFC6qr"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "You've Really Got A Hold On Me",
+      "url": "https://open.spotify.com/track/1vG906bxMqUVufJoLSF4rV"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1643,22 +1659,6 @@
       "duration_ms": 160026,
       "name": "You'll Never Walk Alone",
       "url": "https://open.spotify.com/track/3nxEmpFc1R0kiDrULNkSaf"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "A Valentine For You",
-        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 127186,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Take It Easy With The Walker Brothers",
         "url": "https://open.spotify.com/album/5093E69Qt7j5Pv49zaEbhr"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 189373,
       "name": "If I Can Dream - Stereo Mix",
       "url": "https://open.spotify.com/track/1UFC110Pt7YQsgeDbmllyx"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
     },
     {
       "added_at": "2022-05-30 13:00:37",

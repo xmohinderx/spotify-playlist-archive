@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,564 likes - 44 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,567 likes - 43 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 39 | [Sour Grapes](https://open.spotify.com/track/2aiuhCouDKhPW8Oj6JYbq6) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Somery](https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe) | 3:49 |
 | 40 | [On You](https://open.spotify.com/track/1Gha0zNTNKm25CQJaiCyHN) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Suffrage](https://open.spotify.com/album/3SMJ9cTpoekr5svjB0AcK9) | 2:22 |
 | 41 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 |
-| 42 | [Wendy](https://open.spotify.com/track/09zb1vmjubFswa5uUeCn58) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy!](https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg) | 2:19 |
-| 43 | [Get The Time](https://open.spotify.com/track/1R6D0Njkrf530VBgCKY9Lj) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Somery](https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe) | 3:13 |
-| 44 | [It's A Hectic World](https://open.spotify.com/track/1wwJvz8aqieLQc8tZvYIX9) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:37 |
+| 42 | [Get The Time](https://open.spotify.com/track/1R6D0Njkrf530VBgCKY9Lj) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Somery](https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe) | 3:13 |
+| 43 | [It's A Hectic World](https://open.spotify.com/track/1wwJvz8aqieLQc8tZvYIX9) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:37 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDA4ZjZmZTQyNThiZTQzMzY0NTg5YTA0OWFiY2U1YjJjOQ==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDA3MmRjNWViOGYyYTBlZjBhZjliNDA4NjI5ZmUwM2FhMQ==`

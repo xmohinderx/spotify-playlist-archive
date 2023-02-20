@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-255 songs - 21 hr 33 min
+256 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Rainy Night House](https://open.spotify.com/track/1D3IkH8577BH4Erx2vHYUu) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 6:30 | 2022-05-18 | 2022-11-11 |
 | [Re: Person I Knew](https://open.spotify.com/track/3V33ldRN2gRQyzojTwjlWP) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 5:43 | 2022-05-18 | 2022-06-23 |
 | [Remembrance](https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Remembrance](https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ) | 4:04 | 2022-11-10 |  |
+| [Riddles](https://open.spotify.com/track/4Fsh2vQydc0fJCxCA3DYJD) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Riddles](https://open.spotify.com/album/3ohPksjl6oWAF2NkM9p0Q2) | 3:53 | 2023-02-12 |  |
 | [Rise Again](https://open.spotify.com/track/278NmaKNQjLEF3sNyEzcSN) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Rise Again](https://open.spotify.com/album/7b4UPV5j802exbvqWNoSgq) | 4:59 | 2022-11-10 | 2023-02-10 |
 | [Rubicon](https://open.spotify.com/track/2ZkAAVVr0wuSN0pYdXBGmI) | [Spiral TRIO](https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f) | [Broken Blue](https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX) | 6:10 | 2022-05-18 | 2023-01-20 |
 | [Sad Story](https://open.spotify.com/track/6DK6hcOB6iCaXH3Bc8TqWb) | [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw) | [Sad Story](https://open.spotify.com/album/7EozYiaqWtSWnQ1l0gaqVH) | 5:30 | 2022-08-26 | 2022-10-27 |
@@ -204,7 +205,7 @@
 | [Something To Remember You By](https://open.spotify.com/track/4bkvCWSHI5vKDyfS8ujpa0) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 7:11 | 2022-05-18 | 2022-09-23 |
 | [Sorrowful](https://open.spotify.com/track/3Kg8e71569ZAoUwXYugyej) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Sorrowful](https://open.spotify.com/album/7HLOybEIWiqCiEZNVCP0vk) | 3:28 | 2022-11-10 |  |
 | [Spartacus Love Theme](https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 7:53 | 2022-05-18 | 2023-01-22 |
-| [Speak Low](https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 5:16 | 2022-05-18 |  |
+| [Speak Low](https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 5:16 | 2022-05-18 | 2023-02-20 |
 | [Spring Will Be A Little Late This Year](https://open.spotify.com/track/0vTF65diZnYgBD6fHKklAG) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Hello Love](https://open.spotify.com/album/2W0aI00N2KZJyRpGqD8cMn) | 3:17 | 2022-05-18 | 2022-08-18 |
 | [Star\-Crossed Lovers](https://open.spotify.com/track/390r0C8H4XIoKtk0kOnbrE) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Encounter!](https://open.spotify.com/album/7DkZ2AIH5OifT32a1HLBK5) | 3:55 | 2022-05-18 | 2022-11-11 |
 | [Stardust](https://open.spotify.com/track/2g1iBv7SXxiXX0IEG4lz2k) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 4:46 | 2022-05-18 |  |

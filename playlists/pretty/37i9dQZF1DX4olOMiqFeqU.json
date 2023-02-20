@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2361117,
+  "num_followers": 2361510,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDAzNDkxNSwwMDAwMDAwMDE0MDhlZmZlNzc2ZmQ0MTY4ZjA5MGMxYjM5ZDZmYjQy",
+  "snapshot_id": "MTY3NDAzNDkxNSwwMDAwMDAwMDYyMTk4MTQ5M2Y2MzM5NGNlNTQ1MDkwZGM0YmIzZTgw",
   "tracks": [
     {
       "added_at": "2023-01-04 06:31:10",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Sa Ngalan Ng Pag-Ibig",
-        "url": "https://open.spotify.com/album/7xconhHQKj7Be4P2KvUmFz"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 285138,
-      "name": "Sa Ngalan Ng Pag-Ibig",
-      "url": "https://open.spotify.com/track/00mBzIWv5gHOYxwuEJXjOG"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
@@ -391,18 +375,18 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Binibini",
-        "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
+        "name": "Sa Ngalan Ng Pag-Ibig",
+        "url": "https://open.spotify.com/album/7xconhHQKj7Be4P2KvUmFz"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Binibini",
-      "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
+      "duration_ms": 285138,
+      "name": "Sa Ngalan Ng Pag-Ibig",
+      "url": "https://open.spotify.com/track/00mBzIWv5gHOYxwuEJXjOG"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -423,18 +407,34 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "G9",
-        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
+        "name": "Binibini",
+        "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
       },
       "artists": [
         {
-          "name": "Gloc 9",
-          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
         }
       ],
-      "duration_ms": 244600,
-      "name": "Simpleng Tao",
-      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
+      "duration_ms": 221538,
+      "name": "Binibini",
+      "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "TJ Monterde",
+        "url": "https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "Dating Tayo",
+      "url": "https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -451,6 +451,22 @@
       "duration_ms": 217197,
       "name": "Maybe The Night",
       "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "G9",
+        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
+      },
+      "artists": [
+        {
+          "name": "Gloc 9",
+          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+        }
+      ],
+      "duration_ms": 244600,
+      "name": "Simpleng Tao",
+      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -483,22 +499,6 @@
       "duration_ms": 289266,
       "name": "Before I Let You Go",
       "url": "https://open.spotify.com/track/220IyLzKO1Y0Gxt4pTU5eZ"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "TJ Monterde",
-        "url": "https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU"
-      },
-      "artists": [
-        {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "Dating Tayo",
-      "url": "https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Thyro & Yumi",
-        "url": "https://open.spotify.com/album/6g8gpmN97Swzy56xwfrFrZ"
-      },
-      "artists": [
-        {
-          "name": "Thyro",
-          "url": "https://open.spotify.com/artist/4VkqlQl3hGhxjchI34xp2V"
-        },
-        {
-          "name": "Yumi",
-          "url": "https://open.spotify.com/artist/1O5apWv8xRb6YbHu7E0Tu6"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Kiss - Never Let Me Go",
-      "url": "https://open.spotify.com/track/1oHVl77komlcWVa5XzJ1rU"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
         "name": "Titig",
         "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 255608,
       "name": "Maybe This Time - From \"Maybe This Time\"",
       "url": "https://open.spotify.com/track/0Dljpp52vCmtXi0E94qjfo"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Thyro & Yumi",
+        "url": "https://open.spotify.com/album/6g8gpmN97Swzy56xwfrFrZ"
+      },
+      "artists": [
+        {
+          "name": "Thyro",
+          "url": "https://open.spotify.com/artist/4VkqlQl3hGhxjchI34xp2V"
+        },
+        {
+          "name": "Yumi",
+          "url": "https://open.spotify.com/artist/1O5apWv8xRb6YbHu7E0Tu6"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Kiss - Never Let Me Go",
+      "url": "https://open.spotify.com/track/1oHVl77komlcWVa5XzJ1rU"
     },
     {
       "added_at": "2023-01-04 06:31:10",

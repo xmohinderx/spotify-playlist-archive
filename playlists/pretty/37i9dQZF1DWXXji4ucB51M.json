@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 105331,
+  "num_followers": 105328,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMDU5YWY2ZWU4OTAwODQ2YzhkYmY2MzEyNTliYjRlZTM1",
+  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMDU3NGUwOWM4YjI3Nzk0OTQ4NjdjNmFhMzc2OTM3OTA3",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -127,22 +127,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "you broke me first",
-        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 169265,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 202192,
       "name": "Doin' Time",
       "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 169265,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -311,22 +311,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 139741,
-      "name": "WHATS POPPIN",
-      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Sweet Action",
+        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 139741,
+      "name": "WHATS POPPIN",
+      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 243725,
-      "name": "xanny",
-      "url": "https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 205158,
       "name": "bloody valentine",
       "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 243725,
+      "name": "xanny",
+      "url": "https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 163861,
+      "name": "strawberry lipstick",
+      "url": "https://open.spotify.com/track/75ELnvpSiymLZVmYvqyvZJ"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
         "name": "Honey Boo",
         "url": "https://open.spotify.com/album/2MtqE42Ibi1CWWiyMRb8rr"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 206986,
       "name": "Honey Boo",
       "url": "https://open.spotify.com/track/0P0UtGDZpUMWoFCuDTn78K"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 163861,
-      "name": "strawberry lipstick",
-      "url": "https://open.spotify.com/track/75ELnvpSiymLZVmYvqyvZJ"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Orphans / Arabesque",
-        "url": "https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Orphans",
-      "url": "https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 223994,
       "name": "Some Kind of Disaster",
       "url": "https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Orphans / Arabesque",
+        "url": "https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Orphans",
+      "url": "https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR"
     },
     {
       "added_at": "2020-08-24 22:19:29",

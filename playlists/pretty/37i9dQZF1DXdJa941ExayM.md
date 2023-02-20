@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: Hak Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,154 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,181 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 35 | [Silly Boy](https://open.spotify.com/track/6dVCwIlxXWjyOumob05IPQ) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [MEN](https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1) | 3:18 |
 | 36 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 |
 | 37 | [Problem](https://open.spotify.com/track/0LYvntdyZiGuy6HvFp2kHF) | [FRND](https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Problem](https://open.spotify.com/album/69vgQKuL4alaiEshd7my6c) | 2:57 |
-| 38 | [Loverman](https://open.spotify.com/track/5zxqk9zM1cQ0PFz0fB031o) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Between the Richness](https://open.spotify.com/album/64nJrI2yp3eCST6qjNAgPG) | 2:13 |
-| 39 | [City](https://open.spotify.com/track/4lUWT0HdlZAOmy5fOJoIyO) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Please Don't Think About Tomorrow](https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U) | 3:03 |
+| 38 | [City](https://open.spotify.com/track/4lUWT0HdlZAOmy5fOJoIyO) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Please Don't Think About Tomorrow](https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U) | 3:03 |
+| 39 | [Loverman](https://open.spotify.com/track/5zxqk9zM1cQ0PFz0fB031o) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Between the Richness](https://open.spotify.com/album/64nJrI2yp3eCST6qjNAgPG) | 2:13 |
 | 40 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 |
 | 41 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 |
 | 42 | [Death of Me](https://open.spotify.com/track/3gKLO2vWVrUkFFCMgajasU) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Death of Me](https://open.spotify.com/album/0WWf5T9BGaeNOAnZWTdm74) | 2:40 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 69 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 |
 | 70 | [TEEN POP SENSATION](https://open.spotify.com/track/01BgUiNgDvBfwDizRm4qnp) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [just in case the world ends \(deluxe edition\)](https://open.spotify.com/album/4IML4pQ6aDgViRY1RW139y) | 2:14 |
 | 71 | [MINE](https://open.spotify.com/track/1OuUogTZKcuAmLgS6FbDRv) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [MINE](https://open.spotify.com/album/71bI5cpUU3oudowoIkoGwU) | 2:02 |
-| 72 | [for a reason](https://open.spotify.com/track/10pjqdHFr1ZjO5nrU6Crwz) | [plxntkid](https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY) | [for a reason](https://open.spotify.com/album/3kZ0FQQ6Wi46hp6TKDT389) | 2:15 |
-| 73 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
+| 72 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
+| 73 | [for a reason](https://open.spotify.com/track/10pjqdHFr1ZjO5nrU6Crwz) | [plxntkid](https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY) | [for a reason](https://open.spotify.com/album/3kZ0FQQ6Wi46hp6TKDT389) | 2:15 |
 | 74 | [i wanna bite your face](https://open.spotify.com/track/0TmhK8MuZrWow9HUp6fH5c) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [grim value](https://open.spotify.com/album/63se1zqIgvcKzzOfqIbR8m) | 2:26 |
-| 75 | [NYAMA](https://open.spotify.com/track/7unmH3frGOaKtko1tRnZGV) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [HIS HAPPINESS SHALL COME FIRST EVEN THOUGH WE ARE SUFFERING](https://open.spotify.com/album/3hcIiisDhA18vwTG7ZDvqL) | 4:22 |
-| 76 | [New Slang](https://open.spotify.com/track/1sRjSllwLDh0xHgZCywXmf) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/album/2LAC5rux87C29bv8vuhEgj) | 4:15 |
+| 75 | [New Slang](https://open.spotify.com/track/1sRjSllwLDh0xHgZCywXmf) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/album/2LAC5rux87C29bv8vuhEgj) | 4:15 |
+| 76 | [NYAMA](https://open.spotify.com/track/7unmH3frGOaKtko1tRnZGV) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [HIS HAPPINESS SHALL COME FIRST EVEN THOUGH WE ARE SUFFERING](https://open.spotify.com/album/3hcIiisDhA18vwTG7ZDvqL) | 4:22 |
 | 77 | [Ann](https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Ann](https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM) | 4:04 |
 | 78 | [FAMOUS ON THE INTERNET](https://open.spotify.com/track/2Bv5kb0dgXjWMu0kujn0TD) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO) | [FAMOUS ON THE INTERNET](https://open.spotify.com/album/4SKKceJCjDXlUx8NG3UHHG) | 2:54 |
-| 79 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 |
-| 80 | [Idgaf](https://open.spotify.com/track/3GrYhvHbnMhp2CQFSU4Qeb) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Overcast](https://open.spotify.com/album/2fSq9tYVZHxi3lxub36rdA) | 2:45 |
+| 79 | [Idgaf](https://open.spotify.com/track/3GrYhvHbnMhp2CQFSU4Qeb) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Overcast](https://open.spotify.com/album/2fSq9tYVZHxi3lxub36rdA) | 2:45 |
+| 80 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 |
 
-Snapshot ID: `MTY3NjU5MjAwMCwwMDAwMDAwMDlkNTQ5Yzk2MzUyYzczNjQ4MzU2MTdiYzJlYTA2M2E0`
+Snapshot ID: `MTY3NjU5MjAwMCwwMDAwMDAwMGViOGE1OTI0ZmU5ODdkOTQ5MmU5MjNmY2QzZDZkYzdj`

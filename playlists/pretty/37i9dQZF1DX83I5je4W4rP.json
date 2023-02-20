@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1032650,
+  "num_followers": 1032707,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxNTAxOSwwMDAwMDAwMDk5YWY5ZGU2ZTA5NGRmNDQyNzBhNzk3Y2RmNjFjZTZh",
+  "snapshot_id": "MTY2ODcxNTAxOSwwMDAwMDAwMDA0ZThiNTYxOGM2YjhhMDc0MmFhNjRhZjk5NWJhM2U2",
   "tracks": [
     {
       "added_at": "2022-11-17 19:56:59",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-11-17 19:56:59",
       "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 231976,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
+    },
+    {
+      "added_at": "2022-11-17 19:56:59",
+      "album": {
         "name": "Vacation (feat. Train)",
         "url": "https://open.spotify.com/album/7FXwebLa343kucZmU9WVW0"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 212937,
       "name": "Vacation (feat. Train)",
       "url": "https://open.spotify.com/track/1vBRiaOSTr7IJlAeky4JX3"
-    },
-    {
-      "added_at": "2022-11-17 19:56:59",
-      "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 231976,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
     },
     {
       "added_at": "2022-11-17 19:56:59",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-11-17 19:56:59",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 203912,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K"
-    },
-    {
-      "added_at": "2022-11-17 19:56:59",
-      "album": {
         "name": "Rage (feat. Travis Barker and Aimee Interrupter of The Interrupters)",
         "url": "https://open.spotify.com/album/00HwTxnfnfF0OVuXeOhJCZ"
       },
@@ -1155,18 +1139,34 @@
     {
       "added_at": "2022-11-17 19:56:59",
       "album": {
-        "name": "If That's Ok",
-        "url": "https://open.spotify.com/album/72axqPlcPenA4cydmu4teu"
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ"
       },
       "artists": [
         {
-          "name": "Bo Napoleon",
-          "url": "https://open.spotify.com/artist/2Iso1Lq3OVNEsZNjV20inO"
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
         }
       ],
-      "duration_ms": 196197,
-      "name": "If That's Ok",
-      "url": "https://open.spotify.com/track/7wQ9DeZTB7OJ8rnrxeUHSl"
+      "duration_ms": 203912,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K"
+    },
+    {
+      "added_at": "2022-11-17 19:56:59",
+      "album": {
+        "name": "Early Prayers",
+        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
+      },
+      "artists": [
+        {
+          "name": "Tomorrows Bad Seeds",
+          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Bad Seeds",
+      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
     },
     {
       "added_at": "2022-11-17 19:56:59",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2022-11-17 19:56:59",
       "album": {
-        "name": "Early Prayers",
-        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
+        "name": "If That's Ok",
+        "url": "https://open.spotify.com/album/72axqPlcPenA4cydmu4teu"
       },
       "artists": [
         {
-          "name": "Tomorrows Bad Seeds",
-          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
+          "name": "Bo Napoleon",
+          "url": "https://open.spotify.com/artist/2Iso1Lq3OVNEsZNjV20inO"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Bad Seeds",
-      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
+      "duration_ms": 196197,
+      "name": "If That's Ok",
+      "url": "https://open.spotify.com/track/7wQ9DeZTB7OJ8rnrxeUHSl"
     },
     {
       "added_at": "2022-11-17 19:56:59",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2022-11-17 19:56:59",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr"
-      },
-      "artists": [
-        {
-          "name": "Adam Friedman",
-          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
-        },
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
-    },
-    {
-      "added_at": "2022-11-17 19:56:59",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 193361,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi"
+    },
+    {
+      "added_at": "2022-11-17 19:56:59",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr"
+      },
+      "artists": [
+        {
+          "name": "Adam Friedman",
+          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
+        },
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
     },
     {
       "added_at": "2022-11-17 19:56:59",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-11-17 19:56:59",
       "album": {
+        "name": "Ride (Edit)",
+        "url": "https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "Ride - Edit",
+      "url": "https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb"
+    },
+    {
+      "added_at": "2022-11-17 19:56:59",
+      "album": {
         "name": "All The Colors",
         "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 189094,
       "name": "Free Your Mind (with Surfer Girl)",
       "url": "https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c"
-    },
-    {
-      "added_at": "2022-11-17 19:56:59",
-      "album": {
-        "name": "Ride (Edit)",
-        "url": "https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "Ride - Edit",
-      "url": "https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb"
     }
   ],
   "unique_name": "Beach Vibes",

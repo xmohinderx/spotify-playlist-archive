@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,555 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,569 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 49 | [Danzas](https://open.spotify.com/track/1g5kVDd0YvwDG7XUpkDuSc) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 8:44 |
 | 50 | [Alumno](https://open.spotify.com/track/7oDgG2GrSs6xEMHGEKVXeF) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 1:23 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDBiZDFkMDdjNTM5OGFmZDM2ZGM0ODE3ZmE0NmZiODVjMg==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDBkY2Y0YTAzNGU2YWVlNGI5ZmVlZjEzZDFkZGEwNzczNw==`

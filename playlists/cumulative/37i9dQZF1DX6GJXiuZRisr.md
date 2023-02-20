@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-342 songs - 1 day 1 hr 41 min
+343 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Alive \(feat\. The Moth & The Flame\)](https://open.spotify.com/track/1SETgPENHVzsWoD9g79LYI) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Alive \(feat\. The Moth & The Flame\)](https://open.spotify.com/album/5nTSB1dEcWtAtkWnHgOcMR) | 5:08 | 2022-10-14 |  |
 | [All I Want \(feat\. Goatchy\)](https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh) | [All I Want \(feat\. Goatchy\)](https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv) | 3:44 | 2021-05-07 |  |
 | [Alone](https://open.spotify.com/track/2Pwcpc8IEcnH3Vv46vToTO) | [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2), [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [MICAH](https://open.spotify.com/artist/2YrneHqbMOEKtGG6SxP8FL) | [Alone](https://open.spotify.com/album/67wKBjmJ98YFQAwBHpw38W) | 2:28 | 2023-01-13 |  |
-| [Am I Dreaming?](https://open.spotify.com/track/3IIkauBOBcbGP2Oipz94Hn) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Am I Dreaming?](https://open.spotify.com/album/6vwrLU9l7FV09bFgEzARS2) | 3:32 | 2023-01-20 |  |
+| [Am I Dreaming?](https://open.spotify.com/track/3IIkauBOBcbGP2Oipz94Hn) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Am I Dreaming?](https://open.spotify.com/album/6vwrLU9l7FV09bFgEzARS2) | 3:32 | 2023-01-20 | 2023-02-20 |
 | [Amanhã](https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Amanhã](https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna) | 3:32 | 2022-02-18 | 2022-06-25 |
 | [Analog Dreams](https://open.spotify.com/track/2SwpC5zbzMFiisWKM6waSn) | [Sunlight Project](https://open.spotify.com/artist/5LCi8fJi3KXdJOaAtVZy7t) | [Analog Dreams / Poolside / Arcade](https://open.spotify.com/album/25ASdZStbcOu4gIRPZ8qrf) | 3:16 | 2021-05-07 | 2022-04-20 |
 | [Angel Dust](https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Angel Dust](https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr) | 4:03 | 2022-10-28 |  |
@@ -90,6 +90,7 @@
 | [Escalus](https://open.spotify.com/track/2ySk8ecOEBzNckGLKA6TEZ) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF) | [Flicker/Escalus](https://open.spotify.com/album/5PLsKjBuudqrPDCaRKwkZP) | 4:15 | 2021-05-07 | 2022-07-18 |
 | [Essence](https://open.spotify.com/track/49z88QGI0xt7ikGTATMLut) | [Allende](https://open.spotify.com/artist/3EnKgv4XNOAoLkZaeV12H3) | [Essence](https://open.spotify.com/album/3OtAa2cO2MsgNbb928W0QK) | 7:28 | 2021-05-07 | 2022-04-20 |
 | [Ethera](https://open.spotify.com/track/0Ynou2LoIOmqRiyu4elKYX) | [Lost Prince](https://open.spotify.com/artist/23kzag3jmFxPLJbXO4g3VG) | [Ethera](https://open.spotify.com/album/3wyjgZ0wOfi6LebCJFvbZ9) | 3:33 | 2021-05-07 | 2022-07-08 |
+| [Euphoria](https://open.spotify.com/track/4HM6sm5QAAUYzAyB1SEzDE) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/5rGYIvW4LFeBonvZQBxPvi) | 3:21 | 2023-02-10 |  |
 | [Euphorica](https://open.spotify.com/track/0gxfYluzV5eMLxH4IG7e7i) | [Subside](https://open.spotify.com/artist/6W0mTJw9zAastgid1lZ4BP), [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv) | [Euphorica](https://open.spotify.com/album/5DmKIOsy8y4Apjshx5EmMc) | 3:29 | 2021-12-17 | 2022-07-12 |
 | [Everyday \- Jennifer Cardini Remix](https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [Everyday \(Jennifer Cardini Remix\)](https://open.spotify.com/album/29tchebjLMABWzP2jKWa0j) | 7:20 | 2022-10-14 | 2022-12-06 |
 | [Exhilaration](https://open.spotify.com/track/5JGCS3oySt8hnSQeMOqDGc) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Sternstunde \| Exhilaration](https://open.spotify.com/album/0h4VYJsprkcQDvBp53bagl) | 6:54 | 2021-11-26 | 2022-07-28 |

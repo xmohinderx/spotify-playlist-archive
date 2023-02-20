@@ -1,12 +1,12 @@
 {
   "description": "Here's a taste of power pop. <a href=\"spotify:genre:0JQ5IMCbQBLk5woFi85yOT\">Click here for further discovery.</a> Cover: Cheap Trick\n",
-  "num_followers": 133516,
+  "num_followers": 133573,
   "original_name": "Power Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NDQwNSwwMDAwMDAwMGUwZDgwZGYyNWIyNmE1ODc1YzNjZTQyM2I4MmJmNTU2",
+  "snapshot_id": "MTY3NDA3NDQwNSwwMDAwMDAwMGM3MTE5OTNjZWY3NmI3MzhhNTU3Yjk0YjZhODY5ZDNi",
   "tracks": [
     {
       "added_at": "2023-01-18 20:40:05",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-01-18 20:40:05",
       "album": {
-        "name": "Grave Dancers Union (2022 Remaster)",
-        "url": "https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6"
-      },
-      "artists": [
-        {
-          "name": "Soul Asylum",
-          "url": "https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Runaway Train (2022 Remaster)",
-      "url": "https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP"
-    },
-    {
-      "added_at": "2023-01-18 20:40:05",
-      "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 214733,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+    },
+    {
+      "added_at": "2023-01-18 20:40:05",
+      "album": {
+        "name": "Grave Dancers Union (2022 Remaster)",
+        "url": "https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6"
+      },
+      "artists": [
+        {
+          "name": "Soul Asylum",
+          "url": "https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Runaway Train (2022 Remaster)",
+      "url": "https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP"
     },
     {
       "added_at": "2023-01-18 20:40:05",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-01-18 20:40:05",
       "album": {
-        "name": "Beauty And The Beat",
-        "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
-      },
-      "artists": [
-        {
-          "name": "The Go-Go's",
-          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "We Got The Beat",
-      "url": "https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF"
-    },
-    {
-      "added_at": "2023-01-18 20:40:05",
-      "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 161786,
       "name": "Don't Do Me Like That",
       "url": "https://open.spotify.com/track/5AzpZ5ADn1AFPxcEBd2Ugf"
+    },
+    {
+      "added_at": "2023-01-18 20:40:05",
+      "album": {
+        "name": "Beauty And The Beat",
+        "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
+      },
+      "artists": [
+        {
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "We Got The Beat",
+      "url": "https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF"
     },
     {
       "added_at": "2023-01-18 20:40:05",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-18 20:40:05",
       "album": {
-        "name": "Drums And Wires",
-        "url": "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl"
-      },
-      "artists": [
-        {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Making Plans For Nigel",
-      "url": "https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v"
-    },
-    {
-      "added_at": "2023-01-18 20:40:05",
-      "album": {
         "name": "Armed Forces (Remastered 2020)",
         "url": "https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 180840,
       "name": "Oliver's Army",
       "url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX"
+    },
+    {
+      "added_at": "2023-01-18 20:40:05",
+      "album": {
+        "name": "Drums And Wires",
+        "url": "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Making Plans For Nigel",
+      "url": "https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v"
     },
     {
       "added_at": "2023-01-18 20:40:05",

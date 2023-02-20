@@ -4,7 +4,7 @@
 
 > La casa de los corazones rotos.
 
-263 songs - 14 hr 28 min
+264 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Hoy Voy a Olvidarte](https://open.spotify.com/track/4fb84fFWaOn5vA14XiUDTP) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Hoy Voy a Olvidarte](https://open.spotify.com/album/5AR4N8t3wpMmNEaIg90knJ) | 2:54 | 2022-01-07 | 2022-09-03 |
 | [Inexperto En Olvidarte](https://open.spotify.com/track/1WvNTYRxyodbQ4NPmO9jKZ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Inexperto En Olvidarte](https://open.spotify.com/album/4ZBMLo0vXL00kQqp3SeebE) | 3:05 | 2023-01-06 |  |
 | [La Bachata](https://open.spotify.com/track/4h3L3S6gEEKGETQHrGZafH) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7IoQkL9C3vfSmF0Q9mXelv) | 2:58 | 2022-12-16 | 2023-02-18 |
+| [La Bachata](https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as) | 2:58 | 2023-02-14 |  |
 | [La Buena y la Mala](https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F) | 3:24 | 2022-11-07 |  |
 | [La Calabaza](https://open.spotify.com/track/2xEiDaMsdfYhkTeP6J02vm) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:22 | 2022-05-23 | 2022-09-03 |
 | [La Farsante](https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo Y Con Todos](https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV) | 3:35 | 2022-01-07 | 2022-04-19 |
@@ -192,7 +193,7 @@
 | [Que Llore, Que Llore](https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Aquí Casual](https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK) | 2:45 | 2022-06-08 | 2022-11-08 |
 | [Que Me Falto \- En vivo](https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 3:41 | 2022-01-07 | 2022-03-14 |
 | [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 | 2022-01-07 |  |
-| [Que Solo Estoy Sin Ti](https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Parranda Con La Banda](https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq) | 3:39 | 2022-05-23 |  |
+| [Que Solo Estoy Sin Ti](https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Parranda Con La Banda](https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq) | 3:39 | 2022-05-23 | 2023-02-20 |
 | [Que Te Trague La Tierra](https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Que Te Trague La Tierra](https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv) | 3:08 | 2023-02-14 |  |
 | [Que Te Vaya Bien](https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Que Te Vaya Bien](https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW) | 2:31 | 2022-09-02 |  |
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2022-12-16 |  |

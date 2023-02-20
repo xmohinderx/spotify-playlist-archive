@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,306 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,356 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 41 | [The Worst In Me](https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:46 |
 | 42 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 |
 | 43 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 |
-| 44 | [24k](https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 2](https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD) | 3:53 |
-| 45 | [Midnight Hour with Boys Noize & Ty Dolla $ign](https://open.spotify.com/track/5AFrctm65wWIqJsjHPPx85) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Midnight Hour with Boys Noize & Ty Dolla $ign](https://open.spotify.com/album/65Xj1lewlRP7RB5LiCeNBV) | 3:18 |
+| 44 | [Midnight Hour with Boys Noize & Ty Dolla $ign](https://open.spotify.com/track/5AFrctm65wWIqJsjHPPx85) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Midnight Hour with Boys Noize & Ty Dolla $ign](https://open.spotify.com/album/65Xj1lewlRP7RB5LiCeNBV) | 3:18 |
+| 45 | [24k](https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 2](https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD) | 3:53 |
 | 46 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
 | 47 | [Rose Rouge](https://open.spotify.com/track/6XM6FI6rPJBnhoF6heNHeN) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [Rose Rouge](https://open.spotify.com/album/7DodMymoQ0sFG6baosag8D) | 4:37 |
 | 48 | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 |
 | 49 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 |
 | 50 | [Ease Up](https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Ease Up](https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW) | 3:34 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDUyNDJiNTgyMDhkY2I1MGVlODI0MzU4MjA4N2U0ZWNk`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDBlZjAxYWFkNzk1ODE2ZjBiZGEwYmJlNTNjZGI1ZDUx`

@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Maluma & Marc Anthony
 
-214 songs - 16 hr 25 min
+215 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Buenaventura Y Caney](https://open.spotify.com/track/7ugeLfcFCak3rje9PTRCkS) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Virtual Hits](https://open.spotify.com/album/1c3FbTrBqiQ9YWHBE71QHB) | 5:24 | 2022-01-01 | 2022-04-27 |
 | [Cachondea](https://open.spotify.com/track/0z1jqSzPEiblIxozrI9Tto) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Power Salsa](https://open.spotify.com/album/6sZTpQ7hYETezmf3qq3p3N) | 4:57 | 2022-01-01 | 2022-07-29 |
 | [Cachondea](https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Descarga Espectacular](https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP) | 4:57 | 2022-05-20 |  |
-| [Cada Día](https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd) | [Siendo Yo](https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG) | 4:05 | 2022-09-09 |  |
+| [Cada Día](https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd) | [Siendo Yo](https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG) | 4:05 | 2022-09-09 | 2023-02-20 |
 | [Cada Día Me Gustas Más](https://open.spotify.com/track/7fpU2M8STxfq8iZSiRmTbn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Cada Día Me Gustas Más](https://open.spotify.com/album/1J7PI5GUnRnzPw6KmInRoz) | 4:57 | 2022-04-29 | 2022-06-29 |
 | [Cambio de Piel](https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:39 | 2022-01-01 | 2022-07-29 |
 | [Canciones Viejas](https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 4:20 | 2022-01-01 | 2023-02-04 |
@@ -178,6 +178,7 @@
 | [Sincero \- Versión Salsa](https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/1z4qd96xvRzjc5MWONlsWG) | 3:05 | 2022-02-18 |  |
 | [Soltero](https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Soltero](https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685) | 4:20 | 2022-01-01 |  |
 | [Soy de Lo Peor](https://open.spotify.com/track/74GBtgq1XjVrNdp5Lv1jbM) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cuba Linda](https://open.spotify.com/album/5XhWe2O6ZHYu33IE67buw7) | 4:20 | 2022-01-01 | 2022-03-12 |
+| [Sube Tela](https://open.spotify.com/track/2ZSO65g1JGMNiyftPfXO7w) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Sube Tela](https://open.spotify.com/album/0OW0rzFBUtjViPP6SB2IBs) | 3:07 | 2023-02-10 |  |
 | [Suma y Resta](https://open.spotify.com/track/1j6HyQf4y1IiHFewyXnxK1) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Suma y Resta](https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK) | 3:08 | 2022-05-20 |  |
 | [Suma y Resta](https://open.spotify.com/track/6vj4z8xXfG2qKpfT5je3uk) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Suma y Resta](https://open.spotify.com/album/3pilj0ltyAyR0ZAs6a4M0f) | 3:08 | 2022-01-01 | 2022-07-29 |
 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 | 2022-01-01 |  |

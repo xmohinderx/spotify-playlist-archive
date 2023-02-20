@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 319537,
+  "num_followers": 319566,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDk5NywwMDAwMDAwMDMwOWY5MzMxM2Y4MTMyNGQwZTcxZTk3ODc3ZGYxNTI3",
+  "snapshot_id": "MTY1NTczNDk5NywwMDAwMDAwMDA3MGM4NGFkNTZjZDI3ODcyM2U5Y2E5MWY3NmRlMWI1",
   "tracks": [
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Pump the Brakes",
-        "url": "https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 220581,
-      "name": "Pump the Brakes",
-      "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Belters Only",
         "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 186541,
       "name": "Don't Stop Just Yet",
       "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Pump the Brakes",
+        "url": "https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 220581,
+      "name": "Pump the Brakes",
+      "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5gz0manw16JDHq1wwJDZl7"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 176766,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/6h2WDabbgcDfnTLiMJ2wqH"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "System (feat. WizKid)",
         "url": "https://open.spotify.com/album/5ABN8cUVC3sZZQQLvGjiUM"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 181550,
       "name": "System (feat. WizKid)",
       "url": "https://open.spotify.com/track/5laAdwuT8EEvkIXrmrhRSB"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5gz0manw16JDHq1wwJDZl7"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 176766,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/6h2WDabbgcDfnTLiMJ2wqH"
     },
     {
       "added_at": "2022-06-20 14:23:17",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas!",
-  "num_followers": 818405,
+  "num_followers": 818564,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM5MzU1OCwwMDAwMDAwMDM0NjZmNGQwMWY1YTg4NjM4MmY5NmRjNjcyZWFhMjM1",
+  "snapshot_id": "MTY3NjM5MzU1OCwwMDAwMDAwMDIyMGRjNjQ4MjFhMDZjZTg0N2YxMzNmZWMyNWQ4NDQ3",
   "tracks": [
     {
       "added_at": "2023-02-14 16:52:38",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-02-14 16:52:38",
       "album": {
-        "name": "Pideme (En Vivo)",
-        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 256170,
-      "name": "Pideme - En Vivo",
-      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
-    },
-    {
-      "added_at": "2023-02-14 16:52:38",
-      "album": {
         "name": "Ni Lo Intentes",
         "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 237640,
       "name": "Terrenal",
       "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
+    },
+    {
+      "added_at": "2023-02-14 16:52:38",
+      "album": {
+        "name": "Pideme (En Vivo)",
+        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 256170,
+      "name": "Pideme - En Vivo",
+      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
     },
     {
       "added_at": "2023-02-14 16:52:38",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-02-14 16:52:38",
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 220586,
-      "name": "Due\u00f1o de Ti",
-      "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
-    },
-    {
-      "added_at": "2023-02-14 16:52:38",
-      "album": {
         "name": "Acurrucar",
         "url": "https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2023-02-14 16:52:38",
       "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "Due\u00f1o de Ti",
+      "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
+    },
+    {
+      "added_at": "2023-02-14 16:52:38",
+      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 171026,
       "name": "Te Quiero As\u00ed",
       "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
-    },
-    {
-      "added_at": "2023-02-14 16:52:38",
-      "album": {
-        "name": "Un Cantautor Con Alma de Triunfador",
-        "url": "https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2"
-      },
-      "artists": [
-        {
-          "name": "Mariano Barba",
-          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
-        }
-      ],
-      "duration_ms": 272920,
-      "name": "Aliado Del Tiempo",
-      "url": "https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR"
     },
     {
       "added_at": "2023-02-14 16:52:38",
@@ -787,18 +771,18 @@
     {
       "added_at": "2023-02-14 16:52:38",
       "album": {
-        "name": "El Karma (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+        "name": "Un Cantautor Con Alma de Triunfador",
+        "url": "https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2"
       },
       "artists": [
         {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+          "name": "Mariano Barba",
+          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
         }
       ],
-      "duration_ms": 209120,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt"
+      "duration_ms": 272920,
+      "name": "Aliado Del Tiempo",
+      "url": "https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR"
     },
     {
       "added_at": "2023-02-14 16:52:38",
@@ -815,6 +799,22 @@
       "duration_ms": 165146,
       "name": "Mi Bello \u00c1ngel",
       "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
+    },
+    {
+      "added_at": "2023-02-14 16:52:38",
+      "album": {
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt"
     },
     {
       "added_at": "2023-02-14 16:52:38",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-02-14 16:52:38",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/6YQnsEvPHOX3aSZsconRkP"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
+        }
+      ],
+      "duration_ms": 201168,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5jZ4F989lTH5jcFxT6ccbP"
+    },
+    {
+      "added_at": "2023-02-14 16:52:38",
+      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 189466,
       "name": "Mi Buena Suerte",
       "url": "https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17"
-    },
-    {
-      "added_at": "2023-02-14 16:52:38",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6YQnsEvPHOX3aSZsconRkP"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
-        }
-      ],
-      "duration_ms": 201168,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5jZ4F989lTH5jcFxT6ccbP"
     },
     {
       "added_at": "2023-02-14 16:52:38",

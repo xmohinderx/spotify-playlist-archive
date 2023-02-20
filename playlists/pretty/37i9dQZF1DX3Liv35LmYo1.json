@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 102184,
+  "num_followers": 102216,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk0NzYwMCwwMDAwMDAwMGZmYzFkNDQ2OWQxYzNjZDNiY2ExNGNmOTc0NTY4MWZk",
+  "snapshot_id": "MTY3NTk0NzYwMCwwMDAwMDAwMDUwY2I3ZDJhMjA1YWViZTJjZjE1OWRmZjU5NGY2ZmUw",
   "tracks": [
     {
       "added_at": "2023-02-09 13:00:00",
@@ -495,6 +495,26 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "Continua",
+        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 211845,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "Sleeping Beauty",
         "url": "https://open.spotify.com/album/03sv8wkTRvQfB8rh7qLzaf"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 283461,
       "name": "Heirloom",
       "url": "https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Continua",
-        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 211845,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -663,6 +663,26 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "Continua",
+        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 224393,
+      "name": "Condition",
+      "url": "https://open.spotify.com/track/6FmA0C7U8o7U4LvvyuV5wP"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "Dhollandia / Circles",
         "url": "https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr"
       },
@@ -675,22 +695,6 @@
       "duration_ms": 378241,
       "name": "Dhollandia",
       "url": "https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Whatever Happens, Happens",
-        "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 227304,
-      "name": "Whatever Happens, Happens",
-      "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -731,22 +735,18 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Continua",
-        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
+        "name": "Whatever Happens, Happens",
+        "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
       },
       "artists": [
         {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
         }
       ],
-      "duration_ms": 224393,
-      "name": "Condition",
-      "url": "https://open.spotify.com/track/6FmA0C7U8o7U4LvvyuV5wP"
+      "duration_ms": 227304,
+      "name": "Whatever Happens, Happens",
+      "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Happiness, Guaranteed",
-        "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 281240,
-      "name": "Shallow Water",
-      "url": "https://open.spotify.com/track/1lJPVwuvM9b8wpdZIYRNq9"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Sea To Sky",
         "url": "https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 264003,
       "name": "Sea To Sky",
       "url": "https://open.spotify.com/track/7AZvdqbQJdakmxCPFK5F5E"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Happiness, Guaranteed",
+        "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 281240,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/1lJPVwuvM9b8wpdZIYRNq9"
     },
     {
       "added_at": "2023-02-09 13:00:00",

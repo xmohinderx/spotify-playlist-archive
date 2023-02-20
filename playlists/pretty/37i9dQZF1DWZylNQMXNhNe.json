@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Jotta A",
-  "num_followers": 218716,
+  "num_followers": 218734,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA1MDk2OCwwMDAwMDAwMDFmZTcxMjljMmE2NTY4MGQxMWQ1OTY4YzNlNGFkNjU0",
+  "snapshot_id": "MTY3NjA1MDk2OCwwMDAwMDAwMGI0ZTg4M2RhODU1M2MyNmJiMjVhM2YyMGNhZmRlYThl",
   "tracks": [
     {
       "added_at": "2023-02-10 17:42:48",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "CACHORRINHAS",
-        "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 134936,
-      "name": "CACHORRINHAS",
-      "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 152690,
       "name": "VERMELHO",
       "url": "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
+        "name": "CACHORRINHAS",
+        "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 134936,
+      "name": "CACHORRINHAS",
+      "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -159,22 +159,18 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-        "url": "https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu"
+        "name": "A QUEDA",
+        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 181173,
-      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-      "url": "https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99"
+      "duration_ms": 172500,
+      "name": "A QUEDA",
+      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -223,18 +219,22 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "A QUEDA",
-        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
+        "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+        "url": "https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 172500,
-      "name": "A QUEDA",
-      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
+      "duration_ms": 181173,
+      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+      "url": "https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -263,22 +263,18 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+        "name": "LEIL\u00c3O",
+        "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 176400,
-      "name": "VIP *-*",
-      "url": "https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9"
+      "duration_ms": 187619,
+      "name": "LEIL\u00c3O",
+      "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -355,18 +351,22 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "LEIL\u00c3O",
-        "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 187619,
-      "name": "LEIL\u00c3O",
-      "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
+      "duration_ms": 176400,
+      "name": "VIP *-*",
+      "url": "https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -411,26 +411,18 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "MODO TURBO",
-        "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
+        "name": "BONEKINHA",
+        "url": "https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 150259,
-      "name": "MODO TURBO",
-      "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
+      "duration_ms": 168887,
+      "name": "BONEKINHA",
+      "url": "https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -515,8 +507,32 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "BONEKINHA",
-        "url": "https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y"
+        "name": "MODO TURBO",
+        "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 150259,
+      "name": "MODO TURBO",
+      "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
+        "name": "ALEGORIA",
+        "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
       },
       "artists": [
         {
@@ -524,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 168887,
-      "name": "BONEKINHA",
-      "url": "https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ"
+      "duration_ms": 145979,
+      "name": "MIL GRAU",
+      "url": "https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -547,26 +563,6 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "Eu Viciei",
-        "url": "https://open.spotify.com/album/4GoAldSUHoIefEbIkY0aXF"
-      },
-      "artists": [
-        {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Eu Viciei",
-      "url": "https://open.spotify.com/track/6eu0ufYZ5k4HkZqnceFsoc"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
         "name": "Parab\u00e9ns",
         "url": "https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd"
       },
@@ -583,6 +579,26 @@
       "duration_ms": 136844,
       "name": "Parab\u00e9ns",
       "url": "https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
+        "name": "Eu Viciei",
+        "url": "https://open.spotify.com/album/4GoAldSUHoIefEbIkY0aXF"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Eu Viciei",
+      "url": "https://open.spotify.com/track/6eu0ufYZ5k4HkZqnceFsoc"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -695,34 +711,18 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "ALEGORIA",
-        "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
+        "name": "Alasca",
+        "url": "https://open.spotify.com/album/69Sxc4uQUdJ6bgi2f2gZlD"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
         }
       ],
-      "duration_ms": 145979,
-      "name": "MIL GRAU",
-      "url": "https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
-        "name": "LIA (pt.1)",
-        "url": "https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX"
-      },
-      "artists": [
-        {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        }
-      ],
-      "duration_ms": 137753,
-      "name": "VRAU",
-      "url": "https://open.spotify.com/track/3oNteV2lmIV0R19Jalc7Pd"
+      "duration_ms": 276521,
+      "name": "Alasca",
+      "url": "https://open.spotify.com/track/5nb97cpmD6U9FpO8VJ3jnm"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "Alasca",
-        "url": "https://open.spotify.com/album/69Sxc4uQUdJ6bgi2f2gZlD"
+        "name": "LIA (pt.1)",
+        "url": "https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX"
       },
       "artists": [
         {
-          "name": "Jotta A",
-          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
         }
       ],
-      "duration_ms": 276521,
-      "name": "Alasca",
-      "url": "https://open.spotify.com/track/5nb97cpmD6U9FpO8VJ3jnm"
+      "duration_ms": 137753,
+      "name": "VRAU",
+      "url": "https://open.spotify.com/track/3oNteV2lmIV0R19Jalc7Pd"
     },
     {
       "added_at": "2023-02-10 17:42:48",

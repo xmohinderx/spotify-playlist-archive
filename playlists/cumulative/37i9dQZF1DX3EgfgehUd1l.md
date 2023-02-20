@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-247 songs - 10 hr 54 min
+248 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Sweet Old\-Fashioned Girl](https://open.spotify.com/track/2unXb33WJvFZJv8qtVLI9D) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [A Sweet Old\-Fashioned Girl](https://open.spotify.com/album/0aX0jhtX1S6znbZT36ZhF5) | 2:58 | 2020-07-08 | 2022-06-09 |
 | [A Sweet Old\-Fashioned Girl](https://open.spotify.com/track/5FzFFCV0eza5iU9ypGyeux) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [A Sweet Old\-Fashioned Girl](https://open.spotify.com/album/31ZGnm5pSQoMiz1YnDyYIh) | 2:58 | 2020-07-08 | 2022-11-13 |
 | [A Tear Fell](https://open.spotify.com/track/1owWviRSKKgHJB9QaUG8u5) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Easy Listening](https://open.spotify.com/album/4v9ozR1prJWMHNnQLYNdOa) | 2:34 | 2020-07-08 | 2022-07-29 |
+| [A Tear Fell](https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Teresa \(Expanded Edition\)](https://open.spotify.com/album/6LT7LVvqxjEWuxHZ55sWfx) | 2:35 | 2020-07-08 |  |
 | [A Tear Fell](https://open.spotify.com/track/4AcFQfO6RDUl9S0Mioxbm2) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [A Sweet Old\-Fashioned Girl](https://open.spotify.com/album/31ZGnm5pSQoMiz1YnDyYIh) | 2:36 | 2020-07-08 | 2022-12-20 |
 | [A Teenager In Love](https://open.spotify.com/track/4817x5vTdyiguUlzk5NAoO) | [Marty Wilde](https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN) | [Marty: A Lifetime In Music 1957\-2019](https://open.spotify.com/album/0NKAdbK2bWipMLHfeGRw6s) | 2:20 | 2020-07-08 | 2022-11-12 |
 | [A Teenager In Love](https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG) | [Marty Wilde](https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN) | [The Best of British Rock 'n' Roll / 1956 \- 1959, Vol\. 2](https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK) | 2:21 | 2020-07-08 | 2022-07-07 |
@@ -35,7 +36,7 @@
 | [Be Bop a Lula](https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx) | [Saga All Stars: Be Bop a Lula / 1956](https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs) | 2:36 | 2020-07-08 | 2022-07-29 |
 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 | 2020-07-08 |  |
 | [Bell Bottom Blues](https://open.spotify.com/track/5pEEoyopjRqfQdhgEEqLbu) | [Alma Cogan](https://open.spotify.com/artist/0oGo1uX2IixGBLb3fsiVnK) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:35 | 2020-07-08 | 2022-07-28 |
-| [Big Man](https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK) | [The Four Preps](https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew) | [The Single Collection, Vol\. 1](https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr) | 2:23 | 2020-07-08 |  |
+| [Big Man](https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK) | [The Four Preps](https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew) | [The Single Collection, Vol\. 1](https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr) | 2:23 | 2020-07-08 | 2023-02-20 |
 | [Blue Moon](https://open.spotify.com/track/1XriePxA916cla1W90JBLt) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis At Sun](https://open.spotify.com/album/2w9qV3ELWjmpGBDxBPmYif) | 2:42 | 2020-07-08 | 2022-07-29 |
 | [Blue Moon \- Take 9/M](https://open.spotify.com/track/6VqCe4PcokSekHPJQaDx0B) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Presley](https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin) | 2:42 | 2020-07-08 |  |
 | [Blue Tango](https://open.spotify.com/track/2Vgbw2OjqlXwZveOWfhHbF) | [Ray Martin](https://open.spotify.com/artist/5B8OYcJutY1BlxrJOafqbu) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:39 | 2020-07-08 | 2022-07-24 |

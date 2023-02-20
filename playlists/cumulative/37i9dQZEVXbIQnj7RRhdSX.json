@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 202191,
       "name": "ABISSALE",
       "url": "https://open.spotify.com/track/3U8TFdchz8dK1nYYgZgd9f"
@@ -858,6 +858,24 @@
     {
       "album": {
         "name": "Alba",
+        "url": "https://open.spotify.com/album/3vfWb8888rKXodLlqnRGoa"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209657,
+      "name": "Alba",
+      "url": "https://open.spotify.com/track/04X1tgfQRPuLLidWfputrz"
+    },
+    {
+      "album": {
+        "name": "Alba",
         "url": "https://open.spotify.com/album/5KlWvjXQsetLk8KqvtCaJw"
       },
       "artists": [
@@ -868,7 +886,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 209657,
       "name": "Alba",
       "url": "https://open.spotify.com/track/3slQ550jA1udn2keXTvu1U"
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 198236,
       "name": "Amare",
       "url": "https://open.spotify.com/track/7f0PsfE1Dbk7PPRVu6knrQ"
@@ -3264,7 +3282,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 199680,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
@@ -7914,7 +7932,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Ferrari - Remix",
       "url": "https://open.spotify.com/track/3XucsgiwXb8KPn9Csf9Zmu"
@@ -12076,7 +12094,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 218733,
       "name": "Lasciami",
       "url": "https://open.spotify.com/track/6bJxP5gopwdVifrLIu17ox"
@@ -14696,7 +14714,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 165216,
       "name": "MONDAY (feat. Shiva & Michelangelo)",
       "url": "https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq"
@@ -16026,10 +16044,28 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 146729,
       "name": "Non mi va",
       "url": "https://open.spotify.com/track/6C7AP6DWA9UsMK3kIqMifX"
+    },
+    {
+      "album": {
+        "name": "ROCKABILLY CARTER",
+        "url": "https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar"
+      },
+      "artists": [
+        {
+          "name": "Colla Zio",
+          "url": "https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149533,
+      "name": "Non mi va",
+      "url": "https://open.spotify.com/track/1i5KZuk9052PeWBEOgTbkG"
     },
     {
       "album": {
@@ -16386,7 +16422,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 174153,
       "name": "Nuvole in testa",
       "url": "https://open.spotify.com/track/2A90SdsgdKkx16nztUIluL"
@@ -17326,10 +17362,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 186420,
       "name": "parole dette male",
       "url": "https://open.spotify.com/track/72FMKiJcDj3jjUFJgLvZ5Q"
+    },
+    {
+      "album": {
+        "name": "BLU\u00b9",
+        "url": "https://open.spotify.com/album/1wk9xPCFOJOccWG60XhknC"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186420,
+      "name": "parole dette male",
+      "url": "https://open.spotify.com/track/79p8nqfMUF9mxMAT1EGPwO"
     },
     {
       "album": {
@@ -19669,6 +19723,24 @@
     },
     {
       "album": {
+        "name": "Quello che fa bene",
+        "url": "https://open.spotify.com/album/2fvhsdTvv07T6ANtdgAlML"
+      },
+      "artists": [
+        {
+          "name": "LDA",
+          "url": "https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208893,
+      "name": "Se poi domani",
+      "url": "https://open.spotify.com/track/2IyIs4oNWfQMihZ2Dra4Qp"
+    },
+    {
+      "album": {
         "name": "Se poi domani",
         "url": "https://open.spotify.com/album/6gsgGDGj0bfP46w0xCISQ2"
       },
@@ -19680,7 +19752,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 208893,
       "name": "Se poi domani",
       "url": "https://open.spotify.com/track/32XKm4CJzVNRUCzkhQoX13"
@@ -21192,7 +21264,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 197928,
       "name": "Stupido",
       "url": "https://open.spotify.com/track/13dP6ARCbC6jB8y6eCCCSD"
@@ -22714,7 +22786,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 195578,
       "name": "Tutto diventa normale",
       "url": "https://open.spotify.com/track/5C9X3OICVNaD0HnuoIRChN"
@@ -23446,7 +23518,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 172761,
       "name": "Vieni nel mio cuore",
       "url": "https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG"
@@ -23639,6 +23711,24 @@
     },
     {
       "album": {
+        "name": "Opera Futura",
+        "url": "https://open.spotify.com/album/2uAZ5T3c9VbcCeb5ntc0e4"
+      },
+      "artists": [
+        {
+          "name": "Levante",
+          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201425,
+      "name": "Vivo",
+      "url": "https://open.spotify.com/track/2MXrLjt3WznfYFeJJoD1oo"
+    },
+    {
+      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/3nPYHYpUeadCwNd9mtDaKu"
       },
@@ -23650,7 +23740,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 201425,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/3ohY8vvPOrkBUM5LivS0Cg"

@@ -4,7 +4,7 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Skillet
 
-137 songs - 9 hr 4 min
+138 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,21 +96,22 @@
 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 | 2022-03-11 |  |
 | [Pls Snd Hlp](https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz) | 4:15 | 2022-01-14 |  |
 | [Promise to Live](https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Promise to Live](https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h) | 4:53 | 2023-02-17 |  |
+| [Promise You're Coming Home](https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Stronger Than Death](https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh) | 3:42 | 2023-02-17 |  |
 | [Psycho In My Head](https://open.spotify.com/track/6VWocK4U2rcTQeVrfDlCMV) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Psycho In My Head](https://open.spotify.com/album/4Zc1iqCZrZFjR8XGI9gecJ) | 3:17 | 2023-02-17 |  |
 | [Pulp](https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Pulp](https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ) | 3:59 | 2022-10-29 | 2023-02-18 |
-| [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 | 2021-05-28 |  |
+| [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 | 2021-05-28 | 2023-02-20 |
 | [Ready to Roll](https://open.spotify.com/track/0EXcCSchvgDuLnR7ZspnPJ) | [LAST DAY RISING](https://open.spotify.com/artist/06a678upYFB5zg0Kriv5LZ) | [Last Day Rising](https://open.spotify.com/album/3hUVTerCmO0mc6DgF09Btp) | 4:02 | 2021-05-28 | 2022-10-30 |
 | [Rise to the Call](https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Rise to the Call](https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb) | 3:47 | 2022-10-29 |  |
 | [Run \- Twenty Version](https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Twenty](https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ) | 4:22 | 2022-10-29 |  |
 | [Salvation For 100%](https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R), [Jacob Coyne](https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR) | [Salvation For 100%](https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF) | 6:09 | 2022-01-14 |  |
 | [Same Old Story](https://open.spotify.com/track/4moj8PfVwwJwbcLKcYfywa) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Same Old Story](https://open.spotify.com/album/3gIleQFuXMBgc8hPoAzZMc) | 4:09 | 2022-10-29 | 2022-12-30 |
 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 | 2021-05-28 | 2022-01-15 |
-| [See No Evil, Hear No Evil](https://open.spotify.com/track/7A61G3HRgUWZJEgcuS05n6) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [See No Evil, Hear No Evil](https://open.spotify.com/album/1h0WWO7QEbyIztxbalxp23) | 4:54 | 2022-10-29 |  |
+| [See No Evil, Hear No Evil](https://open.spotify.com/track/7A61G3HRgUWZJEgcuS05n6) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [See No Evil, Hear No Evil](https://open.spotify.com/album/1h0WWO7QEbyIztxbalxp23) | 4:54 | 2022-10-29 | 2023-02-20 |
 | [Send Forth Laborers](https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R) | [Pennell](https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D) | 5:33 | 2022-01-14 | 2023-02-18 |
 | [Shadows](https://open.spotify.com/track/1wZAsmtqWDw7Sr9rw9e8Pj) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Shadows](https://open.spotify.com/album/3r5fXhEb4rpSXMNGtCu9hA) | 3:23 | 2022-01-14 | 2022-03-12 |
 | [SILENCE THE WORLD](https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Tom S\. Englund](https://open.spotify.com/artist/1JlSPIWzXu3HwBgealhTIk) | [SILENCE THE WORLD](https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw) | 7:13 | 2022-10-29 |  |
 | [Sky Is Falling](https://open.spotify.com/track/6K6W4BZlJdmRWAyJkdVgxd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Sky Is Falling](https://open.spotify.com/album/5EfennornsN32G2PJtDopy) | 3:53 | 2021-05-28 | 2022-01-15 |
-| [Sleight of Hand](https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Sleight of Hand](https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1) | 3:54 | 2022-01-14 | 2023-02-18 |
+| [Sleight of Hand](https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Sleight of Hand](https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1) | 3:54 | 2022-01-14 |  |
 | [Standing in the Storm](https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Standing in the Storm / Surviving The Game](https://open.spotify.com/album/3cIRw4SnfPO2TXVJK8C1nG) | 4:17 | 2022-01-14 |  |
 | [Still Alive](https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Still Alive](https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3) | 3:19 | 2021-05-28 |  |
 | [Stones](https://open.spotify.com/track/0mdx5qbiXWMkAUdL2HroPx) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Stones](https://open.spotify.com/album/1G6CJehs2AyISaaYgXGMfN) | 3:11 | 2021-05-28 | 2022-07-29 |

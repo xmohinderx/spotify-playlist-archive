@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: O.lew; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,481 likes - 101 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,518 likes - 101 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 20 | [Vì Sao Em Đi](https://open.spotify.com/track/1F8J0ccYNaDPznNjLKZ4Yz) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30) | [Vì Sao Em Đi](https://open.spotify.com/album/6hctpY6wF9PB6VUhPcyiTx) | 3:26 |
 | 21 | [Ấm Êm](https://open.spotify.com/track/07V898tEbqF67AMb5Nn9h8) | [Lahi](https://open.spotify.com/artist/1uENTg8Fy1U7lEsQWcjIFF), [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [Ấm Êm](https://open.spotify.com/album/4TCIX5c9H4Z2k2ElFOVTFO) | 2:52 |
 | 22 | [My G\(irl\)](https://open.spotify.com/track/128Jc2dLKszbRDUmLMWEgU) | [Koo](https://open.spotify.com/artist/19JOXyTbKnSp1QxnKEeXtq) | [My G\(irl\)](https://open.spotify.com/album/1bifyxuMnvs2OOC2HxnCdG) | 2:20 |
-| 23 | [Mascara Lung Linh](https://open.spotify.com/track/21qlwrdQsEgOJp92fKkFKk) | [Lil Tian](https://open.spotify.com/artist/0m8wMRcVitcHq2s3TPWD6R), [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ) | [Mascara Lung Linh](https://open.spotify.com/album/1F8Q53wcVs2LZjtyOgEGkF) | 1:56 |
+| 23 | [Mascara Lung Linh](https://open.spotify.com/track/21qlwrdQsEgOJp92fKkFKk) | [Lil Tian](https://open.spotify.com/artist/5PycWaugD9Q5dyWytEihtR), [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ) | [Mascara Lung Linh](https://open.spotify.com/album/1F8Q53wcVs2LZjtyOgEGkF) | 1:56 |
 | 24 | [is everything okay?](https://open.spotify.com/track/69o93hbZJ6Lg5AUkbM8shC) | [StormiSton](https://open.spotify.com/artist/09H7MD10xt90EH8DZrzD7d) | [is everything okay?](https://open.spotify.com/album/1xXI3xpdXe34idP0qnKZPo) | 3:47 |
 | 25 | [Giữa Những Đám Mây](https://open.spotify.com/track/6ywEIMyLGgxrZL901czH4R) | [Phin](https://open.spotify.com/artist/2EMO4OuJ3gUhNh6FBvthJi), [G of NFK](https://open.spotify.com/artist/0x2izdJoHWxRi9OLTkKjsC) | [Giữa Những Đám Mây](https://open.spotify.com/album/6VWGH0wslx1tZS9SZhF3AB) | 2:53 |
 | 26 | [Trao Em Tình Yêu](https://open.spotify.com/track/0vgMjbZgwpcrkQXjRqSQwA) | [Vang](https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW), [Darki](https://open.spotify.com/artist/5Oe02XQcUF74wOofnIl9b2) | [Trao Em Tình Yêu](https://open.spotify.com/album/1E8YpWgwRWDXZDrkgTvm0M) | 3:07 |

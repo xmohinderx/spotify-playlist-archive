@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 551529,
+  "num_followers": 552010,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0NjkxNywwMDAwMDAwMGFkMTNjMDhhMmMxNGM2Mjg0OTk1NTYzZGJkYmM1ZDYz",
+  "snapshot_id": "MTY3NjY0NjkxNywwMDAwMDAwMDcxNDUxZTRkY2ExMzYwNzAyZmY5MzhiN2MyNTkwODAx",
   "tracks": [
     {
       "added_at": "2023-02-10 17:05:11",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
     },
     {
-      "added_at": "2023-02-19 06:40:20",
+      "added_at": "2023-02-20 01:09:28",
       "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 295454,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
+      "duration_ms": 187388,
+      "name": "Certainty",
+      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 187388,
-      "name": "Certainty",
-      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
+      "duration_ms": 295454,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 298720,
-      "name": "Paper Thin",
-      "url": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 171756,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 298720,
+      "name": "Paper Thin",
+      "url": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
-        "name": "Same Kind of People",
-        "url": "https://open.spotify.com/album/4zFAYEzJFfPkJA7WbGWnIz"
-      },
-      "artists": [
-        {
-          "name": "Bukahara",
-          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
-        }
-      ],
-      "duration_ms": 242546,
-      "name": "Same Kind of People",
-      "url": "https://open.spotify.com/track/0JJ4Q040PP2kU7AxaZTl9B"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
       },
@@ -693,7 +677,23 @@
       "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
     },
     {
-      "added_at": "2023-02-19 06:40:20",
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
+        "name": "Same Kind of People",
+        "url": "https://open.spotify.com/album/4zFAYEzJFfPkJA7WbGWnIz"
+      },
+      "artists": [
+        {
+          "name": "Bukahara",
+          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
+        }
+      ],
+      "duration_ms": 242546,
+      "name": "Same Kind of People",
+      "url": "https://open.spotify.com/track/0JJ4Q040PP2kU7AxaZTl9B"
+    },
+    {
+      "added_at": "2023-02-20 01:09:28",
       "album": {
         "name": "Chariot",
         "url": "https://open.spotify.com/album/3R9K985Qq28VqqzeV65bZ0"
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
         "name": "Lose Yourself",
         "url": "https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 216560,
       "name": "A Lingering Love",
       "url": "https://open.spotify.com/track/1vX5qdTsxb0Gedzmyc8UV2"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
-        "name": "A Mineral Love",
-        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ"
-      },
-      "artists": [
-        {
-          "name": "SWEED",
-          "url": "https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG"
-        }
-      ],
-      "duration_ms": 219562,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
         "name": "Golden Rope",
         "url": "https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 220275,
       "name": "Golden Rope",
       "url": "https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ"
+      },
+      "artists": [
+        {
+          "name": "SWEED",
+          "url": "https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG"
+        }
+      ],
+      "duration_ms": 219562,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
         "name": "ready now",
         "url": "https://open.spotify.com/album/3UimgkGAY5asGDoRqwKbz3"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 176567,
       "name": "ready now",
       "url": "https://open.spotify.com/track/1hH8pM8m5vPOFqNkZdqfZd"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8"
     },
     {
-      "added_at": "2023-02-19 06:40:20",
-      "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
-    },
-    {
       "added_at": "2023-02-10 17:05:11",
       "album": {
         "name": "Rio Grande",
@@ -1243,6 +1227,22 @@
       "duration_ms": 271593,
       "name": "Rio Grande",
       "url": "https://open.spotify.com/track/0dxauDDDoSPJqmKJlNRjPu"
+    },
+    {
+      "added_at": "2023-02-20 01:09:28",
+      "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 216506,
+      "name": "One Evening",
+      "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
         "name": "No Goodbye",
         "url": "https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 252000,
       "name": "No Goodbye",
       "url": "https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "One Evening",
-      "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
+        "name": "Future Perfect, Present Tense",
+        "url": "https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS"
+      },
+      "artists": [
+        {
+          "name": "Ten F\u00e9",
+          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Isn't Ever A Day",
+      "url": "https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
         "name": "Through Water",
         "url": "https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 262533,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
-        "name": "Future Perfect, Present Tense",
-        "url": "https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS"
-      },
-      "artists": [
-        {
-          "name": "Ten F\u00e9",
-          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Isn't Ever A Day",
-      "url": "https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
         "name": "Hole Digger",
         "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
       },
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/4mhvs37yJYqOKs0c6Bunvk"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
-        "name": "Tenderfoot",
-        "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
-      },
-      "artists": [
-        {
-          "name": "The Day",
-          "url": "https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN"
-        }
-      ],
-      "duration_ms": 128703,
-      "name": "Tenderfoot",
-      "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 219405,
       "name": "Angel",
       "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
+        "name": "Tenderfoot",
+        "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
+      },
+      "artists": [
+        {
+          "name": "The Day",
+          "url": "https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN"
+        }
+      ],
+      "duration_ms": 128703,
+      "name": "Tenderfoot",
+      "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
     },
     {
       "added_at": "2023-02-10 17:05:11",

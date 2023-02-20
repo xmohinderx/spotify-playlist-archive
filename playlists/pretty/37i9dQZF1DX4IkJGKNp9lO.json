@@ -1,12 +1,12 @@
 {
   "description": "Svensk punk fr\u00e5n f\u00f6rr och nu. \n",
-  "num_followers": 27577,
+  "num_followers": 27587,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc3NDAwMCwwMDAwMDAwMDlhNjlmN2E4ZThhMDkzMTYxMzU5Mjc2ZTk3NjZlMWVk",
+  "snapshot_id": "MTY3NDc3NDAwMCwwMDAwMDAwMDVjZTVlNDc3NzVlN2UwNDYxMWZkNTdmNzk2NmNkMzMx",
   "tracks": [
     {
       "added_at": "2023-01-26 23:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-01-26 23:00:00",
       "album": {
-        "name": "Det \u00e4r ni som e dom konstiga, det \u00e4r jag som e normal",
-        "url": "https://open.spotify.com/album/1U7Ov48AUaL2hGaczvCr8H"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "En vacker d\u00f6d stad",
-      "url": "https://open.spotify.com/track/3HFzjAO51qwy6m0B5dMmhV"
-    },
-    {
-      "added_at": "2023-01-26 23:00:00",
-      "album": {
         "name": "Noppriga Tights Och Moonboots",
         "url": "https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 144266,
       "name": "Fina Flickor",
       "url": "https://open.spotify.com/track/7H69MJpL8m8QrpcBVMbEfr"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
+        "name": "Det \u00e4r ni som e dom konstiga, det \u00e4r jag som e normal",
+        "url": "https://open.spotify.com/album/1U7Ov48AUaL2hGaczvCr8H"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "En vacker d\u00f6d stad",
+      "url": "https://open.spotify.com/track/3HFzjAO51qwy6m0B5dMmhV"
     },
     {
       "added_at": "2023-01-26 23:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-01-26 23:00:00",
       "album": {
-        "name": "Versace Style",
-        "url": "https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f"
-      },
-      "artists": [
-        {
-          "name": "En Svensk Tiger",
-          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
-        }
-      ],
-      "duration_ms": 128080,
-      "name": "Punkrockarflicka",
-      "url": "https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU"
-    },
-    {
-      "added_at": "2023-01-26 23:00:00",
-      "album": {
         "name": "Le Som En Fotomodell",
         "url": "https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 130360,
       "name": "Troll Och H\u00e4xor",
       "url": "https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
+        "name": "Versace Style",
+        "url": "https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f"
+      },
+      "artists": [
+        {
+          "name": "En Svensk Tiger",
+          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
+        }
+      ],
+      "duration_ms": 128080,
+      "name": "Punkrockarflicka",
+      "url": "https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU"
     },
     {
       "added_at": "2023-01-26 23:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-01-26 23:00:00",
       "album": {
-        "name": "Sista Dansen",
-        "url": "https://open.spotify.com/album/11i9Y2YSd0dEMcALvVNhXa"
-      },
-      "artists": [
-        {
-          "name": "Asta Kask",
-          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Psykopaten",
-      "url": "https://open.spotify.com/track/4c6adBbwi1LnSJDwSayW9Y"
-    },
-    {
-      "added_at": "2023-01-26 23:00:00",
-      "album": {
         "name": "Tecken I Tiden",
         "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 250866,
       "name": "Herrarna I Sandl\u00e5dan",
       "url": "https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
+        "name": "Sista Dansen",
+        "url": "https://open.spotify.com/album/11i9Y2YSd0dEMcALvVNhXa"
+      },
+      "artists": [
+        {
+          "name": "Asta Kask",
+          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Psykopaten",
+      "url": "https://open.spotify.com/track/4c6adBbwi1LnSJDwSayW9Y"
     },
     {
       "added_at": "2023-01-26 23:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-01-26 23:00:00",
       "album": {
-        "name": "Snabbmat F\u00f6r Folk I Farten",
-        "url": "https://open.spotify.com/album/2zyjwH3dY4mqHEykHoKzTh"
-      },
-      "artists": [
-        {
-          "name": "Hans & Greta",
-          "url": "https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Sibylla",
-      "url": "https://open.spotify.com/track/3OhmF7xJuoNr5EQNWcw03q"
-    },
-    {
-      "added_at": "2023-01-26 23:00:00",
-      "album": {
         "name": "Docent D\u00f6d (Mini-LP)",
         "url": "https://open.spotify.com/album/2S9DWuSoChp6oI1eWiequT"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 123560,
       "name": "Feta Gubbar",
       "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
+        "name": "Snabbmat F\u00f6r Folk I Farten",
+        "url": "https://open.spotify.com/album/2zyjwH3dY4mqHEykHoKzTh"
+      },
+      "artists": [
+        {
+          "name": "Hans & Greta",
+          "url": "https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Sibylla",
+      "url": "https://open.spotify.com/track/3OhmF7xJuoNr5EQNWcw03q"
     },
     {
       "added_at": "2023-01-26 23:00:00",

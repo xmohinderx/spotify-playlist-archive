@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-367 songs - 1 day 14 hr 1 min
+368 songs - 1 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Ben Suliman](https://open.spotify.com/track/61K2ojT7cOXHEX6sPa0RTP) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Adam Husa](https://open.spotify.com/artist/0fLNKqkCYBUhjSHX3yVZ3i) | [Ben Suliman](https://open.spotify.com/album/3pGaHYcyYR5AK0dR5LzqET) | 7:47 | 2021-04-21 | 2022-07-24 |
 | [Birdhouse](https://open.spotify.com/track/1ZVQwuH7hkZiT6XljB2Au3) | [Ykonosh](https://open.spotify.com/artist/2peTWb6ju8YmQQSw5LcA5C), [Mundai](https://open.spotify.com/artist/652ljuzwRVrf1Y1Ly6dVpi) | [Birdhouse](https://open.spotify.com/album/0tAg6GiHkEzpfN4mSyFBf8) | 6:40 | 2022-01-21 | 2022-07-25 |
 | [Birds and Smoke](https://open.spotify.com/track/61r7nhS0hlGJeQXDHy58pL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Birds and Smoke](https://open.spotify.com/album/362PlMh5VwHG30Wy6AX2un) | 6:08 | 2021-06-04 | 2022-07-29 |
+| [Birds and Smoke](https://open.spotify.com/track/6gFvgBSlJFjC4pswZJKSx6) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Walden Pond](https://open.spotify.com/album/5yS2vHJXAfLwUNYmuJ556C) | 6:08 | 2022-07-01 |  |
 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 | 2022-04-11 |  |
 | [Blinding Lights \- Joris Voorn Remix](https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Blinding Lights \(Joris Voorn Remix\)](https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J) | 5:13 | 2021-05-03 |  |
 | [Blue Rose](https://open.spotify.com/track/1WByZBGVI09ggCjH5wru9a) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Blue Rose / Red Room](https://open.spotify.com/album/1SDs4zVPGrZSSTaRxmsFl3) | 4:49 | 2022-01-14 | 2022-07-27 |
@@ -184,7 +185,7 @@
 | [Leaving Home](https://open.spotify.com/track/2S3UsA5sFyCGdpdWqkusTe) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Vette / Leaving Home](https://open.spotify.com/album/4rDSAYMAsLVz7sJqxBCF1b) | 6:28 | 2021-04-21 | 2022-07-23 |
 | [Lepiej nie mówmy nikomu](https://open.spotify.com/track/6Bw5TLTJbwONfD2li10UBb) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [Lepiej nie mówmy nikomu](https://open.spotify.com/album/659TQGieS3UFvTK6UyvEBz) | 5:45 | 2022-07-01 | 2022-07-26 |
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2022-09-09 |  |
-| [Let Us Be Free](https://open.spotify.com/track/6JPFfWs7C54hsD4WwhNKun) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Let Us Be Free](https://open.spotify.com/album/21mYe46OSTD40v2dq4Qgga) | 7:07 | 2022-12-09 |  |
+| [Let Us Be Free](https://open.spotify.com/track/6JPFfWs7C54hsD4WwhNKun) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Let Us Be Free](https://open.spotify.com/album/21mYe46OSTD40v2dq4Qgga) | 7:07 | 2022-12-09 | 2023-02-20 |
 | [Let's Pretend](https://open.spotify.com/track/2w4OE0IjsQdmB07DDsc4r9) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Let's Pretend](https://open.spotify.com/album/7vFNsn1Tp7f5r0w1ntL35K) | 3:40 | 2022-11-18 |  |
 | [Life Is...](https://open.spotify.com/track/0DSxtNjXsZk06n3Fqdjl26) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Life Is...](https://open.spotify.com/album/2kVQXgXsVuu41T86tXb4vo) | 4:13 | 2022-10-24 | 2022-11-18 |
 | [Lion Rock](https://open.spotify.com/track/7AFmB72s93HsxKbq32KVJO) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Lion Rock](https://open.spotify.com/album/5zwAJDzfCHfPFtM5EH8zyk) | 4:36 | 2021-04-21 | 2022-04-21 |

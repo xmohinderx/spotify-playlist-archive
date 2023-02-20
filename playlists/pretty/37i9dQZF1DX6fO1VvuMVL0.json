@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 47512,
+  "num_followers": 47568,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU0MTI0OSwwMDAwMDAwMGM0MmVkNzYzMGVlNzcyNTk1N2ZiZWQyMGZjYjI2YWI0",
+  "snapshot_id": "MTY3NjU0MTI0OSwwMDAwMDAwMGM2NjUzYzYxY2NhNjE3ZDRjOWY4NmQ2MThjMzg5N2Ey",
   "tracks": [
     {
       "added_at": "2023-02-02 10:03:07",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-02-02 10:03:07",
       "album": {
-        "name": "The Jazz Giants",
-        "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 606026,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7"
-    },
-    {
-      "added_at": "2023-02-02 10:03:07",
-      "album": {
         "name": "Picture Of Heath",
         "url": "https://open.spotify.com/album/7gGl026dNLosYhDnHcCIgO"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 385666,
       "name": "For Miles And Miles",
       "url": "https://open.spotify.com/track/3xHZQmEwgrLTQv2b6vTYPC"
+    },
+    {
+      "added_at": "2023-02-02 10:03:07",
+      "album": {
+        "name": "The Jazz Giants",
+        "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 606026,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7"
     },
     {
       "added_at": "2023-02-02 10:03:07",
@@ -663,6 +663,26 @@
     {
       "added_at": "2023-02-02 10:03:07",
       "album": {
+        "name": "Lester Young With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4LT6FAMWGSf3qpPn3Wdyh1"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 208468,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/5uQkJU8FDt9srkxKfKRiBN"
+    },
+    {
+      "added_at": "2023-02-02 10:03:07",
+      "album": {
         "name": "The Poll Winners Ride Again!",
         "url": "https://open.spotify.com/album/5fpBssf4ZkNncA3zYpRrC6"
       },
@@ -719,26 +739,6 @@
     {
       "added_at": "2023-02-02 10:03:07",
       "album": {
-        "name": "Lester Young With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4LT6FAMWGSf3qpPn3Wdyh1"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 208468,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/5uQkJU8FDt9srkxKfKRiBN"
-    },
-    {
-      "added_at": "2023-02-02 10:03:07",
-      "album": {
         "name": "The Return Of Art Pepper",
         "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-02 10:03:07",
       "album": {
-        "name": "Sweet Rain",
-        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 429026,
-      "name": "Sweet Rain",
-      "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
-    },
-    {
-      "added_at": "2023-02-02 10:03:07",
-      "album": {
         "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
       },
@@ -819,22 +803,34 @@
     {
       "added_at": "2023-02-02 10:03:07",
       "album": {
-        "name": "Blowin' Country",
-        "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
+        "name": "Sweet Rain",
+        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
       },
       "artists": [
         {
-          "name": "Bud Shank",
-          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
-        },
-        {
-          "name": "Bob Cooper",
-          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 225160,
-      "name": "Just In Time",
-      "url": "https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF"
+      "duration_ms": 429026,
+      "name": "Sweet Rain",
+      "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
+    },
+    {
+      "added_at": "2023-02-02 10:03:07",
+      "album": {
+        "name": "Fontessa",
+        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
     },
     {
       "added_at": "2023-02-02 10:03:07",
@@ -855,18 +851,22 @@
     {
       "added_at": "2023-02-02 10:03:07",
       "album": {
-        "name": "Fontessa",
-        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
+        "name": "Blowin' Country",
+        "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
       "artists": [
         {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+          "name": "Bud Shank",
+          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
+        },
+        {
+          "name": "Bob Cooper",
+          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
         }
       ],
-      "duration_ms": 288106,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
+      "duration_ms": 225160,
+      "name": "Just In Time",
+      "url": "https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF"
     },
     {
       "added_at": "2023-02-02 10:03:07",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-02-02 10:03:07",
       "album": {
-        "name": "Django (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "One Bass Hit",
-      "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
-    },
-    {
-      "added_at": "2023-02-02 10:03:07",
-      "album": {
         "name": "Jazz Masters Deluxe Collection: Gerry Mulligan",
         "url": "https://open.spotify.com/album/2hK2NVvfVEflYkNNC33dDd"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 250472,
       "name": "Laura",
       "url": "https://open.spotify.com/track/0pdajpmRwVX10gYQgZUYbO"
+    },
+    {
+      "added_at": "2023-02-02 10:03:07",
+      "album": {
+        "name": "Django (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "One Bass Hit",
+      "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
     },
     {
       "added_at": "2023-02-02 10:03:07",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-02-02 10:03:07",
       "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "I'm Glad There Is You - Remaster/2004",
-      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
-    },
-    {
-      "added_at": "2023-02-02 10:03:07",
-      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 221693,
       "name": "Show Me - Instrumental",
       "url": "https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E"
+    },
+    {
+      "added_at": "2023-02-02 10:03:07",
+      "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "I'm Glad There Is You - Remaster/2004",
+      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
     },
     {
       "added_at": "2023-02-02 10:03:07",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-02-02 10:03:07",
       "album": {
-        "name": "A Night At The Vanguard",
-        "url": "https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell Trio",
-          "url": "https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU"
-        }
-      ],
-      "duration_ms": 260973,
-      "name": "Just A-Sittin' And A-Rockin' - Live At The Village Vanguard, New York / 1959",
-      "url": "https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1"
-    },
-    {
-      "added_at": "2023-02-02 10:03:07",
-      "album": {
         "name": "4 to Go!",
         "url": "https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 331266,
       "name": "Life Is a Ball",
       "url": "https://open.spotify.com/track/5knIQIYX3uLKECQH6n9DJg"
+    },
+    {
+      "added_at": "2023-02-02 10:03:07",
+      "album": {
+        "name": "A Night At The Vanguard",
+        "url": "https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell Trio",
+          "url": "https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU"
+        }
+      ],
+      "duration_ms": 260973,
+      "name": "Just A-Sittin' And A-Rockin' - Live At The Village Vanguard, New York / 1959",
+      "url": "https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1"
     },
     {
       "added_at": "2023-02-02 10:03:07",

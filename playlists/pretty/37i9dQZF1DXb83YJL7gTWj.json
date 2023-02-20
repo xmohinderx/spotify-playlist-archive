@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 245328,
+  "num_followers": 245366,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM5MTcyMSwwMDAwMDAwMGZmMWEwZmZmYzVjZmI0MTVkOGI3Mzc3YmQyMmQ3MDA0",
+  "snapshot_id": "MTY3NjM5MTcyMSwwMDAwMDAwMDc0MzdiMzY5YTVlOTY5ZTIzOGI1ODRjZDAyY2E0M2Rh",
   "tracks": [
     {
       "added_at": "2023-02-10 05:01:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
-        "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
+        "name": "THE END OF EVERYTHING",
+        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
       },
       "artists": [
         {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 208694,
-      "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
-      "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
+      "duration_ms": 144377,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "THE END OF EVERYTHING",
-        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
+        "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
+        "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
         }
       ],
-      "duration_ms": 144377,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf"
+      "duration_ms": 208694,
+      "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
+      "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "Apart",
-        "url": "https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 201391,
-      "name": "In a Stranger's Arms",
-      "url": "https://open.spotify.com/track/7s6jUeM4ENpUrHCSzQZV0v"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
         "name": "Best Part of Me (feat. YEBBA)",
         "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 243266,
       "name": "Best Part of Me (feat. YEBBA)",
       "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 201391,
+      "name": "In a Stranger's Arms",
+      "url": "https://open.spotify.com/track/7s6jUeM4ENpUrHCSzQZV0v"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
+        "name": "The Only Exception",
+        "url": "https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "duration_ms": 262066,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
         "name": "Crying Over You",
         "url": "https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 178949,
       "name": "Crying Over You",
       "url": "https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "The Only Exception",
-        "url": "https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
-        }
-      ],
-      "duration_ms": 262066,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "Three. Two. One.",
-        "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Older Than I Am",
-      "url": "https://open.spotify.com/track/15VDHAMS4JCLziCjNkmQl1"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 201541,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Three. Two. One.",
+        "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Older Than I Am",
+      "url": "https://open.spotify.com/track/15VDHAMS4JCLziCjNkmQl1"
     },
     {
       "added_at": "2023-02-10 05:01:00",

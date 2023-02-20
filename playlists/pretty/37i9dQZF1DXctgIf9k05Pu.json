@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 223886,
+  "num_followers": 224054,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDk0ODBjZjk2OTg0OGIzOGU0YmIzYWVhNmY3Y2ZlZTlh",
+  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDY5NWM5YWFkODJiNTQ3MmZlYzYzNjI3ZDVkZjA3YjU3",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Summer Picnic",
-        "url": "https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND"
-      },
-      "artists": [
-        {
-          "name": "Jordy Chandra",
-          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
-        }
-      ],
-      "duration_ms": 115384,
-      "name": "Summer Picnic",
-      "url": "https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "unexpected",
         "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 86571,
       "name": "viola",
       "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Summer Picnic",
+        "url": "https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND"
+      },
+      "artists": [
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "duration_ms": 115384,
+      "name": "Summer Picnic",
+      "url": "https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef"
     },
     {
       "added_at": "2022-02-02 00:21:48",

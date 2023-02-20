@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjwScXt3ScZ.md) - [plain]
 
 > Light and sugary OPM pop songs that tick all the romantic boxes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,984 likes - 73 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,005 likes - 73 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

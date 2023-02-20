@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Frank Walker &amp; Ella Henderson
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,086 likes - 92 songs - 5 hr 5 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,082 likes - 92 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 86 | [Rapture](https://open.spotify.com/track/3uh4LGc6d5uvYUdWlTaZSX) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Rapture](https://open.spotify.com/album/02cf6UKY0AwT09TDklIyEp) | 2:41 |
 | 87 | [All I Ever](https://open.spotify.com/track/5g5ImAyBj1AZpRFspFIJWt) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [All I Ever EP](https://open.spotify.com/album/3nRODdh5F8Wn2NDp8qKzXa) | 2:52 |
 | 88 | [How We Do](https://open.spotify.com/track/1eMZdfK7A9cHAMn083Euy3) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Les Pays Bass](https://open.spotify.com/album/6yAOdghBIXRv3mwIk2b30I) | 2:30 |
-| 89 | [Keep It Moving \(feat\. Knox Fortune\)](https://open.spotify.com/track/3SVCdXlMdoe5EicHJp6vGa) | [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Keep It Moving \(feat\. Knox Fortune\)](https://open.spotify.com/album/67kspCfxRBj5goRTTLH51s) | 3:14 |
+| 89 | [Keep It Movin \(feat\. Knox Fortune\)](https://open.spotify.com/track/3SVCdXlMdoe5EicHJp6vGa) | [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Keep It Movin \(feat\. Knox Fortune\)](https://open.spotify.com/album/67kspCfxRBj5goRTTLH51s) | 3:14 |
 | 90 | [I Want You](https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [I Want You](https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ) | 2:26 |
 | 91 | [Move All Night \(feat\. Kole\) \- SNBRN VIP Mix](https://open.spotify.com/track/3RuuJsoZb28nBIrAprTeFc) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8) | [Move All Night \(feat\. Kole\) \[SNBRN VIP Mix\]](https://open.spotify.com/album/4It7cYaNWnXbfe52DgspIS) | 3:40 |
 | 92 | [Sacrifice](https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY) | [Sacrifice](https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi) | 4:39 |

@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Django Django & Self Esteem.
 
-694 songs - 1 day 21 hr 23 min
+695 songs - 1 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 | 2022-03-25 | 2023-01-21 |
 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 | 2022-09-17 | 2022-10-06 |
 | [Cantares](https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Cantares](https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO) | 2:55 | 2021-12-10 | 2022-04-20 |
+| [Can’t Let You Go](https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Can’t Let You Go](https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8) | 2:53 | 2023-02-17 |  |
 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 | 2021-09-10 | 2023-01-06 |
 | [Chaeri](https://open.spotify.com/track/23lHAG7gddyqzpCAv3OuCT) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Chaeri](https://open.spotify.com/album/0oaj14xWeAaya1H1BF9MLC) | 4:17 | 2021-07-02 | 2022-07-04 |
 | [Change](https://open.spotify.com/track/09KmIUMlvTx7TZQrrSKCgl) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Change / Take My Time](https://open.spotify.com/album/08nFm5wXYFGlkJ8jXn6cm5) | 4:50 | 2022-08-12 | 2022-10-13 |
@@ -445,7 +446,7 @@
 | [Ocean](https://open.spotify.com/track/1qOWl2foJb594pmyCtxOqK) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Ocean](https://open.spotify.com/album/4ugI62TomlTqbBQXVb4Zn8) | 3:40 | 2022-04-08 | 2022-05-19 |
 | [Off You](https://open.spotify.com/track/3b2pfV1sGo8ni5lhF6IQRM) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Off You](https://open.spotify.com/album/2ZyTafX0z6gvqgf3nuVgJo) | 3:21 | 2021-08-06 | 2022-04-16 |
 | [Oh, Lover \- Edit](https://open.spotify.com/track/4WnASAjxOLAW4J4ZeAtKq3) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Oh, Lover](https://open.spotify.com/album/3gk7WjSt7KKF6SNezrQc4I) | 3:33 | 2022-08-19 | 2022-10-18 |
-| [Omen \(feat\. Lyrah\)](https://open.spotify.com/track/4noLUZORDAJYCOzkN5OTBH) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Omen \(feat\. Lyrah\)](https://open.spotify.com/album/6Hj2w3WVnDeCL4Tvhffhll) | 3:44 | 2022-09-09 |  |
+| [Omen \(feat\. Lyrah\)](https://open.spotify.com/track/4noLUZORDAJYCOzkN5OTBH) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Omen \(feat\. Lyrah\)](https://open.spotify.com/album/6Hj2w3WVnDeCL4Tvhffhll) | 3:44 | 2022-09-09 | 2023-02-20 |
 | [On My Mind \- Short Version](https://open.spotify.com/track/72f2k9lWpfT95o7KaWkj7Z) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [On My Mind / About U](https://open.spotify.com/album/556C4ye37wUq6bKWjR14vg) | 3:57 | 2021-08-06 | 2022-07-27 |
 | [On My Way](https://open.spotify.com/track/284dZP2uHiNlX2NitwREww) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [On My Way](https://open.spotify.com/album/62ei8HXiUIMF8QNG0AbZiT) | 2:41 | 2022-02-11 | 2022-07-19 |
 | [One More](https://open.spotify.com/track/01irEqIoLSxEZxlvCxP9wf) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH) | [One More EP](https://open.spotify.com/album/5kTyDrG1kqjuriepThjxWA) | 7:08 | 2022-12-09 | 2023-02-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Dimmu Borgir
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,898 likes - 100 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,994 likes - 100 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 35 | [Prism](https://open.spotify.com/track/21Atks7bDN6e7RYQe7Ctax) | [Anachronism](https://open.spotify.com/artist/6PEBIPKi5TvTrCoyDsRDTh) | [Meanders](https://open.spotify.com/album/5uZNpFKELGKlq5iJkVlIuF) | 4:04 |
 | 36 | [Moonflowers Bloom in Misery](https://open.spotify.com/track/1aE3j2yUjvfeUexBdMDKHA) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Moonflowers \(Deluxe Edition\)](https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek) | 6:19 |
 | 37 | [One by One](https://open.spotify.com/track/65sql5o05skwJ6frSq4exl) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Sons of Northern Darkness](https://open.spotify.com/album/2CdmVpeV91e5nfN1kJ6hGj) | 4:58 |
-| 38 | [Stained In Rot](https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Stained In Rot](https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu) | 4:14 |
-| 39 | [In Death's Embrace](https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9) | 5:42 |
+| 38 | [In Death's Embrace](https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9) | 5:42 |
+| 39 | [Stained In Rot](https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Stained In Rot](https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu) | 4:14 |
 | 40 | [Pale Blue Light](https://open.spotify.com/track/1U4fzMisR2YDKFauXInKKq) | [Wounds of Recollection](https://open.spotify.com/artist/1eHqHZFn7vwegBeNRAD2fq) | [Warm Glow of the End of Everything](https://open.spotify.com/album/7IXjjRZv6QwaNbtWg2Ea91) | 9:00 |
 | 41 | [Demonon Vrosis](https://open.spotify.com/track/6YuVmHEXQU3Dgg3w3LSZnZ) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Aealo](https://open.spotify.com/album/16ywSYjE1gvCU1GtlYVXgV) | 4:56 |
 | 42 | [I Troldskog Faren Vild](https://open.spotify.com/track/3Snzs0C112fbgi5q9nQKnj) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Bergtatt](https://open.spotify.com/album/5OEz7YwAQyYvaSl1pmkPCI) | 7:51 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 53 | [Cruelty Brought Thee Orchids](https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Cruelty & The Beast](https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7) | 7:18 |
 | 54 | [Malfeitor](https://open.spotify.com/track/79qyNyF12jmPSLGCvPyInr) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Lawless Darkness](https://open.spotify.com/album/2pQr4wN4SN9Ax3gdXDhrRz) | 6:58 |
 | 55 | [Ye Entrancemperium](https://open.spotify.com/track/7HmGwZ0HvZIsB90wt3AuDE) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Anthems To The Welkin At Dusk](https://open.spotify.com/album/0PIidVsFr9Oji1Y79jTV9M) | 5:14 |
-| 56 | [IRMOS I](https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt) | [Batushka](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [MARIA](https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz) | 4:49 |
+| 56 | [Into the Crypts of Rays](https://open.spotify.com/track/7B2ckrWOWcQCFR4ZGGUhqQ) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales \(Expanded Version\)](https://open.spotify.com/album/1HxVnOkKo8cREE244DnykH) | 3:38 |
 | 57 | [Damned In Black](https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Damned In Black](https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau) | 6:51 |
-| 58 | [Into the Crypts of Rays](https://open.spotify.com/track/7B2ckrWOWcQCFR4ZGGUhqQ) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales \(Expanded Version\)](https://open.spotify.com/album/1HxVnOkKo8cREE244DnykH) | 3:38 |
+| 58 | [IRMOS I](https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt) | [Batushka](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [MARIA](https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz) | 4:49 |
 | 59 | [Coming Storm](https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64) | [Septicflesh](https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b) | [Modern Primitive](https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88) | 4:50 |
 | 60 | [Winter Bane](https://open.spotify.com/track/52cc27W3CNKpZ5c7VTYXrM) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Abbath](https://open.spotify.com/album/4eX4b9aQf2uzygScqcVE8Q) | 6:49 |
 | 61 | [Human Scum](https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Human Scum](https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF) | 4:35 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 71 | [Open the Gates](https://open.spotify.com/track/0LsNJ1h4WWX8T9wZJW9u8l) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [In The Sign..\. \(Re\-issue + Bonus\) \[Deluxe Version\]](https://open.spotify.com/album/3rG83VdcvygOrL6BJGYitt) | 4:34 |
 | 72 | [It's Darker than you Think](https://open.spotify.com/track/479lTQmXhnmGai0UGVxQpY) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Defending the Throne of Evil](https://open.spotify.com/album/3L640gN3OxWwYVipxqerWA) | 4:41 |
 | 73 | [Annihilation Phenomena](https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Annihilation Phenomena](https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO) | 3:51 |
-| 74 | [Hamartia](https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hamartia](https://open.spotify.com/album/35IemOnFQjg24kRfqGxsFS) | 6:03 |
+| 74 | [Dark Medieval Times \- Remastered 2021](https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Dark Medieval Times \(Remastered 2021\)](https://open.spotify.com/album/1PI7BARhjM3hpdvt6dGtYl) | 8:11 |
 | 75 | [Maha\-Kali](https://open.spotify.com/track/0Jt4oMpZKEFRrHYBNglgzt) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [Reinkaos](https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw) | 6:06 |
-| 76 | [Dark Medieval Times \- Remastered 2021](https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Dark Medieval Times \(Remastered 2021\)](https://open.spotify.com/album/1PI7BARhjM3hpdvt6dGtYl) | 8:11 |
+| 76 | [Hamartia](https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hamartia](https://open.spotify.com/album/35IemOnFQjg24kRfqGxsFS) | 6:03 |
 | 77 | [I Am Abomination](https://open.spotify.com/track/1SBGE2wrNmiwHnnLSAiegd) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Hellfire](https://open.spotify.com/album/4qntR4s02MF97EkxAhcdr2) | 4:10 |
 | 78 | [As Above So Below](https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN) | 4:59 |
 | 79 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/10T3UIoqFkTUCGjZUuG6Gi) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves And Titan Woods](https://open.spotify.com/album/6wW5MkAhpOr0QRtznvqqPH) | 2:55 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 95 | [Night of the Blasphemy](https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi) | [Behexen](https://open.spotify.com/artist/2A56suoU3YFYLIp7wHde6c) | [Rituale Satanum](https://open.spotify.com/album/2KzwNB2FmhPkZf9Iif5j0y) | 4:45 |
 | 96 | [Black Crow On A Tombstone](https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/4Yzl4aZZ6Qs9LvKuOIRHJw) | 3:56 |
 | 97 | [Of Beasts and Worms](https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Of Beasts and Worms](https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o) | 6:30 |
-| 98 | [Apostle](https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 4:16 |
-| 99 | [Am Rande der Dunkelheit](https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F) | [Der Weg einer Freiheit](https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD) | [Noktvrn](https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A) | 8:17 |
+| 98 | [Am Rande der Dunkelheit](https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F) | [Der Weg einer Freiheit](https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD) | [Noktvrn](https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A) | 8:17 |
+| 99 | [Apostle](https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 4:16 |
 | 100 | [Cosmic Keys To My Creations](https://open.spotify.com/track/2FtV4xF6bDTesZBgDLSYkH) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Emperor / Wrath Of The Tyrant](https://open.spotify.com/album/0kzYmtQyUN3WfoGsFZL9Jd) | 6:22 |
 
-Snapshot ID: `MTY3NjQ1MDE2NywwMDAwMDAwMDdlOTY4N2VmYmVhYzM5Yzk5OWE2YzRiMGYxZDg0NzJj`
+Snapshot ID: `MTY3NjQ1MDE2NywwMDAwMDAwMDY5NmNhMGYzMjJlMzg2ZTlhYWYxYmQyMDM2OTNhMWEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,115 likes - 65 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,154 likes - 65 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 40 | [Go with You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 |
 | 41 | [Queen Songs/Human](https://open.spotify.com/track/27fpPlAMJc9IM6adpi46Nc) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln) | 8:00 |
 | 42 | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq) | [13 Crowns](https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH) | 4:06 |
-| 43 | [Ain't No Grave](https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF) | [Zach Winters](https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu) | [Ain't No Grave](https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw) | 4:48 |
-| 44 | [The One Where I Talk To God](https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [The One Where I Talk To God](https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz) | 3:25 |
+| 43 | [The One Where I Talk To God](https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [The One Where I Talk To God](https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz) | 3:25 |
+| 44 | [Ain't No Grave](https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF) | [Zach Winters](https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu) | [Ain't No Grave](https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw) | 4:48 |
 | 45 | [Constellate](https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Portals](https://open.spotify.com/album/5yiWKtKmZTtPbuVa9CYs5I) | 3:18 |
 | 46 | [Autumn Love](https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Autumn Love](https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4) | 4:55 |
 | 47 | [Wake Up Sleeper](https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs) | [Wildwood Kin](https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B) | [Wildwood Kin](https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH) | 4:06 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 64 | [Dawned On Me](https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj) | [Brewer](https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2) | [Dawned On Me](https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe) | 2:57 |
 | 65 | [Creature Comforts](https://open.spotify.com/track/3b8l8g7UMJRTCKUEnZiRCF) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Everything at Once](https://open.spotify.com/album/3SnLtbvtKm4791Js84csqh) | 4:04 |
 
-Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMDc5M2E0YzA0NDVmMzYxOGQ1MmY3N2EwNDJlYTRmMTQw`
+Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMDlkNDU3YTI4ZWNmOTMwNWFiNTBhZWQyNWQyZTllMTI0`

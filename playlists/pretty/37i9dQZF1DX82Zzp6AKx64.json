@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Styx",
-  "num_followers": 1093451,
+  "num_followers": 1093687,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA1Nzk5NSwwMDAwMDAwMGM1MDVkYzZlM2YxMDI2MTQ2NTI4ZWE3NzM5ZjM3YjE4",
+  "snapshot_id": "MTY3NDA1Nzk5NSwwMDAwMDAwMDI3YThiZjVlMGIwNzk2ZjVjOTQ4MWU3NGZjOTk2NGQ5",
   "tracks": [
     {
       "added_at": "2023-01-18 16:06:35",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 264333,
-      "name": "Right Here Waiting",
-      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Cross Road",
         "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 353026,
       "name": "Always",
       "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 264333,
+      "name": "Right Here Waiting",
+      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
         "name": "Escape (Bonus Track Version)",
         "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
@@ -331,22 +347,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "To Be With You - 2021 Remastered",
-      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Bat Out Of Hell",
         "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
       },
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
+      "duration_ms": 208080,
+      "name": "To Be With You - 2021 Remastered",
+      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 267080,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+      "duration_ms": 288933,
+      "name": "Never Say Goodbye",
+      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 288933,
-      "name": "Never Say Goodbye",
-      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
+      "duration_ms": 267080,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Bad English",
-        "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
-      },
-      "artists": [
-        {
-          "name": "Bad English",
-          "url": "https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "When I See You Smile",
-      "url": "https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 346960,
       "name": "Love Bites - Remastered 2017",
       "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Bad English",
+        "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
+      },
+      "artists": [
+        {
+          "name": "Bad English",
+          "url": "https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "When I See You Smile",
+      "url": "https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "The Price",
-      "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "5150",
         "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 310933,
       "name": "Love Walks In",
       "url": "https://open.spotify.com/track/6FRQGRdhueJGTKiYnirDNy"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "The Price",
+      "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Killing Machine",
-        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Before the Dawn",
-      "url": "https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Mane Attraction",
         "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 326826,
       "name": "Til Death Do Us Part",
       "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Killing Machine",
+        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Before the Dawn",
+      "url": "https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE"
     },
     {
       "added_at": "2023-01-18 16:06:35",

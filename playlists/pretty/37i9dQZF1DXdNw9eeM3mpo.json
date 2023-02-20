@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Aut\u00e9nticos Decadentes y Andrea Echeverri en portada.",
-  "num_followers": 412642,
+  "num_followers": 412687,
   "original_name": "skad'ak\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1ODE0MywwMDAwMDAwMDMyNDc2MDM2OTE3YjdjOTVkYmEwNWJlOWY5MGJiOTdi",
+  "snapshot_id": "MTY3MTE1ODE0MywwMDAwMDAwMGQxMzBmOWIxYWEzZTdlYjE3YmM5NzYyNDExN2E5OTli",
   "tracks": [
     {
       "added_at": "2022-12-16 02:35:42",
@@ -927,6 +927,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Tu Alma M\u00eda / Adelita",
+      "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
         "name": "Terc3ra Llamada",
         "url": "https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 224669,
       "name": "Adi\u00f3s adi\u00f3s",
       "url": "https://open.spotify.com/track/0ykwpOJjcAa6qKkK8P9TLF"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Tu Alma M\u00eda / Adelita",
-      "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Anakena (Deluxe)",
-        "url": "https://open.spotify.com/album/36txqKziJ3cJlk0mrbR8rG"
+        "name": "Super Riddim Internacional Volumen 1",
+        "url": "https://open.spotify.com/album/7xZ3YEl1nX77akD4rOaw2r"
       },
       "artists": [
         {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 219649,
-      "name": "Sanguchito",
-      "url": "https://open.spotify.com/track/7cFJVQ6Slyv5y4cVJYTFcO"
+      "duration_ms": 222306,
+      "name": "Song Bomb",
+      "url": "https://open.spotify.com/track/112dsuBzOAVvDbY7qvkhDD"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Super Riddim Internacional Volumen 1",
-        "url": "https://open.spotify.com/album/7xZ3YEl1nX77akD4rOaw2r"
+        "name": "Anakena (Deluxe)",
+        "url": "https://open.spotify.com/album/36txqKziJ3cJlk0mrbR8rG"
       },
       "artists": [
         {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
         }
       ],
-      "duration_ms": 222306,
-      "name": "Song Bomb",
-      "url": "https://open.spotify.com/track/112dsuBzOAVvDbY7qvkhDD"
+      "duration_ms": 219649,
+      "name": "Sanguchito",
+      "url": "https://open.spotify.com/track/7cFJVQ6Slyv5y4cVJYTFcO"
     },
     {
       "added_at": "2021-12-21 17:00:46",

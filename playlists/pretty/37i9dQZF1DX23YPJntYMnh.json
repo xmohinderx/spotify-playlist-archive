@@ -1,12 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 457538,
+  "num_followers": 457585,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDk2NzUyOGFmMzFiNzU3ZWM5YzU5Mjc0NGZiNWJmOGI4",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGIyNmNlZjIwZjRhNDA5NmVkYmEzMDhlYjFhZWFiMThj",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -983,18 +983,26 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy"
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR"
       },
       "artists": [
         {
-          "name": "I Mother Earth",
-          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        },
+        {
+          "name": "Chali 2na",
+          "url": "https://open.spotify.com/artist/1ZJlXFkFDBsjSuYyjVcMkk"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
         }
       ],
-      "duration_ms": 319066,
-      "name": "Rain Will Fall",
-      "url": "https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj"
+      "duration_ms": 293875,
+      "name": "Justice 2020",
+      "url": "https://open.spotify.com/track/20Cq38WdpKCscYtTPTZy0J"
     }
   ],
   "unique_name": "Funk Rock",

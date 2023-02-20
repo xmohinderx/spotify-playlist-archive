@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,032 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,053 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 49 | [Aluciné](https://open.spotify.com/track/1dKiTltAJ2zA4hi2DIZkWb) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Alucine](https://open.spotify.com/album/7i5xLbOj6zyoDAJUnpHhGZ) | 3:04 |
 | 50 | [Rifare Mi Suerte](https://open.spotify.com/track/2WyJSulp2RErZqWTIwBCCm) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Decimo Aniversario](https://open.spotify.com/album/1MWHfmhCI3Y5iX0f0GwV5J) | 2:01 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDA5M2VlOGQ5ZmVlOWY4ZTY5ZTM2NTczZjZlZjQ3Yjg5MQ==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDBlZmVhOWE3MTdhZWNiNzQ4OGVmYzZkOTY1ZDFmMmNhOQ==`

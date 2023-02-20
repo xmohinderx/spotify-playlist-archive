@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 
 > Nada que un buen danzón no pueda curar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,466 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,486 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 59 | [Blanca Estela](https://open.spotify.com/track/4a8VEqxbq7hm7bkdneKIGD) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Danzones a la Mexicana](https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW) | 2:55 |
 | 60 | [Maria](https://open.spotify.com/track/6ftTw3iQQs4aUYAADPhJjc) | [Orquesta de Mexico de Pedro Mendoza](https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp) | [Danzones Y Cha Cha Cha](https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d) | 3:24 |
 | 61 | [El Barbero de Sevilla](https://open.spotify.com/track/3fHna2OnxnhamZeobDbAED) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Clásicos en Danzón](https://open.spotify.com/album/1oO1wKwoQXZW5j7fNiD3v9) | 3:14 |
-| 62 | [El Danubio Azul](https://open.spotify.com/track/6OeP7ycmBYPJ0Fy5I4Wpze) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Clásicos en Danzón](https://open.spotify.com/album/1oO1wKwoQXZW5j7fNiD3v9) | 2:43 |
-| 63 | [El Pichi](https://open.spotify.com/track/4e0wbKqTO69IAbfqMxdApQ) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon, Vol\. 1](https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM) | 3:48 |
+| 62 | [El Pichi](https://open.spotify.com/track/4e0wbKqTO69IAbfqMxdApQ) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon, Vol\. 1](https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM) | 3:48 |
+| 63 | [El Danubio Azul](https://open.spotify.com/track/6OeP7ycmBYPJ0Fy5I4Wpze) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Clásicos en Danzón](https://open.spotify.com/album/1oO1wKwoQXZW5j7fNiD3v9) | 2:43 |
 | 64 | [Cecilia](https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD) | [La Leyenda Viviente del Danzón](https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD) | 4:53 |
 | 65 | [Los Timbales de Acerina](https://open.spotify.com/track/0GtJmLS2CQDmjT6ePxaBxy) | [Los Mejores Danzones](https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s) | [Danzones Salon Mexico](https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ) | 3:00 |
 | 66 | [Kid Azteca](https://open.spotify.com/track/0gjzQGng626FCeJu9xFfrq) | [Los Mejores Danzones](https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s) | [Danzones Salon Mexico](https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ) | 4:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 74 | [Dónde Estás Terrón](https://open.spotify.com/track/0uQFoFTqVAsZbB85s9xUbv) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD) | [La Leyenda Viviente del Danzón](https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD) | 5:07 |
 | 75 | [Elodia](https://open.spotify.com/track/17YaVYvTFsCwRbs4IokrAw) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon Volumen 2](https://open.spotify.com/album/2hWEiNYl4fwtvULhcVZnvE) | 3:35 |
 
-Snapshot ID: `MTY1OTQ4MjkwMiwwMDAwMDAwMDk5MDkwN2UxYzkzOWUzMDhmZmFhMDYzMTZmMTFkZWYx`
+Snapshot ID: `MTY1OTQ4MjkwMiwwMDAwMDAwMGY2YTA0ZTUwOTQyMjE0YmRmZjI0ZWFlNTVkZDM1NzY2`

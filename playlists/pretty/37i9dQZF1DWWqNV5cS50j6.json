@@ -1,12 +1,12 @@
 {
   "description": "jonatan leandoer96 makes anti pop.",
-  "num_followers": 693285,
+  "num_followers": 693308,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYyMjcyMCwwMDAwMDAwMDQ1ZmY1NDJjYjc0YjVkMmQ0OGNlZDFiODkxODdmYzA0",
+  "snapshot_id": "MTY3NjYyMjcyMCwwMDAwMDAwMGFlYTBjNjkzYjkxYmM2ZmUyOWQ3YjQ2MDg0ODNkNjZj",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -301,24 +301,20 @@
       "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
     },
     {
-      "added_at": "2023-01-04 14:50:34",
+      "added_at": "2023-02-09 20:55:39",
       "album": {
-        "name": "Mamacita (feat. A$AP Rocky)",
-        "url": "https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0"
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
       },
       "artists": [
         {
-          "name": "Smooky MarGielaa",
-          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 185749,
-      "name": "Mamacita (feat. A$AP Rocky)",
-      "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -337,20 +333,24 @@
       "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
     },
     {
-      "added_at": "2023-02-09 20:55:39",
+      "added_at": "2023-01-04 14:50:34",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
+        "name": "Mamacita (feat. A$AP Rocky)",
+        "url": "https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "Smooky MarGielaa",
+          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 190348,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
+      "duration_ms": 185749,
+      "name": "Mamacita (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
     },
     {
       "added_at": "2022-11-30 19:41:15",

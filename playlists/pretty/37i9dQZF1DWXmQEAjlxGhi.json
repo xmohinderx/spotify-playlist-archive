@@ -1,12 +1,12 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1341662,
+  "num_followers": 1341938,
   "original_name": "Latin Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjEzMTg4NywwMDAwMDAwMDc4YTkwNTY1ZDliOTMyMzU4Nzk0OWQ4NDhhMDk3YWY2",
+  "snapshot_id": "MTY3NjEzMTg4NywwMDAwMDAwMDFjOGFlNWE4NzI1ZWM3NjZhZGRiMGNlMWRiYTY3ZjM2",
   "tracks": [
     {
       "added_at": "2023-02-11 16:11:27",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-02-11 16:11:27",
       "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
+    },
+    {
+      "added_at": "2023-02-11 16:11:27",
+      "album": {
         "name": "CHAO BEBE",
         "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 206499,
       "name": "CHAO BEBE",
       "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
-    },
-    {
-      "added_at": "2023-02-11 16:11:27",
-      "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
     },
     {
       "added_at": "2023-02-11 16:11:27",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-02-11 16:11:27",
       "album": {
-        "name": "Junio",
-        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "Junio",
-      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
-    },
-    {
-      "added_at": "2023-02-11 16:11:27",
-      "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2023-02-11 16:11:27",
+      "album": {
+        "name": "Junio",
+        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Junio",
+      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
     },
     {
       "added_at": "2023-02-11 16:11:27",
@@ -1303,18 +1303,26 @@
     {
       "added_at": "2023-02-11 16:11:27",
       "album": {
-        "name": "BLACKOUT",
-        "url": "https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5"
+        "name": "Baila Conmigo (feat. Kelly Ruiz)",
+        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "name": "Kelly Ru\u00edz",
+          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
         }
       ],
-      "duration_ms": 183400,
-      "name": "BLACKOUT",
-      "url": "https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae"
+      "duration_ms": 189817,
+      "name": "Baila Conmigo (feat. Kelly Ruiz)",
+      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
     },
     {
       "added_at": "2023-02-11 16:11:27",
@@ -1363,26 +1371,18 @@
     {
       "added_at": "2023-02-11 16:11:27",
       "album": {
-        "name": "Baila Conmigo (feat. Kelly Ruiz)",
-        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
+        "name": "BLACKOUT",
+        "url": "https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5"
       },
       "artists": [
         {
-          "name": "Dayvi",
-          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
-        },
-        {
-          "name": "Victor Cardenas",
-          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
-        },
-        {
-          "name": "Kelly Ru\u00edz",
-          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 189817,
-      "name": "Baila Conmigo (feat. Kelly Ruiz)",
-      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
+      "duration_ms": 183400,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae"
     },
     {
       "added_at": "2023-02-11 16:11:27",
@@ -1659,22 +1659,22 @@
     {
       "added_at": "2023-02-11 16:11:27",
       "album": {
-        "name": "LOKITA",
-        "url": "https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC"
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
       "artists": [
         {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 193294,
-      "name": "LOKITA",
-      "url": "https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi"
+      "duration_ms": 158440,
+      "name": "FULANITO",
+      "url": "https://open.spotify.com/track/3CIl8hlnMcULSIIhUMmB1Z"
     },
     {
       "added_at": "2023-02-11 16:11:27",
@@ -1707,22 +1707,22 @@
     {
       "added_at": "2023-02-11 16:11:27",
       "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+        "name": "LOKITA",
+        "url": "https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         },
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 158440,
-      "name": "FULANITO",
-      "url": "https://open.spotify.com/track/3CIl8hlnMcULSIIhUMmB1Z"
+      "duration_ms": 193294,
+      "name": "LOKITA",
+      "url": "https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi"
     },
     {
       "added_at": "2023-02-11 16:11:27",

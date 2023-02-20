@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 41850,
+  "num_followers": 41888,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMGI0NGQyMDE1ZDFkOTIzZTkzNDU3M2E0YTg0ODNlZmYz",
+  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMGQ0YjI4NzRjODFlOWI2MDg5YTk1OGU0ZDcxOWVmZTI5",
   "tracks": [
     {
       "added_at": "2022-12-17 09:00:30",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Revelation of Ecstasy and Rebellion",
-        "url": "https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr"
-      },
-      "artists": [
-        {
-          "name": "Rim Banna",
-          "url": "https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO"
-        }
-      ],
-      "duration_ms": 274333,
-      "name": "Supply Me with an Excess of Love",
-      "url": "https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Muntasib Alqamah Amshi",
         "url": "https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 363206,
       "name": "Erfaa Rasak",
       "url": "https://open.spotify.com/track/5tAwQ2wGF88d8zuliokaxo"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Revelation of Ecstasy and Rebellion",
+        "url": "https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr"
+      },
+      "artists": [
+        {
+          "name": "Rim Banna",
+          "url": "https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "Supply Me with an Excess of Love",
+      "url": "https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
-      },
-      "artists": [
-        {
-          "name": "DAM",
-          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
-      "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Abu 3ntr",
         "url": "https://open.spotify.com/album/1ua6NcTfZN5Bgu2TYelucN"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 213342,
       "name": "Abu 3ntr",
       "url": "https://open.spotify.com/track/4udzViP9ZtbBlCLkFLlj53"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
+      },
+      "artists": [
+        {
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
+      "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
     },
     {
       "added_at": "2022-12-17 09:00:30",

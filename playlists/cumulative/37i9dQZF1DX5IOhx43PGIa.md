@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: beabadoobee.
 
-385 songs - 20 hr 12 min
+386 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Spirits](https://open.spotify.com/track/60T49w6pqDRRVJQ2hWUd1c) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Spirits](https://open.spotify.com/album/546Fl3Gns3Fttgm5bdRO1Y) | 3:14 | 2022-05-27 | 2022-06-25 |
 | [Splinter](https://open.spotify.com/track/4iKfmaKGc59LZXQNK7nAgf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Splinter](https://open.spotify.com/album/5xQJYeIxVY2xJngtdtGz11) | 2:47 | 2022-08-26 | 2022-12-17 |
 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 | 2022-05-27 |  |
-| [SPOILED BITCH](https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [SPOILED BITCH](https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53) | 2:20 | 2022-05-27 |  |
+| [SPOILED BITCH](https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [SPOILED BITCH](https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53) | 2:20 | 2022-05-27 | 2023-02-20 |
 | [Starbright \(Elephante Remix\)](https://open.spotify.com/track/6PJkaKTuQGaV2d58gLBT30) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G) | [Between Broken \(Remixes\)](https://open.spotify.com/album/1MAQMXIZykkJ62jdQpA3xH) | 3:42 | 2022-07-22 | 2022-09-24 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-05-27 |  |
 | [Still Dreaming](https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:21 | 2022-09-23 | 2022-10-08 |
@@ -360,6 +360,7 @@
 | [u & i](https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [u & i](https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh) | 3:03 | 2022-10-07 |  |
 | [Uncomfortable](https://open.spotify.com/track/0JDLR0RGTSw0KDkn6r4oEz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:54 | 2022-09-16 | 2022-09-24 |
 | [universe \(DTB Remix\) \- Spotify Singles](https://open.spotify.com/track/3VgbUDt8Vz6RwcRRzjJ3xB) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 3:01 | 2022-05-27 | 2022-08-22 |
+| [van gogh](https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [van gogh](https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi) | 2:53 | 2023-02-20 |  |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-13 |  |
 | [VIVID](https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [VIVID](https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5) | 3:13 | 2022-11-18 |  |
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-06-03 | 2023-01-14 |

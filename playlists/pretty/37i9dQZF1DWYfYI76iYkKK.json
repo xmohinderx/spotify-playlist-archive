@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 116678,
+  "num_followers": 116700,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU2MzIwMCwwMDAwMDAwMDE0OTYyODllM2Y3NmFlN2VmODQ5NTVmNTIyZDMzNjIy",
+  "snapshot_id": "MTY3NjU2MzIwMCwwMDAwMDAwMDQ5ZDlkNTc3Mjg5ZmVmZGYyZTJjODg5MDNkOWU0Njlh",
   "tracks": [
     {
       "added_at": "2023-02-16 16:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-02-16 16:00:00",
       "album": {
-        "name": "\u8b0e\u4e4b\u97f3",
-        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
-      },
-      "artists": [
-        {
-          "name": "Pets Tseng",
-          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
-        }
-      ],
-      "duration_ms": 301666,
-      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
-      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
-    },
-    {
-      "added_at": "2023-02-16 16:00:00",
-      "album": {
         "name": "A Letter",
         "url": "https://open.spotify.com/album/3EqxHwpQSBk3xtF165nHk0"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 246000,
       "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
       "url": "https://open.spotify.com/track/6w7LuFlBLYoIuOsuzdYOJ9"
+    },
+    {
+      "added_at": "2023-02-16 16:00:00",
+      "album": {
+        "name": "\u8b0e\u4e4b\u97f3",
+        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
+      },
+      "artists": [
+        {
+          "name": "Pets Tseng",
+          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+        }
+      ],
+      "duration_ms": 301666,
+      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
+      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
     },
     {
       "added_at": "2023-02-16 16:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-02-16 16:00:00",
       "album": {
-        "name": "\u9858\u6eab\u67d4\u7684\u4f60\u88ab\u4e16\u754c\u6eab\u67d4\u4ee5\u5f85 (Demo)",
-        "url": "https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn"
-      },
-      "artists": [
-        {
-          "name": "\u7da0\u7e61\u773c",
-          "url": "https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri"
-        }
-      ],
-      "duration_ms": 229887,
-      "name": "\u9858\u6eab\u67d4\u7684\u4f60\u88ab\u4e16\u754c\u6eab\u67d4\u4ee5\u5f85 - Demo",
-      "url": "https://open.spotify.com/track/596QP1necn4XdusdVzB0TW"
-    },
-    {
-      "added_at": "2023-02-16 16:00:00",
-      "album": {
         "name": "\u6211\u548c\u6211\u7684\u5e03\u62c9\u59c6\u65af",
         "url": "https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 266286,
       "name": "\u5047\u7537\u53cb",
       "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
+    },
+    {
+      "added_at": "2023-02-16 16:00:00",
+      "album": {
+        "name": "\u9858\u6eab\u67d4\u7684\u4f60\u88ab\u4e16\u754c\u6eab\u67d4\u4ee5\u5f85 (Demo)",
+        "url": "https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn"
+      },
+      "artists": [
+        {
+          "name": "\u7da0\u7e61\u773c",
+          "url": "https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri"
+        }
+      ],
+      "duration_ms": 229887,
+      "name": "\u9858\u6eab\u67d4\u7684\u4f60\u88ab\u4e16\u754c\u6eab\u67d4\u4ee5\u5f85 - Demo",
+      "url": "https://open.spotify.com/track/596QP1necn4XdusdVzB0TW"
     },
     {
       "added_at": "2023-02-16 16:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-02-16 16:00:00",
       "album": {
-        "name": "\u504f\u504f\u6211\u537b\u90fd\u8a18\u5f97",
-        "url": "https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5"
-      },
-      "artists": [
-        {
-          "name": "Eve Ai",
-          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
-        }
-      ],
-      "duration_ms": 287010,
-      "name": "\u6211\u591a\u60f3\u8b8a\u6210\u5979",
-      "url": "https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz"
-    },
-    {
-      "added_at": "2023-02-16 16:00:00",
-      "album": {
         "name": "\u518a\u8449\u4e00:\u4e00\u8207\u4e00",
         "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 295025,
       "name": "\u5e74\u8f2a\u8aaa",
       "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
+    },
+    {
+      "added_at": "2023-02-16 16:00:00",
+      "album": {
+        "name": "\u504f\u504f\u6211\u537b\u90fd\u8a18\u5f97",
+        "url": "https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5"
+      },
+      "artists": [
+        {
+          "name": "Eve Ai",
+          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
+        }
+      ],
+      "duration_ms": 287010,
+      "name": "\u6211\u591a\u60f3\u8b8a\u6210\u5979",
+      "url": "https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz"
     },
     {
       "added_at": "2023-02-16 16:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-02-16 16:00:00",
       "album": {
-        "name": "\u6211\u9019\u500b\u4eba (\u300a\u6211\u6c92\u6709\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u96fb\u5f71\u5ba3\u50b3\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep"
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/7pIR0hHMAMFyGlcBkryqRw"
       },
       "artists": [
         {
-          "name": "Eve Ai",
-          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
+          "name": "WayV-KUN&XIAOJUN",
+          "url": "https://open.spotify.com/artist/7zFc00w29Cz58QoSnIpIrT"
         }
       ],
-      "duration_ms": 290022,
-      "name": "\u6211\u9019\u500b\u4eba - \u300a\u6211\u6c92\u6709\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u96fb\u5f71\u5ba3\u50b3\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24"
+      "duration_ms": 252106,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/7AdNz1VDHFE0MaVFtYd0ih"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

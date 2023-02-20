@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Presentamos a nuestros artista Radar México 2022!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,473 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,492 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 20 | [Un Porro](https://open.spotify.com/track/6Mhqj9OEN4w77nwDrX2w89) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [En Ciudades 878](https://open.spotify.com/album/58MFyeFtgjKRbpZ9klzzx3) | 4:17 |
 | 21 | [R9 Aleteo](https://open.spotify.com/track/037VJbDruLmBcxzlEks9oa) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dj Yaso](https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd) | [911](https://open.spotify.com/album/18J0q27mMOs2kvlxH2Kqci) | 2:46 |
 | 22 | [Muévete](https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Divergentes Inc.](https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI) | [Muévete](https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo) | 3:31 |
-| 23 | [Somos Varios](https://open.spotify.com/track/2hFYvGaFDdcv6tNPFtbBPi) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Somos Varios](https://open.spotify.com/album/5Wtjm9176pqb5GZQrsBQDv) | 4:16 |
-| 24 | [Olvidarte](https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Y Te Lo Digo Yo](https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg) | 2:17 |
+| 23 | [Olvidarte](https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Y Te Lo Digo Yo](https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg) | 2:17 |
+| 24 | [Somos Varios](https://open.spotify.com/track/2hFYvGaFDdcv6tNPFtbBPi) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Somos Varios](https://open.spotify.com/album/5Wtjm9176pqb5GZQrsBQDv) | 4:16 |
 | 25 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 26 | [tú vales la pena](https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [tú vales la pena](https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r) | 2:27 |
 | 27 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [No Lo Podía Hacer Mejor](https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
 | 50 | [un sueño raro](https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 3:12 |
 
-Snapshot ID: `MTY3MzQxNjgwMCwwMDAwMDAwMDE4MWIyMjVhYzllNDRhZGQ3YTA5MmM0MTNhMWMwNjA4`
+Snapshot ID: `MTY3MzQxNjgwMCwwMDAwMDAwMDZlNjU4Zjk1MDQ1ZjcyMGYwYjg5MDA4Yjk1NmVjNmNh`

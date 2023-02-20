@@ -4,7 +4,7 @@
 
 > This is Carin Leon\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 43 min
+70 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [La Tipica](https://open.spotify.com/track/3AxEZyQEGEhHuTJgRrT7dh) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Tipica](https://open.spotify.com/album/1hPw3w27KcDVAKp6CDvdIZ) | 3:11 | 2022-06-01 | 2022-09-27 |
 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 | 2022-06-09 |  |
 | [Mal Necesario](https://open.spotify.com/track/0UQdOHYfDl4OY9waK0gFfu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Mal Necesario](https://open.spotify.com/album/146b6Xmk2VYXUwg8QsJxT1) | 2:52 | 2022-06-01 | 2022-10-12 |
+| [Me Aceptaste \- En Vivo](https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [JJ Araujo](https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:08 | 2023-02-19 |  |
 | [Me Gusta Estar Contigo](https://open.spotify.com/track/4MWma3oh4U6javb4kGF1jx) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 2:48 | 2022-06-01 |  |
 | [Me La Avente](https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:35 | 2022-06-01 |  |
 | [Me Lo Contaron Ayer \- Live](https://open.spotify.com/track/2CLoq0TB9BwQh5pUmjYGn9) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Taka Takas \(Live\)](https://open.spotify.com/album/7kI1nsKpN9VMjfuBRL69Wd) | 3:55 | 2022-06-01 | 2022-12-24 |
@@ -73,7 +74,7 @@
 | [Tu Lo Decidiste \- Live](https://open.spotify.com/track/03wFSF2wINNP5tFsyUf4ur) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pa' Las De Vidrio \(Live\)](https://open.spotify.com/album/7InJQUmbBBEUqDZZMMJ4C8) | 3:55 | 2022-06-01 | 2022-12-13 |
 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 | 2022-06-01 |  |
 | [Un Pinchi Beso](https://open.spotify.com/track/0Z5AEusPk1YNrBXj0vIn5b) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:41 | 2022-06-01 | 2022-10-13 |
-| [Un Rinconcito En El Cielo \- Live](https://open.spotify.com/track/18RdaUB0nsdWCS5GadRumO) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 2 \(Live\)](https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa) | 2:57 | 2022-06-01 |  |
+| [Un Rinconcito En El Cielo \- Live](https://open.spotify.com/track/18RdaUB0nsdWCS5GadRumO) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 2 \(Live\)](https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa) | 2:57 | 2022-06-01 | 2023-02-20 |
 | [Una Noche Cualquiera](https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Noche Cualquiera](https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD) | 3:35 | 2022-11-28 |  |
 | [Viaje a ningún lado \(con Carin Leon\)](https://open.spotify.com/track/2MqQtML6652d7oIgrdumKH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Viaje a ningún lado \(con Carin Leon\)](https://open.spotify.com/album/1zsGPMjwq2tK1reGSPhmZ4) | 3:49 | 2022-10-20 |  |
 | [Voy a Conquistarte](https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Voy a Conquistarte](https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ) | 2:55 | 2022-12-13 |  |

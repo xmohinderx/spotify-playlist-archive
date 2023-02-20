@@ -4,7 +4,7 @@
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-74 songs - 4 hr 46 min
+75 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Besame Mucho \- Instrumental](https://open.spotify.com/track/7DiKoJUCwkgpduZzw42sAR) | [Luis Siu Riveron](https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE) | [Grandes Boleros En Piano Y Ritmo \(Instrumental\)](https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp) | 3:20 | 2021-01-18 |  |
 | [Black Orpheus](https://open.spotify.com/track/47tG3OUhtCK0fRbgVOstFk) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 3:33 | 2021-01-18 |  |
 | [Blue And Sentimental](https://open.spotify.com/track/78ntGe4xyecZHg9exQWwK6) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Plays Count Basie](https://open.spotify.com/album/7ETDHJ9yletBCxNx0ipr1x) | 2:26 | 2021-01-18 |  |
-| [Bossa Nova Piano Jazz](https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N) | [The Jazz Restaurant](https://open.spotify.com/artist/52gDZW5cytu21bwzOEaLy4) | [Classic Jazz on the Piano](https://open.spotify.com/album/3e8JN35km7noyKQSFK8GkF) | 2:17 | 2021-01-18 |  |
+| [Bossa Nova Piano Jazz](https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N) | [The Jazz Restaurant](https://open.spotify.com/artist/52gDZW5cytu21bwzOEaLy4) | [Classic Jazz on the Piano](https://open.spotify.com/album/3e8JN35km7noyKQSFK8GkF) | 2:17 | 2021-01-18 | 2023-02-20 |
 | [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 | 2021-01-18 |  |
 | [Con Poco Coco \(Live\)](https://open.spotify.com/track/6ILIRaFakqhD21Cy48Zk9f) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Javier Colina](https://open.spotify.com/artist/4p0llEkYMGmmC4iKQecJmW) | [Live At The Village Vanguard \(Live\)](https://open.spotify.com/album/4L0QLxz3BWksGpfZpXXhWj) | 6:29 | 2021-01-18 | 2022-07-29 |
 | [Corcovado \(Quiet Nights Of Quiet Stars\)](https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 4:56 | 2021-01-18 |  |
@@ -41,6 +41,7 @@
 | [Las colinas del priorato](https://open.spotify.com/track/5mu1VAQqud9UHFLsk0u01q) | [Lopez Ciendra](https://open.spotify.com/artist/7D3sEbiHlFq1QmISYmyneT) | [Las colinas del priorato](https://open.spotify.com/album/7cLj7vH0K6tHHwFiNTYWot) | 1:31 | 2021-01-18 |  |
 | [Luces](https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Jazz Batá 2](https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A) | 4:53 | 2021-01-18 |  |
 | [Lágrimas Negras](https://open.spotify.com/track/3c7m2Kzg1q9iKa4yhKbuea) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 3:44 | 2021-01-18 |  |
+| [Mambo Cantabile](https://open.spotify.com/track/2gAj421uW6j8YYXlfmoEu4) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Havana All\-Stars](https://open.spotify.com/artist/0nBotB1mcxkmT0PRFLNLTf) | [Descarga Caliente](https://open.spotify.com/album/0KJoSsENtZqiYu0oJvfqgy) | 2:35 | 2021-01-18 |  |
 | [Mambo Cantabile \(Original Mix\)](https://open.spotify.com/track/4YjoGAWeRXq1XBgKkLOEr6) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Hotcha](https://open.spotify.com/album/4MKV8qUKHJ2mIQvCGRlTnc) | 2:35 | 2021-01-18 | 2022-07-29 |
 | [Manhã de Carnaval](https://open.spotify.com/track/3mFoB8P6gDrjI7uKG0ewWW) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 3:36 | 2021-01-18 |  |
 | [MarroquinerÍa](https://open.spotify.com/track/7Ex3R4kH4nfG90XwAdxkk8) | [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [FantasÍa Flamenca 2](https://open.spotify.com/album/3CpgMaLkCDQMsIHqYqx7nw) | 2:04 | 2021-01-18 | 2022-07-29 |

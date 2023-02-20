@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 
 > los tenis bien limpios y la bocina retumbando
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,755 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,815 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 | 72 | [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 |
 | 73 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 |
 | 74 | [La Locura Está en Mí \(feat\. Porta & Eneyser\) \- Remix](https://open.spotify.com/track/448WCkNg0QupLcngnGbKvV) | [Santaflow](https://open.spotify.com/artist/3uvTa6pDzj0T6EfMslXOCs), [Porta](https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB), [Eneyser](https://open.spotify.com/artist/07B0GRdqLzTptVcXcBSwR9) | [Ave Fénix](https://open.spotify.com/album/17mOgx8EYjcQ7R9EUr87SG) | 3:25 |
-| 75 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Skillzbeatz](https://open.spotify.com/artist/09cwFodlXUIGfh0h0O2dH7) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 |
-| 76 | [Virtual Diva](https://open.spotify.com/track/5nJaS3PEpyPfaWiLxIGtRX) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [iDon](https://open.spotify.com/album/20Jf4Vb1V3MMv1QI1cKNNI) | 3:59 |
+| 75 | [Virtual Diva](https://open.spotify.com/track/5nJaS3PEpyPfaWiLxIGtRX) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [iDon](https://open.spotify.com/album/20Jf4Vb1V3MMv1QI1cKNNI) | 3:59 |
+| 76 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Skillzbeatz](https://open.spotify.com/artist/09cwFodlXUIGfh0h0O2dH7) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 |
 | 77 | [Todo Va Estar Bien](https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF) | 4:27 |
 | 78 | [A La PM Puse En Alto](https://open.spotify.com/track/3gzj2Q3R1oSfp0hlDnzv7J) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [A La PM Puse En Alto](https://open.spotify.com/album/2hiOsbQn2kl3BnMUN538Jl) | 4:21 |
 | 79 | [Culón Culito](https://open.spotify.com/track/2JNqLKnqJejNzrmRLNFNFL) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Viejo Marihuano](https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 | 99 | [Por Si Acaso](https://open.spotify.com/track/0FBQk9b2mveexdjaiZhySz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k) | [Por Si Acaso](https://open.spotify.com/album/3bhs4igaxstdRBeZHfahiP) | 3:18 |
 | 100 | [Tan Solo Morro](https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Tan Solo Morro](https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG) | 2:24 |
 
-Snapshot ID: `MTY3NDIzNzQ4MywwMDAwMDAwMDIxZjZhZWM1NWUzYjE2MzY2NDk4MmRmMDRiNzJjYzFh`
+Snapshot ID: `MTY3NDIzNzQ4MywwMDAwMDAwMDFhNGNiMTZhMTQzOTA3YmRkZTQwODc2ZWMyNjg1ZWE5`

@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 194763,
+  "num_followers": 194754,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njc3MjAwMCwwMDAwMDAwMDhhN2I0NDg0MGY0YWIwMWQ5NzY2YjNiMzJjZjFlNjUx",
+  "snapshot_id": "MTY3NjgyNzI2NiwwMDAwMDAwMDAyMmM1MWUxNDJlMzFmMzBiYjRiY2YxODQzYmQ4NWUx",
   "tracks": [
     {
       "added_at": "2023-02-19 02:00:00",
@@ -75,6 +75,26 @@
     {
       "added_at": "2023-02-19 02:00:00",
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 146756,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9"
+    },
+    {
+      "added_at": "2023-02-19 02:00:00",
+      "album": {
         "name": "Don\u2019t Get Too Close",
         "url": "https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 192000,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF"
-    },
-    {
-      "added_at": "2023-02-19 02:00:00",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 146756,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9"
     },
     {
       "added_at": "2023-02-19 02:00:00",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2023-02-19 02:00:00",
       "album": {
+        "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
+        "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        },
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
+      "url": "https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0"
+    },
+    {
+      "added_at": "2023-02-19 02:00:00",
+      "album": {
         "name": "We Still Believe",
         "url": "https://open.spotify.com/album/4U5Eel8ZnGcI15TLj33QYe"
       },
@@ -1075,26 +1095,6 @@
     {
       "added_at": "2023-02-19 02:00:00",
       "album": {
-        "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
-        "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
-      },
-      "artists": [
-        {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
-        },
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
-      "url": "https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0"
-    },
-    {
-      "added_at": "2023-02-19 02:00:00",
-      "album": {
         "name": "MON FR\u00c9RE",
         "url": "https://open.spotify.com/album/6ptfYBuCBnjD0Ct1qkdPgz"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 93000,
       "name": "MON FR\u00c9RE",
       "url": "https://open.spotify.com/track/2C05qOxNv5SCtsgwOMOmgb"
+    },
+    {
+      "added_at": "2023-02-19 02:00:00",
+      "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 264473,
+      "name": "HOPE",
+      "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
     },
     {
       "added_at": "2023-02-19 02:00:00",
@@ -1127,22 +1143,6 @@
       "duration_ms": 206875,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/6o7hRe4cXjf4cAF1q41b1J"
-    },
-    {
-      "added_at": "2023-02-19 02:00:00",
-      "album": {
-        "name": "HOPE",
-        "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 264473,
-      "name": "HOPE",
-      "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
     },
     {
       "added_at": "2023-02-19 02:00:00",

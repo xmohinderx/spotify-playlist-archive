@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,907 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,921 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 16 | [Learn Your Lesson \- Photay Remix](https://open.spotify.com/track/3s8yxBdiXFlEi6y0gfGreR) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Finding Foundations \(The Remixes\)](https://open.spotify.com/album/3k2eNuf5EEc1KUMrjJaskk) | 6:07 |
 | 17 | [Akulaleki](https://open.spotify.com/track/73wcFiFeCQurmHDQIcirbm) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Isphithiphithi](https://open.spotify.com/album/4sO9GxYupSVEJ3rRsaVpnd) | 6:21 |
 | 18 | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG) | [Devante Embers](https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT) | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm) | 7:08 |
-| 19 | [Leaves](https://open.spotify.com/track/4lGXye7yRWuhEb8jyaAYc2) | [Move D](https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97), [Justin Carter](https://open.spotify.com/artist/5uPFbw1zCaZDbZFlmrA15x) | [To the Disco '77 \(Live Rework\)](https://open.spotify.com/album/6a5zxWkfXH3jcXrjmdGSn2) | 9:54 |
-| 20 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 |
-| 21 | [Bamboo](https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Brothers](https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo) | 6:16 |
-| 22 | [Fate](https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9) | [Mark Hawkins](https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq) | [Fate](https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G) | 5:31 |
-| 23 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 |
+| 19 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 |
+| 20 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 |
+| 21 | [Leaves](https://open.spotify.com/track/4lGXye7yRWuhEb8jyaAYc2) | [Move D](https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97), [Justin Carter](https://open.spotify.com/artist/5uPFbw1zCaZDbZFlmrA15x) | [To the Disco '77 \(Live Rework\)](https://open.spotify.com/album/6a5zxWkfXH3jcXrjmdGSn2) | 9:54 |
+| 22 | [Bamboo](https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Brothers](https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo) | 6:16 |
+| 23 | [Fate](https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9) | [Mark Hawkins](https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq) | [Fate](https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G) | 5:31 |
 | 24 | [Make This Right \- Radio Edit](https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N) | [Ruf Dug](https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T), [Lovescene](https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk) | [Make This Right](https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7) | 3:17 |
 | 25 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 |
 | 26 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 46 | [Side Street](https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Tom Walsh](https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB) | [Side Street](https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU) | 3:37 |
 | 47 | [Been A Long Night](https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:32 |
 | 48 | [Frog Fractions](https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/7sQkR41g5rIr1PPo4GloZe) | 4:40 |
-| 49 | [Youth Jazz](https://open.spotify.com/track/7AhZqOQ976CkrBYXCDdsyU) | [FYI Chris](https://open.spotify.com/artist/0wZeO8kuM4dYiraesOH282) | [Black Dragon Loop](https://open.spotify.com/album/45Kc4Hj3SqBO5yXPnioU71) | 5:07 |
+| 49 | [Theme from Selva](https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 3:25 |
 | 50 | [The Sun Is Warm and Directly Above You](https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [The Sun Is Warm and Directly Above You](https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1) | 3:42 |
 
-Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMDMyZjAwZTA2NDNjMTI5ZDBkNTU1NGM3MGU3NTEyNjNl`
+Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMGQ2NTllNGNlZDgyNDY4Yzc5YTczZGYxMzE1NmIxOWE5`

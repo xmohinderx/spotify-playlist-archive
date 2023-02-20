@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-205 songs - 11 hr 18 min
+206 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Blue Christmas \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/526s5K8K8MP5FG5HkZ6BOa) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Blue Christmas \(Recorded at Electric Lady Studios NYC, 2020\)](https://open.spotify.com/album/6wlrfgJzGa9aU01nSYHI2t) | 2:27 | 2021-11-12 | 2022-07-18 |
 | [Boxing Day Blues](https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:02 | 2021-11-15 | 2022-10-09 |
 | [Boxing Day Blues](https://open.spotify.com/track/35v1C5DdDBUEvdAJTEqrfz) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit And Think, And Sometimes I Just Sit \(Deluxe Digital Album\)](https://open.spotify.com/album/5hnsoChBkdtGlLrvU3uBAO) | 3:02 | 2021-11-15 | 2022-07-29 |
-| [Boxing Day Blues \(Revisited\)](https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff) | 2:47 | 2021-11-12 |  |
+| [Boxing Day Blues \(Revisited\)](https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff) | 2:47 | 2021-11-12 | 2023-02-20 |
 | [Carol Of The Bells](https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Carol Of The Bells](https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK) | 3:13 | 2021-11-12 | 2022-10-25 |
 | [Christmas](https://open.spotify.com/track/58GbkmmdAijG6dAhnDYOaq) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/1twjpC9pXPmQBgXLqSeM8S) | 2:29 | 2021-11-12 | 2022-09-06 |
 | [Christmas](https://open.spotify.com/track/6k6uI1K7EWK0UsSpqtHpoX) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/2h5X4I201MIi7pv4lNCezO) | 2:29 | 2021-11-12 | 2022-07-25 |
@@ -181,6 +181,7 @@
 | [This December \- slow](https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Slowed Down Songs + Reverb](https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:33 | 2022-12-23 |  |
 | [This Year For Christmas](https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [This Year For Christmas](https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo) | 1:52 | 2022-01-07 |  |
 | [till christmas day](https://open.spotify.com/track/608gfFTFTlOFklDgQk0yos) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [till christmas day](https://open.spotify.com/album/5c3DibcwuIB94jNACIGEcr) | 2:49 | 2022-11-08 |  |
+| [Tinsel Dresses](https://open.spotify.com/track/7lR2IX1qlDpfGZFmW6c4WZ) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Tinsel Dresses](https://open.spotify.com/album/4wuwHm3hBokarHxJSlYk12) | 2:04 | 2022-12-23 |  |
 | [Triste Navidad \- Spotify Singles](https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Navidad \- Spotify Singles](https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8) | 3:27 | 2022-11-21 | 2022-12-22 |
 | [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 | 2021-11-12 | 2022-10-13 |
 | [two queens in a king sized bed](https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII) | 3:10 | 2021-11-12 |  |

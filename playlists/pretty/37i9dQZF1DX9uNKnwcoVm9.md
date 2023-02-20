@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,953 likes - 100 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,047 likes - 100 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 27 | [Dios de Lo Imposible](https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [David Reyes](https://open.spotify.com/artist/0Av9Hln262ro0Z8yhEg4HY), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 7:30 |
 | 28 | [Me Paro En La Brecha](https://open.spotify.com/track/3pM6OolQIxI5YZl77qwD3t) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0) | [Me Paro En La Brecha](https://open.spotify.com/album/7cj5YMKHlgG8M1tHfFw3Ol) | 3:51 |
 | 29 | [No Crezcas Mas](https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Irreversible](https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV) | 4:20 |
-| 30 | [Qué Se Abra El Cielo \(Feat\. Marcos Brunet\)](https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marcos Brunet](https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 7:25 |
+| 30 | [Gloria En Lo Alto](https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 5:00 |
 | 31 | [Dios Siempre Tiene el Control](https://open.spotify.com/track/25uL5bEmMZ0ObN8A7HH2n9) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Dios Siempre Tiene el Control](https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv) | 4:49 |
 | 32 | [Algo Grande Viene](https://open.spotify.com/track/3qrF7uBexHKFQevKCIR6GH) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Algo Grande Viene](https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX) | 4:49 |
 | 33 | [Los Muros Caerán](https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 4:29 |
 | 34 | [Cuando Oras](https://open.spotify.com/track/5FCDZ3L0Tr0KqYrn3j9v3V) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0) | [Un Toque De Fé](https://open.spotify.com/album/5K06CX20PkHPstgVWLg4Nd) | 4:12 |
-| 35 | [Gloria En Lo Alto](https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 5:00 |
+| 35 | [Qué Se Abra El Cielo \(Feat\. Marcos Brunet\)](https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marcos Brunet](https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 7:25 |
 | 36 | [Llevame Al Lugar Santísimo](https://open.spotify.com/track/68ejKEwjnLJrJgu2ozQdJQ) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Glorificad a Jehová](https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd) | 5:13 |
 | 37 | [Lo Unico Que Quiero](https://open.spotify.com/track/10TpHf2j6C6RTRQnYtFPsp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J) | 7:27 |
 | 38 | [Soy Un Altar](https://open.spotify.com/track/0b8Sxqx5Lt8mgU4xPsm7Hr) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 5:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 99 | [Mi confianza está en ti \(remix\)](https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Mi confianza está en ti \(remix\)](https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96) | 5:33 |
 | 100 | [En las Manos de Dios](https://open.spotify.com/track/4wauES61ARPVjMndN9DeyB) | [Jésed](https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P) | [En las Manos de Dios](https://open.spotify.com/album/2fzYiHzWLc9jjHSwK3RtNy) | 3:51 |
 
-Snapshot ID: `MTYwNjIyNDIxOCwwMDAwMDAwMDYxMzk1ZjAzYTQyYTgyMzgzMjQ5NWVhNWIyOWIyMWE0`
+Snapshot ID: `MTYwNjIyNDIxOCwwMDAwMDAwMGYyZGJkYjBlYzhhZTQwMzllODgzZjRiYjBmZDlhMGYy`

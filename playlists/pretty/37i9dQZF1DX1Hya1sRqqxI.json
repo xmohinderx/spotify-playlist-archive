@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 192245,
+  "num_followers": 192805,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTUzOSwwMDAwMDAwMGE1Y2Q3MzUzMWIwZDlhYzFiNjAxMzRlY2MxYjUyMTM3",
+  "snapshot_id": "MTY2OTk2NTUzOSwwMDAwMDAwMDg0MWUzYzk3NTU4YjFhZTU4MWU5NWM3YjNjYzQ4Zjk3",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Poems, Prayers and Promises",
-        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Bridge Over Troubled Water",
@@ -743,6 +727,22 @@
       "duration_ms": 174826,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "ABC",
-        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Bellamy Brothers",
@@ -951,6 +935,22 @@
       "duration_ms": 198760,
       "name": "Let Your Love Flow",
       "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Nightflight to Venus",
@@ -1015,6 +999,22 @@
       "duration_ms": 261266,
       "name": "Rivers of Babylon",
       "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Take The Heat Off Me",
+        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Stumblin' In (2017 Remaster)",
@@ -1131,22 +1147,6 @@
       "duration_ms": 197693,
       "name": "Kung Fu Fighting",
       "url": "https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Take The Heat Off Me",
-        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "Take The Money And Run",
-      "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Fantastic Boney M.",
         "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 220733,
       "name": "Rasputin - Single Version",
       "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "Take The Money And Run",
+      "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 342173,
-      "name": "Smoke on the Water",
-      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Tom Jones Sings She's A Lady",
@@ -1487,6 +1471,22 @@
       "duration_ms": 174146,
       "name": "She's A Lady",
       "url": "https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1697,22 +1697,6 @@
       "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "You Don't Mess Around with Jim",
-      "url": "https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
@@ -1727,6 +1711,22 @@
       "duration_ms": 205733,
       "name": "Grease - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "You Don't Mess Around with Jim",
+      "url": "https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "I Love To Love - The Best Of",
-        "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
-      },
-      "artists": [
-        {
-          "name": "Tina Charles",
-          "url": "https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "I Love to Love",
-      "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Main Course",
         "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 222266,
       "name": "Jive Talkin' - From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "I Love To Love - The Best Of",
+        "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
+      },
+      "artists": [
+        {
+          "name": "Tina Charles",
+          "url": "https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "I Love to Love",
+      "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1849,22 +1849,6 @@
       "url": "https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Right Back Where We Started From",
-        "url": "https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB"
-      },
-      "artists": [
-        {
-          "name": "Maxine Nightingale",
-          "url": "https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Right Back Where We Started From",
-      "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "The Ultimate Bee Gees",
@@ -1879,6 +1863,22 @@
       "duration_ms": 256453,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Right Back Where We Started From",
+        "url": "https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB"
+      },
+      "artists": [
+        {
+          "name": "Maxine Nightingale",
+          "url": "https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Right Back Where We Started From",
+      "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "I Love The Way You Love",
-        "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
-      },
-      "artists": [
-        {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Clean up Woman",
-      "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Armed Forces (Remastered 2020)",
         "url": "https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 180840,
       "name": "Oliver's Army",
       "url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "I Love The Way You Love",
+        "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
+      },
+      "artists": [
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Clean up Woman",
+      "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2233,22 +2233,6 @@
       "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "KC & the Sunshine Band, Pt. 3... and More",
-        "url": "https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "(Shake, Shake, Shake) Shake Your Booty",
-      "url": "https://open.spotify.com/track/3Is0Nnz59rzbNZE491URlY"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Prince",
@@ -2263,6 +2247,22 @@
       "duration_ms": 347666,
       "name": "I Wanna Be Your Lover",
       "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "KC & the Sunshine Band, Pt. 3... and More",
+        "url": "https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "(Shake, Shake, Shake) Shake Your Booty",
+      "url": "https://open.spotify.com/track/3Is0Nnz59rzbNZE491URlY"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Don't Leave Me This Way",
+      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 200653,
       "name": "Instant Karma! (We All Shine On) - Remastered 2010",
       "url": "https://open.spotify.com/track/2BkXpZSvPoUDMLI2Xw9kAL"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
-      },
-      "artists": [
-        {
-          "name": "Thelma Houston",
-          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Don't Leave Me This Way",
-      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
     },
     {
       "added_at": "2021-03-22 14:18:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,514 likes - 124 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,515 likes - 124 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 94 | [You're Still The One \- Soul Solution Extended Club Mix](https://open.spotify.com/track/3jFSIacWpvXqr8oYXa0xI4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [When](https://open.spotify.com/album/0ip7usbONC8i58g7scoFr5) | 8:43 |
 | 95 | [These Days \(Remix\)](https://open.spotify.com/track/0heNuib4Sav7wTa7WgpQ49) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Drinkin' Songs: The Collection](https://open.spotify.com/album/1NrOk9xRbIjuo17XiPOIuq) | 3:16 |
 | 96 | [Sun Don't Let Me Down](https://open.spotify.com/track/3TiOpwAlLf0kqa6EeN4YrO) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:23 |
-| 97 | [Hometown](https://open.spotify.com/track/20aV0OvYWuGjgDh6aQxUFC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt), [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Diplo Presents Thomas Wesley Chapter 1: Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 3:35 |
+| 97 | [Hometown \(feat\. Zac Brown & Danielle Bradbery\)](https://open.spotify.com/track/20aV0OvYWuGjgDh6aQxUFC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt), [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Diplo Presents Thomas Wesley Chapter 1: Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 3:35 |
 | 98 | [Cheatin’ Songs \- Montana Mix](https://open.spotify.com/track/62aWwK5NOED1ADf05zVepV) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Cheatin' Songs \(Montana Mix & Original\)](https://open.spotify.com/album/4de5W0Qd5KMwhImXPRmFpV) | 3:30 |
 | 99 | [Yeehaw](https://open.spotify.com/track/3h7Ftxcsch5Vf9gudChXCR) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Yeehaw](https://open.spotify.com/album/42iCh9VeEuvdweymnrZydN) | 2:26 |
 | 100 | [Eyes on You \- Remix](https://open.spotify.com/track/3vLDkbqnlSwZNF4qka5lik) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Eyes On You \(Remix\)](https://open.spotify.com/album/2BR7Zn9jvF7ebVPeGvTz25) | 3:01 |

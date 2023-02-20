@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-179 songs - 10 hr 50 min
+182 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Disturbia \(Bossa Version\)](https://open.spotify.com/track/2rc7wIxBvb3dx7CiUTdB2F) | [Tahta Menezes](https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 4:05 | 2021-12-09 |  |
 | [Do You Know \(The Ping Pong Song\) \(Bossa Version\)](https://open.spotify.com/track/3KZN0tA4b4BdhiJYQYlprg) | [Billynho Blanco](https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf) | [Relaxing Bossa Lounge 3](https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o) | 3:48 | 2021-12-09 |  |
 | [Do You Really Want To Hurt Me](https://open.spotify.com/track/0LPoUT1JqblTamBXpKXHtt) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 3:42 | 2022-05-18 |  |
+| [Does your mother know](https://open.spotify.com/track/1bRflZJHVH5hj3UbLUNyBJ) | [Sonya](https://open.spotify.com/artist/4c9gY5cZpArATWNkbG1lT3) | [Bossanova Chill 1](https://open.spotify.com/album/3i1c4TS3vifZBHzCVF18i2) | 3:03 | 2023-02-20 |  |
 | [Don't Speak](https://open.spotify.com/track/16FVLMp4wNmVe471RB36He) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 4:13 | 2021-12-09 |  |
 | [Don't Start Now \- Bossa Nova](https://open.spotify.com/track/7fKDV269Dp1y3zBNGtnLTo) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Don't Start Now \(Bossa Nova\)](https://open.spotify.com/album/02jsWzEDvRFwPNy8fvRg9t) | 3:18 | 2021-12-09 |  |
 | [Don´t Stop ´till You Get Enough](https://open.spotify.com/track/4VrvrQe8C9QxUVxQoWKHFv) | [Scubba](https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV), [Alanah](https://open.spotify.com/artist/417Zhwldkb0YZiVmM1pMah) | [Bossa N' Disco](https://open.spotify.com/album/33wAEyfeK20Z28mDCxxRpK) | 5:13 | 2021-12-09 |  |
@@ -83,6 +84,7 @@
 | [I Want It That Way \- Bossa Nova](https://open.spotify.com/track/6Yra3zacq7fcy0TD1qtdht) | [de$ mondo](https://open.spotify.com/artist/0rsEBXnTEhYcnYnewKXhSS) | [I Want It That Way \(Bossa Nova\)](https://open.spotify.com/album/45NPNH2t9ZnkS5gyIz1NWT) | 2:44 | 2021-12-09 |  |
 | [I Want to Know What Love Is](https://open.spotify.com/track/0lnFSqN67wVN3upY1czWwu) | [Ted Leener Band](https://open.spotify.com/artist/7yfg9roeTeDSdgRsxRneKw) | [I Want to Know What Love Is](https://open.spotify.com/album/42HYoh1b1JLiUDDvz2wphJ) | 3:16 | 2021-12-09 |  |
 | [I Want You Back](https://open.spotify.com/track/4onk2EGodOKcwchRjA7ka4) | [Trio Musical](https://open.spotify.com/artist/0Nu4JXTv2Rhp7PT6Qt3oUy) | [I Want You Back](https://open.spotify.com/album/0P8ljqJM9BtPPPSfNlDGIp) | 3:17 | 2021-12-09 |  |
+| [I was made for lovin´you](https://open.spotify.com/track/0ADLsDbsvP5czdbY2eP0CL) | [Sonya](https://open.spotify.com/artist/4c9gY5cZpArATWNkbG1lT3) | [Bossanova Chill 1](https://open.spotify.com/album/3i1c4TS3vifZBHzCVF18i2) | 2:57 | 2023-02-20 |  |
 | [I'm a Believer](https://open.spotify.com/track/0yTBvCPbMVxYvvWnpoy8ow) | [Beatriz e Lucas](https://open.spotify.com/artist/1LxQpviFYCwIWmtrF6ovDF) | [I'm a Believer](https://open.spotify.com/album/3F26BIDMg3sjA0FIRyTBw5) | 3:30 | 2021-12-09 |  |
 | [If You Leave Me Now](https://open.spotify.com/track/1uUIoD7HOAN6qh8FKQAvKo) | [Brothers of Bossa](https://open.spotify.com/artist/1E7h6pUwUffzj0299qgm5y) | [If You Leave Me Now](https://open.spotify.com/album/1ImEyP8L5Qc5UzUR5DEgUa) | 3:48 | 2021-12-09 |  |
 | [Intentions \- Bossa Nova](https://open.spotify.com/track/5A1otHjzRV8nNicKYeHD7h) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [Intentions \(Bossa Nova\)](https://open.spotify.com/album/5EnZCndm8Jg2XXi1o9WR3P) | 2:42 | 2021-12-09 |  |
@@ -158,6 +160,7 @@
 | [Sweet Child O' Mine](https://open.spotify.com/track/2DHoF695nEPtbWMiqFeDTy) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Sweet Child O' Mine](https://open.spotify.com/album/7k2tdsIiuaQY0fLXiO7V1a) | 3:24 | 2021-12-09 |  |
 | [Tainted Love](https://open.spotify.com/track/2oRy6hcs9wQzQtYWDK5HzT) | [Diana Martinez](https://open.spotify.com/artist/7mEajYyUcyqlvR4M6CpNkG) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 5:05 | 2023-01-03 |  |
 | [Tainted Love](https://open.spotify.com/track/6k0LUyHvtjq9iVYln8FZun) | [Diana Martinez](https://open.spotify.com/artist/7mEajYyUcyqlvR4M6CpNkG) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 5:05 | 2022-05-04 | 2023-01-07 |
+| [Take on me](https://open.spotify.com/track/6TYgHFFLZRbX491zjRjcND) | [Sonya](https://open.spotify.com/artist/4c9gY5cZpArATWNkbG1lT3) | [Bossanova Chill 1](https://open.spotify.com/album/3i1c4TS3vifZBHzCVF18i2) | 3:38 | 2023-02-20 |  |
 | [Talking in Your Sleep \- Bossa Nova Mix](https://open.spotify.com/track/29FhrrmDlHJbtLYRTvznEc) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr), [Groove Da Praia](https://open.spotify.com/artist/0wf8Rn6bjZgEkKp0eV9omw) | [More Than a Woman](https://open.spotify.com/album/3kdEJ01bQu7Y3vfsJ4vaEY) | 3:48 | 2023-01-19 |  |
 | [Tape Loop](https://open.spotify.com/track/7MskN2v3epm2MCxGxfD10G) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Tape Loop](https://open.spotify.com/album/7CVI0KLsgyGXVxh6VHlZaa) | 3:11 | 2023-01-19 |  |
 | [Tears In Heaven \(Bossa Version\)](https://open.spotify.com/track/0cOUTJ1eorMwvmuh6jsTmb) | [Dudu Braga](https://open.spotify.com/artist/3ZwqQ2XrPNiYRomLoN94n7) | [Relaxing Bossa Lounge 2](https://open.spotify.com/album/3kdFfd43mViwrYO6G1y04X) | 3:58 | 2021-12-09 | 2022-05-05 |

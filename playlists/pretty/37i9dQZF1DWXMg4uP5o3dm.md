@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: Grabbitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,423 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,461 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 22 | [Rain \(from The Suicide Squad\)](https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Rain \(from The Suicide Squad\)](https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap) | 3:56 |
 | 23 | [Don't Look At Me](https://open.spotify.com/track/5hQZDntIU1PbXhmH94kZoM) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2) | 3:08 |
 | 24 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 |
-| 25 | [KULT \(feat\. Jasiah\)](https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [KULT \(feat\. Jasiah\)](https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl) | 2:57 |
-| 26 | [Body](https://open.spotify.com/track/656neoAxvwrA9812K99kTO) | [Rosenfeld](https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg) | [Body](https://open.spotify.com/album/5tsg5PG0T1EqXg2Fetgd9J) | 2:27 |
+| 25 | [Body](https://open.spotify.com/track/656neoAxvwrA9812K99kTO) | [Rosenfeld](https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg) | [Body](https://open.spotify.com/album/5tsg5PG0T1EqXg2Fetgd9J) | 2:27 |
+| 26 | [KULT \(feat\. Jasiah\)](https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [KULT \(feat\. Jasiah\)](https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl) | 2:57 |
 | 27 | [PATCHWERK \(with Two Feet\)](https://open.spotify.com/track/3oknxh5JkdkyOV7UAE1zOh) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [PATCHWERK \(with Two Feet\)](https://open.spotify.com/album/51qRLrJfPzxq6y8gEg8q7H) | 2:21 |
 | 28 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
 | 29 | [Someone Else](https://open.spotify.com/track/4hR3hQKELrARHNZJ51D14s) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Someone Else](https://open.spotify.com/album/43PrBCExe9DKwdI9TJKAtc) | 3:18 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 34 | [Therapy](https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Level Days](https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY) | 3:06 |
 | 35 | [Too Bizarre \(with Swae Lee & Siiickbrain\)](https://open.spotify.com/track/5YRcIZnrTmdXgZJwmT0LJS) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Too Bizarre \(with Swae Lee & Siiickbrain\)](https://open.spotify.com/album/0c7bLm2cqhAWQ4BhovOUdm) | 2:38 |
 | 36 | [BOO HOO](https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [BOO HOO](https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl) | 2:50 |
-| 37 | [Perfect](https://open.spotify.com/track/3h4NC7LmDnz05P5rv1DGRK) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Perfect](https://open.spotify.com/album/5rYoX9kP81D7w11FdjQSxe) | 2:26 |
-| 38 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 |
+| 37 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 |
+| 38 | [Perfect](https://open.spotify.com/track/3h4NC7LmDnz05P5rv1DGRK) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Perfect](https://open.spotify.com/album/5rYoX9kP81D7w11FdjQSxe) | 2:26 |
 | 39 | [Back from the Dead](https://open.spotify.com/track/19bWcmH61AXuZqRjmLyBcZ) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Back from the Dead](https://open.spotify.com/album/0CjoPYfnPVGQ3KCen5uuku) | 2:59 |
 | 40 | [WICKED](https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WICKED](https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA) | 3:30 |
 | 41 | [Devil](https://open.spotify.com/track/1xKqbhFvRsZsSJa68zwN8a) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form](https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 99 | [Going Ghost](https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Going Ghost](https://open.spotify.com/album/3YoYaUvzxAtji6MG8ZzghO) | 2:49 |
 | 100 | [Have Fun](https://open.spotify.com/track/0CUDJNdyr5XhIblZRYIpe9) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Have Fun](https://open.spotify.com/album/1xbi36lPp1gIjz9q8hL06C) | 3:56 |
 
-Snapshot ID: `MTY3NTYxNTA5MiwwMDAwMDAwMDc5NjhlOGZiZDgwYTYxN2M4NjBjNTNlMjJkYjRlMjNm`
+Snapshot ID: `MTY3NTYxNTA5MiwwMDAwMDAwMDBiNmE5NzJkY2Q0MzU1YmU1Y2M4NTc4YzkyMTRiYzFk`

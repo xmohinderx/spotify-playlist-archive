@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-574 songs - 1 day 8 hr 39 min
+575 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-07 | 2022-02-03 |
 | [Abl Mawsalek](https://open.spotify.com/track/6382iMgZk6yyPg3htCkpB5) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Abl Mawsalek](https://open.spotify.com/album/5zJx8EKJIpZSjM1BH3FzYz) | 4:38 | 2021-11-23 |  |
 | [Abu Mecca](https://open.spotify.com/track/0kRVLXoBrU3IaKGUknzzJs) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Abu Mecca](https://open.spotify.com/album/05YBYtyENG04UjhacVIy0Z) | 3:24 | 2021-03-27\* | 2021-06-23 |
+| [Ader Akmel](https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ader Akmel](https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n) | 4:13 | 2023-02-19 |  |
 | [Adrenaline](https://open.spotify.com/track/4loPewUujVLd1Fn1dJFN0g) | [Arabic DJ](https://open.spotify.com/artist/0C8CVs1tRKlYN8FVEvsGlt) | [Arabic DJ](https://open.spotify.com/album/11khAHTlMzLut4KZ1FCkwE) | 3:14 | 2022-08-11 | 2022-08-25 |
 | [Adrenaline](https://open.spotify.com/track/1uE7Gln68v4duncYy4QgQm) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Adrenaline](https://open.spotify.com/album/7BbMlrhOzLqWAbf9o1yBw6) | 3:14 | 2022-08-03 | 2022-11-22 |
 | [Adriana Lima](https://open.spotify.com/track/615yIBsABjpxbMLVXqYQgt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Adriana Lima](https://open.spotify.com/album/11nWr65Cj1cRZ79eeRJICS) | 3:01 | 2022-03-25 | 2022-06-30 |
@@ -45,7 +46,7 @@
 | [ANA DEAL](https://open.spotify.com/track/1QcOE9wJeillm0WK0oujtD) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [ANA DEAL](https://open.spotify.com/album/2WMRjvOdsTaYJbOf6tQ0tL) | 3:15 | 2022-09-10 | 2022-12-13 |
 | [Ana Ghaltan](https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:27 | 2022-06-03 | 2023-02-17 |
 | [Ana Mesh Naguib Sawiris](https://open.spotify.com/track/6x2NGy1xES5Ujzk2kNKIrd) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Ana Mesh Naguib Sawiris](https://open.spotify.com/album/652mBvpZNQoZdP1UKg1HLs) | 2:55 | 2021-03-27\* | 2021-04-01 |
-| [Ana Negm](https://open.spotify.com/track/6CU68VwcV10VfulVQMfj3X) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 4:01 | 2022-09-25 | 2023-02-19 |
+| [Ana Negm](https://open.spotify.com/track/6CU68VwcV10VfulVQMfj3X) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 4:01 | 2022-09-25 |  |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-04-16 |  |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2022-11-02 |
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2021-03-27\* | 2021-06-11 |
@@ -493,7 +494,7 @@
 | [الباشا](https://open.spotify.com/track/1qh5fjEI0AwX2QikxLwZLi) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [الباشا](https://open.spotify.com/album/5f8WADVIGDIr3nrlVATVJl) | 2:44 | 2022-05-03 | 2022-05-05 |
 | [البخت](https://open.spotify.com/track/5CeSq5JBv2wCeIHZA0PLtT) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/2QYOx6iuRhBUDiLQ262eGw) | 3:26 | 2022-03-09 | 2022-04-03 |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-02-27 |  |
-| [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 | 2021-05-18 |  |
+| [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 | 2021-05-18 | 2023-02-20 |
 | [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Seif](https://open.spotify.com/artist/5pEMAuF7RVXLCCiIkqVC0q) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 | 2022-08-25 | 2022-10-31 |
 | [العمر راح جمايل](https://open.spotify.com/track/2tDHfhOcCyIlT2cMc2MbLs) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Abdelsalam](https://open.spotify.com/artist/1RYiKhiu6grbHvPZIuO18y), [Shalsha](https://open.spotify.com/artist/7JvNUhrLYfqBSIPfa5N12E) | [العمر راح جمايل](https://open.spotify.com/album/4t5IE26L1Y0HcP0SMBoDti) | 2:53 | 2023-02-13 | 2023-02-15 |
 | [الغسالة](https://open.spotify.com/track/7JAPo0o6KfpKdZiGLoRCNh) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [الغسالة](https://open.spotify.com/album/5EZeKNiANiLwqcOEYnxSoD) | 2:51 | 2021-03-27\* | 2022-03-07 |
@@ -532,7 +533,7 @@
 | [ستو أنا](https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb), [Hanady Mehanna](https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT) | [مكتوب عليا \(أغاني المسلسل التلفزيوني الأصلي\)](https://open.spotify.com/album/7CNSRnoyRE1QhSWksa8OFs) | 2:21 | 2022-05-13 | 2022-09-26 |
 | [ستو انا](https://open.spotify.com/track/7fHN1jiFCjB18VXoU7PjzA) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb) | [ستو انا](https://open.spotify.com/album/19k0mVkRkPiLSbuJQ8M7tD) | 2:21 | 2022-05-02 | 2022-05-14 |
 | [سحمد](https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:17 | 2022-07-22 | 2022-07-25 |
-| [سكرتي](https://open.spotify.com/track/2FntmtxOqyNgZkxaZchEn0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [سكرتي](https://open.spotify.com/album/2criZC8fjpHOKf1A7ApYzz) | 3:30 | 2022-04-05 |  |
+| [سكرتي](https://open.spotify.com/track/2FntmtxOqyNgZkxaZchEn0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [سكرتي](https://open.spotify.com/album/2criZC8fjpHOKf1A7ApYzz) | 3:30 | 2022-04-05 | 2023-02-20 |
 | [سكرتي](https://open.spotify.com/track/3pY3PPvp77FNQq01n4UrS1) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [سكرتي](https://open.spotify.com/album/1EplYRbtXvBW1IlPWWs9Yq) | 3:30 | 2021-03-27\* | 2022-04-06 |
 | [سيري](https://open.spotify.com/track/6GC2ckZFyjdbAfAHPYRER2) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [سيري](https://open.spotify.com/album/5NHI0t2ytAVZTVIM0XfTBZ) | 3:33 | 2022-04-05 | 2022-04-23 |
 | [شيراتون](https://open.spotify.com/track/3S2aU4rUZXbVOxyVzgzXQ5) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [شيراتون](https://open.spotify.com/album/0aB2clpFGE0NgXtRKtO5PS) | 3:34 | 2021-03-27\* | 2022-03-01 |

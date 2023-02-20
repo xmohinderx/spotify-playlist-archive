@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Zion & Lennox
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,058 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,083 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 18 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 |
 | 19 | [Bluetooth](https://open.spotify.com/track/3TtXbnqC4U5BUW1NlOFHVz) | [Brenda Aliendro](https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT) | [Bluetooth](https://open.spotify.com/album/3bDX277eDWvvUECpCIKDUj) | 2:40 |
 | 20 | [Regrésame Mi Corazón](https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Regrésame Mi Corazón](https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy) | 4:30 |
-| 21 | [Consuelo](https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Consuelo](https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO) | 2:44 |
-| 22 | [Peligro de Amor](https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro de Amor](https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp) | 4:16 |
+| 21 | [Peligro de Amor](https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro de Amor](https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp) | 4:16 |
+| 22 | [Consuelo](https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Consuelo](https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO) | 2:44 |
 | 23 | [La Culpa](https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [La Culpa](https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ) | 2:54 |
 | 24 | [El Ignorante](https://open.spotify.com/track/3KdbrghT4Y4uiCC5Bo2NCI) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [El Ignorante](https://open.spotify.com/album/5s5OS8ox9J6dTzY2LY8A5a) | 4:04 |
 | 25 | [ADIÓS](https://open.spotify.com/track/0oCg7mNg3DDcKsB5wfWo9r) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:40 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 37 | [Cuando Te Toco](https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Cuando Te Toco](https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR) | 4:06 |
 | 38 | [Tuki Tuki \- Remix](https://open.spotify.com/track/7gmR3coJOnqOyflVzSUrw0) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk) | [Tuki Tuki \(Remix\)](https://open.spotify.com/album/5h1TiL97try0MmWV5zNLuz) | 3:32 |
 | 39 | [Ya Supérame](https://open.spotify.com/track/0jPKUwIK6xiB5xZWXoYGXk) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Ya Supérame](https://open.spotify.com/album/7yMrWYOXO2U8ZTl8DT8sE1) | 2:05 |
-| 40 | [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 |
-| 41 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 |
+| 40 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 |
+| 41 | [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 |
 | 42 | [Otra Vez](https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:30 |
 | 43 | [La Boda](https://open.spotify.com/track/4CsyqrI7t6XrSphpyKURWe) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [La Boda](https://open.spotify.com/album/7m3opM6Ym3lwm8XREuW4PZ) | 3:53 |
 | 44 | [Te Equivocaste Conmigo](https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 4:08 |
 | 45 | [Ven, Ven](https://open.spotify.com/track/2qEzWUMScoin9hn8Gqr0s9) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Ven, Ven](https://open.spotify.com/album/1UsnZRssUcmZxEQFejIrD7) | 3:28 |
 | 46 | [Manos de Tijera \- Versión Bachata](https://open.spotify.com/track/4UhYmV4km2WkPW3u6mgPfY) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv), [Dj Husky](https://open.spotify.com/artist/7KpJV35QbeZ1ZCn34bnypL) | [Manos de Tijera \(Versión Bachata\)](https://open.spotify.com/album/4RXju3Va6kcOzfyyLmDvyX) | 4:28 |
 | 47 | [Buscando Un Amor](https://open.spotify.com/track/333dP0lCe9CNZ4sBlReABw) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Buscando Un Amor](https://open.spotify.com/album/6p1rFIAqTxUFtO62nmhQTH) | 3:48 |
-| 48 | [SexToy](https://open.spotify.com/track/5tcVNpuycq2dXhYeYHQ5M4) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [SexToy](https://open.spotify.com/album/2SyloCuYXvOtNMlvvoOsIB) | 3:53 |
-| 49 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 |
+| 48 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 |
+| 49 | [SexToy](https://open.spotify.com/track/5tcVNpuycq2dXhYeYHQ5M4) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [SexToy](https://open.spotify.com/album/2SyloCuYXvOtNMlvvoOsIB) | 3:53 |
 | 50 | [Envenenao](https://open.spotify.com/track/0mRasKLNRK934lWvxf5dss) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Envenenao](https://open.spotify.com/album/3UDLALZNLL9a0aMk1SvXeP) | 3:23 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDRlNmVlYjQxYTFkZmEwMTZjNzBjNjVhMWIxYmEwZDlk`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGJiMDUzYTEwNjQ4ZDVmYjg1ZDViYmNkNDhjYjk1NmFm`

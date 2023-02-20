@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,722 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,854 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 |
-| 2 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
+| 2 | [Steal](https://open.spotify.com/track/0pAiyIHt9DyHOjWgF41kp6) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Portraits](https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1) | 3:39 |
 | 3 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
 | 4 | [Someone Else](https://open.spotify.com/track/5dv0oirEwweEZtMkjpabnz) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Everyday](https://open.spotify.com/album/678mCpmrntPuc6iHc7wvLc) | 4:07 |
 | 5 | [We Thought You Were Sleeping](https://open.spotify.com/track/5kh2JLQ3XdBTU6Jd5qWPwx) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Inside Out](https://open.spotify.com/album/5VSjUsRU41obhoHo0ghMO0) | 3:47 |
 | 6 | [Afterglo](https://open.spotify.com/track/4Uk9Xnh8RzS9O8SlY6XirP) | [ELLES](https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo) | [A Celebration Of The Euphoria Of Life](https://open.spotify.com/album/2afxG4ppn5YXesFLZbWFxa) | 3:51 |
 | 7 | [Escape](https://open.spotify.com/track/20cNDRUVuayveIRgcYdwYL) | [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [Escape EP](https://open.spotify.com/album/6oc7OKNAXGt9qOpBoekO3t) | 4:49 |
 | 8 | [Opening Credits](https://open.spotify.com/track/7zuMvkTqp8RQpJqSHCFofp) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Opening Credits](https://open.spotify.com/album/70ObWOtpXMsBBbYLNmRIgm) | 4:03 |
-| 9 | [Steal](https://open.spotify.com/track/0pAiyIHt9DyHOjWgF41kp6) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Portraits](https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1) | 3:39 |
+| 9 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 10 | [Try](https://open.spotify.com/track/3wgCA7ikyME6ac6AMN5jCf) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [I YOU SHE](https://open.spotify.com/album/7tBQBS0T6plojk62SkKyvm) | 3:32 |
 | 11 | [Lapwing](https://open.spotify.com/track/76PkwIGVqsuUSjtZMqBF0P) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod) | [Crest](https://open.spotify.com/album/2pAS94EQ1HRHkMXusRl5vk) | 3:32 |
 | 12 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 49 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
 | 50 | [Dreaming \(feat\. Bruno Major\)](https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 3:53 |
 
-Snapshot ID: `MTY2OTM5NDkwNiwwMDAwMDAwMGFkYWEyNTRkYTY4NDE0NzJhNzBiZGI4ZjMzMjIyNGM0`
+Snapshot ID: `MTY2OTM5NDkwNiwwMDAwMDAwMDE1MjE3ZWRkZmY4MmE3ZTlmODNhMjYwMTQ2YWFkOGJh`

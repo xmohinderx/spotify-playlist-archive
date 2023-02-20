@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,248 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,448 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,15 +51,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 41 | [The Year That Clayton Delaney Died](https://open.spotify.com/track/1sfXFEpGVK5s5i8eHEtNPj) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [In Search Of A Song](https://open.spotify.com/album/7896HKNHKgVnuiOh401iX2) | 2:44 |
 | 42 | [Daydreams About Night Things](https://open.spotify.com/track/1PTngmREtR0P0YMLdqVWBj) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Night Things](https://open.spotify.com/album/6SKcfybHqgbi425YFczgUH) | 2:22 |
 | 43 | [Man in Black](https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Man In Black](https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd) | 2:52 |
-| 44 | [Tennessee Waltz](https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 2:49 |
+| 44 | [By The Time I Get To Phoenix \- Remastered 2001](https://open.spotify.com/track/1tZKsxgKebVQX9s6oiojG9) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [By The Time I Get To Phoenix \(Remastered\)](https://open.spotify.com/album/29tTA46kurlOioRkjBqOMS) | 2:44 |
 | 45 | [Coat of Many Colors](https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Coat Of Many Colors](https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg) | 3:03 |
 | 46 | [Hello Darlin' \- Single Version](https://open.spotify.com/track/6vmAgl2y9MpoZKrVUXrPe5) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Hello Darlin'](https://open.spotify.com/album/7jHxaZCVO8ITJOtQzexSI8) | 2:29 |
-| 47 | [By The Time I Get To Phoenix \- Remastered 2001](https://open.spotify.com/track/1tZKsxgKebVQX9s6oiojG9) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [By The Time I Get To Phoenix \(Remastered\)](https://open.spotify.com/album/29tTA46kurlOioRkjBqOMS) | 2:44 |
+| 47 | [Tennessee Waltz](https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 2:49 |
 | 48 | [I Love](https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [Country Classics: American Legends Tom T\. Hall \(Expanded Edition\)](https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5) | 2:06 |
 | 49 | [I Love You, I Honestly Love You](https://open.spotify.com/track/5q8UoqDHPe9bU4R5bbvcJF) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [If You Love Me, Let Me Know](https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg) | 3:40 |
 | 50 | [Years](https://open.spotify.com/track/0NmCGVEXhfAu7XMI4JMyff) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Just For The Record](https://open.spotify.com/album/4eoO8CKZTuLmTitjkPOpIY) | 3:51 |
-| 51 | [Snowbird](https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [This Way Is My Way](https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F) | 2:14 |
-| 52 | [Good Hearted Woman](https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:58 |
+| 51 | [Good Hearted Woman](https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:58 |
+| 52 | [Snowbird](https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [This Way Is My Way](https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F) | 2:14 |
 | 53 | [Two Dollars in the Jukebox \- 2008 Remaster](https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Rocky Mountain Music](https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI) | 2:22 |
 | 54 | [Blue Skies](https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 3:33 |
 | 55 | [If I Were a Carpenter](https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Hello, I'm Johnny Cash](https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE) | 3:00 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 88 | [What A Difference You've Made In My Life](https://open.spotify.com/track/4sxet9Zdu2Z9hdhAKbjlNI) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [It Was Almost Like A Song](https://open.spotify.com/album/2x8TSQw4wmfjIENmrGlvO1) | 4:01 |
 | 89 | [When You're Hot, You're Hot](https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 2:19 |
 | 90 | [Tulsa Time](https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 3:12 |
-| 91 | [Till the End](https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [Till The End](https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F) | 2:46 |
+| 91 | [Heaven's Just A Sin Away](https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk) | [The Kendalls](https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN) | [The Kendalls \- 42 Massive Hits](https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz) | 2:25 |
 | 92 | [Why Have You Left The One You Left Me For](https://open.spotify.com/track/4u2Fcnbsf2KtH7gE86vxM0) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:56 |
-| 93 | [Heaven's Just A Sin Away](https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk) | [The Kendalls](https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN) | [The Kendalls \- 42 Massive Hits](https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz) | 2:25 |
+| 93 | [Till the End](https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [Till The End](https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F) | 2:46 |
 | 94 | [If You Love Me \(Let Me Know\)](https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [If You Love Me, Let Me Know](https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg) | 3:16 |
 | 95 | [Every Time Two Fools Collide](https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Every Time Two Fools Collide](https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL) | 3:00 |
 | 96 | ['Til I Get It Right](https://open.spotify.com/track/64s3ywG24Rkgum7qIIA6wO) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 99 | [Pass Me By](https://open.spotify.com/track/13ion8hnAYRdnLmuxddivf) | [Johnny Rodriguez](https://open.spotify.com/artist/5hYruMimtF8axJGLsFpfoU) | [20 Greatest Hits](https://open.spotify.com/album/0O7fLzqBv5cj2tONoAj8sE) | 2:37 |
 | 100 | [Bloody Mary Morning](https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Phases And Stages](https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP) | 2:48 |
 
-Snapshot ID: `MTY3NTEwMzI5NywwMDAwMDAwMGNmM2U2MTRjMGMzMzFmNmIxMzFjYmE1NWRkNGFiMmNm`
+Snapshot ID: `MTY3NTEwMzI5NywwMDAwMDAwMGUyYmJkZGU0ODczMmRhN2QxMTZlYjA0NmYxY2RlOGFi`

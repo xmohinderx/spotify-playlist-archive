@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 369764,
+  "num_followers": 369784,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI2MjU2NywwMDAwMDAwMDA0ZTE2ZjliMzAxYmQyMmRkMWZmMGU5YWVjYjdlNGI0",
+  "snapshot_id": "MTY3NjI2MjU2NywwMDAwMDAwMDMxZjI5Y2ZlNjc5ZDZmMTgxYWViNmU1ZGI1ZTM0YTAx",
   "tracks": [
     {
       "added_at": "2023-02-09 13:00:00",
@@ -67,6 +67,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 187788,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 228853,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -491,22 +491,18 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+      "duration_ms": 198813,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -567,18 +563,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -699,22 +699,26 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Making Time",
-        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
+        "name": "Colorblind (WhoMadeWho Remix)",
+        "url": "https://open.spotify.com/album/0mO8k3D70mgcLtMViioNon"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         },
         {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
         }
       ],
-      "duration_ms": 271025,
-      "name": "Making Time",
-      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
+      "duration_ms": 435653,
+      "name": "Colorblind - WhoMadeWho Remix",
+      "url": "https://open.spotify.com/track/6otJlwlxQNWiqkkSPIh5Ul"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -743,26 +747,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Colorblind (WhoMadeWho Remix)",
-        "url": "https://open.spotify.com/album/0mO8k3D70mgcLtMViioNon"
+        "name": "Making Time",
+        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         },
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 435653,
-      "name": "Colorblind - WhoMadeWho Remix",
-      "url": "https://open.spotify.com/track/6otJlwlxQNWiqkkSPIh5Ul"
+      "duration_ms": 271025,
+      "name": "Making Time",
+      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -851,6 +851,22 @@
       "duration_ms": 208290,
       "name": "Amman",
       "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -971,22 +987,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
-      },
-      "artists": [
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
         "url": "https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/62fWbXuvA9gXsfibRB1WCq"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 183788,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/0nV76bXUJRqT9QaYTWxW5M"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "malo okoma",
         "url": "https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 245437,
       "name": "malo okoma - Radio Edit",
       "url": "https://open.spotify.com/track/7tdviypkABEstu9z7gSB27"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/62fWbXuvA9gXsfibRB1WCq"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 183788,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/0nV76bXUJRqT9QaYTWxW5M"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/6R8SpkZFXLlWAdzWZHnB3j"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        },
-        {
-          "name": "mixed feelings",
-          "url": "https://open.spotify.com/artist/6wnikTsr4A4y3Eiwpcmjh0"
-        }
-      ],
-      "duration_ms": 144461,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/18Cl5BaGPKOS493dgicNXC"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Ask",
         "url": "https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD"
       },
@@ -1203,22 +1183,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Tied to You",
-        "url": "https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn"
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/6R8SpkZFXLlWAdzWZHnB3j"
       },
       "artists": [
         {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
         },
         {
-          "name": "L\u00f6Kii",
-          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
+          "name": "mixed feelings",
+          "url": "https://open.spotify.com/artist/6wnikTsr4A4y3Eiwpcmjh0"
         }
       ],
-      "duration_ms": 223728,
-      "name": "Tied to You",
-      "url": "https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X"
+      "duration_ms": 144461,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/18Cl5BaGPKOS493dgicNXC"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1239,6 +1219,26 @@
       "duration_ms": 197739,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Tied to You",
+        "url": "https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "L\u00f6Kii",
+          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
+        }
+      ],
+      "duration_ms": 223728,
+      "name": "Tied to You",
+      "url": "https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Visage 5 (Floating)",
-        "url": "https://open.spotify.com/album/7epHm3vYUTyuIjMj0HuU02"
+        "name": "Tulum",
+        "url": "https://open.spotify.com/album/4IxpGZORrGm6XfQW1TyMiG"
       },
       "artists": [
         {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
         }
       ],
-      "duration_ms": 293333,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1"
+      "duration_ms": 225272,
+      "name": "Tulum",
+      "url": "https://open.spotify.com/track/3pT9l5WdtJhCpEyxVgH2LT"
     }
   ],
   "unique_name": "Just Chill",

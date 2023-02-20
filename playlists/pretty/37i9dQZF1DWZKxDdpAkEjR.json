@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 108,
+  "num_followers": 111,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc2MzQzMiwwMDAwMDAwMGM5YmUyNDcwNDlmYWRiZGU5Y2Q0Y2YyMGIzYWIxMWQx",
+  "snapshot_id": "MTY3NTc2MzQzMiwwMDAwMDAwMDU5Zjk3NWFlN2U4N2M0NmJhMTMyOGQ2YzI1YTNkNGY4",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -967,26 +967,18 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Let Somebody Go (Ofenbach Remix)",
-        "url": "https://open.spotify.com/album/7lbSZjlBsWuXtR3WqsdOSN"
+        "name": "Getting Better",
+        "url": "https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
         }
       ],
-      "duration_ms": 194487,
-      "name": "Let Somebody Go - Ofenbach Remix",
-      "url": "https://open.spotify.com/track/1pDrM3rKlxA9fx3mShxzqx"
+      "duration_ms": 166301,
+      "name": "Getting Better",
+      "url": "https://open.spotify.com/track/0LfyrFWFTEvKuW4EOAT3fj"
     }
   ],
   "unique_name": "Summer Hits (3)",

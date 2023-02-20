@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,708 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,791 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 9 | [Nocturnal Lady](https://open.spotify.com/track/0Hdzza1KQrGEzwVPtipMOq) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Nocturnal Lady](https://open.spotify.com/album/6Itkkv2vYKEZLJ4XBXPwLe) | 5:04 |
 | 10 | [The End](https://open.spotify.com/track/1CfCme9SvYiCwegwOS6rKH) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [The End](https://open.spotify.com/album/0no9vd20lVRbHZooRhqUHb) | 4:35 |
 | 11 | [Drown Me Slow](https://open.spotify.com/track/54KVbLZi755vI53RPEHI42) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Holy Trouble](https://open.spotify.com/album/4FRfrui9WYZE8wJpHbVzmt) | 4:31 |
-| 12 | [Envelopes \(Chapter VI\) \- Edit](https://open.spotify.com/track/3JDsYB8UxGbMQNnNlAeDL0) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Envelopes](https://open.spotify.com/album/1A6VtF2OjVmEKErfTrNZYJ) | 4:01 |
-| 13 | [Wish You Were Here](https://open.spotify.com/track/5TsLsLTg3kTuv2RMRL3vaB) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Wish You Were Here](https://open.spotify.com/album/7iRNDskXthAJT8k6k4qZzV) | 4:32 |
+| 12 | [Wish You Were Here](https://open.spotify.com/track/5TsLsLTg3kTuv2RMRL3vaB) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Wish You Were Here](https://open.spotify.com/album/7iRNDskXthAJT8k6k4qZzV) | 4:32 |
+| 13 | [Envelopes \(Chapter VI\) \- Edit](https://open.spotify.com/track/3JDsYB8UxGbMQNnNlAeDL0) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Envelopes](https://open.spotify.com/album/1A6VtF2OjVmEKErfTrNZYJ) | 4:01 |
 | 14 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 |
 | 15 | [Feel](https://open.spotify.com/track/3kaoTFZqU2ZgycpjbSKrvy) | [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh) | [Regrets & Resolutions](https://open.spotify.com/album/0jEYgUe5ByUDh3XdP29KBG) | 5:54 |
 | 16 | [Journey](https://open.spotify.com/track/070DusgGH4WJKyRIXrZz6u) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC) | [Journey](https://open.spotify.com/album/0arLnM5zOVRFXCMpFPJi0p) | 4:00 |
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 25 | [Don't You Forget About Me](https://open.spotify.com/track/7IidnemjastTResAXISAK7) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Don't You Forget About Me](https://open.spotify.com/album/3PbktfrtKjsK7WMvqMIqyI) | 5:48 |
 | 26 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
 | 27 | [Eff Five](https://open.spotify.com/track/5WHabC4LXrFeA0kobfktOF) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Paspatou Remixed](https://open.spotify.com/album/4Q8A1blfOzDXykDdmu8Rgr) | 4:51 |
-| 28 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |
-| 29 | [Nobody New Around You](https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [L.O.S.S.](https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58) | 4:27 |
+| 28 | [Nobody New Around You](https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [L.O.S.S.](https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58) | 4:27 |
+| 29 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |
 | 30 | [Blind Eye](https://open.spotify.com/track/6oVLw2Yd1IfCQDLYvUgTmQ) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 3:05 |
 | 31 | [All Armed](https://open.spotify.com/track/4tA2fAzDdltaUtL0gtmvou) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Encores](https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj) | 11:39 |
 | 32 | [Wash](https://open.spotify.com/track/3J8t0fiePfXwQhgOGU3wtA) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Rituals](https://open.spotify.com/album/4wPozJoIMaxkvKyG3kb2Fo) | 2:43 |
 | 33 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
 | 34 | [Opals](https://open.spotify.com/track/0g9lBzTwOmnx3zLUTR9x62) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Opals](https://open.spotify.com/album/6MBYve8rGo30nOvcnYMZ8x) | 2:24 |
 | 35 | [Low \- Babeheaven Remix](https://open.spotify.com/track/75jNxKPVjq08hKLkskLzXS) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD), [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Low \(Babeheaven Remix\)](https://open.spotify.com/album/6YHnk5GdCARNyCk6c3hgnG) | 4:07 |
-| 36 | [Creation Dub](https://open.spotify.com/track/3jWZXDktZVgDelnDJx9DtO) | [Forest Drive West](https://open.spotify.com/artist/0K1lHu1BP65Z1DErnljxUw) | [Parallel Space EP](https://open.spotify.com/album/00qCuTBME8tBVE31DUC9A5) | 5:52 |
-| 37 | [Chaos](https://open.spotify.com/track/7BBZ6Il2sGyuNaaHiUJS83) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Chaos & Clarity](https://open.spotify.com/album/3K9vnQRCyyNbOMHLAh3wvV) | 2:28 |
+| 36 | [Chaos](https://open.spotify.com/track/7BBZ6Il2sGyuNaaHiUJS83) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Chaos & Clarity](https://open.spotify.com/album/3K9vnQRCyyNbOMHLAh3wvV) | 2:28 |
+| 37 | [Creation Dub](https://open.spotify.com/track/3jWZXDktZVgDelnDJx9DtO) | [Forest Drive West](https://open.spotify.com/artist/0K1lHu1BP65Z1DErnljxUw) | [Parallel Space EP](https://open.spotify.com/album/00qCuTBME8tBVE31DUC9A5) | 5:52 |
 | 38 | [Disrupt](https://open.spotify.com/track/3cZ15fnmPlpNbpa47bRQ7T) | [Delac](https://open.spotify.com/artist/2MkVSepMMfJrKDOivPEmKM) | [Disrupt](https://open.spotify.com/album/5imm72ZzslXs4ipR05vdmF) | 4:14 |
 | 39 | [Qasida \- Sunset Fever 2](https://open.spotify.com/track/0Y6bC35xuN9ycyKxpT9Iks) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Atlantics \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FWKJ334wfgxb10foTngyf) | 1:36 |
 | 40 | [Triangular Blue Marina](https://open.spotify.com/track/4vrmslCxVAuPRxvi8T1pHs) | [GOVS](https://open.spotify.com/artist/5ZEAO3bZL6fTJU8tDT0eQS) | [Coast Guard](https://open.spotify.com/album/4kmLGEaHtPuXAkm7FQ9QlB) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 49 | [Bh](https://open.spotify.com/track/5TKEFmm00kb1pGhbbrcMAJ) | [Daniel Aged](https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH) | [Daniel Aged](https://open.spotify.com/album/2225T7QnBygl0yoM7dbNGD) | 4:35 |
 | 50 | [Here](https://open.spotify.com/track/4vk5hhssPKQQBYNIQfteta) | [Jonas Munk](https://open.spotify.com/artist/6KPFlbSbh1zeN7x9QpgB4O), [Nicklas Sørensen](https://open.spotify.com/artist/3OXCO3AZeHHNudXu8Mftd7) | [Always Already Here](https://open.spotify.com/album/6Cly90UXXW9Hz851yq7mtM) | 3:28 |
 
-Snapshot ID: `MTYzNDMwNTY0NywwMDAwMDAwMGVmNmQyZjM3NDkzNWUxZmQ1MDU5NmM1YzA1NjY2NzQ4`
+Snapshot ID: `MTYzNDMwNTY0NywwMDAwMDAwMDEyMzVmMmE1NDkxZjZhMDUxYzU2N2VhM2FjYzBhYmEw`

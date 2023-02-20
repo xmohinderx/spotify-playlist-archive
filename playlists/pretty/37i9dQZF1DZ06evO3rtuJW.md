@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,148 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,153 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 39 | [Up Next 3](https://open.spotify.com/track/2uCncSbMLOMF6rlA2ThdGO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Summer Songs 2](https://open.spotify.com/album/1Ea4UfFW7K1UzbjkDVaPri) | 2:35 |
 | 40 | [Pull Up](https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans](https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0) | 3:28 |
 | 41 | [Party in Heaven](https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:16 |
-| 42 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 |
-| 43 | [Statement](https://open.spotify.com/track/79lRUyyy0iwWRkbFFNJ95S) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Statement](https://open.spotify.com/album/5VAilvKAeXaLbgfQAFIDeQ) | 2:20 |
+| 42 | [Statement](https://open.spotify.com/track/79lRUyyy0iwWRkbFFNJ95S) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Statement](https://open.spotify.com/album/5VAilvKAeXaLbgfQAFIDeQ) | 2:20 |
+| 43 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 |
 | 44 | [Everything](https://open.spotify.com/track/4HNFreT8wNv9oOFC5RQew9) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Humble Beast \(Deluxe\)](https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn) | 2:41 |
 | 45 | [FWM \(with Yosohn\)](https://open.spotify.com/track/6FgLgiZfogBrRLUKTL9DpW) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Yosohn](https://open.spotify.com/artist/28X3uK2mhWGNFwFy145ZD4) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:21 |
 | 46 | [Paraphernalia 2.0 \(feat\. G Herbo\)](https://open.spotify.com/track/5vGKgOsISQNVqAjIRwdry5) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Paraphernalia 2.0 \(feat\. G Herbo\)](https://open.spotify.com/album/5salZxwbYxM9BF54yeI6vf) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 49 | [Flashbacks \(with Jeremih\)](https://open.spotify.com/track/3s01d9z41qw037YXOPlQqd) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:53 |
 | 50 | [Add It Up \(feat\. G Herbo\)](https://open.spotify.com/track/63CppbO1NyPUpnMHJ5lYDo) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up \(feat\. G Herbo\)](https://open.spotify.com/album/0jhDS6QHDbWLapC8gifh9n) | 2:49 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDAxYzAwZGE2YzM4NmRhOGEwMjM3NjkzOWY4MDM4NjVjMA==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDA4NDM2NmY4MGIyZDI0YjFiMmY0MDhkMDZkYWMwNjAyNA==`

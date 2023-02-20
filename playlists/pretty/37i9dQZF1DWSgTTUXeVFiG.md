@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,599 likes - 50 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,624 likes - 50 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 45 | [Hazme Olvidarla \- En Vivo](https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 6:32 |
 | 46 | [Desnudate Mujer](https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 8:20 |
 | 47 | [Sonido Bestial](https://open.spotify.com/track/1FVahOIncroD7JyUrEslTm) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Richie Ray](https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf), [Ricardo Ray](https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq), [Wille Colon](https://open.spotify.com/artist/7FjTUD6W5stHN4LwBCcwkU), [Pedro Brull](https://open.spotify.com/artist/5gNP6xGmxzC25B3Fhqg5eg), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Luisito Carrion](https://open.spotify.com/artist/7Gkr47aENhNsnuE72IIuUl), [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Marc Anthony](https://open.spotify.com/artist/5pUnaPzP3a5oHMWgJHU0gp), [Papo Lucca](https://open.spotify.com/artist/7vBicXCUm81QrCyx83xEfj) | [40 Aniversario: EN VIVO](https://open.spotify.com/album/3y6psCkk0iiyHW9RsZd1OU) | 6:33 |
-| 48 | [La Vida Es Un Carnaval \- En Vivo Desde Hartford, Connecticut/1999](https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Night Of Salsa](https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h) | 6:41 |
+| 48 | [Pedro Navaja \- Live](https://open.spotify.com/track/7lStMGLa4YPstX9AedQSl2) | [Ruben Blades](https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195), [Seis del Solar](https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO) | [Todos Vuelven Live, Vol\. 2](https://open.spotify.com/album/5vuelvutC4GRdYdO4Ka3Bq) | 8:09 |
 | 49 | [El Cantante \- Live](https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 2:57 |
-| 50 | [Pedro Navaja \- Live](https://open.spotify.com/track/7lStMGLa4YPstX9AedQSl2) | [Ruben Blades](https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195), [Seis del Solar](https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO) | [Todos Vuelven Live, Vol\. 2](https://open.spotify.com/album/5vuelvutC4GRdYdO4Ka3Bq) | 8:09 |
+| 50 | [La Vida Es Un Carnaval \- En Vivo Desde Hartford, Connecticut/1999](https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Night Of Salsa](https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h) | 6:41 |
 
-Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMGFjMTRjMjRjZDUxMGZmYjVlZTA1Yzg2MmI4ZGZiOTBk`
+Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMGU3ODNkMjcwNWNmZWJlZTdkOTNmZGI3MWU4ZWY0M2Fi`

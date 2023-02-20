@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 119168,
+  "num_followers": 119186,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYyNTIzMCwwMDAwMDAwMDEwZjUwMDdjZDdlMmViNzJlMzJhNTMwODMyMjk2Zjc0",
+  "snapshot_id": "MTY3NjYyNTIzMCwwMDAwMDAwMDAzOWZhOTQ1M2NmYTExNGRiYTVjY2NiYWExMTcyNDRh",
   "tracks": [
     {
       "added_at": "2023-02-16 23:00:00",
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/0JOY8MuzpGRFteDGsRVLkK"
     },
     {
-      "added_at": "2023-02-19 06:13:18",
+      "added_at": "2023-02-20 00:55:17",
       "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
@@ -343,42 +343,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Sommaren",
-        "url": "https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043"
-      },
-      "artists": [
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
-        },
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 173030,
-      "name": "Sommaren",
-      "url": "https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Beroendeframkallande",
-        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 182995,
-      "name": "Beroendeframkallande",
-      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Chasing (feat. NEIMY)",
         "url": "https://open.spotify.com/album/2x2wq5Et0dUu1lLnYv07vc"
       },
@@ -399,6 +363,42 @@
       "duration_ms": 148460,
       "name": "Chasing (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4EdlKtTxltiqGEdiOd2AUE"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Beroendeframkallande",
+        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 182995,
+      "name": "Beroendeframkallande",
+      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Sommaren",
+        "url": "https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043"
+      },
+      "artists": [
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        },
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 173030,
+      "name": "Sommaren",
+      "url": "https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "N\u00e4r jag blundar",
+        "url": "https://open.spotify.com/album/2UGIBJF3nSMbJMNRoyMdRj"
+      },
+      "artists": [
+        {
+          "name": "Daniel Adams-Ray",
+          "url": "https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "N\u00e4r jag blundar",
+      "url": "https://open.spotify.com/track/0rdA602uLSpPZpwuc5Zujx"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Sommarregn (feat. Hanna Ferm)",
         "url": "https://open.spotify.com/album/12SjrFUpHO06Xm2Co5ookK"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 182515,
       "name": "Sommarregn (feat. Hanna Ferm)",
       "url": "https://open.spotify.com/track/3rZtRBAKCHaZVxMQqXLAPu"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "N\u00e4r jag blundar",
-        "url": "https://open.spotify.com/album/2UGIBJF3nSMbJMNRoyMdRj"
-      },
-      "artists": [
-        {
-          "name": "Daniel Adams-Ray",
-          "url": "https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "N\u00e4r jag blundar",
-      "url": "https://open.spotify.com/track/0rdA602uLSpPZpwuc5Zujx"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Mormor",
-        "url": "https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 240262,
-      "name": "Mormor",
-      "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Jag forts\u00e4tter gl\u00f6mma",
         "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 233413,
       "name": "Barn av v\u00e5r tid",
       "url": "https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Mormor",
+        "url": "https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 240262,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1335,6 +1335,22 @@
       "duration_ms": 283626,
       "name": "Landet i fj\u00e4rran",
       "url": "https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Satsa \u2013 Spotify Studio 100 Recording",
+        "url": "https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I"
+      },
+      "artists": [
+        {
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+        }
+      ],
+      "duration_ms": 177630,
+      "name": "Satsa \u2013 Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Satsa \u2013 Spotify Studio 100 Recording",
-        "url": "https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I"
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
       },
       "artists": [
         {
-          "name": "INOMI",
-          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
         }
       ],
-      "duration_ms": 177630,
-      "name": "Satsa \u2013 Spotify Studio 100 Recording",
-      "url": "https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt"
+      "duration_ms": 215080,
+      "name": "maracuya massage",
+      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 180787,
       "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
       "url": "https://open.spotify.com/track/2yRw3fTBnpJKaa6AGHonZ9"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "maracuya massage",
-      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/0V3i5t2pEO9amGcykcBFPH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "duration_ms": 153783,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "I'm Coming Home",
         "url": "https://open.spotify.com/album/2Uy07vkjqxcAxyaH5cP6xu"
       },
@@ -1483,22 +1503,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/0V3i5t2pEO9amGcykcBFPH"
+        "name": "Neon Lights",
+        "url": "https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE"
       },
       "artists": [
         {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        },
-        {
-          "name": "maybealice",
-          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 153783,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM"
+      "duration_ms": 209200,
+      "name": "Neon Lights",
+      "url": "https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Neon Lights",
-        "url": "https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3m7WDstzCDmAvvXFEfamyj"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Melanie Wehbe",
+          "url": "https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn"
         }
       ],
-      "duration_ms": 209200,
-      "name": "Neon Lights",
-      "url": "https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb"
+      "duration_ms": 166811,
+      "name": "Rules",
+      "url": "https://open.spotify.com/track/5L4eBTgKImJ38Il24RNfKw"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1579,22 +1595,6 @@
       "duration_ms": 187076,
       "name": "Doppio Passo",
       "url": "https://open.spotify.com/track/5z0FnVkoJlQU1bbhbTSSfC"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3m7WDstzCDmAvvXFEfamyj"
-      },
-      "artists": [
-        {
-          "name": "Melanie Wehbe",
-          "url": "https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn"
-        }
-      ],
-      "duration_ms": 166811,
-      "name": "Rules",
-      "url": "https://open.spotify.com/track/5L4eBTgKImJ38Il24RNfKw"
     },
     {
       "added_at": "2023-02-16 23:00:00",

@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5619\)
+## Playlists \(5622\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -1991,6 +1991,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Heavy Metal](/playlists/pretty/37i9dQZF1DX9qNs32fujYe.md)
 - [Heavy Queens](/playlists/pretty/37i9dQZF1DWXDJDWnzE39E.md)
 - [Here Comes The Sun](/playlists/pretty/37i9dQZF1DXdwF9DytRe8w.md)
+- [High Rollers](/playlists/pretty/37i9dQZF1DX74NVX09eJB3.md)
 - [Higher Love](/playlists/pretty/37i9dQZF1DWYhr4P5Boce5.md)
 - [Highway to Yell](/playlists/pretty/37i9dQZF1DXdF699XuZIvg.md)
 - [Hill Country Blues](/playlists/pretty/37i9dQZF1DX5e4G40ZHZd6.md)
@@ -3768,6 +3769,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Soda Stereo: Para volar](/playlists/pretty/37i9dQZF1DX0WPkweAgNHO.md)
 - [Soda Stereo: Un juego eléctrico](/playlists/pretty/37i9dQZF1DX9pbIXQgqLJ9.md)
 - [Sofi Tukker DJ Mix: Summer in New York](/playlists/pretty/37i9dQZF1DX8cldCKQHv0t.md)
+- [Sofia Kourtesis track IDs](/playlists/pretty/37i9dQZF1DWVFhnU8yozBd.md)
 - [Soft & Slow](/playlists/pretty/37i9dQZF1DX0611i4oGheJ.md)
 - [Soft 00s](/playlists/pretty/37i9dQZF1DXdGHPXiRsW3u.md)
 - [Soft 10s](/playlists/pretty/37i9dQZF1DX1uHCeFHcn8X.md)
@@ -4443,6 +4445,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Kirk Franklin](/playlists/pretty/37i9dQZF1DZ06evO2qXTri.md)
 - [This Is Kodak Black](/playlists/pretty/37i9dQZF1DZ06evO2oTcyc.md)
 - [This Is Korn](/playlists/pretty/37i9dQZF1DZ06evO2fOjra.md)
+- [This Is Kygo](/playlists/pretty/37i9dQZF1DX60EDqDORwwI.md)
 - [This Is LANY](/playlists/pretty/37i9dQZF1DX1xlmTNXq2Qg.md)
 - [This Is LCD Soundsystem](/playlists/pretty/37i9dQZF1DX4jsulumEbDn.md)
 - [This Is LOONA](/playlists/pretty/37i9dQZF1DXcVhobq00UmD.md)

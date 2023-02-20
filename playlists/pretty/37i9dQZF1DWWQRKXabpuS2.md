@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: عبد العزيز لويس و اصيل حميم
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,794 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,823 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 31 | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 |
 | 32 | [Mani Qader](https://open.spotify.com/track/1lJhnoFUqtSkK2BkrxrDVE) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Mani Qader](https://open.spotify.com/album/70j5jro09TU8NtTscyxEyY) | 3:32 |
 | 33 | [Fezt Bek](https://open.spotify.com/track/4YjO3kRm3RA7qKNgDSghBo) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Fezt Bek](https://open.spotify.com/album/0THNfhqYbC5H1ekDUU15y3) | 4:27 |
-| 34 | [An Hob](https://open.spotify.com/track/3QEJRUVij90qdzU1AObDZY) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [An Hob](https://open.spotify.com/album/2zLFbF01L9wYqm98OLTKZy) | 3:05 |
+| 34 | [عن حب](https://open.spotify.com/track/3QEJRUVij90qdzU1AObDZY) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [عن حب](https://open.spotify.com/album/2zLFbF01L9wYqm98OLTKZy) | 3:05 |
 | 35 | [Maskeen](https://open.spotify.com/track/6y8LpdByQROHKQMTNv7pPe) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Maskeen](https://open.spotify.com/album/6fn1Xqlur9ssQxrfSQKRdv) | 4:11 |
 | 36 | [Lail EL Mefarag](https://open.spotify.com/track/2jr8YIesCQsPzjLpjwJx20) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Lail EL Mefarag](https://open.spotify.com/album/4lHyB1fOo2GPI34u47qwSD) | 4:34 |
 | 37 | [Da3it Allah](https://open.spotify.com/track/5lcuSQuICbP7C6X9EtBhlv) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Da3it Allah](https://open.spotify.com/album/71klQgQA3xV0HdXMGOr4W7) | 4:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,511 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,520 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 24 | [Me Muero por Ella \(Bachata\) Feat\. La Original Banda el Limón de Salvador Lizárraga](https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Merengue y Sentimiento](https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS) | 3:54 |
 | 25 | [Si por Casualidad](https://open.spotify.com/track/6kbB6X2qqS0XkAPkk7TLee) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:39 |
 | 26 | [El Abandonado](https://open.spotify.com/track/6DaZrI8CJueK9v607LjEWh) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 2:12 |
-| 27 | [El Pobre Más Rico](https://open.spotify.com/track/2pzhTUKlKIQRVW6KwfbI7P) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Pobre Más Rico](https://open.spotify.com/album/5tygqHF9BjHXy6GaSY5k0W) | 3:09 |
-| 28 | [Llego Su Padre](https://open.spotify.com/track/21byep5M5KIo4LhFWyLZds) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [40 Años, Pese A Quien Pese](https://open.spotify.com/album/0uttI8J2HZK7TTpqhhPLfq) | 2:33 |
-| 29 | [Sin Pensar Yo Te Engañé](https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Derecho De Antigüedad](https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT) | 3:40 |
+| 27 | [Llego Su Padre](https://open.spotify.com/track/21byep5M5KIo4LhFWyLZds) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [40 Años, Pese A Quien Pese](https://open.spotify.com/album/0uttI8J2HZK7TTpqhhPLfq) | 2:33 |
+| 28 | [Sin Pensar Yo Te Engañé](https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Derecho De Antigüedad](https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT) | 3:40 |
+| 29 | [El Pobre Más Rico](https://open.spotify.com/track/2pzhTUKlKIQRVW6KwfbI7P) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Pobre Más Rico](https://open.spotify.com/album/5tygqHF9BjHXy6GaSY5k0W) | 3:09 |
 | 30 | [Te Llegará Mi Olvido](https://open.spotify.com/track/1RFos4pteRCTVxd3jrqbLH) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 2:05 |
 | 31 | [Laurita Garza](https://open.spotify.com/track/1WMqXkIY78VBdOW0DlWEy3) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 3:06 |
 | 32 | [La Caída de un Monarca](https://open.spotify.com/track/5R6yypmCiCOv7Ortrf8ldL) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [25 Corridos Explosivos](https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM) | 3:07 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 50 | [Diamante Negro](https://open.spotify.com/track/2Oiw6YkJgH8bEVR19YDdwL) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Diamante Negro](https://open.spotify.com/album/5kxWakS53bUY1Ee3ZVMNo0) | 3:26 |
 | 51 | [El Rengo del Gallo Giro](https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 3:11 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDBkYTk2Y2M1NWI5YzU2MzQwZTNmYmQ3MTljNDM4YTk0OA==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDBhNmVlNGM0ZjMwNTg5NmViMTdiYzg5MmNjMjc0ZDA1OA==`

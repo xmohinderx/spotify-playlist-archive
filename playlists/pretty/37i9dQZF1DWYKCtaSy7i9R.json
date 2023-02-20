@@ -1,12 +1,12 @@
 {
   "description": "Quiet mornings, wake up early and take a moment with nature for a positive start of your day.",
-  "num_followers": 1211,
+  "num_followers": 1241,
   "original_name": "Early Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1Nzg2MCwwMDAwMDAwMDdjZmNkYTRhYTFmNWEzNTE1ZWIzOTFhNjhmYTI3MWUz",
+  "snapshot_id": "MTY2Njk1Nzg2MCwwMDAwMDAwMDZkM2UyOWY3OTY2YzNkOTkzY2Y4NWU1YWM0YWVhNmUx",
   "tracks": [
     {
       "added_at": "2022-10-28 11:51:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-10-28 11:51:00",
       "album": {
-        "name": "Timber Slumber",
-        "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
-      },
-      "artists": [
-        {
-          "name": "The Sleepy Forest",
-          "url": "https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Raindrops In The Forest - Seamless",
-      "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
-    },
-    {
-      "added_at": "2022-10-28 11:51:00",
-      "album": {
         "name": "Early Bird Sound",
         "url": "https://open.spotify.com/album/42ML1JDCRsl9aRWxDEy7Mv"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 141954,
       "name": "Early Bird Sound",
       "url": "https://open.spotify.com/track/5NWQiqMnUDtJwl1AUzRZYh"
+    },
+    {
+      "added_at": "2022-10-28 11:51:00",
+      "album": {
+        "name": "Timber Slumber",
+        "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
+      },
+      "artists": [
+        {
+          "name": "The Sleepy Forest",
+          "url": "https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Raindrops In The Forest - Seamless",
+      "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
     },
     {
       "added_at": "2022-10-28 11:51:00",

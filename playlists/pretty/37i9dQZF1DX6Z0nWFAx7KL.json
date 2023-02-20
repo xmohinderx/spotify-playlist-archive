@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 29369,
+  "num_followers": 29394,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMGQxZjZkODBmOGY1YjlhNmZmMzUwMjk0ZjgyZGY3MDgx",
+  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMDc3YmIxNDkyYjRlMzg1OWE3NzYyZjU3MjM2Njk4NGJl",
   "tracks": [
     {
       "added_at": "2023-02-16 23:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        }
+      ],
+      "duration_ms": 217377,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Someday (Latroit Edition)",
         "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 201656,
       "name": "Someday (Latroit Edition)",
       "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "The Beach",
-        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
-        }
-      ],
-      "duration_ms": 217377,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ"
-      },
-      "artists": [
-        {
-          "name": "Mateo",
-          "url": "https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 175169,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ"
+      },
+      "artists": [
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -787,46 +787,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "I Blame You",
-        "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 132927,
-      "name": "I Blame You",
-      "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Inner Light",
-        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
-      },
-      "artists": [
-        {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
-        },
-        {
-          "name": "Dan Soleil",
-          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
-        }
-      ],
-      "duration_ms": 208995,
-      "name": "Inner Light",
-      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
       },
@@ -851,18 +811,42 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Live In The Moment",
-        "url": "https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn"
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
       },
       "artists": [
         {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Live In The Moment",
-      "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
+      "duration_ms": 208995,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "I Blame You",
+        "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 132927,
+      "name": "I Blame You",
+      "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -887,6 +871,22 @@
       "duration_ms": 127021,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Live In The Moment",
+        "url": "https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Live In The Moment",
+      "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Echo [Cha\u00ebl Remix]",
         "url": "https://open.spotify.com/album/1QjzaTNqb5lC73XzhfG1Lv"
       },
@@ -1179,22 +1199,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Summer Stars",
-        "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
-      },
-      "artists": [
-        {
-          "name": "Mauve",
-          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
-        }
-      ],
-      "duration_ms": 150394,
-      "name": "Summer Stars",
-      "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Apologize",
         "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
       },
@@ -1211,6 +1215,22 @@
       "duration_ms": 159845,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Summer Stars",
+        "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
+      },
+      "artists": [
+        {
+          "name": "Mauve",
+          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
+        }
+      ],
+      "duration_ms": 150394,
+      "name": "Summer Stars",
+      "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1431,26 +1451,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Forever, Now",
-        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 274795,
-      "name": "Elenore",
-      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Heartbreak In Seychelles",
         "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Winter's Going",
-        "url": "https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3"
-      },
-      "artists": [
-        {
-          "name": "Flantier",
-          "url": "https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Winter's Going",
-      "url": "https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Out Of Love",
         "url": "https://open.spotify.com/album/0FdPHF3vnJRYVSdn2GxekW"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 155263,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3U4v6cVqZK4mfPas99eT4W"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Winter's Going",
+        "url": "https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3"
+      },
+      "artists": [
+        {
+          "name": "Flantier",
+          "url": "https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96"
+        }
+      ],
+      "duration_ms": 200981,
+      "name": "Winter's Going",
+      "url": "https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O"
     },
     {
       "added_at": "2023-02-16 23:00:00",

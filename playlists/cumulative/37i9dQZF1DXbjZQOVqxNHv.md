@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-525 songs - 2 day 1 hr 18 min
+526 songs - 2 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [6IE.CR](https://open.spotify.com/track/29L1h6D7MXSsno3pibZ4eE) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Draft 7.30](https://open.spotify.com/album/08kNtBJ5LHFgxOV8PodiQw) | 5:38 | 2022-04-13 | 2022-07-25 |
 | [7\. 8.](https://open.spotify.com/track/0WDpaAaA00mtAgAqdy0oLY) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Temple of Transparent Balls](https://open.spotify.com/album/3CLcbsO6tpY7aR6juM7xGL) | 6:11 | 2022-04-13 | 2022-07-18 |
 | [7:39 \(Original Cassette Demo\)](https://open.spotify.com/track/3ljWp6Bq1jblzaq3o88Dz4) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu), [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Transmissions Sampler](https://open.spotify.com/album/37pEDgAKRQQvpd1PYfckdj) | 8:29 | 2022-04-13 | 2023-02-02 |
+| [7:39 \- Original Cassette Demo](https://open.spotify.com/track/06VyRRP6iOUBxfn4xPwc0s) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu), [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Transmissions Sampler](https://open.spotify.com/album/3kkziIY4VZl0h8ghhyInpi) | 8:29 | 2022-04-13 |  |
 | [A Case Of Funk](https://open.spotify.com/track/6U6jFPOOJkx7dt23lPCYeP) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [A Word Of Science](https://open.spotify.com/album/1EouHA01DrBfKSqQAIWVA9) | 5:19 | 2022-04-13 | 2023-02-02 |
 | [A Case Of Funk](https://open.spotify.com/track/3IhbaLQTVbsf3Amai4onue) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [A Word Of Science](https://open.spotify.com/album/7D2Hg8N6JEpdyaUFe26yni) | 5:21 | 2022-04-13 |  |
 | [A Day in a Life](https://open.spotify.com/track/1FTHcqxQ3B3FdTl9id6XlG) | [Push Button Objects](https://open.spotify.com/artist/3KMR2Qv1uE6eNA0koPhvBz) | [A Day in a Life](https://open.spotify.com/album/2DmmmmMty8UL0R17HN4Iye) | 5:35 | 2022-04-13 | 2022-07-29 |
@@ -498,7 +499,7 @@
 | [Vic Acid](https://open.spotify.com/track/6TvXWDa7HYcZEnIyJ1hR6l) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Vic Acid](https://open.spotify.com/album/4u1Pu42ql7MkdlNvbEEhk2) | 3:06 | 2022-04-13 | 2022-07-29 |
 | [Viimo](https://open.spotify.com/track/1xv6E9bFh5bmkINR5e72Q5) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Claro](https://open.spotify.com/album/0XxwFrdmdzzoRWvNuSMGE9) | 8:12 | 2022-04-13 | 2023-02-02 |
 | [Viral](https://open.spotify.com/track/5yVJghDg4UB789vqjWzqp5) | [Ad Vanz](https://open.spotify.com/artist/7Js3i7yNTyUx1E7pdQY7Tb), [Gescom](https://open.spotify.com/artist/15gVTrdUtcXOz3utK1GPp2) | [Split Series \#2](https://open.spotify.com/album/268l0v7Z48nJ8T3tQPfLTe) | 7:00 | 2022-04-13 | 2022-07-27 |
-| [Viral](https://open.spotify.com/track/6wnDHdEecId9KIDdcXr2W1) | [Ad Vanz](https://open.spotify.com/artist/7Js3i7yNTyUx1E7pdQY7Tb), [Gescom](https://open.spotify.com/artist/15gVTrdUtcXOz3utK1GPp2) | [Split Series \#2](https://open.spotify.com/album/6wkonozXeJjU2vFAI3GAxC) | 7:00 | 2022-04-13 |  |
+| [Viral](https://open.spotify.com/track/6wnDHdEecId9KIDdcXr2W1) | [Ad Vanz](https://open.spotify.com/artist/7Js3i7yNTyUx1E7pdQY7Tb), [Gescom](https://open.spotify.com/artist/15gVTrdUtcXOz3utK1GPp2) | [Split Series \#2](https://open.spotify.com/album/6wkonozXeJjU2vFAI3GAxC) | 7:00 | 2022-04-13 | 2023-02-20 |
 | [Volu Beit](https://open.spotify.com/track/32w0ZJctO0JnLJfJQYS2mU) | [Aelters](https://open.spotify.com/artist/5O2mG2SfsV7bs3yZ8zsD71) | [Volu Beit](https://open.spotify.com/album/43EgFiGv9qy8HMtVf7Sz8x) | 3:43 | 2022-04-13 | 2022-07-23 |
 | [Vortrack \- Fracture Remix](https://open.spotify.com/track/0NDBhXwLxahccS8iTeN8zX) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Vortrack](https://open.spotify.com/album/2KeosWKGT5LNiBVr3czsZV) | 8:02 | 2022-04-13 | 2022-07-28 |
 | [Waiting for the Host](https://open.spotify.com/track/31JO77GxxfYQBIlTRULv6u) | [Atom TM](https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL) | [Dos Tracks/ :\)](https://open.spotify.com/album/1Z1lX3AG8anlt5oYYkCb3s) | 4:56 | 2022-04-13 | 2022-07-29 |

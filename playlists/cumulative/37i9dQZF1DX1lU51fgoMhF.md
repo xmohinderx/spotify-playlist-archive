@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-286 songs - 15 hr 53 min
+287 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,12 +174,13 @@
 | [Mosquito](https://open.spotify.com/track/43y2u5KxBknQ9lQ2ILT1Eo) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:11 | 2022-04-04 | 2022-04-20 |
 | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [ANYUJIN \(IVE\)](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE), [YUNA KIM](https://open.spotify.com/artist/5wBTXLKoAsiWsKn3ijyGPo) | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ) | 3:16 | 2022-07-11 | 2022-07-29 |
 | [Movie](https://open.spotify.com/track/7ISaOGdIWS3gY7khgCaq8t) | [Andnew](https://open.spotify.com/artist/292GXpdx9IglUfxrfvh2l9) | [Movie](https://open.spotify.com/album/1cqx14yOlf3smbg7AAyo9P) | 3:44 | 2021-11-17 | 2022-07-26 |
-| [My finale](https://open.spotify.com/track/5SaJdsKgDB7WxEDIETLuic) | [SeungHee](https://open.spotify.com/artist/1kTabwjnM8SrHC9SNQRjZU) | [The Fabulous, Pt\. 3 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1sQk4dmcMGYk4OskjgQlPe) | 3:15 | 2023-01-25 |  |
+| [My finale](https://open.spotify.com/track/5SaJdsKgDB7WxEDIETLuic) | [SeungHee](https://open.spotify.com/artist/1kTabwjnM8SrHC9SNQRjZU) | [The Fabulous, Pt\. 3 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1sQk4dmcMGYk4OskjgQlPe) | 3:15 | 2023-01-25 | 2023-02-20 |
 | [My Move](https://open.spotify.com/track/5PyfW50o3iKQ1rfvBNIYPC) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [My Move](https://open.spotify.com/album/7fcDWzalNj9GIV3D17DJIH) | 3:40 | 2022-07-04 | 2022-07-28 |
 | [My My](https://open.spotify.com/track/2ofZmsQptNzgUfmbNlnPYI) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:05 | 2021-11-17 | 2022-07-29 |
 | [My My](https://open.spotify.com/track/4rnvC8St4YDHGuQdBEByRz) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:05 | 2022-07-27 |  |
 | [MY WAY](https://open.spotify.com/track/6J0X6cmz8etKQQ6IRdWBvD) | [Kyung dasom](https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1) | [MY WAY](https://open.spotify.com/album/46YfprnVuCrpeEIFXhyiVn) | 3:13 | 2021-11-17 | 2022-06-30 |
 | [NEGA DOLA](https://open.spotify.com/track/5OXGY1pFAAnxGSkqhZ4C6c) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [NEGA DOLA](https://open.spotify.com/album/4NCjScNfYn9jCnYSX86U2G) | 2:56 | 2022-01-09 | 2022-04-21 |
+| [NO GOOD REASON](https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:36 | 2023-01-25 |  |
 | [NO GOOD REASON](https://open.spotify.com/track/2dj8zWm8Kexsi59SRFEN7n) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989) | 3:36 | 2021-11-17 | 2022-07-23 |
 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix of Stray Kids](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-06-30 |  |
 | [Nonstop](https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 3:22 | 2021-11-17 |  |

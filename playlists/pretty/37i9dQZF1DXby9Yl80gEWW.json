@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 35564,
+  "num_followers": 35600,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDY3NzIxYWNlYmFjMzhkZDRlNTY3ZmYwZDY2ODFmYTk5",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDI3NzcwODk3NDFhNmM4NDdiMzZhZWFmZGJiZDlhYzZh",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Songs of the Sunrise Fox",
-        "url": "https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n"
-      },
-      "artists": [
-        {
-          "name": "Andy Thorn",
-          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "Aesop Mountain",
-      "url": "https://open.spotify.com/track/710oc7jGMREe9vWsYraOck"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Instrumental Classic Country Hits",
         "url": "https://open.spotify.com/album/6ffjDIFQ2p0b9OLdGV1qgF"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 77493,
       "name": "Little Sadie",
       "url": "https://open.spotify.com/track/1VkBsbIRNgkpj0cLd6xz5k"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Songs of the Sunrise Fox",
+        "url": "https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n"
+      },
+      "artists": [
+        {
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+        }
+      ],
+      "duration_ms": 208280,
+      "name": "Aesop Mountain",
+      "url": "https://open.spotify.com/track/710oc7jGMREe9vWsYraOck"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Double Banjo Bluegrass Spectacular",
-        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
-      },
-      "artists": [
-        {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "Bon Aqua Blues",
-      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "The Good Things (Outweigh the Bad)",
         "url": "https://open.spotify.com/album/1voTotVTiai2e9xjBTPtDE"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 84906,
       "name": "Leather Britches",
       "url": "https://open.spotify.com/track/1cT7M8Lov9kn4YmBOgOb4t"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Double Banjo Bluegrass Spectacular",
+        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Bon Aqua Blues",
+      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "B\u00e9la Fleck & Abigail Washburn",
-        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "New South Africa",
-      "url": "https://open.spotify.com/track/4iLDm89exSxhdjEtzQ4Ctq"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Uncommon Ritual",
         "url": "https://open.spotify.com/album/1RbHExhYXBvSng2iSUTibx"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 281146,
       "name": "Sliding Down",
       "url": "https://open.spotify.com/track/6i3ZOSknAlWQcjkW8gVD1W"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "B\u00e9la Fleck & Abigail Washburn",
+        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "New South Africa",
+      "url": "https://open.spotify.com/track/4iLDm89exSxhdjEtzQ4Ctq"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 154946,
-      "name": "Peace Behind the Bridge",
-      "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Leave Some Things Behind",
         "url": "https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 121133,
       "name": "Mountains Quake",
       "url": "https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 154946,
+      "name": "Peace Behind the Bridge",
+      "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+        "name": "The Cold Hard Facts",
+        "url": "https://open.spotify.com/album/0Rwgw63MsaoCoyAIE3J6Ao"
       },
       "artists": [
         {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
         }
       ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+      "duration_ms": 211400,
+      "name": "Baltimore Johnny",
+      "url": "https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "The Cold Hard Facts",
-        "url": "https://open.spotify.com/album/0Rwgw63MsaoCoyAIE3J6Ao"
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
       "artists": [
         {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Baltimore Johnny",
-      "url": "https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D"
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Cumberland Gap",
-        "url": "https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 68725,
-      "name": "Cumberland Gap",
-      "url": "https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Doc & Merle Watson's Guitar Album",
         "url": "https://open.spotify.com/album/5cJh03Sy8v8o3i2zQhusLq"
       },
@@ -1139,18 +1123,34 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "If Not Now, Who?",
-        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+        "name": "How To Grow A Woman From The Ground",
+        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
       },
       "artists": [
         {
-          "name": "Joe K. Walsh",
-          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
         }
       ],
-      "duration_ms": 295280,
-      "name": "Palmer",
-      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
+      "duration_ms": 254226,
+      "name": "Watch 'At Breakdown",
+      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Cumberland Gap",
+        "url": "https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 68725,
+      "name": "Cumberland Gap",
+      "url": "https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "How To Grow A Woman From The Ground",
-        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
       },
       "artists": [
         {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
         }
       ],
-      "duration_ms": 254226,
-      "name": "Watch 'At Breakdown",
-      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Frost On The Pumpkin",
-        "url": "https://open.spotify.com/album/3tGGJ6PaBqUVQYJlVRtxbu"
-      },
-      "artists": [
-        {
-          "name": "Kenny Baker",
-          "url": "https://open.spotify.com/artist/2hdWa1ITLNBBtU5CM0m2Jg"
-        }
-      ],
-      "duration_ms": 153066,
-      "name": "Back Up And Push",
-      "url": "https://open.spotify.com/track/7au8g5pl9gJiivYFhua16z"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "58957: The Bluegrass Guitar Collection",
         "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
       },
@@ -1347,18 +1331,34 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "New Chapter",
-        "url": "https://open.spotify.com/album/58vbUKEPEoaJjFwzE7Dqu3"
+        "name": "Frost On The Pumpkin",
+        "url": "https://open.spotify.com/album/3tGGJ6PaBqUVQYJlVRtxbu"
       },
       "artists": [
         {
-          "name": "Cedar Hill",
-          "url": "https://open.spotify.com/artist/2GLRJlS6WxRYDOH6iaMT05"
+          "name": "Kenny Baker",
+          "url": "https://open.spotify.com/artist/2hdWa1ITLNBBtU5CM0m2Jg"
         }
       ],
-      "duration_ms": 188826,
-      "name": "Leavin' Egypt - Instrumental",
-      "url": "https://open.spotify.com/track/3iE52y1XUrE7ILcNIgU1Gr"
+      "duration_ms": 153066,
+      "name": "Back Up And Push",
+      "url": "https://open.spotify.com/track/7au8g5pl9gJiivYFhua16z"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 325013,
+      "name": "Birdland",
+      "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+        "name": "New Chapter",
+        "url": "https://open.spotify.com/album/58vbUKEPEoaJjFwzE7Dqu3"
       },
       "artists": [
         {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+          "name": "Cedar Hill",
+          "url": "https://open.spotify.com/artist/2GLRJlS6WxRYDOH6iaMT05"
         }
       ],
-      "duration_ms": 325013,
-      "name": "Birdland",
-      "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
+      "duration_ms": 188826,
+      "name": "Leavin' Egypt - Instrumental",
+      "url": "https://open.spotify.com/track/3iE52y1XUrE7ILcNIgU1Gr"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Wolf Moon",
-      "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Telluride Sessions",
         "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
       },
@@ -1495,18 +1479,34 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Into My Own",
-        "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
       },
       "artists": [
         {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
         }
       ],
-      "duration_ms": 306059,
-      "name": "Overton Waltz",
-      "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
+      "duration_ms": 174093,
+      "name": "Wolf Moon",
+      "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "40 West",
+      "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1523,6 +1523,22 @@
       "duration_ms": 287533,
       "name": "Port Tobacco",
       "url": "https://open.spotify.com/track/0QhRl7KFHpODnyOJTcodtN"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Into My Own",
+        "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 306059,
+      "name": "Overton Waltz",
+      "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "40 West",
-      "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Cellopickin'",
         "url": "https://open.spotify.com/album/5GORB7gJRciuBSmr5zXLva"
       },
@@ -1575,6 +1575,30 @@
       "duration_ms": 196875,
       "name": "Cellopickin'",
       "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Songs For The Sparrows",
+        "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
+      },
+      "artists": [
+        {
+          "name": "Nefesh Mountain",
+          "url": "https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 269733,
+      "name": "Big Mountain",
+      "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1599,6 +1623,38 @@
       "duration_ms": 177493,
       "name": "Santa Ana",
       "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Shadowgrass",
+        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 292614,
+      "name": "Creatures of Havoc",
+      "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Moonbeam",
+        "url": "https://open.spotify.com/album/1VTipkjGNb0kofaMblqkT2"
+      },
+      "artists": [
+        {
+          "name": "Waterhouse",
+          "url": "https://open.spotify.com/artist/25PniBi23b8oE5BXVRBp4S"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Moonbeam",
+      "url": "https://open.spotify.com/track/6HuOzBKgL1I9WDKjKxS7vp"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1635,62 +1691,6 @@
       "duration_ms": 198946,
       "name": "I'll Fly Away",
       "url": "https://open.spotify.com/track/7KFs15Er2tNML63npFCN2a"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Songs For The Sparrows",
-        "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
-      },
-      "artists": [
-        {
-          "name": "Nefesh Mountain",
-          "url": "https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 269733,
-      "name": "Big Mountain",
-      "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Moonbeam",
-        "url": "https://open.spotify.com/album/1VTipkjGNb0kofaMblqkT2"
-      },
-      "artists": [
-        {
-          "name": "Waterhouse",
-          "url": "https://open.spotify.com/artist/25PniBi23b8oE5BXVRBp4S"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Moonbeam",
-      "url": "https://open.spotify.com/track/6HuOzBKgL1I9WDKjKxS7vp"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Shadowgrass",
-        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        }
-      ],
-      "duration_ms": 292614,
-      "name": "Creatures of Havoc",
-      "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
     },
     {
       "added_at": "2023-02-17 05:00:00",

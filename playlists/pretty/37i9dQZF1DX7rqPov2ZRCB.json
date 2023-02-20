@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 59304,
+  "num_followers": 59331,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMGQyZTcyNTNhYTUzYzcyYWVlNGY2MmE4OTA0N2ZmNGJl",
+  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMGY2NGU1ZmM2OGExNmYzN2E0YzQxNmMwNzAyYjI3N2Rj",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -703,18 +703,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Los Llevo Presente",
-        "url": "https://open.spotify.com/album/4HHcAjfDygFZVakXAHczEf"
+        "name": "En Vivo Vol. 2",
+        "url": "https://open.spotify.com/album/0LgHV66s4e9hVJSiZNFxF8"
       },
       "artists": [
         {
           "name": "Fefita La Grande",
           "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
+        },
+        {
+          "name": "Rafaelito",
+          "url": "https://open.spotify.com/artist/4Za8U5V26PcVIat4ROTGVu"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Vamos a Hablar Ingles",
-      "url": "https://open.spotify.com/track/3hR8Y6HYNsIJUnBsj5Gar8"
+      "duration_ms": 371586,
+      "name": "La Culebra",
+      "url": "https://open.spotify.com/track/6sjj7jg37ccG6jTjlqvJG3"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -767,22 +771,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Me Muero De Amor",
-        "url": "https://open.spotify.com/album/3KiIKJRkp6FoZMpBqx6CVc"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 365600,
-      "name": "D\u00e9jame Entrar",
-      "url": "https://open.spotify.com/track/2vJJxPOAPHPYBJqEHl64Oi"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Merengues Con el Alma",
         "url": "https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f"
       },
@@ -803,6 +791,22 @@
       "duration_ms": 151044,
       "name": "Juanita Morel",
       "url": "https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "Me Muero De Amor",
+        "url": "https://open.spotify.com/album/3KiIKJRkp6FoZMpBqx6CVc"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 365600,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/2vJJxPOAPHPYBJqEHl64Oi"
     },
     {
       "added_at": "2019-09-09 17:49:24",

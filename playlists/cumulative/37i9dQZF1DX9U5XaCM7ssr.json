@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "ASHER",
+        "url": "https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240759,
+      "name": "Bertahan Terluka",
+      "url": "https://open.spotify.com/track/62sancAaHEMwPxBuatzaay"
+    },
+    {
+      "album": {
         "name": "Bertahan Terluka",
         "url": "https://open.spotify.com/album/4UQ6dWSVD4lZUoA6KJzp5d"
       },
@@ -402,7 +420,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 300512,
       "name": "Kangen",
       "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"

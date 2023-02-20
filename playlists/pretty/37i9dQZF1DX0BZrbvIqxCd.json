@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 522334,
+  "num_followers": 522387,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDExNDBhZWJhMjdmYzYwNmFmZjgyOTAxODY1NGI4Nzdi",
+  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMGIxODY0YTMxZDYxYWM0NzRjZTdiM2IzZjcyZTlkMTA3",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -563,22 +563,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "The General Strike",
-        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Broken Bones",
-      "url": "https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 163240,
       "name": "I Fought the Law",
       "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Broken Bones",
+      "url": "https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -981,6 +981,22 @@
       "url": "https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG"
     },
     {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Father of All...",
+        "url": "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 151362,
+      "name": "Father of All...",
+      "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"
+    },
+    {
       "added_at": "2021-07-08 22:59:55",
       "album": {
         "name": "deathwish (feat. nothing,nowhere.)",
@@ -999,22 +1015,6 @@
       "duration_ms": 147907,
       "name": "deathwish (feat. nothing,nowhere.)",
       "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Father of All...",
-        "url": "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 151362,
-      "name": "Father of All...",
-      "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Entertainment",
-        "url": "https://open.spotify.com/album/0DUGIaBZCKKPCqIBsRs9pV"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Blonde",
-      "url": "https://open.spotify.com/track/6Donz2zn7kxsRyA7g5l158"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Blow in the Wind",
         "url": "https://open.spotify.com/album/23r629pCYWFwsYCFVoMp8m"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 150573,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/0SoeiawkEYUJBtQce99lQd"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Entertainment",
+        "url": "https://open.spotify.com/album/0DUGIaBZCKKPCqIBsRs9pV"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/6Donz2zn7kxsRyA7g5l158"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 229101,
+      "name": "Smash Shit Up",
+      "url": "https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 190000,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/7vUeM6Bftbd4wBSml0KffV"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 229101,
-      "name": "Smash Shit Up",
-      "url": "https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w"
     },
     {
       "added_at": "2020-11-20 21:27:18",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMGFhMzFhNzYwNTdmZGQ0YzM0N2E3NDBmZjgyNDY1Mzgw",
+  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMGM5ZTA4MDE3NDQ3ZjhkZTAzZWZjODU0YWFiNTA3ZDJm",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "[ The Black Era ]",
+        "url": "https://open.spotify.com/album/47rOikEyuwGUCqGpTemU7G"
+      },
+      "artists": [
+        {
+          "name": "Jet Black Alley Cat",
+          "url": "https://open.spotify.com/artist/6p2LDcKxYGWM4azuOXNPHJ"
+        }
+      ],
+      "duration_ms": 240532,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/7zO6KQDrxDwhJqE6goQ5s7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Have You Ever Been in Love",
         "url": "https://open.spotify.com/album/62GPrUhZ7nrZCGTmUQQppc"
       },
@@ -39,22 +55,6 @@
       "duration_ms": 208336,
       "name": "Have You Ever Been in Love",
       "url": "https://open.spotify.com/track/0n9B2zPLq1AOlUqsENmqLz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Stay by the Sea",
-        "url": "https://open.spotify.com/album/5X5eUmIPAuLOzyvej11FlN"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 227010,
-      "name": "Driving Hours",
-      "url": "https://open.spotify.com/track/6ajKu17bSP0Kp0ZncNdUja"
     },
     {
       "added_at": null,
@@ -75,18 +75,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Part of Me (Acoustic)",
-        "url": "https://open.spotify.com/album/5QFxcRS4ZFkO5q1CUTYSYc"
+        "name": "Sad People Dancing",
+        "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
       },
       "artists": [
         {
-          "name": "By The Coast",
-          "url": "https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm"
+          "name": "La Bouquet",
+          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
+        },
+        {
+          "name": "Olivver the Kid",
+          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Part of Me (Acoustic)",
-      "url": "https://open.spotify.com/track/3tOvEreu7apG6rGQTZWjOj"
+      "duration_ms": 219760,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/6lSujJn0GaRfr1Jtlhgqe4"
     },
     {
       "added_at": null,
@@ -107,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Part of Me (Acoustic)",
+        "url": "https://open.spotify.com/album/5QFxcRS4ZFkO5q1CUTYSYc"
+      },
+      "artists": [
+        {
+          "name": "By The Coast",
+          "url": "https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Part of Me (Acoustic)",
+      "url": "https://open.spotify.com/track/3tOvEreu7apG6rGQTZWjOj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lost Years",
         "url": "https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e"
       },
@@ -123,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/3ar2uUStkn9hAndFBRjHA3"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2L9JqYt7BxSiqz0YZ3Dd9l"
       },
       "artists": [
         {
@@ -132,9 +152,9 @@
           "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
         }
       ],
-      "duration_ms": 229320,
-      "name": "I Don't Wanna",
-      "url": "https://open.spotify.com/track/6HwdOa2RXrdBbRAOS1CvxR"
+      "duration_ms": 215823,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6roiPaka61jSTdVIH5B35F"
     },
     {
       "added_at": null,
@@ -155,34 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okay With That",
-        "url": "https://open.spotify.com/album/4fCh1mEEa0gufuViBaQebz"
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW"
       },
       "artists": [
         {
-          "name": "Phangs",
-          "url": "https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi"
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
         }
       ],
-      "duration_ms": 187428,
-      "name": "Okay With That",
-      "url": "https://open.spotify.com/track/6OOmFgjdqSqeBXORizLbG2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talk You Down",
-        "url": "https://open.spotify.com/album/5dVlE2fykYq1VbfMV4WYeR"
-      },
-      "artists": [
-        {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
-        }
-      ],
-      "duration_ms": 276956,
-      "name": "Twenty Something",
-      "url": "https://open.spotify.com/track/6Wz9rIfo9tOBcVCd1Mo7F7"
+      "duration_ms": 262040,
+      "name": "Last Train",
+      "url": "https://open.spotify.com/track/2rSgzj1Yk2QSgPHuWb5Nh0"
     },
     {
       "added_at": null,
@@ -219,66 +223,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lost Years",
-        "url": "https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e"
+        "name": "Talk You Down",
+        "url": "https://open.spotify.com/album/5dVlE2fykYq1VbfMV4WYeR"
       },
       "artists": [
         {
-          "name": "The Strike",
-          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
         }
       ],
-      "duration_ms": 245511,
-      "name": "Miles Ahead",
-      "url": "https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex"
+      "duration_ms": 276956,
+      "name": "Twenty Something",
+      "url": "https://open.spotify.com/track/6Wz9rIfo9tOBcVCd1Mo7F7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Vacation Manor",
-        "url": "https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF"
+        "name": "Better in My Head",
+        "url": "https://open.spotify.com/album/5BqoxzrqKjb2SAriU4FFSR"
       },
       "artists": [
         {
-          "name": "Vacation Manor",
-          "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
+          "name": "The Ivy",
+          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
         }
       ],
-      "duration_ms": 211613,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6"
+      "duration_ms": 253760,
+      "name": "Better in My Head",
+      "url": "https://open.spotify.com/track/31r5NLOx5L31PWYT9GvCQV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hayden Everett",
-        "url": "https://open.spotify.com/album/3144pqTXAwRrhfNGuRWkfk"
+        "name": "Dive Deep",
+        "url": "https://open.spotify.com/album/4zVkAizREjamOAnvOqE3Du"
       },
       "artists": [
         {
-          "name": "Hayden Everett",
-          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
         }
       ],
-      "duration_ms": 322778,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/7MN4PQjDv0YDxFrd9MCSIW"
+      "duration_ms": 354400,
+      "name": "When the End Comes",
+      "url": "https://open.spotify.com/track/3Et4LKZLnXygPYfNdeB3D3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "THRESHOLDS",
-        "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW"
       },
       "artists": [
         {
-          "name": "Mike Edel",
-          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
         }
       ],
-      "duration_ms": 211880,
-      "name": "Go with You",
-      "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
+      "duration_ms": 254200,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/1Mk77ZCLBBMquaupM9kndp"
     },
     {
       "added_at": null,
@@ -299,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything I Can't Say Out Loud",
+        "url": "https://open.spotify.com/album/52VL59zJoKwSK8vbocBFdu"
+      },
+      "artists": [
+        {
+          "name": "Vacation Manor",
+          "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
+        }
+      ],
+      "duration_ms": 312832,
+      "name": "Don't Say It's Over",
+      "url": "https://open.spotify.com/track/6ASR8vFwFJn9jsUZXHkWRw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Twist of Fate",
         "url": "https://open.spotify.com/album/2cl2zVVSzvV2QMEFpe3wYY"
       },
@@ -315,6 +335,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hayden Everett",
+        "url": "https://open.spotify.com/album/3144pqTXAwRrhfNGuRWkfk"
+      },
+      "artists": [
+        {
+          "name": "Hayden Everett",
+          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
+        }
+      ],
+      "duration_ms": 322778,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/7MN4PQjDv0YDxFrd9MCSIW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nightshade",
+        "url": "https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL"
+      },
+      "artists": [
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 265506,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THRESHOLDS",
+        "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
+      },
+      "artists": [
+        {
+          "name": "Mike Edel",
+          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Go with You",
+      "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Night Traveler, Vol. 1",
+        "url": "https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/1ldzBCZ5Wjg2wdhJDIcSXy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waking Up Is Hard To Do, 2019-2020",
         "url": "https://open.spotify.com/album/7yCXhDI7C0On6urA2dARpH"
       },
@@ -327,6 +411,22 @@
       "duration_ms": 266155,
       "name": "You Don't Love Me (Like You Used To)",
       "url": "https://open.spotify.com/track/5K9yCr0OY5Yf68EbVvkQWs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6W7ekW1v9CXxa33uhb1xp2"
+      },
+      "artists": [
+        {
+          "name": "By The Coast",
+          "url": "https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm"
+        }
+      ],
+      "duration_ms": 265290,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/3rRNb17OOrTO5YXVGo3xkU"
     },
     {
       "added_at": null,
@@ -371,18 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Masse",
-        "url": "https://open.spotify.com/album/2rBTBvbPLnR0M64UrLTy6Z"
+        "name": "Only Pieces of the Truth",
+        "url": "https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG"
       },
       "artists": [
         {
-          "name": "Mike Edel",
-          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
+          "name": "Jordan Hart",
+          "url": "https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo"
         }
       ],
-      "duration_ms": 207960,
-      "name": "Still Thinking About You",
-      "url": "https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY"
+      "duration_ms": 215685,
+      "name": "I Don't Want to Let You Go",
+      "url": "https://open.spotify.com/track/2BadLekL4fUfGsxh74Yey8"
     },
     {
       "added_at": null,
@@ -396,25 +496,9 @@
           "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
         }
       ],
-      "duration_ms": 290000,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/1ldzBCZ5Wjg2wdhJDIcSXy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6W7ekW1v9CXxa33uhb1xp2"
-      },
-      "artists": [
-        {
-          "name": "By The Coast",
-          "url": "https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm"
-        }
-      ],
-      "duration_ms": 265290,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/3rRNb17OOrTO5YXVGo3xkU"
+      "duration_ms": 275400,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7zh456XsP582pVEoq6Nf6m"
     },
     {
       "added_at": null,
@@ -455,8 +539,40 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girl, Say",
-        "url": "https://open.spotify.com/album/56xuqlRm2ssGeFIwrsHCJY"
+        "name": "Thirty Eight",
+        "url": "https://open.spotify.com/album/6zxftKiTydsE5rK2AoXncr"
+      },
+      "artists": [
+        {
+          "name": "The Ivy",
+          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
+        }
+      ],
+      "duration_ms": 225990,
+      "name": "Thirty Eight",
+      "url": "https://open.spotify.com/track/1noZLHWZB15QEDBCHq8CdE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Masse",
+        "url": "https://open.spotify.com/album/2rBTBvbPLnR0M64UrLTy6Z"
+      },
+      "artists": [
+        {
+          "name": "Mike Edel",
+          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Still Thinking About You",
+      "url": "https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vacation Manor",
+        "url": "https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF"
       },
       "artists": [
         {
@@ -464,121 +580,9 @@
           "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
         }
       ],
-      "duration_ms": 242040,
-      "name": "Girl, Say",
-      "url": "https://open.spotify.com/track/2YMVlnf2RsgVrQpi2g6KWI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/3ar2uUStkn9hAndFBRjHA3"
-      },
-      "artists": [
-        {
-          "name": "The Ivy",
-          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Bolder Feelings",
-      "url": "https://open.spotify.com/track/4YnaKEsp4d3Gk842p43KGq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Traveler, Vol. 1",
-        "url": "https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6"
-      },
-      "artists": [
-        {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
-        }
-      ],
-      "duration_ms": 275400,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/7zh456XsP582pVEoq6Nf6m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "[ The Black Era ]",
-        "url": "https://open.spotify.com/album/47rOikEyuwGUCqGpTemU7G"
-      },
-      "artists": [
-        {
-          "name": "Jet Black Alley Cat",
-          "url": "https://open.spotify.com/artist/6p2LDcKxYGWM4azuOXNPHJ"
-        }
-      ],
-      "duration_ms": 240532,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/7zO6KQDrxDwhJqE6goQ5s7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "night, love you.",
-        "url": "https://open.spotify.com/album/58J1HN0dJl1pkTwu1YGJSq"
-      },
-      "artists": [
-        {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "the movies",
-      "url": "https://open.spotify.com/track/5hOo1sSvGujVZSNiUzi49i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dive Deep (Hushed)",
-        "url": "https://open.spotify.com/album/4wXzmsXCXVn3REyPK2Z4M3"
-      },
-      "artists": [
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 218531,
-      "name": "Dive Deep (Hushed)",
-      "url": "https://open.spotify.com/track/4VbDTk82rqWqVgoQC93CkC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suncats",
-        "url": "https://open.spotify.com/album/6NV0j4IBP308X9FdZvO38e"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 292857,
-      "name": "Suncats",
-      "url": "https://open.spotify.com/track/2xCj3kJNzpdGVQtWyac0ad"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurts Just Right",
-        "url": "https://open.spotify.com/album/6jBOO89s9pp7A6rOsf9ExA"
-      },
-      "artists": [
-        {
-          "name": "The Ivy",
-          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
-        }
-      ],
-      "duration_ms": 172922,
-      "name": "Hurts Just Right",
-      "url": "https://open.spotify.com/track/4rw2XDiod4ityQuRMF5Cvf"
+      "duration_ms": 192764,
+      "name": "Apt. 4",
+      "url": "https://open.spotify.com/track/5wGL1pa5n9DdjbY4YVDvlb"
     },
     {
       "added_at": null,
@@ -599,40 +603,56 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twist of Fate",
-        "url": "https://open.spotify.com/album/2cl2zVVSzvV2QMEFpe3wYY"
+        "name": "twelvefour",
+        "url": "https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t"
       },
       "artists": [
         {
-          "name": "By The Coast",
-          "url": "https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 243852,
-      "name": "All the Lights",
-      "url": "https://open.spotify.com/track/1m24DCVf9CNTaGGVMPT9hX"
+      "duration_ms": 262266,
+      "name": "Revelator Eyes",
+      "url": "https://open.spotify.com/track/4RE5Ob7hHtHqVKfgtNsVyW"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/7ebElCZ4cceinGzs4NsjlY"
+        "name": "night, love you.",
+        "url": "https://open.spotify.com/album/58J1HN0dJl1pkTwu1YGJSq"
       },
       "artists": [
         {
-          "name": "Hardcastle",
-          "url": "https://open.spotify.com/artist/6L95H90mXRQPcFar4Q7tAm"
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
         }
       ],
-      "duration_ms": 236652,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/5lYekbAihuWdqoBTKDVxbo"
+      "duration_ms": 178909,
+      "name": "the movies",
+      "url": "https://open.spotify.com/track/5hOo1sSvGujVZSNiUzi49i"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Black Bear",
-        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/3ar2uUStkn9hAndFBRjHA3"
+      },
+      "artists": [
+        {
+          "name": "The Ivy",
+          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Bolder Feelings",
+      "url": "https://open.spotify.com/track/4YnaKEsp4d3Gk842p43KGq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dive Deep (Hushed)",
+        "url": "https://open.spotify.com/album/4wXzmsXCXVn3REyPK2Z4M3"
       },
       "artists": [
         {
@@ -640,31 +660,15 @@
           "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
         }
       ],
-      "duration_ms": 241119,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF"
+      "duration_ms": 218531,
+      "name": "Dive Deep (Hushed)",
+      "url": "https://open.spotify.com/track/4VbDTk82rqWqVgoQC93CkC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "She's So Insane",
-        "url": "https://open.spotify.com/album/4p2TF9dDlk023Nb8S9DpUQ"
-      },
-      "artists": [
-        {
-          "name": "The Millennial Club",
-          "url": "https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H"
-        }
-      ],
-      "duration_ms": 316132,
-      "name": "MI",
-      "url": "https://open.spotify.com/track/0QoeVtODnoQBgdNOlEiH6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Toast and a Spirit (Midnight Version)",
-        "url": "https://open.spotify.com/album/22qXtPgmPm5HqZNlxPdNeg"
+        "name": "Girl, Say",
+        "url": "https://open.spotify.com/album/56xuqlRm2ssGeFIwrsHCJY"
       },
       "artists": [
         {
@@ -672,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
         }
       ],
-      "duration_ms": 221653,
-      "name": "A Toast and a Spirit - Midnight Version",
-      "url": "https://open.spotify.com/track/0Go1aynGwWRwXJQogMAQIA"
+      "duration_ms": 242040,
+      "name": "Girl, Say",
+      "url": "https://open.spotify.com/track/2YMVlnf2RsgVrQpi2g6KWI"
     },
     {
       "added_at": null,
@@ -695,24 +699,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thirty Eight",
-        "url": "https://open.spotify.com/album/6zxftKiTydsE5rK2AoXncr"
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/4oW03FMm0t1yYIa0RjBl12"
       },
       "artists": [
         {
-          "name": "The Ivy",
-          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
         }
       ],
-      "duration_ms": 225990,
-      "name": "Thirty Eight",
-      "url": "https://open.spotify.com/track/1noZLHWZB15QEDBCHq8CdE"
+      "duration_ms": 307689,
+      "name": "Heart Worth Breaking",
+      "url": "https://open.spotify.com/track/1JMzrJCU3dIR0TDEhEDDe5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6W7ekW1v9CXxa33uhb1xp2"
+        "name": "Twist of Fate",
+        "url": "https://open.spotify.com/album/2cl2zVVSzvV2QMEFpe3wYY"
       },
       "artists": [
         {
@@ -720,15 +724,31 @@
           "url": "https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm"
         }
       ],
-      "duration_ms": 218733,
-      "name": "I'll Get You Home",
-      "url": "https://open.spotify.com/track/6KktID56invz2PcbzFW9CQ"
+      "duration_ms": 243852,
+      "name": "All the Lights",
+      "url": "https://open.spotify.com/track/1m24DCVf9CNTaGGVMPT9hX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Nightshade",
-        "url": "https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL"
+        "name": "Hurts Just Right",
+        "url": "https://open.spotify.com/album/6jBOO89s9pp7A6rOsf9ExA"
+      },
+      "artists": [
+        {
+          "name": "The Ivy",
+          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
+        }
+      ],
+      "duration_ms": 172922,
+      "name": "Hurts Just Right",
+      "url": "https://open.spotify.com/track/4rw2XDiod4ityQuRMF5Cvf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If I Knew How to Hold You",
+        "url": "https://open.spotify.com/album/5kH2mOnDtQNue89cP1Hmng"
       },
       "artists": [
         {
@@ -736,41 +756,25 @@
           "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
         }
       ],
-      "duration_ms": 214666,
-      "name": "My Poor Heart",
-      "url": "https://open.spotify.com/track/6I8wamEFhbzBKz37UFmNM1"
+      "duration_ms": 250898,
+      "name": "If I Knew How to Hold You",
+      "url": "https://open.spotify.com/track/4WBALtRcBYVL715MlpLYRl"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Disquieted",
-        "url": "https://open.spotify.com/album/2fzxfHYF5YpfnwEHWBEffR"
+        "name": "Fireworks",
+        "url": "https://open.spotify.com/album/0MqgCjyXIKDtXURPHR3nwr"
       },
       "artists": [
         {
-          "name": "Dave Thomas Junior",
-          "url": "https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 279663,
-      "name": "Disquieted",
-      "url": "https://open.spotify.com/track/4yOOm7XzwYscpd6a2FEi9X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Run Forever (Midnight Version)",
-        "url": "https://open.spotify.com/album/7qexGz46DuYjkSHngDFruY"
-      },
-      "artists": [
-        {
-          "name": "Vacation Manor",
-          "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Can't Run Forever - Midnight Version",
-      "url": "https://open.spotify.com/track/6nqDpT0gNLCGqQmawhs233"
+      "duration_ms": 242014,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/6qIUd9qdVd3xtVYT6CAQZn"
     },
     {
       "added_at": null,
@@ -791,34 +795,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/0vOjbsuWdS2hQwKWI7m3zh"
+        "name": "On the Corner Where You Live",
+        "url": "https://open.spotify.com/album/02g8cOPykp2ZbBFDfScCTE"
       },
       "artists": [
         {
-          "name": "The Ivy",
-          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 207303,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/6TOSIKQzLR1WFatwcK3B6S"
+      "duration_ms": 276480,
+      "name": "On the Corner Where You Live",
+      "url": "https://open.spotify.com/track/3R09tujAEHItiHfiPgC4Lc"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Electric Rhythm",
-        "url": "https://open.spotify.com/album/32GtpXrFWK54RnaKa2l2zT"
+        "name": "You",
+        "url": "https://open.spotify.com/album/6W7ekW1v9CXxa33uhb1xp2"
       },
       "artists": [
         {
-          "name": "Township",
-          "url": "https://open.spotify.com/artist/2Vs3yC6wp5GVocVYcukOct"
+          "name": "By The Coast",
+          "url": "https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Electric Rhythm",
-      "url": "https://open.spotify.com/track/7Mg8FYcBYgRZq1CKMuwjwS"
+      "duration_ms": 218733,
+      "name": "I'll Get You Home",
+      "url": "https://open.spotify.com/track/6KktID56invz2PcbzFW9CQ"
     }
   ],
   "unique_name": "NIGHT TRAVELER Radio",

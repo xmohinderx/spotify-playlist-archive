@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du kan spelle i kjerra! Cover: Hagle",
-  "num_followers": 93716,
+  "num_followers": 93736,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMDliOWI3MDgzMTFhYTM5NmY0Nzk4NGJkMTY5ZTQ5OTdl",
+  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMGIyODEyNzNmOTFkZGU1NTUwZWQwNThjYmMyNWM3MWQz",
   "tracks": [
     {
       "added_at": "2023-02-16 23:01:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
+        "name": "Kan Inte G\u00e5",
+        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 146718,
+      "name": "Kan Inte G\u00e5",
+      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
         "name": "TANTE",
         "url": "https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Stavangerkameratene",
-        "url": "https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 210093,
-      "name": "Bare s\u00e5 du vett det",
-      "url": "https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
         "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
       },
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
+        "name": "Stavangerkameratene",
+        "url": "https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 210093,
+      "name": "Bare s\u00e5 du vett det",
+      "url": "https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
         "name": "H\u00d6RRU BARTENDER",
         "url": "https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa"
       },
@@ -411,30 +427,6 @@
       "duration_ms": 145925,
       "name": "H\u00d6RRU BARTENDER",
       "url": "https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "H\u00e4lsa Gud",
-        "url": "https://open.spotify.com/album/7imYelkBM9wWrcy8syQgDd"
-      },
-      "artists": [
-        {
-          "name": "JENTAN",
-          "url": "https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8"
-        },
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        },
-        {
-          "name": "Raggarligan",
-          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "H\u00e4lsa Gud",
-      "url": "https://open.spotify.com/track/4owtkzhI4uCeagbsgTajFg"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -475,18 +467,26 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Kan Inte G\u00e5",
-        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
+        "name": "H\u00e4lsa Gud",
+        "url": "https://open.spotify.com/album/7imYelkBM9wWrcy8syQgDd"
       },
       "artists": [
         {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+          "name": "JENTAN",
+          "url": "https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
         }
       ],
-      "duration_ms": 146718,
-      "name": "Kan Inte G\u00e5",
-      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
+      "duration_ms": 150500,
+      "name": "H\u00e4lsa Gud",
+      "url": "https://open.spotify.com/track/4owtkzhI4uCeagbsgTajFg"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Hon kan inte banka pl\u00e5t",
-        "url": "https://open.spotify.com/album/6F68Xk20E7SFurcQuRggZW"
+        "name": "Konge p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
       },
       "artists": [
         {
-          "name": "Str\u00f6g1",
-          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 128690,
-      "name": "Hon kan inte banka pl\u00e5t",
-      "url": "https://open.spotify.com/track/6wy0CoUqP1fl93OpZkr8g9"
+      "duration_ms": 180393,
+      "name": "Konge p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Konge p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
+        "name": "Hon kan inte banka pl\u00e5t",
+        "url": "https://open.spotify.com/album/6F68Xk20E7SFurcQuRggZW"
       },
       "artists": [
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
         }
       ],
-      "duration_ms": 180393,
-      "name": "Konge p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
+      "duration_ms": 128690,
+      "name": "Hon kan inte banka pl\u00e5t",
+      "url": "https://open.spotify.com/track/6wy0CoUqP1fl93OpZkr8g9"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "En gammal Amazon",
-        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
-      },
-      "artists": [
-        {
-          "name": "Str\u00f6g1",
-          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
-        }
-      ],
-      "duration_ms": 166297,
-      "name": "En gammal Amazon",
-      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "Den Samme J\u00e6vla Sangen",
         "url": "https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 190466,
       "name": "Granada",
       "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "En gammal Amazon",
+        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+        }
+      ],
+      "duration_ms": 166297,
+      "name": "En gammal Amazon",
+      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Denne Sommer\u00b4n",
-        "url": "https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl"
-      },
-      "artists": [
-        {
-          "name": "Cir.Cuz",
-          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Denne Sommer\u00b4n",
-      "url": "https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "Helt Sykt VOL2",
         "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Ola",
-        "url": "https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG"
+        "name": "Denne Sommer\u00b4n",
+        "url": "https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl"
       },
       "artists": [
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Cir.Cuz",
+          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
         }
       ],
-      "duration_ms": 204336,
-      "name": "Ola",
-      "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"
+      "duration_ms": 160720,
+      "name": "Denne Sommer\u00b4n",
+      "url": "https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -1199,6 +1183,22 @@
       "duration_ms": 278457,
       "name": "S\u00e5nn So Det Va F\u00f8r",
       "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "Ola",
+        "url": "https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 204336,
+      "name": "Ola",
+      "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "Jeg fortjener en \u00f8l",
         "url": "https://open.spotify.com/album/45biKF9vMhEpCJxrBROwjG"
       },
@@ -1319,18 +1303,34 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "SE P\u00c5 MIG JAG DANSAR UTAN DIG",
-        "url": "https://open.spotify.com/album/4Jz3pUrONbYOyGZ7bnJiJS"
+        "name": "En f\u00e5r v\u00e6re som en er",
+        "url": "https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT"
       },
       "artists": [
         {
-          "name": "Studavig\u00e5",
-          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+          "name": "Ole Ivars",
+          "url": "https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6"
         }
       ],
-      "duration_ms": 119803,
-      "name": "SE P\u00c5 MIG JAG DANSAR UTAN DIG",
-      "url": "https://open.spotify.com/track/0p2xrYWk6xXNoYG4FPdvYD"
+      "duration_ms": 205818,
+      "name": "Kongen av campingplassen",
+      "url": "https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

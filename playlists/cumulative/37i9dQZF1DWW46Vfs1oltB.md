@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: BE'O\(비오\)\)
 
-802 songs - 1 day 20 hr 35 min
+803 songs - 1 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,6 +803,7 @@
 | [내 얘기 같아 \(Based On A True Story\)](https://open.spotify.com/track/3TODabyKjZdBvpGFCDAgxs) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:54 | 2021-12-18 | 2022-07-08 |
 | [뚝뚝뚝](https://open.spotify.com/track/6qqOz5LS19krVTFAvcSD3A) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa) | [Drop The Bit Final Pt\. 2](https://open.spotify.com/album/2q3EHtYTa2eF6GsWYMIQSO) | 3:55 | 2022-05-04 | 2022-08-13 |
 | [무투](https://open.spotify.com/track/05ofWSJ9EJxM9TqbIK9sM0) | [Garion](https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp) | [무투](https://open.spotify.com/album/0ZU9Kci0rojuL570psUv1c) | 3:52 | 2023-01-03 | 2023-01-11 |
+| [밴 The Banned](https://open.spotify.com/track/773egXyOzWeLTyz9eSbO4H) | [30](https://open.spotify.com/artist/3klG579pH6Pm20yugj7KQ3) | [THE FROST ON YOUR EDGE](https://open.spotify.com/album/3611OvwL52Wwj32NMzVc8e) | 3:13 | 2023-02-19 |  |
 | [벌렁벌렁](https://open.spotify.com/track/67V66xKzTvAl5zfMnBmvRI) | [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [northfacegawd](https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1) | [벌렁벌렁](https://open.spotify.com/album/0VP4drhEKVcWenyTEhPIjG) | 3:13 | 2021-12-21 | 2022-04-19 |
 | [사이렌](https://open.spotify.com/track/6mzkkz2p0Nyyp43Eedv4mS) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Ghetto Kids](https://open.spotify.com/album/5LAKQwTYZiOFsCN4BSFVds) | 3:20 | 2021-12-18 | 2022-07-08 |
 | [서있어](https://open.spotify.com/track/0S4dJNVnLwmRlRQ348RshA) | [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc), [ROH YUNHA](https://open.spotify.com/artist/3dLZdTWMaokxt4y9sDzEWq), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Drop The Bit Final Pt\. 2](https://open.spotify.com/album/2q3EHtYTa2eF6GsWYMIQSO) | 4:39 | 2022-07-07 | 2022-07-15 |

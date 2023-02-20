@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,853 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,865 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 19 | [Let It Rain](https://open.spotify.com/track/3iXaV9yTFnAnZAoVbY8AuT) | [Amanda Marshall](https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO) | [Amanda Marshall](https://open.spotify.com/album/0TyKRzOsoZgXrXrcXnPvqt) | 4:31 |
 | 20 | [Ocean Pearl](https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r) | [54\-40](https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N) | [Smilin' Buddha Cabaret](https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE) | 3:27 |
 | 21 | [Make You a Believer](https://open.spotify.com/track/3x2TPDl0jQthHTKTgWxz21) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Racine](https://open.spotify.com/album/7pMdUFxJHQTtSLfZMtY0SL) | 4:43 |
-| 22 | [Could I Be Your Girl](https://open.spotify.com/track/7IfWFD4RPeqM5xeGcwzgoR) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Living Under June](https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O) | 4:48 |
-| 23 | [Steal My Sunshine \- Remastered Version](https://open.spotify.com/track/6tsMn9okxcLBklFQ2Sc8Ar) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Steal My Sunshine \(Remixes, Vol\. 1\)](https://open.spotify.com/album/00nBnX92FEffzDHV1e84FL) | 3:31 |
+| 22 | [Steal My Sunshine \- Remastered Version](https://open.spotify.com/track/6tsMn9okxcLBklFQ2Sc8Ar) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Steal My Sunshine \(Remixes, Vol\. 1\)](https://open.spotify.com/album/00nBnX92FEffzDHV1e84FL) | 3:31 |
+| 23 | [Could I Be Your Girl](https://open.spotify.com/track/7IfWFD4RPeqM5xeGcwzgoR) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Living Under June](https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O) | 4:48 |
 | 24 | [All That You Are \(x3\) \- 1997 Digital Remaster](https://open.spotify.com/track/3z9wl4sY8SqM8GurmuCLa9) | [Econoline Crush](https://open.spotify.com/artist/3M9ouLHyB0kbob1tnQN4wE) | [The Devil You Know](https://open.spotify.com/album/0Imd5b8ZBWRpFSmqGuxLIh) | 3:41 |
 | 25 | [Love Song](https://open.spotify.com/track/2l0Ef5m29J2fNOS5Ydkg8s) | [Sky](https://open.spotify.com/artist/5synmfYnU6t9Lw1ZiN3ZTT) | [Piece Of Paradise](https://open.spotify.com/album/060HunSfIEfWvy1bnYn4Fu) | 3:36 |
 | 26 | [Numb](https://open.spotify.com/track/7eH1GkchdFvNN4ZUx767G3) | [Holly McNarland](https://open.spotify.com/artist/26YoEndupBcezyzcSmbcw2) | [Stuff](https://open.spotify.com/album/2pLU6e4KE2773H1OjOfRZ9) | 3:57 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 36 | [End Of The World](https://open.spotify.com/track/0HZM2O3KZT5vYYP763dm2I) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Play](https://open.spotify.com/album/0aDWCrEQxS7RH66v20qezy) | 2:45 |
 | 37 | [Diggin' A Hole](https://open.spotify.com/track/1DJ4sDZgj56rBUZYj4ZHRu) | [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Hemi\-Vision](https://open.spotify.com/album/1Zj6HNUUmO1WVmrH8TgU2i) | 4:37 |
 | 38 | [London Rain \(Nothing Heals Me Like You Do\)](https://open.spotify.com/track/2CCxzA9QAVSki6OR2t1Jhl) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Songs from Dawson's Creek](https://open.spotify.com/album/0hSUxdwxk9RKLRIfjH0BAd) | 3:50 |
-| 39 | [apparitions](https://open.spotify.com/track/6H7bfOGDhdJB5ejjFMWUTz) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/7ljqmefDOpPyqYswrk6Uc4) | 5:12 |
-| 40 | [Wayne](https://open.spotify.com/track/5RCyu62J9pk1PqgFfCxgn8) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Under These Rocks And Stones](https://open.spotify.com/album/3PMSWzK8diDoaMdOZTHzFJ) | 4:45 |
+| 39 | [Wayne](https://open.spotify.com/track/5RCyu62J9pk1PqgFfCxgn8) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Under These Rocks And Stones](https://open.spotify.com/album/3PMSWzK8diDoaMdOZTHzFJ) | 4:45 |
+| 40 | [apparitions](https://open.spotify.com/track/6H7bfOGDhdJB5ejjFMWUTz) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/7ljqmefDOpPyqYswrk6Uc4) | 5:12 |
 | 41 | [I Don't Want To Think About It](https://open.spotify.com/track/0mLzR7UE4so9fUfi3MX3rf) | [Wild Strawberries](https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y) | [Heroine](https://open.spotify.com/album/3TwFXy7ldbkDmSC9EiUTcB) | 3:46 |
 | 42 | [Push](https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Silver](https://open.spotify.com/album/5QcdaEgknPDT2CwsQ3fKMn) | 3:50 |
 | 43 | [Squeeze Toy](https://open.spotify.com/track/5IVckL0RmYTjMzazIUBp0J) | [The Boomtang Boys](https://open.spotify.com/artist/5x2uSbE1afrYyEUD0GqNmT), [Kim Esty](https://open.spotify.com/artist/0WHRMUndMVIszj5fSeLdiK) | [Greatest Hits Volume One](https://open.spotify.com/album/4oKWaqi2tkfhBZiA4dNVwK) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 49 | [O Siem](https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU) | 4:27 |
 | 50 | [A List Of Things](https://open.spotify.com/track/6N76d0uy2c5ylz5bIvEn3W) | [Damhnait Doyle](https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB) | [Shadows Wake Me](https://open.spotify.com/album/5L5MeaOvuUccIFwRiLVrJI) | 3:16 |
 
-Snapshot ID: `MTYzMjI1Nzg3MCwwMDAwMDAwMGU3MzJlZThiYzA2NTI0YjJjMDkzMTdkZTU3ZDkxYWE5`
+Snapshot ID: `MTYzMjI1Nzg3MCwwMDAwMDAwMDZlM2NlNjMxY2E3YTAyNGU4NTc2ODA0YTQ5ZjhmMzFi`

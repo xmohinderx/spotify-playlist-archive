@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:69zPIMRgsZieOHFtHtvnj0">Yu Su</a>'s favorite tracks\. Updated regularly\. Curated by Yu Su\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-96 songs - 9 hr 40 min
+97 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Techno Cave \- Sharif Laffrey Nightwork Remix](https://open.spotify.com/track/6JoiH5Hnnx63LWwagrTR0A) | [Ruf Dug](https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T), [Sharif Laffrey](https://open.spotify.com/artist/3QEeHLDl1Pk9xlAOm7413Q) | [Ruffy's Island](https://open.spotify.com/album/19XIG9qAf6trDqzYpy72j7) | 10:15 | 2022-04-18 |  |
 | [The Craze \- Live mix](https://open.spotify.com/track/09EHMqYTHVYQczqkdd4W2z) | [Prosumer](https://open.spotify.com/artist/4wFHE4uuRMt3OlUPBf1fYq), [Murat Tepeli](https://open.spotify.com/artist/7BeQQ6lzdSp0h0o72yXFmN) | [Serenity](https://open.spotify.com/album/7xWFk48ksKBaabFFVXczne) | 3:42 | 2022-04-18 |  |
 | [The Funk Phenomena \- Johnick Kenny Dope Master Mix](https://open.spotify.com/track/592iYw8xLTetpNIJuOh2qf) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Johnick](https://open.spotify.com/artist/64Ga4k954wyRZLkxMD9LJs) | [The Funk Phenomena \(The Remixes\)](https://open.spotify.com/album/2IZAYkh1VDgzqfeLArFadi) | 10:32 | 2022-06-01 |  |
-| [The Right Moment](https://open.spotify.com/track/2cOWOP6Yl99cZbJrArw7vF) | [Lipelis](https://open.spotify.com/artist/5kqJ14A5azjdD37MJr7VOd), [TMO \(RU\)](https://open.spotify.com/artist/2YPPS16X2uDlhmF3RdDRBK) | [Function As A Meaning EP](https://open.spotify.com/album/0fWUB6YDSeUSadBnuIU20u) | 6:29 | 2022-06-01 |  |
+| [The Right Moment](https://open.spotify.com/track/5q9tzjRWD1vHH3oJzFYYyM) | [Lipelis](https://open.spotify.com/artist/5kqJ14A5azjdD37MJr7VOd), [TMO](https://open.spotify.com/artist/4izMpSz6U2VqJjqTqVuGnT) | [Function as a Meaning](https://open.spotify.com/album/0DnQP1n5ULaaufv6uJhtRQ) | 6:29 | 2022-06-01 |  |
+| [The Right Moment](https://open.spotify.com/track/2cOWOP6Yl99cZbJrArw7vF) | [Lipelis](https://open.spotify.com/artist/5kqJ14A5azjdD37MJr7VOd), [TMO \(RU\)](https://open.spotify.com/artist/2YPPS16X2uDlhmF3RdDRBK) | [Function As A Meaning EP](https://open.spotify.com/album/0fWUB6YDSeUSadBnuIU20u) | 6:29 | 2022-06-01 | 2023-02-20 |
 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 | 2022-06-01 |  |
 | [Tin](https://open.spotify.com/track/7wnwueAQ2Srl5rUaLUvG1L) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 4:33 | 2022-04-18 |  |
 | [Too Late Now \- Soulwax Remix](https://open.spotify.com/track/5NY8FqMU71tJbuz6qiZ69C) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Too Late Now \(Soulwax Remix\)](https://open.spotify.com/album/2kV9ScIQHMVQs1XLWQetEz) | 6:38 | 2022-08-26 |  |

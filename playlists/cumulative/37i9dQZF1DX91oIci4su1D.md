@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-528 songs - 1 day 8 hr 31 min
+529 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Constancy](https://open.spotify.com/track/0AkEFT8vseHBEog0alLJbo) | [Mino Safy](https://open.spotify.com/artist/2YwWtaaaCMDirSz0qfxjE5) | [Constancy](https://open.spotify.com/album/3kEVfGFVUOtE8YshBabPYV) | 3:44 | 2022-05-06 | 2022-05-10 |
 | [Constellations](https://open.spotify.com/track/5QT3JLV90my9oISLK26xDe) | [Maor Levi](https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he) | [Constellations](https://open.spotify.com/album/7ftdQIAvvmrqDlvVGgp6Bm) | 3:33 | 2021-12-17 | 2022-02-26 |
 | [Control](https://open.spotify.com/track/7ozN47N1dHK0O2iQK6THcr) | [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH) | [Control](https://open.spotify.com/album/6FpqTdRVVt6Lq3SD9xAcGn) | 2:34 | 2022-05-20 | 2022-05-23 |
-| [Crank](https://open.spotify.com/track/1H5Iu1nBJZwVdDR0tSgpj9) | [Adam Scott](https://open.spotify.com/artist/2RwzIU3edYJysusJYWaDny) | [Crank](https://open.spotify.com/album/3vXZsHHuQFvXuFc2u3bAer) | 3:41 | 2022-01-07 |  |
+| [Crank](https://open.spotify.com/track/1H5Iu1nBJZwVdDR0tSgpj9) | [Adam Scott](https://open.spotify.com/artist/2RwzIU3edYJysusJYWaDny) | [Crank](https://open.spotify.com/album/3vXZsHHuQFvXuFc2u3bAer) | 3:41 | 2022-01-07 | 2023-02-20 |
 | [Creation](https://open.spotify.com/track/4Bg422IWEien7C2nyn5eys) | [Thomas Benscher](https://open.spotify.com/artist/4NpzGq0Oe5NauRTIStCz8u) | [Creation](https://open.spotify.com/album/37GjHcCOzYcwoupNhBMy8H) | 3:45 | 2022-04-15 | 2022-06-14 |
 | [Creator](https://open.spotify.com/track/5wLJd67HQp3Gwl8J45sNoD) | [Maor Levi](https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he), [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF) | [Creator](https://open.spotify.com/album/54WQOQxvGeV4d3uwJOJFEo) | 3:45 | 2021-12-17 |  |
 | [Crush](https://open.spotify.com/track/4wv1O6QCbotNMM5BWqUOn7) | [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO), [Beat & Voice](https://open.spotify.com/artist/1X7TekxpJEEuRoZTMX6SFr) | [Crush](https://open.spotify.com/album/6lNTwf0EI75sUIE7lY2vxx) | 3:41 | 2021-12-17 | 2022-03-12 |
@@ -321,6 +321,7 @@
 | [Mystery Land](https://open.spotify.com/track/6rfu5u7FoVAjwWe5FMCXU0) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Mystery Land](https://open.spotify.com/album/4QskDsUUCcNFRUjORs6ii6) | 3:44 | 2022-02-04 | 2022-08-27 |
 | [Mystery Land \- Abstract Vision Remix](https://open.spotify.com/track/0oM8WkhtcYFbO0sBIk4lQj) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Abstract Vision](https://open.spotify.com/artist/38ll04WO5aX23GmDvdneOr) | [Mystery Land \(Abstract Vision Remix\)](https://open.spotify.com/album/0HjlbIXGVYGWGNgOgVEGay) | 3:30 | 2023-02-03 | 2023-02-18 |
 | [Namaqua](https://open.spotify.com/track/1xAGRuYdaCx6lGAuDNtfxp) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [Namaqua](https://open.spotify.com/album/2qJ52WvCqgrBjN26i9dzV3) | 3:58 | 2021-12-17 |  |
+| [Need To Feel Loved](https://open.spotify.com/track/4SdHIbH7OmWuOYunj5BWtm) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Need To Feel Loved](https://open.spotify.com/album/0IeGNtS4eIPUePmQzvLOiV) | 4:09 | 2023-02-17 |  |
 | [Never Alone](https://open.spotify.com/track/3BDs1MOQNYRX0G0kmpV8Iw) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [Never Alone](https://open.spotify.com/album/0YdiKCM6bohQZxmQOHbDWt) | 3:37 | 2022-01-14 | 2022-08-30 |
 | [Never Be Alone](https://open.spotify.com/track/6FAK5GkhC4kanPdOGTlWhz) | [Kudus](https://open.spotify.com/artist/6s69joiC63fdwO83zTquv8), [Mirjam Tumaini](https://open.spotify.com/artist/0VIpOJKQgRWdlBhePFUOpd) | [Never Be Alone](https://open.spotify.com/album/52zvyjKhpOAr2tMmPj1Qbo) | 3:06 | 2022-06-17 |  |
 | [Never Cry Again](https://open.spotify.com/track/4EEBn0pbdBm3eUk5WEyizA) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt) | [Never Cry Again](https://open.spotify.com/album/5atYDx8R2Nd8DAKRbO7TJa) | 3:50 | 2022-10-14 | 2023-01-14 |

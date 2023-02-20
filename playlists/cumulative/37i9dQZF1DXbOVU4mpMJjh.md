@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-534 songs - 1 day 17 hr 24 min
+535 songs - 1 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Phases](https://open.spotify.com/track/77jWYo4bR2WuhCwCMIKkpw) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Sarah Elizabeth Charles](https://open.spotify.com/artist/5LqWmZQlNt5EqbjJsOMjtn) | [Ruler Rebel](https://open.spotify.com/album/7qGH2vWOTR8E7u3spMPdOh) | 4:15 | 2022-04-14 | 2022-04-27 |
 | [Pineapple](https://open.spotify.com/track/40TMWT4FHQKrbb6NgfWAJ5) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Pineapple](https://open.spotify.com/album/3mNHIoFeYbiEHNnMjrcRQF) | 3:16 | 2022-04-14 | 2022-04-27 |
 | [Plain Gold Ring](https://open.spotify.com/track/4AxT7oW02TqO772n6SGrfh) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Plain Gold Ring](https://open.spotify.com/album/2ODjvtrRFwJ2WCl7fL4uzQ) | 4:24 | 2022-04-14 | 2022-04-29 |
+| [Platinum Goose](https://open.spotify.com/track/3eoLFO9XPg6vnONeRen5hf) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Platinum Goose](https://open.spotify.com/album/2yugNDUqoylzXH3T5FBggD) | 3:02 | 2023-02-16 |  |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/5FXIXX9FniNJfHd9DJrOop) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [John Horler](https://open.spotify.com/artist/6Ha15AYMJf1Uqs1XW9UZCc), [Jim Richardson](https://open.spotify.com/artist/0QK2QcHnt4N9vdSdzX33om), [Tony Mann](https://open.spotify.com/artist/5qIWMD9r0RT8wanM7Nguty) | [Polka Dots and Moonbeams](https://open.spotify.com/album/6m9h1IEQtcfqVq4hZp06Xd) | 9:48 | 2022-04-14 | 2022-10-08 |
 | [Polkadots And Moonbeams](https://open.spotify.com/track/1zXfSEEkoSsMNuoUSre4R5) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Polkadots And Moonbeams](https://open.spotify.com/album/6M3uviUycHWyhTrPeA8aZA) | 3:42 | 2022-08-16 | 2023-02-03 |
 | [PRAYER](https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [PRAYER](https://open.spotify.com/album/1pR1odHigDWvudMQgYMrhs) | 7:45 | 2022-04-14 | 2022-05-14 |
@@ -509,7 +510,7 @@
 | [Waterfall](https://open.spotify.com/track/0Gyu7ttkfam04VeAgZEB3c) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Waterfall](https://open.spotify.com/album/4ce6IAUlzsEe7elxVkRZqc) | 2:32 | 2023-01-12 |  |
 | [We've Been Through This Before](https://open.spotify.com/track/5lk6Ro1xDJJyKAqjWd78JG) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [We've Been Through This Before](https://open.spotify.com/album/74QY0bWf3DRBrHPujvE2IT) | 2:25 | 2023-01-19 |  |
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2022-05-24 | 2023-02-03 |
-| [What A Difference A Day Makes](https://open.spotify.com/track/38c3Ad0TqWEwnUPH2NdTWm) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [What A Difference A Day Makes](https://open.spotify.com/album/56B3PMPbWgxrZis5ruTcdm) | 4:06 | 2022-11-17 |  |
+| [What A Difference A Day Makes](https://open.spotify.com/track/38c3Ad0TqWEwnUPH2NdTWm) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [What A Difference A Day Makes](https://open.spotify.com/album/56B3PMPbWgxrZis5ruTcdm) | 4:06 | 2022-11-17 | 2023-02-20 |
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 | 2022-04-14 | 2022-10-08 |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2022-06-28 |  |
 | [When It's Sleepytime Down South](https://open.spotify.com/track/0ZO3xca4fN38Be1un20nc9) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 5:09 | 2022-04-14 | 2022-10-08 |

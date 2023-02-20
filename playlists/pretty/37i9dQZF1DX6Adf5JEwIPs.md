@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Christian Nodal
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,078 likes - 58 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,109 likes - 58 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 44 | [El Raulito](https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [El Raulito](https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD) | 3:10 |
 | 45 | [Perdon Perdon](https://open.spotify.com/track/3hj4BrNPg1N6fv7zPGaKGA) | [Los Necios](https://open.spotify.com/artist/2ksSO9pB8GaQfmzO3dhRaF) | [Perdon Perdon](https://open.spotify.com/album/5o5UpMFTyu1uxYSriD7bud) | 3:10 |
 | 46 | [Quiero Desahogarme](https://open.spotify.com/track/6Lk6qPdxcmVIzkyQ3DEqm6) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Quiero Desahogarme](https://open.spotify.com/album/3TJpgCBOO6vQjniSvQbJTq) | 3:23 |
-| 47 | [La Contraseña De Tu Cuerpo](https://open.spotify.com/track/0JGxubIP9h6x5JDYUzyrTH) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Eladio Flores LR](https://open.spotify.com/artist/7ESJbq9J3Wxg00GrAdluHl) | [La Contraseña De Tu Cuerpo](https://open.spotify.com/album/1ODDDgLFksy7YfvDvaqAXp) | 3:22 |
+| 47 | [La Contraseña De Tu Cuerpo](https://open.spotify.com/track/0JGxubIP9h6x5JDYUzyrTH) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Eladio Flores LR](https://open.spotify.com/artist/79L55hJR2nKHrFkWbJO0RG) | [La Contraseña De Tu Cuerpo](https://open.spotify.com/album/1ODDDgLFksy7YfvDvaqAXp) | 3:22 |
 | 48 | [Malaco](https://open.spotify.com/track/74GetRMsht7rOBexp5HNWB) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Malaco](https://open.spotify.com/album/2Vv23m5o3hm9ztGpVu9RuE) | 3:42 |
 | 49 | [En Otro Nivel](https://open.spotify.com/track/1ZWmNUqIiOIGJb867pARrl) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [En Otro Nivel](https://open.spotify.com/album/2IdacaCoHtUNfYdstmD9jo) | 2:15 |
 | 50 | [Efecto Mayiza](https://open.spotify.com/track/2qYHV61tehcresLu1y9NJy) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Efecto Mayiza](https://open.spotify.com/album/6PzDuYmeAGb7nQFTIvJsfn) | 2:14 |

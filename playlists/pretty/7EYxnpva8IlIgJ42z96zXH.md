@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,579 likes - 50 songs - 2 hr 44 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,578 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 18 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 |
 | 19 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |
 | 20 | [Blow My Mind](https://open.spotify.com/track/0ZJYKFYQYO0kL8lYuILAGx) | [Pink Panda](https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH), [Nadim](https://open.spotify.com/artist/04r4bpYoO5pcJD0Ga8u6T6), [AmeliaCee](https://open.spotify.com/artist/5Cs12AhGIsXew1VY65kvFV) | [Blow My Mind](https://open.spotify.com/album/3ZiXEgZ2wwzScYcxvkvwR1) | 2:15 |
-| 21 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
+| 21 | [I Make That](https://open.spotify.com/track/4hq8YQD7qzQ5NQTNIa4wHW) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD) | [I Make That](https://open.spotify.com/album/5oQQFUCnpWb1O54xl6DujB) | 2:31 |
 | 22 | [Contact](https://open.spotify.com/track/3bRw4PNSq0kwDryyE9ON3d) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6mNXEOrhljPdrtS4aINMqH) | 4:00 |
 | 23 | [Inside Trippin'](https://open.spotify.com/track/7qnPAueQPenfc7oEiHNUQh) | [Did Miro](https://open.spotify.com/artist/6wNT1l6WkupvYtgaLcyoGS) | [Inside Trippin'](https://open.spotify.com/album/326wNjTIy1JYTNLsNaPW6t) | 5:11 |
 | 24 | [6am](https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [6am](https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 49 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 |
 | 50 | [Ride or Die \(feat\. Roses Gabor\)](https://open.spotify.com/track/6uX3HDedpfYWZVrbqRwrjq) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Ride or Die \(feat\. Roses Gabor\)](https://open.spotify.com/album/61b6xkMZAHTklSFvQo7aax) | 3:17 |
 
-Snapshot ID: `MjUwNSxjOTAyY2QxODZlMTEyMjdhMTM4MzM1MzU4NzUyYjRjOTBlYzk1OTJk`
+Snapshot ID: `MjUwOSxmZmM3OWVmNjU3MDA3MjRiOWY2Nzc4M2ExNzZiNTAyMTExOWY5Njc4`

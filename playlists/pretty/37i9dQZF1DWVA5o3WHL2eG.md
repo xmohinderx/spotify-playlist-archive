@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Listen to women at full volume\. Cover: Leony
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,364 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,377 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 2 | [OFT VERTRAUT](https://open.spotify.com/track/2viO8F8cWAkkHqZIE8ouk8) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [MANN IM HAUS](https://open.spotify.com/album/39cLzKdoghJ200CzrrZRUh) | 2:54 |
 | 3 | [Auf Nimmerwiedersehen](https://open.spotify.com/track/5df7QCgUufv5OfIeiXYtF6) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Auf Nimmerwiedersehen](https://open.spotify.com/album/0acoXt2AQYnTNYECnUy5cx) | 2:47 |
 | 4 | [MON BÈBÈ](https://open.spotify.com/track/7Iki6p3Qsh1mAbvccSqbWF) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [LUNE](https://open.spotify.com/album/110in5Qcb8ry1bmvFNA2yl) | 2:23 |
-| 5 | [WENN ICH STERBE](https://open.spotify.com/track/5PNNnInglyngBvmMPlQkyx) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [WENN ICH STERBE](https://open.spotify.com/album/1IZYLoQLnt9pLvUgpoWRQR) | 3:00 |
-| 6 | [Smarties](https://open.spotify.com/track/2e5DbCHlhtk4deIvjrIi2H) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Smarties](https://open.spotify.com/album/3lZmmldlKLvh1P2zdV4T1s) | 1:59 |
+| 5 | [Smarties](https://open.spotify.com/track/2e5DbCHlhtk4deIvjrIi2H) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Smarties](https://open.spotify.com/album/3lZmmldlKLvh1P2zdV4T1s) | 1:59 |
+| 6 | [WENN ICH STERBE](https://open.spotify.com/track/5PNNnInglyngBvmMPlQkyx) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [WENN ICH STERBE](https://open.spotify.com/album/1IZYLoQLnt9pLvUgpoWRQR) | 3:00 |
 | 7 | [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 |
 | 8 | [Baby Blizzard](https://open.spotify.com/track/3y0j1dKTB0XXJQPRNIEXgN) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Baby Blizzard](https://open.spotify.com/album/3PXQif0FmYLPi2LptqvWyv) | 2:05 |
 | 9 | [Frühstück am Bett](https://open.spotify.com/track/4nbPDsu8jgMtWCj8qnANtX) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Frühstück am Bett](https://open.spotify.com/album/4rBnwHH6maKF0WbAi3OTHA) | 2:35 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [Affirmation Practice](https://open.spotify.com/track/2nArEaoCGtb6ws4wO4cI9a) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Affirmation Practice](https://open.spotify.com/album/2tnN5ey40OEsFKIurIWNsK) | 5:11 |
 | 36 | [This One's for You](https://open.spotify.com/track/4jGwo6XYSxgBZ7UkrhlLvE) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [This One's for You](https://open.spotify.com/album/5IT3PmuTYMzz35OOgiO4J2) | 4:14 |
 | 37 | [Gib Mir Deine Liebe \- ÄTNA Edit](https://open.spotify.com/track/5AkN6pp0GOyXazmuhVhSzE) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj), [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Gib Mir Deine Liebe \(ÄTNA Edit\)](https://open.spotify.com/album/7DAbqaaxY7zgCYT1DN6YT0) | 3:41 |
-| 38 | [Kein Limit](https://open.spotify.com/track/2MsDRBxvDMIrRuaqGikmIu) | [Liyah](https://open.spotify.com/artist/3UaA29cd7jUb9YmzXAdImR) | [Kein Limit](https://open.spotify.com/album/6cWFbbsBwQ2YXk6B2cfoAi) | 2:32 |
-| 39 | [genug](https://open.spotify.com/track/6yYqmnTk6kCYUNNexHzRJ0) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [genug](https://open.spotify.com/album/07dyzBlmJNUTo2lneNuriJ) | 3:42 |
-| 40 | [Say My Name](https://open.spotify.com/track/0uc8dunUbcQxjqgPPTsIG8) | [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [Say My Name](https://open.spotify.com/album/18zOW95fsCYH9a7uk8PQhI) | 3:16 |
+| 38 | [genug](https://open.spotify.com/track/6yYqmnTk6kCYUNNexHzRJ0) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [genug](https://open.spotify.com/album/07dyzBlmJNUTo2lneNuriJ) | 3:42 |
+| 39 | [Say My Name](https://open.spotify.com/track/0uc8dunUbcQxjqgPPTsIG8) | [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [Say My Name](https://open.spotify.com/album/18zOW95fsCYH9a7uk8PQhI) | 3:16 |
+| 40 | [Kein Limit](https://open.spotify.com/track/2MsDRBxvDMIrRuaqGikmIu) | [Liyah](https://open.spotify.com/artist/3UaA29cd7jUb9YmzXAdImR) | [Kein Limit](https://open.spotify.com/album/6cWFbbsBwQ2YXk6B2cfoAi) | 2:32 |
 | 41 | [Das beste Versteck](https://open.spotify.com/track/29yFPJFMhqBRmarG2n2idr) | [klebe](https://open.spotify.com/artist/54NEKupV1XnarSxwn0gp3w) | [Das beste Versteck](https://open.spotify.com/album/2P1OzC7rx5u7UP8FrhnAdS) | 3:15 |
 | 42 | [Wilder Sturm](https://open.spotify.com/track/5n1rB7mYHm7boduIHE48Dy) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Wilder Sturm](https://open.spotify.com/album/1F01866M3JrsPZ5LuGjJc2) | 3:13 |
 | 43 | [PDReplay](https://open.spotify.com/track/1oG9rmMnphj5CWtTQWmXbx) | [Aysar](https://open.spotify.com/artist/1NwgjGe4PKnpX1lSV2d2Vo) | [PDReplay](https://open.spotify.com/album/4GZIkdivbkR2uTAw0aIKtW) | 2:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Come Oblivion](https://open.spotify.com/track/0Ma5tlwPggGeLREymwSRRj) | [Gemma Ray](https://open.spotify.com/artist/2yFINwzZpVkgFhKLpuAAle) | [Gemma Ray & The Death Bell Gang](https://open.spotify.com/album/6lNtWS3Xj1gtj9yg7bwGKq) | 3:47 |
 | 50 | [Verrückt nach dir](https://open.spotify.com/track/6JvbriIzMHaGk2oIKuaFyQ) | [RIA](https://open.spotify.com/artist/1uEz1ky7M03Huwn2WzeSyK) | [Verrückt nach dir](https://open.spotify.com/album/4NH3NexFiXUSlLgsz7HvLN) | 2:57 |
 
-Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMDNjODFmYmZhNGM2OGYxYzgyY2UyYjMxMTBhOTYwNDBj`
+Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMDBhOWUzODI2ZDhiODc4MTg3NDcwM2FkN2MwZGY4MzM2`

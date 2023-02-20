@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,323 likes - 38 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,437 likes - 38 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,18 +28,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 18 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 |
 | 19 | [Luna Nueva](https://open.spotify.com/track/6GLKRIk8YSDDi3BnJIVr4C) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Luna Nueva](https://open.spotify.com/album/1nXR27VjplhMuwL7u6ChGd) | 3:37 |
 | 20 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 |
-| 21 | [Rhizome](https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Rhizome](https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt) | 2:08 |
-| 22 | [Summer Breeze](https://open.spotify.com/track/6WeBzOmaFwsWN4Svwg6p1F) | [Ambient Stream](https://open.spotify.com/artist/49wJGRXonVaTLd77rtGBYA) | [Summer Breeze](https://open.spotify.com/album/1j30XDwij7ZewdsszR43AJ) | 2:14 |
+| 21 | [Summer Breeze](https://open.spotify.com/track/6WeBzOmaFwsWN4Svwg6p1F) | [Ambient Stream](https://open.spotify.com/artist/49wJGRXonVaTLd77rtGBYA) | [Summer Breeze](https://open.spotify.com/album/1j30XDwij7ZewdsszR43AJ) | 2:14 |
+| 22 | [Rhizome](https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Rhizome](https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt) | 2:08 |
 | 23 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 |
 | 24 | [Tears in Heaven & Relaxing Mornings](https://open.spotify.com/track/3xxEgKyzXdz1N7SoyFq2f8) | [Liam Gray](https://open.spotify.com/artist/3nSFyO3JTPhzXGJnR7wI1j) | [Relaxing Mornings, Vol\. IV](https://open.spotify.com/album/5gTdlkIcQC0N2dDbfkU8qJ) | 1:42 |
 | 25 | [Song from the meadow](https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 2:15 |
-| 26 | [Early Morning Walk](https://open.spotify.com/track/0Noa9gO5dDrWqzcnFPezhG) | [Whispering Streams](https://open.spotify.com/artist/6YgVDA4WlsMISJq4BDzUeO) | [Early Morning Walk](https://open.spotify.com/album/53A5UVK34dMKM7aDogkkuz) | 3:13 |
-| 27 | [Forest Piano Music for Work and Reading](https://open.spotify.com/track/4OhSZK4o9klyC0dBQXkWQQ) | [Japan BGM Improvement committee](https://open.spotify.com/artist/28PnH5DreNhBHE1oo8d6Rv) | [Forest Coating Music Healing piano like being in the forest, for morning cafe, for working, teleworking, napping Forest sound, river sound with white noise ASMR](https://open.spotify.com/album/11LxODCrOmiAzbPXdRKdz9) | 2:06 |
+| 26 | [Forest Piano Music for Work and Reading](https://open.spotify.com/track/4OhSZK4o9klyC0dBQXkWQQ) | [Japan BGM Improvement committee](https://open.spotify.com/artist/28PnH5DreNhBHE1oo8d6Rv) | [Forest Coating Music Healing piano like being in the forest, for morning cafe, for working, teleworking, napping Forest sound, river sound with white noise ASMR](https://open.spotify.com/album/11LxODCrOmiAzbPXdRKdz9) | 2:06 |
+| 27 | [Early Morning Walk](https://open.spotify.com/track/0Noa9gO5dDrWqzcnFPezhG) | [Whispering Streams](https://open.spotify.com/artist/6YgVDA4WlsMISJq4BDzUeO) | [Early Morning Walk](https://open.spotify.com/album/53A5UVK34dMKM7aDogkkuz) | 3:13 |
 | 28 | [Godric](https://open.spotify.com/track/4UzCqaekJitDWMpejVwnZa) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Godric](https://open.spotify.com/album/48nN109FvJCU8OqD7U18wm) | 3:01 |
 | 29 | [40](https://open.spotify.com/track/640cERY2tzEK0UURzWgFJp) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [40](https://open.spotify.com/album/3wk7uPZns7HJ0lNtn0driV) | 2:29 |
 | 30 | [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 |
-| 31 | [Lily's Arrival](https://open.spotify.com/track/0KdOX4bbKodh8fWhbUgRLe) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Lily's Arrival](https://open.spotify.com/album/2lmh2HkpKRGJBjVLNf7D8Z) | 2:58 |
-| 32 | [Finally Home](https://open.spotify.com/track/0AkcaCZBjywy5bNnIR310e) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Gentle Evening Rain](https://open.spotify.com/album/11ClOEWh75IghVOySc1dLJ) | 2:24 |
+| 31 | [Finally Home](https://open.spotify.com/track/0AkcaCZBjywy5bNnIR310e) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Gentle Evening Rain](https://open.spotify.com/album/11ClOEWh75IghVOySc1dLJ) | 2:24 |
+| 32 | [Lily's Arrival](https://open.spotify.com/track/0KdOX4bbKodh8fWhbUgRLe) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Lily's Arrival](https://open.spotify.com/album/2lmh2HkpKRGJBjVLNf7D8Z) | 2:58 |
 | 33 | [The View & Sunday Mornings](https://open.spotify.com/track/4d7JV9GmoojG8Rz9qDMrxy) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XX](https://open.spotify.com/album/6xIXhRLZjOFKZjFknsfVtP) | 2:21 |
 | 34 | [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 |
 | 35 | [Peaceful Rains](https://open.spotify.com/track/1Ob1iujiq63tbCOqLpmQhI) | [Piano Radiance](https://open.spotify.com/artist/69P4GKHbbgUhcNWn7Qaj1u) | [Music for Spa and Massage:Restful Rain and Piano](https://open.spotify.com/album/7Bd8L9jNUCE2kr7hqYguXd) | 3:36 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 37 | [Looking for the Self](https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs) | [Ascend](https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv) | 3:13 |
 | 38 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 |
 
-Snapshot ID: `MTY3NjMwNDI4MCwwMDAwMDAwMGQzN2E4NTg2N2JhNzM4NDU4OWYzZTQyZGE2NzFkMzE3`
+Snapshot ID: `MTY3NjMwNDI4MCwwMDAwMDAwMDk3ZWUxOThlMzRkNjRhZmE2OWY5NTZmYjlmYzQ0NjBi`

@@ -262,7 +262,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 298782,
       "name": "Are We Dreaming?",
       "url": "https://open.spotify.com/track/29TvVllfoDqdCOqMlze3Yz"
@@ -5638,6 +5638,28 @@
       "duration_ms": 302680,
       "name": "Somewhere Far Away From Here",
       "url": "https://open.spotify.com/track/1mZsABAFAStMVUKW8AyRX5"
+    },
+    {
+      "album": {
+        "name": "REBIRTH",
+        "url": "https://open.spotify.com/album/1OxASE4sDzjiYJBEqNnaaC"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Lolaby",
+          "url": "https://open.spotify.com/artist/2bJ1Od9O4eVt9Uv0BOBJIm"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302680,
+      "name": "Somewhere Far Away From Here (feat. Lolaby)",
+      "url": "https://open.spotify.com/track/7FiicGWciexdcPZVOwjv26"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Polo G, Latto and more\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,830 likes - 51 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,911 likes - 51 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 31 | [Till We Drop](https://open.spotify.com/track/3nD6o21RsGGvA2MTNaT54o) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Till We Drop](https://open.spotify.com/album/2BeAZCYBLLDiwhciEsAgeW) | 2:29 |
 | 32 | [Shot Callin'](https://open.spotify.com/track/24kYfgIAUqAmlDHys3vjAL) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Shot Callin'](https://open.spotify.com/album/7umP1ckNfIPlue5mOeAT0T) | 2:49 |
 | 33 | [Missiles \(feat\. Rich The Kid\)](https://open.spotify.com/track/3sL4yIVyLxti0g4Q4KjOHd) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Jugg Season](https://open.spotify.com/album/6Gjkd7ElWHDNmiDMi5T1Pw) | 2:01 |
-| 34 | [Ball N Chill](https://open.spotify.com/track/4bkGptTkmvTw7bmZqp1osN) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Ball N Chill](https://open.spotify.com/album/1jdq8pYwkAcpdU8pu1dNz2) | 3:22 |
+| 34 | [Ball N Chill](https://open.spotify.com/track/4bkGptTkmvTw7bmZqp1osN) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Ball N Chill](https://open.spotify.com/album/1jdq8pYwkAcpdU8pu1dNz2) | 3:23 |
 | 35 | [What You Doin](https://open.spotify.com/track/3FlvdsRxDZz7kAEsgcspt5) | [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [What You Doin](https://open.spotify.com/album/18wSzWUr8yOOvitSLVfW33) | 2:45 |
 | 36 | [Mozart](https://open.spotify.com/track/0seH2vqSpBl0pVG5wMKCK8) | [Cae Cartier](https://open.spotify.com/artist/1ynSbjcRtqlVYJwYwnE3KD) | [Mozart](https://open.spotify.com/album/0CGELKukZuFlEqnpdPS8Ke) | 2:17 |
 | 37 | [Forgot How To Cry](https://open.spotify.com/track/7eebNlfH4nRdgJQh8e3yMU) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Forgot How To Cry](https://open.spotify.com/album/7ik9Eg1awH6A2Hfh0kpYTX) | 2:59 |

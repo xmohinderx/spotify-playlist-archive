@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle \- avec blesse, Sophia Bel, Corridor et bien plus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 594 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 23 | [Comfort, Edge](https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:43 |
 | 24 | [Wave](https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [Wave](https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE) | 3:59 |
 | 25 | [Entre mes jambes](https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 2:29 |
-| 26 | [DIMANCHE SOIR](https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN) | 3:09 |
-| 27 | [Alice](https://open.spotify.com/track/6ybS1WcfNXf1hmx8bE3lgi) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Portraits de famine](https://open.spotify.com/album/6INsKgWoaYYDHCbHOR4BZz) | 2:58 |
+| 26 | [Alice](https://open.spotify.com/track/6ybS1WcfNXf1hmx8bE3lgi) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Portraits de famine](https://open.spotify.com/album/6INsKgWoaYYDHCbHOR4BZz) | 2:58 |
+| 27 | [DIMANCHE SOIR](https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN) | 3:09 |
 | 28 | [La photo](https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Quand la nuit tombe](https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo) | 4:39 |
 | 29 | [‎mile ‎end](https://open.spotify.com/track/1KxxA8990AfM6Fy6OdY9VU) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mile ‎end](https://open.spotify.com/album/1BzvJjxfU31LFay7pcJJsL) | 3:12 |
 | 30 | [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 |
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 42 | [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 |
 | 43 | [Depuis](https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va) | 4:53 |
 | 44 | [Coin coin](https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Coin coin](https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA) | 3:26 |
-| 45 | [Nimueshtaten nete](https://open.spotify.com/track/3KtPaEk8dzOJ9GpQZzkvza) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Nimueshtaten nete](https://open.spotify.com/album/5SEtpOliFRWSyPucn4A2PO) | 4:00 |
-| 46 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
-| 47 | [Chalet](https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE) | [Comment Debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:42 |
+| 45 | [Chalet](https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE) | [Comment Debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:42 |
+| 46 | [Nimueshtaten nete](https://open.spotify.com/track/3KtPaEk8dzOJ9GpQZzkvza) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Nimueshtaten nete](https://open.spotify.com/album/5SEtpOliFRWSyPucn4A2PO) | 4:00 |
+| 47 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
 | 48 | [Piscine hors terre](https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Piscine hors terre](https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d) | 3:31 |
 | 49 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 |
 | 50 | [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 |
-| 51 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 |
-| 52 | [Philédouche](https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH) | 4:40 |
+| 51 | [Philédouche](https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH) | 4:40 |
+| 52 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 |
 | 53 | [Shoegaze](https://open.spotify.com/track/6t5COdf65qd8igj588vkET) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:22 |
 | 54 | [La hiérarchill](https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La hiérarchill](https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO) | 4:46 |
 | 55 | [Tarantula](https://open.spotify.com/track/5Q69nHzNXnU4jpmwUsB4DK) | [Gus Englehorn](https://open.spotify.com/artist/5DL9yEXrWKddfCe8SxM08Z) | [Dungeon Master](https://open.spotify.com/album/2WA0YbN1rdESR8aRLcl5hM) | 3:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 74 | [I Forget What I Remembered](https://open.spotify.com/track/2wQqhsoOk1KdJl2UUfYIP7) | [Thus Owls](https://open.spotify.com/artist/49i2hfrmEL0nNp8WZvXyT9) | [Who Would Hold You If The Sky Betrayed Us?](https://open.spotify.com/album/0MudGJonYWCr5S8NfwDKIl) | 6:52 |
 | 75 | [Maladresses](https://open.spotify.com/track/3HLN74FVPGyvoep9o0HN4h) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [PISSENLIT](https://open.spotify.com/album/3MxL97tOzerdtCi366hhZe) | 1:59 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDczNDA0Yjk4NWZiMWMyMTEwM2EzMjliODAzNWJiNjFh`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGM5OTk3NDU2ZGQxOTQ2ZDFlOTQ5ZmQyOTIyODA1Y2Uz`

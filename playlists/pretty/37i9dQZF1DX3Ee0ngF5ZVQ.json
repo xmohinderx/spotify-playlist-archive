@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Parker McCollum",
-  "num_followers": 399527,
+  "num_followers": 399553,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDI2ZGU3OGNjNGI0MzE5YjU1MTliOWU2YWEwMWI3ODRj",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGJlZGMyMzUxMjM1MTg1MzM4OTllOGFkMjNmYWQyYTFj",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -751,18 +751,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Chisholm Trail",
-        "url": "https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B"
+        "name": "That Drink (feat. Neal McCoy)",
+        "url": "https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F"
       },
       "artists": [
         {
-          "name": "Dalton Torres",
-          "url": "https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL"
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        },
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
         }
       ],
-      "duration_ms": 187370,
-      "name": "Chisholm Trail",
-      "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
+      "duration_ms": 172314,
+      "name": "That Drink (feat. Neal McCoy)",
+      "url": "https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -783,22 +787,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "That Drink (feat. Neal McCoy)",
-        "url": "https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F"
+        "name": "Chisholm Trail",
+        "url": "https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B"
       },
       "artists": [
         {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
-        },
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+          "name": "Dalton Torres",
+          "url": "https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL"
         }
       ],
-      "duration_ms": 172314,
-      "name": "That Drink (feat. Neal McCoy)",
-      "url": "https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X"
+      "duration_ms": 187370,
+      "name": "Chisholm Trail",
+      "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Hood of That Car",
-        "url": "https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ"
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
         }
       ],
-      "duration_ms": 198933,
-      "name": "Hood of That Car",
-      "url": "https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2"
+      "duration_ms": 191777,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Happy Hour",
-        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
+        "name": "Hood of That Car",
+        "url": "https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ"
       },
       "artists": [
         {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
         }
       ],
-      "duration_ms": 191777,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
+      "duration_ms": 198933,
+      "name": "Hood of That Car",
+      "url": "https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "You Ain't No Cowboy",
-        "url": "https://open.spotify.com/album/6hNyzOd9PDGjkzooGPJRXd"
-      },
-      "artists": [
-        {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "You Ain't No Cowboy",
-      "url": "https://open.spotify.com/track/6JVlshaVI7xO3C9o57eMOj"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Baker Hotel",
         "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 276280,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "You Ain't No Cowboy",
+        "url": "https://open.spotify.com/album/6hNyzOd9PDGjkzooGPJRXd"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "You Ain't No Cowboy",
+      "url": "https://open.spotify.com/track/6JVlshaVI7xO3C9o57eMOj"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Keep Up With A Cowgirl",
-        "url": "https://open.spotify.com/album/3QOCMsxkLsBT1xtqTq4pvg"
-      },
-      "artists": [
-        {
-          "name": "David Adam Byrnes",
-          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
-        }
-      ],
-      "duration_ms": 213759,
-      "name": "Keep up with a Cowgirl",
-      "url": "https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Settle for a Beer (with Triston Marez)",
         "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
@@ -1639,6 +1623,38 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Keep Up With A Cowgirl",
+        "url": "https://open.spotify.com/album/3QOCMsxkLsBT1xtqTq4pvg"
+      },
+      "artists": [
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+        }
+      ],
+      "duration_ms": 213759,
+      "name": "Keep up with a Cowgirl",
+      "url": "https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "That Ain't No Way To Go",
+        "url": "https://open.spotify.com/album/6SxfUyEpdAOhSo26GJaPm6"
+      },
+      "artists": [
+        {
+          "name": "Joe Peters",
+          "url": "https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn"
+        }
+      ],
+      "duration_ms": 213803,
+      "name": "That Ain't No Way To Go",
+      "url": "https://open.spotify.com/track/5zq8Y9sg8XEgWD6pyBt7VX"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Sleep, My Mind & You",
         "url": "https://open.spotify.com/album/1SrKXUODqMJXw0GxlKQKrV"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 236672,
       "name": "Sleep, My Mind & You",
       "url": "https://open.spotify.com/track/4Nhb792SN9kzi0DXBXvYyH"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Varsity Type",
-        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 202383,
-      "name": "Varsity Type",
-      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
     }
   ],
   "unique_name": "Texas Country Now",

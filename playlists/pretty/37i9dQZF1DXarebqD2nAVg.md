@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,717 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,727 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 47 | [But of All We Did Together, Was It Worth It?](https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Prelude to the Dawn](https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS) | 2:34 |
 | 48 | [same stars](https://open.spotify.com/track/0XFp0z42T0x3s3qxidqvTE) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js) | [if you're reading this ily](https://open.spotify.com/album/5WZFEyUjIgJL8iV04b9pwp) | 1:56 |
 | 49 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
-| 50 | [Love Myself](https://open.spotify.com/track/6untVwGzuAI3zH6YzrISRX) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Pins & Needles](https://open.spotify.com/album/0WV8HZAXe40X8lqsccHOgF) | 1:32 |
+| 50 | [Wretched](https://open.spotify.com/track/1rPy4B02RJf6NILtwBJpsu) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Good Grief](https://open.spotify.com/album/0y8tstF4swTvZdDWYdsknY) | 2:10 |
 
-Snapshot ID: `MTY3NjU4NzgwNywwMDAwMDAwMDU1YTE5YmQ1YTQ4M2NmMGU4NjIyOGI4N2E0Y2I5ZTE4`
+Snapshot ID: `MTY3NjU4NzgwNywwMDAwMDAwMGMxMDE5NWQzZjg4ZDE5MjE5YTg2YzJkNjRkMjgzMzU3`

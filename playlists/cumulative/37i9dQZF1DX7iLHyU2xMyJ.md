@@ -4,7 +4,7 @@
 
 > From Annakili to Psycho \- all the Essential tracks of Isaignani!<br/>Cover : Ilaiyaraaja
 
-478 songs - 1 day 13 hr 38 min
+479 songs - 1 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Perai Sollavaa](https://open.spotify.com/track/5FC9EcUez8OhHCHJE83XwS) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Perai Sollavaa](https://open.spotify.com/album/5TZbPTxWNEZ1BHfGk9rSKa) | 4:47 | 2021-11-01 |  |
 | [Pesa Koodathu](https://open.spotify.com/track/1lNoucQKZACkw0mUP4q8xy) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK) | [Adutha Varisu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7oLFYU0i6358DjLq24ktQk) | 4:34 | 2021-11-01 |  |
 | [Petha Manasu](https://open.spotify.com/track/1oSzUZSwmtOIcPT6EV6c5V) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um) | [Enne Petha Raasa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Zvajax3ZR7kfCfr8Nd51A) | 4:35 | 2022-03-29 | 2022-07-29 |
-| [Pethu Eduthavathaan](https://open.spotify.com/track/4Tc3DoHdNff42KChudXQur) | [Malaysia Vasudevan](https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW) | [Velaikkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Vd8CPiFgOJKYWG3mk5427) | 4:33 | 2021-11-01 |  |
+| [Pethu Eduthavathaan](https://open.spotify.com/track/4Tc3DoHdNff42KChudXQur) | [Malaysia Vasudevan](https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW) | [Velaikkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Vd8CPiFgOJKYWG3mk5427) | 4:33 | 2021-11-01 | 2023-02-20 |
 | [Pillai Nila \- Female Version](https://open.spotify.com/track/6CyZz5BQkuoj0viE6D5kZD) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Neengal Kettavai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2fpPkoXYvmAh1ix4wBfH85) | 4:20 | 2022-03-29 | 2022-07-29 |
 | [Podinadaya Poravare](https://open.spotify.com/track/1NF8sgZ9NTJPxLAod2juVK) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Kadalora Kavithaigal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21DPupSEHSEZEUafESDxpd) | 4:30 | 2021-11-01 | 2022-07-28 |
 | [Ponmane Kovam Yeno](https://open.spotify.com/track/74sA7vb8kLF8gtOBrrMARU) | [Vijay](https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM), [Uma Ramanan](https://open.spotify.com/artist/6GpH0yFzkhoxcoNrX6kw48) | [Oru Kaidhiyin Diary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Oqa5oCydCuqj1SipXqfpK) | 4:33 | 2022-03-31 |  |
@@ -474,6 +474,7 @@
 | [Vizhiyile Malarntha Thi](https://open.spotify.com/track/0cI1oiqTV3BohbzCucot6j) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Bhuvana Oru Kelvi Kuri](https://open.spotify.com/album/1XnC1eUhkVQsEhSTXBo1QR) | 4:23 | 2021-11-01 | 2022-07-26 |
 | [Vizhiyile Mani](https://open.spotify.com/track/7oSLtloJtsZXa7KIuXqwnA) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Nooravathu Naal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ph9rpAbOpkBBjjgSH0ALX) | 4:00 | 2022-03-29 | 2022-07-29 |
 | [Viziyil Vizhundu](https://open.spotify.com/track/1dckrQHKxqwZRo4gMlH3j0) | [Sasi Rekha](https://open.spotify.com/artist/2bwd4sVqESbvrVsTcQDkYI), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Alaigal Oyvatillai](https://open.spotify.com/album/2cpLv2lXTNVrJBJDvQKNn8) | 4:01 | 2021-11-01 |  |
+| [Yae Paadal Ondru](https://open.spotify.com/track/0umMHBJPsepRtl1wZfAo9L) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu), [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Priya \- Nenjil Oru Raagam \- Annapparavai](https://open.spotify.com/album/6ZWFL8c9CiPh9pLzDSCRyS) | 4:38 | 2021-11-01 |  |
 | [Yae Paadal Ondru](https://open.spotify.com/track/2CudKaOIxKaIo9lue2SueL) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu), [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Priya](https://open.spotify.com/album/0IfvZtfxQO2RRunOOoFFIb) | 4:38 | 2021-11-01 | 2022-07-28 |
 | [Yae Paadal Ondru](https://open.spotify.com/track/7ytqifSuT0Zzm92PicuoYv) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu), [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Ilaiyaraaja \- The Passion Of The Early Years](https://open.spotify.com/album/10II6Hon1OHByucBwadOVX) | 4:41 | 2021-11-01 | 2022-11-27 |
 | [Yedhedho Ennam Valarthen](https://open.spotify.com/track/0vi6Hw0TXPFuytrjd1HL7X) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Punnagai Mannan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5K7oR20uqdI0UTffVwXsR6) | 4:24 | 2021-11-01 |  |

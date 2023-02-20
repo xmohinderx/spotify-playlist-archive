@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 202950,
+  "num_followers": 203009,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMDA5NDUxODgzN2Q4ZDI1NTE5MDBlNDFkYWJlMDQwY2Ux",
+  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMDBiZmYyYTYzYzk2MjUzMWE1ZmYwM2E1NTcwNmM5Y2Ji",
   "tracks": [
     {
       "added_at": "2022-10-25 23:01:25",
@@ -107,22 +107,18 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Ateo",
-        "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
+        "name": "Asondeguerra",
+        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
       },
       "artists": [
         {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 239925,
-      "name": "Ateo",
-      "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
+      "duration_ms": 191106,
+      "name": "Bachata En Fukuoka",
+      "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -147,18 +143,22 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Asondeguerra",
-        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
+        "name": "Ateo",
+        "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
-      "duration_ms": 191106,
-      "name": "Bachata En Fukuoka",
-      "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
+      "duration_ms": 239925,
+      "name": "Ateo",
+      "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "A la Mar",
-        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "Te So\u00f1\u00e9 - Bonus Track",
-      "url": "https://open.spotify.com/track/4lfwM9i07jPYy2iHyBmHTP"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
         "name": "Todo Tiene Su Hora",
         "url": "https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 197400,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/2QyJTZeqxmVfbesnoN3r7k"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
+        "name": "A la Mar",
+        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "Te So\u00f1\u00e9 - Bonus Track",
+      "url": "https://open.spotify.com/track/4lfwM9i07jPYy2iHyBmHTP"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/6st9SD6DENdeLSBiqMxWOO"
-      },
-      "artists": [
-        {
-          "name": "LASTMONDAY",
-          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
-        }
-      ],
-      "duration_ms": 164296,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/2PixLCKBzTx4AkhAK30ckW"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
         "name": "A la Mar",
         "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 239426,
       "name": "Bachata En Kingston",
       "url": "https://open.spotify.com/track/3EjW1KrOJZr39xiBiI7tMg"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/6st9SD6DENdeLSBiqMxWOO"
+      },
+      "artists": [
+        {
+          "name": "LASTMONDAY",
+          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
+        }
+      ],
+      "duration_ms": 164296,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/2PixLCKBzTx4AkhAK30ckW"
     },
     {
       "added_at": "2022-10-25 23:01:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,383 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,416 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 45 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
 | 46 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
 | 47 | [Katrina](https://open.spotify.com/track/5YDwsOw12TSkpjNT57YvgG) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Latência](https://open.spotify.com/album/4V3IpiTNQowJOxQv4oTzH3) | 3:49 |
-| 48 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
+| 48 | [Só Nós Os Dois](https://open.spotify.com/track/35XIgRzlwtMsfF8wVAKG8i) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Só Nós Os Dois](https://open.spotify.com/album/0PBeGaks9i9J7Ho4uqQx8W) | 3:18 |
 | 49 | [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 |
-| 50 | [Só Nós Os Dois](https://open.spotify.com/track/35XIgRzlwtMsfF8wVAKG8i) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Só Nós Os Dois](https://open.spotify.com/album/0PBeGaks9i9J7Ho4uqQx8W) | 3:18 |
+| 50 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
 | 51 | [Aquece](https://open.spotify.com/track/5h63JxV3NF4zmK8SE5ihuc) | [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Aquece](https://open.spotify.com/album/5QBjnecox9dbzdyN28FMG6) | 3:43 |
 | 52 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
 | 53 | [Contigo](https://open.spotify.com/track/6T0xKuYzSIz1AbfcCqcJNu) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Contigo](https://open.spotify.com/album/0nDhqtYEUXpkKWfqgXMXY4) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 59 | [Mais Uma Vez](https://open.spotify.com/track/6G1qfNxVKAjxaVInNwj2aK) | [B.E.R.A](https://open.spotify.com/artist/69N3zTGQ7lPJURlJCklOSk) | [Mais Uma Vez](https://open.spotify.com/album/2Cy2WpJjRQ4ZMxqEcK4srx) | 3:57 |
 | 60 | [brilhante](https://open.spotify.com/track/46YB25J4LcAJ3WnGhGqGLd) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i), [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL) | [brilhante](https://open.spotify.com/album/40CKlrqbamQhrynPYJXjqz) | 2:55 |
 
-Snapshot ID: `MTY3NjU5MjAwMCwwMDAwMDAwMDkwNTc2MTIwOGQxY2JmOTdiOTQyZTk3MzI3ZjJhNmFj`
+Snapshot ID: `MTY3NjU5MjAwMCwwMDAwMDAwMGU3NTJmZjUyMzg1ZjI4NmIxZjU0ZDcwMmM4MzJhNDhh`

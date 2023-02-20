@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Luis Alfonso Partida El Yaki",
-  "num_followers": 48526,
+  "num_followers": 48548,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0MTIyMywwMDAwMDAwMGI1MmY0NThlMmM4Zjk3NTQ1OWRlMmM5NDBlNDJiNGQ2",
+  "snapshot_id": "MTY3NDg0MTIyMywwMDAwMDAwMDZmZTRlOTkyMjBjNWEzMzdiZGU3OTQ2NDUxZmRhYjJm",
   "tracks": [
     {
       "added_at": "2023-01-27 17:40:22",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "El Comando del Diablo (En Vivo)",
-        "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "El Comando del Diablo - En Vivo",
-      "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "En Vivo con Tololoche Vol. 1",
         "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 169877,
       "name": "Barba Negra (feat. Tito Torbellino Jr.)",
       "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "El Comando del Diablo (En Vivo)",
+        "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "El Comando del Diablo - En Vivo",
+      "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Puras de Servandozl",
-        "url": "https://open.spotify.com/album/2Y0BOVe7O4scEDCbgVFJjR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 172153,
-      "name": "El Bolas - En Vivo",
-      "url": "https://open.spotify.com/track/4lhldlzpzmMeKGNpqCywp3"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "F\u00e1cil Criticar (En Vivo)",
         "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
       },
@@ -1227,22 +1211,18 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "La Chapiza (En Vivo)",
-        "url": "https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6"
+        "name": "Puras de Servandozl",
+        "url": "https://open.spotify.com/album/2Y0BOVe7O4scEDCbgVFJjR"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Wil Caro",
-          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 125956,
-      "name": "La Chapiza - En Vivo",
-      "url": "https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg"
+      "duration_ms": 172153,
+      "name": "El Bolas - En Vivo",
+      "url": "https://open.spotify.com/track/4lhldlzpzmMeKGNpqCywp3"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1263,6 +1243,26 @@
       "duration_ms": 266624,
       "name": "Los Amigos del M - En Vivo",
       "url": "https://open.spotify.com/track/7hAG6OHFb2n9sEgqFWPMqG"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "La Chapiza (En Vivo)",
+        "url": "https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Wil Caro",
+          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
+        }
+      ],
+      "duration_ms": 125956,
+      "name": "La Chapiza - En Vivo",
+      "url": "https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
+        "name": "Los Diamantones (En Vivo)",
+        "url": "https://open.spotify.com/album/2xIuSm3lBJOWYA9CiCl6w3"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Ayon",
+          "url": "https://open.spotify.com/artist/0CfIdkJumeeRu6I61IIL8S"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 188660,
+      "name": "Los Diamantones (En Vivo)",
+      "url": "https://open.spotify.com/track/1Dcs4sIcWy5lne4ijVFvZS"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
         "name": "Desde Las Vegas",
         "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
       },
@@ -1539,22 +1559,18 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Los Diamantones (En Vivo)",
-        "url": "https://open.spotify.com/album/2xIuSm3lBJOWYA9CiCl6w3"
+        "name": "Pura Lumbre Con (En Vivo)",
+        "url": "https://open.spotify.com/album/24qFUtXKUfNEkofuUSNIZY"
       },
       "artists": [
         {
-          "name": "Jasiel Ayon",
-          "url": "https://open.spotify.com/artist/0CfIdkJumeeRu6I61IIL8S"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+          "name": "Los Viejones De Linares",
+          "url": "https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW"
         }
       ],
-      "duration_ms": 188660,
-      "name": "Los Diamantones (En Vivo)",
-      "url": "https://open.spotify.com/track/1Dcs4sIcWy5lne4ijVFvZS"
+      "duration_ms": 209972,
+      "name": "La Yaquesita - En Vivo",
+      "url": "https://open.spotify.com/track/0dc1DPMzXyPqbKWg6za1KS"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "A Mi Gusto Y A Mi Modo (En Vivo)",
-        "url": "https://open.spotify.com/album/4cThWfy0cFSqd3spQc7EVj"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        }
-      ],
-      "duration_ms": 194005,
-      "name": "Mi Vida Loca (En Vivo)",
-      "url": "https://open.spotify.com/track/7aK2daugUrfDh30K0VoRTN"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "Comando \u00danico con Compa Danny (En vivo)",
         "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
       },
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Pura Lumbre Con (En Vivo)",
-        "url": "https://open.spotify.com/album/24qFUtXKUfNEkofuUSNIZY"
+        "name": "A Mi Gusto Y A Mi Modo (En Vivo)",
+        "url": "https://open.spotify.com/album/4cThWfy0cFSqd3spQc7EVj"
       },
       "artists": [
         {
-          "name": "Los Viejones De Linares",
-          "url": "https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW"
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
         }
       ],
-      "duration_ms": 209972,
-      "name": "La Yaquesita - En Vivo",
-      "url": "https://open.spotify.com/track/0dc1DPMzXyPqbKWg6za1KS"
+      "duration_ms": 194005,
+      "name": "Mi Vida Loca (En Vivo)",
+      "url": "https://open.spotify.com/track/7aK2daugUrfDh30K0VoRTN"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1635,6 +1635,22 @@
       "duration_ms": 192738,
       "name": "La Celda De Un Loco - En vivo",
       "url": "https://open.spotify.com/track/3X1A33hXb3b5CBOVCZJRuW"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "Desde Las Vegas",
+        "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 153562,
+      "name": "Una Flor Quise Cortar",
+      "url": "https://open.spotify.com/track/6fbbV0S1tDc9msYsgZ23gA"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1671,22 +1687,6 @@
       "duration_ms": 139000,
       "name": "De Lo M\u00e1s Interesante - En Vivo",
       "url": "https://open.spotify.com/track/11bCxgcltxjDErax0lBmKi"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
-        "name": "Desde Las Vegas",
-        "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 153562,
-      "name": "Una Flor Quise Cortar",
-      "url": "https://open.spotify.com/track/6fbbV0S1tDc9msYsgZ23gA"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "L\u00e1rgate (En Vivo)",
-        "url": "https://open.spotify.com/album/5EFOvXqlA0BNEzXlLqhJNF"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "L\u00e1rgate - En Vivo",
-      "url": "https://open.spotify.com/track/3V4vwziUxmEPgVnzkRCEdg"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "50 Guerreros (En Vivo)",
         "url": "https://open.spotify.com/album/5bTlsmTczzSVsjulAnIep7"
       },
@@ -1787,22 +1767,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "En Vivo Desde Chicago",
-        "url": "https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 163877,
-      "name": "Margarita Margarita (En Vivo)",
-      "url": "https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "Recuerdos Para Pistear (En Vivo)",
         "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
       },
@@ -1815,6 +1779,42 @@
       "duration_ms": 187143,
       "name": "Edgar Guzman - En Vivo",
       "url": "https://open.spotify.com/track/2LTE0DNDhRZqb5TQYHSl8D"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "L\u00e1rgate (En Vivo)",
+        "url": "https://open.spotify.com/album/5EFOvXqlA0BNEzXlLqhJNF"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "L\u00e1rgate - En Vivo",
+      "url": "https://open.spotify.com/track/3V4vwziUxmEPgVnzkRCEdg"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "En Vivo Desde Chicago",
+        "url": "https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 163877,
+      "name": "Margarita Margarita (En Vivo)",
+      "url": "https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1847,26 +1847,6 @@
       "duration_ms": 205831,
       "name": "Tu Ingratitud - Live",
       "url": "https://open.spotify.com/track/5MocMycbmLFBJlZU38ruP6"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
-        "name": "YakiFest, Vol. 3 (En Vivo)",
-        "url": "https://open.spotify.com/album/5MJpYaF6Ya09cDXqjYX11z"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 186502,
-      "name": "Te Compro - En Vivo",
-      "url": "https://open.spotify.com/track/0iMKw1oCEQps2Gdl3gmRt4"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1907,26 +1887,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Cara de Bala (En Vivo)",
-        "url": "https://open.spotify.com/album/7MvjnbGjvMeMDOrG3lvARK"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        },
-        {
-          "name": "Zap Garcia",
-          "url": "https://open.spotify.com/artist/1H1ADeCEi7Lu2OVorvGshg"
-        }
-      ],
-      "duration_ms": 151382,
-      "name": "Cara de Bala (En Vivo)",
-      "url": "https://open.spotify.com/track/1Tm3LXsJK7V9BV9mhtCJYD"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "Desde el corral (En Vivo)",
         "url": "https://open.spotify.com/album/6qsXUi1aIwzBroAPMh1mgU"
       },
@@ -1943,22 +1903,42 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "La Perris (En Vivo)",
-        "url": "https://open.spotify.com/album/531dJejjsvqzjCvD1F8UNN"
+        "name": "YakiFest, Vol. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/5MJpYaF6Ya09cDXqjYX11z"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         },
         {
-          "name": "Banda Culiacancito",
-          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 165492,
-      "name": "La Perris - En Vivo",
-      "url": "https://open.spotify.com/track/1jMs2NauraVMSzNBdfbMwS"
+      "duration_ms": 186502,
+      "name": "Te Compro - En Vivo",
+      "url": "https://open.spotify.com/track/0iMKw1oCEQps2Gdl3gmRt4"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "Cara de Bala (En Vivo)",
+        "url": "https://open.spotify.com/album/7MvjnbGjvMeMDOrG3lvARK"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        },
+        {
+          "name": "Zap Garcia",
+          "url": "https://open.spotify.com/artist/1H1ADeCEi7Lu2OVorvGshg"
+        }
+      ],
+      "duration_ms": 151382,
+      "name": "Cara de Bala (En Vivo)",
+      "url": "https://open.spotify.com/track/1Tm3LXsJK7V9BV9mhtCJYD"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1987,6 +1967,26 @@
       "duration_ms": 197915,
       "name": "Moneda Sin Valor - En Vivo",
       "url": "https://open.spotify.com/track/1EnRBNHTSDsBFEjUl5JZfM"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "La Perris (En Vivo)",
+        "url": "https://open.spotify.com/album/531dJejjsvqzjCvD1F8UNN"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Banda Culiacancito",
+          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
+        }
+      ],
+      "duration_ms": 165492,
+      "name": "La Perris - En Vivo",
+      "url": "https://open.spotify.com/track/1jMs2NauraVMSzNBdfbMwS"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -2039,6 +2039,26 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
+        "name": "El Chino (En Vivo)",
+        "url": "https://open.spotify.com/album/1uiwoOX53KzAHr4vWgftKV"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Ilegales",
+          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
+        },
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "duration_ms": 228641,
+      "name": "El Chino (En Vivo)",
+      "url": "https://open.spotify.com/track/3o2wHCWIcPJ6BA6TiqcgVO"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
         "name": "\u00bfSer\u00e1 Prudente Jalar La Banda?",
         "url": "https://open.spotify.com/album/0KGUDXu3WiMAd4jkhg16G3"
       },
@@ -2075,26 +2095,6 @@
       "duration_ms": 138703,
       "name": "El Juan - Vivo",
       "url": "https://open.spotify.com/track/3vvMHwRReo6VdAYw7vNOhj"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
-        "name": "El Chino (En Vivo)",
-        "url": "https://open.spotify.com/album/1uiwoOX53KzAHr4vWgftKV"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos Ilegales",
-          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
-        },
-        {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        }
-      ],
-      "duration_ms": 228641,
-      "name": "El Chino (En Vivo)",
-      "url": "https://open.spotify.com/track/3o2wHCWIcPJ6BA6TiqcgVO"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -2507,26 +2507,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Flor Hermosa (En Vivo)",
-        "url": "https://open.spotify.com/album/4Js76hPZtqnf4iOXvUXq00"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Flor Hermosa - En Vivo",
-      "url": "https://open.spotify.com/track/5bzbCzlMs85sg8Y9a9kdv0"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "Aunque Est\u00e9s Lejos (Live Sessions from 16*83 Studios)",
         "url": "https://open.spotify.com/album/28lU2XaXtZwzZEgjw5FP6n"
       },
@@ -2559,18 +2539,22 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Volumen 2",
-        "url": "https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe"
+        "name": "Flor Hermosa (En Vivo)",
+        "url": "https://open.spotify.com/album/4Js76hPZtqnf4iOXvUXq00"
       },
       "artists": [
         {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 240648,
-      "name": "Hasta El D\u00eda De Hoy - En Vivo",
-      "url": "https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex"
+      "duration_ms": 172666,
+      "name": "Flor Hermosa - En Vivo",
+      "url": "https://open.spotify.com/track/5bzbCzlMs85sg8Y9a9kdv0"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -2587,6 +2571,22 @@
       "duration_ms": 196640,
       "name": "La Camioneta Gris - Live",
       "url": "https://open.spotify.com/track/7melVMedjk3K0AVUHx8w8n"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "Volumen 2",
+        "url": "https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 240648,
+      "name": "Hasta El D\u00eda De Hoy - En Vivo",
+      "url": "https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex"
     },
     {
       "added_at": "2023-01-27 17:40:22",

@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 136015,
+  "num_followers": 136392,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMGQ4NWJiZTIzMzVkMTdiOTdmMzRhZjAwZjdjN2U0NTUw",
+  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMGEwZGZlNTY4NTg5NTkyNjI0Mjg4NTZmZjQ2M2FkMTQ3",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 284000,
       "name": "Rivers and Roads",
       "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -259,22 +259,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/69BagWbfHgbO9uxjfVYcux"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 297459,
-      "name": "Black Sheep",
-      "url": "https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -287,22 +271,6 @@
       "duration_ms": 259120,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "Punching In A Dream",
-      "url": "https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -323,6 +291,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Punching In A Dream",
+      "url": "https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 211080,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/69BagWbfHgbO9uxjfVYcux"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 297459,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Sometimes The Blues Is Just A Passing Bird",
-        "url": "https://open.spotify.com/album/5lCQtNmeRx4cI4UDwdv6Rn"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "The Dreamer",
-      "url": "https://open.spotify.com/track/5FcLey1TteEHktzvMcTk7S"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 315585,
       "name": "Odessa",
       "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Sometimes The Blues Is Just A Passing Bird",
+        "url": "https://open.spotify.com/album/5lCQtNmeRx4cI4UDwdv6Rn"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "The Dreamer",
+      "url": "https://open.spotify.com/track/5FcLey1TteEHktzvMcTk7S"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "High Violet",
-        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 275933,
-      "name": "Bloodbuzz Ohio",
-      "url": "https://open.spotify.com/track/3lnF83kG6ePhTSWRoW62dO"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Contra",
         "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 138293,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/4wtxSmTTeg6CiuhwIVKv0b"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "High Violet",
+        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 275933,
+      "name": "Bloodbuzz Ohio",
+      "url": "https://open.spotify.com/track/3lnF83kG6ePhTSWRoW62dO"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Crazy for You",
-        "url": "https://open.spotify.com/album/38NEzyo2N5T68j7aFetd4x"
-      },
-      "artists": [
-        {
-          "name": "Best Coast",
-          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
-        }
-      ],
-      "duration_ms": 149813,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/37CA2be4dmNBDdf8tbZhv3"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Contra",
         "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 206733,
       "name": "Horchata",
       "url": "https://open.spotify.com/track/76BIj06DoRIuJLtchonDcd"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Crazy for You",
+        "url": "https://open.spotify.com/album/38NEzyo2N5T68j7aFetd4x"
+      },
+      "artists": [
+        {
+          "name": "Best Coast",
+          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
+        }
+      ],
+      "duration_ms": 149813,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/37CA2be4dmNBDdf8tbZhv3"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
+        "name": "Wounded Rhymes",
+        "url": "https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 286160,
-      "name": "Giving Up the Gun",
-      "url": "https://open.spotify.com/track/40cAeDaZAnPY9bUHf4jYXW"
+      "duration_ms": 202589,
+      "name": "Get Some",
+      "url": "https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1299,22 +1299,6 @@
       "duration_ms": 186000,
       "name": "She's Long Gone",
       "url": "https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Wounded Rhymes",
-        "url": "https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 202589,
-      "name": "Get Some",
-      "url": "https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Teen Dream",
-        "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
         }
       ],
-      "duration_ms": 234800,
-      "name": "Norway",
-      "url": "https://open.spotify.com/track/2WR4vnUdenSmOQHF2jyBTa"
+      "duration_ms": 286160,
+      "name": "Giving Up the Gun",
+      "url": "https://open.spotify.com/track/40cAeDaZAnPY9bUHf4jYXW"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
+        "name": "Teen Dream",
+        "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 178666,
-      "name": "White Sky",
-      "url": "https://open.spotify.com/track/1QdVwO5xqAI88pNn2qfNjU"
+      "duration_ms": 234800,
+      "name": "Norway",
+      "url": "https://open.spotify.com/track/2WR4vnUdenSmOQHF2jyBTa"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "White Sky",
+      "url": "https://open.spotify.com/track/1QdVwO5xqAI88pNn2qfNjU"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Infinite Arms",
         "url": "https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 275360,
       "name": "Factory",
       "url": "https://open.spotify.com/track/3wNti9PJJPrP9nF2ccsQvw"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "High Violet",
-        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 205213,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/30YMGz5pjtRaIjtQcpjn01"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "High Violet",
+        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 205213,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/30YMGz5pjtRaIjtQcpjn01"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Gorilla Manor",
         "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 237933,
       "name": "Airplanes",
       "url": "https://open.spotify.com/track/6qsArsTq6WoqtUFUe1e15W"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Fields (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X"
+      },
+      "artists": [
+        {
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+        }
+      ],
+      "duration_ms": 239293,
+      "name": "Don't Let It Pass",
+      "url": "https://open.spotify.com/track/1ghaBtBdpuZMg5nV9E2qRU"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1523,22 +1539,6 @@
       "duration_ms": 235440,
       "name": "Ambling Alp",
       "url": "https://open.spotify.com/track/4gmivt1Q8UbnQZMVHLH43v"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Fields (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X"
-      },
-      "artists": [
-        {
-          "name": "Junip",
-          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
-        }
-      ],
-      "duration_ms": 239293,
-      "name": "Don't Let It Pass",
-      "url": "https://open.spotify.com/track/1ghaBtBdpuZMg5nV9E2qRU"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "High Violet",
-        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 340186,
-      "name": "England",
-      "url": "https://open.spotify.com/track/3KpJsilpYiHAVEMoCKYjFv"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Dye It Blonde",
         "url": "https://open.spotify.com/album/5pez3ZFdESESBL9M5KElgt"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 202026,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/7DQDpDeLVS3L9kgb6ejU3z"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "High Violet",
+        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 340186,
+      "name": "England",
+      "url": "https://open.spotify.com/track/3KpJsilpYiHAVEMoCKYjFv"
     },
     {
       "added_at": "2021-10-05 08:40:49",

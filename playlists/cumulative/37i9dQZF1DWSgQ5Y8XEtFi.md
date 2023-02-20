@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-207 songs - 9 hr 14 min
+208 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Falling Off \(feat\. Rico Nasty\)](https://open.spotify.com/track/5UVmvehbEDP74A8i6VP381) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Falling Off](https://open.spotify.com/album/4lQ9BZexDCtaBrDhBKh6Og) | 4:24 | 2022-04-20 | 2022-04-22 |
 | [FEAST](https://open.spotify.com/track/3smTeRQ3qxUvC8Gf4ckUEs) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [notsick](https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq) | [FEAST](https://open.spotify.com/album/2SNp7R18YlGO9Mo7HLJFYv) | 2:03 | 2022-03-29 | 2022-07-28 |
 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 | 2022-06-17 | 2022-06-20 |
+| [Feel Good](https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Feel Good](https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp) | 2:04 | 2023-02-20 |  |
 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 | 2022-12-21 |  |
 | [Flash Bang](https://open.spotify.com/track/4svrshpdIytbEI2RSt0ctO) | [Fukkit](https://open.spotify.com/artist/2lumbRIs61wTw0biiIAUDI), [Dutchman](https://open.spotify.com/artist/1V2i4vrqsRUzHrv9DTizDF) | [Scratch Paper](https://open.spotify.com/album/6XDskCwojXEJFRjqEoCFuv) | 2:25 | 2022-04-20 | 2023-01-24 |
 | [For Real](https://open.spotify.com/track/3tcoEYOZUHKB3RKNByIN13) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 2:57 | 2022-03-29 | 2022-04-21 |
@@ -167,7 +168,7 @@
 | [Sanjuro](https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:07 | 2022-04-19 |  |
 | [Savior](https://open.spotify.com/track/0YeUVm23SAkUruwEx9LWnt) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:44 | 2022-05-16 | 2022-05-20 |
 | [See Me Fall \- Y2K Remix](https://open.spotify.com/track/5MLreTrtwv7fGyyAy0RyeB) | [Ro Ransom](https://open.spotify.com/artist/5tLx2xpkiHdzvX9CIymCfR), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [Momentum \(Mixtape\)](https://open.spotify.com/album/20ZH0IHnyBagQUmOGcAHmp) | 3:21 | 2022-07-25 |  |
-| [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 | 2023-02-02 |  |
+| [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 | 2023-02-02 | 2023-02-20 |
 | [Shabba \(feat\. A$AP Rocky\)](https://open.spotify.com/track/7eaKWfov7b2Qa2n6HTesL3) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:35 | 2022-08-29 | 2022-11-08 |
 | [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 | 2022-12-02 |  |
 | [Shlut](https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:12 | 2023-02-18 |  |

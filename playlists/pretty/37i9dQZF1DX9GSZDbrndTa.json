@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 77334,
+  "num_followers": 77380,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGRjMjY0YTFiNTg4MWU2ODg1MmJjNmQ5NmJlZWU5ODU2",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDdiMzFlNThkZjUxNTIyNjI1MGZkODFkMDViNjI1MDU5",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -727,18 +727,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Complete Miles Davis Featuring John Coltrane",
-        "url": "https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
         }
       ],
-      "duration_ms": 583266,
-      "name": "Freddie Freeloader",
-      "url": "https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU"
+      "duration_ms": 384706,
+      "name": "Turnaround",
+      "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -775,18 +775,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
+        "name": "The Complete Miles Davis Featuring John Coltrane",
+        "url": "https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur"
       },
       "artists": [
         {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 384706,
-      "name": "Turnaround",
-      "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
+      "duration_ms": 583266,
+      "name": "Freddie Freeloader",
+      "url": "https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU"
     },
     {
       "added_at": "2020-10-12 18:15:54",

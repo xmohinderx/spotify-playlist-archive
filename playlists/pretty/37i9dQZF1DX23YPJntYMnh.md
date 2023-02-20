@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,538 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,585 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 57 | [Politicalamity](https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [III Sides To Every Story](https://open.spotify.com/album/2TV8JqednqRKb2injBMYGd) | 5:04 |
 | 58 | [Clap For The Killers](https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 3:55 |
 | 59 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 |
-| 60 | [Rain Will Fall](https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Dig](https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy) | 5:19 |
+| 60 | [Justice 2020](https://open.spotify.com/track/20Cq38WdpKCscYtTPTZy0J) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Chali 2na](https://open.spotify.com/artist/1ZJlXFkFDBsjSuYyjVcMkk), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 4:53 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDk2NzUyOGFmMzFiNzU3ZWM5YzU5Mjc0NGZiNWJmOGI4`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMGIyNmNlZjIwZjRhNDA5NmVkYmEzMDhlYjFhZWFiMThj`

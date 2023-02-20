@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 194009,
+  "num_followers": 194031,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzY0NjQxNiwwMDAwMDAwMDRmZDcxZTNiMmY5ZmNhZjc5NGU2ZjJjNjM0N2FhMDUw",
+  "snapshot_id": "MTY3MzY0NjQxNiwwMDAwMDAwMDNlNDgxODZiNjU0OGJjYzg3NDBhMGJjM2EyZmUwOWQw",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 296666,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "The Same Jesus (Reyer Remix)",
         "url": "https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 181661,
       "name": "The Same Jesus - Reyer Remix",
       "url": "https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 296666,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -967,38 +967,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB"
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
       },
       "artists": [
         {
-          "name": "Vanessa Campagna",
-          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
         }
       ],
-      "duration_ms": 200357,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Jireh (Reyer Remix)",
-        "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
-      },
-      "artists": [
-        {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
-        },
-        {
-          "name": "Esther Lisette",
-          "url": "https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Jireh - Reyer Remix",
-      "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
+      "duration_ms": 178587,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1023,18 +1003,38 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
+        "name": "Jireh (Reyer Remix)",
+        "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
       },
       "artists": [
         {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+        },
+        {
+          "name": "Esther Lisette",
+          "url": "https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH"
         }
       ],
-      "duration_ms": 178587,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
+      "duration_ms": 184012,
+      "name": "Jireh - Reyer Remix",
+      "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Campagna",
+          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+        }
+      ],
+      "duration_ms": 200357,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "FOUGHT 4 LOVE",
+        "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
+      },
+      "artists": [
+        {
+          "name": "Vision of Leo",
+          "url": "https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "FOUGHT 4 LOVE",
+      "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Searching For",
         "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
       },
@@ -1119,42 +1139,6 @@
       "duration_ms": 255118,
       "name": "Searching For",
       "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/0wiIzRzhsidJL1k4dWFS7w"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 202083,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/0sUPsWMFICkSCbWL2WCzxi"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "ECHO",
-        "url": "https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT"
-      },
-      "artists": [
-        {
-          "name": "Damaris Guerra",
-          "url": "https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj"
-        },
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "ECHO",
-      "url": "https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1183,22 +1167,38 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "FOUGHT 4 LOVE",
-        "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
+        "name": "ECHO",
+        "url": "https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT"
       },
       "artists": [
         {
-          "name": "Vision of Leo",
-          "url": "https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e"
+          "name": "Damaris Guerra",
+          "url": "https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj"
         },
         {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
         }
       ],
-      "duration_ms": 150000,
-      "name": "FOUGHT 4 LOVE",
-      "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
+      "duration_ms": 195882,
+      "name": "ECHO",
+      "url": "https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/0wiIzRzhsidJL1k4dWFS7w"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 202083,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/0sUPsWMFICkSCbWL2WCzxi"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
-      },
-      "artists": [
-        {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
-        }
-      ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "HEY GOD",
         "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 174216,
       "name": "HEY GOD",
       "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
+      },
+      "artists": [
+        {
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+        }
+      ],
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 196987,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/360Y9HLXTa23Qt3ODpLSid"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 198600,
       "name": "Echo",
       "url": "https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 196987,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
     }
   ],
   "unique_name": "Pop for Life",

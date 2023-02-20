@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 18049,
+  "num_followers": 18072,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMGY3NjViYjIwMWQ2ZTRjN2FlNWNjMGYxYzAxMmJkNDk2",
+  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMDg5OWE1YzI1YzJlYWY3MzVlMTg1ZmQ3YzMwMjRhNDk2",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -267,6 +267,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss, R.: Till Eulenspiegel / Don Juan / Tod Und Verklarung / Intermezzo: Traumerei Am Kamin",
+        "url": "https://open.spotify.com/album/4dLOrutCy7MKCjheFSpQFJ"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Strasbourg Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/03Ao2MZkiUx1a8ARZDz5ZX"
+        },
+        {
+          "name": "Marc Albrecht",
+          "url": "https://open.spotify.com/artist/0IIxwqFzJDIOqRQe0q9Dl9"
+        }
+      ],
+      "duration_ms": 442720,
+      "name": "Intermezzo, Op. 72, TrV 246a: Traumerei am Kamin (Dreaming by the Fireside)",
+      "url": "https://open.spotify.com/track/4AiYhSzQDhfVKK5uLdvX8d"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Through Life & Love",
         "url": "https://open.spotify.com/album/3njOqW0wggzLTL5EQxMwPk"
       },
@@ -291,8 +315,8 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Till Eulenspiegel / Don Juan / Tod Und Verklarung / Intermezzo: Traumerei Am Kamin",
-        "url": "https://open.spotify.com/album/4dLOrutCy7MKCjheFSpQFJ"
+        "name": "Strauss, R.: Der Rosenkavalier",
+        "url": "https://open.spotify.com/album/3OEr8l0Btve8mdFvjZoj6P"
       },
       "artists": [
         {
@@ -300,17 +324,17 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Strasbourg Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/03Ao2MZkiUx1a8ARZDz5ZX"
+          "name": "Munich Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
         },
         {
-          "name": "Marc Albrecht",
-          "url": "https://open.spotify.com/artist/0IIxwqFzJDIOqRQe0q9Dl9"
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
         }
       ],
-      "duration_ms": 442720,
-      "name": "Intermezzo, Op. 72, TrV 246a: Traumerei am Kamin (Dreaming by the Fireside)",
-      "url": "https://open.spotify.com/track/4AiYhSzQDhfVKK5uLdvX8d"
+      "duration_ms": 180320,
+      "name": "Der Rosenkavalier, Op. 59 / Act 1: Introduction",
+      "url": "https://open.spotify.com/track/0l0weeIrC9ueCHJPi3XLlh"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -339,30 +363,6 @@
       "duration_ms": 276080,
       "name": "4 Lieder, Op. 27, TrV 170: No. 1, Ruhe, meine Seele!",
       "url": "https://open.spotify.com/track/5ep4jiZhv2eoFfFHtSU1df"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R.: Der Rosenkavalier",
-        "url": "https://open.spotify.com/album/3OEr8l0Btve8mdFvjZoj6P"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Munich Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Der Rosenkavalier, Op. 59 / Act 1: Introduction",
-      "url": "https://open.spotify.com/track/0l0weeIrC9ueCHJPi3XLlh"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -595,30 +595,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Capriccio - Works for Violin and Piano [Digital version]",
-        "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Strauss, R / Arr. Prihoda for Violin and Piano: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle",
-      "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Martha Argerich - The Complete Sony Recordings",
         "url": "https://open.spotify.com/album/6xmYN9VsCf8MOkiunglpkP"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 1121000,
       "name": "Burleske for Piano & Orchestra in D Minor, TrV 145",
       "url": "https://open.spotify.com/track/5ZH4Itze8rxhBRpJp0jMkw"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Capriccio - Works for Violin and Piano [Digital version]",
+        "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Strauss, R / Arr. Prihoda for Violin and Piano: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle",
+      "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -779,30 +779,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "R. Strauss: Symphonische Dichtungen",
-        "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Tonk\u00fcnstler-Orchester",
-          "url": "https://open.spotify.com/artist/3QNZqmrWn0zIBBPf0dadwx"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
-        }
-      ],
-      "duration_ms": 1065373,
-      "name": "Don Juan, Op. 20, TrV 156",
-      "url": "https://open.spotify.com/track/7BZVwh7u01dn3fkqY9AvPd"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Piano Trios Nos. 1 & 2",
         "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 240306,
       "name": "Standchen, TrV 114",
       "url": "https://open.spotify.com/track/4vSZuTSLCZNj9EeCE60d0p"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "R. Strauss: Symphonische Dichtungen",
+        "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Tonk\u00fcnstler-Orchester",
+          "url": "https://open.spotify.com/artist/3QNZqmrWn0zIBBPf0dadwx"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "duration_ms": 1065373,
+      "name": "Don Juan, Op. 20, TrV 156",
+      "url": "https://open.spotify.com/track/7BZVwh7u01dn3fkqY9AvPd"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1335,6 +1335,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Richard Strauss - Complete Tone Poems & Concertos (13 Components)",
+        "url": "https://open.spotify.com/album/6g2U3uW1ViECb6VZsT4Z0V"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Herbert Blomstedt",
+          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
+        }
+      ],
+      "duration_ms": 1736520,
+      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
+      "url": "https://open.spotify.com/track/3nIQb1IY2OWVsZ1dLzXnLZ"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R.: Der Rosenkavalier",
         "url": "https://open.spotify.com/album/3OEr8l0Btve8mdFvjZoj6P"
       },
@@ -1359,30 +1383,6 @@
       "duration_ms": 330920,
       "name": "Der Rosenkavalier, Op. 59 / Act 1: \"Da geht er hin, der aufgeblasene schlechte Kerl\"",
       "url": "https://open.spotify.com/track/433MQfeWscw5iOydbZjy5c"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Richard Strauss - Complete Tone Poems & Concertos (13 Components)",
-        "url": "https://open.spotify.com/album/6g2U3uW1ViECb6VZsT4Z0V"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "San Francisco Symphony",
-          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
-        },
-        {
-          "name": "Herbert Blomstedt",
-          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
-        }
-      ],
-      "duration_ms": 1736520,
-      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
-      "url": "https://open.spotify.com/track/3nIQb1IY2OWVsZ1dLzXnLZ"
     },
     {
       "added_at": "2022-06-20 09:55:21",

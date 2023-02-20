@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,943 likes - 49 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,999 likes - 49 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 12 | [Tightrope](https://open.spotify.com/track/6pFQLoJefvBCTXtjO2dn4t) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 4:38 |
 | 13 | [Texas Flood](https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 5:20 |
 | 14 | [Look at Little Sister](https://open.spotify.com/track/5He3kbhG04jAioqHVEytHq) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 3:07 |
-| 15 | [Tin Pan Alley \(AKA Roughest Place in Town\)](https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 9:11 |
+| 15 | [Honey Bee](https://open.spotify.com/track/0W4EvXCjLH6OQjtDVzdPWg) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 2:43 |
 | 16 | [Riviera Paradise](https://open.spotify.com/track/4LSu0MjxfmqMgEJf4GMnlU) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 8:48 |
 | 17 | [Lenny](https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:57 |
 | 18 | [Boot Hill \- 1989 Version](https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 2:13 |
-| 19 | [Honey Bee](https://open.spotify.com/track/0W4EvXCjLH6OQjtDVzdPWg) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 2:43 |
+| 19 | [Tin Pan Alley \(AKA Roughest Place in Town\)](https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 9:11 |
 | 20 | [Let Me Love You Baby](https://open.spotify.com/track/4kJurAMLUVZJdRSpwUphzx) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 2:41 |
 | 21 | [Rude Mood](https://open.spotify.com/track/03NejRMxYMMCFo2Ylsia6l) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:39 |
 | 22 | [Change It](https://open.spotify.com/track/5u00iJsWV7xj5NTGAaMBQt) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 3:57 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 33 | [Superstition \- Live](https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:40 |
 | 34 | [I'm Leaving You \(Commit A Crime\) \- Live](https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live Alive](https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW) | 5:35 |
 | 35 | [May I Have a Talk with You](https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Sky Is Crying](https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B) | 5:48 |
-| 36 | [Pride And Joy](https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:59 |
+| 36 | [Say What!](https://open.spotify.com/track/3Xow4d1ABlyB9GevG9xfeS) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 5:23 |
 | 37 | [Shake for Me \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 3:48 |
-| 38 | [Say What!](https://open.spotify.com/track/3Xow4d1ABlyB9GevG9xfeS) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 5:23 |
+| 38 | [Pride And Joy](https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:59 |
 | 39 | [So Excited](https://open.spotify.com/track/1nB4UkYsul7uVNK8YIUmw8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 3:29 |
 | 40 | [Live Another Day \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 3:49 |
 | 41 | [Give Me Back My Wig](https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:07 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 48 | [In the Open \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/07DsSy1L0z2JsiUfwR0pu7) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 5:53 |
 | 49 | [Albert's Shuffle \- Live](https://open.spotify.com/track/6aqeVjcTX2ivUtPjr0xocT) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 7:07 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDBhMjA1NWY2NmU2MGUzMDEzZmIwNTg5NzgxZWI1YjMxMQ==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDA4YTZhNTcxYjI1N2Q2OTE0YmRlMDY4MmFiNDNiMjdmMg==`

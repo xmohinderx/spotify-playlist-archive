@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,314 likes - 60 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,322 likes - 60 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 39 | [Bicho de 7 Cabeças / A Culpa É das Igrejas](https://open.spotify.com/track/4eeGpiaBPnOwD9fT6fBDcE) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [Medulla](https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN), [Disstinto](https://open.spotify.com/artist/7FDAabVIlVUaloRm7MA1Jy) | [Bicho de 7 Cabeças / a Culpa É das Igrejas](https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS) | 4:42 |
 | 40 | [Sensação](https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Sensação](https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1) | 4:32 |
 | 41 | [Babylon By Gus](https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:16 |
-| 42 | [Rosas e Rimas](https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Slow Flow](https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3) | 2:39 |
-| 43 | [Estilo Coyote](https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Estilo Coyote](https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq) | 2:54 |
+| 42 | [Estilo Coyote](https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Estilo Coyote](https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq) | 2:54 |
+| 43 | [Rosas e Rimas](https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Slow Flow](https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3) | 2:39 |
 | 44 | [Wallpaper](https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Wallpaper](https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V) | 3:11 |
 | 45 | [Aquela Fé](https://open.spotify.com/track/2HunnLQdWqDFTTKXd8PP5r) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Nego Gallo](https://open.spotify.com/artist/4nOrR26qgm2LzspkdRPdpq) | [Roteiro Pra Aïnouz \(Vol\. 3\)](https://open.spotify.com/album/7hUHxgR9xS4sDrnsfPTtQW) | 6:08 |
 | 46 | [A Divina Comédia](https://open.spotify.com/track/1j9jCO7zGkxuAOJTTZpHiL) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Zeus](https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG), [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [Nocivo Shomon](https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [A Divina Comédia](https://open.spotify.com/album/7z0Urrb0oyXZIglsBlREud) | 5:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Vem Tranquilo](https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Santzu](https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Mixtape: O Homem Não para Nunca, Vol\. 1](https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF) | 4:54 |
 | 60 | [Cantando pro Santo](https://open.spotify.com/track/4ObGL3b6H7kbe3r7QgaIr9) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Chorão](https://open.spotify.com/artist/5u3nOqtEJfhFUuPR9EjnkC) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 6:06 |
 
-Snapshot ID: `MTY3MTU3MDg3MCwwMDAwMDAwMDQ3NjQyOGM5OTExZjJiODg0YjI5MWRiODdhNzQ5MjAy`
+Snapshot ID: `MTY3MTU3MDg3MCwwMDAwMDAwMDhlZTYxNmI3YzM3OTg5YzU4YTczYWU5YWYzOWZlMDU4`

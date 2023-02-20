@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 157152,
       "name": "Character Dheela 2.0 (From \"Shehzada\")",
       "url": "https://open.spotify.com/track/0QT9B8Yfrz0vi66oXMrKJg"
@@ -3402,7 +3402,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 200658,
       "name": "Elevated",
       "url": "https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj"
@@ -4500,7 +4500,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 354666,
       "name": "Har Har Shambhu Shiv Mahadeva",
       "url": "https://open.spotify.com/track/0aA3jlllhKSEiXTmGPGSWz"
@@ -6622,14 +6622,14 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 70434,
       "name": "Kyun Dhunde",
       "url": "https://open.spotify.com/track/7gFzBppKTiKAs38SWOjbO6"
     },
     {
       "album": {
-        "name": "Laagi Lagan Shankara (Hindi)",
+        "name": "Laagi Lagan Shankara",
         "url": "https://open.spotify.com/album/0Q9Bvs2G73xk69heS78bpF"
       },
       "artists": [
@@ -6640,8 +6640,8 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
-      "duration_ms": 236428,
+      "date_removed": null,
+      "duration_ms": 77495,
       "name": "Laagi Lagan Shankara",
       "url": "https://open.spotify.com/track/4nrqr2KVU3eoaL9743jwoB"
     },
@@ -7394,7 +7394,7 @@
       ],
       "date_added": "2023-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 187099,
       "name": "Main Khiladi - From \"Selfiee\"",
       "url": "https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN"
@@ -7416,7 +7416,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 231575,
       "name": "Maiyya Mainu (From \"Jersey\")",
       "url": "https://open.spotify.com/track/4PwTeFfKqmR3XIeXXUBDOf"
@@ -7977,7 +7977,7 @@
     },
     {
       "album": {
-        "name": "Mera Bhola Hai Bhandari (Hindi)",
+        "name": "Mera Bhola Hai Bhandari",
         "url": "https://open.spotify.com/album/4dOI5DGiT2cWrXiC4ysJ3k"
       },
       "artists": [
@@ -7988,9 +7988,9 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
-      "duration_ms": 411782,
-      "name": "Mera Bhola Hai Bhandari - Hindi",
+      "date_removed": null,
+      "duration_ms": 136893,
+      "name": "Mera Bhola Hai Bhandari",
       "url": "https://open.spotify.com/track/2BQkMJNiyEWC08ot6zvRXc"
     },
     {
@@ -8662,7 +8662,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 322250,
       "name": "Namo Namo",
       "url": "https://open.spotify.com/track/5QtQFSdyZEl0w4iDxAyv76"
@@ -10128,7 +10128,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 188571,
       "name": "Rubicon Drill",
       "url": "https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N"
@@ -10705,6 +10705,24 @@
     },
     {
       "album": {
+        "name": "Shiv Sama Rahe",
+        "url": "https://open.spotify.com/album/5AqhFDg3NYPUUJX4LtHnx6"
+      },
+      "artists": [
+        {
+          "name": "Hansraj Raghuwanshi",
+          "url": "https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111083,
+      "name": "Shiv Sama Rahe",
+      "url": "https://open.spotify.com/track/25Ka89vJT9N24lyoZxYiKl"
+    },
+    {
+      "album": {
         "name": "Legends - Top 10",
         "url": "https://open.spotify.com/album/3deyvB3fEavgoVcG1BmFZv"
       },
@@ -10716,7 +10734,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 553273,
       "name": "Shiv Tandav Stotram",
       "url": "https://open.spotify.com/track/0pA2HBr6nILi7x4xKRZsy9"
@@ -11626,7 +11644,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 114418,
       "name": "TERE TE",
       "url": "https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5"
@@ -11808,7 +11826,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-16",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "Thee Thalapathy (From \"Varisu\")",
       "url": "https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h"

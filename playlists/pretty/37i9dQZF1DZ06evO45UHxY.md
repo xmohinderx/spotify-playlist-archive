@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,584 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,585 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 15 | [Hoy es Viernes y el Cuerpo lo Sabe](https://open.spotify.com/track/2EEkUBOe9TkdxaWVYiBfWU) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:48 |
 | 16 | [Toca Tres Veces](https://open.spotify.com/track/6PKcq7TLJnXY7PrWiQJmt0) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 2:41 |
 | 17 | [Aerobics De Señoritas](https://open.spotify.com/track/4NcU6kxxr3KnDeQhR2yEVC) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:46 |
-| 18 | [La chispa](https://open.spotify.com/track/5frBieEOpYDKSmYByQeQ4n) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:18 |
-| 19 | [Bandrobic](https://open.spotify.com/track/3Y8loiuepocdaDVRthERRL) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [A Pesar de Todo](https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N) | 3:40 |
+| 18 | [Bandrobic](https://open.spotify.com/track/3Y8loiuepocdaDVRthERRL) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [A Pesar de Todo](https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N) | 3:40 |
+| 19 | [La chispa](https://open.spotify.com/track/5frBieEOpYDKSmYByQeQ4n) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:18 |
 | 20 | [Reventón Unixes](https://open.spotify.com/track/0aru7xAJZfzn13o6wQPAko) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 3:54 |
 | 21 | [Jacarandosa](https://open.spotify.com/track/2PJi77YuMKNlcKtRLFAbIi) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 3:10 |
 | 22 | [El esdrújulo](https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Festival Grupero Vol\. I](https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc) | 2:25 |
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 30 | [Los Días Del Arcoíris](https://open.spotify.com/track/6mYHWQODIsDvZvpFkuIcNX) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 3:03 |
 | 31 | [La Buenota](https://open.spotify.com/track/0yaXCQ3HblOcM1swa7mN3s) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:01 |
 | 32 | [El Fon](https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:14 |
-| 33 | [El Sabio Conocedor](https://open.spotify.com/track/2hv5M006zsIx1ntGUVDYui) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:53 |
+| 33 | [Con un poquito de amor](https://open.spotify.com/track/241BmTaBzj3c96kzcZH34O) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 3:09 |
 | 34 | [Caderas Lait](https://open.spotify.com/track/01OXvmhM7T5D1nayJ3YEko) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:36 |
-| 35 | [Con un poquito de amor](https://open.spotify.com/track/241BmTaBzj3c96kzcZH34O) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 3:09 |
-| 36 | [Pinto Raya](https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:02 |
-| 37 | [Acariciame](https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:07 |
+| 35 | [Pinto Raya](https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:02 |
+| 36 | [Acariciame](https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:07 |
+| 37 | [Allá en el oeste](https://open.spotify.com/track/2M7a8eODNHtBwtmi69yCa8) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:31 |
 | 38 | [Ya parará](https://open.spotify.com/track/76H4nNPPwhFu9l4IqR0Vgc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Cumbia Explosión](https://open.spotify.com/album/5t5TDzXe1xvnMXQNoxjgoa) | 0:38 |
-| 39 | [Allá en el oeste](https://open.spotify.com/track/2M7a8eODNHtBwtmi69yCa8) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:31 |
-| 40 | [El señor de las canas](https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [16 de Septiembre: Gruperas \(USA\) \[Vol\. 2\]](https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn) | 2:48 |
-| 41 | [Derecho De Amarla](https://open.spotify.com/track/6XU8HRtPHsWYwVzgA7sgZ3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 2:36 |
-| 42 | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/track/5v3SzNOKysnldqfaKFWkni) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/album/6azV2ELkuN4DafSlRJkTMN) | 2:48 |
-| 43 | [Echando Los Perros](https://open.spotify.com/track/4xd0redqKCAtHlwZbozZTc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:18 |
-| 44 | [Hasta El Fondo Del Abismo](https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:17 |
-| 45 | [El Taladro](https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:45 |
-| 46 | [Clases de baile](https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:59 |
-| 47 | [La Morena](https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 2:54 |
-| 48 | [Zapatos viejos](https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 2:51 |
-| 49 | [Porque Me Quite El Vicio](https://open.spotify.com/track/1eZDh0jqpcgiqkAG5PlDDe) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 3:23 |
-| 50 | [Voy a Decirle](https://open.spotify.com/track/5kG9Ng8DM15wTB1H1TGh8k) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [A Pesar de Todo](https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N) | 2:22 |
+| 39 | [El señor de las canas](https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [16 de Septiembre: Gruperas \(USA\) \[Vol\. 2\]](https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn) | 2:48 |
+| 40 | [Derecho De Amarla](https://open.spotify.com/track/6XU8HRtPHsWYwVzgA7sgZ3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 2:36 |
+| 41 | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/track/5v3SzNOKysnldqfaKFWkni) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/album/6azV2ELkuN4DafSlRJkTMN) | 2:48 |
+| 42 | [Echando Los Perros](https://open.spotify.com/track/4xd0redqKCAtHlwZbozZTc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:18 |
+| 43 | [Hasta El Fondo Del Abismo](https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:17 |
+| 44 | [El Taladro](https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:45 |
+| 45 | [Clases de baile](https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:59 |
+| 46 | [La Morena](https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 2:54 |
+| 47 | [Zapatos viejos](https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 2:51 |
+| 48 | [Candida](https://open.spotify.com/track/0C6GKMOSZnQacjI5Yusa3P) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:58 |
+| 49 | [Voy a Decirle](https://open.spotify.com/track/5kG9Ng8DM15wTB1H1TGh8k) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [A Pesar de Todo](https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N) | 2:22 |
+| 50 | [Desde Mañana](https://open.spotify.com/track/1qjjMQibRv39gb4WAn0oaP) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:56 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDA5ZWM3NjY1YTc5ZGVkMzcwMDQ1ZWY1MWE1NzI0Y2E1MA==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDBhMDBhM2NlM2Y0YmUwZThhZGRkMzRkYjI2ZDU1YjA1NQ==`

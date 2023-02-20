@@ -1339,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "God Hand",
+        "url": "https://open.spotify.com/album/3vnofNSDDHTomiI8cIZrpb"
+      },
+      "artists": [
+        {
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196063,
+      "name": "Charlotte",
+      "url": "https://open.spotify.com/track/1MCRmDZQsbB1r2KP8dsWKO"
+    },
+    {
+      "album": {
         "name": "Chasm",
         "url": "https://open.spotify.com/album/1Gtldn9jGWjonq7XNNOgYT"
       },
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 237400,
       "name": "Demon King",
       "url": "https://open.spotify.com/track/7ynraW89Jj7tPYLaNihl6v"
@@ -3304,7 +3322,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 304440,
       "name": "Glory Be 2 Misery",
       "url": "https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw"
@@ -5968,7 +5986,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 210840,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/5JSpp4LKuqnaR3f5MZVWrc"

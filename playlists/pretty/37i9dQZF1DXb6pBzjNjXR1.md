@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,865 likes - 60 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,874 likes - 60 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 46 | [Silence & Secrets \- Black Coffee Remix](https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Silence & Secrets \(Black Coffee Remix\)](https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI) | 7:54 |
 | 47 | [Ubomi Umzamo](https://open.spotify.com/track/2L5JfERa3VxgMAj93Q4gT4) | [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Eves Manxeba](https://open.spotify.com/artist/5XLEwFZp3QbAQxL51R2ADB) | [Ubomi](https://open.spotify.com/album/79G6OtDk17Lq9UmlyxUqev) | 4:01 |
 | 48 | [Inde Lendlela](https://open.spotify.com/track/0TWr1HfWDoqZ4zPiBySwxM) | [Stones & Bones](https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV), [LuckyKeyz](https://open.spotify.com/artist/6xPpWHSxCdWbkrOWn45d2Y) | [The 12 Year Saga](https://open.spotify.com/album/3xloxYskgtTZmtIpBDNjH5) | 5:56 |
-| 49 | [Mabebuza](https://open.spotify.com/track/3HPgwat1jJCtrbtDZYMUVL) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG) | [Mabebuza](https://open.spotify.com/album/5MwJllAjpaGazBZfP8CtCd) | 5:02 |
+| 49 | [Mabebuza](https://open.spotify.com/track/3HPgwat1jJCtrbtDZYMUVL) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Drega](https://open.spotify.com/artist/3jHpCdnedWxpKOn8QuYy5r) | [Mabebuza](https://open.spotify.com/album/5MwJllAjpaGazBZfP8CtCd) | 5:02 |
 | 50 | [Fight to Love \- Radio Edit](https://open.spotify.com/track/0V2rtUVbb3Vpz2ZE5pu0Sa) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Maleh](https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i) | [Fight to Love \(Radio Edit\)](https://open.spotify.com/album/6ttCwZ0VxKrzDFnOhHlTj3) | 4:07 |
 | 51 | [Abaphansi \- KeysGroove Remix](https://open.spotify.com/track/0HaGqD8cdGIVceTSe07t5V) | [Kinetic T](https://open.spotify.com/artist/62zcEEwZqeLYC5uakS3oYj), [Kagiso Rathepe](https://open.spotify.com/artist/1DQdTalykRZvUy04sFLYtE), [KeysGroove](https://open.spotify.com/artist/18NG8IAQxy3szGn45gmUk4) | [Abaphansi \(KeysGroove Remix\)](https://open.spotify.com/album/62Jq3OiiPT7cW5khSD3sc4) | 6:00 |
 | 52 | [NGUWE](https://open.spotify.com/track/52nXrFT91veBphtsiY1uhR) | [Prayer Warriors](https://open.spotify.com/artist/2eM3B7NyYxSmpFfLLtl8pn), [Ntsika](https://open.spotify.com/artist/3tYY43HzH3E0ORW0qAYc9M), [DrumPope](https://open.spotify.com/artist/3cMf1PUXLtV4tiZUlXsDHj) | [NGUWE](https://open.spotify.com/album/0wY6UcIM25Yd8M9DCQHEUS) | 4:47 |

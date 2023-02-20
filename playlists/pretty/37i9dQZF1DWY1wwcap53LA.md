@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Blanco Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,099 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,140 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 50 | [Tequila Money](https://open.spotify.com/track/1wZkPgmHtAiSAeo6dymYC6) | [Zinn](https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D) | [Tequila Money](https://open.spotify.com/album/6IE2KcXgRn1q1QNMWXLdoK) | 2:19 |
 | 51 | [Damn Good Life](https://open.spotify.com/track/1lZHKcrQdO1pOxe5zlzIzI) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Damn Good Life](https://open.spotify.com/album/4xeFuswf5BhaHo8P0WcR8N) | 2:37 |
 | 52 | [B.Y.O.B.](https://open.spotify.com/track/0eV8jHjIz5mC4hrDcARzur) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [B.Y.O.B.](https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR) | 1:48 |
-| 53 | [Home To Me](https://open.spotify.com/track/7y32pxojOyp2FEFEOCKbtF) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Home To Me](https://open.spotify.com/album/4QY2mg5YCs0t1RzhXNLcLj) | 3:39 |
+| 53 | [Home To Me](https://open.spotify.com/track/6F1AuPmYBgnw4PTmkYcAH6) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Home To Me](https://open.spotify.com/album/7v2tm5nZRqoMtAnEy6o7Ao) | 3:39 |
 | 54 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 |
 | 55 | [GAS!](https://open.spotify.com/track/3QsIonKmbe7lollXunUVRZ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [GAS!](https://open.spotify.com/album/5ymTB3P1DqX0fbIHvWeb8F) | 2:28 |
 | 56 | [Forgive Me](https://open.spotify.com/track/7E1bYsLt7mW2uKXWPkPTvV) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Forgive Me](https://open.spotify.com/album/4X64MJY6iHzrof50wWz3MZ) | 2:40 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 98 | [Guilty](https://open.spotify.com/track/1WKRU8ovR8lbHD5gIj8h2P) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/50ahLeRHDEANoAMhDnaNCz) | 3:02 |
 | 99 | [Over Yonder \(feat\. Matt Stell\)](https://open.spotify.com/track/6fk8yiw2sxAC6ycLU7EaZa) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Over Yonder \(feat\. Matt Stell\)](https://open.spotify.com/album/2FDgPyH6uGxspBo6ReEUxW) | 2:00 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDFlYTFkMTRmMDZmMzJlMjI2YjljODExOTA2ZGE1ZTQ1`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDYxYmVkMTQwMWY2NDcxMjc2OGIzYzAyMjJjNDMyNjgw`

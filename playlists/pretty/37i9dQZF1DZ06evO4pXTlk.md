@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 
 > This is The XCERTS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469 likes - 41 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 467 likes - 41 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 | 36 | [I Wanna Be Sedated](https://open.spotify.com/track/29p7YwJIPrek6T2dwrrVwK) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [So No One Told You Life Was Gonna Be This Way](https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg) | 2:32 |
 | 37 | [Bored](https://open.spotify.com/track/3r5giCeK7AtSByLMbmQgl0) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Live Like This](https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd) | 3:50 |
 | 38 | [Growing Old](https://open.spotify.com/track/6awPRJmTQazCOxeIRLq416) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Growing Old](https://open.spotify.com/album/3bdamvYH1KgiOC7H2MeW69) | 3:01 |
-| 39 | [North East Kid](https://open.spotify.com/track/5Itxr5Pxr7Gm283MnkbcRv) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Shaking In The Water](https://open.spotify.com/album/4qAwGPiGVQvbgccrF34jih) | 3:50 |
-| 40 | [Wish](https://open.spotify.com/track/4eynH9mNWCPMAmFujU8Qyy) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [I Don't Care EP](https://open.spotify.com/album/5vWXHtJ5HbfIBKzwQv0wqk) | 4:05 |
+| 39 | [Wish](https://open.spotify.com/track/4eynH9mNWCPMAmFujU8Qyy) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [I Don't Care EP](https://open.spotify.com/album/5vWXHtJ5HbfIBKzwQv0wqk) | 4:05 |
+| 40 | [North East Kid](https://open.spotify.com/track/5Itxr5Pxr7Gm283MnkbcRv) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Shaking In The Water](https://open.spotify.com/album/4qAwGPiGVQvbgccrF34jih) | 3:50 |
 | 41 | [Heaven](https://open.spotify.com/track/0YPxplaEoKPTWDTfh8emvI) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Live Like This](https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd) | 3:06 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDBmNDMyNjNjYzQ1YWY2NTVhMDYyNWJiYzg5OWNjYzQyZA==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDA4MDFlNmE2ODVmM2M2NjZhZjIyMDU3YjFmODE5NjlhZQ==`

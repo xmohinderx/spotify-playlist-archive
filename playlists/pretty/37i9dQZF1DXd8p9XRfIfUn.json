@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Montano, Totoy El Frio",
-  "num_followers": 62495,
+  "num_followers": 62510,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMGM2OTlhNjU1YTAyYjY1ZWEyMmY4OTEwMTYyZTE0Mjc0",
+  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDZhZTI4ZDI4ZjA0OGQ5NjcyODM1ZjAyZWQ2ZThiMGZl",
   "tracks": [
     {
       "added_at": "2023-01-27 03:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Traje Tusi",
-        "url": "https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 182421,
-      "name": "Traje Tusi",
-      "url": "https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/28NfWdCACj7M0DpWgxz3FI"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 120000,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/003CpLpVCGuyfZe4dLB1No"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Traje Tusi",
+        "url": "https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 182421,
+      "name": "Traje Tusi",
+      "url": "https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG"
     },
     {
       "added_at": "2023-01-27 03:00:00",

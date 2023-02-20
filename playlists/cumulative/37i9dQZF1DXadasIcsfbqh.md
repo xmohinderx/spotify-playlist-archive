@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Sam Hunt
 
-205 songs - 10 hr 43 min
+206 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [It’s ‘Cause I Am](https://open.spotify.com/track/7JjymfuNMxQgOQJ4mGOdbg) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me](https://open.spotify.com/album/5DyBJlrOGNzxvGPkKAS8b4) | 2:46 | 2021-12-17 | 2022-11-13 |
 | [Just Drive](https://open.spotify.com/track/1puprgnIxARMj8gR3Jj4B2) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/5Pi5rw478LMuMAOFzecWt4) | 2:27 | 2021-12-17 | 2022-07-29 |
 | [Just Drive](https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy) | 2:27 | 2022-07-22 |  |
+| [Just Say I'm Sorry](https://open.spotify.com/track/3opqYjloPGrJDlBjFGoWtU) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:34 | 2023-02-17 |  |
 | [Just the Way](https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:13 | 2022-07-22 |  |
 | [Just the Way](https://open.spotify.com/track/5PAvFGse5jjDH9ke8Mae7D) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Just the Way](https://open.spotify.com/album/3BwXeSOrCEZNWEPqxxh7yE) | 3:13 | 2021-12-17 | 2022-07-29 |
 | [justified](https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:00 | 2022-07-22 |  |
@@ -149,7 +150,7 @@
 | [One Too Many](https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [One Too Many](https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9) | 3:23 | 2021-12-17 |  |
 | [Paying For It](https://open.spotify.com/track/4um0dlscaZs2xkSbH72pP2) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Paying For It](https://open.spotify.com/album/4FelfT4bTsX1obV8487WSX) | 3:11 | 2022-02-04 |  |
 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 | 2021-12-17 |  |
-| [Pink Champagne](https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:23 | 2022-06-17 |  |
+| [Pink Champagne](https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:23 | 2022-06-17 | 2023-02-20 |
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-11 |  |
 | [Push & Pull](https://open.spotify.com/track/4cMGt04mMdpCq7LyNuOYzr) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Push & Pull](https://open.spotify.com/album/3E0XbQUeBsXhsRDHrLxS4X) | 3:07 | 2021-12-17 | 2022-06-16 |
 | [Queen of Daytona Beach](https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Queen of Daytona Beach](https://open.spotify.com/album/77zuiu0p8DHfQQvABLJhA6) | 3:34 | 2022-06-17 | 2022-09-28 |

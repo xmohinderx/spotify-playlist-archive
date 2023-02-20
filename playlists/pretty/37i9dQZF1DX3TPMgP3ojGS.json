@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 332188,
+  "num_followers": 332500,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU1OTYwMCwwMDAwMDAwMGYyNDNhMmVkODQ5MGQwMjMzNGZhMzc3NTJiMDNlOTY0",
+  "snapshot_id": "MTY3NjU1OTYwMCwwMDAwMDAwMDM0YTcyZDlkNWViNWZmMmRjNzBhMjU2M2M2ODNiYmFj",
   "tracks": [
     {
       "added_at": "2023-02-16 15:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 78546,
+      "name": "Vladimir's Blues",
+      "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
         "name": "Leap Of Faith",
         "url": "https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+        "name": "Monte Viso",
+        "url": "https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya"
       },
       "artists": [
         {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+          "name": "Gente di Toscana",
+          "url": "https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q"
         }
       ],
-      "duration_ms": 78546,
-      "name": "Vladimir's Blues",
-      "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
+      "duration_ms": 95733,
+      "name": "Monte Viso",
+      "url": "https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -651,22 +667,6 @@
       "duration_ms": 121946,
       "name": "Staden",
       "url": "https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
-        "name": "Monte Viso",
-        "url": "https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya"
-      },
-      "artists": [
-        {
-          "name": "Gente di Toscana",
-          "url": "https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q"
-        }
-      ],
-      "duration_ms": 95733,
-      "name": "Monte Viso",
-      "url": "https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Pascoal",
-          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
-        }
-      ],
-      "duration_ms": 219565,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
         "name": "Casa luminosa",
         "url": "https://open.spotify.com/album/60nfneMr0LrmdoAaokyHEf"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 109565,
       "name": "Casa luminosa",
       "url": "https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Pascoal",
+          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
+        }
+      ],
+      "duration_ms": 219565,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "Khione",
-        "url": "https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51"
-      },
-      "artists": [
-        {
-          "name": "Dwight Rivera",
-          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
-        }
-      ],
-      "duration_ms": 179768,
-      "name": "Ruise\u00f1or",
-      "url": "https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 147936,
       "name": "Mid Air",
       "url": "https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
+        "name": "Khione",
+        "url": "https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "duration_ms": 179768,
+      "name": "Ruise\u00f1or",
+      "url": "https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "Je t'ai vu",
-        "url": "https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X"
-      },
-      "artists": [
-        {
-          "name": "Projet Calmant",
-          "url": "https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ"
-        }
-      ],
-      "duration_ms": 180030,
-      "name": "Je t'ai vu",
-      "url": "https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
         "name": "A Gentle Sunlight",
         "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 117625,
       "name": "A Gentle Sunlight",
       "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
+        "name": "Je t'ai vu",
+        "url": "https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X"
+      },
+      "artists": [
+        {
+          "name": "Projet Calmant",
+          "url": "https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ"
+        }
+      ],
+      "duration_ms": 180030,
+      "name": "Je t'ai vu",
+      "url": "https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "Field of Joy",
-        "url": "https://open.spotify.com/album/0iRcFoOpH69QSXovmNfa5N"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Beaujean",
-          "url": "https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei"
-        }
-      ],
-      "duration_ms": 196446,
-      "name": "Field of Joy",
-      "url": "https://open.spotify.com/track/5Dupg1ztlsHXxhmBDVqww2"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
         "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
+        "name": "Field of Joy",
+        "url": "https://open.spotify.com/album/0iRcFoOpH69QSXovmNfa5N"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Beaujean",
+          "url": "https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei"
+        }
+      ],
+      "duration_ms": 196446,
+      "name": "Field of Joy",
+      "url": "https://open.spotify.com/track/5Dupg1ztlsHXxhmBDVqww2"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
         "name": "Meditabundus",
         "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 150000,
       "name": "Meditabundus",
       "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
-        "name": "La Vie",
-        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
-      },
-      "artists": [
-        {
-          "name": "Amandine Moulin",
-          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
-        }
-      ],
-      "duration_ms": 109228,
-      "name": "La Vie",
-      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 148500,
       "name": "Coulant",
       "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
+        "name": "La Vie",
+        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
+      },
+      "artists": [
+        {
+          "name": "Amandine Moulin",
+          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
+        }
+      ],
+      "duration_ms": 109228,
+      "name": "La Vie",
+      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "A subtle joy",
-        "url": "https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV"
-      },
-      "artists": [
-        {
-          "name": "Tamara Blake",
-          "url": "https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "A subtle joy",
-      "url": "https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 152068,
       "name": "Water",
       "url": "https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
+        "name": "A subtle joy",
+        "url": "https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV"
+      },
+      "artists": [
+        {
+          "name": "Tamara Blake",
+          "url": "https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "A subtle joy",
+      "url": "https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "Wolken Traum",
-        "url": "https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Schulmann",
-          "url": "https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz"
-        }
-      ],
-      "duration_ms": 152690,
-      "name": "Sternennacht",
-      "url": "https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 143000,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
+        "name": "Wolken Traum",
+        "url": "https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Schulmann",
+          "url": "https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz"
+        }
+      ],
+      "duration_ms": 152690,
+      "name": "Sternennacht",
+      "url": "https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/0jyrfxsP4q6BGHSY03TOYw"
-      },
-      "artists": [
-        {
-          "name": "Carl Moir",
-          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
-        }
-      ],
-      "duration_ms": 197883,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/1ETktQHotqA5mRLE3ABnin"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
         "name": "Praxedis",
         "url": "https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/0jyrfxsP4q6BGHSY03TOYw"
+      },
+      "artists": [
+        {
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+        }
+      ],
+      "duration_ms": 197883,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/1ETktQHotqA5mRLE3ABnin"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
         "name": "White Butterfly",
         "url": "https://open.spotify.com/album/7kRdP9sK6uKzQbBrGQ54yN"
       },
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "Un Cadeau",
-        "url": "https://open.spotify.com/album/75lQPJlmH7f4DlqyOpemjO"
-      },
-      "artists": [
-        {
-          "name": "Nel Swerts",
-          "url": "https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh"
-        }
-      ],
-      "duration_ms": 157077,
-      "name": "Un Cadeau",
-      "url": "https://open.spotify.com/track/7Jrx30VldPaujIaP3c2SJn"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
         "name": "The Water Floats",
         "url": "https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 139500,
       "name": "The Water Floats",
       "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
+        "name": "Un Cadeau",
+        "url": "https://open.spotify.com/album/75lQPJlmH7f4DlqyOpemjO"
+      },
+      "artists": [
+        {
+          "name": "Nel Swerts",
+          "url": "https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh"
+        }
+      ],
+      "duration_ms": 157077,
+      "name": "Un Cadeau",
+      "url": "https://open.spotify.com/track/7Jrx30VldPaujIaP3c2SJn"
     },
     {
       "added_at": "2023-02-16 15:00:00",

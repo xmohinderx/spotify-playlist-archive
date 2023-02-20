@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: LAGOS & Reik",
-  "num_followers": 271937,
+  "num_followers": 272001,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDlkN2RkOGFkZDkzMWJhNGRmZGE1MzE5M2MyOGRiZDA0",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDQ5MmNmODQyY2Y4YWJkZjU4ZmM4NWI5YzIzZTA0MDY3",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Moderaci\u00f3n (Con Camilo)",
-        "url": "https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Moderaci\u00f3n (Con Camilo)",
-      "url": "https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "El Ego\u00edsmo",
         "url": "https://open.spotify.com/album/5DgcteHRIdhtDDy6ZJJobx"
       },
@@ -487,8 +467,28 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Pl\u00e1stico",
-        "url": "https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9"
+        "name": "Moderaci\u00f3n (Con Camilo)",
+        "url": "https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Moderaci\u00f3n (Con Camilo)",
+      "url": "https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Corriendo Con Tijeras",
+        "url": "https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 169933,
-      "name": "Pl\u00e1stico",
-      "url": "https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN"
+      "duration_ms": 195133,
+      "name": "Corriendo Con Tijeras",
+      "url": "https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -587,8 +587,8 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Corriendo Con Tijeras",
-        "url": "https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ"
+        "name": "Pl\u00e1stico",
+        "url": "https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 195133,
-      "name": "Corriendo Con Tijeras",
-      "url": "https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S"
+      "duration_ms": 169933,
+      "name": "Pl\u00e1stico",
+      "url": "https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Los Hombres Son Todos Iguales",
+        "url": "https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 244053,
+      "name": "Los Hombres Son Todos Iguales",
+      "url": "https://open.spotify.com/track/2JNhw8a87uhQ8gTIf26RSb"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 213279,
       "name": "Loco",
       "url": "https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Los Hombres Son Todos Iguales",
-        "url": "https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 244053,
-      "name": "Los Hombres Son Todos Iguales",
-      "url": "https://open.spotify.com/track/2JNhw8a87uhQ8gTIf26RSb"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "La \u00daltima (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur"
+        "name": "Tu Apodo",
+        "url": "https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 176484,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/1bU795MH97xqMytiTzvHdI"
+      "duration_ms": 155880,
+      "name": "Tu Apodo",
+      "url": "https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Tu Apodo",
-        "url": "https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q"
+        "name": "La \u00daltima (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur"
       },
       "artists": [
         {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 155880,
-      "name": "Tu Apodo",
-      "url": "https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq"
+      "duration_ms": 176484,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/1bU795MH97xqMytiTzvHdI"
     },
     {
       "added_at": "2023-02-17 05:00:00",

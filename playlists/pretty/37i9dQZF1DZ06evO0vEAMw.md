@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,641 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,667 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 32 | [The Best \(feat\. Mayorkun\)](https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:51 |
 | 33 | [Woju \(Remix\) \[feat\. Davido & Tiwa Savage\]](https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Woju \(Remix\) \[feat\. Davido & Tiwa Savage\]](https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M) | 3:24 |
 | 34 | [Activate](https://open.spotify.com/track/7ka9HaPbdwYUsMmHvaie41) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Activate](https://open.spotify.com/album/2sproMXb0ZqQefLlgjYPfo) | 3:37 |
-| 35 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 |
+| 35 | [1 Milli](https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:43 |
 | 36 | [Shopping Spree \(feat\. Chris Brown & Young Thug\)](https://open.spotify.com/track/1ln2sDL64h9Y0PJIrUogM6) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 3:33 |
-| 37 | [1 Milli](https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:43 |
+| 37 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 |
 | 38 | [Ke Star \- Remix](https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Virgo Deep](https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM) | [Ke Star \(Remix\)](https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66) | 5:28 |
-| 39 | [Gobe](https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Gobe](https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB) | 3:49 |
-| 40 | [FOR YOU](https://open.spotify.com/track/1tj7Pn7RFy82MTwM3TvLkw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FOR YOU](https://open.spotify.com/album/0G24UhXGf5SSfBS9QNRKa0) | 3:08 |
-| 41 | [Intro](https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:23 |
+| 39 | [Intro](https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:23 |
+| 40 | [Gobe](https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Gobe](https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB) | 3:49 |
+| 41 | [FOR YOU](https://open.spotify.com/track/1tj7Pn7RFy82MTwM3TvLkw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FOR YOU](https://open.spotify.com/album/0G24UhXGf5SSfBS9QNRKa0) | 3:08 |
 | 42 | [Skelewu](https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Best Of Davido](https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI) | 3:10 |
 | 43 | [2AM \(feat\. Tory Lanez & Davido\)](https://open.spotify.com/track/6OIJcRL2yycLyIbzrwOUty) | [Casanova](https://open.spotify.com/artist/6dXsR7VDJvXnF1LTZlwULx), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [2AM \(feat\. Tory Lanez & Davido\)](https://open.spotify.com/album/3rXxtzPFyUuvhsOW32kyg9) | 3:30 |
 | 44 | [Assurance](https://open.spotify.com/track/5Vp6x6DnVjh2JDaC4It6ak) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Assurance](https://open.spotify.com/album/6huSyEs9vbA9Nfhs3tBFCX) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 49 | [Disturbance \(feat\. Peruzzi\)](https://open.spotify.com/track/1alvkxYJx3AcVERNyFJRmF) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:39 |
 | 50 | [Somebody Baby](https://open.spotify.com/track/3xRopW25fMXyIvJkJJ43R6) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Rum & Boogie](https://open.spotify.com/album/0XVVlqghvytvnjjIeZakYC) | 2:19 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDBjZmEyZThlMDA3MzQ3MDIwYmZiZTA2ZjQ4MWU5NjcxYw==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDBhZWViZGUxZWNlOWE1MTA0YTdiYjI0OWI5MjZlMjVlMA==`

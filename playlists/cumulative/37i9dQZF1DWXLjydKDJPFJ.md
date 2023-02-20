@@ -4,7 +4,7 @@
 
 > ¡Compare! Prenda el carbón y saque la bocina que ya se armó la carnita.
 
-260 songs - 14 hr 14 min
+261 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Cabron Yo Puedo](https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx) | [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [Cabron Yo Puedo](https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x) | 3:15 | 2023-02-01 |  |
 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 | 2021-12-08 |  |
 | [Cada Quien](https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p) | 3:17 | 2021-12-08 | 2022-07-19 |
-| [Cajita De Cartón](https://open.spotify.com/track/2PxkdGhTb8VLY9M2ImvGZD) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Siempre Latino Vol\. 2](https://open.spotify.com/album/2biVVTc1nnyO1UdLKfUROk) | 3:03 | 2022-04-08 |  |
+| [Cajita De Cartón](https://open.spotify.com/track/2PxkdGhTb8VLY9M2ImvGZD) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Siempre Latino Vol\. 2](https://open.spotify.com/album/2biVVTc1nnyO1UdLKfUROk) | 3:03 | 2022-04-08 | 2023-02-20 |
 | [Calidad](https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb) | 2:50 | 2022-07-18 |  |
 | [Caricatura](https://open.spotify.com/track/2T5nAEkXMX49j29nMVt6qU) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [La Proxima Semana](https://open.spotify.com/album/2qtB3x29yzmsfy5Qm0U4cx) | 3:19 | 2022-07-18 | 2022-11-14 |
 | [Celos del Viento \- En Vivo](https://open.spotify.com/track/1kiDSbX6iYiK7zyTKpr4B0) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/3wZbGWULrKLCcvpbHkNKTI) | 2:47 | 2023-02-01 |  |
@@ -113,6 +113,7 @@
 | [Javier El De Los Llanos](https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:21 | 2021-12-08 | 2022-06-21 |
 | [JGL](https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [JGL](https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW) | 2:38 | 2022-05-06 |  |
 | [La Bachata](https://open.spotify.com/track/4h3L3S6gEEKGETQHrGZafH) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7IoQkL9C3vfSmF0Q9mXelv) | 2:58 | 2023-02-01 | 2023-02-18 |
+| [La Bachata](https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as) | 2:58 | 2023-02-20 |  |
 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 | 2022-04-14 |  |
 | [La Buena y la Mala](https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F) | 3:24 | 2021-12-08 |  |
 | [La calle de la amargura](https://open.spotify.com/track/4Pokg7TSQL2yPfHmEIvFhu) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy), [Miguel Luna](https://open.spotify.com/artist/5JoUEakYZibytvcZgMFAVz) | [La calle de la amargura](https://open.spotify.com/album/7kvIf824MwQfcUBOZuNGtb) | 3:00 | 2022-07-04 | 2022-11-13 |

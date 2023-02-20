@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Josiah and the Bonnevilles",
-  "num_followers": 469754,
+  "num_followers": 469772,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDAxMDFkMTY4MDNlZDYzMmVhMzU4YjQ0MGMyMThhZjA2",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDA5MTk1ZGM1YjhmZDNjYzVjNThmYjZkMGE3NzgwYWYz",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Anti-Hero (Country Version)",
-        "url": "https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 190470,
-      "name": "Anti-Hero (Country Version)",
-      "url": "https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
@@ -471,6 +455,38 @@
       "duration_ms": 242280,
       "name": "Just Breathe (feat. Lukas Nelson)",
       "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Anti-Hero (Country Version)",
+        "url": "https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 190470,
+      "name": "Anti-Hero (Country Version)",
+      "url": "https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "As I Rise",
+        "url": "https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 140741,
+      "name": "As I Rise",
+      "url": "https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -495,22 +511,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Don't Worry Baby",
-        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 180468,
-      "name": "Don't Worry Baby",
-      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "It's Called: Freefall",
         "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
       },
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Don't Worry Baby",
+        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 180468,
+      "name": "Don't Worry Baby",
+      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 193671,
       "name": "Amsterdam (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "As I Rise",
-        "url": "https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 140741,
-      "name": "As I Rise",
-      "url": "https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Lennon Bermuda",
+        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
+      },
+      "artists": [
+        {
+          "name": "Heather Nova",
+          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+        }
+      ],
+      "duration_ms": 143547,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Crooked Tree (Deluxe Edition)",
         "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 212251,
       "name": "Dire Wolf - Bonus Track",
       "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Lennon Bermuda",
-        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
-      },
-      "artists": [
-        {
-          "name": "Heather Nova",
-          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
-        }
-      ],
-      "duration_ms": 143547,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
-      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 255675,
       "name": "If It Makes You Happy",
       "url": "https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
+      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 152885,
-      "name": "I Think We\u2019re Alone Now",
-      "url": "https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Crossing Muddy Waters / Be My Husband",
         "url": "https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO"
       },
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 152885,
+      "name": "I Think We\u2019re Alone Now",
+      "url": "https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Easy Listening for Jerks, Pt. 1",
         "url": "https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 235516,
       "name": "Will the Circle Be Unbroken",
       "url": "https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "All the Best",
+      "url": "https://open.spotify.com/track/0fCpCpJbkcbN0Gxv68U6M0"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1331,22 +1347,6 @@
       "duration_ms": 417533,
       "name": "Farewell Transmission",
       "url": "https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 251760,
-      "name": "All the Best",
-      "url": "https://open.spotify.com/track/0fCpCpJbkcbN0Gxv68U6M0"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1693,6 +1693,22 @@
       "url": "https://open.spotify.com/track/4QDMaFh7BpJFE6uL4dBIgN"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/7oYeYzP4kGMUxJJwqCNylk"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 155786,
+      "name": "Shotgun Willie",
+      "url": "https://open.spotify.com/track/5eFPPAsdBF57JnZIQw92K3"
+    },
+    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Spotify Singles",
@@ -1767,22 +1783,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Union Maid",
-        "url": "https://open.spotify.com/album/7iciQuRI8P2WxV9D1mqwpr"
-      },
-      "artists": [
-        {
-          "name": "Jeff Tweedy",
-          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
-        }
-      ],
-      "duration_ms": 132036,
-      "name": "Union Maid",
-      "url": "https://open.spotify.com/track/5lRJJjYg7D3UPpE1i8gMYV"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
         "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
       },
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Tea, Milk & Honey",
-        "url": "https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX"
+        "name": "Union Maid",
+        "url": "https://open.spotify.com/album/7iciQuRI8P2WxV9D1mqwpr"
       },
       "artists": [
         {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
         }
       ],
-      "duration_ms": 304424,
-      "name": "Tea, Milk & Honey",
-      "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
+      "duration_ms": 132036,
+      "name": "Union Maid",
+      "url": "https://open.spotify.com/track/5lRJJjYg7D3UPpE1i8gMYV"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Tea, Milk & Honey",
+        "url": "https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 304424,
+      "name": "Tea, Milk & Honey",
+      "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "In the Magic Hour Solo Sessions",
         "url": "https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 201160,
       "name": "You Turn Me On, I'm a Radio - Acoustic",
       "url": "https://open.spotify.com/track/0mdOBageiouWrzRnQTCkJH"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 246722,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1887,18 +1887,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "By Your Side / Landslide",
-        "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         }
       ],
-      "duration_ms": 266000,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
+      "duration_ms": 246722,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "By Your Side / Landslide",
+        "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Gentle On My Mind",
         "url": "https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 245315,
       "name": "Gentle On My Mind",
       "url": "https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Faded Gloryville",
-        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
-      },
-      "artists": [
-        {
-          "name": "Lindi Ortega",
-          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg"
     }
   ],
   "unique_name": "Folksy Covers",

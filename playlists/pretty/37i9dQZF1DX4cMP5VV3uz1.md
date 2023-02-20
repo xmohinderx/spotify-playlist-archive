@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,661 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,759 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 38 | [Out of Time](https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Out of Time](https://open.spotify.com/album/5j1LFq1ZzTBfwPyYWWNjAf) | 3:51 |
 | 39 | [Absolute](https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Fernquest](https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL) | [Absolute](https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9) | 3:04 |
 | 40 | [Heartbroken 2022](https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd), [ARPA](https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd) | [Heartbroken 2022](https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ) | 2:52 |
-| 41 | [Lumberjackin' \- Vocal Mix](https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [VIP](https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty) | 4:00 |
+| 41 | [Take Me As I Am](https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [None Of Us Are Getting Out Of This Life Alive](https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB) | 3:06 |
 | 42 | [Mesmerised](https://open.spotify.com/track/3VmzE0xZIiAmPdAxYHQMgP) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Mesmerised](https://open.spotify.com/album/130KpuQV0nYnvmqcJupUIu) | 4:26 |
 | 43 | [Renegade](https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Renegade](https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8) | 2:34 |
 | 44 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 |
-| 45 | [Take Me As I Am](https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [None Of Us Are Getting Out Of This Life Alive](https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB) | 3:06 |
+| 45 | [Lumberjackin' \- Vocal Mix](https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [VIP](https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty) | 4:00 |
 | 46 | [Through It All \- Hedex Remix](https://open.spotify.com/track/5ts712TiZXqdbbkef0mRrI) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Through It All \(Hedex Remix\)](https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot) | 3:50 |
 | 47 | [Voodoo People \- Pendulum Mix](https://open.spotify.com/track/7C0PzxbsQx59DgGVRsquwJ) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Their Law The Singles 1990 \- 2005](https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy) | 5:07 |
 | 48 | [Getting Started \- Chase & Status Remix](https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Getting Started \(Chase & Status Remix\)](https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Mash up the Dance \- Kings of the Rollers Remix](https://open.spotify.com/track/3S95GLyxH7gcMjExPVAjxq) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance \(Kings of the Rollers Remix\)](https://open.spotify.com/album/5VQRkU846ddPAvMX8heKxG) | 2:57 |
 | 75 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 |
 
-Snapshot ID: `MTY3NDY2MTA5NiwwMDAwMDAwMDE4YzIzYWMyMjI3NjY2ZGVmZjg0OWIzNjJiYmY3OWI2`
+Snapshot ID: `MTY3NDY2MTA5NiwwMDAwMDAwMDRjODg1NjQ0MjkyYzBkMGE2MTM1NWU1ZDRkYzg4YWIz`

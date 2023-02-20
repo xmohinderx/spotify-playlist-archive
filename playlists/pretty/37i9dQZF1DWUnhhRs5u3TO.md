@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,589 likes - 150 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,780 likes - 150 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 77 | [In Due Time](https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Disarm the Descent \(Special Edition\)](https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD) | 3:17 |
 | 78 | [Tempest](https://open.spotify.com/track/1parffUcsk8pfGbyMtGnmW) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 6:05 |
 | 79 | [The Motherload](https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:59 |
-| 80 | [The Nexus](https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV) | 3:16 |
+| 80 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
 | 81 | [Vice Grip](https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 |
 | 82 | [God Is Dead?](https://open.spotify.com/track/3IKJNHnVZ2bXGjAFBJiUYo) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 8:52 |
-| 83 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
+| 83 | [The Nexus](https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV) | 3:16 |
 | 84 | [Storytime](https://open.spotify.com/track/5IhtaTempjlVlPmSgI0FQS) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 5:22 |
 | 85 | [Lost In The Static](https://open.spotify.com/track/7zKoAeplPMS3bcqIZ4crp4) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/5Y34qlvVSVLWVNr5cyLB4K) | 4:33 |
 | 86 | [Stålfågel](https://open.spotify.com/track/4HOVQhtjFCRGY9PnsLoR86) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Verkligheten](https://open.spotify.com/album/1bKXTR40NIO0RrsIlFQyTr) | 4:25 |
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 106 | [Rotting In Vain](https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:33 |
 | 107 | [Dead City Radio And The New Gods Of Supertown](https://open.spotify.com/track/7a4F5tT3vztlPrGQzIcf4z) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:28 |
 | 108 | [Lightning Strike](https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:29 |
-| 109 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 |
-| 110 | [Moth](https://open.spotify.com/track/0r3ur5jBMpjkcrqbVVvgs7) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Blood For Blood](https://open.spotify.com/album/6O24vHd68xPWQZGU9ppv7G) | 4:51 |
+| 109 | [Moth](https://open.spotify.com/track/0r3ur5jBMpjkcrqbVVvgs7) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Blood For Blood](https://open.spotify.com/album/6O24vHd68xPWQZGU9ppv7G) | 4:51 |
+| 110 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 |
 | 111 | [Moth Into Flame](https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 5:50 |
 | 112 | [KARATE](https://open.spotify.com/track/2A4wfplwsIXUUD3UVirWDd) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL RESISTANCE](https://open.spotify.com/album/2vIRdYffs93ca7L0Eh4mTm) | 4:23 |
 | 113 | [Beat the Bastards](https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Blood of the Nations](https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4) | 5:24 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 132 | [Silence Speaks](https://open.spotify.com/track/5Tcwn9gpqDqmxc2oq7hshQ) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [You Are We](https://open.spotify.com/album/4R7c0lTamxuQuriRiFhKfv) | 4:55 |
 | 133 | [Here Comes The Boom](https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 4:11 |
 | 134 | [I Am Above](https://open.spotify.com/track/6qgpBezjMvybos30jStS2Z) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [I, The Mask](https://open.spotify.com/album/2nLTMIfQsiFEP3feSBVqks) | 3:49 |
-| 135 | [Black Flame \- Single Edit](https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Black Flame](https://open.spotify.com/album/3wTcqfTsKuDvDdbKYPTE2I) | 3:53 |
-| 136 | [Hope](https://open.spotify.com/track/0IjqvPyctsYf3ASQPHWBvB) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Understanding What We've Grown to Be \(Deluxe Edition\)](https://open.spotify.com/album/6QmepOn4v046xEUpYEcq1t) | 4:10 |
+| 135 | [Hope](https://open.spotify.com/track/0IjqvPyctsYf3ASQPHWBvB) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Understanding What We've Grown to Be \(Deluxe Edition\)](https://open.spotify.com/album/6QmepOn4v046xEUpYEcq1t) | 4:10 |
+| 136 | [Black Flame \- Single Edit](https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Black Flame](https://open.spotify.com/album/3wTcqfTsKuDvDdbKYPTE2I) | 3:53 |
 | 137 | [Higher Than Heaven](https://open.spotify.com/track/0wJVBMndRGBHrYeBPHc8rd) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blessed & Possessed](https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm) | 3:30 |
 | 138 | [Outlander](https://open.spotify.com/track/65YTkL1HqiFPcAuCabVwMf) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Cloud Factory \(Re\-Issue\)](https://open.spotify.com/album/1UCftLQD0hJ5vRy7OMfbcF) | 3:56 |
 | 139 | [Torn Between](https://open.spotify.com/track/0mvf8kPSZYyTSzbDXqIJhC) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:01 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 147 | [Blood](https://open.spotify.com/track/27ce3PuoDdndLsktG0RvfV) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Rise of the Blood Legion\- The Best of \(Chapter 1\)](https://open.spotify.com/album/2vS8ldvz5bk6aJ5HAYMBMw) | 3:27 |
 | 148 | [Unbreakable](https://open.spotify.com/track/15TC83LO1QAu0BZLRdHw01) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Defy](https://open.spotify.com/album/78yMb0lsPLAEuugaeLeLL0) | 4:09 |
 | 149 | [Road of Resistance](https://open.spotify.com/track/4f5Glh6TkdXN2osSIpVBNI) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [BABYMETAL](https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI) | 5:18 |
-| 150 | [Fleur de lis](https://open.spotify.com/track/4uTEG0XN5AF7aZdSAuVkLX) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [Conspiracy](https://open.spotify.com/album/6HhxlpaqZix2VU3G3UscTH) | 4:13 |
+| 150 | [Solar Flare Homicide](https://open.spotify.com/track/6pCkJ0r6WEyz5ASErk5ezS) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Speaker Of The Dead](https://open.spotify.com/album/4BcTytmn7rMtxg2mESczbQ) | 3:50 |
 
-Snapshot ID: `MTY3NTAzMjY1NiwwMDAwMDAwMDhjNjQ2ZDczNTVlNWE2Mzk3NTdjMTNmOTQwNjljNmY1`
+Snapshot ID: `MTY3NTAzMjY1NiwwMDAwMDAwMGM4YTNjYjdhYmY4NTc5NGE1YTQ1ZGQ0NGZmYzQ1MjY2`

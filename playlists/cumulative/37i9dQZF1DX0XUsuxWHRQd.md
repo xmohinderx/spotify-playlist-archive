@@ -4,7 +4,7 @@
 
 > New music from Polo G, Don Toliver and A Boogie Wit da Hoodie.
 
-1,516 songs - 3 day 6 hr 11 min
+1,517 songs - 3 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -949,6 +949,7 @@
 | [Pain 1993 \(with Playboi Carti\)](https://open.spotify.com/track/6Kj17Afjo1OKJYpf5VzCeo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 2:29 | 2020-05-01 | 2020-07-23 |
 | [Pain Killers](https://open.spotify.com/track/1JixF2WqbP3LyiroGiRyog) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Pain Killers](https://open.spotify.com/album/7GuuNMJ4mj51oDXgWmxoRH) | 2:38 | 2022-03-11 | 2022-04-23 |
 | [Painless 2 \(with NAV feat\. Lil Durk\)](https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Painless 2 \(with NAV feat\. Lil Durk\)](https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK) | 4:02 | 2020-08-07 | 2020-08-21 |
+| [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-19 |  |
 | [Panini](https://open.spotify.com/track/68poZGRClFTzLdeRz9X0M2) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Panini](https://open.spotify.com/album/3ubteGlws5KJiIDSn45zz8) | 1:54 | 2019-06-21 | 2019-09-13 |
 | [Panini \- DaBaby Remix](https://open.spotify.com/track/4SDgTLDYrJ2UrHbkRkg7MD) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Panini](https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov) | 2:31 | 2019-09-13 | 2019-12-10 |
 | [Pardon \(feat\. Lil Baby\)](https://open.spotify.com/track/5W3z7a1dBlERTBAye0murh) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The L.I.B.R.A.](https://open.spotify.com/album/4ji352J0NHJfD5gHoJa7Oj) | 4:19 | 2020-10-16 | 2021-01-08 |

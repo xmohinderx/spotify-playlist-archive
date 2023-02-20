@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 6911,
+  "num_followers": 7004,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDM2ODUzNjM4NGI1ZTM1ZTJjZDYzYjM2ZmM0NWYxYTlj",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDM3MTYwMjI4OWY3Y2VjZTNlNjkwMmE1Mjk5NzE4Mzkx",
   "tracks": [
     {
       "added_at": "2022-09-14 09:57:38",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "False Facade",
-        "url": "https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs"
-      },
-      "artists": [
-        {
-          "name": "DRMZ",
-          "url": "https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ"
-        }
-      ],
-      "duration_ms": 416688,
-      "name": "False Facade",
-      "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "We Groove Different",
         "url": "https://open.spotify.com/album/1bx9h91xZGDa2mfh60RbZ3"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 437804,
       "name": "Mmantwa's Groove",
       "url": "https://open.spotify.com/track/5hGktS3qbk8HDhdICoo3s7"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "False Facade",
+        "url": "https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs"
+      },
+      "artists": [
+        {
+          "name": "DRMZ",
+          "url": "https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ"
+        }
+      ],
+      "duration_ms": 416688,
+      "name": "False Facade",
+      "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -249,24 +249,20 @@
       "url": "https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
+      "added_at": "2022-09-29 21:59:00",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/313EDRpLgogSMuJGQ9pYBU"
+        "name": "Day Dream",
+        "url": "https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu"
       },
       "artists": [
         {
-          "name": "Sir Trill",
-          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
-        },
-        {
-          "name": "Disciples of House",
-          "url": "https://open.spotify.com/artist/5epbvywtTZIsu7TLTRUgZr"
+          "name": "Fatso 98",
+          "url": "https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Wena",
-      "url": "https://open.spotify.com/track/7Dr9J9lZA4NVrfGs36llbG"
+      "duration_ms": 373592,
+      "name": "HER",
+      "url": "https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -313,20 +309,24 @@
       "url": "https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra"
     },
     {
-      "added_at": "2022-09-29 21:59:00",
+      "added_at": "2022-11-10 21:59:00",
       "album": {
-        "name": "Day Dream",
-        "url": "https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu"
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/313EDRpLgogSMuJGQ9pYBU"
       },
       "artists": [
         {
-          "name": "Fatso 98",
-          "url": "https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr"
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        },
+        {
+          "name": "Disciples of House",
+          "url": "https://open.spotify.com/artist/5epbvywtTZIsu7TLTRUgZr"
         }
       ],
-      "duration_ms": 373592,
-      "name": "HER",
-      "url": "https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3"
+      "duration_ms": 250000,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/7Dr9J9lZA4NVrfGs36llbG"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -469,6 +469,26 @@
       "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
     },
     {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Confindent",
+        "url": "https://open.spotify.com/album/7JrsF96D0q5Zm9tEoqMG0u"
+      },
+      "artists": [
+        {
+          "name": "China Charmeleon",
+          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "duration_ms": 463348,
+      "name": "Confident - China The Charmeleon The Animal Remix",
+      "url": "https://open.spotify.com/track/4ZMAP1fr4QvcIfF0B440MZ"
+    },
+    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Ed-Ward, Intr0beatz & Jonny Miller Remixes",
@@ -495,22 +515,34 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Confindent",
-        "url": "https://open.spotify.com/album/7JrsF96D0q5Zm9tEoqMG0u"
+        "name": "Fictions",
+        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
       },
       "artists": [
         {
-          "name": "China Charmeleon",
-          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
-        },
-        {
-          "name": "Kali Mija",
-          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+          "name": "InQfive",
+          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
         }
       ],
-      "duration_ms": 463348,
-      "name": "Confident - China The Charmeleon The Animal Remix",
-      "url": "https://open.spotify.com/track/4ZMAP1fr4QvcIfF0B440MZ"
+      "duration_ms": 375431,
+      "name": "Before Everything",
+      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "OVGSREPUBLIC",
+        "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
+      },
+      "artists": [
+        {
+          "name": "SGVO",
+          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+        }
+      ],
+      "duration_ms": 453711,
+      "name": "Octave",
+      "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -539,34 +571,18 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "OVGSREPUBLIC",
-        "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
+        "name": "3 By 3",
+        "url": "https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV"
       },
       "artists": [
         {
-          "name": "SGVO",
-          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+          "name": "Chymamusique",
+          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
         }
       ],
-      "duration_ms": 453711,
-      "name": "Octave",
-      "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Fictions",
-        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
-      },
-      "artists": [
-        {
-          "name": "InQfive",
-          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
-        }
-      ],
-      "duration_ms": 375431,
-      "name": "Before Everything",
-      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
+      "duration_ms": 392304,
+      "name": "Day And Night (Mmawe) - Original Mix",
+      "url": "https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -589,36 +605,24 @@
       "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "3 By 3",
-        "url": "https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV"
-      },
-      "artists": [
-        {
-          "name": "Chymamusique",
-          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
-        }
-      ],
-      "duration_ms": 392304,
-      "name": "Day And Night (Mmawe) - Original Mix",
-      "url": "https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM"
-    },
-    {
       "added_at": "2022-11-10 21:59:00",
       "album": {
-        "name": "Synonymous",
-        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
+        "name": "Next Generation",
+        "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
       },
       "artists": [
         {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+          "name": "Alexsir",
+          "url": "https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV"
+        },
+        {
+          "name": "Trust SA",
+          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
         }
       ],
-      "duration_ms": 412813,
-      "name": "Synonymous",
-      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
+      "duration_ms": 342887,
+      "name": "Monomotapa",
+      "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -643,22 +647,18 @@
     {
       "added_at": "2022-11-10 21:59:00",
       "album": {
-        "name": "Next Generation",
-        "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
+        "name": "Synonymous",
+        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
       },
       "artists": [
         {
-          "name": "Alexsir",
-          "url": "https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV"
-        },
-        {
-          "name": "Trust SA",
-          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
         }
       ],
-      "duration_ms": 342887,
-      "name": "Monomotapa",
-      "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
+      "duration_ms": 412813,
+      "name": "Synonymous",
+      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -803,6 +803,58 @@
     {
       "added_at": "2022-11-10 21:59:00",
       "album": {
+        "name": "A (Ray)",
+        "url": "https://open.spotify.com/album/7wZwrvSUnOoUMKtGwYxqNM"
+      },
+      "artists": [
+        {
+          "name": "Slotta",
+          "url": "https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ"
+        }
+      ],
+      "duration_ms": 424810,
+      "name": "On It",
+      "url": "https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+      },
+      "artists": [
+        {
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+        }
+      ],
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "She's On Fire",
+        "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Fako",
+          "url": "https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1"
+        }
+      ],
+      "duration_ms": 402000,
+      "name": "She's On Fire",
+      "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
         "name": "OOO: AFRO",
         "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
       },
@@ -837,42 +889,6 @@
       "url": "https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "She's On Fire",
-        "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Fako",
-          "url": "https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1"
-        }
-      ],
-      "duration_ms": 402000,
-      "name": "She's On Fire",
-      "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
-      },
-      "artists": [
-        {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
-        }
-      ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
-    },
-    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Love Me",
@@ -887,42 +903,6 @@
       "duration_ms": 392431,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Necessary",
-        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
-      },
-      "artists": [
-        {
-          "name": "Dearson",
-          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
-        },
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        }
-      ],
-      "duration_ms": 395709,
-      "name": "Love I Know",
-      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "A (Ray)",
-        "url": "https://open.spotify.com/album/7wZwrvSUnOoUMKtGwYxqNM"
-      },
-      "artists": [
-        {
-          "name": "Slotta",
-          "url": "https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ"
-        }
-      ],
-      "duration_ms": 424810,
-      "name": "On It",
-      "url": "https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN"
     },
     {
       "added_at": "2022-09-19 09:57:52",
@@ -947,6 +927,26 @@
       "duration_ms": 428000,
       "name": "Out Out",
       "url": "https://open.spotify.com/track/01GL8puSkU5QHyf8pLdiyj"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Necessary",
+        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
+      },
+      "artists": [
+        {
+          "name": "Dearson",
+          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
+        },
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        }
+      ],
+      "duration_ms": 395709,
+      "name": "Love I Know",
+      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
     },
     {
       "added_at": "2022-09-29 21:59:00",

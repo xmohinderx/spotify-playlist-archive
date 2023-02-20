@@ -1,12 +1,12 @@
 {
   "description": "Time to press play on these jaem jams from 2010 onwards! Cover: NewJeans",
-  "num_followers": 247830,
+  "num_followers": 247965,
   "original_name": "Nolja!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM1NTcwMCwwMDAwMDAwMDQwNGQ2MTZhY2IzN2ViMDBiOGY5OGU3YjAxM2VhMzU2",
+  "snapshot_id": "MTY3NjM1NTcwMCwwMDAwMDAwMGM1NDk3NjliNTI0N2JlYjEwZDE2OTExNTZjYjA2MTE1",
   "tracks": [
     {
       "added_at": "2023-01-16 06:39:07",
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
     },
     {
-      "added_at": "2023-02-19 06:24:39",
+      "added_at": "2023-02-20 01:06:49",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
-      "added_at": "2023-02-19 06:24:39",
+      "added_at": "2023-02-20 01:06:49",
       "album": {
         "name": "SPIN OFF : FROM THE WITNESS",
         "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
     },
     {
-      "added_at": "2023-02-19 06:24:39",
+      "added_at": "2023-02-20 01:06:49",
       "album": {
         "name": "Gonna Be Alright",
         "url": "https://open.spotify.com/album/6RPpa5Wj8EfSAkOLBE8Nbe"
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-01-16 06:39:07",
       "album": {
-        "name": "CHESHIRE",
-        "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Cheshire",
-      "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
-    },
-    {
-      "added_at": "2023-01-16 06:39:07",
-      "album": {
         "name": "ENTWURF",
         "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 165746,
       "name": "DICE",
       "url": "https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H"
+    },
+    {
+      "added_at": "2023-01-16 06:39:07",
+      "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Cheshire",
+      "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
     },
     {
       "added_at": "2023-01-16 06:39:07",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-01-16 06:39:07",
       "album": {
-        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
-        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
+        "name": "I NEVER DIE",
+        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 178453,
-      "name": "_WORLD",
-      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
+      "duration_ms": 160520,
+      "name": "MY BAG",
+      "url": "https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P"
     },
     {
       "added_at": "2023-01-16 06:39:07",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-01-16 06:39:07",
       "album": {
-        "name": "I NEVER DIE",
-        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
+        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
+        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 160520,
-      "name": "MY BAG",
-      "url": "https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P"
+      "duration_ms": 178453,
+      "name": "_WORLD",
+      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
     },
     {
       "added_at": "2023-01-16 06:39:07",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-16 06:39:07",
       "album": {
-        "name": "ZOOM",
-        "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "ZOOM",
-      "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
-    },
-    {
-      "added_at": "2023-01-16 06:39:07",
-      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 169566,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/2wVDWtLKXunswWecARNILj"
+    },
+    {
+      "added_at": "2023-01-16 06:39:07",
+      "album": {
+        "name": "ZOOM",
+        "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
     },
     {
       "added_at": "2023-01-16 06:39:07",

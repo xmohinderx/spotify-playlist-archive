@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 
 > Come on, man\. Just smile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,797 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,868 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 | 45 | [Jah Is There](https://open.spotify.com/track/05aGKJ2UcIjF9DetAnU0qF) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Dread & Terrible Project \- 5th Anniversary \(Deluxe Edition\)](https://open.spotify.com/album/3T5KaIlXqSnWUlnM99mOjv) | 4:17 |
 | 46 | [Warm & Easy](https://open.spotify.com/track/2K02J8shfay33u49WhlaZg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Warm & Easy](https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl) | 4:55 |
 | 47 | [Push Time](https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Push Time](https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG) | 3:01 |
-| 48 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Junior Demus](https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 |
-| 49 | [Wonderful World, Beautiful People \- Single Version](https://open.spotify.com/track/4GEz5ZGMPcX9OZ5ta0v85e) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Best Of / 20th Century Masters](https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA) | 3:13 |
+| 48 | [Wonderful World, Beautiful People \- Single Version](https://open.spotify.com/track/4GEz5ZGMPcX9OZ5ta0v85e) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Best Of / 20th Century Masters](https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA) | 3:13 |
+| 49 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Junior Demus](https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 |
 | 50 | [Grateful](https://open.spotify.com/track/1wslSV8ppr83jS3fWHHYQT) | [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Grateful](https://open.spotify.com/album/5tU3ADncFHfdDScnuzWTXa) | 4:33 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDM2NGQzODBhYmY2ZTIxZGFiMTM2NDE0OGM3NjEwOWQ0`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDkwNjFlZDBhNzZhNzdlNjRiMDQ2MmQ4ZmM2MzY0MWE1`

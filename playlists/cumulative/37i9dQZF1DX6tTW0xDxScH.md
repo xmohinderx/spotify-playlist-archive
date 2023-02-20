@@ -4,7 +4,7 @@
 
 > Where everything is lovely and snuggly <3
 
-252 songs - 15 hr 52 min
+253 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Campfire](https://open.spotify.com/track/41ME5dAx2Qe1pfZ0ypuCBu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Campfire](https://open.spotify.com/album/6kXIKI0RpjMBNKT80mc4Ni) | 5:19 | 2021-10-18 | 2022-07-29 |
 | [Can We \(with Kacy Hill\)](https://open.spotify.com/track/5mVWKI0OgsFIXF8aJccfO8) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [EPHEMERA](https://open.spotify.com/album/0elpfsW5SObWj2BmXLpOwo) | 2:51 | 2021-10-18 | 2022-02-26 |
 | [Candy](https://open.spotify.com/track/45ZmUXITNXixqBjelRmBSO) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Sunny Side Up](https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b) | 4:58 | 2022-09-02 | 2023-01-07 |
-| [Catch Your Eye](https://open.spotify.com/track/6GPVKiXpyWUS6qAxxOoVrq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Catch Your Eye](https://open.spotify.com/album/3sfQAESJhc6JQDLPYvdg00) | 2:42 | 2023-01-06 |  |
+| [Catch Your Eye](https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:42 | 2023-02-07 |  |
+| [Catch Your Eye](https://open.spotify.com/track/6GPVKiXpyWUS6qAxxOoVrq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Catch Your Eye](https://open.spotify.com/album/3sfQAESJhc6JQDLPYvdg00) | 2:42 | 2023-01-06 | 2023-02-20 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-01-06 |  |
 | [Change](https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Change](https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C) | 1:30 | 2021-10-18 |  |
 | [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 | 2021-10-18 |  |

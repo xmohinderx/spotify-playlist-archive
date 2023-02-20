@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 142453,
+  "num_followers": 142529,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwMjgwMCwwMDAwMDAwMDA4MGMzYzUzY2JlNTNmZDdhNmE3NWY1NDI0NmNiMWZi",
+  "snapshot_id": "MTY3NjYwMjgwMCwwMDAwMDAwMDNmNDE1NTQwZjQ2Nzc3Y2U5MmMyODc5NjM5YjZlMjY4",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Garc\u00eda 87/93",
         "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 255266,
       "name": "Hablando a Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Vol I",
-        "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
       "artists": [
         {
-          "name": "GIT",
-          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
         }
       ],
-      "duration_ms": 266786,
-      "name": "La Calle Es Su Lugar",
-      "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
+      "duration_ms": 266133,
+      "name": "A Veces Vuelvo",
+      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+        "name": "Vol I",
+        "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
       },
       "artists": [
         {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+          "name": "GIT",
+          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
         }
       ],
-      "duration_ms": 266133,
-      "name": "A Veces Vuelvo",
-      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
+      "duration_ms": 266786,
+      "name": "La Calle Es Su Lugar",
+      "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Magia Veneno",
+      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "M\u00e1quina de Sangre",
         "url": "https://open.spotify.com/album/2CzDXrQbEVI5gJq79rvBZx"
       },
@@ -1055,26 +1071,6 @@
       "duration_ms": 211653,
       "name": "Como Al\u00ed",
       "url": "https://open.spotify.com/track/7Gjlbz4TEoeBGH43eEd3hs"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Locales Calientes",
-        "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        },
-        {
-          "name": "Carlos Tarque",
-          "url": "https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR"
-        }
-      ],
-      "duration_ms": 247419,
-      "name": "Tan Distintos",
-      "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1099,18 +1095,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+        "name": "Locales Calientes",
+        "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
       },
       "artists": [
         {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        },
+        {
+          "name": "Carlos Tarque",
+          "url": "https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR"
         }
       ],
-      "duration_ms": 238573,
-      "name": "Magia Veneno",
-      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
+      "duration_ms": 247419,
+      "name": "Tan Distintos",
+      "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
     },
     {
       "added_at": "2023-02-17 03:00:00",

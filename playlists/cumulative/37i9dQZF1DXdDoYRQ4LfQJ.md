@@ -4,14 +4,14 @@
 
 > The hottest corridos in the US! Bien Al Tiro con Fuerza Regida & Grupo Marca Registrada
 
-226 songs - 11 hr 32 min
+227 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 Rifles](https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [12 Rifles](https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn) | 2:53 | 2022-06-03 | 2022-10-14 |
 | [18 Libras](https://open.spotify.com/track/36m0b1aad6A4CXq41VYxDe) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 3:05 | 2022-05-27 |  |
 | [18 Libras \(feat\. Hijos de Garcia\)](https://open.spotify.com/track/0ah4bfpe69UbE8AeoTtVNn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Hijos de Garcia](https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:56 | 2022-05-20 |  |
-| [300 Locos](https://open.spotify.com/track/3vuSsB9MXGKftwFcdPXa5b) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [300 Locos](https://open.spotify.com/album/2NiabbGx0zWdPyA9exP1ZH) | 2:56 | 2022-05-20 |  |
+| [300 Locos](https://open.spotify.com/track/3vuSsB9MXGKftwFcdPXa5b) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [300 Locos](https://open.spotify.com/album/2NiabbGx0zWdPyA9exP1ZH) | 2:56 | 2022-05-20 | 2023-02-20 |
 | [38 y Super](https://open.spotify.com/track/2ccEuah5UamtifhUsHoBCR) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:12 | 2022-07-22 | 2022-08-06 |
 | [A 180](https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [A 180](https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4) | 3:01 | 2022-05-20 | 2023-01-10 |
 | [A La Orden \(En Vivo\)](https://open.spotify.com/track/1oy8f5iHt0T4dDCytiPDUU) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [A La Orden \(En Vivo\)](https://open.spotify.com/album/0rKaUscQoEKVfeGn7AedZK) | 2:57 | 2022-05-20 | 2022-09-10 |
@@ -128,6 +128,7 @@
 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 | 2022-05-20 |  |
 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 | 2022-05-20 |  |
 | [Hay Les Encargo](https://open.spotify.com/track/7c5TvrRGKpFlXCyDAiy2WV) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Hay Les Encargo](https://open.spotify.com/album/2pth52UsiIBDwqhuP9UHNS) | 2:42 | 2022-12-22 | 2023-01-23 |
+| [Hay Les Encargo](https://open.spotify.com/track/2oU624ui3RVaSNpMqA4Gd3) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Hay Les Encargo](https://open.spotify.com/album/6rAmk14u7dDPQ0W10ogTwa) | 2:42 | 2023-02-10 |  |
 | [Hay Niveles](https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Hay Niveles](https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL) | 2:02 | 2022-07-22 |  |
 | [Hierba de Receta](https://open.spotify.com/track/2ApWM2QZy7n5zZxwaCvH6j) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 3:15 | 2022-05-20 | 2022-07-29 |
 | [Hublot](https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Hublot](https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG) | 3:45 | 2022-05-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,077 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,196 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 56 | [\(I Just\) Died in Your Arms](https://open.spotify.com/track/4G9ZGwsT2OMkQTfoly4oYe) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [What Doesn't Kill Us](https://open.spotify.com/album/0GcvmP7OqiGImCbGEXv7aI) | 3:26 |
 | 57 | [Bad Guy](https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Bad Guy](https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx) | 2:37 |
 | 58 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
-| 59 | [Easy](https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 3:06 |
-| 60 | [All Along the Watchtower](https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 3:58 |
+| 59 | [All Along the Watchtower](https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 3:58 |
+| 60 | [Easy](https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 3:06 |
 | 61 | [Dream On](https://open.spotify.com/track/5Z3DfEnGBOKC5XMjNlJ8qm) | [Blacktop Mojo](https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2) | [Burn the Ships](https://open.spotify.com/album/27TGyW8JaXeWo971FPfKUi) | 4:25 |
-| 62 | [I Just Don't Know What to Do With Myself](https://open.spotify.com/track/5F6tUpAoDzz5PjJos99176) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 2:46 |
-| 63 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 |
+| 62 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 |
+| 63 | [I Just Don't Know What to Do With Myself](https://open.spotify.com/track/5F6tUpAoDzz5PjJos99176) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 2:46 |
 | 64 | [Ring of Fire](https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 3:50 |
 | 65 | [Separate Ways](https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow EP](https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv) | 5:00 |
 | 66 | [Take on Me](https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:43 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 71 | [Simple Man](https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Simple Man](https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r) | 4:28 |
 | 72 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 |
 | 73 | [Someone You Loved](https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Ashland](https://open.spotify.com/artist/5A8b2V7uCPZgPIwQoKf9Qw) | [Someone You Loved](https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7) | 3:01 |
-| 74 | [The Only Exception \- Spotify Single](https://open.spotify.com/track/3aemIcBosf7udts37BAvXx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY) | 4:44 |
-| 75 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
+| 74 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
+| 75 | [The Only Exception \- Spotify Single](https://open.spotify.com/track/3aemIcBosf7udts37BAvXx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY) | 4:44 |
 | 76 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 |
 | 77 | [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 |
 | 78 | [Nothing Compares 2 U](https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 100 | [Isolation](https://open.spotify.com/track/2yoZimUShwEoCsXEfmRGNV) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl), [Johnny Depp](https://open.spotify.com/artist/3OsHwkxpSIEqqmYoQxZTT5) | [Isolation](https://open.spotify.com/album/22wsBdTOtViVeS3jJ67uHE) | 5:14 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGZiZjQ2ZjRmOTg4MmVkYWZkMTlhZTNjYjJjMzZhZGFl`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGFkNTZjMDg1ODkyZTQ3MGYwZTBjZTg5N2E2MzNlZDg4`

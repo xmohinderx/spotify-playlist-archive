@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: En Sokum\(은소금\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,049 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,087 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 38 | [Night Rather Than Day](https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [Eclipse](https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy) | 3:18 |
 | 39 | [You and Me Together](https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 3:07 |
 | 40 | [SOUL LADY](https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 3:35 |
-| 41 | [Someone like U](https://open.spotify.com/track/5zbxw72g850H4fNMFEO7PC) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [The 9th Mini Album 'Naturalness'](https://open.spotify.com/album/7ajKOgmGaCCrqSVIgxbnNf) | 3:20 |
-| 42 | [Drive to 1980 Love](https://open.spotify.com/track/0zUPlJsBcM5XQiJltgRIYF) | [JANE POP](https://open.spotify.com/artist/79IrVkcarWCAkfjuO17QVj) | [Drive to 1980 Love](https://open.spotify.com/album/5njlZ2Q1ftJUUx6OQ5yKtT) | 3:11 |
+| 41 | [Drive to 1980 Love](https://open.spotify.com/track/0zUPlJsBcM5XQiJltgRIYF) | [JANE POP](https://open.spotify.com/artist/79IrVkcarWCAkfjuO17QVj) | [Drive to 1980 Love](https://open.spotify.com/album/5njlZ2Q1ftJUUx6OQ5yKtT) | 3:11 |
+| 42 | [Someone like U](https://open.spotify.com/track/5zbxw72g850H4fNMFEO7PC) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [The 9th Mini Album 'Naturalness'](https://open.spotify.com/album/7ajKOgmGaCCrqSVIgxbnNf) | 3:20 |
 | 43 | [Thinking About You](https://open.spotify.com/track/5KpdmJ4LiyUIIuqcquCX9d) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/11TnZ6QezfxP2XCK37HSZ2) | 3:29 |
 | 44 | [After a long time\(Digging Club Seoul Ver.\)](https://open.spotify.com/track/6PJ1sh2oLgYQE9hpUivC8k) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb), [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh) | [After a Long Time \(Digging Club Seoul Ver.\)](https://open.spotify.com/album/2tETtfB9qQGJ60gNmESEz3) | 4:12 |
 | 45 | [사랑이 떠나려 할 때 Faded Love](https://open.spotify.com/track/6c1PYAfNfZ6rWUwFNciOMw) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) | 3:53 |
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 77 | [NEPTUNE](https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:33 |
 | 78 | [샴푸의 요정](https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [빛과 소금](https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7) | 3:47 |
 | 79 | [Sparkling](https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Sparkling](https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp) | 3:51 |
-| 80 | [MOOD FOR LOVE](https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls) | 3:24 |
-| 81 | [City Drive](https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [City Drive](https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1) | 3:27 |
-| 82 | [TALK](https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4) | [TIFFANY](https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4) | [I Just Wanna Dance \- The 1st Mini Album](https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU) | 3:34 |
+| 80 | [TALK](https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4) | [TIFFANY](https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4) | [I Just Wanna Dance \- The 1st Mini Album](https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU) | 3:34 |
+| 81 | [MOOD FOR LOVE](https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls) | 3:24 |
+| 82 | [City Drive](https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [City Drive](https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1) | 3:27 |
 | 83 | [코코넛 러브 Coconut Love](https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [코코넛 러브 Coconut Love](https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk) | 3:14 |
 | 84 | [Brave New World](https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [BASIC](https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS) | 4:01 |
 | 85 | [S.O.S](https://open.spotify.com/track/6AFTQ1U8UwAZt1yG1bs9pN) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [S.O.S](https://open.spotify.com/album/2sfzPfHxZZ5zYro4dHuCjF) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 99 | [Hope](https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:28 |
 | 100 | [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 |
 
-Snapshot ID: `MTY3NjM2MDQ2MiwwMDAwMDAwMDkyOTViZWFiMmNkOGNkMzI0OTQxYTgxODU0N2ZlZGUy`
+Snapshot ID: `MTY3NjM2MDQ2MiwwMDAwMDAwMGMxM2RiZTMzNzIxMTQzY2U0NWNhMGNjZjkyNTlmNzJk`

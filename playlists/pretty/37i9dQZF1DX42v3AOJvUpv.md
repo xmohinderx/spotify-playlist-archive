@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,911 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,926 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 38 | [Wadu Wadu](https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Wadu Wadu](https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU) | 2:36 |
 | 39 | [A Cada Hombre, A Cada Mujer](https://open.spotify.com/track/15YgfiMf7ArHQOLQ1fZEEC) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 3:53 |
 | 40 | [Jugando Hulla Hulla](https://open.spotify.com/track/2cJ3haVTlqsA94NUD9Zmo2) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [La Dicha En Movimiento](https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo) | 2:42 |
-| 41 | [Héroes](https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE) | [Friccion](https://open.spotify.com/artist/5MoGn6jc9GHCMiWzccjWRD) | [Heroes / Antologia 1986 \- 1988](https://open.spotify.com/album/5hTIPpvzJIy2Os07sMSWP5) | 6:19 |
-| 42 | [La Llama de Tu Amor](https://open.spotify.com/track/4UzckxebrukyreeLZGw6z9) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 3:45 |
+| 41 | [La Llama de Tu Amor](https://open.spotify.com/track/4UzckxebrukyreeLZGw6z9) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 3:45 |
+| 42 | [Héroes](https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE) | [Friccion](https://open.spotify.com/artist/5MoGn6jc9GHCMiWzccjWRD) | [Heroes / Antologia 1986 \- 1988](https://open.spotify.com/album/5hTIPpvzJIy2Os07sMSWP5) | 6:19 |
 | 43 | [Conexión París](https://open.spotify.com/track/24X9r3zeRgB4VTLz75TRw9) | [Sobrecarga](https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD) | [Sentidos Congelados](https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ) | 5:01 |
 | 44 | [Sin Gamulán](https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 3:14 |
 | 45 | [Vía México](https://open.spotify.com/track/2F1vbTtyEC531VQhqh2LlK) | [Suéter](https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT) | [20 Caras Bonitas](https://open.spotify.com/album/7jNFPw0fZoJVM4DoOfi8Lg) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 49 | [Recuerdo Esa Canción \- Remastered 2017](https://open.spotify.com/track/55mh9gIYZ2OWd9mxLtt8hV) | [Graffiti](https://open.spotify.com/artist/2ZgRrMPrfyF09AxK77ERBj) | [Exhibición Condicionada \(Remastered 2017\)](https://open.spotify.com/album/1fmO6qMzdt1euO1OI5WM0o) | 4:15 |
 | 50 | [Pensé Que Se Trataba De Cieguitos](https://open.spotify.com/track/4gj3E6oY45dzFsZpUA9Dnn) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [S.O.S\. Sos Una Rica Banana \- Serie Libre Acceso](https://open.spotify.com/album/0qTnzXJEpAq4vE8EfQadWO) | 2:22 |
 
-Snapshot ID: `MTU4NDM3NTE2MiwwMDAwMDAwMDE5N2NlZmQ2NTRhODc3NWY0MmQwNDAxYTMyYzU5ZGVl`
+Snapshot ID: `MTU4NDM3NTE2MiwwMDAwMDAwMDk4NWQxNWIxN2E2MTBhM2U4ZjM3M2YxMDQzOTE1OTk4`

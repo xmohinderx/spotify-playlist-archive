@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,216 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,241 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 5 | [Floating](https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:15 |
 | 6 | [Evermore](https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy) | 3:43 |
 | 7 | [Breathe Again \- Acoustic](https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Breathe Again \(Acoustic\)](https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D) | 3:18 |
-| 8 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 |
-| 9 | [What I Do](https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 3:35 |
+| 8 | [What I Do](https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 3:35 |
+| 9 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 |
 | 10 | [This City \- Acoustic](https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City \(Acoustic\)](https://open.spotify.com/album/7I1apkSOmeAPBcbShwxlUx) | 3:26 |
 | 11 | [Stoney Creek](https://open.spotify.com/track/0ik7YpGVcjTkXBrUv4SaqR) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Jan Juc Moon](https://open.spotify.com/album/0zXonPXtpDEb32sy6PkTsw) | 4:37 |
 | 12 | [Without Your Love](https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:30 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 15 | [Bottle It Up](https://open.spotify.com/track/6Kevag30eZxaL3MBo6dIdL) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Bottle It Up](https://open.spotify.com/album/6KyRKYNzETURqiupPRygbg) | 3:05 |
 | 16 | [Every Side Of You](https://open.spotify.com/track/1tLQcfwXi8Hbu4hamp7tQ5) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:24 |
 | 17 | [Call Me Home](https://open.spotify.com/track/3muMlQEQ4NyqABXTMMR6h0) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Call Me Home](https://open.spotify.com/album/2TKje4b92lHi8G5lIZogbN) | 3:21 |
-| 18 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
-| 19 | [Inappropriate Behaviour](https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Inappropriate Behaviour](https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY) | 3:16 |
+| 18 | [Inappropriate Behaviour](https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Inappropriate Behaviour](https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY) | 3:16 |
+| 19 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
 | 20 | [heartbeat](https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:31 |
 | 21 | [Take Me Home](https://open.spotify.com/track/28SkzelgDhmDCjl61yFF3I) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 4:54 |
 | 22 | [Home to You](https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Home to You](https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD) | 3:33 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 42 | [Friend](https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:17 |
 | 43 | [Standing Still](https://open.spotify.com/track/023e5V4Q5ZGtqMaPP6imtm) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [I Don't Know Who to Call](https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P) | 4:57 |
 | 44 | [Hold You](https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:46 |
-| 45 | [Tell Me What You Dream About](https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Tell Me What You Dream About](https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo) | 3:17 |
+| 45 | [Society's a Mansion](https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk) | [Mimi Gilbert](https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P) | [Grew Inside the Water](https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY) | 4:44 |
 | 46 | [TATTOOS](https://open.spotify.com/track/2oS1CW1vbfD8t1I6As9ZhR) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG) | 2:41 |
-| 47 | [Society's a Mansion](https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk) | [Mimi Gilbert](https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P) | [Grew Inside the Water](https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY) | 4:44 |
-| 48 | [Start Again](https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [The Future of an End](https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2) | 3:14 |
-| 49 | [What It Means to Be Human](https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [What It Means to Be Human](https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q) | 4:35 |
+| 47 | [Tell Me What You Dream About](https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Tell Me What You Dream About](https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo) | 3:17 |
+| 48 | [What It Means to Be Human](https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [What It Means to Be Human](https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q) | 4:35 |
+| 49 | [Start Again](https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [The Future of an End](https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2) | 3:14 |
 | 50 | [After the Sun](https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0) | 3:33 |
 | 51 | [Simple Question](https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Simple Question](https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv) | 4:32 |
 | 52 | [Electricity](https://open.spotify.com/track/2s0jL6JXs2zAGtMnQcXfLb) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Electricity](https://open.spotify.com/album/75yWoDsXCy1Im9m4kGs42C) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 59 | [Feel Like Clarity](https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb) | [Gaudion](https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI) | [Feel Like Clarity](https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk) | 3:08 |
 | 60 | [Outside Kinda Kids](https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Outside Kinda Kids](https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji) | 3:15 |
 
-Snapshot ID: `MTY3MzUyODQwMCwwMDAwMDAwMGM4ZjhkOTIxYmFkOWM5MzdlODhmMGQ4OTBkZWMyYWU5`
+Snapshot ID: `MTY3MzUyODQwMCwwMDAwMDAwMGM3NzgxMDU1MWVmNmQ4ZDhjMjRjM2FmYzE5MTZlZDc2`

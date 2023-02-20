@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,985 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,297 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 31 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 |
 | 32 | [Suicide Cleanup](https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc) | [Birth Day](https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 2:21 |
 | 33 | [In Two](https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [In Two](https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh) | 2:23 |
-| 34 | [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 |
-| 35 | [Fall With Me](https://open.spotify.com/track/5E1duMn3Gz5CtPeEF8Vty2) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [New Ways To Die](https://open.spotify.com/album/3H01vIyYQn5cYiL1QeFIGA) | 4:02 |
+| 34 | [Fall With Me](https://open.spotify.com/track/5E1duMn3Gz5CtPeEF8Vty2) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [New Ways To Die](https://open.spotify.com/album/3H01vIyYQn5cYiL1QeFIGA) | 4:02 |
+| 35 | [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 |
 | 36 | [tell me a joke](https://open.spotify.com/track/2fOYcnUo9iPTOqIlSg26MY) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 5:04 |
 | 37 | [song i made up to stop myself from having a panic attack just now \(ft\. rich\)](https://open.spotify.com/track/0LTOpiPy2PahUkpMYLW3JL) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [song i made up to stop myself from having a panic attack just now](https://open.spotify.com/album/7ubczqQBG332NdZGDYdtu0) | 0:41 |
 | 38 | [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 49 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 |
 | 50 | [you're not the one that i want](https://open.spotify.com/track/4qj1tji798varSboYl713s) | [Nouns](https://open.spotify.com/artist/54pzZYU7PNFAN1O5H715fk) | [still bummed](https://open.spotify.com/album/0TmbsFrbOcvrBXLZkVGRru) | 3:12 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDVjZGMxZjRlNmU2ZGU5M2U0MTkwYTZiMzY5NjVmNmUw`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDY0OTUyY2QwM2Q3ZTIyYzhjMTU3MGI4YmIxZWU4NjVm`

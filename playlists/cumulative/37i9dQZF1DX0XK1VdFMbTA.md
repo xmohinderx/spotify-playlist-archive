@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-845 songs - 2 day 11 hr 2 min
+846 songs - 2 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Give It Time](https://open.spotify.com/track/2Di6Ux5GGd9uvhkUSDfFb3) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 5:46 | 2022-01-05 | 2022-07-28 |
 | [Give Me Love \(Give Me Peace On Earth\)](https://open.spotify.com/track/0UkZexeWaFY7geHlCLqjQR) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living In The Material World \(Remastered\)](https://open.spotify.com/album/7be23wKM6wpduQKzbCcvH3) | 3:35 | 2022-01-05 | 2022-07-29 |
 | [Give Me Love \(Give Me Peace On Earth\)](https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living In The Material World \(Remastered\)](https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg) | 3:35 | 2022-01-05 | 2023-02-19 |
+| [Give Me Love \(Give Me Peace on Earth\) \- 2014 Remaster](https://open.spotify.com/track/71fXxvXqo1zxWDtBmjoEVk) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living in the Material World \(2014 Remaster\)](https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os) | 3:35 | 2022-11-17 |  |
 | [Giving It All Away](https://open.spotify.com/track/4oagIqqxeeT4ehp7YjsiYn) | [Roger Daltrey](https://open.spotify.com/artist/5odf7hjI7hyvAw66tmxhGF) | [Giving It All Away](https://open.spotify.com/album/6HLdPVfWnhmwcN8W163jBQ) | 3:27 | 2022-01-05 |  |
 | [Glycerine Queen](https://open.spotify.com/track/2aFC2VWRYKaGjXq8pGanqw) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:49 | 2022-01-05 | 2022-11-13 |
 | [Glycerine Queen](https://open.spotify.com/track/4afiT3hIHlKOb7HvPs6qIu) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW) | 3:49 | 2022-01-05 | 2022-07-29 |
@@ -422,7 +423,7 @@
 | [Lean Woman Blues](https://open.spotify.com/track/3UXdsBvMjXNNlugyTSz3IJ) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 2:59 | 2022-01-05 | 2022-07-28 |
 | [Lean Woman Blues](https://open.spotify.com/track/1KlVA8zxjYFt3hPNDPNBZp) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/4Yw5uS8at8GkWmH2gZmLY0) | 3:02 | 2022-01-05 | 2022-11-13 |
 | [Let It Down \- Original Guitar And Vocal / Remastered 2014](https://open.spotify.com/track/790HGH8bq17Mp5FhBqyrYM) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:55 | 2022-01-05 | 2023-01-22 |
-| [Let It Down \- Original Guitar and Vocal; 2014 Remaster](https://open.spotify.com/track/6smhNiuOJqsG6uC3Dto4fz) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 3:55 | 2022-11-17 |  |
+| [Let It Down \- Original Guitar and Vocal; 2014 Remaster](https://open.spotify.com/track/6smhNiuOJqsG6uC3Dto4fz) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 3:55 | 2022-11-17 | 2023-02-20 |
 | [Let It Grow](https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:58 | 2022-01-05 |  |
 | [Let It Loose](https://open.spotify.com/track/7D2f7zoIwRxeIhmeer8aWm) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 5:17 | 2022-01-05 | 2022-07-29 |
 | [Let It Ride](https://open.spotify.com/track/3UQA4UTVqcI0VtSQ38nlq1) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:27 | 2022-01-05 |  |

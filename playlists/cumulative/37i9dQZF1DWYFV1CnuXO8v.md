@@ -4,7 +4,7 @@
 
 > عيش أجمل حاله حب 🫶
 
-134 songs - 8 hr 32 min
+136 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Betewhasheiny](https://open.spotify.com/track/0BPqBuNdkz210zBh9AbC4m) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Tewedny Leih](https://open.spotify.com/album/74Httxkj689OzX0tJeCxP7) | 4:48 | 2023-02-13 |  |
 | [Da Hob Wala](https://open.spotify.com/track/4xVzoQG6nCGk8WYEg4rZPm) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:25 | 2023-02-13 |  |
 | [Diplomacy](https://open.spotify.com/track/6lUgUYvwmJSzXBR1drpxKh) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Diplomacy](https://open.spotify.com/album/3Wvg3cSabfpRxclOh26mDL) | 3:22 | 2023-02-13 |  |
+| [Diva](https://open.spotify.com/track/0ECT1q8mtxBE7cCRIeCXO2) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Diva](https://open.spotify.com/album/0WRvr1ZggOBKzYMSpCUZ1r) | 2:52 | 2023-02-16 |  |
 | [El Hob Dayaani](https://open.spotify.com/track/1d8a7PXLEjkTtEuz5hWuv2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [El Hob Dayaani](https://open.spotify.com/album/4GQkyZMC7NjgtfMwdIkWrs) | 3:10 | 2023-02-13 |  |
 | [El Hob El Ha'ei'y](https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [El Hob El Ha'ei'y](https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75) | 5:44 | 2023-02-13 |  |
 | [El Hob El Kebir](https://open.spotify.com/track/093CMFUwvPyFIsjBsVfBPO) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 5:15 | 2023-02-13 |  |
@@ -77,7 +78,7 @@
 | [Lamastak](https://open.spotify.com/track/0IGpoBDmY2CJNeOP2YjQPm) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Ayamy](https://open.spotify.com/album/3JMzFom0BGg3PxUgdSS4WH) | 3:53 | 2023-02-13 |  |
 | [Law Hatsib](https://open.spotify.com/track/7h7FKF2JBDa6xChi3z9KxC) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2023-02-13 |  |
 | [Loha Bahta](https://open.spotify.com/track/4qzZfVfmn8eSIRjHANyacT) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Loha Bahta](https://open.spotify.com/album/2f4UyBHV6OigpFp0GG5drs) | 4:22 | 2023-02-13 |  |
-| [Maaloba Hayaty](https://open.spotify.com/track/1J3fMjtLX9Am5iLNrhHRmR) | [Shaza](https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b) | [Maaloba Hayaty](https://open.spotify.com/album/6zn3nAXGhehDhp2enqc00j) | 4:08 | 2023-02-13 |  |
+| [Maaloba Hayaty](https://open.spotify.com/track/1J3fMjtLX9Am5iLNrhHRmR) | [Shaza](https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b) | [Maaloba Hayaty](https://open.spotify.com/album/6zn3nAXGhehDhp2enqc00j) | 4:08 | 2023-02-13 | 2023-02-20 |
 | [Mabalash](https://open.spotify.com/track/40BMID1JwcJZYeTS1t6stp) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Omroh Ma Yeghib](https://open.spotify.com/album/3U6oFvwXd6i8LFbbhqmKQq) | 4:08 | 2023-02-13 |  |
 | [Mahmoum](https://open.spotify.com/track/6keIjQDrcBBjOqVwihbCUs) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Mahmoum](https://open.spotify.com/album/2fTNRkiGfbpb51e9ebgvOc) | 3:00 | 2023-02-13 |  |
 | [Malek El Fabraka](https://open.spotify.com/track/6DdXM6uwl9XuGIVwP7bXOx) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Malek El Fabraka](https://open.spotify.com/album/2T3oPO96g0IUsYb9uD2ULT) | 3:23 | 2023-02-13 |  |
@@ -94,6 +95,7 @@
 | [Piece Of My Heart](https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Piece Of My Heart](https://open.spotify.com/album/6vY2pZ4Rzik0z0sC0D677x) | 3:09 | 2023-02-13 |  |
 | [Rabe3 Fengan Ahwa](https://open.spotify.com/track/7arsxgfPgULHOa5rsENcZI) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Rabe3 Fengan Ahwa](https://open.spotify.com/album/0KpM26FhOZpln9EQeJ4OBm) | 3:30 | 2023-02-13 |  |
 | [Roh El Roh](https://open.spotify.com/track/2d1YGwEyCdZWSNUq8RdNOF) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Roh El Roh](https://open.spotify.com/album/3CLCOTwffwGNxTr3mPjWup) | 2:46 | 2023-02-13 |  |
+| [Sad Khana](https://open.spotify.com/track/1AIQIDVTAbmlOSNdhOjUlc) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Sad Khana](https://open.spotify.com/album/1Ejmq4KPVN6jDkZmWfTIFt) | 3:52 | 2023-02-16 |  |
 | [Shabah El Sama](https://open.spotify.com/track/4oxKGIYNawlTBHK76Ah3eY) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [Shabah El Sama](https://open.spotify.com/album/5oQiH9mow7LFTk0JFcsUZv) | 3:38 | 2023-02-13 |  |
 | [Shofy 7aly](https://open.spotify.com/track/6sl5f589BUW7wz9EWpJG9Q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Shofy 7aly](https://open.spotify.com/album/7jGcinboojeSI12RzVeMW5) | 3:29 | 2023-02-13 |  |
 | [Sunnet El Hayah \(orange Ramadan 2020\)](https://open.spotify.com/track/4Yhx7H7UOXbwsyXwm8ASm7) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sunnet El Hayah \(orange Ramadan 2020\)](https://open.spotify.com/album/6nEAMZsj8M7BPLVH8BBNAu) | 2:26 | 2023-02-13 |  |
@@ -139,7 +141,7 @@
 | [مالناش غير بعض](https://open.spotify.com/track/3hPeKh5bVfDfhQRm9NM84k) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [مالناش غير بعض](https://open.spotify.com/album/3fmEtnlPvivv3f5WDjU510) | 3:48 | 2023-02-13 |  |
 | [مسيلى على عيونك](https://open.spotify.com/track/0iACdftSbsuwVGPE98Nu9X) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [مسيلى على عيونك](https://open.spotify.com/album/5BCxozu0drxusYzl0J0vas) | 3:13 | 2023-02-13 |  |
 | [مين زيها](https://open.spotify.com/track/4Brwtx9VIv6UoXbSB57RO1) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [مين زيها](https://open.spotify.com/album/3JYA7b4RwF1JnAXjcTpJzi) | 3:28 | 2023-02-13 |  |
-| [هنرقص الأيام](https://open.spotify.com/track/0v2hbpxiOMvvpib4VZB1eU) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [هنرقص الأيام](https://open.spotify.com/album/6KG9i8kep5W6akgPNCh4Hm) | 3:32 | 2023-02-13 |  |
+| [هنرقص الأيام](https://open.spotify.com/track/0v2hbpxiOMvvpib4VZB1eU) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [هنرقص الأيام](https://open.spotify.com/album/6KG9i8kep5W6akgPNCh4Hm) | 3:32 | 2023-02-13 | 2023-02-20 |
 | [هو احنا غرب](https://open.spotify.com/track/1elQRhX2LeoWf6QdNbzksN) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [النسخة الجديدة](https://open.spotify.com/album/2Ri8hAF6UfEkpRN5Bc5Kxu) | 3:00 | 2023-02-13 |  |
 | [يوم ما جاني](https://open.spotify.com/track/0APfVkcFTt08Beh57ILcdo) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [يوم ما جاني](https://open.spotify.com/album/7ePGgpsRB1l33EsZaNQGYX) | 3:10 | 2023-02-13 |  |
 

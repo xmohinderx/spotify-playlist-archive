@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "CLASH",
+        "url": "https://open.spotify.com/album/3teqPCjiUVKdmTONZZrrcv"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210773,
+      "name": "CLASH - Edit",
+      "url": "https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g"
+    },
+    {
+      "album": {
         "name": "Closer (feat. Lilly Ahlberg)",
         "url": "https://open.spotify.com/album/17qrrXvZu8TdkH4xrIjaRr"
       },
@@ -2740,7 +2758,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 238306,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/2yCyr5ZJHDm9CzpPRdduJ9"
@@ -3565,6 +3583,24 @@
     },
     {
       "album": {
+        "name": "Let Me Love U",
+        "url": "https://open.spotify.com/album/62nvVdhCk001EdiodfzunA"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189506,
+      "name": "Let Me Love U",
+      "url": "https://open.spotify.com/track/2BoPkeahovHxCSfmmlEl26"
+    },
+    {
+      "album": {
         "name": "Let You Do This",
         "url": "https://open.spotify.com/album/4Dq63kA76g29J8viZ448Zg"
       },
@@ -4280,7 +4316,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 197648,
       "name": "Midnight Rapture",
       "url": "https://open.spotify.com/track/1c5sVhqoQvLHTXTYJTb98i"

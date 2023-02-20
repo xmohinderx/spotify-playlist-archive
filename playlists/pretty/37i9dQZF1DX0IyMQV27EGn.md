@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,465 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,575 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 36 | [You](https://open.spotify.com/track/4RAtSYcB1avIFHPhulXVxA) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [You](https://open.spotify.com/album/0tSfnn1iUiahyqp1m8y3TI) | 3:15 |
 | 37 | [Help Me Mama](https://open.spotify.com/track/42iQ0ozQbqmzQCD0Eq5NOc) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [The Storm](https://open.spotify.com/album/757AemvYYoWCfp729Xp9eG) | 3:05 |
 | 38 | [Dead in the Water](https://open.spotify.com/track/2VHMbDcuKELIqvB7bh1QhE) | [SPELLES](https://open.spotify.com/artist/76UfJrb52tTTiDQNWEeCBY) | [Dead in the Water](https://open.spotify.com/album/5MhrlWBZnRVQrTIRzKkElX) | 3:09 |
-| 39 | [Name on a Matchbook](https://open.spotify.com/track/2KaLy2FmUAGLfNsoMXJWVj) | [Springtime Carnivore](https://open.spotify.com/artist/0EikLJdrz7f8ocaHztUO0S) | [Springtime Carnivore](https://open.spotify.com/album/4wCFY76jpnOHeQ0VAcpPoO) | 4:16 |
-| 40 | [Beside Myself](https://open.spotify.com/track/4qVLEVLK2bbNHBKBuE8JZ3) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/0IGGMUU4aXkCm0TYIsPiUh) | 3:55 |
+| 39 | [Beside Myself](https://open.spotify.com/track/4qVLEVLK2bbNHBKBuE8JZ3) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/0IGGMUU4aXkCm0TYIsPiUh) | 3:55 |
+| 40 | [Name on a Matchbook](https://open.spotify.com/track/2KaLy2FmUAGLfNsoMXJWVj) | [Springtime Carnivore](https://open.spotify.com/artist/0EikLJdrz7f8ocaHztUO0S) | [Springtime Carnivore](https://open.spotify.com/album/4wCFY76jpnOHeQ0VAcpPoO) | 4:16 |
 | 41 | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/track/7GRjFivuEaOyRMYcKGryXz) | [Sonia Leigh](https://open.spotify.com/artist/6xezzx8L2FAC0MsGZSRLxg), [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S), [Rob the Man](https://open.spotify.com/artist/3jO133hmnKXdj74oUVnEyr) | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/album/6gyyN6PWr0zYPg5y3EUOwf) | 3:22 |
 | 42 | [Banshee](https://open.spotify.com/track/3GmYxpXRc62mj4SuJ4WEsl) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Banshee](https://open.spotify.com/album/3dWQ2TtlpW3crGadeOldHe) | 3:46 |
 | 43 | [Dark River](https://open.spotify.com/track/0b9sQP9v5pqIHOG2bEJhRu) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/72vwwazB0Mccfmaev230zw) | 3:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Hopeless Romantic](https://open.spotify.com/track/4rxll3CP6XklLuoki7A26P) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 3:30 |
 | 70 | [Presence](https://open.spotify.com/track/2wntS3awxMEUUJOd3Py19o) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 2:51 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDliMjA2N2RiNzdmMTNkNjRiZTliMDQ2MGQ0ZDE3ODk0`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDU3NzdhOGIwZThlOTVhNGI1ZmY4MDU5NjFlN2U3NjAy`

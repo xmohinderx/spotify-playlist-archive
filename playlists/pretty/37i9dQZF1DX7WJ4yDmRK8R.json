@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: The Interrupters",
-  "num_followers": 334556,
+  "num_followers": 334662,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYxMTUzOSwwMDAwMDAwMGM2NjFmNmNkYTcwYjg5ZTEwYjc5NGZmZTY0NmRhZDA0",
+  "snapshot_id": "MTY3MDYxMTUzOSwwMDAwMDAwMDg0NTljZWFhNDBmMTdjOTAzMDA5ZGVhMWVjNTMzM2U3",
   "tracks": [
     {
       "added_at": "2022-12-09 18:45:39",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 204026,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
+        "name": "Funky Kingston",
+        "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Funky Kingston",
+      "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
         "name": "I Just Can't Stop It (Remastered)",
         "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
       },
@@ -367,38 +383,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "In The Wild",
-        "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "In The Mirror",
-      "url": "https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
-        "name": "Funky Kingston",
-        "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Funky Kingston",
-      "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "The Specials (Deluxe Version)",
         "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 366760,
       "name": "Too Much Too Young - 2015 Remaster",
       "url": "https://open.spotify.com/track/1u2bt26ipUrk4kHvcLXl6R"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "In The Wild",
+        "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "In The Mirror",
+      "url": "https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Say It Out Loud",
-        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 205723,
-      "name": "She Got Arrested",
-      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Let's Face It",
         "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
       },
@@ -479,22 +463,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Keasbey Nights",
-        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
-      },
-      "artists": [
-        {
-          "name": "Catch 22",
-          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
-        }
-      ],
-      "duration_ms": 116946,
-      "name": "9mm And A Three Piece Suit",
-      "url": "https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Everything Goes Numb",
         "url": "https://open.spotify.com/album/5slTcrsJ9B8Q4q8rA135XE"
       },
@@ -507,6 +475,38 @@
       "duration_ms": 209973,
       "name": "Everything Went Numb",
       "url": "https://open.spotify.com/track/0TZ1MAPCWb2jpaKzS5Muyz"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Too Much Too Young",
+        "url": "https://open.spotify.com/album/1fQdhVhPHskHwwMYkJqPwB"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/40WVjx6iopjm9jbRLgWUno"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Keasbey Nights",
+        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
+      },
+      "artists": [
+        {
+          "name": "Catch 22",
+          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
+        }
+      ],
+      "duration_ms": 116946,
+      "name": "9mm And A Three Piece Suit",
+      "url": "https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Too Much Too Young",
-        "url": "https://open.spotify.com/album/1fQdhVhPHskHwwMYkJqPwB"
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
       },
       "artists": [
         {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Rat Race",
-      "url": "https://open.spotify.com/track/40WVjx6iopjm9jbRLgWUno"
+      "duration_ms": 205723,
+      "name": "She Got Arrested",
+      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
+        "name": "Somewhere in the Between",
+        "url": "https://open.spotify.com/album/0uecz2X2V83TuxOwJv7mgg"
+      },
+      "artists": [
+        {
+          "name": "Streetlight Manifesto",
+          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "We Will Fall Together",
+      "url": "https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
         "name": "Never Look Back",
         "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 420840,
       "name": "Rock Fort Rock",
       "url": "https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
-        "name": "Somewhere in the Between",
-        "url": "https://open.spotify.com/album/0uecz2X2V83TuxOwJv7mgg"
-      },
-      "artists": [
-        {
-          "name": "Streetlight Manifesto",
-          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "We Will Fall Together",
-      "url": "https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Willis",
-        "url": "https://open.spotify.com/album/2p6CFGaXrhWuV7RbpL7xXY"
-      },
-      "artists": [
-        {
-          "name": "The Pietasters",
-          "url": "https://open.spotify.com/artist/7tleIwvDsYTM0MAXBTOeKn"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Out All Night",
-      "url": "https://open.spotify.com/track/5GG2T4nFuS1L5xb9U3iJ8G"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "A Poets Life",
         "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 181826,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Willis",
+        "url": "https://open.spotify.com/album/2p6CFGaXrhWuV7RbpL7xXY"
+      },
+      "artists": [
+        {
+          "name": "The Pietasters",
+          "url": "https://open.spotify.com/artist/7tleIwvDsYTM0MAXBTOeKn"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "Out All Night",
+      "url": "https://open.spotify.com/track/5GG2T4nFuS1L5xb9U3iJ8G"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "A Good Day for the Damned",
-        "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
-      },
-      "artists": [
-        {
-          "name": "Jaya The Cat",
-          "url": "https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy"
-        }
-      ],
-      "duration_ms": 206523,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Keasbey Nights",
         "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 194146,
       "name": "On & On & On",
       "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "A Good Day for the Damned",
+        "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
+      },
+      "artists": [
+        {
+          "name": "Jaya The Cat",
+          "url": "https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy"
+        }
+      ],
+      "duration_ms": 206523,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Sound the Alarm",
-        "url": "https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 168182,
-      "name": "Things Change",
-      "url": "https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Destruction By Definition",
         "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 188640,
       "name": "Break The Glass",
       "url": "https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Sound the Alarm",
+        "url": "https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 168182,
+      "name": "Things Change",
+      "url": "https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Gemini, Her Majesty",
-        "url": "https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF"
-      },
-      "artists": [
-        {
-          "name": "Rx Bandits",
-          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
-        }
-      ],
-      "duration_ms": 291147,
-      "name": "Ruby Cumulous",
-      "url": "https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Evildoers Beware!",
         "url": "https://open.spotify.com/album/0ZF8cAEXlbQNTF7fQM1gPe"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Let's Do Rock Steady",
-        "url": "https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO"
+        "name": "Gemini, Her Majesty",
+        "url": "https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF"
       },
       "artists": [
         {
-          "name": "The Bodysnatchers",
-          "url": "https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV"
+          "name": "Rx Bandits",
+          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
         }
       ],
-      "duration_ms": 174490,
-      "name": "Let's Do Rock Steady",
-      "url": "https://open.spotify.com/track/0FkBWszH9H2y7TxH899416"
+      "duration_ms": 291147,
+      "name": "Ruby Cumulous",
+      "url": "https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1439,6 +1423,22 @@
       "duration_ms": 186266,
       "name": "On My Radio",
       "url": "https://open.spotify.com/track/7kNNi7Wv4LQcYS4k2E1TZA"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Let's Do Rock Steady",
+        "url": "https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO"
+      },
+      "artists": [
+        {
+          "name": "The Bodysnatchers",
+          "url": "https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV"
+        }
+      ],
+      "duration_ms": 174490,
+      "name": "Let's Do Rock Steady",
+      "url": "https://open.spotify.com/track/0FkBWszH9H2y7TxH899416"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "To the Moon",
-        "url": "https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf"
-      },
-      "artists": [
-        {
-          "name": "Popes Of Chillitown",
-          "url": "https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Wisdom Teeth",
-      "url": "https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Here in The Heights",
         "url": "https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Strange Creatures - EP",
-        "url": "https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm"
+        "name": "To the Moon",
+        "url": "https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf"
       },
       "artists": [
         {
-          "name": "Stacked Like Pancakes",
-          "url": "https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp"
+          "name": "Popes Of Chillitown",
+          "url": "https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN"
         }
       ],
-      "duration_ms": 254720,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK"
+      "duration_ms": 343786,
+      "name": "Wisdom Teeth",
+      "url": "https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1583,6 +1567,22 @@
       "duration_ms": 191293,
       "name": "Special Brew",
       "url": "https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Strange Creatures - EP",
+        "url": "https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm"
+      },
+      "artists": [
+        {
+          "name": "Stacked Like Pancakes",
+          "url": "https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK"
     },
     {
       "added_at": "2022-12-09 18:45:39",

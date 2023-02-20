@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30bf\u30b7\u306f\u554f\u984c\u4f5c",
+        "url": "https://open.spotify.com/album/21iY3NVr5gHtQ3qxLXFWOl"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194515,
+      "name": "\u30a2\u30bf\u30b7\u306f\u554f\u984c\u4f5c",
+      "url": "https://open.spotify.com/track/2CzFckH57NqbC4n0VZDLLB"
+    },
+    {
+      "album": {
         "name": "Ado/PARED/\u307e\u3072\u308b/\u3086\u3063\u3051 presents PALETTE4",
         "url": "https://open.spotify.com/album/5N3pr0Jv026t7JwI3u86lt"
       },

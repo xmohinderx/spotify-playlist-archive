@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,754 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,775 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 54 | [Leather Tramp](https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Bedrock](https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb) | 5:51 |
 | 55 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 |
 | 56 | [Sheez Music](https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Everybody Want Sum](https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD) | 4:48 |
-| 57 | [Do Me Right](https://open.spotify.com/track/3LrGfMjIgqI16WtPQawUSq) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Do Me Right](https://open.spotify.com/album/3acm84d09PzJGK9jXpJbk0) | 3:37 |
+| 57 | [Diggin' On James Brown](https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Souled Out](https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY) | 4:39 |
 | 58 | [Let's Work](https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 3:54 |
-| 59 | [Diggin' On James Brown](https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Souled Out](https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY) | 4:39 |
+| 59 | [Do Me Right](https://open.spotify.com/track/3LrGfMjIgqI16WtPQawUSq) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Do Me Right](https://open.spotify.com/album/3acm84d09PzJGK9jXpJbk0) | 3:37 |
 | 60 | [This Funk \(Give Me a Hand\)](https://open.spotify.com/track/3GkxeoalBCGvapPTX1nA0U) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Third Wall Chronicles](https://open.spotify.com/album/34YrKUuESihhNFM1HzXInQ) | 3:40 |
 | 61 | [Take What You Need](https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Breaks from the Border](https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH) | 3:11 |
 | 62 | [Livin' It Up](https://open.spotify.com/track/62W5VouctXG9jggZdHaEi1) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Livin' It Up](https://open.spotify.com/album/2ArLz9gq7VhXgnB5s6IFdH) | 4:21 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 81 | [Miss Mess](https://open.spotify.com/track/47agFZSo5O4c6ZEJfgfH8k) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Anna Brooks](https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV), [Iwan VanHetten](https://open.spotify.com/artist/2aeUMFKtymkdC7J7ZH30WY) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 5:32 |
 | 82 | [Water](https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743), [Reggie Watkins](https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z), [carlos sosa](https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL), [Fernanco Castillo](https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:33 |
 | 83 | [Superstatic](https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF) | [Turkuaz](https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7) | [Life In The City](https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio) | 4:05 |
-| 84 | [Liar](https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Circle](https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl) | 4:31 |
-| 85 | [Got Me Funked Up](https://open.spotify.com/track/6puGnKlOsMcu5SkcEEdHkg) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [The Deep End](https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29) | 3:32 |
+| 84 | [Got Me Funked Up](https://open.spotify.com/track/6puGnKlOsMcu5SkcEEdHkg) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [The Deep End](https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29) | 3:32 |
+| 85 | [Liar](https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Circle](https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl) | 4:31 |
 | 86 | [Back to the Funkture](https://open.spotify.com/track/1nPjlM25TcwClEvSkG712O) | [Alissia](https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO) | [Back to the Funkture](https://open.spotify.com/album/6Zcd7o14QCOx32RbouEuHz) | 4:01 |
 | 87 | [Body Party](https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Jukestone Paradise](https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y) | 4:02 |
 | 88 | [Let's Take a Ride](https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Funk!](https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Pocket \(Radio Edit\)](https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed) | [The Lionyls](https://open.spotify.com/artist/28XiFctnEifvmTgCxFGOJU) | [Pocket \(Radio Edit\)](https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q) | 3:47 |
 | 100 | [Mindblastin'](https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o) | [The Soul Motivators](https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU) | [Mindblastin'](https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy) | 4:21 |
 
-Snapshot ID: `MTYzODkwNDkzOSwwMDAwMDAwMGYyMzg1YTU4ZTJiYWY1YzliY2JmMzczYzg0MjhlYjI4`
+Snapshot ID: `MTYzODkwNDkzOSwwMDAwMDAwMDA5ZGE1NjdiMjljZDI5NzJjNjM1NzNhZWFkYTM4ZGFj`

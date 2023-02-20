@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 116 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 47 | [Dem Mama](https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:09 |
 | 48 | [Sexy Ladies](https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:36 |
 | 49 | [Ukwu \(Bonus\)](https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:10 |
-| 50 | [Woyo](https://open.spotify.com/track/4tbVAVxiGJAZNiFRBHhGwV) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Woyo](https://open.spotify.com/album/6ZWbdO3QrtR8YI193q5K2O) | 2:43 |
+| 50 | [Bam Bam](https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Bam Bam](https://open.spotify.com/album/1wpspq0ag31exULhDaG16S) | 3:40 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDBmZWM5YzU2OGY5NmI1MDExZTcyYTBjZmE3ZTkyYjE3Ng==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDA0NWU4NDE2ODA5NjhhZDIzNjU1YzZhOTA1YTU0NTBkNA==`

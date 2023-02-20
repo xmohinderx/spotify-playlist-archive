@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: BigXthaplug
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,160,619 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,160,757 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 23 | [Score Or Die](https://open.spotify.com/track/6VLv4EhaNR5SRfVEpleoWs) | [Rundown Choppaboy](https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG) | [Score Or Die](https://open.spotify.com/album/181lAFIxJUTVwxU244eJs8) | 2:43 |
 | 24 | [Can’t Move Wrong \(feat\. Trapland Pat\)](https://open.spotify.com/track/082vuRNCVzdakvsW0P1F8Q) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ) | [Can’t Move Wrong \(feat\. Trapland Pat\)](https://open.spotify.com/album/7st6zjgHJkEIWN0IZIy1ud) | 3:24 |
 | 25 | [Make Me Nervous \(feat\. Anti Da Menace\)](https://open.spotify.com/track/5nd9cGp2QPZCPxAgbHSIXS) | [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Make Me Nervous \(feat\. Anti Da Menace\)](https://open.spotify.com/album/57eod4jx8GoSR4KqP0k4q0) | 2:48 |
-| 26 | [Ball N Chill](https://open.spotify.com/track/4bkGptTkmvTw7bmZqp1osN) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Ball N Chill](https://open.spotify.com/album/1jdq8pYwkAcpdU8pu1dNz2) | 3:22 |
+| 26 | [Ball N Chill](https://open.spotify.com/track/4bkGptTkmvTw7bmZqp1osN) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Ball N Chill](https://open.spotify.com/album/1jdq8pYwkAcpdU8pu1dNz2) | 3:23 |
 | 27 | [King Snipe](https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [King Snipe](https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7) | 3:34 |
 | 28 | [Long Way To Go](https://open.spotify.com/track/2Byc1LTfTpxgn8WOyLMuOR) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Long Way To Go](https://open.spotify.com/album/1wACKr1ONK3i1w4eHML0yA) | 2:57 |
 | 29 | [Oh What A Feeling](https://open.spotify.com/track/4E5gMun6nSKQJg5EqU2QhH) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Oh What A Feeling](https://open.spotify.com/album/1MbLGJJIJ3Q8KlISw4YwCf) | 2:09 |

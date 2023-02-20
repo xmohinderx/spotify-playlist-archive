@@ -1,12 +1,12 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Karol G, Romeo Santos",
-  "num_followers": 118299,
+  "num_followers": 118451,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwMjgwMCwwMDAwMDAwMDBhMzBlZjJhNDBiNDUyNjA0NWRmMzU3ZjQxYjJlYTQy",
+  "snapshot_id": "MTY3NjYwMjgwMCwwMDAwMDAwMGM4ZDhlMGM2YzQ5ODQwOWMxYTI4NTdmZjAyMjc1MmI0",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "LLYLM",
+        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "LLYLM",
+      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -355,8 +355,8 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "LLYLM",
-        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 174044,
-      "name": "LLYLM",
-      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 192320,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -1363,6 +1347,50 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Mais Uma",
+        "url": "https://open.spotify.com/album/4dnZFRXRCa2ez2jLAUcNp1"
+      },
+      "artists": [
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "DJ Yuri Martins",
+          "url": "https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9"
+        },
+        {
+          "name": "Zain",
+          "url": "https://open.spotify.com/artist/1OCu3xpRtpqgbk6aoxoxJp"
+        }
+      ],
+      "duration_ms": 127068,
+      "name": "Mais Uma",
+      "url": "https://open.spotify.com/track/1ttR4WB57ZZQqVBGiUZVis"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "MAL DE AMOR",
         "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
       },
@@ -1379,26 +1407,6 @@
       "duration_ms": 221270,
       "name": "MAL DE AMOR",
       "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Sin Fin",
-        "url": "https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Sin Fin",
-      "url": "https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x"
     },
     {
       "added_at": "2023-02-17 03:00:00",

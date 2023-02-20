@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,969 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,983 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 49 | [Como Chapulin](https://open.spotify.com/track/2i63GltjvYmpj8hGioLfN5) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:34 |
 | 50 | [Y Andale](https://open.spotify.com/track/6ZrnySwVbRAQVIxWUbXjkk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 2:28 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDBkOWQ5Nzc1NjI2NGEzOThiZGNiZDM3Yzc4NDNjMDczNw==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDA2ZWFlZTllOWM2MzdiOWMyZGY3MGM3OTg0MTAzMGEwNA==`

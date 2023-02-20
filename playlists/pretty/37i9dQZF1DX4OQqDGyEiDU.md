@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,259 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,343 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 47 | [MACHINEGUN POEM DOLL](https://open.spotify.com/track/0xly7rh0DZqVxI8Jmn7sid) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [MACHINEGUN POEM DOLL](https://open.spotify.com/album/5PH0dNztK2UMLj8lLwmLqH) | 2:20 |
 | 48 | [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 |
 | 49 | [Non\-breath oblige](https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [LOVE](https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE) | 3:28 |
-| 50 | [Jeep!?。](https://open.spotify.com/track/1w3EMbP4AMAbNyKLKCw3yZ) | [A4。](https://open.spotify.com/artist/18pJlMkSYAxCTkpSzGrLR9) | [Jeep!?。](https://open.spotify.com/album/5CdCUPmhFQFkFQK4rfXz2r) | 3:15 |
+| 50 | [CH4NGE \- feat\. KAFU](https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/192mLC4CmnfqkxQbiPj7AZ) | 2:12 |
 
-Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMGU1Mjc2NDY3ZTRmYWZlNzEwMGUzMWRlZDBmNTQwNjE5`
+Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDk2ZmM0MjUyZTNhMzIzZmI5YWZjY2FmYTViMTdlYzdi`

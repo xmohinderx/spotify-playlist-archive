@@ -1,12 +1,12 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 62079,
+  "num_followers": 62138,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1MDgyMiwwMDAwMDAwMDIzZmUyOTc0NTk1NDdmMjBhOTg2Y2FiMjc3NmM4N2U3",
+  "snapshot_id": "MTY0MzE1MDgyMiwwMDAwMDAwMGM2YTk2MjI2NWQyODhjNWNlOWVjM2I5ZTU4MjRlZDAz",
   "tracks": [
     {
       "added_at": "2022-01-25 22:47:02",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
-        "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
-      },
-      "artists": [
-        {
-          "name": "Los Delinquentes",
-          "url": "https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "El aire de la calle",
-      "url": "https://open.spotify.com/track/2PaETSKl3w3IdtLIbDnQXJ"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Caja de Canciones",
         "url": "https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 225813,
       "name": "Veneno en la Piel",
       "url": "https://open.spotify.com/track/3RDMd9JiKdVik8zjGhZ0wJ"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
+        "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
+      },
+      "artists": [
+        {
+          "name": "Los Delinquentes",
+          "url": "https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "El aire de la calle",
+      "url": "https://open.spotify.com/track/2PaETSKl3w3IdtLIbDnQXJ"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B"
+        "name": "Muchas Flores",
+        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
       },
       "artists": [
         {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
         }
       ],
-      "duration_ms": 251453,
-      "name": "Sincericidio",
-      "url": "https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I"
+      "duration_ms": 267720,
+      "name": "C\u00f3mo Quieres Que Te Quiera",
+      "url": "https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Muchas Flores",
-        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B"
       },
       "artists": [
         {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 267720,
-      "name": "C\u00f3mo Quieres Que Te Quiera",
-      "url": "https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB"
+      "duration_ms": 251453,
+      "name": "Sincericidio",
+      "url": "https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Chambao Caminando",
+        "url": "https://open.spotify.com/album/2aKJ1XjOutOWXUNp6UrSJ5"
+      },
+      "artists": [
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Pokito a Poko",
+      "url": "https://open.spotify.com/track/7LrM28pPWCpJYmbnaxHBmu"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Chambao Caminando",
-        "url": "https://open.spotify.com/album/2aKJ1XjOutOWXUNp6UrSJ5"
+        "name": "Y Es Ke Me Han Kambiao Los Tiempos",
+        "url": "https://open.spotify.com/album/6I7EVvaptXn9Nwjy80jacV"
       },
       "artists": [
         {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+          "name": "Ketama",
+          "url": "https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF"
         }
       ],
-      "duration_ms": 207333,
-      "name": "Pokito a Poko",
-      "url": "https://open.spotify.com/track/7LrM28pPWCpJYmbnaxHBmu"
+      "duration_ms": 271160,
+      "name": "Kalikeno - Rumba",
+      "url": "https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -947,22 +963,6 @@
       "duration_ms": 241960,
       "name": "En la Casa de In\u00e9s",
       "url": "https://open.spotify.com/track/5nenV4D7Yw2efQxItXOasH"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Y Es Ke Me Han Kambiao Los Tiempos",
-        "url": "https://open.spotify.com/album/6I7EVvaptXn9Nwjy80jacV"
-      },
-      "artists": [
-        {
-          "name": "Ketama",
-          "url": "https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "Kalikeno - Rumba",
-      "url": "https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 El Franc\u00e9s",
-          "url": "https://open.spotify.com/artist/1p2r4UTpZX8aIWktEuvpax"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Fuera de Mi - Ya No Quiero Tu Querer - Version Remix",
-      "url": "https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Toma Ketama",
         "url": "https://open.spotify.com/album/4C5MI6q1hEJhweXULCnVpH"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 253213,
       "name": "Agustito",
       "url": "https://open.spotify.com/track/0CcK0UAwjHSPOGWjupepRF"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 El Franc\u00e9s",
+          "url": "https://open.spotify.com/artist/1p2r4UTpZX8aIWktEuvpax"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "Fuera de Mi - Ya No Quiero Tu Querer - Version Remix",
+      "url": "https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "El Ser Humano Es Raro",
-        "url": "https://open.spotify.com/album/5fSWHnEpxK10oYZrK7DOTK"
-      },
-      "artists": [
-        {
-          "name": "Los Cucas",
-          "url": "https://open.spotify.com/artist/3OWk7QjNjgERkwOAqhZeMW"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "La Ultima Carta",
-      "url": "https://open.spotify.com/track/0snvfum1KpU3X8DdAvV9bo"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Puro Veneno",
         "url": "https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 230106,
       "name": "Joselito",
       "url": "https://open.spotify.com/track/72Fm5e7KPBEQwCeIcSU33g"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "El Ser Humano Es Raro",
+        "url": "https://open.spotify.com/album/5fSWHnEpxK10oYZrK7DOTK"
+      },
+      "artists": [
+        {
+          "name": "Los Cucas",
+          "url": "https://open.spotify.com/artist/3OWk7QjNjgERkwOAqhZeMW"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "La Ultima Carta",
+      "url": "https://open.spotify.com/track/0snvfum1KpU3X8DdAvV9bo"
     },
     {
       "added_at": "2022-01-25 22:47:02",

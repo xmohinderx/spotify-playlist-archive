@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 10166,
+  "num_followers": 10174,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjUyOTQxMywwMDAwMDAwMGE3YWFlMTY0MzJiZDZkMGUzNDM4YTUwY2UxZjMwNDc1",
+  "snapshot_id": "MTY3NjUyOTQxMywwMDAwMDAwMDgyOThhYjMyMTcwZDlhZTA1ZWJiZjJlMTdlZTFkYWMw",
   "tracks": [
     {
       "added_at": "2023-02-14 07:47:12",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
-        "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "\ub450 \uc0ac\ub78c",
-      "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
         "name": "Purpose - The 2nd Album",
         "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 239499,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
+        "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
+        "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "\ub450 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
     },
     {
       "added_at": "2023-02-14 07:47:12",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
         "name": "Film (Feat. Woshi)",
         "url": "https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 200000,
       "name": "Film (Feat. Woshi)",
       "url": "https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
     },
     {
       "added_at": "2023-02-14 07:47:12",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 182313,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
         "name": "Webtoon YEONNOM OST Part.1",
         "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 220996,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 182313,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
     },
     {
       "added_at": "2023-02-14 07:47:12",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5"
-      },
-      "artists": [
-        {
-          "name": "JIN",
-          "url": "https://open.spotify.com/artist/4qXqEpcMnp74cCHrVW9rRJ"
-        }
-      ],
-      "duration_ms": 195206,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
         "name": "LUV SIGN",
         "url": "https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 225800,
       "name": "Got U",
       "url": "https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5"
+      },
+      "artists": [
+        {
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/4qXqEpcMnp74cCHrVW9rRJ"
+        }
+      ],
+      "duration_ms": 195206,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9"
     },
     {
       "added_at": "2023-02-14 07:47:12",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "Reborn Rich (Original Soundtrack), Pt. 6",
-        "url": "https://open.spotify.com/album/3YinMIPjIc3hIdxsG9dZv6"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 257956,
-      "name": "THE MIRACLE",
-      "url": "https://open.spotify.com/track/3FGhoG7s17n1VfDZfCFLQp"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
+        "name": "Reborn Rich (Original Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/3YinMIPjIc3hIdxsG9dZv6"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 257956,
+      "name": "THE MIRACLE",
+      "url": "https://open.spotify.com/track/3FGhoG7s17n1VfDZfCFLQp"
     },
     {
       "added_at": "2023-02-14 07:47:12",

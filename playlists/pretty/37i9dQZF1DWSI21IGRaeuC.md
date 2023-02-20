@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,508 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,538 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 21 | [Ole](https://open.spotify.com/track/0weVuJD157TzuE2GPRUekB) | [Zilka](https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP) | [Ole](https://open.spotify.com/album/1LZqOEEoHgd2knaJMvJhZP) | 2:38 |
 | 22 | [Whispers In The Wind](https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Whispers In The Wind](https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f) | 6:08 |
 | 23 | [Lovelee Dae](https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [Blaze \(Kevin Hedge\)](https://open.spotify.com/artist/5ALxJ1yIzIRB3NcmMftPOy) | [Lovelee Dae](https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg) | 6:22 |
-| 24 | [Clapped](https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Clapped](https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ) | 3:30 |
-| 25 | [World Is Empty](https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [World Is Empty](https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda) | 3:16 |
+| 24 | [World Is Empty](https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [World Is Empty](https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda) | 3:16 |
+| 25 | [Clapped](https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Clapped](https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ) | 3:30 |
 | 26 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 |
-| 27 | [Sete \- Carlita Remix](https://open.spotify.com/track/1N3bxA8qfSfaaPnsG3PGe0) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Carlita Remix\)](https://open.spotify.com/album/4SMYDx604fGDZsaRuMznWb) | 3:42 |
-| 28 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
+| 27 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
+| 28 | [Sete \- Carlita Remix](https://open.spotify.com/track/1N3bxA8qfSfaaPnsG3PGe0) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Carlita Remix\)](https://open.spotify.com/album/4SMYDx604fGDZsaRuMznWb) | 3:42 |
 | 29 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 |
 | 30 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
 | 31 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 49 | [DJ Lover \- Original Mix](https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Welcome EP](https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh) | 6:47 |
 | 50 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGM1NTRkNDMzOTU0ODMzMzY3OGI3ZTgwZjU5YzllYzk3`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDQyZGVmOWM1NDM4MTk1YzBmMDg3NmNlODBkYTNiMDY2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,829 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,840 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 21 | [Ritual](https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ritual](https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry) | 3:18 |
 | 22 | [Hear Me Say](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say](https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V) | 3:10 |
 | 23 | [Someone You Loved \- Madism Radio Mix](https://open.spotify.com/track/1FaMsrYFdk914HDLQar1tz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Someone You Loved \(Madism Radio Mix\)](https://open.spotify.com/album/4wooeoqR0Ix5w7GDYvkHju) | 2:37 |
-| 24 | [EveryTime I Cry](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [EveryTime I Cry](https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw) | 2:57 |
-| 25 | [Bittersweet Symphony](https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony](https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s) | 3:14 |
+| 24 | [Bittersweet Symphony](https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony](https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s) | 3:14 |
+| 25 | [EveryTime I Cry](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [EveryTime I Cry](https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw) | 2:57 |
 | 26 | [Me Provocas](https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Me Provocas](https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x) | 2:27 |
 | 27 | [1 Day 2 Nights](https://open.spotify.com/track/2LAtELE0xGyMKcvNlxiyF3) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [1 Day 2 Nights](https://open.spotify.com/album/4QKRzndxnaFsUKGLAQb4Ou) | 2:18 |
 | 28 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [Coffee \(Give Me Something\)](https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Coffee \(Give Me Something\)](https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe) | 3:09 |
 | 80 | [Boom Boom Boom Boom](https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Amfree](https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE), [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2) | [Boom Boom Boom Boom](https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj) | 2:08 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDcwMzczNWViNWExMmNhN2FkMzRkNDU4OTY4ZTVhYTc4`
+Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDhhNzEzOTg1OGEyOTJmNDM5ZWM2Y2VjMDJhMDRkMTc1`

@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Parker McCollum
 
-407 songs - 1 day 0 hr 14 min
+408 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Texas](https://open.spotify.com/track/3XIfx3GzMzoEXUDF2vEbBZ) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Texas](https://open.spotify.com/album/57JqhOplFcXZLR8mZ7p3q5) | 3:42 | 2022-08-05 | 2022-09-16 |
 | [Texas & You](https://open.spotify.com/track/1rXVMnFigwPfk8tNnLLj3z) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Texas & You](https://open.spotify.com/album/4DxxgoQzzyA7tAPzAXemCQ) | 3:41 | 2022-03-04 | 2022-10-18 |
 | [Texas Moon](https://open.spotify.com/track/3W5rOs2jB7R3H0PEBxIiJ1) | [Caden Gillard](https://open.spotify.com/artist/0Aql1V8loJKhIE3fQuqKdK) | [Love & Heartbreak](https://open.spotify.com/album/7hPYGbGuvnijMDFS70BQHK) | 3:53 | 2022-10-14 |  |
+| [That Ain't No Way To Go](https://open.spotify.com/track/5zq8Y9sg8XEgWD6pyBt7VX) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [That Ain't No Way To Go](https://open.spotify.com/album/6SxfUyEpdAOhSo26GJaPm6) | 3:33 | 2023-02-17 |  |
 | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp), [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F) | 2:52 | 2022-09-23 |  |
 | [The Good Ol' U.S\. of A.](https://open.spotify.com/track/0GjSVSf4E80qZQFuRBADZs) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [The Good Ol' U.S\. of A.](https://open.spotify.com/album/12KYJ6Y3Z60POCITCFz6nN) | 3:40 | 2021-12-17 | 2022-03-19 |
 | [The Highway Kind](https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:59 | 2022-08-05 |  |
@@ -371,7 +372,7 @@
 | [Upside of the Ground](https://open.spotify.com/track/0z4zGI8vJOU9AXwJLzafys) | [Ned LeDoux](https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q) | [Upside of the Ground](https://open.spotify.com/album/7o2WZecCVWRq5jCUBBprDt) | 3:12 | 2022-01-07 | 2022-03-19 |
 | [Vagabond](https://open.spotify.com/track/4x2AKf7AxbsdfKFAGZWDbQ) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Vagabond](https://open.spotify.com/album/6rOdKLebsdix516lFx2xnj) | 4:12 | 2021-12-17 | 2022-07-27 |
 | [Valentine, For Valentines](https://open.spotify.com/track/22Z7wPXNDT6Vr1Gvhfa3k1) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Valentine, For Valentines](https://open.spotify.com/album/2aAjdk52Un6nw3IPwB7W1H) | 3:15 | 2023-02-03 |  |
-| [Varsity Type](https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Varsity Type](https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP) | 3:22 | 2022-05-27 |  |
+| [Varsity Type](https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Varsity Type](https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP) | 3:22 | 2022-05-27 | 2023-02-20 |
 | [Walk Your Line](https://open.spotify.com/track/0tHRdq9LHL0Dq9KHo1oPiN) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Walk Your Line](https://open.spotify.com/album/5hWuNENhxZlk2im8Q1Nxdd) | 3:38 | 2022-10-14 | 2023-01-06 |
 | [Wannabe](https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT), [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Wannabe](https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4) | 4:53 | 2021-12-17 |  |
 | [Wannabe](https://open.spotify.com/track/19Z6brLH74EGuq2aVtqEdV) | [Dustin Massey](https://open.spotify.com/artist/4YXfdi8GIPOemB4xJjDvhQ) | [Matter of Time](https://open.spotify.com/album/4jfiPnmIPNPfgj3aWnNRt4) | 3:13 | 2021-12-17 | 2022-07-20 |

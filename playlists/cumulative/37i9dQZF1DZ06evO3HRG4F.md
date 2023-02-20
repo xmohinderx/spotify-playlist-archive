@@ -4,7 +4,7 @@
 
 > This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 25 min
+52 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Blues para Trabajar \- En Vivo](https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo en el Teatro Isabela Corona, Vol\. 2](https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3) | 3:10 | 2023-01-14 |  |
 | [Brillando en la Obscuridad](https://open.spotify.com/track/7Lox77Krkm4X8RGoYvdenK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:47 | 2023-01-14 |  |
 | [Cayendo](https://open.spotify.com/track/1nRbnhyrtdb7bn7MGWKZrO) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Transmetal](https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT) | [Pares y Duetos: Disco 2](https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY) | 4:02 | 2023-01-14 |  |
-| [Como las Hojas](https://open.spotify.com/track/2WtlUoUJHSjrOFZg3VGgOv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 4:05 | 2023-01-14 |  |
+| [Como las Hojas](https://open.spotify.com/track/29zaOzj0yjImJ8yltwD1KG) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:17 | 2023-02-19 |  |
+| [Como las Hojas](https://open.spotify.com/track/2WtlUoUJHSjrOFZg3VGgOv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 4:05 | 2023-01-14 | 2023-02-20 |
 | [Corazones Rotos](https://open.spotify.com/track/6Zl0iCDdfhR5VWHiDFRycO) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 3:39 | 2023-01-14 |  |
 | [De Que el Amor Apesta](https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:38 | 2023-01-14 |  |
 | [Derramando Mi Corazón](https://open.spotify.com/track/4XOXidN0LU6uX4DcJmwkyB) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:34 | 2023-02-16 |  |

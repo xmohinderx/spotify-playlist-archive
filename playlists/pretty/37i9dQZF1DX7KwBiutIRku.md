@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,463 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,506 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 27 | [Charming Mess](https://open.spotify.com/track/494fTnltxTwiZYqACtCzWU) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Charming Mess](https://open.spotify.com/album/1kOPsSIDcQ3cegRouSgx7W) | 3:33 |
 | 28 | [Dear Landlord](https://open.spotify.com/track/6N3B6vyRO5V5JwjxJHcZjG) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker!](https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc) | 3:25 |
 | 29 | [Lower On Your List Of Priorities](https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [Raisin' A Ruckus](https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo) | 3:20 |
-| 30 | [Borstal Boys](https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 2:53 |
-| 31 | [Mama Nature Said](https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 4:54 |
+| 30 | [Mama Nature Said](https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 4:54 |
+| 31 | [Borstal Boys](https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 2:53 |
 | 32 | [Don't Start Me Talkin' \- Jinx Session / 1982](https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Blues](https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB) | 3:33 |
 | 33 | [The Golden Age of Rock 'n' Roll](https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [The Hoople](https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am) | 3:24 |
 | 34 | [Spinning Wheel Blues](https://open.spotify.com/track/0KX5tEsBMLQRmUgYJniMtm) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Down the Dustpipe](https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Tars Of India](https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 3:05 |
 | 50 | [Worry No More](https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [Gimme Some Neck](https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9) | 2:33 |
 
-Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMDc1NTc5NGM0Y2RkMjk3N2YyMjY2NWVkYmE1YmFjMDUw`
+Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMDUwYmJhNWE2ZDY1YjY3NTg2NTEwZmZiYTEyZjM0NDY4`

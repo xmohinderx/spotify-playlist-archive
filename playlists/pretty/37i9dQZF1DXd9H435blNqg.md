@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,453 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,502 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 45 | [Don't Tell Me No Lies](https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Don't Tell Me No Lies](https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5) | 2:27 |
 | 46 | [Nothing but a Cliché](https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [The Difference Between Me & You](https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G) | 4:01 |
 | 47 | [Reaching](https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Reaching](https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ) | 3:15 |
-| 48 | [Bottom Shelf Gin](https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bottom Shelf Gin](https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC) | 3:02 |
+| 48 | [29 Gold Stars](https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Demons](https://open.spotify.com/album/6QxlINdqOdpp8FfWJrnzOj) | 2:25 |
 | 49 | [Fix Your Face](https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:15 |
-| 50 | [29 Gold Stars](https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Demons](https://open.spotify.com/album/6QxlINdqOdpp8FfWJrnzOj) | 2:25 |
+| 50 | [Bottom Shelf Gin](https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bottom Shelf Gin](https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC) | 3:02 |
 
-Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMGFiZGJhZWQyZmZiZmU3ZjU1Y2I1NjlkMzRlOWUwNDA5`
+Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMGMyZDc5ZmFjY2IzZDE0OWU2Y2M2NTZjNGM5YmNhOGVm`

@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 227212,
+  "num_followers": 227264,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYzMDY1MCwwMDAwMDAwMDIzODZhY2RiZWQ1MTIyMWJlYmUwYTcwMTczM2EyZmIx",
+  "snapshot_id": "MTY3NjYzMDY1MCwwMDAwMDAwMDZlOTYyZWQzZjg0YWY0MTgxOTQxZWI4MmZhN2VmMzc1",
   "tracks": [
     {
       "added_at": "2023-02-17 10:42:08",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-02-17 10:42:08",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 254319,
-      "name": "PLASTIC OFF THE SOFA",
-      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
-    },
-    {
-      "added_at": "2023-02-17 10:42:08",
-      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 216524,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
+    },
+    {
+      "added_at": "2023-02-17 10:42:08",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 254319,
+      "name": "PLASTIC OFF THE SOFA",
+      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
     },
     {
       "added_at": "2023-02-17 10:42:08",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-02-17 10:42:08",
       "album": {
+        "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
+        "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 192787,
+      "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
+      "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
+    },
+    {
+      "added_at": "2023-02-17 10:42:08",
+      "album": {
         "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 183895,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
-    },
-    {
-      "added_at": "2023-02-17 10:42:08",
-      "album": {
-        "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
-        "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 192787,
-      "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
-      "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
     },
     {
       "added_at": "2023-02-17 10:42:08",
@@ -1011,22 +1011,18 @@
     {
       "added_at": "2023-02-17 10:42:08",
       "album": {
-        "name": "Conflict Of Interest",
-        "url": "https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4"
+        "name": "Breezy (Deluxe)",
+        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
       },
       "artists": [
         {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 274400,
-      "name": "10,000 Tears (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/1jVAfsSceuAQx7zgY76qDA"
+      "duration_ms": 183506,
+      "name": "Petty",
+      "url": "https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG"
     },
     {
       "added_at": "2023-02-17 10:42:08",
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2023-02-17 10:42:08",
       "album": {
-        "name": "Breezy (Deluxe)",
-        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
+        "name": "Conflict Of Interest",
+        "url": "https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Petty",
-      "url": "https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG"
+      "duration_ms": 274400,
+      "name": "10,000 Tears (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/1jVAfsSceuAQx7zgY76qDA"
     },
     {
       "added_at": "2023-02-17 10:42:08",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-02-17 10:42:08",
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 196641,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY"
-    },
-    {
-      "added_at": "2023-02-17 10:42:08",
-      "album": {
         "name": "No Games",
         "url": "https://open.spotify.com/album/0huBlSgNZ9DqOJvgyEz8Sm"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 176470,
       "name": "No Games",
       "url": "https://open.spotify.com/track/5AGhBP57akSYR9rW7NPsoy"
+    },
+    {
+      "added_at": "2023-02-17 10:42:08",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 196641,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY"
     },
     {
       "added_at": "2023-02-17 10:42:08",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-02-17 10:42:08",
       "album": {
-        "name": "On Lock",
-        "url": "https://open.spotify.com/album/59ig3e6AiguuU9sdiXcy1i"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 161677,
-      "name": "On Lock",
-      "url": "https://open.spotify.com/track/75fxE44yD87YmT2n68gkw2"
-    },
-    {
-      "added_at": "2023-02-17 10:42:08",
-      "album": {
         "name": "WHAT'S IT GONNA TAKE",
         "url": "https://open.spotify.com/album/54t5qVOCwbNrgBySSr7eyS"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 196798,
       "name": "WHAT'S IT GONNA TAKE",
       "url": "https://open.spotify.com/track/5McNI2nNzvbefXlDWafirl"
+    },
+    {
+      "added_at": "2023-02-17 10:42:08",
+      "album": {
+        "name": "On Lock",
+        "url": "https://open.spotify.com/album/59ig3e6AiguuU9sdiXcy1i"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 161677,
+      "name": "On Lock",
+      "url": "https://open.spotify.com/track/75fxE44yD87YmT2n68gkw2"
     },
     {
       "added_at": "2023-02-17 10:42:08",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-02-17 10:42:08",
       "album": {
-        "name": "Y3",
-        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
-    },
-    {
-      "added_at": "2023-02-17 10:42:08",
-      "album": {
         "name": "If Pretty Was A Person",
         "url": "https://open.spotify.com/album/59A7ehBvw2UQRurkZsrk7T"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 156297,
       "name": "If Pretty Was A Person",
       "url": "https://open.spotify.com/track/1j7fU1ptLBpN6l6ZjBxgvo"
+    },
+    {
+      "added_at": "2023-02-17 10:42:08",
+      "album": {
+        "name": "Y3",
+        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
     },
     {
       "added_at": "2023-02-17 10:42:08",

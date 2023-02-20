@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,941 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,962 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 95 | [Flowers Sing](https://open.spotify.com/track/7KIiof4zhjpVChHBVSJ3ug) | [Shiba](https://open.spotify.com/artist/2nVxV87MPUlMg6E0zXuDj2) | [Calm Piano: For Your Path](https://open.spotify.com/album/7rtQcDrHtG6yhgefHUCxHD) | 3:15 |
 | 96 | [Cello Concerto No\. 1 in C Major, Hob\. VIIb:1: II\. Adagio](https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [José\-Luis Garcia](https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Haydn: Cello Concertos \(Remastered\)](https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA) | 8:13 |
 | 97 | [Shadow Dancer](https://open.spotify.com/track/1chRvBbPEbPBhdoINC3wMX) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy) | [Shadow Dancer](https://open.spotify.com/album/3X94LxNBzncpYZ3SSAr4yc) | 4:28 |
-| 98 | [Echo](https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Echo](https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6) | 2:01 |
+| 98 | [The Forever Now \- From "This Is Us: Season 6"](https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw) | [This Is Us Cast](https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S), [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [The Forever Now \(From "This Is Us: Season 6"\)](https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo) | 3:18 |
 | 99 | [Song For My Sister's Son](https://open.spotify.com/track/6M6wAlja282JVJ0cR63rgS) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Song For My Sister's Son](https://open.spotify.com/album/5YL4H7MplLxXOC3qUPinVZ) | 4:40 |
 | 100 | [《女の愛と生涯》 No\. 1\. 彼に出会ってから](https://open.spotify.com/track/2KLSxJ4TjIO0Srg6m7egCN) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [隠岐彩夏](https://open.spotify.com/artist/5p7bRfstS9PGcmXOed8WFz) | [愛しの夜](https://open.spotify.com/album/38j0UdqkoIElC0lahOe3HU) | 2:27 |
 
-Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDNlYzZhZjk0YTE1ZmE0N2JmNDZjOGJmZDNjMGM3NDkx`
+Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDYzYWE5MmRmZjZjNzFkZjRmY2U1YjVhODA1ODQyZWE4`

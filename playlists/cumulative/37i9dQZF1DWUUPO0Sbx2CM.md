@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-354 songs - 19 hr 41 min
+355 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,12 +69,13 @@
 | [Coming In Hot \- Wuki Remix](https://open.spotify.com/track/2F9jc4l18skWHn6GsjbN5L) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Coming In Hot \- Wuki Remix](https://open.spotify.com/album/3H748cRUjynjpcaBmmd9qz) | 2:59 | 2021-10-31 | 2023-02-08 |
 | [Conqueror](https://open.spotify.com/track/089vf2r4s5obkgONgWd1FB) | [High Praise](https://open.spotify.com/artist/3cn684M2OtJFV8y5QAhlZU) | [Conqueror](https://open.spotify.com/album/7iIsfmogTfklo25kTEEB6H) | 3:55 | 2021-10-31 | 2022-07-26 |
 | [Conversation](https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI) | [Soulsician](https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt) | [Conversation](https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc) | 3:56 | 2023-02-08 |  |
+| [Covered](https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Covered](https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D) | 3:16 | 2023-02-20 |  |
 | [Dance With Me](https://open.spotify.com/track/4JK3GyeM5KmkakCb8DjQg4) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy) | [Outta Line](https://open.spotify.com/album/7mBvjkKnQZzHZ6yBYvobUZ) | 3:14 | 2021-10-31 | 2022-07-24 |
 | [Dancing at Dusk](https://open.spotify.com/track/1Lj6LnLMSFZv8ik24ssMpO) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 3:37 | 2021-10-31 | 2022-07-28 |
 | [Daylight](https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daylight](https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa) | 3:20 | 2021-10-31 | 2022-07-28 |
 | [Deeper](https://open.spotify.com/track/2X8mAkdiXXxFdcDGQ4Og13) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Best Thing \- Summer 2022](https://open.spotify.com/album/0scWMv27dJB9TeLkiA2g7s) | 3:02 | 2023-02-08 |  |
 | [Delilah](https://open.spotify.com/track/2pqZrVeXTBgxky4wDxiUIy) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [No Borders](https://open.spotify.com/album/55LcFQDryvwz6SO7gkbqat) | 2:32 | 2023-02-08 |  |
-| [Derecha](https://open.spotify.com/track/0MOtodMVaH7sxweQAQsYV2) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Derecha](https://open.spotify.com/album/5S6iWyRPQU2ijVIYJLLCTh) | 1:54 | 2023-02-08 |  |
+| [Derecha](https://open.spotify.com/track/0MOtodMVaH7sxweQAQsYV2) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Derecha](https://open.spotify.com/album/5S6iWyRPQU2ijVIYJLLCTh) | 1:54 | 2023-02-08 | 2023-02-20 |
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2023-02-08 |  |
 | [Down \(Remix\)](https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [Down \(Remix\)](https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD) | 3:05 | 2023-02-08 |  |
 | [Drive](https://open.spotify.com/track/4ScuweLj0tTDZobFXMBEEy) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Drive](https://open.spotify.com/album/31N8Te52jkft4appFKnqzd) | 2:42 | 2021-10-31 | 2022-07-27 |

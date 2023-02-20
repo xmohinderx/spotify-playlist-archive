@@ -4,7 +4,7 @@
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 33 min
+72 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Borracho y Loco](https://open.spotify.com/track/2EpO1NIjQl9ICdA27YMKRH) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 4:01 | 2022-06-01 | 2022-11-10 |
 | [Caderas Lait](https://open.spotify.com/track/01OXvmhM7T5D1nayJ3YEko) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:36 | 2022-11-04 |  |
 | [Cadereando](https://open.spotify.com/track/6yFZbA1FkoK4nT4t9ni9Gi) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 2:55 | 2022-06-01 | 2022-11-05 |
+| [Candida](https://open.spotify.com/track/0C6GKMOSZnQacjI5Yusa3P) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:58 | 2023-02-19 |  |
 | [Checa Mi Ritmo](https://open.spotify.com/track/6aOAVN7Uu4Jdmj7BgJ9HWy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:40 | 2022-06-01 | 2022-10-13 |
 | [Chicas Modernas](https://open.spotify.com/track/1MLOHCuJBuHhd3In778RMP) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 2:36 | 2022-06-01 |  |
 | [Clases de baile](https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:59 | 2022-06-01 |  |
@@ -25,7 +26,7 @@
 | [Con un poquito de amor](https://open.spotify.com/track/241BmTaBzj3c96kzcZH34O) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 3:09 | 2022-06-01 |  |
 | [Cuanto Vas](https://open.spotify.com/track/2tPbXFDG7EvmKWonhCah1H) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:54 | 2022-10-11 | 2022-10-13 |
 | [Derecho De Amarla](https://open.spotify.com/track/6XU8HRtPHsWYwVzgA7sgZ3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 2:36 | 2022-06-01 |  |
-| [Desde Mañana](https://open.spotify.com/track/1qjjMQibRv39gb4WAn0oaP) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:56 | 2022-11-12 | 2022-11-26 |
+| [Desde Mañana](https://open.spotify.com/track/1qjjMQibRv39gb4WAn0oaP) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:56 | 2022-11-12 |  |
 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/5XuM8DbECxEgXSt1V0Bkhb) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 2:51 | 2022-06-07 | 2022-06-09 |
 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/327zGhS8S9gjmdgqCfggiA) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 3:03 | 2022-11-27 | 2022-12-08 |
 | [Echando Los Perros](https://open.spotify.com/track/4xd0redqKCAtHlwZbozZTc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:18 | 2022-12-07 |  |
@@ -36,7 +37,7 @@
 | [El Gato del Vecindario](https://open.spotify.com/track/6kfpFMsbGcNrN6CBH87Qyx) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:34 | 2022-06-01 | 2022-10-01 |
 | [El Pasito Perron](https://open.spotify.com/track/70cAHG35vnpbGnoykbIFcn) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [El Pasito Perron](https://open.spotify.com/album/6CiXXNc8Mg5rFwbUwcZ68k) | 2:51 | 2022-06-01 |  |
 | [El pulpito](https://open.spotify.com/track/3wystEzsZLBcIPr7YdZvbe) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Ni tan chico, ni tan che](https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP) | 1:43 | 2022-11-07 | 2022-11-23 |
-| [El Sabio Conocedor](https://open.spotify.com/track/2hv5M006zsIx1ntGUVDYui) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:53 | 2022-06-01 |  |
+| [El Sabio Conocedor](https://open.spotify.com/track/2hv5M006zsIx1ntGUVDYui) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:53 | 2022-06-01 | 2023-02-20 |
 | [El señor de las canas](https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [16 de Septiembre: Gruperas \(USA\) \[Vol\. 2\]](https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn) | 2:48 | 2022-06-03 |  |
 | [El Taladro](https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:45 | 2022-06-01 |  |
 | [El Zorro y el Sabueso](https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:31 | 2022-06-01 | 2022-11-28 |
@@ -63,7 +64,7 @@
 | [Mujer Al Volante](https://open.spotify.com/track/2jVI0WGvWnMTN90AMMq0Yz) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:10 | 2022-06-01 |  |
 | [No Dejes De Preocuparte](https://open.spotify.com/track/1HEhI6s64QNHcT1fWQK2Of) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:52 | 2022-10-22 |  |
 | [Pinto Raya](https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:02 | 2022-06-01 |  |
-| [Porque Me Quite El Vicio](https://open.spotify.com/track/1eZDh0jqpcgiqkAG5PlDDe) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 3:23 | 2022-11-20 |  |
+| [Porque Me Quite El Vicio](https://open.spotify.com/track/1eZDh0jqpcgiqkAG5PlDDe) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 3:23 | 2022-11-20 | 2023-02-20 |
 | [Presumidas SA](https://open.spotify.com/track/7ETxgMiAGeHw4lMC0F45HR) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 3:00 | 2022-06-01 |  |
 | [Reeventon Unisex](https://open.spotify.com/track/59tw8kwcnl7McG6Pgt38EG) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Reventon Unisex](https://open.spotify.com/album/1f4i5bez3wwuDT3SxlKMC3) | 4:05 | 2022-06-01 |  |
 | [Reventón Unixes](https://open.spotify.com/track/0aru7xAJZfzn13o6wQPAko) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 3:54 | 2022-06-01 |  |

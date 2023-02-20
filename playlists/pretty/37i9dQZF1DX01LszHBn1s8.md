@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > calling his 📱 like "yo, send me a 📍"
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,762 likes - 620 songs - 1 day 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,958 likes - 620 songs - 1 day 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,7 +225,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 215 | [One of the Guys](https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [One of the Guys](https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb) | 1:58 |
 | 216 | [Haglar – Spotify Studio It’s Hits Recording](https://open.spotify.com/track/5yoafZ4sNIlX4BuQwlKQCX) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0), [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Haglar – Spotify Studio It’s Hits Recording](https://open.spotify.com/album/5r7W2jDIx805Fhx5ahwFUr) | 3:09 |
 | 217 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
-| 218 | [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 |
+| 218 | [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/65tCcMEIc3guWLBpgLA5AQ) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 |
 | 219 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
 | 220 | [You're Fucked](https://open.spotify.com/track/2dOwL7OS1lMfAL0il4y2Wx) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [Stories From Norway: Northug](https://open.spotify.com/album/6gYWO3DwoNdB6ZsFy6twpG) | 1:46 |
 | 221 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |

@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 114843,
+  "num_followers": 114951,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk0NzYwMCwwMDAwMDAwMGEyZTRhMzBjZTQxNWNiOGM4OTQ4ZDdmY2UzZjU5NDI0",
+  "snapshot_id": "MTY3NTk0NzYwMCwwMDAwMDAwMGQwYTBmNzc0YWViZWRjOTMzNDBhZmVmMzk0N2Y0N2M2",
   "tracks": [
     {
       "added_at": "2023-02-09 13:00:00",
@@ -679,38 +679,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Tomorrows",
-        "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
-      },
-      "artists": [
-        {
-          "name": "Crooked Colours",
-          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
-        }
-      ],
-      "duration_ms": 198961,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Too Much Fun",
-        "url": "https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM"
-      },
-      "artists": [
-        {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
-        }
-      ],
-      "duration_ms": 212492,
-      "name": "Where The Angels Go To Die",
-      "url": "https://open.spotify.com/track/0zwJUJgcZrcdAKfATMYhcq"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "So Far to Go",
         "url": "https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc"
       },
@@ -731,6 +699,38 @@
       "duration_ms": 154500,
       "name": "Sun Moon",
       "url": "https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Too Much Fun",
+        "url": "https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "duration_ms": 212492,
+      "name": "Where The Angels Go To Die",
+      "url": "https://open.spotify.com/track/0zwJUJgcZrcdAKfATMYhcq"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Tomorrows",
+        "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        }
+      ],
+      "duration_ms": 198961,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "We Don\u2019t Ever Stop",
+        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 160638,
+      "name": "We Don't Ever Stop",
+      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "wish that i could (Memphis LK Remix)",
         "url": "https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 181330,
       "name": "wish that i could - Memphis LK Remix",
       "url": "https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "We Don\u2019t Ever Stop",
-        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 160638,
-      "name": "We Don't Ever Stop",
-      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
     },
     {
       "added_at": "2023-02-09 13:00:00",

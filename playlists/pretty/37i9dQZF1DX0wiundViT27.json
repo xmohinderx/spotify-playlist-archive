@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy, feel-good rock tunes.",
-  "num_followers": 611314,
+  "num_followers": 611321,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIyOTQxMSwwMDAwMDAwMGQxZmM3NjNiNGNkNDZjMDk3NjVhNTUxMzRhNjRkOGFj",
+  "snapshot_id": "MTY3NDIyOTQxMSwwMDAwMDAwMDdiNzRmNDI0MjA5Nzc5ODlmN2EzODkwZDlmZGM3ZGRj",
   "tracks": [
     {
       "added_at": "2023-01-20 15:43:31",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-01-20 15:43:31",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
-      },
-      "artists": [
-        {
-          "name": "Lit",
-          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
-        }
-      ],
-      "duration_ms": 169026,
-      "name": "My Own Worst Enemy",
-      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
-    },
-    {
-      "added_at": "2023-01-20 15:43:31",
-      "album": {
         "name": "ZOMBIFIED",
         "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 218520,
       "name": "ZOMBIFIED",
       "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
+    },
+    {
+      "added_at": "2023-01-20 15:43:31",
+      "album": {
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
+      },
+      "artists": [
+        {
+          "name": "Lit",
+          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "My Own Worst Enemy",
+      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
     },
     {
       "added_at": "2023-01-20 15:43:31",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-01-20 15:43:31",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 167287,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
-    },
-    {
-      "added_at": "2023-01-20 15:43:31",
-      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 187140,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
+    },
+    {
+      "added_at": "2023-01-20 15:43:31",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 167287,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
     },
     {
       "added_at": "2023-01-20 15:43:31",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-20 15:43:31",
       "album": {
-        "name": "Dark Sun",
-        "url": "https://open.spotify.com/album/5LBwRaecL24pCuyX5klZm5"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/2g8vTn8mz96VWCSc9RCucZ"
-    },
-    {
-      "added_at": "2023-01-20 15:43:31",
-      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 215173,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
+    },
+    {
+      "added_at": "2023-01-20 15:43:31",
+      "album": {
+        "name": "Dark Sun",
+        "url": "https://open.spotify.com/album/5LBwRaecL24pCuyX5klZm5"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/2g8vTn8mz96VWCSc9RCucZ"
     },
     {
       "added_at": "2023-01-20 15:43:31",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-01-20 15:43:31",
       "album": {
-        "name": "Cool It Down",
-        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
-    },
-    {
-      "added_at": "2023-01-20 15:43:31",
-      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 155199,
       "name": "MYSTERY",
       "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
+    },
+    {
+      "added_at": "2023-01-20 15:43:31",
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
     },
     {
       "added_at": "2023-01-20 15:43:31",

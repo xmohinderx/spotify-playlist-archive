@@ -4,7 +4,7 @@
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-238 songs - 14 hr 59 min
+239 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Fade Away](https://open.spotify.com/track/2mZ51RGd2kfJujJwEaIkDD) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [100 Days My Prince \(Original Television Soundtrack\)](https://open.spotify.com/album/3btpkLhPpQNTDf8BPwEQch) | 3:52 | 2022-10-17 | 2022-11-13 |
 | [Fade Away](https://open.spotify.com/track/6Yc24vrmfEwFqX1TfC7ccJ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [100 DAYS MY PRINCE \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/0C8Pu2s6MgnlIwl0GMwUMX) | 3:52 | 2021-11-19 | 2022-07-29 |
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2021-11-19 |  |
-| [Farewell](https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Obscured star](https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV) | 4:28 | 2021-11-19 |  |
+| [Farewell](https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Obscured star](https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV) | 4:28 | 2021-11-19 | 2023-02-20 |
 | [For You \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:25 | 2021-11-19 |  |
 | [Forever & Always](https://open.spotify.com/track/7edEUxDTzj9pbHSIVHDyJ5) | [Abe](https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4) | [Forever & Always](https://open.spotify.com/album/0oSL02PWnFYXRDY9ShDCH1) | 3:42 | 2021-11-19 |  |
 | [Forever And Ever](https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Forever And Ever](https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o) | 3:11 | 2021-11-19 | 2022-08-09 |
@@ -161,6 +161,7 @@
 | [Read All About It, Pt\. III](https://open.spotify.com/track/0FRcdft6ABgbT1fX6smwkm) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events](https://open.spotify.com/album/6ss4QxKm0eRrNjc92VnWGS) | 4:45 | 2022-10-17 | 2022-11-13 |
 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 | 2021-11-19 |  |
 | [Right There](https://open.spotify.com/track/06Xzb5VNN5wE9MWNEF84Fa) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Right There](https://open.spotify.com/album/5GsOXbdCXVhIemXulDWOM9) | 3:59 | 2021-11-19 | 2022-07-29 |
+| [Right There](https://open.spotify.com/track/1LJlfMCNcVuIRTUJY3BmTX) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Right There](https://open.spotify.com/album/4xGFzLizscpyGNhPmK7vZK) | 3:59 | 2022-10-17 |  |
 | [Right There](https://open.spotify.com/track/6pVbMjJCMwjSR2xRrqBdkJ) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Right There](https://open.spotify.com/album/0y5z24xqxgZtoUuTwDchVB) | 3:59 | 2022-06-16 | 2023-02-16 |
 | [Sa Paghimig Mo](https://open.spotify.com/track/0dhN59CptPl9jJx4cxVOXO) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Sa Paghimig Mo](https://open.spotify.com/album/0JzWTRJ2fBl3Egldr14llU) | 3:56 | 2021-11-19 |  |
 | [Sajni](https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Sajni](https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar) | 4:58 | 2022-01-27 |  |

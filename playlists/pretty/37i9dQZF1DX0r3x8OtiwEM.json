@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 826922,
+  "num_followers": 827295,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMDY3YmM2Mzc3Y2Y3M2QyNTNiOTFkNDQyN2U2OTZjZjll",
+  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMGExM2Q0Y2JiYTZmNjYwZWZmZTcxYjQ1OGU5NDQ2Nzlk",
   "tracks": [
     {
       "added_at": "2023-01-13 13:30:00",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
     },
     {
-      "added_at": "2023-02-19 06:42:17",
+      "added_at": "2023-02-20 00:25:26",
       "album": {
         "name": "Bloom In The Cold",
         "url": "https://open.spotify.com/album/02OyJh302Y5RUnrI1GqeKX"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/4rERaNiKlILD603GJvdEvm"
     },
     {
-      "added_at": "2023-02-19 06:42:17",
+      "added_at": "2023-02-20 00:25:26",
       "album": {
         "name": "Keep Going",
         "url": "https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
     },
     {
-      "added_at": "2023-02-19 06:42:17",
+      "added_at": "2023-02-20 00:25:26",
       "album": {
         "name": "Gravity EP",
         "url": "https://open.spotify.com/album/6JRW2nnHGWfA3ACFtQob7S"
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Timelapse",
-        "url": "https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Ginger",
-          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
-        }
-      ],
-      "duration_ms": 478080,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 246944,
       "name": "Dance with My Ghost (feat. Elderbrook)",
       "url": "https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Timelapse",
+        "url": "https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Ginger",
+          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
+        }
+      ],
+      "duration_ms": 478080,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -507,30 +507,6 @@
       "duration_ms": 246506,
       "name": "Apricots",
       "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        },
-        {
-          "name": "ASHER SWISSA",
-          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
-        },
-        {
-          "name": "SANDHAUS",
-          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
-        }
-      ],
-      "duration_ms": 261290,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -571,18 +547,26 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Unfold Voices EP",
-        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
       },
       "artists": [
         {
-          "name": "JAMIIE",
-          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "SANDHAUS",
+          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
         }
       ],
-      "duration_ms": 391577,
-      "name": "Unfold Me",
-      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
+      "duration_ms": 261290,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -603,22 +587,18 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "On My Knees (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
+        "name": "Unfold Voices EP",
+        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
         }
       ],
-      "duration_ms": 452000,
-      "name": "On My Knees - Adriatique Remix",
-      "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
+      "duration_ms": 391577,
+      "name": "Unfold Me",
+      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -639,6 +619,26 @@
       "duration_ms": 193623,
       "name": "Grouplove",
       "url": "https://open.spotify.com/track/04VNPjMAsLO49GPgsl8xrq"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "On My Knees (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 452000,
+      "name": "On My Knees - Adriatique Remix",
+      "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
+        "name": "Never Ending",
+        "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
         "name": "Unspoken Words",
         "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 285675,
       "name": "Spectrum",
       "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 304390,
-      "name": "All I Got",
-      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Never Ending",
-        "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
       "artists": [
         {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
+      "duration_ms": 304390,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Petroleum (Fabio Vanore Remix)",
-        "url": "https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq"
-      },
-      "artists": [
-        {
-          "name": "Kris Davis",
-          "url": "https://open.spotify.com/artist/2AFYG90qx36vqWXgGxhFWY"
-        },
-        {
-          "name": "Fabio Vanore",
-          "url": "https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs"
-        }
-      ],
-      "duration_ms": 544957,
-      "name": "Petroleum - Fabio Vanore Remix",
-      "url": "https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 266676,
       "name": "EASY PREY",
       "url": "https://open.spotify.com/track/6WqO9gLZu212VEJcVFAYdo"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Petroleum (Fabio Vanore Remix)",
+        "url": "https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq"
+      },
+      "artists": [
+        {
+          "name": "Kris Davis",
+          "url": "https://open.spotify.com/artist/2AFYG90qx36vqWXgGxhFWY"
+        },
+        {
+          "name": "Fabio Vanore",
+          "url": "https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs"
+        }
+      ],
+      "duration_ms": 544957,
+      "name": "Petroleum - Fabio Vanore Remix",
+      "url": "https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "MORE D4TA",
-        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 276689,
-      "name": "MORE LOVE",
-      "url": "https://open.spotify.com/track/64rYiYzQNM4uRx6m03Uv9J"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Prisma (Klanglos Remix)",
         "url": "https://open.spotify.com/album/147QdcYieTKdMrzIvs2X8h"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Restore",
-        "url": "https://open.spotify.com/album/0KUTLvMNkFGeyMQ0WmGUJp"
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
       },
       "artists": [
         {
-          "name": "Peer Kusiv",
-          "url": "https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5"
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
         }
       ],
-      "duration_ms": 433170,
-      "name": "Restore",
-      "url": "https://open.spotify.com/track/0YlaTJMGeSkSocg77wPpJu"
+      "duration_ms": 276689,
+      "name": "MORE LOVE",
+      "url": "https://open.spotify.com/track/64rYiYzQNM4uRx6m03Uv9J"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -1079,6 +1063,22 @@
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Restore",
+        "url": "https://open.spotify.com/album/0KUTLvMNkFGeyMQ0WmGUJp"
+      },
+      "artists": [
+        {
+          "name": "Peer Kusiv",
+          "url": "https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5"
+        }
+      ],
+      "duration_ms": 433170,
+      "name": "Restore",
+      "url": "https://open.spotify.com/track/0YlaTJMGeSkSocg77wPpJu"
     },
     {
       "added_at": "2023-01-13 13:30:00",

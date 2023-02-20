@@ -1,12 +1,12 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1618560,
+  "num_followers": 1618819,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDg0N2MxYThlMGE5ZGRlZDU2YWMwMWUwMThkODIzMDc3",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGZhYzI5YmEwZjAxZjE1MmY2YzI2MTAwYzEwOGI3ODYz",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Brett Young",
         "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 224853,
       "name": "In Case You Didn't Know",
       "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Feel Like This",
-      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "From A Room: Volume 2",
         "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 210133,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/68JS5SFTnW5Yv9Vzw81Jf0"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Feel Like This",
+      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Greetings From...Jake",
-        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Made For You",
-      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Hallelujah Nights",
         "url": "https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 222573,
       "name": "Greatest Love Story",
       "url": "https://open.spotify.com/track/2yQZwi1P8AkkxxFhQ8rMEK"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Greetings From...Jake",
+        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Made For You",
+      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "To Hell & Back",
-      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Two Thousand Miles",
         "url": "https://open.spotify.com/album/1k2268Pzqb4R3WTlLd6qDP"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 186973,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/1zQjzfgYp0ZDSsU1dxi5g8"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "To Hell & Back",
+      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5"
+        "name": "Let's Do Country Right",
+        "url": "https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I"
       },
       "artists": [
         {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+          "name": "Easton Corbin",
+          "url": "https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx"
         }
       ],
-      "duration_ms": 242186,
-      "name": "How Do I Live",
-      "url": "https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn"
+      "duration_ms": 190760,
+      "name": "Marry That Girl",
+      "url": "https://open.spotify.com/track/3onWmITkM6T6eynH06iJcy"
     }
   ],
   "unique_name": "Country Kind of Love",

@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 343636,
+  "num_followers": 343647,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYxMDUyMiwwMDAwMDAwMDQ5ZmM5ZWU2MGRlOTQ4M2NmMTdlODZmNzYzYmZlN2Nj",
+  "snapshot_id": "MTY2NjYxMDUyMiwwMDAwMDAwMDdjNGM1NTI2ZDI5NTRhODdjNTRmMDBjNjNjYTI0ZWU4",
   "tracks": [
     {
       "added_at": "2021-01-19 12:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "It Ain't Over 'Til It's Over",
-      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 203613,
       "name": "Fire and Rain - 2019 Remaster",
       "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "It Ain't Over 'Til It's Over",
+      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 223760,
       "name": "I've Got You Under My Skin - Remastered 1998",
       "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -851,38 +867,6 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "Walked Through Hell",
-        "url": "https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 216864,
-      "name": "Walked Through Hell",
-      "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
         "name": "A la Mar",
         "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 181466,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Walked Through Hell",
+        "url": "https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 216864,
+      "name": "Walked Through Hell",
+      "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "Perfectly Imperfect",
-        "url": "https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy"
-      },
-      "artists": [
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 204309,
-      "name": "Perfectly Imperfect",
-      "url": "https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
         "name": "Tuesday Night Music Club",
         "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 189826,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Perfectly Imperfect",
+        "url": "https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 204309,
+      "name": "Perfectly Imperfect",
+      "url": "https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
+        "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
       },
       "artists": [
         {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
         }
       ],
-      "duration_ms": 141200,
-      "name": "Between the Bars",
-      "url": "https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a"
+      "duration_ms": 209316,
+      "name": "You Wish",
+      "url": "https://open.spotify.com/track/6G6M4fl2I0eqEQnzyTwR8m"
     }
   ],
   "unique_name": "Cena con Amigos",

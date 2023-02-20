@@ -4,7 +4,7 @@
 
 > Mzansi's musical wealth and heritage in one playlist.
 
-152 songs - 12 hr 50 min
+153 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Pluto \(Remember You\) \- Radio Edit](https://open.spotify.com/track/0MITF6fx2O1ClZnkC8jSfr) | [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Pluto \(Remember You\)](https://open.spotify.com/album/5alvUiKME4gVY3qv6UlSwd) | 4:27 | 2018-09-23 |  |
 | [Pot Belly](https://open.spotify.com/track/3mYsWA2ClF84ZLroBpreo1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Ma'cheri](https://open.spotify.com/album/19n9b6PD8x6clAdrqEXaWe) | 4:11 | 2018-09-23 | 2022-11-13 |
 | [Roba Letheka](https://open.spotify.com/track/5Y3V1EP3PhEuriQnsloibv) | [Ishmael](https://open.spotify.com/artist/23kwDDCo3lIQQvjuWf1b08) | [Roba Letheka](https://open.spotify.com/album/6rIrhFTuKliZLJEubiBkre) | 5:39 | 2020-09-30 | 2022-12-24 |
+| [Sana Luma \(That's The Way Love Is\)](https://open.spotify.com/track/6UiuOhWSurVn1DUcpdA6Vf) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/5xmeO5jAS6KCMByzQD8Fdg) | 5:17 | 2023-01-23 |  |
 | [Sana Luma \(Thats The Way Love Is\)](https://open.spotify.com/track/3YqlnQEyawncmoFW4YTMJS) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/6YXDLVdeZESEiQnJhVyTkr) | 5:17 | 2022-12-07 | 2023-01-29 |
 | [Scatterlings Of Africa](https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn) | [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Rain Man: Original Motion Picture Soundtrack](https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi) | 4:05 | 2018-09-23 | 2022-11-14 |
 | [Shake](https://open.spotify.com/track/4Ele0fEVYUwoRGConI8oT6) | [Tananas](https://open.spotify.com/artist/5BBJTTFxHvX3XABSvUq5Gv) | [Spiral](https://open.spotify.com/album/3rjxU1pd8TTjLfy0BimM3h) | 3:50 | 2019-02-12 | 2022-07-24 |
@@ -138,7 +139,7 @@
 | [Township Funk](https://open.spotify.com/track/32bk6u6Pbe2cotvyKJgrP0) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/3luAwCNNb1nLAwq2oMUhJi) | 5:49 | 2019-05-20 | 2023-02-11 |
 | [Umlilo](https://open.spotify.com/track/50i8jd73XOz5kQvDNvcj5R) | [Big Nuz](https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp) | [Undisputed](https://open.spotify.com/album/2cQDCBfZcDYvm7425eHk22) | 6:28 | 2019-02-03 |  |
 | [Umoya](https://open.spotify.com/track/3T0qk4IW6gwiQVG0JRYuwl) | [Skwatta kamp](https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl) | [Mkhukhu Function](https://open.spotify.com/album/14C5e3lBmlHWuhfh10H1Og) | 4:35 | 2018-09-23 | 2022-07-29 |
-| [Umoya](https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF) | [Skwatta Kamp](https://open.spotify.com/artist/5Y0pKQ51nrT0IBnd6zDRqk) | [Mkhukhu Funkshen](https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T) | 4:35 | 2022-12-07 |  |
+| [Umoya](https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF) | [Skwatta Kamp](https://open.spotify.com/artist/5Y0pKQ51nrT0IBnd6zDRqk) | [Mkhukhu Funkshen](https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T) | 4:35 | 2022-12-07 | 2023-02-20 |
 | [Umqombothi](https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [Best Of](https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd) | 4:56 | 2018-09-23 | 2022-07-29 |
 | [Vuli Ndlela](https://open.spotify.com/track/04p7jtRJdhQUB1UeQsMGBx) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 4:21 | 2018-09-23 | 2022-07-27 |
 | [Vuli Ndlela](https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 | 2018-09-23 |  |

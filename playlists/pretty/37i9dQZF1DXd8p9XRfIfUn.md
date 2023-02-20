@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Montano, Totoy El Frio
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,495 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,510 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 38 | [¿Por Qué Te Enojái?](https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [¿Por Qué Te Enojái?](https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc) | 3:37 |
 | 39 | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD) | 3:22 |
 | 40 | [Pa´ Mi Casa](https://open.spotify.com/track/0JT2Dre9yTRQmetBwpKuvG) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Pa´ Mi Casa](https://open.spotify.com/album/2YzcyoOMf38T98oHrSosU2) | 4:01 |
-| 41 | [Traje Tusi](https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Traje Tusi](https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7) | 3:02 |
-| 42 | [Pégate](https://open.spotify.com/track/003CpLpVCGuyfZe4dLB1No) | [ONIX](https://open.spotify.com/artist/0YMk9b6Lijw7f6PVUknCKn), [castleurbano](https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws) | [Pégate](https://open.spotify.com/album/28NfWdCACj7M0DpWgxz3FI) | 2:00 |
+| 41 | [Pégate](https://open.spotify.com/track/003CpLpVCGuyfZe4dLB1No) | [ONIX](https://open.spotify.com/artist/0YMk9b6Lijw7f6PVUknCKn), [castleurbano](https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws) | [Pégate](https://open.spotify.com/album/28NfWdCACj7M0DpWgxz3FI) | 2:00 |
+| 42 | [Traje Tusi](https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Traje Tusi](https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7) | 3:02 |
 | 43 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
 | 44 | [Bendición](https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bendición](https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N) | 3:05 |
 | 45 | [Que Loco Mami](https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Que Loco Mami](https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s) | 2:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [Duro](https://open.spotify.com/track/4imyclPGCjS5foojdAzsIo) | [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Duro](https://open.spotify.com/album/5NMbnNAo4I9o0KoWD3th5r) | 3:42 |
 | 60 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 |
 
-Snapshot ID: `MTY3NDc4ODQwMCwwMDAwMDAwMGM2OTlhNjU1YTAyYjY1ZWEyMmY4OTEwMTYyZTE0Mjc0`
+Snapshot ID: `MTY3NDc4ODQwMCwwMDAwMDAwMDZhZTI4ZDI4ZjA0OGQ5NjcyODM1ZjAyZWQ2ZThiMGZl`

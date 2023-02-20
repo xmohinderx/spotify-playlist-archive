@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,026 likes - 107 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,357 likes - 107 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 96 | [Cold Water \- Lost Frequencies Remix](https://open.spotify.com/track/4HMfSzk0UsiRhulF0eb1M9) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Cold Water \(Remixes\)](https://open.spotify.com/album/33Td2oa2lLAeblqViPpEVL) | 3:56 |
 | 97 | [Show Me Love](https://open.spotify.com/track/2UsnjLHBKPaaRjZiWYUCpj) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kimberly Anne](https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt) | [Show Me Love](https://open.spotify.com/album/2TLZzh2JoU0hiQKEpFPxrW) | 3:01 |
 | 98 | [Eyes Shut \- Sam Feldt Remix](https://open.spotify.com/track/6k9iH2ZS4jMREnU33rjpS2) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Chilled Dance Classics](https://open.spotify.com/album/3GRRFmCreE0OfhK0VN3vkn) | 5:10 |
-| 99 | [Let Me Live \- Banx & Ranx Remix](https://open.spotify.com/track/4btjcdEBFKNLK1fE4qzdoc) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Let Me Live \(Remix\)](https://open.spotify.com/album/1BgsjTEgHIf0GkkVkUZVax) | 2:57 |
-| 100 | [What I Might Do](https://open.spotify.com/track/4Rnfx020sYy3YoxvA3oMS2) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [DJ Central Groove Vol, 15](https://open.spotify.com/album/0vJgZZgkoZE372ZjV6a38c) | 3:14 |
+| 99 | [What I Might Do](https://open.spotify.com/track/4Rnfx020sYy3YoxvA3oMS2) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [DJ Central Groove Vol, 15](https://open.spotify.com/album/0vJgZZgkoZE372ZjV6a38c) | 3:14 |
+| 100 | [Let Me Live \- Banx & Ranx Remix](https://open.spotify.com/track/4btjcdEBFKNLK1fE4qzdoc) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Let Me Live \(Remix\)](https://open.spotify.com/album/1BgsjTEgHIf0GkkVkUZVax) | 2:57 |
 | 101 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 |
 | 102 | [Sunrise \(feat\. Jason Walker\)](https://open.spotify.com/track/4ODnJrz0C3AJ4DFv8YQhJ8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jason Walker](https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 3:34 |
 | 103 | [Stay \(feat\. Maty Noyes\)](https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:59 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 106 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 |
 | 107 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMGUxMGRlZTYyMGU0ZjA0ODVjYTAxYWRkNmIxMDc5M2U5`
+Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMGRjMmIyY2NhMWZmM2ZkOGNmODNkNjRjYWViYzU0NGJh`

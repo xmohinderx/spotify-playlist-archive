@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163089,
+      "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
+    },
+    {
+      "album": {
         "name": "Eu E Voc\u00ea De Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin"
       },
@@ -892,7 +910,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 210461,
       "name": "Se Eu Fosse Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/245bLKhB09weh0K0XE0AHm"

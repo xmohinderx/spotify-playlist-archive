@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 
 > Close the curtains, it's time for some leftfield gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,312 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,366 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 14 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 |
 | 15 | [Vocoder](https://open.spotify.com/track/4nT9x3zgwomLhyuc6ZXPeD) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Vocoder](https://open.spotify.com/album/7nlHOrNbeFFid40EuBoTsN) | 7:35 |
 | 16 | [Talia](https://open.spotify.com/track/49KMGrpCasQj4bP7R27nEL) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Talia](https://open.spotify.com/album/3fr1pMdhBZKMGRbfkki8OD) | 4:33 |
-| 17 | [Disco Tech](https://open.spotify.com/track/6PJ2PkkoyuHQmdq7NFiVGo) | [DeusExMaschine](https://open.spotify.com/artist/3hcNCLF1EXk0SHCxe7Rtb9) | [Disco Tech](https://open.spotify.com/album/3uQZ29VZlBf1s7q63HPBF5) | 2:19 |
-| 18 | [And Groove \- Edit](https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [And Groove](https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt) | 3:25 |
+| 17 | [And Groove \- Edit](https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [And Groove](https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt) | 3:25 |
+| 18 | [Disco Tech](https://open.spotify.com/track/6PJ2PkkoyuHQmdq7NFiVGo) | [DeusExMaschine](https://open.spotify.com/artist/3hcNCLF1EXk0SHCxe7Rtb9) | [Disco Tech](https://open.spotify.com/album/3uQZ29VZlBf1s7q63HPBF5) | 2:19 |
 | 19 | [The East](https://open.spotify.com/track/3f24OX8Zk6JAbZJbpbXd6U) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [I YOU SHE \(Remixes\)](https://open.spotify.com/album/4Q5GWCi3s7c9ei0au3ewMA) | 3:07 |
 | 20 | [Gfortune](https://open.spotify.com/track/6V52Oad8LGjePNLKQHqfgE) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 3:19 |
 | 21 | [Sinking](https://open.spotify.com/track/4RrMjTMEkksPxC4zVhQKAO) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Lenny Kiser](https://open.spotify.com/artist/4n0QSObAbjfgDL1u5aY0IN) | [Sinking](https://open.spotify.com/album/1x5eFJIW5i4HWiYN8gM1eZ) | 4:31 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 53 | [2nd Round](https://open.spotify.com/track/0lrsCibEGQd7uP0eJ7T2bk) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [2nd Round / FFBH](https://open.spotify.com/album/7cjAjQbz0Rdh7UnGFLXQE5) | 2:30 |
 | 54 | [Polymer Pyramid](https://open.spotify.com/track/0SSgDTHqX7y3JwJ47XUtmx) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Polymer Pyramid](https://open.spotify.com/album/7JgvbVWgRYz1IqkieeUaqQ) | 4:49 |
 | 55 | [I've Felt Better \- Daniel Avery Remix](https://open.spotify.com/track/776c1GM41sF4ZbWeWiUEgr) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [I've Felt Better \(Daniel Avery Remix\)](https://open.spotify.com/album/6v0NEvA792ns4sxahYn8iB) | 5:12 |
-| 56 | [Moments](https://open.spotify.com/track/30YAjV3UwFbCwYaYzTqHyE) | [Kid Kun](https://open.spotify.com/artist/4rQ2NFicaqDkXbmATxbReQ) | [Lost City Archives, Vol\. 6](https://open.spotify.com/album/564WpzxRdvGxi2QW3px5QM) | 4:42 |
-| 57 | [Into The Light](https://open.spotify.com/track/42NPEbb30IfU6NLnPpLRQq) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 5:01 |
-| 58 | [What Is House](https://open.spotify.com/track/5r4q7XKiX4KbCriVk8kM3p) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm) | [What Is House](https://open.spotify.com/album/2jQksOKSO8BBFiTGJgsu5j) | 6:13 |
-| 59 | [Water](https://open.spotify.com/track/7tqoivFzlTVYaRTGbIuSuc) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP), [Ryan Elliott](https://open.spotify.com/artist/3SZBUeVJfGLUpAPNEQbBKk) | [Water](https://open.spotify.com/album/0TKpXk55uoVWjIylRFWeYt) | 5:34 |
+| 56 | [Untitled IV](https://open.spotify.com/track/4ziCKpNj8dDFCi5kNrUECp) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 4:44 |
+| 57 | [Moments](https://open.spotify.com/track/30YAjV3UwFbCwYaYzTqHyE) | [Kid Kun](https://open.spotify.com/artist/4rQ2NFicaqDkXbmATxbReQ) | [Lost City Archives, Vol\. 6](https://open.spotify.com/album/564WpzxRdvGxi2QW3px5QM) | 4:42 |
+| 58 | [Into The Light](https://open.spotify.com/track/42NPEbb30IfU6NLnPpLRQq) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 5:01 |
+| 59 | [What Is House](https://open.spotify.com/track/5r4q7XKiX4KbCriVk8kM3p) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm) | [What Is House](https://open.spotify.com/album/2jQksOKSO8BBFiTGJgsu5j) | 6:13 |
 | 60 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 |
 
-Snapshot ID: `MTY3NTA3NDYwMCwwMDAwMDAwMGU1OGQwMzQwMDI5ODAxYmY0Zjk0NDFhMDYxYjc2ZDhj`
+Snapshot ID: `MTY3NTA3NDYwMCwwMDAwMDAwMDdlMzQ1M2JmNTVjNDQ0NjAwNDE3MjBhOTMyMzA5Njg0`

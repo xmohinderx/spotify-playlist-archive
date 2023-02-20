@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Cottonwood Firing Squad
 
-806 songs - 1 day 22 hr 6 min
+807 songs - 1 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,7 +590,7 @@
 | [Rotten](https://open.spotify.com/track/4euglpuBWHIqrTofPsdVTi) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Waterslide, Diving Board, Ladder To The Sky](https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5) | 3:00 | 2022-05-20 | 2022-10-01 |
 | [royal screw up \- demo](https://open.spotify.com/track/2ACZHfMqljJIF1eeyV5MXG) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory \(selected demos\)](https://open.spotify.com/album/6y6oq3lXDAHENr5ChHQlBW) | 4:14 | 2021-03-05 | 2022-04-28 |
 | [Ruby](https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Ruby](https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf) | 3:03 | 2022-06-24 | 2022-10-15 |
-| [Runaway](https://open.spotify.com/track/5NCu775I8ic63BLtEB8szw) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Runaway](https://open.spotify.com/album/4oDBU6BARbCOFLsDwGkf9n) | 5:38 | 2023-02-03 |  |
+| [Runaway](https://open.spotify.com/track/5NCu775I8ic63BLtEB8szw) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Runaway](https://open.spotify.com/album/4oDBU6BARbCOFLsDwGkf9n) | 5:38 | 2023-02-03 | 2023-02-20 |
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-06-24 | 2022-08-06 |
 | [runnning in place at the edge of the map](https://open.spotify.com/track/26DOPFm4uhx8EVpwrYTb8M) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [runnning in place at the edge of the map](https://open.spotify.com/album/4Uukzt62MsJKfLH4U6Ks6x) | 5:07 | 2023-01-27 |  |
 | [Rushmore](https://open.spotify.com/track/3yqMNt1hSk4Dv4N13Ho29W) | [ash tuesday](https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE) | [Rushmore](https://open.spotify.com/album/5tGPASugTD6gzSVXc8o2h6) | 2:54 | 2022-07-29 | 2022-12-15 |
@@ -686,6 +686,7 @@
 | [Sweaters](https://open.spotify.com/track/5TfzJqZLQHzXvCdUIGmc4W) | [The Happy Return](https://open.spotify.com/artist/2zRksKctDvcqmX1nhaydyV) | [Sweaters](https://open.spotify.com/album/5rg22FaF5nxtTUyUrb5lKu) | 2:57 | 2022-07-29 | 2022-12-15 |
 | [Sweet Delila](https://open.spotify.com/track/75RVE1N6t9Lyku02EpOGKd) | [Celler Dwellers](https://open.spotify.com/artist/6JqJpTCoO1tmLR7mVhFmFx) | [Sweet Delila](https://open.spotify.com/album/4oZfvdDPjf20MludjEHUpS) | 2:47 | 2022-12-02 | 2022-12-15 |
 | [Sweetgreen](https://open.spotify.com/track/1vE7VkxO8nIvtidcZTf1yy) | [Gabbo](https://open.spotify.com/artist/1RSDS6LlCTScYAfJivL0Cw) | [Sweetgreen](https://open.spotify.com/album/5vheKIiwAA69WtWQT67DWs) | 4:16 | 2021-07-16 | 2022-04-12 |
+| [Take Care](https://open.spotify.com/track/18aiK0KLCZjHME5ILdgJqK) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Take Care](https://open.spotify.com/album/55c7EDosAWRRQgSr2oeuCZ) | 3:47 | 2023-02-17 |  |
 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-04-30 | 2022-04-20 |
 | [Tear It Apart](https://open.spotify.com/track/564EdN2zwo3VzYiMwfnedc) | [Lazylazy](https://open.spotify.com/artist/1TPIf8I6WXXXIRjjSWYiuD) | [Tear It Apart](https://open.spotify.com/album/7gSRTvnzdzujSgkhJMUjuY) | 3:39 | 2022-12-22 | 2023-02-18 |
 | [Tears of Change](https://open.spotify.com/track/0T1CmhCAJb8biFVLOSu4iS) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Myself in the Way](https://open.spotify.com/album/3hnuFFEOHQ4X1KGNx1HlLh) | 4:09 | 2022-11-11 |  |

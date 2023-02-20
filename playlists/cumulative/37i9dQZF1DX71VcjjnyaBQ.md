@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-163 songs - 14 hr 21 min
+164 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Blues Arabesque](https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV) | 4:40 | 2021-12-21 |  |
 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 | 2021-12-21 | 2022-04-21 |
 | [Bluesen](https://open.spotify.com/track/4q4emoW3IX2eHhY3sVkudj) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven](https://open.spotify.com/album/1a7WanJ8OXUHZsbIlJZLDb) | 2:57 | 2021-12-21 |  |
-| [Bolo Blues](https://open.spotify.com/track/0aTlJ59aJoZ27Ghrhp2hqq) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Presenting Jimmy Forrest](https://open.spotify.com/album/3PKLsD2Wne8PaE68ILMgPv) | 4:09 | 2022-09-27 |  |
+| [Bolo Blues](https://open.spotify.com/track/0aTlJ59aJoZ27Ghrhp2hqq) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Presenting Jimmy Forrest](https://open.spotify.com/album/3PKLsD2Wne8PaE68ILMgPv) | 4:09 | 2022-09-27 | 2023-02-20 |
 | [Bolo Blues](https://open.spotify.com/track/1vBY6A7DpKaA8YSDvvlUUG) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Holiday in the Sun \- Summer Dreaming](https://open.spotify.com/album/7HFeWGNvrCE6iKR3J3YUVX) | 4:09 | 2021-12-21 | 2022-07-26 |
 | [Boo's Blues](https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Boo's Blues](https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU) | 3:25 | 2022-02-10 |  |
 | [Bubbles](https://open.spotify.com/track/3GGslX17J2F3IzVE5yIiRJ) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm) | 5:06 | 2022-06-30 |  |
@@ -171,5 +171,6 @@
 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 | 2022-06-30 | 2022-09-27 |
 | [Yesterday's Dreams](https://open.spotify.com/track/2PeJWalk3QIOZbf9Z90M16) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu) | 3:56 | 2022-09-13 |  |
 | [Yesterday's Dreams](https://open.spotify.com/track/0rT1BwALaymdi8Ivsl0Oew) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light](https://open.spotify.com/album/1FziKW5OiiPik3VeXFhtf2) | 3:56 | 2021-12-21 | 2022-07-29 |
+| [Yesteryear](https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Yesteryear](https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD) | 4:19 | 2023-02-16 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

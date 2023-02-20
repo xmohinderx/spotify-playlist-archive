@@ -1,12 +1,12 @@
 {
   "description": "The greatest Alternative Rock songs through the decades. Cover: The Killers",
-  "num_followers": 645282,
+  "num_followers": 645437,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTIzNDIyMiwwMDAwMDAwMDgwNDVmNmU5YzUzZjlmZmM1YTJlNzRhMzNkMGFmMWM0",
+  "snapshot_id": "MTY2OTIzNDIyMiwwMDAwMDAwMDUyYzY1NDg1Njc0Yzg3Y2RhYmRhM2RkOTVkMDZlMzhl",
   "tracks": [
     {
       "added_at": "2022-11-23 20:10:22",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 235053,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "White Pony",
         "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 299533,
       "name": "Change (In the House of Flies)",
       "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 235053,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Karma Police",
-      "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 178000,
       "name": "When I Come Around",
       "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Karma Police",
+      "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 318226,
       "name": "Jeremy",
       "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 249493,
-      "name": "You Oughta Know - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 249493,
+      "name": "You Oughta Know - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Superunknown (20th Anniversary)",
-        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 246920,
-      "name": "Spoonman",
-      "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "This Is All Yours",
         "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Superunknown (20th Anniversary)",
+        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 246920,
+      "name": "Spoonman",
+      "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Siamese Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Today - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0u5aO1GYsIhAWCPuXdwnak"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Conditions",
         "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
       },
@@ -2191,18 +2175,34 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Give Up (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
+        "name": "Siamese Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
       },
       "artists": [
         {
-          "name": "The Postal Service",
-          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 266506,
-      "name": "Such Great Heights - Remastered",
-      "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
+      "duration_ms": 201173,
+      "name": "Today - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0u5aO1GYsIhAWCPuXdwnak"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 246213,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
+        "name": "Give Up (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
+      },
+      "artists": [
+        {
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "Such Great Heights - Remastered",
+      "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
         "name": "Manners",
         "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
       },
@@ -2235,22 +2251,6 @@
       "duration_ms": 174760,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "The Taste of Ink",
-      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2271,18 +2271,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Veckatimest",
-        "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
       "artists": [
         {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 246213,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
+      "duration_ms": 208693,
+      "name": "The Taste of Ink",
+      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Lisztomania",
-      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Speak & Spell (2006 Remaster)",
         "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
@@ -2587,6 +2571,22 @@
       "duration_ms": 222760,
       "name": "Just Can't Get Enough - 2006 Remaster",
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2623,22 +2623,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Tidal",
-        "url": "https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 341533,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
       },
@@ -2667,6 +2651,22 @@
       "duration_ms": 180266,
       "name": "Don't Look Back into the Sun",
       "url": "https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Tidal",
+        "url": "https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 341533,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2943,22 +2943,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "In Keeping Secrets Of Silent Earth: 3",
-        "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "A Favor House Atlantic",
-      "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
@@ -2971,6 +2955,22 @@
       "duration_ms": 202666,
       "name": "Unbelievers",
       "url": "https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "In Keeping Secrets Of Silent Earth: 3",
+        "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "A Favor House Atlantic",
+      "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -3167,22 +3167,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Cease To Begin",
-        "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Is There A Ghost",
-      "url": "https://open.spotify.com/track/7fgOmdonXZap1Kuz7hs3O1"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Bows + Arrows",
         "url": "https://open.spotify.com/album/4QR9jaNP6Ifh7eqXjhAHw2"
       },
@@ -3195,6 +3179,22 @@
       "duration_ms": 262226,
       "name": "The Rat",
       "url": "https://open.spotify.com/track/2YIOkqKgg3jZEFoL5qcEPT"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Cease To Begin",
+        "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Is There A Ghost",
+      "url": "https://open.spotify.com/track/7fgOmdonXZap1Kuz7hs3O1"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -3539,22 +3539,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Wet From Birth",
-        "url": "https://open.spotify.com/album/41ZdJIZqQvwlcf939RDQlP"
-      },
-      "artists": [
-        {
-          "name": "The Faint",
-          "url": "https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk"
-        }
-      ],
-      "duration_ms": 247173,
-      "name": "I Disappear",
-      "url": "https://open.spotify.com/track/7AMGMiTQPTzDnQO7oHXggs"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "The Seldom Seen Kid (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/44w1MmIi5i05Y0UVBHaWRt"
       },
@@ -3567,6 +3551,22 @@
       "duration_ms": 394173,
       "name": "One Day Like This",
       "url": "https://open.spotify.com/track/6H3S7yQjHn3ErG9o6v7qBs"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Wet From Birth",
+        "url": "https://open.spotify.com/album/41ZdJIZqQvwlcf939RDQlP"
+      },
+      "artists": [
+        {
+          "name": "The Faint",
+          "url": "https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "I Disappear",
+      "url": "https://open.spotify.com/track/7AMGMiTQPTzDnQO7oHXggs"
     },
     {
       "added_at": "2022-11-23 20:10:22",

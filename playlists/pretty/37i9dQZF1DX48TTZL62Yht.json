@@ -1,12 +1,12 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Kendrick Lamar",
-  "num_followers": 430016,
+  "num_followers": 430088,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGMxZDZiZWU2MzI0MWYwZTkyOWE2MjJlZTcxM2UxZjYy",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGM2ZWZjZjMyYjc4MTBmZTE0YmE3NjhkOGY4Nzk3NjU5",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 156578,
+      "name": "Tyler Herro",
+      "url": "https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 178176,
       "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
       "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 156578,
-      "name": "Tyler Herro",
-      "url": "https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 259672,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 259672,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Plain Jane REMIX (feat. Nicki Minaj)",
+        "url": "https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 202636,
+      "name": "Plain Jane REMIX (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 224466,
       "name": "Savior",
       "url": "https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Plain Jane REMIX (feat. Nicki Minaj)",
-        "url": "https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn"
-      },
-      "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 202636,
-      "name": "Plain Jane REMIX (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Ball If I Want To",
-        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 112546,
-      "name": "Ball If I Want To",
-      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 181688,
       "name": "GO (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Ball If I Want To",
+        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 112546,
+      "name": "Ball If I Want To",
+      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "2055",
-        "url": "https://open.spotify.com/album/0DiZ7mmFppDNbEtoRPvSGf"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        }
-      ],
-      "duration_ms": 123986,
-      "name": "2055",
-      "url": "https://open.spotify.com/track/0mG6igzxbH55XRyq3ygEh8"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "B4 AVA",
         "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 215303,
       "name": "Man in the Mirror",
       "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "2055",
+        "url": "https://open.spotify.com/album/0DiZ7mmFppDNbEtoRPvSGf"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 123986,
+      "name": "2055",
+      "url": "https://open.spotify.com/track/0mG6igzxbH55XRyq3ygEh8"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "CLOUDS (THE MIXTAPE)",
+        "url": "https://open.spotify.com/album/7eQGtkzCgrIWDOe76E9F8t"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 251236,
+      "name": "JUST LIKE YOU",
+      "url": "https://open.spotify.com/track/7tTRFVlFzk6yTnoMcParmi"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -1599,38 +1615,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "CLOUDS (THE MIXTAPE)",
-        "url": "https://open.spotify.com/album/7eQGtkzCgrIWDOe76E9F8t"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 251236,
-      "name": "JUST LIKE YOU",
-      "url": "https://open.spotify.com/track/7tTRFVlFzk6yTnoMcParmi"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/32FRll0ejOVNcspDDtUEqY"
-      },
-      "artists": [
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        }
-      ],
-      "duration_ms": 180760,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/65nmqAEqW7CJIkXOIkxyg8"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Moon Boy",
         "url": "https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 226220,
       "name": "You're Mines Still (feat. Drake)",
       "url": "https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/32FRll0ejOVNcspDDtUEqY"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "duration_ms": 180760,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/65nmqAEqW7CJIkXOIkxyg8"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1899,22 +1899,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Nothing Changed",
-        "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
+        "name": "Come Through (feat. Lil Tecca)",
+        "url": "https://open.spotify.com/album/1MmvvWW9bxBU68A6eciF2B"
       },
       "artists": [
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Bankrol Hayden",
+          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
         },
         {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 199111,
-      "name": "Nothing Changed",
-      "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
+      "duration_ms": 112613,
+      "name": "Come Through (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/3RoCi49XvcidDK7OqGw7fb"
     }
   ],
   "unique_name": "Hip-Hop Favourites",

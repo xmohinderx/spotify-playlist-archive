@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: slipmami
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,972 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,000 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 28 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 |
 | 29 | [Potranca](https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:36 |
 | 30 | [Ashley Banks](https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Ashley Banks](https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY) | 3:28 |
-| 31 | [DE CRIA PRA CRIA / MC Marcelly](https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:20 |
-| 32 | [T SHIRT \(feat\. Jé Santiago\)](https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [ONNiKA](https://open.spotify.com/album/6KTGjKqOhXcHTUKb1EqeLd) | 2:19 |
+| 31 | [T SHIRT \(feat\. Jé Santiago\)](https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [ONNiKA](https://open.spotify.com/album/6KTGjKqOhXcHTUKb1EqeLd) | 2:19 |
+| 32 | [DE CRIA PRA CRIA / MC Marcelly](https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:20 |
 | 33 | [De Fé](https://open.spotify.com/track/73LpUA3H3L6kZuUzWE4j72) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ikinya](https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU) | [De Fé](https://open.spotify.com/album/7yvEzXsMNAIGBQtd0luLDZ) | 2:24 |
 | 34 | [Melhor do Ano](https://open.spotify.com/track/3t8ABVwTR0nTDb5wdHmoQl) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:33 |
 | 35 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Retada](https://open.spotify.com/track/1AGkCSTgA9CXLEalVk8VOj) | [Tícia](https://open.spotify.com/artist/32sKApT6WxIehmBNyGLsXN) | [Sagrada e Profana](https://open.spotify.com/album/6L6ZkI7Rd5iiHCvTvDkRTv) | 2:30 |
 | 50 | [Apostas e Contratos \- Ao Vivo](https://open.spotify.com/track/79mrh2ByWxSh24uV8I6pIc) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Ashira No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/6nxV2RXjblA8wg4ZZs6Mea) | 3:32 |
 
-Snapshot ID: `MTY3NjYwMjg2MCwwMDAwMDAwMGFlNGE4MTA4YmRhYjI0NzQzYjJlNDM0ODI4MzBhM2E0`
+Snapshot ID: `MTY3NjYwMjg2MCwwMDAwMDAwMDNjYzJlNmNlNTYyYTc4YjdhYmQyYmQ5MjY0NzRhMWMz`

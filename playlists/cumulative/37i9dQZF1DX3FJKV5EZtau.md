@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-335 songs - 19 hr 21 min
+336 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Another You](https://open.spotify.com/track/1zmkJElrB0ghx5v5jJ4x3i) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Digital Heart](https://open.spotify.com/album/5WpyVMapI2A3fz6WHq8UEG) | 3:03 | 2022-01-07 |  |
 | [April \(Eyes\)](https://open.spotify.com/track/2KaM0vJC3mpraNUjDmjr0C) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [April \(Eyes\)](https://open.spotify.com/album/7p24hLtyoSdmLHHFnr6Uft) | 2:08 | 2023-02-17 |  |
 | [ARCADE NIGHT](https://open.spotify.com/track/3VUPk0XASJ8a0HDyj4omX5) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg), [Hikaru Station](https://open.spotify.com/artist/43CwK7mj1NRZuXaC9SO6Zj) | [ARCADE NIGHT](https://open.spotify.com/album/3c8kfHbvA1fbSC52TxEWPI) | 3:59 | 2022-01-07 | 2023-01-13 |
-| [Are We Dreaming?](https://open.spotify.com/track/29TvVllfoDqdCOqMlze3Yz) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Are We Dreaming?](https://open.spotify.com/album/1RTNYYi5KHwhG4Z9zMrrO8) | 4:58 | 2022-01-07 |  |
+| [Are We Dreaming?](https://open.spotify.com/track/29TvVllfoDqdCOqMlze3Yz) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Are We Dreaming?](https://open.spotify.com/album/1RTNYYi5KHwhG4Z9zMrrO8) | 4:58 | 2022-01-07 | 2023-02-20 |
 | [Around The World \(feat\. NOUMENN\)](https://open.spotify.com/track/273n4aGEPcL1HrcdhpGGul) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [NOUMENN](https://open.spotify.com/artist/7bFQpPcrEXYDQDcVPVahyC) | [Around The World \(feat\. NOUMENN\)](https://open.spotify.com/album/5mbOLvo8EOsUyuKStqC0aY) | 3:19 | 2022-01-07 |  |
 | [Artificial Love](https://open.spotify.com/track/5lAbIEjU5D832P9ILBPzAe) | [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw) | [Artificial Love](https://open.spotify.com/album/10AxppKXa2VrVF4G2rxBBF) | 3:12 | 2022-02-11 | 2022-02-23 |
 | [Astatine](https://open.spotify.com/track/666PI2ou8H5MI98weRgnXI) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Astatine](https://open.spotify.com/album/1PTdPcuA4PZOFiqCA4h4iR) | 5:48 | 2022-12-02 |  |
@@ -284,6 +284,7 @@
 | [Somebody Else](https://open.spotify.com/track/7qXFLa1RfT8aYBVvTHcfzH) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Somebody Else](https://open.spotify.com/album/0RzdjXDnexGsG8JM2oSGEl) | 4:02 | 2022-08-05 | 2022-08-30 |
 | [Someone Else’s Dream \(CASTLE\. Edit\)](https://open.spotify.com/track/56oC5buLanioZDYpK2q94t) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [CASTLE.](https://open.spotify.com/artist/6IcVDBaltKmVE8Asl4p8FM) | [Someone Else’s Dream](https://open.spotify.com/album/6Kr3T5LjvpUl4QKipF5qqs) | 4:06 | 2022-01-07 | 2022-07-29 |
 | [Somewhere Far Away From Here](https://open.spotify.com/track/1mZsABAFAStMVUKW8AyRX5) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Lolaby](https://open.spotify.com/artist/2bJ1Od9O4eVt9Uv0BOBJIm) | [REBIRTH](https://open.spotify.com/album/2tf4qRFJYH1mFFPEbXCdUt) | 5:02 | 2022-01-07 | 2023-01-08 |
+| [Somewhere Far Away From Here \(feat\. Lolaby\)](https://open.spotify.com/track/7FiicGWciexdcPZVOwjv26) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Lolaby](https://open.spotify.com/artist/2bJ1Od9O4eVt9Uv0BOBJIm) | [REBIRTH](https://open.spotify.com/album/1OxASE4sDzjiYJBEqNnaaC) | 5:02 | 2023-02-17 |  |
 | [Stardust Adventure](https://open.spotify.com/track/7mvEJwPYeTKTNGjAa3z1wp) | [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU) | [Stardust Adventure](https://open.spotify.com/album/4d7RidCnUxbQ4C5huq9G4S) | 3:05 | 2022-01-07 | 2022-07-29 |
 | [Starlight](https://open.spotify.com/track/26MtZfJOjVrYXSazR5NPhi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jedwill](https://open.spotify.com/artist/6Ed7YwSt3LvYcMDZk5b1Id) | [Starlight](https://open.spotify.com/album/1i8mhstzGsJAzXD0a0lAug) | 2:20 | 2022-04-29 | 2022-10-13 |
 | [Status Quo](https://open.spotify.com/track/20nE4m2wJ7a44ZTaorpn5z) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Status Quo](https://open.spotify.com/album/019JaqKPZQvBVL2KcmZjIB) | 2:56 | 2022-01-07 | 2022-11-12 |

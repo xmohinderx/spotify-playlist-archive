@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,744 likes - 69 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,763 likes - 69 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 29 | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm) | 3:03 |
 | 30 | [I Like 2 Be](https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I Like 2 Be](https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8) | 2:54 |
 | 31 | [Yesteryear](https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:39 |
-| 32 | [PAGA DIOS](https://open.spotify.com/track/2CGc8zqNbsnYVV5oPXZIku) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAGA DIOS](https://open.spotify.com/album/6N0HJ7vRJLzUVjBmQPrDit) | 2:16 |
-| 33 | [Music Is The Answer](https://open.spotify.com/track/4Gyx7Nq6WySuaY6aE8aT8t) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [SLO](https://open.spotify.com/artist/4w0X9CxVeoMeDucb4QT6Zl) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 4:58 |
+| 32 | [Music Is The Answer](https://open.spotify.com/track/4Gyx7Nq6WySuaY6aE8aT8t) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [SLO](https://open.spotify.com/artist/4w0X9CxVeoMeDucb4QT6Zl) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 4:58 |
+| 33 | [PAGA DIOS](https://open.spotify.com/track/2CGc8zqNbsnYVV5oPXZIku) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAGA DIOS](https://open.spotify.com/album/6N0HJ7vRJLzUVjBmQPrDit) | 2:16 |
 | 34 | [Flerte Revival](https://open.spotify.com/track/2t2HDBOr6qB4BN5R3Pl0bF) | [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Letrux em Noite de Climão](https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT) | 3:10 |
 | 35 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
 | 36 | [Feels Right](https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:34 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 68 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
 | 69 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 |
 
-Snapshot ID: `MTY3NjMxNjE3MiwwMDAwMDAwMDJlZThkMmVhNDVjMDU1ZjkwZDUxNDMzMjY1MzEzZmIw`
+Snapshot ID: `MTY3NjMxNjE3MiwwMDAwMDAwMDI1Nzg3OTI2MmM0YTM2MzQ4ZjhjOWE1NWI0MzhlNDk0`

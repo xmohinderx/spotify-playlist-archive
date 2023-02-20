@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 291840,
       "name": "Change of Heart",
       "url": "https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E"
@@ -2601,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "i've got a crush on you",
+        "url": "https://open.spotify.com/album/3bdegMUGxFxJbgKocQE2G4"
+      },
+      "artists": [
+        {
+          "name": "Hunter Paige",
+          "url": "https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216759,
+      "name": "i've got a crush on you",
+      "url": "https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2"
+    },
+    {
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/3AH2fKZ4ERtOrXx4zo01Pw"
       },
@@ -3318,6 +3336,24 @@
       "duration_ms": 181389,
       "name": "Landing",
       "url": "https://open.spotify.com/track/5Ay0F2FMw9j8HiAKqDI8re"
+    },
+    {
+      "album": {
+        "name": "Nightcaps",
+        "url": "https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169863,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw"
     },
     {
       "album": {
@@ -5548,7 +5584,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 338132,
       "name": "The End Of A Love Affair",
       "url": "https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C"

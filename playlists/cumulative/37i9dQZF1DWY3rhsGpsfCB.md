@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-213 songs - 11 hr 21 min
+214 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Malibu](https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Malibu](https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz) | 2:51 | 2022-06-24 | 2022-08-08 |
 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 | 2022-06-30 |  |
 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 | 2022-08-26 |  |
+| [Memories](https://open.spotify.com/track/49qUbL1HRDTufCmYWzi37E) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Memories](https://open.spotify.com/album/3nVigkuaDxPHnKTivOc74j) | 2:26 | 2023-02-16 |  |
 | [Miss My Dawgs \(with 6LACK\)](https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Miss My Dawgs](https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r) | 3:25 | 2022-09-19 |  |
 | [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 | 2022-09-23 |  |
 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-09-23 | 2023-01-27 |
@@ -191,7 +192,7 @@
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-16 |  |
 | [Table for Two](https://open.spotify.com/track/2ztim2Wblnr9vsbATzyMg2) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Table for Two](https://open.spotify.com/album/3aoMBKJZG8CDYecBihJsBp) | 3:27 | 2022-10-28 | 2022-12-09 |
 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2022-06-24 |  |
-| [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 | 2022-07-28 |  |
+| [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 | 2022-07-28 | 2023-02-20 |
 | [Themba Lami \(feat\. Ami Faku\)](https://open.spotify.com/track/3DYKpGOFY06AONuqytJlya) | [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Themba Lami \(feat\. Ami Faku\)](https://open.spotify.com/album/4Igrf5yLQM2d8fFSfgZZtt) | 3:25 | 2022-07-29 | 2022-08-19 |
 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 | 2022-06-24 |  |
 | [There's Music in the Air](https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [There's Music in the Air](https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS) | 3:54 | 2022-09-09 |  |

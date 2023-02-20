@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. Chiquis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,398 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,423 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 41 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
 | 42 | [Brujería](https://open.spotify.com/track/1PcwgVL81paHLsxatYSNR3) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:01 |
 | 43 | [Cómo Te Olvido](https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 4:17 |
-| 44 | [Se Disfrazó](https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Se Disfrazó](https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8) | 3:26 |
-| 45 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 |
+| 44 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 |
+| 45 | [Se Disfrazó](https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Se Disfrazó](https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8) | 3:26 |
 | 46 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N) | 2:44 |
 | 47 | [Tambien Las Mujeres Pueden \(En Vivo\)](https://open.spotify.com/track/0EwW3CpYxYmiwa4LHOmbxY) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Tambien Las Mujeres Pueden \(En Vivo\)](https://open.spotify.com/album/0A9jc2mNfi0CeYveDasqI3) | 3:02 |
 | 48 | [Cuando Me Importabas](https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cuando Me Importabas](https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD) | 3:12 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 53 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
 | 54 | [Paloma Blanca](https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Paloma Blanca](https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI) | 3:53 |
 | 55 | [Te Lo Dije](https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Te Lo Dije](https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt) | 2:33 |
-| 56 | [Con Tu Recuerdo](https://open.spotify.com/track/4VUt0lvEPcNk9bZ3sDwROc) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Con Tu Recuerdo](https://open.spotify.com/album/2HvSOHRTPK1HBUMgA5eUUc) | 2:57 |
-| 57 | [Entiende Que Ya](https://open.spotify.com/track/6LaHhcm92gEEO2CYxUJ340) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Entiende Que Ya](https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ) | 2:47 |
+| 56 | [Entiende Que Ya](https://open.spotify.com/track/6LaHhcm92gEEO2CYxUJ340) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Entiende Que Ya](https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ) | 2:47 |
+| 57 | [Con Tu Recuerdo](https://open.spotify.com/track/4VUt0lvEPcNk9bZ3sDwROc) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Con Tu Recuerdo](https://open.spotify.com/album/2HvSOHRTPK1HBUMgA5eUUc) | 2:57 |
 | 58 | [Es Cosa De El](https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Promesas No](https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3) | 3:26 |
 | 59 | [Hazme Tuya](https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Hazme Tuya](https://open.spotify.com/album/0a48C884SUXHbslHhIwlGI) | 2:24 |
 | 60 | [Dos Botellas De Mezcal](https://open.spotify.com/track/28QfOZ6Z3ozknIq5g1Tf5C) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [Dos Botellas De Mezcal](https://open.spotify.com/album/1GreuGxkG2mQaEqkU5w4Yg) | 3:23 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 80 | [La Primera Piedra \(En Vivo\)](https://open.spotify.com/track/5k3Ajm3rvCI3L5IDXjZi8C) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [No Se Vayan Con La Finta \(En Vivo\)](https://open.spotify.com/album/7GI58DuMbYiPMKBeT7d42a) | 3:13 |
 | 81 | [Pa' Dentro \- Versión Banda](https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Pa' Dentro](https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW) | 2:32 |
 | 82 | [40 Y 21](https://open.spotify.com/track/3bPCfYzKsnzhT4YYcYC0lq) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Esencia](https://open.spotify.com/album/1zwouzqra6ZrjRg9qkk1gL) | 3:00 |
-| 83 | [Ya Te Olvidé](https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ya Te Olvidé](https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV) | 3:40 |
-| 84 | [Volveré A Amar](https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN) | [Valentina Elizalde](https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1) | [Volveré A Amar](https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o) | 4:00 |
+| 83 | [Volveré A Amar](https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN) | [Valentina Elizalde](https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1) | [Volveré A Amar](https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o) | 4:00 |
+| 84 | [Ya Te Olvidé](https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ya Te Olvidé](https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV) | 3:40 |
 | 85 | [De Ti No Lo Esperaba](https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [De Ti No Lo Esperaba](https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0) | 3:13 |
 | 86 | [Una Tarde De Abril](https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Una Tarde De Abril](https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh) | 2:53 |
 | 87 | [Ni Diabla Ni Santa](https://open.spotify.com/track/1NncWv7T19isafndpzddUd) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Ni Diabla Ni Santa](https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Ovarios](https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 2:52 |
 | 100 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 
-Snapshot ID: `MTY3NDE5NDQwMCwwMDAwMDAwMDhlZDIzYWY5NDMzZGRkMDE1YWUzYTJkNGVlZWQxNjkx`
+Snapshot ID: `MTY3NDE5NDQwMCwwMDAwMDAwMDQyYzBiZGQ5N2EyNTVkYjVmNmY5Njk0ODk0OTU4Y2My`

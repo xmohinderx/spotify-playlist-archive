@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 569813,
+  "num_followers": 570479,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDcwODEyMCwwMDAwMDAwMDZjNjk0NmJiYjMzZDQxMjhjMjllYWUxMmVkN2ZhYzc0",
+  "snapshot_id": "MTY3NDcwODEyMCwwMDAwMDAwMGFlOGRiMmY0NTEyMTA1MzNlZjU1YjNkZjljNGYxNGM4",
   "tracks": [
     {
       "added_at": "2023-01-13 04:10:03",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-01-13 04:10:03",
       "album": {
-        "name": "Hotel del Luna (Original Television Soundtrack) Pt.5",
-        "url": "https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 225785,
-      "name": "\ub0b4 \ub9d8\uc744 \ubcfc \uc218 \uc788\ub098\uc694",
-      "url": "https://open.spotify.com/track/2oVHb8wyg6oC2iNpGBNvx1"
-    },
-    {
-      "added_at": "2023-01-13 04:10:03",
-      "album": {
         "name": "Descendants Of The Sun Pt.4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 240590,
       "name": "You Are My Everything",
       "url": "https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7"
+    },
+    {
+      "added_at": "2023-01-13 04:10:03",
+      "album": {
+        "name": "Hotel del Luna (Original Television Soundtrack) Pt.5",
+        "url": "https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 225785,
+      "name": "\ub0b4 \ub9d8\uc744 \ubcfc \uc218 \uc788\ub098\uc694",
+      "url": "https://open.spotify.com/track/2oVHb8wyg6oC2iNpGBNvx1"
     },
     {
       "added_at": "2023-01-13 04:10:03",

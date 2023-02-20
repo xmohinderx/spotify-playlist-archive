@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2000. Cover: Joan Sebastian",
-  "num_followers": 25735,
+  "num_followers": 25778,
   "original_name": "Latin Hits 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEwODYzOCwwMDAwMDAwMGU1YWY5NjlkMGZhNGFiMzViZThjNjM1MzYyZGM1OWFh",
+  "snapshot_id": "MTY2MDEwODYzOCwwMDAwMDAwMDBhYzI2M2QzNzMwODA5NGRkYTVjZDE4ZWY4ZWU3MWM2",
   "tracks": [
     {
       "added_at": "2021-12-22 23:28:32",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
-        "name": "Una Peque\u00f1a Parte Del Mundo",
-        "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "C\u00f3mo hablar",
-      "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
-    },
-    {
-      "added_at": "2021-12-22 23:28:32",
-      "album": {
         "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
         "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 198706,
       "name": "Par Mil",
       "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
+    },
+    {
+      "added_at": "2021-12-22 23:28:32",
+      "album": {
+        "name": "Una Peque\u00f1a Parte Del Mundo",
+        "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "C\u00f3mo hablar",
+      "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
     },
     {
       "added_at": "2021-12-22 23:28:32",

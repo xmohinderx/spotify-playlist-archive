@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-275 songs - 18 hr 9 min
+277 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Bella's Smile](https://open.spotify.com/track/2YDm0hVUj1JGWqyRK6ERpP) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Baldwin's Tune](https://open.spotify.com/album/7BkeW5r0rPvAuIgnCLQD7F) | 3:11 | 2022-06-29 | 2023-01-15 |
 | [Beneath The Pale Moonlight](https://open.spotify.com/track/0Cw4AgG0dPKJKO0oT6xOr9) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Beneath The Pale Moonlight](https://open.spotify.com/album/1I3u82aRiglXALaR2FmcGP) | 4:11 | 2022-06-29 | 2023-02-13 |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-06-29 |  |
-| [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 5:58 | 2022-06-29 |  |
+| [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 5:58 | 2022-06-29 | 2023-02-20 |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-17 |  |
 | [Birds Down South](https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Birds Down South](https://open.spotify.com/album/0c6rJQwZVkO76WQIatE63W) | 2:54 | 2022-06-29 |  |
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-23 |  |
@@ -106,7 +106,7 @@
 | [Hoping](https://open.spotify.com/track/6RhZRRN9d78ef1Qhevnxkk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Hoping](https://open.spotify.com/album/4fSuViLnkUt5fKf6w3SxtC) | 3:23 | 2022-06-29 | 2022-12-28 |
 | [Hoppet](https://open.spotify.com/track/50QdRhmKuE8C2z1NGkiKxB) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Hoppet](https://open.spotify.com/album/6IOoncN42rM25gZJx0rp8J) | 2:35 | 2022-06-29 |  |
 | [How Deep Is The Ocean \(How High Is The Sky\)](https://open.spotify.com/track/2yVSmhgifg9zyolZ2FOgPM) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 2:33 | 2022-06-29 | 2022-12-28 |
-| [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2022-06-29 |  |
+| [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2022-06-29 | 2023-02-20 |
 | [I Didn't Know About You](https://open.spotify.com/track/4n3zpZjTVMy3GbguVibX0g) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [I Didn't Know About You](https://open.spotify.com/album/1DArZKNaRwXBjvjY7U9UX4) | 3:50 | 2022-06-29 | 2022-10-09 |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 7:18 | 2022-06-29 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/7CFnOzCVrrPbmJk9aCTk9q) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:58 | 2022-06-29 | 2023-01-24 |
@@ -153,6 +153,7 @@
 | [Look For The Silver Lining](https://open.spotify.com/track/7CIQyeJuQUrJu3W8CoqAmu) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Look For The Silver Lining](https://open.spotify.com/album/5LGEFIR73PAlPikZFndnyY) | 3:46 | 2022-06-29 |  |
 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 | 2022-06-29 |  |
 | [Lost In Your Eyes](https://open.spotify.com/track/6LbXoojfOKm6iW4VIztDAT) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 4:02 | 2023-01-19 |  |
+| [Love in the First Degree](https://open.spotify.com/track/69eesFTk1HKajniFSF2Z9n) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Love in the First Degree](https://open.spotify.com/album/489cU8nNEb4pS0bBMjcS00) | 3:12 | 2023-02-16 |  |
 | [Love Is a Many\-Splendored Thing](https://open.spotify.com/track/23G8P94lKwgXNAKH2z5VP8) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 2:43 | 2022-06-29 |  |
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-10-13 |  |
 | [Love Waiting Endlessly](https://open.spotify.com/track/4LqPbk7Mcm48KciBUa88sM) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Common View](https://open.spotify.com/album/0MKZB0Q3tyrI0jtacgtQZF) | 4:35 | 2022-06-29 | 2022-11-27 |
@@ -226,6 +227,7 @@
 | [Stars](https://open.spotify.com/track/5LFU23eUcfpYJmtUZ7RxdS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 8:01 | 2022-10-13 |  |
 | [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-06-29 | 2023-01-20 |
 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 | 2022-06-29 |  |
+| [Strangest Sea](https://open.spotify.com/track/1uptgSNdSsDIVsdynJEoCe) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Strangest Sea](https://open.spotify.com/album/2KsZ2DjNxiSbfwWv49bHS9) | 3:34 | 2023-02-16 |  |
 | [Tell Me](https://open.spotify.com/track/05VtTtYxedMwnMJiysMpJW) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Tell Me](https://open.spotify.com/album/7wul9iPUYQoZPR9ekVcxAa) | 4:24 | 2022-06-29 |  |
 | [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 | 2023-01-05 |  |
 | [The Beauty of Everyday Things](https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Beauty of Everyday Things](https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk) | 3:23 | 2022-06-29 |  |

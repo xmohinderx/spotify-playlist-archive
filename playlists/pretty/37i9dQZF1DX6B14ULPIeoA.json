@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 36385,
+  "num_followers": 36444,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMwMjY4MCwwMDAwMDAwMDM5OGEzNTI3NTdmZWJiYjIwMmY2OTM5YjQyYmIyZjhi",
+  "snapshot_id": "MTY3NjMwMjY4MCwwMDAwMDAwMGI5ODQ4ZGYxMzk2OTY1M2YxMDY2N2Y3ZGZkZjQ2ZDll",
   "tracks": [
     {
       "added_at": "2022-09-23 18:17:22",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Para Cuando Regreses",
-        "url": "https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
-        }
-      ],
-      "duration_ms": 140874,
-      "name": "Para Cuando Regreses",
-      "url": "https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Somos Novios",
         "url": "https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 134113,
       "name": "Querida Amiga",
       "url": "https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Para Cuando Regreses",
+        "url": "https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "duration_ms": 140874,
+      "name": "Para Cuando Regreses",
+      "url": "https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "El Viaje",
-        "url": "https://open.spotify.com/album/44HzmqeXrVMkV4XCAb4Muv"
-      },
-      "artists": [
-        {
-          "name": "Juan Jose Moreno",
-          "url": "https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "El Viaje",
-      "url": "https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Guitarras Latinas",
         "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "El Viaje",
+        "url": "https://open.spotify.com/album/44HzmqeXrVMkV4XCAb4Muv"
+      },
+      "artists": [
+        {
+          "name": "Juan Jose Moreno",
+          "url": "https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "El Viaje",
+      "url": "https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Adoro",
         "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
       },
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Cuando Te Duermas",
-        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
+        "name": "Llevatela",
+        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
       },
       "artists": [
         {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
         }
       ],
-      "duration_ms": 162927,
-      "name": "Cuando Te Duermas",
-      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
+      "duration_ms": 138000,
+      "name": "Llevatela",
+      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Llevatela",
-        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
+        "name": "Cuando Te Duermas",
+        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
       },
       "artists": [
         {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Llevatela",
-      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
+      "duration_ms": 162927,
+      "name": "Cuando Te Duermas",
+      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 171973,
-      "name": "Como Las Olas",
-      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
+      "duration_ms": 175000,
+      "name": "Cuando Me Lo Pidas",
+      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Cuando Me Lo Pidas",
-      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
+      "duration_ms": 171973,
+      "name": "Como Las Olas",
+      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Llorando Estoy Por Ti",
-        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Llorando Estoy Por Ti",
-      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "15 Inmortales de Pedro Infante",
         "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 149346,
       "name": "La cama de piedra",
       "url": "https://open.spotify.com/track/4k2RPbnJ2YIopAFJ2bwmfo"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Llorando Estoy Por Ti",
+        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Llorando Estoy Por Ti",
+      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1335,8 +1335,8 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Mexico: 20 Best Mariachi and Folk Songs",
-        "url": "https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9"
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
       },
       "artists": [
         {
@@ -1344,9 +1344,9 @@
           "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
         }
       ],
-      "duration_ms": 138426,
-      "name": "La media vuelta",
-      "url": "https://open.spotify.com/track/03fXI8pVGMV7XnkTMTbmrW"
+      "duration_ms": 183400,
+      "name": "La barca",
+      "url": "https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1483,38 +1483,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Alma Enamorada",
-        "url": "https://open.spotify.com/album/5kjOv0KKGmRqgYGPA4BFJv"
-      },
-      "artists": [
-        {
-          "name": "Arturo Jimenes",
-          "url": "https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr"
-        }
-      ],
-      "duration_ms": 243500,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "La barca",
-      "url": "https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Dueles",
         "url": "https://open.spotify.com/album/72jZEsiUr3shNX6fxrhq8b"
       },
@@ -1527,6 +1495,38 @@
       "duration_ms": 323164,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/6ekN22D0Amt0tqd2DAeKq4"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Mexico: 20 Best Mariachi and Folk Songs",
+        "url": "https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "La media vuelta",
+      "url": "https://open.spotify.com/track/03fXI8pVGMV7XnkTMTbmrW"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "A Traves Del Vaso",
+        "url": "https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Streep",
+          "url": "https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8"
+        }
+      ],
+      "duration_ms": 200569,
+      "name": "A Traves Del Vaso",
+      "url": "https://open.spotify.com/track/1hkqXThaFrtIvAtH1Pq7zz"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "A Traves Del Vaso",
-        "url": "https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB"
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/5kjOv0KKGmRqgYGPA4BFJv"
       },
       "artists": [
         {
-          "name": "Yolanda Streep",
-          "url": "https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8"
+          "name": "Arturo Jimenes",
+          "url": "https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr"
         }
       ],
-      "duration_ms": 200569,
-      "name": "A Traves Del Vaso",
-      "url": "https://open.spotify.com/track/1hkqXThaFrtIvAtH1Pq7zz"
+      "duration_ms": 243500,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1611,6 +1611,22 @@
       "duration_ms": 156750,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+      },
+      "artists": [
+        {
+          "name": "De Norte A Sur",
+          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "La enramada (arr. R. Jonas)",
+      "url": "https://open.spotify.com/track/02ZnCU5Qjq9pIqMZirMaoU"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+        "name": "Tristango",
+        "url": "https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC"
       },
       "artists": [
         {
-          "name": "De Norte A Sur",
-          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
+          "name": "Jos\u00e9 Isidoro",
+          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
         }
       ],
-      "duration_ms": 170800,
-      "name": "La enramada (arr. R. Jonas)",
-      "url": "https://open.spotify.com/track/02ZnCU5Qjq9pIqMZirMaoU"
+      "duration_ms": 199230,
+      "name": "Tristango",
+      "url": "https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1707,22 +1723,6 @@
       "duration_ms": 212000,
       "name": "El Paciente",
       "url": "https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Tristango",
-        "url": "https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Isidoro",
-          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
-        }
-      ],
-      "duration_ms": 199230,
-      "name": "Tristango",
-      "url": "https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ"
     },
     {
       "added_at": "2022-09-23 18:17:22",

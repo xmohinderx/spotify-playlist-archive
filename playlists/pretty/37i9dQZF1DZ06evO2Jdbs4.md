@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,877 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,899 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 43 | [La Plancha](https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:32 |
 | 44 | [Ya No Te Amo](https://open.spotify.com/track/691UfJ3B3IVa4Hsj3DVfvM) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [40 Aniversario Con Invitados a Otro Nivel, Vol\. 2](https://open.spotify.com/album/68RRgoiTtixqmXpCgrCGFU) | 3:01 |
 | 45 | [Inesperadamente](https://open.spotify.com/track/4GAqqobic0kTtK3mfAP6Am) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Inesperadamente](https://open.spotify.com/album/3t8iVE3ZSqgl7MRR3MfSYu) | 3:09 |
-| 46 | [Se Me Antoja](https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b) | 3:07 |
-| 47 | [No Es Como Tu](https://open.spotify.com/track/6YmeOtWUb3u8WBo0LcrhzQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [No Es Como Tu](https://open.spotify.com/album/5nNvbTmDYOd8HBHvsovdKU) | 3:29 |
+| 46 | [No Es Como Tu](https://open.spotify.com/track/6YmeOtWUb3u8WBo0LcrhzQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [No Es Como Tu](https://open.spotify.com/album/5nNvbTmDYOd8HBHvsovdKU) | 3:29 |
+| 47 | [Se Me Antoja](https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b) | 3:07 |
 | 48 | [Viviras Selena](https://open.spotify.com/track/2pXb4Rtjt4RfmdlxqUYCdG) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY), [Emilio Navaira](https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA), [Jennifer Y Los Jetz](https://open.spotify.com/artist/6RNtyMrzRxg0Ojr0bmS3j7), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Barrio Boyzz](https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp), [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Movie Soundtrack](https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO) | 5:03 |
 | 49 | [Ya Te Han Visto Con Él](https://open.spotify.com/track/43uJ9LN57wAcrfsufEJat8) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Lo Mío](https://open.spotify.com/album/4WlXlmCSRRJaAQZMzclg3Y) | 2:55 |
-| 50 | [Difícil Es](https://open.spotify.com/track/63SeaRiwlp1AwDi1hKPejK) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b) | 3:16 |
+| 50 | [Sabes](https://open.spotify.com/track/60WVyxHby6SkjMPhTv3V3Y) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:35 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDA0NWM2ODdhMjgyNDQ3ZWZhNDE4NDNhOWIyZWVlNmYwNg==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDAzMjAwZjc4MWRkMjhhZmJiNGZhMjNmMzViYzQwZDdiNw==`

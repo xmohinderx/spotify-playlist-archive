@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-143 songs - 7 hr 7 min
+144 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-07-05 |  |
 | [Air Castle](https://open.spotify.com/track/71Y8n0VSW7i2Qe1Z1rABsi) | [Sea Island](https://open.spotify.com/artist/2afQ9hxy9APHOBXi7NViRc) | [Air Castle](https://open.spotify.com/album/3Ck54QdjjEgDPjPgNEF4yo) | 3:34 | 2022-07-19 | 2022-07-26 |
 | [Air in the Morning](https://open.spotify.com/track/265Gf3408oAX2bGYUYf7i9) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Air in the Morning](https://open.spotify.com/album/2lzp3FhFFbp33LZGFwzdFK) | 3:04 | 2022-07-05 | 2022-07-29 |
-| [Air in the Morning](https://open.spotify.com/track/7GIEVoZu1C74OdyAPbg9hU) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Air in the Morning](https://open.spotify.com/album/6g2GVf0zN2aESjaVDsI9hF) | 3:04 | 2022-07-19 |  |
+| [Air in the Morning](https://open.spotify.com/track/7GIEVoZu1C74OdyAPbg9hU) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Air in the Morning](https://open.spotify.com/album/6g2GVf0zN2aESjaVDsI9hF) | 3:04 | 2022-07-19 | 2023-02-20 |
 | [Alaska](https://open.spotify.com/track/4PW8tiBzQcEutmPndIZagA) | [Scandinavian Nights](https://open.spotify.com/artist/4UrhClOtVbcbsiCZYDMoWL) | [Quiet Hours](https://open.spotify.com/album/45anDTXW4ebJ5bkVNxEh7v) | 3:07 | 2022-07-19 | 2023-02-13 |
 | [Among the Clouds](https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Among the Clouds](https://open.spotify.com/album/1TFakvYLpxWVYHXCAJb0Mh) | 2:53 | 2022-07-19 |  |
 | [Among the Clouds](https://open.spotify.com/track/7KWzzOj2W7ZwkGYJAgX17D) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Among the Clouds](https://open.spotify.com/album/5YRaeJVtFyjdqNmFSqjoOm) | 2:53 | 2022-07-19 | 2022-07-29 |
@@ -107,6 +107,7 @@
 | [Repose](https://open.spotify.com/track/3IC2C6R4V6iTeHNT9tgLGv) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Repose](https://open.spotify.com/album/1kWjQNP5T5CsEgbYusdWu2) | 3:12 | 2022-08-05 |  |
 | [Repose](https://open.spotify.com/track/5iznXjdt5IJ29UjDM7lVT7) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Repose](https://open.spotify.com/album/6kDgVv2vgX9z2DWawWlOWt) | 3:12 | 2022-07-05 | 2022-07-29 |
 | [Rituals](https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ritual](https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD) | 3:49 | 2022-07-05 |  |
+| [Rymdresa](https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:34 | 2023-02-20 |  |
 | [Sammram](https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821) | [Ikupu Ume](https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP) | [Sammram](https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz) | 3:26 | 2023-01-10 |  |
 | [Sandy Foam](https://open.spotify.com/track/3eifjD5zwsrWjKkphFcr5i) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Sandy Foam](https://open.spotify.com/album/47x7s8rWew3mkOc8xgzuIB) | 2:25 | 2022-07-19 | 2022-11-12 |
 | [Sapphire Dunes](https://open.spotify.com/track/435Lqck9Gjmn6s5K49wfgJ) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Sapphire Dunes](https://open.spotify.com/album/7FhbGL1VLeOHkwo3dSgZBj) | 3:40 | 2022-07-19 | 2023-01-20 |

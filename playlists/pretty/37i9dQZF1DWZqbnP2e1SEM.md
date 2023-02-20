@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,537 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,566 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 50 | [You've Done Enough](https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:32 |
 | 51 | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB) | 2:44 |
 | 52 | [Flowers \(feat\. Jaykae and MALIKA\)](https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Malika](https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb) | [Flowers \(feat\. Jaykae and MALIKA\)](https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio) | 3:17 |
-| 53 | [Pump the Brakes](https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Pump the Brakes](https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5) | 3:40 |
-| 54 | [Don't Stop Just Yet](https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Belters Only](https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu) | 3:06 |
+| 53 | [Don't Stop Just Yet](https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Belters Only](https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu) | 3:06 |
+| 54 | [Pump the Brakes](https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Pump the Brakes](https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5) | 3:40 |
 | 55 | [Love Me](https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Love Me](https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz) | 1:56 |
 | 56 | [Sun Came Up](https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Sun Came Up](https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i) | 3:22 |
 | 57 | [BMW](https://open.spotify.com/track/0DeCgH8St1bnHVry9gecMp) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [BMW](https://open.spotify.com/album/3U3FSuGS2CXktQD4fU78gM) | 3:33 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 88 | [Every Single Time \(with Silky\)](https://open.spotify.com/track/61drLfij7yoXMTYIY8088V) | [Bissett](https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7), [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Every Single Time \(with Silky\)](https://open.spotify.com/album/7t7ONZWC56jEHLGBTKPZSX) | 2:47 |
 | 89 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 |
 | 90 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 |
-| 91 | [Secrets](https://open.spotify.com/track/6h2WDabbgcDfnTLiMJ2wqH) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/5gz0manw16JDHq1wwJDZl7) | 2:56 |
-| 92 | [System \(feat\. WizKid\)](https://open.spotify.com/track/5laAdwuT8EEvkIXrmrhRSB) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [System \(feat\. WizKid\)](https://open.spotify.com/album/5ABN8cUVC3sZZQQLvGjiUM) | 3:01 |
+| 91 | [System \(feat\. WizKid\)](https://open.spotify.com/track/5laAdwuT8EEvkIXrmrhRSB) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [System \(feat\. WizKid\)](https://open.spotify.com/album/5ABN8cUVC3sZZQQLvGjiUM) | 3:01 |
+| 92 | [Secrets](https://open.spotify.com/track/6h2WDabbgcDfnTLiMJ2wqH) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/5gz0manw16JDHq1wwJDZl7) | 2:56 |
 | 93 | [Lost Myself Again](https://open.spotify.com/track/1uRkLJG9sdMFIB8Hb18uGx) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Lost Myself Again](https://open.spotify.com/album/1h5Xisd09gC9H641NaRwaY) | 2:52 |
 | 94 | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo) | 3:43 |
 | 95 | [Salvation](https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Salvation](https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [Bad \(feat\. Aitch\)](https://open.spotify.com/track/4HTKztrMHpvn2sAl4HcK3J) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Bad \(feat\. Aitch\)](https://open.spotify.com/album/2yOlbpaUHBPXPq7cQJ563V) | 3:26 |
 | 100 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
 
-Snapshot ID: `MTY1NTczNDk5NywwMDAwMDAwMDMwOWY5MzMxM2Y4MTMyNGQwZTcxZTk3ODc3ZGYxNTI3`
+Snapshot ID: `MTY1NTczNDk5NywwMDAwMDAwMDA3MGM4NGFkNTZjZDI3ODcyM2U5Y2E5MWY3NmRlMWI1`

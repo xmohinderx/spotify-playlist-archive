@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,195 songs - 2 day 15 hr 45 min
+1,196 songs - 2 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Dernier verre](https://open.spotify.com/track/0Vaqh10JzIrxfDCWJXwLa5) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 3:23 | 2021-11-21 | 2021-12-03 |
 | [Derrière nos tours \(feat\. Maes\)](https://open.spotify.com/track/4nOtenqNZNIRYYjBBf8A11) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 3:04 | 2021-09-19 | 2021-09-25 |
 | [Des milliers de je t'aime](https://open.spotify.com/track/1NwjfTd5fsvRFtYGERuKzA) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Chroniques d’un cupidon](https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1) | 3:32 | 2022-12-28 | 2023-02-12 |
-| [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 | 2022-09-10 | 2023-02-19 |
+| [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 | 2022-09-10 |  |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-12 | 2022-09-11 |
 | [Deux frères](https://open.spotify.com/track/6hzi3AGB39FjxFqcjgbWs7) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Deux frères](https://open.spotify.com/album/2JtKf1aFxqS0M3QIj98nG5) | 4:07 | 2022-05-06 | 2022-07-03 |
 | [DEUX TOILES DE MER](https://open.spotify.com/track/7yN9Qx1HtE4c1fhakBz8Ay) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF](https://open.spotify.com/album/62f3yVpi23o1YepGRLsSQI) | 5:15 | 2021-05-03 | 2021-05-09 |
@@ -498,7 +498,8 @@
 | [Interlude](https://open.spotify.com/track/1NyQzgVX2EUK9wXxu4tUm7) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Arès](https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD) | 2:19 | 2021-10-17 | 2021-10-18 |
 | [Intro](https://open.spotify.com/track/6qvyN6NTUpdfOJRYjtSSd7) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 2:27 | 2022-03-20 | 2023-01-29 |
 | [Intro](https://open.spotify.com/track/1xYzN6PXSwoOChUJnq8eJU) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:01 | 2021-12-05 | 2022-01-08 |
-| [Introduction](https://open.spotify.com/track/5w3GRfKybnACxA4vTuIDAi) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Introduction](https://open.spotify.com/album/5eSCDUqENVNgdu6BbEtNzZ) | 1:34 | 2023-01-15 |  |
+| [Introduction](https://open.spotify.com/track/48doyYB1i3Yyv3B13R1rZ3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 1:34 | 2023-02-19 |  |
+| [Introduction](https://open.spotify.com/track/5w3GRfKybnACxA4vTuIDAi) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Introduction](https://open.spotify.com/album/5eSCDUqENVNgdu6BbEtNzZ) | 1:34 | 2023-01-15 | 2023-02-20 |
 | [Invaincu](https://open.spotify.com/track/2GiZ3sC2p1Cc2t2gbdMKsN) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 2:05 | 2022-03-05 | 2022-03-13 |
 | [Irréversible](https://open.spotify.com/track/3SVs240C1DW8ge7clwWCrd) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Irréversible](https://open.spotify.com/album/4p4uX7FgGqrUfmJYhEhYwR) | 2:28 | 2021-05-23 | 2021-05-30 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-10 |
@@ -1084,7 +1085,7 @@
 | [THE LONELIEST](https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 4:07 | 2023-01-21 |  |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2022-02-25 | 2022-05-07 |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2022-01-09 | 2022-05-29 |
-| [Tiki Taka](https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Tiki Taka](https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N) | 2:54 | 2023-01-29 |  |
+| [Tiki Taka](https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Tiki Taka](https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N) | 2:54 | 2023-01-29 | 2023-02-20 |
 | [Time Time](https://open.spotify.com/track/5wKDPtbdggE1roeVp3UdXX) | [Trei Degete](https://open.spotify.com/artist/1APMveRvLxWAB5AI0j11DD), [Squeezie](https://open.spotify.com/artist/0xECfhlRzRRIIe2Co5HX6n), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [KronoMuzik](https://open.spotify.com/artist/7B53Suqn5TsVu6S6gIgqeA) | [Time Time](https://open.spotify.com/album/7xMm03yU17hL31Ul5ctPnw) | 2:36 | 2021-11-17 | 2021-12-25 |
 | [Time Time \(feat\. Squeezie, Myd & KronoMuzik\)](https://open.spotify.com/track/1MkN8pZzDBf1b2uzfYVOQp) | [Trei Degete](https://open.spotify.com/artist/1APMveRvLxWAB5AI0j11DD), [Squeezie](https://open.spotify.com/artist/0xECfhlRzRRIIe2Co5HX6n), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [KronoMuzik](https://open.spotify.com/artist/7B53Suqn5TsVu6S6gIgqeA) | [Time Time \(feat\. Squeezie, Myd & KronoMuzik\)](https://open.spotify.com/album/316PO6rRzzp3aysFMB0jNv) | 2:36 | 2021-12-24 | 2022-03-05 |
 | [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON](https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6) | 2:32 | 2022-02-14 | 2022-05-18 |

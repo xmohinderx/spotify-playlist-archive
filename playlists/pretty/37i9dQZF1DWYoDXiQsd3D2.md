@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 
 > look up, dream on, drift off...
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,852 likes - 140 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,925 likes - 140 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 4 | [Beyond Infinity \- Reimagined](https://open.spotify.com/track/31HebEBq0vqLCXnMAIM4AN) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Carlos Hof](https://open.spotify.com/artist/34Il5iurwAMrpEHqVpbYDX) | [Beyond Infinity \(Reimagined\)](https://open.spotify.com/album/6DcHxw49iAoIi2UNJhRalJ) | 2:57 |
 | 5 | [Broken Dreams](https://open.spotify.com/track/5rLF5WFvEFXONKAALc6ABb) | [Ben Berkenbosch](https://open.spotify.com/artist/052Q9RnerwsOF5MDRHiSwk) | [Broken Dreams](https://open.spotify.com/album/4l0zMN3fgA2JmxMWTXoN6o) | 4:39 |
 | 6 | [Ripples \- Ambient Rework](https://open.spotify.com/track/5eOS4q21Ykr0xXlj2SIol0) | [Pablo J\. Garmon](https://open.spotify.com/artist/27SRdTyMmpXKh0x37k4cIE), [Andrew Simpson](https://open.spotify.com/artist/5ECrwbYGsuZReQfgyY4BvU) | [Ripples \(Ambient Rework\)](https://open.spotify.com/album/4YjqtoSHa8ddrvL6nJzfxu) | 3:37 |
-| 7 | [A Brief Silence](https://open.spotify.com/track/3e4aHnazy2RkEl95ixPoK4) | [Mauricio Trabanino](https://open.spotify.com/artist/3blJXUBNjlTFWMMrtsSLI3) | [A Brief Silence \(Original Score\)](https://open.spotify.com/album/1QP0OlYoRl93vhZBGOhzOC) | 2:20 |
+| 7 | [A Brief Silence](https://open.spotify.com/track/3ZZllAawjzTFYz5HN3x38I) | [Mauricio Trabanino](https://open.spotify.com/artist/3blJXUBNjlTFWMMrtsSLI3) | [A Brief Silence \(Original Score\)](https://open.spotify.com/album/0rxCVW4B9jiUPEHp8WkQCO) | 2:20 |
 | 8 | [Mirrored](https://open.spotify.com/track/13h0RNAH8CdNaJwtaJhJtL) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Mirrored](https://open.spotify.com/album/7k9InSFsbW5RvarCLiB20W) | 2:21 |
 | 9 | [Pure \(Ride the World\)](https://open.spotify.com/track/1fSXVjUJLokyDRVbBrVVVR) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [Pure \(Ride the World\)](https://open.spotify.com/album/1txIFT3asaSKUN6aF9cUxR) | 3:18 |
 | 10 | [Love Came](https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Love Came](https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm) | 2:15 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 139 | [Ordinary Bones](https://open.spotify.com/track/3LMB1SBK5SMdtFwGZ1AhGj) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Riven](https://open.spotify.com/album/350aCIe1s5yP9XOoO1ZTZg) | 2:29 |
 | 140 | [We Came And Left](https://open.spotify.com/track/02Tb4Ftr6z6vrfzwOGYUfG) | [Cedric Vermue](https://open.spotify.com/artist/3pUznuXyn6lL9VGKAV6Ydh) | [Left Upon Us](https://open.spotify.com/album/2mvUfWFb1iPupKxdOK2fxh) | 5:41 |
 
-Snapshot ID: `MTY3NjQ2NDEyMSwwMDAwMDAwMDg3ZDc2MGQ1NTI1ZTVmMGVhY2JhZjIwMjAxMTkzYjk4`
+Snapshot ID: `MTY3NjQ2NDEyMSwwMDAwMDAwMDMxMDIzYmU3YzEzZWIyN2I5NDQ5NTExYWRiNDgyMmQx`

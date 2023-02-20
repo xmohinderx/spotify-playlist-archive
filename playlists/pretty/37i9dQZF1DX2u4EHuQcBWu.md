@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,125 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,172 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 51 | [Bloody Bloody Border](https://open.spotify.com/track/7jWnrn6gQVWQ2W3PGNWP08) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino / Bloody Border](https://open.spotify.com/album/09U5RBDuQaH2Lwzhocwyj6) | 2:53 |
 | 52 | [Los desaparecidos](https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Sin Fronteras](https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz) | 7:36 |
 | 53 | [Abajo y a la Izquierda](https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ejército de Paz](https://open.spotify.com/album/31M3drSiYALJMah8o3PGke) | 3:45 |
-| 54 | [Más Poder](https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt) | [La Sarita](https://open.spotify.com/artist/4FclbIRVpHDYM9RaQpQHCR) | [Más Poder](https://open.spotify.com/album/6q5z4VFO2RvUcFs7v7msYN) | 4:15 |
+| 54 | [Sobreviviendo](https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP) | [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [La Historia Del Folklore \(2da Parte\)](https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5) | 5:46 |
 | 55 | [Por Qué No Se Van](https://open.spotify.com/track/2Q81Tu7mnx5g5vfyVPCvCV) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Coleccion Suprema](https://open.spotify.com/album/62mYqA8S00dcrD42jmml86) | 3:02 |
-| 56 | [Sobreviviendo](https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP) | [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [La Historia Del Folklore \(2da Parte\)](https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5) | 5:46 |
+| 56 | [Más Poder](https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt) | [La Sarita](https://open.spotify.com/artist/4FclbIRVpHDYM9RaQpQHCR) | [Más Poder](https://open.spotify.com/album/6q5z4VFO2RvUcFs7v7msYN) | 4:15 |
 | 57 | [Somos Sur](https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Shadia Mansour](https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:46 |
 | 58 | [En Paro](https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 4:32 |
 | 59 | [Al Pueblo Le Asusta La Revolución](https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Escribo Rap Con R De Revolucion](https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7) | 4:28 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 70 | [Síganme los Buenos](https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Síganme los Buenos](https://open.spotify.com/album/2rW21cjOMIZYEneQKO74Gm) | 3:27 |
 | 71 | [Cancion Pacifico\-Violenta](https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr) | [Sexual Democracia](https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7) | [Buscando Chilenos Vol\. 1](https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax) | 4:44 |
 | 72 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
-| 73 | [Cordillera](https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Amiga](https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN) | 4:22 |
+| 73 | [La Marcha De La Bronca](https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 3:47 |
 | 74 | [El Barzón](https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Mostros](https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA) | 4:26 |
-| 75 | [La Marcha De La Bronca](https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 3:47 |
+| 75 | [Cordillera](https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Amiga](https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN) | 4:22 |
 | 76 | [El Padre Antonio \- Y El Monaguillo Andres](https://open.spotify.com/track/2iyffU4KcLybIIn7MvkiuH) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Buscando America](https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu) | 8:03 |
 | 77 | [Matar al Presidente](https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 1:50 |
 | 78 | [Guayabo](https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H) | [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Guayabo](https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Zopilotes](https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [El Objeto Antes Llamado Disco](https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ) | 4:33 |
 | 100 | [Todavia Cantamos](https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Gieco Y Heredia En Vivo](https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3) | 3:46 |
 
-Snapshot ID: `MTY3MTE1NzY1NCwwMDAwMDAwMDY3ZmU1MjdiNjFhY2MzODIxODQ0NzhmY2Q4YjM2MjEz`
+Snapshot ID: `MTY3MTE1NzY1NCwwMDAwMDAwMDRmNDM0Y2U4MzJmOTIxMmM0MjhlNGMyNzMxODA4NTUy`

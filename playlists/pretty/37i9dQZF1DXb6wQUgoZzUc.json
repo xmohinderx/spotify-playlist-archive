@@ -1,12 +1,12 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 839711,
+  "num_followers": 839785,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMzYwMCwwMDAwMDAwMDIwMmE5ZmJhN2ZjNDY2MjBmMzlmMTVhZDE4ZjRiMmU4",
+  "snapshot_id": "MTY3NjYxMzYwMCwwMDAwMDAwMDYzMDgyN2VkYjExZGRiMDkxMTMwYTU4M2YxNmE3ZTc0",
   "tracks": [
     {
       "added_at": "2023-02-17 06:00:00",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
         "name": "DIVA- Platinum Edition",
         "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 186506,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -1091,34 +1091,6 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
-        "name": "Los Malvekes",
-        "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Simon la Letra",
-          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
-        },
-        {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Los Malvekes",
-      "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -1147,26 +1119,30 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
-        "name": "Persia (Remix)",
-        "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
+        "name": "Los Malvekes",
+        "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
       },
       "artists": [
         {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         },
         {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
         },
         {
-          "name": "Eix",
-          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        },
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
         }
       ],
-      "duration_ms": 250906,
-      "name": "Persia - Remix",
-      "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
+      "duration_ms": 218000,
+      "name": "Los Malvekes",
+      "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -1187,6 +1163,30 @@
       "duration_ms": 178407,
       "name": "Singapur",
       "url": "https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
+        "name": "Persia (Remix)",
+        "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        },
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        },
+        {
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        }
+      ],
+      "duration_ms": 250906,
+      "name": "Persia - Remix",
+      "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -1593,6 +1593,34 @@
       "url": "https://open.spotify.com/track/6GsD646HrIDJJpzoY9T1Rt"
     },
     {
+      "added_at": "2023-02-10 06:00:00",
+      "album": {
+        "name": "M\u00edo No Tuyo (feat. Julianno Sosa)",
+        "url": "https://open.spotify.com/album/3MsigXOlPVWg1Csy7xzPrI"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Javiielo",
+          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 187252,
+      "name": "M\u00edo No Tuyo (feat. Julianno Sosa)",
+      "url": "https://open.spotify.com/track/2y7M3BNqkUGY0eJ9oAL55R"
+    },
+    {
       "added_at": "2022-10-12 16:00:35",
       "album": {
         "name": "VACAXIONES",
@@ -1683,34 +1711,6 @@
       "duration_ms": 146733,
       "name": "Christian Dior",
       "url": "https://open.spotify.com/track/11hBaUK4uHt1KPkwfPoTwN"
-    },
-    {
-      "added_at": "2023-02-10 06:00:00",
-      "album": {
-        "name": "M\u00edo No Tuyo (feat. Julianno Sosa)",
-        "url": "https://open.spotify.com/album/3MsigXOlPVWg1Csy7xzPrI"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Javiielo",
-          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 187252,
-      "name": "M\u00edo No Tuyo (feat. Julianno Sosa)",
-      "url": "https://open.spotify.com/track/2y7M3BNqkUGY0eJ9oAL55R"
     },
     {
       "added_at": "2022-10-12 16:00:35",

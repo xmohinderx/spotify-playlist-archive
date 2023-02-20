@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/skylardigginssmith/">Skylar Diggins\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,970 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,981 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 | 46 | [Ting\-A\-Ling](https://open.spotify.com/track/7hqAdo1Wig886zA2jPDupG) | [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG) | [X\-Tra Naked](https://open.spotify.com/album/0pgUsfoBDv2x37BvdyG6wq) | 3:52 |
 | 47 | [MOOD 4 EVA \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/7oqftogUN82Q7VNy2TmTJW) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:32 |
 | 48 | [BLACK EFFECT](https://open.spotify.com/track/2rCuBpIkHVtY16o0PRv2GS) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 5:15 |
-| 49 | [Who Am I \(What's My Name\)](https://open.spotify.com/track/1csGNtAIZYcLxhA68Y5jTc) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Best of Old School Hip\-Hop, Vol\. 1](https://open.spotify.com/album/1BfzKtCK9WVOl1Isxl4DL9) | 4:23 |
-| 50 | [Right Here](https://open.spotify.com/track/3UD1XZiA0iP29KI3FuK5Xw) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:38 |
+| 49 | [Right Here](https://open.spotify.com/track/3UD1XZiA0iP29KI3FuK5Xw) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:38 |
+| 50 | [Who Am I \(What's My Name\)](https://open.spotify.com/track/1csGNtAIZYcLxhA68Y5jTc) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Best of Old School Hip\-Hop, Vol\. 1](https://open.spotify.com/album/1BfzKtCK9WVOl1Isxl4DL9) | 4:23 |
 
-Snapshot ID: `MTY2NDY3NjMxOSwwMDAwMDAwMDUwN2JlZjM2ODMxNzhjZmVlOWFiN2YxMWEwMGNlOWI0`
+Snapshot ID: `MTY2NDY3NjMxOSwwMDAwMDAwMGU5MGRhYmJlYmIwMzk2MzU4ZGU2OTE1ZTUyOWNhZmM5`

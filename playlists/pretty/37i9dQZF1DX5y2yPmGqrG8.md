@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,090 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,169 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 11 | [I Can Almost See You](https://open.spotify.com/track/11n8LudggXuZXmldSlAadR) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 4:15 |
 | 12 | [Movement 6](https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 8:50 |
 | 13 | [Duvet](https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 3:24 |
-| 14 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 |
+| 14 | [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 |
 | 15 | [Ventus](https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q) | [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Ventus](https://open.spotify.com/album/2BeYKXlzWEn6CxsK1GRinY) | 5:04 |
-| 16 | [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 |
+| 16 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 |
 | 17 | [Melancholia VI](https://open.spotify.com/track/28UNXRcOSy94CWFehAPV6u) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 2:16 |
 | 18 | [Clube Da Esquina Nº 2](https://open.spotify.com/track/1sdW2whJr8CLa6bMA67LPQ) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Clube Da Esquina](https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf) | 3:38 |
 | 19 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 43 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
 | 44 | [Limerence](https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [When Man Fails You](https://open.spotify.com/album/2jCY7x3xWM2Gn8yWDCIbgK) | 5:48 |
 | 45 | [Sais](https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Shadows](https://open.spotify.com/album/6pZmk1elg3IJx4rMiGPnXl) | 8:03 |
-| 46 | [Hypnagogia](https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Introspection](https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh) | 4:02 |
-| 47 | [Cabaraú](https://open.spotify.com/track/0DbDPy9K2mLuIBE6ai2XaU) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Cabaraú](https://open.spotify.com/album/4yxOkUTHo8ZBU5LI6Ltmt1) | 6:32 |
-| 48 | [Pipopapipo](https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Pipopapipo](https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP) | 3:36 |
+| 46 | [Pipopapipo](https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Pipopapipo](https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP) | 3:36 |
+| 47 | [Hypnagogia](https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Introspection](https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh) | 4:02 |
+| 48 | [Cabaraú](https://open.spotify.com/track/0DbDPy9K2mLuIBE6ai2XaU) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Cabaraú](https://open.spotify.com/album/4yxOkUTHo8ZBU5LI6Ltmt1) | 6:32 |
 | 49 | [Bloodwork](https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Life Of](https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC) | 1:39 |
-| 50 | [SILHOUETTE](https://open.spotify.com/track/4iNljnJPDFYXyaLVpr7tbe) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [REMNANT](https://open.spotify.com/album/2GYaqE9jZ1IFdWYiFlQNQV) | 3:53 |
+| 50 | [Lemon Day](https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 18:31 |
 
-Snapshot ID: `MTY3NjUwNjQ5OSwwMDAwMDAwMGI3OWQwYWNlOWVkYWUyMTE0MDIxMmY4MDAwYmVlMjk0`
+Snapshot ID: `MTY3NjUwNjQ5OSwwMDAwMDAwMGI3NGNlYTA5ZmEyN2U3NDEwMjk0ZjE5YjNmNGM4ODli`

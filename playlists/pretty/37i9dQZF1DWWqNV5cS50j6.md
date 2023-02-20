@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > jonatan leandoer96 makes anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,285 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,308 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 15 | [Tick Tock](https://open.spotify.com/track/5E7p95xh9Ul4vZp4LEoJwi) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 2:12 |
 | 16 | [Weight](https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Niagara](https://open.spotify.com/album/3wINP6SbT7TqiaYGo3Lj8f) | 2:04 |
 | 17 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 |
-| 18 | [Mamacita \(feat\. A$AP Rocky\)](https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR) | [Smooky MarGielaa](https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mamacita \(feat\. A$AP Rocky\)](https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0) | 3:05 |
+| 18 | [Good News](https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw) | 3:10 |
 | 19 | [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 |
-| 20 | [Good News](https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw) | 3:10 |
+| 20 | [Mamacita \(feat\. A$AP Rocky\)](https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR) | [Smooky MarGielaa](https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mamacita \(feat\. A$AP Rocky\)](https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0) | 3:05 |
 | 21 | [Sabrina \(i am a party\)](https://open.spotify.com/track/6zJUp1ihdid6Kn3Ndgcy82) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:19 |
 | 22 | [Buzzed](https://open.spotify.com/track/46vrZhwggdZuuZGwIQ80O3) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Sol](https://open.spotify.com/album/2cizw1XcPbsvih0hfJ8ydi) | 2:39 |
 | 23 | [Head In The Clouds](https://open.spotify.com/track/1fAE0TQ3xblvOgnmM7yL1s) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Don't give me problems, give me wine](https://open.spotify.com/album/0zdCctCFiHeLyZ4mzV7aY8) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 49 | [Leaving You](https://open.spotify.com/track/6SOmn0HMuY4Lq9XiUo8JZM) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Leaving You](https://open.spotify.com/album/58sphqqoVOzCqMeWGEAv7O) | 1:53 |
 | 50 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
 
-Snapshot ID: `MTY3NjYyMjcyMCwwMDAwMDAwMDQ1ZmY1NDJjYjc0YjVkMmQ0OGNlZDFiODkxODdmYzA0`
+Snapshot ID: `MTY3NjYyMjcyMCwwMDAwMDAwMGFlYTBjNjkzYjkxYmM2ZmUyOWQ3YjQ2MDg0ODNkNjZj`

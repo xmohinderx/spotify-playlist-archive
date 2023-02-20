@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Mauro Henrique
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,115 likes - 70 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,144 likes - 70 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 20 | [Yeshua](https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Yeshua](https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20) | 5:46 |
 | 21 | [Luz \- Ao Vivo](https://open.spotify.com/track/2JMaIeyJ1Fa4ASLJCZRW6i) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Luz \(Ao Vivo\)](https://open.spotify.com/album/1TXYUnt8wrLDvKfROV0bxF) | 3:40 |
 | 22 | [Eu Quero é Deus / Celebrai a Cristo / Aquele Que Está Feliz \- Ao Vivo](https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 90's \(Ao Vivo\)](https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS) | 4:43 |
-| 23 | [Baile das Máscaras](https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Baile das Máscaras](https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t) | 3:35 |
-| 24 | [Escolho Ser Fiel](https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Mauro](https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz) | 4:10 |
+| 23 | [Escolho Ser Fiel](https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Mauro](https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz) | 4:10 |
+| 24 | [Baile das Máscaras](https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Baile das Máscaras](https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t) | 3:35 |
 | 25 | [A Vitória Da Cruz / Mais Que Vencedor \- Ao Vivo](https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Salazar \(Ao Vivo\)](https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN) | 6:20 |
 | 26 | [Eu Vou Amanhecer \- Ao Vivo](https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Eu Vou Amanhecer \(ao Vivo\)](https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj) | 5:41 |
 | 27 | [Rookmaaker \- Ao Vivo](https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 4\)](https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE) | 5:22 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 29 | [Mente Brilhante](https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U) | [Mente Brilhante](https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy) | 5:07 |
 | 30 | [Espelhos Mágicos / Naves Imperiais \- Ao Vivo](https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 90's \(Ao Vivo\)](https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS) | 4:25 |
 | 31 | [Coração de Pedra](https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Adriano Daga](https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:42 |
-| 32 | [A Fênix](https://open.spotify.com/track/036y2ECw1GN9hzwYtUzcjh) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [A Fênix](https://open.spotify.com/album/5TTQATslcS8RatQMnppMh6) | 4:00 |
-| 33 | [Descanso](https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Descanso](https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH) | 6:43 |
+| 32 | [Descanso](https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Descanso](https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH) | 6:43 |
+| 33 | [A Fênix](https://open.spotify.com/track/036y2ECw1GN9hzwYtUzcjh) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [A Fênix](https://open.spotify.com/album/5TTQATslcS8RatQMnppMh6) | 4:00 |
 | 34 | [Santo \- Ao Vivo](https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Santo \(Ao Vivo\)](https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP) | 8:56 |
 | 35 | [Palavra Antiga \- Ao Vivo](https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 3\)](https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH) | 4:10 |
 | 36 | [A Porta \- Acústico](https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [A Porta \(Acústico\)](https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4) | 3:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Canta Minha'alma \(Behold\) \- Live Session](https://open.spotify.com/track/6xFNwNFUyHRMb74AB9kPDj) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Mauro Henrique: Live Session {Lado B}](https://open.spotify.com/album/2Y8CQnkB62SbJenuBxurcu) | 6:42 |
 | 70 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 |
 
-Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMGU2NDI3YTI1ZTMxNTRlZmE3Njg4MGRkZTk1MWE3YThl`
+Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMDlmOTljOGI1NDkxOGJmNzIwYzViYjlmZjkyODBlNjIx`

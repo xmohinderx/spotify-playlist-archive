@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 178727,
+  "num_followers": 178849,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0NzczNCwwMDAwMDAwMGYxNjZlZGIyOGRiMzliYjUyYTk5MWY1NjllY2Y3NWMw",
+  "snapshot_id": "MTY3NjY0NzczNCwwMDAwMDAwMGU2ZTVlMDMxZjljZWZlNDZhZDFhNGNlOTg2YjY4NDlm",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 242922,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 138800,
       "name": "Yuck",
       "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 242922,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -523,6 +523,22 @@
       "duration_ms": 244266,
       "name": "Lights",
       "url": "https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL"
+    },
+    {
+      "added_at": "2023-02-20 01:22:34",
+      "album": {
+        "name": "Una Noche Sin Pensar",
+        "url": "https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "Una Noche Sin Pensar",
+      "url": "https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -575,6 +591,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo"
       },
@@ -591,34 +623,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
-    },
-    {
-      "added_at": "2023-02-19 06:59:35",
-      "album": {
-        "name": "Una Noche Sin Pensar",
-        "url": "https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "Una Noche Sin Pensar",
-      "url": "https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q"
+      "duration_ms": 188168,
+      "name": "VERDE MENTA",
+      "url": "https://open.spotify.com/track/5Mg31AcUBHV7QOPrYH74kQ"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Welcome To My Island",
-        "url": "https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Welcome To My Island",
-      "url": "https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "LUV (I KNOW I WANT THIS FOR REAL)",
         "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 193400,
       "name": "LUV (I KNOW I WANT THIS FOR REAL)",
       "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 188168,
-      "name": "VERDE MENTA",
-      "url": "https://open.spotify.com/track/5Mg31AcUBHV7QOPrYH74kQ"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -747,6 +731,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "A Secret Wish (Analogue Sequence)",
+        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+        }
+      ],
+      "duration_ms": 282386,
+      "name": "Duel",
+      "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "PIECES",
         "url": "https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo"
       },
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "A Secret Wish (Analogue Sequence)",
-        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
+        "name": "Welcome To My Island",
+        "url": "https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI"
       },
       "artists": [
         {
-          "name": "Propaganda",
-          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 282386,
-      "name": "Duel",
-      "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
+      "duration_ms": 232625,
+      "name": "Welcome To My Island",
+      "url": "https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Fancy",
-        "url": "https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 191983,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "What's Your Pleasure?",
         "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 184166,
       "name": "Love You When You\u2019re Gone",
       "url": "https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Fancy",
+        "url": "https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 191983,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Crumbs",
-        "url": "https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Black",
-          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
-        }
-      ],
-      "duration_ms": 193424,
-      "name": "Crumbs",
-      "url": "https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "In Ghost Colours",
         "url": "https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt"
       },
@@ -1107,18 +1091,34 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Sting",
-        "url": "https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR"
+        "name": "Crumbs",
+        "url": "https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ"
       },
       "artists": [
         {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
         }
       ],
-      "duration_ms": 187253,
-      "name": "Sting",
-      "url": "https://open.spotify.com/track/3CRLMDJygwt1KWMg1FASye"
+      "duration_ms": 193424,
+      "name": "Crumbs",
+      "url": "https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/3r6WmUjMVoxX7iVyuXfHAO"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 159608,
+      "name": "See You In My Dreams",
+      "url": "https://open.spotify.com/track/41QTVIWEHUxKMZFsq7H7jI"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/3r6WmUjMVoxX7iVyuXfHAO"
+        "name": "Sting",
+        "url": "https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR"
       },
       "artists": [
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
         }
       ],
-      "duration_ms": 159608,
-      "name": "See You In My Dreams",
-      "url": "https://open.spotify.com/track/41QTVIWEHUxKMZFsq7H7jI"
+      "duration_ms": 187253,
+      "name": "Sting",
+      "url": "https://open.spotify.com/track/3CRLMDJygwt1KWMg1FASye"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "call me when ur lonely",
+        "url": "https://open.spotify.com/album/3rpFlyhQrnZ55pJnsG1ICK"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 159906,
+      "name": "call me when ur lonely",
+      "url": "https://open.spotify.com/track/5J9KqprFnG4M82Nx8fmScr"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Slow Dancing (The Remixes)",
         "url": "https://open.spotify.com/album/6A6pDT6OjxQdERBJcyLPgK"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 175320,
       "name": "Slow Dancing - Hazel English Remix",
       "url": "https://open.spotify.com/track/0GJoAMeJgACw4P4hczLxQ1"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "call me when ur lonely",
-        "url": "https://open.spotify.com/album/3rpFlyhQrnZ55pJnsG1ICK"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 159906,
-      "name": "call me when ur lonely",
-      "url": "https://open.spotify.com/track/5J9KqprFnG4M82Nx8fmScr"
     },
     {
       "added_at": "2023-02-17 05:00:00",

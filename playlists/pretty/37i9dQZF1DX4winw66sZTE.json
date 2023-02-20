@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 9048,
+  "num_followers": 9067,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMDkxY2M1ZDNmYmM1MmU0MTNlY2M2NWI3ZTVkMDkwMDYx",
+  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMDA2YzQzYTgwNDA0NGE5Y2JlZmZlZDQ1YzBiYjIyNTQz",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -59,6 +59,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 192441,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
-        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
-      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "MOVE - The 2nd Album",
-        "url": "https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 211949,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Gotta Go",
         "url": "https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 221813,
       "name": "Gotta Go",
       "url": "https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "MOVE - The 2nd Album",
+        "url": "https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 211949,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "KARA 3rd Album STEP",
-        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "STEP",
-      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
         "url": "https://open.spotify.com/album/6P6LHEL8gmkX4G4PFFp6dJ"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 216555,
       "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
       "url": "https://open.spotify.com/track/5NkpsRKvSBukdYQtl3WLZW"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "KARA 3rd Album STEP",
+        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "STEP",
+      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Playful Kiss OST",
-        "url": "https://open.spotify.com/album/4cBlP0W14X5Jfe8kQw4xGB"
-      },
-      "artists": [
-        {
-          "name": "G.NA",
-          "url": "https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA"
-        }
-      ],
-      "duration_ms": 237322,
-      "name": "Will You Kiss Me",
-      "url": "https://open.spotify.com/track/45qSSH075SHoIV9cSn2wZK"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "COLLECTION",
         "url": "https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 225373,
       "name": "FIRE",
       "url": "https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Playful Kiss OST",
+        "url": "https://open.spotify.com/album/4cBlP0W14X5Jfe8kQw4xGB"
+      },
+      "artists": [
+        {
+          "name": "G.NA",
+          "url": "https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA"
+        }
+      ],
+      "duration_ms": 237322,
+      "name": "Will You Kiss Me",
+      "url": "https://open.spotify.com/track/45qSSH075SHoIV9cSn2wZK"
     }
   ],
   "unique_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! RBD en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,227 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,289 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 46 | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 |
 | 47 | [TERMINAMOS](https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [TERMINAMOS](https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu) | 2:37 |
 | 48 | [Solo Quédate en Silencio](https://open.spotify.com/track/5tHlx87NpprW9FXF1jweH5) | [Rebelde la Serie](https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj), [Giovanna Grigio](https://open.spotify.com/artist/3xp09DOSzWRRJlxzWzomrh), [Alejandro Puente](https://open.spotify.com/artist/2ekFBWXVFLI1uzH9AMj3Lg) | [Rebelde la Serie \(Official Soundtrack\)](https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS) | 3:22 |
-| 49 | [Pasos de Gigante](https://open.spotify.com/track/6DlhPEHyYrrZCs9rTIz6ho) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Pasos de Gigante](https://open.spotify.com/album/2hHyswHGfr2UQ1jdVUlMsP) | 3:41 |
+| 49 | [Tra](https://open.spotify.com/track/443PZH5mjxvjZe2E06fbg6) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Tra](https://open.spotify.com/album/4wfQvS4UCW5pEDtUh97Wpi) | 2:02 |
 | 50 | [CHTM](https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [CHTM](https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f) | 3:09 |
 
-Snapshot ID: `MTY3NjY1MDI3NywwMDAwMDAwMDdkZjJkOGM1NzIwZDFjODZhNGRkYWUyZGM0N2FkMDVk`
+Snapshot ID: `MTY3NjY1MDI3NywwMDAwMDAwMDM1NjFkOWNiMzY3OThkYjY4ZDI3ZDY5YzcxMzBjMmNm`

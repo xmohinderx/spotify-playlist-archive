@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 38041,
+  "num_followers": 38091,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMGJhYzIwYTIzOTdhNzUwNGYwOTUwOGQ1MTAzYWRkMGU2",
+  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMDQ3M2FjNzIzMmIzNmJjMDYxODhlNWVmZjc4NTY2ODZj",
   "tracks": [
     {
       "added_at": "2022-10-04 14:14:28",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Contemplation",
+        "url": "https://open.spotify.com/album/6F1ZQwSBrF6trhQyt4XTCc"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9l\u00e8ne Vogelsinger",
+          "url": "https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA"
+        }
+      ],
+      "duration_ms": 351276,
+      "name": "Contemplation",
+      "url": "https://open.spotify.com/track/7u0wxI7hL1kBcy5U9w7eQt"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "FRKWYS Vol. 15: serenitatem",
         "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Contemplation",
-        "url": "https://open.spotify.com/album/6F1ZQwSBrF6trhQyt4XTCc"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9l\u00e8ne Vogelsinger",
-          "url": "https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA"
-        }
-      ],
-      "duration_ms": 351276,
-      "name": "Contemplation",
-      "url": "https://open.spotify.com/track/7u0wxI7hL1kBcy5U9w7eQt"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Sollbruchstelle 1-3",
-        "url": "https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo"
-      },
-      "artists": [
-        {
-          "name": "Jas Shaw",
-          "url": "https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV"
-        }
-      ],
-      "duration_ms": 311548,
-      "name": "A man with two watches",
-      "url": "https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 219515,
       "name": "A Minor Astronomical Event",
       "url": "https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Sollbruchstelle 1-3",
+        "url": "https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo"
+      },
+      "artists": [
+        {
+          "name": "Jas Shaw",
+          "url": "https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV"
+        }
+      ],
+      "duration_ms": 311548,
+      "name": "A man with two watches",
+      "url": "https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -531,26 +531,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "I Could Be Your Dog / I Could Be Your Moon",
-        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        }
-      ],
-      "duration_ms": 166001,
-      "name": "Glendora",
-      "url": "https://open.spotify.com/track/5jKHOuBAsM9jZnE9f0WEUv"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Let Night Come On Bells End The Day",
         "url": "https://open.spotify.com/album/5QZhQCo8IeSSg17tN7fbSs"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 145376,
       "name": "cells_",
       "url": "https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 166001,
+      "name": "Glendora",
+      "url": "https://open.spotify.com/track/5jKHOuBAsM9jZnE9f0WEUv"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Becoming Ferromagnetic",
+        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 328275,
+      "name": "Becoming Ferromagnetic",
+      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Water Memory",
         "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 155375,
       "name": "Together in Static",
       "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Becoming Ferromagnetic",
-        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 328275,
-      "name": "Becoming Ferromagnetic",
-      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "My Birthday Suit",
-        "url": "https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX"
-      },
-      "artists": [
-        {
-          "name": "Hexsystem",
-          "url": "https://open.spotify.com/artist/0EtKmeVXhCvayJTciKQUNh"
-        }
-      ],
-      "duration_ms": 225054,
-      "name": "My Birthday Suit",
-      "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Tide Pools",
         "url": "https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH"
       },
@@ -775,34 +759,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Wrecked Exotic",
-        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+        "name": "My Birthday Suit",
+        "url": "https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX"
       },
       "artists": [
         {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+          "name": "Hexsystem",
+          "url": "https://open.spotify.com/artist/0EtKmeVXhCvayJTciKQUNh"
         }
       ],
-      "duration_ms": 290555,
-      "name": "Paravents",
-      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+      "duration_ms": 225054,
+      "name": "My Birthday Suit",
+      "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -823,6 +791,38 @@
       "duration_ms": 168000,
       "name": "Circle 18",
       "url": "https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Wrecked Exotic",
+        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+      },
+      "artists": [
+        {
+          "name": "John Roberts",
+          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+        }
+      ],
+      "duration_ms": 290555,
+      "name": "Paravents",
+      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Orange Blue Green",
+        "url": "https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz"
+      },
+      "artists": [
+        {
+          "name": "Loz Goddard",
+          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "Orange Blue Green",
+      "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Breathing Instruments",
         "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 120280,
       "name": "Sleepy Dragon",
       "url": "https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Interlude 03",
-        "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
-      },
-      "artists": [
-        {
-          "name": "Farsi",
-          "url": "https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Interlude 03",
-      "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -987,50 +987,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Orange Blue Green",
-        "url": "https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz"
+        "name": "Interlude 03",
+        "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
       },
       "artists": [
         {
-          "name": "Loz Goddard",
-          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+          "name": "Farsi",
+          "url": "https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M"
         }
       ],
-      "duration_ms": 165925,
-      "name": "Orange Blue Green",
-      "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Scene Memory 2",
-        "url": "https://open.spotify.com/album/4nLf2L3Eny7wzB0q2G30Mn"
-      },
-      "artists": [
-        {
-          "name": "Leo Abrahams",
-          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
-        }
-      ],
-      "duration_ms": 186774,
-      "name": "Alternations",
-      "url": "https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Moonbase Alpha",
-        "url": "https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO"
-      },
-      "artists": [
-        {
-          "name": "Hermbot",
-          "url": "https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "The Station Is Alive Again",
-      "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
+      "duration_ms": 199680,
+      "name": "Interlude 03",
+      "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1051,18 +1019,34 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Good Sound",
-        "url": "https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF"
+        "name": "Moonbase Alpha",
+        "url": "https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO"
       },
       "artists": [
         {
-          "name": "Jstory",
-          "url": "https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji"
+          "name": "Hermbot",
+          "url": "https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt"
         }
       ],
-      "duration_ms": 251009,
-      "name": "Particulator",
-      "url": "https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1"
+      "duration_ms": 145000,
+      "name": "The Station Is Alive Again",
+      "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Scene Memory 2",
+        "url": "https://open.spotify.com/album/4nLf2L3Eny7wzB0q2G30Mn"
+      },
+      "artists": [
+        {
+          "name": "Leo Abrahams",
+          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+        }
+      ],
+      "duration_ms": 186774,
+      "name": "Alternations",
+      "url": "https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "The Sparrow",
-        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
+        "name": "Good Sound",
+        "url": "https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF"
       },
       "artists": [
         {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+          "name": "Jstory",
+          "url": "https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji"
         }
       ],
-      "duration_ms": 357906,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
+      "duration_ms": 251009,
+      "name": "Particulator",
+      "url": "https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Aerious EP",
+        "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
+      },
+      "artists": [
+        {
+          "name": "Tryst (UK)",
+          "url": "https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4"
+        }
+      ],
+      "duration_ms": 277753,
+      "name": "Reflections On The Waterfront",
+      "url": "https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Chilltronica EP 3",
         "url": "https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC"
       },
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Aerious EP",
-        "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
+        "name": "The Sparrow",
+        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
       },
       "artists": [
         {
-          "name": "Tryst (UK)",
-          "url": "https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4"
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
         }
       ],
-      "duration_ms": 277753,
-      "name": "Reflections On The Waterfront",
-      "url": "https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY"
+      "duration_ms": 357906,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Five Steps",
-        "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Fitoussi",
-          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
-        },
-        {
-          "name": "Clemens Hourriere",
-          "url": "https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6"
-        }
-      ],
-      "duration_ms": 280087,
-      "name": "La colline",
-      "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
         "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
       },
@@ -1199,18 +1179,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Geoglyph",
-        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
+        "name": "Five Steps",
+        "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
       },
       "artists": [
         {
-          "name": "Lord Of The Isles",
-          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        },
+        {
+          "name": "Clemens Hourriere",
+          "url": "https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6"
         }
       ],
-      "duration_ms": 364460,
-      "name": "A1. J-Math",
-      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
+      "duration_ms": 280087,
+      "name": "La colline",
+      "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1243,6 +1227,22 @@
       "duration_ms": 263142,
       "name": "Sleep to Dream",
       "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Geoglyph",
+        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+        }
+      ],
+      "duration_ms": 364460,
+      "name": "A1. J-Math",
+      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
     },
     {
       "added_at": "2022-10-04 14:14:28",

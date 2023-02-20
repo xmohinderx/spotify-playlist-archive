@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:5kxnZh8gXyXdIvCWbDMevT">Eem Triplin</a>
 
-931 songs - 1 day 18 hr 6 min
+932 songs - 1 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Bad Man \(feat\. Kevin Gates\)](https://open.spotify.com/track/2cDq2RpbcpnPxZ5kGOIys1) | [FL Dusa](https://open.spotify.com/artist/1l39BupEDqsioWGVDXluVG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Bad Man \(feat\. Kevin Gates\)](https://open.spotify.com/album/3etTTBukIcXtRildghRx1u) | 2:42 | 2022-04-08 | 2022-06-18 |
 | [Bad Situations](https://open.spotify.com/track/4PnR4x0pn4Wc6NBMKAyx8O) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Bad Situations](https://open.spotify.com/album/1hRTv9cSRg1Qe1aMpZqLbX) | 2:56 | 2021-12-25 | 2022-01-13 |
 | [Bag Talk 2](https://open.spotify.com/track/5hd3WV2knu9mrtnwqXE2Fd) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [Bag Talk 2](https://open.spotify.com/album/1SoTR6tc6NigtPgRmQ9GMP) | 2:54 | 2022-04-01 | 2022-05-20 |
-| [Ball N Chill](https://open.spotify.com/track/4bkGptTkmvTw7bmZqp1osN) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Ball N Chill](https://open.spotify.com/album/1jdq8pYwkAcpdU8pu1dNz2) | 3:22 | 2023-02-17 |  |
+| [Ball N Chill](https://open.spotify.com/track/4bkGptTkmvTw7bmZqp1osN) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Ball N Chill](https://open.spotify.com/album/1jdq8pYwkAcpdU8pu1dNz2) | 3:23 | 2023-02-17 |  |
 | [Beat Em Down](https://open.spotify.com/track/0Sjhry41MJu2WSVDBdhJfn) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [Beat Em Down](https://open.spotify.com/album/1fzHKs0eAeX9jMIEAHDnZ6) | 2:10 | 2022-03-11 | 2022-04-02 |
 | [Beautiful](https://open.spotify.com/track/5n7vs4XFi3JWZLJpcxLthV) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Beautiful](https://open.spotify.com/album/5b0iGcVPztBLsWRo2lc6Fc) | 3:06 | 2021-12-03 | 2022-02-12 |
 | [Beautiful \(Ft\. SoFaygo\)](https://open.spotify.com/track/5JgtjzZeTVslFXAf9LsTKp) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Free Me](https://open.spotify.com/album/3XC5zlSkJyspgDKUImnahR) | 3:06 | 2022-05-06 | 2022-06-18 |
@@ -931,6 +931,7 @@
 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 | 2022-12-02 |  |
 | [Woo Nina](https://open.spotify.com/track/3AZBX8HNkzTfvBL0mdebvi) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Woo Nina](https://open.spotify.com/album/0MnDNgWKsjqXWMzBEYJrC7) | 2:08 | 2022-06-03 | 2022-07-16 |
 | [Wop](https://open.spotify.com/track/1RDyaS05lKnreDIPY9ByVN) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w) | [Wop](https://open.spotify.com/album/0niYaRUVW1Kp1Dq2qcThbo) | 2:53 | 2022-04-22 | 2022-06-18 |
+| [Wop It](https://open.spotify.com/track/6qiN1G9Q5CLzuWJUKnkLxo) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [Wop It](https://open.spotify.com/album/4H47Q3WFmOhGDAuPmciMZi) | 1:52 | 2023-02-19 |  |
 | [Worth It](https://open.spotify.com/track/6XDhfiUGjaT7JOaejy0MNs) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Strictly Business](https://open.spotify.com/album/2Vph7ciC10smi7peA4s7e2) | 3:22 | 2022-10-14 | 2022-11-12 |
 | [WTF](https://open.spotify.com/track/6qxmbG7TbqeDolJPQnHVda) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [WTF](https://open.spotify.com/album/4T8G29J5nL5RIRBv9ce0o6) | 2:57 | 2022-06-03 | 2022-07-23 |
 | [WYO \(feat\. PGF Nuk\)](https://open.spotify.com/track/69Q3vsqXFMKhZGTHssGSDC) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [DCG Shun](https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11), [DCG Bsavv](https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [WYO \(feat\. PGF Nuk\)](https://open.spotify.com/album/5MTkjTQASZLLnrAze7GC90) | 3:16 | 2022-09-09 | 2022-10-22 |

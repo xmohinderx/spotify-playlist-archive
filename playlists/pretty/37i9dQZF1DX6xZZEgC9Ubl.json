@@ -1,12 +1,12 @@
 {
   "description": "In your bag. Cover: The Kid Laroi",
-  "num_followers": 1445768,
+  "num_followers": 1446054,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDhmNzVmNzQyMTc2NDg5MTI2ZWQwNzRkMzI1NjZhM2Ji",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGVlNTU5NTI0NjQ4ZWQ3MTYxMWM0NmUzOTk0YmEyMTUy",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "I\u2019ll Keep You Safe",
-        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
-      },
-      "artists": [
-        {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
-        }
-      ],
-      "duration_ms": 140338,
-      "name": "I\u2019ll Keep You Safe",
-      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Thbk.",
         "url": "https://open.spotify.com/album/0CXFZPOf5NILkxS9fpL3Jo"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 100120,
       "name": "Love Is a Drug",
       "url": "https://open.spotify.com/track/0Q06s7TNQH8irO2sfvuFnn"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "I\u2019ll Keep You Safe",
+        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
+      },
+      "artists": [
+        {
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+        }
+      ],
+      "duration_ms": 140338,
+      "name": "I\u2019ll Keep You Safe",
+      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
-      },
-      "artists": [
-        {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "God Mom",
@@ -979,18 +963,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "F*ck Love",
-        "url": "https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg"
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
       },
       "artists": [
         {
-          "name": "Lund",
-          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
         }
       ],
-      "duration_ms": 197368,
-      "name": "F*ck Love",
-      "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
+      "duration_ms": 172307,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1011,22 +995,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
-        "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
+        "name": "F*ck Love",
+        "url": "https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg"
       },
       "artists": [
         {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        },
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Lund",
+          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
         }
       ],
-      "duration_ms": 149160,
-      "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
+      "duration_ms": 197368,
+      "name": "F*ck Love",
+      "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1043,6 +1023,26 @@
       "duration_ms": 86749,
       "name": "say goodbye",
       "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
+        "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1121,6 +1121,22 @@
       "url": "https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE"
     },
     {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 155673,
+      "name": "BETTER OFF DEAD",
+      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Can't Change For You (feat. charlieonnafriday & Arden Jones)",
@@ -1159,22 +1175,6 @@
       "duration_ms": 184141,
       "name": "Hiding in the Dark",
       "url": "https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Tell Me About Tomorrow",
-        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 155673,
-      "name": "BETTER OFF DEAD",
-      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Can't Leave",
-        "url": "https://open.spotify.com/album/16teSPlsvin30vK4t8DgK9"
-      },
-      "artists": [
-        {
-          "name": "Austin George",
-          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Can't Leave",
-      "url": "https://open.spotify.com/track/2vLhhodRmyz4YmwbXSNNeb"
-    },
-    {
       "added_at": "2022-10-28 16:05:00",
       "album": {
         "name": "Remember That You Will Die",
@@ -1439,6 +1423,22 @@
       "duration_ms": 151318,
       "name": "Fuck Around and Find Out (feat. $NOT)",
       "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Can't Leave",
+        "url": "https://open.spotify.com/album/16teSPlsvin30vK4t8DgK9"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Can't Leave",
+      "url": "https://open.spotify.com/track/2vLhhodRmyz4YmwbXSNNeb"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1621,6 +1621,22 @@
       "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
     },
     {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Read Your Mind",
+        "url": "https://open.spotify.com/album/2nrep2RHAvqhNvIIaMfM0B"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        }
+      ],
+      "duration_ms": 188418,
+      "name": "Read Your Mind",
+      "url": "https://open.spotify.com/track/3riUOEnx6x0k9M9uvFHsff"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Seen It All Before",
@@ -1639,22 +1655,6 @@
       "duration_ms": 187767,
       "name": "Seen It All Before",
       "url": "https://open.spotify.com/track/7wQbjBKlkfy4Cf1kq2fHVn"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Read Your Mind",
-        "url": "https://open.spotify.com/album/2nrep2RHAvqhNvIIaMfM0B"
-      },
-      "artists": [
-        {
-          "name": "Pardyalone",
-          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
-        }
-      ],
-      "duration_ms": 188418,
-      "name": "Read Your Mind",
-      "url": "https://open.spotify.com/track/3riUOEnx6x0k9M9uvFHsff"
     },
     {
       "added_at": "2022-10-07 04:18:00",

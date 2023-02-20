@@ -4,7 +4,7 @@
 
 > Clásicos que no sabías que eran covers para disfrutar con papá.
 
-132 songs - 8 hr 23 min
+133 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [I Will Survive](https://open.spotify.com/track/0qgiFuYhYuwtFXEwYakddE) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/57lJNxlrPSin9SySEnerNb) | 5:10 | 2021-10-29 | 2022-07-29 |
 | [I Will Survive](https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 5:10 | 2021-10-29 |  |
 | [I'm A Believer \- From "Shrek" Motion Picture Soundtrack](https://open.spotify.com/track/0mBL2JwjNYKtdFacHxvtJt) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Shrek](https://open.spotify.com/album/4fFn4t0JoZrNB3VY4HZ970) | 3:05 | 2021-10-29 |  |
+| [If Not for You \- 2014 Remaster](https://open.spotify.com/track/5zUP3RRw1vmZAsswtE3GrP) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 3:30 | 2021-10-29 |  |
 | [If Not For You \- Remastered 2014](https://open.spotify.com/track/7ykaUgkdQWJLsMuOymTV2A) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:30 | 2021-10-29 | 2023-02-19 |
 | [It's Oh So Quiet](https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:37 | 2021-10-29 |  |
 | [It's Oh So Quiet](https://open.spotify.com/track/3CMVjlbvNJMHDfYPX7xCpi) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 3:38 | 2021-10-29 | 2022-07-29 |
@@ -74,7 +75,7 @@
 | [Landslide \- Remastered](https://open.spotify.com/track/6N7JMoaUYgo4pwPgsnSobr) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Pisces Iscariot \(Deluxe\)](https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53) | 3:10 | 2021-10-29 |  |
 | [Les Cactus](https://open.spotify.com/track/2Ok6i60k4GEaBo5ttz5b7o) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/5XzlHFXbvM8PHoBsZ7Jju8) | 3:20 | 2021-10-29 | 2022-07-28 |
 | [Les Cactus](https://open.spotify.com/track/4Wg7fFccdDBL1sJGiu14w7) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:20 | 2021-10-29 |  |
-| [Let's Spend the Night Together \- 2013 Remaster](https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Aladdin Sane \(2013 Remaster\)](https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz) | 3:10 | 2021-10-29 |  |
+| [Let's Spend the Night Together \- 2013 Remaster](https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Aladdin Sane \(2013 Remaster\)](https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz) | 3:10 | 2021-10-29 | 2023-02-20 |
 | [Like A Rolling Stone \- Live](https://open.spotify.com/track/0oXnmfo2kW3joSeiXoazdV) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Totally Stripped \(Live\)](https://open.spotify.com/album/1I4PYVYWsa22ELVcjCszrx) | 6:10 | 2021-10-29 | 2022-07-29 |
 | [Like A Virgin \- Spotify Singles](https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Spotify Singles](https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci) | 3:11 | 2021-10-29 |  |
 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 | 2021-10-29 |  |

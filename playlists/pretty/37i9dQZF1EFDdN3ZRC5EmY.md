@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/20GjXoOdMhodfDMvSdh6mm">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,394 likes - 62 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,395 likes - 62 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 50 | [LA MEMORIA](https://open.spotify.com/track/1AJ1ybVy9k4qmxl9tP4VQc) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:17 |
 | 51 | [Passcode](https://open.spotify.com/track/0nDHPCCaeODqI0zEjK6rPz) | [Jannine Weigel](https://open.spotify.com/artist/3KnpO8dT2xgObEBmRsLv1u) | [Passcode](https://open.spotify.com/album/2gpqQvp09UtwQS4AZorpl9) | 3:13 |
 | 52 | [Love Me Still \(feat\. Jessie Reyez\)](https://open.spotify.com/track/34nMJtD8juawjxLdjx6Za2) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Love Me Still \(feat\. Jessie Reyez\)](https://open.spotify.com/album/0CjINjIOHeveub3qAnp65L) | 3:39 |
-| 53 | [True Love \(feat\. Laurell\) \(feat\. Laurell\)](https://open.spotify.com/track/3eE9HhSUdJTJXQvbVQQD2z) | [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [True Love \(feat\. Laurell\) \(feat\. Laurell\)](https://open.spotify.com/album/65ILG3geWjU2OcDgU2tPQJ) | 2:43 |
-| 54 | [WORTH SAVING](https://open.spotify.com/track/7eDNhqpC4YucIurKK2OriO) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US \(Deluxe\)](https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3) | 3:24 |
+| 53 | [WORTH SAVING](https://open.spotify.com/track/7eDNhqpC4YucIurKK2OriO) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US \(Deluxe\)](https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3) | 3:24 |
+| 54 | [True Love \(feat\. Laurell\) \(feat\. Laurell\)](https://open.spotify.com/track/3eE9HhSUdJTJXQvbVQQD2z) | [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [True Love \(feat\. Laurell\) \(feat\. Laurell\)](https://open.spotify.com/album/65ILG3geWjU2OcDgU2tPQJ) | 2:43 |
 | 55 | [Courtside \(feat\. Jessie Reyez\)](https://open.spotify.com/track/4pmlYSxJbwD4wgitas1bKJ) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:55 |
 | 56 | [No Sweat](https://open.spotify.com/track/2p1FYe6RRNm7xl3xy6j1gv) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [No Sweat](https://open.spotify.com/album/7uMPr1RFVVffsjyQ2j3zWZ) | 2:17 |
 | 57 | [SUGAR AT NIGHT](https://open.spotify.com/track/30lD4PGWDpwIJPCEvsPAFM) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US+](https://open.spotify.com/album/6TtJmwgLMiPLePBuso4vay) | 2:57 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 61 | [Coffin](https://open.spotify.com/track/2CWZ7nG31mNqWyvM2RcdLr) | [Yaielle Golden](https://open.spotify.com/artist/79nlaaiSCwAMxb3PlsjVvV) | [Bedroom Studio Covers](https://open.spotify.com/album/4N6b3CWuyGjsG2DaMfw4RP) | 2:59 |
 | 62 | [Rain](https://open.spotify.com/track/23ytV3kbb4LHaAyPOzP0v7) | [J\-Benji3](https://open.spotify.com/artist/6ywzkeo5qo0eG2MjT6UeVP) | [Blue Benji](https://open.spotify.com/album/5MpZCA7sjUbJBxnSEyCdD3) | 2:49 |
 
-Snapshot ID: `Mjc5NDY0NDIsMDAwMDAwMDA3MGVlYzk3OTBjOGUyYWI4NmNjYjNjZWVlMDU2OGFmNQ==`
+Snapshot ID: `Mjc5NDc1MjIsMDAwMDAwMDA1YzM3NTRkNmNkNWJmNDMxZGQ5ZDc2MDUxNDFlZDM3ZQ==`

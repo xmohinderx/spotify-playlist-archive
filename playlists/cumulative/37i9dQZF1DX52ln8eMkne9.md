@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-254 songs - 19 hr 5 min
+255 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,9 +212,10 @@
 | [The Man I Love](https://open.spotify.com/track/5ZjbzXgHWwyYB6rotYuP01) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [This Bitter Earth](https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7) | 4:50 | 2021-12-17 |  |
 | [The Man That Got Away](https://open.spotify.com/track/0cweXV4g3behXK3wXGgk37) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Come What May](https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ) | 5:29 | 2021-12-17 |  |
 | [The Nearness of You](https://open.spotify.com/track/1XF80YjwjuzuIfLzIfbqkt) | [Camille Harris](https://open.spotify.com/artist/245uCozaIRf8nxTWhQ09rL), [David Linard](https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l) | [The Nearness of You](https://open.spotify.com/album/1m52IEUS08ohNLcVyxdyqu) | 5:03 | 2022-02-18 |  |
-| [The Nearness of You](https://open.spotify.com/track/3jriW0LRM69w3dW7TK3TtS) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 5:33 | 2022-09-27 |  |
+| [The Nearness of You](https://open.spotify.com/track/3jriW0LRM69w3dW7TK3TtS) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 5:33 | 2022-09-27 | 2023-02-20 |
 | [The Nearness Of You](https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:07 | 2021-12-17 | 2022-07-29 |
 | [The Nearness Of You](https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:07 | 2022-07-28 | 2022-09-15 |
+| [The Silence](https://open.spotify.com/track/6fE9UEIXyYjyQiq4qnho4S) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [The Silence](https://open.spotify.com/album/0mB59lYkczjRkYpdcZ4dI4) | 4:25 | 2023-02-16 |  |
 | [The Summer Wind](https://open.spotify.com/track/6T407MUyMd4d0NZrvUNj3q) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/3KniUiE1O3h7CWWJ6eByiY) | 3:54 | 2021-12-17 | 2022-07-29 |
 | [The Summer Wind](https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 3:55 | 2022-07-28 | 2023-01-26 |
 | [The Very Thought of You](https://open.spotify.com/track/79ON5cFmJBoDDFdWB9ppOv) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Very Thought of You](https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP) | 6:38 | 2021-12-17 |  |

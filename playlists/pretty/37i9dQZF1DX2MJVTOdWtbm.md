@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior H
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,349 likes - 85 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,369 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 60 | [CUÁNTO](https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1) | [CIAN](https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60) | [CUÁNTO](https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm) | 2:52 |
 | 61 | [Mala](https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Mala](https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr) | 2:58 |
 | 62 | [diario](https://open.spotify.com/track/5sd1wfUgXN5bBuoAUYaD2c) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hembrismo](https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur) | 3:50 |
-| 63 | [Luces](https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5) | [Fernanda](https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0) | [Luces](https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj) | 2:17 |
-| 64 | [Alumnos](https://open.spotify.com/track/7pZw5QAA11FtUZFg5utXzp) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Alumnos](https://open.spotify.com/album/224WofhHqF6PuYTGd63baR) | 3:18 |
-| 65 | [escápate](https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [escápate](https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f) | 2:51 |
+| 63 | [Alumnos](https://open.spotify.com/track/7pZw5QAA11FtUZFg5utXzp) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Alumnos](https://open.spotify.com/album/224WofhHqF6PuYTGd63baR) | 3:18 |
+| 64 | [escápate](https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [escápate](https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f) | 2:51 |
+| 65 | [Luces](https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5) | [Fernanda](https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0) | [Luces](https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj) | 2:17 |
 | 66 | [What More](https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors 3](https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6) | 2:29 |
 | 67 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 |
 | 68 | [Quiero \- TDH's Version](https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Quiero \(TDH's Version\)](https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL) | 2:37 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 77 | [QUIEN ES ESA](https://open.spotify.com/track/3M2tFhrNdBDEEY3nDrcmNn) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 2:30 |
 | 78 | [La Original](https://open.spotify.com/track/5pzT9YfGIFoujWVv57opdC) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [La Original](https://open.spotify.com/album/33knxFQHp2Ak1W5hTdDbmr) | 2:54 |
 | 79 | [Talk Too Much](https://open.spotify.com/track/6xWmOgBNABDWJmYMsemoNK) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Talk Too Much](https://open.spotify.com/album/0v0QagQf2BhQtUa8UAbFLc) | 3:02 |
-| 80 | [Úsame](https://open.spotify.com/track/5sODCvqrHPSSQAOgKnUv3d) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/72g5DJ2ieqtlXxH1AEz1TV) | 3:23 |
-| 81 | [Ninfómanos](https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Ninfómanos](https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac) | 3:11 |
+| 80 | [Ninfómanos](https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Ninfómanos](https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac) | 3:11 |
+| 81 | [Úsame](https://open.spotify.com/track/5sODCvqrHPSSQAOgKnUv3d) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/72g5DJ2ieqtlXxH1AEz1TV) | 3:23 |
 | 82 | [Dolor](https://open.spotify.com/track/0q1qAGERR453ach2swvAza) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Perdón](https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo) | 3:05 |
 | 83 | [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 |
 | 84 | [Butterfly](https://open.spotify.com/track/3UqhjhMekGBxHoJI1AWPdx) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Butterfly](https://open.spotify.com/album/1Jrsb1j2AqUHGq0fzVtvRW) | 3:08 |
 | 85 | [Única](https://open.spotify.com/track/4dUd1p3ipkV5rNoCjPeu75) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [De Uno a Otro](https://open.spotify.com/album/09MaOaqsHgjjUO6bJOL2Ms) | 2:17 |
 
-Snapshot ID: `MTY3NTM3NTgxMCwwMDAwMDAwMDFkNzdiMzFhN2E4MjJkZWQ0ZTU4YmFiYjNmNzFlOWQ0`
+Snapshot ID: `MTY3NTM3NTgxMCwwMDAwMDAwMGEwN2Y5OWM2MGQ5Y2M5ZTRhOWM4Y2E0MDgzYzY2M2Y4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,558 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,685 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 26 | [Mine](https://open.spotify.com/track/3LU1LzDmm5siz3WExknlil) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [ADOLESCENCE](https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH) | 4:00 |
 | 27 | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS) | 3:43 |
 | 28 | [soulboy \- IZCO Remix](https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [soulboy \(IZCO Remix\)](https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX) | 3:49 |
-| 29 | [Nobody Scared](https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe) | 3:39 |
-| 30 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 |
+| 29 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 |
+| 30 | [Nobody Scared](https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe) | 3:39 |
 | 31 | [Not Today Mate](https://open.spotify.com/track/5UQhTk7Pn3ZpXrqnYgJpPm) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Not Today Mate](https://open.spotify.com/album/7K0pacPIm9EqjXkX5NUhMQ) | 3:37 |
 | 32 | [Young Love](https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 4:24 |
 | 33 | [What If](https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What If](https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q) | 3:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [People](https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [People](https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV) | 2:54 |
 | 70 | [Raining Colours](https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Raining Colours](https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN) | 3:12 |
 
-Snapshot ID: `MTY1NTczNDc4MiwwMDAwMDAwMGJmNjQ0ODJlNGY2YjVhMzgwNzc1NThlZjUzNjI0NTky`
+Snapshot ID: `MTY1NTczNDc4MiwwMDAwMDAwMDAwNjU5YmQ5ZTdlODVkMTg2MTM2YWU5OGNkZTkyMDdl`

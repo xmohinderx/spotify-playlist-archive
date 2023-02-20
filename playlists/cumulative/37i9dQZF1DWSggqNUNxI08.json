@@ -1405,6 +1405,28 @@
     },
     {
       "album": {
+        "name": "Function as a Meaning",
+        "url": "https://open.spotify.com/album/0DnQP1n5ULaaufv6uJhtRQ"
+      },
+      "artists": [
+        {
+          "name": "Lipelis",
+          "url": "https://open.spotify.com/artist/5kqJ14A5azjdD37MJr7VOd"
+        },
+        {
+          "name": "TMO",
+          "url": "https://open.spotify.com/artist/4izMpSz6U2VqJjqTqVuGnT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389074,
+      "name": "The Right Moment",
+      "url": "https://open.spotify.com/track/5q9tzjRWD1vHH3oJzFYYyM"
+    },
+    {
+      "album": {
         "name": "Function As A Meaning EP",
         "url": "https://open.spotify.com/album/0fWUB6YDSeUSadBnuIU20u"
       },
@@ -1420,7 +1442,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 389074,
       "name": "The Right Moment",
       "url": "https://open.spotify.com/track/2cOWOP6Yl99cZbJrArw7vF"

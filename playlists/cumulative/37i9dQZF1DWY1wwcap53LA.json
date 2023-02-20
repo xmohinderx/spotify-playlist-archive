@@ -950,6 +950,24 @@
     {
       "album": {
         "name": "Home To Me",
+        "url": "https://open.spotify.com/album/7v2tm5nZRqoMtAnEy6o7Ao"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219691,
+      "name": "Home To Me",
+      "url": "https://open.spotify.com/track/6F1AuPmYBgnw4PTmkYcAH6"
+    },
+    {
+      "album": {
+        "name": "Home To Me",
         "url": "https://open.spotify.com/album/4QY2mg5YCs0t1RzhXNLcLj"
       },
       "artists": [
@@ -960,7 +978,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 219691,
       "name": "Home To Me",
       "url": "https://open.spotify.com/track/7y32pxojOyp2FEFEOCKbtF"

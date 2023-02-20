@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. La Receta en portada.",
-  "num_followers": 49582,
+  "num_followers": 49639,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMDg2OWIwNDMyMDk3YmQxOGZhZTFjNjA0NGUxOGY1M2Qx",
+  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMDE1MWYwOGVjYWQ0NTlmM2QwYTE2MjMzNjlkMzVlZDEx",
   "tracks": [
     {
       "added_at": "2023-01-27 06:00:00",
@@ -201,6 +201,26 @@
       "url": "https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X"
     },
     {
+      "added_at": "2023-01-27 06:00:00",
+      "album": {
+        "name": "B\u00e9lico y Cholo",
+        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 202218,
+      "name": "B\u00e9lico y Cholo",
+      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
       "added_at": "2022-12-02 06:00:00",
       "album": {
         "name": "El Boom",
@@ -251,26 +271,6 @@
     {
       "added_at": "2023-01-27 06:00:00",
       "album": {
-        "name": "B\u00e9lico y Cholo",
-        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 202218,
-      "name": "B\u00e9lico y Cholo",
-      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
-    },
-    {
-      "added_at": "2023-01-27 06:00:00",
-      "album": {
         "name": "Marcando La Diferencia",
         "url": "https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa"
       },
@@ -283,42 +283,6 @@
       "duration_ms": 179948,
       "name": "Marcando La Diferencia",
       "url": "https://open.spotify.com/track/1EUPd55xAcY49hU59aJD5N"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
-    },
-    {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
-        "name": "H\u00e1gase Hombre",
-        "url": "https://open.spotify.com/album/7ilhopX9AwemPf6YNz4XiG"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 184927,
-      "name": "H\u00e1gase Hombre",
-      "url": "https://open.spotify.com/track/3g5i3yc1YBBlJRPUYzZ6Eu"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -341,6 +305,26 @@
       "url": "https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD"
     },
     {
+      "added_at": "2022-12-02 06:00:00",
+      "album": {
+        "name": "H\u00e1gase Hombre",
+        "url": "https://open.spotify.com/album/7ilhopX9AwemPf6YNz4XiG"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 184927,
+      "name": "H\u00e1gase Hombre",
+      "url": "https://open.spotify.com/track/3g5i3yc1YBBlJRPUYzZ6Eu"
+    },
+    {
       "added_at": "2023-01-13 06:00:00",
       "album": {
         "name": "En Vivo De Culiacan",
@@ -355,6 +339,22 @@
       "duration_ms": 158772,
       "name": "El Dos Sierras ( En Vivo)",
       "url": "https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -429,6 +429,22 @@
       "url": "https://open.spotify.com/track/7DNJkRM915Hm6B7i1Blhrp"
     },
     {
+      "added_at": "2022-10-07 15:36:37",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+        }
+      ],
+      "duration_ms": 188778,
+      "name": "365",
+      "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
+    },
+    {
       "added_at": "2023-01-13 06:00:00",
       "album": {
         "name": "Puro Pa' Delante",
@@ -445,20 +461,20 @@
       "url": "https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8"
     },
     {
-      "added_at": "2022-10-07 15:36:37",
+      "added_at": "2022-12-23 06:00:00",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
       },
       "artists": [
         {
-          "name": "Los Reales Del Rio",
-          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "duration_ms": 188778,
-      "name": "365",
-      "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -549,22 +565,6 @@
       "url": "https://open.spotify.com/track/2ioxOvyD2OAB1FvuE6Whef"
     },
     {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
-    },
-    {
       "added_at": "2022-12-02 06:00:00",
       "album": {
         "name": "No Se Olvida",
@@ -595,22 +595,6 @@
       "duration_ms": 196693,
       "name": "Este Sentimiento",
       "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
-    },
-    {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "No Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
     },
     {
       "added_at": "2022-10-07 15:36:37",
@@ -647,6 +631,22 @@
       "duration_ms": 187500,
       "name": "Kenwood En Los Radios (En Vivo)",
       "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -897,26 +897,6 @@
       "url": "https://open.spotify.com/track/1edM1dwb4vTMefLpgLX3mj"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
-        "name": "Manzana en el Mapa",
-        "url": "https://open.spotify.com/album/6CbT6DH726p3P8oAtmox7j"
-      },
-      "artists": [
-        {
-          "name": "Tony Loya",
-          "url": "https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 183501,
-      "name": "Manzana en el Mapa",
-      "url": "https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI"
-    },
-    {
       "added_at": "2022-12-05 23:10:14",
       "album": {
         "name": "El Sera y El Chavo",
@@ -935,6 +915,26 @@
       "duration_ms": 169771,
       "name": "El Sera y El Chavo",
       "url": "https://open.spotify.com/track/4D501jFb5aOvcXal9CWQ5J"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Manzana en el Mapa",
+        "url": "https://open.spotify.com/album/6CbT6DH726p3P8oAtmox7j"
+      },
+      "artists": [
+        {
+          "name": "Tony Loya",
+          "url": "https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 183501,
+      "name": "Manzana en el Mapa",
+      "url": "https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI"
     },
     {
       "added_at": "2023-01-27 06:00:00",
@@ -989,22 +989,6 @@
       "url": "https://open.spotify.com/track/2pjYzSOQSiAw8xzjwDrJ74"
     },
     {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "Peque\u00f1a y Frag\u00edl",
-        "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        }
-      ],
-      "duration_ms": 173837,
-      "name": "Peque\u00f1a y Frag\u00edl",
-      "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
-    },
-    {
       "added_at": "2022-11-11 06:00:00",
       "album": {
         "name": "Tiempos de Guerra 2",
@@ -1019,6 +1003,22 @@
       "duration_ms": 171053,
       "name": "Tiempos de Guerra 2",
       "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
+    },
+    {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "Peque\u00f1a y Frag\u00edl",
+        "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "duration_ms": 173837,
+      "name": "Peque\u00f1a y Frag\u00edl",
+      "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -1257,22 +1257,6 @@
       "url": "https://open.spotify.com/track/0mbMWo3O3iewwXaruG4a7D"
     },
     {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "El Wizard Es Mi Apodo",
-        "url": "https://open.spotify.com/album/2OGIAIOIwoHrqgD8M0vqOZ"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "El Wizard Es Mi Apodo",
-      "url": "https://open.spotify.com/track/6P6GsfUCmIjOv6Q2zBI36s"
-    },
-    {
       "added_at": "2022-12-05 23:10:14",
       "album": {
         "name": "Se Alborotaron Los Guachos",
@@ -1287,6 +1271,22 @@
       "duration_ms": 164022,
       "name": "Se Alborotaron Los Guachos - En Vivo",
       "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
+    },
+    {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "El Wizard Es Mi Apodo",
+        "url": "https://open.spotify.com/album/2OGIAIOIwoHrqgD8M0vqOZ"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "El Wizard Es Mi Apodo",
+      "url": "https://open.spotify.com/track/6P6GsfUCmIjOv6Q2zBI36s"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

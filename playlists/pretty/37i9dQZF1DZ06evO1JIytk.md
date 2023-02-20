@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,986 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,992 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 30 | [Finish What We Started](https://open.spotify.com/track/0LkSPDuV9ROmUYlr14w9oE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 2:49 |
 | 31 | [This Is the New Sound](https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:45 |
 | 32 | [You Make Me Sick](https://open.spotify.com/track/4ymvRa2W35pidqnOX7Ruiy) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 3:01 |
-| 33 | [Should I Stay or Should I Go \- Live Version](https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:43 |
-| 34 | [The Economy is Suffering...Let It Die](https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 3:36 |
+| 33 | [The Economy is Suffering...Let It Die](https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 3:36 |
+| 34 | [Should I Stay or Should I Go \- Live Version](https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:43 |
 | 35 | [Captain Anarchy](https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:33 |
 | 36 | [20/20 Vision](https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 2:26 |
 | 37 | [This Machine Kills Fascists](https://open.spotify.com/track/1ZFpMCNOL0IMqNRcOHE5e9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg) | 1:38 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 46 | [Sodom, Gomorrah, Washington D.C\. \(Sheep in Shepherds Clothing\)](https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 2:50 |
 | 47 | [No Allegiance To A Flag](https://open.spotify.com/track/798wYM5enzA8WSIIpLdtlw) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Division](https://open.spotify.com/album/3thDALJX9mvXyJVNSqHwd7) | 2:01 |
 | 48 | [A Dying Plea Vol\. 1](https://open.spotify.com/track/0NlxbDDwdVSQm1DQz2EZUo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Marcia Richards](https://open.spotify.com/artist/1I1Psp3G5rPd9Wz4uBE3Zu), [Jálise Della Gary](https://open.spotify.com/artist/0f5kdcCaSt4HSPvBKuXvYv), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [A Dying Plea Vol\. 1](https://open.spotify.com/album/0ippbK45L6BKnSfpaAFf4V) | 3:26 |
-| 49 | [SKATE](https://open.spotify.com/track/6yd9HSGpSnunM8kLum15HC) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike \(10 Year Anniversary\)](https://open.spotify.com/album/0HrNCNxt4ps1IJsqURkjEE) | 1:18 |
-| 50 | [The Neoliberal Anthem](https://open.spotify.com/track/1eFFX62lE73xMal8dGPMHU) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 3:17 |
+| 49 | [The Neoliberal Anthem](https://open.spotify.com/track/1eFFX62lE73xMal8dGPMHU) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 3:17 |
+| 50 | [SKATE](https://open.spotify.com/track/6yd9HSGpSnunM8kLum15HC) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike \(10 Year Anniversary\)](https://open.spotify.com/album/0HrNCNxt4ps1IJsqURkjEE) | 1:18 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDA4ZTk2OGE5YWJjZjFjNzYzYzgwZDY0MmY2YTA2YTc4MQ==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDA0YzA2NTNkMWIzYzAyNjMyNTI4ZDk1MzcyM2FjZWNiMQ==`

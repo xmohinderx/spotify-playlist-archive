@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 145945,
       "name": "4xNem",
       "url": "https://open.spotify.com/track/4mGgzjRyM6PojHS0dAS8YX"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 132506,
       "name": "Aha-Aha",
       "url": "https://open.spotify.com/track/2YmkWevzHTiEyvgjdTKB3r"
@@ -678,7 +678,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 200727,
       "name": "Ammonia",
       "url": "https://open.spotify.com/track/5GhL66fbQq6EuqyC8MH8N8"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 187752,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/0CyPMRxLuoteZTXuILKB1K"
@@ -4208,7 +4208,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 136286,
       "name": "Gett\u00f3 csirke",
       "url": "https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G"
@@ -4836,7 +4836,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 186043,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
@@ -7690,7 +7690,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 193542,
       "name": "Miafasz",
       "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
@@ -9082,7 +9082,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 188484,
       "name": "Palvin",
       "url": "https://open.spotify.com/track/5hAuDDOTUaspvHJSm2AltF"
@@ -9774,7 +9774,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 143673,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/5yoN7q3XPMlJD1wA8ickyG"
@@ -10886,7 +10886,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
@@ -12113,6 +12113,24 @@
     },
     {
       "album": {
+        "name": "GG VS GRASA",
+        "url": "https://open.spotify.com/album/4FR5aidnMiVra6a13qSoDQ"
+      },
+      "artists": [
+        {
+          "name": "Grasa",
+          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124186,
+      "name": "Tilidin",
+      "url": "https://open.spotify.com/track/23A0p49PgR5YAyYzY8TAyc"
+    },
+    {
+      "album": {
         "name": "Tilidin",
         "url": "https://open.spotify.com/album/7oMwpsDSP4TKlzVg6gj7uO"
       },
@@ -12124,7 +12142,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 124186,
       "name": "Tilidin",
       "url": "https://open.spotify.com/track/3kmBT0nbeNoaRlFMZbAOfb"
@@ -12194,7 +12212,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 157974,
       "name": "Titanic freestyle",
       "url": "https://open.spotify.com/track/1JdXZP0BznUEffS5JTllqD"
@@ -12468,7 +12486,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 107889,
       "name": "U T C A",
       "url": "https://open.spotify.com/track/1kFTPxY8lt9wgYsEl3vQyv"

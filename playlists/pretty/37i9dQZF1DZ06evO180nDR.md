@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,506 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,562 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 5 | [Tolin Infante \(En Vivo\)](https://open.spotify.com/track/3xnxQoLbFAPqVzbZdhf37m) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Tolin Infante \(En Vivo\)](https://open.spotify.com/album/6hNqFGCRdl3xY33GqqHao4) | 4:02 |
 | 6 | [La Plebada \(En Vivo\)](https://open.spotify.com/track/0AdIPj093vFCO7t95TWak4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Plebada \(En Vivo\)](https://open.spotify.com/album/4XXYvofbCf6KV5ZkHGw7fq) | 3:38 |
 | 7 | [La Recia](https://open.spotify.com/track/5PGbQgXt8bgXceoK3yZvYo) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 2:30 |
-| 8 | [Vida Mafiosa \- En Vivo](https://open.spotify.com/track/4ExcF29Gk312s57yZq5lrI) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Volumen 2 \(En Vivo\)](https://open.spotify.com/album/6zDQ8GXYlvtL8o9s0a8Ttz) | 2:06 |
-| 9 | [Los Benjamines](https://open.spotify.com/track/5YHQqBnzB1UWcwKoDiFK6b) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Los Benjamines](https://open.spotify.com/album/0VEaLh5tBoho0M6BlbGUIa) | 2:46 |
+| 8 | [Los Benjamines](https://open.spotify.com/track/5YHQqBnzB1UWcwKoDiFK6b) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Los Benjamines](https://open.spotify.com/album/0VEaLh5tBoho0M6BlbGUIa) | 2:46 |
+| 9 | [Vida Mafiosa \- En Vivo](https://open.spotify.com/track/4ExcF29Gk312s57yZq5lrI) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Volumen 2 \(En Vivo\)](https://open.spotify.com/album/6zDQ8GXYlvtL8o9s0a8Ttz) | 2:06 |
 | 10 | [El Águila Real \(Nave 727\)](https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:13 |
 | 11 | [Fácil Criticar \- En Vivo](https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Fácil Criticar \(En Vivo\)](https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn) | 3:14 |
 | 12 | [70 Calaveras](https://open.spotify.com/track/7ifBr1r11Dt26l4liTr7Ak) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Principio Y El Fin](https://open.spotify.com/album/2FR5MC8QeTPajOyC3XajyH) | 3:02 |
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 25 | [Luz De Día](https://open.spotify.com/track/0gv3VPyYaR5lxtpkgJayKD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 4:15 |
 | 26 | [Dichos Y Grandes](https://open.spotify.com/track/6N9UZ5TbSrs9V6RGa9uv2V) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dichos Y Grandes](https://open.spotify.com/album/7p1p2zwwgFzmuky82s7URf) | 3:18 |
 | 27 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/09xNyMggKDROc4TYPjiUog) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:38 |
-| 28 | [Miguel Ángel](https://open.spotify.com/track/3GwaJCRZYlQWDASiqQt8O1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Miguel Ángel](https://open.spotify.com/album/0XiTVbx22tB1hJMZiH0QX6) | 2:44 |
-| 29 | [Mi Gusto Es \(En Vivo\)](https://open.spotify.com/track/0MgUTIiAlWr5h2A8d4XKg9) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Mi Gusto Es \(En Vivo\)](https://open.spotify.com/album/5C7HgjwqlKKUHk8usJB2r9) | 3:45 |
+| 28 | [Mi Gusto Es \(En Vivo\)](https://open.spotify.com/track/0MgUTIiAlWr5h2A8d4XKg9) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Mi Gusto Es \(En Vivo\)](https://open.spotify.com/album/5C7HgjwqlKKUHk8usJB2r9) | 3:45 |
+| 29 | [Miguel Ángel](https://open.spotify.com/track/3GwaJCRZYlQWDASiqQt8O1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Miguel Ángel](https://open.spotify.com/album/0XiTVbx22tB1hJMZiH0QX6) | 2:44 |
 | 30 | [Tal Vez](https://open.spotify.com/track/04zj4lyENfdiH3Snca3SoM) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:38 |
-| 31 | [El Elotero](https://open.spotify.com/track/09BwZJMN17PDjpxBnijjyt) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Sera El Sereno](https://open.spotify.com/album/0eDXG5ZGSYinyo2f91s48L) | 2:23 |
-| 32 | [Estoy Aquí](https://open.spotify.com/track/4VKn45HqiDSTZEzCTVEUst) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 3:54 |
+| 31 | [Estoy Aquí](https://open.spotify.com/track/4VKn45HqiDSTZEzCTVEUst) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 3:54 |
+| 32 | [El Elotero](https://open.spotify.com/track/09BwZJMN17PDjpxBnijjyt) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Sera El Sereno](https://open.spotify.com/album/0eDXG5ZGSYinyo2f91s48L) | 2:23 |
 | 33 | [Te Sigo Amando](https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:13 |
 | 34 | [Fiesta De Muerte](https://open.spotify.com/track/6WujLvXd1gEMMGB0nKIlTU) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 2:34 |
 | 35 | [Corrido De Alfredo Beltrán](https://open.spotify.com/track/5LS2EZZyM9whD8b8Bl5elA) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos](https://open.spotify.com/album/4n37w7mhMm0i77CimGTgt0) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 49 | [El Perro Negro](https://open.spotify.com/track/1rP90VhA9IlyqfJGOHuRX1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 2:35 |
 | 50 | [Hombre De Negocios](https://open.spotify.com/track/465XYz4eYfKiSQD1EFMc5J) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 4:08 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDA2YjU5NWMyYTc1Yjc4ZmQ4YWIyNzE3NTY2ZjZhNmQxYg==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDBhMjA2YjBkODJhNGY5Y2RiY2M4MjQ4NzJiYTZjYjNmZQ==`

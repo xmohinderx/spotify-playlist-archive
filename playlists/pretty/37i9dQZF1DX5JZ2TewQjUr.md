@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lewsz
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,693 likes - 140 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,697 likes - 140 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 3 | [where we go is home](https://open.spotify.com/track/5JedCIfnYpIgAilKiTcwaY) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [where we go is home](https://open.spotify.com/album/5Jah63TSuIbHS52XXQVSKj) | 4:12 |
 | 4 | [EVEREST](https://open.spotify.com/track/7uWMSgrpmIqhR0699brD2m) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p) | [EVEREST](https://open.spotify.com/album/5bzShHfCajfcE0KgIrf2p2) | 3:26 |
 | 5 | [London \(Live Version\)](https://open.spotify.com/track/3qAh3vHbkjv6aU4uGup7Nk) | [Lucid Fuzzy](https://open.spotify.com/artist/5d9ViTf7DQ0PBUHN3JTQu5) | [London \(Live Version\)](https://open.spotify.com/album/5Hck9WPH2ceGio4m6yAWBx) | 5:28 |
-| 6 | [Unison](https://open.spotify.com/track/0r9l1wCc53p2QF0n9vlWt8) | [Ragpickers 拾荒客](https://open.spotify.com/artist/2V0uVpWXrEORLKVGPwd69N) | [Unison](https://open.spotify.com/album/6kB5MFEb7FbX6g5hsXlgM5) | 4:16 |
+| 6 | [Unison](https://open.spotify.com/track/0r9l1wCc53p2QF0n9vlWt8) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj) | [Unison](https://open.spotify.com/album/6kB5MFEb7FbX6g5hsXlgM5) | 4:16 |
 | 7 | [November 12](https://open.spotify.com/track/5tiZ8wO38MV7XnEnnpylli) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [November 12](https://open.spotify.com/album/18Pk2bESF2TOLTEdHaBIIb) | 3:22 |
 | 8 | [One time.](https://open.spotify.com/track/6nQf3TX6AUJUoNhkisvZYv) | [Katana](https://open.spotify.com/artist/4F2bVX4e5WsiK9Xa30blEh) | [One time.](https://open.spotify.com/album/3g5WG402FY5v4IgOELXPV9) | 3:16 |
 | 9 | [Alright](https://open.spotify.com/track/5bWrBCQfvSwL6bwsBYH4fm) | [Bruit](https://open.spotify.com/artist/4om4AJx0y9wMusLtRNsRPE) | [Alright](https://open.spotify.com/album/0AF9jPK5ATg27lFbQDMdvp) | 3:47 |

@@ -1,15 +1,15 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: El Alfa",
-  "num_followers": 77145,
+  "num_followers": 77189,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYyMTczMSwwMDAwMDAwMGUyM2Y0YTRjMjViNmUyMDZkOTIzMzIwMjgxMWJmYTEx",
+  "snapshot_id": "MTY3NjYyMTczMSwwMDAwMDAwMGRmYzA4NGE3MzEwYmQ0ZjI1NWFiMDYzMDlmNDA1NDcy",
   "tracks": [
     {
-      "added_at": "2023-02-19 06:32:16",
+      "added_at": "2023-02-20 00:09:55",
       "album": {
         "name": "Chikilio",
         "url": "https://open.spotify.com/album/3z0goymOHvgH60gximJSPW"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/0qkLZiVI69coQ6tNm78wsm"
     },
     {
-      "added_at": "2023-02-19 06:32:16",
+      "added_at": "2023-02-20 00:09:55",
       "album": {
         "name": "Toy a Mil",
         "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
     },
     {
-      "added_at": "2023-02-19 06:32:16",
+      "added_at": "2023-02-20 00:09:55",
       "album": {
         "name": "Me Vale V3rg4",
         "url": "https://open.spotify.com/album/12PjHJ65aOOicQRb6Zuslz"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/4NZ71AIKdrpxMsSVTvggDe"
     },
     {
-      "added_at": "2023-02-19 06:32:16",
+      "added_at": "2023-02-20 00:09:55",
       "album": {
         "name": "Ayayai",
         "url": "https://open.spotify.com/album/5La0K5s0ftUoLMUGAAHgjG"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/0YI55FQIlBuy7CKSVZ5ygp"
     },
     {
-      "added_at": "2023-02-19 06:32:16",
+      "added_at": "2023-02-20 00:09:55",
       "album": {
         "name": "El Kun Kun",
         "url": "https://open.spotify.com/album/20w0Oi13axY5skXpwhtuVZ"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/6qVgUhyZcP3SqEC44DpMB8"
     },
     {
-      "added_at": "2023-02-19 06:32:16",
+      "added_at": "2023-02-20 00:09:55",
       "album": {
         "name": "Mueve Eso",
         "url": "https://open.spotify.com/album/137Kiv3H9ygMvm5fGy8BcR"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/05I7jRJLZWfHgnuv2w7f75"
     },
     {
-      "added_at": "2023-02-19 06:32:16",
+      "added_at": "2023-02-20 00:09:55",
       "album": {
         "name": "Manito Mio",
         "url": "https://open.spotify.com/album/7wrZBPwq4YbBlnzCyErsSV"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/271kdy8ZYpke52W0yvnLuQ"
     },
     {
-      "added_at": "2023-02-19 06:32:16",
+      "added_at": "2023-02-20 00:09:55",
       "album": {
         "name": "Lulili",
         "url": "https://open.spotify.com/album/5nkXPtFbJPZjaVSPIebITc"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5"
     },
     {
-      "added_at": "2023-02-19 06:32:16",
+      "added_at": "2023-02-20 00:09:55",
       "album": {
         "name": "LE DOY 20 MIL",
         "url": "https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y"
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
+        "name": "Superman Sin Capa",
+        "url": "https://open.spotify.com/album/54sBUl14e0fc7YZGX8dWdP"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        }
+      ],
+      "duration_ms": 230153,
+      "name": "Superman Sin Capa",
+      "url": "https://open.spotify.com/track/1UuZIUgkiVPhIkhbYlLTeD"
+    },
+    {
+      "added_at": "2023-01-09 06:14:28",
+      "album": {
         "name": "Ping Pong",
         "url": "https://open.spotify.com/album/5B6FH2f4rOJb9xFndwd05e"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 154434,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/2nsYdAiS7abEcku6JAw8Zs"
-    },
-    {
-      "added_at": "2023-01-09 06:14:28",
-      "album": {
-        "name": "Superman Sin Capa",
-        "url": "https://open.spotify.com/album/54sBUl14e0fc7YZGX8dWdP"
-      },
-      "artists": [
-        {
-          "name": "El Super Nuevo",
-          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
-        }
-      ],
-      "duration_ms": 230153,
-      "name": "Superman Sin Capa",
-      "url": "https://open.spotify.com/track/1UuZIUgkiVPhIkhbYlLTeD"
     },
     {
       "added_at": "2023-01-09 06:14:28",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
+        "name": "Tumbala",
+        "url": "https://open.spotify.com/album/09oK38U1xFy88t6Iho7ojt"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Tumbala",
+      "url": "https://open.spotify.com/track/7oieFIG0uypkJeI1akfkQ5"
+    },
+    {
+      "added_at": "2023-01-09 06:14:28",
+      "album": {
         "name": "Juju Juju",
         "url": "https://open.spotify.com/album/7pkUGzeyvr1wMnq3sxbdRe"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 184005,
       "name": "Juju Juju",
       "url": "https://open.spotify.com/track/4vvQ96TQ1mV3uQyq4malVN"
-    },
-    {
-      "added_at": "2023-01-09 06:14:28",
-      "album": {
-        "name": "Tumbala",
-        "url": "https://open.spotify.com/album/09oK38U1xFy88t6Iho7ojt"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Tumbala",
-      "url": "https://open.spotify.com/track/7oieFIG0uypkJeI1akfkQ5"
     },
     {
       "added_at": "2023-01-09 06:14:28",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
+        "name": "Y Eso?",
+        "url": "https://open.spotify.com/album/7x8dNTVIpVvboQ3TsxCj0N"
+      },
+      "artists": [
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        },
+        {
+          "name": "PV Aparataje",
+          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
+        }
+      ],
+      "duration_ms": 164048,
+      "name": "Y Eso?",
+      "url": "https://open.spotify.com/track/1Cx2O26LJUjG94LfH6rnyB"
+    },
+    {
+      "added_at": "2023-01-09 06:14:28",
+      "album": {
         "name": "El Toro",
         "url": "https://open.spotify.com/album/31TLZhqZdOT2HVrh5b9rrH"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 159860,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/6lyoUlB3Ppo4MHrG2Sp47o"
-    },
-    {
-      "added_at": "2023-01-09 06:14:28",
-      "album": {
-        "name": "Y Eso?",
-        "url": "https://open.spotify.com/album/7x8dNTVIpVvboQ3TsxCj0N"
-      },
-      "artists": [
-        {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
-        },
-        {
-          "name": "PV Aparataje",
-          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
-        }
-      ],
-      "duration_ms": 164048,
-      "name": "Y Eso?",
-      "url": "https://open.spotify.com/track/1Cx2O26LJUjG94LfH6rnyB"
     },
     {
       "added_at": "2023-01-09 06:14:28",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
-        "name": "Flyte",
-        "url": "https://open.spotify.com/album/1oU2I4CFdemDR3aMtllc4h"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "El Futuro Fuera De Orbita",
-          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
-        }
-      ],
-      "duration_ms": 194490,
-      "name": "Flyte",
-      "url": "https://open.spotify.com/track/3YqTzC9YYQmiT5nDZgl01q"
-    },
-    {
-      "added_at": "2023-01-09 06:14:28",
-      "album": {
         "name": "Dembow Hits",
         "url": "https://open.spotify.com/album/3KmHYKhbEdO8CvzLzT46u6"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 223026,
       "name": "Que Se Mueran de Envidia - Remix",
       "url": "https://open.spotify.com/track/756lNtYctOWwsFwrcAwQ0X"
+    },
+    {
+      "added_at": "2023-01-09 06:14:28",
+      "album": {
+        "name": "Flyte",
+        "url": "https://open.spotify.com/album/1oU2I4CFdemDR3aMtllc4h"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "El Futuro Fuera De Orbita",
+          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
+        }
+      ],
+      "duration_ms": 194490,
+      "name": "Flyte",
+      "url": "https://open.spotify.com/track/3YqTzC9YYQmiT5nDZgl01q"
     },
     {
       "added_at": "2023-01-09 06:14:28",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
+        "name": "Otro Formato",
+        "url": "https://open.spotify.com/album/5PiUtsffoSQ9mdMj0Tno35"
+      },
+      "artists": [
+        {
+          "name": "Doble T y El Crok Los Pepes",
+          "url": "https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW"
+        }
+      ],
+      "duration_ms": 245815,
+      "name": "Pepe",
+      "url": "https://open.spotify.com/track/6kkG9O8oKrZ7ETFFzbEtrk"
+    },
+    {
+      "added_at": "2023-01-09 06:14:28",
+      "album": {
         "name": "Enpiripimpiao (Remix)",
         "url": "https://open.spotify.com/album/4Euz08I8y3Q9eto2J9Rwr9"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 297278,
       "name": "Enpiripimpiao - Remix",
       "url": "https://open.spotify.com/track/4VkaLl2C7yKR3Y5Ryeit10"
-    },
-    {
-      "added_at": "2023-01-09 06:14:28",
-      "album": {
-        "name": "Otro Formato",
-        "url": "https://open.spotify.com/album/5PiUtsffoSQ9mdMj0Tno35"
-      },
-      "artists": [
-        {
-          "name": "Doble T y El Crok Los Pepes",
-          "url": "https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW"
-        }
-      ],
-      "duration_ms": 245815,
-      "name": "Pepe",
-      "url": "https://open.spotify.com/track/6kkG9O8oKrZ7ETFFzbEtrk"
     },
     {
       "added_at": "2023-01-09 06:14:28",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
+        "name": "Cuando Bebo",
+        "url": "https://open.spotify.com/album/2qijMBUbzPBCwN0JjGr8Df"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        }
+      ],
+      "duration_ms": 234372,
+      "name": "Cuando Bebo",
+      "url": "https://open.spotify.com/track/7HEEmTfwfM56sSZd6glbZH"
+    },
+    {
+      "added_at": "2023-01-09 06:14:28",
+      "album": {
         "name": "El Que No Salta Es Paco (Remix)",
         "url": "https://open.spotify.com/album/1JQPIPt2Ml2ALdzYUNMfLc"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 248209,
       "name": "El Que No Salta Es Paco - Remix",
       "url": "https://open.spotify.com/track/5WXnRHsxuuTKVzEbLT1Lnn"
-    },
-    {
-      "added_at": "2023-01-09 06:14:28",
-      "album": {
-        "name": "Cuando Bebo",
-        "url": "https://open.spotify.com/album/2qijMBUbzPBCwN0JjGr8Df"
-      },
-      "artists": [
-        {
-          "name": "El Super Nuevo",
-          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
-        }
-      ],
-      "duration_ms": 234372,
-      "name": "Cuando Bebo",
-      "url": "https://open.spotify.com/track/7HEEmTfwfM56sSZd6glbZH"
     },
     {
       "added_at": "2023-01-09 06:14:28",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
-        "name": "Flotaera",
-        "url": "https://open.spotify.com/album/1pdt1WhLnsRZ2zZ9laqKe4"
-      },
-      "artists": [
-        {
-          "name": "Shootter Ledo",
-          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        }
-      ],
-      "duration_ms": 144406,
-      "name": "Flotaera",
-      "url": "https://open.spotify.com/track/0axj1N7mJkA71nD8qNqLPM"
-    },
-    {
-      "added_at": "2023-01-09 06:14:28",
-      "album": {
         "name": "Hip Hop Dominicano",
         "url": "https://open.spotify.com/album/1d7x3KPX9Icc4AqG5oZau7"
       },
@@ -1887,6 +1867,54 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
+        "name": "Flotaera",
+        "url": "https://open.spotify.com/album/1pdt1WhLnsRZ2zZ9laqKe4"
+      },
+      "artists": [
+        {
+          "name": "Shootter Ledo",
+          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "duration_ms": 144406,
+      "name": "Flotaera",
+      "url": "https://open.spotify.com/track/0axj1N7mJkA71nD8qNqLPM"
+    },
+    {
+      "added_at": "2023-01-09 06:14:28",
+      "album": {
+        "name": "MANDA LA UBI",
+        "url": "https://open.spotify.com/album/4xBxE3eoLkI5n4gH5Jni8P"
+      },
+      "artists": [
+        {
+          "name": "El Futuro Fuera De Orbita",
+          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Carlitos Junior",
+          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
+        },
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        }
+      ],
+      "duration_ms": 234075,
+      "name": "MANDA LA UBI",
+      "url": "https://open.spotify.com/track/2S87nHmmhCD3qsKLwcCU74"
+    },
+    {
+      "added_at": "2023-01-09 06:14:28",
+      "album": {
         "name": "La Libreta",
         "url": "https://open.spotify.com/album/1MZOBdiRgaQ7TvuGUzwzIN"
       },
@@ -1919,34 +1947,6 @@
       "duration_ms": 162482,
       "name": "Hoy Me Desacato Dale Pipo",
       "url": "https://open.spotify.com/track/0q4DQ6tvmFhpQZFdcJLV1K"
-    },
-    {
-      "added_at": "2023-01-09 06:14:28",
-      "album": {
-        "name": "MANDA LA UBI",
-        "url": "https://open.spotify.com/album/4xBxE3eoLkI5n4gH5Jni8P"
-      },
-      "artists": [
-        {
-          "name": "El Futuro Fuera De Orbita",
-          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
-        },
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Carlitos Junior",
-          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
-        },
-        {
-          "name": "Balbi El Chamako",
-          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
-        }
-      ],
-      "duration_ms": 234075,
-      "name": "MANDA LA UBI",
-      "url": "https://open.spotify.com/track/2S87nHmmhCD3qsKLwcCU74"
     },
     {
       "added_at": "2023-01-09 06:14:28",
@@ -2059,6 +2059,30 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
+        "name": "Ven (Remix)",
+        "url": "https://open.spotify.com/album/4actwcUR95D4zwhLQtEuJu"
+      },
+      "artists": [
+        {
+          "name": "Liro Shaq",
+          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        }
+      ],
+      "duration_ms": 184398,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/0OsAYEI28tSsqrjXVEO4eg"
+    },
+    {
+      "added_at": "2023-01-09 06:14:28",
+      "album": {
         "name": "La Gente Ta' Loca (Remix)",
         "url": "https://open.spotify.com/album/7FSljR58CzFZISeEMj5bO1"
       },
@@ -2099,30 +2123,6 @@
       "duration_ms": 190593,
       "name": "Peine Caracol, Vol. 2",
       "url": "https://open.spotify.com/track/5Gv6kUJV6yukwNfK8XikRp"
-    },
-    {
-      "added_at": "2023-01-09 06:14:28",
-      "album": {
-        "name": "Ven (Remix)",
-        "url": "https://open.spotify.com/album/4actwcUR95D4zwhLQtEuJu"
-      },
-      "artists": [
-        {
-          "name": "Liro Shaq",
-          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
-        }
-      ],
-      "duration_ms": 184398,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/0OsAYEI28tSsqrjXVEO4eg"
     },
     {
       "added_at": "2023-01-09 06:14:28",
@@ -2275,6 +2275,38 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
+        "name": "LATIN HITS 2018 - Reggaeton, Salsa, Bachata, Pop Latino, Latin Fitness (60 Super Exitos Latinos - Club Edition)",
+        "url": "https://open.spotify.com/album/7CecgOEOAK5MBc5kkEycA4"
+      },
+      "artists": [
+        {
+          "name": "Yofrangel",
+          "url": "https://open.spotify.com/artist/6VLldomvrVfwjvfLdFDq0o"
+        },
+        {
+          "name": "Tali Goya",
+          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
+        },
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Shelow Shaq",
+          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
+        }
+      ],
+      "duration_ms": 274840,
+      "name": "La Nota Se Me Encampana (with Tali Goya, Ceky Viciny, Quimico Ultra Mega & Shelow Shaq) - Remix",
+      "url": "https://open.spotify.com/track/6fF4naENXsnyCaiHCctKCp"
+    },
+    {
+      "added_at": "2023-01-09 06:14:28",
+      "album": {
         "name": "Co\u00f1o",
         "url": "https://open.spotify.com/album/36c1aJqb2XjJ8rr8qH4RfI"
       },
@@ -2331,38 +2363,6 @@
       "duration_ms": 164186,
       "name": "Los Pomposos (feat. Yomel El Meloso)",
       "url": "https://open.spotify.com/track/1RgNUug3wnBqPNGKLHTnxG"
-    },
-    {
-      "added_at": "2023-01-09 06:14:28",
-      "album": {
-        "name": "LATIN HITS 2018 - Reggaeton, Salsa, Bachata, Pop Latino, Latin Fitness (60 Super Exitos Latinos - Club Edition)",
-        "url": "https://open.spotify.com/album/7CecgOEOAK5MBc5kkEycA4"
-      },
-      "artists": [
-        {
-          "name": "Yofrangel",
-          "url": "https://open.spotify.com/artist/6VLldomvrVfwjvfLdFDq0o"
-        },
-        {
-          "name": "Tali Goya",
-          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
-        },
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        },
-        {
-          "name": "Quimico Ultra Mega",
-          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
-        },
-        {
-          "name": "Shelow Shaq",
-          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
-        }
-      ],
-      "duration_ms": 274840,
-      "name": "La Nota Se Me Encampana (with Tali Goya, Ceky Viciny, Quimico Ultra Mega & Shelow Shaq) - Remix",
-      "url": "https://open.spotify.com/track/6fF4naENXsnyCaiHCctKCp"
     },
     {
       "added_at": "2023-01-09 06:14:28",
@@ -2735,34 +2735,22 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
-        "name": "Titico (Remix)",
-        "url": "https://open.spotify.com/album/59LPvB0dkyXYRrS6zUqmOq"
+        "name": "Primero Que Kanye",
+        "url": "https://open.spotify.com/album/6As2PZV5rjM9lszI3VSjy4"
       },
       "artists": [
-        {
-          "name": "Migueltom",
-          "url": "https://open.spotify.com/artist/3DF9AdPGgujc9E4mjT4UDa"
-        },
         {
           "name": "Mozart La Para",
           "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
         },
         {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Elver Sanchez",
-          "url": "https://open.spotify.com/artist/0oQ54lVpLdVXZXoKGgLo8X"
-        },
-        {
-          "name": "Haraca Kiko",
-          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+          "name": "Light GM",
+          "url": "https://open.spotify.com/artist/3rSw7umKFLoUIP95mKQG5f"
         }
       ],
-      "duration_ms": 228384,
-      "name": "Titico (Remix)",
-      "url": "https://open.spotify.com/track/0zsdVwIC81HJPaMPT4Dma9"
+      "duration_ms": 192313,
+      "name": "Primero Que Kanye",
+      "url": "https://open.spotify.com/track/6qEOJy5NL5tGGYxpj7dQZY"
     },
     {
       "added_at": "2023-01-09 06:14:28",
@@ -2803,26 +2791,6 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
-        "name": "Primero Que Kanye",
-        "url": "https://open.spotify.com/album/6As2PZV5rjM9lszI3VSjy4"
-      },
-      "artists": [
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
-        },
-        {
-          "name": "Light GM",
-          "url": "https://open.spotify.com/artist/3rSw7umKFLoUIP95mKQG5f"
-        }
-      ],
-      "duration_ms": 192313,
-      "name": "Primero Que Kanye",
-      "url": "https://open.spotify.com/track/6qEOJy5NL5tGGYxpj7dQZY"
-    },
-    {
-      "added_at": "2023-01-09 06:14:28",
-      "album": {
         "name": "La Libreta",
         "url": "https://open.spotify.com/album/1MZOBdiRgaQ7TvuGUzwzIN"
       },
@@ -2839,6 +2807,38 @@
       "duration_ms": 225764,
       "name": "Dinero Facil - Remix",
       "url": "https://open.spotify.com/track/4xXjYrDjpWREjH2JqRU8W9"
+    },
+    {
+      "added_at": "2023-01-09 06:14:28",
+      "album": {
+        "name": "Titico (Remix)",
+        "url": "https://open.spotify.com/album/59LPvB0dkyXYRrS6zUqmOq"
+      },
+      "artists": [
+        {
+          "name": "Migueltom",
+          "url": "https://open.spotify.com/artist/3DF9AdPGgujc9E4mjT4UDa"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Elver Sanchez",
+          "url": "https://open.spotify.com/artist/0oQ54lVpLdVXZXoKGgLo8X"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        }
+      ],
+      "duration_ms": 228384,
+      "name": "Titico (Remix)",
+      "url": "https://open.spotify.com/track/0zsdVwIC81HJPaMPT4Dma9"
     },
     {
       "added_at": "2023-01-09 06:14:28",
@@ -2863,6 +2863,22 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
+        "name": "Edici\u00f3n de Lujo",
+        "url": "https://open.spotify.com/album/3oeqfFFV0X5K7ObhiTzqry"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Escuela",
+          "url": "https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN"
+        }
+      ],
+      "duration_ms": 165433,
+      "name": "Durisimo",
+      "url": "https://open.spotify.com/track/2qm47srciNsrYrA0SFG3gD"
+    },
+    {
+      "added_at": "2023-01-09 06:14:28",
+      "album": {
         "name": "La Risa Mas Sicaria the Mix Tape",
         "url": "https://open.spotify.com/album/4og3Hp2KDzeYdsthLQ0mM0"
       },
@@ -2883,18 +2899,26 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
-        "name": "Edici\u00f3n de Lujo",
-        "url": "https://open.spotify.com/album/3oeqfFFV0X5K7ObhiTzqry"
+        "name": "Ando en 30",
+        "url": "https://open.spotify.com/album/0kaO1SK6vJmRhLh11W2d6D"
       },
       "artists": [
         {
-          "name": "La Nueva Escuela",
-          "url": "https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN"
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        },
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
         }
       ],
-      "duration_ms": 165433,
-      "name": "Durisimo",
-      "url": "https://open.spotify.com/track/2qm47srciNsrYrA0SFG3gD"
+      "duration_ms": 180000,
+      "name": "Ando en 30",
+      "url": "https://open.spotify.com/track/26MGlZKXyaJ5ElE5wn7ZDW"
     },
     {
       "added_at": "2023-01-09 06:14:28",
@@ -2927,30 +2951,6 @@
       "duration_ms": 151847,
       "name": "Un Tumbao",
       "url": "https://open.spotify.com/track/2kZrvewTmL8XAxvoMxvSQj"
-    },
-    {
-      "added_at": "2023-01-09 06:14:28",
-      "album": {
-        "name": "Ando en 30",
-        "url": "https://open.spotify.com/album/0kaO1SK6vJmRhLh11W2d6D"
-      },
-      "artists": [
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        },
-        {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ando en 30",
-      "url": "https://open.spotify.com/track/26MGlZKXyaJ5ElE5wn7ZDW"
     },
     {
       "added_at": "2023-01-09 06:14:28",
@@ -3011,6 +3011,22 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/6Q600rdy08nCJuabWw7qeR"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        }
+      ],
+      "duration_ms": 195492,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G"
+    },
+    {
+      "added_at": "2023-01-09 06:14:28",
+      "album": {
         "name": "Llevo la Vainita",
         "url": "https://open.spotify.com/album/77uDtYXYbHgxQWvT7YCKAX"
       },
@@ -3027,18 +3043,18 @@
     {
       "added_at": "2023-01-09 06:14:28",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/6Q600rdy08nCJuabWw7qeR"
+        "name": "Vaina Bakana",
+        "url": "https://open.spotify.com/album/63VzRHrUrmftA2NbRrgzk8"
       },
       "artists": [
         {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
         }
       ],
-      "duration_ms": 195492,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G"
+      "duration_ms": 197217,
+      "name": "Vaina Bakana",
+      "url": "https://open.spotify.com/track/6zv9M2zIHPSXOLOJsAPW0U"
     },
     {
       "added_at": "2023-01-09 06:14:28",
@@ -3059,22 +3075,6 @@
       "duration_ms": 289201,
       "name": "Como Lo Capo",
       "url": "https://open.spotify.com/track/7f3QVHV8UEwbL2duHAcDGo"
-    },
-    {
-      "added_at": "2023-01-09 06:14:28",
-      "album": {
-        "name": "Vaina Bakana",
-        "url": "https://open.spotify.com/album/63VzRHrUrmftA2NbRrgzk8"
-      },
-      "artists": [
-        {
-          "name": "Elilluminari",
-          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
-        }
-      ],
-      "duration_ms": 197217,
-      "name": "Vaina Bakana",
-      "url": "https://open.spotify.com/track/6zv9M2zIHPSXOLOJsAPW0U"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 106078,
+  "num_followers": 106110,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDVkMmU5NjhiOWE5MmI4MGJjMTBiNDA2ZGQxOGVlMWZj",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDc2OTI4ODExYWQ1ZGZiMTM4ZDA5ZGNkYTE3ZWVkYmUz",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 201557,
-      "name": "Tu trembleras encore",
-      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
+      "duration_ms": 194026,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ"
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
         }
       ],
-      "duration_ms": 194026,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6"
+      "duration_ms": 201557,
+      "name": "Tu trembleras encore",
+      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Les artifices",
-        "url": "https://open.spotify.com/album/7BvlJsXbXMIxoA9EEJr6cq"
-      },
-      "artists": [
-        {
-          "name": "Marilou",
-          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Les artifices",
-      "url": "https://open.spotify.com/track/0ElBgVzjnmsUHx7FwiwPZe"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Fables (The Garden Version)",
         "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 176536,
       "name": "Fables - The Garden Version",
       "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Les artifices",
+        "url": "https://open.spotify.com/album/7BvlJsXbXMIxoA9EEJr6cq"
+      },
+      "artists": [
+        {
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Les artifices",
+      "url": "https://open.spotify.com/track/0ElBgVzjnmsUHx7FwiwPZe"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 263720,
+      "name": "As My Old Man Always Said",
+      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Dans la for\u00eat num\u00e9rique",
         "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
       "artists": [
         {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
         }
       ],
-      "duration_ms": 263720,
-      "name": "As My Old Man Always Said",
-      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
+      "duration_ms": 200706,
+      "name": "Passe ton chemin",
+      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -839,22 +855,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
-      },
-      "artists": [
-        {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Passe ton chemin",
-      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Et on pleurera ensemble",
         "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Life As It Comes",
-        "url": "https://open.spotify.com/album/61XUeiskAi1ANHGLGBmz4I"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Life As It Comes",
-      "url": "https://open.spotify.com/track/4t8LId4jMs76b41wETklvD"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "La vraie nature - Chansons par Pilou",
         "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 231360,
       "name": "Passagers",
       "url": "https://open.spotify.com/track/41apzFxQ6xPFWMsut29O1J"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Life As It Comes",
+        "url": "https://open.spotify.com/album/61XUeiskAi1ANHGLGBmz4I"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Life As It Comes",
+      "url": "https://open.spotify.com/track/4t8LId4jMs76b41wETklvD"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -987,38 +987,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "New Waves (Live Recordings \u201919-\u201921)",
-        "url": "https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 430506,
-      "name": "Transatlantic Flight - Live at Roy Thomson Hall",
-      "url": "https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "No Water, No Flowers",
-        "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
-      },
-      "artists": [
-        {
-          "name": "Genevi\u00e8ve Racette",
-          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
-        }
-      ],
-      "duration_ms": 195235,
-      "name": "Sans Toi",
-      "url": "https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "The Ballad of the Runaway Girl",
         "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
@@ -1035,6 +1003,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "New Waves (Live Recordings \u201919-\u201921)",
+        "url": "https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 430506,
+      "name": "Transatlantic Flight - Live at Roy Thomson Hall",
+      "url": "https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Cold World",
         "url": "https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 224520,
       "name": "Cold World",
       "url": "https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "No Water, No Flowers",
+        "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Racette",
+          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
+        }
+      ],
+      "duration_ms": 195235,
+      "name": "Sans Toi",
+      "url": "https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "La hi\u00e9rarchill",
         "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 217560,
       "name": "1, 2, 3, 4",
       "url": "https://open.spotify.com/track/4vJGPuwAEtR9xmRZHdWOqm"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "L'heure mauve",
-        "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
       },
       "artists": [
         {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 203666,
-      "name": "Les fleurs d\u2019une autre dimension",
-      "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "L'heure mauve",
+        "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Les fleurs d\u2019une autre dimension",
+      "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp"
       },
@@ -1263,38 +1279,6 @@
       "duration_ms": 208698,
       "name": "On br\u00fblera - Spotify Singles",
       "url": "https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "The Paradise Club",
-        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
-      },
-      "artists": [
-        {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "1000 Bornes",
-      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1315,6 +1299,22 @@
       "duration_ms": 223733,
       "name": "Post Mortem",
       "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "The Paradise Club",
+        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "1000 Bornes",
+      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "1000 Times",
-        "url": "https://open.spotify.com/album/1uxoj9PkFEBpxrdZay2b9s"
-      },
-      "artists": [
-        {
-          "name": "Met\u00f2",
-          "url": "https://open.spotify.com/artist/4wp0ECrVP1QOBZNo9JxMY2"
-        }
-      ],
-      "duration_ms": 237561,
-      "name": "1000 Times",
-      "url": "https://open.spotify.com/track/6VhrEDlP5O5zFTrvA7KoXh"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Ceci est une esp\u00e8ce aim\u00e9e",
         "url": "https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 299320,
       "name": "Morceaux",
       "url": "https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "1000 Times",
+        "url": "https://open.spotify.com/album/1uxoj9PkFEBpxrdZay2b9s"
+      },
+      "artists": [
+        {
+          "name": "Met\u00f2",
+          "url": "https://open.spotify.com/artist/4wp0ECrVP1QOBZNo9JxMY2"
+        }
+      ],
+      "duration_ms": 237561,
+      "name": "1000 Times",
+      "url": "https://open.spotify.com/track/6VhrEDlP5O5zFTrvA7KoXh"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "L\u00e9g\u00e8rement",
-        "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
+        "name": "Espoir",
+        "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
       },
       "artists": [
         {
-          "name": "Rosier",
-          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
         }
       ],
-      "duration_ms": 207338,
-      "name": "Insensible",
-      "url": "https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8"
+      "duration_ms": 210177,
+      "name": "Espoir",
+      "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "L\u00e9g\u00e8rement",
+        "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
+      },
+      "artists": [
+        {
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+        }
+      ],
+      "duration_ms": 207338,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Ce que je te donne ne dispara\u00eet pas",
         "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
       },
@@ -1459,54 +1475,6 @@
       "duration_ms": 226586,
       "name": "Des histoires qui ne seront jamais finies",
       "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Espoir",
-        "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
-      },
-      "artists": [
-        {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
-        }
-      ],
-      "duration_ms": 210177,
-      "name": "Espoir",
-      "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "SESSION LIVE H2T",
-        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 211002,
-      "name": "Beaut\u00e9 baroque - Session live H2T",
-      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
-      },
-      "artists": [
-        {
-          "name": "Clerel",
-          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
-        }
-      ],
-      "duration_ms": 200005,
-      "name": "Le Tour",
-      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1527,6 +1495,38 @@
       "duration_ms": 187893,
       "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
       "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "duration_ms": 200005,
+      "name": "Le Tour",
+      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "SESSION LIVE H2T",
+        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 211002,
+      "name": "Beaut\u00e9 baroque - Session live H2T",
+      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "J'esp\u00e8re",
-        "url": "https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9lix Dyotte",
-          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
-        }
-      ],
-      "duration_ms": 150453,
-      "name": "J'esp\u00e8re",
-      "url": "https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Prendre soin du beau",
         "url": "https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 195030,
       "name": "Prendre soin du beau",
       "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "J'esp\u00e8re",
+        "url": "https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        }
+      ],
+      "duration_ms": 150453,
+      "name": "J'esp\u00e8re",
+      "url": "https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO"
     },
     {
       "added_at": "2023-02-17 05:00:00",

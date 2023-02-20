@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-313 songs - 18 hr 3 min
+314 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Bolerito Sad](https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM) | 3:01 | 2021-12-09 |  |
 | [Bonita](https://open.spotify.com/track/0z7fUfcWFmetVMweOqRJB5) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:14 | 2021-12-09 |  |
 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 | 2022-04-07 | 2022-09-22 |
+| [Buenos Días](https://open.spotify.com/track/2HRDwWeIJjiwDoNrVljHTA) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Buenos Días](https://open.spotify.com/album/7i8zauWILQTXiwfYUSkJXZ) | 3:43 | 2023-02-10 |  |
 | [Bésame](https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [A Color](https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X) | 2:50 | 2023-02-10 |  |
 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 | 2022-04-07 | 2022-10-28 |
 | [Bésame mucho](https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame mucho](https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW) | 4:04 | 2022-09-21 |  |
@@ -189,7 +190,7 @@
 | [Miénteme](https://open.spotify.com/track/1kWjEyML20EpP7yjw5cfA5) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg) | 2:32 | 2022-05-14 | 2022-10-28 |
 | [Miénteme](https://open.spotify.com/track/6YhRYUfDBEI4xWHFNr2mpI) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/5vM9AoEkijaGb0h9RcUIv3) | 2:32 | 2021-12-09 | 2022-07-03 |
 | [Mojo](https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Mojo](https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy) | 3:26 | 2021-12-09 |  |
-| [Morocha](https://open.spotify.com/track/26qMesSTMPFXkkiTwcN0FC) | [Bautista Esandi](https://open.spotify.com/artist/4izhjDz0ZcXxJ7QaUxoopy) | [Morocha](https://open.spotify.com/album/5Wnk1YttMAJftBy9e1AKv2) | 2:58 | 2021-12-09 |  |
+| [Morocha](https://open.spotify.com/track/26qMesSTMPFXkkiTwcN0FC) | [Bautista Esandi](https://open.spotify.com/artist/4izhjDz0ZcXxJ7QaUxoopy) | [Morocha](https://open.spotify.com/album/5Wnk1YttMAJftBy9e1AKv2) | 2:58 | 2021-12-09 | 2023-02-20 |
 | [Motor Psico](https://open.spotify.com/track/2uwT02C1hcLamwIUPSyE1K) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Motor Psico](https://open.spotify.com/album/0LgyAgeRdl9XdGnYXHzJGX) | 4:56 | 2022-05-14 | 2022-10-26 |
 | [Motor Psico](https://open.spotify.com/track/65JemFi7O8Tfj35WJitEa8) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Motor Psico](https://open.spotify.com/album/1I1MvAZ4cnGo7XHLqPtIm3) | 4:56 | 2022-04-07 | 2022-04-20 |
 | [Mozo](https://open.spotify.com/track/1wPwN9thOsYSVSAonW1W6i) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Mariposa Azul](https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU) | 3:49 | 2021-12-09 |  |

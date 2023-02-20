@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 49672,
+  "num_followers": 49723,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDQzZTc2OGUxMTI5MmRjZWRhNjc4NjRhODcyZTBhZWZk",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMGNmZmIxNjE3MmFmZmRkMDg0ODU4MjExM2YxM2M4YTNl",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -735,18 +735,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Chutes Too Narrow",
-        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
+        "name": "Distance and Time",
+        "url": "https://open.spotify.com/album/4v8f9LoKgrLVHPlM0oe4Br"
       },
       "artists": [
         {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
         }
       ],
-      "duration_ms": 168533,
-      "name": "So Says I",
-      "url": "https://open.spotify.com/track/6WBNQSfB047hAZ7tusGhqB"
+      "duration_ms": 272440,
+      "name": "This Is The Thing",
+      "url": "https://open.spotify.com/track/4brqHrnr9ym8db3o5n70Qg"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Distance and Time",
-        "url": "https://open.spotify.com/album/4v8f9LoKgrLVHPlM0oe4Br"
+        "name": "Chutes Too Narrow",
+        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
       },
       "artists": [
         {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
         }
       ],
-      "duration_ms": 272440,
-      "name": "This Is The Thing",
-      "url": "https://open.spotify.com/track/4brqHrnr9ym8db3o5n70Qg"
+      "duration_ms": 168533,
+      "name": "So Says I",
+      "url": "https://open.spotify.com/track/6WBNQSfB047hAZ7tusGhqB"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Chutes Too Narrow",
+        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 193546,
+      "name": "Gone for Good",
+      "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "A Larum",
         "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 258426,
       "name": "Our Way to Fall",
       "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Chutes Too Narrow",
-        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "Gone for Good",
-      "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Upper Air",
-        "url": "https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ"
-      },
-      "artists": [
-        {
-          "name": "Bowerbirds",
-          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Northern Lights",
-      "url": "https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Picaresque",
         "url": "https://open.spotify.com/album/1ofGOFzgt22AGMi9yQIOMq"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 184280,
       "name": "We Both Go Down Together",
       "url": "https://open.spotify.com/track/0U7XzVIAzoavQQ7DS94KYp"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Upper Air",
+        "url": "https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ"
+      },
+      "artists": [
+        {
+          "name": "Bowerbirds",
+          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Destroyer's Rubies",
-        "url": "https://open.spotify.com/album/1VTq7Bn60Qic2E9nMhZ0Ii"
+        "name": "Tight Knit",
+        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
       },
       "artists": [
         {
-          "name": "Destroyer",
-          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
         }
       ],
-      "duration_ms": 250013,
-      "name": "Painter in Your Pocket",
-      "url": "https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes"
+      "duration_ms": 268360,
+      "name": "Strictly Rule",
+      "url": "https://open.spotify.com/track/2NftpgOvfV2YCH1lrRP5p8"
     }
   ],
   "unique_name": "00s Indie Folk",

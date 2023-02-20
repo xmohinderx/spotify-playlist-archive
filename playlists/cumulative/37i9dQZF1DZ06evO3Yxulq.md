@@ -4,7 +4,7 @@
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-67 songs - 6 hr 38 min
+68 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [Hasta poder ver](https://open.spotify.com/track/3MH2bwGyeqHBAefP8UDj6x) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta poder ver](https://open.spotify.com/album/5g5Vcw8n4yjZHNhFIruR9J) | 5:09 | 2022-09-14 |  |
 | [Incomparable Dios](https://open.spotify.com/track/5RtBlXN184A8ipdyDzpLU4) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 5:48 | 2022-09-14 |  |
 | [Incontrolable Amor](https://open.spotify.com/track/3RmjJnvvUxSFor3G5x5yca) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 5:39 | 2022-09-14 |  |
+| [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 | 2023-02-19 |  |
 | [La Sangre De Jesús](https://open.spotify.com/track/5KL0GnwVVojqz8pVkKmPe9) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 6:33 | 2022-09-18 | 2022-10-02 |
-| [Living Breath Of Heaven](https://open.spotify.com/track/6HKUnmCnpjG2ql1FSuv2Of) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [All That Remains](https://open.spotify.com/album/2CXuD2PLxaz2WrhtOHKyEk) | 5:46 | 2022-09-14 |  |
+| [Living Breath Of Heaven](https://open.spotify.com/track/6HKUnmCnpjG2ql1FSuv2Of) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [All That Remains](https://open.spotify.com/album/2CXuD2PLxaz2WrhtOHKyEk) | 5:46 | 2022-09-14 | 2023-02-20 |
 | [Loco Amor \(Spanish Version\)](https://open.spotify.com/track/4ycyCxaQyVOA0hOELiU8wf) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/0fdRBSdw56pU3F5F3TJORK) | 5:03 | 2022-09-14 |  |
 | [Lugar Secreto \- Español](https://open.spotify.com/track/2ZtyevyY9zXjSICcCfBdM2) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Lugar Secreto \(Español\)](https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV) | 5:34 | 2022-09-14 |  |
 | [Magnifico](https://open.spotify.com/track/4TttGy09a1Cd8eeA8w57fQ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 5:08 | 2022-09-14 |  |

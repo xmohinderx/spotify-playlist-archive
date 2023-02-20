@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,144 likes - 79 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,674 likes - 79 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

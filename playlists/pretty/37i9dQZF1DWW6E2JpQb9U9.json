@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: La Beriso",
-  "num_followers": 95925,
+  "num_followers": 95961,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDM4MDQyNDcwNjRmYzk2ZTNlNTQ3OTA5MjU3Yzg3YjVk",
+  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMGIwYjkxMjc4ODcwZDQxYzU5NTAxZTBjMzNiODlmODM2",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 186456,
-      "name": "Mil Horas - En Vivo",
-      "url": "https://open.spotify.com/track/0hgyNtZGfzFHuz5UMt4xnG"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "22/12/18 Flores (En Vivo)",
         "url": "https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 250538,
       "name": "Ay, Qu\u00e9 Dios Boludo",
       "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 186456,
+      "name": "Mil Horas - En Vivo",
+      "url": "https://open.spotify.com/track/0hgyNtZGfzFHuz5UMt4xnG"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+        "name": "El Rock De Mi Vida",
+        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
       },
       "artists": [
         {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         }
       ],
-      "duration_ms": 288560,
-      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
+      "duration_ms": 263573,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "El Rock De Mi Vida",
-        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
         }
       ],
-      "duration_ms": 263573,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
+      "duration_ms": 288560,
+      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 221658,
+      "name": "Todos Lo Hacen (En Vivo)",
+      "url": "https://open.spotify.com/track/0bx6LuqWIn8n0WhxS54izM"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Cactus (En Vivo en Monterrey)",
         "url": "https://open.spotify.com/album/1i2P3wRgVKHdHfnDDpxlFX"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 263373,
       "name": "Pronta Entrega - En Vivo",
       "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 221658,
-      "name": "Todos Lo Hacen (En Vivo)",
-      "url": "https://open.spotify.com/track/0bx6LuqWIn8n0WhxS54izM"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Luces (En Vivo Luna Park 2006)",
-        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
-      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
         "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 276186,
       "name": "Sasha, Sissi Y El C\u00edrculo De Baba - En Vivo",
       "url": "https://open.spotify.com/track/4cbfHPIwApaXNgfQPaUzbK"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Luces (En Vivo Luna Park 2006)",
+        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
+      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Foro Sol - 17 Nov 2017 (En Vivo)",
-        "url": "https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht"
+        "name": "Vivo Cosqu\u00edn Rock",
+        "url": "https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Rolo Sartorio",
-          "url": "https://open.spotify.com/artist/04qwrwU0fxN1TJ1hbfR5cv"
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
         }
       ],
-      "duration_ms": 163170,
-      "name": "Ya Me da Igual - En Vivo en el Foro Sol",
-      "url": "https://open.spotify.com/track/3tZcIjUEe7HiF2IFYYMjAi"
+      "duration_ms": 178877,
+      "name": "Ella Es Como un \u00c1ngel - En Vivo Cosqu\u00edn Rock",
+      "url": "https://open.spotify.com/track/1ZwRW2fBF8MwLhopiNeYcJ"
     }
   ],
   "unique_name": "Vivo de Rock",

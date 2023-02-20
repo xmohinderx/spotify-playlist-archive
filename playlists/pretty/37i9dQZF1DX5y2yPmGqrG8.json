@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 303090,
+  "num_followers": 303169,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjUwNjQ5OSwwMDAwMDAwMGI3OWQwYWNlOWVkYWUyMTE0MDIxMmY4MDAwYmVlMjk0",
+  "snapshot_id": "MTY3NjUwNjQ5OSwwMDAwMDAwMGI3NGNlYTA5ZmEyN2U3NDEwMjk0ZjE5YjNmNGM4ODli",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
     },
     {
-      "added_at": "2023-02-19 06:51:07",
+      "added_at": "2023-02-20 00:59:26",
       "album": {
         "name": "You Do It",
         "url": "https://open.spotify.com/album/6zNAaDDagFo0xL1BhJFTMZ"
@@ -229,24 +229,20 @@
       "url": "https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG"
     },
     {
-      "added_at": "2022-10-14 04:40:55",
+      "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "I Could Be Your Dog / I Could Be Your Moon",
-        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
       "artists": [
         {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 80427,
-      "name": "Brush",
-      "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
+      "duration_ms": 255333,
+      "name": "#20",
+      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
     },
     {
       "added_at": "2023-02-14 16:06:07",
@@ -265,20 +261,24 @@
       "url": "https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
+      "added_at": "2022-10-14 04:40:55",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
         }
       ],
-      "duration_ms": 255333,
-      "name": "#20",
-      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
+      "duration_ms": 80427,
+      "name": "Brush",
+      "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
     },
     {
       "added_at": "2022-10-14 04:40:55",
@@ -751,6 +751,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Pipopapipo",
+        "url": "https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP"
+      },
+      "artists": [
+        {
+          "name": "Dewey Martino",
+          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Pipopapipo",
+      "url": "https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Pipopapipo",
-        "url": "https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP"
-      },
-      "artists": [
-        {
-          "name": "Dewey Martino",
-          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Pipopapipo",
-      "url": "https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Life Of",
         "url": "https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC"
       },
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64"
     },
     {
-      "added_at": "2022-10-14 04:40:55",
+      "added_at": "2022-08-03 03:05:22",
       "album": {
-        "name": "REMNANT",
-        "url": "https://open.spotify.com/album/2GYaqE9jZ1IFdWYiFlQNQV"
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
       },
       "artists": [
         {
-          "name": "Lorn",
-          "url": "https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 233274,
-      "name": "SILHOUETTE",
-      "url": "https://open.spotify.com/track/4iNljnJPDFYXyaLVpr7tbe"
+      "duration_ms": 1111999,
+      "name": "Lemon Day",
+      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
     }
   ],
   "unique_name": "Deep Listening",

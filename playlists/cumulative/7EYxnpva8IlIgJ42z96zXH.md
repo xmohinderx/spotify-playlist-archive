@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-597 songs - 1 day 7 hr 43 min
+598 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 | 2022-06-09 | 2022-09-17 |
 | [Bossin'](https://open.spotify.com/track/5SAPd066YNFApqsIYveQIS) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Bossin'](https://open.spotify.com/album/0wLW3xr8vF7nqW3p9Ebo01) | 2:15 | 2022-08-26 | 2023-02-11 |
 | [Bossin' \(Shake Daddy Remix\)](https://open.spotify.com/track/1waM1OEKXjNnrdsuZTVIdg) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp), [Shake Daddy](https://open.spotify.com/artist/0FJHBL4Pu8l6ND4yZNSUQc) | [Bossin' \(Shake Daddy Remix\)](https://open.spotify.com/album/1mcjHbIbwWEoPyuTe7HJjp) | 4:16 | 2022-11-04 | 2022-12-16 |
-| [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-03 |  |
+| [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-03 | 2023-02-20 |
 | [Brand New](https://open.spotify.com/track/5WLOrfMyifyQZjPYWwQvyC) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh) | [Brand New](https://open.spotify.com/album/0gD0zXZ4JVmrz4Nctw1AbM) | 3:52 | 2022-05-13 | 2022-06-03 |
 | [Break My Heart](https://open.spotify.com/track/1PGirMzvw36N1ftzTKprpr) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Break My Heart](https://open.spotify.com/album/60I1UREM36C6JxSVPJT1nz) | 2:59 | 2022-11-11 | 2023-02-11 |
 | [Break My Heart \(feat\. 12AM\)](https://open.spotify.com/track/0EkouFSEqhyC1s1kMChL9E) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Wishes Vol\. 2](https://open.spotify.com/album/1AXVE2HGe1XA1Cl5T9nXmk) | 2:34 | 2021-10-16 | 2021-12-10 |
@@ -251,6 +251,7 @@
 | [I Don't Want You](https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [I Don't Want You](https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2) | 3:10 | 2021-09-04 | 2022-06-25 |
 | [I Got You](https://open.spotify.com/track/5DF2KFDVeC7wF5CXipl9WN) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [I Got You](https://open.spotify.com/album/0FETAhMXmt1mnN0sQTzRfX) | 3:30 | 2020-11-03\* | 2021-06-04 |
 | [I Love U](https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 3:05 | 2022-05-13 | 2022-06-10 |
+| [I Make That](https://open.spotify.com/track/4hq8YQD7qzQ5NQTNIa4wHW) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD) | [I Make That](https://open.spotify.com/album/5oQQFUCnpWb1O54xl6DujB) | 2:31 | 2023-02-19 |  |
 | [i miss u \(with Au/Ra\)](https://open.spotify.com/track/4h6TTBlzsv57BGlMybVNCL) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [i miss u \(with Au/Ra\)](https://open.spotify.com/album/64b6zt7clCjQQ6gyEFnM5n) | 2:52 | 2020-11-03\* | 2021-06-19 |
 | [i miss u \(with Au/Ra\)](https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [i miss u \(with Au/Ra\)](https://open.spotify.com/album/4l2tR6CnN9Fn05aTYMb7S5) | 2:52 | 2021-01-08 | 2021-01-15 |
 | [I Miss You](https://open.spotify.com/track/4UBzvng7QEPDuvs44L2xx9) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr) | [I Miss You](https://open.spotify.com/album/3GhUkoHUs2092SWtfKQdKh) | 3:11 | 2022-03-10 | 2022-04-29 |

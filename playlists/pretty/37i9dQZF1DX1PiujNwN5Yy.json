@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para uno de esos d\u00edas.",
-  "num_followers": 103376,
+  "num_followers": 103402,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ3ODA3MSwwMDAwMDAwMDMwNjhlODQ2MTg1MDU5MjYzOTg3OTE4NDMxY2UwZDJj",
+  "snapshot_id": "MTY3NjQ3ODA3MSwwMDAwMDAwMDAyMTJkZjMxY2MzZDA0MzY5ZWU1YWM1MTAxYTNhMDIz",
   "tracks": [
     {
       "added_at": "2023-01-23 17:49:24",
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     },
     {
-      "added_at": "2023-02-19 06:10:55",
+      "added_at": "2023-02-20 01:11:49",
       "album": {
         "name": "viernes 13 ii",
         "url": "https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu"
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 204181,
+      "name": "Dieznoches",
+      "url": "https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
         "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "Tal Vez",
-        "url": "https://open.spotify.com/album/7pdEfZI6mGWqdwJCxzP0YB"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 159480,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/2roQw5McQNlTzAu2dGGL14"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
         "name": "Es Que Yo Te Quiero A Ti",
         "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
       },
@@ -379,34 +379,18 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "ENTROP\u00cdA",
-        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/7pdEfZI6mGWqdwJCxzP0YB"
       },
       "artists": [
         {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 204181,
-      "name": "Dieznoches",
-      "url": "https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
-        "name": "Guantanamera",
-        "url": "https://open.spotify.com/album/1yA5EcTrAtZqJPDrmNbEhm"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 190762,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/5QAya5bSSiKlh1h4qeeq38"
+      "duration_ms": 159480,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/2roQw5McQNlTzAu2dGGL14"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -423,6 +407,22 @@
       "duration_ms": 168125,
       "name": "So\u00f1ar Contigo",
       "url": "https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
+        "name": "Guantanamera",
+        "url": "https://open.spotify.com/album/1yA5EcTrAtZqJPDrmNbEhm"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 190762,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/5QAya5bSSiKlh1h4qeeq38"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "01 - EP",
-        "url": "https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 209542,
-      "name": "Paciencia",
-      "url": "https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
         "name": "Roto",
         "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 165760,
       "name": "Roto",
       "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
+        "name": "01 - EP",
+        "url": "https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "duration_ms": 209542,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1289,7 +1289,7 @@
       "url": "https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3"
     },
     {
-      "added_at": "2023-02-19 06:10:55",
+      "added_at": "2023-02-20 01:11:49",
       "album": {
         "name": "Mi Complejo",
         "url": "https://open.spotify.com/album/30mKRWa5yK5kg8lx2MeNSC"
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "NADA ES SEGURO",
-        "url": "https://open.spotify.com/album/0ARWP2duNEOvDQdJzsI76R"
+        "name": "cuatro veces 10",
+        "url": "https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1"
       },
       "artists": [
         {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 204000,
-      "name": "NADA ES SEGURO",
-      "url": "https://open.spotify.com/track/6cVQ48CDvEtjE6iYS579as"
+      "duration_ms": 178000,
+      "name": "desamarte",
+      "url": "https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1423,18 +1419,22 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "cuatro veces 10",
-        "url": "https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1"
+        "name": "NADA ES SEGURO",
+        "url": "https://open.spotify.com/album/0ARWP2duNEOvDQdJzsI76R"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 178000,
-      "name": "desamarte",
-      "url": "https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK"
+      "duration_ms": 204000,
+      "name": "NADA ES SEGURO",
+      "url": "https://open.spotify.com/track/6cVQ48CDvEtjE6iYS579as"
     },
     {
       "added_at": "2023-01-23 17:49:24",

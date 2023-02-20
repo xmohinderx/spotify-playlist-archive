@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,623 likes - 95 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,697 likes - 95 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 83 | [Inner Calmness](https://open.spotify.com/track/2TFig1plWWZlWuDSM639SK) | [Indian Music Prime](https://open.spotify.com/artist/63GuvIS5DZF57t28VmMiR2) | [Relaxation and Meditation in Bollywood](https://open.spotify.com/album/3WHIiM2LNNdUsrY7mLyknm) | 6:46 |
 | 84 | [A Peaceful Music](https://open.spotify.com/track/2kLEJnmA1rYMHyhClUL1jE) | [Relaxing Mindfulness Meditation Relaxation Maestro](https://open.spotify.com/artist/1rpfZOYHHEVUgvQ7D575F9) | [Relaxation \- Ambient Music, Relaxing Sounds of Nature for Soothing Mindfulness Meditation](https://open.spotify.com/album/4ez05ASxVwqPm5O0xkcEFv) | 5:17 |
 | 85 | [Singing Wire](https://open.spotify.com/track/5iyaBre6AhiW8lia2oOols) | [Yoga Music](https://open.spotify.com/artist/6ppQ1vjjme5Jtz2ceBFcWY) | [\#Sereneyogaselection](https://open.spotify.com/album/4eeFNXX0zjGWU5c5edlzPw) | 6:58 |
-| 86 | [Relaxation Music](https://open.spotify.com/track/5idm6KAMf3ikeOaGSqMklt) | [Qi Gong Academy](https://open.spotify.com/artist/1rLdpcWvRjd4ug9jcPU0vN) | [Jardin Zen \- Musique Asiatique avec des Sons de la Nature](https://open.spotify.com/album/0BDyiYJ5bgQZgyhyGYfGGM) | 5:22 |
-| 87 | [A River Flowing](https://open.spotify.com/track/42SZG3lV6JGK5ig1YUE3ms) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Samadhi](https://open.spotify.com/album/1ht80lB2Nbc3SjpKOSIi91) | 5:48 |
+| 86 | [A River Flowing](https://open.spotify.com/track/42SZG3lV6JGK5ig1YUE3ms) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Samadhi](https://open.spotify.com/album/1ht80lB2Nbc3SjpKOSIi91) | 5:48 |
+| 87 | [Relaxation Music](https://open.spotify.com/track/5idm6KAMf3ikeOaGSqMklt) | [Qi Gong Academy](https://open.spotify.com/artist/1rLdpcWvRjd4ug9jcPU0vN) | [Jardin Zen \- Musique Asiatique avec des Sons de la Nature](https://open.spotify.com/album/0BDyiYJ5bgQZgyhyGYfGGM) | 5:22 |
 | 88 | [Relaxing Native Flute](https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml) | [Natural Meditation Guru](https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN) | [Indian Music for Relaxation – Oriental Music, Music for Deep Meditation, Indian Flute, Native American Music, Sounds of Nature, Reiki Massage & Chakra Healing](https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW) | 3:41 |
 | 89 | [Arms Around Sleep](https://open.spotify.com/track/0cbBBMc7AFMG2MckHMlFWA) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [wake:sleep](https://open.spotify.com/album/3PgmnjkYbsQIIB5HJ3waWG) | 9:51 |
 | 90 | [Meditation & Sleep](https://open.spotify.com/track/4pJDWE7OGEfV9xVYFke2Uh) | [Relaxing Mindfulness Meditation Relaxation Maestro](https://open.spotify.com/artist/1rpfZOYHHEVUgvQ7D575F9) | [Meditation & Sleep \- Relaxation Sleeping Mindfulness Meditation Music, Relaxing Mind Music for Good Night, Sleeping and Dreaming](https://open.spotify.com/album/4dGGznVrt12Gg7kTwaMj0G) | 29:42 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 94 | [Breath Exercises for Deep Sleep](https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi) | [Natural Meditation Guru](https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN) | [Sleep Meditation – Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing](https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af) | 3:49 |
 | 95 | [Deep Meditation](https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0) | [Savasana](https://open.spotify.com/artist/071HcfBGJsWCrggabfaC5D) | [Mindfulness and Relaxation](https://open.spotify.com/album/2N2hHr7r3EYQ6UGxJtIHwU) | 2:09 |
 
-Snapshot ID: `MTY3NTg1NDI5NiwwMDAwMDAwMGY4YTAxMTFkZTBjYzlhYzhlMjc0NTk2ZGFjYTU3NTNl`
+Snapshot ID: `MTY3NTg1NDI5NiwwMDAwMDAwMDUzODhlNWI0NDEzMzdhMWE3NTI0MTllODI0MmFiOGE4`

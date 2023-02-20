@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 
 > The soundtrack of the Summer 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108 likes - 52 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 111 likes - 52 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 | 49 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 |
 | 50 | [Coco Song](https://open.spotify.com/track/5yrsBz5ofgvLXd9MUFdjTY) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Flamingoz](https://open.spotify.com/artist/4hwEhYAJJmsXyRkuhzQ0IL) | [Coco Song](https://open.spotify.com/album/3mHQChzmCdUaeMALpcs4fl) | 2:57 |
 | 51 | [On & On](https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [On & On](https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0) | 2:43 |
-| 52 | [Let Somebody Go \- Ofenbach Remix](https://open.spotify.com/track/1pDrM3rKlxA9fx3mShxzqx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Let Somebody Go \(Ofenbach Remix\)](https://open.spotify.com/album/7lbSZjlBsWuXtR3WqsdOSN) | 3:14 |
+| 52 | [Getting Better](https://open.spotify.com/track/0LfyrFWFTEvKuW4EOAT3fj) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:46 |
 
-Snapshot ID: `MTY3NTc2MzQzMiwwMDAwMDAwMGM5YmUyNDcwNDlmYWRiZGU5Y2Q0Y2YyMGIzYWIxMWQx`
+Snapshot ID: `MTY3NTc2MzQzMiwwMDAwMDAwMDU5Zjk3NWFlN2U4N2M0NmJhMTMyOGQ2YzI1YTNkNGY4`

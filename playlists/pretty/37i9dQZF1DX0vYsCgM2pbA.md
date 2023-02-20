@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,843 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,951 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 33 | [I Don't Wanna Leave](https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:29 |
 | 34 | [Why 1.3 \[2012 Export Wav\]](https://open.spotify.com/track/4K0dZGCi79U9TnZNkLJpkb) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 4:53 |
 | 35 | [The Last Goodbye \(feat\. Bettye LaVette\) \- Hayden James Remix](https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(Hayden James Remix\)](https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E) | 3:44 |
-| 36 | [Love Language](https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:18 |
+| 36 | [Sun Moon](https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [So Far to Go](https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc) | 2:34 |
 | 37 | [Where The Angels Go To Die](https://open.spotify.com/track/0zwJUJgcZrcdAKfATMYhcq) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 3:32 |
-| 38 | [Sun Moon](https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [So Far to Go](https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc) | 2:34 |
+| 38 | [Love Language](https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:18 |
 | 39 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 |
 | 40 | [Vigil](https://open.spotify.com/track/24KgQu8B7JCyoIcMeF1xan) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x) | [Vigil](https://open.spotify.com/album/4gOJ1TNUxWRxjtBOAMnI3M) | 4:35 |
 | 41 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 53 | [Disappear \(feat\. Hayley Trinca\) \[ShockOne Remix\]](https://open.spotify.com/track/7JdHEhOa7CXs8oEBnMtnjh) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Pooks](https://open.spotify.com/artist/4bK23BKvm2y1lYjenizdTN), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Hayley Trinca](https://open.spotify.com/artist/5l3jgJIgcCwcD0eG6wm0QH) | [Disappear \(feat\. Hayley Trinca\) \[ShockOne Remix\]](https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0) | 3:03 |
 | 54 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 |
 | 55 | [Always Got The Love](https://open.spotify.com/track/5WCvSTVdMrwwk50yGVHm1g) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Always Got The Love](https://open.spotify.com/album/7mV7NuKPXVlRXhE1BodCe1) | 3:27 |
-| 56 | [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 |
-| 57 | [We Don't Ever Stop](https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [We Don’t Ever Stop](https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV) | 2:40 |
+| 56 | [We Don't Ever Stop](https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [We Don’t Ever Stop](https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV) | 2:40 |
+| 57 | [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 |
 | 58 | [Empty Promise](https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 3:51 |
 | 59 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 |
 | 60 | [Feel It Too](https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz) | 4:53 |
 
-Snapshot ID: `MTY3NTk0NzYwMCwwMDAwMDAwMGEyZTRhMzBjZTQxNWNiOGM4OTQ4ZDdmY2UzZjU5NDI0`
+Snapshot ID: `MTY3NTk0NzYwMCwwMDAwMDAwMGQwYTBmNzc0YWViZWRjOTMzNDBhZmVmMzk0N2Y0N2M2`

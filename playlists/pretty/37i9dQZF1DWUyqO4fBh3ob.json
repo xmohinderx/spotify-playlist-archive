@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Syria.",
-  "num_followers": 40414,
+  "num_followers": 40452,
   "original_name": "Syria Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODI4Mzc4MywwMDAwMDAwMDdmMjcwOTdiMGMxY2M2MGE2ZWQ0MmFiMzE5YjIzMjM5",
+  "snapshot_id": "MTY2ODI4Mzc4MywwMDAwMDAwMDQ2MjM5Y2FiNGEzZDU1MzU3Y2JkNmZkN2MxYzllMWUy",
   "tracks": [
     {
       "added_at": "2022-11-12 20:09:43",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
-        "name": "Mktifi Bhali",
-        "url": "https://open.spotify.com/album/1FeVZ4GMogl4q7NUvZZOVQ"
-      },
-      "artists": [
-        {
-          "name": "Taim Saleh",
-          "url": "https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2"
-        }
-      ],
-      "duration_ms": 257661,
-      "name": "Mktifi Bhali",
-      "url": "https://open.spotify.com/track/1AtrStBh3KmG1Uy5tPqXpq"
-    },
-    {
-      "added_at": "2022-11-12 20:09:43",
-      "album": {
         "name": "Aal Hob Rooh w Sallimli",
         "url": "https://open.spotify.com/album/0M5qhGTUrD1KSN7cHIRGUt"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 206832,
       "name": "Aal Hob Rooh w Sallimli",
       "url": "https://open.spotify.com/track/0RUDIa4tOnST24USIXuyyV"
+    },
+    {
+      "added_at": "2022-11-12 20:09:43",
+      "album": {
+        "name": "Mktifi Bhali",
+        "url": "https://open.spotify.com/album/1FeVZ4GMogl4q7NUvZZOVQ"
+      },
+      "artists": [
+        {
+          "name": "Taim Saleh",
+          "url": "https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2"
+        }
+      ],
+      "duration_ms": 257661,
+      "name": "Mktifi Bhali",
+      "url": "https://open.spotify.com/track/1AtrStBh3KmG1Uy5tPqXpq"
     },
     {
       "added_at": "2022-11-12 20:09:43",

@@ -4,7 +4,7 @@
 
 > The home for heavy rockers\. Cover: Bury Tomorrow ft Loz Taylor
 
-104 songs - 6 hr 39 min
+105 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,11 +14,12 @@
 | [Applause](https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Applause](https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4) | 2:44 | 2023-01-20 | 2023-02-10 |
 | [be very afraid](https://open.spotify.com/track/1nXWhLumXogqFeijfa1uJd) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:20 | 2022-11-10 | 2023-02-01 |
 | [Beguiled](https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Beguiled](https://open.spotify.com/album/582taizXGzfl1ALsX6Busl) | 3:58 | 2022-11-10 |  |
-| [Bloody Knuckles](https://open.spotify.com/track/1cAmibBZfF14IvY7MA0lDA) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse](https://open.spotify.com/album/1gWJtOk76VzVKiIKp1cCtd) | 3:27 | 2022-11-10 |  |
+| [Bloody Knuckles](https://open.spotify.com/track/1cAmibBZfF14IvY7MA0lDA) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse](https://open.spotify.com/album/1gWJtOk76VzVKiIKp1cCtd) | 3:27 | 2022-11-10 | 2023-02-20 |
 | [Blossom](https://open.spotify.com/track/2Wq4wVXPnJYaK214y26y1H) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Blossom](https://open.spotify.com/album/7nQPjvGZUoGPDmOkpHYO9H) | 2:58 | 2022-11-26 | 2023-01-20 |
 | [Bone Church](https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Bone Church](https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz) | 5:27 | 2023-02-03 |  |
 | [Born For One Thing](https://open.spotify.com/track/61GkJ0y15jxDyBrdcb6PqR) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 4:20 | 2022-11-10 | 2023-02-03 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 | 2022-11-10 |  |
+| [Chokehold](https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Chokehold](https://open.spotify.com/album/7kU4ySCd35MaGnS93a6AMl) | 5:04 | 2023-02-15 |  |
 | [Chokehold](https://open.spotify.com/track/7rHbwSOzT6z2D26oMQk9xG) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Chokehold](https://open.spotify.com/album/64BnMxajs1n8fk0DuNPjuP) | 5:04 | 2023-02-16 | 2023-02-17 |
 | [Circle The Drain](https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 3:35 | 2022-11-10 |  |
 | [Clique](https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 2:19 | 2022-11-10 |  |

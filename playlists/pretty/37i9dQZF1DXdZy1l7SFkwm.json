@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 32637,
+  "num_followers": 32669,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMDE2ZmE5OWMyMjE4OGQzNWY3YWM4ODY2OTE2YmFmZDNm",
+  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMGQ0YzA3MzE4YzRiNjA3NWFlYzU5MmZhZTE1NzU1ZGY1",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Tous les gar\u00e7ons et les filles - Slow",
+      "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Getz/Gilberto (Expanded Edition)",
         "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
-        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Tous les gar\u00e7ons et les filles - Slow",
-      "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Suzanne Beware of the Devil - The Best of Dandy Livingstone",
-        "url": "https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf"
-      },
-      "artists": [
-        {
-          "name": "Dandy Livingstone",
-          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "Rudy, A Message To You",
-      "url": "https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -527,18 +511,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "I Like It Like That",
-        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
+        "name": "Suzanne Beware of the Devil - The Best of Dandy Livingstone",
+        "url": "https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf"
       },
       "artists": [
         {
-          "name": "Pete Rodriguez",
-          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+          "name": "Dandy Livingstone",
+          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
         }
       ],
-      "duration_ms": 265080,
-      "name": "I Like It Like That",
-      "url": "https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq"
+      "duration_ms": 168480,
+      "name": "Rudy, A Message To You",
+      "url": "https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -555,6 +539,22 @@
       "duration_ms": 244109,
       "name": "Police & Thieves",
       "url": "https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
+      },
+      "artists": [
+        {
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+        }
+      ],
+      "duration_ms": 265080,
+      "name": "I Like It Like That",
+      "url": "https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Wonderful World, Beautiful People",
-        "url": "https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "Many Rivers To Cross",
-      "url": "https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Linha De Passe",
         "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 200240,
       "name": "O B\u00eabado e a Equilibrista",
       "url": "https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Wonderful World, Beautiful People",
+        "url": "https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 164066,
+      "name": "Many Rivers To Cross",
+      "url": "https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "You Can Get It If You Really Want",
+        "url": "https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        }
+      ],
+      "duration_ms": 162893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Elegance: The Birth Of The Modern Jazz Quartet",
         "url": "https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "You Can Get It If You Really Want",
-        "url": "https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK"
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
       },
       "artists": [
         {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
         }
       ],
-      "duration_ms": 162893,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12"
+      "duration_ms": 185546,
+      "name": "Soy El Rey",
+      "url": "https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -835,22 +851,6 @@
       "duration_ms": 219093,
       "name": "Saudade Vem Correndo",
       "url": "https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "I Like It Like That",
-        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
-      },
-      "artists": [
-        {
-          "name": "Pete Rodriguez",
-          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Soy El Rey",
-      "url": "https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -983,6 +983,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "A Valentine For You",
+        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 127186,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Trio Ternura (Compacto 1973)",
         "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "A Valentine For You",
-        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 127186,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "The Original Recordings",
         "url": "https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
         "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 197426,
       "name": "De Noite Na Cama",
       "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
+        "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Bang! Bang!",
+      "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Para Todo el Mundo, Vol. 2",
         "url": "https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 220080,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/5NKsz3ZklHNHbCVxMHiFU7"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
-        "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Bang! Bang!",
-      "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/5e2HXBdSKE8VtNUTSVzeWs"
+      },
+      "artists": [
+        {
+          "name": "Dorival Caymmi",
+          "url": "https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Maracangalha",
+      "url": "https://open.spotify.com/track/2cP4EP3v6I5UYcmixnEroX"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Loose & Juicy",
         "url": "https://open.spotify.com/album/1QrIXVqDiXZzmHLR0woYk7"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 166186,
       "name": "Little Boy Blue",
       "url": "https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/5e2HXBdSKE8VtNUTSVzeWs"
-      },
-      "artists": [
-        {
-          "name": "Dorival Caymmi",
-          "url": "https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Maracangalha",
-      "url": "https://open.spotify.com/track/2cP4EP3v6I5UYcmixnEroX"
     },
     {
       "added_at": "2021-03-15 16:04:53",

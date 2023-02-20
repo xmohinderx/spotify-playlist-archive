@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 213953,
+  "num_followers": 214047,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDYxMzk1ZjAzYTQyYTgyMzgzMjQ5NWVhNWIyOWIyMWE0",
+  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMGYyZGJkYjBlYzhhZTQwMzllODgzZjRiYjBmZDlhMGYy",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -507,22 +507,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+        "name": "De Vuelta Al Jardin",
+        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C"
         }
       ],
-      "duration_ms": 445906,
-      "name": "Qu\u00e9 Se Abra El Cielo (Feat. Marcos Brunet)",
-      "url": "https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv"
+      "duration_ms": 300186,
+      "name": "Gloria En Lo Alto",
+      "url": "https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -591,18 +587,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "De Vuelta Al Jardin",
-        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C"
         }
       ],
-      "duration_ms": 300186,
-      "name": "Gloria En Lo Alto",
-      "url": "https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX"
+      "duration_ms": 445906,
+      "name": "Qu\u00e9 Se Abra El Cielo (Feat. Marcos Brunet)",
+      "url": "https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv"
     },
     {
       "added_at": "2020-11-24 13:23:38",

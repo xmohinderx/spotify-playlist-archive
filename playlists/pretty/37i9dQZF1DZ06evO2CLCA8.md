@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 221 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 26 | [Rebels](https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 5:21 |
 | 27 | [Jammin' Me](https://open.spotify.com/track/2AFJkvRUFVx0MccykGaHV2) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Let Me Up \(I've Had Enough\)](https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ) | 4:09 |
 | 28 | [Kings Highway](https://open.spotify.com/track/0ge66NW3sKKgWW7eKQHnE0) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:06 |
-| 29 | [Good Evening \- spoken interlude](https://open.spotify.com/track/04iikZsVBLqYcmi9CUWGli) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 0:43 |
+| 29 | [I Won't Back Down \- Live at the Fillmore, 1997](https://open.spotify.com/track/6VI1XxF61Ny1Gb2m27XnaR) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 3:42 |
 | 30 | [Southern Accents](https://open.spotify.com/track/6QUppE7S4HgcfC3jZIcYlV) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 4:44 |
 | 31 | [Insider](https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:20 |
 | 32 | [It'll All Work Out](https://open.spotify.com/track/18N4jiKRHtC5v5bgMtFeUF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Let Me Up \(I've Had Enough\)](https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ) | 3:11 |
-| 33 | [I Won't Back Down \- Live at the Fillmore, 1997](https://open.spotify.com/track/6VI1XxF61Ny1Gb2m27XnaR) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 3:42 |
+| 33 | [Good Evening \- spoken interlude](https://open.spotify.com/track/04iikZsVBLqYcmi9CUWGli) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 0:43 |
 | 34 | [Needles And Pins \- Live At The The Forum/1981](https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Pack Up The Plantation: Live!](https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0) | 2:25 |
 | 35 | [I Should Have Known It](https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 3:35 |
-| 36 | [The Dark Of The Sun](https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:22 |
-| 37 | [Room at the Top](https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Echo](https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW) | 5:00 |
+| 36 | [Room at the Top](https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Echo](https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW) | 5:00 |
+| 37 | [The Dark Of The Sun](https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:22 |
 | 38 | [Cabin Down Below \- Live at the Fillmore, 1997](https://open.spotify.com/track/6y8vdzO1WoaMSYhpkWM9zU) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 2:52 |
 | 39 | [Something Good Coming](https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 4:10 |
 | 40 | [Change Of Heart](https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark](https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 49 | [Something Big](https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:44 |
 | 50 | [Lucille \- Live at the Fillmore, 1997](https://open.spotify.com/track/0gYDOZuqFacAURzBIwjon3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 2:31 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDAyZDg1ZGRjYTkwMGY0YWVkYTNmNWViMDI2OTEzNWVkNQ==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDAyNzEwMzdkYzdjOTcyZGY4NmNmYWRlZTQ2MTQ1M2I0ZQ==`

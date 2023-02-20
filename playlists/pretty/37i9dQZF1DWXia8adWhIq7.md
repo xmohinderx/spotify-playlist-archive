@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Felipe Vilela
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,880 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,911 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 22 | [meu lugar](https://open.spotify.com/track/7ipxdnPLb7NnkEqAjAAfJK) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [meu lugar](https://open.spotify.com/album/4q0wzcfAqJH6kgTPdz4Cfw) | 4:10 |
 | 23 | [Tudo](https://open.spotify.com/track/5wbSVolmtQA6kodui95x40) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [SL.27.4](https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy) | 3:57 |
 | 24 | [Daqui pra Frente](https://open.spotify.com/track/5TWHfJt1ViGzfNDOmNVPTT) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Riane Junqueira](https://open.spotify.com/artist/4bJ1wkkofxsCiEDIJbuV5L), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Daqui pra Frente](https://open.spotify.com/album/2XgO11b1fJWeunYCiggbqv) | 4:31 |
-| 25 | [SOCORRO](https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [SOCORRO](https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU) | 4:05 |
-| 26 | [Caminhada](https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Leif Bessa \- Acústico](https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb) | 4:40 |
+| 25 | [Caminhada](https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Leif Bessa \- Acústico](https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb) | 4:40 |
+| 26 | [SOCORRO](https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [SOCORRO](https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU) | 4:05 |
 | 27 | [Teu Amor Me Consome](https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw) | [Guerreiros da Fé](https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL) | [Teu Amor Me Consome](https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr) | 3:46 |
 | 28 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
 | 29 | [Ao Teu Lado \- Acústico](https://open.spotify.com/track/1uP31TFAG8a4VGwpE7w3yT) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Ao Teu Lado \(Acústico\)](https://open.spotify.com/album/0u1E6iC4UA69cVBHFSBkjk) | 3:42 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 32 | [É de Coração](https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [É de Coração](https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4) | 3:16 |
 | 33 | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI) | 4:32 |
 | 34 | [Tens o Meu Sim](https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ) | [Amanda Dutra](https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1) | [Tens o Meu Sim](https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx) | 3:44 |
-| 35 | [Apenas Canção](https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Apenas Canção](https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg) | 4:26 |
-| 36 | [Teu Reino Venha](https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx) | [Cordão de Três](https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88) | [Teu Reino Venha](https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw) | 3:42 |
+| 35 | [Teu Reino Venha](https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx) | [Cordão de Três](https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88) | [Teu Reino Venha](https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw) | 3:42 |
+| 36 | [Apenas Canção](https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Apenas Canção](https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg) | 4:26 |
 | 37 | [Levanto um Aleluia](https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS) | [Anna Fernandes](https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Levanto um Aleluia](https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U) | 3:53 |
 | 38 | [Agora](https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Salomão](https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Agora](https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn) | 3:16 |
 | 39 | [Sabe Tudo](https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Sabe Tudo](https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt) | 3:13 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 52 | [A Voz do Brasil \- Acústico](https://open.spotify.com/track/6dFtxQYgNWqbSapneyMVn1) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [A Voz do Brasil \(Acústico\)](https://open.spotify.com/album/59AQfJCPFSvEje7t1ocCaO) | 3:00 |
 | 53 | [Casulo](https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Casulo](https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva) | 3:39 |
 | 54 | [Pai Nosso \- Our Father](https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [Pai Nosso](https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl) | 4:21 |
-| 55 | [Crescer](https://open.spotify.com/track/2rzHjYk44JJAeg0qiWx5us) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Crescer](https://open.spotify.com/album/7eodR01E7NwsvSRIm0JY9T) | 3:57 |
-| 56 | [Reconstituir](https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji) | [Igor Felix](https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud), [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Reconstituir](https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ) | 4:22 |
+| 55 | [Reconstituir](https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji) | [Igor Felix](https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud), [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Reconstituir](https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ) | 4:22 |
+| 56 | [Crescer](https://open.spotify.com/track/2rzHjYk44JJAeg0qiWx5us) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Crescer](https://open.spotify.com/album/7eodR01E7NwsvSRIm0JY9T) | 3:57 |
 | 57 | [Batida](https://open.spotify.com/track/0ijEZW5pIhMu0mDaQdPArX) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Batida](https://open.spotify.com/album/7997L9t3OvtVovg51EsNNm) | 4:04 |
 | 58 | [A Chave](https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 3:27 |
 | 59 | [Teus Rios](https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv) | [Ana Gabriela](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [Teus Rios](https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 79 | [Planos Melhores](https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL) | [Andressa Cordeiro](https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF) | [Planos Melhores](https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul) | 3:04 |
 | 80 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 |
 
-Snapshot ID: `MTY3NTM5MzIwMCwwMDAwMDAwMGY5ODk4OTJkYTkzOThhMjFlZDY4NmY2ZWU5YzE1ZmIx`
+Snapshot ID: `MTY3NTM5MzIwMCwwMDAwMDAwMDFkODliODk4YTcwYjk5Y2VlMDdjODZiZDMyMTBlOTZi`

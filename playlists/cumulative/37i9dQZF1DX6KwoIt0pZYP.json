@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 161785,
       "name": "20something",
       "url": "https://open.spotify.com/track/6YhMlj1ZyjYOC3bD7OZP1Q"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 180952,
       "name": "27 in a 7-Eleven",
       "url": "https://open.spotify.com/track/7M2WiIMPWioFgdsDUNLPvU"
@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/44WOydQRUhz1JihfRZT6Zi"
+      },
+      "artists": [
+        {
+          "name": "Oak\u00eb",
+          "url": "https://open.spotify.com/artist/5FFEE3urupCaWwOzfAfV4I"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209189,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/38wNASXJl6tNRoVFpnctt9"
+    },
+    {
+      "album": {
         "name": "Air Guitar",
         "url": "https://open.spotify.com/album/5PETfsInVVeftPNXoLAIqs"
       },
@@ -222,6 +240,24 @@
       "duration_ms": 203933,
       "name": "All Your Time - EN",
       "url": "https://open.spotify.com/track/48xN7XgPvMhyge2Sug5hKV"
+    },
+    {
+      "album": {
+        "name": "almost",
+        "url": "https://open.spotify.com/album/5fDIO7P9L7xqDvpLWm1c07"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138514,
+      "name": "almost",
+      "url": "https://open.spotify.com/track/0psOGI1f30oEGlZ185RbpW"
     },
     {
       "album": {
@@ -1649,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "die tryin",
+        "url": "https://open.spotify.com/album/5s12mNEdkZejLi53ujMoyb"
+      },
+      "artists": [
+        {
+          "name": "PETITE",
+          "url": "https://open.spotify.com/artist/5vWJurEtxoZLhVxk7IyUzF"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "die tryin",
+      "url": "https://open.spotify.com/track/6zjuUubQ26bJCSKRHl7HWe"
+    },
+    {
+      "album": {
         "name": "dinner in bed",
         "url": "https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh"
       },
@@ -2979,6 +3033,28 @@
     },
     {
       "album": {
+        "name": "healthy",
+        "url": "https://open.spotify.com/album/7gd8HhSvXGfJ6jVdPbCcRo"
+      },
+      "artists": [
+        {
+          "name": "RESORT",
+          "url": "https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng"
+        },
+        {
+          "name": "JAIE",
+          "url": "https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189882,
+      "name": "healthy",
+      "url": "https://open.spotify.com/track/1imOkV6736s6g2BPIt1SIW"
+    },
+    {
+      "album": {
         "name": "The Hidden Tapes Vol.1",
         "url": "https://open.spotify.com/album/5l8IfjjACyFafN13tfLjoX"
       },
@@ -3704,7 +3780,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 160592,
       "name": "i wrote this song for you",
       "url": "https://open.spotify.com/track/6SI6iZF77D0ODO4btUgsmm"
@@ -3894,7 +3970,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 152360,
       "name": "Imagine (feat. Jackson Wang & Tablo)",
       "url": "https://open.spotify.com/track/5dREBNCLW6fqkY3y3KYRBq"
@@ -4038,7 +4114,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 258173,
       "name": "janji kita bertemu lagi",
       "url": "https://open.spotify.com/track/5JO9dDda0tqXhPOhA6y4VL"
@@ -4270,6 +4346,24 @@
       "duration_ms": 221538,
       "name": "kodak",
       "url": "https://open.spotify.com/track/4DCa5XDAMffNCB3SN79YhB"
+    },
+    {
+      "album": {
+        "name": "late nite",
+        "url": "https://open.spotify.com/album/1srxCzpKhsARgl6XTFVVm6"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196476,
+      "name": "late nite",
+      "url": "https://open.spotify.com/track/1sYp5bkjaiSKl1aOGOu3uw"
     },
     {
       "album": {
@@ -4950,7 +5044,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 174152,
       "name": "Maybe?",
       "url": "https://open.spotify.com/track/5xEPUpkAaWBNEDWXlMMGOn"
@@ -5138,7 +5232,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 195975,
       "name": "Mr.Mastermind",
       "url": "https://open.spotify.com/track/02m4Xg51PCou6c4gPKLyHB"
@@ -5468,7 +5562,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 166000,
       "name": "not sorry",
       "url": "https://open.spotify.com/track/54NOOVmxzoBvz0l7P4RzVl"
@@ -5620,6 +5714,24 @@
       "duration_ms": 168000,
       "name": "on & on",
       "url": "https://open.spotify.com/track/2z60665qOaXrUcFIVIB9yj"
+    },
+    {
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/3wV7od4cEPh3sofqyW8g0G"
+      },
+      "artists": [
+        {
+          "name": "Agatha Pricilla",
+          "url": "https://open.spotify.com/artist/5j6EloCQDnZmMP3k6pATOd"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209117,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4RhEjSVKHscmSh3TPRv8Kp"
     },
     {
       "album": {
@@ -6263,6 +6375,24 @@
     },
     {
       "album": {
+        "name": "Crash & Burn",
+        "url": "https://open.spotify.com/album/5oxH5EJsmjUgl3bFyohapb"
+      },
+      "artists": [
+        {
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169157,
+      "name": "Romantic Comedies",
+      "url": "https://open.spotify.com/track/32UFQyrBNdSaIXPrqvRkaJ"
+    },
+    {
+      "album": {
         "name": "Sailing Boat",
         "url": "https://open.spotify.com/album/686eANueSKRW9VFefIR1lR"
       },
@@ -6318,7 +6448,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 148500,
       "name": "same old",
       "url": "https://open.spotify.com/track/1NPugQ5FaJ3rySdrWUSdoJ"
@@ -6520,7 +6650,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 179103,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/6zlio0K6QpRC4R9czfzPV8"
@@ -7144,6 +7274,24 @@
       "duration_ms": 175674,
       "name": "superficial energy",
       "url": "https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5"
+    },
+    {
+      "album": {
+        "name": "Superhuman",
+        "url": "https://open.spotify.com/album/4zyyXOkKsKk9qTke4pCYQM"
+      },
+      "artists": [
+        {
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227018,
+      "name": "Superhuman",
+      "url": "https://open.spotify.com/track/6YAUAZ6Yf0mUeTIPduQHAB"
     },
     {
       "album": {
@@ -7951,6 +8099,24 @@
     },
     {
       "album": {
+        "name": "van gogh",
+        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173540,
+      "name": "van gogh",
+      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
+    },
+    {
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ"
       },
@@ -8150,7 +8316,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-20",
       "duration_ms": 158896,
       "name": "Waste Your Time",
       "url": "https://open.spotify.com/track/3o0kjixQEOo1GwfyVxQMUR"

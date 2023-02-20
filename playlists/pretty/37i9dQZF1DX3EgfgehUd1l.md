@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,428 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,477 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 38 | [Pretend](https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 2:44 |
 | 39 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
 | 40 | [I'm In Love Again](https://open.spotify.com/track/5Gw6d1Mt428wFoJbSVy94i) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 1:59 |
-| 41 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
-| 42 | [Diana](https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:18 |
+| 41 | [Diana](https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:18 |
+| 42 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
 | 43 | [Learnin' The Blues](https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 3:01 |
 | 44 | [Blue Moon \- Take 9/M](https://open.spotify.com/track/6VqCe4PcokSekHPJQaDx0B) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Presley](https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin) | 2:42 |
 | 45 | [Side By Side](https://open.spotify.com/track/3cuOpppX5ZNOQ843dPeFB4) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [The Fabulous Favorites](https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv) | 2:52 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 72 | [Someday \(You'll Want Me To Want You\) \- Remastered](https://open.spotify.com/track/6ew1MCEKObxl8HbkdszmzP) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Nelson \(Expanded Edition / Remastered\)](https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt) | 2:51 |
 | 73 | [Little Things Mean a Lot](https://open.spotify.com/track/54PXRAkSDbvSNazvmAfeHd) | [Kitty Kallen](https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II) | [Kitty Kallen's Coloring Book](https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU) | 2:59 |
 | 74 | [Stranger in Paradise](https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Mr\. Broadway](https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa) | 3:07 |
-| 75 | [Tammy](https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR) | [Debbie Reynolds](https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn) | [Oldies 101](https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih) | 3:06 |
+| 75 | [It's Only Make Believe \- Re\-recorded](https://open.spotify.com/track/4VlUF9CigmUOU2gyXDCmP8) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Greatest Hits \- Finest Performances](https://open.spotify.com/album/40IMW6THJLdzfyxx5ngRc7) | 2:30 |
 | 76 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Command Performance](https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk) | 2:39 |
-| 77 | [It's Only Make Believe \- Re\-recorded](https://open.spotify.com/track/4VlUF9CigmUOU2gyXDCmP8) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Greatest Hits \- Finest Performances](https://open.spotify.com/album/40IMW6THJLdzfyxx5ngRc7) | 2:30 |
+| 77 | [Tammy](https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR) | [Debbie Reynolds](https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn) | [Oldies 101](https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih) | 3:06 |
 | 78 | [Young Love](https://open.spotify.com/track/3f447padVRsEa7JrtRNJhT) | [Tab Hunter](https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe) | [The Young Love of Tab Hunter](https://open.spotify.com/album/42j5U2yHrzwOsXQnzkmk4j) | 2:26 |
 | 79 | [I'm Sorry I Made You Cry](https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:27 |
-| 80 | [Big Man](https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK) | [The Four Preps](https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew) | [The Single Collection, Vol\. 1](https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr) | 2:23 |
+| 80 | [A Tear Fell](https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Teresa \(Expanded Edition\)](https://open.spotify.com/album/6LT7LVvqxjEWuxHZ55sWfx) | 2:35 |
 
-Snapshot ID: `MTU5NDIyOTc2OCwwMDAwMDAwMDJiZjZiMTBlOGU3MmU4NTZmMjEwYjQ5MzgxODE0ZWM3`
+Snapshot ID: `MTU5NDIyOTc2OCwwMDAwMDAwMDQ1YWZiMGI2NzgzMmZkNjUyMTE5NTcwMjg5OWFhMmI0`

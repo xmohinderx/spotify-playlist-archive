@@ -4,7 +4,7 @@
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-153 songs - 9 hr 0 min
+154 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Photograph](https://open.spotify.com/track/6CgNoAbFJ4Q4Id4EjtbXlC) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 4](https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD) | 4:20 | 2022-08-25 |  |
 | [Please Keep Loving Me \- Acoustic](https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me \(Acoustic\)](https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX) | 3:17 | 2022-08-25 |  |
 | [Pretty Girl \- Acoustic Version](https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [Pretty Girl \(Acoustic Version\)](https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk) | 3:00 | 2022-08-25 |  |
+| [Rather Be](https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 4:07 | 2022-08-25 |  |
 | [Rhythm Inside \- Acoustic](https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rhythm Inside \(Acoustic\)](https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx) | 3:32 | 2022-08-25 |  |
 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [\#Acoustic](https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI) | 2:37 | 2022-08-25 |  |
 | [Save Tonight](https://open.spotify.com/track/110YC8JMSnxlr5dFrtEdiP) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Save Tonight](https://open.spotify.com/album/2jHuPMC1tJvcyqvWMrlvQI) | 4:30 | 2022-08-25 |  |
@@ -132,7 +133,7 @@
 | [Stolen Dance](https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5) | 3:55 | 2022-08-25 |  |
 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 | 2022-08-25 |  |
 | [Sunday Morning \- Acoustic](https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:14 | 2022-08-25 |  |
-| [Swalla \- Acoustic Version](https://open.spotify.com/track/02dcOQGdOgZyErpbJT4hr5) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Swalla \(Acoustic Version\)](https://open.spotify.com/album/032arX7VC6xQ1WbR92jVoy) | 3:37 | 2022-08-25 |  |
+| [Swalla \- Acoustic Version](https://open.spotify.com/track/02dcOQGdOgZyErpbJT4hr5) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Swalla \(Acoustic Version\)](https://open.spotify.com/album/032arX7VC6xQ1WbR92jVoy) | 3:37 | 2022-08-25 | 2023-02-20 |
 | [Sweet Child o' Mine](https://open.spotify.com/track/0uZqwjV40JTQ7KxU8a5GZR) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o' Mine](https://open.spotify.com/album/2N9b6fhLQvwocdZ3XpQB90) | 5:02 | 2022-08-25 |  |
 | [There's Nothing Holdin Me Back](https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [There's Nothing Holdin Me Back](https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU) | 3:19 | 2022-08-25 |  |
 | [Think Before I Talk \- Acoustic](https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Think Before I Talk \(Acoustic\)](https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT) | 3:37 | 2022-08-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A eclectic mix of past & current Indie favourites. Cover: Steve Lacy",
-  "num_followers": 27198,
+  "num_followers": 27205,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA2ODI5OCwwMDAwMDAwMDQ4NDkwZjExNGU5OTI0NzU3NTNlZWFjNGI0OTRmYjZk",
+  "snapshot_id": "MTY3NjA2ODI5OCwwMDAwMDAwMGU3MmQ3MGZiOTc0ZTdkZGVkOWY2Mzc0NDZiYWU1ZDc5",
   "tracks": [
     {
       "added_at": "2023-02-10 22:30:26",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-02-10 22:30:26",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
-    },
-    {
-      "added_at": "2023-02-10 22:30:26",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -1139,22 +1123,18 @@
     {
       "added_at": "2023-02-10 22:30:26",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
       "artists": [
         {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 415613,
-      "name": "Girl (feat. KAYTRANADA)",
-      "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "added_at": "2023-02-10 22:30:26",
@@ -1171,6 +1151,26 @@
       "duration_ms": 115800,
       "name": "Just for me",
       "url": "https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA"
+    },
+    {
+      "added_at": "2023-02-10 22:30:26",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 415613,
+      "name": "Girl (feat. KAYTRANADA)",
+      "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
     },
     {
       "added_at": "2023-02-10 22:30:26",

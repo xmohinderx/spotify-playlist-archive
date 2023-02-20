@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > New music from female\-identifying artists\. Cover: <a href=“https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU?si=I6R9735GR3ip6As26zjzRg”>Zolita</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,123 likes - 63 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,133 likes - 63 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 20 | [Honey](https://open.spotify.com/track/5GL1bMkfFdclBzQOMjfIT9) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Breathing Song / Honey](https://open.spotify.com/album/4eUxvQuguleFjUp01I6N36) | 3:23 |
 | 21 | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/track/53acd3PVcgGCux58YABBr5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5) | 3:15 |
 | 22 | [Other Side](https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Other Side](https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc) | 4:04 |
-| 23 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 |
-| 24 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
+| 23 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
+| 24 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 |
 | 25 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 |
 | 26 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 |
 | 27 | [Where do we go now?](https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Where do we go now?](https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T) | 4:03 |
@@ -47,21 +47,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 37 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
 | 38 | [you don't deserve a country song](https://open.spotify.com/track/6Ucd3amMzVE9d4UeimUUUS) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [you don't deserve a country song](https://open.spotify.com/album/2bjwSohuICaxJuvKX9Fh0M) | 3:10 |
 | 39 | [Radio \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 2:49 |
-| 40 | [Alright](https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Alright](https://open.spotify.com/album/2xawjrCCEKSTSxOg6VkPe9) | 3:22 |
-| 41 | [Lately](https://open.spotify.com/track/6rPR4M9uJHrYYJ9a1xLDjv) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Lately](https://open.spotify.com/album/1VegrzMvhwSOTupozMQnkj) | 3:27 |
+| 40 | [Lately](https://open.spotify.com/track/6rPR4M9uJHrYYJ9a1xLDjv) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Lately](https://open.spotify.com/album/1VegrzMvhwSOTupozMQnkj) | 3:27 |
+| 41 | [Alright](https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Alright](https://open.spotify.com/album/2xawjrCCEKSTSxOg6VkPe9) | 3:22 |
 | 42 | [Sway \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/0KgDKuaHnbZOzz8adnnfxd) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Sway \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/5TFBzrKDfvyAfqfkWiqETf) | 2:47 |
 | 43 | [Bendita](https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Bendita](https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr) | 3:19 |
 | 44 | [Porque Soy Abeja Reina](https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Soy Abeja Reina](https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD) | 2:38 |
 | 45 | [V I B R A T I O N](https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [V I B R A T I O N](https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r) | 2:49 |
-| 46 | [ALERGICA](https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ALERGICA](https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l) | 3:05 |
-| 47 | [Holy Water](https://open.spotify.com/track/2Zr8Qe0jMZZaIjJoy3bmHz) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Holy Water](https://open.spotify.com/album/2nrQItfebwUiVGC9MY6KiK) | 3:03 |
+| 46 | [Holy Water](https://open.spotify.com/track/2Zr8Qe0jMZZaIjJoy3bmHz) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Holy Water](https://open.spotify.com/album/2nrQItfebwUiVGC9MY6KiK) | 3:03 |
+| 47 | [ALERGICA](https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ALERGICA](https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l) | 3:05 |
 | 48 | [no me gusta eso](https://open.spotify.com/track/1RSCXKXHzyO0okaJH093RZ) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [no me gusta eso](https://open.spotify.com/album/3I4Zau33AWgPNJzit17Iz7) | 1:52 |
 | 49 | [Dress](https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dress](https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys) | 3:26 |
 | 50 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 |
 | 51 | [Mirror Mirror](https://open.spotify.com/track/5wPtqoXt8zNzahGo8ddVBz) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Mirror Mirror](https://open.spotify.com/album/2piO0gBC50BNPmipi0ngdg) | 3:28 |
 | 52 | [Mírame](https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Mírame](https://open.spotify.com/album/3xYHcuI1ir1bTvJpxfYoBN) | 3:06 |
-| 53 | [Break](https://open.spotify.com/track/3JNS1gdHgr8fms90xGqmzP) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Break](https://open.spotify.com/album/4um2IcUfWGY746dyXRupZU) | 2:49 |
-| 54 | [Same God](https://open.spotify.com/track/28W54ZXERoljhIBv9WbWJN) | [Lisa Nicole](https://open.spotify.com/artist/7jkH6OfJO1AC31Xaw3c4T3) | [Same God](https://open.spotify.com/album/47ZwaBFEEQHqYvDGRgqMCl) | 4:44 |
+| 53 | [Same God](https://open.spotify.com/track/28W54ZXERoljhIBv9WbWJN) | [Lisa Nicole](https://open.spotify.com/artist/7jkH6OfJO1AC31Xaw3c4T3) | [Same God](https://open.spotify.com/album/47ZwaBFEEQHqYvDGRgqMCl) | 4:44 |
+| 54 | [Break](https://open.spotify.com/track/3JNS1gdHgr8fms90xGqmzP) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Break](https://open.spotify.com/album/4um2IcUfWGY746dyXRupZU) | 2:49 |
 | 55 | [Daffodil Floors](https://open.spotify.com/track/3FKs8DcaMPhltqeueu94GT) | [Mandi Mapes](https://open.spotify.com/artist/4VIZatfDlVCKdndcziajoA) | [Daffodil Floors](https://open.spotify.com/album/0wdAvZLNJMOBTSmjwUVspn) | 4:26 |
 | 56 | [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 |
 | 57 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 62 | [corazoncito](https://open.spotify.com/track/3QwaKUFPO3CNJcTiWk0kfk) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [corazoncito](https://open.spotify.com/album/5YYkBqPFlaJidU80jXYD9i) | 2:58 |
 | 63 | [Solitary Girl](https://open.spotify.com/track/44Dz5FBegFz4SPZ4yXLULF) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [There is a Club / Solitary Girl](https://open.spotify.com/album/74xN2qIWfIVmH3PuvwQxiN) | 3:47 |
 
-Snapshot ID: `MTY3NTgwNjYwNiwwMDAwMDAwMDY4NGU0NWIxNjQwOTM2NzhlNWUwMGQ0M2U5NjFlNGU1`
+Snapshot ID: `MTY3NTgwNjYwNiwwMDAwMDAwMGQ3NjIzNTMzNmViZGEyZTFjNTIxNGM1ODc2MTQ1MDQ3`

@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-632 songs - 1 day 14 hr 57 min
+633 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Power](https://open.spotify.com/track/2rz9HKwpRSYIPI7K4O8lH5) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Power](https://open.spotify.com/album/4QKS5oUaGj2qNd7wstoCEt) | 3:39 | 2021-10-20 | 2022-07-13 |
 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 | 2022-06-10 |  |
 | [Rather Be](https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1) | 4:07 | 2021-10-20 | 2022-07-26 |
+| [Rather Be](https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 4:07 | 2022-06-10 |  |
 | [Re: Stacks](https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ) | [Charlie Simpson](https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9) | [Little Hands](https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv) | 6:07 | 2021-10-20 | 2022-07-29 |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2021-10-20 |  |
 | [Right Down The Line](https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [NUDES](https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y) | 3:55 | 2021-10-20 |  |
@@ -638,7 +639,7 @@
 | [Young Blood](https://open.spotify.com/track/21p4Uy5InzgMtt0pkG8GAB) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Play One We All Know](https://open.spotify.com/album/1Jd4UQffKhLShgcaAMYST0) | 3:40 | 2021-10-20 | 2022-07-29 |
 | [Young Blood](https://open.spotify.com/track/55vRRMeqFHmqQ2uFbZ6bOL) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Play One We All Know](https://open.spotify.com/album/091vPKWsx2zU6RSfD2FZcZ) | 3:40 | 2022-06-10 |  |
 | [Your Song](https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:11 | 2021-10-20 |  |
-| [Youth](https://open.spotify.com/track/00urNqCMQhspKwipmP3EZN) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Youth](https://open.spotify.com/album/5WjvWdND9pQf1bTZANVvvy) | 2:40 | 2022-06-10 |  |
+| [Youth](https://open.spotify.com/track/00urNqCMQhspKwipmP3EZN) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Youth](https://open.spotify.com/album/5WjvWdND9pQf1bTZANVvvy) | 2:40 | 2022-06-10 | 2023-02-20 |
 | [Zombie](https://open.spotify.com/track/5F0oU6oawDaAdNAaRX0I8z) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [The City Holds My Heart](https://open.spotify.com/album/6VqpduiWt7ODKTCm03RZJf) | 3:22 | 2021-10-20 | 2022-07-03 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

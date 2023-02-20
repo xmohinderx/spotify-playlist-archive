@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Jake Blount",
-  "num_followers": 175984,
+  "num_followers": 176008,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDcwODcxYTRjYjU3NDJjMzdlMjE4NjM5MjBhMTMyN2Yw",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGZjMzY1NDRlMmQ0YjEyZTY1MzdkMDUxMGE5YjE2OWY5",
   "tracks": [
     {
       "added_at": "2022-02-25 19:00:55",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "On The Road Again",
-        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 173969,
-      "name": "On The Road Again",
-      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Raised Under Grey Skies (Deluxe)",
         "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 231533,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "On The Road Again",
+        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "duration_ms": 173969,
+      "name": "On The Road Again",
+      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 202996,
-      "name": "Grow Old with Me",
-      "url": "https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Under the Pepper Tree",
         "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 131248,
       "name": "Night Singing",
       "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 202996,
+      "name": "Grow Old with Me",
+      "url": "https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2coGGOjBDPEts7MCgAxrsj"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 210196,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Nightflyer",
         "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 295546,
       "name": "Nightflyer",
       "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2coGGOjBDPEts7MCgAxrsj"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 210196,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Occasionally",
-        "url": "https://open.spotify.com/album/18lSgXpfbwoFVCCmBOa4q1"
-      },
-      "artists": [
-        {
-          "name": "Lydia Luce",
-          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "Occasionally",
-      "url": "https://open.spotify.com/track/7luFyU5iwLO0AFXb8DubYS"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Freedom Highway",
         "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 256560,
       "name": "At the Purchaser's Option",
       "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Occasionally",
+        "url": "https://open.spotify.com/album/18lSgXpfbwoFVCCmBOa4q1"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "Occasionally",
+      "url": "https://open.spotify.com/track/7luFyU5iwLO0AFXb8DubYS"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Black Sun",
-        "url": "https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9"
-      },
-      "artists": [
-        {
-          "name": "Irma",
-          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
-        }
-      ],
-      "duration_ms": 206634,
-      "name": "Black Sun",
-      "url": "https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Walk Into a Storm",
         "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 306213,
       "name": "Walk Into a Storm",
       "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Black Sun",
+        "url": "https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9"
+      },
+      "artists": [
+        {
+          "name": "Irma",
+          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
+        }
+      ],
+      "duration_ms": 206634,
+      "name": "Black Sun",
+      "url": "https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "Vincent Neil Emerson",
+        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
+      },
+      "artists": [
+        {
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+        }
+      ],
+      "duration_ms": 293240,
+      "name": "Learnin' to Drown",
+      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "Nine Pin",
         "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
@@ -1519,6 +1535,22 @@
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Arkansas",
+        "url": "https://open.spotify.com/album/6p5HjGdps9cbPUURfPeWdf"
+      },
+      "artists": [
+        {
+          "name": "John Oates",
+          "url": "https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Arkansas",
+      "url": "https://open.spotify.com/track/4ZeDbi7KX58LMVhLLA6hmA"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1539,38 +1571,6 @@
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
-        "name": "Vincent Neil Emerson",
-        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
-      },
-      "artists": [
-        {
-          "name": "Vincent Neil Emerson",
-          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "Learnin' to Drown",
-      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
-        "name": "Arkansas",
-        "url": "https://open.spotify.com/album/6p5HjGdps9cbPUURfPeWdf"
-      },
-      "artists": [
-        {
-          "name": "John Oates",
-          "url": "https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Arkansas",
-      "url": "https://open.spotify.com/track/4ZeDbi7KX58LMVhLLA6hmA"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Rosey",
-        "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
+        "name": "Anchors",
+        "url": "https://open.spotify.com/album/6OmFBApGKchao0OzrfxWAP"
       },
       "artists": [
         {
-          "name": "Bermuda Triangle",
-          "url": "https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE"
+          "name": "Will Hoge",
+          "url": "https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT"
         }
       ],
-      "duration_ms": 225999,
-      "name": "Rosey",
-      "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
+      "duration_ms": 202320,
+      "name": "Cold Night in Santa Fe",
+      "url": "https://open.spotify.com/track/2n5glWpo7YtVqEWuAk81zK"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Anchors",
-        "url": "https://open.spotify.com/album/6OmFBApGKchao0OzrfxWAP"
+        "name": "Rosey",
+        "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
       },
       "artists": [
         {
-          "name": "Will Hoge",
-          "url": "https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT"
+          "name": "Bermuda Triangle",
+          "url": "https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE"
         }
       ],
-      "duration_ms": 202320,
-      "name": "Cold Night in Santa Fe",
-      "url": "https://open.spotify.com/track/2n5glWpo7YtVqEWuAk81zK"
+      "duration_ms": 225999,
+      "name": "Rosey",
+      "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
     },
     {
       "added_at": "2022-02-25 19:00:55",

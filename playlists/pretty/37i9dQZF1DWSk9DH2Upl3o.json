@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: ALO",
-  "num_followers": 14171,
+  "num_followers": 14221,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDcyNTY3NWJkYmU3Y2NjNGQyZjEwOGQxMzQxZDkyYTFm",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGVhNWU2ODZlNWM4MTA2MGFhYTU5NjVlZGIwNTFiYjdk",
   "tracks": [
     {
       "added_at": "2023-02-17 05:01:00",
@@ -171,8 +171,8 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Joyfunk Is Dead",
-        "url": "https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7"
+        "name": "Phone.Keys.Wallet",
+        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
         }
       ],
-      "duration_ms": 173105,
-      "name": "New Eyes",
-      "url": "https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ"
+      "duration_ms": 139773,
+      "name": "Stacy's on the Lake",
+      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -287,8 +287,8 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Phone.Keys.Wallet",
-        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
+        "name": "Joyfunk Is Dead",
+        "url": "https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
         }
       ],
-      "duration_ms": 139773,
-      "name": "Stacy's on the Lake",
-      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
+      "duration_ms": 173105,
+      "name": "New Eyes",
+      "url": "https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "I Am The Moon: II. Ascension",
-        "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 250335,
-      "name": "Playing With My Emotions",
-      "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Megagem",
@@ -395,6 +379,22 @@
       "duration_ms": 393360,
       "name": "Mucho",
       "url": "https://open.spotify.com/track/6RGXvExPr2zOTSfqqpRqx2"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "I Am The Moon: II. Ascension",
+        "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 250335,
+      "name": "Playing With My Emotions",
+      "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "I Am The Moon: III. The Fall",
-        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 327546,
-      "name": "Take Me As I Am",
-      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Spafford",
@@ -561,20 +545,20 @@
       "url": "https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "You're a Catman",
-        "url": "https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF"
+        "name": "I Am The Moon: III. The Fall",
+        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
       },
       "artists": [
         {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 342994,
-      "name": "You\u2019re a Catman",
-      "url": "https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT"
+      "duration_ms": 327546,
+      "name": "Take Me As I Am",
+      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -591,6 +575,22 @@
       "duration_ms": 456631,
       "name": "Duck Farm",
       "url": "https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "You're a Catman",
+        "url": "https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 342994,
+      "name": "You\u2019re a Catman",
+      "url": "https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT"
     },
     {
       "added_at": "2022-06-23 13:45:43",

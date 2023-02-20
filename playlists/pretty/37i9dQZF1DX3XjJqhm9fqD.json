@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Micha\u00ebl Brun",
-  "num_followers": 74528,
+  "num_followers": 74553,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY3MzYwOCwwMDAwMDAwMGUzYTBkNzVhOGM2ZGYyZGZlZjU3ZjJlYjM3MjU5Nzhh",
+  "snapshot_id": "MTY3NjY3MzYwOCwwMDAwMDAwMGY1OWM5NGUxY2YzOTA1ODQwMWU0MDhiNzMwNDBjZDU5",
   "tracks": [
     {
       "added_at": "2023-02-17 22:40:08",
@@ -491,6 +491,26 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
+        "name": "Gen Bagay",
+        "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
+      },
+      "artists": [
+        {
+          "name": "Yani Martelly",
+          "url": "https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy"
+        },
+        {
+          "name": "Kenny",
+          "url": "https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f"
+        }
+      ],
+      "duration_ms": 194716,
+      "name": "Gen Bagay",
+      "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
         "name": "Akouna",
         "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 230679,
       "name": "Akouna",
       "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
-        "name": "Gen Bagay",
-        "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
-      },
-      "artists": [
-        {
-          "name": "Yani Martelly",
-          "url": "https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy"
-        },
-        {
-          "name": "Kenny",
-          "url": "https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f"
-        }
-      ],
-      "duration_ms": 194716,
-      "name": "Gen Bagay",
-      "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1051,26 +1051,26 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Nahil\u00e9",
-        "url": "https://open.spotify.com/album/3zTmCWFQQkVHtKI3tRKZR9"
+        "name": "Down With the Gouyad (Remix)",
+        "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
       },
       "artists": [
         {
-          "name": "RockLee",
-          "url": "https://open.spotify.com/artist/0xKCpd2XrSE30wn3NLBHBM"
+          "name": "DJ Magickenny",
+          "url": "https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N"
         },
         {
-          "name": "Wesli",
-          "url": "https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5"
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
         },
         {
-          "name": "Paul Cargnello",
-          "url": "https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj"
+          "name": "Yuri Da King",
+          "url": "https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo"
         }
       ],
-      "duration_ms": 229787,
-      "name": "Nahil\u00e9",
-      "url": "https://open.spotify.com/track/0uub812CwPqYSU0VZzcSYa"
+      "duration_ms": 291157,
+      "name": "Down With the Gouyad (Remix)",
+      "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1107,26 +1107,26 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Down With the Gouyad (Remix)",
-        "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
+        "name": "Nahil\u00e9",
+        "url": "https://open.spotify.com/album/3zTmCWFQQkVHtKI3tRKZR9"
       },
       "artists": [
         {
-          "name": "DJ Magickenny",
-          "url": "https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N"
+          "name": "RockLee",
+          "url": "https://open.spotify.com/artist/0xKCpd2XrSE30wn3NLBHBM"
         },
         {
-          "name": "Dee End",
-          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+          "name": "Wesli",
+          "url": "https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5"
         },
         {
-          "name": "Yuri Da King",
-          "url": "https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo"
+          "name": "Paul Cargnello",
+          "url": "https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj"
         }
       ],
-      "duration_ms": 291157,
-      "name": "Down With the Gouyad (Remix)",
-      "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
+      "duration_ms": 229787,
+      "name": "Nahil\u00e9",
+      "url": "https://open.spotify.com/track/0uub812CwPqYSU0VZzcSYa"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
+        "name": "Ram 6: Manmanm Se Ginen",
+        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
+      },
+      "artists": [
+        {
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
+      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
         "name": "U.F.O.",
         "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Ram 6: Manmanm Se Ginen",
-        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
-      },
-      "artists": [
-        {
-          "name": "RAM",
-          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
-      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
         "name": "Sote",
         "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 148000,
       "name": "Sote",
       "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
-        "name": "La Vibe Tropicale EP",
-        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
-      },
-      "artists": [
-        {
-          "name": "DZgot",
-          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
-        }
-      ],
-      "duration_ms": 230476,
-      "name": "Bout Konpa - Original Mix",
-      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
+        "name": "La Vibe Tropicale EP",
+        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
+      },
+      "artists": [
+        {
+          "name": "DZgot",
+          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
+        }
+      ],
+      "duration_ms": 230476,
+      "name": "Bout Konpa - Original Mix",
+      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Perle De Culture",
-        "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
-      },
-      "artists": [
-        {
-          "name": "Riva Nyri Precil",
-          "url": "https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0"
-        }
-      ],
-      "duration_ms": 265929,
-      "name": "Twa Fey",
-      "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
         "name": "Can't Catch Me",
         "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 229991,
       "name": "Can't Catch Me",
       "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
+        "name": "Perle De Culture",
+        "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
+      },
+      "artists": [
+        {
+          "name": "Riva Nyri Precil",
+          "url": "https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0"
+        }
+      ],
+      "duration_ms": 265929,
+      "name": "Twa Fey",
+      "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Bade Zile",
-        "url": "https://open.spotify.com/album/1UjE3qnxksHjs7nJIY2kSW"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 225727,
-      "name": "Bade Zile",
-      "url": "https://open.spotify.com/track/37EoU9KaaOMKhFdECTArsN"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
         "name": "Sol\u00e8y Midi",
         "url": "https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 229205,
       "name": "Sol\u00e8y Midi",
       "url": "https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
+        "name": "Bade Zile",
+        "url": "https://open.spotify.com/album/1UjE3qnxksHjs7nJIY2kSW"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 225727,
+      "name": "Bade Zile",
+      "url": "https://open.spotify.com/track/37EoU9KaaOMKhFdECTArsN"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
+        "name": "Culo",
+        "url": "https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES"
+      },
+      "artists": [
+        {
+          "name": "Jamhaitian",
+          "url": "https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq"
+        }
+      ],
+      "duration_ms": 192897,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
         "name": "Rasanbleman (Red Moon)",
         "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 309082,
       "name": "Ma Woule",
       "url": "https://open.spotify.com/track/252xRBHjl3jNeFelAaXOyS"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
-        "name": "Culo",
-        "url": "https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES"
-      },
-      "artists": [
-        {
-          "name": "Jamhaitian",
-          "url": "https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq"
-        }
-      ],
-      "duration_ms": 192897,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
     },
     {
       "added_at": "2023-02-17 22:40:08",

@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 14560,
+  "num_followers": 14586,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTkzNTA0MiwwMDAwMDAwMDViNWRjYWJhZDgxOGE3YmJkYWZjM2ViMDdjOTkwNzNj",
+  "snapshot_id": "MTY3NTkzNTA0MiwwMDAwMDAwMGQ4NDE4ZjhkMTcwMzViZmNmMDE4Mzg2YmMxMjc5OTE3",
   "tracks": [
     {
       "added_at": "2023-01-26 14:28:32",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-01-26 14:28:32",
       "album": {
-        "name": "Son Of Gunn!!",
-        "url": "https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq"
-      },
-      "artists": [
-        {
-          "name": "Shelly Manne and His Men",
-          "url": "https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF"
-        }
-      ],
-      "duration_ms": 289360,
-      "name": "Blue Steel",
-      "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
-    },
-    {
-      "added_at": "2023-01-26 14:28:32",
-      "album": {
         "name": "Jimmy Raney Featuring Bob Brookmeyer",
         "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
@@ -523,6 +507,38 @@
       "duration_ms": 246466,
       "name": "Isn't It Romantic",
       "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
+    },
+    {
+      "added_at": "2023-01-26 14:28:32",
+      "album": {
+        "name": "Son Of Gunn!!",
+        "url": "https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq"
+      },
+      "artists": [
+        {
+          "name": "Shelly Manne and His Men",
+          "url": "https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF"
+        }
+      ],
+      "duration_ms": 289360,
+      "name": "Blue Steel",
+      "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
+    },
+    {
+      "added_at": "2023-01-26 14:28:32",
+      "album": {
+        "name": "Bob Brookmeyer & Friends",
+        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
+      },
+      "artists": [
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 244466,
+      "name": "Sometime Ago",
+      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
     },
     {
       "added_at": "2023-01-26 14:28:32",
@@ -547,18 +563,18 @@
     {
       "added_at": "2023-01-26 14:28:32",
       "album": {
-        "name": "Bob Brookmeyer & Friends",
-        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
+        "name": "Afro-Cuban Influence",
+        "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
       },
       "artists": [
         {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+          "name": "Shorty Rogers",
+          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
         }
       ],
-      "duration_ms": 244466,
-      "name": "Sometime Ago",
-      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
+      "duration_ms": 257440,
+      "name": "Moon Over Cuba",
+      "url": "https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO"
     },
     {
       "added_at": "2023-01-26 14:28:32",
@@ -575,22 +591,6 @@
       "duration_ms": 219760,
       "name": "The Wind",
       "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
-    },
-    {
-      "added_at": "2023-01-26 14:28:32",
-      "album": {
-        "name": "Afro-Cuban Influence",
-        "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
-      },
-      "artists": [
-        {
-          "name": "Shorty Rogers",
-          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Moon Over Cuba",
-      "url": "https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO"
     },
     {
       "added_at": "2023-01-26 14:28:32",
@@ -627,6 +627,26 @@
     {
       "added_at": "2023-01-26 14:28:32",
       "album": {
+        "name": "Westward Bound! (Live)",
+        "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
+      },
+      "artists": [
+        {
+          "name": "Harold Land",
+          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
+        },
+        {
+          "name": "Carmell Jones",
+          "url": "https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx"
+        }
+      ],
+      "duration_ms": 518000,
+      "name": "Happily Dancing / Deep Harmonies Falling - Live",
+      "url": "https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs"
+    },
+    {
+      "added_at": "2023-01-26 14:28:32",
+      "album": {
         "name": "The Poll Winners Ride Again!",
         "url": "https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 289735,
       "name": "Custard Puff",
       "url": "https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge"
-    },
-    {
-      "added_at": "2023-01-26 14:28:32",
-      "album": {
-        "name": "Westward Bound! (Live)",
-        "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
-      },
-      "artists": [
-        {
-          "name": "Harold Land",
-          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
-        },
-        {
-          "name": "Carmell Jones",
-          "url": "https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx"
-        }
-      ],
-      "duration_ms": 518000,
-      "name": "Happily Dancing / Deep Harmonies Falling - Live",
-      "url": "https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs"
     },
     {
       "added_at": "2023-01-26 14:28:32",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-01-26 14:28:32",
       "album": {
-        "name": "Monterey Concerts",
-        "url": "https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 605400,
-      "name": "Walkin' With Wally - live",
-      "url": "https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ"
-    },
-    {
-      "added_at": "2023-01-26 14:28:32",
-      "album": {
         "name": "Gettin' Together!",
         "url": "https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 416866,
       "name": "Gettin' Together [Original Take]",
       "url": "https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX"
+    },
+    {
+      "added_at": "2023-01-26 14:28:32",
+      "album": {
+        "name": "Monterey Concerts",
+        "url": "https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 605400,
+      "name": "Walkin' With Wally - live",
+      "url": "https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ"
     },
     {
       "added_at": "2023-01-26 14:28:32",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-01-26 14:28:32",
       "album": {
-        "name": "Stan Getz At The Shrine",
-        "url": "https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12"
+        "name": "Verve Jazz Masters 52: Maynard Ferguson",
+        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Maynard Ferguson",
+          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
         }
       ],
-      "duration_ms": 523426,
-      "name": "We'll Be Together Again",
-      "url": "https://open.spotify.com/track/3fysSRqg0huNQnjCUS0zo3"
+      "duration_ms": 185493,
+      "name": "Willie Nillie",
+      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
     }
   ],
   "unique_name": "West Coast Jazz",

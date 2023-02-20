@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 376097,
+  "num_followers": 376142,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMGEyODY5MTNlNTM1OGY5MzJhNjZlNmIwN2VjYjQ1OWFk",
+  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMGFhMjkwZTU2ZTdmYjE0MDZjMWM1NjlhMzBlNjgyYTdi",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 163758,
-      "name": "Your Man",
-      "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 163758,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Giving In To The Love",
-      "url": "https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Ambivalence Avenue",
         "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 238640,
       "name": "lovers\u2019 carvings",
       "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Giving In To The Love",
+      "url": "https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Chemicals",
         "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 254871,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "RELAXER",
-        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "In Cold Blood",
-      "url": "https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "concrete",
         "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 212000,
       "name": "concrete",
       "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "RELAXER",
+        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "In Cold Blood",
+      "url": "https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Frail State Of Mind",
-        "url": "https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 234811,
-      "name": "Frail State Of Mind",
-      "url": "https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "are we?",
         "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 185885,
       "name": "superpowerful (with Crooked Colours)",
       "url": "https://open.spotify.com/track/3KgfNzfM4LfxP2v2miNIvh"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Frail State Of Mind",
+        "url": "https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 234811,
+      "name": "Frail State Of Mind",
+      "url": "https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "This World",
-        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
-      },
-      "artists": [
-        {
-          "name": "Astral Weeks",
-          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
-        }
-      ],
-      "duration_ms": 232613,
-      "name": "This World",
-      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "6 Letters",
         "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 166469,
       "name": "6 Letters",
       "url": "https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "This World",
+        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
+      },
+      "artists": [
+        {
+          "name": "Astral Weeks",
+          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+        }
+      ],
+      "duration_ms": 232613,
+      "name": "This World",
+      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Odessa",
+        "url": "https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH"
+      },
+      "artists": [
+        {
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Hummed Low",
+      "url": "https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "EPHEMERA",
         "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 183988,
       "name": "Sweet Summer Sweat",
       "url": "https://open.spotify.com/track/2rF0SIGlQLyU2Vg3Vxlxn5"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Odessa",
-        "url": "https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH"
-      },
-      "artists": [
-        {
-          "name": "Odessa",
-          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Hummed Low",
-      "url": "https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu"
     },
     {
       "added_at": "2023-01-11 21:01:15",

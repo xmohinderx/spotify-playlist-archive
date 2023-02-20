@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,401 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,415 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 38 | [Y Sólo Tú](https://open.spotify.com/track/4dgaCpg0k6iNUh1UUDvKay) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:47 |
 | 39 | [Su Ex](https://open.spotify.com/track/5iOBVp8GOUNi7McqMkkP0e) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Su Ex](https://open.spotify.com/album/2t5OkH8EsSABpNopumZDHs) | 2:56 |
 | 40 | [Morir De Amor \- En Vivo](https://open.spotify.com/track/1JR3r3N2Nji7HBCh3hspCi) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pura Pisteadera En Vivo](https://open.spotify.com/album/53PAMHm0cCCDiDAkwjKVjH) | 3:09 |
-| 41 | [La Receta \- En Vivo](https://open.spotify.com/track/58QkaQHFlxKTQsf9neikRA) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Receta \(En Vivo\)](https://open.spotify.com/album/3LeJnT1HvvXzr93VVXAQ1m) | 2:39 |
-| 42 | [Está De Moda No Querer](https://open.spotify.com/track/7aECAo13wkVlY6n2zrN9NF) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:50 |
+| 41 | [Está De Moda No Querer](https://open.spotify.com/track/7aECAo13wkVlY6n2zrN9NF) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:50 |
+| 42 | [La Receta \- En Vivo](https://open.spotify.com/track/58QkaQHFlxKTQsf9neikRA) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Receta \(En Vivo\)](https://open.spotify.com/album/3LeJnT1HvvXzr93VVXAQ1m) | 2:39 |
 | 43 | [Lo Mejor Que Me Ha Pasado](https://open.spotify.com/track/0gWF4aNCc8sAwKa82DNuv9) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Vida En Un Trago](https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox) | 3:25 |
 | 44 | [Lo Haces Ver Tan Fácil](https://open.spotify.com/track/1VIEewgA5FctEZtWyCg1Sl) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Lo Haces Ver Tan Fácil](https://open.spotify.com/album/3MFCVinGiviBRF5HeGVFv4) | 2:57 |
 | 45 | [Lo Que No Te Dije](https://open.spotify.com/track/3drohkbGXomHz87GCh89iV) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:03 |
 | 46 | [Incompleto](https://open.spotify.com/track/0uNO3irjiH5jXqCEDCt73n) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:26 |
-| 47 | [Sigo Adelante](https://open.spotify.com/track/10eFFITOIKej2Z8dTrS711) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sigo Adelante](https://open.spotify.com/album/1V2ZmX5Onv4YaHW4FhlWIC) | 2:50 |
-| 48 | [El Club De Los Dolidos](https://open.spotify.com/track/4A2n4Zss5KjRijiEC6mYas) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [El Club De Los Dolidos](https://open.spotify.com/album/7FWIe2JXLS20lAkOadKmbX) | 3:11 |
-| 49 | [Salud](https://open.spotify.com/track/4s5k54Ow9O6szycXuhaipW) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Salud](https://open.spotify.com/album/5JNU0nnxQ12Do72Bt8eVYk) | 2:27 |
+| 47 | [Salud](https://open.spotify.com/track/4s5k54Ow9O6szycXuhaipW) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Salud](https://open.spotify.com/album/5JNU0nnxQ12Do72Bt8eVYk) | 2:27 |
+| 48 | [Sigo Adelante](https://open.spotify.com/track/10eFFITOIKej2Z8dTrS711) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sigo Adelante](https://open.spotify.com/album/1V2ZmX5Onv4YaHW4FhlWIC) | 2:50 |
+| 49 | [El Club De Los Dolidos](https://open.spotify.com/track/4A2n4Zss5KjRijiEC6mYas) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [El Club De Los Dolidos](https://open.spotify.com/album/7FWIe2JXLS20lAkOadKmbX) | 3:11 |
 | 50 | [Cambié](https://open.spotify.com/track/1Pg0wv1d2LBiBrUK1oOvE8) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Hecho Para Ti](https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3) | 3:03 |
 | 51 | [No Debería Quererte](https://open.spotify.com/track/7DljH7oWQcvxAC57SdYBQd) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 |
 
-Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDAyYzMwMWYyYjUxMzc5OWExZWJiNGZhZDdjNjUwYzk5NA==`
+Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDA0ZmI0MzU1MTdhNTI4ZWIxZjI0ZDcxODc2NzdiMWQzMw==`

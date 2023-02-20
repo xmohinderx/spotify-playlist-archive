@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Tele / <br/>Early Noise Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,472 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,479 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [door](https://open.spotify.com/track/2I4ispQ4UjY6cot5eSJHTg) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [door](https://open.spotify.com/album/4lycjMMaKA1imPO6Wm4OUc) | 3:47 |
 | 60 | [1096](https://open.spotify.com/track/7Ld2efllkAfXdSOkAqPNwu) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [1096](https://open.spotify.com/album/2Cf2vmP3ffvd5n1Qo1UFNY) | 5:45 |
 
-Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMGM0OGU3OGQyNDRiNmYzMGI4NWY1ZWVkNDFlOGFiZmEw`
+Snapshot ID: `MTY3NjgxOTI1MSwwMDAwMDAwMDNhZjliMzk0ZTUxZTkxNDY4MzAwNmM5Y2I3YzU2NTQz`

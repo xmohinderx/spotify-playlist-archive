@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 53824,
+  "num_followers": 53830,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NzI0MiwwMDAwMDAwMGNlYzkzZThkNDk5NmQwYTEzY2Q2Y2IwNzdlZmVjZTIz",
+  "snapshot_id": "MTY3MzU4NzI0MiwwMDAwMDAwMDc2ZTQxOGFmY2Q4Yjc5YzQ2ZTJhYjQ0NDU2MjNiMWE2",
   "tracks": [
     {
       "added_at": "2023-01-13 05:20:42",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "\u00a1V\u00e1monos De Viaje! (Edit)",
+        "url": "https://open.spotify.com/album/7dRPOI1PHOiBR5KaB2HrZ8"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "\u00a1V\u00e1monos De Viaje! - Edit",
+      "url": "https://open.spotify.com/track/37aiG4NvRA0PUI70KKJjm2"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Never Love Me",
         "url": "https://open.spotify.com/album/0ZTaSPCpXrRIr0t9BbKFP9"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "\u00a1V\u00e1monos De Viaje! (Edit)",
-        "url": "https://open.spotify.com/album/7dRPOI1PHOiBR5KaB2HrZ8"
+        "name": "Hanging Tree",
+        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
       },
       "artists": [
         {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
         }
       ],
-      "duration_ms": 180800,
-      "name": "\u00a1V\u00e1monos De Viaje! - Edit",
-      "url": "https://open.spotify.com/track/37aiG4NvRA0PUI70KKJjm2"
+      "duration_ms": 173760,
+      "name": "Hanging Tree",
+      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1211,18 +1227,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Hanging Tree",
-        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
+        "name": "The King Is Dead",
+        "url": "https://open.spotify.com/album/3yRxD3JAUKPgjDrAkQXXho"
       },
       "artists": [
         {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
         }
       ],
-      "duration_ms": 173760,
-      "name": "Hanging Tree",
-      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
+      "duration_ms": 155224,
+      "name": "The King Is Dead",
+      "url": "https://open.spotify.com/track/1JkMlh3QfX8Sed828vjI0g"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1251,42 +1271,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "The King Is Dead",
-        "url": "https://open.spotify.com/album/3yRxD3JAUKPgjDrAkQXXho"
-      },
-      "artists": [
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Steller",
-          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
-        }
-      ],
-      "duration_ms": 155224,
-      "name": "The King Is Dead",
-      "url": "https://open.spotify.com/track/1JkMlh3QfX8Sed828vjI0g"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "De Sur A Norte",
-        "url": "https://open.spotify.com/album/1mDieLmWyCiyZWhPJUckVf"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 288813,
-      "name": "Polen",
-      "url": "https://open.spotify.com/track/077IhBAyPSoTflz9e2Xe5Z"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Playa",
         "url": "https://open.spotify.com/album/4SHQVKPxQEJuI2B48pKBSH"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 168400,
       "name": "Playa",
       "url": "https://open.spotify.com/track/4M5am73tsBXelZtBFtdJU3"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "De Sur A Norte",
+        "url": "https://open.spotify.com/album/1mDieLmWyCiyZWhPJUckVf"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 288813,
+      "name": "Polen",
+      "url": "https://open.spotify.com/track/077IhBAyPSoTflz9e2Xe5Z"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
-      },
-      "artists": [
-        {
-          "name": "Juan Soto",
-          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
-        },
-        {
-          "name": "Lemon Mint",
-          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
-        }
-      ],
-      "duration_ms": 252579,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "\u00a1Bang Bang!",
         "url": "https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 167666,
       "name": "\u00a1Bang Bang!",
       "url": "https://open.spotify.com/track/3jporpDKD12uIni94rIOjh"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
+      },
+      "artists": [
+        {
+          "name": "Juan Soto",
+          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
+        },
+        {
+          "name": "Lemon Mint",
+          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
+        }
+      ],
+      "duration_ms": 252579,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Legoo",
+        "url": "https://open.spotify.com/album/5cB9R964vdhuoQRDrI1nlS"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Legoo",
+      "url": "https://open.spotify.com/track/4VPvvQCuMKYPd8teOLKZji"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Ojos (La Noche Mix)",
         "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 180521,
       "name": "Ojos - La Noche Mix - Radio Edit",
       "url": "https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Legoo",
-        "url": "https://open.spotify.com/album/5cB9R964vdhuoQRDrI1nlS"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Legoo",
-      "url": "https://open.spotify.com/track/4VPvvQCuMKYPd8teOLKZji"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Desire Path",
-        "url": "https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V"
-      },
-      "artists": [
-        {
-          "name": "Lila Tirando a Violeta",
-          "url": "https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx"
-        },
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 215462,
-      "name": "Cuerpo Que Flota",
-      "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
       },
@@ -1695,26 +1675,6 @@
       "duration_ms": 369828,
       "name": "Highway - Original Mix",
       "url": "https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Switch It - Tom & Collins Remix",
-        "url": "https://open.spotify.com/album/5GVgoMKCACSH24RkPuhlwk"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        }
-      ],
-      "duration_ms": 194163,
-      "name": "Switch It - Tom & Collins Remix",
-      "url": "https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1739,18 +1699,42 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
+        "name": "Desire Path",
+        "url": "https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V"
       },
       "artists": [
         {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+          "name": "Lila Tirando a Violeta",
+          "url": "https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx"
+        },
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
         }
       ],
-      "duration_ms": 166611,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
+      "duration_ms": 215462,
+      "name": "Cuerpo Que Flota",
+      "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Switch It - Tom & Collins Remix",
+        "url": "https://open.spotify.com/album/5GVgoMKCACSH24RkPuhlwk"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "duration_ms": 194163,
+      "name": "Switch It - Tom & Collins Remix",
+      "url": "https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1767,6 +1751,22 @@
       "duration_ms": 216960,
       "name": "What U Doin' to Me",
       "url": "https://open.spotify.com/track/6rEoHcPe7BMsy3icZzTEcK"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
+      },
+      "artists": [
+        {
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+        }
+      ],
+      "duration_ms": 166611,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1979,6 +1979,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Perder (Hakuna)",
+        "url": "https://open.spotify.com/album/64qQ5mcZmAlOCLrulNudlh"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Gamuel Sori",
+          "url": "https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "Perder - Hakuna",
+      "url": "https://open.spotify.com/track/6L2CqVszA9dpjR6jasxvYY"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "cielo",
         "url": "https://open.spotify.com/album/1afFi1Z66mROoFltGIkHj3"
       },
@@ -1991,26 +2011,6 @@
       "duration_ms": 274716,
       "name": "cielo",
       "url": "https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Esto Aqui No Acaba",
-        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Flor Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Esto Aqui No Acaba",
-      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
     }
   ],
   "unique_name": "mint MX",

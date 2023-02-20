@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Josiah and the Bonnevilles
 
-233 songs - 14 hr 58 min
+234 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Right Down The Line](https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [NUDES](https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y) | 3:55 | 2021-12-13 |  |
 | [S.O.B.](https://open.spotify.com/track/5ZW8LRIJEnMf0cQATcjSxG) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [S.O.B.](https://open.spotify.com/album/0sK1mQtDiJ5MxejtsHGVOa) | 3:24 | 2021-12-13 | 2022-07-24 |
 | [Salt And The Sea](https://open.spotify.com/track/1JWtd8xh4Q5dyvnpBKh8L0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Salt And The Sea](https://open.spotify.com/album/6GVE4CFlrukN6Od0AnWL0c) | 4:22 | 2021-12-13 |  |
+| [Shotgun Willie](https://open.spotify.com/track/5eFPPAsdBF57JnZIQw92K3) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Shotgun Willie](https://open.spotify.com/album/7oYeYzP4kGMUxJJwqCNylk) | 2:35 | 2023-02-17 |  |
 | [Simple Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 2:18 | 2021-12-13 |  |
 | [Skinny Love \(Country Version\)](https://open.spotify.com/track/7gUDLbl3co7AL5oo4xPYu9) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Skinny Love \(Country Version\)](https://open.spotify.com/album/6RSaaIs4oHwZuA5wh9muvC) | 2:38 | 2023-01-27 |  |
 | [Sledgehammer](https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [So Low](https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y) | 4:24 | 2021-12-13 |  |
@@ -216,7 +217,7 @@
 | [This Land Is Your Land](https://open.spotify.com/track/4UtOOzXrtDa7G4gecQptuf) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [This Land Is Your Land](https://open.spotify.com/album/6egKGbJYX9n7YJhUBDibh9) | 3:40 | 2022-06-03 | 2023-02-19 |
 | [This Land Is Your Land](https://open.spotify.com/track/5VYafNKWKEbNr2BsYoABDo) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [This Land Is Your Land](https://open.spotify.com/album/5gDWqAaDpMooblBYFpUq5l) | 3:40 | 2021-12-13 | 2022-07-28 |
 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 | 2021-12-13 |  |
-| [To Love Somebody](https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:26 | 2022-06-03 |  |
+| [To Love Somebody](https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:26 | 2022-06-03 | 2023-02-20 |
 | [To Love Somebody](https://open.spotify.com/track/4QSydVI5rxWfRYlWHjF1Rd) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [To Love Somebody](https://open.spotify.com/album/1i2I4jCH7ISfrITKPp1vsd) | 3:26 | 2021-12-13 | 2022-07-29 |
 | [To Ramona](https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [To Ramona](https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU) | 3:37 | 2021-12-13 |  |
 | [Traveling After Dark](https://open.spotify.com/track/7aPgZfsBEFutmKygEEZWTk) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Traveling After Dark](https://open.spotify.com/album/1xDzNoxT7dn9bG3uyjHRUn) | 3:49 | 2021-12-13 | 2022-07-27 |

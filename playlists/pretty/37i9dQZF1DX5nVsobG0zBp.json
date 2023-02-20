@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 38736,
+  "num_followers": 38793,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMGU0MWI4MzM3ZmZmZGNhMjk2YWRiYzMyMjM5OTdjY2Ez",
+  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMGI2Yzk3YjExN2NhNzBiMjI1NjExZmZkMzdiODI5NTE4",
   "tracks": [
     {
       "added_at": "2023-02-17 00:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-02-17 00:00:00",
       "album": {
-        "name": "Nada a Esconder",
-        "url": "https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj"
+        "name": "Desconfinamento",
+        "url": "https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI"
       },
       "artists": [
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
         }
       ],
-      "duration_ms": 218258,
-      "name": "Nada a Esconder",
-      "url": "https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX"
+      "duration_ms": 186139,
+      "name": "Desconfinamento",
+      "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
     },
     {
       "added_at": "2023-02-17 00:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-02-17 00:00:00",
       "album": {
-        "name": "Desconfinamento",
-        "url": "https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI"
+        "name": "Nada a Esconder",
+        "url": "https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj"
       },
       "artists": [
         {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
         }
       ],
-      "duration_ms": 186139,
-      "name": "Desconfinamento",
-      "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
+      "duration_ms": 218258,
+      "name": "Nada a Esconder",
+      "url": "https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX"
     },
     {
       "added_at": "2023-02-17 00:00:00",
@@ -735,18 +735,22 @@
     {
       "added_at": "2023-02-17 00:00:00",
       "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
+        "name": "Popo",
+        "url": "https://open.spotify.com/album/6V1YM7CbiOwqwIEa73riB3"
       },
       "artists": [
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        },
+        {
+          "name": "Harley KSD",
+          "url": "https://open.spotify.com/artist/0AyoY8RFId4AqueSJvE99D"
         }
       ],
-      "duration_ms": 222642,
-      "name": "S\u00f3 Queria Sorrir",
-      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
+      "duration_ms": 199195,
+      "name": "Popo",
+      "url": "https://open.spotify.com/track/24QcmVdz7CwEYhohJxJ4EX"
     },
     {
       "added_at": "2023-02-17 00:00:00",
@@ -767,22 +771,18 @@
     {
       "added_at": "2023-02-17 00:00:00",
       "album": {
-        "name": "Popo",
-        "url": "https://open.spotify.com/album/6V1YM7CbiOwqwIEa73riB3"
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
       },
       "artists": [
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        },
-        {
-          "name": "Harley KSD",
-          "url": "https://open.spotify.com/artist/0AyoY8RFId4AqueSJvE99D"
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
         }
       ],
-      "duration_ms": 199195,
-      "name": "Popo",
-      "url": "https://open.spotify.com/track/24QcmVdz7CwEYhohJxJ4EX"
+      "duration_ms": 222642,
+      "name": "S\u00f3 Queria Sorrir",
+      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
     },
     {
       "added_at": "2023-02-17 00:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-02-17 00:00:00",
       "album": {
-        "name": "NR5",
-        "url": "https://open.spotify.com/album/1mJesBtaqgysGAlk9aFWuZ"
-      },
-      "artists": [
-        {
-          "name": "Sippinpurpp",
-          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
-        }
-      ],
-      "duration_ms": 226622,
-      "name": "NR5",
-      "url": "https://open.spotify.com/track/6IAVU9psKD2kJ2bGg4Vemp"
-    },
-    {
-      "added_at": "2023-02-17 00:00:00",
-      "album": {
         "name": "Stunka",
         "url": "https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 188571,
       "name": "Stunka",
       "url": "https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du"
+    },
+    {
+      "added_at": "2023-02-17 00:00:00",
+      "album": {
+        "name": "NR5",
+        "url": "https://open.spotify.com/album/1mJesBtaqgysGAlk9aFWuZ"
+      },
+      "artists": [
+        {
+          "name": "Sippinpurpp",
+          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+        }
+      ],
+      "duration_ms": 226622,
+      "name": "NR5",
+      "url": "https://open.spotify.com/track/6IAVU9psKD2kJ2bGg4Vemp"
     },
     {
       "added_at": "2023-02-17 00:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-02-17 00:00:00",
       "album": {
+        "name": "Hoji N'ka ta Rola",
+        "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 236526,
+      "name": "Hoji N'ka ta Rola",
+      "url": "https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA"
+    },
+    {
+      "added_at": "2023-02-17 00:00:00",
+      "album": {
         "name": "METE1LIKE",
         "url": "https://open.spotify.com/album/4J4OCfvHHWAMZ6unYRvBOd"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 197360,
       "name": "Fendi",
       "url": "https://open.spotify.com/track/29pZGynpAvASlWqVIinmGP"
-    },
-    {
-      "added_at": "2023-02-17 00:00:00",
-      "album": {
-        "name": "Hoji N'ka ta Rola",
-        "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 236526,
-      "name": "Hoji N'ka ta Rola",
-      "url": "https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA"
     },
     {
       "added_at": "2023-02-17 00:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-02-17 00:00:00",
       "album": {
-        "name": "FEELING",
-        "url": "https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "FEELING",
-      "url": "https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM"
-    },
-    {
-      "added_at": "2023-02-17 00:00:00",
-      "album": {
         "name": "Malandro",
         "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 210675,
       "name": "Malandro",
       "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
+    },
+    {
+      "added_at": "2023-02-17 00:00:00",
+      "album": {
+        "name": "FEELING",
+        "url": "https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "FEELING",
+      "url": "https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM"
     },
     {
       "added_at": "2023-02-17 00:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-02-17 00:00:00",
       "album": {
-        "name": "STAY FLY",
-        "url": "https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq"
-      },
-      "artists": [
-        {
-          "name": "LON3R JOHNY",
-          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
-        }
-      ],
-      "duration_ms": 234893,
-      "name": "STAY FLY",
-      "url": "https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ"
-    },
-    {
-      "added_at": "2023-02-17 00:00:00",
-      "album": {
         "name": "\u00c9 ASSIM",
         "url": "https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 249078,
       "name": "\u00c9 ASSIM",
       "url": "https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71"
+    },
+    {
+      "added_at": "2023-02-17 00:00:00",
+      "album": {
+        "name": "STAY FLY",
+        "url": "https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "STAY FLY",
+      "url": "https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ"
     },
     {
       "added_at": "2023-02-17 00:00:00",
