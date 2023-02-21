@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,092 likes - 150 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,193 likes - 150 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 70 | [Wasted](https://open.spotify.com/track/1NOTidLDDPTeau4BWJ0vwX) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Wasted](https://open.spotify.com/album/5UgR4xPUCnuHS5F1wNNc3x) | 3:05 |
 | 71 | [This Is Going To Be The Year](https://open.spotify.com/track/4ijH0M7n6oM4ZARKcInAyv) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [This Is Going To Be The Year](https://open.spotify.com/album/5lcSCem101LKn2rIxoODBU) | 4:12 |
 | 72 | [Love You Now](https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Love You Now](https://open.spotify.com/album/0Z7KfTzLDJxxGRAQgjcjM6) | 2:49 |
-| 73 | [I Feel It](https://open.spotify.com/track/5PTDUraHge5XgzG4lzm5Hb) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [I Feel It](https://open.spotify.com/album/4ubQDotUd6fO1TDA7CBQn7) | 4:56 |
+| 73 | [I Feel It](https://open.spotify.com/track/0E6m9inoxFDDpZ1BwjVups) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 4:56 |
 | 74 | [The End](https://open.spotify.com/track/7qkX2mHStdrHVC2NFWqwpo) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/12FtJ1DgVIT12XlvPRxtMb) | 3:10 |
 | 75 | [LIFE ON EARTH \- with Preservation Hall Jazz Band](https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [LIFE ON EARTH \(with Preservation Hall Jazz Band\)](https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w) | 6:20 |
 | 76 | [Swain](https://open.spotify.com/track/3H6dgI4lTrtqTT10bm6tWC) | [Prince of Eden](https://open.spotify.com/artist/29Wvrc4vfXuf9eMexefk7N) | [Swain](https://open.spotify.com/album/6n0VgOPFJbvdGY0QXbVsTv) | 3:00 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [In The Thick Of It](https://open.spotify.com/track/3F1lggiMnOfsZ9hQZIWlPH) | [Will Sheff](https://open.spotify.com/artist/0JUTh3GM8SoFZTEyqPCRl5) | [In The Thick Of It](https://open.spotify.com/album/3f9PBUSAwy5sDGBDKVgOck) | 6:06 |
 | 150 | [A Seminar In Tokyo](https://open.spotify.com/track/0CFc37YTJa449oOe660cSU) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Spanish Villager No\. 3](https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU) | 4:32 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDE5MmNiMTNkNGZiZmVlYzY4YzMxNjNhN2U2MmE3YWI0`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGRiZWY4MDNlMGQzZTg3NjA5MjQyYzBlYWFkODFiY2Y3`

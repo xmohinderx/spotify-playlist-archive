@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0eXqYHdgDwI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0eXqYHdgDwI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0eXqYHdgDwI)
 
-### [Canzoni Tristi \- San Valentino Edition](https://open.spotify.com/playlist/37i9dQZF1DX0eXqYHdgDwI)
+### [Canzoni Tristi](https://open.spotify.com/playlist/37i9dQZF1DX0eXqYHdgDwI)
 
 > canzoni su cui piangere 🥀
 

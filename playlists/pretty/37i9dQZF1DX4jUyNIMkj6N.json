@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 174081,
+  "num_followers": 174140,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMDc3N2ZhNDVmZDc3NTMzZTEyMTZmNTY3ZjViODBjMjdk",
+  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMGIwNTYxZjg3ZWNiMzEyZjJhZjM4YTExZjE5NTM3NDlm",
   "tracks": [
     {
       "added_at": "2023-02-16 23:01:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
         "name": "Can Summer Love Last Forever?",
         "url": "https://open.spotify.com/album/409EdmKQVMvhRHpJSHBnJ3"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Unknown / (It's Not About) Running",
-        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 246316,
-      "name": "(It's Not About) Running",
-      "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "Your Ghost",
         "url": "https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 288678,
       "name": "Stilla",
       "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "Unknown / (It's Not About) Running",
+        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 246316,
+      "name": "(It's Not About) Running",
+      "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "One Day at a Time",
-        "url": "https://open.spotify.com/album/5X4jirryDmU1Jg0MgTqP8c"
-      },
-      "artists": [
-        {
-          "name": "Benedikt",
-          "url": "https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y"
-        }
-      ],
-      "duration_ms": 152120,
-      "name": "One Day at a Time",
-      "url": "https://open.spotify.com/track/32QJXzwGjE3ok7NVcgz9yq"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Poetry & Airplanes",
-        "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
+        "name": "One Day at a Time",
+        "url": "https://open.spotify.com/album/5X4jirryDmU1Jg0MgTqP8c"
       },
       "artists": [
         {
-          "name": "Teitur",
-          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
+          "name": "Benedikt",
+          "url": "https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y"
         }
       ],
-      "duration_ms": 211426,
-      "name": "I Was Just Thinking",
-      "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
+      "duration_ms": 152120,
+      "name": "One Day at a Time",
+      "url": "https://open.spotify.com/track/32QJXzwGjE3ok7NVcgz9yq"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -839,18 +823,18 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Tran\u00f8y fyr",
-        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
+        "name": "Poetry & Airplanes",
+        "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
       },
       "artists": [
         {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+          "name": "Teitur",
+          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
         }
       ],
-      "duration_ms": 236480,
-      "name": "Tran\u00f8y fyr",
-      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
+      "duration_ms": 211426,
+      "name": "I Was Just Thinking",
+      "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -883,6 +867,22 @@
       "duration_ms": 220080,
       "name": "Look At The Light",
       "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "Tran\u00f8y fyr",
+        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Tran\u00f8y fyr",
+      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Grey",
-        "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
-      },
-      "artists": [
-        {
-          "name": "Silver Lining",
-          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "Time of Waiting",
         "url": "https://open.spotify.com/album/55d318EyF219Cbnei0f0wV"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 168583,
       "name": "Time of Waiting",
       "url": "https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
+      },
+      "artists": [
+        {
+          "name": "Silver Lining",
+          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/4yJnsynVnA85f4GcZkZaKg"
+        "name": "The Last Great Country Swindle",
+        "url": "https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ"
       },
       "artists": [
         {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+          "name": "Bendik Br\u00e6nne",
+          "url": "https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1"
+        },
+        {
+          "name": "Daniel Romano",
+          "url": "https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD"
         }
       ],
-      "duration_ms": 185280,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/321CAPcR4HTnaaxR0dus2e"
+      "duration_ms": 203933,
+      "name": "Ain't Nobody Like Me",
+      "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
     }
   ],
   "unique_name": "Nordic Folk",

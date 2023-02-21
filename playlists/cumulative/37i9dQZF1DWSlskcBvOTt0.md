@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-368 songs - 1 day 14 hr 7 min
+369 songs - 1 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Ben Suliman](https://open.spotify.com/track/61K2ojT7cOXHEX6sPa0RTP) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Adam Husa](https://open.spotify.com/artist/0fLNKqkCYBUhjSHX3yVZ3i) | [Ben Suliman](https://open.spotify.com/album/3pGaHYcyYR5AK0dR5LzqET) | 7:47 | 2021-04-21 | 2022-07-24 |
 | [Birdhouse](https://open.spotify.com/track/1ZVQwuH7hkZiT6XljB2Au3) | [Ykonosh](https://open.spotify.com/artist/2peTWb6ju8YmQQSw5LcA5C), [Mundai](https://open.spotify.com/artist/652ljuzwRVrf1Y1Ly6dVpi) | [Birdhouse](https://open.spotify.com/album/0tAg6GiHkEzpfN4mSyFBf8) | 6:40 | 2022-01-21 | 2022-07-25 |
 | [Birds and Smoke](https://open.spotify.com/track/61r7nhS0hlGJeQXDHy58pL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Birds and Smoke](https://open.spotify.com/album/362PlMh5VwHG30Wy6AX2un) | 6:08 | 2021-06-04 | 2022-07-29 |
-| [Birds and Smoke](https://open.spotify.com/track/6gFvgBSlJFjC4pswZJKSx6) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Walden Pond](https://open.spotify.com/album/5yS2vHJXAfLwUNYmuJ556C) | 6:08 | 2022-07-01 |  |
+| [Birds and Smoke](https://open.spotify.com/track/6gFvgBSlJFjC4pswZJKSx6) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Walden Pond](https://open.spotify.com/album/5yS2vHJXAfLwUNYmuJ556C) | 6:08 | 2022-07-01 | 2023-02-21 |
 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 | 2022-04-11 |  |
 | [Blinding Lights \- Joris Voorn Remix](https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Blinding Lights \(Joris Voorn Remix\)](https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J) | 5:13 | 2021-05-03 |  |
 | [Blue Rose](https://open.spotify.com/track/1WByZBGVI09ggCjH5wru9a) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Blue Rose / Red Room](https://open.spotify.com/album/1SDs4zVPGrZSSTaRxmsFl3) | 4:49 | 2022-01-14 | 2022-07-27 |
@@ -354,6 +354,7 @@
 | [ut i rommet](https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [Kløbb Ka2 \(Vol\. 3\)](https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N) | 7:26 | 2022-07-01 |  |
 | [UUUU \- &ME Remix](https://open.spotify.com/track/0rfLJGjPdvqHXgvDCTdGc6) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [UUUU \(&ME Remix\)](https://open.spotify.com/album/6WcXcUljr548zs4lB6zWBb) | 6:57 | 2022-05-13 |  |
 | [Vaia](https://open.spotify.com/track/1kT6fqaDmxqMjEMjoBqYRy) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Vaia](https://open.spotify.com/album/09yjT1oJ7hv9lqMUYjFPnO) | 4:17 | 2021-04-21 | 2022-04-29 |
+| [Venus](https://open.spotify.com/track/7L567iPcbnYYpmfduZsj8n) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Celestial Bodies](https://open.spotify.com/album/2kySDejbrQxj5HGuhXUXyT) | 6:23 | 2023-02-17 |  |
 | [Viking](https://open.spotify.com/track/0SD82lVuflMLT8S4BamWtp) | [Adam Husa](https://open.spotify.com/artist/0fLNKqkCYBUhjSHX3yVZ3i), [M O N I T O R S](https://open.spotify.com/artist/6ZxQphvx5MuI3m1xzHSE6C) | [Viking](https://open.spotify.com/album/5J4gonRmEDbWf0bdqBaph7) | 6:58 | 2021-04-21 | 2022-06-30 |
 | [Voices of Salvation](https://open.spotify.com/track/4GY2MQG6X5ueZWB9IVqWXB) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Signals](https://open.spotify.com/album/3YWkAZqJYfmZAAtqdLUXJ5) | 6:40 | 2022-04-19 | 2022-05-26 |
 | [Voicing Something \- Adriatique Remix](https://open.spotify.com/track/4eJ4jBDqGwA9Z9kesunDQE) | [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi), [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Live and Love EP](https://open.spotify.com/album/2AcfJOvLQ9LwpmnM4cY8JW) | 7:24 | 2022-04-19 | 2022-08-06 |

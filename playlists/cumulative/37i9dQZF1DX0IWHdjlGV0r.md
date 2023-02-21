@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0IWHdjlGV0r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0IWHdjlGV0r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0IWHdjlGV0r)
 
-### [Arsenico \- San Valentino Edition](https://open.spotify.com/playlist/37i9dQZF1DX0IWHdjlGV0r)
+### [Arsenico ](https://open.spotify.com/playlist/37i9dQZF1DX0IWHdjlGV0r)
 
-> Certi amori bruciano di più, soprattutto a San Valentino\. Cover: Neima Ezza
+> Certi amori bruciano più di altri\. Cover: Neima Ezza
 
 109 songs - 5 hr 45 min
 

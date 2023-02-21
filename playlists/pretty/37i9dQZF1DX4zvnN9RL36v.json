@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 4394,
+  "num_followers": 4398,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzNDc5MiwwMDAwMDAwMDZjMjQwODdkNmUxOTgwMzI0Y2U4ZTVhZjM3NzI1MThl",
+  "snapshot_id": "MTY3NDYzNDc5MiwwMDAwMDAwMGRmNmM4NTgyNjZjODA2MWZjMjM4MjU4ZTk3MGZjYmFi",
   "tracks": [
     {
       "added_at": "2023-01-25 08:19:52",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
+        "name": "Modern Times",
+        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 246151,
+      "name": "(Bonus Track) Voice Mail (Korean Version)",
+      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
+    },
+    {
+      "added_at": "2023-01-25 08:19:52",
+      "album": {
         "name": "Da Capo",
         "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
-        "name": "Modern Times",
-        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 246151,
-      "name": "(Bonus Track) Voice Mail (Korean Version)",
-      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
-    },
-    {
-      "added_at": "2023-01-25 08:19:52",
-      "album": {
         "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 219550,
       "name": "Love you (bye)",
       "url": "https://open.spotify.com/track/4xYXT7ZTyVvhdhNJotWGik"
-    },
-    {
-      "added_at": "2023-01-25 08:19:52",
-      "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 232729,
-      "name": "One-Sided Love",
-      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
     },
     {
       "added_at": "2023-01-25 08:19:52",
@@ -587,6 +571,22 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 232729,
+      "name": "One-Sided Love",
+      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
+    },
+    {
+      "added_at": "2023-01-25 08:19:52",
+      "album": {
         "name": "Chocolate, Pt. 8 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5NkL3gOmdX8HxFUrDNFJFE"
       },
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
+        "name": "RE:PLAYLIST Vol.3",
+        "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 264921,
+      "name": "Love Me Once Again",
+      "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
+    },
+    {
+      "added_at": "2023-01-25 08:19:52",
+      "album": {
         "name": "Second Story",
         "url": "https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 199960,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6ly2IeEPXEtzsUMgwOk3P6"
-    },
-    {
-      "added_at": "2023-01-25 08:19:52",
-      "album": {
-        "name": "RE:PLAYLIST Vol.3",
-        "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 264921,
-      "name": "Love Me Once Again",
-      "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
     },
     {
       "added_at": "2023-01-25 08:19:52",

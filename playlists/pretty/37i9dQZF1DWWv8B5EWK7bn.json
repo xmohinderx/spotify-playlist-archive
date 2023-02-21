@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 137678,
+  "num_followers": 137882,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMxNjAwNiwwMDAwMDAwMDNhOThkMmFjMjUwZTI0ZmQxOWRkNWNlYTExZDExNmUw",
+  "snapshot_id": "MTY3NjMxNjAwNiwwMDAwMDAwMDU1ZjQ4MTNhNTJhMDU3NWE2ZWY4MjgwN2QyODkzNWEy",
   "tracks": [
     {
       "added_at": "2023-01-20 04:21:17",
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g"
     },
     {
-      "added_at": "2023-02-20 01:09:44",
+      "added_at": "2023-02-21 01:10:54",
       "album": {
         "name": "Invierno (Remix)",
         "url": "https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj"
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
     },
     {
-      "added_at": "2023-01-03 03:58:37",
-      "album": {
-        "name": "I Love You Jennifer B",
-        "url": "https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8"
-      },
-      "artists": [
-        {
-          "name": "Jockstrap",
-          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
-        }
-      ],
-      "duration_ms": 372800,
-      "name": "Concrete Over Water",
-      "url": "https://open.spotify.com/track/4yBkKSNDihdHWcFQuSRkKV"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "Mood Valiant",
@@ -423,6 +407,22 @@
       "duration_ms": 157179,
       "name": "Sour Sun",
       "url": "https://open.spotify.com/track/3OjsDgh6zdsi1PbYfOkgt6"
+    },
+    {
+      "added_at": "2023-01-03 03:58:37",
+      "album": {
+        "name": "I Love You Jennifer B",
+        "url": "https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8"
+      },
+      "artists": [
+        {
+          "name": "Jockstrap",
+          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
+        }
+      ],
+      "duration_ms": 372800,
+      "name": "Concrete Over Water",
+      "url": "https://open.spotify.com/track/4yBkKSNDihdHWcFQuSRkKV"
     },
     {
       "added_at": "2023-01-07 02:35:25",
@@ -579,6 +579,38 @@
     {
       "added_at": "2023-01-20 04:21:17",
       "album": {
+        "name": "Young Americans (2016 Remaster)",
+        "url": "https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 287573,
+      "name": "Win - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7MB0GpjxLIiqhPgubokq8F"
+    },
+    {
+      "added_at": "2022-09-29 00:42:15",
+      "album": {
+        "name": "Blood Be Fluid",
+        "url": "https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID"
+      },
+      "artists": [
+        {
+          "name": "Julia Romana",
+          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
+        }
+      ],
+      "duration_ms": 227276,
+      "name": "Blood Be Fluid",
+      "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
+    },
+    {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
         "name": "MERCY",
         "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
       },
@@ -597,20 +629,20 @@
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
     },
     {
-      "added_at": "2023-01-20 04:21:17",
+      "added_at": "2022-08-31 04:34:22",
       "album": {
-        "name": "Young Americans (2016 Remaster)",
-        "url": "https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P"
+        "name": "If I Were A Butterfly",
+        "url": "https://open.spotify.com/album/11R59ESDiW114ngszKUkyH"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
         }
       ],
-      "duration_ms": 287573,
-      "name": "Win - 2016 Remaster",
-      "url": "https://open.spotify.com/track/7MB0GpjxLIiqhPgubokq8F"
+      "duration_ms": 311948,
+      "name": "If I Were A Butterfly - Single Version",
+      "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
     },
     {
       "added_at": "2023-01-07 04:00:59",
@@ -631,38 +663,6 @@
       "duration_ms": 269013,
       "name": "Death in a Constellation",
       "url": "https://open.spotify.com/track/72x6VhwpNjHOvo5OM4iKbe"
-    },
-    {
-      "added_at": "2022-09-29 00:42:15",
-      "album": {
-        "name": "Blood Be Fluid",
-        "url": "https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID"
-      },
-      "artists": [
-        {
-          "name": "Julia Romana",
-          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
-        }
-      ],
-      "duration_ms": 227276,
-      "name": "Blood Be Fluid",
-      "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
-    },
-    {
-      "added_at": "2022-08-31 04:34:22",
-      "album": {
-        "name": "If I Were A Butterfly",
-        "url": "https://open.spotify.com/album/11R59ESDiW114ngszKUkyH"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 311948,
-      "name": "If I Were A Butterfly - Single Version",
-      "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
     },
     {
       "added_at": "2022-01-20 01:49:28",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL"
     },
     {
+      "added_at": "2022-09-21 00:47:37",
+      "album": {
+        "name": "The world within our bedrooms",
+        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        }
+      ],
+      "duration_ms": 153746,
+      "name": "Frame Of Reference",
+      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
+    },
+    {
       "added_at": "2022-02-04 15:20:01",
       "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
@@ -751,22 +767,6 @@
       "duration_ms": 171342,
       "name": "Log In Your Fire",
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
-    },
-    {
-      "added_at": "2022-09-21 00:47:37",
-      "album": {
-        "name": "The world within our bedrooms",
-        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
-      },
-      "artists": [
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        }
-      ],
-      "duration_ms": 153746,
-      "name": "Frame Of Reference",
-      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
     },
     {
       "added_at": "2022-07-15 05:42:04",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/6H6NwvDmPVk0VvHRfA6cYs"
     },
     {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 331266,
-      "name": "MOONSTRUCK (Nico's Song)",
-      "url": "https://open.spotify.com/track/34IYD8wQPrKsOcZgUS39Td"
-    },
-    {
       "added_at": "2022-07-19 04:00:00",
       "album": {
         "name": "\u00a1Ay!",
@@ -879,6 +863,22 @@
       "duration_ms": 187307,
       "name": "Atemporal",
       "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
+    },
+    {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 331266,
+      "name": "MOONSTRUCK (Nico's Song)",
+      "url": "https://open.spotify.com/track/34IYD8wQPrKsOcZgUS39Td"
     },
     {
       "added_at": "2023-01-04 00:57:30",
@@ -961,6 +961,26 @@
       "url": "https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX"
     },
     {
+      "added_at": "2022-09-06 17:57:02",
+      "album": {
+        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
+        "url": "https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        },
+        {
+          "name": "Nurse With Wound",
+          "url": "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
+        }
+      ],
+      "duration_ms": 646683,
+      "name": "Simple Headphone Mind",
+      "url": "https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7"
+    },
+    {
       "added_at": "2023-01-07 04:00:59",
       "album": {
         "name": "Painted The Room",
@@ -997,26 +1017,6 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
-      "added_at": "2022-09-06 17:57:02",
-      "album": {
-        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
-        "url": "https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        },
-        {
-          "name": "Nurse With Wound",
-          "url": "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
-        }
-      ],
-      "duration_ms": 646683,
-      "name": "Simple Headphone Mind",
-      "url": "https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7"
-    },
-    {
       "added_at": "2022-08-31 05:00:32",
       "album": {
         "name": "\u00a1Ay!",
@@ -1031,22 +1031,6 @@
       "duration_ms": 164598,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
-    },
-    {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Dream - Edit",
-      "url": "https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1065,20 +1049,20 @@
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
-      "added_at": "2022-03-16 16:59:09",
+      "added_at": "2023-01-20 04:21:17",
       "album": {
-        "name": "Petunia",
-        "url": "https://open.spotify.com/album/1Q7Vtfnna0m7ZCwf9nwEWj"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr"
       },
       "artists": [
         {
-          "name": "Tonstartssbandht",
-          "url": "https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW"
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
         }
       ],
-      "duration_ms": 422240,
-      "name": "What Has Happened",
-      "url": "https://open.spotify.com/track/5JkXLujwK0t6zq2qwo5bon"
+      "duration_ms": 246333,
+      "name": "Dream - Edit",
+      "url": "https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2"
     },
     {
       "added_at": "2022-09-11 03:49:06",
@@ -1097,6 +1081,22 @@
       "url": "https://open.spotify.com/track/4atyJDHOOzjIueAea8aokP"
     },
     {
+      "added_at": "2022-03-16 16:59:09",
+      "album": {
+        "name": "Petunia",
+        "url": "https://open.spotify.com/album/1Q7Vtfnna0m7ZCwf9nwEWj"
+      },
+      "artists": [
+        {
+          "name": "Tonstartssbandht",
+          "url": "https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW"
+        }
+      ],
+      "duration_ms": 422240,
+      "name": "What Has Happened",
+      "url": "https://open.spotify.com/track/5JkXLujwK0t6zq2qwo5bon"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Behind The Sun",
@@ -1111,6 +1111,26 @@
       "duration_ms": 209817,
       "name": "Behind The Sun",
       "url": "https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D"
+    },
+    {
+      "added_at": "2022-11-17 22:51:20",
+      "album": {
+        "name": "Starry Nights",
+        "url": "https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "duration_ms": 205067,
+      "name": "Starry Nights",
+      "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
     },
     {
       "added_at": "2022-09-12 20:31:51",
@@ -1135,26 +1155,6 @@
       "duration_ms": 262893,
       "name": "Can I Call You",
       "url": "https://open.spotify.com/track/71RrgXAd9GrlQKvzvLjirz"
-    },
-    {
-      "added_at": "2022-11-17 22:51:20",
-      "album": {
-        "name": "Starry Nights",
-        "url": "https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "Neal Francis",
-          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
-        }
-      ],
-      "duration_ms": 205067,
-      "name": "Starry Nights",
-      "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
     },
     {
       "added_at": "2022-09-22 17:52:51",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/1LYjD6mxYddoAymI2Qq2YY"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Universe Is Always Right",
-        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
-      },
-      "artists": [
-        {
-          "name": "Hayden Thorpe",
-          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
-        }
-      ],
-      "duration_ms": 244390,
-      "name": "The Universe Is Always Right",
-      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
-    },
-    {
       "added_at": "2022-07-15 05:42:57",
       "album": {
         "name": "Pulse Of The Early Brain [Switched On Volume 5]",
@@ -1223,6 +1207,22 @@
       "duration_ms": 176952,
       "name": "Robot Riot",
       "url": "https://open.spotify.com/track/0dG7GoHWWqJQc9wiYuPt2A"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Universe Is Always Right",
+        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+        }
+      ],
+      "duration_ms": 244390,
+      "name": "The Universe Is Always Right",
+      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
     },
     {
       "added_at": "2022-08-13 00:53:45",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Flock",
@@ -1515,6 +1499,22 @@
       "duration_ms": 301153,
       "name": "The Revolution of Super Visions",
       "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
+    },
+    {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2023-01-20 04:21:17",

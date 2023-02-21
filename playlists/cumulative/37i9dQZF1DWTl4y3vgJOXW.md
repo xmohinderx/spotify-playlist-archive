@@ -4,7 +4,7 @@
 
 > First Time NBA All\-Star <a href="www.instagram.com/jaren"> Jaren Jackson Jr.</a> takes over Locked In.
 
-442 songs - 22 hr 24 min
+444 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Hustlin'](https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk) | 4:14 | 2021-09-02 | 2023-02-18 |
 | [I Dare U](https://open.spotify.com/track/4rXCupv1AQ24ZltH4UWJTd) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Serious 2](https://open.spotify.com/album/2EEercDSp5OpbqROZSD7VP) | 2:30 | 2023-02-17 |  |
 | [I Get the Bag \(feat\. Migos\)](https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Mr\. Davis](https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ) | 3:53 | 2021-09-02 | 2023-02-18 |
+| [i know](https://open.spotify.com/track/6PUrGILWggESRQVzezloBr) | [Trip J](https://open.spotify.com/artist/33tX0Wud6tPk1fZjkPQBmh), [FUBU Banks](https://open.spotify.com/artist/0uJkvyABqDSjj2lplc6sYl) | [That's a Bet](https://open.spotify.com/album/62DeiIXMjo6CHgBO58hBGc) | 3:20 | 2023-02-20 |  |
 | [I Like](https://open.spotify.com/track/6zaoVw156UmdL8D3xOwggX) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [I Like](https://open.spotify.com/album/1NVTjDBAJGzgkCgnj9Mkuo) | 1:51 | 2022-12-09 | 2022-12-31 |
 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 | 2023-02-17 |  |
 | [I Wanna Rock \(feat\. Gunna\)](https://open.spotify.com/track/3xB5uHrhe0uaIxNGf3JwZA) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [I Wanna Rock \(feat\. Gunna\)](https://open.spotify.com/album/6xtugMcB7hTNJH14wYxzBJ) | 2:43 | 2021-09-02 | 2022-06-25 |
@@ -265,6 +266,7 @@
 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 | 2022-07-29 | 2023-02-18 |
 | [NEVEREVER](https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 2:24 | 2023-02-17 |  |
 | [New Charger](https://open.spotify.com/track/444CnyJKptDQ4aDEzDM9Jd) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV) | [4 Month Binge Before Revenge](https://open.spotify.com/album/6MchqcLghquDnTgXQwBfcz) | 2:18 | 2023-02-17 |  |
+| [no balls](https://open.spotify.com/track/7D15ieaVFXwED0QA2ljUu0) | [Trip J](https://open.spotify.com/artist/33tX0Wud6tPk1fZjkPQBmh), [FUBU Banks](https://open.spotify.com/artist/0uJkvyABqDSjj2lplc6sYl) | [That's a Bet](https://open.spotify.com/album/62DeiIXMjo6CHgBO58hBGc) | 3:10 | 2023-02-20 |  |
 | [No Flash](https://open.spotify.com/track/3DhQknNJsPtkRj1D7bxjvl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Nobody Safe](https://open.spotify.com/album/1w3bK9CG80xsuDPlrz5EV7) | 2:21 | 2021-09-02 | 2022-12-10 |
 | [No Kizzy](https://open.spotify.com/track/7qz6W9YJgmVxw8lqfyl6x4) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Hood Baby 2](https://open.spotify.com/album/0SAGgynuEGS5Dg1kpVRFE6) | 2:44 | 2023-02-17 |  |
 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 | 2022-12-02 | 2023-02-18 |

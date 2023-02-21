@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-761 songs - 1 day 18 hr 38 min
+762 songs - 1 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [Perra](https://open.spotify.com/track/04JVwAItboGpDhDgC4fNta) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:37 | 2021-09-12 | 2021-10-03 |
 | [Perra](https://open.spotify.com/track/3xD6kwkNjCTEKvMT5zgHAx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Perra](https://open.spotify.com/album/1CXKTe16rgSx0qBxdbtRlh) | 2:38 | 2021-08-29 | 2021-09-12 |
 | [Perreando Tra Tra](https://open.spotify.com/track/5SE3xOoQQCtamCOxXGHi7Q) | [BM Legacy](https://open.spotify.com/artist/1ux3jQBNhz3EQwG8qgbb1q), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Perreando Tra Tra](https://open.spotify.com/album/6LEmS4V7I1S2S1XvCN4aLr) | 2:30 | 2022-11-11 | 2022-11-13 |
+| [Perrita](https://open.spotify.com/track/05jndaIHnQWUdAxKQFhFtG) | [Leti Vi](https://open.spotify.com/artist/7eh1omG5qfGhijVpTJY4Lw), [Aleica](https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Perrita](https://open.spotify.com/album/0OkGFySkbI2wmirxKdxmMU) | 2:12 | 2023-02-20 |  |
 | [Perro](https://open.spotify.com/track/74o96bZLSIZFIG12H7ZwUm) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:33 | 2022-09-03 | 2022-09-09 |
 | [Pikete](https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pikete](https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd) | 2:33 | 2021-05-30 | 2021-06-04 |
 | [Pin](https://open.spotify.com/track/5L1GX9GFIHYm1AMAlNgoHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:41 | 2021-11-28 | 2021-12-05 |
@@ -595,7 +596,7 @@
 | [Roce](https://open.spotify.com/track/5M8sNlIjRkalIwXm0sjhx1) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E), [Bimbo el Oso Mañoso](https://open.spotify.com/artist/2P5WbTImnPSJQV4ZbQuQZ3) | [Roce](https://open.spotify.com/album/2naWs0HQGnkjaUfwlV78av) | 2:13 | 2022-10-09 | 2022-11-24 |
 | [Rochy RD X Anuel AA \(LOS ILLUMINATY\) \- Radio Edit](https://open.spotify.com/track/29926VVZGW5KftlGkeBFiM) | [MUSICSPAIN](https://open.spotify.com/artist/5oBLRcgyxtolc40gJbPIjl) | [Rochy RD X Anuel AA \(LOS ILLUMINATY\) \[Radio Edit\]](https://open.spotify.com/album/3o0AXFonj6LxXS7Lk5dyao) | 2:37 | 2022-01-12 | 2022-01-21 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2022-12-26 | 2022-12-28 |
-| [RON COLA](https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:06 | 2023-02-19 |  |
+| [RON COLA](https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:06 | 2023-02-19 | 2023-02-21 |
 | [Ropa Cara](https://open.spotify.com/track/2zY1iTaEgs8ROkkWtWLe7l) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:42 | 2021-03-27\* | 2021-03-27 |
 | [Rulay](https://open.spotify.com/track/7mLJiuLlh6v8Hz5PfYfOTh) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Rulay](https://open.spotify.com/album/7ewfnID6qhnszV6eta2uri) | 3:09 | 2022-10-01 | 2022-11-05 |
 | [Rulay & Pica Pollo](https://open.spotify.com/track/0RocDM4foAy5mxEKuegGnu) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [EL PERROTE WZ](https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D), [Wander Love](https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd) | [Rulay & Pica Pollo](https://open.spotify.com/album/7jNzI4iV6TXfg5ERQbgUyu) | 4:23 | 2023-02-13 |  |

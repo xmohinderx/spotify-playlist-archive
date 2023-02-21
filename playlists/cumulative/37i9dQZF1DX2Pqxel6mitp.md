@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-154 songs - 9 hr 32 min
+155 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [I Want to Go](https://open.spotify.com/track/6y2PzzIq9rPM5zzcRDmuYH) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Alabama Blues!](https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa) | 1:39 | 2023-01-27 |  |
 | [If My Mind Don't Change \(feat\. Sharde Thomas\)](https://open.spotify.com/track/0EUW0WhEBHJlUOw0JaO38W) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Sharde Turner](https://open.spotify.com/artist/5RkXIaQtDyVsWKfNzn08yz) | [Philadelphia Mississippi](https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3) | 3:40 | 2022-10-14 |  |
 | [Imidiwaren](https://open.spotify.com/track/1BcEPYZS6rVhPhQ4L06zlr) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [The Radio Tisdas Sessions](https://open.spotify.com/album/5O5TvfdtaQn6AiTkSYBbAr) | 6:26 | 2022-06-14 | 2023-02-11 |
+| [Imidiwaren](https://open.spotify.com/track/1Qwja8HWcjNHEPSE4ctSvz) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [The Radio Tisdas Sessions](https://open.spotify.com/album/3RHckcouC1a09YjhaznsrM) | 6:26 | 2023-02-17 |  |
 | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/track/2KIICpEd4rTapEYDzfECii) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/album/5Yh1kXHrJHNud6Vmp5HB9A) | 4:36 | 2023-02-17 |  |
 | [Jolene](https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Jolene](https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG) | 3:57 | 2022-05-25 |  |
 | [Judgement Day](https://open.spotify.com/track/1upnWLTSKwbTDFYujFU6Tu) | [Marc Amacher](https://open.spotify.com/artist/1I2PNULXYS3j9Kz2Vvu3T0) | [Judgement Day](https://open.spotify.com/album/26Cre4KkKh1zqNjUsWdVmR) | 4:12 | 2022-05-25 | 2023-02-14 |
@@ -87,7 +88,7 @@
 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 | 2022-05-25 |  |
 | [Keep on Lovin You \(feat\. Billy Branch\)](https://open.spotify.com/track/0bFC7aJVSuRY26OVco4hdJ) | [Lil' Red & the Rooster](https://open.spotify.com/artist/2pm8z0Ff2sSRehZetUntu6), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [Keep on Lovin You \(feat\. Billy Branch\)](https://open.spotify.com/album/0ZxrwdpdMoPhIrlYfsXMJu) | 5:15 | 2022-10-14 |  |
 | [Keep Sinking](https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 3:53 | 2022-05-25 |  |
-| [Lee’s Blues](https://open.spotify.com/track/5JgTwbPuqCCKV6wfTeNT2L) | [Oliver Darling](https://open.spotify.com/artist/5wU74VdLtnvreTbydFZg6f) | [Lee's Blues](https://open.spotify.com/album/1nGxSeKWJlbUgOERip9lIA) | 2:54 | 2023-01-20 |  |
+| [Lee’s Blues](https://open.spotify.com/track/5JgTwbPuqCCKV6wfTeNT2L) | [Oliver Darling](https://open.spotify.com/artist/5wU74VdLtnvreTbydFZg6f) | [Lee's Blues](https://open.spotify.com/album/1nGxSeKWJlbUgOERip9lIA) | 2:54 | 2023-01-20 | 2023-02-21 |
 | [Lone Star Blues](https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Lone Star Blues](https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE) | 3:57 | 2022-05-25 | 2022-07-29 |
 | [Lone Star Blues](https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:57 | 2022-07-08 |  |
 | [Long Way Home](https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:38 | 2022-07-08 |  |

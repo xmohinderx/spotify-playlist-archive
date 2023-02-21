@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 53502,
+  "num_followers": 53506,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDk1MTNlNGI4ZmM3NDMwMDg4YjMyODNjYjFkZTI4ZTdj",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDZhNjdlNzgzMTQwMzMxMDJiN2YwNmYyZDFhYzUzNTI4",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -111,6 +111,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "C\u00f3mo decirte, mi amor",
         "url": "https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 183529,
       "name": "Curarte",
       "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Esta podr\u00eda ser la se\u00f1al",
-        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 77890,
-      "name": "Timba",
-      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "otro lugar \u2022 despertar",
         "url": "https://open.spotify.com/album/4jeRDEalab9KTcclcSRrBC"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 186155,
       "name": "otro lugar \u2022 despertar",
       "url": "https://open.spotify.com/track/1a6d2GjBWqzzmfeH6YEx1n"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Esta podr\u00eda ser la se\u00f1al",
+        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 77890,
+      "name": "Timba",
+      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "i only want you when i'm fucked up",
         "url": "https://open.spotify.com/album/0q2LRN1sN3jd17d74QczFO"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 232906,
       "name": "i only want you when i'm fucked up",
       "url": "https://open.spotify.com/track/0W0qBaCp84sKDlQdvShs9n"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "El Alma",
+        "url": "https://open.spotify.com/album/1xuqb5fCz6MQydTGNsEyCU"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "El Alma",
+      "url": "https://open.spotify.com/track/6rr5SobYOQHv1fvGf6CJNS"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "31 de Febrero",
         "url": "https://open.spotify.com/album/5s7Q0ePqblDnTp1KyOD2Wp"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 211169,
       "name": "Cualquiera",
       "url": "https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "El Alma",
-        "url": "https://open.spotify.com/album/1xuqb5fCz6MQydTGNsEyCU"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "El Alma",
-      "url": "https://open.spotify.com/track/6rr5SobYOQHv1fvGf6CJNS"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "En Lo Que Llega La Primavera",
-        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 251199,
-      "name": "Como una Flecha",
-      "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Barquinho",
         "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 152750,
       "name": "Barquinho",
       "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "En Lo Que Llega La Primavera",
+        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 251199,
+      "name": "Como una Flecha",
+      "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Pedazos",
-        "url": "https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 164999,
-      "name": "Pedazos",
-      "url": "https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "El Vals",
         "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 200956,
       "name": "El Vals",
       "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Pedazos",
+        "url": "https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 164999,
+      "name": "Pedazos",
+      "url": "https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Isla",
-        "url": "https://open.spotify.com/album/4vT2DYTDbxcsY6uHohDshb"
-      },
-      "artists": [
-        {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
-        }
-      ],
-      "duration_ms": 222729,
-      "name": "Isla",
-      "url": "https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Puro",
         "url": "https://open.spotify.com/album/1tU0V696ITlDOgDtljYvle"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 178723,
       "name": "Todo el D\u00eda Loca",
       "url": "https://open.spotify.com/track/6nJrZQb9Dti8Y3DpiSupev"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Isla",
+        "url": "https://open.spotify.com/album/4vT2DYTDbxcsY6uHohDshb"
+      },
+      "artists": [
+        {
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
+        }
+      ],
+      "duration_ms": 222729,
+      "name": "Isla",
+      "url": "https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Technicolor",
-        "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
-      },
-      "artists": [
-        {
-          "name": "Yael Meyer",
-          "url": "https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r"
-        }
-      ],
-      "duration_ms": 194903,
-      "name": "Technicolor",
-      "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "trece",
         "url": "https://open.spotify.com/album/7HXSoYe3CcsYWsDwBFTnwZ"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 172500,
       "name": "trece",
       "url": "https://open.spotify.com/track/7gFN7bu7EW7jNXKHDrKfHd"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Technicolor",
+        "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
+      },
+      "artists": [
+        {
+          "name": "Yael Meyer",
+          "url": "https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r"
+        }
+      ],
+      "duration_ms": 194903,
+      "name": "Technicolor",
+      "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Un Caf\u00e9",
-        "url": "https://open.spotify.com/album/0WkFkZMYw79SJMLPzoL3AG"
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/71slCIIGbJjaIpH8VHUAww"
       },
       "artists": [
         {
-          "name": "Mila Magal",
-          "url": "https://open.spotify.com/artist/6aVKvI8vXjzhp9FICkwRWV"
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
         }
       ],
-      "duration_ms": 215690,
-      "name": "Un Caf\u00e9",
-      "url": "https://open.spotify.com/track/3b1Hvw1zcIKPMtO8hw2Cpc"
+      "duration_ms": 165205,
+      "name": "Pasajeros",
+      "url": "https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY"
     }
   ],
   "unique_name": "mandarina",

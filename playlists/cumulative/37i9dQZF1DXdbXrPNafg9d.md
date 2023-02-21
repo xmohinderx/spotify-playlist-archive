@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Lana Del Rey
 
-4,836 songs - 11 day 19 hr 54 min
+4,837 songs - 11 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4057,7 +4057,8 @@
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2022-03-11 | 2022-04-16 |
 | [Teeth](https://open.spotify.com/track/4xgXivGYKauPmdv8YoBWbp) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Teeth](https://open.spotify.com/album/22La1ks9s5n2pNQgEhW0Xj) | 3:09 | 2022-03-04 | 2022-05-07 |
 | [Telepatía \- Spotify Singles](https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Spotify Singles](https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e) | 2:53 | 2021-09-18 | 2021-11-20 |
-| [Telephone](https://open.spotify.com/track/0Y9QZo9l948hcvBIt9TQSO) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Telephone](https://open.spotify.com/album/4Qp1PN0SHjCjm8KGzh5qGu) | 3:42 | 2023-01-20 |  |
+| [Telephone](https://open.spotify.com/track/0Y9QZo9l948hcvBIt9TQSO) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Telephone](https://open.spotify.com/album/4Qp1PN0SHjCjm8KGzh5qGu) | 3:42 | 2023-01-20 | 2023-02-21 |
+| [Telephone](https://open.spotify.com/track/6kmeI9upOHk6TRSi2StNlr) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 3:42 | 2023-01-20 |  |
 | [Televised Mind](https://open.spotify.com/track/2yo1yEA4LNwfevXFkWBWSy) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Televised Mind](https://open.spotify.com/album/6MXKIfeT7q28oKpBoCJrHn) | 4:10 | 2020-07-03 | 2020-08-21 |
 | [Television Land](https://open.spotify.com/track/6xSbhyGMnyvgUeqiXKPyMV) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O) | [Television Land](https://open.spotify.com/album/5gwQXuX08UvLsKJwt7VUHS) | 3:34 | 2019-08-30 | 2019-09-20 |
 | [Tell Me](https://open.spotify.com/track/244MtUBHPW0tUXQqmOEbt3) | [Henry Nowhere](https://open.spotify.com/artist/4aftr1UuSVHhP5ISxMoObq) | [Tell Me](https://open.spotify.com/album/6EWIfytMmOGtvDVOu4iWq5) | 2:56 | 2022-05-06 | 2022-06-22 |

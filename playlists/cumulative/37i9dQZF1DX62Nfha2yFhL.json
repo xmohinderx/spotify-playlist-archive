@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "IS IT YOU ?",
+        "url": "https://open.spotify.com/album/0wRqGMoyq5WUUNu0ijOy7a"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199477,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/0TPXUxjcaisuLC5S8xZpcW"
+    },
+    {
+      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/48bWqxfsOW5aT80Td5g8AF"
       },
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 199477,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/7DXZXZ9O4Yo0RR3SLkiNVj"

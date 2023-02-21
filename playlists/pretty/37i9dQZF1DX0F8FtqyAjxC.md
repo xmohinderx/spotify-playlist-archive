@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,379 likes - 60 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,408 likes - 60 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 18 | [Don't Let Love Get You Down](https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Where Will You Go When The Party's Over](https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ) | 4:19 |
 | 19 | [It's You Girl](https://open.spotify.com/track/4JOGkiA8bpmpv9Xy0NWNbA) | [Universal Love](https://open.spotify.com/artist/3VBt6nOfrVaEr3iRDXI6rP), [Dennis Rodgers](https://open.spotify.com/artist/2P7t08MLrKQN9zeCSuDyk6) | [Philadelphia Soul \- Rarities](https://open.spotify.com/album/77j7xefFvOKQuSLeR80Uii) | 3:45 |
 | 20 | [Free Your Mind](https://open.spotify.com/track/0NnskZoHyK1fgK4wy3DQ7E) | [Record Player](https://open.spotify.com/artist/4UfgH6qo2MpDAkkrTWcULS) | [Soul Cal](https://open.spotify.com/album/31Cu3f8Ao0OyhcIVmSJZmV) | 3:50 |
-| 21 | [When Love Calls](https://open.spotify.com/track/490n3MPr9AL7oiDXIJrIiB) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [The Best Of Atlantic Starr](https://open.spotify.com/album/31j5ZI5u1bMPFwdWWe7g6D) | 4:33 |
+| 21 | [When Love Calls](https://open.spotify.com/track/0LRJldwVKhpOubrzixZmx5) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [Radiant](https://open.spotify.com/album/1fpgFs808jg1snTYFGAZC2) | 4:30 |
 | 22 | [Sing Sing](https://open.spotify.com/track/3XVArphWCaPIQlk9uYtvXn) | [Gaz](https://open.spotify.com/artist/2sOcDFja2Y0QVXhlNkQlDO) | [Gaz](https://open.spotify.com/album/3VmR7Xu3yZ0qXqkl9E6vct) | 7:15 |
 | 23 | [Way Back When](https://open.spotify.com/track/0afUIcc44wK2Y1LMGBH2k6) | [Brenda Russell](https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W) | [Greatest Hits](https://open.spotify.com/album/3JIeRgUCtlMf3y0u0cg5ZN) | 4:25 |
 | 24 | [Love To The World](https://open.spotify.com/track/3WDBN6uvRNYqcgZCApxKrP) | [L.T.D.](https://open.spotify.com/artist/0H4sfMNK9hoasHItAgD1kJ), [Jeffrey Osborne](https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK) | [Classics Volume 27](https://open.spotify.com/album/0igyY1wB0qp0o0zvVkor5r) | 5:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 59 | [Wrap Myself Up in Your Love](https://open.spotify.com/track/0KTXXNWZOVyibdEikDN88T) | [Jim Spencer](https://open.spotify.com/artist/4eC6NhKPxEjd9a9vssqHz4) | [Wrap Myself Up In Your Love](https://open.spotify.com/album/2E8CiruRBvyHsIA88SPfht) | 4:06 |
 | 60 | [Everybody Get Dancin'](https://open.spotify.com/track/3ZQcIJ9p2FW1f60tQarbOG) | [Bombers](https://open.spotify.com/artist/0B8DukBzbrLO5yDtRp8fBP) | [Bombers 2](https://open.spotify.com/album/4uSDBHHQ4OiRTExvzQXXks) | 9:28 |
 
-Snapshot ID: `MTY2OTAyMjMyNSwwMDAwMDAwMGQ4N2U0MDNhM2E3NWZhNmIwZjlmMTRlYTY1OWI2NjAy`
+Snapshot ID: `MTY2OTAyMjMyNSwwMDAwMDAwMGJlMTlhNjc3NjJmMmVjZDI1NmZjOTE4ODI0YjM3MTRj`

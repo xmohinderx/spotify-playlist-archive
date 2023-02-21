@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: NF
 
-455 songs - 21 hr 6 min
+456 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,8 @@
 | [When I Get Lonely](https://open.spotify.com/track/1d4c9HSOY8hy5krzdKxEyh) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [When I Get Lonely](https://open.spotify.com/album/13FMlTKRNL5akAlum5tc5O) | 2:21 | 2022-09-30 |  |
 | [When You’re Sober](https://open.spotify.com/track/0aJcuvNNJh9ncKBqqfLiIG) | [MILES](https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH) | [When You’re Sober](https://open.spotify.com/album/1mcGX0oGxfYzIWINPFKytq) | 2:22 | 2022-06-17 | 2022-11-30 |
 | [where did u go?](https://open.spotify.com/track/0feoAoDhBeSuBLAHuyWGq9) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [where did u go?](https://open.spotify.com/album/2IpxLRYidbeYmaonFzEU9y) | 3:46 | 2022-06-10 | 2022-10-15 |
-| [white dress](https://open.spotify.com/track/52RuHnL5Syin3kHLoBvUxK) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [white dress](https://open.spotify.com/album/3atwTksgz29JYwgxuVUbsK) | 3:40 | 2023-02-17 |  |
+| [white dress](https://open.spotify.com/track/2qbp0Z79WhS5myTcZGHPeH) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Love,](https://open.spotify.com/album/0TU2tFRFVm3RzdUJtnm7o4) | 3:40 | 2023-02-17 |  |
+| [white dress](https://open.spotify.com/track/52RuHnL5Syin3kHLoBvUxK) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [white dress](https://open.spotify.com/album/3atwTksgz29JYwgxuVUbsK) | 3:40 | 2023-02-17 | 2023-02-21 |
 | [Winning](https://open.spotify.com/track/1yS8J9iYUVXBs2k7HH8LBd) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Built to Last: The Collection](https://open.spotify.com/album/3zNNrndqM4v0WP9fS4qDBo) | 2:02 | 2022-03-11 | 2022-07-02 |
 | [winter](https://open.spotify.com/track/6aMS0HK7fnPpT21KhV7MC7) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [winter](https://open.spotify.com/album/2RWtkN2zZCPl9VuMVBye6x) | 2:06 | 2022-01-28 | 2022-05-20 |
 | [Wish You Well](https://open.spotify.com/track/6nJpgyFLsXOr0nAm7NK0xC) | [BOY $COUT GATSBY](https://open.spotify.com/artist/5AZH6yzLc1YbNKdB7Db179) | [Wish You Well](https://open.spotify.com/album/4wyVBiF1059DWSRhF0P6eK) | 2:38 | 2022-07-01 | 2022-07-06 |

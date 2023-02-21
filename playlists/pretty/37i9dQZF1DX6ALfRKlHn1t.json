@@ -1,12 +1,12 @@
 {
   "description": "good vibes only.",
-  "num_followers": 1019444,
+  "num_followers": 1019751,
   "original_name": "Soak Up the Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDg4YjNjNmJiYzFlYjk4ODY4OTg3NGIyZWI3YWFiMjk5",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGVkZmI3OGUwMzU3MWM0MTU2YjE0NjRjOWNiM2RjMjU4",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Sick Love",
+      "url": "https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Greatest Hits '93 - '03",
         "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
       },
@@ -527,6 +543,22 @@
       "duration_ms": 211080,
       "name": "Amber",
       "url": "https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -551,34 +583,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "The Getaway",
-        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+        "name": "Sadnecessary",
+        "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 221440,
-      "name": "Sick Love",
-      "url": "https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "I Can't Help But Feel",
-        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 178780,
-      "name": "I Can't Help But Feel",
-      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
+      "duration_ms": 262000,
+      "name": "Flashed Junk Mind",
+      "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -611,22 +627,6 @@
       "duration_ms": 221413,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Sadnecessary",
-        "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Flashed Junk Mind",
-      "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Trip Tape",
+        "url": "https://open.spotify.com/album/707cK3j40hIquI15sOcYXP"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 174347,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Dirty Heads",
         "url": "https://open.spotify.com/album/2yt8pr76AIWu3ohmnZKNcd"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Trip Tape",
-        "url": "https://open.spotify.com/album/707cK3j40hIquI15sOcYXP"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 174347,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Why Does Everything Happen So Much EP",
-        "url": "https://open.spotify.com/album/2rQIMkDTxP8IPGtF7qFPwE"
-      },
-      "artists": [
-        {
-          "name": "Prelow",
-          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
-        }
-      ],
-      "duration_ms": 191954,
-      "name": "Mistakes Like This",
-      "url": "https://open.spotify.com/track/4telT9zZWgv4d8gD4WZrlA"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "REAL SUPER DARK",
         "url": "https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 164138,
       "name": "FUNERAL GREY",
       "url": "https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Why Does Everything Happen So Much EP",
+        "url": "https://open.spotify.com/album/2rQIMkDTxP8IPGtF7qFPwE"
+      },
+      "artists": [
+        {
+          "name": "Prelow",
+          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
+        }
+      ],
+      "duration_ms": 191954,
+      "name": "Mistakes Like This",
+      "url": "https://open.spotify.com/track/4telT9zZWgv4d8gD4WZrlA"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/61BsnCrEb7zeRowWTFP4zC"
+      },
+      "artists": [
+        {
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/38GuP87aSI8phjYj7TzZK8"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "I Wanna Be Your High",
         "url": "https://open.spotify.com/album/3XUe0l63TUAhtxrA0WPqVU"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/61BsnCrEb7zeRowWTFP4zC"
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
       },
       "artists": [
         {
-          "name": "Sublime With Rome",
-          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
         }
       ],
-      "duration_ms": 211764,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/38GuP87aSI8phjYj7TzZK8"
+      "duration_ms": 237880,
+      "name": "Hollow Life",
+      "url": "https://open.spotify.com/track/2dq863fgcwToMdBxaPlyyT"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1239,22 +1255,6 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Coast Modern",
-        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 237880,
-      "name": "Hollow Life",
-      "url": "https://open.spotify.com/track/2dq863fgcwToMdBxaPlyyT"
     },
     {
       "added_at": "2022-10-07 04:01:00",

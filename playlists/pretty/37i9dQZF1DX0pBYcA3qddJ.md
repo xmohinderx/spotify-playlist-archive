@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,962 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,991 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 41 | [Piano Sonata No\. 4 in E\-Flat Major, K\. 282: I\. Adagio](https://open.spotify.com/track/7D3sh1V2RA5fviB1PccfgR) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Mozart: The Complete Piano Sonatas](https://open.spotify.com/album/4pMwtuowDtXHviE9xPp6gi) | 4:24 |
 | 42 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
 | 43 | [たゆたう燈](https://open.spotify.com/track/46KtW7HX55Xo7pDi5ps6Z4) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム\~beautiful sleep\~](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 3:20 |
-| 44 | [Temple White](https://open.spotify.com/track/7elLKWtTEMCbOmYZ37ci9r) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 4:24 |
+| 44 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 |
 | 45 | [Millimeter](https://open.spotify.com/track/5AQxUDqIKfTxYbbEbOGFlB) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Millimeter](https://open.spotify.com/album/3GUsEdMcDqIgPRi9O346zv) | 3:28 |
-| 46 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 |
+| 46 | [Temple White](https://open.spotify.com/track/7elLKWtTEMCbOmYZ37ci9r) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 4:24 |
 | 47 | [orbe](https://open.spotify.com/track/4YzoldEraLKKp1ioNbuYZf) | [Sohn Huma](https://open.spotify.com/artist/4Rjbb4MmZAdSqHgwXcalBx), [Republyric](https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP) | [orbe](https://open.spotify.com/album/7KE0fGJoJBcq7OX6mTDD9F) | 1:59 |
 | 48 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 |
 | 49 | [Snow](https://open.spotify.com/track/7dr3ZhQmk9hZZTz5svschC) | [Tomoya Naka](https://open.spotify.com/artist/16swNvdMD5sQAXlVaHc8Hx) | [Luna e Sole](https://open.spotify.com/album/2fvASnd0fRoJeGxxVVgQmM) | 3:08 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 71 | [あしたに向かって](https://open.spotify.com/track/2qoheoIUxD6rwibBksqTFt) | [Asuka Noda](https://open.spotify.com/artist/5B5Ip55ekXUdj3wehY9Vnz) | [哀しみの向こう](https://open.spotify.com/album/0RZI94WG9thxjLCfLMYIuq) | 3:40 |
 | 72 | [Polovetsian Dances from Prince Igor: Introduzione](https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca) | [Alexander Borodin](https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I), [George Szell](https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx), [Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz) | [Mussorgsky: Pictures at an Exhibition \- Expanded Edition](https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om) | 2:16 |
 | 73 | [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 |
-| 74 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
+| 74 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 |
 | 75 | [Rainbow](https://open.spotify.com/track/0C0p6ndJk5S6LdQyyqzfdJ) | [Mina Kubota](https://open.spotify.com/artist/4z1dMCmOJ6VHm8P7EP5qWf) | [ARIA\~ピアノ・コレクション\~ スタジオーネ\-季節\-](https://open.spotify.com/album/6AOubvJvCg6wAxeb1Glwhx) | 3:05 |
-| 76 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 |
+| 76 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
 | 77 | [sun](https://open.spotify.com/track/0Q7MYDTYYQPjjHT3HejBe9) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [sun](https://open.spotify.com/album/2t22KCfl9jNCnJVu6e3LYg) | 2:00 |
 | 78 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
 | 79 | [Menuet \- Piano Version](https://open.spotify.com/track/2Dmx10bFEHDmzfK3XAOehj) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Menuet \(Piano Version\)](https://open.spotify.com/album/1getuZrn1FR7hL3UD54GO3) | 1:37 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 90 | [ぬくもりはたしかに](https://open.spotify.com/track/5qrpYQOcdXx5R4BVAf76If) | [スーパーノア](https://open.spotify.com/artist/54Eb2c0kXE5lvyL3W1LmZ7) | [ぬくもりはたしかに](https://open.spotify.com/album/5HZHsN1e731jgWEFzfBzXI) | 6:27 |
 | 91 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 |
 | 92 | [hario island](https://open.spotify.com/track/4pwrnZ6t6KwUgUoQiBe70M) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [hario island](https://open.spotify.com/album/6t6geCz3BtiM0WXFNeWGyY) | 2:36 |
-| 93 | [Where'd You Put Me](https://open.spotify.com/track/2S0ljxYxpYhRzH6EBVsUJk) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Where'd You Put Me](https://open.spotify.com/album/0AZUt0xHVvjA609ipJEp3j) | 1:12 |
+| 93 | [Where'd You Put Me](https://open.spotify.com/track/3UluQekxnRJ32AwobjW1hB) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/0woHX3PSXbPo52iqriVSFa) | 1:12 |
 | 94 | [Footprints You've Walked](https://open.spotify.com/track/13Zjtg684lLCXdSFeumzl6) | [Shiba](https://open.spotify.com/artist/2nVxV87MPUlMg6E0zXuDj2) | [Calm Piano: I’m Always with You](https://open.spotify.com/album/1P3g6igU7Y4gT02Y9PcTVY) | 5:07 |
 | 95 | [Flowers Sing](https://open.spotify.com/track/7KIiof4zhjpVChHBVSJ3ug) | [Shiba](https://open.spotify.com/artist/2nVxV87MPUlMg6E0zXuDj2) | [Calm Piano: For Your Path](https://open.spotify.com/album/7rtQcDrHtG6yhgefHUCxHD) | 3:15 |
 | 96 | [Cello Concerto No\. 1 in C Major, Hob\. VIIb:1: II\. Adagio](https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [José\-Luis Garcia](https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Haydn: Cello Concertos \(Remastered\)](https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA) | 8:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 99 | [Song For My Sister's Son](https://open.spotify.com/track/6M6wAlja282JVJ0cR63rgS) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Song For My Sister's Son](https://open.spotify.com/album/5YL4H7MplLxXOC3qUPinVZ) | 4:40 |
 | 100 | [《女の愛と生涯》 No\. 1\. 彼に出会ってから](https://open.spotify.com/track/2KLSxJ4TjIO0Srg6m7egCN) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [隠岐彩夏](https://open.spotify.com/artist/5p7bRfstS9PGcmXOed8WFz) | [愛しの夜](https://open.spotify.com/album/38j0UdqkoIElC0lahOe3HU) | 2:27 |
 
-Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDYzYWE5MmRmZjZjNzFkZjRmY2U1YjVhODA1ODQyZWE4`
+Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMGM5YjkyN2QwOGU2MWFiODZhOGI5ZjBhM2MyMWM1ODVl`

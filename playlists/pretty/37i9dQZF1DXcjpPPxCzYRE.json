@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 356840,
+  "num_followers": 356919,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYzNzcyMywwMDAwMDAwMGVjNzI0NmQyMzk3NzI2NWQ2MGQzMGVkY2E4NTIwMTlj",
+  "snapshot_id": "MTY3NjYzNzcyMywwMDAwMDAwMGNhMDhiMWIyMjM3MmY4ZWQwNGE5YzcyMDMxOTU3YTc0",
   "tracks": [
     {
       "added_at": "2023-01-26 23:00:00",
@@ -945,6 +945,22 @@
       "url": "https://open.spotify.com/track/0Gr2XQOIMaaUH86iOrWGur"
     },
     {
+      "added_at": "2023-02-21 01:24:05",
+      "album": {
+        "name": "still",
+        "url": "https://open.spotify.com/album/4x7J5fPgM0IYVRJW6fwpZ3"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 179642,
+      "name": "still",
+      "url": "https://open.spotify.com/track/6EoI0gxW5egUN3SFxgQb7H"
+    },
+    {
       "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "The Best Of The Decca Years Volume One: The Singer",
@@ -1029,20 +1045,20 @@
       "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
     },
     {
-      "added_at": "2023-02-20 00:45:44",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
-        "name": "still",
-        "url": "https://open.spotify.com/album/4x7J5fPgM0IYVRJW6fwpZ3"
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 179642,
-      "name": "still",
-      "url": "https://open.spotify.com/track/6EoI0gxW5egUN3SFxgQb7H"
+      "duration_ms": 300499,
+      "name": "Into The Sun - EP Version",
+      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2023-01-26 23:00:00",
@@ -1059,22 +1075,6 @@
       "duration_ms": 242000,
       "name": "Recording 15",
       "url": "https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM"
-    },
-    {
-      "added_at": "2023-01-26 23:00:00",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 300499,
-      "name": "Into The Sun - EP Version",
-      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2023-01-26 23:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-01-26 23:00:00",
       "album": {
-        "name": "Paint",
-        "url": "https://open.spotify.com/album/6fjWW4BO4crnUA3EqDWEV0"
-      },
-      "artists": [
-        {
-          "name": "Lawson Hull",
-          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
-        }
-      ],
-      "duration_ms": 281332,
-      "name": "Paint",
-      "url": "https://open.spotify.com/track/6OdcsvgPkIFmiyqDPgCaDy"
-    },
-    {
-      "added_at": "2023-01-26 23:00:00",
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 194466,
       "name": "Enjoy The Silence",
       "url": "https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
+        "name": "Paint",
+        "url": "https://open.spotify.com/album/6fjWW4BO4crnUA3EqDWEV0"
+      },
+      "artists": [
+        {
+          "name": "Lawson Hull",
+          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
+        }
+      ],
+      "duration_ms": 281332,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/6OdcsvgPkIFmiyqDPgCaDy"
     },
     {
       "added_at": "2023-01-26 23:00:00",
@@ -1349,7 +1349,23 @@
       "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
     },
     {
-      "added_at": "2023-02-20 00:45:44",
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
+    },
+    {
+      "added_at": "2023-02-21 01:24:05",
       "album": {
         "name": "More of Your Love",
         "url": "https://open.spotify.com/album/15iwuw5NkGLK78cvvoCGr1"
@@ -1367,22 +1383,6 @@
       "duration_ms": 215582,
       "name": "More of Your Love",
       "url": "https://open.spotify.com/track/7fA7DeIVWaXOjHj9QfjzsM"
-    },
-    {
-      "added_at": "2023-01-26 23:00:00",
-      "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2023-01-26 23:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-01-26 23:00:00",
       "album": {
-        "name": "Hopes And Fears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "With Or Without You - BBC Jo Whiley Session / 2004",
-      "url": "https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8"
-    },
-    {
-      "added_at": "2023-01-26 23:00:00",
-      "album": {
         "name": "Day/Night",
         "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 219335,
       "name": "Free - Single Version",
       "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
+        "name": "Hopes And Fears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "With Or Without You - BBC Jo Whiley Session / 2004",
+      "url": "https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8"
     },
     {
       "added_at": "2023-01-26 23:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-01-26 23:00:00",
       "album": {
-        "name": "In Deepest Blue (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
       "artists": [
         {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 201933,
-      "name": "The Spark",
-      "url": "https://open.spotify.com/track/1jkBuvWI9IGEz9thXiKOlP"
+      "duration_ms": 205657,
+      "name": "You Needed Love, I Needed You",
+      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
     }
   ],
   "unique_name": "Relax en casa",

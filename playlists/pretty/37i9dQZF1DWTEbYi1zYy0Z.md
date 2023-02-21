@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Lin Rountree
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,589 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,634 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 18 | [Lean Into It](https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE) | [Andrew Neu](https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF) | [Lean Into It](https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN) | 4:24 |
 | 19 | [Jazz Party](https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Jazz Party](https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL) | 4:47 |
 | 20 | [Catalina Nights](https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Catalina Nights](https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97) | 4:04 |
-| 21 | [Deep Into You](https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Deep Into You](https://open.spotify.com/album/0N4DaL3j9Awcu941nalsE4) | 4:10 |
-| 22 | [A Song for Peace](https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [A Song for Peace](https://open.spotify.com/album/6YfIaFDEwyfnVnBX2zfLQw) | 4:33 |
-| 23 | [Another Day In Paradise](https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Another Day In Paradise](https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn) | 4:35 |
+| 21 | [Another Day In Paradise](https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Another Day In Paradise](https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn) | 4:35 |
+| 22 | [Deep Into You](https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Deep Into You](https://open.spotify.com/album/0N4DaL3j9Awcu941nalsE4) | 4:10 |
+| 23 | [A Song for Peace](https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [A Song for Peace](https://open.spotify.com/album/6YfIaFDEwyfnVnBX2zfLQw) | 4:33 |
 | 24 | [Breakthrough \- Radio Version](https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Breakthrough \(Radio Version\)](https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt) | 4:12 |
 | 25 | [In His Vision](https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb) | [Christian de Mesones](https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS) | [In His Vision](https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae) | 3:51 |
 | 26 | [Make Up Your Mind \- Radio Edit](https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [Make Up Your Mind \(Radio Edit\)](https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 49 | [Savoir Faire](https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Savoir Faire](https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp) | 5:18 |
 | 50 | [Chicago Morning](https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb) | [Spontaneous Groovin' Combustion](https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5) | [Chicago Morning](https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N) | 4:20 |
 
-Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDVhN2QzZmEzMmQ4OTE2ZmRiZDdlYTM4N2Q0ZmYwMjlh`
+Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMGVhMmNmZDg4OTJjNWFkYjc0NTEyNDg2Y2RhZDlmZGQ0`

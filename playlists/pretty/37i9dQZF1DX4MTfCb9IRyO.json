@@ -1,12 +1,12 @@
 {
   "description": "Classic blues for a blue summer day.",
-  "num_followers": 14886,
+  "num_followers": 14895,
   "original_name": "Summertime Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMDJiZjZjM2UwMGUzYjQ3MTAzNzkxZjcyMjg4MmIyODky",
+  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMDVjOTc0ZmVjMTYyMmMzODUwZjlmZWM0OTY1NTQ1NmJk",
   "tracks": [
     {
       "added_at": "2020-05-03 08:57:28",
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Somebody Loan Me A Dime",
-        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/6NTCurUHy71S0XKVtyQtqT"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "I Was Walking Through The Woods (Expanded Edition)",
         "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 431853,
       "name": "Stone Crazy",
       "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "Somebody Loan Me A Dime",
+        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/6NTCurUHy71S0XKVtyQtqT"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -475,6 +475,22 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 172059,
+      "name": "Got My Mojo Working",
+      "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
         "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
         "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 316666,
       "name": "You Don't Want Me",
       "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 172059,
-      "name": "Got My Mojo Working",
-      "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
     },
     {
       "added_at": "2020-05-03 08:57:28",

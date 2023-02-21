@@ -4,7 +4,7 @@
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-102 songs - 10 hr 53 min
+103 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [OMG \(feat\. JJ Hairston\)](https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Already Won](https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3) | 4:16 | 2021-03-25 |  |
 | [One on One \(Live\)](https://open.spotify.com/track/5Vw55KLsNKIxcAznPUhxzh) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [One on One \(Live\)](https://open.spotify.com/album/1xDKfCWAviCVKuk7hjaUeH) | 13:14 | 2021-11-26 |  |
 | [Open Up](https://open.spotify.com/track/0vL8wJhWQhHNAJkGurqPF9) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Open Up](https://open.spotify.com/album/5XH3M1XHCaAgfQzp53mcRi) | 10:30 | 2020-01-14 |  |
-| [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 | 2018-10-01 |  |
+| [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 | 2018-10-01 | 2023-02-21 |
 | [Product of Grace](https://open.spotify.com/track/32HuC8zZHlhPrSxuZs6fKT) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Flavour of Africa](https://open.spotify.com/album/4D0ryhrcpymr7pnl0jhVH3) | 3:54 | 2020-12-03 | 2022-03-11 |
 | [Rollin'](https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Rollin'](https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN) | 3:18 | 2023-01-31 |  |
 | [Safety](https://open.spotify.com/track/1cuv2HnzLqREWgu6KhXI8Q) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Sarah Nathalié](https://open.spotify.com/artist/6oPvIaLoZ8pgWDwb9RXReI) | [Safety](https://open.spotify.com/album/2WvtehaIYsdeiBF1X9zYde) | 3:17 | 2021-11-26 |  |
@@ -89,6 +89,7 @@
 | [The Lord Is My Sheperd](https://open.spotify.com/track/1a4rMlkfKsKxIgtJkeXI99) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [The Lord Is My Sheperd](https://open.spotify.com/album/4Q325PCLn40PKPLMQzgSS0) | 4:56 | 2020-11-12 |  |
 | [The Lord Reigneth](https://open.spotify.com/track/5cPxj6vTdXjzbjQwe56VGw) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [Sanctioned](https://open.spotify.com/album/5S0tW85A3qZzHIx2VFUJgp) | 4:21 | 2018-10-01 |  |
 | [Ti Oluwa ni ile](https://open.spotify.com/track/5AMDNyqqeOaskNITsQ65Mb) | [Ade Jones](https://open.spotify.com/artist/2QzzeWLJqUxxUsCSAyeRdx) | [Ti Oluwa ni ile](https://open.spotify.com/album/7Cyq6Xnc1NBGfEipmUtBex) | 4:26 | 2020-11-05 | 2022-02-04 |
+| [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2023-02-20 |  |
 | [Udumo \- Live at Pont De Val](https://open.spotify.com/track/1sZAiagVPE4eQwaw056YaM) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Udumo \(Live at Pont De Val\)](https://open.spotify.com/album/6YSvp90Kw08mG6Wcaz162p) | 6:46 | 2020-10-09 | 2022-09-02 |
 | [Unrelenting Love](https://open.spotify.com/track/0aSZ3n4vyy7XDf9XupAtRI) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [Unrelenting Love](https://open.spotify.com/album/7EPslUe7EreCwFVt5b7E9x) | 4:18 | 2022-04-14 |  |
 | [Uzugcin'impilo Yam'](https://open.spotify.com/track/56gSo5GFHsRTYmmLAETouv) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [Spiritual Encounter](https://open.spotify.com/album/5g67VAWvcanS2t2TfH4er1) | 6:15 | 2020-05-15 |  |

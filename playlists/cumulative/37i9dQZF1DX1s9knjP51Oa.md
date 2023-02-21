@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1s9knjP51Oa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1s9knjP51Oa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1s9knjP51Oa)
 
-### [Calm Vibes](https://open.spotify.com/playlist/37i9dQZF1DX1s9knjP51Oa)
+### [calm vibes](https://open.spotify.com/playlist/37i9dQZF1DX1s9knjP51Oa)
 
 > Relaxing piano to help you find calm and stillness within.
 
-630 songs - 1 day 3 hr 15 min
+634 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,11 +96,12 @@
 | [Certain](https://open.spotify.com/track/0NOLY8oi9pVOHNrpMiVOC6) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Unfolded](https://open.spotify.com/album/0bqH14Y1fJFoqkGHlp9Us0) | 2:48 | 2021-12-13 | 2022-11-12 |
 | [Chalet High](https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Chalet High](https://open.spotify.com/album/0s5pe0oFhpK60gLPI1RDZZ) | 2:39 | 2022-03-02 |  |
 | [Chaleureuse](https://open.spotify.com/track/0FAJDVUpuCzEhCGfouo8Fk) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Chaleureuse](https://open.spotify.com/album/1wjRb8hVZyqMasnqzsqqcw) | 2:14 | 2022-02-15 |  |
-| [Change](https://open.spotify.com/track/3DQDj5YHQBk806DxCLomWr) | [Samuel Yates](https://open.spotify.com/artist/490O7wKhdxCPXCpZyklL9R) | [Change](https://open.spotify.com/album/42wrtM8yQSiWJads72P1bJ) | 2:16 | 2023-01-09 |  |
+| [Change](https://open.spotify.com/track/3DQDj5YHQBk806DxCLomWr) | [Samuel Yates](https://open.spotify.com/artist/490O7wKhdxCPXCpZyklL9R) | [Change](https://open.spotify.com/album/42wrtM8yQSiWJads72P1bJ) | 2:16 | 2023-01-09 | 2023-02-21 |
 | [Chrysalis](https://open.spotify.com/track/6dzhIRxruUuzbiLF4gqZAz) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chrysalis](https://open.spotify.com/album/4cohq3GCrl8vtb0yB8N0nR) | 2:31 | 2022-12-05 |  |
 | [Circumstances](https://open.spotify.com/track/7FyzToHhKG9b9gS19kWg8a) | [Deborah Fulmen](https://open.spotify.com/artist/3u1wiRKUBM08aAzGxjNwZb) | [Circumstances](https://open.spotify.com/album/7Jn5nOh3o6ttSCTsZLmK1f) | 2:46 | 2021-12-13 | 2022-09-13 |
 | [Clear Air](https://open.spotify.com/track/1WmJtAYlrss3fI2jn5NF2R) | [Coralia del Villar](https://open.spotify.com/artist/2IJGrdQIdQyqJ40KID5MQ9) | [Clear Air](https://open.spotify.com/album/10mVsVqSOV0duq1RCxrUaW) | 1:37 | 2022-12-05 |  |
 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 | 2021-12-13 |  |
+| [Clement](https://open.spotify.com/track/7eItBb98RqIZQ8QZPS6GcM) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Clement](https://open.spotify.com/album/7w0J5NX4rFSoNXCPAIns2A) | 2:27 | 2023-02-20 |  |
 | [Close To You](https://open.spotify.com/track/7zuK6SB9iQN17ZLOdCcCjd) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Close To You](https://open.spotify.com/album/18AxWYSX9I2yR5PagBl4r3) | 2:07 | 2021-12-13 | 2022-05-27 |
 | [Closer](https://open.spotify.com/track/2lxGdnAk0OiFAZTy5lKyKn) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [Closer](https://open.spotify.com/album/3XIBB28U3ZwJQxSYuAp1cy) | 2:20 | 2021-12-13 | 2022-09-13 |
 | [Closure](https://open.spotify.com/track/4pLt09DV3FFjNTLqbxhJcO) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Sweet Nostalgia](https://open.spotify.com/album/6dOBc28si0bRhW0SoQxdR6) | 3:57 | 2021-12-13 | 2022-07-22 |
@@ -161,11 +162,13 @@
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2022-01-04 |  |
 | [Elixir](https://open.spotify.com/track/0kCN1NYNHTB39vgjcv7Sqx) | [Nia Glynn](https://open.spotify.com/artist/6qHUfCJ0xqPOXDYb3Vg1FM) | [Elixir](https://open.spotify.com/album/56s40KLEPYSTnC8J5w30di) | 2:27 | 2021-12-13 | 2022-01-05 |
 | [Ember Walk](https://open.spotify.com/track/7Iq0ZUPmHIqREIW6YW1MY8) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Ember Walk](https://open.spotify.com/album/5zvCB2Y4vMviQhVQt3iKFL) | 1:49 | 2022-10-24 |  |
+| [Embrace Me](https://open.spotify.com/track/4XcCAB5G21D6BZzobQBZMw) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Embrace Me](https://open.spotify.com/album/4YXJXGBIA9TZpMBPgoewGt) | 2:36 | 2023-02-20 |  |
 | [Emerald Enlightenment](https://open.spotify.com/track/4uoJsS8jQmsHmdoORGzxh0) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [Emerald Enlightenment](https://open.spotify.com/album/26dTk7VugnkScRBYCv8s2W) | 1:39 | 2023-01-20 |  |
 | [Emonissimo](https://open.spotify.com/track/03IzOl7tIIWczFpkzCRH7D) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [Emonissimo](https://open.spotify.com/album/6aTWuy5fxiHYQCwAT7Q3Mp) | 1:22 | 2023-01-20 |  |
 | [Emotion](https://open.spotify.com/track/3Erp4addg6gNsxONhzMTff) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Emotion](https://open.spotify.com/album/5qBzrhSYA2oc8GUJgty2Pp) | 3:24 | 2021-12-13 |  |
 | [Empires Luck](https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Empires Luck](https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO) | 3:02 | 2022-01-04 |  |
 | [Empty Streets](https://open.spotify.com/track/6NR2SRndDIWZeNzGBwtJBX) | [Livia Irvine](https://open.spotify.com/artist/5UZGLyXbAbN3zwH8pMhWmR) | [Empty Streets](https://open.spotify.com/album/6Cctv6zm1t6oSnLMwNzbdX) | 2:26 | 2022-11-11 |  |
+| [Encercler](https://open.spotify.com/track/1d30t4z4DuJelbpdfI63Dy) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Encercler](https://open.spotify.com/album/0HYjX55TUeNVL0LBLwv2FA) | 1:48 | 2023-02-20 |  |
 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 | 2022-05-26 |  |
 | [Eternal Bloom](https://open.spotify.com/track/0OYDV3vHPSXFQkKmVdodFn) | [Luis Álvarez](https://open.spotify.com/artist/3zowTYcPBFKlG4Hi98bPpq) | [Eternal Bloom](https://open.spotify.com/album/72ckrZrv9xw3vabgq5cLM1) | 3:11 | 2021-12-13 | 2022-03-18 |
 | [Ether](https://open.spotify.com/track/0NInoCrExhcGEZFnRBBo0o) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L), [Marcos Boza](https://open.spotify.com/artist/443Yc7SeaW7ddTyVUMJ5ZX) | [Ether](https://open.spotify.com/album/4Hg9aMbQfviR7UjPFXHbHf) | 2:37 | 2022-08-29 |  |
@@ -191,6 +194,7 @@
 | [Finito](https://open.spotify.com/track/6iWBMo4Cc2yAqwqkAUzLSN) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Finito](https://open.spotify.com/album/1zrmFxQTfjPUoEZepbJaSS) | 2:42 | 2021-12-13 | 2023-01-28 |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2021-12-13 | 2022-12-22 |
 | [Flow Beside](https://open.spotify.com/track/0f0rJKPWIdhJ2OB6NyVpiZ) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Flow Beside](https://open.spotify.com/album/0KiN2GfIOM8yir7f2SVmR3) | 1:56 | 2022-12-05 |  |
+| [Follow the Light](https://open.spotify.com/track/5ZBKGYQu4Z0U69UE2MNNMN) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Follow the Light](https://open.spotify.com/album/2v87Aa7L3NsKjr3G0OpPx9) | 1:53 | 2023-02-20 |  |
 | [For a While](https://open.spotify.com/track/2DEvpe8l6pxp7izgwcxMiu) | [Maya Wilkes](https://open.spotify.com/artist/1swCRrKnEzyg4wMnKdXjC0) | [For a While](https://open.spotify.com/album/1loTmfeF7wNVfJ7p9VVISu) | 2:15 | 2021-12-13 | 2022-09-24 |
 | [For Catherine](https://open.spotify.com/track/7sthK300jq1FzpSvJXID1L) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [For Catherine](https://open.spotify.com/album/3B1c7bhs9De05jWPNjVnIX) | 2:18 | 2022-07-21 |  |
 | [For Mark](https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [For Mark](https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c) | 5:09 | 2022-03-17 | 2022-12-06 |
@@ -534,7 +538,7 @@
 | [Symbiosis](https://open.spotify.com/track/4dc6eq2N9fGfdBGtIGZu3N) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Symbiosis](https://open.spotify.com/album/0UzYG373TFPwHolTWMHhHf) | 2:29 | 2021-12-13 | 2022-08-10 |
 | [Synchronicity](https://open.spotify.com/track/0nk3vSKIYGQV6CK6pShUDQ) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Synchronicity](https://open.spotify.com/album/3K5o4pXNsxdxW8MEn2jtel) | 2:30 | 2021-12-13 | 2022-12-06 |
 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 | 2021-12-13 | 2022-07-22 |
-| [Talking Seas](https://open.spotify.com/track/33HoZWD63mWWv0IwfP4lv9) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Paloma](https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6) | 2:15 | 2022-12-05 |  |
+| [Talking Seas](https://open.spotify.com/track/33HoZWD63mWWv0IwfP4lv9) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Paloma](https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6) | 2:15 | 2022-12-05 | 2023-02-21 |
 | [Te lo prometto](https://open.spotify.com/track/25WI6xofZEaZmZRus2VzjO) | [Isaia Donini](https://open.spotify.com/artist/7uZiElUrYRfPalrM9kZBdI) | [Te lo prometto](https://open.spotify.com/album/3FevTCLbawOb3TgUlUD66p) | 2:16 | 2021-12-13 | 2022-11-12 |
 | [Tempo dell’Oceano](https://open.spotify.com/track/0ruAGzEvwR2YZOzqoXI0Hk) | [Baldo Aquila](https://open.spotify.com/artist/0CIRMCbCwPFFmfpBSWVqWa) | [Tempo dell’Oceano](https://open.spotify.com/album/7LDWDL66Jt2u1S9WaH2aVr) | 2:24 | 2021-12-13 | 2022-10-25 |
 | [Tenderly](https://open.spotify.com/track/7JZrbwMQNDL0s1UeDoEDwR) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Tenderly](https://open.spotify.com/album/1xNjK58GyNcFMOyxJmOsZm) | 2:17 | 2022-10-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 191941,
+  "num_followers": 192061,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDU0MmYyOTJhZWRmNjI1M2Y0M2YwNzM3NjVjYWIzYzE2",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMGE2MWVmOTkxYjMzYzFkOGI2YTYwNzZlNDQxYjM2YTU0",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "He's the Greatest Dancer - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Give Me the Night",
         "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
       },
@@ -219,22 +235,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "He's the Greatest Dancer - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Greatest Hits: Blondie",
         "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 495186,
-      "name": "I Feel Love - 12\" Version",
-      "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 217733,
       "name": "Don't Leave Me This Way",
       "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 495186,
+      "name": "I Feel Love - 12\" Version",
+      "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Sa\u00e2da Bonaire",
-        "url": "https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8"
-      },
-      "artists": [
-        {
-          "name": "Sa\u00e2da Bonaire",
-          "url": "https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg"
-        }
-      ],
-      "duration_ms": 356613,
-      "name": "You Could Be More As You Are",
-      "url": "https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Zenyatta Mondatta (Remastered 2003)",
         "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 233253,
       "name": "Voices Inside My Head",
       "url": "https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Sa\u00e2da Bonaire",
+        "url": "https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00e2da Bonaire",
+          "url": "https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg"
+        }
+      ],
+      "duration_ms": 356613,
+      "name": "You Could Be More As You Are",
+      "url": "https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Where Will You Go When The Party's Over",
-        "url": "https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ"
-      },
-      "artists": [
-        {
-          "name": "Archie Bell & The Drells",
-          "url": "https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH"
-        }
-      ],
-      "duration_ms": 259653,
-      "name": "Don't Let Love Get You Down",
-      "url": "https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Island Life",
         "url": "https://open.spotify.com/album/0IgaRsWGL9c4bovxkwU7YI"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 218066,
       "name": "Pull Up To The Bumper - Edit",
       "url": "https://open.spotify.com/track/7ddR13zBPxJwGmOBnweH79"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Where Will You Go When The Party's Over",
+        "url": "https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ"
+      },
+      "artists": [
+        {
+          "name": "Archie Bell & The Drells",
+          "url": "https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH"
+        }
+      ],
+      "duration_ms": 259653,
+      "name": "Don't Let Love Get You Down",
+      "url": "https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
-      },
-      "artists": [
-        {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Stop Your Life - Original Album",
-      "url": "https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Disco Illusion",
         "url": "https://open.spotify.com/album/26rGYscuFwQ7GKb9pgek6n"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 587050,
       "name": "Heartbeat - Club Mix",
       "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+      },
+      "artists": [
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Stop Your Life - Original Album",
+      "url": "https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
+      },
+      "artists": [
+        {
+          "name": "Hubert Laws",
+          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
+        }
+      ],
+      "duration_ms": 453706,
+      "name": "Family - Stereo Version",
+      "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Chicago Service",
         "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
       },
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
+        "name": "Watchin Out",
+        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
       },
       "artists": [
         {
-          "name": "Hubert Laws",
-          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
+          "name": "Frazelle",
+          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
         }
       ],
-      "duration_ms": 453706,
-      "name": "Family - Stereo Version",
-      "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
+      "duration_ms": 320851,
+      "name": "Today Is the Day - Linkwood Chop",
+      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Watchin Out",
-        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
-      },
-      "artists": [
-        {
-          "name": "Frazelle",
-          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
-        }
-      ],
-      "duration_ms": 320851,
-      "name": "Today Is the Day - Linkwood Chop",
-      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Paradise (Remastered)",
         "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 406533,
-      "name": "When You Wake up Tomorrow",
-      "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "The Brooklyn, Bronx & Queens Band",
         "url": "https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 357760,
       "name": "On the Beat - Full Length Mix",
       "url": "https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 406533,
+      "name": "When You Wake up Tomorrow",
+      "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
     },
     {
       "added_at": "2022-09-05 16:54:43",

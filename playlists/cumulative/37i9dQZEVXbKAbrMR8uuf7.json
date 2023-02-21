@@ -10973,6 +10973,32 @@
     },
     {
       "album": {
+        "name": "Perrita",
+        "url": "https://open.spotify.com/album/0OkGFySkbI2wmirxKdxmMU"
+      },
+      "artists": [
+        {
+          "name": "Leti Vi",
+          "url": "https://open.spotify.com/artist/7eh1omG5qfGhijVpTJY4Lw"
+        },
+        {
+          "name": "Aleica",
+          "url": "https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132023,
+      "name": "Perrita",
+      "url": "https://open.spotify.com/track/05jndaIHnQWUdAxKQFhFtG"
+    },
+    {
+      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -12310,7 +12336,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 186722,
       "name": "RON COLA",
       "url": "https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI"

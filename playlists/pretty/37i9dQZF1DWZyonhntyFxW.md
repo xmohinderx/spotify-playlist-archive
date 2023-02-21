@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > أقوى أغاني الراب المصري في مكان واحد 😎! غلاف:  أبو الانوار و أحمد سانتا
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,437 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,564 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 32 | [Brrr Brrr Brrr](https://open.spotify.com/track/56toH670HEUhhOYEbubXYr) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Brrr Brrr Brrr](https://open.spotify.com/album/6jCUduTAISjBcTXtfiU0x3) | 3:27 |
 | 33 | [Justin Bieber](https://open.spotify.com/track/6gf1hPyK9vn60kJQoTZw4c) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Justin Bieber](https://open.spotify.com/album/1v8ywufxiUSUBD2wB9Ib2f) | 3:13 |
 | 34 | [RACORE](https://open.spotify.com/track/3JFB9ZJ8vZrKL8AJiRspLZ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [RACORE](https://open.spotify.com/album/6JDXj7ECAHxWJ3kH3EqJ4q) | 2:56 |
-| 35 | [خالصة معايا](https://open.spotify.com/track/0XG6VRiFwF74vnEuMfr6hB) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz), [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn) | [خالصة معايا](https://open.spotify.com/album/1ZqcAeqFDFXhNZilGrnEqv) | 3:23 |
-| 36 | [BARBARY](https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BARBARY](https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR) | 2:36 |
-| 37 | [Betadeen](https://open.spotify.com/track/5SSh0fKEEkyaBGOhQG47AE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Agzakhana](https://open.spotify.com/album/1xXO29qVBNrs7NsagU8MPs) | 3:26 |
-| 38 | [AMTAR](https://open.spotify.com/track/5AGeNYpstVBpFn8IW2KqS7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [El Sahaba Bonus](https://open.spotify.com/album/1J3NZMlu9mW7W1Pjvo0jrC) | 2:48 |
-| 39 | [Freska](https://open.spotify.com/track/4FhQTFKjtl4wAxmN8Mw5Mr) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [Freska](https://open.spotify.com/album/3VZtMMJcdfXYwMtonjM534) | 2:12 |
-| 40 | [مش شايفك](https://open.spotify.com/track/6sauc8XwEVUeYCa9IQIPgq) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [مش شايفك](https://open.spotify.com/album/7Hr0AmspLfPsPCsXlKyNjl) | 3:01 |
-| 41 | [خلصانة](https://open.spotify.com/track/6B2ZBGIwT28egK3PAZN3Sx) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj) | [خلصانة](https://open.spotify.com/album/7mo4jctLOQgaxuuC3PVkCU) | 3:02 |
-| 42 | [كابتن](https://open.spotify.com/track/5F1eUkCHs9dnokkni8xfkC) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن](https://open.spotify.com/album/6JdMK7OgNySNirfOn5Vg3G) | 2:58 |
-| 43 | [عطشان وبستنى تغيير](https://open.spotify.com/track/1rbwwRQqDe3hBAoFUqwpFu) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عطشان وبستنى تغيير](https://open.spotify.com/album/7oT3KutU3W3hLFp1kHdSQ8) | 1:27 |
-| 44 | [Freestyle](https://open.spotify.com/track/28I6S4VxP42TMjgMYszHu7) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Freestyle](https://open.spotify.com/album/33Z8BT35ZwgYBRREcKiwCg) | 2:29 |
-| 45 | [بطل](https://open.spotify.com/track/3LxSKiIy0z4B9mEMHQZ77Q) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil baba](https://open.spotify.com/artist/3T8fVfMYRXW3RQNpxy80iw) | [بطل](https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX) | 3:27 |
-| 46 | [Ya Wa3dy](https://open.spotify.com/track/1DQFgzRwvvWuRFQYsKbE0P) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Ya Wa3dy](https://open.spotify.com/album/5O803jOfSfDdSFbztbJ0aQ) | 3:01 |
-| 47 | [ElNaw Wy](https://open.spotify.com/track/1vQOTZPsWE4r2Sm9nKi9iw) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [ElNaw Wy](https://open.spotify.com/album/0c020gB5ryHFx3Vh7aK1fb) | 2:29 |
-| 48 | [Ma 3Aleena](https://open.spotify.com/track/5QGPHt2jSENWFe6rHjMOz5) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Ma 3Aleena](https://open.spotify.com/album/1AO98h2bmjf2IOy0aRuRlc) | 3:26 |
-| 49 | [متجلونش](https://open.spotify.com/track/3BryCsgMtODlRpRIzsa4wF) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [متجلونش](https://open.spotify.com/album/26ZLUpGMZDZUEet4BTeE9U) | 3:09 |
+| 35 | [CHAPTER III: GORAA](https://open.spotify.com/track/11CLR83zp5oox9U0dr21Uw) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [TRAUMA \(2023\)](https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ) | 3:02 |
+| 36 | [خالصة معايا](https://open.spotify.com/track/0XG6VRiFwF74vnEuMfr6hB) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz), [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn) | [خالصة معايا](https://open.spotify.com/album/1ZqcAeqFDFXhNZilGrnEqv) | 3:23 |
+| 37 | [BARBARY](https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BARBARY](https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR) | 2:36 |
+| 38 | [Betadeen](https://open.spotify.com/track/5SSh0fKEEkyaBGOhQG47AE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Agzakhana](https://open.spotify.com/album/1xXO29qVBNrs7NsagU8MPs) | 3:26 |
+| 39 | [AMTAR](https://open.spotify.com/track/5AGeNYpstVBpFn8IW2KqS7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [El Sahaba Bonus](https://open.spotify.com/album/1J3NZMlu9mW7W1Pjvo0jrC) | 2:48 |
+| 40 | [Freska](https://open.spotify.com/track/4FhQTFKjtl4wAxmN8Mw5Mr) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [Freska](https://open.spotify.com/album/3VZtMMJcdfXYwMtonjM534) | 2:12 |
+| 41 | [مش شايفك](https://open.spotify.com/track/6sauc8XwEVUeYCa9IQIPgq) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [مش شايفك](https://open.spotify.com/album/7Hr0AmspLfPsPCsXlKyNjl) | 3:01 |
+| 42 | [خلصانة](https://open.spotify.com/track/6B2ZBGIwT28egK3PAZN3Sx) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj) | [خلصانة](https://open.spotify.com/album/7mo4jctLOQgaxuuC3PVkCU) | 3:02 |
+| 43 | [كابتن](https://open.spotify.com/track/5F1eUkCHs9dnokkni8xfkC) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن](https://open.spotify.com/album/6JdMK7OgNySNirfOn5Vg3G) | 2:58 |
+| 44 | [عطشان وبستنى تغيير](https://open.spotify.com/track/1rbwwRQqDe3hBAoFUqwpFu) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عطشان وبستنى تغيير](https://open.spotify.com/album/7oT3KutU3W3hLFp1kHdSQ8) | 1:27 |
+| 45 | [Freestyle](https://open.spotify.com/track/28I6S4VxP42TMjgMYszHu7) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Freestyle](https://open.spotify.com/album/33Z8BT35ZwgYBRREcKiwCg) | 2:29 |
+| 46 | [بطل](https://open.spotify.com/track/3LxSKiIy0z4B9mEMHQZ77Q) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil baba](https://open.spotify.com/artist/3T8fVfMYRXW3RQNpxy80iw) | [بطل](https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX) | 3:27 |
+| 47 | [Ya Wa3dy](https://open.spotify.com/track/1DQFgzRwvvWuRFQYsKbE0P) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Ya Wa3dy](https://open.spotify.com/album/5O803jOfSfDdSFbztbJ0aQ) | 3:01 |
+| 48 | [ElNaw Wy](https://open.spotify.com/track/1vQOTZPsWE4r2Sm9nKi9iw) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [ElNaw Wy](https://open.spotify.com/album/0c020gB5ryHFx3Vh7aK1fb) | 2:29 |
+| 49 | [Ma 3Aleena](https://open.spotify.com/track/5QGPHt2jSENWFe6rHjMOz5) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Ma 3Aleena](https://open.spotify.com/album/1AO98h2bmjf2IOy0aRuRlc) | 3:26 |
 | 50 | [Star](https://open.spotify.com/track/1jYpuALqMGpGhbFkPxU8no) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Star](https://open.spotify.com/album/5Q4Je1QV2U4aSOlNTYkdOf) | 3:19 |
 
-Snapshot ID: `MTY3NjUzMTE0NCwwMDAwMDAwMGFhMTU1YmM2MjkxMzA5MzdhMzg2N2I5NWQ0NzAxYWJi`
+Snapshot ID: `MTY3Njg4NjYzMCwwMDAwMDAwMGQ5MDRjOWJmZjY1MTI5YWExYjAxMmVmZjA2YWJhMTNm`

@@ -8929,6 +8929,24 @@
     },
     {
       "album": {
+        "name": "The Truth Is",
+        "url": "https://open.spotify.com/album/1HCFSICghZJmtEOLOdduqI"
+      },
+      "artists": [
+        {
+          "name": "Cameron Morse",
+          "url": "https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402356,
+      "name": "The Fifty",
+      "url": "https://open.spotify.com/track/3Q2xvo5lP4pTq2bar4acux"
+    },
+    {
+      "album": {
         "name": "Wow and Flutter",
         "url": "https://open.spotify.com/album/0rfk5Ql7hlJPFYri2ItYgi"
       },
@@ -9884,7 +9902,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 207272,
       "name": "Underwater Gold Dust.",
       "url": "https://open.spotify.com/track/6LVXZQt6g2cgjEsxk3Aumk"

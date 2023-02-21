@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-529 songs - 1 day 8 hr 35 min
+530 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Do You Feel So Right](https://open.spotify.com/track/2D5qj1qPzpj1sJjou8WZhk) | [Pinball](https://open.spotify.com/artist/7qfKjRGrO1By4TujWvUA8F), [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp) | [Do You Feel So Right](https://open.spotify.com/album/0SNZo59K6w2X2iIgYyopWQ) | 2:35 | 2023-02-03 |  |
 | [Dopex](https://open.spotify.com/track/2aWKb2LbwbdMQtwr7ogAE6) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Dopex](https://open.spotify.com/album/5PMU6pNV77eQ5ohtUVcq8j) | 3:56 | 2022-06-24 |  |
 | [Down to Love](https://open.spotify.com/track/7nfiLZ7uRsvG8pVH8q3ori) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Down to Love](https://open.spotify.com/album/2bq9mWHuy7sZtZ0WZGCuXH) | 3:50 | 2022-11-11 | 2023-01-14 |
-| [dreamcore](https://open.spotify.com/track/5mCDSnNX4wXDxCwtHBRysH) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [dreamcore](https://open.spotify.com/album/59P9rAUO9S4VUuZRPgpCCx) | 2:55 | 2022-04-01 |  |
+| [dreamcore](https://open.spotify.com/track/5mCDSnNX4wXDxCwtHBRysH) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [dreamcore](https://open.spotify.com/album/59P9rAUO9S4VUuZRPgpCCx) | 2:55 | 2022-04-01 | 2023-02-21 |
 | [Dubai](https://open.spotify.com/track/4ztHw0kosQU4WymQf7SItU) | [Yoel Lewis](https://open.spotify.com/artist/3NL4BIiZNFgeCkiVCRitKP) | [Dubai](https://open.spotify.com/album/7s7vZ146G2Asz0iT0zVH5K) | 2:58 | 2022-01-28 |  |
 | [Dynamic](https://open.spotify.com/track/1lDIVnkCRHDV0VTOUfM83X) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Ruslan Radriges](https://open.spotify.com/artist/1llZ2bnIKgwHuzZqcJawVN) | [Dynamic](https://open.spotify.com/album/4Nsw5vqTSnwmNBd1aFokVi) | 2:58 | 2021-12-17 | 2022-01-08 |
 | [Dynamo](https://open.spotify.com/track/00MHnP9LWlS0H5F5kXnN0N) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Dynamo](https://open.spotify.com/album/5CXSOCveEATtQpooR113IW) | 3:28 | 2022-10-28 |  |
@@ -512,6 +512,7 @@
 | [Visions](https://open.spotify.com/track/1dDUV0wX5nnxiqz4MCrnRr) | [Jorza](https://open.spotify.com/artist/2QQUtKcJQ0bkubS0Titmi4), [Sherano](https://open.spotify.com/artist/2Dxe0mR6EMgSc7f72pqKq6) | [Visions](https://open.spotify.com/album/4ewVL0YFCVY1mLeLXXRIKb) | 3:22 | 2022-04-15 | 2022-06-23 |
 | [Voices From Earth](https://open.spotify.com/track/05ESlCD4zwIk8O61n2tRdA) | [Rub!k](https://open.spotify.com/artist/5U2wxAflSm2aCkV61rqhX2) | [Voices From Earth](https://open.spotify.com/album/1tANGPlVGpxDO6DNAUdoxT) | 2:57 | 2022-11-18 |  |
 | [Walk Through Shadows](https://open.spotify.com/track/288OdSeiMaRQSx2XKoGbDr) | [Maratone](https://open.spotify.com/artist/1hVS5JWJxeuMiu7sultgO7), [Saphron](https://open.spotify.com/artist/22qBHVRKKdZZURzAL4QGUZ), [Hardcode](https://open.spotify.com/artist/31DfphJBdyA0ZrWd1MWebu) | [Walk Through Shadows](https://open.spotify.com/album/0I8cOAWVy0bBnvz8ODOxgs) | 4:07 | 2022-02-04 | 2022-07-07 |
+| [WARRIOR](https://open.spotify.com/track/61MFpHrM3gL5VsL451XJUR) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [WARRIOR](https://open.spotify.com/album/6PbOFCxXMR13eXpEzuVnmL) | 3:17 | 2023-02-17 |  |
 | [Way Home](https://open.spotify.com/track/0qL2CQdLzOUwoE6wm5oTBm) | [Eximinds](https://open.spotify.com/artist/2rDzllD1jSxxJCcRX2l55K), [Alexander Komarov](https://open.spotify.com/artist/2Fe09LGf8KZs1mBkFwxaEo) | [Way Home](https://open.spotify.com/album/2jE7pGssy2hOcqpC8cpCnL) | 3:19 | 2022-06-10 | 2022-06-29 |
 | [Way To You](https://open.spotify.com/track/6oOWzHuMNBZSopa3zvvuoQ) | [Tensteps](https://open.spotify.com/artist/7gIEIIwEUPxZmScP2JCkPU), [Spencer Newell](https://open.spotify.com/artist/5TuPKF4PK5PDgGuR9PlGfv), [Karel & XoJani](https://open.spotify.com/artist/50BfKVazLcHIKR0qVSZtem) | [Way To You](https://open.spotify.com/album/4tI7GvhkJxdQhEwFtznDPp) | 3:44 | 2022-03-18 | 2022-07-20 |
 | [We Come 1](https://open.spotify.com/track/0drzO94bmrMrel3GodCweJ) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Distorted Dreams](https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO) | [We Come 1](https://open.spotify.com/album/6Tc47Ct756wIjmDPpRfrKW) | 2:58 | 2021-12-17 | 2022-04-23 |

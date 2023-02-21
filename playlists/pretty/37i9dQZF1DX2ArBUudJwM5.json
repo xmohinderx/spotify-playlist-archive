@@ -1,12 +1,12 @@
 {
   "description": "Escuch\u00e1 a Yami Safdie y a m\u00e1s mujeres a todo volumen. \nDales PLAY, dales POWER.",
-  "num_followers": 25632,
+  "num_followers": 25639,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMGU2NTc2MTg4MjgzOTgyN2U4OWMzZTRlN2UzNDg3M2Q4",
+  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMGY2MmQyMzQyODZkMjFmNTFkMWY3YTg5ZDE0NzY5MjJj",
   "tracks": [
     {
       "added_at": "2023-02-01 03:00:00",
@@ -471,6 +471,30 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
+        "name": "Fresh Prince (Remix)",
+        "url": "https://open.spotify.com/album/7fP6eFdFHyneo1Ez8tku5X"
+      },
+      "artists": [
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 212363,
+      "name": "Fresh Prince - Remix",
+      "url": "https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
         "name": "Bellaca",
         "url": "https://open.spotify.com/album/2Ff3G9rBwSjr5D2C4hxDEl"
       },
@@ -503,30 +527,6 @@
       "duration_ms": 151250,
       "name": "Hoy Dej\u00e9 De Llorar",
       "url": "https://open.spotify.com/track/7mQyrhiwZf5xOIr0klasjZ"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
-        "name": "Fresh Prince (Remix)",
-        "url": "https://open.spotify.com/album/7fP6eFdFHyneo1Ez8tku5X"
-      },
-      "artists": [
-        {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 212363,
-      "name": "Fresh Prince - Remix",
-      "url": "https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Crudo",
-        "url": "https://open.spotify.com/album/4xLWlcNBB3tL4kTlphsdu8"
-      },
-      "artists": [
-        {
-          "name": "Mimi Rose",
-          "url": "https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB"
-        }
-      ],
-      "duration_ms": 204845,
-      "name": "Crudo",
-      "url": "https://open.spotify.com/track/3QP7UaXnfLRYIvbUYwqwYn"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "Spm (Se Pronuncia Maguaier)",
         "url": "https://open.spotify.com/album/6yDOQhDAnwt9Bh2KN5Volt"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 164999,
       "name": "Pedazos",
       "url": "https://open.spotify.com/track/7pe9YKf899xuL7ZSS9V3Hz"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Crudo",
+        "url": "https://open.spotify.com/album/4xLWlcNBB3tL4kTlphsdu8"
+      },
+      "artists": [
+        {
+          "name": "Mimi Rose",
+          "url": "https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB"
+        }
+      ],
+      "duration_ms": 204845,
+      "name": "Crudo",
+      "url": "https://open.spotify.com/track/3QP7UaXnfLRYIvbUYwqwYn"
     },
     {
       "added_at": "2023-02-01 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Zion & Lennox",
-  "num_followers": 248083,
+  "num_followers": 248107,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGJiMDUzYTEwNjQ4ZDVmYjg1ZDViYmNkNDhjYjk1NmFm",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDgzNDczNTdkMTBmNTJiMzNhNTRlM2JhYjY0Y2I1YmNi",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Bachatica",
-        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
-      },
-      "artists": [
-        {
-          "name": "Leslie Grace",
-          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
-        }
-      ],
-      "duration_ms": 196461,
-      "name": "Bachatica",
-      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/3KaFtzUOQvjPAZDlPNL86r"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Bachatica",
+        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
+      },
+      "artists": [
+        {
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+        }
+      ],
+      "duration_ms": 196461,
+      "name": "Bachatica",
+      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Encaprichao",
         "url": "https://open.spotify.com/album/0kfRkigR4yiYk7dKVBVfCz"
       },
@@ -555,6 +555,26 @@
       "duration_ms": 129323,
       "name": "Encaprichao",
       "url": "https://open.spotify.com/track/1d2UAejVm1DMf78pfick1d"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Esta Canci\u00f3n",
+        "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
+      },
+      "artists": [
+        {
+          "name": "Tutto Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
+        },
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "duration_ms": 214145,
+      "name": "Esta Canci\u00f3n",
+      "url": "https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -603,26 +623,6 @@
       "duration_ms": 240555,
       "name": "Besame XXX",
       "url": "https://open.spotify.com/track/3Vpw562wr7JptY0d2HwrfG"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Esta Canci\u00f3n",
-        "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
-      },
-      "artists": [
-        {
-          "name": "Tutto Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
-        },
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        }
-      ],
-      "duration_ms": 214145,
-      "name": "Esta Canci\u00f3n",
-      "url": "https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -819,18 +819,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Ven, Ven",
-        "url": "https://open.spotify.com/album/1UsnZRssUcmZxEQFejIrD7"
+        "name": "Buscando Un Amor",
+        "url": "https://open.spotify.com/album/6p1rFIAqTxUFtO62nmhQTH"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+          "name": "J Salez",
+          "url": "https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU"
+        },
+        {
+          "name": "DerekVinci",
+          "url": "https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu"
         }
       ],
-      "duration_ms": 208680,
-      "name": "Ven, Ven",
-      "url": "https://open.spotify.com/track/2qEzWUMScoin9hn8Gqr0s9"
+      "duration_ms": 228860,
+      "name": "Buscando Un Amor",
+      "url": "https://open.spotify.com/track/333dP0lCe9CNZ4sBlReABw"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -855,22 +859,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Buscando Un Amor",
-        "url": "https://open.spotify.com/album/6p1rFIAqTxUFtO62nmhQTH"
+        "name": "Ven, Ven",
+        "url": "https://open.spotify.com/album/1UsnZRssUcmZxEQFejIrD7"
       },
       "artists": [
         {
-          "name": "J Salez",
-          "url": "https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU"
-        },
-        {
-          "name": "DerekVinci",
-          "url": "https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu"
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
         }
       ],
-      "duration_ms": 228860,
-      "name": "Buscando Un Amor",
-      "url": "https://open.spotify.com/track/333dP0lCe9CNZ4sBlReABw"
+      "duration_ms": 208680,
+      "name": "Ven, Ven",
+      "url": "https://open.spotify.com/track/2qEzWUMScoin9hn8Gqr0s9"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -907,18 +907,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Envenenao",
-        "url": "https://open.spotify.com/album/3UDLALZNLL9a0aMk1SvXeP"
+        "name": "No Me Lo Creo",
+        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
       },
       "artists": [
         {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
         }
       ],
-      "duration_ms": 203562,
-      "name": "Envenenao",
-      "url": "https://open.spotify.com/track/0mRasKLNRK934lWvxf5dss"
+      "duration_ms": 268175,
+      "name": "No Me Lo Creo",
+      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
     }
   ],
   "unique_name": "el nuevo tropical",

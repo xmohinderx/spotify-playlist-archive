@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-366 songs - 21 hr 18 min
+367 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Thousand Hues \(Single version\)](https://open.spotify.com/track/4SKipToJYVzLEM3acjUAXp) | [Sean Christopher](https://open.spotify.com/artist/0e4vnHBYwY6LQqrhutIcnj) | [A Thousand Hues](https://open.spotify.com/album/6VLRyRTle8t8zDIfx5Pc81) | 4:06 | 2021-05-24 | 2021-10-16 |
 | [Afterneath](https://open.spotify.com/track/7eCjljRTwyqDBT52ygUUO5) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Afterneath](https://open.spotify.com/album/52P3BQLPRAMpjXe8t4Dllp) | 4:02 | 2021-05-22 | 2021-10-12 |
 | [Ain't Too Proud To Beg](https://open.spotify.com/track/4dtxlprvUMxpACtQ7bX52W) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Ain't Too Proud To Beg](https://open.spotify.com/album/7odh4VvTojJNLIh9HK3YxT) | 3:40 | 2020-10-20 | 2022-07-29 |
-| [Alice](https://open.spotify.com/track/2lXNibPcBjxEqtMfV15Mv2) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Alice](https://open.spotify.com/album/1OdvrifjMehOnaJO6FgB5g) | 2:39 | 2020-10-06\* |  |
+| [Alice](https://open.spotify.com/track/2lXNibPcBjxEqtMfV15Mv2) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Alice](https://open.spotify.com/album/1OdvrifjMehOnaJO6FgB5g) | 2:39 | 2020-10-06\* | 2023-02-21 |
 | [Alone](https://open.spotify.com/track/6oH2hy85hq65VeOvKbV0sB) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Alone](https://open.spotify.com/album/26y7ljRX6nTvzBfMnQuioB) | 3:36 | 2021-01-15 | 2022-07-29 |
 | [Back In The Water](https://open.spotify.com/track/2pu58Ze8wqgZDq1eQs3P8c) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Back In The Water](https://open.spotify.com/album/4AFg8jti4zlGxS2RGAU4NV) | 3:09 | 2020-10-20 | 2022-07-29 |
 | [Back in the Water](https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:10 | 2022-09-09 |  |
@@ -87,6 +87,7 @@
 | [Fade](https://open.spotify.com/track/7zxhhMt0j1JV7OuFpQ2Boe) | [Skinny Living](https://open.spotify.com/artist/405DvLr0FOuOWYgCt0emff) | [Fade](https://open.spotify.com/album/4yYS7JBEY54Zn2J1z0fNJK) | 3:29 | 2021-05-25 | 2021-10-13 |
 | [Faith's Song](https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l) | [Amy Wadge](https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp) | [Keeping Faith](https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh) | 2:52 | 2021-05-22 |  |
 | [Favorite Lie \- Acoustic Version](https://open.spotify.com/track/6Yzt6DQPreG4GiPB6F2Np5) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [Favorite Lie \(Acoustic Version\)](https://open.spotify.com/album/4iaB60HCoJgW8r5gt4OCD4) | 3:02 | 2020-10-06\* | 2020-11-07 |
+| [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 | 2023-02-16 |  |
 | [Feathers & Gasoline](https://open.spotify.com/track/3m7eo6EV3kkJwo6lmIBvkV) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90), [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Soulprints](https://open.spotify.com/album/0qovTAXnJUCwDspFQfT5k1) | 3:57 | 2020-10-20 | 2022-11-13 |
 | [Feelings](https://open.spotify.com/track/0y675KDleCZEudjoeL1sQQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Feelings](https://open.spotify.com/album/1MFxXAGWNIuz0X1hS9VRiS) | 3:09 | 2020-10-06\* | 2022-02-20 |
 | [Feelings](https://open.spotify.com/track/0s26En1JoJhVj32vizElpA) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:09 | 2022-05-09 | 2022-11-17 |

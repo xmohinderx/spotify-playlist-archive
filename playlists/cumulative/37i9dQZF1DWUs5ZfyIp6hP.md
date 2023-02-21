@@ -2,7 +2,7 @@
 
 ### [4th of July Family Fun](https://open.spotify.com/playlist/37i9dQZF1DWUs5ZfyIp6hP)
 
-> Light of your 4th with these family\-friendly tunes.
+> Light up your 4th with these family\-friendly tunes.
 
 73 songs - 3 hr 36 min
 

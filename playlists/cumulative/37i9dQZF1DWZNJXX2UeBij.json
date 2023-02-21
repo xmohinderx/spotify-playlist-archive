@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
   "description": "Bollywood songs that ruled hearts in the Y2K decade. Cover - Jab We Met",
-  "name": "All Out 00s Hindi",
+  "name": "All Out 00's Hindi",
   "tracks": [
     {
       "album": {
@@ -344,7 +344,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 315013,
       "name": "Ajj Din Chadheya",
       "url": "https://open.spotify.com/track/7N30pzJGFwnYU8iuzxWS7l"
@@ -3358,7 +3358,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 396506,
       "name": "Luka Chuppi",
       "url": "https://open.spotify.com/track/500H9ENeR5AYbKU1ScK6ME"
@@ -4198,7 +4198,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 318946,
       "name": "O Paalanhaare",
       "url": "https://open.spotify.com/track/5wPr9KuSfGBwGCi6NgJoVv"
@@ -5384,6 +5384,28 @@
       "duration_ms": 341933,
       "name": "Tu Jaane Na",
       "url": "https://open.spotify.com/track/4iFPsNzNV7V9KJgcOX7TEO"
+    },
+    {
+      "album": {
+        "name": "Yuvvraaj (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2fUOkCayofd6txiAS9AyLu"
+      },
+      "artists": [
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373173,
+      "name": "Tu Meri Dost Hain",
+      "url": "https://open.spotify.com/track/02N5ZxOVugGQmKeIT0VXUx"
     },
     {
       "album": {

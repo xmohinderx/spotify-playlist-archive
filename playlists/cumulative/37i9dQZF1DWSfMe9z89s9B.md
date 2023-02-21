@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Kelela
 
-745 songs - 1 day 16 hr 12 min
+746 songs - 1 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2021-08-13 | 2022-07-16 |
 | [Coconut Oil](https://open.spotify.com/track/22G3GGfNEx4LMv5BYLkXad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Coconut Oil](https://open.spotify.com/album/24otSlk8g6JzdO6vNpCUD5) | 2:01 | 2022-04-01 | 2022-04-16 |
 | [Coffee Bean](https://open.spotify.com/track/5vELlkkfUGP2OJ32wqrMKa) | [Zaniah](https://open.spotify.com/artist/20ffkBo6mbfR82Lvt6HjvH) | [Coffee Bean](https://open.spotify.com/album/74rQ5m43jTqx4GTbQkjiMd) | 2:39 | 2021-03-19 | 2022-01-13 |
+| [Coffee in the Morning](https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Coffee in the Morning](https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1) | 3:46 | 2023-02-10 |  |
 | [Color Palette](https://open.spotify.com/track/0qL3U7oKi7kGahb1TeRJCt) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Atlas](https://open.spotify.com/album/26LTl351R5RC8NwHJkGV6P) | 3:33 | 2021-03-19 | 2022-04-21 |
 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 | 2022-05-27 | 2022-07-16 |
 | [come thru](https://open.spotify.com/track/3kZLfFEvFmuRhpVM7Nyfq0) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [come thru](https://open.spotify.com/album/64tGtfAUug6pBCPyn8jHyy) | 2:12 | 2022-04-01 | 2022-04-15 |
@@ -518,7 +519,7 @@
 | [Post Nut Clarity](https://open.spotify.com/track/0J0VOMFRsLrxd04uOIYxac) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/5E4FRTJyliNAWkPX84mA5f) | 1:53 | 2022-02-25 | 2022-05-19 |
 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 | 2022-07-29 |  |
 | [Potential](https://open.spotify.com/track/1Wl7Rh9lUbQjA9RvHEiCbc) | [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV) | [Potential](https://open.spotify.com/album/5U7pW6Www9PZzXB1JFrBtF) | 2:54 | 2022-04-01 | 2022-07-29 |
-| [Potential](https://open.spotify.com/track/3Xa5VCKmneuaoTe7VYsupa) | [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV) | [Potential](https://open.spotify.com/album/1dHQlMxstJvM0UZRiuPaea) | 2:54 | 2022-06-10 |  |
+| [Potential](https://open.spotify.com/track/3Xa5VCKmneuaoTe7VYsupa) | [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV) | [Potential](https://open.spotify.com/album/1dHQlMxstJvM0UZRiuPaea) | 2:54 | 2022-06-10 | 2023-02-21 |
 | [Power](https://open.spotify.com/track/3nE7KhZq3bz31I7g7hvt1v) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Power](https://open.spotify.com/album/5B2xt3XKpNqKbHj7T02rms) | 2:48 | 2022-07-29 | 2022-08-20 |
 | [Pressure](https://open.spotify.com/track/5DMFR9JU4l86FD063mmb7z) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Pressure](https://open.spotify.com/album/5ggd0JyaC9xDcbbIQigiiX) | 2:27 | 2022-09-02 | 2022-09-10 |
 | [pressure](https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:40 | 2022-03-21 |  |

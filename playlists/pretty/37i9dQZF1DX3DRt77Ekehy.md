@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 
 > Tune in, resonate and manifest at 432 hertz..\. <br/>A positive solfeggio frequency to meditate to
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,064 likes - 74 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,443 likes - 74 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

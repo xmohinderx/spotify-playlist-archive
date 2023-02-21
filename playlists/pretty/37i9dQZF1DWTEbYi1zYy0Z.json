@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Lin Rountree",
-  "num_followers": 44589,
+  "num_followers": 44634,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDVhN2QzZmEzMmQ4OTE2ZmRiZDdlYTM4N2Q0ZmYwMjlh",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGVhMmNmZDg4OTJjNWFkYjc0NTEyNDg2Y2RhZDlmZGQ0",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6"
     },
     {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Another Day In Paradise",
+        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 275680,
+      "name": "Another Day In Paradise",
+      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Deep Into You",
@@ -399,22 +415,6 @@
       "duration_ms": 273515,
       "name": "A Song for Peace",
       "url": "https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Another Day In Paradise",
-        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 275680,
-      "name": "Another Day In Paradise",
-      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
     },
     {
       "added_at": "2022-10-24 14:43:12",

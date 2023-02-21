@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-339 songs - 18 hr 56 min
+340 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bad Person \[Y.O.G.A\. cow★tech Dub\]](https://open.spotify.com/track/1SkYBARXcT67drpu86Aql4) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN), [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y) | [Bad Person \[Y.O.G.A\. cow★tech Dub\]](https://open.spotify.com/album/1QwUGqrC3CXRvZwH3OjEfm) | 4:58 | 2022-11-10 | 2022-12-02 |
 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 | 2022-10-28 | 2022-11-04 |
 | [Benjamín Carrión](https://open.spotify.com/track/2wJvLzX1W7VQSx0wuTgxCp) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Benjamín Carrión](https://open.spotify.com/album/0UacT2HwlzcN9bnbtqI98k) | 2:57 | 2022-11-10 | 2023-01-27 |
+| [Best Disaster](https://open.spotify.com/track/6dmZu0IVmbT1rDIiYiRchg) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Best Disaster](https://open.spotify.com/album/5BMoArQlFykRWUh120Hcdh) | 2:53 | 2023-02-20 |  |
 | [Better Place](https://open.spotify.com/track/5AhlVofEws5TSaaTs2B5T3) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [alma](https://open.spotify.com/artist/12ohBmDYK1nr9HyfpxE6RF) | [Better Place](https://open.spotify.com/album/3QBLfMoQkn8f8yripMi2UL) | 3:22 | 2023-02-09 |  |
 | [Better Thangs \(with Summer Walker\)](https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Better Thangs](https://open.spotify.com/album/4czheDpc6NZXB8Fp0YiQ77) | 3:34 | 2022-10-28 | 2022-12-16 |
 | [Big Syke \(feat\. Meyhem Lauren & Boldy James\)](https://open.spotify.com/track/4KBmFQxpsXr7WlvfliqIrK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Meyhem Lauren](https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [The Alchemist Sandwich](https://open.spotify.com/album/17tk2ot2eZqzhlF1nlcFPa) | 2:26 | 2022-12-15 | 2023-02-03 |

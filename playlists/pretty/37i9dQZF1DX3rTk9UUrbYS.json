@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 40299,
+  "num_followers": 40326,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGI4YjBhZmRiODdjOGI1YjIzMjdhMDQ4MWM4NzNjMTgz",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGNhNTUzMjQzOTk1YjUzZTU2MzlmYTZhZTJkODg4NWUz",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Impressions",
-        "url": "https://open.spotify.com/album/3Ot8usQajsFawIAsULDrqj"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 901840,
-      "name": "Impressions - Live At The Village Vanguard, New York/1961",
-      "url": "https://open.spotify.com/track/0CB88iJNRCNLTxIRGlkYJA"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "Kasumi",
         "url": "https://open.spotify.com/album/7x3EOysjR2aZfJ1YC19cT9"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 122142,
       "name": "Kasumi",
       "url": "https://open.spotify.com/track/4TY0ywSa4bGblUa4rGZmkU"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Impressions",
+        "url": "https://open.spotify.com/album/3Ot8usQajsFawIAsULDrqj"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 901840,
+      "name": "Impressions - Live At The Village Vanguard, New York/1961",
+      "url": "https://open.spotify.com/track/0CB88iJNRCNLTxIRGlkYJA"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -161,6 +161,22 @@
       "url": "https://open.spotify.com/track/79rm3QepPfhJogUwqV5d4u"
     },
     {
+      "added_at": "2020-11-06 04:01:00",
+      "album": {
+        "name": "Blind Fury",
+        "url": "https://open.spotify.com/album/6kC17nZeXdCQooTRQSzX8a"
+      },
+      "artists": [
+        {
+          "name": "AKU!",
+          "url": "https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM"
+        }
+      ],
+      "duration_ms": 369172,
+      "name": "Dub Ting",
+      "url": "https://open.spotify.com/track/2DBwIY8YEXqTKjUWFEvKbg"
+    },
+    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Thembi",
@@ -199,22 +215,6 @@
       "duration_ms": 212416,
       "name": "Talvez Certamente",
       "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
-    },
-    {
-      "added_at": "2020-11-06 04:01:00",
-      "album": {
-        "name": "Blind Fury",
-        "url": "https://open.spotify.com/album/6kC17nZeXdCQooTRQSzX8a"
-      },
-      "artists": [
-        {
-          "name": "AKU!",
-          "url": "https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM"
-        }
-      ],
-      "duration_ms": 369172,
-      "name": "Dub Ting",
-      "url": "https://open.spotify.com/track/2DBwIY8YEXqTKjUWFEvKbg"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/4zxRrjQfGDcF1yEOXkcdXN"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Winns Win",
-        "url": "https://open.spotify.com/album/0E9mxK9RuUzjHFkKmBnQlb"
-      },
-      "artists": [
-        {
-          "name": "Evan Parker",
-          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
-        }
-      ],
-      "duration_ms": 200570,
-      "name": "WW1",
-      "url": "https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "New York Is Now",
@@ -381,6 +365,22 @@
       "url": "https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha"
     },
     {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "Winns Win",
+        "url": "https://open.spotify.com/album/0E9mxK9RuUzjHFkKmBnQlb"
+      },
+      "artists": [
+        {
+          "name": "Evan Parker",
+          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
+        }
+      ],
+      "duration_ms": 200570,
+      "name": "WW1",
+      "url": "https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Bugatti (\u00e9tude)",
@@ -395,22 +395,6 @@
       "duration_ms": 254560,
       "name": "Bugatti (\u00e9tude)",
       "url": "https://open.spotify.com/track/1qt0cGs4U8qDpuhbJ0NxeW"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Sopranoville: Works for Prepared and Non-Prepared Soprano",
-        "url": "https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs"
-      },
-      "artists": [
-        {
-          "name": "Sam Newsome",
-          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
-        }
-      ],
-      "duration_ms": 151946,
-      "name": "Straight Horns of Plenty",
-      "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
     },
     {
       "added_at": "2020-12-04 05:02:00",
@@ -441,6 +425,38 @@
       "url": "https://open.spotify.com/track/2VqEeQ1BvCK1VfYH3ww4I0"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Sopranoville: Works for Prepared and Non-Prepared Soprano",
+        "url": "https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs"
+      },
+      "artists": [
+        {
+          "name": "Sam Newsome",
+          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
+        }
+      ],
+      "duration_ms": 151946,
+      "name": "Straight Horns of Plenty",
+      "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Water & Tools",
+        "url": "https://open.spotify.com/album/45SgGNuaRkSXVbkgyqTB0K"
+      },
+      "artists": [
+        {
+          "name": "Jairus Sharif",
+          "url": "https://open.spotify.com/artist/4YdyabAhjPkZEJ77ML7q4x"
+        }
+      ],
+      "duration_ms": 292440,
+      "name": "Ra Comm 43",
+      "url": "https://open.spotify.com/track/0jnNk2OwmJzUlMf05xYmCu"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Dolunay",
@@ -461,20 +477,36 @@
       "url": "https://open.spotify.com/track/3U66YsEEXqz0rig8U0bVNd"
     },
     {
-      "added_at": "2022-10-21 04:01:00",
+      "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Water & Tools",
-        "url": "https://open.spotify.com/album/45SgGNuaRkSXVbkgyqTB0K"
+        "name": "It's Hard",
+        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
       },
       "artists": [
         {
-          "name": "Jairus Sharif",
-          "url": "https://open.spotify.com/artist/4YdyabAhjPkZEJ77ML7q4x"
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
         }
       ],
-      "duration_ms": 292440,
-      "name": "Ra Comm 43",
-      "url": "https://open.spotify.com/track/0jnNk2OwmJzUlMf05xYmCu"
+      "duration_ms": 261333,
+      "name": "Maps - Instrumental",
+      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/70ICtMZgfeCovI38wqT1Ji"
+      },
+      "artists": [
+        {
+          "name": "Cecilie Strange",
+          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
+        }
+      ],
+      "duration_ms": 320306,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/6ERIEM4NyPd8ph0NXb98m7"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -495,38 +527,6 @@
       "duration_ms": 374688,
       "name": "Chapter I",
       "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/70ICtMZgfeCovI38wqT1Ji"
-      },
-      "artists": [
-        {
-          "name": "Cecilie Strange",
-          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
-        }
-      ],
-      "duration_ms": 320306,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/6ERIEM4NyPd8ph0NXb98m7"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "It's Hard",
-        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
-      },
-      "artists": [
-        {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Maps - Instrumental",
-      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
     },
     {
       "added_at": "2021-12-03 05:02:00",
@@ -615,22 +615,6 @@
       "duration_ms": 344453,
       "name": "Lebroba",
       "url": "https://open.spotify.com/track/5Uiofafr14TDphDMDeqxIz"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "The Piano Equation",
-        "url": "https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shipp",
-          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
-        }
-      ],
-      "duration_ms": 314786,
-      "name": "Piano Equation",
-      "url": "https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -729,28 +713,20 @@
       "url": "https://open.spotify.com/track/5zRFHuczWKsSmtvMaLceXp"
     },
     {
-      "added_at": "2021-07-30 04:01:00",
+      "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Problem of Absolute Generality",
-        "url": "https://open.spotify.com/album/25ZSDXYVeaT9rfVueSUefL"
+        "name": "The Piano Equation",
+        "url": "https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3"
       },
       "artists": [
         {
-          "name": "Stian Larsen",
-          "url": "https://open.spotify.com/artist/37WNfpX5odIsTLrz4bcQuy"
-        },
-        {
-          "name": "Colin Webster",
-          "url": "https://open.spotify.com/artist/782Lu0pwcnmn5RsSeFZzdV"
-        },
-        {
-          "name": "Andrew Lisle",
-          "url": "https://open.spotify.com/artist/7roKJZDBtQNYTUZlSC8d7Q"
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
         }
       ],
-      "duration_ms": 763674,
-      "name": "Boltzmann Brain",
-      "url": "https://open.spotify.com/track/36SNneesnYR9jvuzzrA6j5"
+      "duration_ms": 314786,
+      "name": "Piano Equation",
+      "url": "https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -785,6 +761,30 @@
       "url": "https://open.spotify.com/track/5lNZvkoBgIETzAWNS7mToD"
     },
     {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "Problem of Absolute Generality",
+        "url": "https://open.spotify.com/album/25ZSDXYVeaT9rfVueSUefL"
+      },
+      "artists": [
+        {
+          "name": "Stian Larsen",
+          "url": "https://open.spotify.com/artist/37WNfpX5odIsTLrz4bcQuy"
+        },
+        {
+          "name": "Colin Webster",
+          "url": "https://open.spotify.com/artist/782Lu0pwcnmn5RsSeFZzdV"
+        },
+        {
+          "name": "Andrew Lisle",
+          "url": "https://open.spotify.com/artist/7roKJZDBtQNYTUZlSC8d7Q"
+        }
+      ],
+      "duration_ms": 763674,
+      "name": "Boltzmann Brain",
+      "url": "https://open.spotify.com/track/36SNneesnYR9jvuzzrA6j5"
+    },
+    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "In Cahoots",
@@ -807,30 +807,6 @@
       "duration_ms": 227346,
       "name": "Shudder to Think",
       "url": "https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "BASFE",
-        "url": "https://open.spotify.com/album/36SN4HstYPQ6XVzU2Sl4Uo"
-      },
-      "artists": [
-        {
-          "name": "Bartolo",
-          "url": "https://open.spotify.com/artist/76ZLFHVxlUUlXEyuCe1HjO"
-        },
-        {
-          "name": "Sousa",
-          "url": "https://open.spotify.com/artist/2sokDb3FMSeky2ZtFEaEPc"
-        },
-        {
-          "name": "Ferrandini",
-          "url": "https://open.spotify.com/artist/2QyqKpqczaxVgAaI31iOmk"
-        }
-      ],
-      "duration_ms": 322930,
-      "name": "Sample calculation",
-      "url": "https://open.spotify.com/track/6SaubWpIqZ0guw9PUqUgc1"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -875,6 +851,30 @@
       "duration_ms": 468600,
       "name": "Explain It To Me",
       "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "BASFE",
+        "url": "https://open.spotify.com/album/36SN4HstYPQ6XVzU2Sl4Uo"
+      },
+      "artists": [
+        {
+          "name": "Bartolo",
+          "url": "https://open.spotify.com/artist/76ZLFHVxlUUlXEyuCe1HjO"
+        },
+        {
+          "name": "Sousa",
+          "url": "https://open.spotify.com/artist/2sokDb3FMSeky2ZtFEaEPc"
+        },
+        {
+          "name": "Ferrandini",
+          "url": "https://open.spotify.com/artist/2QyqKpqczaxVgAaI31iOmk"
+        }
+      ],
+      "duration_ms": 322930,
+      "name": "Sample calculation",
+      "url": "https://open.spotify.com/track/6SaubWpIqZ0guw9PUqUgc1"
     },
     {
       "added_at": "2020-08-25 21:55:35",

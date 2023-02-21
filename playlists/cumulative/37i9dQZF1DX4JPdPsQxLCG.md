@@ -4,7 +4,7 @@
 
 > Classic tunes to soundtrack your weekend\. Cover: The Tragically Hip
 
-295 songs - 19 hr 28 min
+296 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [No Time](https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [American Woman](https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV) | 3:49 | 2022-05-02 |  |
 | [Northern Lights](https://open.spotify.com/track/3U1Asd3xoWUejF66hHHgCP) | [The Jerry Cans](https://open.spotify.com/artist/2KRbj0uDbY56wTORJiY229) | [Inuusiq](https://open.spotify.com/album/5ujNr7kKTye0IfxiDlVIHG) | 3:34 | 2022-09-10 | 2022-09-15 |
 | [Not Necessary](https://open.spotify.com/track/5pffKlF4vFdE97wNxhcNWW) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Saskadelphia](https://open.spotify.com/album/4K4TmKxqAJLQfsIuwb7per) | 3:01 | 2022-05-02 | 2022-07-29 |
-| [Not Ready to Go](https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd) | 3:03 | 2022-05-02 |  |
+| [Not Ready to Go](https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd) | 3:03 | 2022-05-02 | 2023-02-21 |
 | [Not Ready To Go](https://open.spotify.com/track/6TAIjNdGCB4rJ8eS90Vd8t) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House Of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/0mq5DrQk05zTR8qU4zIuTH) | 3:03 | 2022-05-02 | 2022-07-29 |
 | [Nothing Special](https://open.spotify.com/track/50fi5G747RJ6vKmX886eX1) | [illScarlett](https://open.spotify.com/artist/7wifMhiQRkNVGDL3habHha) | [All Day With It](https://open.spotify.com/album/7oL96ynXqzzf5BfzhqbtOH) | 3:28 | 2022-05-02 | 2022-07-20 |
 | [Nowhere With You](https://open.spotify.com/track/1GPLHjO42TFuIos5JNjYpL) | [Joel Plaskett Emergency](https://open.spotify.com/artist/64WWINLIAzJ2CgzZWkywB3) | [Make A Little Noise EP](https://open.spotify.com/album/14mVaClWSmMct9XwQahGb0) | 3:01 | 2022-05-02 | 2022-07-29 |
@@ -202,6 +202,7 @@
 | [Ripple Effect](https://open.spotify.com/track/1M7qITm14RSN4md3l9ZPIS) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Hôtel de Ville](https://open.spotify.com/album/4tSyMoAffvFeEEzIG3cJ5E) | 3:22 | 2022-09-10 | 2022-09-15 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-09-10 | 2022-09-15 |
 | [Rock Me Gently](https://open.spotify.com/track/5ge31VkFC1tpyehS4XQnNd) | [Andy Kim](https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli) | [Rock Me Gently](https://open.spotify.com/album/4MoQtWZUqWosLsDWddjBgQ) | 3:58 | 2022-05-02 | 2022-07-29 |
+| [Rockin' in the Free World](https://open.spotify.com/track/6jDAPpcJ6YYPLC7XYH1Mnx) | [Leopanforte](https://open.spotify.com/artist/72ptKrXdQG9VlKwtwzwpi7) | [Rockin' in the Free World](https://open.spotify.com/album/6j2vkYgWppe1vGfAuiHniI) | 4:41 | 2022-09-13 |  |
 | [Rockin' in the Free World](https://open.spotify.com/track/4Y7fEQ4PAzhlLnLviRw2P4) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Freedom](https://open.spotify.com/album/3uOOKcr91I3Br0Rtmu4zdT) | 4:41 | 2022-05-02 | 2022-07-29 |
 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 | 2022-05-02 |  |
 | [Seasons in the Sun](https://open.spotify.com/track/6AhUX0ObPgTnS5GGFrRidN) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:25 | 2022-09-13 | 2022-11-13 |

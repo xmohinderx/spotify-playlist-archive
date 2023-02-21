@@ -3041,6 +3041,24 @@
     },
     {
       "album": {
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2GEM70NOk2NLvHZhZiUBpI"
+      },
+      "artists": [
+        {
+          "name": "Jason Lang",
+          "url": "https://open.spotify.com/artist/0hDsUvNberJq72ZG5lIcJ9"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184426,
+      "name": "Happiness Is",
+      "url": "https://open.spotify.com/track/6eKOwWyvYVQITbbu5BrCin"
+    },
+    {
+      "album": {
         "name": "Hard Times in Babylon",
         "url": "https://open.spotify.com/album/4WFE2OuHFZQH4JNRfzYWZK"
       },
@@ -9138,7 +9156,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 252845,
       "name": "Yemanj\u00e1",
       "url": "https://open.spotify.com/track/3s93NjNLvol0JdtnxHjkZA"

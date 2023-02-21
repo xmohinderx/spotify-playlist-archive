@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-81 songs - 7 hr 32 min
+82 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,8 +81,9 @@
 | [Way Back When](https://open.spotify.com/track/0afUIcc44wK2Y1LMGBH2k6) | [Brenda Russell](https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W) | [Greatest Hits](https://open.spotify.com/album/3JIeRgUCtlMf3y0u0cg5ZN) | 4:25 | 2022-07-07 |  |
 | [We Gonna Rock This Place](https://open.spotify.com/track/4TxZdik0UxuIKvwLsfNx7U) | [Universal Love](https://open.spotify.com/artist/3VBt6nOfrVaEr3iRDXI6rP) | [Philadelphia Soul \- Rarities](https://open.spotify.com/album/77j7xefFvOKQuSLeR80Uii) | 4:53 | 2022-10-14 |  |
 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 | 2022-11-21 |  |
+| [When Love Calls](https://open.spotify.com/track/0LRJldwVKhpOubrzixZmx5) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [Radiant](https://open.spotify.com/album/1fpgFs808jg1snTYFGAZC2) | 4:30 | 2022-11-21 |  |
 | [When Love Calls](https://open.spotify.com/track/4VDmyTwRKj6go51r15DCGu) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [Winning Combinations](https://open.spotify.com/album/5EOSeQnJ1yAvgKy5igt3m2) | 4:32 | 2022-10-14 | 2022-11-13 |
-| [When Love Calls](https://open.spotify.com/track/490n3MPr9AL7oiDXIJrIiB) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [The Best Of Atlantic Starr](https://open.spotify.com/album/31j5ZI5u1bMPFwdWWe7g6D) | 4:33 | 2022-07-07 |  |
+| [When Love Calls](https://open.spotify.com/track/490n3MPr9AL7oiDXIJrIiB) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [The Best Of Atlantic Starr](https://open.spotify.com/album/31j5ZI5u1bMPFwdWWe7g6D) | 4:33 | 2022-07-07 | 2023-02-21 |
 | [Work It Out](https://open.spotify.com/track/4xWZmHNlmAtB0zgdg45pzq) | [Leroy Burgess](https://open.spotify.com/artist/6bgccXVuEX61NPVEXj3Xp8), [Saving Coco](https://open.spotify.com/artist/0wbze3teJNEUpzAfRiga9F) | [Work It out / Til I Found You](https://open.spotify.com/album/5eAemysN30WIRISc4gJ4Ln) | 7:18 | 2022-07-07 |  |
 | [Wrap Myself Up in Your Love](https://open.spotify.com/track/0KTXXNWZOVyibdEikDN88T) | [Jim Spencer](https://open.spotify.com/artist/4eC6NhKPxEjd9a9vssqHz4) | [Wrap Myself Up In Your Love](https://open.spotify.com/album/2E8CiruRBvyHsIA88SPfht) | 4:06 | 2022-11-21 |  |
 | [You Can't Have Your Cake and Eat It Too \- Vocal](https://open.spotify.com/track/7kYW2EsK6YV6gwB32HmbeI) | [B.T\. \(Brenda Taylor\)](https://open.spotify.com/artist/3NpMhRPxH2KuankEDD51wV) | [You Can't Have Your Cake and Eat It Too](https://open.spotify.com/album/1kFjmuqLEVDVBbDFFPcszD) | 6:03 | 2022-07-07 |  |

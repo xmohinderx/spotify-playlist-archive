@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,438 songs - 4 day 3 hr 25 min
+1,439 songs - 4 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,6 +555,7 @@
 | [High Flyer](https://open.spotify.com/track/1nWH3PxlaUTcB9EqbJbVSy) | [Lyz Damon](https://open.spotify.com/artist/0t3MnJRdHczhCBCGbPgRL8) | [Road Trip](https://open.spotify.com/album/3tdYyQIzmVq9jP5utxOTII) | 3:41 | 2020-03-16 | 2021-03-06 |
 | [High On Beat](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [High On Beat](https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP) | 3:26 | 2021-06-05 | 2021-11-13 |
 | [High On Life](https://open.spotify.com/track/7sPTC8zYAKiKAHUkJtq9YC) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [High On Life](https://open.spotify.com/album/1OfW4pkj3JPFUFbe2cH6Du) | 3:52 | 2020-05-22 | 2020-07-03 |
+| [High On You](https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [High On You](https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt) | 3:06 | 2023-02-17 |  |
 | [High Tide](https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [High Tide](https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO) | 3:17 | 2021-10-22 |  |
 | [Higher Than Nirvana](https://open.spotify.com/track/06IzQHbqze5gZNkpZdndg9) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Higher Than Nirvana](https://open.spotify.com/album/7wjc6spzbsEeF5VRQKuB25) | 3:19 | 2022-12-16 | 2022-12-29 |
 | [Hildegard](https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Hildegard](https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG) | 4:41 | 2022-01-21 | 2022-02-12 |
@@ -1294,7 +1295,7 @@
 | [Time](https://open.spotify.com/track/1Zv8woSN47nSkwMjUWX0aS) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt), [Monomotion](https://open.spotify.com/artist/514CDwBzI2wOfEGuVqHOur) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:01 | 2020-03-21 | 2021-03-06 |
 | [Time Capsule](https://open.spotify.com/track/02ht7aTttJ0zbbHQh6jKlL) | [Nick Beman](https://open.spotify.com/artist/7ow15x0a0qAhy4ZK6xJKGx) | [Time Capsule](https://open.spotify.com/album/1uGLfESQqsa5TwO5YQSCRI) | 3:10 | 2020-03-20 | 2022-04-21 |
 | [Tiny Molecules of Water](https://open.spotify.com/track/5snKLxGnhMAWMTJroPXlRD) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Imperfections](https://open.spotify.com/album/7qbo7wJh12LH1Qi0zvMU2F) | 3:52 | 2022-05-27 | 2022-07-25 |
-| [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 | 2022-09-30 |  |
+| [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 | 2022-09-30 | 2023-02-21 |
 | [To Feel Alive](https://open.spotify.com/track/52Ef7FHOaP7KRzlhTrw8LC) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [To Feel Alive](https://open.spotify.com/album/65SOeSp0BUDNXNAiUJORH8) | 3:29 | 2021-11-26 |  |
 | [To The Ground](https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [To The Ground](https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL) | 3:53 | 2020-02-29\* | 2020-03-16 |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2021-03-27 | 2022-11-19 |

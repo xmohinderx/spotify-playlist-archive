@@ -4,7 +4,7 @@
 
 > The hustle king and worldwide multi talent of Korean hip\-hop/r&b.
 
-245 songs - 15 hr 3 min
+246 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [BO$$](https://open.spotify.com/track/0yec4sLxW29JUAt84HMang) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:24 | 2022-08-02 | 2022-11-13 |
 | [Bo$$ \(feat\. Yultron, 로꼬 Loco & Ugly Duck\)](https://open.spotify.com/track/4GRBOUg6b74ADqooAo9ddZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Worldwide](https://open.spotify.com/album/4k4OS1SotBwPAD9LeCPgaH) | 4:24 | 2022-04-20 | 2022-06-26 |
 | [BRB](https://open.spotify.com/track/620yE97rij2snTka7EbKH0) | [H1GHR MUSIC](https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K) | [BRB](https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2) | 5:04 | 2022-08-02 |  |
-| [Butterflies](https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Butterflies](https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H) | 3:11 | 2022-04-20 |  |
+| [Butterflies](https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Butterflies](https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H) | 3:11 | 2022-04-20 | 2023-02-21 |
+| [Butterflies \(Feat\. Jay Park\)](https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Butterflies](https://open.spotify.com/album/6CcrXh8NHk5agJtbGt0tYR) | 3:11 | 2023-01-02 |  |
 | [By Myself](https://open.spotify.com/track/2nV0NLflAS8JaOFwEzuxqf) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Nothing Matters](https://open.spotify.com/album/6ZOOniV66m11wsEYkHQMoP) | 3:16 | 2022-04-20 | 2022-07-25 |
 | [Call You Bae](https://open.spotify.com/track/0pdKEjHWRpjnRD6jV9ztNf) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [This Wasn’t Supposed To Happen](https://open.spotify.com/album/5OAxXcMZYsAxfTagsZ63vO) | 2:34 | 2022-04-20 | 2022-07-22 |
 | [Came Up](https://open.spotify.com/track/5wz4SsrEjTJSBa18myF349) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [B.A.R.S](https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [B.A.R.S \(Vol\. 1\)](https://open.spotify.com/album/2kEVMjMVLWxZJWpFgIxX8T) | 3:00 | 2022-04-20 | 2022-08-03 |

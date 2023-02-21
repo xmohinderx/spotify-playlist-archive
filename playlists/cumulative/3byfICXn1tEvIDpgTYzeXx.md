@@ -4,7 +4,7 @@
 
 > \(Deep House /Slap House /G\-House &amp; More\) \| 2022
 
-160 songs - 7 hr 38 min
+163 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,8 @@
 | [Help Me](https://open.spotify.com/track/1mEbVhgNOM0a3LlFJHyPk3) | [RΛKHZ](https://open.spotify.com/artist/6FZBGyCqlJZQejvZk3kT82) | [Help Me](https://open.spotify.com/album/109ATSZV2qYzgPdoyAOA5D) | 3:21 | 2022-09-23 |  |
 | [Hold On](https://open.spotify.com/track/6velLn53peE1jfyiXciyPw) | [Cammy](https://open.spotify.com/artist/2xDRGwHlHoOz2ilHqRsPC3), [Bahti](https://open.spotify.com/artist/5b7xNFMAoi598oJclqoR7G) | [Hold On](https://open.spotify.com/album/7FkN95GTjOAmY3fbnnstrh) | 2:29 | 2022-09-23 |  |
 | [Hot](https://open.spotify.com/track/2Et6RAveXsSxsdaQGjAcqS) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ), [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [Hot](https://open.spotify.com/album/4gucEtgNANmgzDdFRoVATx) | 3:48 | 2022-09-23 |  |
+| [Hypnotize](https://open.spotify.com/track/2zRUyCYynXqDGAHUTte95y) | [Bunnyzar](https://open.spotify.com/artist/5QEv5Qfk2fZAPJWCj0Yux3) | [Hypnotize](https://open.spotify.com/album/2N3qxB5qp3gSb2G1PxnnYw) | 3:42 | 2023-02-20 |  |
+| [Hypnotize \- Extended Mix](https://open.spotify.com/track/40hkDTc0mLZF8u1kcsT0Uy) | [Bunnyzar](https://open.spotify.com/artist/5QEv5Qfk2fZAPJWCj0Yux3) | [Hypnotize](https://open.spotify.com/album/2N3qxB5qp3gSb2G1PxnnYw) | 5:32 | 2023-02-20 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/0YnHCIk1Ppy7FIzdvjspts) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Brenda Mullen](https://open.spotify.com/artist/2RkjEzhUyusJ4KrD5A9yiv) | [I Don't Wanna Know](https://open.spotify.com/album/2sI3TF8KNDxcsLzV5xAHHk) | 2:31 | 2022-09-23 |  |
 | [I Like U](https://open.spotify.com/track/0OukqYh1kgvROXX98hqsd1) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [I Like U](https://open.spotify.com/album/3iVzUUmc3UOehgORoRuXay) | 2:32 | 2022-09-23 |  |
 | [I Need A Miracle](https://open.spotify.com/track/4eEN1OlQsCuM97n70pDGqs) | [ReMan](https://open.spotify.com/artist/1dLHiu9aDXqtHzF5MLyUeR), [Taylor Mosley](https://open.spotify.com/artist/5c19Q5ZJnn82m9Yy2yTuMA) | [I Need A Miracle](https://open.spotify.com/album/5oQ8UnXZF3Mqa6INGZMqmT) | 3:01 | 2022-09-23 |  |
@@ -132,6 +134,7 @@
 | [Scared to Be Lonely](https://open.spotify.com/track/7lIXmD1acUikIJIHyWlIk6) | [Cammy](https://open.spotify.com/artist/2xDRGwHlHoOz2ilHqRsPC3), [A'Lone](https://open.spotify.com/artist/0FdVEJ79HZwk9RlHyU2Tvc), [Zhanelya](https://open.spotify.com/artist/5nemrL2vL312LySJWx8b59) | [Scared to Be Lonely](https://open.spotify.com/album/48dxONU06v2SOuUOaUpsYS) | 3:07 | 2022-09-23 |  |
 | [She Doesn't Mind](https://open.spotify.com/track/3e4LioH3J75TJS8YdTI5da) | [Starix](https://open.spotify.com/artist/0swy1XHC1ufrhPon1kZ6xV), [R4URY](https://open.spotify.com/artist/05O2Ts51k3y33QGPQxdXXc) | [She Doesn't Mind](https://open.spotify.com/album/3Sdj1gTPkKvf87jqYNE1E0) | 2:24 | 2022-09-23 |  |
 | [Shine Now](https://open.spotify.com/track/542zwnabXssqpLcv9WirPd) | [JAVAD](https://open.spotify.com/artist/3h3sdqy5T8btPqqOzAP4lh) | [Shine Now](https://open.spotify.com/album/6qNc1fuGAaXMhrxGa1eXh7) | 3:00 | 2022-09-23 |  |
+| [Shine on](https://open.spotify.com/track/0yh5ke0G8iO7oSC1jABTmX) | [Zackee](https://open.spotify.com/artist/48gTJ3BuB7tupokoUJOa7c) | [Shine on](https://open.spotify.com/album/5UZ31Fz3RyQjmemQMDCgWX) | 4:17 | 2023-02-20 |  |
 | [Shuriken](https://open.spotify.com/track/6zDuUHw3Xas4Nse2fzcnVw) | [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Shuriken](https://open.spotify.com/album/47Gn5iMI78Xm14UrqxB5lQ) | 2:25 | 2022-09-23 |  |
 | [Skrilla](https://open.spotify.com/track/2EjUd8AsjwAYPqo0Cce0q8) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [SARDIO](https://open.spotify.com/artist/1TKQPncXcxEpZaDPiN9G1s) | [Skrilla](https://open.spotify.com/album/4vcJYOUdbxx6Y67spLWq4Q) | 2:21 | 2022-09-23 |  |
 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 | 2022-09-23 |  |

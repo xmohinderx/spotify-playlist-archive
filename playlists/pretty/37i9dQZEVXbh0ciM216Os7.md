@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 12 | [I Want You](https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [I Want You](https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ) | 2:26 |
 | 13 | [Bitches Are Back](https://open.spotify.com/track/4PwQK1PvtFcfI1c3G0CeGE) | [M.E.B.](https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Bitches Are Back](https://open.spotify.com/album/3m2IraIFP2TKLSfq0QITrm) | 3:28 |
 | 14 | [Powermovesceo](https://open.spotify.com/track/5gXM79V8wrjO5YC5nN4tZu) | [Ramon Rivas](https://open.spotify.com/artist/2GWdsmfumamXcCw1YNiFlc), [Josh Hammonds](https://open.spotify.com/artist/6s1ynKqEKxSMmprCgG7Qaf), [Lifeof9000](https://open.spotify.com/artist/4Au8gjVrUK9p2Kf2BI1ZRS), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Powermovesceo](https://open.spotify.com/album/68QposhxAONUZM8DGYTZXx) | 4:30 |
-| 15 | [Renaissance \(The White Lotus\) \- Tiësto Remix](https://open.spotify.com/track/6CgnHnR0C1qsAiq4UAVO8B) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [Renaissance \(The White Lotus\) \[Tiësto Remix\]](https://open.spotify.com/album/4KD4RrqwmuQJWPxBk62Owe) | 2:50 |
-| 16 | [PHONC](https://open.spotify.com/track/4KxB27QbN6z24aKopzMiM7) | [Metacaum](https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [PHONC](https://open.spotify.com/album/1J6EuQ6F7LSLXZtIhT3Wq9) | 1:08 |
-| 17 | [Arrival](https://open.spotify.com/track/0besl0cAyue3iXVJ2YI97s) | [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT) | [Arrival](https://open.spotify.com/album/4KIOZBSpZwLNAU5wYMkBQu) | 1:48 |
-| 18 | [The Muffin Man \(Metal Version\)](https://open.spotify.com/track/4uG5WQGWXWKLC7QY7K8uGk) | [Leo](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy) | [The Muffin Man \(Metal Version\)](https://open.spotify.com/album/2mvUfnVH97YRGRMTOf2WsI) | 2:59 |
+| 15 | [Flowers \(Metal Version\)](https://open.spotify.com/track/5h8k6b7a85OqTqWfAEqSde) | [Leo](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy) | [Flowers \(Metal Version\)](https://open.spotify.com/album/0N4v2VPeaztKO230vel9P9) | 4:34 |
+| 16 | [Renaissance \(The White Lotus\) \- Tiësto Remix](https://open.spotify.com/track/6CgnHnR0C1qsAiq4UAVO8B) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [Renaissance \(The White Lotus\) \[Tiësto Remix\]](https://open.spotify.com/album/4KD4RrqwmuQJWPxBk62Owe) | 2:50 |
+| 17 | [PHONC](https://open.spotify.com/track/4KxB27QbN6z24aKopzMiM7) | [Metacaum](https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [PHONC](https://open.spotify.com/album/1J6EuQ6F7LSLXZtIhT3Wq9) | 1:08 |
+| 18 | [Arrival](https://open.spotify.com/track/0besl0cAyue3iXVJ2YI97s) | [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT) | [Arrival](https://open.spotify.com/album/4KIOZBSpZwLNAU5wYMkBQu) | 1:48 |
 | 19 | [Song 10 \(S2N\) \- Demo 2018](https://open.spotify.com/track/08OSm1Ccq0PHXVoiAtLBon) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: Distance Over Time Demos \(2018\)](https://open.spotify.com/album/3813UgywzpXjMYQiWyb859) | 6:21 |
 | 20 | [Deep Focus](https://open.spotify.com/track/24dd7WJxHdaGSIcDF4MKMo) | [Heavenly Realms](https://open.spotify.com/artist/37t9bT54d83HTqfWLET0Vj), [LoFi Bear](https://open.spotify.com/artist/2S49iNx8Jjd1P9hxuD0oRE) | [Deep Focus](https://open.spotify.com/album/61yNWzit8KGbJJFRC6QoNd) | 1:56 |
 | 21 | [Good News](https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw) | 3:10 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 29 | [Doom And Gloom \- Live](https://open.spotify.com/track/3ZMPZ6A5boeoB7pvFCo4kq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Doom And Gloom \(Live\)](https://open.spotify.com/album/6NtX3RvkYtEyVdUM6EOgbV) | 4:34 |
 | 30 | [Meta Glass \(NikNak Remix\)](https://open.spotify.com/track/3Lde16rrCL5XTjfCn4HNP2) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [NikNak](https://open.spotify.com/artist/108DScSlOQbchNa78euBES) | [Philip Glass: Refractions](https://open.spotify.com/album/1YHge00YN4pCBekDUAYyAK) | 8:32 |
 
-Snapshot ID: `Mjc5NDM1MDAsMDAwMDAwMDBhMmEyMTJmYjJiY2U5YWI4ZTBlOWJjNDhkNGM4YzhmMw==`
+Snapshot ID: `Mjc5NDM1MDAsMDAwMDAwMDA1ZGQwMDlhOTI3NDcxYjdiYzc3MTI0MzA5OWYzNGMyOQ==`

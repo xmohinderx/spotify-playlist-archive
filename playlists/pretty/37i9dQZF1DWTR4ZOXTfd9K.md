@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,785 likes - 100 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,003 likes - 100 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 80 | [Footprints](https://open.spotify.com/track/5IKKbHUHrwTAABFfsNyurq) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Blue Note Re:imagined](https://open.spotify.com/album/5afRcZQsR5aBGltG3kIM34) | 6:20 |
 | 81 | [Colors In The Dark](https://open.spotify.com/track/48Fbw0y8ofNfTHmuezhNPm) | [R+R=NOW](https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [Collagically Speaking](https://open.spotify.com/album/4odXFRfbmTNdyjiidyDgDb) | 4:48 |
 | 82 | [713](https://open.spotify.com/track/3EhH15zLHO0IEmEEbG5fCc) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [Purest Form](https://open.spotify.com/album/0h8hdTiQpwZ49ZKrPo3P2j) | 5:21 |
-| 83 | [>>>>>>>>>>>Mocean](https://open.spotify.com/track/7jPfshwQln5K26tGgteUra) | [Kendrick Scott Oracle](https://open.spotify.com/artist/0IyuDlCVbMa3TAoVaDKEeL) | [A Wall Becomes A Bridge](https://open.spotify.com/album/6x36FYMhcxlEjJB97ikwA3) | 5:51 |
+| 83 | [>>>>>>>>>>>Mocean](https://open.spotify.com/track/7jPfshwQln5K26tGgteUra) | [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux) | [A Wall Becomes A Bridge](https://open.spotify.com/album/6x36FYMhcxlEjJB97ikwA3) | 5:51 |
 | 84 | [Geo Rose](https://open.spotify.com/track/2yj1dE8qFszO6OTdCN19wW) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Civilization](https://open.spotify.com/album/77pQEd70AJ5WKOcbSIRl15) | 7:26 |
 | 85 | [Red River Revel](https://open.spotify.com/track/0obAe4GiBcoLJo33hzKAzH) | [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Brian Blade Fellowship](https://open.spotify.com/album/4zR22xnwshsV7Muly7KDLl) | 9:31 |
 | 86 | [Sky And Sea \(Blue In Green\)](https://open.spotify.com/track/3t1BmFyLuSIbbRrpnmd2Yc) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [Traveling Miles](https://open.spotify.com/album/1Jx892mwNh5eRD5YnbCEoD) | 5:24 |

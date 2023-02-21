@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 148310,
+  "num_followers": 148368,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMGIyZjQ1YmU3MjcwZTgyY2RmZTdhMTA4NDIyNTEwZGZk",
+  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMDBlN2RlOWJiOWUzMzAzMmI2M2E4ZWFlOGVmOTZiM2Uw",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -187,22 +187,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "!!Going Places!!",
-        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 126893,
-      "name": "Spanish Flea",
-      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Say It With Music",
         "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 183266,
       "name": "Stranger In Paradise",
       "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "!!Going Places!!",
+        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 126893,
+      "name": "Spanish Flea",
+      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -247,6 +247,22 @@
       "duration_ms": 167314,
       "name": "Crepuscolo Sul Mare",
       "url": "https://open.spotify.com/track/3c07yD1n2fRvcD9wY638hg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Volume Secondo",
+        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 151092,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -319,18 +335,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Volume Secondo",
-        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
+        "name": "Grandes Favoritas Instrumentales,Vol.4",
+        "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
       },
       "artists": [
         {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+          "name": "Joaquin Borges",
+          "url": "https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G"
+        },
+        {
+          "name": "National Philarmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS"
         }
       ],
-      "duration_ms": 151092,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
+      "duration_ms": 175906,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -355,26 +375,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Grandes Favoritas Instrumentales,Vol.4",
-        "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Borges",
-          "url": "https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G"
-        },
-        {
-          "name": "National Philarmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS"
-        }
-      ],
-      "duration_ms": 175906,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
         "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
       },
@@ -391,6 +391,26 @@
       "duration_ms": 179703,
       "name": "BLUE DOLPHIN",
       "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Essential Ennio Morricone",
+        "url": "https://open.spotify.com/album/2UdkCdZQQSNyozS6jdvhqn"
+      },
+      "artists": [
+        {
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+        },
+        {
+          "name": "Carlo Nistri",
+          "url": "https://open.spotify.com/artist/1fLWK8w1hDasVXnoCZk9Tt"
+        }
+      ],
+      "duration_ms": 306146,
+      "name": "Chi Mai",
+      "url": "https://open.spotify.com/track/4D0ofpU1f402qd1t6ZK0Xr"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -423,26 +443,6 @@
       "duration_ms": 187866,
       "name": "Maria Elena",
       "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "The Essential Ennio Morricone",
-        "url": "https://open.spotify.com/album/2UdkCdZQQSNyozS6jdvhqn"
-      },
-      "artists": [
-        {
-          "name": "Ennio Morricone",
-          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
-        },
-        {
-          "name": "Carlo Nistri",
-          "url": "https://open.spotify.com/artist/1fLWK8w1hDasVXnoCZk9Tt"
-        }
-      ],
-      "duration_ms": 306146,
-      "name": "Chi Mai",
-      "url": "https://open.spotify.com/track/4D0ofpU1f402qd1t6ZK0Xr"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La Paloma",
-        "url": "https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "La Paloma",
-      "url": "https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "20 Valses Instrumentales",
         "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 221174,
       "name": "Fandango",
       "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "La Paloma",
+        "url": "https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "La Paloma",
+      "url": "https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -719,34 +719,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Sting",
-        "url": "https://open.spotify.com/album/0GLCHyDf1JwJRestHhlc91"
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
       },
       "artists": [
         {
-          "name": "Marvin Hamlisch",
-          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
         }
       ],
-      "duration_ms": 183360,
-      "name": "The Entertainer - The Sting/Soundtrack Version/Orchestra Version",
-      "url": "https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Look For A Star",
-        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 132600,
-      "name": "Look For A Star",
-      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
+      "duration_ms": 202367,
+      "name": "Route 101",
+      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -771,18 +755,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
+        "name": "The Sting",
+        "url": "https://open.spotify.com/album/0GLCHyDf1JwJRestHhlc91"
       },
       "artists": [
         {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+          "name": "Marvin Hamlisch",
+          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
         }
       ],
-      "duration_ms": 202367,
-      "name": "Route 101",
-      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
+      "duration_ms": 183360,
+      "name": "The Entertainer - The Sting/Soundtrack Version/Orchestra Version",
+      "url": "https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -799,6 +783,22 @@
       "duration_ms": 353680,
       "name": "Lluvia de Primavera",
       "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Look For A Star",
+        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 132600,
+      "name": "Look For A Star",
+      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "The Girl from Ipanema",
+      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 221186,
       "name": "El N\u00e1vajo Azul",
       "url": "https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "The Girl from Ipanema",
-      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Collection Francis Lai - Erotique, Vol. 3 (Bandes originales de films)",
+        "url": "https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        }
+      ],
+      "duration_ms": 279320,
+      "name": "M\u00e9lissa (Bilitis)",
+      "url": "https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "First Cuckoo",
         "url": "https://open.spotify.com/album/7zdSkK10x9AdPzQfohjGzz"
       },
@@ -1723,6 +1739,22 @@
       "duration_ms": 219026,
       "name": "Adam's Hotel",
       "url": "https://open.spotify.com/track/0BHv7xDERd9mJPbGlo39tY"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1759,22 +1791,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Collection Francis Lai - Erotique, Vol. 3 (Bandes originales de films)",
-        "url": "https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V"
-      },
-      "artists": [
-        {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
-        }
-      ],
-      "duration_ms": 279320,
-      "name": "M\u00e9lissa (Bilitis)",
-      "url": "https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Roger Williams Greatest Hits",
         "url": "https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 181866,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2020-12-08 19:02:01",

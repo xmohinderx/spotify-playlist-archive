@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPcuTtZNPGI.md) - [plain]
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,036 likes - 46 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,636 likes - 46 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [アタシは問題作](https://open.spotify.com/track/2CzFckH57NqbC4n0VZDLLB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [アタシは問題作](https://open.spotify.com/album/21iY3NVr5gHtQ3qxLXFWOl) | 3:14 |
+| 1 | [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 |
 | 2 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |
 | 3 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 |
 | 4 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPcuTtZNPGI.md) - [plain]
 | 45 | [うっせぇわ \- Giga Remix](https://open.spotify.com/track/0DT1nb0hytfdzS1J9piX1W) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [うっせぇわ \(Giga Remix\)](https://open.spotify.com/album/0LfBw9oEr73hmJzQS6QBqr) | 3:10 |
 | 46 | [うっせぇわ \- Piano Ver.](https://open.spotify.com/track/2ui683JiJBmZSiZvm0KBZx) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [レディメイド](https://open.spotify.com/album/7hy4zddDO6zOMQxRipqQry) | 3:43 |
 
-Snapshot ID: `MTY3Njg0NTE2NiwwMDAwMDAwMDZlZTA3MGVkZjY4OTJjZjQyMWNjOWVkOTliMDgxNjM0`
+Snapshot ID: `MTY3Njg0NTE2NiwwMDAwMDAwMDllOGYwZjI0MmVhNDdlMjg5N2ZiNDFiYmI1YWMxNGQw`

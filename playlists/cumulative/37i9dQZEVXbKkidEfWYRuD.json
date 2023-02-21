@@ -5066,7 +5066,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-20",
+      "date_removed": null,
       "duration_ms": 93730,
       "name": "mana break",
       "url": "https://open.spotify.com/track/3XOcTnIA8aGpil8h76eH7N"
@@ -9867,6 +9867,24 @@
     },
     {
       "album": {
+        "name": "Hate Love",
+        "url": "https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME"
+      },
+      "artists": [
+        {
+          "name": "FACE",
+          "url": "https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120215,
+      "name": "\u0410\u043d\u0442\u0438\u0434\u0435\u043f\u0440\u0435\u0441\u0441\u0430\u043d\u0442",
+      "url": "https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI"
+    },
+    {
+      "album": {
         "name": "\u0410\u043d\u0442\u0438\u043a\u043e\u0431\u044b\u043b\u0430 (prod. by SHEEPY)",
         "url": "https://open.spotify.com/album/68PYgNVBFk9xrSRLLwoMp1"
       },
@@ -12406,7 +12424,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 165164,
       "name": "\u0414\u0443\u043c\u0438",
       "url": "https://open.spotify.com/track/3bKxhUuoRvSRwIdyZfQa3F"
@@ -15458,7 +15476,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-20",
+      "date_removed": null,
       "duration_ms": 153142,
       "name": "\u041e\u0442\u043a\u043b\u044e\u0447\u0430\u044e \u0442\u0435\u043b\u0435\u0444\u043e\u043d",
       "url": "https://open.spotify.com/track/6F81SMHDIUMRyBb9bJ2ZRL"
@@ -17964,7 +17982,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 156428,
       "name": "\u0424\u0430\u0439\u043d\u0430 (feat. Skofka)",
       "url": "https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH"
@@ -18516,7 +18534,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 133305,
       "name": "\u0427\u043e\u0440\u043d\u043e\u0431\u0440\u0438\u0432\u0430",
       "url": "https://open.spotify.com/track/4N822HhhcRrVKuX3Ni9L0T"

@@ -4,10 +4,11 @@
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-98 songs - 5 hr 52 min
+99 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Abobi](https://open.spotify.com/track/7echDVorySYxnup1HrR15b) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Abobi](https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1) | 3:21 | 2023-02-20 |  |
 | [Abule](https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:19 | 2021-12-28 |  |
 | [After Party](https://open.spotify.com/track/2mgcd1yyXVz0mMvFE9yCGo) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [After Party](https://open.spotify.com/album/7A5sOBdTQwFUlE3D0JbIVB) | 3:11 | 2022-11-26 |  |
 | [Another Level](https://open.spotify.com/track/1wI7Fv20S6Cp26dwIu1aZJ) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Another Level](https://open.spotify.com/album/1el7Fb3Dc9L7FRB0bKGkD9) | 4:05 | 2021-12-28 | 2022-09-20 |
@@ -17,7 +18,7 @@
 | [Available](https://open.spotify.com/track/5m6aJAmW3ZJ50eK0Gg0HgL) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Available](https://open.spotify.com/album/52Av15Tg6Sx7Ye0Rn20ONE) | 3:34 | 2021-12-28 | 2022-10-13 |
 | [Aye Yo Remix by DJ Buddha](https://open.spotify.com/track/6wa05sv2gvswBwkmXjHBRB) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Aye Yo Remix by DJ Buddha \(feat\. Shaggy & Angela Hunte\)](https://open.spotify.com/album/0UGOtntfqAZeZEIjxEiIVI) | 3:12 | 2021-12-28 | 2022-04-29 |
 | [Bami Mujo \(feat\. Yung L & Patoranking\)](https://open.spotify.com/track/7JB8DUFRFWhAPd1bhEZRuo) | [Henry Knight](https://open.spotify.com/artist/4xjNGIY2iJZwaFJnEPQ1r9), [Yung L](https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Dance, Vol\. 1](https://open.spotify.com/album/1TqeVetMJteizoDDEIZDqw) | 4:06 | 2021-12-30 |  |
-| [Be Mine](https://open.spotify.com/track/4cdFbzrgFOTisZt3Jyp5rX) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Be Mine](https://open.spotify.com/album/2lKgeWMfVOQ9USzl6DzN4l) | 4:01 | 2021-12-28 |  |
+| [Be Mine](https://open.spotify.com/track/4cdFbzrgFOTisZt3Jyp5rX) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Be Mine](https://open.spotify.com/album/2lKgeWMfVOQ9USzl6DzN4l) | 4:01 | 2021-12-28 | 2023-02-21 |
 | [Black Girl Magic](https://open.spotify.com/track/6CVUbSUCw5SeWk2S7f7vTN) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:21 | 2021-12-28 | 2022-04-18 |
 | [Blessed \- Remix](https://open.spotify.com/track/28CK6XonxLP2z48QwNXezY) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Blessed More Blessed \(The Remixes\)](https://open.spotify.com/album/5PBxaktc70K6Fe8P9APQKB) | 3:05 | 2022-02-25 | 2023-01-17 |
 | [Bwana Mdogo \(feat\. Patoranking\)](https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 3:25 | 2021-12-28 |  |

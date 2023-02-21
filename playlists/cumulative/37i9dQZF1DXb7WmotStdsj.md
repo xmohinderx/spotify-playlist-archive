@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-139 songs - 11 hr 14 min
+140 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bye Bye lmiziria](https://open.spotify.com/track/3KjVFfbEZPUj1076iJHdLA) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Bye Bye lmiziria](https://open.spotify.com/album/503UybXLd49aqSVhY8ufvd) | 5:29 | 2021-10-19 | 2022-12-27 |
 | [Cha3ra Wendir Avc](https://open.spotify.com/track/4212sW8gzoojsEClN5LI8L) | [Amine Matlo](https://open.spotify.com/artist/2aFfUpawrHEPOQHzCXMUMZ) | [Cha3ra Wendir Avc](https://open.spotify.com/album/3OY3BSh6ltSis4Q2AT7dD7) | 6:32 | 2022-05-11 |  |
 | [Cheb Redouane Habibi Come To Dubai](https://open.spotify.com/track/7os0JnhRfMpRnq8nxmSUPN) | [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Cheb Redouane Habibi Come To Dubai](https://open.spotify.com/album/6lsOMMzoq17CjREiQrJ4CR) | 4:35 | 2022-09-20 | 2022-12-01 |
+| [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/track/4Oo5q4LjJWrnj7Z0prl5cu) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/album/4ekNCdLuNvIgzYncykwPlg) | 5:15 | 2023-02-20 |  |
 | [Cheikh Mamidou La nta Khalat Ana Ktar](https://open.spotify.com/track/4o9jA37PQmofMORu7TIlbm) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou La nta Khalat Ana Ktar](https://open.spotify.com/album/0wrUX9IkbsTbyoCZOvA4Q7) | 4:14 | 2022-09-20 | 2022-12-27 |
 | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/track/2Z2orYLp8Ox5gnlVPP5oQY) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/album/58EVW8ZXLjD3ThafQaDCMy) | 4:45 | 2022-09-20 | 2023-01-26 |
 | [Chira brune](https://open.spotify.com/track/5ykL3LdQ7Ls8T2Ii2YMmfG) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [Chira brune](https://open.spotify.com/album/2mF9wTY2zWXkU1SczMu1nl) | 8:52 | 2021-10-19 | 2023-01-04 |
@@ -145,7 +146,7 @@
 | [طيري يا طيارة](https://open.spotify.com/track/0qJPN8mWjsORy7v2a6Benw) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [طيري يا طيارة](https://open.spotify.com/album/7jaNQ3MZzO2FS2aCkxP6Xv) | 3:07 | 2022-09-20 |  |
 | [على رواحنا منكذبوش](https://open.spotify.com/track/5BaSu9ES2R8LIYxAZBTqQA) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [على رواحنا منكذبوش](https://open.spotify.com/album/0Oe1AG3aTF6lEyNyKAzo68) | 4:20 | 2021-10-19 | 2022-09-09 |
 | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/track/3gQvsHiyuanFa7dJ3TDfOv) | [Cheb Oussama](https://open.spotify.com/artist/6eJDRiiR2xdwAgdiRjZ525) | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/album/5Uvwkx0w6oUTM59ep9pH5B) | 4:39 | 2022-03-25 |  |
-| [نتيا ضعيف](https://open.spotify.com/track/6GfXhVpEqBay6HM1iCavDR) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i), [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [نتيا ضعيف](https://open.spotify.com/album/3QGTRsK0LF6t5XO5oBXd5i) | 4:21 | 2022-09-20 |  |
+| [نتيا ضعيف](https://open.spotify.com/track/6GfXhVpEqBay6HM1iCavDR) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i), [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [نتيا ضعيف](https://open.spotify.com/album/3QGTRsK0LF6t5XO5oBXd5i) | 4:21 | 2022-09-20 | 2023-02-21 |
 | [ها قلبي ها قلبي يناسبها المكان](https://open.spotify.com/track/0IiDI1jF6bmERRxsaPNyAe) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [ها قلبي ها قلبي يناسبها المكان](https://open.spotify.com/album/3Y6L5aPp1EGEbZ2hyHypoa) | 5:54 | 2021-10-19 | 2022-09-21 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Ab-Soul",
-  "num_followers": 1601647,
+  "num_followers": 1601693,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njc3NTIwMSwwMDAwMDAwMDhiYjYyZTI1OTEzYzZiM2ZkZjM2Mjc5N2IzMmNjNzNk",
+  "snapshot_id": "MTY3Njc3NTIwMSwwMDAwMDAwMDU5ZGYyNDFkMzA5Y2VmYzcyNWYyYWRiMzU5NGJhOGY1",
   "tracks": [
     {
       "added_at": "2023-02-19 02:53:21",
@@ -151,6 +151,30 @@
     {
       "added_at": "2023-02-19 02:53:21",
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Sam Dew",
+          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT"
+    },
+    {
+      "added_at": "2023-02-19 02:53:21",
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV"
       },
@@ -207,30 +231,6 @@
       "duration_ms": 226115,
       "name": "Walkin - Key Glock remix",
       "url": "https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ"
-    },
-    {
-      "added_at": "2023-02-19 02:53:21",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Sam Dew",
-          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT"
     },
     {
       "added_at": "2023-02-19 02:53:21",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-02-19 02:53:21",
       "album": {
-        "name": "Dark Hearted",
-        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 205851,
-      "name": "Dark Hearted",
-      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
-    },
-    {
-      "added_at": "2023-02-19 02:53:21",
-      "album": {
         "name": "she / her / black bitch",
         "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 102397,
       "name": "ROUND HERE (PART ONE)",
       "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
+    },
+    {
+      "added_at": "2023-02-19 02:53:21",
+      "album": {
+        "name": "Dark Hearted",
+        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 205851,
+      "name": "Dark Hearted",
+      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
     },
     {
       "added_at": "2023-02-19 02:53:21",
@@ -647,22 +647,50 @@
     {
       "added_at": "2023-02-19 02:53:21",
       "album": {
-        "name": "DAMN (feat. Dave East)",
-        "url": "https://open.spotify.com/album/2l9ANOEZxOwFbYxOlBlqYc"
+        "name": "Running From Time",
+        "url": "https://open.spotify.com/album/38KIbLeS8hv57czsB0REq7"
       },
       "artists": [
         {
-          "name": "Godfather of Harlem",
-          "url": "https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA"
-        },
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+          "name": "Wale the Sage",
+          "url": "https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD"
         }
       ],
-      "duration_ms": 193603,
-      "name": "DAMN (feat. Dave East)",
-      "url": "https://open.spotify.com/track/4kSzGWmReSyUy09q2G5lbf"
+      "duration_ms": 203906,
+      "name": "Don't Remind Me",
+      "url": "https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh"
+    },
+    {
+      "added_at": "2023-02-19 02:53:21",
+      "album": {
+        "name": "29 (Freestyle)",
+        "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 142282,
+      "name": "29 (Freestyle)",
+      "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
+    },
+    {
+      "added_at": "2023-02-19 02:53:21",
+      "album": {
+        "name": "Church Clothes 4",
+        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Still In America",
+      "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
     },
     {
       "added_at": "2023-02-19 02:53:21",
@@ -687,18 +715,22 @@
     {
       "added_at": "2023-02-19 02:53:21",
       "album": {
-        "name": "29 (Freestyle)",
-        "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
+        "name": "DAMN (feat. Dave East)",
+        "url": "https://open.spotify.com/album/2l9ANOEZxOwFbYxOlBlqYc"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Godfather of Harlem",
+          "url": "https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
         }
       ],
-      "duration_ms": 142282,
-      "name": "29 (Freestyle)",
-      "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
+      "duration_ms": 193603,
+      "name": "DAMN (feat. Dave East)",
+      "url": "https://open.spotify.com/track/4kSzGWmReSyUy09q2G5lbf"
     },
     {
       "added_at": "2023-02-19 02:53:21",
@@ -723,22 +755,6 @@
     {
       "added_at": "2023-02-19 02:53:21",
       "album": {
-        "name": "Running From Time",
-        "url": "https://open.spotify.com/album/38KIbLeS8hv57czsB0REq7"
-      },
-      "artists": [
-        {
-          "name": "Wale the Sage",
-          "url": "https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD"
-        }
-      ],
-      "duration_ms": 203906,
-      "name": "Don't Remind Me",
-      "url": "https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh"
-    },
-    {
-      "added_at": "2023-02-19 02:53:21",
-      "album": {
         "name": "Park Bench Blues (feat. Curren$y)",
         "url": "https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 133000,
       "name": "Park Bench Blues (feat. Curren$y)",
       "url": "https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z"
-    },
-    {
-      "added_at": "2023-02-19 02:53:21",
-      "album": {
-        "name": "Church Clothes 4",
-        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Still In America",
-      "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
     },
     {
       "added_at": "2023-02-19 02:53:21",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-02-19 02:53:21",
       "album": {
-        "name": "$oul $old $eparately",
-        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 160774,
-      "name": "Lobster Omelette (feat. Rick Ross)",
-      "url": "https://open.spotify.com/track/47lSZVLBTQz5rilIsZR7M2"
-    },
-    {
-      "added_at": "2023-02-19 02:53:21",
-      "album": {
         "name": "Skegee",
         "url": "https://open.spotify.com/album/18ZCRn9GAuLUVMiuNXGyIL"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 195240,
       "name": "No Save Point - From \"Cyberpunk 2077\"",
       "url": "https://open.spotify.com/track/27SjutLnh1PXRYDjmSDs78"
+    },
+    {
+      "added_at": "2023-02-19 02:53:21",
+      "album": {
+        "name": "$oul $old $eparately",
+        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 160774,
+      "name": "Lobster Omelette (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/47lSZVLBTQz5rilIsZR7M2"
     },
     {
       "added_at": "2023-02-19 02:53:21",
@@ -943,30 +943,22 @@
     {
       "added_at": "2023-02-19 02:53:21",
       "album": {
-        "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
-        "url": "https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8"
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
       "artists": [
         {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Run The Jewels",
-          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
-      "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
+      "duration_ms": 172499,
+      "name": "JADAKISS INTERLUDE (feat. Jadakiss)",
+      "url": "https://open.spotify.com/track/39zh5ufK1qVSOh6fJk4hNl"
     }
   ],
   "unique_name": "Spilled Ink",

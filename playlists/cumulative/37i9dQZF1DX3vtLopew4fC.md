@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Allison Russell
 
-686 songs - 1 day 11 hr 58 min
+687 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,7 +441,8 @@
 | [Only With Time](https://open.spotify.com/track/0xTZ5PCUersxLyUiLgNp2U) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [When Flowers Bloom](https://open.spotify.com/album/2lq4xT9TgZb6Rcio6x4P0N) | 5:06 | 2022-02-11 | 2022-03-09 |
 | [Over the Rainbow](https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Over the Rainbow](https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo) | 4:11 | 2023-02-01 |  |
 | [Pajaros](https://open.spotify.com/track/7yZ5kBFO6VTjrFHIKXWA4S) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 4:09 | 2022-03-08 | 2022-04-07 |
-| [Papa Took My Totems](https://open.spotify.com/track/4dcPjXDvCorS2oDU9dJTmf) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Papa Took My Totems](https://open.spotify.com/album/5G2hqoYnvFfqDcpvgxcHIr) | 2:25 | 2023-02-01 |  |
+| [Papa Took My Totems](https://open.spotify.com/track/1uAQFfcaXVy7OxOk4Q2Mr7) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:25 | 2023-02-01 |  |
+| [Papa Took My Totems](https://open.spotify.com/track/4dcPjXDvCorS2oDU9dJTmf) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Papa Took My Totems](https://open.spotify.com/album/5G2hqoYnvFfqDcpvgxcHIr) | 2:25 | 2023-02-01 | 2023-02-21 |
 | [paper thin](https://open.spotify.com/track/4NevvmFYtCLxRvhAcNVhOB) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [eleven achers](https://open.spotify.com/album/5D2AToXPxIC5cBdbdOXHsM) | 3:06 | 2023-01-04 |  |
 | [Paper Walls](https://open.spotify.com/track/3p7bWzqLgmHc172MBh7Vd2) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Spiral](https://open.spotify.com/album/59d750ai99PfyZ5zTUQWfY) | 3:39 | 2021-12-08 | 2022-01-06 |
 | [Parmi toutes ces lettres](https://open.spotify.com/track/2y34aoUbz62cjyL4oovJBH) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3) | [Parmi toutes ces lettres](https://open.spotify.com/album/6oL5B5fpjc9nQmZohxDfWV) | 3:06 | 2022-04-06 | 2022-05-04 |

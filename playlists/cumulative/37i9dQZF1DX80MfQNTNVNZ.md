@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-346 songs - 20 hr 48 min
+347 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [All Of The Time](https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 3:02 | 2022-11-10 |  |
 | [All Of The Time](https://open.spotify.com/track/5Ev60QcFefqlvVfF7ZWOdi) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 3:02 | 2022-07-28 | 2022-11-02 |
 | [All Of The Time](https://open.spotify.com/track/5z5vzI255pLytft2I6gb8M) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/5lfIzoTWIRSv95OK3DWwHF) | 3:02 | 2021-12-23 | 2022-07-28 |
-| [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-17 |  |
+| [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-17 | 2023-02-21 |
 | [ALLSTAR](https://open.spotify.com/track/2jzNzQibsiVIBPTeJsifby) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [FORTHEWORLD](https://open.spotify.com/album/4qjamshmT7gedEq6uGHXLr) | 2:54 | 2021-12-23 | 2022-07-23 |
 | [Allthetimeevenwhen](https://open.spotify.com/track/5tJQoKQtc8vTG3MF6BjQdg) | [Fieh](https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88) | [Allthetimeevenwhen](https://open.spotify.com/album/2qRlWWPMRt1BNi8hZ5x4I4) | 4:57 | 2022-02-10 | 2022-07-27 |
 | [Almond Eyes](https://open.spotify.com/track/1sTk2DB9Gc4pOjfvwkzEwA) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:54 | 2022-01-13 | 2022-07-25 |
@@ -56,6 +56,7 @@
 | [Call on Me \- Knxwledge Remix](https://open.spotify.com/track/5Nhw180obum91f6beXfweg) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Call on Me \(Knxwledge Remix\)](https://open.spotify.com/album/1P84iDclPoEG2p3AGlKJWI) | 2:29 | 2022-01-06 | 2022-07-21 |
 | [Can't Believe It](https://open.spotify.com/track/2HSqwCmrdzGYPLi26mMtNG) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Can't Believe It](https://open.spotify.com/album/2iwGkNuvY89nmsTlAGZ22r) | 4:39 | 2021-12-23 | 2022-07-29 |
 | [Capsule](https://open.spotify.com/track/7n5quXV8nb108gmlx5hJQR) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [Daigo Sakuragi](https://open.spotify.com/artist/6BF6Gk8IqAmYS9QqefDi6j) | [Capsule](https://open.spotify.com/album/6V8jaLhSIrT0vT2SJhV2q4) | 3:31 | 2022-03-24 | 2022-05-26 |
+| [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge) | 3:12 | 2023-02-16 |  |
 | [Casamigos](https://open.spotify.com/track/2cInRmurD2x3762s4v5sS3) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Casamigos](https://open.spotify.com/album/3RgT3jyo3OmDgtCMMMNCdW) | 2:26 | 2021-12-23 | 2022-07-20 |
 | [Catharsis](https://open.spotify.com/track/2cWAfOTxFrCPJ6rZU5WqDG) | [Master Soul Boy](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Catharsis](https://open.spotify.com/album/2ClfWMCvHw0GhAKAS5EVMa) | 2:24 | 2021-12-23 | 2022-07-28 |
 | [Come Together](https://open.spotify.com/track/1l32mo5oW5oIRRjNnVJBNR) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 3:40 | 2022-03-24 | 2022-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Uplifting, slow House music to work or relax to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,219 likes - 172 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,290 likes - 172 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 82 | [Doctor](https://open.spotify.com/track/0eiwdtJbYYzHqG7NLI4K9q) | [Coloraimé](https://open.spotify.com/artist/68jdZrUBTvlocSSdnwTQMf) | [Doctor](https://open.spotify.com/album/4vPT3euHk3nOoSd1uX6PV5) | 2:28 |
 | 83 | [Where the sand is](https://open.spotify.com/track/3VffpZvEnQsxLZ1ZgNb4Rn) | [Nino The Dino](https://open.spotify.com/artist/6Zf359QwgLxZM7Q2Fjkwhi) | [Sunset Paradise](https://open.spotify.com/album/5JzMUwp6FKlJPfgrS2eE6T) | 3:03 |
 | 84 | [Summer Haze](https://open.spotify.com/track/1Rpb9M4NAROfBsuw0QAkUR) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Summer Haze](https://open.spotify.com/album/6QY9bO1j7bH2cI0BtMA4yV) | 3:28 |
-| 85 | [Felt So Good](https://open.spotify.com/track/73fKzjK9Jz1nILhBMUc4xy) | [Lafreq](https://open.spotify.com/artist/3iFi7Hca2w4x2amhlxaEki), [Teeka](https://open.spotify.com/artist/6L4LCppKyvMm9BvwmkFZ9G) | [Felt So Good](https://open.spotify.com/album/3CKeyNSrtKLsIrqmv0uALC) | 7:04 |
+| 85 | [Felt So Good](https://open.spotify.com/track/73fKzjK9Jz1nILhBMUc4xy) | [Lafreq](https://open.spotify.com/artist/3iFi7Hca2w4x2amhlxaEki), [Teeka](https://open.spotify.com/artist/6L4LCppKyvMm9BvwmkFZ9G), [M\-Sol DEEP](https://open.spotify.com/artist/2j1S4kLH9gewTyJiGYbDCm) | [Felt So Good](https://open.spotify.com/album/3CKeyNSrtKLsIrqmv0uALC) | 7:04 |
 | 86 | [Clarity](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clarity](https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6) | 2:59 |
 | 87 | [Illusions](https://open.spotify.com/track/190gn9RjC9PkJVpMKkBLMe) | [Liquid Lasso](https://open.spotify.com/artist/5W6TvKu7TeFtdU9CTf7UOe) | [Illusions](https://open.spotify.com/album/11VRjUkzZb8gefEPxFnjdU) | 3:19 |
 | 88 | [Yorokobi](https://open.spotify.com/track/08Sx51inTGt5tDEDlJp7Qk) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Yorokobi](https://open.spotify.com/album/2VzGChOsOb9gswrj4lAnau) | 2:55 |

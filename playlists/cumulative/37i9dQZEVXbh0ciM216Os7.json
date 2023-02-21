@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Flowers (Metal Version)",
+        "url": "https://open.spotify.com/album/0N4v2VPeaztKO230vel9P9"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274564,
+      "name": "Flowers (Metal Version)",
+      "url": "https://open.spotify.com/track/5h8k6b7a85OqTqWfAEqSde"
+    },
+    {
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
       },
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 179418,
       "name": "The Muffin Man (Metal Version)",
       "url": "https://open.spotify.com/track/4uG5WQGWXWKLC7QY7K8uGk"

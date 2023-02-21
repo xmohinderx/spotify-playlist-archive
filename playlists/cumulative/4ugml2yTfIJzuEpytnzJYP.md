@@ -4,7 +4,7 @@
 
 > Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-192 songs - 12 hr 6 min
+193 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Temple](https://open.spotify.com/track/2ZJ2VCJFhddmJt7qeyzks8) | [Orenda](https://open.spotify.com/artist/5KMXkfwbgVv3YxCtjAJAoe) | [Temple](https://open.spotify.com/album/7f0pDI0VjnS74EJj2T4fIO) | 4:25 | 2022-08-05 | 2022-08-23 |
 | [Tethered](https://open.spotify.com/track/2CA91Vbn86H0jDCibPAAiE) | [Khiva](https://open.spotify.com/artist/3cH0fKXiWesYFzqJwiWlAD) | [Tethered](https://open.spotify.com/album/6096W6yEygXMAOy7Zm34eU) | 3:41 | 2021-10-15 | 2022-04-16 |
 | [The Covenant](https://open.spotify.com/track/25kdk6NgrmOPuPJsnqpiKh) | [Among The Mist](https://open.spotify.com/artist/2FBfN2vzv6bXlLSP5UTJBq) | [The Covenant](https://open.spotify.com/album/4s1dulywBvqEnxwZhVvMun) | 2:51 | 2022-01-22 | 2022-04-16 |
+| [The Eightfold Path](https://open.spotify.com/track/44RsnczsfE0fMty7UATC3z) | [Zen Selekta](https://open.spotify.com/artist/35U1RcBFdxNezzySMgVVd3), [Chief Kaya](https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A) | [IKIGAI](https://open.spotify.com/album/0X6ob5EVI8yI9tBMKE5byR) | 5:07 | 2023-02-20 |  |
 | [The Jungle](https://open.spotify.com/track/5MxkPvXIWfywZZ5USYa9js) | [Josh Teed](https://open.spotify.com/artist/0m5NlhNMYQc0gUmvmRmVUS) | [The Jungle](https://open.spotify.com/album/2pur66tVtmzJrXIrTkhSn0) | 3:35 | 2022-04-15 | 2022-09-17 |
 | [The Last Judgement](https://open.spotify.com/track/0fs2L8OS0Jgc2Qy7aZsbIK) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [MC GQ](https://open.spotify.com/artist/28aPVWC88rDADOQBZNEgIs) | [The Dance Of Death](https://open.spotify.com/album/1w7u33Vp72rY6hnOspQ5cs) | 2:51 | 2021-10-23 | 2022-02-28 |
 | [The Owl Song](https://open.spotify.com/track/7CdcnX9m1wI8sIlQGLd0Un) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [The Owl Song](https://open.spotify.com/album/38EVhFxJ7NEkFHFzUxXQNo) | 3:12 | 2022-04-25 | 2022-08-23 |

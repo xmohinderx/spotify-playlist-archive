@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 51462,
+  "num_followers": 51869,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA5MjE1OCwwMDAwMDAwMDE5ZjhhYTI3NTU5YTQ1YjkxZjg4NzU0OWU0NmVhMDlj",
+  "snapshot_id": "MTY3NTA5MjE1OCwwMDAwMDAwMDkyNTYwYjljOWE5OTU5ZGIxZDlhMDk5MmM2NDcyODg3",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "I started a garden",
-        "url": "https://open.spotify.com/album/11suIFqciw4aNWEBRtJjPj"
-      },
-      "artists": [
-        {
-          "name": "Her Skin",
-          "url": "https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "confident",
-      "url": "https://open.spotify.com/track/0l5RnR0hCX0PnOlYuR6x3q"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "the wire",
         "url": "https://open.spotify.com/album/653dQi5wRhgX38vQSOe96i"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 218631,
       "name": "the wire",
       "url": "https://open.spotify.com/track/3FKAW8AaZmFYthqHvGg1hT"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "I started a garden",
+        "url": "https://open.spotify.com/album/11suIFqciw4aNWEBRtJjPj"
+      },
+      "artists": [
+        {
+          "name": "Her Skin",
+          "url": "https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "confident",
+      "url": "https://open.spotify.com/track/0l5RnR0hCX0PnOlYuR6x3q"
     },
     {
       "added_at": "2023-01-30 15:22:38",

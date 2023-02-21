@@ -4,7 +4,7 @@
 
 > The cutting edge in Ambient, Atmospheric and Neo\-Classical\. Moby on cover.
 
-890 songs - 3 day 0 hr 40 min
+891 songs - 3 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [deaf](https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg) | [TAKA](https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm) | [Theory](https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy) | 3:58 | 2022-09-02 |  |
 | [Dear \- Amulets Rework](https://open.spotify.com/track/6vzo1YkZADgaP8WzTLld2D) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Amulets](https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt) | [Dear \(Amulets Rework\)](https://open.spotify.com/album/21iHYe4bks6r9xxmbvYJbj) | 5:28 | 2022-12-31 |  |
 | [Decide Every Second](https://open.spotify.com/track/3cAG7OsSdJgPTLfRx0Xrng) | [Cameron Morse](https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl) | [The Truth Is](https://open.spotify.com/album/6df4g0WHHjokEWvS7LJCp8) | 3:32 | 2022-09-02 | 2022-09-17 |
-| [Deep Down](https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Chilltronica EP 3](https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC) | 3:54 | 2021-12-24 |  |
+| [Deep Down](https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Chilltronica EP 3](https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC) | 3:54 | 2021-12-24 | 2023-02-21 |
 | [Defining Moment](https://open.spotify.com/track/2rr2TctqiPWVf85aeN4CRc) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [Defining Moment](https://open.spotify.com/album/6PnK12WOF2bCavWZ8X5K5w) | 3:02 | 2022-12-31 | 2023-01-07 |
 | [Delayed](https://open.spotify.com/track/2sxKhUF19gjuOg9OQY4Nwl) | [Alister Fawnwoda](https://open.spotify.com/artist/16Vq22oDSB5NDYczsnJ89o), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU) | [Delayed](https://open.spotify.com/album/3FyO8rc2LANohFAtV2iDF5) | 4:44 | 2021-12-24 | 2022-03-04 |
 | [Delevan](https://open.spotify.com/track/5BLybnjUyBrTDCbgSRQJs0) | [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K), [Elijah Bisbee](https://open.spotify.com/artist/2C06lmmEcAw2OsGFUCOfPH), [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Delevan](https://open.spotify.com/album/0YZnYLT02sLrrwozl26P1d) | 2:54 | 2022-07-01 |  |
@@ -301,6 +301,7 @@
 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 | 2022-01-21 | 2023-01-01 |
 | [Formula To Attract Affections](https://open.spotify.com/track/1JgXgqUmRM0lzWHtz5tKPA) | [Pendant](https://open.spotify.com/artist/3Dwfw1WTW4TyJJim9hblas) | [To All Sides They Will Stretch Out Their Hands](https://open.spotify.com/album/06Nck2S9Y6KvOGFb3t0yFx) | 6:58 | 2021-12-24 | 2021-12-29 |
 | [Fragile](https://open.spotify.com/track/6XDmQX1g0mwTif6Hy1EJuk) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Fragile](https://open.spotify.com/album/6f0ELW7CR2CWxYf859r71X) | 4:08 | 2022-02-18 | 2023-01-01 |
+| [Freckles](https://open.spotify.com/track/1hsxZJQ1dfseiQI1bGWoL8) | [Marco Kleebauer](https://open.spotify.com/artist/6V6PVcKsN7s2GUtZIoK864) | [Blurred](https://open.spotify.com/album/232jtyDrZmcwUJEdeYt0JE) | 3:14 | 2023-01-27 |  |
 | [Freckles](https://open.spotify.com/track/2vRZDHIonAM2fcEGTxH1Fd) | [Marco Kleebauer](https://open.spotify.com/artist/6V6PVcKsN7s2GUtZIoK864) | [Blurred](https://open.spotify.com/album/0KjaE8OTrQljAduQr1IunN) | 3:14 | 2021-12-24 | 2022-07-29 |
 | [Freedom at the 45th Floor](https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:34 | 2022-09-16 |  |
 | [From Sky to Sea](https://open.spotify.com/track/0I6PkVKkHnS1WtAo53A13M) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [From Sky to Sea](https://open.spotify.com/album/5goaFuqvW2KpRFrO05n6nc) | 6:56 | 2021-12-24 | 2022-03-07 |

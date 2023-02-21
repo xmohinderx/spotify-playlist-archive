@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 7004,
+  "num_followers": 7032,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDM3MTYwMjI4OWY3Y2VjZTNlNjkwMmE1Mjk5NzE4Mzkx",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDRiOTZkOGIyNzI2YjY5MTEwODEwZGE3YmNiN2RhMTlj",
   "tracks": [
     {
       "added_at": "2022-09-14 09:57:38",
@@ -149,6 +149,26 @@
       "url": "https://open.spotify.com/track/6VDV7qSg8oBsdiBkHnYoug"
     },
     {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Thief In The Night",
+        "url": "https://open.spotify.com/album/5qVSIkvWJAuaMVwBov8b0b"
+      },
+      "artists": [
+        {
+          "name": "Senior Oat",
+          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
+        },
+        {
+          "name": "Sir Bless",
+          "url": "https://open.spotify.com/artist/0vJss0iY4jFfFk1DQP3I2m"
+        }
+      ],
+      "duration_ms": 375120,
+      "name": "S'khanyisele",
+      "url": "https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA"
+    },
+    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "This Must Be Deep",
@@ -167,6 +187,30 @@
       "duration_ms": 393647,
       "name": "This Must Be Deep - Original Mix",
       "url": "https://open.spotify.com/track/3olGCkuKopIHUxulYAVPJN"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Woza Moya",
+        "url": "https://open.spotify.com/album/6Id3huB80C8qnSWSSiCJPU"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "CocoSA",
+          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
+        },
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        }
+      ],
+      "duration_ms": 407142,
+      "name": "Woza Moya",
+      "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -229,26 +273,6 @@
       "url": "https://open.spotify.com/track/2URYteekU6AYCIuEYxHJXk"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Thief In The Night",
-        "url": "https://open.spotify.com/album/5qVSIkvWJAuaMVwBov8b0b"
-      },
-      "artists": [
-        {
-          "name": "Senior Oat",
-          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
-        },
-        {
-          "name": "Sir Bless",
-          "url": "https://open.spotify.com/artist/0vJss0iY4jFfFk1DQP3I2m"
-        }
-      ],
-      "duration_ms": 375120,
-      "name": "S'khanyisele",
-      "url": "https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA"
-    },
-    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Day Dream",
@@ -263,50 +287,6 @@
       "duration_ms": 373592,
       "name": "HER",
       "url": "https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Woza Moya",
-        "url": "https://open.spotify.com/album/6Id3huB80C8qnSWSSiCJPU"
-      },
-      "artists": [
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        },
-        {
-          "name": "CocoSA",
-          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
-        },
-        {
-          "name": "Russell Zuma",
-          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
-        }
-      ],
-      "duration_ms": 407142,
-      "name": "Woza Moya",
-      "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "We Beg Your Pardon",
-        "url": "https://open.spotify.com/album/71GAU64nNB4ypY4hoXGTyu"
-      },
-      "artists": [
-        {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
-        },
-        {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
-        }
-      ],
-      "duration_ms": 431984,
-      "name": "We Beg Your Pardon",
-      "url": "https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -327,6 +307,26 @@
       "duration_ms": 250000,
       "name": "Wena",
       "url": "https://open.spotify.com/track/7Dr9J9lZA4NVrfGs36llbG"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "We Beg Your Pardon",
+        "url": "https://open.spotify.com/album/71GAU64nNB4ypY4hoXGTyu"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        },
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "duration_ms": 431984,
+      "name": "We Beg Your Pardon",
+      "url": "https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "Abiogenesis EP",
         "url": "https://open.spotify.com/album/2qg3O0ZMHlbzaAAtv5q36v"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+        "name": "OVGSREPUBLIC",
+        "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
       },
       "artists": [
         {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+          "name": "SGVO",
+          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
         }
       ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
+      "duration_ms": 453711,
+      "name": "Octave",
+      "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -531,18 +547,38 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "OVGSREPUBLIC",
-        "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
+        "name": "3 By 3",
+        "url": "https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV"
       },
       "artists": [
         {
-          "name": "SGVO",
-          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+          "name": "Chymamusique",
+          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
         }
       ],
-      "duration_ms": 453711,
-      "name": "Octave",
-      "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
+      "duration_ms": 392304,
+      "name": "Day And Night (Mmawe) - Original Mix",
+      "url": "https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Next Generation",
+        "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
+      },
+      "artists": [
+        {
+          "name": "Alexsir",
+          "url": "https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV"
+        },
+        {
+          "name": "Trust SA",
+          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
+        }
+      ],
+      "duration_ms": 342887,
+      "name": "Monomotapa",
+      "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -571,22 +607,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "3 By 3",
-        "url": "https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV"
-      },
-      "artists": [
-        {
-          "name": "Chymamusique",
-          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
-        }
-      ],
-      "duration_ms": 392304,
-      "name": "Day And Night (Mmawe) - Original Mix",
-      "url": "https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "My Heartbeat For You",
         "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
       },
@@ -607,22 +627,18 @@
     {
       "added_at": "2022-11-10 21:59:00",
       "album": {
-        "name": "Next Generation",
-        "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
+        "name": "Synonymous",
+        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
       },
       "artists": [
         {
-          "name": "Alexsir",
-          "url": "https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV"
-        },
-        {
-          "name": "Trust SA",
-          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
         }
       ],
-      "duration_ms": 342887,
-      "name": "Monomotapa",
-      "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
+      "duration_ms": 412813,
+      "name": "Synonymous",
+      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -643,22 +659,6 @@
       "duration_ms": 436551,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Synonymous",
-        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 412813,
-      "name": "Synonymous",
-      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-09-29 21:59:00",
       "album": {
-        "name": "I Am Jazz",
-        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
-      },
-      "artists": [
-        {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
-        }
-      ],
-      "duration_ms": 402782,
-      "name": "Gotsom",
-      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
         "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
         "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 400103,
       "name": "Winter Nights - BlaQ Afro-Kay Remix",
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "I Am Jazz",
+        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        }
+      ],
+      "duration_ms": 402782,
+      "name": "Gotsom",
+      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
-      },
-      "artists": [
-        {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
-        }
-      ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "She's On Fire",
         "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
       },
@@ -851,6 +835,38 @@
       "duration_ms": 402000,
       "name": "She's On Fire",
       "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "New Beginning EP",
+        "url": "https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "duration_ms": 402788,
+      "name": "Eternal Existence - Original Mix",
+      "url": "https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+      },
+      "artists": [
+        {
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+        }
+      ],
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -871,22 +887,6 @@
       "duration_ms": 466467,
       "name": "Don't 4get To Call Me",
       "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "New Beginning EP",
-        "url": "https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4"
-      },
-      "artists": [
-        {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
-        }
-      ],
-      "duration_ms": 402788,
-      "name": "Eternal Existence - Original Mix",
-      "url": "https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Revolver, Vol. 3 (Compiled)",
-        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/1cuuxsujV2CDpUAK2B4mnj"
       },
       "artists": [
         {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
         }
       ],
-      "duration_ms": 419010,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
+      "duration_ms": 368326,
+      "name": "Safari - Original Mix",
+      "url": "https://open.spotify.com/track/5C2yySU4ikyeeqkD3ULcBf"
     },
     {
       "added_at": "2022-09-14 09:57:38",

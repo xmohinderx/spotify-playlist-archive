@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 
 > Sped up songs from TikTok and around the internet.
 
-[Digster](https://open.spotify.com/user/digster.fm) - 25,191 likes - 50 songs - 2 hr 13 min
+[Digster](https://open.spotify.com/user/digster.fm) - 25,187 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 | 49 | [SNAP \- High and Fast](https://open.spotify.com/track/2ik0zzlcwHl8hnHw7ZfeNS) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP \(High and Fast\)](https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP) | 2:15 |
 | 50 | [SWAMP SKONSTER](https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z) | [Skest](https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q) | [SWAMP SKONSTER](https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU) | 1:14 |
 
-Snapshot ID: `NzY2LDdlZWUwMzZiNWIxMWQyNDBhMDg0Njg4YjEyMTU5NzBjNWEzZDQ2MDA=`
+Snapshot ID: `NzY4LDcxOGE4ZmYxMDRjZTU0Mzg5ODQwN2JjN2ZmYTg0M2YyOGYzMjU1MjM=`

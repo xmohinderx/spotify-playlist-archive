@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-281 songs - 20 hr 32 min
+282 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Albatross](https://open.spotify.com/track/3PnllpK4EkIOzpXEe8jhJ2) | [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Harmen Fraanje](https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY) | [And Then Comes The Night](https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V) | 4:28 | 2022-05-26 | 2022-12-08 |
 | [All the Stars](https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk) | [Franklin Trio](https://open.spotify.com/artist/6JKD55Y19og9ydmldZwVQw) | [All the Stars](https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV) | 5:28 | 2022-11-11 |  |
 | [Almost Romance](https://open.spotify.com/track/7oLuklTciOp5P0heQeYqsC) | [Johan Lindvall Trio](https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI) | [No City, No Tree, No Lake](https://open.spotify.com/album/3YtgPusjjcPrOD1CFjt23C) | 2:35 | 2022-05-25 | 2022-11-11 |
+| [Always a Lady](https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:03 | 2023-02-16 |  |
 | [Amarinthine](https://open.spotify.com/track/31c6uaIRRejku8CXA4ms92) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq) | [Warp](https://open.spotify.com/album/32XHiqhjVkOjYz0IHp2Vdv) | 3:03 | 2021-12-17 | 2022-11-27 |
 | [Arrolo da Alba](https://open.spotify.com/track/2h3sCc2q9ul9H0D7rKltg7) | [Iago Fernández](https://open.spotify.com/artist/2MWNQBtNDrblXtYwG6JQ5I) | [Arrolo da Alba](https://open.spotify.com/album/16EEit8iE2DytoZTrMQDO4) | 5:28 | 2022-09-14 | 2022-09-22 |
 | [Austin](https://open.spotify.com/track/4hNWyQLrBIhFpEnwhpLNJh) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL), [Joakim Milder](https://open.spotify.com/artist/6qlsVWkkxnqeu0ysL9qDjx) | [Spark Of Life](https://open.spotify.com/album/6xryZq7zr0ukHTMLRgGLoS) | 7:07 | 2022-05-25 | 2023-02-01 |
@@ -257,7 +258,7 @@
 | [Traces I](https://open.spotify.com/track/7M4XMWNi9ud4skdKeldTHM) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107) | [Atmosphères](https://open.spotify.com/album/6bWRFvvfLzVFw7vZZHMHaK) | 6:52 | 2022-06-29 | 2022-11-25 |
 | [Twenty Somethings](https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Twenty Somethings](https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP) | 2:32 | 2022-12-08 |  |
 | [Two Poets](https://open.spotify.com/track/6txdEwJYDmPKLijFTPTSlI) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [My Foolish Heart](https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ) | 2:04 | 2021-12-17 | 2022-12-04 |
-| [Ubemærket](https://open.spotify.com/track/4Iw7LPiN881xC4OwwfRgnI) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Over Tage](https://open.spotify.com/album/3d7Q2ztZQOnccU7gJ8y777) | 3:03 | 2022-11-13 |  |
+| [Ubemærket](https://open.spotify.com/track/4Iw7LPiN881xC4OwwfRgnI) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Over Tage](https://open.spotify.com/album/3d7Q2ztZQOnccU7gJ8y777) | 3:03 | 2022-11-13 | 2023-02-21 |
 | [Under Weather](https://open.spotify.com/track/2gWNngto6gqaqRZNz3RRTr) | [Emanuele Maniscalco](https://open.spotify.com/artist/5CHF5PlrmG7StHgJJQQybc), [Francesco Bigoni](https://open.spotify.com/artist/55K44GqqmuYVZw74qYQ6Lf), [Mark Solborg](https://open.spotify.com/artist/6BdujUxIX59LeXFgSkgalm) | [Under Weather](https://open.spotify.com/album/1tgb5kFylPN41r6OiBrON8) | 4:56 | 2022-05-19 | 2022-08-18 |
 | [V\. remembering before all this](https://open.spotify.com/track/2Djdr6SndwgHqOXHVeJmCu) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Suite: April 2020](https://open.spotify.com/album/5e2pKFBkbxJ4s5gmgc78e4) | 3:39 | 2021-12-17 | 2022-11-11 |
 | [Varenne](https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Varenne](https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho) | 3:44 | 2022-11-11 |  |

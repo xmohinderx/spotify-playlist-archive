@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 24433,
+  "num_followers": 24450,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU0MjU4OCwwMDAwMDAwMDgwMjdjOTJlYjA5MjViZDYwMTE0M2FlNzA1YTJiOGU3",
+  "snapshot_id": "MTY3NjU0MjU4OCwwMDAwMDAwMGFjOGQ4YTZhMzljNWMzZDAzN2QxZGE2YThiODMwMjU4",
   "tracks": [
     {
       "added_at": "2023-02-02 10:19:54",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-02-02 10:19:54",
       "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 375173,
-      "name": "Begin The Beguine - Alternate Take",
-      "url": "https://open.spotify.com/track/48Q8ER4XOaE4r00bjRxT9r"
-    },
-    {
-      "added_at": "2023-02-02 10:19:54",
-      "album": {
         "name": "Jeri Southern Meets Cole Porter",
         "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 133466,
       "name": "It's Bad For Me",
       "url": "https://open.spotify.com/track/3hhCXsdzrepMb1Hwjn822d"
+    },
+    {
+      "added_at": "2023-02-02 10:19:54",
+      "album": {
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 375173,
+      "name": "Begin The Beguine - Alternate Take",
+      "url": "https://open.spotify.com/track/48Q8ER4XOaE4r00bjRxT9r"
     },
     {
       "added_at": "2023-02-02 10:19:54",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-02-02 10:19:54",
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
         }
       ],
-      "duration_ms": 411866,
-      "name": "You Do Something to Me - Remastered",
-      "url": "https://open.spotify.com/track/0HQWwFTh58MJ7DHKaD4DZO"
+      "duration_ms": 179466,
+      "name": "Don't Look At Me That Way",
+      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
     },
     {
       "added_at": "2023-02-02 10:19:54",
@@ -383,6 +383,22 @@
       "duration_ms": 196960,
       "name": "All Through The Night",
       "url": "https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6"
+    },
+    {
+      "added_at": "2023-02-02 10:19:54",
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 411866,
+      "name": "You Do Something to Me - Remastered",
+      "url": "https://open.spotify.com/track/0HQWwFTh58MJ7DHKaD4DZO"
     },
     {
       "added_at": "2023-02-02 10:19:54",
@@ -423,22 +439,6 @@
     {
       "added_at": "2023-02-02 10:19:54",
       "album": {
-        "name": "Jeri Southern Meets Cole Porter",
-        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
-      },
-      "artists": [
-        {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Don't Look At Me That Way",
-      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
-    },
-    {
-      "added_at": "2023-02-02 10:19:54",
-      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 291693,
       "name": "You'd Be So Nice To Come Home To",
       "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
+    },
+    {
+      "added_at": "2023-02-02 10:19:54",
+      "album": {
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "Weren't We Fools",
+      "url": "https://open.spotify.com/track/7sjpQN1cFB9ExK6JiLKBQ7"
     },
     {
       "added_at": "2023-02-02 10:19:54",
@@ -543,22 +559,6 @@
       "duration_ms": 174200,
       "name": "My Heart Belongs To Daddy",
       "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
-    },
-    {
-      "added_at": "2023-02-02 10:19:54",
-      "album": {
-        "name": "Jeri Southern Meets Cole Porter",
-        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
-      },
-      "artists": [
-        {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "Weren't We Fools",
-      "url": "https://open.spotify.com/track/7sjpQN1cFB9ExK6JiLKBQ7"
     },
     {
       "added_at": "2023-02-02 10:19:54",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-02-02 10:19:54",
       "album": {
-        "name": "Plays Cole Porter Love Songs",
-        "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
-      },
-      "artists": [
-        {
-          "name": "Jan Lundgren Trio",
-          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
-        }
-      ],
-      "duration_ms": 315373,
-      "name": "When Love Comes Around",
-      "url": "https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii"
-    },
-    {
-      "added_at": "2023-02-02 10:19:54",
-      "album": {
         "name": "Jeri Southern Meets Cole Porter",
         "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 170333,
       "name": "After You",
       "url": "https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE"
+    },
+    {
+      "added_at": "2023-02-02 10:19:54",
+      "album": {
+        "name": "Plays Cole Porter Love Songs",
+        "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
+      },
+      "artists": [
+        {
+          "name": "Jan Lundgren Trio",
+          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
+        }
+      ],
+      "duration_ms": 315373,
+      "name": "When Love Comes Around",
+      "url": "https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii"
     },
     {
       "added_at": "2023-02-02 10:19:54",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-02-02 10:19:54",
       "album": {
-        "name": "Worktime (RVG)",
-        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 369053,
-      "name": "It's All Right With Me",
-      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
-    },
-    {
-      "added_at": "2023-02-02 10:19:54",
-      "album": {
         "name": "Whatever Julie Wants",
         "url": "https://open.spotify.com/album/60LVWAuMJJeRfuPzQAiJ3k"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 151213,
       "name": "Always True To You (In My Fashion)",
       "url": "https://open.spotify.com/track/1t5KCAy7riP1uPT4uCYdwN"
+    },
+    {
+      "added_at": "2023-02-02 10:19:54",
+      "album": {
+        "name": "Worktime (RVG)",
+        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 369053,
+      "name": "It's All Right With Me",
+      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
     },
     {
       "added_at": "2023-02-02 10:19:54",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-02-02 10:19:54",
       "album": {
-        "name": "Easy To Love: The Songs Of Cole Porter",
-        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
-      },
-      "artists": [
-        {
-          "name": "Susannah McCorkle",
-          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Why Don't We Try Staying Home?",
-      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
-    },
-    {
-      "added_at": "2023-02-02 10:19:54",
-      "album": {
         "name": "Mabel Mercer Sings Cole Porter",
         "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 173840,
       "name": "Looking at You",
       "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
+    },
+    {
+      "added_at": "2023-02-02 10:19:54",
+      "album": {
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
+      },
+      "artists": [
+        {
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Why Don't We Try Staying Home?",
+      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
     },
     {
       "added_at": "2023-02-02 10:19:54",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2023-02-02 10:19:54",
       "album": {
-        "name": "Night and Day With Cole Porter",
-        "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
-      },
-      "artists": [
-        {
-          "name": "Behia Jazz Band",
-          "url": "https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Achat",
-          "url": "https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg"
-        },
-        {
-          "name": "Manu Carr\u00e9",
-          "url": "https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll"
-        },
-        {
-          "name": "Philippe Brassoud",
-          "url": "https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w"
-        },
-        {
-          "name": "Philippe Cocogne",
-          "url": "https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "Conversation Blues",
-      "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
-    },
-    {
-      "added_at": "2023-02-02 10:19:54",
-      "album": {
         "name": "Sinatra Sings Cole Porter",
         "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
       },
@@ -1111,38 +1079,6 @@
       "duration_ms": 145533,
       "name": "I Am Loved",
       "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
-    },
-    {
-      "added_at": "2023-02-02 10:19:54",
-      "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
-      },
-      "artists": [
-        {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
-        }
-      ],
-      "duration_ms": 111306,
-      "name": "I Am Ashamed That Women Are so Simple",
-      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
-    },
-    {
-      "added_at": "2023-02-02 10:19:54",
-      "album": {
-        "name": "John Barrowman Swings Cole Porter",
-        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
-      },
-      "artists": [
-        {
-          "name": "John Barrowman",
-          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
-        }
-      ],
-      "duration_ms": 127906,
-      "name": "I Happen To Like New York",
-      "url": "https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm"
     },
     {
       "added_at": "2023-02-02 10:19:54",
@@ -1183,18 +1119,50 @@
     {
       "added_at": "2023-02-02 10:19:54",
       "album": {
-        "name": "Don't Dream of Anybody but Me",
-        "url": "https://open.spotify.com/album/5g9BdZChSpUZ2X3vgGNaTa"
+        "name": "Night and Day With Cole Porter",
+        "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
       },
       "artists": [
         {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+          "name": "Behia Jazz Band",
+          "url": "https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Achat",
+          "url": "https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg"
+        },
+        {
+          "name": "Manu Carr\u00e9",
+          "url": "https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll"
+        },
+        {
+          "name": "Philippe Brassoud",
+          "url": "https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w"
+        },
+        {
+          "name": "Philippe Cocogne",
+          "url": "https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Get Out of Town - Med Andra Ord...",
-      "url": "https://open.spotify.com/track/7jDgC41FKERGLL0RQXc05K"
+      "duration_ms": 234840,
+      "name": "Conversation Blues",
+      "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
+    },
+    {
+      "added_at": "2023-02-02 10:19:54",
+      "album": {
+        "name": "John Barrowman Swings Cole Porter",
+        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+      },
+      "artists": [
+        {
+          "name": "John Barrowman",
+          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+        }
+      ],
+      "duration_ms": 127906,
+      "name": "I Happen To Like New York",
+      "url": "https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm"
     },
     {
       "added_at": "2023-02-02 10:19:54",
@@ -1211,6 +1179,38 @@
       "duration_ms": 197800,
       "name": "Why Can't You Behave?",
       "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
+    },
+    {
+      "added_at": "2023-02-02 10:19:54",
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "duration_ms": 111306,
+      "name": "I Am Ashamed That Women Are so Simple",
+      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
+    },
+    {
+      "added_at": "2023-02-02 10:19:54",
+      "album": {
+        "name": "Don't Dream of Anybody but Me",
+        "url": "https://open.spotify.com/album/5g9BdZChSpUZ2X3vgGNaTa"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Get Out of Town - Med Andra Ord...",
+      "url": "https://open.spotify.com/track/7jDgC41FKERGLL0RQXc05K"
     },
     {
       "added_at": "2023-02-02 10:19:54",

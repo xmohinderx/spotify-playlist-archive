@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: KEY(\ud0a4)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
+  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: MAMAMOO(\ub9c8\ub9c8\ubb34)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "New Music K-Pop",
   "tracks": [
     {
@@ -4195,6 +4195,28 @@
     },
     {
       "album": {
+        "name": "Another you (Feat. DINDIN) (Prod. by DINDIN)",
+        "url": "https://open.spotify.com/album/0Jbw5LagtiZa8EI3eJl9wU"
+      },
+      "artists": [
+        {
+          "name": "JEONG KYU MIN",
+          "url": "https://open.spotify.com/artist/25OKqfwLCrAIXHGK95RAqv"
+        },
+        {
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183586,
+      "name": "Another you (Feat. DINDIN) (Prod. by DINDIN)",
+      "url": "https://open.spotify.com/track/6h6hESy7Spah3RmSZDB7MQ"
+    },
+    {
+      "album": {
         "name": "FLAME IN 031",
         "url": "https://open.spotify.com/album/2yQKg8vR8wBGu2DUQOcY1t"
       },
@@ -4422,6 +4444,24 @@
       "duration_ms": 201734,
       "name": "Anywhere With You",
       "url": "https://open.spotify.com/track/5dEGpXgEVxRhdi6SvRWgVL"
+    },
+    {
+      "album": {
+        "name": "Apgujeong",
+        "url": "https://open.spotify.com/album/7EXkYlCEIPQUDKzs3EUUs3"
+      },
+      "artists": [
+        {
+          "name": "Jiho Givenchy",
+          "url": "https://open.spotify.com/artist/7FmUBvEV5FBVdF021jN5r2"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218420,
+      "name": "Apgujeong",
+      "url": "https://open.spotify.com/track/1J0eFPj2AIQT3XK0J0FSsY"
     },
     {
       "album": {
@@ -5566,6 +5606,28 @@
       "duration_ms": 331053,
       "name": "Bad Reputation",
       "url": "https://open.spotify.com/track/4WI4qvN8x4x9KOkO86Y4cq"
+    },
+    {
+      "album": {
+        "name": "Bad words with KozyPop",
+        "url": "https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        },
+        {
+          "name": "Housekeepers",
+          "url": "https://open.spotify.com/artist/5fYEzAUia8jENJDyp6xidr"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197687,
+      "name": "Bad words",
+      "url": "https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX"
     },
     {
       "album": {
@@ -7575,6 +7637,24 @@
     },
     {
       "album": {
+        "name": "Tilde(~)",
+        "url": "https://open.spotify.com/album/0h5sYrCsLapaTyJK7GIE8a"
+      },
+      "artists": [
+        {
+          "name": "Sodong",
+          "url": "https://open.spotify.com/artist/7jDHvyVWvTinyXdUEz141p"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201250,
+      "name": "Binge-watch",
+      "url": "https://open.spotify.com/track/6KtOFKDUOhpw4KjKr7iluK"
+    },
+    {
+      "album": {
         "name": "Bingle Bangle",
         "url": "https://open.spotify.com/album/1df1S343WWl74S6N8hjc38"
       },
@@ -9332,6 +9412,24 @@
       "duration_ms": 260000,
       "name": "Broken (feat. \uae40\uc740\uc601)",
       "url": "https://open.spotify.com/track/2u2ujGblXDXw7mcLY57UJ8"
+    },
+    {
+      "album": {
+        "name": "broken self",
+        "url": "https://open.spotify.com/album/4sqivadacDndf6rwLV0z29"
+      },
+      "artists": [
+        {
+          "name": "Ju Yoon Ha",
+          "url": "https://open.spotify.com/artist/2G6zefY3cizYXTcpWNtNMP"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342608,
+      "name": "broken self",
+      "url": "https://open.spotify.com/track/3Qbwqc0cf8MwO3R0vSTzeT"
     },
     {
       "album": {
@@ -12368,6 +12466,24 @@
       "duration_ms": 279192,
       "name": "Close my eyes",
       "url": "https://open.spotify.com/track/0jNqyuk278VsrMjcAUzAzZ"
+    },
+    {
+      "album": {
+        "name": "CURE",
+        "url": "https://open.spotify.com/album/76Ls8lfaFtaDv9B4GuugUn"
+      },
+      "artists": [
+        {
+          "name": "Sung Hyun Paek",
+          "url": "https://open.spotify.com/artist/4B9MuZ9lo5sKP4H8al0deM"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "Close my eyes",
+      "url": "https://open.spotify.com/track/1jRNjm6T8idRoCDG1s2SHl"
     },
     {
       "album": {
@@ -20861,6 +20977,24 @@
     },
     {
       "album": {
+        "name": "fall with me",
+        "url": "https://open.spotify.com/album/09WCvtcRF1HB7ZNnkI2SxA"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "fall with me",
+      "url": "https://open.spotify.com/track/7BmmSTzUgC5YsO67aOtrpd"
+    },
+    {
+      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/2L6Wq8SWyqp11SYcH46Rsp"
       },
@@ -24552,6 +24686,24 @@
       "duration_ms": 224000,
       "name": "Garden in my mind",
       "url": "https://open.spotify.com/track/0t7F2UJzReoj4xIEam8Thj"
+    },
+    {
+      "album": {
+        "name": "Gardener",
+        "url": "https://open.spotify.com/album/10qon4vuL5IyNN3EJxmYCY"
+      },
+      "artists": [
+        {
+          "name": "YNR",
+          "url": "https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Gardener",
+      "url": "https://open.spotify.com/track/0C78cochX5Mz7KJM9Hopxl"
     },
     {
       "album": {
@@ -47485,6 +47637,28 @@
     },
     {
       "album": {
+        "name": "No (feat. Halsoon)",
+        "url": "https://open.spotify.com/album/51jUwVizwRuG2bgAWXij7F"
+      },
+      "artists": [
+        {
+          "name": "HYUN SEO",
+          "url": "https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl"
+        },
+        {
+          "name": "Halsoon",
+          "url": "https://open.spotify.com/artist/0sNCNblXQopxO3mIssE1dG"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "No (feat. Halsoon)",
+      "url": "https://open.spotify.com/track/3TXWLlMSzMSJPlCB56l6wM"
+    },
+    {
+      "album": {
         "name": "No Bless (Feat. Khundi Panda, Chillin Homie, OSUN, DAMINI, A-Chess)",
         "url": "https://open.spotify.com/album/4JhP1vQF6JAoBS96Ph9G0B"
       },
@@ -51717,6 +51891,24 @@
     },
     {
       "album": {
+        "name": "Petal",
+        "url": "https://open.spotify.com/album/4wPCJkLlGVE3Mp47FG43Tp"
+      },
+      "artists": [
+        {
+          "name": "Park Ki Young",
+          "url": "https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390106,
+      "name": "Petal - full Ver.",
+      "url": "https://open.spotify.com/track/3yS3FIXpdFxtsGYru3Ky6T"
+    },
+    {
+      "album": {
         "name": "Peter Pan",
         "url": "https://open.spotify.com/album/3XShJnxmP37cDHViGWwxGQ"
       },
@@ -55514,6 +55706,24 @@
       "duration_ms": 176736,
       "name": "ROADSTARS (prod. Franken)",
       "url": "https://open.spotify.com/track/5m4sBzjR6AADjmMGVe3RrN"
+    },
+    {
+      "album": {
+        "name": "THE BOYZ 8th MINI ALBUM [BE AWAKE]",
+        "url": "https://open.spotify.com/album/1rxSHvDHLjLdz7x8G4Ssy5"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220106,
+      "name": "ROAR",
+      "url": "https://open.spotify.com/track/7yP9oxhtOozkCptLHJoq3l"
     },
     {
       "album": {
@@ -59383,6 +59593,24 @@
     },
     {
       "album": {
+        "name": "smallthing",
+        "url": "https://open.spotify.com/album/2BxNOiuS3YJVBwERBDpdgQ"
+      },
+      "artists": [
+        {
+          "name": "dori",
+          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139280,
+      "name": "smallthing",
+      "url": "https://open.spotify.com/track/0ABgWfH4ksW7hZ7EQWN8Fh"
+    },
+    {
+      "album": {
         "name": "SMARTPHONE",
         "url": "https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0"
       },
@@ -61414,6 +61642,24 @@
       "duration_ms": 173680,
       "name": "STAR (feat. Goopy)",
       "url": "https://open.spotify.com/track/6b8tXW0y4rpqivYp9iTquR"
+    },
+    {
+      "album": {
+        "name": "when the stars align",
+        "url": "https://open.spotify.com/album/5PXd2CW4Og6FUp81fLD1H1"
+      },
+      "artists": [
+        {
+          "name": "Yunsae",
+          "url": "https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206677,
+      "name": "stardust",
+      "url": "https://open.spotify.com/track/6M1LI5n407Hw1Z5L2muz0y"
     },
     {
       "album": {
@@ -67115,6 +67361,24 @@
     },
     {
       "album": {
+        "name": "third farewell",
+        "url": "https://open.spotify.com/album/1BoA7LtCfEtme5gb5aC6A8"
+      },
+      "artists": [
+        {
+          "name": "dawon you",
+          "url": "https://open.spotify.com/artist/3sorJaK11BPQosaTaZkuhk"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223813,
+      "name": "third farewell",
+      "url": "https://open.spotify.com/track/6gxgcuTRE8V8Un6qJUuRp7"
+    },
+    {
+      "album": {
         "name": "Red Balloon OST Part.6",
         "url": "https://open.spotify.com/album/5tKkrid72hWtqtor3nQWL6"
       },
@@ -67410,6 +67674,24 @@
       "duration_ms": 155674,
       "name": "Thousand times",
       "url": "https://open.spotify.com/track/1d6IdTV1ZZdz7s8qUlpUBa"
+    },
+    {
+      "album": {
+        "name": "Thrill",
+        "url": "https://open.spotify.com/album/4kH2ExCbh2utOqngWhDiU5"
+      },
+      "artists": [
+        {
+          "name": "E'LAST",
+          "url": "https://open.spotify.com/artist/0NztgA9b1KEJLjLVqMwd9y"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178506,
+      "name": "Thrill",
+      "url": "https://open.spotify.com/track/23l2mR8hgNncbR98Sp9QU1"
     },
     {
       "album": {
@@ -71334,6 +71616,28 @@
       "duration_ms": 293932,
       "name": "Wake\u2019em Up",
       "url": "https://open.spotify.com/track/4bJOJ4xXyzaTdqngkdoRdz"
+    },
+    {
+      "album": {
+        "name": "walk to the moon (feat. kim seungyoon)",
+        "url": "https://open.spotify.com/album/1iLbD5VKkdQPEYBcygEokK"
+      },
+      "artists": [
+        {
+          "name": "verycoybunny",
+          "url": "https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB"
+        },
+        {
+          "name": "kim seungyoon",
+          "url": "https://open.spotify.com/artist/4JLS2R4A5ob8Fra7UpUtBI"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198186,
+      "name": "walk to the moon (feat. kim seungyoon)",
+      "url": "https://open.spotify.com/track/3jXJmRPGuCkkq3P6D9apMT"
     },
     {
       "album": {
@@ -77109,6 +77413,24 @@
     },
     {
       "album": {
+        "name": "You're Already Shining",
+        "url": "https://open.spotify.com/album/1AbMzVEWtW9ZV6o9JVQ9UC"
+      },
+      "artists": [
+        {
+          "name": "Sol' Flower",
+          "url": "https://open.spotify.com/artist/6PiKHJ0nPDGckwtq6uFbXC"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229723,
+      "name": "You're Already Shining",
+      "url": "https://open.spotify.com/track/4B1d3ZORudLelqZ2odPRdG"
+    },
+    {
+      "album": {
         "name": "\u5c0f\u6691",
         "url": "https://open.spotify.com/album/3rpmARrx5Z5yeQBxdfgfOd"
       },
@@ -81162,6 +81484,24 @@
       "duration_ms": 203357,
       "name": "\ud3b8\uc9c0 Letter",
       "url": "https://open.spotify.com/track/3HB5d1ildqKAritGtnQpNV"
+    },
+    {
+      "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/5SHzzLq6kYCnAqnMfgs20f"
+      },
+      "artists": [
+        {
+          "name": "Lee Chanwon",
+          "url": "https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248426,
+      "name": "\ud48d\ub4f1",
+      "url": "https://open.spotify.com/track/4LRwxYACbFQpM8cWbQVBS5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,114 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,162 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 49 | [Deténgase Señora](https://open.spotify.com/track/1DLWpCeL9VvXDSrR845XFg) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Desde el Sur Hasta el Norte](https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050) | 3:04 |
 | 50 | [Claro Que Se Puede! \(Norteña\)](https://open.spotify.com/track/2V5uUsoAyW9B0IBCZ8Brrp) | [Ramon Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV), [Los Bravos del Norte](https://open.spotify.com/artist/46XFR4hn1MmBKyvwxxEFFo), [Ricky Muñoz](https://open.spotify.com/artist/2fN4AmackOjPcaThwvLyy6), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Claro Que Se Puede \(Proyecto de Amor\)](https://open.spotify.com/album/1lfaRyGuURjmommrpUxhls) | 4:01 |
 
-Snapshot ID: `Mjc5NDcxNDYsMDAwMDAwMDA2ZjE1NTc2MGMzMmVhZjNlZjk1M2NiZGUxYWMzOWYyNQ==`
+Snapshot ID: `Mjc5NDgyNzgsMDAwMDAwMDA2NGM3NjZiNTcwODMyMGVhZTFiZTI4ODljNzhmYTNhYQ==`

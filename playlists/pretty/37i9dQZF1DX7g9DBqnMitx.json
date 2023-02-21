@@ -1,12 +1,12 @@
 {
   "description": "Le cin\u00e9ma \u00e7a s'\u00e9coute aussi.",
-  "num_followers": 51435,
+  "num_followers": 51458,
   "original_name": "Bandes Originales & Pop Corn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMDIxMTY1M2EzODY2ZWQ0YjMxODY1NTUxYzg0NjVhMzkz",
+  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMDgzYzEzNjM3MTI1ODY3ZjA0ZTYxNWQ1ZTQ3YmIyM2Y4",
   "tracks": [
     {
       "added_at": "2022-12-28 14:02:39",
@@ -31,22 +31,6 @@
     {
       "added_at": "2022-12-28 14:02:39",
       "album": {
-        "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 267504,
-      "name": "Nothing Is Lost (You Give Me Strength)",
-      "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
-    },
-    {
-      "added_at": "2022-12-28 14:02:39",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 270213,
       "name": "The Chain - 2004 Remaster",
       "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
+    },
+    {
+      "added_at": "2022-12-28 14:02:39",
+      "album": {
+        "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 267504,
+      "name": "Nothing Is Lost (You Give Me Strength)",
+      "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
     },
     {
       "added_at": "2022-12-28 14:02:39",
@@ -199,26 +199,6 @@
     {
       "added_at": "2022-12-28 14:02:39",
       "album": {
-        "name": "All For Us (from the HBO Original Series Euphoria)",
-        "url": "https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 192986,
-      "name": "All For Us - from the HBO Original Series Euphoria",
-      "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
-    },
-    {
-      "added_at": "2022-12-28 14:02:39",
-      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 169840,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
+    },
+    {
+      "added_at": "2022-12-28 14:02:39",
+      "album": {
+        "name": "All For Us (from the HBO Original Series Euphoria)",
+        "url": "https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 192986,
+      "name": "All For Us - from the HBO Original Series Euphoria",
+      "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
     },
     {
       "added_at": "2022-12-28 14:02:39",
@@ -335,6 +335,26 @@
     {
       "added_at": "2022-12-28 14:02:39",
       "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 216906,
+      "name": "Summer Nights - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
+    },
+    {
+      "added_at": "2022-12-28 14:02:39",
+      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 161906,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
-    },
-    {
-      "added_at": "2022-12-28 14:02:39",
-      "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        },
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 216906,
-      "name": "Summer Nights - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
     },
     {
       "added_at": "2022-12-28 14:02:39",
@@ -751,30 +751,6 @@
     {
       "added_at": "2022-12-28 14:02:39",
       "album": {
-        "name": "Schindler's List",
-        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Theme From Schindler's List",
-      "url": "https://open.spotify.com/track/42gZM6AQ9BDMaTyTmMDVlN"
-    },
-    {
-      "added_at": "2022-12-28 14:02:39",
-      "album": {
         "name": "Black Caesar",
         "url": "https://open.spotify.com/album/3Eiwyp3EB66AuXjBI2MYZI"
       },
@@ -843,22 +819,6 @@
     {
       "added_at": "2022-12-28 14:02:39",
       "album": {
-        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 309093,
-      "name": "Hedwig's Theme",
-      "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
-    },
-    {
-      "added_at": "2022-12-28 14:02:39",
-      "album": {
         "name": "The Mission: Music From The Motion Picture",
         "url": "https://open.spotify.com/album/2fOlcWrSR032MxwMCQe9LA"
       },
@@ -871,6 +831,30 @@
       "duration_ms": 134133,
       "name": "Gabriel's Oboe",
       "url": "https://open.spotify.com/track/6opPrJUpq4Pl5c84eCwLmo"
+    },
+    {
+      "added_at": "2022-12-28 14:02:39",
+      "album": {
+        "name": "Schindler's List",
+        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Theme From Schindler's List",
+      "url": "https://open.spotify.com/track/42gZM6AQ9BDMaTyTmMDVlN"
     },
     {
       "added_at": "2022-12-28 14:02:39",
@@ -923,6 +907,22 @@
     {
       "added_at": "2022-12-28 14:02:39",
       "album": {
+        "name": "The Piano: Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/2QxIR22Sj9xGc4mOTN550A"
+      },
+      "artists": [
+        {
+          "name": "Michael Nyman",
+          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
+        }
+      ],
+      "duration_ms": 96560,
+      "name": "The Heart Asks Pleasure First",
+      "url": "https://open.spotify.com/track/4RW7EZi7SHSLRwvn1Q8Mqj"
+    },
+    {
+      "added_at": "2022-12-28 14:02:39",
+      "album": {
         "name": "Braveheart (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/11RrIE8R4WdmybwaItRa97"
       },
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-12-28 14:02:39",
       "album": {
-        "name": "The Piano: Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/2QxIR22Sj9xGc4mOTN550A"
+        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
       },
       "artists": [
         {
-          "name": "Michael Nyman",
-          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 96560,
-      "name": "The Heart Asks Pleasure First",
-      "url": "https://open.spotify.com/track/4RW7EZi7SHSLRwvn1Q8Mqj"
+      "duration_ms": 309093,
+      "name": "Hedwig's Theme",
+      "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
     },
     {
       "added_at": "2022-12-28 14:02:39",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-12-28 14:02:39",
       "album": {
-        "name": "George Michael & Wham! Last Christmas: The Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3rLjiJI34bHFNIFqeK3y9s"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/38p8YDx5gepOiK4SnEfoB4"
-    },
-    {
-      "added_at": "2022-12-28 14:02:39",
-      "album": {
         "name": "AMY (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 152093,
       "name": "Love Is A Losing Game - Live At The Mercury Music Awards",
       "url": "https://open.spotify.com/track/1DYCdxNAVNUCAOlAi7aP5o"
+    },
+    {
+      "added_at": "2022-12-28 14:02:39",
+      "album": {
+        "name": "George Michael & Wham! Last Christmas: The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3rLjiJI34bHFNIFqeK3y9s"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/38p8YDx5gepOiK4SnEfoB4"
     },
     {
       "added_at": "2022-12-28 14:02:39",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-12-28 14:02:39",
       "album": {
-        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
-      },
-      "artists": [
-        {
-          "name": "Steve Horner",
-          "url": "https://open.spotify.com/artist/0mRwlobkMJCn8G51R9oYZw"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Sign of the Times - Stripped",
-      "url": "https://open.spotify.com/track/0uaJBwwtP6FMqdDpHYNOk0"
-    },
-    {
-      "added_at": "2022-12-28 14:02:39",
-      "album": {
         "name": "The Godfather",
         "url": "https://open.spotify.com/album/5CeLOKEJeP3EpEdT9v2lep"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 158960,
       "name": "Love Theme From \"The Godfather\"",
       "url": "https://open.spotify.com/track/39zu6JGd6tvRNsqyK78RLk"
+    },
+    {
+      "added_at": "2022-12-28 14:02:39",
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Steve Horner",
+          "url": "https://open.spotify.com/artist/0mRwlobkMJCn8G51R9oYZw"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Sign of the Times - Stripped",
+      "url": "https://open.spotify.com/track/0uaJBwwtP6FMqdDpHYNOk0"
     },
     {
       "added_at": "2022-12-28 14:02:39",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-12-28 14:02:39",
       "album": {
-        "name": "Succession: Season 1 (HBO Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Britell",
-          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
-        }
-      ],
-      "duration_ms": 102013,
-      "name": "Succession (Main Title Theme)",
-      "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
-    },
-    {
-      "added_at": "2022-12-28 14:02:39",
-      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 210013,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/2IAQnOWKWjj1iA166KznVd"
+    },
+    {
+      "added_at": "2022-12-28 14:02:39",
+      "album": {
+        "name": "Succession: Season 1 (HBO Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "duration_ms": 102013,
+      "name": "Succession (Main Title Theme)",
+      "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
     },
     {
       "added_at": "2022-12-28 14:02:39",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-12-28 14:02:39",
       "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 244573,
-      "name": "Can't Fight City Halloween",
-      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
-    },
-    {
-      "added_at": "2022-12-28 14:02:39",
-      "album": {
         "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 158773,
       "name": "Salamander Eyes",
       "url": "https://open.spotify.com/track/4w0sBSIgy945h7TZE0FUbc"
+    },
+    {
+      "added_at": "2022-12-28 14:02:39",
+      "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Can't Fight City Halloween",
+      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
     },
     {
       "added_at": "2022-12-28 14:02:39",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-12-28 14:02:39",
       "album": {
-        "name": "Volume 1",
-        "url": "https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio De Andr\u00e9",
-          "url": "https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "Spiritual",
-      "url": "https://open.spotify.com/track/7bUsesodBH1tITKTFXWK9k"
-    },
-    {
-      "added_at": "2022-12-28 14:02:39",
-      "album": {
         "name": "Pirates of the Caribbean: At World's End",
         "url": "https://open.spotify.com/album/241F2pNbl6OIJPixynRuiu"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 91080,
       "name": "Hoist the Colours - From \"Pirates of the Caribbean: At World's End\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1xvtgNKtzZwOeLDkxgMzav"
+    },
+    {
+      "added_at": "2022-12-28 14:02:39",
+      "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio De Andr\u00e9",
+          "url": "https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/7bUsesodBH1tITKTFXWK9k"
     },
     {
       "added_at": "2022-12-28 14:02:39",

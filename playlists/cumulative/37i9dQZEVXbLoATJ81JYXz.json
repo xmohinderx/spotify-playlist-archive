@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -6414,7 +6414,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-20",
+      "date_removed": null,
       "duration_ms": 189843,
       "name": "Farv\u00e4l",
       "url": "https://open.spotify.com/track/5GlvvciOftIl3hdvUjyik6"
@@ -11134,7 +11134,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 221217,
       "name": "Josefin",
       "url": "https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv"
@@ -11416,7 +11416,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 122666,
       "name": "KASSANOVA",
       "url": "https://open.spotify.com/track/7d9BbXQi6mWb4xAiJUGb7T"
@@ -13153,6 +13153,24 @@
     },
     {
       "album": {
+        "name": "L\u00e5t hela stan se p\u00e5",
+        "url": "https://open.spotify.com/album/1eH4xvNREOFJycHwqifLNR"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184440,
+      "name": "L\u00e5t hela stan se p\u00e5",
+      "url": "https://open.spotify.com/track/1ZmXkSbIt88oScLQlkU8so"
+    },
+    {
+      "album": {
         "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
         "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
       },
@@ -13244,7 +13262,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
@@ -13386,7 +13404,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 215702,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/7f7d6FJ0LOAFzFaaEIa3s8"
@@ -18489,6 +18507,24 @@
     },
     {
       "album": {
+        "name": "Sl\u00e4pp alla sorger",
+        "url": "https://open.spotify.com/album/1gsNlkpVeWYGcMUg116nlc"
+      },
+      "artists": [
+        {
+          "name": "Nordman",
+          "url": "https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183840,
+      "name": "Sl\u00e4pp alla sorger",
+      "url": "https://open.spotify.com/track/4lGrF9Fk8wJ6nLgcuRdFre"
+    },
+    {
+      "album": {
         "name": "Fulkultur",
         "url": "https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X"
       },
@@ -18696,6 +18732,24 @@
       "duration_ms": 158490,
       "name": "Sn\u00e4lla bli min - Spotify Studio It's Hits Recording",
       "url": "https://open.spotify.com/track/1ZJdjsCEdolnRN83W9dWiX"
+    },
+    {
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/0MpphkdrO0WciFt7MihbEC"
+      },
+      "artists": [
+        {
+          "name": "Laurell",
+          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0vuyiZejJnlgQpxy6XK7u2"
     },
     {
       "album": {
@@ -19998,6 +20052,24 @@
       "duration_ms": 187200,
       "name": "S\u00e4tter Dom P\u00e5 Plats",
       "url": "https://open.spotify.com/track/6tTZfzCuQxamzX7DlNC0hh"
+    },
+    {
+      "album": {
+        "name": "S\u00e5 kommer k\u00e4nslorna tillbaka",
+        "url": "https://open.spotify.com/album/3juRuDNCfrpC6OQoBq1446"
+      },
+      "artists": [
+        {
+          "name": "Casanovas",
+          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172426,
+      "name": "S\u00e5 kommer k\u00e4nslorna tillbaka",
+      "url": "https://open.spotify.com/track/7HypKDmPRW3M7vEvb1M0tQ"
     },
     {
       "album": {
@@ -22916,7 +22988,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 221913,
       "name": "What's The Point",
       "url": "https://open.spotify.com/track/43xz0Ed6oE5r3FSblGZtE0"

@@ -1377,6 +1377,42 @@
     },
     {
       "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/2N3qxB5qp3gSb2G1PxnnYw"
+      },
+      "artists": [
+        {
+          "name": "Bunnyzar",
+          "url": "https://open.spotify.com/artist/5QEv5Qfk2fZAPJWCj0Yux3"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222295,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/2zRUyCYynXqDGAHUTte95y"
+    },
+    {
+      "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/2N3qxB5qp3gSb2G1PxnnYw"
+      },
+      "artists": [
+        {
+          "name": "Bunnyzar",
+          "url": "https://open.spotify.com/artist/5QEv5Qfk2fZAPJWCj0Yux3"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332459,
+      "name": "Hypnotize - Extended Mix",
+      "url": "https://open.spotify.com/track/40hkDTc0mLZF8u1kcsT0Uy"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Know",
         "url": "https://open.spotify.com/album/2sI3TF8KNDxcsLzV5xAHHk"
       },
@@ -2618,6 +2654,24 @@
       "duration_ms": 180000,
       "name": "Shine Now",
       "url": "https://open.spotify.com/track/542zwnabXssqpLcv9WirPd"
+    },
+    {
+      "album": {
+        "name": "Shine on",
+        "url": "https://open.spotify.com/album/5UZ31Fz3RyQjmemQMDCgWX"
+      },
+      "artists": [
+        {
+          "name": "Zackee",
+          "url": "https://open.spotify.com/artist/48gTJ3BuB7tupokoUJOa7c"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257643,
+      "name": "Shine on",
+      "url": "https://open.spotify.com/track/0yh5ke0G8iO7oSC1jABTmX"
     },
     {
       "album": {

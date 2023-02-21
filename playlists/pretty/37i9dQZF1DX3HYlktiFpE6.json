@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 97643,
+  "num_followers": 97670,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDNkYjU4NzkxOWU0MTZkZGI3ZTgxNGVhNGQ4ODM1OGYw",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDViYTljZTkwODNhMmFjNTYxMmUzZjIxZWE1NjIwODJk",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -147,38 +147,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
-      },
-      "artists": [
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        }
-      ],
-      "duration_ms": 75813,
-      "name": "Cups - Movie Version",
-      "url": "https://open.spotify.com/track/1k6hE5RWi4LQzoIFeosCJ7"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "PTX, Vol. 2",
-        "url": "https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Daft Punk",
-      "url": "https://open.spotify.com/track/6ukvsBzq4d1vBsAUmz7ZVt"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Glee: The Music, Volume 1",
         "url": "https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj"
       },
@@ -191,6 +159,22 @@
       "duration_ms": 232000,
       "name": "Don't Stop Believin' (Glee Cast Version) - Cover of Journey",
       "url": "https://open.spotify.com/track/6rjnRocdCULjLF61x2NR5e"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        }
+      ],
+      "duration_ms": 75813,
+      "name": "Cups - Movie Version",
+      "url": "https://open.spotify.com/track/1k6hE5RWi4LQzoIFeosCJ7"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -215,6 +199,22 @@
       "duration_ms": 224266,
       "name": "Riff Off: Mickey/Like A Virgin/Hit Me With Your Best Shot/S&M/Let\u2019s Talk About Sex/I\u2019ll Make Love To You/Feels Like The First Time/No Diggity",
       "url": "https://open.spotify.com/track/0phwM5a6TdLBDl0F9bk5fl"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "PTX, Vol. 2",
+        "url": "https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Daft Punk",
+      "url": "https://open.spotify.com/track/6ukvsBzq4d1vBsAUmz7ZVt"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "The Quarterback",
+        "url": "https://open.spotify.com/album/5K2lqUwpSHseCoCfBcvlcV"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        }
+      ],
+      "duration_ms": 221773,
+      "name": "If I Die Young (Glee Cast Version)",
+      "url": "https://open.spotify.com/track/1REX2q4Fverp8zH7KuSeZC"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "We Got You Covered, Vol. 3",
         "url": "https://open.spotify.com/album/2QoF7YsWJTxn5UIqOmXvqE"
       },
@@ -265,20 +281,36 @@
       "url": "https://open.spotify.com/track/5uw1yHb6Do9b57youUUOFr"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Sing for Myself",
-        "url": "https://open.spotify.com/album/3A9VjcAIbropthKKmQT40d"
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
       },
       "artists": [
         {
-          "name": "Voices in Your Head",
-          "url": "https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ"
+          "name": "The Barden Bellas",
+          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
         }
       ],
-      "duration_ms": 127349,
-      "name": "Sing for Myself",
-      "url": "https://open.spotify.com/track/6iqsJo7oYOIuIFmXi4crwT"
+      "duration_ms": 62613,
+      "name": "Party In The U.S.A.",
+      "url": "https://open.spotify.com/track/7c2KF18pPpaN8Hy5MiNNWs"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+      },
+      "artists": [
+        {
+          "name": "The Treblemakers",
+          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/7mwaAS5hqSuSxsFLpQh5NU"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -299,22 +331,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "The Quarterback",
-        "url": "https://open.spotify.com/album/5K2lqUwpSHseCoCfBcvlcV"
-      },
-      "artists": [
-        {
-          "name": "Glee Cast",
-          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
-        }
-      ],
-      "duration_ms": 221773,
-      "name": "If I Die Young (Glee Cast Version)",
-      "url": "https://open.spotify.com/track/1REX2q4Fverp8zH7KuSeZC"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "PTX Presents: Top Pop, Vol. I",
         "url": "https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW"
       },
@@ -331,18 +347,38 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+        "name": "Glee: The Music, Volume 4",
+        "url": "https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI"
       },
       "artists": [
         {
-          "name": "The Treblemakers",
-          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        },
+        {
+          "name": "Darren Criss",
+          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
         }
       ],
-      "duration_ms": 184560,
-      "name": "Don't Stop The Music",
-      "url": "https://open.spotify.com/track/7mwaAS5hqSuSxsFLpQh5NU"
+      "duration_ms": 220386,
+      "name": "Teenage Dream (feat. Darren Criss)",
+      "url": "https://open.spotify.com/track/0nzvwCXs0X3SGPhyGdb7Cp"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Sing for Myself",
+        "url": "https://open.spotify.com/album/3A9VjcAIbropthKKmQT40d"
+      },
+      "artists": [
+        {
+          "name": "Voices in Your Head",
+          "url": "https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ"
+        }
+      ],
+      "duration_ms": 127349,
+      "name": "Sing for Myself",
+      "url": "https://open.spotify.com/track/6iqsJo7oYOIuIFmXi4crwT"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -379,62 +415,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
-      },
-      "artists": [
-        {
-          "name": "The Barden Bellas",
-          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
-        }
-      ],
-      "duration_ms": 62613,
-      "name": "Party In The U.S.A.",
-      "url": "https://open.spotify.com/track/7c2KF18pPpaN8Hy5MiNNWs"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Glee: The Music, Volume 4",
-        "url": "https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI"
-      },
-      "artists": [
-        {
-          "name": "Glee Cast",
-          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
-        },
-        {
-          "name": "Darren Criss",
-          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
-        }
-      ],
-      "duration_ms": 220386,
-      "name": "Teenage Dream (feat. Darren Criss)",
-      "url": "https://open.spotify.com/track/0nzvwCXs0X3SGPhyGdb7Cp"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
-      },
-      "artists": [
-        {
-          "name": "The Treblemakers",
-          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
-        },
-        {
-          "name": "Kay",
-          "url": "https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Right Round",
-      "url": "https://open.spotify.com/track/5JHCNnCSdJlxPIsTCxGdYJ"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "No Ego",
         "url": "https://open.spotify.com/album/1iKLcBxUQM0pYKM8LrP9Pv"
       },
@@ -467,22 +447,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Under the Influence: Holiday Edition",
-        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
       },
       "artists": [
         {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+          "name": "The Treblemakers",
+          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
         },
         {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB"
         }
       ],
-      "duration_ms": 160840,
-      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
-      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
+      "duration_ms": 196360,
+      "name": "Right Round",
+      "url": "https://open.spotify.com/track/5JHCNnCSdJlxPIsTCxGdYJ"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -515,6 +495,26 @@
       "duration_ms": 90653,
       "name": "Back To Basics - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/44xQqtGgjixgB0gnomttKX"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Under the Influence: Holiday Edition",
+        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        },
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        }
+      ],
+      "duration_ms": 160840,
+      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
+      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -637,6 +637,42 @@
       "url": "https://open.spotify.com/track/6d9F2YMOblua0s4DHc6h5X"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/5YlPDNMn5nCCBaI3YroCZN"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        },
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 214604,
+      "name": "Best Days (feat. Pentatonix)",
+      "url": "https://open.spotify.com/track/4njogTgUkTuKHWBiY9qUsB"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "PTX, Vol. 2",
+        "url": "https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Can't Hold Us",
+      "url": "https://open.spotify.com/track/00FaBIFXUfzaaVcsQmTTJY"
+    },
+    {
       "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
@@ -667,42 +703,6 @@
       "duration_ms": 213880,
       "name": "Rhythm of Love / Can't Help Falling in Love - EP Version",
       "url": "https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "PTX, Vol. 2",
-        "url": "https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Can't Hold Us",
-      "url": "https://open.spotify.com/track/00FaBIFXUfzaaVcsQmTTJY"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/5YlPDNMn5nCCBaI3YroCZN"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        },
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 214604,
-      "name": "Best Days (feat. Pentatonix)",
-      "url": "https://open.spotify.com/track/4njogTgUkTuKHWBiY9qUsB"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "Shut up and Dance",
+      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Peter Hollens",
         "url": "https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 240666,
       "name": "Call Me Maybe / What Makes You Beautiful",
       "url": "https://open.spotify.com/track/2qeGhGYTC0quepUOceljDH"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "The New Old Fashioned (Deluxe)",
-        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Shut up and Dance",
-      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -887,38 +887,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "House Rules",
-        "url": "https://open.spotify.com/album/526Wtq145uzbHhzGQKN57v"
-      },
-      "artists": [
-        {
-          "name": "The Clef Hangers",
-          "url": "https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO"
-        }
-      ],
-      "duration_ms": 246306,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/2R5YgpxcFEWGXM0HTAHDFJ"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Six Pack",
-        "url": "https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "I'm Yours / Somewhere over the Rainbow - EP Version",
-      "url": "https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Tongue Tied",
         "url": "https://open.spotify.com/album/36qmdetWLEU1ZLFMMrZtEP"
       },
@@ -951,18 +919,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Pand\u00e6monium",
-        "url": "https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b"
+        "name": "Six Pack",
+        "url": "https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj"
       },
       "artists": [
         {
-          "name": "Tufts Beelzebubs",
-          "url": "https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq"
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
         }
       ],
-      "duration_ms": 336693,
-      "name": "Come Sail Away",
-      "url": "https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90"
+      "duration_ms": 214893,
+      "name": "I'm Yours / Somewhere over the Rainbow - EP Version",
+      "url": "https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -983,18 +951,34 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "The New Old Fashioned (Deluxe)",
-        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+        "name": "House Rules",
+        "url": "https://open.spotify.com/album/526Wtq145uzbHhzGQKN57v"
       },
       "artists": [
         {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+          "name": "The Clef Hangers",
+          "url": "https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO"
         }
       ],
-      "duration_ms": 174720,
-      "name": "All About That Bass (No Tenors)",
-      "url": "https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7"
+      "duration_ms": 246306,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2R5YgpxcFEWGXM0HTAHDFJ"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Pand\u00e6monium",
+        "url": "https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b"
+      },
+      "artists": [
+        {
+          "name": "Tufts Beelzebubs",
+          "url": "https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq"
+        }
+      ],
+      "duration_ms": 336693,
+      "name": "Come Sail Away",
+      "url": "https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1011,6 +995,22 @@
       "duration_ms": 243958,
       "name": "Some Nights",
       "url": "https://open.spotify.com/track/6SJ7e6SzmytWXe8hWdPnTn"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "All About That Bass (No Tenors)",
+      "url": "https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7"
     }
   ],
   "unique_name": "All A Cappella",

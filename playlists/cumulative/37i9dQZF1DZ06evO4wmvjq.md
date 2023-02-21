@@ -4,7 +4,7 @@
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-138 songs - 19 hr 11 min
+139 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Chorale of the Blessed Day](https://open.spotify.com/track/4D7PdsN9vnlJTKVhg7m7dg) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 11:26 | 2022-05-29 | 2022-11-25 |
 | [Church of Anthrax](https://open.spotify.com/track/21UCyo72hcHcZnH0OZfhxm) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 9:05 | 2022-05-29 |  |
 | [Conversation with the Sirocco](https://open.spotify.com/track/4RFcJpJZt6NorK6jLAK2kM) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [No Man's Land](https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0) | 7:05 | 2023-02-12 | 2023-02-14 |
-| [Crucifixion Voices](https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 5:47 | 2022-05-29 |  |
+| [Crucifixion Voices](https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 5:47 | 2022-05-29 | 2023-02-21 |
 | [Delay](https://open.spotify.com/track/6OftP5FpB3hY91MHEixb7o) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 12:39 | 2022-05-29 | 2022-10-12 |
 | [Derveshum Carnivalis](https://open.spotify.com/track/7GimwMUtRDNZ90VEI5yDnq) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 3:09 | 2022-07-09 | 2022-08-28 |
 | [Descending Moonshine Dervishes](https://open.spotify.com/track/1xbNRIVkV4IaSxoHYSO4Vf) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8) | 51:48 | 2022-05-29 |  |
@@ -97,6 +97,7 @@
 | [Part VI \- Live 1974](https://open.spotify.com/track/7u1J53yzLPZfCesbi4UcoG) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 10:03 | 2022-10-12 | 2023-01-05 |
 | [Part VII \- Live 1974](https://open.spotify.com/track/0uq9fIUxNfEUxM5qa1zX8C) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 9:14 | 2022-10-12 | 2023-02-16 |
 | [Part VIII \- Live 1974](https://open.spotify.com/track/15scPBj0oF0GvorNBhPn93) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 5:36 | 2022-10-28 | 2022-12-21 |
+| [Peace Dance](https://open.spotify.com/track/1C9YNw12DCN9cGGJK6wXFr) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Lisbon Concert](https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI) | 5:49 | 2023-02-20 |  |
 | [Performance One \- Part 1](https://open.spotify.com/track/3dtqIffw4K0rtnRWP0NSUA) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Persian Surgery Dervishes](https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH) | 20:49 | 2022-05-29 |  |
 | [Poppy Nogood and the Phantom Band \- Instrumental](https://open.spotify.com/track/7yX6clhxwVHuKMNcCXAyB9) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Terry Riley: A Rainbow in Curved Air & Poppy Nogood and the Phantom Band](https://open.spotify.com/album/7tMM2MIBklhAtmmsgbQrAq) | 21:38 | 2022-05-29 |  |
 | [Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968](https://open.spotify.com/track/4dDdGh1VQTPYLm2bLl4M5m) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968](https://open.spotify.com/album/3cFjiTCXi7SYwyoEii2ERi) | 39:48 | 2022-05-29 | 2023-01-11 |

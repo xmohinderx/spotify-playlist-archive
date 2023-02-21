@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists. Cover: <a href=\u201chttps://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU?si=I6R9735GR3ip6As26zjzRg\u201d>Zolita</a>  ",
-  "num_followers": 34133,
+  "num_followers": 34155,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTgwNjYwNiwwMDAwMDAwMGQ3NjIzNTMzNmViZGEyZTFjNTIxNGM1ODc2MTQ1MDQ3",
+  "snapshot_id": "MTY3NTgwNjYwNiwwMDAwMDAwMDZlYzA5Mzk4NzNlMDE2Mzk5ZTI5NDU5ZGE4N2FlODgy",
   "tracks": [
     {
       "added_at": "2023-02-07 21:50:06",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-02-07 21:50:06",
       "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/1VegrzMvhwSOTupozMQnkj"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 207396,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/6rPR4M9uJHrYYJ9a1xLDjv"
+    },
+    {
+      "added_at": "2023-02-07 21:50:06",
+      "album": {
         "name": "Strays",
         "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 169186,
       "name": "Radio [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62"
-    },
-    {
-      "added_at": "2023-02-07 21:50:06",
-      "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/1VegrzMvhwSOTupozMQnkj"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 207396,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/6rPR4M9uJHrYYJ9a1xLDjv"
     },
     {
       "added_at": "2023-02-07 21:50:06",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-02-07 21:50:06",
       "album": {
-        "name": "ALERGICA",
-        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 185389,
-      "name": "ALERGICA",
-      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
-    },
-    {
-      "added_at": "2023-02-07 21:50:06",
-      "album": {
         "name": "no me gusta eso",
         "url": "https://open.spotify.com/album/3I4Zau33AWgPNJzit17Iz7"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 112108,
       "name": "no me gusta eso",
       "url": "https://open.spotify.com/track/1RSCXKXHzyO0okaJH093RZ"
+    },
+    {
+      "added_at": "2023-02-07 21:50:06",
+      "album": {
+        "name": "ALERGICA",
+        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 185389,
+      "name": "ALERGICA",
+      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
     },
     {
       "added_at": "2023-02-07 21:50:06",
@@ -971,6 +971,26 @@
     {
       "added_at": "2023-02-07 21:50:06",
       "album": {
+        "name": "Before The Gloss Up",
+        "url": "https://open.spotify.com/album/2jI8AvIGU33ArLL94xJRA1"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 138972,
+      "name": "Bestfrenn (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/4fxSegYEwj9e2L4PYbM4xK"
+    },
+    {
+      "added_at": "2023-02-07 21:50:06",
+      "album": {
         "name": "You Know Better",
         "url": "https://open.spotify.com/album/178itJAYZnT6YdJpbKrKyL"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 271106,
       "name": "Call Me Thomas",
       "url": "https://open.spotify.com/track/2xjUmMZdlDWYKFiAcXLrSB"
-    },
-    {
-      "added_at": "2023-02-07 21:50:06",
-      "album": {
-        "name": "Before The Gloss Up",
-        "url": "https://open.spotify.com/album/2jI8AvIGU33ArLL94xJRA1"
-      },
-      "artists": [
-        {
-          "name": "Gloss Up",
-          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 138972,
-      "name": "Bestfrenn (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/4fxSegYEwj9e2L4PYbM4xK"
     },
     {
       "added_at": "2023-02-07 21:50:06",

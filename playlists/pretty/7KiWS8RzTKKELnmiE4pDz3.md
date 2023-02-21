@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 370 songs - 16 hr 17 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 371 songs - 16 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -378,5 +378,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 368 | [Japanese](https://open.spotify.com/track/513o7X8X7oTxbEXT42b3yR) | [Izaya tiji](https://open.spotify.com/artist/7F0aK74lu2WpGH9TV6dep2) | [Japanese](https://open.spotify.com/album/2BkIskiW2Gda7UPIrFBOO3) | 2:03 |
 | 369 | [Real Niggas Don't Rap](https://open.spotify.com/track/0r6uD6Ay1jonQHID1HVlyZ) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 2:53 |
 | 370 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 |
+| 371 | [If It Means Anything!](https://open.spotify.com/track/5Y8mZp8WevMgxRqc2uyJsS) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [If It Means Anything!](https://open.spotify.com/album/37MZEYFZ622doZCLUxKVh4) | 2:09 |
 
-Snapshot ID: `NjkxMSw4MzVhMDBhMWQ5NGZlYzkzM2Y4Y2EwNzRhNGExY2QyNTZkNDdiMWRi`
+Snapshot ID: `NjkxMiw0ZmRhMmE0NmUwNGM0NjZmZTIzZDY0MWUyMjYyMTEzOGE0YzdmMDYw`

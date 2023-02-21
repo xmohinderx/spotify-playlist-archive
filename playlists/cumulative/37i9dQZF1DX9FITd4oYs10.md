@@ -4,7 +4,7 @@
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-209 songs - 15 hr 10 min
+210 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,8 @@
 | [Viagem na Rima](https://open.spotify.com/track/6kTKD3umM95JLKx0Cav9ht) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Tio Fresh](https://open.spotify.com/artist/23SmCku6hOjyv9bOjT5ciY), [Napoli](https://open.spotify.com/artist/2dmoEeUIY4LjDHp5SHLyeA), [Bomba](https://open.spotify.com/artist/6Blm2VgQs9owXcA4a9uFOd), [Max](https://open.spotify.com/artist/2Xqknl1Cz0COlRpV1CHDPP), [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Kamal](https://open.spotify.com/artist/0sHZgqFyHnBmb9u9BhHKvQ), [Akintech](https://open.spotify.com/artist/4cABqexCV1qfyke9rxTBaU), [Maionese](https://open.spotify.com/artist/4eqoanV48Nqv9yqB1aG4jA) | [Assim Caminha a Humanidade](https://open.spotify.com/album/5ssjmAqssuz7jxZd92EIJu) | 7:38 | 2022-03-25 | 2022-07-20 |
 | [Vida Loka, Pt\. 1](https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 5:03 | 2022-03-16 |  |
 | [Vida Longa, Mundo Pequeno](https://open.spotify.com/track/0Htb6RsCgs6hSamInL68eE) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Desorientado Sem Cortes](https://open.spotify.com/album/0uQYbXuii072z0tqM5tdq9) | 5:03 | 2022-03-16 | 2022-07-28 |
-| [Vida Longa, Mundo Pequeno](https://open.spotify.com/track/1ARpf6Tuivb4hnPzgy4tQY) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Desorientado Sem Cortes](https://open.spotify.com/album/66kMEjrEoIXIvERhjEj40q) | 5:03 | 2022-03-25 |  |
+| [Vida Longa, Mundo Pequeno](https://open.spotify.com/track/1ARpf6Tuivb4hnPzgy4tQY) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Desorientado Sem Cortes](https://open.spotify.com/album/66kMEjrEoIXIvERhjEj40q) | 5:03 | 2022-03-25 | 2023-02-21 |
+| [Vida Longa, Mundo Pequeno](https://open.spotify.com/track/2mZDpgyFfPYGZoS4gr7ku1) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Desorientado Sem Cortes](https://open.spotify.com/album/43dcRDmbqfUWdrrmUUl5G1) | 5:03 | 2022-12-20 |  |
 | [Vilã](https://open.spotify.com/track/6u7Z4HEvyBO8r0wWhgFEho) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Conteúdo Explícito, Pt\. 1](https://open.spotify.com/album/1WoPJwd3VWWp2BU0f8tFz3) | 3:18 | 2022-08-01 |  |
 | [Virou Canção](https://open.spotify.com/track/39YXWe0GmTzV93e6s3YgtK) | [Rodrigo Ogi](https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ), [Thiago França](https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O) | [R Á!](https://open.spotify.com/album/7Bk5l4wq2qttQyuR0RPX72) | 4:16 | 2022-03-25 | 2022-07-29 |
 | [Wallpaper](https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Wallpaper](https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V) | 3:11 | 2022-03-16 |  |

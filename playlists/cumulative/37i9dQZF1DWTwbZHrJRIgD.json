@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-30",
-  "description": "Let these happy tunes put a smile on your face. Cover - Kapoor & Sons",
+  "description": "Let these happy tunes put a smile on your face. Cover - Dear Zindagi",
   "name": "Happy Vibes ",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 254506,
       "name": "Aaj Kal Zindagi",
       "url": "https://open.spotify.com/track/4MnDLNhqL6HuSzFO4b4rvJ"
@@ -113,6 +113,28 @@
     },
     {
       "album": {
+        "name": "Bom Diggy - Single",
+        "url": "https://open.spotify.com/album/1v41NSZw0M9A9GxHRvPpn2"
+      },
+      "artists": [
+        {
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+        },
+        {
+          "name": "Jasmin Walia",
+          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207692,
+      "name": "Bom Diggy",
+      "url": "https://open.spotify.com/track/7Dhy1R9NmD96wfr7VJEN37"
+    },
+    {
+      "album": {
         "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
       },
@@ -180,7 +202,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 256232,
       "name": "Chaudhary",
       "url": "https://open.spotify.com/track/2oiiCDTm2kSITbLlyyNYF9"
@@ -327,6 +349,24 @@
     },
     {
       "album": {
+        "name": "Salaam-E-Ishq",
+        "url": "https://open.spotify.com/album/2AYTX7A8GfZrlVwRTdt3QZ"
+      },
+      "artists": [
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327880,
+      "name": "Dil Kya Kare",
+      "url": "https://open.spotify.com/track/648GXyKI62FhbeBq0levWr"
+    },
+    {
+      "album": {
         "name": "Dil Na Jaaneya (From \"Good Newwz\")",
         "url": "https://open.spotify.com/album/0pC6hbRSbTDIoDKk9aIPPR"
       },
@@ -346,10 +386,28 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 231136,
       "name": "Dil Na Jaaneya",
       "url": "https://open.spotify.com/track/6zyozkRLgDlqZIUJzCwkgP"
+    },
+    {
+      "album": {
+        "name": "Ra-One",
+        "url": "https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy"
+      },
+      "artists": [
+        {
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249660,
+      "name": "Dildaara (Stand By Me)",
+      "url": "https://open.spotify.com/track/6ZoCBDOB308GqUdt2AJrV2"
     },
     {
       "album": {
@@ -372,6 +430,40 @@
       "duration_ms": 170088,
       "name": "Ek Zindagi (From \"Angrezi Medium\")",
       "url": "https://open.spotify.com/track/6shPaz0rzOAGatiY6X6zLQ"
+    },
+    {
+      "album": {
+        "name": "Dil Dhadakne Do",
+        "url": "https://open.spotify.com/album/0ZRVDoVuEiOxJLVTSpNFk6"
+      },
+      "artists": [
+        {
+          "name": "Yashita Sharma",
+          "url": "https://open.spotify.com/artist/6pgJBbF3h8R4XlwetvZ9J3"
+        },
+        {
+          "name": "Manish Kumar Tipu",
+          "url": "https://open.spotify.com/artist/2LtSNhjLF0YPtPeC66Bd0f"
+        },
+        {
+          "name": "Farhan Akhtar",
+          "url": "https://open.spotify.com/artist/0XL6ie7a0NY5FM05b9Rn5L"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296500,
+      "name": "Gallan Goodiyaan",
+      "url": "https://open.spotify.com/track/7hNYvX0qAKrxtVr1jGDmvR"
     },
     {
       "album": {
@@ -479,6 +571,54 @@
     },
     {
       "album": {
+        "name": "Halka Halka (From \"Fanney Khan\")",
+        "url": "https://open.spotify.com/album/58sXAhNuvqeQK02UiIh7de"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247381,
+      "name": "Halka Halka (From \"Fanney Khan\")",
+      "url": "https://open.spotify.com/track/44O26Gv1wQrlUj14PpTolM"
+    },
+    {
+      "album": {
+        "name": "Anjaana Anjaani",
+        "url": "https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317505,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/09sq0BHe85uV2ADUx1gaiA"
+    },
+    {
+      "album": {
         "name": "Zindagi Na Milegi Dobara",
         "url": "https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24"
       },
@@ -545,6 +685,28 @@
     },
     {
       "album": {
+        "name": "Dostana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4MzefJUmigFTnjful2wuum"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277986,
+      "name": "Jaane Kyun",
+      "url": "https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx"
+    },
+    {
+      "album": {
         "name": "Best of Me Vishal Shekhar",
         "url": "https://open.spotify.com/album/6uxRlKbjePj7hvCiHV5y3k"
       },
@@ -560,7 +722,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 277986,
       "name": "Jaane Kyun (From \"Dostana\")",
       "url": "https://open.spotify.com/track/4w90JoFrkoYfxe4S8DWD7T"
@@ -634,6 +796,24 @@
       "duration_ms": 222054,
       "name": "Jehda Nasha (From \"An Action Hero\")",
       "url": "https://open.spotify.com/track/45C7tXCrmp3R5E65XUtLLj"
+    },
+    {
+      "album": {
+        "name": "Jhoom",
+        "url": "https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298986,
+      "name": "Jhoom - R&B Mix",
+      "url": "https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO"
     },
     {
       "album": {
@@ -738,7 +918,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 246741,
       "name": "Khulke Jeene Ka",
       "url": "https://open.spotify.com/track/1XFZMenJ30FfGOsj8X5sqf"
@@ -756,7 +936,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 179333,
       "name": "Kismat",
       "url": "https://open.spotify.com/track/4ayiP1wbII3kw0Ru6TP8rJ"
@@ -782,6 +962,36 @@
       "duration_ms": 172381,
       "name": "Kudi Nu Nachne De (From \"Angrezi Medium\")",
       "url": "https://open.spotify.com/track/4YIhJmihoXwjtbY4vsV9Nh"
+    },
+    {
+      "album": {
+        "name": "Wake Up Sid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Clinton Cerejo",
+          "url": "https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK"
+        },
+        {
+          "name": "Dominique Cerejo",
+          "url": "https://open.spotify.com/artist/2DwWEmeVaWxwkjbnyPlNZT"
+        },
+        {
+          "name": "Loy Mendonsa",
+          "url": "https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "Kya Karoon?",
+      "url": "https://open.spotify.com/track/4Yp8zw7b35bheMVTp39o5O"
     },
     {
       "album": {
@@ -895,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/4K4NopAmxp3YcObr8Pewqc"
+      },
+      "artists": [
+        {
+          "name": "Faakhir",
+          "url": "https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284600,
+      "name": "Mahi Ve",
+      "url": "https://open.spotify.com/track/4tKCjAC5dojOLYQ1FPdXSI"
+    },
+    {
+      "album": {
         "name": "Malang Sajna",
         "url": "https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf"
       },
@@ -940,7 +1168,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 195008,
       "name": "Maskhari",
       "url": "https://open.spotify.com/track/3AeOPuf7VfwUsxeQNN9Vsv"
@@ -995,6 +1223,32 @@
     },
     {
       "album": {
+        "name": "Happy Ending (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7rQN7PzgnjfUPRz9ATLbg6"
+      },
+      "artists": [
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        },
+        {
+          "name": "Jigar Saraiya",
+          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
+        },
+        {
+          "name": "Priya Andrews",
+          "url": "https://open.spotify.com/artist/27RvbKA1WxAFTWwQc712tY"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266278,
+      "name": "Mileya Mileya (From \"Happy Ending)",
+      "url": "https://open.spotify.com/track/2KpxQeRbF8ei9u1BeAOdBL"
+    },
+    {
+      "album": {
         "name": "Muqabla (From \"Street Dancer 3D\")",
         "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
       },
@@ -1014,7 +1268,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 176125,
       "name": "Muqabla (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
@@ -1109,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Andhadhun",
+        "url": "https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210951,
+      "name": "Naina Da Kya Kasoor",
+      "url": "https://open.spotify.com/track/4JQxGJ8jsKW8pOUVoAgOZr"
+    },
+    {
+      "album": {
         "name": "P PAA K",
         "url": "https://open.spotify.com/album/1Kcckfo4mH7wwa6bEqdyZF"
       },
@@ -1190,7 +1462,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 241266,
       "name": "Phisal Jaa Tu",
       "url": "https://open.spotify.com/track/7ltVdvJOYUMhasCmdVcU3Y"
@@ -1238,7 +1510,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 285000,
       "name": "Rasiya Reprise",
       "url": "https://open.spotify.com/track/3f9dNrQR4stx9CCfpqZVSf"
@@ -1452,7 +1724,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 169404,
       "name": "Sun Maahi",
       "url": "https://open.spotify.com/track/0tE3kaT3c9tjSiOqZJnM1X"
@@ -1482,7 +1754,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 215498,
       "name": "Sun Zara (From \"Cirkus\")",
       "url": "https://open.spotify.com/track/6lBUJpovAhtc7WqhDNiLtX"
@@ -1606,7 +1878,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 161771,
       "name": "Theher Ja",
       "url": "https://open.spotify.com/track/00juIvfvPtZ0CfAMwEkHaV"
@@ -1676,7 +1948,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 180413,
       "name": "Udd Gaye",
       "url": "https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW"
@@ -1805,6 +2077,46 @@
     },
     {
       "album": {
+        "name": "Wakhra Swag (feat. Badshah) - Single",
+        "url": "https://open.spotify.com/album/0hVHgld8E6E3pPln8axeCu"
+      },
+      "artists": [
+        {
+          "name": "Navv Inder",
+          "url": "https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Wakhra Swag (feat. Badshah)",
+      "url": "https://open.spotify.com/track/5WoIz3RtJAsdiDCHzOjo0c"
+    },
+    {
+      "album": {
+        "name": "WISH",
+        "url": "https://open.spotify.com/album/4LtCGskxAIDOTN5pO3fXhN"
+      },
+      "artists": [
+        {
+          "name": "Charan",
+          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137610,
+      "name": "WISH",
+      "url": "https://open.spotify.com/track/3uI3yhLUcAuGkRVQ8MvubB"
+    },
+    {
+      "album": {
         "name": "Woh Din (From \"Chhichhore\")",
         "url": "https://open.spotify.com/album/6AO0pgr8j2uk3fQUmXR8lF"
       },
@@ -1838,7 +2150,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 221022,
       "name": "Yaara",
       "url": "https://open.spotify.com/track/0TVBV9UbyZWxELfzkCBLSP"

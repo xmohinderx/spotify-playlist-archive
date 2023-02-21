@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene. Cover: Lucy from Cyberpunk: Edgerunners",
-  "num_followers": 377946,
+  "num_followers": 379286,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY2NTA4MCwwMDAwMDAwMDc1ZDFlMzQ1NzVkMjI2NDZhZTY1N2E0MjdlM2ZiZWFh",
+  "snapshot_id": "MTY3NjY2NTA4MCwwMDAwMDAwMDU1NWVmYjFiYWRmNThiNThkYmY3NDk5NGU1ZTVlNzg0",
   "tracks": [
     {
       "added_at": "2022-11-29 21:06:35",
@@ -197,6 +197,22 @@
       "url": "https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a"
     },
     {
+      "added_at": "2023-02-17 20:18:00",
+      "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 264473,
+      "name": "HOPE",
+      "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
+    },
+    {
       "added_at": "2022-11-10 18:57:08",
       "album": {
         "name": "Now the Moon's Rising",
@@ -211,22 +227,6 @@
       "duration_ms": 111020,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
-        "name": "Rotten",
-        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 139440,
-      "name": "HDMI",
-      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-11-10 18:57:08",
       "album": {
+        "name": "Rotten",
+        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 139440,
+      "name": "HDMI",
+      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
         "name": "Lyf\u00eb",
         "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 174857,
       "name": "Talk",
       "url": "https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
-        "name": "\u6b8b\u97ff\u6563\u6b4c",
-        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "\u6b8b\u97ff\u6563\u6b4c",
-      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
     },
     {
       "added_at": "2023-02-17 20:18:00",
@@ -293,52 +293,20 @@
       "url": "https://open.spotify.com/track/5QfWgphE9zrEW3oeyKnQlG"
     },
     {
-      "added_at": "2023-02-17 20:18:00",
-      "album": {
-        "name": "HOPE",
-        "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 264473,
-      "name": "HOPE",
-      "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
-    },
-    {
       "added_at": "2022-11-10 18:57:08",
       "album": {
-        "name": "IFeelLikeDirt",
-        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
+        "name": "\u6b8b\u97ff\u6563\u6b4c",
+        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
       },
       "artists": [
         {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 75428,
-      "name": "AirplaneMode",
-      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
-        "name": "By the Sword",
-        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
-      },
-      "artists": [
-        {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
-        }
-      ],
-      "duration_ms": 125812,
-      "name": "By the Sword",
-      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
+      "duration_ms": 184893,
+      "name": "\u6b8b\u97ff\u6563\u6b4c",
+      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
     },
     {
       "added_at": "2022-11-21 21:34:18",
@@ -355,6 +323,22 @@
       "duration_ms": 141007,
       "name": "af1",
       "url": "https://open.spotify.com/track/14piiV64kkkkPPKKcb8I9d"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
+        "name": "By the Sword",
+        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "duration_ms": 125812,
+      "name": "By the Sword",
+      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -419,6 +403,22 @@
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
+        "name": "IFeelLikeDirt",
+        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 75428,
+      "name": "AirplaneMode",
+      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -515,26 +515,6 @@
     {
       "added_at": "2022-11-10 18:57:08",
       "album": {
-        "name": "HOT DEMON B!TCHES NEAR U ! ! !",
-        "url": "https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "HOT DEMON B!TCHES NEAR U ! ! !",
-      "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
         "name": "Fantastic Magic",
         "url": "https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb"
       },
@@ -597,6 +577,26 @@
       "url": "https://open.spotify.com/track/0YGRqKKDhomTOp246LT11G"
     },
     {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
+        "name": "HOT DEMON B!TCHES NEAR U ! ! !",
+        "url": "https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "HOT DEMON B!TCHES NEAR U ! ! !",
+      "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
+    },
+    {
       "added_at": "2023-01-12 19:47:03",
       "album": {
         "name": "LA ESPADA",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-11-10 18:57:08",
       "album": {
-        "name": "This fffire",
-        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 218080,
-      "name": "This fffire - New Version",
-      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2022-11-10 18:57:08",
       "album": {
+        "name": "This fffire",
+        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "This fffire - New Version",
+      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
         "name": "BodyPartz",
         "url": "https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 79129,
       "name": "BodyPartz",
       "url": "https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
-        "name": "Corrupted",
-        "url": "https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS"
-      },
-      "artists": [
-        {
-          "name": "OmenXIII",
-          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
-        }
-      ],
-      "duration_ms": 134451,
-      "name": "LED",
-      "url": "https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -739,6 +723,22 @@
       "duration_ms": 166896,
       "name": "Bunny Girl",
       "url": "https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
+        "name": "Corrupted",
+        "url": "https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS"
+      },
+      "artists": [
+        {
+          "name": "OmenXIII",
+          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
+        }
+      ],
+      "duration_ms": 134451,
+      "name": "LED",
+      "url": "https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-11-10 18:57:08",
       "album": {
-        "name": "Princess Bubblegum",
-        "url": "https://open.spotify.com/album/3pb0Q6sH9ZhxjOKvSVP5bE"
-      },
-      "artists": [
-        {
-          "name": "ilyTOMMY",
-          "url": "https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb"
-        }
-      ],
-      "duration_ms": 95708,
-      "name": "Princess Bubblegum",
-      "url": "https://open.spotify.com/track/2O9KgUsmuon6Gycdmagc6t"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
         "name": "I'm Only a Fool for You",
         "url": "https://open.spotify.com/album/5FCGsaqNKaYRPkqGCLcefN"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 61175,
       "name": "I'm Only a Fool for You",
       "url": "https://open.spotify.com/track/5yfnAsPrvrjiLOhWFycNP4"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
+        "name": "Princess Bubblegum",
+        "url": "https://open.spotify.com/album/3pb0Q6sH9ZhxjOKvSVP5bE"
+      },
+      "artists": [
+        {
+          "name": "ilyTOMMY",
+          "url": "https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb"
+        }
+      ],
+      "duration_ms": 95708,
+      "name": "Princess Bubblegum",
+      "url": "https://open.spotify.com/track/2O9KgUsmuon6Gycdmagc6t"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-11-10 18:57:08",
       "album": {
-        "name": "MUKANJYO",
-        "url": "https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh"
-      },
-      "artists": [
-        {
-          "name": "Survive Said The Prophet",
-          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "MUKANJYO",
-      "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
         "name": "She Bad",
         "url": "https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 105534,
       "name": "She Bad",
       "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
+        "name": "MUKANJYO",
+        "url": "https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "MUKANJYO",
+      "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -1105,62 +1105,6 @@
       "url": "https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW"
     },
     {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
-        "name": "Red Teenage Melody",
-        "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 271413,
-      "name": "Still Cold / Pathway Private",
-      "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
-    },
-    {
-      "added_at": "2022-11-21 16:24:34",
-      "album": {
-        "name": "Diamond Drift",
-        "url": "https://open.spotify.com/album/5VyIU7SbhV84fyOYsIT8KD"
-      },
-      "artists": [
-        {
-          "name": "XANAKIN SKYWOK",
-          "url": "https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3"
-        },
-        {
-          "name": "ssjishmael",
-          "url": "https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC"
-        },
-        {
-          "name": "gelowler",
-          "url": "https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO"
-        }
-      ],
-      "duration_ms": 120435,
-      "name": "Diamond Drift",
-      "url": "https://open.spotify.com/track/39JwMiZTMfb9tMRBZl7wxA"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
-        "name": "Zoom!",
-        "url": "https://open.spotify.com/album/10WMv6j9OpkTHVafzM3JSx"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 127741,
-      "name": "Zoom!",
-      "url": "https://open.spotify.com/track/1Vv93qCC50ckZdeXh7Etln"
-    },
-    {
       "added_at": "2023-01-12 19:45:08",
       "album": {
         "name": "CAROLINE",
@@ -1191,6 +1135,62 @@
       "duration_ms": 118093,
       "name": "Cyberfreak",
       "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
+    },
+    {
+      "added_at": "2022-11-21 16:24:34",
+      "album": {
+        "name": "Diamond Drift",
+        "url": "https://open.spotify.com/album/5VyIU7SbhV84fyOYsIT8KD"
+      },
+      "artists": [
+        {
+          "name": "XANAKIN SKYWOK",
+          "url": "https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3"
+        },
+        {
+          "name": "ssjishmael",
+          "url": "https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC"
+        },
+        {
+          "name": "gelowler",
+          "url": "https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO"
+        }
+      ],
+      "duration_ms": 120435,
+      "name": "Diamond Drift",
+      "url": "https://open.spotify.com/track/39JwMiZTMfb9tMRBZl7wxA"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
+        "name": "Red Teenage Melody",
+        "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 271413,
+      "name": "Still Cold / Pathway Private",
+      "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
+        "name": "Zoom!",
+        "url": "https://open.spotify.com/album/10WMv6j9OpkTHVafzM3JSx"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "Zoom!",
+      "url": "https://open.spotify.com/track/1Vv93qCC50ckZdeXh7Etln"
     },
     {
       "added_at": "2022-11-10 18:57:08",

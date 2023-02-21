@@ -4,7 +4,7 @@
 
 > Early blues standards and classics
 
-76 songs - 3 hr 47 min
+77 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Boogie Chillen](https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:09 | 2018-03-28 |  |
 | [Boogie Chillen](https://open.spotify.com/track/0sPES3zMG5FaGO8sNmmsu2) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/3VZo6Z4zqLnODmtIqmVemL) | 3:10 | 2018-03-28 | 2022-07-29 |
 | [Call It Stormy Monday \(But Tuesday Is Just As Bad\)](https://open.spotify.com/track/2N3ppRkdOeZ75RwEqSz7nu) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Capitol / Black & White Recordings](https://open.spotify.com/album/2HtbNXkeoKEuCyBImiyb2c) | 3:03 | 2018-03-28 | 2022-07-29 |
-| [Call It Stormy Monday But Tuesday Is Just As Bad](https://open.spotify.com/track/53zNJpvUZ7DsHkgFedfhfD) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Capitol / Black & White Recordings](https://open.spotify.com/album/6WgNm0qYlz2yLyH2zk93Ur) | 3:03 | 2018-03-28 |  |
+| [Call It Stormy Monday But Tuesday Is Just As Bad](https://open.spotify.com/track/53zNJpvUZ7DsHkgFedfhfD) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Capitol / Black & White Recordings](https://open.spotify.com/album/6WgNm0qYlz2yLyH2zk93Ur) | 3:03 | 2018-03-28 | 2023-02-21 |
+| [Call It Stormy Monday But Tuesday Is Just As Bad](https://open.spotify.com/track/7uMiAVsZy9Iash5gPsoTxe) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Classics In Jazz \(Expanded Edition\)](https://open.spotify.com/album/47CNQ2a7dqBAxxC2nFnueW) | 3:03 | 2018-03-28 |  |
 | [Call It Stormy Monday But Tuesday Is Just As Bad \- Single Version](https://open.spotify.com/track/2Q0rtxNzQaZM7CMS0MizMJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Chicago Blues Hits](https://open.spotify.com/album/5Yzku2Zgi5y2jbXExeTkYN) | 3:02 | 2018-03-28 | 2022-11-13 |
 | [Catfish Blues](https://open.spotify.com/track/7A9yfYiBXLEvKn1oJy3nPL) | [Robert Petway](https://open.spotify.com/artist/0zNSuwnNWdr8g5EmE0YWKx) | [Mississippi Blues Vol\. 3 "Catfish Blues"](https://open.spotify.com/album/4LjUYP4RO0OcX7f6lUVerz) | 2:54 | 2018-03-28 |  |
 | [Come Back Baby](https://open.spotify.com/track/061qVrfyTW07DCB9B4BBmI) | [Doctor Ross](https://open.spotify.com/artist/59gZhkxiZ8x4umU9ua2ZBn) | [Come Back Baby / Chicago Breakdown](https://open.spotify.com/album/14WqCYoHNfJBr2GCdsees3) | 2:47 | 2021-10-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 843214,
+  "num_followers": 843506,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk3MDIzNCwwMDAwMDAwMGM0NDhjOGYxYTBiYmQyMmNkNjFjMGQ5Nzg2MzcxYTM4",
+  "snapshot_id": "MTY3NTk3MDIzNCwwMDAwMDAwMDU5MGY0ODY2YWMzNWI2YWYzMGEyYmIyMDQ3YzA2OTc3",
   "tracks": [
     {
       "added_at": "2023-02-09 19:17:14",
@@ -219,6 +219,26 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 310553,
+      "name": "Mariella",
+      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Get A Good Look",
         "url": "https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD"
       },
@@ -249,24 +269,20 @@
       "url": "https://open.spotify.com/track/6cSkQRxoJt6FHGrWVIGDTJ"
     },
     {
-      "added_at": "2022-10-24 21:28:36",
+      "added_at": "2023-01-27 22:29:52",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "Let\u2019s Start Here.",
+        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 310553,
-      "name": "Mariella",
-      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+      "duration_ms": 358341,
+      "name": "REACH THE SUNSHINE.",
+      "url": "https://open.spotify.com/track/0t8YVhiyInlDW9cHtMGhJg"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -283,22 +299,6 @@
       "duration_ms": 201706,
       "name": "Shuggie",
       "url": "https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb"
-    },
-    {
-      "added_at": "2023-01-27 22:29:52",
-      "album": {
-        "name": "Let\u2019s Start Here.",
-        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 358341,
-      "name": "REACH THE SUNSHINE.",
-      "url": "https://open.spotify.com/track/0t8YVhiyInlDW9cHtMGhJg"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -479,6 +479,26 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Tongo Barra",
+        "url": "https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 333150,
+      "name": "Tongo Barra",
+      "url": "https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Hi-Fidelity",
         "url": "https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t"
       },
@@ -499,42 +519,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Tongo Barra",
-        "url": "https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN"
-      },
-      "artists": [
-        {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 333150,
-      "name": "Tongo Barra",
-      "url": "https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Soul Smile",
-        "url": "https://open.spotify.com/album/0sRQ2kEsxMeeJ5v9cNUn2N"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "Soul Smile",
-      "url": "https://open.spotify.com/track/2OjiYv6QfrMqQ8uQWrRknk"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Unfold",
         "url": "https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD"
       },
@@ -547,38 +531,6 @@
       "duration_ms": 90127,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 270945,
-      "name": "Thin Thing",
-      "url": "https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Shy",
-        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 201697,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -599,6 +551,54 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 201697,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Soul Smile",
+        "url": "https://open.spotify.com/album/0sRQ2kEsxMeeJ5v9cNUn2N"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 249266,
+      "name": "Soul Smile",
+      "url": "https://open.spotify.com/track/2OjiYv6QfrMqQ8uQWrRknk"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 270945,
+      "name": "Thin Thing",
+      "url": "https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "LUNO",
-        "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "Set it on Fire",
-      "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 199440,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "LUNO",
+        "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "Set it on Fire",
+      "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Lean Into Life",
-        "url": "https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ"
-      },
-      "artists": [
-        {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
-        }
-      ],
-      "duration_ms": 276453,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5vZWYzEZ14cPcsdAXezdQY"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Being No One, Going Nowhere",
         "url": "https://open.spotify.com/album/1FRsXJ2MoqDQ9yiR967J9z"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 276413,
       "name": "Maps",
       "url": "https://open.spotify.com/track/1Wd958ULta05i5gENNxY5c"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Lean Into Life",
+        "url": "https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "duration_ms": 276453,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5vZWYzEZ14cPcsdAXezdQY"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/6TDpf5z03JinsQV3wJGhNu"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Gamma Rays",
-        "url": "https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 260346,
-      "name": "Gamma Rays",
-      "url": "https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM"
-    },
-    {
       "added_at": "2022-12-09 05:09:00",
       "album": {
         "name": "Let It Pass",
@@ -1221,20 +1205,20 @@
       "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
     },
     {
-      "added_at": "2022-10-24 21:28:36",
+      "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN"
+        "name": "Gamma Rays",
+        "url": "https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3"
       },
       "artists": [
         {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
         }
       ],
-      "duration_ms": 242504,
-      "name": "Liberty Bell",
-      "url": "https://open.spotify.com/track/62CfP87tk9IHEMfAI087tu"
+      "duration_ms": 260346,
+      "name": "Gamma Rays",
+      "url": "https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1255,6 +1239,38 @@
       "duration_ms": 222893,
       "name": "Disco Cosmos",
       "url": "https://open.spotify.com/track/3xN6elAScxDFsN2EQu76K2"
+    },
+    {
+      "added_at": "2023-02-09 19:17:14",
+      "album": {
+        "name": "Konami",
+        "url": "https://open.spotify.com/album/5Jp2HWoJEBkYtNuZXFE1pB"
+      },
+      "artists": [
+        {
+          "name": "Pearl & The Oysters",
+          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
+        }
+      ],
+      "duration_ms": 168786,
+      "name": "Konami",
+      "url": "https://open.spotify.com/track/4CJ4WBeEZZVFulKVS6zmqz"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 242504,
+      "name": "Liberty Bell",
+      "url": "https://open.spotify.com/track/62CfP87tk9IHEMfAI087tu"
     },
     {
       "added_at": "2022-11-10 18:56:35",
@@ -1289,22 +1305,6 @@
       "url": "https://open.spotify.com/track/1cQvQwl6KNmXQuD69ytYX1"
     },
     {
-      "added_at": "2023-02-09 19:17:14",
-      "album": {
-        "name": "Konami",
-        "url": "https://open.spotify.com/album/5Jp2HWoJEBkYtNuZXFE1pB"
-      },
-      "artists": [
-        {
-          "name": "Pearl & The Oysters",
-          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
-        }
-      ],
-      "duration_ms": 168786,
-      "name": "Konami",
-      "url": "https://open.spotify.com/track/4CJ4WBeEZZVFulKVS6zmqz"
-    },
-    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "everything's worth it",
@@ -1319,22 +1319,6 @@
       "duration_ms": 275925,
       "name": "everything's worth it",
       "url": "https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Sun Structures (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4fN8Wj4c4nrXj6kogr6zgl"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 190558,
-      "name": "Shelter Song",
-      "url": "https://open.spotify.com/track/2nDkHJPY0vpydGiiDABaS6"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1371,6 +1355,22 @@
       "duration_ms": 204688,
       "name": "magic wand",
       "url": "https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Sun Structures (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4fN8Wj4c4nrXj6kogr6zgl"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "duration_ms": 190558,
+      "name": "Shelter Song",
+      "url": "https://open.spotify.com/track/2nDkHJPY0vpydGiiDABaS6"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1421,22 +1421,6 @@
       "url": "https://open.spotify.com/track/637Dhg7cBf6ODFeY2wjF5Z"
     },
     {
-      "added_at": "2023-01-06 06:05:00",
-      "album": {
-        "name": "innerdialogue",
-        "url": "https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde"
-      },
-      "artists": [
-        {
-          "name": "caaaaseyyyy",
-          "url": "https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c"
-        }
-      ],
-      "duration_ms": 296151,
-      "name": "feelings",
-      "url": "https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv"
-    },
-    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "Optical Wealth + Fox in a Hole",
@@ -1451,6 +1435,22 @@
       "duration_ms": 181521,
       "name": "Optical Wealth",
       "url": "https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU"
+    },
+    {
+      "added_at": "2023-01-06 06:05:00",
+      "album": {
+        "name": "innerdialogue",
+        "url": "https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde"
+      },
+      "artists": [
+        {
+          "name": "caaaaseyyyy",
+          "url": "https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c"
+        }
+      ],
+      "duration_ms": 296151,
+      "name": "feelings",
+      "url": "https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Do U Mind? (Leave the Light On)",
-        "url": "https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi"
-      },
-      "artists": [
-        {
-          "name": "Fleece",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-        }
-      ],
-      "duration_ms": 222928,
-      "name": "Do U Mind? (Leave the Light On)",
-      "url": "https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Everlasting",
         "url": "https://open.spotify.com/album/1p0B0yZhc04KInnikui2gQ"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 200109,
       "name": "New Humanity",
       "url": "https://open.spotify.com/track/1OZya8zUz1XPYIrFmHbYTe"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Do U Mind? (Leave the Light On)",
+        "url": "https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi"
+      },
+      "artists": [
+        {
+          "name": "Fleece",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "duration_ms": 222928,
+      "name": "Do U Mind? (Leave the Light On)",
+      "url": "https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/3uwDwUlkHehAnlcza9gNBD"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        }
+      ],
+      "duration_ms": 248084,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/3ugfgZApxipgmFMaSZoYIe"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "VISUALS (DELUXE)",
         "url": "https://open.spotify.com/album/1uV3CJwt4iG0IVIYFWt7OZ"
       },
@@ -1621,22 +1637,6 @@
       "url": "https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J"
     },
     {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/3uwDwUlkHehAnlcza9gNBD"
-      },
-      "artists": [
-        {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        }
-      ],
-      "duration_ms": 248084,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/3ugfgZApxipgmFMaSZoYIe"
-    },
-    {
       "added_at": "2022-12-16 05:09:00",
       "album": {
         "name": "Dreaming Eyes",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Sticky Thumb",
+        "url": "https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Oidar",
+      "url": "https://open.spotify.com/track/6FfbKN3PDxHJMsdr7DX7wh"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Rolling Stone",
         "url": "https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 169583,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/61OCdmC6ntHNsoSckGbAkF"
-      },
-      "artists": [
-        {
-          "name": "KALI",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
-        }
-      ],
-      "duration_ms": 292066,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720"
     }
   ],
   "unique_name": "Modern Psychedelia",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3BBOHHtAWM7qqVZE1JDd0Y.md) - [plain]
 
 > Current favourites updated by Matt  :\) <a href="http://facebook.com/kidnapkid">Facebook</a> // <a href="https://twitter.com/kidnapkid">Twitter</a> // <a href="https://www.instagram.com/kidnapmusic/">Instagram</a>
 
-[kidnapkid](https://open.spotify.com/user/kidnapkid) - 2,202 likes - 133 songs - 11 hr 58 min
+[kidnapkid](https://open.spotify.com/user/kidnapkid) - 2,203 likes - 133 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

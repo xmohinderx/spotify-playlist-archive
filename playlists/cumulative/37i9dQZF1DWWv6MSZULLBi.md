@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Aisha Badru
 
-318 songs - 19 hr 3 min
+319 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [Orlando](https://open.spotify.com/track/5eqNWg31aG8wKNbpJxCpCg) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Orlando](https://open.spotify.com/album/2bUlcn67avN5E46GifoXYl) | 4:35 | 2022-11-11 |  |
 | [Other Rivers](https://open.spotify.com/track/1Y2Oah15zszzFVtCw0seA3) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Light the Candle, Hold the Mirror](https://open.spotify.com/album/2Z3mENqN7BRKOp8VGJyvwz) | 3:47 | 2022-10-21 | 2022-12-10 |
 | [Out of Body](https://open.spotify.com/track/7jMnEpPgvHmFBdLuDnQqVl) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Out of Body](https://open.spotify.com/album/777GvXKChmKi4NWTLyis2O) | 1:54 | 2023-01-27 |  |
-| [Papa Took My Totems](https://open.spotify.com/track/4dcPjXDvCorS2oDU9dJTmf) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Papa Took My Totems](https://open.spotify.com/album/5G2hqoYnvFfqDcpvgxcHIr) | 2:25 | 2023-01-27 |  |
+| [Papa Took My Totems](https://open.spotify.com/track/1uAQFfcaXVy7OxOk4Q2Mr7) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:25 | 2023-02-17 |  |
+| [Papa Took My Totems](https://open.spotify.com/track/4dcPjXDvCorS2oDU9dJTmf) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Papa Took My Totems](https://open.spotify.com/album/5G2hqoYnvFfqDcpvgxcHIr) | 2:25 | 2023-01-27 | 2023-02-21 |
 | [Paper Moth Flame](https://open.spotify.com/track/7Hi5HKcidYR1EdqIKLnVq1) | [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Paper Moth Flame](https://open.spotify.com/album/0RnFXtW6Xaz4S6AQSdmdaZ) | 3:30 | 2022-07-01 | 2022-07-30 |
 | [Part of Me](https://open.spotify.com/track/2Ru68Iv4ZT40sjxPB2XuSb) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Part of Me](https://open.spotify.com/album/67U9k8R3snre8EAnLbt7o0) | 3:43 | 2022-05-13 | 2022-07-29 |
 | [Part of Me](https://open.spotify.com/track/6yHqOUZB0NzzL2prJQmZdB) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [A Pillar of Salt \(Deluxe\)](https://open.spotify.com/album/7pEhrrMcqjsQRLImLZNhCC) | 3:43 | 2022-07-22 | 2022-10-01 |

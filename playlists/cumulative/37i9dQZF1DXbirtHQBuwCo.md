@@ -4,7 +4,7 @@
 
 > Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: JUNNY w/ SOULBYSEL\)
 
-526 songs - 1 day 4 hr 27 min
+527 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 | 2022-07-24 | 2022-09-06 |
 | [Back Against The Wall \(feat\. Kvsh\)](https://open.spotify.com/track/0Qk9zm15Djca5RKNt3y7iu) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Back Against The Wall](https://open.spotify.com/album/3Q2Ma8GBxQLguoc5gxmvk4) | 2:44 | 2022-10-29 | 2022-11-10 |
 | [Bad Rain \(Feat\. SUMIN\)](https://open.spotify.com/track/2uFxjq8W6lbVNJDg0EoRgd) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Bad Rain \(Feat\. SUMIN\)](https://open.spotify.com/album/0DuMzsjufFCk6yHUMnMgxz) | 3:47 | 2022-06-03 | 2022-06-19 |
+| [Bad words](https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Housekeepers](https://open.spotify.com/artist/5fYEzAUia8jENJDyp6xidr) | [Bad words with KozyPop](https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa) | 3:17 | 2023-02-20 |  |
 | [bag on you](https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [bag on you](https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg) | 2:24 | 2022-06-23 | 2022-07-10 |
 | [Ballroom Extravaganza](https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:09 | 2022-07-29 |  |
 | [Bambi](https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:33 | 2022-04-19 |  |
@@ -174,7 +175,7 @@
 | [FAME \(feat\. JUNNY\) \- Prod\. GroovyRoom](https://open.spotify.com/track/4LioQ7DultfEM3SZmnX0sw) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 2:23 | 2022-04-22 | 2022-07-12 |
 | [Fantasy](https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [Fantasy](https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS) | 2:48 | 2023-02-14 |  |
 | [Feel this breeze \(with JoeSwan\)](https://open.spotify.com/track/0gKLv0j8udm3xIRDNrkLF8) | [Sunmin](https://open.spotify.com/artist/3tSqvuC6jIIo8rmiurd6ny), [Cho Hyung Woo](https://open.spotify.com/artist/2mJ89mSNpPIw2zX7LS4VEU), [JoeSwan](https://open.spotify.com/artist/6QjcEmJSVAOSR8cqfSaZFt) | [Feel this breeze \(with JoeSwan\)](https://open.spotify.com/album/29BiVBoVV6U8PuoOzFVPHA) | 2:50 | 2022-05-02 | 2022-06-24 |
-| [fever \(Feat\. hartts\)](https://open.spotify.com/track/5fuaSuptBaGhhoxzOZkLR5) | [Lay.bn](https://open.spotify.com/artist/14EH5JWdAUrtWWQSzSwnGR), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [RED](https://open.spotify.com/album/0A1hbLVAbdsZH90EBDfxUi) | 3:43 | 2023-02-15 |  |
+| [fever \(Feat\. hartts\)](https://open.spotify.com/track/5fuaSuptBaGhhoxzOZkLR5) | [Lay.bn](https://open.spotify.com/artist/14EH5JWdAUrtWWQSzSwnGR), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [RED](https://open.spotify.com/album/0A1hbLVAbdsZH90EBDfxUi) | 3:43 | 2023-02-15 | 2023-02-21 |
 | [Film \(Feat\. Woshi\)](https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Film \(Feat\. Woshi\)](https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU) | 3:20 | 2023-01-23 | 2023-02-15 |
 | [FINE \(feat\. SOMA & WOODZ\)](https://open.spotify.com/track/0YhTNs46xlfwDUxvNNh0xb) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [SOMA](https://open.spotify.com/artist/2YZhod6BAbnBKh2nPdUejY), [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [DAFT LOVE](https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX) | 3:33 | 2022-07-14 | 2022-07-25 |
 | [FiNE!](https://open.spotify.com/track/0uXc6bgGKOHi861XBgbuQ1) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [LEFT](https://open.spotify.com/album/5wQND7CP9pnNPW3QA2ODos) | 3:11 | 2022-04-19 | 2022-07-25 |

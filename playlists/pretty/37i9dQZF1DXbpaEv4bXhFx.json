@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 8101,
+  "num_followers": 8108,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM2MTIyMCwwMDAwMDAwMGVmNmFiNTQ3YjY1NzFkZDdmMDdmNWFkMzFiMjgxMGJi",
+  "snapshot_id": "MTY3NjM2MTIyMCwwMDAwMDAwMDM2ZmE3NzMyMGQ4NmJmZTczOGFjMGU4Zjg0MGI1ZmEw",
   "tracks": [
     {
       "added_at": "2023-02-14 07:53:40",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-02-14 07:53:40",
       "album": {
+        "name": "tokki",
+        "url": "https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "tokki",
+      "url": "https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN"
+    },
+    {
+      "added_at": "2023-02-14 07:53:40",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2023-02-14 07:53:40",
       "album": {
-        "name": "tokki",
-        "url": "https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "tokki",
-      "url": "https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN"
-    },
-    {
-      "added_at": "2023-02-14 07:53:40",
-      "album": {
         "name": "6equence",
         "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 212280,
       "name": "ddu ddu ddu",
       "url": "https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN"
-    },
-    {
-      "added_at": "2023-02-14 07:53:40",
-      "album": {
-        "name": "A Call from My Dream",
-        "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
-      },
-      "artists": [
-        {
-          "name": "Meaningful Stone",
-          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
-        }
-      ],
-      "duration_ms": 255297,
-      "name": "A Call from My Dream",
-      "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
     },
     {
       "added_at": "2023-02-14 07:53:40",
@@ -619,6 +603,22 @@
     {
       "added_at": "2023-02-14 07:53:40",
       "album": {
+        "name": "A Call from My Dream",
+        "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "duration_ms": 255297,
+      "name": "A Call from My Dream",
+      "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
+    },
+    {
+      "added_at": "2023-02-14 07:53:40",
+      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
@@ -635,6 +635,26 @@
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
+    },
+    {
+      "added_at": "2023-02-14 07:53:40",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 191191,
+      "name": "Distance (Feat. I.M of MONSTA X)",
+      "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
     },
     {
       "added_at": "2023-02-14 07:53:40",
@@ -671,26 +691,6 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT"
-    },
-    {
-      "added_at": "2023-02-14 07:53:40",
-      "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 191191,
-      "name": "Distance (Feat. I.M of MONSTA X)",
-      "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
     },
     {
       "added_at": "2023-02-14 07:53:40",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-02-14 07:53:40",
       "album": {
-        "name": "I Mean You",
-        "url": "https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo"
-      },
-      "artists": [
-        {
-          "name": "Diana",
-          "url": "https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E"
-        }
-      ],
-      "duration_ms": 195150,
-      "name": "I Mean You",
-      "url": "https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI"
-    },
-    {
-      "added_at": "2023-02-14 07:53:40",
-      "album": {
         "name": "Hug me tight",
         "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2023-02-14 07:53:40",
       "album": {
-        "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
-        "url": "https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm"
+        "name": "I Mean You",
+        "url": "https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo"
       },
       "artists": [
         {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+          "name": "Diana",
+          "url": "https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E"
         }
       ],
-      "duration_ms": 199746,
-      "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
-      "url": "https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD"
+      "duration_ms": 195150,
+      "name": "I Mean You",
+      "url": "https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI"
     },
     {
       "added_at": "2023-02-14 07:53:40",
@@ -855,6 +839,22 @@
       "duration_ms": 262394,
       "name": "Sad ending (Feat. george)",
       "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
+    },
+    {
+      "added_at": "2023-02-14 07:53:40",
+      "album": {
+        "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
+        "url": "https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
+      "url": "https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798",

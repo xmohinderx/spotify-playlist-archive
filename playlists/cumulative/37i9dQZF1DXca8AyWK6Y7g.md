@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Mae Stephens
 
-1,527 songs - 3 day 5 hr 54 min
+1,529 songs - 3 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Crash](https://open.spotify.com/track/7Er5mOX9HNLnRvnCdZ0IGp) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Crash](https://open.spotify.com/album/3wtNj85mEqOoBUjSKqO4CJ) | 3:14 | 2022-04-01 | 2022-07-16 |
 | [Crash](https://open.spotify.com/track/5cdJiIDHw2FwVblQYT7fN0) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Crash](https://open.spotify.com/album/5MYFBgOf8RoVql9hXoVHfa) | 2:38 | 2022-07-22 | 2022-07-29 |
 | [Crashing \(feat\. Bahari\)](https://open.spotify.com/track/7egj375ez0KtF3bYCfAHdZ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Crashing \(feat\. Bahari\)](https://open.spotify.com/album/24ZhIfDRtc1buuN8J9bWQm) | 3:50 | 2019-05-26\* | 2019-09-14 |
+| [Crazier Best Friend](https://open.spotify.com/track/0nh9KP6DfRC2SrgZfBykkY) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Crazier Best Friend](https://open.spotify.com/album/4tNwSshyEfPg3tltRHZn3j) | 2:51 | 2023-02-17 |  |
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-14 | 2022-10-29 |
 | [Cream Shirt](https://open.spotify.com/track/0FeXe1ip5JvofSszofHYIQ) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Cream Shirt](https://open.spotify.com/album/0krr7Z6jLgFaj613S6ZNjK) | 2:43 | 2021-05-23 | 2021-11-20 |
 | [Creature Kind](https://open.spotify.com/track/01zME4q62SDPtD0hOSmTrG) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Creature Kind](https://open.spotify.com/album/7noNViHJAYZ3UxlhDNKAt9) | 3:57 | 2019-05-26\* | 2019-08-13 |
@@ -974,12 +975,13 @@
 | [numb](https://open.spotify.com/track/4HEbMAQU85yFHiTpPcryRk) | [Noirre](https://open.spotify.com/artist/5zGw4HioHo687jNmzLUazl) | [x](https://open.spotify.com/album/6WHsyHt1FbF55FwNQ5mZVz) | 3:12 | 2019-06-27 | 2020-06-09 |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-01-28 |  |
 | [NUNCA PASARÁ](https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:53 | 2022-12-23 | 2023-01-28 |
+| [NYC](https://open.spotify.com/track/5F6gniXisSbOKtfgIJIKoD) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [How To Lose A Girl in 7 Songs](https://open.spotify.com/album/3fxeIzMwjsQYIT91v6uHoR) | 3:24 | 2023-02-17 |  |
 | [o shit!](https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [o shit!](https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2) | 2:16 | 2021-04-21 | 2021-11-20 |
 | [October](https://open.spotify.com/track/4RBvdFV0tqaL7xlXk5R7hT) | [birthday](https://open.spotify.com/artist/75jBfFr6bLpV9TdIfg5BZq) | [October](https://open.spotify.com/album/0oZhv4BV0DkLcSh2G5FAbc) | 3:31 | 2019-05-26\* | 2021-02-13 |
 | [Off Season](https://open.spotify.com/track/5idfBD8B8uTN0dDIoTkAhB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Off Season](https://open.spotify.com/album/5tuM41hpJ7kDZo5Twts4TE) | 3:10 | 2022-11-04 | 2022-12-03 |
 | [Oh Please \- APRE Remix](https://open.spotify.com/track/0KAMo9j8CwDz4sLSkFeFF3) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Oh Please \(APRE Remix\)](https://open.spotify.com/album/5CNgptw1SOnGoNjc7JCeW9) | 3:36 | 2020-06-29 | 2021-05-27 |
 | [OH WELL](https://open.spotify.com/track/2sfYIKz3J8eZkBdTh25KyK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [OH WELL](https://open.spotify.com/album/2AGtYibeIFAnUVQadCVr16) | 2:54 | 2021-11-12 | 2022-07-02 |
-| [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 | 2022-06-10 |  |
+| [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 | 2022-06-10 | 2023-02-21 |
 | [Old Movies](https://open.spotify.com/track/3GuZKF9sG9DtI6aIsYCkgK) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [Old Movies](https://open.spotify.com/album/2PkOrJql49WiBYdmnVxsiI) | 2:47 | 2023-02-03 | 2023-02-20 |
 | [Olivia](https://open.spotify.com/track/5B9RzNWxGMtSi5ippoDmSY) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Olivia](https://open.spotify.com/album/549bnGNWELv0hpPC1aydth) | 2:51 | 2022-02-11 | 2022-03-26 |
 | [On My Mind \(Eastern Bloc Remix\)](https://open.spotify.com/track/5bJ85yWElOJ1Oswqn2pbUU) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Eastern Bloc](https://open.spotify.com/artist/08QUxi3UpepdGtIbqf7GMv) | [On My Mind \(Eastern Bloc Remix\)](https://open.spotify.com/album/65kpdPtuxe1ThNz8us1JwF) | 3:14 | 2019-09-06 | 2020-04-24 |
@@ -1091,7 +1093,7 @@
 | [Real Life](https://open.spotify.com/track/2suU0QYyxcMoy08rSsTX46) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Real Life](https://open.spotify.com/album/79ZPm7Z09OsRu4ENHyHM4d) | 2:43 | 2021-10-29 | 2022-01-08 |
 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 | 2021-07-16 | 2022-05-20 |
 | [Reality Television](https://open.spotify.com/track/5AA7wTk7aLkHg9JstMideg) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [001](https://open.spotify.com/album/06uSvdhE2EKZFFs4ZUzcOt) | 2:45 | 2022-12-09 | 2022-12-24 |
-| [Recovering People Pleaser](https://open.spotify.com/track/0id6M2eREx4sxecXvAf9VP) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Recovering People Pleaser](https://open.spotify.com/album/4i5pTzsjVzLTtAU00WrgrL) | 3:22 | 2023-01-20 |  |
+| [Recovering People Pleaser](https://open.spotify.com/track/0id6M2eREx4sxecXvAf9VP) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Recovering People Pleaser](https://open.spotify.com/album/4i5pTzsjVzLTtAU00WrgrL) | 3:22 | 2023-01-20 | 2023-02-21 |
 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 | 2023-01-13 |  |
 | [Regrets](https://open.spotify.com/track/2PDMHRRjLH8HJSF5COYdgr) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Regrets](https://open.spotify.com/album/741T9n7WN9E0kdwFj43CAN) | 2:02 | 2022-09-30 | 2022-10-22 |
 | [REHAB?](https://open.spotify.com/track/3r886NNQL7iOK1CXEKH2lx) | [Jessiqa Jones](https://open.spotify.com/artist/3jt2Xvzm0RHCW962b1N1qT) | [REHAB?](https://open.spotify.com/album/4RPqmtRv2kylEzmL9ralKZ) | 3:37 | 2022-05-16 | 2022-07-16 |

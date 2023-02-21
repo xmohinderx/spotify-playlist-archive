@@ -2,7 +2,7 @@
 
 ### [Indipop Nostalgia](https://open.spotify.com/playlist/37i9dQZF1DX0Uo5pVktwNd)
 
-> Throwback to the golden age of Indian pop.
+> Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
 78 songs - 6 hr 38 min
 

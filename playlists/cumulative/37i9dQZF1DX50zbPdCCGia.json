@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Living in the Material World (2014 Remaster)",
+        "url": "https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215701,
+      "name": "Give Me Love (Give Me Peace on Earth) - 2014 Remaster",
+      "url": "https://open.spotify.com/track/71fXxvXqo1zxWDtBmjoEVk"
+    },
+    {
+      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -960,7 +978,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 177433,
       "name": "I'd Have You Anytime - 2014 Remaster",
       "url": "https://open.spotify.com/track/1qd4ofmDZKqqJRJMqXoqAD"
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 184533,
       "name": "My Own Space",
       "url": "https://open.spotify.com/track/6trxmIB7QC2eQqWMMLgFrJ"
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-20",
+      "date_removed": null,
       "duration_ms": 288693,
       "name": "Peaches And Diesel",
       "url": "https://open.spotify.com/track/1Ahz461HRMTb87MMGT8AUY"
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 284133,
       "name": "Pieces Of Eight",
       "url": "https://open.spotify.com/track/7EWoyfv1zbF9UufIMLrepX"
@@ -2516,7 +2534,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 269106,
       "name": "The First Cut Is the Deepest - 2009 Remaster",
       "url": "https://open.spotify.com/track/5PCwZK8R7BkK9wVOsm52OJ"

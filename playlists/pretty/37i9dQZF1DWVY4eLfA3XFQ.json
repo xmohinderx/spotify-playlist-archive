@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Bruno Furlan. ",
-  "num_followers": 576507,
+  "num_followers": 576588,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDUxNGRhNzBjMGZkZDY1ZTgyYTQ3OGU1ODRiNWFmZDlj",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDRmM2VkYjU4OGNkZjc0YTIzMGViNGZjMmJjY2VjMjRl",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -605,6 +605,22 @@
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
     },
     {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "KILO",
@@ -691,22 +707,6 @@
       "duration_ms": 176264,
       "name": "Badman Sound",
       "url": "https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -909,26 +909,6 @@
       "url": "https://open.spotify.com/track/4bh0wx2X8EayDLOu0iTVKL"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Playin\u2019 Around",
-        "url": "https://open.spotify.com/album/01rvS6mmGjIslWyEVT1Hco"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        },
-        {
-          "name": "Samuele Scelfo",
-          "url": "https://open.spotify.com/artist/1Crlx3zUeYXCHoWEFm0E5H"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Playin\u2019 Around",
-      "url": "https://open.spotify.com/track/3FJbcgGXTXqVsdbqTUSkCB"
-    },
-    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Pouring Rain",
@@ -947,6 +927,26 @@
       "duration_ms": 191612,
       "name": "Pouring Rain",
       "url": "https://open.spotify.com/track/5Dr69idwPV2vBivHWuK0bO"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Playin\u2019 Around",
+        "url": "https://open.spotify.com/album/01rvS6mmGjIslWyEVT1Hco"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Samuele Scelfo",
+          "url": "https://open.spotify.com/artist/1Crlx3zUeYXCHoWEFm0E5H"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Playin\u2019 Around",
+      "url": "https://open.spotify.com/track/3FJbcgGXTXqVsdbqTUSkCB"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1027,6 +1027,22 @@
       "duration_ms": 173953,
       "name": "NY to LA",
       "url": "https://open.spotify.com/track/0XZrLV8OiyMLUCsrXNcUGY"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Can\u2019t Fight The Feeling",
+        "url": "https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Can\u2019t Fight The Feeling",
+      "url": "https://open.spotify.com/track/1T7fTFxkosqEF8AZzDvm6I"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1117,22 +1133,6 @@
       "url": "https://open.spotify.com/track/3cVVlPOw2pSEzLx9KNplYu"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Can\u2019t Fight The Feeling",
-        "url": "https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Can\u2019t Fight The Feeling",
-      "url": "https://open.spotify.com/track/1T7fTFxkosqEF8AZzDvm6I"
-    },
-    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "The Melody",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/7ED72laSFmyawpMl2acg4u"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Step Into It (Golden Ticket)",
-        "url": "https://open.spotify.com/album/3kFZhkT2vlgG2CgNT5ERXN"
-      },
-      "artists": [
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        }
-      ],
-      "duration_ms": 164979,
-      "name": "Step Into It (Golden Ticket)",
-      "url": "https://open.spotify.com/track/6NmcxJuphyJDjZOw43qyk7"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Ole",
@@ -1179,6 +1163,22 @@
       "duration_ms": 158343,
       "name": "Ole",
       "url": "https://open.spotify.com/track/0weVuJD157TzuE2GPRUekB"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Step Into It (Golden Ticket)",
+        "url": "https://open.spotify.com/album/3kFZhkT2vlgG2CgNT5ERXN"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "duration_ms": 164979,
+      "name": "Step Into It (Golden Ticket)",
+      "url": "https://open.spotify.com/track/6NmcxJuphyJDjZOw43qyk7"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1397,6 +1397,38 @@
       "url": "https://open.spotify.com/track/1TolDuZPDraC3L9pEIAPdx"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Make You Happy",
+        "url": "https://open.spotify.com/album/2eRJAVu552WFHPtGuorxQ0"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        },
+        {
+          "name": "Darryl James",
+          "url": "https://open.spotify.com/artist/4XUsuewcZ2L8zXZrL4rzzP"
+        },
+        {
+          "name": "David Anthony",
+          "url": "https://open.spotify.com/artist/75frj8UB2JwByVGCHxGbpy"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "Make You Happy",
+      "url": "https://open.spotify.com/track/5ZAtTAUvEz8jNJ5EPhsfJP"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Trick Me",
@@ -1481,6 +1513,22 @@
       "url": "https://open.spotify.com/track/7K0bmMQyro8sd5NEpEqq6n"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Bamboleo",
+        "url": "https://open.spotify.com/album/2A98x1rFHHdj1fuPAaluvC"
+      },
+      "artists": [
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "duration_ms": 180003,
+      "name": "Bamboleo",
+      "url": "https://open.spotify.com/track/3oV6BW7m5S4SDfWNC2okT5"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Fuego (VIP)",
@@ -1507,50 +1555,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Bamboleo",
-        "url": "https://open.spotify.com/album/2A98x1rFHHdj1fuPAaluvC"
+        "name": "Office Job",
+        "url": "https://open.spotify.com/album/5Rk69XouYr85N6fyeRW78V"
       },
       "artists": [
         {
-          "name": "Dave Winnel",
-          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+          "name": "Bonjour Papa",
+          "url": "https://open.spotify.com/artist/1bCRHURhZOlUETp67F7lmn"
         }
       ],
-      "duration_ms": 180003,
-      "name": "Bamboleo",
-      "url": "https://open.spotify.com/track/3oV6BW7m5S4SDfWNC2okT5"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Make You Happy",
-        "url": "https://open.spotify.com/album/2eRJAVu552WFHPtGuorxQ0"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
-        },
-        {
-          "name": "Darryl James",
-          "url": "https://open.spotify.com/artist/4XUsuewcZ2L8zXZrL4rzzP"
-        },
-        {
-          "name": "David Anthony",
-          "url": "https://open.spotify.com/artist/75frj8UB2JwByVGCHxGbpy"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "Make You Happy",
-      "url": "https://open.spotify.com/track/5ZAtTAUvEz8jNJ5EPhsfJP"
+      "duration_ms": 167280,
+      "name": "Office Job",
+      "url": "https://open.spotify.com/track/0g9FGw4fUJ3GzRKIB5VZt9"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1593,40 +1609,24 @@
       "url": "https://open.spotify.com/track/4TTyk0E2qCADq7cGbLGpEM"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-03 21:08:48",
       "album": {
-        "name": "Office Job",
-        "url": "https://open.spotify.com/album/5Rk69XouYr85N6fyeRW78V"
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/7imt6YSRHWhpP0FfKorKXY"
       },
       "artists": [
         {
-          "name": "Bonjour Papa",
-          "url": "https://open.spotify.com/artist/1bCRHURhZOlUETp67F7lmn"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "Office Job",
-      "url": "https://open.spotify.com/track/0g9FGw4fUJ3GzRKIB5VZt9"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/7fHMOHG8YAFLnGPvHPJTgZ"
-      },
-      "artists": [
-        {
-          "name": "Golf Clap",
-          "url": "https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN"
+          "name": "Jerome Robins",
+          "url": "https://open.spotify.com/artist/56Ci0Hx4pIlkTsNVhI3EQW"
         },
         {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+          "name": "Sinner & James",
+          "url": "https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2"
         }
       ],
-      "duration_ms": 226620,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/4kGKb76jdupromKClU6Udl"
+      "duration_ms": 254769,
+      "name": "You're Not Alone - Sinner & James Radio Edit",
+      "url": "https://open.spotify.com/track/7A7XNiQSeL58ejbuJNflzE"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1649,24 +1649,24 @@
       "url": "https://open.spotify.com/track/3pudOjhDm3vefFKF8m94Mk"
     },
     {
-      "added_at": "2023-02-03 21:08:48",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "You're Not Alone",
-        "url": "https://open.spotify.com/album/7imt6YSRHWhpP0FfKorKXY"
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/7fHMOHG8YAFLnGPvHPJTgZ"
       },
       "artists": [
         {
-          "name": "Jerome Robins",
-          "url": "https://open.spotify.com/artist/56Ci0Hx4pIlkTsNVhI3EQW"
+          "name": "Golf Clap",
+          "url": "https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN"
         },
         {
-          "name": "Sinner & James",
-          "url": "https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2"
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
         }
       ],
-      "duration_ms": 254769,
-      "name": "You're Not Alone - Sinner & James Radio Edit",
-      "url": "https://open.spotify.com/track/7A7XNiQSeL58ejbuJNflzE"
+      "duration_ms": 226620,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/4kGKb76jdupromKClU6Udl"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1683,22 +1683,6 @@
       "duration_ms": 140606,
       "name": "The Funky Beat",
       "url": "https://open.spotify.com/track/51fTFfFagxRASIcULWFKqG"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Emphasis",
-        "url": "https://open.spotify.com/album/1BKqAARcyS0KPhmz6kcupM"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 251612,
-      "name": "Emphasis",
-      "url": "https://open.spotify.com/track/10pvRr9ZcRekb09qMiKfQI"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1725,6 +1709,38 @@
       "url": "https://open.spotify.com/track/1hnRq2eX9qAlqw4dMKWo7m"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Emphasis",
+        "url": "https://open.spotify.com/album/1BKqAARcyS0KPhmz6kcupM"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 251612,
+      "name": "Emphasis",
+      "url": "https://open.spotify.com/track/10pvRr9ZcRekb09qMiKfQI"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2RU5ALKFSCw8qRpz5uKWG8"
+      },
+      "artists": [
+        {
+          "name": "Funkin Matt",
+          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
+        }
+      ],
+      "duration_ms": 181615,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/52JLfcHSQLgDoXc8B4tjps"
+    },
+    {
       "added_at": "2023-01-25 15:11:17",
       "album": {
         "name": "Other Side",
@@ -1743,22 +1759,6 @@
       "duration_ms": 264566,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/0YTFkjKiJ2gUNh992lKLtR"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2RU5ALKFSCw8qRpz5uKWG8"
-      },
-      "artists": [
-        {
-          "name": "Funkin Matt",
-          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
-        }
-      ],
-      "duration_ms": 181615,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/52JLfcHSQLgDoXc8B4tjps"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1809,30 +1809,6 @@
       "url": "https://open.spotify.com/track/4MatIhnm2hXVJhHnSLzzJc"
     },
     {
-      "added_at": "2023-02-03 21:08:48",
-      "album": {
-        "name": "See The Light",
-        "url": "https://open.spotify.com/album/0RNKWw3y5HiXYqLMRP6onD"
-      },
-      "artists": [
-        {
-          "name": "Sacha Robotti",
-          "url": "https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf"
-        },
-        {
-          "name": "Dillon Nathaniel",
-          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
-        },
-        {
-          "name": "AK RENNY",
-          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
-        }
-      ],
-      "duration_ms": 210937,
-      "name": "See The Light",
-      "url": "https://open.spotify.com/track/0S2RADfs7vrFyyor0okdkM"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Gotta Let You Go",
@@ -1855,6 +1831,30 @@
       "duration_ms": 167097,
       "name": "Gotta Let You Go",
       "url": "https://open.spotify.com/track/7Ikf5qsW8GxJq0ZfpZUHsX"
+    },
+    {
+      "added_at": "2023-02-03 21:08:48",
+      "album": {
+        "name": "See The Light",
+        "url": "https://open.spotify.com/album/0RNKWw3y5HiXYqLMRP6onD"
+      },
+      "artists": [
+        {
+          "name": "Sacha Robotti",
+          "url": "https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf"
+        },
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        },
+        {
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+        }
+      ],
+      "duration_ms": 210937,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/0S2RADfs7vrFyyor0okdkM"
     },
     {
       "added_at": "2023-02-10 05:00:00",

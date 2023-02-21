@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-152 songs - 7 hr 52 min
+153 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [La Leyenda de la Brasita de Fuego](https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Noche de Tormenta](https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd) | 3:12 | 2021-11-19 |  |
 | [La Ofelia](https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM) | [Abelardo Dimotta](https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:38 | 2021-11-19 |  |
 | [La Pialada](https://open.spotify.com/track/2K6uQ3ljKIiMkEqXylFbuc) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Hecho en el Cielo, Vol\. 4](https://open.spotify.com/album/5ipomHffIPANoGbDtdTm7W) | 2:36 | 2021-11-19 | 2022-07-27 |
+| [La Pialada](https://open.spotify.com/track/39t5Ge5nDd988fAXJY7xbL) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Hecho en el Cielo, Vol\. 4](https://open.spotify.com/album/2sxfM5PFdnAoi22Vk62smo) | 2:36 | 2022-12-23 |  |
 | [La Tierra No Tiene dueño](https://open.spotify.com/track/4zpEvUobp6hf9gDtjRkGcn) | [Grupo Reencuentro](https://open.spotify.com/artist/3YIxe11W03QO7HdnoW6UIJ) | [Chamame Del Bueno](https://open.spotify.com/album/1QsYkWmNqx8IOeVAwqC06P) | 3:00 | 2021-11-19 | 2022-07-28 |
 | [La Volanta \(Remix 2020\)](https://open.spotify.com/track/4E26Xb0Aqv62gNL9Q23oUj) | [Blasito Martínez Riera](https://open.spotify.com/artist/1frzWc2DBA3q5YDj9Eoe6f) | [El Salón De La Fama Del Chamamé](https://open.spotify.com/album/3B1iXO9wsx3qLUG3wBHmoZ) | 2:02 | 2021-11-19 | 2022-07-21 |
 | [Laguna Totora](https://open.spotify.com/track/2PgHMG4GYoLzL3feOhycy0) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:39 | 2021-11-19 |  |
@@ -114,7 +115,7 @@
 | [Nazareno](https://open.spotify.com/track/72CLLuAm4shF2M28CmTUPe) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Otras Músicas](https://open.spotify.com/album/6iYwUTIBeOwE3NptAXPIwx) | 4:35 | 2021-11-19 | 2022-06-14 |
 | [Neique Chamigo](https://open.spotify.com/track/0VkAlxNs8vUcgWjlDD6dd2) | [Carlos Talavera con el Cuarteto Santa Ana](https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I), [Ernesto Montiel](https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd) | [Los 55 Anos del Cuarteto Santa Ana](https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr) | 2:26 | 2021-11-19 |  |
 | [No Cualquiera Es Correntino](https://open.spotify.com/track/1IMq2t2VTsidbZZoMyC5Hz) | [Los de Mailin](https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB) | [20 Grandes Exitos](https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx) | 2:13 | 2021-11-19 |  |
-| [No Hay Mal Que por Bien No Venga](https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV) | [La Nueva Fuerza del Chamamé](https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji) | [Sencillito Nomás](https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL) | 3:02 | 2022-07-05 |  |
+| [No Hay Mal Que por Bien No Venga](https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV) | [La Nueva Fuerza del Chamamé](https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji) | [Sencillito Nomás](https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL) | 3:02 | 2022-07-05 | 2023-02-21 |
 | [No Hay Mal Que por Bien No Venga](https://open.spotify.com/track/2yYkSIrfPJu1V43674yMHv) | [La Nueva Fuerza del Chamamé](https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji) | [Sencillito Nomás...](https://open.spotify.com/album/49mIdGfcj0OzVOCHgUK15K) | 3:04 | 2021-11-19 | 2022-07-28 |
 | [Noche de Tormenta](https://open.spotify.com/track/0VKDr2ahMc4vYKw8tzFudQ) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Noche de Tormenta](https://open.spotify.com/album/2yh0lii3e569wf1VjKM3s5) | 4:16 | 2021-11-19 | 2022-07-15 |
 | [Nostalgias Camperas](https://open.spotify.com/track/2w7HJNJhi017o0TCw1s4PI) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s), [Dúo Ubeda / Chavez](https://open.spotify.com/artist/58fMfIAKCyYaNnqL65U7b8) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:34 | 2021-11-19 |  |

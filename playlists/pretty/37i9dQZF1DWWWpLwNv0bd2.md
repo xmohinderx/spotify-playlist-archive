@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Romance Tracks.<br/>Cover : Vaathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,663 likes - 58 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,468 likes - 58 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

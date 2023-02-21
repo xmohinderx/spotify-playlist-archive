@@ -4,7 +4,7 @@
 
 > Alleen maar motion en good vibes\. Cover: Rema
 
-405 songs - 18 hr 19 min
+406 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Evidence](https://open.spotify.com/track/3BfUA5HYf8dtXvtnYqtvxw) | [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Travis Allen](https://open.spotify.com/artist/0l0pHgoBrCcr7wQTrBwbCp), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Evidence](https://open.spotify.com/album/6xI9kUBYnKMVVtYH6Zj6Dz) | 2:57 | 2022-07-28 | 2022-08-26 |
 | [Expres](https://open.spotify.com/track/1jykfspak6OvEB3cdzrrGm) | [Shikss](https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7), [\#SS](https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU) | [Expres](https://open.spotify.com/album/3FpWGWi82FSIEVkucrO9lh) | 2:17 | 2022-10-27 |  |
 | [Feeling](https://open.spotify.com/track/7GznH6vFkAJtrbYqX54RcZ) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R) | [Feeling](https://open.spotify.com/album/1FTnNK1UFZzlwfjlYZEosy) | 2:54 | 2022-11-25 |  |
-| [Feelings](https://open.spotify.com/track/32PnKK56VRTreShYsT8nkZ) | [Makkie](https://open.spotify.com/artist/3ZwM56IXFGMIsUFK0GEygo) | [Feelings](https://open.spotify.com/album/1e0GV3MYOXmVi49TdZIxaI) | 3:04 | 2023-02-16 |  |
+| [Feelings](https://open.spotify.com/track/32PnKK56VRTreShYsT8nkZ) | [Makkie](https://open.spotify.com/artist/3ZwM56IXFGMIsUFK0GEygo) | [Feelings](https://open.spotify.com/album/1e0GV3MYOXmVi49TdZIxaI) | 3:04 | 2023-02-16 | 2023-02-21 |
 | [Fiets](https://open.spotify.com/track/7dXXQRborTggr2w04Ofo1j) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Fiets](https://open.spotify.com/album/7hqt1WB6yK6aqET4FW0yEg) | 1:41 | 2023-01-26 |  |
 | [Fine Girl](https://open.spotify.com/track/4ep4DgNUhZSmMTpq0hHet4) | [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Boat](https://open.spotify.com/artist/545XHoCXOXRYsNrKjh4uHd) | [Fine Girl](https://open.spotify.com/album/4UFfCfzRXHZXoiWUWeL6zq) | 3:49 | 2023-01-13 | 2023-02-10 |
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2022-07-14 | 2022-07-28 |
@@ -204,6 +204,7 @@
 | [KOMNAARMETOE](https://open.spotify.com/track/1BXeCo71ZZWXfMPmU7bpWs) | [Ibranovski](https://open.spotify.com/artist/5ASWBtbVe1yfxjrCuREQ4p), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [KOMNAARMETOE](https://open.spotify.com/album/3LGJyIxQR0RHcFpjYjfWHl) | 2:11 | 2022-12-08 | 2023-02-17 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-08-30 | 2023-01-27 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-08-25 | 2022-10-07 |
+| [LA HORA Y EL DÍA](https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [LA HORA Y EL DÍA](https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK) | 3:37 | 2023-02-20 |  |
 | [La Jefa \(feat\. JMReal\)](https://open.spotify.com/track/6MkJl9joujz9BMSGLCDoee) | [BuenosDiaz](https://open.spotify.com/artist/3qMCibsPjK04k9BAijQCRM), [Jones Suave](https://open.spotify.com/artist/0lui1pVpLAap3nxrMXmFwo), [Alazar](https://open.spotify.com/artist/02QNUJxKwMO7HqOFL7zTIR), [JMReal](https://open.spotify.com/artist/7mvbWbf9G6FoiQhzJJ9Mem) | [La Jefa \(feat\. JMReal\)](https://open.spotify.com/album/1ecw7HHkrChFjqUK6roDUO) | 2:28 | 2022-07-28 | 2022-08-26 |
 | [La Vida Loca](https://open.spotify.com/track/29lH6pPwUsKYGP5oyt3JQZ) | [Zwieberr](https://open.spotify.com/artist/2WLCp8EhZaB1f0Ljv5lzVK), [Guy](https://open.spotify.com/artist/3jqb9NazfolKHm0Js6T7tB) | [La Vida Loca](https://open.spotify.com/album/4UO53RgrV9wnmZEUL6hVw1) | 2:13 | 2022-12-15 | 2023-01-13 |
 | [La vie de rêve](https://open.spotify.com/track/5joUzFnW2GLrktOQpIswU6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 2:38 | 2022-12-12 | 2023-01-27 |

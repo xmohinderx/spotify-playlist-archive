@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Buen provecho!",
-  "num_followers": 225795,
+  "num_followers": 225790,
   "original_name": "Hora de la Comida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg5NjE2NCwwMDAwMDAwMDk2YzMwMjFlODg3ZTFiNTdlZDZkZmJmMTUyMTMyZmY2",
+  "snapshot_id": "MTY3Mzg5NjE2NCwwMDAwMDAwMDg0ZmQxMjA3M2NhMWU4MWVkZjE2ZDA0NzdhOWJiZmNi",
   "tracks": [
     {
       "added_at": "2023-01-16 19:09:24",
@@ -215,18 +215,22 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "Como Lo Hice Yo",
+        "url": "https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+      "duration_ms": 177062,
+      "name": "Como Lo Hice Yo",
+      "url": "https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -247,22 +251,18 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
-        "name": "Como Lo Hice Yo",
-        "url": "https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug"
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 177062,
-      "name": "Como Lo Hice Yo",
-      "url": "https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk"
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
+        "name": "Pronto",
+        "url": "https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 228218,
+      "name": "Pronto",
+      "url": "https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ"
+    },
+    {
+      "added_at": "2023-01-16 19:09:24",
+      "album": {
         "name": "Dimensi\u00f3n Caribe",
         "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 236026,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
-    },
-    {
-      "added_at": "2023-01-16 19:09:24",
-      "album": {
-        "name": "Pronto",
-        "url": "https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 228218,
-      "name": "Pronto",
-      "url": "https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
+        "name": "Music From The Motion Picture Fred Claus",
+        "url": "https://open.spotify.com/album/7cJnLV1fOwW0aX1hLekFPX"
+      },
+      "artists": [
+        {
+          "name": "Israel \"IZ\" Kamakawiwo\u0091ole",
+          "url": "https://open.spotify.com/artist/0brWzWBfn8DhPWwdf3SWwn"
+        }
+      ],
+      "duration_ms": 304466,
+      "name": "Over The Rainbow/What A Wonderful World",
+      "url": "https://open.spotify.com/track/0Cll7d8lmNn05ZOVm5l5va"
+    },
+    {
+      "added_at": "2023-01-16 19:09:24",
+      "album": {
         "name": "Amor Papaya",
         "url": "https://open.spotify.com/album/4SedZWefA0qnDU6mnDiXI6"
       },
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
-        "name": "Music From The Motion Picture Fred Claus",
-        "url": "https://open.spotify.com/album/7cJnLV1fOwW0aX1hLekFPX"
+        "name": "Luna Completa",
+        "url": "https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ"
       },
       "artists": [
         {
-          "name": "Israel \"IZ\" Kamakawiwo\u0091ole",
-          "url": "https://open.spotify.com/artist/0brWzWBfn8DhPWwdf3SWwn"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 304466,
-      "name": "Over The Rainbow/What A Wonderful World",
-      "url": "https://open.spotify.com/track/0Cll7d8lmNn05ZOVm5l5va"
+      "duration_ms": 288653,
+      "name": "Luna Completa",
+      "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -1367,22 +1383,6 @@
       "duration_ms": 177000,
       "name": "Pero Todo Bien",
       "url": "https://open.spotify.com/track/1yiJbOj2u7EEZnZfgqyRFM"
-    },
-    {
-      "added_at": "2023-01-16 19:09:24",
-      "album": {
-        "name": "Luna Completa",
-        "url": "https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 288653,
-      "name": "Luna Completa",
-      "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 183894,
-      "name": "Un Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/64opElgLEfcSoh4YotloB4"
-    },
-    {
-      "added_at": "2023-01-16 19:09:24",
-      "album": {
         "name": "Epitafio",
         "url": "https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 157120,
       "name": "Epitafio",
       "url": "https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk"
+    },
+    {
+      "added_at": "2023-01-16 19:09:24",
+      "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 183894,
+      "name": "Un Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/64opElgLEfcSoh4YotloB4"
     },
     {
       "added_at": "2023-01-16 19:09:24",

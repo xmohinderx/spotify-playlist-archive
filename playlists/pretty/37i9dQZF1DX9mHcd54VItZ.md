@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n?si=4mfc\_JrrS56ijx63lIbo\-A">Brynn</a>
+> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS?si=LsiXeXHtRJKZdTacWbURoA">Gevoel van Veiligheid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,140 likes - 49 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,143 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,25 +37,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 27 | [Darlene](https://open.spotify.com/track/5oSm6O7Vl8D31fwXDdOEbJ) | [East of the Equator](https://open.spotify.com/artist/3zpLOUiHG13KAwneK1cswd) | [Darlene](https://open.spotify.com/album/36ctPjNUlyQ4JAg0XkJqZK) | 2:37 |
 | 28 | [Fight For Me](https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Fight For Me](https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta) | 3:46 |
 | 29 | [Socks On Astroturf](https://open.spotify.com/track/5gtDFsmSgRX9wWYNjVFUer) | [Yndian Mynah](https://open.spotify.com/artist/5vPZcy1yojk3MN9D2g1c0C) | [The Boys Scribbled Like Mad](https://open.spotify.com/album/4Jx4ckh0oER0VRdmrQlJdX) | 7:22 |
-| 30 | [FALLING DOWN](https://open.spotify.com/track/2DsW6khzay6yv7OMe7Is0x) | [Fortunes Fool](https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py) | [FALLING DOWN](https://open.spotify.com/album/1d456n0tT0NBMjrdSfahwS) | 4:15 |
-| 31 | [Come Back to Me](https://open.spotify.com/track/6IaBSKJbUHfH3MgRmLIr5p) | [Jon Delinger](https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF) | [Remember the Hits Vol\. 2](https://open.spotify.com/album/25y45kTKUv2gmtQnUqzymB) | 4:09 |
-| 32 | [Coming in Hot](https://open.spotify.com/track/0C5VbQrV3LDqPue7LNRhTo) | [The Incidentals](https://open.spotify.com/artist/5eTPQQeM4ggfNxQ9m4dDfS) | [Coming in Hot](https://open.spotify.com/album/6NRTD0I4d75b9byRFw67Sd) | 3:50 |
-| 33 | [Midnight Man](https://open.spotify.com/track/69K78xQYAiwO7GUEJgXByG) | [Kenny Hughes](https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL) | [Midnight Man](https://open.spotify.com/album/0U63JmTcJjB7MA3P1oyEfL) | 3:06 |
-| 34 | [Gods Gift](https://open.spotify.com/track/5APaebgO8j2iv9948t0s4N) | [Beyond Rebellion](https://open.spotify.com/artist/4Xl49RTIZKi3DYvoC1AkXe) | [Gods Gift](https://open.spotify.com/album/2gQmIomnl7SgDVZyvqxMBi) | 3:16 |
-| 35 | [Laatnag\-sonop\-koebaai](https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ) | [Posduif](https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349) | [Laatnag\-sonop\-koebaai](https://open.spotify.com/album/6gvpn8iBbVXJEbmWt3sLVN) | 3:49 |
-| 36 | [Sugar Tits](https://open.spotify.com/track/4zvgJZD3bm6V4axDHFErc3) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Sugar Tits](https://open.spotify.com/album/7pc2tW0f3iIfBeBjDmGQzv) | 3:27 |
-| 37 | [Skemer](https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA) | [Bouwer Bosch](https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te) | [Briewe Uit Die Argiewe](https://open.spotify.com/album/0S5HPecNnxsYdKnQXPVdcG) | 3:45 |
-| 38 | [Cherry Glitter](https://open.spotify.com/track/2V57HqcRwmG9wYr8rcFbAa) | [Highway Apostles](https://open.spotify.com/artist/66GDNl05VRYiOnkKgVfOEE) | [Cherry Glitter](https://open.spotify.com/album/7EqFfWWUmsqSI0csBwIasf) | 3:28 |
-| 39 | [IN TIME](https://open.spotify.com/track/6y7Y65Klj3xweqD4aGMJeC) | [FAXXON](https://open.spotify.com/artist/09g0uGvlDQ3TmMnZgjl4rf) | [IN TIME](https://open.spotify.com/album/4ARwLOhAqcNho5PfqJt9wl) | 2:43 |
-| 40 | [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 |
-| 41 | [Overkill](https://open.spotify.com/track/6Pnoo2W3kHr11N0Eb4YEqg) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Within the Margin of Error](https://open.spotify.com/album/5qhaaBLxoGO2D7Gi4Rd6Dr) | 3:14 |
-| 42 | [Black Sun Blues](https://open.spotify.com/track/4rBXj6zG73kTuhdZGmSMHR) | [Ross Harding](https://open.spotify.com/artist/1FqnXueiEcKhdI6NBFwKcA) | [Chapter II](https://open.spotify.com/album/7AkMozqHXDF5OtauzP2ZQI) | 4:42 |
-| 43 | [As I Turn Away](https://open.spotify.com/track/6CwB8nrDMcPa9WhLdvYlUv) | [Jack Hammer Band](https://open.spotify.com/artist/33IsTMCKx8LrRejpXlG7tZ) | [As I Turn Away](https://open.spotify.com/album/62Ho9iSsrb6yX7lLMx36FS) | 4:35 |
-| 44 | [Scarred](https://open.spotify.com/track/3C1piIulJ3OSeGZLqa8i8M) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Far From Who We Are](https://open.spotify.com/album/03CcQkzVwJtlfN0k33fjpg) | 3:15 |
-| 45 | [Stay](https://open.spotify.com/track/1pc4xCCi7VhemQGSk8eQyz) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Stay](https://open.spotify.com/album/41bORE1k7ez2pWNJDXz0Ls) | 3:16 |
-| 46 | [Anker](https://open.spotify.com/track/7vcdnzmzZS0oNDpqLgfn3g) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Anker](https://open.spotify.com/album/1Viibdh9TgQh4TGpkmnLth) | 2:47 |
-| 47 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 |
-| 48 | [Oh No!](https://open.spotify.com/track/4QOGyHQHQBh8Legq1hrOcE) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [Oh No!](https://open.spotify.com/album/64Na1iGg8petII9jhmDNf3) | 2:25 |
-| 49 | [Stars](https://open.spotify.com/track/2FWNe8tTLt0bCJBOY9nPWc) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Stars](https://open.spotify.com/album/7gx4tHQGiQWj7JP0McroDJ) | 5:16 |
+| 30 | [What Would You Do? \[Feat\. Gavin Rossdale\]](https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Gavin Rossdale](https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6) | [What Would You Do?](https://open.spotify.com/album/4w2yJlTLXCQWtzQMo8kWxa) | 4:50 |
+| 31 | [FALLING DOWN](https://open.spotify.com/track/2DsW6khzay6yv7OMe7Is0x) | [Fortunes Fool](https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py) | [FALLING DOWN](https://open.spotify.com/album/1d456n0tT0NBMjrdSfahwS) | 4:15 |
+| 32 | [Come Back to Me](https://open.spotify.com/track/6IaBSKJbUHfH3MgRmLIr5p) | [Jon Delinger](https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF) | [Remember the Hits Vol\. 2](https://open.spotify.com/album/25y45kTKUv2gmtQnUqzymB) | 4:09 |
+| 33 | [Coming in Hot](https://open.spotify.com/track/0C5VbQrV3LDqPue7LNRhTo) | [The Incidentals](https://open.spotify.com/artist/5eTPQQeM4ggfNxQ9m4dDfS) | [Coming in Hot](https://open.spotify.com/album/6NRTD0I4d75b9byRFw67Sd) | 3:50 |
+| 34 | [Midnight Man](https://open.spotify.com/track/69K78xQYAiwO7GUEJgXByG) | [Kenny Hughes](https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL) | [Midnight Man](https://open.spotify.com/album/0U63JmTcJjB7MA3P1oyEfL) | 3:06 |
+| 35 | [Gods Gift](https://open.spotify.com/track/5APaebgO8j2iv9948t0s4N) | [Beyond Rebellion](https://open.spotify.com/artist/4Xl49RTIZKi3DYvoC1AkXe) | [Gods Gift](https://open.spotify.com/album/2gQmIomnl7SgDVZyvqxMBi) | 3:16 |
+| 36 | [Laatnag\-sonop\-koebaai](https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ) | [Posduif](https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349) | [Laatnag\-sonop\-koebaai](https://open.spotify.com/album/6gvpn8iBbVXJEbmWt3sLVN) | 3:49 |
+| 37 | [Sugar Tits](https://open.spotify.com/track/4zvgJZD3bm6V4axDHFErc3) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Sugar Tits](https://open.spotify.com/album/7pc2tW0f3iIfBeBjDmGQzv) | 3:27 |
+| 38 | [Skemer](https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA) | [Bouwer Bosch](https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te) | [Briewe Uit Die Argiewe](https://open.spotify.com/album/0S5HPecNnxsYdKnQXPVdcG) | 3:45 |
+| 39 | [Cherry Glitter](https://open.spotify.com/track/2V57HqcRwmG9wYr8rcFbAa) | [Highway Apostles](https://open.spotify.com/artist/66GDNl05VRYiOnkKgVfOEE) | [Cherry Glitter](https://open.spotify.com/album/7EqFfWWUmsqSI0csBwIasf) | 3:28 |
+| 40 | [IN TIME](https://open.spotify.com/track/6y7Y65Klj3xweqD4aGMJeC) | [FAXXON](https://open.spotify.com/artist/09g0uGvlDQ3TmMnZgjl4rf) | [IN TIME](https://open.spotify.com/album/4ARwLOhAqcNho5PfqJt9wl) | 2:43 |
+| 41 | [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 |
+| 42 | [Overkill](https://open.spotify.com/track/6Pnoo2W3kHr11N0Eb4YEqg) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Within the Margin of Error](https://open.spotify.com/album/5qhaaBLxoGO2D7Gi4Rd6Dr) | 3:14 |
+| 43 | [Black Sun Blues](https://open.spotify.com/track/4rBXj6zG73kTuhdZGmSMHR) | [Ross Harding](https://open.spotify.com/artist/1FqnXueiEcKhdI6NBFwKcA) | [Chapter II](https://open.spotify.com/album/7AkMozqHXDF5OtauzP2ZQI) | 4:42 |
+| 44 | [As I Turn Away](https://open.spotify.com/track/6CwB8nrDMcPa9WhLdvYlUv) | [Jack Hammer Band](https://open.spotify.com/artist/33IsTMCKx8LrRejpXlG7tZ) | [As I Turn Away](https://open.spotify.com/album/62Ho9iSsrb6yX7lLMx36FS) | 4:35 |
+| 45 | [Scarred](https://open.spotify.com/track/3C1piIulJ3OSeGZLqa8i8M) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Far From Who We Are](https://open.spotify.com/album/03CcQkzVwJtlfN0k33fjpg) | 3:15 |
+| 46 | [Stay](https://open.spotify.com/track/1pc4xCCi7VhemQGSk8eQyz) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Stay](https://open.spotify.com/album/41bORE1k7ez2pWNJDXz0Ls) | 3:16 |
+| 47 | [Anker](https://open.spotify.com/track/7vcdnzmzZS0oNDpqLgfn3g) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Anker](https://open.spotify.com/album/1Viibdh9TgQh4TGpkmnLth) | 2:47 |
+| 48 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 |
+| 49 | [Oh No!](https://open.spotify.com/track/4QOGyHQHQBh8Legq1hrOcE) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [Oh No!](https://open.spotify.com/album/64Na1iGg8petII9jhmDNf3) | 2:25 |
+| 50 | [Stars](https://open.spotify.com/track/2FWNe8tTLt0bCJBOY9nPWc) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Stars](https://open.spotify.com/album/7gx4tHQGiQWj7JP0McroDJ) | 5:16 |
 
-Snapshot ID: `MTY3NjU4NDc0MCwwMDAwMDAwMDlhODcxYzljNGQ3OTk3ODhhYWMwNGM2OTQ3MTUyNjI1`
+Snapshot ID: `MTY3Njg4MDU2MCwwMDAwMDAwMDEwMGVhZTQ1MWQ0NTY4MmQzOTFhZTBlNmQyMDk1ODIw`

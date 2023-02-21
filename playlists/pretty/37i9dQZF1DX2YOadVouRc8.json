@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 10938,
+  "num_followers": 10955,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzMDAxNCwwMDAwMDAwMDI4YmEzMTc1MGRkMDJkZmVkODMzM2JjNTg4YzkzN2M5",
+  "snapshot_id": "MTY3NjAzMDAxNCwwMDAwMDAwMDBlMDVjYzU0OTA3OTcwZDIwMzQyNGZhOWE2ODJmYTVm",
   "tracks": [
     {
       "added_at": "2022-06-09 23:00:00",
@@ -627,6 +627,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 185619,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -649,42 +669,6 @@
       "url": "https://open.spotify.com/track/6WDgwgR3fAu9UfLXz1iHCz"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 187206,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 185619,
-      "name": "Confident",
-      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
-    },
-    {
       "added_at": "2023-02-10 09:27:43",
       "album": {
         "name": "Weep, No More",
@@ -699,6 +683,22 @@
       "duration_ms": 141933,
       "name": "Weep, No More",
       "url": "https://open.spotify.com/track/6dzICV2gDRl8SjPeqLnOQv"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 187206,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -769,6 +769,22 @@
       "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Mayana",
+        "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Mayana",
+      "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
+    },
+    {
       "added_at": "2022-11-04 00:00:00",
       "album": {
         "name": "Reckless",
@@ -791,22 +807,6 @@
       "duration_ms": 130666,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Mayana",
-        "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Mayana",
-      "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -989,26 +989,6 @@
       "url": "https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3"
     },
     {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "International Arrivals Vol. 3",
-        "url": "https://open.spotify.com/album/5lRKLzYUNjUk1pq6NL4HJp"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "D3an",
-          "url": "https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ"
-        }
-      ],
-      "duration_ms": 458750,
-      "name": "Santorini",
-      "url": "https://open.spotify.com/track/6FnU39PS4w9J2rZdDfq2dd"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Follow You",
@@ -1031,6 +1011,26 @@
       "duration_ms": 191544,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "International Arrivals Vol. 3",
+        "url": "https://open.spotify.com/album/5lRKLzYUNjUk1pq6NL4HJp"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "D3an",
+          "url": "https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ"
+        }
+      ],
+      "duration_ms": 458750,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/6FnU39PS4w9J2rZdDfq2dd"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1105,26 +1105,6 @@
       "url": "https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn"
     },
     {
-      "added_at": "2022-10-28 12:50:44",
-      "album": {
-        "name": "R-/LBT",
-        "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
-      },
-      "artists": [
-        {
-          "name": "OSO",
-          "url": "https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2"
-        },
-        {
-          "name": "Riunga",
-          "url": "https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN"
-        }
-      ],
-      "duration_ms": 230808,
-      "name": "Lights Down Low",
-      "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Better Days / Wetin Dey",
@@ -1143,6 +1123,26 @@
       "duration_ms": 187424,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX"
+    },
+    {
+      "added_at": "2022-10-28 12:50:44",
+      "album": {
+        "name": "R-/LBT",
+        "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
+      },
+      "artists": [
+        {
+          "name": "OSO",
+          "url": "https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2"
+        },
+        {
+          "name": "Riunga",
+          "url": "https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN"
+        }
+      ],
+      "duration_ms": 230808,
+      "name": "Lights Down Low",
+      "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
     },
     {
       "added_at": "2022-09-30 06:26:52",
@@ -1245,6 +1245,22 @@
       "url": "https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Somali Rose",
+        "url": "https://open.spotify.com/album/5oveeChuYpFJLYUCpHK4Lu"
+      },
+      "artists": [
+        {
+          "name": "Ria Boss",
+          "url": "https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q"
+        }
+      ],
+      "duration_ms": 259673,
+      "name": "Somali Rose",
+      "url": "https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0"
+    },
+    {
       "added_at": "2022-11-04 00:00:00",
       "album": {
         "name": "JUDAH LION",
@@ -1263,22 +1279,6 @@
       "duration_ms": 218571,
       "name": "JUDAH LION",
       "url": "https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Somali Rose",
-        "url": "https://open.spotify.com/album/5oveeChuYpFJLYUCpHK4Lu"
-      },
-      "artists": [
-        {
-          "name": "Ria Boss",
-          "url": "https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q"
-        }
-      ],
-      "duration_ms": 259673,
-      "name": "Somali Rose",
-      "url": "https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1353,6 +1353,22 @@
       "url": "https://open.spotify.com/track/7oZDRbZggx7wHJpQJqUGFp"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Jo",
+        "url": "https://open.spotify.com/album/5ibum2SHIL8CmOqguxiolN"
+      },
+      "artists": [
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "duration_ms": 193593,
+      "name": "Jo",
+      "url": "https://open.spotify.com/track/3vQDViTCjRem00CGS7Rr6J"
+    },
+    {
       "added_at": "2022-09-01 23:00:00",
       "album": {
         "name": "SLOW WINE",
@@ -1371,22 +1387,6 @@
       "duration_ms": 223784,
       "name": "SLOW WINE",
       "url": "https://open.spotify.com/track/1JhH6S1GDhxbLMitQ9K5oM"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Jo",
-        "url": "https://open.spotify.com/album/5ibum2SHIL8CmOqguxiolN"
-      },
-      "artists": [
-        {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
-        }
-      ],
-      "duration_ms": 193593,
-      "name": "Jo",
-      "url": "https://open.spotify.com/track/3vQDViTCjRem00CGS7Rr6J"
     },
     {
       "added_at": "2023-02-10 09:27:43",

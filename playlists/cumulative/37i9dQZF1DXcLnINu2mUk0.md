@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-208 songs - 11 hr 24 min
+209 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 | 2022-07-21 |  |
 | [Borboletas](https://open.spotify.com/track/3AroFQ5v6wHUOqwpGZw3OW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/7hJsoRAoXKqdkiTMEBLgJq) | 3:24 | 2022-07-07 | 2022-07-29 |
 | [Break It](https://open.spotify.com/track/05vnos9Hfj27gKeReNWDNF) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Break It](https://open.spotify.com/album/2VGFyPuCNtXM9Y87rVW8Kq) | 2:24 | 2022-07-07 |  |
-| [brilhante](https://open.spotify.com/track/46YB25J4LcAJ3WnGhGqGLd) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i), [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL) | [brilhante](https://open.spotify.com/album/40CKlrqbamQhrynPYJXjqz) | 2:55 | 2023-02-17 |  |
+| [brilhante](https://open.spotify.com/track/46YB25J4LcAJ3WnGhGqGLd) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i), [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL) | [brilhante](https://open.spotify.com/album/40CKlrqbamQhrynPYJXjqz) | 2:55 | 2023-02-17 | 2023-02-21 |
 | [Cadáver](https://open.spotify.com/track/6zaozdqUEfE86imEE4mfue) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Cadáver](https://open.spotify.com/album/3kklO925aQsir4f7YPpWpG) | 4:00 | 2023-02-03 |  |
 | [Caixa De Pandora](https://open.spotify.com/track/5kqqiREyjP4QA4u1VvlcWj) | [Zalo](https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL) | [Caixa De Pandora](https://open.spotify.com/album/0XK0GP79Ygn7QrdcvehAK8) | 2:44 | 2022-11-11 | 2022-12-02 |
 | [Calcular \(feat\. MDO \(Menino de Ouro\)](https://open.spotify.com/track/1YrCvngT0xfPKxTb1ycb4j) | [Rumi](https://open.spotify.com/artist/3yWoOPJIjQxiJeGQbNaSrL), [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Calcular \(feat\. MDO \(Menino de Ouro\)](https://open.spotify.com/album/6u6Qf0tOGmLW8JLDH7pgoL) | 3:25 | 2022-12-23 | 2023-01-06 |
@@ -195,6 +195,7 @@
 | [Só Tu](https://open.spotify.com/track/12bcq41ZJbnAPQ0gQ52b3W) | [Mkmike](https://open.spotify.com/artist/4L5hkcKd0ZG5bHHHPV9NZe) | [Fragmentos](https://open.spotify.com/album/3NAaDjmd63oPTVBQBI7Psc) | 3:45 | 2022-07-07 | 2022-09-17 |
 | [teach me how to love](https://open.spotify.com/track/6XksotmRPuJoJot5Po8THO) | [colombianacallmegringo](https://open.spotify.com/artist/1iSBDUpR3E3GBF02idlgMB) | [teach me how to love](https://open.spotify.com/album/53a3gVxPs0JZvEYSTMrWRj) | 2:37 | 2022-07-07 | 2022-08-12 |
 | [Teia](https://open.spotify.com/track/0WO2C0embY06EtHVysWPnd) | [PLATES](https://open.spotify.com/artist/5CmHI0ta9VSlRtsi18kcSa), [TAZz](https://open.spotify.com/artist/3tBhm6KQi0f7CI1EbXseEO) | [Teia](https://open.spotify.com/album/2zntZIuVPxbQo5JmYEy6PB) | 2:30 | 2022-11-11 | 2022-12-02 |
+| [Tentação](https://open.spotify.com/track/7v383pu4yGbdQW5t8Gv2dV) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi) | [Tentação](https://open.spotify.com/album/06rdIn1DdRecfzKnPrl17m) | 3:28 | 2023-02-21 |  |
 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 | 2022-07-07 |  |
 | [Teu Eternamente](https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 2:55 | 2022-07-07 |  |
 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 | 2022-07-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156234,
+  "num_followers": 156229,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDk4YmQyYWEwMmZmMThjMTFkZjhlNWI2ZTAzOGQxYWUz",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDk5NDM3YzU1MWU4ZDdlYzFiNDliMTFiODk1MTEyODNm",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -127,6 +127,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Bad Habits (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 194331,
+      "name": "Bad Habits - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
         "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 211428,
       "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
       "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Bad Habits (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 194331,
-      "name": "Bad Habits - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -231,6 +231,34 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
+        "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        }
+      ],
+      "duration_ms": 195924,
+      "name": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
+      "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Kernkraft 400 (A Better Day) [MistaJam Remix]",
         "url": "https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz"
       },
@@ -271,34 +299,6 @@
       "duration_ms": 167307,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
-        "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        }
-      ],
-      "duration_ms": 195924,
-      "name": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
-      "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "To The Moon & Back",
-        "url": "https://open.spotify.com/album/7bWx6LxzmEd9JJ0I7OMqBW"
-      },
-      "artists": [
-        {
-          "name": "Eight Waters",
-          "url": "https://open.spotify.com/artist/3msbM40j3i96Q6xToNa28Y"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "To The Moon & Back",
-      "url": "https://open.spotify.com/track/1VGveBIiTkrnK27Bj0FAzu"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Bad Habits (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6Oj80oIJGFbFwionyBamow"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 189577,
       "name": "Bad Habits - Joel Corry Remix",
       "url": "https://open.spotify.com/track/5Q9DzNnrUCkJV1t1wWjYIX"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "To The Moon & Back",
+        "url": "https://open.spotify.com/album/7bWx6LxzmEd9JJ0I7OMqBW"
+      },
+      "artists": [
+        {
+          "name": "Eight Waters",
+          "url": "https://open.spotify.com/artist/3msbM40j3i96Q6xToNa28Y"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "To The Moon & Back",
+      "url": "https://open.spotify.com/track/1VGveBIiTkrnK27Bj0FAzu"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -843,30 +843,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "2019 Remixed",
-        "url": "https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 239062,
-      "name": "No Sleep (feat. Bonn) - DubVision Remix",
-      "url": "https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Detroit 3 AM (Radio Edit)",
         "url": "https://open.spotify.com/album/7aMXzM3ZzgHBUYBr7LK9mI"
       },
@@ -935,6 +911,30 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "2019 Remixed",
+        "url": "https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 239062,
+      "name": "No Sleep (feat. Bonn) - DubVision Remix",
+      "url": "https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Make You Mine (feat. Moa Lisa)",
         "url": "https://open.spotify.com/album/7J7m238D5jzzO8td6XGJHa"
       },
@@ -975,6 +975,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Release Me (feat. Kalhaader)",
+        "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
+      },
+      "artists": [
+        {
+          "name": "Twelve",
+          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
+        },
+        {
+          "name": "Kalhaader",
+          "url": "https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Release Me (feat. Kalhaader)",
+      "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Te Bot\u00e9",
         "url": "https://open.spotify.com/album/24tx57L8SkaN4SPUattbZI"
       },
@@ -999,42 +1019,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Release Me (feat. Kalhaader)",
-        "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
-      },
-      "artists": [
-        {
-          "name": "Twelve",
-          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
-        },
-        {
-          "name": "Kalhaader",
-          "url": "https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Release Me (feat. Kalhaader)",
-      "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "In My Head (On My Mind)",
-        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "In My Head (On My Mind)",
-      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "We Can Come Together",
         "url": "https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 216984,
       "name": "We Can Come Together",
       "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "In My Head (On My Mind)",
+        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "In My Head (On My Mind)",
+      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/25KcL764VFvS0yqVwbm9yX"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 240383,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Taste",
         "url": "https://open.spotify.com/album/3Lk4vSi2gzzYFXUlrnXF9Y"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 156774,
       "name": "Taste",
       "url": "https://open.spotify.com/track/0jcDf2K7yJsRAfa7XQmkIt"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "One Last Time",
-        "url": "https://open.spotify.com/album/25KcL764VFvS0yqVwbm9yX"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 240383,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Fast Forward",
-        "url": "https://open.spotify.com/album/6BfFBok2yGTgwBiA5OkxXN"
-      },
-      "artists": [
-        {
-          "name": "Danny Avila",
-          "url": "https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH"
-        }
-      ],
-      "duration_ms": 158854,
-      "name": "Fast Forward",
-      "url": "https://open.spotify.com/track/3tTCORojBSXdr6eEITzN91"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/3BkE4Ws2kwc5RPL9qoDQPI"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 147725,
       "name": "Kids",
       "url": "https://open.spotify.com/track/10A0QRPnDy605pBZ5Lw3pL"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Fast Forward",
+        "url": "https://open.spotify.com/album/6BfFBok2yGTgwBiA5OkxXN"
+      },
+      "artists": [
+        {
+          "name": "Danny Avila",
+          "url": "https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH"
+        }
+      ],
+      "duration_ms": 158854,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/3tTCORojBSXdr6eEITzN91"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1851,6 +1851,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq"
+      },
+      "artists": [
+        {
+          "name": "Basixx",
+          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
+        },
+        {
+          "name": "TASH",
+          "url": "https://open.spotify.com/artist/0HpJaHrAoLTxAeveCl2nhJ"
+        }
+      ],
+      "duration_ms": 192397,
+      "name": "If You're Looking for Trouble",
+      "url": "https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Wave (feat. Mike Sabath) [The Remixes]",
         "url": "https://open.spotify.com/album/72EUZdCcIBmbtn9uydakvF"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 193920,
       "name": "Wave (feat. Mike Sabath) - R3HAB Remix",
       "url": "https://open.spotify.com/track/4owZgn8PCpafrhBzJD7wNj"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq"
-      },
-      "artists": [
-        {
-          "name": "Basixx",
-          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
-        },
-        {
-          "name": "TASH",
-          "url": "https://open.spotify.com/artist/0HpJaHrAoLTxAeveCl2nhJ"
-        }
-      ],
-      "duration_ms": 192397,
-      "name": "If You're Looking for Trouble",
-      "url": "https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -2039,22 +2039,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Survivors",
-        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
+        "name": "Revival (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/6qXhVPnUWh9AeY4NyJp4dO"
       },
       "artists": [
         {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         },
         {
-          "name": "Next to Neon",
-          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 177560,
-      "name": "Survivors",
-      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
+      "duration_ms": 176250,
+      "name": "Revival - R3HAB Remix",
+      "url": "https://open.spotify.com/track/4nSDyc7YOr4JADylhhhAAn"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -2079,22 +2079,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Revival (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/6qXhVPnUWh9AeY4NyJp4dO"
+        "name": "Survivors",
+        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Next to Neon",
+          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Revival - R3HAB Remix",
-      "url": "https://open.spotify.com/track/4nSDyc7YOr4JADylhhhAAn"
+      "duration_ms": 177560,
+      "name": "Survivors",
+      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
     },
     {
       "added_at": "2022-11-10 23:00:00",

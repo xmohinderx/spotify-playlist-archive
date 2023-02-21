@@ -4,7 +4,7 @@
 
 > 
 
-203 songs - 12 hr 12 min
+205 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Mental Loop](https://open.spotify.com/track/7EovzLbZJ3mHcJ3239ytln) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 3:47 | 2021-07-04 |  |
 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 | 2022-12-19 |  |
 | [MISFORTUNE](https://open.spotify.com/track/2v3XiXADdx9wcmoLqzkyX7) | [hyperforms](https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub), [théos](https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru) | [MISFORTUNE](https://open.spotify.com/album/0PIqngcqaFZ08s8SK2EuBW) | 2:59 | 2018-11-27 |  |
+| [Miyako](https://open.spotify.com/track/7pkNtCOB3oitSNnzHNM5FX) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 4:09 | 2023-02-20 |  |
 | [Moon](https://open.spotify.com/track/5TIifxIVxDkXMsGaQsxjvB) | [nanebo](https://open.spotify.com/artist/0GItY0oa4LLOi7LBZ6f345) | [Moon](https://open.spotify.com/album/6e9D6OZsVXVgcQYJQaXcyh) | 2:44 | 2022-08-06 |  |
 | [Moonshinx](https://open.spotify.com/track/59DfeMKQitH6e1bhL3MCj1) | [MYSTXRIVL](https://open.spotify.com/artist/5puIJpEBWYS37qD8TS8gZq) | [Moonshinx](https://open.spotify.com/album/5rd0rMUhv2KuhMf6QF2q6c) | 3:40 | 2018-11-27 |  |
 | [MPH](https://open.spotify.com/track/1s9RYYdrGhhQTgMs4FQwC1) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [MPH](https://open.spotify.com/album/3bACb4K57DWmN4MXxLEw3n) | 4:00 | 2020-12-28 |  |
@@ -172,6 +173,7 @@
 | [SOUTH MEMPHIS](https://open.spotify.com/track/6lB7u4TFlnAfG31jR2Nlh3) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [THE SHADOW DOES NOT LET GO](https://open.spotify.com/album/1d7r1jS1OsAqd9fj5NYmH0) | 2:37 | 2020-07-16 |  |
 | [Space](https://open.spotify.com/track/1LDQNuUI0iO6rTfZ6IqSKf) | [Tokyo Tears](https://open.spotify.com/artist/4zEUlt3AmxKcL9CtFNIz32) | [Space](https://open.spotify.com/album/63VjFFKEqyHcMAPKbAC5u6) | 3:17 | 2020-08-10 |  |
 | [Spacing](https://open.spotify.com/track/1mTEtAKHbJdXvw7H8mvKo1) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 4:41 | 2020-01-05 |  |
+| [Stream](https://open.spotify.com/track/5GW3F4v5PJr4A9l2Fbs40G) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 3:32 | 2023-02-20 |  |
 | [Switch Up](https://open.spotify.com/track/5DhVPyGrCU55QTZMKVwQPU) | [COSMIC](https://open.spotify.com/artist/3yrkuc99URznjwVvVFtN78), [hyperforms](https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub) | [Switch Up](https://open.spotify.com/album/5oOxGXJxVWPecNxWQ9EGtQ) | 3:38 | 2018-11-27 |  |
 | [Synergy](https://open.spotify.com/track/6BWjy4BEMpbEzgwJm1637h) | [Lowly, Juche](https://open.spotify.com/artist/2oEQmXB8z2M6cenJyyrKDB) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:21 | 2020-11-05 |  |
 | [Taurine](https://open.spotify.com/track/4bL55alSleHn3g4BOfoZ1c) | [Dyzphoria](https://open.spotify.com/artist/6SehYBqIfg08SBrc7Ydreg) | [Taurine](https://open.spotify.com/album/6YQcG5LCig3DmaNd6HWtLv) | 3:24 | 2019-11-03 |  |

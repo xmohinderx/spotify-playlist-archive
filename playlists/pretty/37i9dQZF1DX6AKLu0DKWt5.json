@@ -1,12 +1,12 @@
 {
   "description": "Music from TV shows and films nominated for the 80th Golden Globe Awards. Watch Jan 10, 2023 on NBC.",
-  "num_followers": 5385,
+  "num_followers": 5388,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0NDczNCwwMDAwMDAwMDlkYTBlZWM5OTcxYjE3ZjUxYmVmZjhlNzVkMzNkNWQw",
+  "snapshot_id": "MTY3MTY0NDczNCwwMDAwMDAwMDgwNDFmMTJiMGQ2OWFjOTVkYTg4YmMwNjQ2OGY0MDY4",
   "tracks": [
     {
       "added_at": "2022-12-21 17:45:34",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
+        "name": "The Woman King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr"
+      },
+      "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "duration_ms": 97706,
+      "name": "Agojie Return",
+      "url": "https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
         "name": "George & Tammy (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/3vGFVncIwTikRP8iloLpwT"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 165752,
       "name": "Stand By Your Man",
       "url": "https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "The Woman King (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr"
-      },
-      "artists": [
-        {
-          "name": "Terence Blanchard",
-          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
-        }
-      ],
-      "duration_ms": 97706,
-      "name": "Agojie Return",
-      "url": "https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK"
     },
     {
       "added_at": "2022-12-21 17:45:34",

@@ -1,12 +1,12 @@
 {
   "description": "Electronic Trap House with Arab spices. Cover: DJ KABOO.",
-  "num_followers": 186625,
+  "num_followers": 186713,
   "original_name": "Arabic Trap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0MDk5MiwwMDAwMDAwMDEyZWVmOTljZjVjODNlZmZkNzg3ODdmYjlmZWRkNjlm",
+  "snapshot_id": "MTY3NjY0MDk5MiwwMDAwMDAwMDk5ZGFkY2ZlZTAyZGFmNWQ0N2MwOGE4MzhlZTE3YTZl",
   "tracks": [
     {
       "added_at": "2023-02-17 13:36:32",
@@ -167,70 +167,6 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "Morocco",
-        "url": "https://open.spotify.com/album/1kP5zGZ3TdujqaBRgzp3FQ"
-      },
-      "artists": [
-        {
-          "name": "Cris Taylor",
-          "url": "https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o"
-        }
-      ],
-      "duration_ms": 163248,
-      "name": "Morocco",
-      "url": "https://open.spotify.com/track/19pxMtNvRkNPYqoaCtCR5l"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
-        "name": "Arab Trap: Made in Egypt",
-        "url": "https://open.spotify.com/album/2ZYdkTjXsKXajkPiwUTgQ7"
-      },
-      "artists": [
-        {
-          "name": "DJ KABOO",
-          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
-        }
-      ],
-      "duration_ms": 154711,
-      "name": "Arab Trap: Made in Egypt",
-      "url": "https://open.spotify.com/track/2DBU3G7bYWcLKxKNtsXJ5h"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/7s5B41oZCupzZr5XnXge3g"
-      },
-      "artists": [
-        {
-          "name": "\u017bwirek",
-          "url": "https://open.spotify.com/artist/4PCOizPKIqh6TnlGcx3mDb"
-        }
-      ],
-      "duration_ms": 245721,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/3NaqIHRX07ZRWRGCMU7KNm"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
-        "name": "Dam",
-        "url": "https://open.spotify.com/album/3u0OvKGvYRQhn0ICKs5iOQ"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        }
-      ],
-      "duration_ms": 134408,
-      "name": "Dam",
-      "url": "https://open.spotify.com/track/6rPiKdPNCMmjRoSkHDxu8G"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
         "name": "Duhan",
         "url": "https://open.spotify.com/album/2rkrJKi74QsaWlV1ECTdEY"
       },
@@ -251,6 +187,70 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
+        "name": "Morocco",
+        "url": "https://open.spotify.com/album/1kP5zGZ3TdujqaBRgzp3FQ"
+      },
+      "artists": [
+        {
+          "name": "Cris Taylor",
+          "url": "https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o"
+        }
+      ],
+      "duration_ms": 163248,
+      "name": "Morocco",
+      "url": "https://open.spotify.com/track/19pxMtNvRkNPYqoaCtCR5l"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/7s5B41oZCupzZr5XnXge3g"
+      },
+      "artists": [
+        {
+          "name": "\u017bwirek",
+          "url": "https://open.spotify.com/artist/4PCOizPKIqh6TnlGcx3mDb"
+        }
+      ],
+      "duration_ms": 245721,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/3NaqIHRX07ZRWRGCMU7KNm"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
+        "name": "Arab Trap: Made in Egypt",
+        "url": "https://open.spotify.com/album/2ZYdkTjXsKXajkPiwUTgQ7"
+      },
+      "artists": [
+        {
+          "name": "DJ KABOO",
+          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
+        }
+      ],
+      "duration_ms": 154711,
+      "name": "Arab Trap: Made in Egypt",
+      "url": "https://open.spotify.com/track/2DBU3G7bYWcLKxKNtsXJ5h"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
+        "name": "Dam",
+        "url": "https://open.spotify.com/album/3u0OvKGvYRQhn0ICKs5iOQ"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        }
+      ],
+      "duration_ms": 134408,
+      "name": "Dam",
+      "url": "https://open.spotify.com/track/6rPiKdPNCMmjRoSkHDxu8G"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
         "name": "Omri",
         "url": "https://open.spotify.com/album/56vp0qNFa0zIsdW7D2iaUL"
       },
@@ -263,26 +263,6 @@
       "duration_ms": 196585,
       "name": "Omri",
       "url": "https://open.spotify.com/track/33XbI355jYdBpCabA0wp6U"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
-        "name": "Hawa (Arab Trap 8)",
-        "url": "https://open.spotify.com/album/77tT5i4ifAjyCmt4SgDqnH"
-      },
-      "artists": [
-        {
-          "name": "DJ KABOO",
-          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
-        },
-        {
-          "name": "NGM",
-          "url": "https://open.spotify.com/artist/2VsF2NWvL9ZA1IT2Ubpmjn"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Hawa (Arab Trap 8)",
-      "url": "https://open.spotify.com/track/1WzCTw3PIv4oWwxW57VIbW"
     },
     {
       "added_at": "2023-02-17 13:36:32",
@@ -383,6 +363,26 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
+        "name": "Hawa (Arab Trap 8)",
+        "url": "https://open.spotify.com/album/77tT5i4ifAjyCmt4SgDqnH"
+      },
+      "artists": [
+        {
+          "name": "DJ KABOO",
+          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
+        },
+        {
+          "name": "NGM",
+          "url": "https://open.spotify.com/artist/2VsF2NWvL9ZA1IT2Ubpmjn"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Hawa (Arab Trap 8)",
+      "url": "https://open.spotify.com/track/1WzCTw3PIv4oWwxW57VIbW"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
         "name": "Raqsni",
         "url": "https://open.spotify.com/album/3SnQhoe2qBBiB8k9ZFUbde"
       },
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "Arab Trap 2 / Habibi",
-        "url": "https://open.spotify.com/album/2lItbZXFxyql2Y2brBCiba"
+        "name": "Dulce",
+        "url": "https://open.spotify.com/album/01f58ABTNjb0quUNprou4v"
       },
       "artists": [
         {
-          "name": "DJ KABOO",
-          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
+          "name": "FG",
+          "url": "https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F"
         }
       ],
-      "duration_ms": 121573,
-      "name": "Arab Trap 2 / Habibi",
-      "url": "https://open.spotify.com/track/4tDlB4iuEuXaVOcDVh9N9v"
+      "duration_ms": 193959,
+      "name": "Dulce",
+      "url": "https://open.spotify.com/track/6pROMUI7CBvoe6zhP85OjV"
     },
     {
       "added_at": "2023-02-17 13:36:32",
@@ -431,22 +431,6 @@
       "duration_ms": 162821,
       "name": "Drop It Again",
       "url": "https://open.spotify.com/track/3PUjFJPKqz1j5MHV0MihsW"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
-        "name": "Dulce",
-        "url": "https://open.spotify.com/album/01f58ABTNjb0quUNprou4v"
-      },
-      "artists": [
-        {
-          "name": "FG",
-          "url": "https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F"
-        }
-      ],
-      "duration_ms": 193959,
-      "name": "Dulce",
-      "url": "https://open.spotify.com/track/6pROMUI7CBvoe6zhP85OjV"
     },
     {
       "added_at": "2023-02-17 13:36:32",
@@ -531,6 +515,22 @@
       "duration_ms": 198453,
       "name": "Kobra (feat. Pouvoir Magique)",
       "url": "https://open.spotify.com/track/6JTUikvtPRHUhcg0K3eXid"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
+        "name": "Arab Trap 2 / Habibi",
+        "url": "https://open.spotify.com/album/2lItbZXFxyql2Y2brBCiba"
+      },
+      "artists": [
+        {
+          "name": "DJ KABOO",
+          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
+        }
+      ],
+      "duration_ms": 121573,
+      "name": "Arab Trap 2 / Habibi",
+      "url": "https://open.spotify.com/track/4tDlB4iuEuXaVOcDVh9N9v"
     },
     {
       "added_at": "2023-02-17 13:36:32",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/40FRIOXfDACAYFUMrygBxW"
+      },
+      "artists": [
+        {
+          "name": "Naffar",
+          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
+        }
+      ],
+      "duration_ms": 162346,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/3aQ1FibqovngIl7WmQYgWC"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
         "name": "Tomb (feat. Rasha Kamal)",
         "url": "https://open.spotify.com/album/4aifbVzyNA4yp2ENybRQFX"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/40FRIOXfDACAYFUMrygBxW"
-      },
-      "artists": [
-        {
-          "name": "Naffar",
-          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
-        }
-      ],
-      "duration_ms": 162346,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/3aQ1FibqovngIl7WmQYgWC"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/2OkBDPfWUdeDjsWumFazvZ"
       },
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "ALMAZAT",
-        "url": "https://open.spotify.com/album/0s8UGDaOTmxfXDi1VAsowZ"
+        "name": "Sargon",
+        "url": "https://open.spotify.com/album/1UmnrooK6HERWjfZsPbSDl"
       },
       "artists": [
         {
-          "name": "El-M3allem",
-          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
+          "name": "AxLi",
+          "url": "https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56"
         }
       ],
-      "duration_ms": 188722,
-      "name": "ALMAZAT",
-      "url": "https://open.spotify.com/track/1l18f7daLQymXuUy6fQD6W"
+      "duration_ms": 184800,
+      "name": "Sargon",
+      "url": "https://open.spotify.com/track/4BLFw6EbBWHvKe7uTokPe5"
     }
   ],
   "unique_name": "Arabic Trap",

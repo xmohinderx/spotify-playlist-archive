@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Joy Oladokun
 
-986 songs - 2 day 12 hr 54 min
+987 songs - 2 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,8 @@
 | [I Don't Trust Myself \(With Loving You\)](https://open.spotify.com/track/00FF6mbdRG0ePT5Mh85pGj) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [I Don't Trust Myself \(With Loving You\)](https://open.spotify.com/album/5qHzLq1oFCokv1g8Y65q8k) | 4:36 | 2022-05-27 | 2022-10-01 |
 | [I Don't Want to Go](https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Water](https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w) | 5:04 | 2021-11-12 | 2022-02-19 |
 | [I Feel for You](https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Feel for You](https://open.spotify.com/album/1T7prrdakLyU8Nk7AlXEgb) | 3:03 | 2022-03-04 | 2022-04-02 |
-| [I Feel It](https://open.spotify.com/track/5PTDUraHge5XgzG4lzm5Hb) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [I Feel It](https://open.spotify.com/album/4ubQDotUd6fO1TDA7CBQn7) | 4:56 | 2023-01-06 |  |
+| [I Feel It](https://open.spotify.com/track/0E6m9inoxFDDpZ1BwjVups) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 4:56 | 2023-02-17 |  |
+| [I Feel It](https://open.spotify.com/track/5PTDUraHge5XgzG4lzm5Hb) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [I Feel It](https://open.spotify.com/album/4ubQDotUd6fO1TDA7CBQn7) | 4:56 | 2023-01-06 | 2023-02-21 |
 | [I felt a Funeral, in my Brain \[feat\. Phoebe Bridgers\]](https://open.spotify.com/track/7ko94TOP3vONuYqHLH6zpe) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [I felt a Funeral, in my Brain \[feat\. Phoebe Bridgers\]](https://open.spotify.com/album/2NAQ55IP8e5YH9sasQDuCJ) | 4:09 | 2022-10-28 | 2023-01-14 |
 | [I Got This](https://open.spotify.com/track/3KMrapCsGVYo4LtT6vHjn2) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Nightroamer](https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc) | 2:59 | 2022-02-18 | 2022-04-23 |
 | [i had a dream that you died](https://open.spotify.com/track/3S7qHSnfJDGjiTsvSMd92e) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [i had a dream that you died](https://open.spotify.com/album/5Sr54ojlK5V66jCFnVCfMM) | 2:18 | 2022-07-29 | 2022-09-24 |

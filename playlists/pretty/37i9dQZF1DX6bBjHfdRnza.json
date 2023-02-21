@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: Swami Sound. Artwork by Rewina Beshue. Updates every Wednesday.",
-  "num_followers": 143294,
+  "num_followers": 143406,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4MTU3MSwwMDAwMDAwMDQ2N2QzMDA5OTQ2MjVmM2E1MjIxZDI0N2NmMmRiZjc4",
+  "snapshot_id": "MTY3NjQ4MTU3MSwwMDAwMDAwMGE4ZDJhY2RiNTE4ZDk5NzA0Mzk0YTYwMGM2MzQzYmI5",
   "tracks": [
     {
       "added_at": "2023-02-15 17:19:31",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-02-02 01:02:36",
       "album": {
+        "name": "Eventually",
+        "url": "https://open.spotify.com/album/44vU8bvz48GPOLWApb2KFQ"
+      },
+      "artists": [
+        {
+          "name": "Adam Swim",
+          "url": "https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35"
+        }
+      ],
+      "duration_ms": 227900,
+      "name": "Eventually",
+      "url": "https://open.spotify.com/track/0itbF1vuxeJ79TLROaYVm7"
+    },
+    {
+      "added_at": "2023-02-02 01:02:36",
+      "album": {
         "name": "Drive Me",
         "url": "https://open.spotify.com/album/0Q3f6szzXmjxSTAdhlI096"
       },
@@ -393,20 +409,40 @@
       "url": "https://open.spotify.com/track/735PDoBMhWUNaUy1spdA03"
     },
     {
-      "added_at": "2023-02-02 01:02:36",
+      "added_at": "2023-02-15 17:19:31",
       "album": {
-        "name": "Eventually",
-        "url": "https://open.spotify.com/album/44vU8bvz48GPOLWApb2KFQ"
+        "name": "It's Not Working",
+        "url": "https://open.spotify.com/album/5LCTrmuDIM25SSVHdugexk"
       },
       "artists": [
         {
-          "name": "Adam Swim",
-          "url": "https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35"
+          "name": "Mayn",
+          "url": "https://open.spotify.com/artist/0d5MTUMaLqaku4HMBNnSjk"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
         }
       ],
-      "duration_ms": 227900,
-      "name": "Eventually",
-      "url": "https://open.spotify.com/track/0itbF1vuxeJ79TLROaYVm7"
+      "duration_ms": 242250,
+      "name": "It's Not Working",
+      "url": "https://open.spotify.com/track/0Ys9jGPBLyf9IikVkZbxX5"
+    },
+    {
+      "added_at": "2023-02-15 17:19:31",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/0iP36TG3GD4bVof1S2ZJuB"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 194758,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2LTDoJXKif735jmUZwafPH"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -427,18 +463,18 @@
     {
       "added_at": "2023-02-15 17:19:31",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/0iP36TG3GD4bVof1S2ZJuB"
+        "name": "mothbulb",
+        "url": "https://open.spotify.com/album/45iFMHKyccEJZQ4MwLLk3Z"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "TONY OR TONY",
+          "url": "https://open.spotify.com/artist/34lTsweHtOUtJp2zMIkiz7"
         }
       ],
-      "duration_ms": 194758,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2LTDoJXKif735jmUZwafPH"
+      "duration_ms": 153478,
+      "name": "mothbulb",
+      "url": "https://open.spotify.com/track/13z5kW8Rp6X6Cla6K4IEvz"
     },
     {
       "added_at": "2023-02-02 01:02:36",
@@ -477,22 +513,6 @@
       "url": "https://open.spotify.com/track/1a3G2HBJnMnr6lB52tt30M"
     },
     {
-      "added_at": "2023-02-15 17:19:31",
-      "album": {
-        "name": "mothbulb",
-        "url": "https://open.spotify.com/album/45iFMHKyccEJZQ4MwLLk3Z"
-      },
-      "artists": [
-        {
-          "name": "TONY OR TONY",
-          "url": "https://open.spotify.com/artist/34lTsweHtOUtJp2zMIkiz7"
-        }
-      ],
-      "duration_ms": 153478,
-      "name": "mothbulb",
-      "url": "https://open.spotify.com/track/13z5kW8Rp6X6Cla6K4IEvz"
-    },
-    {
       "added_at": "2023-02-08 16:30:00",
       "album": {
         "name": "So Close",
@@ -507,26 +527,6 @@
       "duration_ms": 298686,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7ad7oGYJdz0DKXt2hXLJoS"
-    },
-    {
-      "added_at": "2023-02-15 17:19:31",
-      "album": {
-        "name": "It's Not Working",
-        "url": "https://open.spotify.com/album/5LCTrmuDIM25SSVHdugexk"
-      },
-      "artists": [
-        {
-          "name": "Mayn",
-          "url": "https://open.spotify.com/artist/0d5MTUMaLqaku4HMBNnSjk"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 242250,
-      "name": "It's Not Working",
-      "url": "https://open.spotify.com/track/0Ys9jGPBLyf9IikVkZbxX5"
     },
     {
       "added_at": "2023-02-08 16:30:00",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/6aNxRcSTbWKRTOaqJII9Dx"
     },
     {
-      "added_at": "2023-02-08 16:30:00",
-      "album": {
-        "name": "Eventually",
-        "url": "https://open.spotify.com/album/44vU8bvz48GPOLWApb2KFQ"
-      },
-      "artists": [
-        {
-          "name": "Adam Swim",
-          "url": "https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35"
-        }
-      ],
-      "duration_ms": 275485,
-      "name": "When You Wake",
-      "url": "https://open.spotify.com/track/6VjDtChLNhmF8Wm5CU3Pbk"
-    },
-    {
       "added_at": "2023-02-15 17:19:31",
       "album": {
         "name": "Different",
@@ -663,6 +647,22 @@
     {
       "added_at": "2023-02-15 17:19:31",
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/40e19DXM4NgcsO1RenWOzI"
+      },
+      "artists": [
+        {
+          "name": "SAINT",
+          "url": "https://open.spotify.com/artist/5PoQmMLwwzA0lnmnhbip2n"
+        }
+      ],
+      "duration_ms": 270010,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/1B0JPbHveYeKoEfOYep3Ja"
+    },
+    {
+      "added_at": "2023-02-15 17:19:31",
+      "album": {
         "name": "cantthinkofaname",
         "url": "https://open.spotify.com/album/4F7uTTKK65dLfximrw5FhN"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 226451,
       "name": "cantthinkofaname",
       "url": "https://open.spotify.com/track/5QxrUAzSRLlVmgWUvhwbLD"
+    },
+    {
+      "added_at": "2023-02-08 16:30:00",
+      "album": {
+        "name": "Eventually",
+        "url": "https://open.spotify.com/album/44vU8bvz48GPOLWApb2KFQ"
+      },
+      "artists": [
+        {
+          "name": "Adam Swim",
+          "url": "https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35"
+        }
+      ],
+      "duration_ms": 275485,
+      "name": "When You Wake",
+      "url": "https://open.spotify.com/track/6VjDtChLNhmF8Wm5CU3Pbk"
     },
     {
       "added_at": "2023-02-02 01:02:36",
@@ -691,22 +707,6 @@
       "duration_ms": 311601,
       "name": "Endless",
       "url": "https://open.spotify.com/track/3n4exznFpCunrvLV5ePD5f"
-    },
-    {
-      "added_at": "2023-02-15 17:19:31",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/40e19DXM4NgcsO1RenWOzI"
-      },
-      "artists": [
-        {
-          "name": "SAINT",
-          "url": "https://open.spotify.com/artist/5PoQmMLwwzA0lnmnhbip2n"
-        }
-      ],
-      "duration_ms": 270010,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/1B0JPbHveYeKoEfOYep3Ja"
     },
     {
       "added_at": "2023-02-08 16:30:00",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/6Jc9zvnkG7Q2t4pmpuVTl2"
     },
     {
-      "added_at": "2023-02-08 16:30:00",
-      "album": {
-        "name": "Another Brainstorm",
-        "url": "https://open.spotify.com/album/3vw3whYL7P12DQquD0XOPC"
-      },
-      "artists": [
-        {
-          "name": "Papa Nugs",
-          "url": "https://open.spotify.com/artist/03ByonbL0ZBHM7vZ8WxbFP"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Another Brainstorm",
-      "url": "https://open.spotify.com/track/5AwuWTECxyiSEMrMH7Xyka"
-    },
-    {
       "added_at": "2023-02-15 17:19:31",
       "album": {
         "name": "Moon Rising (10 Years)",
@@ -793,6 +777,22 @@
       "url": "https://open.spotify.com/track/1Ss2yRnWazM2Vp7j4QZZ6c"
     },
     {
+      "added_at": "2023-02-08 16:30:00",
+      "album": {
+        "name": "Another Brainstorm",
+        "url": "https://open.spotify.com/album/3vw3whYL7P12DQquD0XOPC"
+      },
+      "artists": [
+        {
+          "name": "Papa Nugs",
+          "url": "https://open.spotify.com/artist/03ByonbL0ZBHM7vZ8WxbFP"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Another Brainstorm",
+      "url": "https://open.spotify.com/track/5AwuWTECxyiSEMrMH7Xyka"
+    },
+    {
       "added_at": "2023-02-02 01:02:36",
       "album": {
         "name": "Siamese Anthology V (Part 2/4)",
@@ -807,22 +807,6 @@
       "duration_ms": 385960,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/6owBgS7GUtTj9YlqpHnVtl"
-    },
-    {
-      "added_at": "2023-02-08 16:30:00",
-      "album": {
-        "name": "1500",
-        "url": "https://open.spotify.com/album/0ChMTc5J9XvwcuqK0ShEPx"
-      },
-      "artists": [
-        {
-          "name": "DJ BLIK",
-          "url": "https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE"
-        }
-      ],
-      "duration_ms": 263111,
-      "name": "1500",
-      "url": "https://open.spotify.com/track/4zF4GDsQjWSirRo7E0OAcN"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -841,6 +825,22 @@
       "url": "https://open.spotify.com/track/5caXgageFqvA8zELmKN4r7"
     },
     {
+      "added_at": "2023-02-08 16:30:00",
+      "album": {
+        "name": "1500",
+        "url": "https://open.spotify.com/album/0ChMTc5J9XvwcuqK0ShEPx"
+      },
+      "artists": [
+        {
+          "name": "DJ BLIK",
+          "url": "https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE"
+        }
+      ],
+      "duration_ms": 263111,
+      "name": "1500",
+      "url": "https://open.spotify.com/track/4zF4GDsQjWSirRo7E0OAcN"
+    },
+    {
       "added_at": "2023-02-02 01:02:36",
       "album": {
         "name": "Rebota EP",
@@ -855,54 +855,6 @@
       "duration_ms": 166875,
       "name": "Djamba",
       "url": "https://open.spotify.com/track/7ct4xVVb4IZp8eeDW4e9Ff"
-    },
-    {
-      "added_at": "2023-02-08 16:30:00",
-      "album": {
-        "name": "Favourite State",
-        "url": "https://open.spotify.com/album/60WfBgmF4wWtWkzX4S4joD"
-      },
-      "artists": [
-        {
-          "name": "Alps 2",
-          "url": "https://open.spotify.com/artist/3ZGwQcTbkx3ubLRoXUBcCd"
-        }
-      ],
-      "duration_ms": 244499,
-      "name": "Favourite State - Edit",
-      "url": "https://open.spotify.com/track/5DFWLCK0UNHZLGZVmA1248"
-    },
-    {
-      "added_at": "2023-02-08 16:30:00",
-      "album": {
-        "name": "No Lie",
-        "url": "https://open.spotify.com/album/2zz6KdMmS1sqK9uOlrvE6W"
-      },
-      "artists": [
-        {
-          "name": "American Dance Ghosts",
-          "url": "https://open.spotify.com/artist/5iK0IA5h8WCOKSCfiJGVLT"
-        }
-      ],
-      "duration_ms": 267096,
-      "name": "No Lie",
-      "url": "https://open.spotify.com/track/2tixFjoUKv6rfgcWFXcJdI"
-    },
-    {
-      "added_at": "2023-02-15 17:19:31",
-      "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/2c1IKnn0IDatpQjyX7ol81"
-      },
-      "artists": [
-        {
-          "name": "Azifm",
-          "url": "https://open.spotify.com/artist/3KhcY0eVTSmC16IXBPICt7"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/5GlhhRZDmu21IrUHml94eZ"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -923,6 +875,38 @@
     {
       "added_at": "2023-02-15 17:19:31",
       "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2c1IKnn0IDatpQjyX7ol81"
+      },
+      "artists": [
+        {
+          "name": "Azifm",
+          "url": "https://open.spotify.com/artist/3KhcY0eVTSmC16IXBPICt7"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/5GlhhRZDmu21IrUHml94eZ"
+    },
+    {
+      "added_at": "2023-02-08 16:30:00",
+      "album": {
+        "name": "Favourite State",
+        "url": "https://open.spotify.com/album/60WfBgmF4wWtWkzX4S4joD"
+      },
+      "artists": [
+        {
+          "name": "Alps 2",
+          "url": "https://open.spotify.com/artist/3ZGwQcTbkx3ubLRoXUBcCd"
+        }
+      ],
+      "duration_ms": 244499,
+      "name": "Favourite State - Edit",
+      "url": "https://open.spotify.com/track/5DFWLCK0UNHZLGZVmA1248"
+    },
+    {
+      "added_at": "2023-02-15 17:19:31",
+      "album": {
         "name": "Vesper",
         "url": "https://open.spotify.com/album/7disSV9sSYwZFyhq9CXykz"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 259282,
       "name": "Vesper",
       "url": "https://open.spotify.com/track/19MI4vOCHcaDs7zhH9PCDi"
+    },
+    {
+      "added_at": "2023-02-08 16:30:00",
+      "album": {
+        "name": "No Lie",
+        "url": "https://open.spotify.com/album/2zz6KdMmS1sqK9uOlrvE6W"
+      },
+      "artists": [
+        {
+          "name": "American Dance Ghosts",
+          "url": "https://open.spotify.com/artist/5iK0IA5h8WCOKSCfiJGVLT"
+        }
+      ],
+      "duration_ms": 267096,
+      "name": "No Lie",
+      "url": "https://open.spotify.com/track/2tixFjoUKv6rfgcWFXcJdI"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -951,6 +951,22 @@
       "duration_ms": 345198,
       "name": "Night Cruise",
       "url": "https://open.spotify.com/track/2qvqEio0ZHDaslzHNZpNeX"
+    },
+    {
+      "added_at": "2023-02-15 17:19:31",
+      "album": {
+        "name": "Disko Luv",
+        "url": "https://open.spotify.com/album/4ZMat81ejgkMk3UGR1Hukz"
+      },
+      "artists": [
+        {
+          "name": "Dish Dash",
+          "url": "https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Disko Luv",
+      "url": "https://open.spotify.com/track/3S3dUBSi2dahXcWM1CyIL6"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -999,22 +1015,6 @@
       "duration_ms": 170322,
       "name": "Night Speech",
       "url": "https://open.spotify.com/track/7DyfuJG5ESxz4ONQd8zX4T"
-    },
-    {
-      "added_at": "2023-02-15 17:19:31",
-      "album": {
-        "name": "Disko Luv",
-        "url": "https://open.spotify.com/album/4ZMat81ejgkMk3UGR1Hukz"
-      },
-      "artists": [
-        {
-          "name": "Dish Dash",
-          "url": "https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Disko Luv",
-      "url": "https://open.spotify.com/track/3S3dUBSi2dahXcWM1CyIL6"
     },
     {
       "added_at": "2023-02-02 01:02:36",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-02-15 17:19:31",
       "album": {
+        "name": "Echidna",
+        "url": "https://open.spotify.com/album/44bhlEA1YUxuFaOux3qWxE"
+      },
+      "artists": [
+        {
+          "name": "Gambusia",
+          "url": "https://open.spotify.com/artist/3OrVLfEcWIkUSAfIKZusyT"
+        }
+      ],
+      "duration_ms": 409655,
+      "name": "Echidna",
+      "url": "https://open.spotify.com/track/53l9yuEnwdZt3bAd7AoYBR"
+    },
+    {
+      "added_at": "2023-02-15 17:19:31",
+      "album": {
         "name": "No Other Way / We Run It",
         "url": "https://open.spotify.com/album/6fgSpnPZULVsB3qBOxUMrF"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 167438,
       "name": "Tape",
       "url": "https://open.spotify.com/track/2FyDuQNIlYM8V3CUwMndQL"
-    },
-    {
-      "added_at": "2023-02-15 17:19:31",
-      "album": {
-        "name": "Echidna",
-        "url": "https://open.spotify.com/album/44bhlEA1YUxuFaOux3qWxE"
-      },
-      "artists": [
-        {
-          "name": "Gambusia",
-          "url": "https://open.spotify.com/artist/3OrVLfEcWIkUSAfIKZusyT"
-        }
-      ],
-      "duration_ms": 409655,
-      "name": "Echidna",
-      "url": "https://open.spotify.com/track/53l9yuEnwdZt3bAd7AoYBR"
     },
     {
       "added_at": "2023-02-15 17:19:31",

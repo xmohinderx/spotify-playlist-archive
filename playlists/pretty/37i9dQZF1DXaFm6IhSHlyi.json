@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 136779,
+  "num_followers": 136815,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg1NjQ0NywwMDAwMDAwMDkyZTJjODU1NTMwNmRiZDU5OWUxOTY5OTFhNDI1Y2U5",
+  "snapshot_id": "MTY3NTg1NjQ0NywwMDAwMDAwMDYwYzU1NTA5MGNlNjc0Njk1MjlhYTczM2RlNjNhMWMy",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -483,6 +483,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
+        "url": "https://open.spotify.com/album/2MOs2gBy14kW9jYXbv2A3O"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "duration_ms": 265363,
+      "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
+      "url": "https://open.spotify.com/track/3zl7j5ua8mF4JDYuxrfo01"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Kabir Singh",
         "url": "https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 232338,
       "name": "Like I'm Gonna Lose You",
       "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
-        "url": "https://open.spotify.com/album/2MOs2gBy14kW9jYXbv2A3O"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        }
-      ],
-      "duration_ms": 265363,
-      "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
-      "url": "https://open.spotify.com/track/3zl7j5ua8mF4JDYuxrfo01"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -655,6 +655,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "FANTAS\u00cdA",
+        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 221386,
+      "name": "En Guerra",
+      "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Meri Pyaari Bindu",
         "url": "https://open.spotify.com/album/5aB2ao1SUs9f4bAmptE1yM"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 160736,
       "name": "17",
       "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "FANTAS\u00cdA",
-        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 221386,
-      "name": "En Guerra",
-      "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -807,6 +807,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "PINK PLANET",
+        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 169127,
+      "name": "At My Worst (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "tere bina (Acoustic)",
         "url": "https://open.spotify.com/album/0DiiqwlK2RmAOq7MTlqEqW"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 192613,
       "name": "Ocean - Remix",
       "url": "https://open.spotify.com/track/3Z5fGV8tIdwx3W0CgR9JTx"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "PINK PLANET",
-        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 169127,
-      "name": "At My Worst (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u0421\u0430\u043b\u044e\u0442, \u0412\u0435\u0440\u0430",
-        "url": "https://open.spotify.com/album/75MrdzzI1A1pUlbzKnSvVM"
-      },
-      "artists": [
-        {
-          "name": "Mona Songz",
-          "url": "https://open.spotify.com/artist/4EGgyHCS7Yss2ttVKokdOl"
-        }
-      ],
-      "duration_ms": 202755,
-      "name": "\u0421\u0430\u043b\u044e\u0442, \u0412\u0435\u0440\u0430",
-      "url": "https://open.spotify.com/track/4MkpJLmeQX6D4ZMulyWxGO"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
         "url": "https://open.spotify.com/album/3WTrVz82sYtWNhY5QWdOAf"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 240971,
       "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
       "url": "https://open.spotify.com/track/5Un71eDlbiGDEzZJzACuNp"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "\u0421\u0430\u043b\u044e\u0442, \u0412\u0435\u0440\u0430",
+        "url": "https://open.spotify.com/album/75MrdzzI1A1pUlbzKnSvVM"
+      },
+      "artists": [
+        {
+          "name": "Mona Songz",
+          "url": "https://open.spotify.com/artist/4EGgyHCS7Yss2ttVKokdOl"
+        }
+      ],
+      "duration_ms": 202755,
+      "name": "\u0421\u0430\u043b\u044e\u0442, \u0412\u0435\u0440\u0430",
+      "url": "https://open.spotify.com/track/4MkpJLmeQX6D4ZMulyWxGO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Jet Lag",
-        "url": "https://open.spotify.com/album/70CaXkLUnM9Ht9BrSxKHIm"
-      },
-      "artists": [
-        {
-          "name": "Gavin Haley",
-          "url": "https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f"
-        }
-      ],
-      "duration_ms": 150011,
-      "name": "Jet Lag",
-      "url": "https://open.spotify.com/track/4nDNTISVKzP3YjW4vvW1B1"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Schritte",
         "url": "https://open.spotify.com/album/20LClG6Zq5sVEGo2HDOtjY"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 256417,
       "name": "Dalan Liyane",
       "url": "https://open.spotify.com/track/1x6ptFLd5HJmSmrO5BuGOh"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Jet Lag",
+        "url": "https://open.spotify.com/album/70CaXkLUnM9Ht9BrSxKHIm"
+      },
+      "artists": [
+        {
+          "name": "Gavin Haley",
+          "url": "https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f"
+        }
+      ],
+      "duration_ms": 150011,
+      "name": "Jet Lag",
+      "url": "https://open.spotify.com/track/4nDNTISVKzP3YjW4vvW1B1"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sei L\u00e1",
-        "url": "https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Tinoco",
-          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "Sei L\u00e1",
-      "url": "https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Tum Na Ho",
         "url": "https://open.spotify.com/album/6472XqZVt7gHSO4K40Pqk7"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 210857,
       "name": "Tum Na Ho",
       "url": "https://open.spotify.com/track/65QRFvzB2ZLJ1BygWPxxVj"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sei L\u00e1",
+        "url": "https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Tinoco",
+          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Sei L\u00e1",
+      "url": "https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Sorry (Live)",
+        "url": "https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 204052,
+      "name": "Sorry - Live",
+      "url": "https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Benar Cinta",
         "url": "https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 219913,
       "name": "\u672a\u958b\u5c01\u306e\u604b",
       "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Sorry (Live)",
-        "url": "https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 204052,
-      "name": "Sorry - Live",
-      "url": "https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/3yEQXRLQ8SGkgwhGm9r7m5"
+      },
+      "artists": [
+        {
+          "name": "Fukane",
+          "url": "https://open.spotify.com/artist/13VxMNV4dIEGPKFFh6hXul"
+        }
+      ],
+      "duration_ms": 225082,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/4RDy6zlwAFeMGGKeeJTwUA"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
       },
@@ -2111,22 +2127,6 @@
       "duration_ms": 230000,
       "name": "111",
       "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/3yEQXRLQ8SGkgwhGm9r7m5"
-      },
-      "artists": [
-        {
-          "name": "Fukane",
-          "url": "https://open.spotify.com/artist/13VxMNV4dIEGPKFFh6hXul"
-        }
-      ],
-      "duration_ms": 225082,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/4RDy6zlwAFeMGGKeeJTwUA"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "yours, sincerely",
-        "url": "https://open.spotify.com/album/43b8UZkmMf0dVTktnr7qTO"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 271191,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/52KkasHx39h4QJ5yiEcw1n"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Don't forget me (Prod. ROCOBERRY)",
         "url": "https://open.spotify.com/album/2PE9zF0g4LWpmxkpYzBsZg"
       },
@@ -2215,6 +2199,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "yours, sincerely",
+        "url": "https://open.spotify.com/album/43b8UZkmMf0dVTktnr7qTO"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 271191,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/52KkasHx39h4QJ5yiEcw1n"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Akustikhane",
         "url": "https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk"
       },
@@ -2227,6 +2227,22 @@
       "duration_ms": 331607,
       "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
       "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Madhaniyan (Live) - Single",
+        "url": "https://open.spotify.com/album/4cTYoTEenq525lP6832Nq5"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "duration_ms": 261593,
+      "name": "Madhaniyan (Live)",
+      "url": "https://open.spotify.com/track/6pceIfQ5noY5Oe6BaskeNh"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2251,22 +2267,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Madhaniyan (Live) - Single",
-        "url": "https://open.spotify.com/album/4cTYoTEenq525lP6832Nq5"
-      },
-      "artists": [
-        {
-          "name": "Neha Bhasin",
-          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
-        }
-      ],
-      "duration_ms": 261593,
-      "name": "Madhaniyan (Live)",
-      "url": "https://open.spotify.com/track/6pceIfQ5noY5Oe6BaskeNh"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.11",
         "url": "https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB"
       },
@@ -2279,22 +2279,6 @@
       "duration_ms": 307500,
       "name": "\uc0ac\ub791\uc758\uc778\uc0ac",
       "url": "https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
-      },
-      "artists": [
-        {
-          "name": "Bigman",
-          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
-        }
-      ],
-      "duration_ms": 218501,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2319,18 +2303,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "I mecht nur wissn wo du bist (I.U.E.)",
-        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
       },
       "artists": [
         {
-          "name": "Popwal",
-          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
+          "name": "Bigman",
+          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
         }
       ],
-      "duration_ms": 207920,
-      "name": "I mecht nur wissn wo du bist - I.U.E.",
-      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
+      "duration_ms": 218501,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2347,6 +2331,22 @@
       "duration_ms": 275913,
       "name": "Maghihintay",
       "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "I mecht nur wissn wo du bist (I.U.E.)",
+        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
+      },
+      "artists": [
+        {
+          "name": "Popwal",
+          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "I mecht nur wissn wo du bist - I.U.E.",
+      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2383,18 +2383,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Cardamom Tea",
-        "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
+        "name": "Right There",
+        "url": "https://open.spotify.com/album/4xGFzLizscpyGNhPmK7vZK"
       },
       "artists": [
         {
-          "name": "Dania",
-          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+          "name": "Ramzi",
+          "url": "https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo"
         }
       ],
-      "duration_ms": 221714,
-      "name": "Cardamom Tea",
-      "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
+      "duration_ms": 239946,
+      "name": "Right There",
+      "url": "https://open.spotify.com/track/1LJlfMCNcVuIRTUJY3BmTX"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2415,6 +2415,22 @@
       "duration_ms": 170156,
       "name": "Patience",
       "url": "https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Cardamom Tea",
+        "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
+      },
+      "artists": [
+        {
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "Cardamom Tea",
+      "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2471,22 +2487,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Right There",
-        "url": "https://open.spotify.com/album/4xGFzLizscpyGNhPmK7vZK"
-      },
-      "artists": [
-        {
-          "name": "Ramzi",
-          "url": "https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo"
-        }
-      ],
-      "duration_ms": 239946,
-      "name": "Right There",
-      "url": "https://open.spotify.com/track/1LJlfMCNcVuIRTUJY3BmTX"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Sushi Season (The First)",
         "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
       },
@@ -2499,22 +2499,6 @@
       "duration_ms": 243504,
       "name": "Pindirai",
       "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
-      },
-      "artists": [
-        {
-          "name": "Calby",
-          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
-        }
-      ],
-      "duration_ms": 187535,
-      "name": "The Everyday Bit",
-      "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2539,18 +2523,34 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sikasih",
-        "url": "https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq"
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
       },
       "artists": [
         {
-          "name": "Abam",
-          "url": "https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL"
+          "name": "Calby",
+          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
         }
       ],
-      "duration_ms": 186915,
-      "name": "Sikasih",
-      "url": "https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2"
+      "duration_ms": 187535,
+      "name": "The Everyday Bit",
+      "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Obscured star",
+        "url": "https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "duration_ms": 268426,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7"
     }
   ],
   "unique_name": "Ballads International",

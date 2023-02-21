@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to the women of the world at full volume\. Cover: Leony
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,571 likes - 73 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,525 likes - 73 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 19 | [ça m'ennuie pas](https://open.spotify.com/track/7siHCotFdZC5xbITODUm2U) | [Chérine](https://open.spotify.com/artist/3O9jaKAXthR1nO4CTCAzRM) | [ça m'ennuie pas](https://open.spotify.com/album/78CAyyGUofZpcsX7daKIrc) | 3:01 |
 | 20 | [x ti](https://open.spotify.com/track/6Ih6h9g3dUDc4MvIunXv6g) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [x ti](https://open.spotify.com/album/6ZeF95nJeLg3UIxQeppWKU) | 2:41 |
 | 21 | [Hạ Phỏm](https://open.spotify.com/track/2lGGlexu72TnPQPUHd8NWt) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:15 |
-| 22 | [Suzuki](https://open.spotify.com/track/4HzgLpnh5U2Id1uBHbPuQ0) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Suzuki](https://open.spotify.com/album/7yyp5pGRqPaXmfg1vaxnt9) | 2:39 |
-| 23 | [2/10](https://open.spotify.com/track/5GyjN34ERWoiTbNDEje48C) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [2/10](https://open.spotify.com/album/1WHuYkVgYBm2yh5EbYzyq6) | 3:50 |
-| 24 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 |
+| 22 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 |
+| 23 | [Suzuki](https://open.spotify.com/track/4HzgLpnh5U2Id1uBHbPuQ0) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Suzuki](https://open.spotify.com/album/7yyp5pGRqPaXmfg1vaxnt9) | 2:39 |
+| 24 | [2/10](https://open.spotify.com/track/5GyjN34ERWoiTbNDEje48C) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [2/10](https://open.spotify.com/album/1WHuYkVgYBm2yh5EbYzyq6) | 3:50 |
 | 25 | [BLOW!](https://open.spotify.com/track/4dUDX48wvKwio1oXFtmzA6) | [Karencitta](https://open.spotify.com/artist/0touaoSr4QOLYxBJ9lmGgK) | [BLOW!](https://open.spotify.com/album/2xX8q9GzY7xM00hMSCiPkn) | 2:42 |
 | 26 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
 | 27 | [Ma Place](https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Ma Place](https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK) | 2:41 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 37 | [Break It](https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN) | [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt) | [Break It](https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega) | 2:47 |
 | 38 | [Haramata](https://open.spotify.com/track/2q2cxmczUo4AAZXmjeNzMk) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Haramata](https://open.spotify.com/album/2dKt5Zwj1nNiOb0ncJSE6W) | 3:12 |
 | 39 | [Hey Mom Hey Dad](https://open.spotify.com/track/4WZxhWx3eLXPkNwjJx2VsP) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Hey Mom Hey Dad](https://open.spotify.com/album/4IfKTKRlwGJa5pCL2TF88D) | 2:53 |
-| 40 | [Late Night People](https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Late Night People](https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo) | 5:34 |
-| 41 | [Down Down Down Down](https://open.spotify.com/track/2N0P1fCYL7tnxq4RiPAz2l) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Down Down Down Down](https://open.spotify.com/album/4dggVrjDYcUArNkVpqdHKU) | 3:11 |
+| 40 | [Down Down Down Down](https://open.spotify.com/track/2N0P1fCYL7tnxq4RiPAz2l) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Down Down Down Down](https://open.spotify.com/album/4dggVrjDYcUArNkVpqdHKU) | 3:11 |
+| 41 | [Late Night People](https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Late Night People](https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo) | 5:34 |
 | 42 | [There's Too Much Of You](https://open.spotify.com/track/7ox53QO10ykeeAkrFvmn3f) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/1RpUrBuml8USoJNuUAbVrH) | 2:18 |
 | 43 | [Juguito Mañanero](https://open.spotify.com/track/3H5Esjz1C6r3nWyBMRNpQI) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Juguito Mañanero](https://open.spotify.com/album/68JOn4Xtdqgez41Wkvic88) | 2:46 |
 | 44 | [Wytrzymam](https://open.spotify.com/track/1cbgaTsV1q6qZ3sfhIVHxh) | [Pola Rise](https://open.spotify.com/artist/3MTuYlKV6qbJXPLh7kmf4B) | [Wytrzymam](https://open.spotify.com/album/2NKBpcoWvoqam8c3JlBUYf) | 4:03 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 55 | [O quarto \(fado Pagem\)](https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [O quarto \(fado Pagem\)](https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ) | 3:20 |
 | 56 | [The One \(I Haven't Met\)](https://open.spotify.com/track/69AXV3HDhBaenIesoWmbwU) | [Nathalie Ezmeralda](https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0) | [The One \(I Haven't Met\)](https://open.spotify.com/album/3U2fV9wl1XLqA3AYAfpYF1) | 3:07 |
 | 57 | [Kiazaki](https://open.spotify.com/track/5OdS5djlUSr1onn5dUgX3z) | [OHNODY](https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS) | [Kiazaki](https://open.spotify.com/album/426YtAuT6tUO7MXo9xLjA2) | 3:46 |
-| 58 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 |
-| 59 | [Aside](https://open.spotify.com/track/5Fe9Bj6scJb9GDXbpyCb7q) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [Aside](https://open.spotify.com/album/3riw3aRUSoj595rdQ7E4wP) | 4:49 |
+| 58 | [Aside](https://open.spotify.com/track/5Fe9Bj6scJb9GDXbpyCb7q) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [Aside](https://open.spotify.com/album/3riw3aRUSoj595rdQ7E4wP) | 4:49 |
+| 59 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 |
 | 60 | [他来时的脚步](https://open.spotify.com/track/5D0dp4kKzO4nb3xXqTYCTk) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [嘟声后请留恋](https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2) | 3:03 |
 | 61 | [Instincts](https://open.spotify.com/track/601ysvmx4INBIwtAtGgS0b) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Instincts](https://open.spotify.com/album/6iVB9kSoSPQUklb6wJnBcg) | 2:28 |
 | 62 | [Mais Que Ao Sol](https://open.spotify.com/track/1kf99fR0FT7l5FqRZJFFU5) | [Milhanas](https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC) | [Mais Que Ao Sol](https://open.spotify.com/album/6O0yU301cnqGnwPKSEVlxI) | 2:48 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 72 | [Laal Ishq](https://open.spotify.com/track/538KG2KvN1nMhMdXAJa49N) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Laal Ishq](https://open.spotify.com/album/3DwG13lfiH3IL5DWgmyQuR) | 1:53 |
 | 73 | [la jaula](https://open.spotify.com/track/1Be3ou3Z5sBq0qwgR6ymIz) | [Claudia Bain](https://open.spotify.com/artist/0HpMnoBW5aeXNr9tWZyPWt), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [la jaula](https://open.spotify.com/album/2q7xnQethPPhteviQSVkZf) | 3:02 |
 
-Snapshot ID: `MTY3NjQ2MzE4OSwwMDAwMDAwMDdjZDU1ODEzNjcwMzdjMmIyM2FkNTcwNTg0ZDdkOTQ1`
+Snapshot ID: `MTY3NjQ2MzE4OSwwMDAwMDAwMGRkNWVlOWIyMTAwNGU3N2Q2NjRlMjE2YTUyMzc5Mjlk`

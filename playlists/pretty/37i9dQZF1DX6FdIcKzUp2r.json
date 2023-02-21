@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 194088,
+  "num_followers": 194162,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDgyMzUwYjg1ZjA4MDE4NDcyYjhkNzkyZmQ1ZjI3Njlh",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMGJiNjEzYzdkNWUwNjliZTg3MzM3MDdmMDMyNDI4YTAz",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -287,22 +287,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Final",
-        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 302600,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Ultimate Air Supply",
         "url": "https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 241373,
       "name": "All Out of Love",
       "url": "https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 302600,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -703,22 +703,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Never for Ever",
-        "url": "https://open.spotify.com/album/4MYtX4Kta7FL4NVUE0FYws"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 178640,
-      "name": "Army Dreamers",
-      "url": "https://open.spotify.com/track/6OmdWLjlx4BIDGEO8BZlqH"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 259493,
       "name": "Tea In The Sahara",
       "url": "https://open.spotify.com/track/26R3e7bjY6e9dlgghide8L"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Never for Ever",
+        "url": "https://open.spotify.com/album/4MYtX4Kta7FL4NVUE0FYws"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 178640,
+      "name": "Army Dreamers",
+      "url": "https://open.spotify.com/track/6OmdWLjlx4BIDGEO8BZlqH"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -751,22 +751,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 279413,
-      "name": "Has Anyone Ever Written Anything for You",
-      "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Stronger Than Pride",
         "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 253200,
       "name": "I Never Thought I'd See the Day",
       "url": "https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 279413,
+      "name": "Has Anyone Ever Written Anything for You",
+      "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -943,22 +943,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Father to Son - 2016 Remaster",
-      "url": "https://open.spotify.com/track/7MQKw2Nige6EZLBrvnhvt9"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Merry Christmas, Mr. Lawrence",
         "url": "https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU"
       },
@@ -979,22 +963,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Let It Loose",
-        "url": "https://open.spotify.com/album/1QFhYMcCFGK1pVVwStxf4x"
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
       },
       "artists": [
         {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        },
-        {
-          "name": "Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 235760,
-      "name": "Can't Stay Away from You",
-      "url": "https://open.spotify.com/track/3JeTD3IfCntCx3nLSAv56U"
+      "duration_ms": 207960,
+      "name": "Father to Son - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7MQKw2Nige6EZLBrvnhvt9"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1011,6 +991,26 @@
       "duration_ms": 303293,
       "name": "For a Friend",
       "url": "https://open.spotify.com/track/6Cfvxx7v5MxCzGQOXjxo35"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Let It Loose",
+        "url": "https://open.spotify.com/album/1QFhYMcCFGK1pVVwStxf4x"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+        }
+      ],
+      "duration_ms": 235760,
+      "name": "Can't Stay Away from You",
+      "url": "https://open.spotify.com/track/3JeTD3IfCntCx3nLSAv56U"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Hats",
+        "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
+      },
+      "artists": [
+        {
+          "name": "The Blue Nile",
+          "url": "https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "From a Late Night Train",
+      "url": "https://open.spotify.com/track/0rbTIpiUPIRzqn3jJpghNr"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "The Princess Bride",
         "url": "https://open.spotify.com/album/0SVtLk3aXj2bGGckuynp00"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 406866,
       "name": "Private Investigations",
       "url": "https://open.spotify.com/track/0SqUwlygrVkMWkplNvvld1"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Hats",
-        "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
-      },
-      "artists": [
-        {
-          "name": "The Blue Nile",
-          "url": "https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM"
-        }
-      ],
-      "duration_ms": 239986,
-      "name": "From a Late Night Train",
-      "url": "https://open.spotify.com/track/0rbTIpiUPIRzqn3jJpghNr"
     },
     {
       "added_at": "2018-12-12 11:36:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume! Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,458 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,461 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 4 | [Whatever](https://open.spotify.com/track/6B31zNJtEG6Pc1Au49bjWN) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Whatever](https://open.spotify.com/album/5mkgf9ydsSSjmowrNO6QBM) | 2:52 |
 | 5 | [Hate](https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Hate](https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv) | 4:03 |
 | 6 | [Better](https://open.spotify.com/track/6iYfq90woQJ1kxEMxYbLeH) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Better](https://open.spotify.com/album/3XkM1TpwNfkZtm3Cahetbb) | 2:02 |
-| 7 | [Papa Took My Totems](https://open.spotify.com/track/4dcPjXDvCorS2oDU9dJTmf) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Papa Took My Totems](https://open.spotify.com/album/5G2hqoYnvFfqDcpvgxcHIr) | 2:25 |
+| 7 | [Papa Took My Totems](https://open.spotify.com/track/1uAQFfcaXVy7OxOk4Q2Mr7) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:25 |
 | 8 | [Les artifices](https://open.spotify.com/track/0ElBgVzjnmsUHx7FwiwPZe) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Les artifices](https://open.spotify.com/album/7BvlJsXbXMIxoA9EEJr6cq) | 3:58 |
 | 9 | [SUPERIMPOSE](https://open.spotify.com/track/4lrTdUCdKYuXJ8PGCW5lWy) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [ELIO'S INFERNO](https://open.spotify.com/album/3Jlrqudmo7F0q1Wuc2Qizs) | 3:07 |
 | 10 | [Juice](https://open.spotify.com/track/0xm8ENKMgJtOTavOuAAjWS) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Juice](https://open.spotify.com/album/0gUqTmqnWCT2yWnpEb1wMq) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [Never Be Yours \- Acoustic Version](https://open.spotify.com/track/6MUKFALwpoeQwwUuDstKcP) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Never Be Yours \(Acoustic Version\)](https://open.spotify.com/album/3peZMRRlUCR2oDYwLHIhmd) | 3:50 |
 | 50 | [Coming Right Back](https://open.spotify.com/track/3DytaDPjcqfsGp70VUXQ7R) | [Celina Wolfe](https://open.spotify.com/artist/017LHvQoZBHtrhJ0Q2bD0T) | [CELINA](https://open.spotify.com/album/5buVJTbmcQxbDiPPsiTdbO) | 3:10 |
 
-Snapshot ID: `MTY3NTI5Mzg3MSwwMDAwMDAwMDIzOGNmYmFmOGNiOTM0Zjk4OGI4ZGJlNmIwYmU0NGI1`
+Snapshot ID: `MTY3NTI5Mzg3MSwwMDAwMDAwMDBiNWFlZGQxYjNhODY1M2FkYWY2NGY4MGUyOTQ1MTc4`

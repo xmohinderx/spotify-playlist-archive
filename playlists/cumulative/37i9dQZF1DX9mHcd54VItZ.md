@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n?si=4mfc\_JrrS56ijx63lIbo\-A">Brynn</a>
+> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS?si=LsiXeXHtRJKZdTacWbURoA">Gevoel van Veiligheid</a>
 
-196 songs - 11 hr 40 min
+197 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Wasted Time](https://open.spotify.com/track/12HG1wEqsG2im9oTX5baIq) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/15KdGalTwSTxItX1h7kQkG) | 3:58 | 2022-08-04 | 2022-11-20 |
 | [Wasted Time](https://open.spotify.com/track/7EE7O5tuOKrlnhALLnkrW7) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/3qSADMb9OU8gQqiRgFkKEr) | 3:58 | 2022-08-04 | 2023-02-10 |
 | [What Would You Do?](https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Wasteland \- The Purgatory EP](https://open.spotify.com/album/5iFkEubAbRjQN50VLXmhYF) | 4:49 | 2021-07-29 | 2022-11-18 |
+| [What Would You Do? \[Feat\. Gavin Rossdale\]](https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Gavin Rossdale](https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6) | [What Would You Do?](https://open.spotify.com/album/4w2yJlTLXCQWtzQMo8kWxa) | 4:50 | 2023-02-20 |  |
 | [When I'm with You](https://open.spotify.com/track/5CFsX5OidbqmLa71haeKhO) | [Alainite](https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH) | [When I'm with You](https://open.spotify.com/album/6nY5M5Y1lxoxXqhM0lsuzL) | 2:52 | 2022-05-26 | 2023-02-03 |
 | [Window](https://open.spotify.com/track/7LENvCM03NF93ww2gqLGO4) | [Moskitos](https://open.spotify.com/artist/1643brtMFWJOJSX9E3kEzY) | [Adieu Or Die](https://open.spotify.com/album/3T85yUoMOP2izbfZjpIBZt) | 3:12 | 2022-03-24 | 2022-08-05 |
 | [Wolves](https://open.spotify.com/track/0eK0J5fikmB5TiCY932gtQ) | [Kat](https://open.spotify.com/artist/4rB9lKJyTJ6LI6mccmA5EW), [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Wolves](https://open.spotify.com/album/1f98ilxMIzaqHosQXwiZY3) | 3:35 | 2022-01-21 | 2022-11-25 |

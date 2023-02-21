@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 115581,
+  "num_followers": 115629,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4NDE2NSwwMDAwMDAwMGU2ODE2ZjRkM2Y3NTg4ZDRiZDI3ZjdjNzc1MmQ1MGIy",
+  "snapshot_id": "MTY3NjQ4NDE2NSwwMDAwMDAwMDg3ZDAyYjU4ODdlZGZlN2U4OWMzYTNiMmFiYjA0ZWFj",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -175,22 +175,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Blow Up presents Exclusive Blend Volume 2",
-        "url": "https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v"
-      },
-      "artists": [
-        {
-          "name": "Jack Trombey",
-          "url": "https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Underlay No.3",
-      "url": "https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Lolita (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7DDr6cIizxHIS51kCjblhF"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 203933,
       "name": "Lolita Ya Ya",
       "url": "https://open.spotify.com/track/2cVr3kgag9vfl6aXnYfmav"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Blow Up presents Exclusive Blend Volume 2",
+        "url": "https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v"
+      },
+      "artists": [
+        {
+          "name": "Jack Trombey",
+          "url": "https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Underlay No.3",
+      "url": "https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hana Hou! Vol. 1",
-        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
-      },
-      "artists": [
-        {
-          "name": "Genoa Keawe",
-          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
-        }
-      ],
-      "duration_ms": 276693,
-      "name": "Alika",
-      "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Voodoo!",
@@ -419,6 +403,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+      },
+      "artists": [
+        {
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+        }
+      ],
+      "duration_ms": 276693,
+      "name": "Alika",
+      "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Primitiva",
         "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 134506,
       "name": "Llama Serenade",
       "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -497,6 +481,22 @@
       "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
     },
     {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+    },
+    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Latin-Esque",
@@ -511,22 +511,6 @@
       "duration_ms": 186536,
       "name": "Latin-Esque",
       "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -639,6 +623,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Ultra-Lounge / Bachelor Pad Royale Volume Four",
         "url": "https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 128000,
       "name": "Melancholy Serenade - Remastered",
       "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Quiet Village",
-        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "Hawaiian War Chant",
-      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -685,20 +669,20 @@
       "url": "https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
+      "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Makani Olu'olu",
-        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
+        "name": "Quiet Village",
+        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
       },
       "artists": [
         {
-          "name": "Na Palapalai",
-          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
         }
       ],
-      "duration_ms": 163786,
-      "name": "Lepe Ula'ula",
-      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
+      "duration_ms": 138133,
+      "name": "Hawaiian War Chant",
+      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -715,6 +699,22 @@
       "duration_ms": 184718,
       "name": "Colors of Hawaiki",
       "url": "https://open.spotify.com/track/0pOjjYfTME3pdOrFtV74wx"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Makani Olu'olu",
+        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
+      },
+      "artists": [
+        {
+          "name": "Na Palapalai",
+          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "Lepe Ula'ula",
+      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/1Z4aOyNZmQ95yBRzPWgFJ3"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "The Best of Yma Sumac (All Tracks Remastered 2014)",
-        "url": "https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF"
-      },
-      "artists": [
-        {
-          "name": "Yma Sumac",
-          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
-        }
-      ],
-      "duration_ms": 201263,
-      "name": "Xtabay - Remastered",
-      "url": "https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Soundproof",
@@ -1139,6 +1123,22 @@
       "duration_ms": 155333,
       "name": "Haleakala Hula",
       "url": "https://open.spotify.com/track/5op9hoVsdz26naItLYuwMb"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "The Best of Yma Sumac (All Tracks Remastered 2014)",
+        "url": "https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "duration_ms": 201263,
+      "name": "Xtabay - Remastered",
+      "url": "https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj"
     },
     {
       "added_at": "2021-01-20 03:50:53",

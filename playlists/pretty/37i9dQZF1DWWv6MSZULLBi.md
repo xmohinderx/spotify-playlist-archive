@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Aisha Badru
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,639 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,665 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 12 | [When The Storm Has Passed](https://open.spotify.com/track/6MQwPbHoKiyfyX1kF32Hch) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [When The Storm Has Passed b/w Moonlight, Stay Above](https://open.spotify.com/album/3nkAY6doVQ6cI4uLvB9pro) | 4:39 |
 | 13 | [Envy](https://open.spotify.com/track/3VqVn7nTrAwvzBfGowithl) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Envy](https://open.spotify.com/album/3pc1ooj1ZnJ6dBxTK7hSN3) | 3:29 |
 | 14 | [Miss Fort Erie](https://open.spotify.com/track/2xdg2xTUqJbgDsLB5IIdiU) | [Hayden](https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp) | [Miss Fort Erie](https://open.spotify.com/album/7nugRtvqm9dpf8NTwboOML) | 4:28 |
-| 15 | [Papa Took My Totems](https://open.spotify.com/track/4dcPjXDvCorS2oDU9dJTmf) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Papa Took My Totems](https://open.spotify.com/album/5G2hqoYnvFfqDcpvgxcHIr) | 2:25 |
+| 15 | [Papa Took My Totems](https://open.spotify.com/track/1uAQFfcaXVy7OxOk4Q2Mr7) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:25 |
 | 16 | [Concussion](https://open.spotify.com/track/44QZDutuB7stlBUk7fH5O3) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Concussion](https://open.spotify.com/album/5F6qVof82S3FLTv3KT316F) | 3:02 |
 | 17 | [When You Miss Someone](https://open.spotify.com/track/7qJKahUHkASPu54vMil98J) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [When You Miss Someone / Tanqueray](https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1) | 3:05 |
 | 18 | [Everything Changes](https://open.spotify.com/track/1SODZeCGoXb4wu9ixDaAtv) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [The Runaway EP](https://open.spotify.com/album/4rCms7IqnpaFFDqAwCBChT) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Mother Love](https://open.spotify.com/track/6h5oSSJXgIyXHxJm256HWP) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420), [Tom Wilson](https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu) | [Mother Love](https://open.spotify.com/album/7dKPc0Mj8iVLpaVvby2NSf) | 4:28 |
 | 100 | [No Body](https://open.spotify.com/track/2T9s8CK07B6dElJ6fmHeyt) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [Someday is Today](https://open.spotify.com/album/5CnTQkaRdKn8NQ29Ig9gKe) | 4:33 |
 
-Snapshot ID: `MTY3NjY2NjgyMywwMDAwMDAwMDcwZWJjZTBiZTgwY2M2MzQ2OTNlZTM4YTcwNTI3Yzg3`
+Snapshot ID: `MTY3NjY2NjgyMywwMDAwMDAwMDZhNzY1ZDhjODg5Y2E2MGY0YWI4MTY2NzZkOTM4MWZk`

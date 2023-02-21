@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7388,
+  "num_followers": 7389,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjczOTg3MywwMDAwMDAwMDAyOTIxMmQ2OWVlMDQ1ODRkOTVkMWU1OTZmNzk1YmQ1",
+  "snapshot_id": "MTY0MjczOTg3MywwMDAwMDAwMDRlNjQxN2QxZWE5ZTE2NTc2ZGFlYTQxNjI4M2VjZDBm",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -287,30 +287,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "I Feel Good",
-        "url": "https://open.spotify.com/album/2PLkTYhmHH6Ew40EDLivS9"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Anthony Watts",
-          "url": "https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1"
-        },
-        {
-          "name": "DJ White Shadow",
-          "url": "https://open.spotify.com/artist/2yP2heDvGPROpYtPMKsOh1"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/2hZTeA6c94dBoiuGcBv3R0"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Music Is The Weapon (Reloaded)",
         "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
       },
@@ -335,26 +311,6 @@
       "duration_ms": 169997,
       "name": "Que Calor (feat. J Balvin & El Alfa)",
       "url": "https://open.spotify.com/track/13HgktGt4RdYj0QmF1ELZO"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Good Evening",
-        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 137661,
-      "name": "Bailar (feat. Elvis Crespo) - Radio Edit",
-      "url": "https://open.spotify.com/track/1HCw8XKtTgWWU3JlEUR0qQ"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -387,6 +343,50 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "I Feel Good",
+        "url": "https://open.spotify.com/album/2PLkTYhmHH6Ew40EDLivS9"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Anthony Watts",
+          "url": "https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1"
+        },
+        {
+          "name": "DJ White Shadow",
+          "url": "https://open.spotify.com/artist/2yP2heDvGPROpYtPMKsOh1"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/2hZTeA6c94dBoiuGcBv3R0"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Good Evening",
+        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 137661,
+      "name": "Bailar (feat. Elvis Crespo) - Radio Edit",
+      "url": "https://open.spotify.com/track/1HCw8XKtTgWWU3JlEUR0qQ"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Rockport Espacial",
         "url": "https://open.spotify.com/album/1RHKamkIrSEQAIUfsbYXvB"
       },
@@ -403,6 +403,50 @@
       "duration_ms": 199354,
       "name": "Kikiki (feat. Yay)",
       "url": "https://open.spotify.com/track/22YVt0f3WR4XaK6l1TEgOr"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "B\u00e9same (I Need You) (with TINI & Reik)",
+        "url": "https://open.spotify.com/album/6F3AXexyqa3xH9VZPB7VrA"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 136200,
+      "name": "B\u00e9same (I Need You) (with TINI & Reik)",
+      "url": "https://open.spotify.com/track/25c15KvAiyM8DNmDoFqwzm"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Selfish Love (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Selfish Love (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -459,30 +503,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "B\u00e9same (I Need You) (with TINI & Reik)",
-        "url": "https://open.spotify.com/album/6F3AXexyqa3xH9VZPB7VrA"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 136200,
-      "name": "B\u00e9same (I Need You) (with TINI & Reik)",
-      "url": "https://open.spotify.com/track/25c15KvAiyM8DNmDoFqwzm"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Sad Song (feat. TINI)",
         "url": "https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 154024,
       "name": "Sad Song (feat. TINI)",
       "url": "https://open.spotify.com/track/2JoIjuzRplpYGvvLpSW2on"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Selfish Love (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Selfish Love (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -755,6 +755,38 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Boomshakalaka",
+        "url": "https://open.spotify.com/album/2dO6HvLMmEFMuOLasVY9eC"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "Boomshakalaka",
+      "url": "https://open.spotify.com/track/4yb5Z9dwnKhO9gC0AZQYDe"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Jaleo",
         "url": "https://open.spotify.com/album/6VDoSX37HjE1QnFP18Ooe3"
       },
@@ -791,6 +823,26 @@
       "duration_ms": 251718,
       "name": "Suavemente - Edm",
       "url": "https://open.spotify.com/track/7rZem2rwrj9IbcDymBJX2L"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Maldad (with Maluma)",
+        "url": "https://open.spotify.com/album/5HpsxOzKIW482MRcfK4K7Z"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 168158,
+      "name": "Maldad (with Maluma)",
+      "url": "https://open.spotify.com/track/35HXnvswjdVWjQRmqtXPJD"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -879,58 +931,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Boomshakalaka",
-        "url": "https://open.spotify.com/album/2dO6HvLMmEFMuOLasVY9eC"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 211920,
-      "name": "Boomshakalaka",
-      "url": "https://open.spotify.com/track/4yb5Z9dwnKhO9gC0AZQYDe"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Maldad (with Maluma)",
-        "url": "https://open.spotify.com/album/5HpsxOzKIW482MRcfK4K7Z"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 168158,
-      "name": "Maldad (with Maluma)",
-      "url": "https://open.spotify.com/track/35HXnvswjdVWjQRmqtXPJD"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Algo M\u00e1gico (R3HAB Remix)",
         "url": "https://open.spotify.com/album/1UC5jCthGQNO7vgtdLau7R"
       },
@@ -971,6 +971,30 @@
       "duration_ms": 213760,
       "name": "Mi Gente - Alesso Remix",
       "url": "https://open.spotify.com/track/4ohMD1wzaaOC2I6jSGFMeP"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Know No Better",
+        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 173909,
+      "name": "Buscando Huellas",
+      "url": "https://open.spotify.com/track/1i2bRNCJEBdJxbFDi4B8WQ"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -1035,30 +1059,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Know No Better",
-        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 173909,
-      "name": "Buscando Huellas",
-      "url": "https://open.spotify.com/track/1i2bRNCJEBdJxbFDi4B8WQ"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "No Te Enamores (Alan Walker Remix)",
         "url": "https://open.spotify.com/album/6e1L4cAZHKtG7AcbnkE6g4"
       },
@@ -1115,30 +1115,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Mi Gente (Cedric Gervais Remix)",
-        "url": "https://open.spotify.com/album/0DWEKLIz2eHd8R9N3mhZaI"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "Mi Gente - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/71uiOC9BjtKy1bKAqdUrxx"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Napoleona",
         "url": "https://open.spotify.com/album/0gMknkywDezGJrrCdyKHYb"
       },
@@ -1159,6 +1135,30 @@
       "duration_ms": 172500,
       "name": "Napoleona",
       "url": "https://open.spotify.com/track/4hlK5ALDOCVvGE22II5Wbb"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Pues (with Luis Fonsi & Sean Paul)",
+        "url": "https://open.spotify.com/album/03HdtkcGhFu7BdOGdFV3Hf"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 127333,
+      "name": "Pues (with Luis Fonsi & Sean Paul)",
+      "url": "https://open.spotify.com/track/0H4olUjRf0vXXuQkpKnJmr"
     }
   ],
   "unique_name": "Global Dance Crossover",

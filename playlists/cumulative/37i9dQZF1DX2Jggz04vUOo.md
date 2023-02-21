@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-112 songs - 11 hr 46 min
+113 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,8 +85,9 @@
 | [Peu a Peu \- Kermesse's Poco a Poco Remix](https://open.spotify.com/track/1icYndZsVkgF7FqQ9tAZ57) | [Dolph](https://open.spotify.com/artist/1Xw4E3IabrEFoiT1o4vJB1), [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Peu a Peu \(Kermesse's Poco a Poco Remix\)](https://open.spotify.com/album/25JvwwAWofb0OWsBmaZ6Xe) | 5:10 | 2022-07-23 |  |
 | [Pire](https://open.spotify.com/track/7eSZ01vwRY59uAzGt5V3lP) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Pire](https://open.spotify.com/album/2mjxQEUX5uXMyHPMd0UHXC) | 7:43 | 2022-07-23 |  |
 | [Psychedelic Woman \- Bonobo Remix](https://open.spotify.com/track/2rAZqJ3uiy2jczTafnKP7y) | [Honny & The Bees Band](https://open.spotify.com/artist/0YBnqkQh876CwPLtT9XX69), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Bottletop Presents Sound Affects: Africa](https://open.spotify.com/album/0xnN5NfLE5Gc3YgzEhgXbT) | 4:26 | 2022-10-14 |  |
-| [Pulse VI](https://open.spotify.com/track/2tthSVxYrS6vMRGchANWSL) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/5AACj1zBwmUDLlq9DZ1VJX) | 5:27 | 2022-10-14 |  |
+| [Pulse VI](https://open.spotify.com/track/2tthSVxYrS6vMRGchANWSL) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/5AACj1zBwmUDLlq9DZ1VJX) | 5:27 | 2022-10-14 | 2023-02-21 |
 | [Pulse VI](https://open.spotify.com/track/5GvqeuJ8c9a3x5rmdjh0Mn) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Pulse VI](https://open.spotify.com/album/0ZU01aBiNrTOe5WPCZxoHW) | 5:27 | 2022-10-14 | 2022-10-22 |
+| [Pulse VI](https://open.spotify.com/track/63t4RxrpfUdVYJhr5Y91Yi) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu) | 5:27 | 2022-10-14 |  |
 | [Pulse VI](https://open.spotify.com/track/7LNKDRkuLunvJUpT79kYO3) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Red Light](https://open.spotify.com/album/2srVSncOOFBD9mH25YIJM8) | 5:27 | 2022-10-14 | 2022-11-14 |
 | [Punto Cero](https://open.spotify.com/track/7i650ozZjXNUNT1AFqxAI4) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC), [Tuğçe Kurtiş](https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf), [Santi](https://open.spotify.com/artist/3y89DR1J1RB96pJUByabwi) | [Punto Cero](https://open.spotify.com/album/3myUaKhlvdBmSQlKxYugTQ) | 8:42 | 2022-07-23 |  |
 | [Queen of the Highway](https://open.spotify.com/track/0yMkBK3Mfe6zRZnqEAm30B) | [Kalaha Moon](https://open.spotify.com/artist/5ZzHOBBOXZdhypyaffUrJG) | [Queen of the Highway](https://open.spotify.com/album/2GC1gz92bTF1lDg1ttMjql) | 7:52 | 2022-07-23 |  |

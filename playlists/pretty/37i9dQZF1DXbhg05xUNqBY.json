@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 281641,
+  "num_followers": 282026,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc5MTc4MiwwMDAwMDAwMDVhOTc0YjY5N2QyODI4Yzk3MDUyNjZjYzNiODk4ZDhm",
+  "snapshot_id": "MTY3NTc5MTc4MiwwMDAwMDAwMDE5N2Q0ZWJiYTA4Y2VjMWQ2NTY2MjRmMWY3MWVjNmM1",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "If I Had Stayed",
+        "url": "https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "duration_ms": 131641,
+      "name": "If I Had Stayed",
+      "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Lydia Laird",
         "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 307292,
-      "name": "Peace - Acoustic",
-      "url": "https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "TWO UP TWO DOWN",
         "url": "https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ"
       },
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "If I Had Stayed",
-        "url": "https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
       },
       "artists": [
         {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
         }
       ],
-      "duration_ms": 131641,
-      "name": "If I Had Stayed",
-      "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
+      "duration_ms": 307292,
+      "name": "Peace - Acoustic",
+      "url": "https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 170119,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Goodness of God: Songs of Worship",
         "url": "https://open.spotify.com/album/74R9jB4mMP9ei58XOno64f"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 289111,
       "name": "So Well",
       "url": "https://open.spotify.com/track/1uVIYYfysvEHvyAWKuF7sv"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 170119,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "No Hopeless Soul",
-        "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 193558,
-      "name": "No Hopeless Soul - Unplugged",
-      "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Now More Than Ever",
         "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 355820,
       "name": "Psalm 42 (Loudest Praise)",
       "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "No Hopeless Soul",
+        "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 193558,
+      "name": "No Hopeless Soul - Unplugged",
+      "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Ever Closer",
-        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 232687,
-      "name": "Ever Closer",
-      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "All Of My Best Friends (Acoustic)",
         "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 293160,
       "name": "Lord Send Revival - Acoustic",
       "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Ever Closer",
+        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 232687,
+      "name": "Ever Closer",
+      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Be Thou My Vision",
-        "url": "https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7"
-      },
-      "artists": [
-        {
-          "name": "Cherry Wee",
-          "url": "https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Be Thou My Vision",
-      "url": "https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Be My Shalom",
         "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 187943,
       "name": "Be My Shalom",
       "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Be Thou My Vision",
+        "url": "https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7"
+      },
+      "artists": [
+        {
+          "name": "Cherry Wee",
+          "url": "https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Be Thou My Vision",
+      "url": "https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21"
     },
     {
       "added_at": "2023-02-07 17:43:02",

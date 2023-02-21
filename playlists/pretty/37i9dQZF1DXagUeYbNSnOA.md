@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Paola Guanche\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,917 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,928 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 32 | [cuidao](https://open.spotify.com/track/6B2xmQgcYZzDESQUjh2l55) | [henry semler](https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS) | [cuidao](https://open.spotify.com/album/2h9bXFYYMaykZ3FlSGOSlj) | 3:25 |
 | 33 | [Ansiedad y TV](https://open.spotify.com/track/4fgyRpHJridkqa6um7x47e) | [Rococó](https://open.spotify.com/artist/69a8n82mR2VGTcVejFM2Dq), [Meeky](https://open.spotify.com/artist/5ZvA5aP68LHgdCh0kFF2J5) | [No me sale querer](https://open.spotify.com/album/42g65upSU5sj7NtC6dZth3) | 3:03 |
 | 34 | [Doble Vida](https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX) | [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Doble Vida](https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV) | 3:34 |
-| 35 | [Losing My Mind](https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Losing My Mind](https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH) | 2:35 |
-| 36 | [Mar](https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Mar](https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid) | 3:24 |
+| 35 | [Mar](https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Mar](https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid) | 3:24 |
+| 36 | [Losing My Mind](https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Losing My Mind](https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH) | 2:35 |
 | 37 | [Papaya dulce](https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb) | [Aristi](https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1) | [Papaya dulce](https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1) | 3:31 |
-| 38 | [San Menace](https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [San Menace](https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW) | 3:13 |
-| 39 | [Mi Cuerpo Subira](https://open.spotify.com/track/1YyDgqeagZ4fjjfGcI9c3S) | [Wekaforé](https://open.spotify.com/artist/73qySwnVMlJZsR9Lk5MOpn) | [Mi Cuerpo Subira](https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7) | 2:16 |
-| 40 | [Tu Tatuaje \- Acoustic](https://open.spotify.com/track/7dEVsxtgjC7M1EhBdUDReR) | [La Ganga Calé](https://open.spotify.com/artist/6rSMOnbJFs8grTn6sfRJXZ), [Basik Sessions](https://open.spotify.com/artist/2VmMZYJ2K1XXvWiBZCuaJ3) | [Tu Tatuaje \(Acoustic\)](https://open.spotify.com/album/5xFeccb974udUGNqfbDedN) | 3:08 |
+| 38 | [Mi Cuerpo Subira](https://open.spotify.com/track/1YyDgqeagZ4fjjfGcI9c3S) | [Wekaforé](https://open.spotify.com/artist/73qySwnVMlJZsR9Lk5MOpn) | [Mi Cuerpo Subira](https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7) | 2:16 |
+| 39 | [Tu Tatuaje \- Acoustic](https://open.spotify.com/track/7dEVsxtgjC7M1EhBdUDReR) | [La Ganga Calé](https://open.spotify.com/artist/6rSMOnbJFs8grTn6sfRJXZ), [Basik Sessions](https://open.spotify.com/artist/2VmMZYJ2K1XXvWiBZCuaJ3) | [Tu Tatuaje \(Acoustic\)](https://open.spotify.com/album/5xFeccb974udUGNqfbDedN) | 3:08 |
+| 40 | [San Menace](https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [San Menace](https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW) | 3:13 |
 | 41 | [María Indebida](https://open.spotify.com/track/5OiE4KbWfrHnhCAcXdMWlQ) | [La Zorra Zapata](https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5) | [María Indebida](https://open.spotify.com/album/4mmHX5RHEVJ51X1Fq0Ggax) | 3:14 |
 | 42 | [María José](https://open.spotify.com/track/4D4hqAjmeaUYG4B0PdcMiP) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [María José](https://open.spotify.com/album/7xwMkhp2I3xoLR3zh9FazM) | 3:15 |
 | 43 | [Preso](https://open.spotify.com/track/3obRRx177ZtTshN4Nc9MVA) | [Nanii R](https://open.spotify.com/artist/6AzOB4lvlONBDZherdXTRy) | [Preso](https://open.spotify.com/album/12HYmS6k4VYpSrmF4x9PrV) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Estación Universidad](https://open.spotify.com/track/1It0aUrjbHCwyxkhxSgawZ) | [Autopiloto](https://open.spotify.com/artist/21BjoPG0ZCtaeW6cn9p2M3), [Los Balcones Amarillos](https://open.spotify.com/artist/2Tsj2XMyZc1hIsarvh9Vk1) | [Estación Universidad](https://open.spotify.com/album/4hQymR2wBMScbJMDxylCF0) | 4:25 |
 | 50 | [Clase Turista](https://open.spotify.com/track/2m1HYnpusyGj81Zw0eAfqX) | [Almera](https://open.spotify.com/artist/5sIlYZFkKF7tZom5y5IrrZ), [El Santanás](https://open.spotify.com/artist/6rFCMzspkSijL5f49P7gyP) | [Clase Turista](https://open.spotify.com/album/2XMFEaurcpsP0FfXLYr9TS) | 3:09 |
 
-Snapshot ID: `MTY3NjQzNzIwMCwwMDAwMDAwMDZiNTFhOGY0MDQ4OTczYmMwZWVjZmJkNDI1NmM3OTQ4`
+Snapshot ID: `MTY3NjQzNzIwMCwwMDAwMDAwMDA1MmMzOGZhZjQ3ZWM4YTVkZjg5Zjg4MTUxMjRiOTM1`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. Barbarela en portada.",
+  "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. Ms Ambar, Masta Quba y Delfina Dib en portada.",
   "name": "Femcees",
   "tracks": [
     {
@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 158400,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/6KUmpDrv5YOGR4Re7KJJze"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 179966,
       "name": "Colocao",
       "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
@@ -728,6 +728,32 @@
       "duration_ms": 161800,
       "name": "Desert Ni\u00f1as",
       "url": "https://open.spotify.com/track/4Fyd2PkpGorYbgcMmgAONh"
+    },
+    {
+      "album": {
+        "name": "Despiertas",
+        "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
+      },
+      "artists": [
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171690,
+      "name": "Despiertas",
+      "url": "https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb"
     },
     {
       "album": {
@@ -1086,7 +1112,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 193104,
       "name": "Final Fantasy",
       "url": "https://open.spotify.com/track/5elUiabm5yiaWvGtFzGYQ8"
@@ -1274,6 +1300,28 @@
       "duration_ms": 292066,
       "name": "Juana Kalamidad",
       "url": "https://open.spotify.com/track/4LAj0B7XK4lAmmI70kJsSC"
+    },
+    {
+      "album": {
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/3kcLxhpqJE6I2KpZOAcvzv"
+      },
+      "artists": [
+        {
+          "name": "Marianella",
+          "url": "https://open.spotify.com/artist/0MepsQ94RvniPlT2ECXzNQ"
+        },
+        {
+          "name": "Tau",
+          "url": "https://open.spotify.com/artist/2tV1Ys5GAXL47UahBxq8hB"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192346,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/0WCXYkB1XAObQU5MwNfi3r"
     },
     {
       "album": {
@@ -1484,10 +1532,50 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 139927,
       "name": "Lick (Remix)",
       "url": "https://open.spotify.com/track/54kYF5NYsTBs1XDTh0czQ4"
+    },
+    {
+      "album": {
+        "name": "LQRA Session #11",
+        "url": "https://open.spotify.com/album/0iqqE9b6fEhBmF6h8kd5aC"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246442,
+      "name": "LQRA Session #11",
+      "url": "https://open.spotify.com/track/7cXBDGIVAIiedhz7WTjywb"
+    },
+    {
+      "album": {
+        "name": "Lucha Como Mujer",
+        "url": "https://open.spotify.com/album/2PjpsMtaD4VvNoImmSlHVC"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Lucha Como Mujer",
+      "url": "https://open.spotify.com/track/0Mg7ZvxW1vAHAE4T7Q8sbo"
     },
     {
       "album": {
@@ -1844,7 +1932,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 217263,
       "name": "No Soy Criminal",
       "url": "https://open.spotify.com/track/3VGWGVOAUcoCpiHqqdrxb3"
@@ -2616,7 +2704,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-21",
       "duration_ms": 213985,
       "name": "Versos Tristes",
       "url": "https://open.spotify.com/track/7ALPJQQxtsEQnZid1GDyH9"

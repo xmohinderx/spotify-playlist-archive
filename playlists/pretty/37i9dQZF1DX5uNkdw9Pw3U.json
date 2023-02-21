@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 59880,
+  "num_followers": 59927,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMGM5NTNlOTg5YzcwOThiNWNmZGUxYTNlN2NhNzNjODgy",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMGE1YmE2NTZjNmVkZTc1MDUwMjU2M2U2MDJhNDk1MDQz",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Leftovers",
-        "url": "https://open.spotify.com/album/5hEA2JEelMkPjLR9dIT4U0"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 192628,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/0dcuGoAIPAT7OrP5CGSVBA"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 208395,
       "name": "Jet Black (feat. Brandy)",
       "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Leftovers",
+        "url": "https://open.spotify.com/album/5hEA2JEelMkPjLR9dIT4U0"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 192628,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/0dcuGoAIPAT7OrP5CGSVBA"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 204592,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/6byhl93VRhXoV5kfnBrBPm"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 248571,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/5Gs53eDWyqSZmG8JN7dPeD"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 204592,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "TyrTape (Deluxe)",
-        "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        },
-        {
-          "name": "Natnael",
-          "url": "https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM"
-        }
-      ],
-      "duration_ms": 200168,
-      "name": "I Blodet (feat. Natnael)",
-      "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Queen Tings (Santi Remix)",
         "url": "https://open.spotify.com/album/3ywbciCdfP9GZ1inddiz6a"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 211920,
       "name": "Queen Tings - Santi Remix",
       "url": "https://open.spotify.com/track/4EOVChDG9c5HX5jrNdBDd6"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "TyrTape (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Natnael",
+          "url": "https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM"
+        }
+      ],
+      "duration_ms": 200168,
+      "name": "I Blodet (feat. Natnael)",
+      "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Coco Blood",
+        "url": "https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 215848,
+      "name": "Coco Blood",
+      "url": "https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "HER Love [Feat. Daniel Caesar with special guest Dwele]",
         "url": "https://open.spotify.com/album/5ASnPqVkvU50cwNlC6OoX6"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 377852,
       "name": "HER Love [Feat. Daniel Caesar with special guest Dwele]",
       "url": "https://open.spotify.com/track/4ZLVxybMljzL77dCA443Ob"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Coco Blood",
-        "url": "https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 215848,
-      "name": "Coco Blood",
-      "url": "https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "And Then Life Was Beautiful",
+        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Hair Down (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/4rgYc1sBdFQg2bOJvXSd2I"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 216959,
       "name": "Hair Down (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/5nh0W1TTi4LxxxVYAVJCh1"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "And Then Life Was Beautiful",
-        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O"
+      },
+      "artists": [
+        {
+          "name": "Dan Bravo",
+          "url": "https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F"
+        },
+        {
+          "name": "J.O.Y",
+          "url": "https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm"
+        }
+      ],
+      "duration_ms": 173809,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Worst Way",
         "url": "https://open.spotify.com/album/5UFZy1cSlNoyFTvJFaWnQz"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 172800,
       "name": "Worst Way",
       "url": "https://open.spotify.com/track/4dFd9I7wVuNJuFaU1De0Hn"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O"
-      },
-      "artists": [
-        {
-          "name": "Dan Bravo",
-          "url": "https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F"
-        },
-        {
-          "name": "J.O.Y",
-          "url": "https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm"
-        }
-      ],
-      "duration_ms": 173809,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Aint Nobody",
-        "url": "https://open.spotify.com/album/3XZZMtIe6rGbp1SzK1NEBH"
-      },
-      "artists": [
-        {
-          "name": "EHI",
-          "url": "https://open.spotify.com/artist/7MlrqHRXsNIKRC17Dv5a0v"
-        }
-      ],
-      "duration_ms": 179552,
-      "name": "Aint Nobody",
-      "url": "https://open.spotify.com/track/6pgdA6IkrWeDL5A4RsgbZJ"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 195572,
       "name": "21",
       "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Aint Nobody",
+        "url": "https://open.spotify.com/album/3XZZMtIe6rGbp1SzK1NEBH"
+      },
+      "artists": [
+        {
+          "name": "EHI",
+          "url": "https://open.spotify.com/artist/7MlrqHRXsNIKRC17Dv5a0v"
+        }
+      ],
+      "duration_ms": 179552,
+      "name": "Aint Nobody",
+      "url": "https://open.spotify.com/track/6pgdA6IkrWeDL5A4RsgbZJ"
     },
     {
       "added_at": "2023-01-12 23:00:00",

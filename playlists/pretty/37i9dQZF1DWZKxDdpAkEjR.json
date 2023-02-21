@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 111,
+  "num_followers": 113,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc2MzQzMiwwMDAwMDAwMDU5Zjk3NWFlN2U4N2M0NmJhMTMyOGQ2YzI1YTNkNGY4",
+  "snapshot_id": "MTY3NTc2MzQzMiwwMDAwMDAwMGY5MTdjMGMzMzdhNGRkZTM0ZWYwMzkzOTg2OWM5YjUy",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "So Sick",
-        "url": "https://open.spotify.com/album/6dbogWoVfRDBIKDvnWY91y"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 177634,
-      "name": "So Sick",
-      "url": "https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "I Swear",
         "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 131306,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "So Sick",
+        "url": "https://open.spotify.com/album/6dbogWoVfRDBIKDvnWY91y"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "duration_ms": 177634,
+      "name": "So Sick",
+      "url": "https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8"
     },
     {
       "added_at": "2022-06-30 22:02:00",

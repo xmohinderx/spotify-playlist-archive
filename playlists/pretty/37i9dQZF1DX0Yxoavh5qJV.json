@@ -1,12 +1,12 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5415067,
+  "num_followers": 5413750,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcwMjkzNywwMDAwMDAwMDY2YmEzOTI0NzEyY2Q2YzE5MzBjMTExODc5ZmE4YWM5",
+  "snapshot_id": "MTY3MTcwMjkzNywwMDAwMDAwMGNiMWNkYTNmNWEyMjc2ZmVhNDIyNDY4YTJlYWQzOGE5",
   "tracks": [
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 131733,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
         "name": "Make It To Christmas",
         "url": "https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 240213,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/3Z3QhZAZpqwZa1phsbQ3JZ"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 131733,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1311,26 +1311,18 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Oh Santa! (feat. Ariana Grande & Jennifer Hudson)",
-        "url": "https://open.spotify.com/album/2g0Ha2fsHrVBueqWdBGUpB"
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 200466,
-      "name": "Oh Santa! (feat. Ariana Grande & Jennifer Hudson)",
-      "url": "https://open.spotify.com/track/1Ri9P0ZPrqr6h0REDRdJBd"
+      "duration_ms": 144253,
+      "name": "Winter Wonderland - Remastered 2006",
+      "url": "https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1351,18 +1343,26 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+        "name": "Oh Santa! (feat. Ariana Grande & Jennifer Hudson)",
+        "url": "https://open.spotify.com/album/2g0Ha2fsHrVBueqWdBGUpB"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
         }
       ],
-      "duration_ms": 144253,
-      "name": "Winter Wonderland - Remastered 2006",
-      "url": "https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0"
+      "duration_ms": 200466,
+      "name": "Oh Santa! (feat. Ariana Grande & Jennifer Hudson)",
+      "url": "https://open.spotify.com/track/1Ri9P0ZPrqr6h0REDRdJBd"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1495,38 +1495,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 219293,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/1sFWEpf1aPYN576LS1aa4Y"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
-        "name": "Ultimate Christmas",
-        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 122160,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/4KV9bM7a1KDc7b7OakFZic"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Pure Southern Soul",
         "url": "https://open.spotify.com/album/0IdJOPJy2DQXaqgyrjhXRc"
       },
@@ -1539,6 +1507,22 @@
       "duration_ms": 155560,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/2dbfjsBbi3nt0a173iUumA"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 219293,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1sFWEpf1aPYN576LS1aa4Y"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1563,6 +1547,22 @@
       "duration_ms": 225687,
       "name": "Under The Mistletoe",
       "url": "https://open.spotify.com/track/2K4XbdyLxi9jhqVQeyUKRK"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 122160,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/4KV9bM7a1KDc7b7OakFZic"
     },
     {
       "added_at": "2022-12-22 09:55:37",

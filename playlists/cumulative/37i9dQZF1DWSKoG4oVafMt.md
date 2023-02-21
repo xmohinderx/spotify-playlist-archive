@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Neeru Bajwa & Satinder Sartaaj
 
-716 songs - 1 day 14 hr 54 min
+718 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Duur Duur](https://open.spotify.com/track/2mNo6XKxgVrwe9bragteLg) | [Manik Bhatheja](https://open.spotify.com/artist/2cTrrcxX0yWlBAQ3rOrUlo), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Duur Duur](https://open.spotify.com/album/7iXfaoRqgCrwwwQJUmhC8C) | 3:47 | 2022-02-15 | 2022-03-11 |
 | [Ego](https://open.spotify.com/track/3pxKYqkCKgaGHVExK4BX2e) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Ego](https://open.spotify.com/album/37RerQlYpnNfS1tbXdri0O) | 3:29 | 2022-07-04 | 2022-07-12 |
 | [Empty](https://open.spotify.com/track/4UhouRuvJ0FeITfLT3GkxQ) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 4:12 | 2022-02-03 | 2022-04-06 |
+| [Everything Changed](https://open.spotify.com/track/0IVryjFfPlLge7jAyB7KqU) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Anker Deol](https://open.spotify.com/artist/6Ft1jFojxoiQxAddH2o5ZF) | [Lost Treasures](https://open.spotify.com/album/60224gsHzqN70VFJ3EsTuX) | 2:30 | 2023-02-20 |  |
 | [Faasley](https://open.spotify.com/track/0b3tzxd1B1lbHkfS82aS8m) | [Hazoor](https://open.spotify.com/artist/2w2KXsKbBqfvok1KfOxETo) | [Faasley](https://open.spotify.com/album/5YvfUWclwYzDXijLAkSmkn) | 3:24 | 2022-06-21 | 2022-07-06 |
 | [Fake Love](https://open.spotify.com/track/6QFfwKbcMI37vdK5NtnCGf) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E), [Royal Maan](https://open.spotify.com/artist/6MHxMEFX5cIIcXFzpycr09) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:32 | 2022-08-22 | 2022-09-01 |
 | [Fallin Star](https://open.spotify.com/track/45w4U2lr3UCEShY27BV8VO) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Fallin Star](https://open.spotify.com/album/6b4VNmMlPoEJKyxkokPVvI) | 2:45 | 2022-06-28 | 2023-02-04 |
@@ -660,6 +661,7 @@
 | [Tochan](https://open.spotify.com/track/5eKSzHq3KKqMeaOelb77D1) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Tochan](https://open.spotify.com/album/6Qe64Ygt1tekPdGdVSL82L) | 3:08 | 2022-12-16 | 2023-02-02 |
 | [Tod Gayi](https://open.spotify.com/track/77rovUbI0HYyc1AMjvWvp5) | [Khan Saab](https://open.spotify.com/artist/1Y2YoNjhDco7zu09ZtiEjM), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Tod Gayi](https://open.spotify.com/album/2UKewxdeFG7QX7dszVholW) | 3:08 | 2022-03-29 | 2022-04-29 |
 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 | 2021-12-02 | 2022-12-16 |
+| [Toronto Wala Gabhru](https://open.spotify.com/track/3sDN39Dmqny4KiNAVn9JYk) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Lost Treasures](https://open.spotify.com/album/60224gsHzqN70VFJ3EsTuX) | 2:24 | 2023-02-20 |  |
 | [Touch](https://open.spotify.com/track/7N1GIRDrB1l14np1AT6EED) | [Sama Blake](https://open.spotify.com/artist/19jOqaZTvseWAgi4PaQJrd), [Rameet Sandhu](https://open.spotify.com/artist/3DvttNUNkwPw64Hp3BFsEP) | [Touch](https://open.spotify.com/album/7xbXd6O3AFkSHBeCnZ14Gi) | 3:09 | 2022-07-15 | 2022-08-18 |
 | [Trouble Maker](https://open.spotify.com/track/3TAVm9vSyDhvTEHcdVesjV) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Mxrci](https://open.spotify.com/artist/2Nqey0jwMuyuUKuQ8f1d7D) | [Trouble Maker](https://open.spotify.com/album/7watxaAZ25ax1NQHbduhgU) | 2:38 | 2022-10-12 | 2023-02-04 |
 | [Tu Hi Das De](https://open.spotify.com/track/65hNUaQSau704UtsRZVhKy) | [Tedi Pagg](https://open.spotify.com/artist/6tWHWFyjq1e6xsPDsOxhca), [Simar Panag](https://open.spotify.com/artist/17wXdpGNHQ2vJ1ccoToqGC), [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Tu Hi Das De](https://open.spotify.com/album/5ZYR477Cw4aZu3NDhBKXrW) | 2:52 | 2021-12-02 | 2022-12-16 |

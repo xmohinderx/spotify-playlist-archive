@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "King B",
+        "url": "https://open.spotify.com/album/5ZzynEKb0pettc13vWULTE"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200760,
+      "name": "King B",
+      "url": "https://open.spotify.com/track/5i4bf9vuP235Qhjgqo78nM"
+    },
+    {
+      "album": {
         "name": "Bloodstreams",
         "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
       },

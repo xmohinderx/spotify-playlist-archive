@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUs5ZfyIp6hP.md) - [plain]
 
 ### [4th of July Family Fun](https://open.spotify.com/playlist/37i9dQZF1DWUs5ZfyIp6hP)
 
-> Light of your 4th with these family\-friendly tunes.
+> Light up your 4th with these family\-friendly tunes.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,729 likes - 51 songs - 2 hr 35 min
 
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUs5ZfyIp6hP.md) - [plain]
 | 50 | [Hot Fun in the Summertime](https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:37 |
 | 51 | [The United States Where Freedom Rings](https://open.spotify.com/track/2dkSS53ACmE7OFBDqa41OQ) | [Jeography](https://open.spotify.com/artist/5l2nxUCCFQtdomhQ8ldeOB) | [Geography Songs for This Planet](https://open.spotify.com/album/4GrgdZjtFrmanopz1ANjvg) | 7:43 |
 
-Snapshot ID: `MTY1NjQzMzIxMiwwMDAwMDAwMDZjNjZkOTJiMGIzYTAyY2IxM2E0NGRkNjM0YjJkNGY3`
+Snapshot ID: `MTY3NjkwMDkwNiwwMDAwMDAwMGM3ZGYwMWZkNDhjNzM3YjMxNWQ5MWMzOTAyZTZjMDI4`
