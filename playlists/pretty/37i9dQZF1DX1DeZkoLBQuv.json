@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6118,
+  "num_followers": 6116,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMGNjOTczY2M4MGE1NjczZTc0OGU4NmJiMzk0MWEyY2Nh",
+  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMGNmYzEyYjBjYjVkNWZhMjFjM2I2NTQzNjQzZjE3ZWNi",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -91,26 +91,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
-      },
-      "artists": [
-        {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 280880,
-      "name": "Grande \u00e9 o Senhor - Ac\u00fastico Ao Vivo",
-      "url": "https://open.spotify.com/track/1dIah1UaJi3n5pwOaOd5QV"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Eu e o Rei (Ao Vivo)",
         "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 337525,
       "name": "Eu e o Rei - Ao Vivo",
       "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
+      },
+      "artists": [
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 280880,
+      "name": "Grande \u00e9 o Senhor - Ac\u00fastico Ao Vivo",
+      "url": "https://open.spotify.com/track/1dIah1UaJi3n5pwOaOd5QV"
     },
     {
       "added_at": "2022-12-09 06:26:14",

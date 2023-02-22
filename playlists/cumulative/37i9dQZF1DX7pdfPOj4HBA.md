@@ -4,7 +4,7 @@
 
 > chill vibes ♡
 
-131 songs - 6 hr 46 min
+132 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [2022](https://open.spotify.com/track/54iEZINzQt6ltApofgtCpO) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [2022](https://open.spotify.com/album/2OapHw2hXgZqImkWjbBq5D) | 2:45 | 2023-01-17 |  |
 | [222](https://open.spotify.com/track/3L13NvOpRky9f48BPF8yPD) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [Projectors](https://open.spotify.com/album/6T10Tpl6t3HjVgEYCKhXhm) | 2:36 | 2022-12-17 |  |
 | [Acid Freestyle](https://open.spotify.com/track/53pd2Mtqmd21Tjg3GkObEB) | [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R) | [Acid Freestyle](https://open.spotify.com/album/5tQwVdqA8EfGCokpyAU9UF) | 2:53 | 2022-11-18 |  |
-| [All Tinted](https://open.spotify.com/track/3ZS6nAQHjvHezX2ncHma2s) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) | [All Tinted](https://open.spotify.com/album/7adiBGuL9uUEDtGlwkplZf) | 3:17 | 2022-11-18 |  |
+| [All Tinted](https://open.spotify.com/track/3ZS6nAQHjvHezX2ncHma2s) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) | [All Tinted](https://open.spotify.com/album/7adiBGuL9uUEDtGlwkplZf) | 3:17 | 2022-11-18 | 2023-02-22 |
+| [All Tinted](https://open.spotify.com/track/5T5zdXB8MNCGFTspLY45rN) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) | [All Tinted](https://open.spotify.com/album/2oAx5hF8vyIQoHgeASn5tE) | 3:18 | 2022-11-18 |  |
 | [Any Other Way](https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Any Other Way](https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM) | 2:48 | 2022-11-18 |  |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-11-18 | 2023-01-18 |
 | [Baby Blues](https://open.spotify.com/track/08tdFfSLp50Wv6HIcfH9YP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 1:48 | 2022-10-19 | 2022-11-19 |

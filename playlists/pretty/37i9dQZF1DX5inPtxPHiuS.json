@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Don Tetto",
-  "num_followers": 81726,
+  "num_followers": 81750,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMzNzEzMCwwMDAwMDAwMDRhYWVjN2Q2Y2RiYjg2MjhhYjQ0ODZhOTg3MTU2MzI4",
+  "snapshot_id": "MTY3NjMzNzEzMCwwMDAwMDAwMDM4ZTNkYjlkNjkzYzRlMGE4MjA0ZWRmMWJhNDM3N2U3",
   "tracks": [
     {
       "added_at": "2022-10-13 15:12:40",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/4cO7TlWSvphDKXlYQVi2bl"
     },
     {
-      "added_at": "2023-02-21 01:04:02",
+      "added_at": "2023-02-22 01:24:25",
       "album": {
         "name": "Cisne",
         "url": "https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
     },
     {
-      "added_at": "2023-02-21 01:04:02",
+      "added_at": "2023-02-22 01:24:25",
       "album": {
         "name": "Ni\u00f1os Perdidos",
         "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/4Bz2qeU43gmHUavvtLGOKP"
     },
     {
-      "added_at": "2023-02-21 01:04:02",
+      "added_at": "2023-02-22 01:24:25",
       "album": {
         "name": "Neum\u00e1ticos",
         "url": "https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/6wHbkqzDJqUsuXAzQgWH87"
     },
     {
-      "added_at": "2023-02-21 01:04:02",
+      "added_at": "2023-02-22 01:24:25",
       "album": {
         "name": "Recorrer el Mundo",
         "url": "https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/6EpYwPKXRSvbiEzQleo3Ex"
     },
     {
-      "added_at": "2023-02-21 01:04:02",
+      "added_at": "2023-02-22 01:24:25",
       "album": {
         "name": "Un Eterno Loop Sin Fin",
         "url": "https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne"
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/04hrxeWIyytJq6HtLXVDZL"
-      },
-      "artists": [
-        {
-          "name": "Seis Peatones",
-          "url": "https://open.spotify.com/artist/3ttS9nRJO3PdwxRlMKmFGh"
-        }
-      ],
-      "duration_ms": 270687,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/0O8Hjr6LlqMVQSRE6tuSNL"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "TEMPLO KOMODO",
         "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 249965,
       "name": "B\u00fahoz",
       "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/04hrxeWIyytJq6HtLXVDZL"
+      },
+      "artists": [
+        {
+          "name": "Seis Peatones",
+          "url": "https://open.spotify.com/artist/3ttS9nRJO3PdwxRlMKmFGh"
+        }
+      ],
+      "duration_ms": 270687,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0O8Hjr6LlqMVQSRE6tuSNL"
     },
     {
       "added_at": "2022-10-13 15:12:40",

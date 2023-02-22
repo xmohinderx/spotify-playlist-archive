@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "\u3072\u3068\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/50dBbJbsF0mw4JZPeEHtly"
+      },
+      "artists": [
+        {
+          "name": "Wolpis Carter",
+          "url": "https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342200,
+      "name": "Alice in \u51b7\u51cd\u5eab",
+      "url": "https://open.spotify.com/track/2uUZ5xWKmvnY1r5B0ACgb4"
+    },
+    {
+      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/2sXsMJYhVvtubUdH5yBAxW"
       },
@@ -256,7 +274,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 164378,
       "name": "ANTIHERO",
       "url": "https://open.spotify.com/track/3tf7tPUTdNHML02jErRhrd"
@@ -398,6 +416,24 @@
       "duration_ms": 184790,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/337wXtKzFA4KM5uK6XJYTi"
+    },
+    {
+      "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/0FYeWNpRDbzpdWlLrvt67F"
+      },
+      "artists": [
+        {
+          "name": "\u3068\u304d\u306e\u305d\u3089",
+          "url": "https://open.spotify.com/artist/2g9gjJayRURjomDGRLNaZR"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274040,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/7xev1esc8DiPGq6oZ5bqe7"
     },
     {
       "album": {
@@ -1853,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m a Controversy",
+        "url": "https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194515,
+      "name": "I\u2019m a Controversy",
+      "url": "https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM"
+    },
+    {
+      "album": {
         "name": "juice box",
         "url": "https://open.spotify.com/album/4Uvm3mUSpQCRTwyfLHsFip"
       },
@@ -2611,6 +2665,42 @@
     },
     {
       "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/4aSGAyS9xO5tq0n3w0qPmh"
+      },
+      "artists": [
+        {
+          "name": "shoose",
+          "url": "https://open.spotify.com/artist/6XLMQoszP8tCQRpYuHp634"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194510,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/5ezoBHVdgF5IqB94trXChy"
+    },
+    {
+      "album": {
+        "name": "overload",
+        "url": "https://open.spotify.com/album/4HQfUEgyiQF1GBmLBsmNJJ"
+      },
+      "artists": [
+        {
+          "name": "ITO",
+          "url": "https://open.spotify.com/artist/6rrrZh0srrnPzkTb6amBKi"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "overload",
+      "url": "https://open.spotify.com/track/3HmaH6cEq2LUiVa1SCaAOd"
+    },
+    {
+      "album": {
         "name": "oxygen",
         "url": "https://open.spotify.com/album/7n5DPNlVjeFaFkTNJyro7o"
       },
@@ -2860,7 +2950,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 178064,
       "name": "Rebellion",
       "url": "https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4"
@@ -4718,7 +4808,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 193960,
       "name": "\u307f\u3061\u3065\u308c",
       "url": "https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO"
@@ -5631,6 +5721,24 @@
     },
     {
       "album": {
+        "name": "\u30aa\u30eb\u30bf\u30fc\u30a8\u30b4",
+        "url": "https://open.spotify.com/album/5QAR9vY3vVHQH63oloIr4f"
+      },
+      "artists": [
+        {
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222954,
+      "name": "\u30aa\u30eb\u30bf\u30fc\u30a8\u30b4",
+      "url": "https://open.spotify.com/track/1xQk51ZFXt6Zf7d2xUNSN1"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30d5\u30a7\u30e9\u30c6\u306e\u3046\u305f",
         "url": "https://open.spotify.com/album/1KGH7DtNGM2HMzR5K1wkHq"
       },
@@ -5780,6 +5888,32 @@
       "duration_ms": 219426,
       "name": "\u30af\u30ec\u30a4\u30b8\u30fc\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/2eQYa3duBBkLnrH8QXF7uY"
+    },
+    {
+      "album": {
+        "name": "\u30af\u30ed\u30c3\u30af\u30ef\u30fc\u30af\u30b9",
+        "url": "https://open.spotify.com/album/3eqqfevg8PZzBmvJUTkpHS"
+      },
+      "artists": [
+        {
+          "name": "syudou \u00d7 \u307e\u3075\u307e\u3075",
+          "url": "https://open.spotify.com/artist/6e8r6bPyKuCasj4mbtoRiK"
+        },
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        },
+        {
+          "name": "Mafumafu",
+          "url": "https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "\u30af\u30ed\u30c3\u30af\u30ef\u30fc\u30af\u30b9",
+      "url": "https://open.spotify.com/track/0AV3BrztA96ITVDd0dktl9"
     },
     {
       "album": {
@@ -7638,7 +7772,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 282880,
       "name": "\u30eb\u30fc\u30c9\u30eb\u30fc\u30ba\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/0sHbdxyepJ11nCCUEOin35"
@@ -7942,10 +8076,28 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 190866,
       "name": "\u4eba\u9593\u305f\u308b\u3082\u306e - feat. \u3082\u3053\u3046, \u30e6\u30ea\u30a4\u30fb\u30ab\u30ce\u30f3",
       "url": "https://open.spotify.com/track/7cUfHMsJ1QtyfJhVwD9Y7g"
+    },
+    {
+      "album": {
+        "name": "\u4eca\u56de\u306e\u708e\u4e0a\u306e\u4ef6\u306b\u3064\u3044\u3066",
+        "url": "https://open.spotify.com/album/2VrYWMnNqRaWwlE5ZadSGY"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u3057",
+          "url": "https://open.spotify.com/artist/7cXVvrtPmYeDXGSSTvOoSU"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141533,
+      "name": "\u4eca\u56de\u306e\u708e\u4e0a\u306e\u4ef6\u306b\u3064\u3044\u3066",
+      "url": "https://open.spotify.com/track/06Co8a5wRfOAIyKoGXFSj4"
     },
     {
       "album": {
@@ -8398,7 +8550,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 290466,
       "name": "\u5618\u6708",
       "url": "https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay"
@@ -9230,7 +9382,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 181266,
       "name": "\u611b\u3092\u89e3\u304f",
       "url": "https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V"
@@ -10012,7 +10164,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 257799,
       "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
       "url": "https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR"

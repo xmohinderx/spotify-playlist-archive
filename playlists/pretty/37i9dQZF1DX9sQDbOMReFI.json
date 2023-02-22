@@ -1,12 +1,12 @@
 {
   "description": "The best side! Cover: Mount Westmore",
-  "num_followers": 661399,
+  "num_followers": 661843,
   "original_name": "I Love My West Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGE2NDQwZTAxNWMzZGVkZDgwNGY0Yzc1ZDlkODIyNzM4",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDE2MTYxYjRiYjc4YWQwNWFhMWQwMzJjMDM1N2MyZjIy",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "The Best of MC Eiht",
-        "url": "https://open.spotify.com/album/38BUSePXkHHL9gNyS1weTB"
-      },
-      "artists": [
-        {
-          "name": "MC Eiht",
-          "url": "https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X"
-        }
-      ],
-      "duration_ms": 274306,
-      "name": "Straight Up Menace",
-      "url": "https://open.spotify.com/track/5UQOmTylBEdsIfSn37v3DO"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Explicit Game",
         "url": "https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 253626,
       "name": "Mistadobalina",
       "url": "https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Hi-Five: Digital Underground",
+        "url": "https://open.spotify.com/album/0D0YA85OKpSDvmgmoPJPn8"
+      },
+      "artists": [
+        {
+          "name": "Digital Underground",
+          "url": "https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "Same Song - Edit Version",
+      "url": "https://open.spotify.com/track/2UGDIXZk00zzAhncymBXo1"
     }
   ],
   "unique_name": "I Love My West Coast Classics",

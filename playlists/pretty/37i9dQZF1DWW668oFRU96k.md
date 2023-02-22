@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: MYRNE x Manila Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,585 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,592 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 60 | [Gravity](https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Gravity](https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9) | 2:24 |
 | 61 | [Into Your Eyes](https://open.spotify.com/track/3rq7DxN72cFcuWvaab7jV4) | [PuFFcorn](https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE), [Cytrax](https://open.spotify.com/artist/654q5ND8XzmkMhxU1JwS2U), [Sam Marsey](https://open.spotify.com/artist/4npf5OEJutnimr7hz4JGzn) | [Into Your Eyes](https://open.spotify.com/album/2g3ZcGs0pAHMTxOTiyOgZw) | 2:37 |
 | 62 | [Far Away](https://open.spotify.com/track/6pMoD5BTJzzgENnTMq2BTk) | [NIGHTINGALE](https://open.spotify.com/artist/1BjY8OlzCH17snJo69ZGnc), [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [Retro Cactus](https://open.spotify.com/artist/6aEHYwalIVWmgVOBMYwMx3) | [Far Away](https://open.spotify.com/album/2D62fDJGIAyvYRkf6ph81h) | 3:37 |
-| 63 | [Down](https://open.spotify.com/track/7I3MxDKyVKi5H8wV689a5V) | [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR), [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [Down](https://open.spotify.com/album/527wDYuzAGaalTeBKNe5FO) | 2:04 |
+| 63 | [Down](https://open.spotify.com/track/7I3MxDKyVKi5H8wV689a5V) | [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR), [NYK](https://open.spotify.com/artist/1uuSbghLOrbMN0eZqavFUn) | [Down](https://open.spotify.com/album/527wDYuzAGaalTeBKNe5FO) | 2:04 |
 | 64 | [We're Just Getting Started](https://open.spotify.com/track/2I6kqSLfG3tRfpADHfIoxC) | [Hover Glazz](https://open.spotify.com/artist/6EOiLiZEAtzwCBbqfDVjA3) | [We're Just Getting Started](https://open.spotify.com/album/0xSmZC3kK5wtjCTsJLw1OZ) | 3:13 |
 | 65 | [Stay With Me](https://open.spotify.com/track/1rSujs3MEWh6iowIgrgDvV) | [JustNgoc](https://open.spotify.com/artist/4sLtfiU2XkXsI8CJj9gj1x), [Phanhung](https://open.spotify.com/artist/3Yz0ljszozULd1CNheVw30), [StarlingEDM](https://open.spotify.com/artist/0a93wqFVaAkoKU1GqG7hvF) | [Stay With Me](https://open.spotify.com/album/3L6pQ5UuYzdWpKoCr7cMFK) | 3:05 |
 | 66 | [Forget You \(with Gabry Ponte\)](https://open.spotify.com/track/7gJynFtygTiif6xdoipmUm) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Forget You \(with Gabry Ponte\)](https://open.spotify.com/album/4tSBBYZHikk7WnaZclkZ0i) | 2:18 |

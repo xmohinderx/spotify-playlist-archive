@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Jessica Audiffred
 
-299 songs - 17 hr 7 min
+300 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Flute Dub \- A Hundred Drums Remix](https://open.spotify.com/track/5yfMqK3OwtN6m7RDiUhTNr) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [ANTIFRACTALS](https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S) | 4:13 | 2022-12-16 |  |
 | [From My Grave](https://open.spotify.com/track/22Vf2iU0d474KlNp8KXmAF) | [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe), [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [From My Grave](https://open.spotify.com/album/4IzNLgceJVDeP1Um0wvaAQ) | 2:52 | 2022-03-11 | 2022-09-24 |
 | [FUNKONAUT](https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [FUNKONAUT](https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ) | 3:30 | 2022-08-26 |  |
-| [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-08 |  |
+| [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-08 | 2023-02-22 |
 | [Fusion](https://open.spotify.com/track/2pwpYFxW0Hya0aIYFTXRIN) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Fusion](https://open.spotify.com/album/7pqIOkxBEl1aXWw3TqZkVw) | 2:04 | 2021-12-17 | 2022-10-02 |
 | [GALACTICAL](https://open.spotify.com/track/3fRF3qz1d8f6Sx2dnhPUZZ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [GALACTICAL](https://open.spotify.com/album/5jcrnkIRwz5yx6dodjzUTa) | 4:35 | 2022-11-11 |  |
 | [Gawdam](https://open.spotify.com/track/35LfVddGN6zR5gE78o0EdU) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8) | [Gawdam](https://open.spotify.com/album/0qSMwW0ZBiZJUuFsxmr3Oj) | 2:36 | 2021-12-17 | 2022-03-12 |
@@ -173,6 +173,7 @@
 | [Masquerade](https://open.spotify.com/track/6647nIIdCk4bIhgAowggN3) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Masquerade](https://open.spotify.com/album/0WRIGptzXtdFiqKtjK93jU) | 4:19 | 2022-11-11 |  |
 | [MEGAZORD](https://open.spotify.com/track/4Iz3e22hTN8B2koCpPuoUD) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Chrishira Perrier](https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2) | [Bangers\[7\].Zip](https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV) | 2:43 | 2022-11-11 |  |
 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 | 2022-09-02 |  |
+| [Miles Away](https://open.spotify.com/track/5xWvRtgAxkWUZPGXqICbpx) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Miles Away](https://open.spotify.com/album/61LAgCOZQZed5PumpbhcaO) | 2:30 | 2023-02-17 |  |
 | [Mind & Body](https://open.spotify.com/track/38eFNBOXqh8FEWOkY8z9wF) | [SUAHN](https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX), [Ethan Glass](https://open.spotify.com/artist/1QcqiiBi6BHRzdgDHvpqu9) | [Mind & Body](https://open.spotify.com/album/5zB87dPnUtR5Ch6JVQ3Ubh) | 4:09 | 2022-03-04 | 2022-07-28 |
 | [Mind & Body](https://open.spotify.com/track/6YsT7iK2yKRamjUI0Gt5Rh) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1) | [Mind & Body](https://open.spotify.com/album/3U9B2nWzZpMT8vWoVv1VSx) | 2:35 | 2022-03-18 |  |
 | [Mitosis](https://open.spotify.com/track/1F1yF2KSilU2YLOMuYYf71) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Mitosis](https://open.spotify.com/album/41alHDUXIm46q49d1uO1fq) | 3:43 | 2021-12-17 |  |

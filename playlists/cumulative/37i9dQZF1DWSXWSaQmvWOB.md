@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: WILSN
 
-625 songs - 1 day 14 hr 22 min
+626 songs - 1 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Feathers](https://open.spotify.com/track/4LRSIpUvaraKFoFeUalVlS) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Feathers](https://open.spotify.com/album/6WNaWwek9sMh3Ow2EcYyvC) | 3:22 | 2021-04-17 | 2021-12-01 |
 | [Feel It Comin \- Single Version](https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Feel It Comin](https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h) | 3:25 | 2022-09-22 |  |
 | [Feelings Mutual?](https://open.spotify.com/track/7J1Zusa5GedbeBAtGrvFoC) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Feelings Mutual?](https://open.spotify.com/album/1X8csoHCSCdhiM37VtKGM6) | 3:09 | 2021-07-30 | 2021-12-01 |
-| [Feels So Good Don’t It](https://open.spotify.com/track/2zjgiDtc4dutzztejez29k) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [Feels So Good \(Don’t It\)](https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg) | 3:29 | 2022-07-21 |  |
+| [Feels So Good Don’t It](https://open.spotify.com/track/2zjgiDtc4dutzztejez29k) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [Feels So Good \(Don’t It\)](https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg) | 3:29 | 2022-07-21 | 2023-02-22 |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 | 2021-06-18 | 2022-09-23 |
 | [Feet Down South](https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Spoon](https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq) | 6:29 | 2022-09-22 |  |
 | [Fever](https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Hindi Zahra](https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S) | [Black Radio \(Deluxe Edition\)](https://open.spotify.com/album/6pGglD9IbzeSEze9FHyl8C) | 6:48 | 2022-12-02 |  |
@@ -455,6 +455,7 @@
 | [Running Blind \- From "Liberated / Music For the Movement Vol\. 3"](https://open.spotify.com/track/7ALUF2i2FCiRCx9OqBJ5Ot) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Running Blind \(From "Liberated / Music For the Movement Vol\. 3"\)](https://open.spotify.com/album/74XnffQl19Z2WAErQ4DjZb) | 3:13 | 2021-06-04 | 2022-07-13 |
 | [Ruthless \- Live](https://open.spotify.com/track/7A7QkjZh12bwLueervFQb5) | [YOUNGTONES](https://open.spotify.com/artist/34MK0bzFb12zkGF9ILYFQG) | [YOUNGTONES LIVE AT 64 SOUND, Vol\. 2](https://open.spotify.com/album/3LJt8lBbGyUUnhwGbKPkWX) | 3:44 | 2022-09-29 | 2022-11-12 |
 | [S.M.S\. "Save My Soul"](https://open.spotify.com/track/1q4N7SQ7vtUXYWPyfaIIOY) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [S.M.S\. "Save My Soul"](https://open.spotify.com/album/3PfSC1nhFiqSjkNRtRfyaG) | 4:03 | 2022-02-10 | 2022-07-29 |
+| [S.O.L](https://open.spotify.com/track/0KgLSONjjoJ47ZEhN6CQSt) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0oQnzhETkhY0LgeWGeEI4S) | 5:51 | 2023-02-17 |  |
 | [S.O.L](https://open.spotify.com/track/0g39c1wm3U7lTBTjmXF5II) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0NBqhQmnLKNHvrB0a3jrK7) | 5:51 | 2022-10-28 | 2023-02-02 |
 | [Sage Motel](https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Sage Motel](https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9) | 3:52 | 2022-05-12 |  |
 | [Sailing Out \- Radio Edit](https://open.spotify.com/track/4CJODw2DF9BiRzkhmNlXmh) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Sailing Out](https://open.spotify.com/album/2zCGyhPMO7RlSORcAGLS7C) | 3:07 | 2020-03-25\* | 2021-02-24 |

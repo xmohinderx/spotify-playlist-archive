@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: a flood of circle",
+  "description": "The biggest rock artists in Japan right now! Cover: \u304f\u308b\u308a",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 242278,
       "name": "B.O.Y.",
       "url": "https://open.spotify.com/track/33UTmYJPlpkPFsKr29NI6K"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 196573,
       "name": "Drive Far",
       "url": "https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 212786,
       "name": "EL MARIACHI",
       "url": "https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN"
@@ -1199,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Fantasista",
+        "url": "https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272333,
+      "name": "Fantasista",
+      "url": "https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ"
+    },
+    {
+      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/5vbFIeNWKOdJaIC4JtgtG8"
       },
@@ -1250,6 +1268,24 @@
       "duration_ms": 156473,
       "name": "Feelin'",
       "url": "https://open.spotify.com/track/6YoicaJPVCpHvMmOZWksON"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL"
+      },
+      "artists": [
+        {
+          "name": "ACIDMAN",
+          "url": "https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221700,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3"
     },
     {
       "album": {
@@ -1532,7 +1568,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 274337,
       "name": "Get Wild",
       "url": "https://open.spotify.com/track/5G48nS1vgkQherzj2bHE3F"
@@ -1760,7 +1796,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 224960,
       "name": "Hunter or Prey",
       "url": "https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V"
@@ -2564,7 +2600,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 191373,
       "name": "Mary",
       "url": "https://open.spotify.com/track/6yiqPUtoyygE7I9TJPX8zs"
@@ -2622,6 +2658,24 @@
       "duration_ms": 149160,
       "name": "Memeshikute - 2022ryukogo ver.",
       "url": "https://open.spotify.com/track/1jcBBNlvrLSvfZJThCz3oe"
+    },
+    {
+      "album": {
+        "name": "Memorable",
+        "url": "https://open.spotify.com/album/7IRqHHRA0aiUelyyU7cRpn"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193965,
+      "name": "Memorable",
+      "url": "https://open.spotify.com/track/17owggiNAYFzigM57niXUb"
     },
     {
       "album": {
@@ -2744,7 +2798,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 230542,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5"
@@ -3036,7 +3090,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 210096,
       "name": "Nice Day",
       "url": "https://open.spotify.com/track/24PyTTd3CiplNPpmYpJifN"
@@ -3202,7 +3256,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 207203,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/5eJzzdZFGx5UTQ8OO9HhKQ"
@@ -3942,7 +3996,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 210440,
       "name": "SEVENTEEN",
       "url": "https://open.spotify.com/track/67iNt98UJRDjlwxdGvo2qJ"
@@ -4689,6 +4743,24 @@
     },
     {
       "album": {
+        "name": "This Song",
+        "url": "https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s"
+      },
+      "artists": [
+        {
+          "name": "OAU",
+          "url": "https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231635,
+      "name": "This Song",
+      "url": "https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER"
+    },
+    {
+      "album": {
         "name": "TiDE",
         "url": "https://open.spotify.com/album/3yRt3XQ3ZE3VidghduYIuI"
       },
@@ -4826,7 +4898,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 250000,
       "name": "Tsuki no Wan",
       "url": "https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku"
@@ -5158,7 +5230,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 250366,
       "name": "VOX",
       "url": "https://open.spotify.com/track/1KxHcxJXPxED226UAIQFwK"
@@ -7235,6 +7307,24 @@
     },
     {
       "album": {
+        "name": "\u51ac\u30ce\u9053\u30ce\u30bb\u30a4",
+        "url": "https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs"
+      },
+      "artists": [
+        {
+          "name": "Straightener",
+          "url": "https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271666,
+      "name": "\u51ac\u30ce\u9053\u30ce\u30bb\u30a4",
+      "url": "https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN"
+    },
+    {
+      "album": {
         "name": "\u51fa\u753a\u67f3\u30d1\u30e9\u30ec\u30eb\u30e6\u30cb\u30d0\u30fc\u30b9",
         "url": "https://open.spotify.com/album/7esEraxgPxV0BlLBjaP8Gs"
       },
@@ -7376,6 +7466,24 @@
       "duration_ms": 234346,
       "name": "\u5742\u9053\u3092\u4e0a\u3063\u3066",
       "url": "https://open.spotify.com/track/3XilAwFIiV2u3lA58K3xSS"
+    },
+    {
+      "album": {
+        "name": "\u5909\u308f\u308b\u6d88\u3048\u308b",
+        "url": "https://open.spotify.com/album/3wuPwZME3HR7b16YVVfDub"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229374,
+      "name": "\u5909\u308f\u308b\u6d88\u3048\u308b",
+      "url": "https://open.spotify.com/track/1QoIG08kXG8uf5KuJx1y9X"
     },
     {
       "album": {
@@ -7744,6 +7852,24 @@
       "duration_ms": 234866,
       "name": "\u60b2\u3057\u3044\u6c17\u6301\u3061(Just a man in love)",
       "url": "https://open.spotify.com/track/14evwICDoy0d36Nat7hsUT"
+    },
+    {
+      "album": {
+        "name": "\u611b\u306e\u592a\u967d",
+        "url": "https://open.spotify.com/album/4NyLuxXiCsxBYis4wkvdaX"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252026,
+      "name": "\u611b\u306e\u592a\u967d",
+      "url": "https://open.spotify.com/track/0zachxUjDCMi59m1RGjOqT"
     },
     {
       "album": {
@@ -8281,6 +8407,24 @@
     },
     {
       "album": {
+        "name": "PAIN KILLER",
+        "url": "https://open.spotify.com/album/3BETwNVDIswbCpCS4M8wxz"
+      },
+      "artists": [
+        {
+          "name": "Yamaarashi",
+          "url": "https://open.spotify.com/artist/3YKtcPI1ykxg166wjbrvU5"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255706,
+      "name": "\u6d85\u69c3",
+      "url": "https://open.spotify.com/track/1rvbAtrJ2FBUBeLbES41qV"
+    },
+    {
+      "album": {
         "name": "Les Mis\u00e9 blue",
         "url": "https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs"
       },
@@ -8440,6 +8584,24 @@
       "duration_ms": 220145,
       "name": "\u767d\u3044\u7d19\u98db\u884c\u6a5f",
       "url": "https://open.spotify.com/track/4jzo48ABs5PnEeQFoCVmtx"
+    },
+    {
+      "album": {
+        "name": "25 -A Tribute To Dragon Ash-(Another Edition)",
+        "url": "https://open.spotify.com/album/4dyz7fp74JIqn8UzSkbeDd"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "\u767e\u5408\u306e\u54b2\u304f\u5834\u6240\u3067",
+      "url": "https://open.spotify.com/track/5fU5rBiYS7ICg3BtojUCIn"
     },
     {
       "album": {

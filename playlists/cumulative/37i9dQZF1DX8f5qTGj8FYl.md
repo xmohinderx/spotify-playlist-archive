@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-214 songs - 14 hr 57 min
+215 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [First Impression](https://open.spotify.com/track/19PYtP657yQEAwmduEf1R0) | [True Loves](https://open.spotify.com/artist/1DZpa2hXpHrR7yE3Xnn2Dx) | [First Impression](https://open.spotify.com/album/0CwsDXnmTk8TyTdbwQJXgF) | 4:12 | 2021-01-22 | 2022-07-29 |
 | [First Impression](https://open.spotify.com/track/4RPt0Kh6elRr1UCdlyU4qn) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy) | 4:12 | 2021-01-22 | 2022-12-02 |
 | [Flatfoot](https://open.spotify.com/track/0RHr2hG0bIODmOjaex4oyT) | [Fusik](https://open.spotify.com/artist/4EDtxm2WLicV4I1B9E8kl2) | [Flatfoot](https://open.spotify.com/album/1qXOH9z8qIVELOkM3HZCAm) | 4:33 | 2020-11-13 | 2022-06-30 |
+| [Float On](https://open.spotify.com/track/68vr9Tp7AuN4CdVXHZBLyE) | [E\. Live](https://open.spotify.com/artist/0HB3DYw6dUNqE9wFm6edkT) | [Cloud Vibes](https://open.spotify.com/album/2wHAj2b9Bv32JbqeRlNbJB) | 4:00 | 2022-08-05 |  |
 | [Flying Home](https://open.spotify.com/track/5St8RhYDg6dyF43aFod1YM) | [Felix Magnus Grossmann](https://open.spotify.com/artist/7uWwYPKXHTU6JXRm8VVLtH) | [Big Band Around the World](https://open.spotify.com/album/2fgBvjukx0OLHEmTOK4Cb8) | 2:45 | 2020-11-13 | 2022-04-18 |
 | [Fried Soul](https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Fried Soul](https://open.spotify.com/album/77jIlQfM7IPgXdxEXaDm9O) | 3:36 | 2022-02-25 |  |
 | [Funkafized](https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0) | [Boston Horns](https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd) | [Funkafized Plus](https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f) | 4:59 | 2020-11-13 |  |
@@ -91,7 +92,7 @@
 | [Get Funked](https://open.spotify.com/track/38sBy1Ig1pojTtcsOpNIYN) | [Low\-Res Royalty](https://open.spotify.com/artist/0BHZPaU8Rm27DxydcWn8Xq) | [Get Funked](https://open.spotify.com/album/1sErMYQ42qnb0STz97sNkt) | 2:35 | 2020-11-13 | 2022-07-27 |
 | [Get With It](https://open.spotify.com/track/2EjDv0D4fQfDVPYchQQzLc) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Get With It](https://open.spotify.com/album/5kwsrHfXP95rGoSiMz5wVY) | 3:06 | 2021-04-16 | 2022-07-29 |
 | [Get With It](https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Moonshadows](https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh) | 3:06 | 2021-04-16 |  |
-| [Getaway Car](https://open.spotify.com/track/4wIMg49wp66ned9IZ6QUzf) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Getaway Car](https://open.spotify.com/album/5WpaETJzHurpaWKwOkNs1J) | 3:28 | 2021-05-28 |  |
+| [Getaway Car](https://open.spotify.com/track/4wIMg49wp66ned9IZ6QUzf) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Getaway Car](https://open.spotify.com/album/5WpaETJzHurpaWKwOkNs1J) | 3:28 | 2021-05-28 | 2023-02-22 |
 | [Giggle](https://open.spotify.com/track/3WIN9tTTMSddrex5ixq1DO) | [6ix Toys](https://open.spotify.com/artist/7k5NMuaLXe6SFdklcTWvXl) | [6IX Toys](https://open.spotify.com/album/6npwwHTOkAwTXSd54CKp3u) | 3:31 | 2020-11-13 | 2022-04-20 |
 | [Give Everybody Some](https://open.spotify.com/track/5Z0JfPy9qIFqbxafGsRiZy) | [Mickey & The Soul Generation](https://open.spotify.com/artist/6R8Xep48pgKRWzTBchSwO9) | [Iron Leg](https://open.spotify.com/album/7GGdJ4p0sCDTNySOEkMbyJ) | 7:04 | 2020-11-13 | 2022-07-21 |
 | [Goliath](https://open.spotify.com/track/3xGsGKZtO9igxUGjC6SFcv) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Into The Infrasounds](https://open.spotify.com/album/73HHKGxaTm3f0GognR7hBv) | 5:03 | 2020-11-13 | 2022-06-20 |

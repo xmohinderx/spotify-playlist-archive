@@ -1,12 +1,12 @@
 {
   "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS?si=LsiXeXHtRJKZdTacWbURoA\">Gevoel van Veiligheid</a>",
-  "num_followers": 12143,
+  "num_followers": 12149,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njg4MDU2MCwwMDAwMDAwMDEwMGVhZTQ1MWQ0NTY4MmQzOTFhZTBlNmQyMDk1ODIw",
+  "snapshot_id": "MTY3Njk2OTc4NCwwMDAwMDAwMGMzNTcwOGQ1NjJlMmRkZTk3ZWU5MzEyYTJiZTA5NzEx",
   "tracks": [
     {
       "added_at": "2023-02-16 21:59:00",
@@ -95,6 +95,22 @@
       "duration_ms": 225160,
       "name": "Toe Roep Ek Jou Naam",
       "url": "https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6"
+    },
+    {
+      "added_at": "2023-02-21 08:56:24",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/3Bw3SUtousZqEFxBOM2PM3"
+      },
+      "artists": [
+        {
+          "name": "Oceans of Angels",
+          "url": "https://open.spotify.com/artist/043vNvW2Jlt2J03d0tJJPY"
+        }
+      ],
+      "duration_ms": 237875,
+      "name": "Loaded Gun",
+      "url": "https://open.spotify.com/track/2plDiIgkQP195XUrFRTlNj"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -511,26 +527,6 @@
       "duration_ms": 442888,
       "name": "Socks On Astroturf",
       "url": "https://open.spotify.com/track/5gtDFsmSgRX9wWYNjVFUer"
-    },
-    {
-      "added_at": "2023-02-20 08:04:37",
-      "album": {
-        "name": "What Would You Do?",
-        "url": "https://open.spotify.com/album/4w2yJlTLXCQWtzQMo8kWxa"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        },
-        {
-          "name": "Gavin Rossdale",
-          "url": "https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6"
-        }
-      ],
-      "duration_ms": 290301,
-      "name": "What Would You Do? [Feat. Gavin Rossdale]",
-      "url": "https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK"
     },
     {
       "added_at": "2023-02-16 21:59:00",

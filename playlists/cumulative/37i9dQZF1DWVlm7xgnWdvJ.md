@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-87 songs - 8 hr 19 min
+88 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Time](https://open.spotify.com/track/6J3aUG1y0zSJXOnsLhx41h) | [Pachanga Boys](https://open.spotify.com/artist/7EqE0DBntJS6OUT4gK9W3P) | [Girlcatcher](https://open.spotify.com/album/66q0q162WOFuidbucN1Jdp) | 15:13 | 2022-12-20 |  |
 | [Together Onetime](https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Together Onetime](https://open.spotify.com/album/5P8aR9Q1LcG1yhthHMuU29) | 6:59 | 2022-12-20 |  |
 | [Trainmann \- Tensnake Franceman Mix](https://open.spotify.com/track/0HpHGti6doPOUBz66MAduf) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Trainmann \(Tensnake Remixes\)](https://open.spotify.com/album/5AVC3IUtdRi3sYyD3pft2f) | 7:36 | 2022-12-20 |  |
-| [Underwater](https://open.spotify.com/track/5VkBNt0nUlQoPkg0APK5Ep) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Underwater](https://open.spotify.com/album/3tqxbagniKI9O28YVKUiKo) | 3:36 | 2022-12-20 |  |
+| [Underwater](https://open.spotify.com/track/5VkBNt0nUlQoPkg0APK5Ep) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Underwater](https://open.spotify.com/album/3tqxbagniKI9O28YVKUiKo) | 3:36 | 2022-12-20 | 2023-02-22 |
+| [Underwater \- Extended Mix](https://open.spotify.com/track/1AleARZA9JX0Makndi4eaB) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Best of 2022 \(Extended Mixes\)](https://open.spotify.com/album/3wqkCxTHSJXPSxqwiUesC5) | 6:51 | 2023-02-21 |  |
 | [Unfurl \- Vocal Mix](https://open.spotify.com/track/4BZ81MnNMWipbFd4uLh6Ml) | [REIYM](https://open.spotify.com/artist/5SXtjpheiX5DSZ1C6TInkX) | [Unfurl \(Vocal Mix\)](https://open.spotify.com/album/7yUGz6rX2LsWOCBz1Z7fsb) | 5:10 | 2022-12-20 |  |
 | [Use Me Again \- Carl Craig Rework](https://open.spotify.com/track/0DmVOSnZLqxYEktgaVTP1H) | [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Use Me Again \(And Again\)](https://open.spotify.com/album/0PEKVd030jHP00OnxwIFtb) | 7:42 | 2022-12-20 |  |
 | [Welcome To The People](https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Welcome To The People](https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF) | 2:40 | 2022-12-20 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-56 songs - 4 hr 49 min
+57 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Satan in Love](https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp) | 3:37 | 2022-07-19 |  |
 | [Se Tu Vuoi](https://open.spotify.com/track/0YDc4kVUW7J0Yr908XFEUa) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Canto Per Te](https://open.spotify.com/album/2T4GTTm7POJdcUfRKn4EC1) | 3:40 | 2022-07-19 |  |
 | [Sexy Pummarola](https://open.spotify.com/track/6gXj04PNcGzYS0LjNVrxNh) | [Gibo & Pummarola Band](https://open.spotify.com/artist/7fDyEm4yGOFMKnWv9GFRXA) | [Napoli Segreta Vol.2](https://open.spotify.com/album/4OFycCEd9tvzBSXGc3tVaG) | 3:31 | 2022-07-19 |  |
-| [Song for You](https://open.spotify.com/track/5wNkMIiej8AYMkPH2XNNFr) | [Popcorn](https://open.spotify.com/artist/1strD2p7X77pmc2OKsiJ4f) | [Prime Choice](https://open.spotify.com/album/1MQQ20t6mKImGNu2HQstnh) | 4:33 | 2022-07-19 |  |
+| [Song for You](https://open.spotify.com/track/0u8ZMXcwzcKqQnWqcCAvLB) | [Popcorn](https://open.spotify.com/artist/1OjLkKWa1sOm8onEQUrZLQ) | [Prime Choice](https://open.spotify.com/album/3w6kQTZlkeOk28IVFwirEt) | 4:33 | 2022-07-19 |  |
+| [Song for You](https://open.spotify.com/track/5wNkMIiej8AYMkPH2XNNFr) | [Popcorn](https://open.spotify.com/artist/1strD2p7X77pmc2OKsiJ4f) | [Prime Choice](https://open.spotify.com/album/1MQQ20t6mKImGNu2HQstnh) | 4:33 | 2022-07-19 | 2023-02-22 |
 | [Step On](https://open.spotify.com/track/62xn6QmlDKAyEXKKDp1SCP) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Peace & Harmony](https://open.spotify.com/album/4w0mVprAna8GLFxXq5nJ1r) | 6:37 | 2022-07-19 |  |
 | [Sweetest Taboo](https://open.spotify.com/track/79kE710OjFvgXocQfYMe6k) | [Rebles](https://open.spotify.com/artist/3sYvl5zrwAbMVVlog6PO6A), [Soca](https://open.spotify.com/artist/2dNe50mudMBf2mKTuVYtHh) | [Sweetest Taboo](https://open.spotify.com/album/7KsKCoTPPN5wvuh6WuDIzy) | 6:45 | 2022-07-19 |  |
 | [The Time Is Come](https://open.spotify.com/track/67Ap9BKsZXan4gYWzCb3Pn) | [Effi Duke](https://open.spotify.com/artist/6TKG61vYDn0PmgoXUYkrOx), [The Love Family](https://open.spotify.com/artist/2PMQqmwNVSap6TxKMZRuMh) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 4:43 | 2022-07-19 |  |

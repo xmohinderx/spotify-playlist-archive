@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Daniela Ara\u00fajo",
-  "num_followers": 234540,
+  "num_followers": 234632,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzMTgyNywwMDAwMDAwMGQ0ZGRhYWJmMTM5ZWMxNmYyZWJjMmUzYmM1ODEwYjc3",
+  "snapshot_id": "MTY3NjAzMTgyNywwMDAwMDAwMDRkZTg0N2MzODhkNDU3MjhhZGVlYWY5YjY0ZGYxNWU1",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
-      },
-      "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        }
-      ],
-      "duration_ms": 211817,
-      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Nunca Te Deixarei (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6wL4XGAa6V2EVJdE08ol55"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 201000,
       "name": "Nunca Te Deixarei - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4GnEfHMHLZaoQU2UiWI3Ku"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        }
+      ],
+      "duration_ms": 211817,
+      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
     },
     {
-      "added_at": "2023-02-21 00:47:02",
+      "added_at": "2023-02-22 01:17:18",
       "album": {
         "name": "Vulner\u00e1vel (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2C25ASgEB7G9HYCmvJpkXZ"
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Rastros e Trilha",
-        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
-      },
-      "artists": [
-        {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "O Lugar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3b5JIWeAc983PvpFjscVjb"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 211999,
       "name": "O Lugar (Ao Vivo)",
       "url": "https://open.spotify.com/track/21KjObq0eAFQD3Dahk5O2m"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Rastros e Trilha",
+        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
     },
     {
       "added_at": "2023-02-03 03:00:00",

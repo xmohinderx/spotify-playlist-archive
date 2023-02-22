@@ -240,7 +240,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 236012,
       "name": "Are You",
       "url": "https://open.spotify.com/track/0hkahhoWCNDUhqOteNEDZw"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-16",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Breakbeats",
       "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 187402,
       "name": "Buried Alive",
       "url": "https://open.spotify.com/track/3v1okTkFTXHX6IZp0rEd4L"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 230437,
       "name": "Catch a Fade",
       "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 294857,
       "name": "coil",
       "url": "https://open.spotify.com/track/4NqRrnjbPG0vefHMAEpiSl"
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 335200,
       "name": "Confeti",
       "url": "https://open.spotify.com/track/6td6C7NuSCqYgrP3XrBC8a"
@@ -1304,6 +1304,24 @@
       "duration_ms": 262900,
       "name": "Dismal",
       "url": "https://open.spotify.com/track/4xlAQxlNPIUtSg8K6aVlL8"
+    },
+    {
+      "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/5zvDBwrFpUGpLkYM382Ix0"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112400,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/7cDPpQ4ZGoX8pUctXfBQIw"
     },
     {
       "album": {
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 510028,
       "name": "et\u00e9rea",
       "url": "https://open.spotify.com/track/37APulB1aRuJ6lYum46vDf"
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 340752,
       "name": "Gyoninzaka in Spring",
       "url": "https://open.spotify.com/track/4UqlQWqFdxCrGFo2axMVW8"
@@ -2327,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Here at All",
+        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234706,
+      "name": "In Your Way",
+      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
+    },
+    {
+      "album": {
         "name": "Inevitable / Abrazo",
         "url": "https://open.spotify.com/album/0nxikgaZCaac69akWTGbeR"
       },
@@ -2518,7 +2554,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 293160,
       "name": "Keen on Boys",
       "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
@@ -2572,7 +2608,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "Last Night's Haze",
       "url": "https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV"
@@ -2817,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "means to an end (not enough)",
+        "url": "https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT"
+      },
+      "artists": [
+        {
+          "name": "Mixed Matches",
+          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280243,
+      "name": "means to an end (not enough)",
+      "url": "https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM"
+    },
+    {
+      "album": {
         "name": "Always, Sometimes, Seldom, Never",
         "url": "https://open.spotify.com/album/795uPXiy5JMXIpsHtEYmoV"
       },
@@ -2954,7 +3008,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 274000,
       "name": "nine gates",
       "url": "https://open.spotify.com/track/3MkPh2Smg59XnROkCrIpqu"
@@ -2972,7 +3026,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 183194,
       "name": "No Sweat",
       "url": "https://open.spotify.com/track/2xcpZnpsk7m0nbi9X2zn9J"
@@ -3026,7 +3080,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 242066,
       "name": "Now I Know You Could Never Be The One",
       "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
@@ -3534,7 +3588,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 285900,
       "name": "Prism of Feeling",
       "url": "https://open.spotify.com/track/4jAx1BnnLRfvkODzP4Ieo9"
@@ -3786,7 +3840,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 281090,
       "name": "she left",
       "url": "https://open.spotify.com/track/3JxybPHJrgfuF2C7aYHsrb"
@@ -3866,6 +3920,24 @@
       "duration_ms": 248735,
       "name": "sin. (feat. Yunjin)",
       "url": "https://open.spotify.com/track/7kFgDnOMb1AEKmOnofnylh"
+    },
+    {
+      "album": {
+        "name": "Sink",
+        "url": "https://open.spotify.com/album/3gdzC6RB8QGu2rulkyD6aI"
+      },
+      "artists": [
+        {
+          "name": "Dog Ears",
+          "url": "https://open.spotify.com/artist/3JIof4HxulwCqTMAUdJQO1"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "Sink",
+      "url": "https://open.spotify.com/track/59oSaOV2RMpdcWzlPsvy42"
     },
     {
       "album": {
@@ -3988,7 +4060,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 259957,
       "name": "Stare at the Sun",
       "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
@@ -4320,7 +4392,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 257173,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0"
@@ -4410,7 +4482,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 258213,
       "name": "Tropics",
       "url": "https://open.spotify.com/track/3CY0tWgMxRFG3nqfEeip9e"
@@ -4522,7 +4594,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 289394,
       "name": "Ver\u00f3nica Pass - Sally Shapiro Mix",
       "url": "https://open.spotify.com/track/5rxBNUTNVBatfbDcBhjRXG"
@@ -4684,7 +4756,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 150309,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/2mi591KXRdGMQywpDesRlb"

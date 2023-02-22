@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Odd Signature
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,649 likes - 80 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,712 likes - 80 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 4 | [Moho](https://open.spotify.com/track/6Y2lrjXwW8YcCU5H4xMFBs) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Moho](https://open.spotify.com/album/39HxuHhewQJHpv2EOSYA8K) | 4:25 |
 | 5 | [Punorjonmo](https://open.spotify.com/track/25Hmu4UVzgiiv298sHjERP) | [Chondropith](https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9) | [Punorjonmo](https://open.spotify.com/album/0mIPFSHREKf2yXhgXPrImn) | 7:53 |
 | 6 | [Amar E Gaan](https://open.spotify.com/track/3CPzLWEbj3mGuQfcepl7Lo) | [Aurthohin](https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A) | [Phoenixer Diary 1](https://open.spotify.com/album/0mSwA0eQDpObzr1vmO81bM) | 7:07 |
-| 7 | [Poth Chola](https://open.spotify.com/track/3vXCKgUpHrv5dfXM53w28W) | [Artcell](https://open.spotify.com/artist/2R7rRQMrhVvOm66swNalCC) | [Onnosomoy](https://open.spotify.com/album/7s9Ssc1V7AgSdAlVpHl12E) | 7:01 |
+| 7 | [Poth Chola](https://open.spotify.com/track/3vXCKgUpHrv5dfXM53w28W) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Onnosomoy](https://open.spotify.com/album/7s9Ssc1V7AgSdAlVpHl12E) | 7:01 |
 | 8 | [Ei Obelay](https://open.spotify.com/track/5ibdXIQq154EYy4IbSZEKx) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Perfume](https://open.spotify.com/album/6CL5dmZep8ThOIisw1vWR7) | 5:41 |
 | 9 | [Obak Bhalobasha \(Sob Aalo Nibe Ja\)](https://open.spotify.com/track/74MnX5SrkGB6Y9LsmQvZSQ) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 7:21 |
 | 10 | [Avash](https://open.spotify.com/track/3OBSXEoKdsC0lT6RZuozYY) | [Avash](https://open.spotify.com/artist/1yg6sCbwRCFjo545X0qLgd) | [Avash](https://open.spotify.com/album/1jKCQ198KBaclhaXMQEXiq) | 4:14 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 45 | [Obak](https://open.spotify.com/track/5qZE8vsRIm5zeMGqcs4cp1) | [Invaders](https://open.spotify.com/artist/072YOPgJBQASwnyXY6tlP6) | [Rockoholic](https://open.spotify.com/album/2DLL4wKniDTPu17TPVKvpA) | 4:14 |
 | 46 | [Shada Golap](https://open.spotify.com/track/056R8hTzXwi1GNzORWm9Rz) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Shada Golap](https://open.spotify.com/album/6uZ4fMxLBklu5QyQRYmq9G) | 4:38 |
 | 47 | [Pichutaan](https://open.spotify.com/track/3kGrKLyNUdcVh27oqwEYdE) | [Sammam](https://open.spotify.com/artist/2lis2CHagnbMNlEUrhU0wu) | [Pichutaan](https://open.spotify.com/album/4LfHUgVOnuvznzkOGCTxwX) | 6:05 |
-| 48 | [Obosh Onubhutir Deyal](https://open.spotify.com/track/15mPQDFh8mWD9zh32XXkTw) | [Artcell](https://open.spotify.com/artist/2R7rRQMrhVvOm66swNalCC) | [Onnosomoy](https://open.spotify.com/album/7s9Ssc1V7AgSdAlVpHl12E) | 6:48 |
+| 48 | [Obosh Onubhutir Deyal](https://open.spotify.com/track/15mPQDFh8mWD9zh32XXkTw) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Onnosomoy](https://open.spotify.com/album/7s9Ssc1V7AgSdAlVpHl12E) | 6:48 |
 | 49 | [Kodom](https://open.spotify.com/track/2Dsmn1xssJpbEM4LeRJbhI) | [Blue Jeans](https://open.spotify.com/artist/7LNEwdMBXgeD4BeyaPW7JA) | [Bondhu](https://open.spotify.com/album/0JM0r6T23O3dQOxxZsbhZh) | 4:07 |
 | 50 | [Je Shohore Ami Nei](https://open.spotify.com/track/1DI1uHLG1yesDqaucsLKLH) | [Bay of Bengal](https://open.spotify.com/artist/6dXgxvd22ojzmwry1cXSP6) | [Nirob Durvikkho](https://open.spotify.com/album/6CqQxAKa6d8ibYyiGGSZZc) | 5:05 |
 | 51 | [Ami Bodle Jabo](https://open.spotify.com/track/5CoY9a0vqIaMLkCEZeA9de) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Ami Bodle Jabo](https://open.spotify.com/album/7699oOVPVjXj5FnYoDwfbg) | 5:20 |

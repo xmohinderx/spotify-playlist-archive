@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 34649,
+  "num_followers": 34750,
   "original_name": "Hardcore Rage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMDJjYzBkMWUxMmQ1MmYwZGM4YjY3NTg5ZDEwNmM3Zjhj",
+  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMDY5NzBiNWMxZWQyMThhNTU1MmNlODFiNTJiYjI2ZDMz",
   "tracks": [
     {
       "added_at": "2023-02-16 23:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Broken Inside",
+        "url": "https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8"
+      },
+      "artists": [
+        {
+          "name": "Namara",
+          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
+        }
+      ],
+      "duration_ms": 205339,
+      "name": "Broken Inside",
+      "url": "https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Ring The Alarm",
         "url": "https://open.spotify.com/album/6ooGzNXXaCcdUoCVix1ciT"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 207553,
       "name": "Ring The Alarm",
       "url": "https://open.spotify.com/track/4gBHKeyq7rKDN6mqJyJMzg"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Broken Inside",
-        "url": "https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8"
-      },
-      "artists": [
-        {
-          "name": "Namara",
-          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
-        }
-      ],
-      "duration_ms": 205339,
-      "name": "Broken Inside",
-      "url": "https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Ignition",
-        "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
-      },
-      "artists": [
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 237714,
-      "name": "Ignition",
-      "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "STRUGGLE TO SURVIVE",
         "url": "https://open.spotify.com/album/3xjbDfiuJmTrLOgwkrotM4"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 227022,
       "name": "STRUGGLE TO SURVIVE",
       "url": "https://open.spotify.com/track/5ppcwNlHYEMQOHYbo0y2Jf"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Ignition",
+        "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
+      },
+      "artists": [
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 237714,
+      "name": "Ignition",
+      "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Medication Time",
-        "url": "https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 257713,
-      "name": "Medication Time",
-      "url": "https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Ready to Explode",
         "url": "https://open.spotify.com/album/1E4pKYJpNlutAR8xdE5JKN"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 167997,
       "name": "Ready to Explode",
       "url": "https://open.spotify.com/track/2ghOOeK8G7LLwygHsgZzjP"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Medication Time",
+        "url": "https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 257713,
+      "name": "Medication Time",
+      "url": "https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        }
-      ],
-      "duration_ms": 178975,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Kingdom (Sefa Remix)",
         "url": "https://open.spotify.com/album/3GbFuORrdFyrE0vw7ewNDv"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 302739,
       "name": "Kingdom - Sefa Remix",
       "url": "https://open.spotify.com/track/5u0bW6H3Yv8xkhgz4XaPK3"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "duration_ms": 178975,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Underrated",
-        "url": "https://open.spotify.com/album/0U6P6vlGhcsJdag0XFwcgx"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        },
-        {
-          "name": "Keat",
-          "url": "https://open.spotify.com/artist/74CWae8PWHg7hHgt8mAkzF"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Underrated",
-      "url": "https://open.spotify.com/track/0j6lCCFLzJWdNeNoRZhCa7"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Battle Tonight",
         "url": "https://open.spotify.com/album/2X4Jg0NyQ8TVXQybcX7pQJ"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 179240,
       "name": "BOW DOWN",
       "url": "https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/0U6P6vlGhcsJdag0XFwcgx"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        },
+        {
+          "name": "Keat",
+          "url": "https://open.spotify.com/artist/74CWae8PWHg7hHgt8mAkzF"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/0j6lCCFLzJWdNeNoRZhCa7"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1715,42 +1715,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Born To React",
-        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
-      },
-      "artists": [
-        {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
-        }
-      ],
-      "duration_ms": 145519,
-      "name": "Born To React",
-      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Demolition Hardcore",
-        "url": "https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8"
-      },
-      "artists": [
-        {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Demolition Hardcore",
-      "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1771,6 +1735,22 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Born To React",
+        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
+      },
+      "artists": [
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "Born To React",
+      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/6V4xEfSA1XCEwQOQke5qPG"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 177166,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/5Cx5e2e7BgWchPqHBHfTT1"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Demolition Hardcore",
+        "url": "https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8"
+      },
+      "artists": [
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Demolition Hardcore",
+      "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
     },
     {
       "added_at": "2023-02-16 23:00:00",

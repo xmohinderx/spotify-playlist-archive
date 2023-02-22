@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 10191,
+  "num_followers": 10210,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjUyOTQxMywwMDAwMDAwMDljNzQyMDUwNjc0NThkM2E3NmM0Y2M5YTk2MzJmMTAy",
+  "snapshot_id": "MTY3NjUyOTQxMywwMDAwMDAwMDVhMWFlYmE2ZDMwYjhkYzJhNGQ5NGU4MTdmMzY0NDkz",
   "tracks": [
     {
       "added_at": "2023-02-14 07:47:12",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
+        "name": "I`m In Love",
+        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/2mFUSNXJhCcxIZAsTRjYWf"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I`m In Love",
+      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "I`m In Love",
-        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/2mFUSNXJhCcxIZAsTRjYWf"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "I`m In Love",
-      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
         "name": "Encounter (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "GOMAK BOYS",
-        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
-      },
-      "artists": [
-        {
-          "name": "GOMAK BOYS",
-          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 164253,
       "name": "Don't wanna leave tonight",
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+      },
+      "artists": [
+        {
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
     },
     {
       "added_at": "2023-02-14 07:47:12",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "Film (Feat. Woshi)",
-        "url": "https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU"
-      },
-      "artists": [
-        {
-          "name": "JOPH",
-          "url": "https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D"
-        },
-        {
-          "name": "Woshi",
-          "url": "https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Film (Feat. Woshi)",
-      "url": "https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
         "name": "It\u2032s You",
         "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
       },
@@ -703,18 +683,22 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "Marry Me",
-        "url": "https://open.spotify.com/album/0qkWVEZ616XWGaxME5RyHP"
+        "name": "Film (Feat. Woshi)",
+        "url": "https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU"
       },
       "artists": [
         {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+          "name": "JOPH",
+          "url": "https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D"
+        },
+        {
+          "name": "Woshi",
+          "url": "https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/7BNV7EACj2jSl0fdiG6726"
+      "duration_ms": 200000,
+      "name": "Film (Feat. Woshi)",
+      "url": "https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY"
     },
     {
       "added_at": "2023-02-14 07:47:12",
@@ -731,6 +715,22 @@
       "duration_ms": 154786,
       "name": "Especially For You",
       "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/0qkWVEZ616XWGaxME5RyHP"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/7BNV7EACj2jSl0fdiG6726"
     },
     {
       "added_at": "2023-02-14 07:47:12",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5"
-      },
-      "artists": [
-        {
-          "name": "JIN",
-          "url": "https://open.spotify.com/artist/4qXqEpcMnp74cCHrVW9rRJ"
-        }
-      ],
-      "duration_ms": 195206,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
         "name": "1.0",
         "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 172760,
       "name": "Love in the Milky Way Cafe",
       "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5"
+      },
+      "artists": [
+        {
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/4qXqEpcMnp74cCHrVW9rRJ"
+        }
+      ],
+      "duration_ms": 195206,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9"
     },
     {
       "added_at": "2023-02-14 07:47:12",

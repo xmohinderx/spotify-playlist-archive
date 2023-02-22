@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127123,
+  "num_followers": 127116,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzk5OSxjYTc1NWVlMjJmZTU1NjRjOTdmODQ2ZmIxZGIxNGViYjhhNjA4Y2Mz",
+  "snapshot_id": "NDAwNSxiMWRkMDE4ODI5NDRkODQ1N2MzYmI5ZTVkOTcxYmNlZWYzN2M2OGUy",
   "tracks": [
+    {
+      "added_at": "2023-02-21 18:04:15",
+      "album": {
+        "name": "Love Runs Out",
+        "url": "https://open.spotify.com/album/03DTFehGzdj45KPNxxpGxg"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Dror",
+          "url": "https://open.spotify.com/artist/31BRzHwH9Ayqp5AbRDk9kO"
+        }
+      ],
+      "duration_ms": 242689,
+      "name": "Love Runs Out",
+      "url": "https://open.spotify.com/track/62Il6xcyOlZ3oB4qvQ33sj"
+    },
+    {
+      "added_at": "2023-02-21 18:03:27",
+      "album": {
+        "name": "FAR OUT",
+        "url": "https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "FAR OUT",
+      "url": "https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH"
+    },
     {
       "added_at": "2023-02-17 18:09:23",
       "album": {
@@ -1119,46 +1155,6 @@
       "duration_ms": 213931,
       "name": "Bring Me Back",
       "url": "https://open.spotify.com/track/6Bw3VVF2X0YmZWYPl8wE44"
-    },
-    {
-      "added_at": "2022-11-25 21:55:14",
-      "album": {
-        "name": "My Mind (Badjokes Remix)",
-        "url": "https://open.spotify.com/album/2ddkGLWOrggjL1zFn2pXZL"
-      },
-      "artists": [
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        },
-        {
-          "name": "Karina Ramage",
-          "url": "https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb"
-        },
-        {
-          "name": "Badjokes",
-          "url": "https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "My Mind - Badjokes Remix",
-      "url": "https://open.spotify.com/track/7uF9c7MgOQryPCXa7We2xM"
-    },
-    {
-      "added_at": "2022-11-25 21:54:43",
-      "album": {
-        "name": "Fine Lines",
-        "url": "https://open.spotify.com/album/13YQu9MLG4xy8vBI4OrSnA"
-      },
-      "artists": [
-        {
-          "name": "Elypsis",
-          "url": "https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "Fine Lines",
-      "url": "https://open.spotify.com/track/5Qasc8YPxKDGyUtYmdlTTW"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

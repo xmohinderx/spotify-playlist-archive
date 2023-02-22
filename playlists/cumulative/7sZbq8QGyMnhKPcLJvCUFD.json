@@ -2775,6 +2775,28 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/46zTRHAfAaAeHERgP9y9pg"
+      },
+      "artists": [
+        {
+          "name": "N3WPORT",
+          "url": "https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163875,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/37g9thpV049tXHhHiiZ44T"
+    },
+    {
+      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/3y4HtUHYYXZ4wdI2OHxABQ"
       },

@@ -4,7 +4,7 @@
 
 > Relax and indulge with beautiful piano pieces
 
-1,548 songs - 2 day 21 hr 4 min
+1,549 songs - 2 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1018,8 +1018,9 @@
 | [Psalm](https://open.spotify.com/track/7c2CN4p20ptpqkERAJPdI1) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Before Dawn](https://open.spotify.com/album/79ezfBYayk4FNCJOlrkNOg) | 3:02 | 2021-08-05 | 2022-10-04 |
 | [pt\. 1 Owl Light](https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [pt\. 1 Owl Light](https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY) | 3:09 | 2022-03-10 |  |
 | [Pura Vida](https://open.spotify.com/track/00QanQTFk1Ge3apIBahSGw) | [Purple Kees](https://open.spotify.com/artist/1DJk5phajqhPpEq84bJzjz) | [Pura Vida](https://open.spotify.com/album/5hePnJTBTjrdMc0sxLeKyO) | 2:17 | 2021-05-12 | 2022-05-05 |
+| [Pure](https://open.spotify.com/track/1KYMZHK7mEhNralmfFd228) | [Nel Aique](https://open.spotify.com/artist/6DQXMlXhosW4HRwMMNKX2G) | [Pure Emotions](https://open.spotify.com/album/36asTydRnUdBi9TgYGf2Sa) | 1:59 | 2023-02-17 |  |
 | [Pure](https://open.spotify.com/track/40U7QPI2KlE0FRpkxkbpM1) | [Nel Aique](https://open.spotify.com/artist/6DQXMlXhosW4HRwMMNKX2G) | [Pure](https://open.spotify.com/album/4cw5qRdqfmeSAV3Fb2381B) | 1:59 | 2022-04-14 | 2022-07-29 |
-| [Pure](https://open.spotify.com/track/7MkxpIhNBXy8blub5txeDD) | [Nel Aique](https://open.spotify.com/artist/6DQXMlXhosW4HRwMMNKX2G) | [Pure](https://open.spotify.com/album/7FJvepVpyOzTx0mXqCV5BI) | 1:59 | 2022-07-28 |  |
+| [Pure](https://open.spotify.com/track/7MkxpIhNBXy8blub5txeDD) | [Nel Aique](https://open.spotify.com/artist/6DQXMlXhosW4HRwMMNKX2G) | [Pure](https://open.spotify.com/album/7FJvepVpyOzTx0mXqCV5BI) | 1:59 | 2022-07-28 | 2023-02-22 |
 | [Purity](https://open.spotify.com/track/3nfhbwdfbK19V3vwRTAcoo) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Purity](https://open.spotify.com/album/1p7XvsfWUHq4ApCRN0zOaB) | 2:27 | 2021-08-05 | 2022-11-22 |
 | [Purity](https://open.spotify.com/track/7oWtvkBURDJnmTZr40IE6k) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Purity](https://open.spotify.com/album/3h8zJVJAroMaxRlQuCBe03) | 1:41 | 2022-12-20 |  |
 | [Purity](https://open.spotify.com/track/3iyNoFOyMTZU1SdGbnmdy6) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Purity](https://open.spotify.com/album/3Xf0HZNA30BxiiMB0SqMuj) | 2:26 | 2022-02-23 | 2022-07-29 |

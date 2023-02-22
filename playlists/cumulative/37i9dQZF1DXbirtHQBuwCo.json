@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: JUNNY w/ SOULBYSEL)",
+  "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: Xydo)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -2177,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "company",
+        "url": "https://open.spotify.com/album/0MWs86VIV9f589mPhhcxxF"
+      },
+      "artists": [
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128695,
+      "name": "company",
+      "url": "https://open.spotify.com/track/6FPhihTO2c9rdew9tt8Bai"
+    },
+    {
+      "album": {
         "name": "love",
         "url": "https://open.spotify.com/album/2D9Wm88bSk4B9VGJQhs8tN"
       },
@@ -2948,7 +2966,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 152000,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/6TZDHtfAyLBrhS71qNofFG"
@@ -3270,7 +3288,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 157173,
       "name": "Evident",
       "url": "https://open.spotify.com/track/7Ctwov7S030TIYIYfx4tm7"
@@ -3400,6 +3418,24 @@
       "duration_ms": 199026,
       "name": "FALL IN LUST",
       "url": "https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE"
+    },
+    {
+      "album": {
+        "name": "fall with me",
+        "url": "https://open.spotify.com/album/09WCvtcRF1HB7ZNnkI2SxA"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "fall with me",
+      "url": "https://open.spotify.com/track/7BmmSTzUgC5YsO67aOtrpd"
     },
     {
       "album": {
@@ -4112,7 +4148,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 190457,
       "name": "GOOD BYE SONG",
       "url": "https://open.spotify.com/track/3hkgdFiadUyNVcXq85NO6W"
@@ -5970,7 +6006,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-20",
+      "date_removed": null,
       "duration_ms": 197413,
       "name": "Make Me Happy",
       "url": "https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca"
@@ -6312,7 +6348,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 161124,
       "name": "More",
       "url": "https://open.spotify.com/track/6VacU6Uf16RkcQWUv3Z5Vq"
@@ -8486,7 +8522,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 178500,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ"
@@ -8526,6 +8562,24 @@
       "duration_ms": 152666,
       "name": "Slow Mo",
       "url": "https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF"
+    },
+    {
+      "album": {
+        "name": "smallthing",
+        "url": "https://open.spotify.com/album/2BxNOiuS3YJVBwERBDpdgQ"
+      },
+      "artists": [
+        {
+          "name": "dori",
+          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139280,
+      "name": "smallthing",
+      "url": "https://open.spotify.com/track/0ABgWfH4ksW7hZ7EQWN8Fh"
     },
     {
       "album": {
@@ -9039,6 +9093,24 @@
     },
     {
       "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/4rjYcvl3RNOvcEXGWkmZGX"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184600,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/5FAUwmHyCfhB04I4hhc7DV"
+    },
+    {
+      "album": {
         "name": "Take it To the Grave",
         "url": "https://open.spotify.com/album/0AQw1etI1NpTj2kSCbEY8A"
       },
@@ -9280,7 +9352,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 149479,
       "name": "the way you move",
       "url": "https://open.spotify.com/track/6V63olQ6UOmPqRgcO0bEcb"
@@ -10510,6 +10582,24 @@
       "duration_ms": 167550,
       "name": "Woo~",
       "url": "https://open.spotify.com/track/6A61HhOH8EwGSXEgyuv899"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
     },
     {
       "album": {

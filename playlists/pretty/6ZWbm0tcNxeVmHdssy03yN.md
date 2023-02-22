@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,390 likes - 90 songs - 4 hr 48 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,400 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 31 | [Fuck Love !](https://open.spotify.com/track/6TeLoyam1sprdPWKdU7g7q) | [Arturo Challa](https://open.spotify.com/artist/5hbTewixuDJk5PGugClaj6) | [Fuck Love !](https://open.spotify.com/album/0vpHwk8RAYCSsdatDqRTuQ) | 2:43 |
 | 32 | [Cuarto Creciente](https://open.spotify.com/track/6xpEOvkkMh3HinIfi8JCRB) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a) | [Febrero](https://open.spotify.com/album/0eIHjoHGkmGOCprgI1mKVB) | 3:15 |
 | 33 | [Bailemos en el Sol](https://open.spotify.com/track/28kuY7AYlRzNZVNSDftF8w) | [Dr\. Stev](https://open.spotify.com/artist/52wcA7uQEIW0jVqgd6DvUf), [Erika Perdomo](https://open.spotify.com/artist/2Jb4ROzv0sYIJfm9D38tlf), [Smithdy](https://open.spotify.com/artist/0S8aCoNNlL7Jm9AALivJD7) | [Bailemos en el Sol](https://open.spotify.com/album/79pXq2F2X53p1dSX5cc4da) | 2:59 |
-| 34 | [No Way](https://open.spotify.com/track/7Df5hUy3KuMovR3DWUmo8j) | [Angelica Nor](https://open.spotify.com/artist/3IIONt1a2LxgOZm3AuN0qP), [Jxcy](https://open.spotify.com/artist/4yKMLv26exOd6F3Us8eGHi), [Queen Ife](https://open.spotify.com/artist/639OLKFdV1NTBPoGXdljHs) | [No Way](https://open.spotify.com/album/5uK1wApD7xsX849d0UjCmb) | 3:47 |
+| 34 | [No Way](https://open.spotify.com/track/7Df5hUy3KuMovR3DWUmo8j) | [Angelica Nor](https://open.spotify.com/artist/3IIONt1a2LxgOZm3AuN0qP), [JXCY](https://open.spotify.com/artist/7B7FfmXBt11mugAxWRBdIq), [Queen Ife](https://open.spotify.com/artist/639OLKFdV1NTBPoGXdljHs) | [No Way](https://open.spotify.com/album/5uK1wApD7xsX849d0UjCmb) | 3:47 |
 | 35 | [Sss](https://open.spotify.com/track/7ImkIfQtGAvLmsQH5fYlge) | [Bobby Sierra](https://open.spotify.com/artist/7m1SrGNNFFlVVIxQAdnbPA) | [SSS](https://open.spotify.com/album/3aUfmDrfnN1NVyWsjTyWc9) | 2:24 |
 | 36 | [Socadão](https://open.spotify.com/track/4BBAavMcRdThDY2kWQgyNO) | [MC MT](https://open.spotify.com/artist/37dzO2MhbaZUT5eTkbs4kY), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mano DJ](https://open.spotify.com/artist/5sWNhKttI3RObciPKjTLg3) | [Socadão](https://open.spotify.com/album/7xFk2HnlurMlqcsfKKsq7w) | 2:40 |
 | 37 | [Ang Bago Kong Mundo](https://open.spotify.com/track/6Cdzy1aE9Oz9zk3TSTuBIA) | [Tito Alvs and the Jojoes](https://open.spotify.com/artist/1JcK4Da20zj3ZnnEaHIdIT) | [Ang Bago Kong Mundo](https://open.spotify.com/album/3eMqjDfsNcWjAUwYSam6FI) | 4:41 |

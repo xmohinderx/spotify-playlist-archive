@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Love Light a Way](https://open.spotify.com/track/4vQOoJf5stNuqoHqBPxBws) | [Mutemath](https://open.spotify.com/artist/1J9Z9bhqkgyqseEi85cbyx) | [Love Light a Way](https://open.spotify.com/album/5Q95ZyyK9rT27q9Xz0pND1) | 4:06 |
 | 30 | [Acetone](https://open.spotify.com/track/6g1mxxL1LxylL7mIO7mbLU) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Acetone](https://open.spotify.com/album/0UZWXlH1cXVWdNmFMYKjOu) | 3:22 |
 
-Snapshot ID: `MCwwMDAwMDAwMDI4OGFmNGE5OGQ1Yjg5ZDZiMjg3NzM5YWEwMzY5YTk2`
+Snapshot ID: `MCwwMDAwMDAwMGNhNmJiODgyODc1NzBlYzRiZTlmYzEwMzE0MjA4Y2Yw`

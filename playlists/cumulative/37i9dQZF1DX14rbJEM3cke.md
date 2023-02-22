@@ -4,7 +4,7 @@
 
 > New Rock driving the current, every week\. Cover: Connie Constance, artwork by Ian Woods
 
-180 songs - 9 hr 7 min
+181 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [SIMPLE \(feat\. I DONT KNOW HOW BUT THEY FOUND ME\)](https://open.spotify.com/track/6jLIepXJGYHxNsdtn0sOP6) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [SIMPLE \(feat\. I DONT KNOW HOW BUT THEY FOUND ME\)](https://open.spotify.com/album/61Lk7onZ1FIkOX2VqqX4e5) | 2:51 | 2022-10-07 | 2023-02-02 |
 | [Sitting on Ice](https://open.spotify.com/track/6RYRFuYDMyJIzmzLprp9rZ) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Sitting on Ice](https://open.spotify.com/album/1YN7nOQ8g1n4VvHDrMVs60) | 2:59 | 2022-10-07 |  |
 | [Smack a Bitch](https://open.spotify.com/track/1nrsFfACPG4Hnw5AuOpCND) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Smack a Bitch](https://open.spotify.com/album/3Ja54bCouLvrDLt3XKzMii) | 2:18 | 2022-02-12 | 2022-12-03 |
-| [SOS](https://open.spotify.com/track/5lRceQUAu0yfHwqAxBYPdJ) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution](https://open.spotify.com/album/6wie251uoR4g766ETIstl7) | 3:39 | 2023-02-01 |  |
+| [SOS](https://open.spotify.com/track/5lRceQUAu0yfHwqAxBYPdJ) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution](https://open.spotify.com/album/6wie251uoR4g766ETIstl7) | 3:39 | 2023-02-01 | 2023-02-22 |
 | [Stains](https://open.spotify.com/track/0HkHg1vLHKEqFqmUZKBrYX) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Stains](https://open.spotify.com/album/0r2DygcYyv676ZrzfSZVE4) | 2:07 | 2022-02-12 | 2022-06-04 |
 | [STARING AT THE SKY](https://open.spotify.com/track/4KpKyRFwN0gcwj58Uqjv7q) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 1:25 | 2022-02-12 | 2022-10-08 |
 | [Stay High](https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:11 | 2022-02-12 | 2022-07-23 |
@@ -165,6 +165,7 @@
 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 | 2022-09-03 |  |
 | [The World Is Waiting For You](https://open.spotify.com/track/5CDwO2RIv8UX0Q9MxdouZz) | [Jupiter's Sick](https://open.spotify.com/artist/601nRr3Sk6NGacKjasgk23) | [Adult Swim](https://open.spotify.com/album/2QP884iYno470puXnvKhFY) | 2:45 | 2022-07-22 | 2022-08-27 |
 | [This Land](https://open.spotify.com/track/0Jxl1PdSbiQPYRPVdzBdES) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 5:41 | 2022-02-12 | 2022-03-18 |
+| [Thousand Lifetimes \(feat\. Corey Glover of Living Colour\)](https://open.spotify.com/track/0sRAH3UW1W7jUo3CZq0OAH) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS), [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Thousand Lifetimes \(feat\. Corey Glover of Living Colour\)](https://open.spotify.com/album/2lYajN3YIVlefdcwxG4jV3) | 3:10 | 2023-02-21 |  |
 | [Thrills & Chills](https://open.spotify.com/track/3x6C7qxez87DKNdodhhu3B) | [Nue](https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO) | [Thrills & Chills](https://open.spotify.com/album/4u04bKjiLVWk1OhVH0mHET) | 2:03 | 2022-02-25 | 2022-10-08 |
 | [Till The World's Awake](https://open.spotify.com/track/3QHSudHjKsjzWIUrIc3Pya) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 3:28 | 2022-12-02 | 2023-02-02 |
 | [To the Moon](https://open.spotify.com/track/3R5MJ4C0YJ95KxdMrXa3W8) | [Quinton Brock](https://open.spotify.com/artist/1abW5Py6b6FSSpirm5Fkqq) | [To the Moon](https://open.spotify.com/album/7kWRuBFm2lqz75qXXZzAiK) | 2:34 | 2022-02-12 | 2022-07-23 |

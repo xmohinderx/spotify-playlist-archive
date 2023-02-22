@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZrc3lwvImLj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZrc3lwvImLj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZrc3lwvImLj)
 
-### [melancholy moods](https://open.spotify.com/playlist/37i9dQZF1DWZrc3lwvImLj)
+### [Melancholy Instrumentals](https://open.spotify.com/playlist/37i9dQZF1DWZrc3lwvImLj)
 
 > Beautifully sad and moody piano music.
 

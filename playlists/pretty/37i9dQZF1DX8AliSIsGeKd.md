@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Space92
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,730 likes - 76 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,854 likes - 76 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 20 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 |
 | 21 | [Action](https://open.spotify.com/track/7xCFUkcVQiHiFFi6yfOJxm) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Action](https://open.spotify.com/album/7k3IUuffIMangIYqbINKrb) | 6:09 |
 | 22 | [Circle of Life](https://open.spotify.com/track/2emqtCpXJnD55QLlsglJYc) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Jason Johnson \(DE\)](https://open.spotify.com/artist/5sCukU3sm3DGmPwAgEZVDc) | [Circle of Life](https://open.spotify.com/album/1MnI0wPZPzES3dvR6GyS2J) | 5:03 |
-| 23 | [Legend](https://open.spotify.com/track/34I6QYP9yREZnvVZvDIo1u) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Legend](https://open.spotify.com/album/6NjOgrgQeokiVkP1CAUxIk) | 3:40 |
+| 23 | [Legend](https://open.spotify.com/track/1kUEp7z1Ivfk2caT9uQP1P) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Legend](https://open.spotify.com/album/3SEJwsLKXnjMeg0c1rhCyB) | 3:40 |
 | 24 | [Sacrifice](https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY) | [Sacrifice](https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi) | 4:39 |
 | 25 | [The First Rebirth](https://open.spotify.com/track/3p97W1BwtzC8aOcTHtOxKe) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [The First Rebirth](https://open.spotify.com/album/5WZUYgzp0bkcGosnYBiG10) | 7:01 |
 | 26 | [Last Call](https://open.spotify.com/track/45V4hmjgWU7mD97WoHSLhL) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Last Call](https://open.spotify.com/album/4zZPozFyRWdIFhIBUWCpeR) | 6:55 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 75 | [Flashing Excitement](https://open.spotify.com/track/1nCJHaPHWNcBjwAJxnLdo7) | [Smash TV](https://open.spotify.com/artist/1VUgV5TXOldN4yUTiIjJbP), [KIKI](https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez), [June Coco](https://open.spotify.com/artist/06Av3z6xKBCMXblNdMc4Cu) | [Electric Days EP](https://open.spotify.com/album/4bxpcVPORPJpgwvMKixl4a) | 5:13 |
 | 76 | [Angel Number 909 \- Acidhouse Mix](https://open.spotify.com/track/7KinsrCi8YFBqp1ZNbJHU6) | [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8) | [Angel Number 909](https://open.spotify.com/album/0sqVxMx8dPxEwXJsmW5UKO) | 5:11 |
 
-Snapshot ID: `MTY3NjU5MjYyMywwMDAwMDAwMDRiNzhhYTNhZTViYjFlMzlhOTMxMzIzMTAyMWViZDZh`
+Snapshot ID: `MTY3NjU5MjYyMywwMDAwMDAwMDllMzY1YmJlNDk2MGNkMzFlNjRmYmQ5NWZmOWI0OGY4`

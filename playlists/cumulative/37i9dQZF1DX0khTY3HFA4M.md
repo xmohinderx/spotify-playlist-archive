@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-507 songs - 20 hr 2 min
+509 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [hangover](https://open.spotify.com/track/3Aj99QBnPuowk3n6bkFciI) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [hangover](https://open.spotify.com/album/6k7G39ATeXkoPjsU3rAEZ8) | 1:49 | 2023-01-13 |  |
 | [Happiness](https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Sosiego](https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV) | 1:48 | 2023-01-13 |  |
 | [Happiness Is Everything](https://open.spotify.com/track/4MgXRcpMm57ToFdQeAUuv5) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Beats & Gifts, Vol\. 2](https://open.spotify.com/album/7789oBozGnAGwtkyY9CqGN) | 2:03 | 2023-01-13 |  |
+| [Happy Ending](https://open.spotify.com/track/0GyDNrpSIx5pUFyeE8FcHH) | [rjoseph](https://open.spotify.com/artist/2cdb2U5hrSfprEgLTrPDwl) | [Happy Ending](https://open.spotify.com/album/6EEMSohhxYLpaqoYJBHS0w) | 2:30 | 2023-02-21 |  |
 | [Hatching a Dragon](https://open.spotify.com/track/4l6cRJ99ytW8NUqelWn5IL) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Hatching a Dragon](https://open.spotify.com/album/4ZaPUMuADwnfJLZKEXbPix) | 2:46 | 2023-01-13 |  |
 | [have\-a\-cup](https://open.spotify.com/track/5kZHGyQEh8qj9H282Y5vkh) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [have\-a\-cup](https://open.spotify.com/album/3v33qdghvECCPCbFAZwIcR) | 2:16 | 2023-01-13 |  |
 | [Heart Chakra](https://open.spotify.com/track/7jOoaIGbwxtH1dpcGp1YSP) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Heart Chakra](https://open.spotify.com/album/1Ns9DLdpOhM2MN8LRuwBHx) | 2:17 | 2023-01-13 |  |
@@ -398,6 +399,7 @@
 | [shoe polish](https://open.spotify.com/track/4x66yQYbtaw7Gh7zh8mL2q) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [shoe polish](https://open.spotify.com/album/4ewlF631QtLWD250zgUWrg) | 2:08 | 2023-01-13 |  |
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2023-01-13 |  |
 | [Sidewalk Pizza](https://open.spotify.com/track/25SJ2Yobd7M7JRCpOe5UNv) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Sidewalk Pizza](https://open.spotify.com/album/5WVxXW5VjWK1StHUCDD1rl) | 2:29 | 2023-01-13 |  |
+| [Sidewalking](https://open.spotify.com/track/6yQREQuyTj1BcrDfV1i0j4) | [Jazzdroid](https://open.spotify.com/artist/5oHXx18DkyL0MSytwm6LEO) | [Sidewalking](https://open.spotify.com/album/0Gvu76HZo16xfDNAzEkNa1) | 1:50 | 2023-02-21 |  |
 | [Siesta](https://open.spotify.com/track/4tCEvBMoB1S4FtyZwzvzRF) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Siesta](https://open.spotify.com/album/0dKue5PyOxoUEKjz01S8RJ) | 2:24 | 2023-01-13 |  |
 | [Simmer Down](https://open.spotify.com/track/6sguED9GcSPkitHUV69fhN) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Simmer Down](https://open.spotify.com/album/0mzDPdasH5BhizWTqoMlRV) | 3:05 | 2023-01-13 |  |
 | [Sketchy Dreamers](https://open.spotify.com/track/5nxEHnue5hDtbbubvyZRUe) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Sketchy Dreamers](https://open.spotify.com/album/5CWACW6EISOrtIaNFZxJkN) | 2:40 | 2023-01-13 |  |

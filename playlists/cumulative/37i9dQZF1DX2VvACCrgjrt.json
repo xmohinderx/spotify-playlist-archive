@@ -256,7 +256,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 188287,
       "name": "Another Level",
       "url": "https://open.spotify.com/track/5fYnx6xU6bThE37aN1F4vH"
@@ -2069,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Die for You",
+        "url": "https://open.spotify.com/album/4iXSfWDnsOoOOWipv70fCn"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Die for You",
+      "url": "https://open.spotify.com/track/6VaKbwTmSx9xrSKvzy0osW"
+    },
+    {
+      "album": {
         "name": "Dipped In $ugar",
         "url": "https://open.spotify.com/album/0NBWcDaIvs1YxDeuLkqA5Y"
       },
@@ -2256,6 +2274,28 @@
       "duration_ms": 200625,
       "name": "Downstairs (feat. Jaquell) - AC Slater Remix",
       "url": "https://open.spotify.com/track/4mJE8x9qBYJXtsbgCabL4R"
+    },
+    {
+      "album": {
+        "name": "DROP 'EM",
+        "url": "https://open.spotify.com/album/4d97rkRs2t5uB1Lk9irLky"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "SOFI",
+          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162901,
+      "name": "DROP 'EM",
+      "url": "https://open.spotify.com/track/0ia4JRneHZ67w3sgTA3fL5"
     },
     {
       "album": {
@@ -2802,7 +2842,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 318720,
       "name": "G Spot",
       "url": "https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn"

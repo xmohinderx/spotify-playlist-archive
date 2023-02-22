@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 > Need a musical pick\-me\-up? Boost that serotonin with these timeless jams from Harry Styles, Beyonce, Kane Brown, Miley Cyrus and more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 309,655 likes - 150 songs - 8 hr 36 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 309,632 likes - 153 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,6 +157,9 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 147 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 |
 | 148 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
 | 149 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 |
-| 150 | [Meet Your Mama](https://open.spotify.com/track/5YS7OWTpQVhv38cdC1WvFH) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Meet Your Mama](https://open.spotify.com/album/4aam4kwHC8owvaXnbb5NFY) | 2:58 |
+| 150 | [Zikidown](https://open.spotify.com/track/1HTKClBb9i0xX3Hdqxu8tR) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Zikidown](https://open.spotify.com/album/7fEfaYKEixA4gEKQW8kxSe) | 2:08 |
+| 151 | [Meet Your Mama](https://open.spotify.com/track/5YS7OWTpQVhv38cdC1WvFH) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Meet Your Mama](https://open.spotify.com/album/4aam4kwHC8owvaXnbb5NFY) | 2:58 |
+| 152 | [Handful \- Acoustic](https://open.spotify.com/track/7pAFcp3k95JFqAYNGQQMC4) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Handful / Already Broke Up](https://open.spotify.com/album/3ef62M5CFUa1tZ9rpKZuDS) | 2:42 |
+| 153 | [Nuestra Canción](https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Nuestra Canción](https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM) | 3:32 |
 
-Snapshot ID: `MzQxMixjZmI0YjdmNmJkMmM4NzljMjhiNTY2ZWY3MzVhM2YwMGU2ZjNmZDVi`
+Snapshot ID: `MzQxNSw3Y2Q3YzQ2YjhhNjA2ZTRmYjkwMWMyOTA3YTE1ZjY4ZDY4ODkyMTUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 
 > That real hip\-hop\. Cover: Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 600 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 169 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 | 48 | [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 |
 | 49 | [Dave Chappelle is Wrong \(Beef With God\)](https://open.spotify.com/track/7F217Uq61qLs6zkM9dmpzX) | [Shirt](https://open.spotify.com/artist/4e3dkPcyps1LVGvdRcqw6Z), [Jack Splash](https://open.spotify.com/artist/0FWhHIfPV3MjJbmdMws8Tn) | [I Turned Myself into Myself](https://open.spotify.com/album/6tmKZYFGFxsZHgJwTeUERQ) | 2:39 |
 
-Snapshot ID: `MTY3NjY3MjM0MCwwMDAwMDAwMDBiNWM5MTM4YmIwYzg2ZjExYWVjODgzM2Q2YzMzYzU0`
+Snapshot ID: `MTY3NzAwODg0MSwwMDAwMDAwMDMyZTdjY2IwOGNkNGY2MGM5YWIxNTZjNjk0NWUzNGRk`

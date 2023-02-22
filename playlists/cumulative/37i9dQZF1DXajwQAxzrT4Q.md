@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Smallz 732
 
-233 songs - 9 hr 20 min
+234 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Posted In The Club](https://open.spotify.com/track/5UDTG9OGUBlUtUh0AEmFoQ) | [Juice Boy](https://open.spotify.com/artist/1KKz8zGGq9AmIQwzMT42BJ) | [Posted In The Club](https://open.spotify.com/album/2MjbX3plYR9ejCkqVHHoXn) | 1:52 | 2022-02-11 | 2022-09-11 |
 | [POZZ](https://open.spotify.com/track/4xT82UfoFopoOmP04NCWDx) | [Livaï](https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp), [COSMO ENVOIE DES TRACKS](https://open.spotify.com/artist/3M5ZSmNx6zPYkwkVN2IBnI) | [POZZ](https://open.spotify.com/album/2Oq3blWeADCV285zfFsV6F) | 2:08 | 2022-07-08 |  |
 | [Press Play \(Gamer Girl\)](https://open.spotify.com/track/2FOGZ8TbM6XSYSl9GV6x6o) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Press Play \(Gamer Girl\)](https://open.spotify.com/album/2RUWNe8Myzs5j9DXdDZDsM) | 2:04 | 2022-02-11 | 2022-07-29 |
-| [Pretty Ones](https://open.spotify.com/track/3aYYGASJYnbJm3JMNB4vyr) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/6SRrDF2P7b83fiFkd1DGN5) | 3:41 | 2023-02-17 |  |
+| [Pretty Ones](https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU) | 3:41 | 2023-02-17 |  |
+| [Pretty Ones](https://open.spotify.com/track/3aYYGASJYnbJm3JMNB4vyr) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/6SRrDF2P7b83fiFkd1DGN5) | 3:41 | 2023-02-17 | 2023-02-22 |
 | [Problem \(DJ Sliink Remix\)](https://open.spotify.com/track/2CsxuGouCICQgKyPACByU9) | [Kriston](https://open.spotify.com/artist/1SWBEezPuZlQREdoDaww9r), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Problem \(DJ Sliink Remix\)](https://open.spotify.com/album/6r0KZ3EQSjijQu8P0xiTc3) | 2:45 | 2022-02-11 | 2022-07-29 |
 | [Pump It Up \[Jersey Club\]](https://open.spotify.com/track/48aHpYVBmeIMxizdTAI7yD) | [DJ Difficult](https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39), [Trxll Trxzzy](https://open.spotify.com/artist/6iFsJij5HuAfodDAb0NKjt) | [Feed the Streets, Vol\. 001](https://open.spotify.com/album/7cs9XEI2pW3tEmj5ELwZf4) | 1:53 | 2022-02-11 | 2022-07-29 |
 | [Push It \- UNIIQU3 Remix](https://open.spotify.com/track/072REW0b0PT7z1K7sKAE9I) | [XHOSA](https://open.spotify.com/artist/5mmqZLCCtJTdVnqn8jnFii), [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Push It \(UNIIQU3 Remix\)](https://open.spotify.com/album/5XjWZdnDZ3W52t1gGmNPlV) | 2:15 | 2022-05-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 33560,
+  "num_followers": 33621,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDM3OWU0NzQ3Yzg4NGIxZGNlM2ViNDUxZGIwYjhlMmEy",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDNmM2EyYmI2OWRmNmI0MzBiNGFjYzI0YzZiNDNhNDNi",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Satellite Man",
-        "url": "https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO"
-      },
-      "artists": [
-        {
-          "name": "Satellite and the Harpoonist",
-          "url": "https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG"
-        }
-      ],
-      "duration_ms": 180432,
-      "name": "Satellite Man",
-      "url": "https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Five Dollars",
         "url": "https://open.spotify.com/album/6qjPSLr8oJHocV9Mt6Ax0m"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 188000,
       "name": "Five Dollars",
       "url": "https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Satellite Man",
+        "url": "https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO"
+      },
+      "artists": [
+        {
+          "name": "Satellite and the Harpoonist",
+          "url": "https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG"
+        }
+      ],
+      "duration_ms": 180432,
+      "name": "Satellite Man",
+      "url": "https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Tell Your Mother",
-        "url": "https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu"
-      },
-      "artists": [
-        {
-          "name": "Dr JOE",
-          "url": "https://open.spotify.com/artist/2hQXLKSqrDLgj3r6LtUU0Y"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Tell Your Mother",
-      "url": "https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Click Click Domino",
         "url": "https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 203099,
       "name": "Click Click Domino (feat. Marcus King)",
       "url": "https://open.spotify.com/track/4CYl5j3ugKHnfuzilmMxge"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Tell Your Mother",
+        "url": "https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu"
+      },
+      "artists": [
+        {
+          "name": "Dr JOE",
+          "url": "https://open.spotify.com/artist/2hQXLKSqrDLgj3r6LtUU0Y"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Tell Your Mother",
+      "url": "https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m"
     },
     {
       "added_at": "2022-08-31 19:45:43",

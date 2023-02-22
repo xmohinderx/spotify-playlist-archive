@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-409 songs - 1 day 0 hr 16 min
+410 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 | 2022-10-12 |  |
 | [Baño de Sangre](https://open.spotify.com/track/3lLPcfcroqpDCZjdmJ4EBT) | [Erich Larsson](https://open.spotify.com/artist/0iD5zEeQslF2KjFvLReU2l) | [Baño de Sangre](https://open.spotify.com/album/3zPf7FxukN1hfrpa1m4Cdb) | 2:40 | 2022-07-01 | 2022-07-27 |
 | [Berlín](https://open.spotify.com/track/2dvEMEPUednUH9Fo01HcXT) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Andyno Plex](https://open.spotify.com/artist/1v0Gf4vVNpD2tfOruHapzp) | [Berlín](https://open.spotify.com/album/4yajrPmBYJYZ4V2zpZVaVx) | 2:45 | 2022-06-03 | 2023-02-17 |
+| [Berlín](https://open.spotify.com/track/4okVwv68gkZYa27woI6CDY) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Andyno Plex](https://open.spotify.com/artist/1v0Gf4vVNpD2tfOruHapzp) | [Berlín](https://open.spotify.com/album/07iIJt6tnM1Yem3hOhdCO4) | 2:45 | 2023-02-03 |  |
 | [Besos](https://open.spotify.com/track/0vXphAWlo0nUx7c9h6KLHf) | [Sué Mon Mont](https://open.spotify.com/artist/1D0ySGoUXYWdUNDZWs2vKl) | [Sué Mon Mont](https://open.spotify.com/album/5RFteyK1jE7qCYDDYRyzOK) | 2:38 | 2022-07-01 | 2022-07-29 |
 | [Bichota \(Post\-Punk\)](https://open.spotify.com/track/3o8tpXm59d9a8wulsGLZ3y) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Bichota \(Post\-Punk\)](https://open.spotify.com/album/0u9yvtJJdXmqMOOa53VuUD) | 3:01 | 2022-07-01 |  |
 | [Blanco & Negro](https://open.spotify.com/track/4SwidOXMXm7I4hJMziEPfA) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Blanco & Negro](https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO) | 3:16 | 2022-07-01 | 2022-07-28 |
@@ -80,7 +81,7 @@
 | [Cuenta Conmigo](https://open.spotify.com/track/5pkLzY2lawUgk6TZHph7uN) | [Los Siberianos](https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK) | [Cuenta Conmigo](https://open.spotify.com/album/1PV8wnu2yvaGsq7WQnbj4P) | 4:51 | 2022-06-03 | 2022-07-29 |
 | [Cuestion de Tiempo](https://open.spotify.com/track/5US59kYAhoDmEAh3JH41UA) | [N.T.S.C](https://open.spotify.com/artist/6wjJckuvI7pJGn2sC10wGE) | [Cuestion de Tiempo](https://open.spotify.com/album/0DWl1qfe8F8DXUPzQN4Onc) | 2:29 | 2022-06-03 | 2022-07-28 |
 | [Curriculum Completo](https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Curriculum Completo](https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC) | 2:25 | 2022-10-07 |  |
-| [Cuántas Veces](https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 3:06 | 2022-06-03 |  |
+| [Cuántas Veces](https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 3:06 | 2022-06-03 | 2023-02-22 |
 | [DA2](https://open.spotify.com/track/7dRm6XxlK8c9ug3kt4AJjL) | [Caravana](https://open.spotify.com/artist/5v0U5GjJ43wx2ZAM02oOoa) | [DA2](https://open.spotify.com/album/4BjDWUTvXjfN1nwxwKkSCY) | 3:33 | 2022-06-03 | 2022-07-26 |
 | [De Frente](https://open.spotify.com/track/41h4bHQ6DfvS1zyl2NS6yP) | [Dos Lugares](https://open.spotify.com/artist/4FnC0V1SNwkHTxjMiJv9eD), [LvRod](https://open.spotify.com/artist/0KI4UbGY4Tta8GNoMgzTEv) | [De Frente](https://open.spotify.com/album/79TYpvWrQG3vm0W6SSmWx0) | 3:31 | 2022-07-01 | 2022-07-24 |
 | [De la Monarquía a la Criptocracia](https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [De la Monarquía a la Criptocracia](https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ) | 2:47 | 2022-06-03 |  |

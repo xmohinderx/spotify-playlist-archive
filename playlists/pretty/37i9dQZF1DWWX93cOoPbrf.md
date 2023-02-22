@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Hans El Oso & La Receta en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,698 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,229 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 29 | [Quise Ser Bueno](https://open.spotify.com/track/7MAPPJtHY6ufnyhi6OexMu) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [Kevin Lopez](https://open.spotify.com/artist/0ZzYMp49RXtrF29cEngFFJ) | [Quise Ser Bueno](https://open.spotify.com/album/19kg4sH9AsYEu3oIuuBkcf) | 3:38 |
 | 30 | [A Veces Me Acelero](https://open.spotify.com/track/7nOIaI6s21Tie0lQmu0lfv) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [A Veces Me Acelero](https://open.spotify.com/album/2gAKw1ufXAC4JOQ9EkDNGx) | 2:36 |
 | 31 | [Radico En Guadalajara](https://open.spotify.com/track/25mluHAkXrvgrlSfPj8Ltx) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm), [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Radico En Guadalajara](https://open.spotify.com/album/71ipDGT05rCL2C9jIxlUfx) | 3:02 |
-| 32 | [El Sombrero Del Mercadito](https://open.spotify.com/track/0A22ZsBBqLDM8qnqlvXjXQ) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Sombrero Del Mercadito](https://open.spotify.com/album/63BFkVslnXUFMBffS7JtgF) | 2:57 |
+| 32 | [El Sombrero Del Mercadito](https://open.spotify.com/track/0A22ZsBBqLDM8qnqlvXjXQ) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Sombrero Del Mercadito](https://open.spotify.com/album/63BFkVslnXUFMBffS7JtgF) | 2:54 |
 | 33 | [Sigo Vigente](https://open.spotify.com/track/7nXCqGUKaHvlp7sfU710pl) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [Sigo Vigente](https://open.spotify.com/album/5e4UoYWJctlZpUsMgmC9hi) | 3:37 |
 | 34 | [De la Calle Graduado](https://open.spotify.com/track/7BohzfINUZAuv0m1o1xA1u) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [De la Calle Graduado](https://open.spotify.com/album/4Wigj9epF6591J47RiM58Z) | 3:07 |
 | 35 | [Se Habla de un Muchacho](https://open.spotify.com/track/7gX3wbDHclXJZTJqSiAnHe) | [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Se Habla de un Muchacho](https://open.spotify.com/album/5JlSE8bBR9BCjfxcm3jODD) | 2:57 |

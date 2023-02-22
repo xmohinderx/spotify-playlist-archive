@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Luh Tyler
 
-591 songs - 1 day 4 hr 20 min
+592 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,8 @@
 | [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 | 2022-01-21 | 2022-02-12 |
 | [Pop That Trunk](https://open.spotify.com/track/1uB8XTI9vgWZQQRC7xlw0X) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Pop That Trunk](https://open.spotify.com/album/6rS5hgwbOe6tRMic70hiaE) | 3:12 | 2021-12-03 | 2022-02-05 |
 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 | 2022-07-22 | 2022-08-13 |
-| [Pretty Ones](https://open.spotify.com/track/3aYYGASJYnbJm3JMNB4vyr) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/6SRrDF2P7b83fiFkd1DGN5) | 3:41 | 2023-02-10 |  |
+| [Pretty Ones](https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU) | 3:41 | 2023-02-10 |  |
+| [Pretty Ones](https://open.spotify.com/track/3aYYGASJYnbJm3JMNB4vyr) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/6SRrDF2P7b83fiFkd1DGN5) | 3:41 | 2023-02-10 | 2023-02-22 |
 | [Primetime](https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Primetime](https://open.spotify.com/album/4mc498S47KkQYsgXpK5HK5) | 3:33 | 2023-01-27 |  |
 | [Product of the Trenches](https://open.spotify.com/track/0udAiP0GuXUI4ntJPX4lkT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Product of the Trenches](https://open.spotify.com/album/15aptOkjKJrzLFeCTOodEF) | 1:46 | 2022-11-11 | 2022-11-19 |
 | [Protest](https://open.spotify.com/track/7xmvra75oRloZw9fHMhtBe) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Protest](https://open.spotify.com/album/0lJ8jE5x7E3RPyOYbU8Omf) | 2:08 | 2022-02-04 | 2022-04-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Hølgersson, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,028 likes - 81 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,045 likes - 81 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

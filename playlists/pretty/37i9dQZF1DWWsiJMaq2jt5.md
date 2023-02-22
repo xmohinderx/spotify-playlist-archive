@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Pola Rise
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,009 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,011 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 9 | [huhu](https://open.spotify.com/track/2aRqN6v7RPJua9dD1AtTZW) | [Zagi](https://open.spotify.com/artist/2fLOBc2u4ihUBpfqumia4k) | [huhu](https://open.spotify.com/album/5q0rBezqAutM8kWoeZWPNC) | 3:23 |
 | 10 | [Smok](https://open.spotify.com/track/36kHJt3Wvm1gMdbhstU5zD) | [atem](https://open.spotify.com/artist/2WdpNeH1gL5a2udTuOAwZk) | [Smok](https://open.spotify.com/album/4PxcGuMuHVrFsKhkC8epBI) | 3:09 |
 | 11 | [Wiśnie](https://open.spotify.com/track/0frZIsYPQzYsbPZ2owz3yp) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Wiśnie](https://open.spotify.com/album/36r8s1qS0kWuyJ75mTCPhG) | 2:42 |
-| 12 | [Zwiastun](https://open.spotify.com/track/7s0yBOhhH1JklcrkxE7dX9) | [WOLSKA](https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM) | [Zwiastun](https://open.spotify.com/album/4A9eX6wytzLwFFs6PHnqsb) | 2:32 |
+| 12 | [Zwiastun](https://open.spotify.com/track/1bgkXB3gpfqyadpxk3IfXz) | [WOLSKA](https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM) | [Zwiastun](https://open.spotify.com/album/5EJd6kKhSQX5SAwLzJXcM7) | 2:32 |
 | 13 | [Niebieska Noc](https://open.spotify.com/track/5urPVqVx8tb3mUY8m9MLAo) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Niebieska Noc](https://open.spotify.com/album/1DyTAOv7dXCE2WuawmUzVh) | 2:47 |
 | 14 | [Prywatny bal](https://open.spotify.com/track/2VYT8yaxvwXyRvAWZqM7Ws) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [Prywatny bal](https://open.spotify.com/album/2ADRJFVJslXpQQ6tjbq3UJ) | 2:36 |
 | 15 | [Trafalgar Square](https://open.spotify.com/track/0G7sgwebRLCuOblxku3TyG) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Trafalgar Square](https://open.spotify.com/album/0emuZcahsEM2AVDueZ3Gdl) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Lustro](https://open.spotify.com/track/7BhSVPtItIjLFbN6I5Yn9u) | [ShataQS](https://open.spotify.com/artist/5xlqfXGTn6kq5lRVh3bRN4) | [Weda](https://open.spotify.com/album/5sTIxSkQ7Ukr80g5Er0Ytn) | 4:30 |
 | 50 | [Non stop](https://open.spotify.com/track/2uKFGUNechJSwHCiAjYpLk) | [MIJA MI](https://open.spotify.com/artist/04WYT3P4yQ8aC9Hbz9sCKx), [bunny](https://open.spotify.com/artist/1mGiUyxEsL9GDehRXf6kJC) | [Non stop](https://open.spotify.com/album/12zb2m3vpL5NiLGWyybQkh) | 2:33 |
 
-Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMDAwYWIzN2I1YTk5Y2I5YTUwMDdiODk1MWMwNGZhNGU1`
+Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMDI1OTA1OTY2OGQxN2UxOWJhOThkMTUwZmQ5ZTQ4NGE1`

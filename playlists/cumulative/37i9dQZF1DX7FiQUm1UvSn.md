@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7FiQUm1UvSn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7FiQUm1UvSn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7FiQUm1UvSn)
 
-### [Alongamento](https://open.spotify.com/playlist/37i9dQZF1DX7FiQUm1UvSn)
+### [Stretching](https://open.spotify.com/playlist/37i9dQZF1DX7FiQUm1UvSn)
 
-> A melhor trilha sonora para relaxar e alongar o corpo antes ou depois do treino!
+> The best soundtrack to relax and stretch your body before or after training!
 
 97 songs - 5 hr 10 min
 

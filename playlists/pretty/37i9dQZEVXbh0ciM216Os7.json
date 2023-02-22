@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5NDM1MDAsMDAwMDAwMDA1ZGQwMDlhOTI3NDcxYjdiYzc3MTI0MzA5OWYzNGMyOQ==",
+  "snapshot_id": "Mjc5NDM1MDAsMDAwMDAwMDAzOGJhNTE5MzE1Y2ZkNmIxZWJmOGNkMDFkYTU3NDVmMA==",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -75,23 +75,7 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Bigger",
-        "url": "https://open.spotify.com/album/6kSMNmKVa8Wdefi29eZUbu"
-      },
-      "artists": [
-        {
-          "name": "Jonwayne",
-          "url": "https://open.spotify.com/artist/3i7IUsb5VsiJAKqX2Md9Fc"
-        }
-      ],
-      "duration_ms": 172620,
-      "name": "Bigger",
-      "url": "https://open.spotify.com/track/1Hxdhp07XgEXWBLJ7rguud"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Beautiful Black Eyes (Live)",
+        "name": "Beautiful Black Eyes",
         "url": "https://open.spotify.com/album/4NnTJSBGucLoZWlualGuVf"
       },
       "artists": [
@@ -101,7 +85,7 @@
         }
       ],
       "duration_ms": 555386,
-      "name": "Beautiful Black Eyes (Live)",
+      "name": "Beautiful Black Eyes",
       "url": "https://open.spotify.com/track/7aN0EpKfV5J4IJJi0WCna0"
     },
     {
@@ -271,6 +255,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Flowers (Metal Version)",
+        "url": "https://open.spotify.com/album/0N4v2VPeaztKO230vel9P9"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 274564,
+      "name": "Flowers (Metal Version)",
+      "url": "https://open.spotify.com/track/5h8k6b7a85OqTqWfAEqSde"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Powermovesceo",
         "url": "https://open.spotify.com/album/68QposhxAONUZM8DGYTZXx"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 270053,
       "name": "Powermovesceo",
       "url": "https://open.spotify.com/track/5gXM79V8wrjO5YC5nN4tZu"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Flowers (Metal Version)",
-        "url": "https://open.spotify.com/album/0N4v2VPeaztKO230vel9P9"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 274564,
-      "name": "Flowers (Metal Version)",
-      "url": "https://open.spotify.com/track/5h8k6b7a85OqTqWfAEqSde"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -503,6 +487,26 @@
       "duration_ms": 126185,
       "name": "Spirit Quest",
       "url": "https://open.spotify.com/track/2aleGe2cz1wrawOKLrH0pC"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Diferente ft CNCO",
+        "url": "https://open.spotify.com/album/4QmDORaIrehe1FsixkVW79"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 199008,
+      "name": "Diferente ft CNCO",
+      "url": "https://open.spotify.com/track/02dJRtnDdqon7U1CQD5BpH"
     },
     {
       "added_at": "2023-02-17 05:00:00",

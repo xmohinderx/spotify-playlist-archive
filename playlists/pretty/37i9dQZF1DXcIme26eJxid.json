@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 82455,
+  "num_followers": 82493,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMGY5N2I1Y2M1NDE1MWEzNmQyMzU2NDk2YjZkYTE5ZmMw",
+  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDAwMmNlZTMxMDNhMGE2ZjA2MWQzZjI4MTYzNzg4Njg0",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -443,6 +443,22 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+      },
+      "artists": [
+        {
+          "name": "Gasper Lawal",
+          "url": "https://open.spotify.com/artist/7jAPM35I7dAYPdKIfTUzwM"
+        }
+      ],
+      "duration_ms": 360800,
+      "name": "Kita Kita",
+      "url": "https://open.spotify.com/track/0sDc20D04QVMR1V3uF3RnQ"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
         "name": "Ivory Music Classics, Vol. 2",
         "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 410600,
       "name": "Mother & Child",
       "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
-      },
-      "artists": [
-        {
-          "name": "Gasper Lawal",
-          "url": "https://open.spotify.com/artist/7jAPM35I7dAYPdKIfTUzwM"
-        }
-      ],
-      "duration_ms": 360800,
-      "name": "Kita Kita",
-      "url": "https://open.spotify.com/track/0sDc20D04QVMR1V3uF3RnQ"
     },
     {
       "added_at": "2019-06-28 16:54:51",

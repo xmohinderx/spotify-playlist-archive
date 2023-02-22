@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. RIP <a href="https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX?si=C\_n76rNORvWfRh\-hfUN44A">AKA</a>
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX?si=3Z4t2zHRTmujpeqTlB83uw">AKA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,417 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,583 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 49 | [Yesssir](https://open.spotify.com/track/61nqSeeR48OHlOsM93F7hC) | [Yung Tyran](https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX), [Die Mondez](https://open.spotify.com/artist/2ceT1FZTvlzjxBGZcjgTh2) | [Look What It's Come To](https://open.spotify.com/album/3slW5G9dQIubZnlHMq7DVH) | 3:13 |
 | 50 | [Why Me?](https://open.spotify.com/track/7rpEhFwa8OTnMoqkDT0JOr) | [Audiomarc](https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Why Me?](https://open.spotify.com/album/7ipNeYgWhbiQUjmgKJCEHZ) | 3:07 |
 
-Snapshot ID: `MTY3Njg4OTY5NiwwMDAwMDAwMDIzYTVlYmM2OWY4YWQ5M2EwNjFjYjU4MDE0ZjBkMTBj`
+Snapshot ID: `MTY3Njk4NTMwMywwMDAwMDAwMGRiNTE3MDY4ZDg5ZTRlYjc3MThkMzJmZjRmZTUzZWMx`

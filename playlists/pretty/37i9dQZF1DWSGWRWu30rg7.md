@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Andrea Tanzil
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,528 likes - 61 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,530 likes - 61 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 41 | [Just Forget Everything We Said](https://open.spotify.com/track/0UqBQhaBI9NEFDd8BCslR6) | [BeverlyLine](https://open.spotify.com/artist/6Q43OdGCjfXv7cWX0L2VXx) | [Just Forget Everything We Said](https://open.spotify.com/album/1iASIngRAVx4kdC566JdKc) | 3:12 |
 | 42 | [Bukan Lagu Mellow Yang Indah](https://open.spotify.com/track/3K8enYCcVhQzvtuMCtHCn0) | [Aulia Rahman](https://open.spotify.com/artist/1HTshF70aKp0eayJXUx82u) | [Bukan Lagu Mellow Yang Indah](https://open.spotify.com/album/4eqrCaf8yskW1vwqTEXNW3) | 3:41 |
 | 43 | [Surfing a Tsunami Wave](https://open.spotify.com/track/3KdTzknfMIuUAUnKoXDAKv) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG), [Zen Aji](https://open.spotify.com/artist/7FoS5czKb5PCnmOGaSzWi0) | [Surfing a Tsunami Wave](https://open.spotify.com/album/6EEC1X1hm9YWP9UVrM101Z) | 2:49 |
-| 44 | [Hati](https://open.spotify.com/track/3PGqBTgJwoBldskkrMY7Uv) | [Mariani Oelong](https://open.spotify.com/artist/6vVEB5LyxuoIoWNSESZqGa) | [Hati](https://open.spotify.com/album/4Dp71ewyzVKs9P9kT7voe9) | 4:21 |
+| 44 | [Hati](https://open.spotify.com/track/3PGqBTgJwoBldskkrMY7Uv) | [Mariani](https://open.spotify.com/artist/2d8VU9F9peezh9QgVPZmxj) | [Hati](https://open.spotify.com/album/4Dp71ewyzVKs9P9kT7voe9) | 4:21 |
 | 45 | [Better than Me](https://open.spotify.com/track/1Fa2ttemffCwsbemhEG2uJ) | [Adebolo](https://open.spotify.com/artist/3J48B8xrqvtsGbPHfGvQpi) | [Better than Me](https://open.spotify.com/album/5fiDblyJfGyScWSpMysIFk) | 3:55 |
 | 46 | [anybody](https://open.spotify.com/track/5ZmxUwbB6MniFlogVniDVL) | [Takaotubo](https://open.spotify.com/artist/2CZ9pf8LsCFPjo3rVjQcD7), [flock of blokes.](https://open.spotify.com/artist/6hzCtiqA0EXx0RWFLWoXWc), [Nabyl Chataby](https://open.spotify.com/artist/2swPvCZ3yP4pVQxMNp7wpd) | [anybody](https://open.spotify.com/album/3aZ1neCrKOC75VHeYIWN7R) | 3:04 |
 | 47 | [Bulletproof](https://open.spotify.com/track/4OgyuxvRKYOYuZZROVsZMl) | [GADIS](https://open.spotify.com/artist/2K33aIkibwK51GeyL7xBM4) | [Bulletproof](https://open.spotify.com/album/30aGz8euHnl07XWQYPKAse) | 3:16 |

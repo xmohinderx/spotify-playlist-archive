@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: Allie Paige
 
-208 songs - 13 hr 5 min
+209 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alone Together](https://open.spotify.com/track/6U9KXC0ziE2wqjZVxZvBNr) | [Wild Harbors](https://open.spotify.com/artist/4cBdaEPEMs4Wp3H3ahLwYQ) | [Monument Part One](https://open.spotify.com/album/0xMYtMANdl7wBLmvnq7Gys) | 3:41 | 2020-12-18 | 2022-07-28 |
 | [Are You There, Do You Care](https://open.spotify.com/track/05i5Z4lz4876TjOofZwBq6) | [Shea Salisbury](https://open.spotify.com/artist/1XT3f4ndBuXQuA9FTcCXT0), [Matt Riebe](https://open.spotify.com/artist/4HjEUgUbh9AyBQRZrIgZZW), [Hailey Swagger](https://open.spotify.com/artist/0gJvG7PUp2BfGQZgZnhQYU) | [Are You There, Do You Care](https://open.spotify.com/album/4Zqk1C3Y9oMF1hYOMZthIE) | 3:44 | 2020-12-18 | 2022-07-29 |
 | [Ark](https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Vanessa Hill](https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb) | [Ark](https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B) | 3:13 | 2023-02-19 |  |
+| [At The End Of The River](https://open.spotify.com/track/1l1NFdzq5team6HHbWlTLk) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [At The End Of The River](https://open.spotify.com/album/7bfqllwYRjQSG6PfUGJsCX) | 4:42 | 2023-02-22 |  |
 | [Avalanche \- Piano Version](https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [VILLAIN](https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL) | 4:06 | 2020-12-18 | 2023-02-19 |
 | [Avalanche \- Piano Version](https://open.spotify.com/track/7gfCmyLiGPkufPJdTErWar) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [Avalanche \(Piano Version\)](https://open.spotify.com/album/6xmA1KDv1uCv8tccOoPqRK) | 4:06 | 2020-12-18 | 2022-07-29 |
 | [Be There For You](https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:48 | 2023-02-19 |  |
@@ -150,7 +151,7 @@
 | [Proceed](https://open.spotify.com/track/2ejCU3N0ILmpE23zrqNm4r) | [Deuel](https://open.spotify.com/artist/0IrOqD4oueXc7E7Wu7NzWv) | [Proceed](https://open.spotify.com/album/0NKNIOpBUg5mZT1k7jGlsM) | 4:26 | 2020-12-18 | 2022-07-29 |
 | [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 | 2020-12-18 | 2023-02-19 |
 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 | 2020-12-18 | 2023-02-19 |
-| [Remedy](https://open.spotify.com/track/0hJZ9B9GpjIa7QT1AVWlOI) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Remedy](https://open.spotify.com/album/4u3rrpmyCCK5J5xKxgHGxl) | 2:04 | 2023-02-21 |  |
+| [Remedy](https://open.spotify.com/track/0hJZ9B9GpjIa7QT1AVWlOI) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Remedy](https://open.spotify.com/album/4u3rrpmyCCK5J5xKxgHGxl) | 2:04 | 2023-02-21 | 2023-02-22 |
 | [Remember This](https://open.spotify.com/track/02O2UvHTQuPdhGqhVgaucv) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Remember This](https://open.spotify.com/album/0JhbHC4SI9YSrpecbTYndw) | 4:47 | 2020-12-18 | 2022-07-29 |
 | [Revenant](https://open.spotify.com/track/0wDvDQVV7qEaVKd4T80YnN) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/2pgAmtx7LUbcAVy4KjykbG) | 5:07 | 2020-12-18 | 2022-07-18 |
 | [Right With You](https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [In the Upper Room](https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC) | 2:46 | 2023-02-19 | 2023-02-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro.",
-  "num_followers": 26482,
+  "num_followers": 26509,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMGU3ZDEzM2QxOTJiOTE2OTlhNDFmZjBkYzI1ODUwZmQ1",
+  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMDhmNDllNzQyN2JhOWRjZTJiZWY4ZWNiYzQ2MThkOGQ2",
   "tracks": [
     {
       "added_at": "2023-02-10 00:00:00",
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
     },
     {
-      "added_at": "2023-02-21 00:45:32",
+      "added_at": "2023-02-22 01:15:56",
       "album": {
         "name": "Solteiros",
         "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
+        "name": "Tequila (Studio Version)",
+        "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "duration_ms": 199376,
+      "name": "Tequila (Studio Version)",
+      "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
         "name": "Aquece",
         "url": "https://open.spotify.com/album/5QBjnecox9dbzdyN28FMG6"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 223695,
       "name": "Aquece",
       "url": "https://open.spotify.com/track/5h63JxV3NF4zmK8SE5ihuc"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "Tequila (Studio Version)",
-        "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
-      },
-      "artists": [
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 199376,
-      "name": "Tequila (Studio Version)",
-      "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1025,6 +1025,22 @@
       "url": "https://open.spotify.com/track/03ufBsWERNppFLwZedOK70"
     },
     {
+      "added_at": "2023-02-22 01:15:56",
+      "album": {
+        "name": "Tenta\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/06rdIn1DdRecfzKnPrl17m"
+      },
+      "artists": [
+        {
+          "name": "BCKappa",
+          "url": "https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Tenta\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7v383pu4yGbdQW5t8Gv2dV"
+    },
+    {
       "added_at": "2023-02-10 00:00:00",
       "album": {
         "name": "Mais Uma Vez",
@@ -1039,22 +1055,6 @@
       "duration_ms": 237533,
       "name": "Mais Uma Vez",
       "url": "https://open.spotify.com/track/6G1qfNxVKAjxaVInNwj2aK"
-    },
-    {
-      "added_at": "2023-02-21 00:45:32",
-      "album": {
-        "name": "Tenta\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/06rdIn1DdRecfzKnPrl17m"
-      },
-      "artists": [
-        {
-          "name": "BCKappa",
-          "url": "https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Tenta\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7v383pu4yGbdQW5t8Gv2dV"
     }
   ],
   "unique_name": "Seda",

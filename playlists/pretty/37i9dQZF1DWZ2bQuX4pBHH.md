@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,579 likes - 60 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,717 likes - 60 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 49 | [Ho Gaya Hai Tujhko To Pyar Sajna](https://open.spotify.com/track/7jV2zwwRKvHoLA8WFr3SCN) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:49 |
 | 50 | [Ae Ajnabi](https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 5:49 |
 | 51 | [Chennai Express](https://open.spotify.com/track/2QDhzCaYd79t3sympjOUQY) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Chennai Express](https://open.spotify.com/album/08hhqmG2yI7741tXn2Zs4g) | 4:43 |
-| 52 | [Love You Zindagi \(From "Dear Zindagi"\)](https://open.spotify.com/track/0tZMTCvEzXWz7AvjzIPf1H) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Love You Zindagi \(From "Dear Zindagi"\)](https://open.spotify.com/album/5t4bdFFQvLYouhlhgetS8b) | 3:52 |
+| 52 | [Zara Sa Jhoom Loon Main](https://open.spotify.com/track/4AfLtSXcvG8AkfQjDR0gJ1) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:53 |
 | 53 | [Chaand Taare](https://open.spotify.com/track/0898lqIxzKWzUZxb5zT7C9) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 4:49 |
-| 54 | [Zara Sa Jhoom Loon Main](https://open.spotify.com/track/4AfLtSXcvG8AkfQjDR0gJ1) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:53 |
+| 54 | [Love You Zindagi \(From "Dear Zindagi"\)](https://open.spotify.com/track/0tZMTCvEzXWz7AvjzIPf1H) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Love You Zindagi \(From "Dear Zindagi"\)](https://open.spotify.com/album/5t4bdFFQvLYouhlhgetS8b) | 3:52 |
 | 55 | [Tujhe Dekha To \(From "Dilwale Dulhania Le Jayenge"\)](https://open.spotify.com/track/6FZrX6epdqcaQHx9LFRcuf) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 5:03 |
 | 56 | [Ruk Ja O Dil Deewane](https://open.spotify.com/track/619BqiArColRhmckgCGoG3) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:12 |
 | 57 | [Apun Bola](https://open.spotify.com/track/1uHd2tBRzotyWUS3iQeDN7) | [Shah Rukh Khan](https://open.spotify.com/artist/3SBWeRybza4sJUr6Kjmft2), [Hema Sardesai](https://open.spotify.com/artist/7J1dPh3Yjs0aIhQHbBfNQP) | [Josh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26tEuVzIVjvVn12w07hqIm) | 4:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 59 | [Aisi Deewangi \(From "Deewana"\)](https://open.spotify.com/track/4KOyzA5gEZhSPzgorU9gKK) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Best of Bollywood Singers \- Shaan & Vinod Rathod](https://open.spotify.com/album/0Lxd3NYjNrYFQXXS7S1wrf) | 6:55 |
 | 60 | [Haule Haule \(Remix\) \- Remixed By: Dj Amyth](https://open.spotify.com/track/1YzzVCiTwz6eq7zljzHj5K) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Hard Kaur](https://open.spotify.com/artist/1Xoow41U5fn5DwlMlYt7Gw) | [Rab Ne Bana Di Jodi \(Original\)](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 3:29 |
 
-Snapshot ID: `MTY3NjQ2MDkxOSwwMDAwMDAwMDA4YWE0Y2NhZTFmMmY1OWRiNDdmMDgwYjZiZWJjMTRi`
+Snapshot ID: `MTY3NjQ2MDkxOSwwMDAwMDAwMDFmMzFiNjY3Y2U0MDQzZWMxOWEzNmI2ZmEyMzMwMzhi`

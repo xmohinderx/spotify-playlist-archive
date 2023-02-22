@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Gecko&Tokage Parade Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,644 likes - 69 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,709 likes - 69 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

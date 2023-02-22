@@ -1,12 +1,12 @@
 {
   "description": "Need a musical pick-me-up? Boost that serotonin with these timeless jams from Harry Styles, Beyonce, Kane Brown, Miley Cyrus and more!",
-  "num_followers": 309655,
+  "num_followers": 309632,
   "original_name": "Happy Songs",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MzQxMixjZmI0YjdmNmJkMmM4NzljMjhiNTY2ZWY3MzVhM2YwMGU2ZjNmZDVi",
+  "snapshot_id": "MzQxNSw3Y2Q3YzQ2YjhhNjA2ZTRmYjkwMWMyOTA3YTE1ZjY4ZDY4ODkyMTUw",
   "tracks": [
     {
       "added_at": "2023-02-13 17:18:47",
@@ -2553,6 +2553,22 @@
       "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
     },
     {
+      "added_at": "2023-02-21 19:30:38",
+      "album": {
+        "name": "Zikidown",
+        "url": "https://open.spotify.com/album/7fEfaYKEixA4gEKQW8kxSe"
+      },
+      "artists": [
+        {
+          "name": "Jhosy",
+          "url": "https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo"
+        }
+      ],
+      "duration_ms": 128753,
+      "name": "Zikidown",
+      "url": "https://open.spotify.com/track/1HTKClBb9i0xX3Hdqxu8tR"
+    },
+    {
       "added_at": "2023-02-13 17:18:47",
       "album": {
         "name": "Meet Your Mama",
@@ -2567,6 +2583,38 @@
       "duration_ms": 178947,
       "name": "Meet Your Mama",
       "url": "https://open.spotify.com/track/5YS7OWTpQVhv38cdC1WvFH"
+    },
+    {
+      "added_at": "2023-02-21 19:24:28",
+      "album": {
+        "name": "Handful / Already Broke Up",
+        "url": "https://open.spotify.com/album/3ef62M5CFUa1tZ9rpKZuDS"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 162632,
+      "name": "Handful - Acoustic",
+      "url": "https://open.spotify.com/track/7pAFcp3k95JFqAYNGQQMC4"
+    },
+    {
+      "added_at": "2023-02-21 19:29:43",
+      "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 212957,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
     }
   ],
   "unique_name": "Happy Songs",

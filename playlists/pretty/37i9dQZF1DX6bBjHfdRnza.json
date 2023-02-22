@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: Swami Sound. Artwork by Rewina Beshue. Updates every Wednesday.",
-  "num_followers": 143406,
+  "num_followers": 143444,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4MTU3MSwwMDAwMDAwMGE4ZDJhY2RiNTE4ZDk5NzA0Mzk0YTYwMGM2MzQzYmI5",
+  "snapshot_id": "MTY3NjQ4MTU3MSwwMDAwMDAwMDg4NmEwZjZjZDgwZmI2MTQwYmIwYmQ4NTk4ODZhNzVj",
   "tracks": [
     {
       "added_at": "2023-02-15 17:19:31",
@@ -153,42 +153,6 @@
       "url": "https://open.spotify.com/track/72hDFwf8x4ORCf4NE3bsmh"
     },
     {
-      "added_at": "2023-01-25 16:03:30",
-      "album": {
-        "name": "4get",
-        "url": "https://open.spotify.com/album/6fDcYde0k1VUiSaK5hTCc6"
-      },
-      "artists": [
-        {
-          "name": "Delto",
-          "url": "https://open.spotify.com/artist/1WlSGhncfBqk79KNYuTicp"
-        },
-        {
-          "name": "Canna",
-          "url": "https://open.spotify.com/artist/3UQddXFBR9NoYWpcxwAYkh"
-        }
-      ],
-      "duration_ms": 139908,
-      "name": "4get",
-      "url": "https://open.spotify.com/track/2mlgFhBe2shVc1ITY0ri9B"
-    },
-    {
-      "added_at": "2023-02-15 17:19:31",
-      "album": {
-        "name": "Will U B There?",
-        "url": "https://open.spotify.com/album/1y2PXgYr9dCH3n2aVwLLzL"
-      },
-      "artists": [
-        {
-          "name": "Sempra",
-          "url": "https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq"
-        }
-      ],
-      "duration_ms": 372840,
-      "name": "Will U B There?",
-      "url": "https://open.spotify.com/track/3Oqk9DfH1krBlATVWywyQ8"
-    },
-    {
       "added_at": "2023-02-08 16:30:00",
       "album": {
         "name": "Blush/Sweetpea",
@@ -209,6 +173,22 @@
       "url": "https://open.spotify.com/track/0vdzx5gNcGMYeAwGvDzqsv"
     },
     {
+      "added_at": "2023-02-15 17:19:31",
+      "album": {
+        "name": "Will U B There?",
+        "url": "https://open.spotify.com/album/1y2PXgYr9dCH3n2aVwLLzL"
+      },
+      "artists": [
+        {
+          "name": "Sempra",
+          "url": "https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq"
+        }
+      ],
+      "duration_ms": 372840,
+      "name": "Will U B There?",
+      "url": "https://open.spotify.com/track/3Oqk9DfH1krBlATVWywyQ8"
+    },
+    {
       "added_at": "2023-01-18 17:45:34",
       "album": {
         "name": "So Beautiful So Lonely",
@@ -223,6 +203,26 @@
       "duration_ms": 128626,
       "name": "So Beautiful So Lonely",
       "url": "https://open.spotify.com/track/3zdLeOuOhJn5M3dLETL4ZU"
+    },
+    {
+      "added_at": "2023-01-25 16:03:30",
+      "album": {
+        "name": "4get",
+        "url": "https://open.spotify.com/album/6fDcYde0k1VUiSaK5hTCc6"
+      },
+      "artists": [
+        {
+          "name": "Delto",
+          "url": "https://open.spotify.com/artist/1WlSGhncfBqk79KNYuTicp"
+        },
+        {
+          "name": "Canna",
+          "url": "https://open.spotify.com/artist/3UQddXFBR9NoYWpcxwAYkh"
+        }
+      ],
+      "duration_ms": 139908,
+      "name": "4get",
+      "url": "https://open.spotify.com/track/2mlgFhBe2shVc1ITY0ri9B"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -257,22 +257,6 @@
       "url": "https://open.spotify.com/track/18SaC9Z58nrfjkWbSZUjG3"
     },
     {
-      "added_at": "2023-02-08 16:30:00",
-      "album": {
-        "name": "THE AGONOS CONNECTION",
-        "url": "https://open.spotify.com/album/2GsC00o8JLYM2YkfqQKyrQ"
-      },
-      "artists": [
-        {
-          "name": "thook",
-          "url": "https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3"
-        }
-      ],
-      "duration_ms": 112241,
-      "name": "lone idol",
-      "url": "https://open.spotify.com/track/1FXmnvZKJiACQxdMZeOwzK"
-    },
-    {
       "added_at": "2023-02-15 17:19:31",
       "album": {
         "name": "The Chillin",
@@ -287,6 +271,22 @@
       "duration_ms": 140624,
       "name": "The Chillin",
       "url": "https://open.spotify.com/track/6Qq5N8hCU5uyXfZzAUfW04"
+    },
+    {
+      "added_at": "2023-02-08 16:30:00",
+      "album": {
+        "name": "THE AGONOS CONNECTION",
+        "url": "https://open.spotify.com/album/2GsC00o8JLYM2YkfqQKyrQ"
+      },
+      "artists": [
+        {
+          "name": "thook",
+          "url": "https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3"
+        }
+      ],
+      "duration_ms": 112241,
+      "name": "lone idol",
+      "url": "https://open.spotify.com/track/1FXmnvZKJiACQxdMZeOwzK"
     },
     {
       "added_at": "2023-02-02 01:02:36",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/42v3sjO6HNsN6bITSsK1FE"
     },
     {
-      "added_at": "2023-02-08 16:30:00",
-      "album": {
-        "name": "give my all to you",
-        "url": "https://open.spotify.com/album/0W1ljWTu5XwYKYT0LLCFfb"
-      },
-      "artists": [
-        {
-          "name": "good and you",
-          "url": "https://open.spotify.com/artist/30ICVwd1mcsoRk8BG2o5ml"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "give my all to you",
-      "url": "https://open.spotify.com/track/1x8KG9Se6s5wMTXQ6m9Pv1"
-    },
-    {
       "added_at": "2023-02-15 17:19:31",
       "album": {
         "name": "Medium",
@@ -355,6 +339,42 @@
     {
       "added_at": "2023-02-15 17:19:31",
       "album": {
+        "name": "It's Not Working",
+        "url": "https://open.spotify.com/album/5LCTrmuDIM25SSVHdugexk"
+      },
+      "artists": [
+        {
+          "name": "Mayn",
+          "url": "https://open.spotify.com/artist/0d5MTUMaLqaku4HMBNnSjk"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 242250,
+      "name": "It's Not Working",
+      "url": "https://open.spotify.com/track/0Ys9jGPBLyf9IikVkZbxX5"
+    },
+    {
+      "added_at": "2023-02-08 16:30:00",
+      "album": {
+        "name": "give my all to you",
+        "url": "https://open.spotify.com/album/0W1ljWTu5XwYKYT0LLCFfb"
+      },
+      "artists": [
+        {
+          "name": "good and you",
+          "url": "https://open.spotify.com/artist/30ICVwd1mcsoRk8BG2o5ml"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "give my all to you",
+      "url": "https://open.spotify.com/track/1x8KG9Se6s5wMTXQ6m9Pv1"
+    },
+    {
+      "added_at": "2023-02-15 17:19:31",
+      "album": {
         "name": "Mescaline (Radio Edit)",
         "url": "https://open.spotify.com/album/5rEutXujkkYSQ8erjgMrBH"
       },
@@ -367,6 +387,22 @@
       "duration_ms": 177142,
       "name": "Mescaline - Radio Edit",
       "url": "https://open.spotify.com/track/6yBQ6kPgPcxn0GNyi9I1QU"
+    },
+    {
+      "added_at": "2023-02-15 17:19:31",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/0iP36TG3GD4bVof1S2ZJuB"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 194758,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2LTDoJXKif735jmUZwafPH"
     },
     {
       "added_at": "2023-02-02 01:02:36",
@@ -407,42 +443,6 @@
       "duration_ms": 281951,
       "name": "Drive Me",
       "url": "https://open.spotify.com/track/735PDoBMhWUNaUy1spdA03"
-    },
-    {
-      "added_at": "2023-02-15 17:19:31",
-      "album": {
-        "name": "It's Not Working",
-        "url": "https://open.spotify.com/album/5LCTrmuDIM25SSVHdugexk"
-      },
-      "artists": [
-        {
-          "name": "Mayn",
-          "url": "https://open.spotify.com/artist/0d5MTUMaLqaku4HMBNnSjk"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 242250,
-      "name": "It's Not Working",
-      "url": "https://open.spotify.com/track/0Ys9jGPBLyf9IikVkZbxX5"
-    },
-    {
-      "added_at": "2023-02-15 17:19:31",
-      "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/0iP36TG3GD4bVof1S2ZJuB"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 194758,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2LTDoJXKif735jmUZwafPH"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -561,36 +561,20 @@
       "url": "https://open.spotify.com/track/1069Ebu1HdfSVgbOB8O3zk"
     },
     {
-      "added_at": "2023-01-25 16:03:30",
+      "added_at": "2023-02-15 17:19:31",
       "album": {
-        "name": "Dance with Me",
-        "url": "https://open.spotify.com/album/6n5gAyPw5RcOalTYLogKoQ"
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/40e19DXM4NgcsO1RenWOzI"
       },
       "artists": [
         {
-          "name": "Mirko Di Florio",
-          "url": "https://open.spotify.com/artist/4B9TNYzqv1ClVclflVWMic"
+          "name": "SAINT",
+          "url": "https://open.spotify.com/artist/5PoQmMLwwzA0lnmnhbip2n"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/1twGsEDffBMQ5zoftqG1Lw"
-    },
-    {
-      "added_at": "2023-02-02 01:02:36",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/2FwmZVJ5OJqPkmb26sZDEJ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Bellaouel",
-          "url": "https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB"
-        }
-      ],
-      "duration_ms": 263382,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/6aNxRcSTbWKRTOaqJII9Dx"
+      "duration_ms": 270010,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/1B0JPbHveYeKoEfOYep3Ja"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -611,6 +595,22 @@
       "duration_ms": 219314,
       "name": "Different",
       "url": "https://open.spotify.com/track/0W4VFICNbZke8LxMI8EsJ5"
+    },
+    {
+      "added_at": "2023-01-25 16:03:30",
+      "album": {
+        "name": "Dance with Me",
+        "url": "https://open.spotify.com/album/6n5gAyPw5RcOalTYLogKoQ"
+      },
+      "artists": [
+        {
+          "name": "Mirko Di Florio",
+          "url": "https://open.spotify.com/artist/4B9TNYzqv1ClVclflVWMic"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/1twGsEDffBMQ5zoftqG1Lw"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -645,20 +645,20 @@
       "url": "https://open.spotify.com/track/1oDKZDNdLMnxJk9DVFalDc"
     },
     {
-      "added_at": "2023-02-15 17:19:31",
+      "added_at": "2023-02-02 01:02:36",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/40e19DXM4NgcsO1RenWOzI"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/2FwmZVJ5OJqPkmb26sZDEJ"
       },
       "artists": [
         {
-          "name": "SAINT",
-          "url": "https://open.spotify.com/artist/5PoQmMLwwzA0lnmnhbip2n"
+          "name": "Sabrina Bellaouel",
+          "url": "https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB"
         }
       ],
-      "duration_ms": 270010,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/1B0JPbHveYeKoEfOYep3Ja"
+      "duration_ms": 263382,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6aNxRcSTbWKRTOaqJII9Dx"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -693,6 +693,22 @@
       "url": "https://open.spotify.com/track/6VjDtChLNhmF8Wm5CU3Pbk"
     },
     {
+      "added_at": "2023-02-15 17:19:31",
+      "album": {
+        "name": "Lost a Friend",
+        "url": "https://open.spotify.com/album/572V1LjH5twTL1apGbJHHI"
+      },
+      "artists": [
+        {
+          "name": "H\u00f8lgersson",
+          "url": "https://open.spotify.com/artist/2k0bO9lJMRhfgp76EHNNSa"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Lost a Friend",
+      "url": "https://open.spotify.com/track/5caXgageFqvA8zELmKN4r7"
+    },
+    {
       "added_at": "2023-02-02 01:02:36",
       "album": {
         "name": "Endless",
@@ -707,54 +723,6 @@
       "duration_ms": 311601,
       "name": "Endless",
       "url": "https://open.spotify.com/track/3n4exznFpCunrvLV5ePD5f"
-    },
-    {
-      "added_at": "2023-02-08 16:30:00",
-      "album": {
-        "name": "MYSM",
-        "url": "https://open.spotify.com/album/0zcghV7zGl1jMa0TQhFKGz"
-      },
-      "artists": [
-        {
-          "name": "TYGAPAW",
-          "url": "https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq"
-        }
-      ],
-      "duration_ms": 236336,
-      "name": "MYSM",
-      "url": "https://open.spotify.com/track/6W33jxmOkSBPQYprghE5Ba"
-    },
-    {
-      "added_at": "2023-02-08 16:30:00",
-      "album": {
-        "name": "After the fact",
-        "url": "https://open.spotify.com/album/1esZRDqhXhZ8li04RPDr4p"
-      },
-      "artists": [
-        {
-          "name": "Skyalit Kill",
-          "url": "https://open.spotify.com/artist/6Q5NOJb8lflMmqvkaZ3chx"
-        }
-      ],
-      "duration_ms": 295399,
-      "name": "After the fact",
-      "url": "https://open.spotify.com/track/2QBUUcK9z0RgDNSEljKDPC"
-    },
-    {
-      "added_at": "2023-02-08 16:30:00",
-      "album": {
-        "name": "Feel Aight/Wickedest",
-        "url": "https://open.spotify.com/album/6n73FDBgFdRrLfSIutktEi"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 283895,
-      "name": "Feel Aight",
-      "url": "https://open.spotify.com/track/6Jc9zvnkG7Q2t4pmpuVTl2"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -775,6 +743,54 @@
       "duration_ms": 307026,
       "name": "Moon Rising (10 Years)",
       "url": "https://open.spotify.com/track/1Ss2yRnWazM2Vp7j4QZZ6c"
+    },
+    {
+      "added_at": "2023-02-08 16:30:00",
+      "album": {
+        "name": "MYSM",
+        "url": "https://open.spotify.com/album/0zcghV7zGl1jMa0TQhFKGz"
+      },
+      "artists": [
+        {
+          "name": "TYGAPAW",
+          "url": "https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq"
+        }
+      ],
+      "duration_ms": 236336,
+      "name": "MYSM",
+      "url": "https://open.spotify.com/track/6W33jxmOkSBPQYprghE5Ba"
+    },
+    {
+      "added_at": "2023-02-08 16:30:00",
+      "album": {
+        "name": "Feel Aight/Wickedest",
+        "url": "https://open.spotify.com/album/6n73FDBgFdRrLfSIutktEi"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 283895,
+      "name": "Feel Aight",
+      "url": "https://open.spotify.com/track/6Jc9zvnkG7Q2t4pmpuVTl2"
+    },
+    {
+      "added_at": "2023-02-08 16:30:00",
+      "album": {
+        "name": "After the fact",
+        "url": "https://open.spotify.com/album/1esZRDqhXhZ8li04RPDr4p"
+      },
+      "artists": [
+        {
+          "name": "Skyalit Kill",
+          "url": "https://open.spotify.com/artist/6Q5NOJb8lflMmqvkaZ3chx"
+        }
+      ],
+      "duration_ms": 295399,
+      "name": "After the fact",
+      "url": "https://open.spotify.com/track/2QBUUcK9z0RgDNSEljKDPC"
     },
     {
       "added_at": "2023-02-08 16:30:00",
@@ -807,22 +823,6 @@
       "duration_ms": 385960,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/6owBgS7GUtTj9YlqpHnVtl"
-    },
-    {
-      "added_at": "2023-02-15 17:19:31",
-      "album": {
-        "name": "Lost a Friend",
-        "url": "https://open.spotify.com/album/572V1LjH5twTL1apGbJHHI"
-      },
-      "artists": [
-        {
-          "name": "H\u00f8lgersson",
-          "url": "https://open.spotify.com/artist/2k0bO9lJMRhfgp76EHNNSa"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Lost a Friend",
-      "url": "https://open.spotify.com/track/5caXgageFqvA8zELmKN4r7"
     },
     {
       "added_at": "2023-02-08 16:30:00",
@@ -889,20 +889,20 @@
       "url": "https://open.spotify.com/track/5GlhhRZDmu21IrUHml94eZ"
     },
     {
-      "added_at": "2023-02-08 16:30:00",
+      "added_at": "2023-02-15 17:19:31",
       "album": {
-        "name": "Favourite State",
-        "url": "https://open.spotify.com/album/60WfBgmF4wWtWkzX4S4joD"
+        "name": "Disko Luv",
+        "url": "https://open.spotify.com/album/4ZMat81ejgkMk3UGR1Hukz"
       },
       "artists": [
         {
-          "name": "Alps 2",
-          "url": "https://open.spotify.com/artist/3ZGwQcTbkx3ubLRoXUBcCd"
+          "name": "Dish Dash",
+          "url": "https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA"
         }
       ],
-      "duration_ms": 244499,
-      "name": "Favourite State - Edit",
-      "url": "https://open.spotify.com/track/5DFWLCK0UNHZLGZVmA1248"
+      "duration_ms": 205714,
+      "name": "Disko Luv",
+      "url": "https://open.spotify.com/track/3S3dUBSi2dahXcWM1CyIL6"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-02-08 16:30:00",
       "album": {
-        "name": "No Lie",
-        "url": "https://open.spotify.com/album/2zz6KdMmS1sqK9uOlrvE6W"
+        "name": "Favourite State",
+        "url": "https://open.spotify.com/album/60WfBgmF4wWtWkzX4S4joD"
       },
       "artists": [
         {
-          "name": "American Dance Ghosts",
-          "url": "https://open.spotify.com/artist/5iK0IA5h8WCOKSCfiJGVLT"
+          "name": "Alps 2",
+          "url": "https://open.spotify.com/artist/3ZGwQcTbkx3ubLRoXUBcCd"
         }
       ],
-      "duration_ms": 267096,
-      "name": "No Lie",
-      "url": "https://open.spotify.com/track/2tixFjoUKv6rfgcWFXcJdI"
+      "duration_ms": 244499,
+      "name": "Favourite State - Edit",
+      "url": "https://open.spotify.com/track/5DFWLCK0UNHZLGZVmA1248"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -953,20 +953,20 @@
       "url": "https://open.spotify.com/track/2qvqEio0ZHDaslzHNZpNeX"
     },
     {
-      "added_at": "2023-02-15 17:19:31",
+      "added_at": "2023-02-08 16:30:00",
       "album": {
-        "name": "Disko Luv",
-        "url": "https://open.spotify.com/album/4ZMat81ejgkMk3UGR1Hukz"
+        "name": "No Lie",
+        "url": "https://open.spotify.com/album/2zz6KdMmS1sqK9uOlrvE6W"
       },
       "artists": [
         {
-          "name": "Dish Dash",
-          "url": "https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA"
+          "name": "American Dance Ghosts",
+          "url": "https://open.spotify.com/artist/5iK0IA5h8WCOKSCfiJGVLT"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Disko Luv",
-      "url": "https://open.spotify.com/track/3S3dUBSi2dahXcWM1CyIL6"
+      "duration_ms": 267096,
+      "name": "No Lie",
+      "url": "https://open.spotify.com/track/2tixFjoUKv6rfgcWFXcJdI"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -983,22 +983,6 @@
       "duration_ms": 219120,
       "name": "Wi Skank to They Riddim",
       "url": "https://open.spotify.com/track/07XiIXW8I7oFq1qIKEOCFO"
-    },
-    {
-      "added_at": "2023-02-02 01:02:36",
-      "album": {
-        "name": "Shawty 3.0 EP",
-        "url": "https://open.spotify.com/album/5iNMPaFNFUXe0LmnNeODjW"
-      },
-      "artists": [
-        {
-          "name": "GoodMostlyBad",
-          "url": "https://open.spotify.com/artist/3tqVoY03kvzqkNxPa1TEi0"
-        }
-      ],
-      "duration_ms": 295081,
-      "name": "NFT",
-      "url": "https://open.spotify.com/track/0VUsjrokCYa8zc7bYwbduW"
     },
     {
       "added_at": "2023-02-08 16:30:00",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2023-02-02 01:02:36",
       "album": {
-        "name": "I AM DRUGS",
-        "url": "https://open.spotify.com/album/7f70nMbwk1rgT68P5Olcde"
+        "name": "Shawty 3.0 EP",
+        "url": "https://open.spotify.com/album/5iNMPaFNFUXe0LmnNeODjW"
       },
       "artists": [
         {
-          "name": "Fei-Fei",
-          "url": "https://open.spotify.com/artist/5JXS13q07rUqMWcgQeQXCM"
+          "name": "GoodMostlyBad",
+          "url": "https://open.spotify.com/artist/3tqVoY03kvzqkNxPa1TEi0"
         }
       ],
-      "duration_ms": 394436,
-      "name": "I AM DRUGS",
-      "url": "https://open.spotify.com/track/1pUDoHG6GWmMtGCcBdlWED"
+      "duration_ms": 295081,
+      "name": "NFT",
+      "url": "https://open.spotify.com/track/0VUsjrokCYa8zc7bYwbduW"
     },
     {
       "added_at": "2023-02-15 17:19:31",
@@ -1047,6 +1031,22 @@
       "duration_ms": 217625,
       "name": "Ghost Inhale",
       "url": "https://open.spotify.com/track/3DYHXx58nUOHLutUzUB3Nn"
+    },
+    {
+      "added_at": "2023-02-02 01:02:36",
+      "album": {
+        "name": "I AM DRUGS",
+        "url": "https://open.spotify.com/album/7f70nMbwk1rgT68P5Olcde"
+      },
+      "artists": [
+        {
+          "name": "Fei-Fei",
+          "url": "https://open.spotify.com/artist/5JXS13q07rUqMWcgQeQXCM"
+        }
+      ],
+      "duration_ms": 394436,
+      "name": "I AM DRUGS",
+      "url": "https://open.spotify.com/track/1pUDoHG6GWmMtGCcBdlWED"
     },
     {
       "added_at": "2023-02-02 01:02:36",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/6RZRGvHsLgSR5iPHts51iw"
     },
     {
-      "added_at": "2023-02-08 16:30:00",
-      "album": {
-        "name": "The Island",
-        "url": "https://open.spotify.com/album/0XZ5lnCz1SbPTVK3yiC9AU"
-      },
-      "artists": [
-        {
-          "name": "Daniel Cuda",
-          "url": "https://open.spotify.com/artist/40Tx3Xl6IfOwl0sxn7dfNx"
-        }
-      ],
-      "duration_ms": 229523,
-      "name": "The Island",
-      "url": "https://open.spotify.com/track/0S9Q1W4iyjZ1l3ebbCBNEF"
-    },
-    {
       "added_at": "2023-02-15 17:19:31",
       "album": {
         "name": "Let Me Go",
@@ -1143,6 +1127,22 @@
       "duration_ms": 194500,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/2jgKha9I5qCad54ny8fPed"
+    },
+    {
+      "added_at": "2023-02-08 16:30:00",
+      "album": {
+        "name": "The Island",
+        "url": "https://open.spotify.com/album/0XZ5lnCz1SbPTVK3yiC9AU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cuda",
+          "url": "https://open.spotify.com/artist/40Tx3Xl6IfOwl0sxn7dfNx"
+        }
+      ],
+      "duration_ms": 229523,
+      "name": "The Island",
+      "url": "https://open.spotify.com/track/0S9Q1W4iyjZ1l3ebbCBNEF"
     },
     {
       "added_at": "2023-02-15 17:19:31",

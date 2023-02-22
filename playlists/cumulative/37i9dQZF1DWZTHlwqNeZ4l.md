@@ -4,7 +4,7 @@
 
 > Tapping Gallant, ANOHNI, and more, the Canadian duo forge a Pride list that defines eclecticism\. Listen for a new tune with Ingrid Michaelson.
 
-50 songs - 3 hr 19 min
+51 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Shadow](https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Shadow](https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG) | 3:44 | 2022-07-29 |  |
 | [Shadow](https://open.spotify.com/track/00axgzroYkux1s1srQwxWP) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Twin Peaks \(Music from the Limited Event Series\)](https://open.spotify.com/album/2H4olJjNjDU0FwsFbYvvk5) | 3:44 | 2022-11-11 | 2022-11-13 |
 | [Shadow \- Radio](https://open.spotify.com/track/7HB9ilX2MtVzvgdrarihMk) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Shadow](https://open.spotify.com/album/4gy94KSgNMaxdSNQPPMKxO) | 3:45 | 2017-06-02 | 2022-07-29 |
-| [Sprained Ankle](https://open.spotify.com/track/1qKDjasAnswlbgBsOd8DJp) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/5rfzi2DFB4gH5XhXjsuGQN) | 2:22 | 2022-07-29 |  |
+| [Sprained Ankle](https://open.spotify.com/track/1qKDjasAnswlbgBsOd8DJp) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/5rfzi2DFB4gH5XhXjsuGQN) | 2:22 | 2022-07-29 | 2023-02-22 |
+| [Sprained Ankle](https://open.spotify.com/track/4KnXpJzC4a9QzbsUgoDXOc) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/3DvUGOMZgAr6PaToI7Vwwl) | 2:22 | 2023-02-22 |  |
 | [Sprained Ankle](https://open.spotify.com/track/5mHTg6cqhyP0BmsTQKzN1X) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/4dRzxZm69k9s0nzKmKb8Gj) | 2:22 | 2017-06-02 | 2022-07-29 |
 | [Talking to Myself](https://open.spotify.com/track/5ivOiIOSkypt3P1jqjlmcf) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Ology](https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf) | 3:57 | 2017-06-02 |  |
 | [Tangled Memories](https://open.spotify.com/track/1lRidQjEY5OrBB0QrOdBuS) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Tangled Memories](https://open.spotify.com/album/0o4evpsxawqnPzfplaYyYS) | 4:00 | 2017-06-02 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-240 songs - 21 hr 32 min
+241 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [I've Got The World On A String](https://open.spotify.com/track/0tuXGGgwQeA6FDthPFPTOT) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [I've Got The World On A String](https://open.spotify.com/album/2d3RRqSl4gfGbqJ93hdAwI) | 4:17 | 2022-12-01 |  |
 | [If You Want To](https://open.spotify.com/track/0eN3rOpAbesvVrti6C9dFj) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [If You Want To](https://open.spotify.com/album/3PMjBQoX0kmaHpPPLFP2c6) | 2:46 | 2022-11-12 |  |
 | [Ill Wind](https://open.spotify.com/track/3oKQYg5fUmWxuojIQBlUWo) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [The Moon and I](https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4) | 5:35 | 2022-09-16 |  |
-| [In a Mellow Tone](https://open.spotify.com/track/5vfiFS9j1uiPnteOg81JM1) | [Axel Schlosser Quartet](https://open.spotify.com/artist/1gyU95deycuGxh38euzxip) | [To Satch and Duke](https://open.spotify.com/album/2B6HWXNXmNflTBd3Lj3Z4B) | 5:17 | 2022-02-18 |  |
+| [In a Mellow Tone](https://open.spotify.com/track/5vfiFS9j1uiPnteOg81JM1) | [Axel Schlosser Quartet](https://open.spotify.com/artist/1gyU95deycuGxh38euzxip) | [To Satch and Duke](https://open.spotify.com/album/2B6HWXNXmNflTBd3Lj3Z4B) | 5:17 | 2022-02-18 | 2023-02-22 |
 | [In a Sentimental Mood](https://open.spotify.com/track/1o8BJyTuOsMatD3RQp9NWB) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [In a Sentimental Mood](https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l) | 5:40 | 2022-02-18 |  |
 | [Isn't This My Sound Around Me](https://open.spotify.com/track/2VaRUwAU7Ik3r5KoHVjS23) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/2n12HqIagVlEPeXY4hhWUs) | 5:20 | 2020-03-31 | 2022-07-29 |
 | [Isn't This My Sound Around Me](https://open.spotify.com/track/4yQWgdj7Sr479mXX57DQCF) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/3tRwejXlLIbZB8o6PHTM1n) | 5:20 | 2022-07-28 | 2023-02-21 |
@@ -237,6 +237,7 @@
 | [Time After Time](https://open.spotify.com/track/0ZciyueIR3Jl1gh4lbiLsk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust](https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW) | 7:43 | 2020-03-31 | 2022-05-18 |
 | [Tutto](https://open.spotify.com/track/62kqshOHXpzRjnjU32j3tk) | [Lorenzo Tucci](https://open.spotify.com/artist/3hTTFA9ODrbXSu1BJ82hsq) | [Happy end](https://open.spotify.com/album/6rMNuXq1cfyp747FxxOEDv) | 5:18 | 2023-02-11 |  |
 | [Unforgettable](https://open.spotify.com/track/6YliyU9qRaWIS1YuQXOe3t) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Unforgettable](https://open.spotify.com/album/2WNi7GjqE18Me0yisREjZV) | 4:53 | 2022-02-18 | 2022-10-12 |
+| [Velvet moon](https://open.spotify.com/track/4LFrDaeeAzS9blLZhRpqZ6) | [Kupiers & Winter](https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g) | [Velvet moon](https://open.spotify.com/album/3dCXLtgEvQxmKzda1QeQUu) | 3:32 | 2023-02-16 |  |
 | [Very Early](https://open.spotify.com/track/5KtdndjjwcRPMO6kl129TG) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Very Early](https://open.spotify.com/album/0fPVsQec9DfwuSfWSNdp7d) | 8:05 | 2020-03-31 |  |
 | [Very Late](https://open.spotify.com/track/62nSghHUT2LHaMukgWuyCx) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:14 | 2022-04-07 |  |
 | [Walking With You](https://open.spotify.com/track/7EwokoNF4KoWS1lVnGw8cs) | [Hanbeen Park](https://open.spotify.com/artist/3XZBufPlf8pHAt9g6Rkx5f) | [Scratch](https://open.spotify.com/album/0sJ01VN22iocwWroEiPhfh) | 5:49 | 2022-06-02 | 2022-11-12 |

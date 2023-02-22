@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Bryant Myers, YOVNGCHIMI, Dei V y Ankhal plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,636 likes - 63 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,777 likes - 63 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

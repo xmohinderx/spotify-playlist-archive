@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 超学生
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,665 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,715 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 4 | [クウフク \(starring VALSHE\)](https://open.spotify.com/track/3nM0q6UoSaxxfeU81Sb8s5) | [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y), [VALSHE](https://open.spotify.com/artist/3RbqLuOD3CrWxEpXeyMbS3) | [クウフク \(starring VALSHE\)](https://open.spotify.com/album/6ggasRuWfhDyzfDCu0aWQn) | 2:50 |
 | 5 | [Déconstruction](https://open.spotify.com/track/08TCJTR4MrhByX6prkVZ2A) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:47 |
 | 6 | [Kiss Shiyo](https://open.spotify.com/track/0SwMVaDMM8fA7hwQmAElMG) | [GOHOBI](https://open.spotify.com/artist/3rUTguiMzTMxzTFPSytp6M) | [Kiss Shiyo](https://open.spotify.com/album/7AOzPSUjcwoYSequsnLt1m) | 3:42 |
-| 7 | [Tsumugu](https://open.spotify.com/track/6uqDqDf5OVAyVj6lxwWrAx) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Tsumugu](https://open.spotify.com/album/3WJSzExzoaymFUgJNy1ABs) | 3:51 |
+| 7 | [Tsumugu](https://open.spotify.com/track/6uqDqDf5OVAyVj6lxwWrAx) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Tsumugu](https://open.spotify.com/album/3WJSzExzoaymFUgJNy1ABs) | 3:51 |
 | 8 | [バッド・ラヴ](https://open.spotify.com/track/3snRYYwhtCnB73oyAB9PDM) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [バッド・ラヴ](https://open.spotify.com/album/0DjAPzvefBWotibQ5nWABf) | 3:41 |
 | 9 | [Pink Hair](https://open.spotify.com/track/62ZXOrUNBpa5DAiP3tE19s) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Pink Hair](https://open.spotify.com/album/2M6ubuh4ne6Vjvrx8MUs2t) | 2:57 |
 | 10 | [Rule \(君に夢中\) \- Live 2023](https://open.spotify.com/track/47NaTEPlCpA9owkdsn6ok7) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [40代はいろいろ \-Live from Metropolis Studios\-](https://open.spotify.com/album/61COWYjQQGvt8OAJFECk2R) | 3:36 |

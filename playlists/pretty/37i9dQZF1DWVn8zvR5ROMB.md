@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Kelsea Ballerini, Jordan Davis, Nate Smith and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,951 likes - 78 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,198 likes - 78 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-117 songs - 11 hr 48 min
+118 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Last Call](https://open.spotify.com/track/45V4hmjgWU7mD97WoHSLhL) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Last Call](https://open.spotify.com/album/4zZPozFyRWdIFhIBUWCpeR) | 6:55 | 2023-02-17 |  |
 | [Last Song](https://open.spotify.com/track/0FH3BmyADV6h7UzaVx2I4k) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Buenos Aires](https://open.spotify.com/album/2uMcxU5GmZR8D9Fg0O324C) | 7:42 | 2022-09-16 | 2023-02-11 |
 | [Latlal \- Spada Remix](https://open.spotify.com/track/6ZHjcEwUp3dWOrv29N9BmU) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U), [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Latlal Remixes](https://open.spotify.com/album/02gSwfolTEMomY1JaJsxWg) | 7:17 | 2023-02-17 |  |
-| [Legend](https://open.spotify.com/track/34I6QYP9yREZnvVZvDIo1u) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Legend](https://open.spotify.com/album/6NjOgrgQeokiVkP1CAUxIk) | 3:40 | 2023-02-10 |  |
+| [Legend](https://open.spotify.com/track/1kUEp7z1Ivfk2caT9uQP1P) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Legend](https://open.spotify.com/album/3SEJwsLKXnjMeg0c1rhCyB) | 3:40 | 2023-02-17 |  |
+| [Legend](https://open.spotify.com/track/34I6QYP9yREZnvVZvDIo1u) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Legend](https://open.spotify.com/album/6NjOgrgQeokiVkP1CAUxIk) | 3:40 | 2023-02-10 | 2023-02-22 |
 | [LFO](https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [LFO](https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n) | 5:19 | 2022-09-16 | 2023-02-02 |
 | [LFO \- Leeds Warehouse Mix](https://open.spotify.com/track/5AMGYRhiqZoCYkJEK3yqgi) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/1USvljUnnceyGwsJFf9IR8) | 5:19 | 2023-01-27 |  |
 | [Liberation](https://open.spotify.com/track/4GqKpBcN60ozJc1r1rSkxT) | [Youen](https://open.spotify.com/artist/6Z530sfX5CGmUXV3VKRfHO) | [Plastic City Radio Show Season Eight \(Hosted by Youen & Patrick Podage\)](https://open.spotify.com/album/7zriMCKAlPVXZtZdTQgv9l) | 7:26 | 2022-09-16 |  |

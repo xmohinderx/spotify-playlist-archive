@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Dende\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,709 likes - 128 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,786 likes - 128 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Christian Nodal
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,164 likes - 58 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,216 likes - 58 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 51 | [Sigo Vigente](https://open.spotify.com/track/7nXCqGUKaHvlp7sfU710pl) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [Sigo Vigente](https://open.spotify.com/album/5e4UoYWJctlZpUsMgmC9hi) | 3:37 |
 | 52 | [De Guasave Soy \- Banda](https://open.spotify.com/track/6fk3qVEnpOWLqU4LgrzSVL) | [Grupo La Ofensa](https://open.spotify.com/artist/1Ow4DlxoR4fhB0asyF7I3I) | [De Guasave Soy \(Banda\)](https://open.spotify.com/album/3FGiGyQy0YdlSKea91JU5o) | 3:11 |
 | 53 | [JGL \(En Vivo\)](https://open.spotify.com/track/4FzRo5Y4DbzFR0fLS8yUj4) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [JGL \(En Vivo\)](https://open.spotify.com/album/4PLBipDpht78qYtb1j7msz) | 2:46 |
-| 54 | [El Sombrero Del Mercadito](https://open.spotify.com/track/0A22ZsBBqLDM8qnqlvXjXQ) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Sombrero Del Mercadito](https://open.spotify.com/album/63BFkVslnXUFMBffS7JtgF) | 2:57 |
+| 54 | [El Sombrero Del Mercadito](https://open.spotify.com/track/0A22ZsBBqLDM8qnqlvXjXQ) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Sombrero Del Mercadito](https://open.spotify.com/album/63BFkVslnXUFMBffS7JtgF) | 2:54 |
 | 55 | [Bueno y Malo](https://open.spotify.com/track/1NfoiOlzztzJA4twgMi2X4) | [Angel Sauceda](https://open.spotify.com/artist/7aeVRZsc7JRvt7QrMa3CJP) | [Bueno y Malo](https://open.spotify.com/album/4tQMdHH8wQHRHwme6KACFe) | 3:00 |
 | 56 | [Angelitos](https://open.spotify.com/track/0fI5ZikwAGf9a9ghvDcXgZ) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Angelitos Pt\. 1](https://open.spotify.com/album/53YPLsCDz7sHSdBiNbHR1c) | 3:11 |
 | 57 | [Recuéstate a Mi Lado](https://open.spotify.com/track/7rNguSZGjxKIUumzoK2wVr) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Recuéstate a Mi Lado](https://open.spotify.com/album/6suc6iRXTXsTNQI0jf0IXy) | 3:58 |

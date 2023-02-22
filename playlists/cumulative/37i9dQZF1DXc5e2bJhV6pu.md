@@ -4,7 +4,7 @@
 
 > Get your day off to a cracking start!
 
-1,424 songs - 3 day 8 hr 55 min
+1,425 songs - 3 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 | 2022-04-01 | 2022-04-04 |
 | [Birthday](https://open.spotify.com/track/5hff5RQeE84pznOt8WEWeO) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Birthday](https://open.spotify.com/album/2KLNA0H5XiiMLPAWSb8sUu) | 3:01 | 2020-03-25 | 2022-04-21 |
 | [Biting My Tongue](https://open.spotify.com/track/2T8QPsEryIuLvDSobi7ceZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Biting My Tongue](https://open.spotify.com/album/0a7PMBswuRIi49UwllECV7) | 3:06 | 2020-07-03 | 2022-04-18 |
-| [Bitter Sweet Symphony](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2022-07-28 |  |
+| [Bitter Sweet Symphony](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2022-07-28 | 2023-02-22 |
 | [Bitter Sweet Symphony](https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns](https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g) | 5:58 | 2019-08-26 | 2022-04-01 |
 | [Black & Blue](https://open.spotify.com/track/4uy8pqHmNZ5r8AFSFehrqv) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Black & Blue](https://open.spotify.com/album/55NoQf0gokpilNTLAnGGru) | 2:42 | 2021-03-11 | 2022-04-11 |
 | [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 | 2020-03-25 | 2022-07-29 |
@@ -1125,6 +1125,7 @@
 | [Sparking My Fire \(feat\. ROE\)](https://open.spotify.com/track/6H4Z4Sl0QYihizCTPzhEZm) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [Sparking My Fire](https://open.spotify.com/album/6FYBIHGzuSy8KNqdtpALqs) | 3:06 | 2021-03-11 | 2022-04-11 |
 | [Speak Of The Devil](https://open.spotify.com/track/6gkZ1kXL4NYCZBWjLQKwDm) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [HyperParadise](https://open.spotify.com/album/45xFomthTp2NylzxcZBSN7) | 3:22 | 2019-08-05 | 2019-08-06 |
 | [Speaker \(feat\. Olivia Holt & ZieZie\)](https://open.spotify.com/track/6QuMW8fEXeSqmD0R9ihCJX) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Speaker \(feat\. Olivia Holt & ZieZie\)](https://open.spotify.com/album/61cQehcQsG7Q2ATrsZNJaT) | 3:13 | 2021-03-11 | 2021-05-28 |
+| [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-12 |  |
 | [Spicy \(with Diplo & Charli XCX\)](https://open.spotify.com/track/54z0kLF0skj0Hdb9wCqPJt) | [Herve Pagez](https://open.spotify.com/artist/31JFnMfmvwzZGdEnXaKGek), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Spicy \(with Diplo & Charli XCX\)](https://open.spotify.com/album/7J5VpxOH7WctwtGuFYydUz) | 2:37 | 2019-07-31 | 2022-04-20 |
 | [Spinning Around](https://open.spotify.com/track/1KwSX5vubaSHtCeqO0yvZK) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [The Best of Kylie Minogue](https://open.spotify.com/album/4oaGBehVCW8w4Ekf8sTbqb) | 3:26 | 2019-07-30 | 2022-04-19 |
 | [Splash](https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Splash](https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea) | 2:50 | 2020-11-27 | 2022-07-28 |

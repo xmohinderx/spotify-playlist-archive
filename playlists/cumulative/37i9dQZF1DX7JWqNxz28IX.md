@@ -4,7 +4,7 @@
 
 > un cuore così 💔  \(in cover, zeta\)
 
-177 songs - 7 hr 56 min
+178 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Specchi](https://open.spotify.com/track/1seJdr8PNY73ppjIrqr5Xa) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Specchi](https://open.spotify.com/album/3awT0joWawF2xycVuA37un) | 2:46 | 2022-12-05 |  |
 | [SPECCHIO \(interludio\)](https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 1:31 | 2022-09-08 |  |
 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 | 2022-04-21 |  |
+| [Tatuaggi](https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tatuaggi](https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa) | 3:22 | 2023-02-21 |  |
 | [TI ODIO \(MI AMOR\)](https://open.spotify.com/track/1k07XFzPw7bh1YwW20MAwT) | [PAULO](https://open.spotify.com/artist/6ZyBrWgVAZXWCqTXTFaY5p) | [TI ODIO \(MI AMOR\)](https://open.spotify.com/album/4eIZvgQF67it2Xni2orYUw) | 2:23 | 2022-12-08 | 2023-01-13 |
 | [Ti Sposo](https://open.spotify.com/track/2C0tlqwcvVGuNox39uQgpC) | [Avoia](https://open.spotify.com/artist/2AOUNkpPPnWNXIU2NafS8I), [Candle Lights](https://open.spotify.com/artist/4ei52BXEiHeAYGVczk43vI) | [Ti Sposo](https://open.spotify.com/album/7zToEpET8GvtBkJQbafNsI) | 2:24 | 2022-04-21 | 2022-12-15 |
 | [TI VA DI FARMI A PEZZI](https://open.spotify.com/track/4MGY99wRcj1dGIjdaleCyr) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [TI VA DI FARMI A PEZZI](https://open.spotify.com/album/3FF8qWE3B4B3XdLjzfgpsD) | 2:58 | 2022-06-16 |  |

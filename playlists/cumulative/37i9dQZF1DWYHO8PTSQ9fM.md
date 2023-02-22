@@ -2,7 +2,7 @@
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment sont ici\. Cover : Zaho
+> Les hits du moment sont ici\. Cover : Dizzy DROS
 
 148 songs - 8 hr 20 min
 

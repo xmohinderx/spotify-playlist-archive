@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,753 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,783 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,15 +32,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 | 22 | [ヨイハナビ](https://open.spotify.com/track/2FI3B2J9G4TwaTXvJKMLgz) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [TVアニメ『転生したらスライムだった件 転スラ日記』オリジナルサウンドトラック「転生したら日記の音楽だった件」](https://open.spotify.com/album/6wgKf4HmPJf7uD4s77p0xw) | 4:07 |
 | 23 | [朝の風景](https://open.spotify.com/track/0d1n5R2IWGsjO9uoakuNer) | [R・O・N](https://open.spotify.com/artist/14MDqemzhk7M5an3b4Kjrn) | [TVアニメ『転生したらスライムだった件 転スラ日記』オリジナルサウンドトラック「転生したら日記の音楽だった件」](https://open.spotify.com/album/6wgKf4HmPJf7uD4s77p0xw) | 1:36 |
 | 24 | [好意](https://open.spotify.com/track/431QAaIBqxFaeGoAFhioxe) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 1:35 |
-| 25 | [圧倒](https://open.spotify.com/track/6oIELFm6LCP46ZqjhKN5j7) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 1:43 |
-| 26 | [戦闘](https://open.spotify.com/track/6IE1eGbcvyMINPw7Lu7q3o) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 2:04 |
-| 27 | [急襲](https://open.spotify.com/track/2ZxYhAVaWzX3NdeANJg5ji) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 2:05 |
-| 28 | [Another colony \- Tender mix](https://open.spotify.com/track/2G46oZmPTnZwjLd1IYcwuO) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 1:54 |
-| 29 | [劣勢](https://open.spotify.com/track/7MUcm9Lwmpnl7lkx4m51Ex) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 2:07 |
-| 30 | [優勢](https://open.spotify.com/track/7KptFW0F73l7EphtebezDf) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 2:03 |
+| 25 | [圧倒](https://open.spotify.com/track/6oIELFm6LCP46ZqjhKN5j7) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 1:43 |
+| 26 | [戦闘](https://open.spotify.com/track/6IE1eGbcvyMINPw7Lu7q3o) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 2:04 |
+| 27 | [急襲](https://open.spotify.com/track/2ZxYhAVaWzX3NdeANJg5ji) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 2:05 |
+| 28 | [Another colony \- Tender mix](https://open.spotify.com/track/2G46oZmPTnZwjLd1IYcwuO) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 1:54 |
+| 29 | [劣勢](https://open.spotify.com/track/7MUcm9Lwmpnl7lkx4m51Ex) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 2:07 |
+| 30 | [優勢](https://open.spotify.com/track/7KptFW0F73l7EphtebezDf) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 2:03 |
 | 31 | [奮起](https://open.spotify.com/track/3z8Qfpu8SL4yFM9nchg661) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 2:23 |
 | 32 | [逆襲](https://open.spotify.com/track/5aY0MeYDdavmxZtXYyXySy) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 2:00 |
-| 33 | [覚悟](https://open.spotify.com/track/4c3FnEq3VrROyoaNk0FniC) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件 第2期』転生したら音楽だった件2](https://open.spotify.com/album/6d9QQ1y4bViGVn2P8JIp1n) | 1:58 |
+| 33 | [覚悟](https://open.spotify.com/track/4c3FnEq3VrROyoaNk0FniC) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [TVアニメ『転生したらスライムだった件 第2期』転生したら音楽だった件2](https://open.spotify.com/album/6d9QQ1y4bViGVn2P8JIp1n) | 1:58 |
 | 34 | [魔人](https://open.spotify.com/track/2zUWuX1udXY3V2xIbqel5x) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 1:40 |
 | 35 | [愁傷](https://open.spotify.com/track/0b1qjswjFVYnORXgoyoDD1) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 1:52 |
 | 36 | [決死](https://open.spotify.com/track/7AZw4ngkA5OL5WLhEBJ7ig) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 1:36 |

@@ -4,7 +4,7 @@
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-284 songs - 12 hr 53 min
+287 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Fate Alone](https://open.spotify.com/track/3ZEAYAgvudTytKaiH524XJ) | [Augustus Step](https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M) | [Fate Alone](https://open.spotify.com/album/2CnPdW7DQz44K9eLwW1tB5) | 2:17 | 2022-10-24 |  |
 | [Fifth](https://open.spotify.com/track/42cd6z8jhsKWx5So4pKJ7k) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Fifth](https://open.spotify.com/album/4RodR70upWkY1uDVnTmq8s) | 1:58 | 2023-01-31 |  |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2022-08-01 |  |
+| [First Love](https://open.spotify.com/track/2EoAF7NjMjqZ3OKT5q3XR6) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [First Love](https://open.spotify.com/album/5GNUj3rrZ78cE2KXcCeU6X) | 2:12 | 2023-02-21 |  |
 | [Fix You](https://open.spotify.com/track/5UVh8KvLkObml6Je0mkEeC) | [David Schultz](https://open.spotify.com/artist/32hejOfgJ4dBHJD9AGU2fs) | [Piano Covers](https://open.spotify.com/album/7KNA6W2HKiiaSyijxB4oaz) | 2:22 | 2022-08-01 | 2022-09-13 |
 | [For 4](https://open.spotify.com/track/1wqN0d4GvN2xHlnGNPmKDa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [For](https://open.spotify.com/album/4ghcAKdZyyugvjRyaTABdM) | 2:21 | 2022-09-12 |  |
 | [For Christiana](https://open.spotify.com/track/6eWx6cukp0II3hS8fTFFEy) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [For Christiana](https://open.spotify.com/album/7db9kAuhQFFmVZkAa0jHPx) | 2:16 | 2022-12-05 |  |
@@ -96,6 +97,7 @@
 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 | 2022-08-01 |  |
 | [Heartsease](https://open.spotify.com/track/2VqdRIXLDBYtDHLBvWw0p4) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Heartsease](https://open.spotify.com/album/2jVOyTHvkQHSQ0Y19arpqE) | 2:25 | 2022-09-12 |  |
 | [helplessly hoping](https://open.spotify.com/track/5kxs43PqoQOhW9HNVh7vW4) | [dybiński](https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP) | [helplessly hoping](https://open.spotify.com/album/5osnm3nOxSsnQ8ih7Xdpyb) | 3:46 | 2023-01-27 | 2023-02-07 |
+| [Holunder](https://open.spotify.com/track/5Aki6jU7ZhW2ChqPYULD6W) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Holunder](https://open.spotify.com/album/3Xmq3Xkg8QTkn9ObMIKyoz) | 2:30 | 2023-02-21 |  |
 | [How it Used to Be](https://open.spotify.com/track/75erFAUKLzeaRHhaIOrTGM) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [How it Used to Be](https://open.spotify.com/album/7mSlDiBarb6ZuUScqXK9nz) | 2:06 | 2023-01-19 |  |
 | [I Can Sail Without Wind](https://open.spotify.com/track/4t5vrwOH5r0aF9LxIXYC1y) | [Joakim Holgersson](https://open.spotify.com/artist/58iWubOtAjZXxTSSza46Kk) | [I Can Sail Without Wind](https://open.spotify.com/album/0TmcxX4WRWJDcRfgt3HJyn) | 2:26 | 2022-12-20 |  |
 | [Il Vicolo](https://open.spotify.com/track/72hmCwuZXRBt5kRDqVWr8C) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [Il Vicolo](https://open.spotify.com/album/4CbfYWMk84Su8dv2SfQWzf) | 3:20 | 2022-08-01 | 2022-09-13 |
@@ -183,7 +185,7 @@
 | [Perth](https://open.spotify.com/track/7isZIXanXM8Yn89Q0Qz0ut) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Perth & Quiet Breath](https://open.spotify.com/album/5iQZ1X4bIuldcL2pU4WxM8) | 2:43 | 2022-09-12 |  |
 | [Petrichor](https://open.spotify.com/track/27M7FdIBhufCksw0tQ1Vb9) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr) | [Petrichor](https://open.spotify.com/album/5e8gpa4yASJx8yTPZh51bz) | 2:27 | 2022-08-01 |  |
 | [Plum Blossoms](https://open.spotify.com/track/2vuKqnIgFIYxB4mRusEwFC) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [Plum Blossoms](https://open.spotify.com/album/7A1SRapo6ubSk16NHT0Exg) | 4:51 | 2022-11-14 |  |
-| [Portal \(Solo Piano Version\)](https://open.spotify.com/track/44vE0HbBqrngFUIb0HvRJ4) | [Wide Eyed](https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP) | [Portal \(Solo Piano Version\)](https://open.spotify.com/album/4Nr9D0dFIYDDVVnn9Db7Zt) | 3:31 | 2023-01-31 |  |
+| [Portal \(Solo Piano Version\)](https://open.spotify.com/track/44vE0HbBqrngFUIb0HvRJ4) | [Wide Eyed](https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP) | [Portal \(Solo Piano Version\)](https://open.spotify.com/album/4Nr9D0dFIYDDVVnn9Db7Zt) | 3:31 | 2023-01-31 | 2023-02-22 |
 | [Problématique](https://open.spotify.com/track/5DuNs8KmyX0Rhpa5cwujXT) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Problématique](https://open.spotify.com/album/0hBgJgCI8ENtYGjj1csyEh) | 1:43 | 2022-08-01 |  |
 | [Pure](https://open.spotify.com/track/4PqCs6E0im3Qnit7GCE970) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Pure](https://open.spotify.com/album/2uVBdjAQIwOX41GExCQ7j7) | 2:02 | 2022-08-01 |  |
 | [Radius](https://open.spotify.com/track/5HAJEsxD0fBSnbdWljzeFh) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Radius](https://open.spotify.com/album/62qUYNydgMlF5scn5Sy1Um) | 1:56 | 2022-08-25 |  |
@@ -206,6 +208,7 @@
 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2022-08-01 |  |
 | [Say My Name](https://open.spotify.com/track/2OrJ8SYAFfTHGzLKIurphr) | [Octane](https://open.spotify.com/artist/2KTIaiNCA1JqLtIeTLYzxp) | [Say My Name](https://open.spotify.com/album/2wCN4RpBcE9cWF0YBbpfW3) | 3:56 | 2022-11-14 |  |
 | [Say Something](https://open.spotify.com/track/7mbVCa3RJ9fPAkssAkrQ2j) | [Lukas O' Kane](https://open.spotify.com/artist/72CucnBc9khzpqxeA6Npkp) | [Say Something](https://open.spotify.com/album/1sRnP9KSKkPAKGyaMTWNlA) | 3:47 | 2022-08-01 | 2022-12-06 |
+| [Scheme of Things](https://open.spotify.com/track/0Tkda9INoI8yK8YDWitmqK) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Scheme of Things](https://open.spotify.com/album/1H6USCW27B3FQ14QlQaTob) | 2:36 | 2023-02-21 |  |
 | [Seichtes Wasser](https://open.spotify.com/track/1F6M5OxEBzMTpcTX64ie9m) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Madeira](https://open.spotify.com/album/0CPuRuX14OrSlgv2eYdjvB) | 2:18 | 2022-08-01 | 2022-09-13 |
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2022-08-01 | 2022-12-06 |
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2022-08-01 |  |

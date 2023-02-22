@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-163 songs - 12 hr 12 min
+164 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [If You Love Me](https://open.spotify.com/track/7i9RIEuPvpQ8NtfI0dSJeK) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:34 | 2022-04-13 | 2022-06-01 |
 | [In A Sentimental Mood](https://open.spotify.com/track/0goyk1vNnbD2GKXG96Fz0N) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [London/Paris](https://open.spotify.com/album/6rKUMTAyDdl3ynkCm29BwW) | 6:50 | 2022-04-13 |  |
 | [In the Wee Small Hours](https://open.spotify.com/track/4MxZoNyKehFAWt5Kwe2ZXm) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY) | [In the Wee Small Hours](https://open.spotify.com/album/4im28jrt1yqHnzUlFFaKwn) | 4:09 | 2022-12-15 |  |
-| [In the Wee Small Hours of the Morning](https://open.spotify.com/track/24YQLjt7qDlPvCERouc5ph) | [Marína Ósk](https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8) | [One Evening in July](https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01) | 3:14 | 2022-08-31 |  |
+| [In the Wee Small Hours of the Morning](https://open.spotify.com/track/24YQLjt7qDlPvCERouc5ph) | [Marína Ósk](https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8) | [One Evening in July](https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01) | 3:14 | 2022-08-31 | 2023-02-22 |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0kHc5lXxGsf4Dfe0iLhEsE) | [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/6onu3dtSozmPb5GBbcXL3m) | 5:15 | 2022-04-13 | 2022-06-15 |
 | [It Ends Now](https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd) | [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET), [Helen Salim](https://open.spotify.com/artist/6zpAdBSCeXbX1umJhUTuEI) | [It Ends Now](https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4) | 6:03 | 2022-11-10 |  |
 | [It Happens Like That](https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [It Happens Like That](https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo) | 3:31 | 2022-04-13 |  |
@@ -155,6 +155,7 @@
 | [Thunderclouds](https://open.spotify.com/track/2OCV5Cn5DgesacD7ZLL10o) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Thunderclouds](https://open.spotify.com/album/0oTY2QwL9n2OHFEjk4SbSh) | 3:36 | 2022-04-13 | 2022-07-29 |
 | [Thunderclouds](https://open.spotify.com/track/4uskCkze8NPSFfYP8rsZ4T) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ) | 3:36 | 2022-07-21 |  |
 | [Too Late Now](https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy) | [Johanna Pettersson](https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Tomas Sjödell](https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv), [Adam Ross](https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM) | [The Show Must Go On](https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo) | 5:09 | 2022-04-13 |  |
+| [Try Your Wings](https://open.spotify.com/track/0aa0phSxPErvXk0drKFBOM) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/29vC4zQ1mb9V3YylUigQGA) | 2:54 | 2023-02-16 |  |
 | [Try Your Wings](https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5) | 2:54 | 2022-10-27 | 2023-02-19 |
 | [Undefined](https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Undefined](https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu) | 5:35 | 2022-04-13 |  |
 | [Velvet Curtains \(feat\. Håkon Kornstad\)](https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc), [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [Velvet Curtains \(feat\. Håkon Kornstad\)](https://open.spotify.com/album/4zi13mNLYwuG0gpoadaE3q) | 6:11 | 2022-04-13 |  |

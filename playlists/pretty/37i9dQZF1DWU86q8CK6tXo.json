@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists. Cover: <a href=\u201chttps://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU?si=I6R9735GR3ip6As26zjzRg\u201d>Zolita</a>  ",
-  "num_followers": 34155,
+  "num_followers": 34176,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTgwNjYwNiwwMDAwMDAwMDZlYzA5Mzk4NzNlMDE2Mzk5ZTI5NDU5ZGE4N2FlODgy",
+  "snapshot_id": "MTY3NTgwNjYwNiwwMDAwMDAwMDYwODZmNWQyYmZmZTRhYTIxNjIzOTk3NTA0OGIzZmIx",
   "tracks": [
     {
       "added_at": "2023-02-07 21:50:06",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-02-07 21:50:06",
       "album": {
-        "name": "Dress",
-        "url": "https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 206921,
-      "name": "Dress",
-      "url": "https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP"
-    },
-    {
-      "added_at": "2023-02-07 21:50:06",
-      "album": {
         "name": "You're Not Alone [Feat. Brandi Carlile]",
         "url": "https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 309746,
       "name": "You're Not Alone [Feat. Brandi Carlile]",
       "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
+    },
+    {
+      "added_at": "2023-02-07 21:50:06",
+      "album": {
+        "name": "Dress",
+        "url": "https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 206921,
+      "name": "Dress",
+      "url": "https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP"
     },
     {
       "added_at": "2023-02-07 21:50:06",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-02-07 21:50:06",
       "album": {
-        "name": "You Know Better",
-        "url": "https://open.spotify.com/album/178itJAYZnT6YdJpbKrKyL"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "You Know Better",
-      "url": "https://open.spotify.com/track/5ZHpM6DV0snXWvlCdyTLT7"
-    },
-    {
-      "added_at": "2023-02-07 21:50:06",
-      "album": {
         "name": "Call Me Thomas",
         "url": "https://open.spotify.com/album/1ij4ME2R2V8LB85F8NGjcP"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 271106,
       "name": "Call Me Thomas",
       "url": "https://open.spotify.com/track/2xjUmMZdlDWYKFiAcXLrSB"
+    },
+    {
+      "added_at": "2023-02-07 21:50:06",
+      "album": {
+        "name": "You Know Better",
+        "url": "https://open.spotify.com/album/178itJAYZnT6YdJpbKrKyL"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "You Know Better",
+      "url": "https://open.spotify.com/track/5ZHpM6DV0snXWvlCdyTLT7"
     },
     {
       "added_at": "2023-02-07 21:50:06",

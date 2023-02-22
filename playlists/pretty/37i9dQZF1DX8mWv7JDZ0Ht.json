@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Manu Gavassi, Liniker",
-  "num_followers": 417061,
+  "num_followers": 417088,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU3NDIwNiwwMDAwMDAwMGEyNTQxNzkyZjdkNTQ2YzM5ZGY5YzI4ODFlMDIzYmE0",
+  "snapshot_id": "MTY3NjU3NDIwNiwwMDAwMDAwMDBmODMxNDMyYTllY2VlZjlmZmRhNmQxNmEyNjNjMTVl",
   "tracks": [
     {
       "added_at": "2023-02-10 13:50:55",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
+        "name": "te vi dan\u00e7ando",
+        "url": "https://open.spotify.com/album/6jmUBWpF6tz9FzhBqx1ceO"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        }
+      ],
+      "duration_ms": 78968,
+      "name": "te vi dan\u00e7ando",
+      "url": "https://open.spotify.com/track/2LlRU1DN8gqAfbO2bY6Ksd"
+    },
+    {
+      "added_at": "2023-02-10 13:50:55",
+      "album": {
         "name": "Pra Ser N\u00f3s Dois",
         "url": "https://open.spotify.com/album/07dmfzKWDrSH4fBKc3TSXz"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 194154,
       "name": "Pra Ser N\u00f3s Dois",
       "url": "https://open.spotify.com/track/3NiReFiFiszuUxrrVtmmOI"
-    },
-    {
-      "added_at": "2023-02-10 13:50:55",
-      "album": {
-        "name": "te vi dan\u00e7ando",
-        "url": "https://open.spotify.com/album/6jmUBWpF6tz9FzhBqx1ceO"
-      },
-      "artists": [
-        {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
-        }
-      ],
-      "duration_ms": 78968,
-      "name": "te vi dan\u00e7ando",
-      "url": "https://open.spotify.com/track/2LlRU1DN8gqAfbO2bY6Ksd"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "Voc\u00ea nasceu para mudar",
-        "url": "https://open.spotify.com/album/3qWkbSgJ4yK7ZiWpjNaoAt"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        },
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 211351,
-      "name": "Voc\u00ea nasceu para mudar",
-      "url": "https://open.spotify.com/track/4lf9x9CfTPSE8MQprQCav9"
-    },
-    {
-      "added_at": "2023-02-10 13:50:55",
-      "album": {
         "name": "Reviravolta",
         "url": "https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 205913,
       "name": "LSD",
       "url": "https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh"
+    },
+    {
+      "added_at": "2023-02-10 13:50:55",
+      "album": {
+        "name": "Voc\u00ea nasceu para mudar",
+        "url": "https://open.spotify.com/album/3qWkbSgJ4yK7ZiWpjNaoAt"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 211351,
+      "name": "Voc\u00ea nasceu para mudar",
+      "url": "https://open.spotify.com/track/4lf9x9CfTPSE8MQprQCav9"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
+        "name": "REALVERSO: Lado A",
+        "url": "https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ"
+      },
+      "artists": [
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "VER\u00c3O DOS MEUS SONHOS",
+      "url": "https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q"
+    },
+    {
+      "added_at": "2023-02-10 13:50:55",
+      "album": {
         "name": "Toda pra Voc\u00ea",
         "url": "https://open.spotify.com/album/6NekMZBPLFc5qrbBNEEmS6"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "REALVERSO: Lado A",
-        "url": "https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ"
+        "name": "J\u00e1 ouviu falar de amor?",
+        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
       },
       "artists": [
         {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
         }
       ],
-      "duration_ms": 189781,
-      "name": "VER\u00c3O DOS MEUS SONHOS",
-      "url": "https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q"
+      "duration_ms": 179517,
+      "name": "Aquarela",
+      "url": "https://open.spotify.com/track/41PJgFL7UBUCKoSK8LHp8D"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -595,22 +611,6 @@
       "duration_ms": 197336,
       "name": "Folha",
       "url": "https://open.spotify.com/track/0AvsPHbkzsw9ppulfb3l2E"
-    },
-    {
-      "added_at": "2023-02-10 13:50:55",
-      "album": {
-        "name": "J\u00e1 ouviu falar de amor?",
-        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
-      },
-      "artists": [
-        {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
-        }
-      ],
-      "duration_ms": 179517,
-      "name": "Aquarela",
-      "url": "https://open.spotify.com/track/41PJgFL7UBUCKoSK8LHp8D"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "CULPADO",
-        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "CULPADO",
-      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
-    },
-    {
-      "added_at": "2023-02-10 13:50:55",
-      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 168346,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL"
+    },
+    {
+      "added_at": "2023-02-10 13:50:55",
+      "album": {
+        "name": "CULPADO",
+        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "CULPADO",
+      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/6aF1epL8UEzy40OCdEaBWQ"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 181419,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/2J4QmmrkFsNb8kHsyo6Gma"
+    },
+    {
+      "added_at": "2023-02-10 13:50:55",
+      "album": {
         "name": "Org\u00e2nico Ver\u00e3o 2023",
         "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
       },
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "Girassol",
-        "url": "https://open.spotify.com/album/6aF1epL8UEzy40OCdEaBWQ"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 181419,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/2J4QmmrkFsNb8kHsyo6Gma"
-    },
-    {
-      "added_at": "2023-02-10 13:50:55",
-      "album": {
         "name": "Marshmallow Flor De Sal (Deluxe)",
         "url": "https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm"
       },
@@ -1143,30 +1143,6 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "Vou Ficar Bem",
-        "url": "https://open.spotify.com/album/17vkMMRTqSzEuwfSmUYjv4"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        },
-        {
-          "name": "Ricky Ndombashi",
-          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 149535,
-      "name": "Vou Ficar Bem",
-      "url": "https://open.spotify.com/track/3kihHB83cSIvBzEIpu0vXK"
-    },
-    {
-      "added_at": "2023-02-10 13:50:55",
-      "album": {
         "name": "Outubro",
         "url": "https://open.spotify.com/album/00JNMDQJR1wOpibAL1PC7F"
       },
@@ -1187,34 +1163,26 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "Org\u00e2nico Ver\u00e3o 2023",
-        "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
+        "name": "Vou Ficar Bem",
+        "url": "https://open.spotify.com/album/17vkMMRTqSzEuwfSmUYjv4"
       },
       "artists": [
         {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
         },
         {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+          "name": "Ricky Ndombashi",
+          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
         },
         {
-          "name": "S\u00f3CIRO",
-          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
-        },
-        {
-          "name": "Deb Ribeiro",
-          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
-        },
-        {
-          "name": "TK",
-          "url": "https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j"
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
         }
       ],
-      "duration_ms": 236041,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/7yp9hrQRwoXIlkLnQjuYKH"
+      "duration_ms": 149535,
+      "name": "Vou Ficar Bem",
+      "url": "https://open.spotify.com/track/3kihHB83cSIvBzEIpu0vXK"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -1275,22 +1243,34 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "Clara x Sofia x Moons",
-        "url": "https://open.spotify.com/album/6oEQCEimNosm8bq8Wq6eed"
+        "name": "Org\u00e2nico Ver\u00e3o 2023",
+        "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
       },
       "artists": [
         {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
         },
         {
-          "name": "Moons",
-          "url": "https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0"
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
+        },
+        {
+          "name": "Deb Ribeiro",
+          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j"
         }
       ],
-      "duration_ms": 304341,
-      "name": "fala (t\u00f4 te querendo)",
-      "url": "https://open.spotify.com/track/4PudtxTK0PUuH8FgaRdAW2"
+      "duration_ms": 236041,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/7yp9hrQRwoXIlkLnQjuYKH"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -1311,18 +1291,22 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "Vem Me Encontrar",
-        "url": "https://open.spotify.com/album/78KW27Ao3Z0xeoWY9Q9xpz"
+        "name": "Clara x Sofia x Moons",
+        "url": "https://open.spotify.com/album/6oEQCEimNosm8bq8Wq6eed"
       },
       "artists": [
         {
-          "name": "Nicolas Candido",
-          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        },
+        {
+          "name": "Moons",
+          "url": "https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0"
         }
       ],
-      "duration_ms": 173907,
-      "name": "Vem Me Encontrar",
-      "url": "https://open.spotify.com/track/2jAmXEIGktQSy53MXns4G2"
+      "duration_ms": 304341,
+      "name": "fala (t\u00f4 te querendo)",
+      "url": "https://open.spotify.com/track/4PudtxTK0PUuH8FgaRdAW2"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -1339,6 +1323,42 @@
       "duration_ms": 162188,
       "name": "Pois \u00c9",
       "url": "https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh"
+    },
+    {
+      "added_at": "2023-02-10 13:50:55",
+      "album": {
+        "name": "Vem Me Encontrar",
+        "url": "https://open.spotify.com/album/78KW27Ao3Z0xeoWY9Q9xpz"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Candido",
+          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+        }
+      ],
+      "duration_ms": 173907,
+      "name": "Vem Me Encontrar",
+      "url": "https://open.spotify.com/track/2jAmXEIGktQSy53MXns4G2"
+    },
+    {
+      "added_at": "2023-02-10 13:50:55",
+      "album": {
+        "name": "Mais de Mim",
+        "url": "https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG"
+      },
+      "artists": [
+        {
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 154611,
+      "name": "Mais de Mim",
+      "url": "https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -1363,26 +1383,6 @@
       "duration_ms": 185629,
       "name": "Prova De Amor",
       "url": "https://open.spotify.com/track/1bu9s8cHlqaezKvkmFJhNj"
-    },
-    {
-      "added_at": "2023-02-10 13:50:55",
-      "album": {
-        "name": "Mais de Mim",
-        "url": "https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG"
-      },
-      "artists": [
-        {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 154611,
-      "name": "Mais de Mim",
-      "url": "https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y"
     },
     {
       "added_at": "2023-02-10 13:50:55",

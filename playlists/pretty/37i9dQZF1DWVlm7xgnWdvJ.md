@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,567 likes - 86 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,575 likes - 86 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 67 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 |
 | 68 | [Acuerdate \- Original Mix](https://open.spotify.com/track/3zRjdbOQvH2f40hk81ppns) | [Juanito](https://open.spotify.com/artist/39TK4RM8bEzWa1BoBxsSko) | [Acuerdate](https://open.spotify.com/album/088zTj7jac6UDKDz37hinS) | 6:57 |
 | 69 | [Trainmann \- Tensnake Franceman Mix](https://open.spotify.com/track/0HpHGti6doPOUBz66MAduf) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Trainmann \(Tensnake Remixes\)](https://open.spotify.com/album/5AVC3IUtdRi3sYyD3pft2f) | 7:36 |
-| 70 | [Underwater](https://open.spotify.com/track/5VkBNt0nUlQoPkg0APK5Ep) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Underwater](https://open.spotify.com/album/3tqxbagniKI9O28YVKUiKo) | 3:36 |
+| 70 | [Underwater \- Extended Mix](https://open.spotify.com/track/1AleARZA9JX0Makndi4eaB) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Best of 2022 \(Extended Mixes\)](https://open.spotify.com/album/3wqkCxTHSJXPSxqwiUesC5) | 6:51 |
 | 71 | [Fearless](https://open.spotify.com/track/3gL037sZHSKeajA3RhWGUx) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fearless](https://open.spotify.com/album/39NFDVNfQuYcgcpXVYkvH0) | 5:23 |
 | 72 | [I'm Easy \- Crackazat Mana's Dub](https://open.spotify.com/track/0hvxsHq9qn5f3FgWT07Ouv) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Everybody Talks About It EP](https://open.spotify.com/album/5hS5SlMOWSD3kFx6AN4tvN) | 5:22 |
 | 73 | [Anyway You Want](https://open.spotify.com/track/6CbTrX2MUTNUdat5mJtQaV) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Habemus Paname, Vol\. 3](https://open.spotify.com/album/5jakmvZB2zi0oUMyOjUOhS) | 7:19 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 85 | [Matrix \- Sofia Kourtesis Remix](https://open.spotify.com/track/5hjiRNGMYjihPgvNl12W0A) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Matrix \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/3GWAJo3AAQVbQjaBVgEVcn) | 6:44 |
 | 86 | [Shikiria \- Day Mix](https://open.spotify.com/track/5tNmUCoZuBY4z2oPxENNHJ) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 3:59 |
 
-Snapshot ID: `MTY3NjU4ODQ2MCwwMDAwMDAwMGJmNjg1Zjk5ZGY5OThjN2Y4NjEyZTUwNmZlYjQ1MzMx`
+Snapshot ID: `MTY3NzAyMDQwMCwwMDAwMDAwMGRiYTdjZGU3NTVkMjliMTkxNzIwMGQ1NzMxOTI1MTc1`

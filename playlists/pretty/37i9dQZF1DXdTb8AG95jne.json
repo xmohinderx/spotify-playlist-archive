@@ -1,15 +1,15 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: sogumm(\uc18c\uae08)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 424410,
+  "num_followers": 424485,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQzMjc2NSwwMDAwMDAwMGEyOTVhNGY3YjQyNWI4ZWI3MDI4NGRkMzZkNDQ3ODIy",
+  "snapshot_id": "MTY3NjQzMjc2NSwwMDAwMDAwMDc4MzVmZWMzYTU3ZWExNjlhOTVlZDk3ZTYyYzdjZmRk",
   "tracks": [
     {
-      "added_at": "2023-02-21 01:02:18",
+      "added_at": "2023-02-22 01:20:26",
       "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/32ezQ6zwJCOmndh4V5PO4b"
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-02-14 07:28:56",
       "album": {
+        "name": "in the bed",
+        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 265058,
+      "name": "in the bed",
+      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
+    },
+    {
+      "added_at": "2023-02-14 07:28:56",
+      "album": {
         "name": "RAL 9002",
         "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 210850,
       "name": "Don't be sad",
       "url": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
-    },
-    {
-      "added_at": "2023-02-14 07:28:56",
-      "album": {
-        "name": "in the bed",
-        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 265058,
-      "name": "in the bed",
-      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
     },
     {
       "added_at": "2023-02-14 07:28:56",

@@ -12519,6 +12519,24 @@
     },
     {
       "album": {
+        "name": "Somewhere Else Revisited",
+        "url": "https://open.spotify.com/album/4eGF8TzzfdeSTbEc1oQ11y"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61886,
+      "name": "Somewhere Else - Piano Version",
+      "url": "https://open.spotify.com/track/0rMSzsQPRaL0uumXpPL8sq"
+    },
+    {
+      "album": {
         "name": "Lost in Dreams",
         "url": "https://open.spotify.com/album/1KSrjyIcjFmL5JQO8yousZ"
       },

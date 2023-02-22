@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 641167,
+  "num_followers": 641521,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDFmMmM2NWYyZmM4ODM5ZjRkNTZmNmU2YTUwMzgwN2I1",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDk4NDY1NWNiMTE4MzNiNDI3NjMyYWQxZmUxMzhlZTg2",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 208413,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/18BajNiyvH6GpYshB0unrm"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Doin' Somethin' Right",
         "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
       },
@@ -363,22 +347,6 @@
       "duration_ms": 215853,
       "name": "Good Directions",
       "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Three Chords at a Time",
-        "url": "https://open.spotify.com/album/69r15hje0MZxDf4OQR2pz0"
-      },
-      "artists": [
-        {
-          "name": "Josiah Siska",
-          "url": "https://open.spotify.com/artist/0xRlqiatkqSzYyaAofNHlx"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Three Chords at a Time",
-      "url": "https://open.spotify.com/track/6IxRtoq2yObhqJ6NbGfUJw"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -399,18 +367,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Julie Roberts",
-        "url": "https://open.spotify.com/album/6KnZp9UWIWTP6XqANgXaTi"
+        "name": "Three Chords at a Time",
+        "url": "https://open.spotify.com/album/69r15hje0MZxDf4OQR2pz0"
       },
       "artists": [
         {
-          "name": "Julie Roberts",
-          "url": "https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba"
+          "name": "Josiah Siska",
+          "url": "https://open.spotify.com/artist/0xRlqiatkqSzYyaAofNHlx"
         }
       ],
-      "duration_ms": 245493,
-      "name": "Break Down Here",
-      "url": "https://open.spotify.com/track/1xsGrsVJwG9zel8pefzVeo"
+      "duration_ms": 221373,
+      "name": "Three Chords at a Time",
+      "url": "https://open.spotify.com/track/6IxRtoq2yObhqJ6NbGfUJw"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -427,6 +395,22 @@
       "duration_ms": 224666,
       "name": "Dust On The Bottle",
       "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Julie Roberts",
+        "url": "https://open.spotify.com/album/6KnZp9UWIWTP6XqANgXaTi"
+      },
+      "artists": [
+        {
+          "name": "Julie Roberts",
+          "url": "https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Break Down Here",
+      "url": "https://open.spotify.com/track/1xsGrsVJwG9zel8pefzVeo"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -483,6 +467,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Trisha Yearwood",
+        "url": "https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "She's In Love With The Boy - Single Version",
+      "url": "https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Lay Down With You",
         "url": "https://open.spotify.com/album/1ednonVNc1XyWtfOT3V4In"
       },
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Trisha Yearwood",
-        "url": "https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI"
+        "name": "Carrying Your Love With Me",
+        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
       },
       "artists": [
         {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 248200,
-      "name": "She's In Love With The Boy - Single Version",
-      "url": "https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN"
+      "duration_ms": 232426,
+      "name": "Carrying Your Love With Me",
+      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -543,22 +543,6 @@
       "duration_ms": 227266,
       "name": "Suds in the Bucket",
       "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Carrying Your Love With Me",
-        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "Carrying Your Love With Me",
-      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -803,22 +787,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "The Girls Are Back in Town",
-        "url": "https://open.spotify.com/album/2AVfLcUhMj7QZ1sBgH8tPK"
-      },
-      "artists": [
-        {
-          "name": "Chapel Hart",
-          "url": "https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "You Can Have Him Jolene",
-      "url": "https://open.spotify.com/track/1A4sU22TOu9GUqQeZYqqoa"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Never Will",
         "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
       },
@@ -835,18 +803,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Then Again",
-        "url": "https://open.spotify.com/album/0s0WEmrf0jQ9nUlqmBahLb"
+        "name": "The Girls Are Back in Town",
+        "url": "https://open.spotify.com/album/2AVfLcUhMj7QZ1sBgH8tPK"
       },
       "artists": [
         {
-          "name": "Mitch Rossell",
-          "url": "https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ"
+          "name": "Chapel Hart",
+          "url": "https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj"
         }
       ],
-      "duration_ms": 205740,
-      "name": "Then Again",
-      "url": "https://open.spotify.com/track/2PoOVPahdBzzlX8B35XflM"
+      "duration_ms": 192386,
+      "name": "You Can Have Him Jolene",
+      "url": "https://open.spotify.com/track/1A4sU22TOu9GUqQeZYqqoa"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -863,6 +831,38 @@
       "duration_ms": 173866,
       "name": "Straight Tequila Night",
       "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "She Won't Be Lonely Long",
+        "url": "https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 209253,
+      "name": "She Won't Be Lonely Long",
+      "url": "https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Then Again",
+        "url": "https://open.spotify.com/album/0s0WEmrf0jQ9nUlqmBahLb"
+      },
+      "artists": [
+        {
+          "name": "Mitch Rossell",
+          "url": "https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ"
+        }
+      ],
+      "duration_ms": 205740,
+      "name": "Then Again",
+      "url": "https://open.spotify.com/track/2PoOVPahdBzzlX8B35XflM"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "She Won't Be Lonely Long",
-        "url": "https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1"
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ"
       },
       "artists": [
         {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
         }
       ],
-      "duration_ms": 209253,
-      "name": "She Won't Be Lonely Long",
-      "url": "https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX"
+      "duration_ms": 170813,
+      "name": "Boots On",
+      "url": "https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -927,22 +927,6 @@
       "duration_ms": 165013,
       "name": "Wild One",
       "url": "https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Anything Goes",
-        "url": "https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Boots On",
-      "url": "https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -979,22 +963,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Thinkin Bout Cheatin",
-        "url": "https://open.spotify.com/album/4DQoCcBOoRZBsY2LsQJ0Wc"
-      },
-      "artists": [
-        {
-          "name": "Mae Estes",
-          "url": "https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX"
-        }
-      ],
-      "duration_ms": 222362,
-      "name": "Thinkin Bout Cheatin",
-      "url": "https://open.spotify.com/track/35GoYj5urnSOCabDAKphBF"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "The Deana Carter Collection",
         "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
       },
@@ -1007,6 +975,22 @@
       "duration_ms": 290466,
       "name": "Strawberry Wine",
       "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Thinkin Bout Cheatin",
+        "url": "https://open.spotify.com/album/4DQoCcBOoRZBsY2LsQJ0Wc"
+      },
+      "artists": [
+        {
+          "name": "Mae Estes",
+          "url": "https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX"
+        }
+      ],
+      "duration_ms": 222362,
+      "name": "Thinkin Bout Cheatin",
+      "url": "https://open.spotify.com/track/35GoYj5urnSOCabDAKphBF"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1219,22 +1203,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "Gone Country",
-      "url": "https://open.spotify.com/track/1A0I5aiVZRwecRlbQcweBh"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Too Cold At Home",
         "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
@@ -1283,22 +1251,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Alive Right Now",
-        "url": "https://open.spotify.com/album/3MQE9zQ1GI1E6pTGoYWxkQ"
-      },
-      "artists": [
-        {
-          "name": "Robby Johnson",
-          "url": "https://open.spotify.com/artist/1yKm1X4CnWuMKpiFXlDNgs"
-        }
-      ],
-      "duration_ms": 228002,
-      "name": "If I Ever Was a Cowboy",
-      "url": "https://open.spotify.com/track/4SLrCOVGrXzJkT9dejzP0U"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "I Will Stand By You - The Essential Collection",
         "url": "https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM"
       },
@@ -1311,6 +1263,38 @@
       "duration_ms": 256333,
       "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
       "url": "https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 259893,
+      "name": "Gone Country",
+      "url": "https://open.spotify.com/track/1A0I5aiVZRwecRlbQcweBh"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Alive Right Now",
+        "url": "https://open.spotify.com/album/3MQE9zQ1GI1E6pTGoYWxkQ"
+      },
+      "artists": [
+        {
+          "name": "Robby Johnson",
+          "url": "https://open.spotify.com/artist/1yKm1X4CnWuMKpiFXlDNgs"
+        }
+      ],
+      "duration_ms": 228002,
+      "name": "If I Ever Was a Cowboy",
+      "url": "https://open.spotify.com/track/4SLrCOVGrXzJkT9dejzP0U"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1543,22 +1527,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Ten Thousand Angels",
-        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
-      },
-      "artists": [
-        {
-          "name": "Mindy McCready",
-          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Ten Thousand Angels",
-      "url": "https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Drake Milligan - EP",
         "url": "https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u"
       },
@@ -1587,6 +1555,22 @@
       "duration_ms": 207773,
       "name": "Sunrise Tells The Story",
       "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Ten Thousand Angels",
+        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
+      },
+      "artists": [
+        {
+          "name": "Mindy McCready",
+          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Ten Thousand Angels",
+      "url": "https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1635,6 +1619,22 @@
       "duration_ms": 190660,
       "name": "Hot Beer",
       "url": "https://open.spotify.com/track/5CawRA9RzdlvF8ladonjsl"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/467Cag6qid9mjW2hpnIcFi"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/2jOkuPweyFcDBBBF8ZW8Zr"
     }
   ],
   "unique_name": "Traditional Country",

@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:5kxnZh8gXyXdIvCWbDMevT">Eem Triplin</a>
 
-932 songs - 1 day 18 hr 7 min
+933 songs - 1 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,7 +644,8 @@
 | [Popstar](https://open.spotify.com/track/2N2qzfDYEoL0KczdisfyoT) | [YSB Tril](https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ) | [Popstar](https://open.spotify.com/album/3Cts3cMkXObgnOI9atw5eh) | 2:22 | 2022-03-11 | 2022-03-26 |
 | [Postman](https://open.spotify.com/track/2w7SwOJdM3hchtwuirdZmb) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [First Quarter](https://open.spotify.com/album/4LAiL2z5jIvFRvNSzzFBVG) | 2:42 | 2021-12-10 | 2022-02-12 |
 | [Pour the Wine \(feat\. Peso Gordon & Chuck Strangers\)](https://open.spotify.com/track/46tM4XygxfD3CdtFCCJMrX) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Real Bad Man](https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE), [Peso Gordon](https://open.spotify.com/artist/5uObXnFO5cmhxNT11bnVrR), [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [Pour the Wine \(feat\. Peso Gordon & Chuck Strangers\)](https://open.spotify.com/album/5JeUjX56YwpnqOgCPzq7LQ) | 4:12 | 2022-09-09 | 2022-09-24 |
-| [Pretty Ones](https://open.spotify.com/track/3aYYGASJYnbJm3JMNB4vyr) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/6SRrDF2P7b83fiFkd1DGN5) | 3:41 | 2023-02-10 |  |
+| [Pretty Ones](https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU) | 3:41 | 2023-02-10 |  |
+| [Pretty Ones](https://open.spotify.com/track/3aYYGASJYnbJm3JMNB4vyr) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/6SRrDF2P7b83fiFkd1DGN5) | 3:41 | 2023-02-10 | 2023-02-22 |
 | [Primetime](https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Primetime](https://open.spotify.com/album/4mc498S47KkQYsgXpK5HK5) | 3:33 | 2023-01-27 |  |
 | [Princess Diana](https://open.spotify.com/track/4y0bx3TIbkpd6IKfN0yrLC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:34 | 2023-01-27 | 2023-02-03 |
 | [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 | 2023-01-27 |  |

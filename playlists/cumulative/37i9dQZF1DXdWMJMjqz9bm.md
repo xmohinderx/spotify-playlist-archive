@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: NF
 
-456 songs - 21 hr 9 min
+457 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,8 @@
 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:25 | 2022-04-04 | 2022-07-09 |
 | [Pretty Faces](https://open.spotify.com/track/426AYnTtUOmX7Km14Ghvsd) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Pretty Faces](https://open.spotify.com/album/45LNOSUxFJ2m2jVsxdysqX) | 1:57 | 2022-03-11 | 2022-06-04 |
 | [pretty little lies](https://open.spotify.com/track/4GRLGjwgWzZ33HQU3BIdH9) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [pretty little lies](https://open.spotify.com/album/1QkH2FPORhEP0okiAcGfJ7) | 2:45 | 2022-04-15 | 2022-09-24 |
-| [Pretty Ones](https://open.spotify.com/track/3aYYGASJYnbJm3JMNB4vyr) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/6SRrDF2P7b83fiFkd1DGN5) | 3:41 | 2023-02-17 |  |
+| [Pretty Ones](https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU) | 3:41 | 2023-02-17 |  |
+| [Pretty Ones](https://open.spotify.com/track/3aYYGASJYnbJm3JMNB4vyr) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/6SRrDF2P7b83fiFkd1DGN5) | 3:41 | 2023-02-17 | 2023-02-22 |
 | [Private Island](https://open.spotify.com/track/0zeKbYR9kxjLeGZqqz6QAw) | [Budman.](https://open.spotify.com/artist/4nYiKj7r3vpgTeoF0kz5rU) | [Private Island](https://open.spotify.com/album/7AJMx9IUY0FnYo3JLZ2MFF) | 2:18 | 2022-01-28 | 2022-02-26 |
 | [profile](https://open.spotify.com/track/4k0kI3nDzSOTGzQUTDnCpC) | [Kinrose](https://open.spotify.com/artist/6SUbi1ZVEswHqRUWsxmq2m) | [profile](https://open.spotify.com/album/3kYkDN4pfaTTTaNf80v0Z3) | 2:44 | 2022-06-17 | 2022-10-12 |
 | [Psychotic](https://open.spotify.com/track/7LqROURBlbHtu5Is8uIqEG) | [RONEN](https://open.spotify.com/artist/3wDeS1sr05fxaOeiJJrOnL), [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [Psychotic](https://open.spotify.com/album/0IRfqoNUuqjAHGOho4oWhu) | 2:18 | 2022-08-26 | 2022-09-10 |

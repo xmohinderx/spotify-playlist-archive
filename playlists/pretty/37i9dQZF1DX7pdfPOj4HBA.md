@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 
 > chill vibes ♡
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,871 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,132 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 | 42 | [Stay](https://open.spotify.com/track/4brX8MJs5hxErgq48f9REO) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:26 |
 | 43 | [Sexual \- Oliver Nelson Remix / Radio Edit](https://open.spotify.com/track/39zrVbRvAjw1FbKaK64NTZ) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [Sexual](https://open.spotify.com/album/4fpw9otqwjuKWM7OLu8DgP) | 3:20 |
 | 44 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0prbvDtiY8FrZKEj8LF4Rs) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/02SRvzvwKNQJpqjdehWAif) | 3:12 |
-| 45 | [All Tinted](https://open.spotify.com/track/3ZS6nAQHjvHezX2ncHma2s) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) | [All Tinted](https://open.spotify.com/album/7adiBGuL9uUEDtGlwkplZf) | 3:17 |
+| 45 | [All Tinted](https://open.spotify.com/track/5T5zdXB8MNCGFTspLY45rN) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) | [All Tinted](https://open.spotify.com/album/2oAx5hF8vyIQoHgeASn5tE) | 3:18 |
 | 46 | [On Me](https://open.spotify.com/track/1VTF2L9xSLpPs4qjLbYW2f) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [On Me](https://open.spotify.com/album/0z8w8HFm5pMNauf8NctcWj) | 2:28 |
 | 47 | [Remember Summer Days \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/02M7L7vwVmzrRNq6gx9oxE) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [杏里 \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/77kXckOL5mwaVEeWTExyvz) | 3:46 |
 | 48 | [Femme Like U \(feat\. Emma Peters\)](https://open.spotify.com/track/670E2HDx684Yq0rhf84CQc) | [Monaldin](https://open.spotify.com/artist/1Ngs1vi6M75StypXQdB6su), [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Femme Like U \(feat\. Emma Peters\)](https://open.spotify.com/album/4JLvy9j6VMshaXXGsRt7lp) | 2:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 | 74 | [Make Me Wanna](https://open.spotify.com/track/7KDTidXitqxwRz6UhfWXsB) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Make Me Wanna](https://open.spotify.com/album/12M4YKGroXOTB1VWY8jhtj) | 2:54 |
 | 75 | [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 |
 
-Snapshot ID: `MTY3Mzk3ODQwMCwwMDAwMDAwMDcyYjUxYzQ3NjM4ZTVhYmU2MWQxOWM2YjdkZWNiZGZm`
+Snapshot ID: `MTY3Mzk3ODQwMCwwMDAwMDAwMDM1NTRmOGEyY2QyYTgwNjcxNDFlNDFmN2UxMDE4MmM3`

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Experimental](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
 
-> The best new Experimental by independent artists and labels, with kate NV on cover\. Artwork Thami Nabil\. Updates every Wednesday.
+> The best new Experimental by independent artists and labels, with Kate NV on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
 1,183 songs - 4 day 0 hr 34 min
 

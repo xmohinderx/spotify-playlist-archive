@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 15818,
+  "num_followers": 15852,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5NDc4NCwwMDAwMDAwMDgyNzhhMzNjNDBjMjA2YzljYWVhZmEzM2QzM2EzNWNk",
+  "snapshot_id": "MTY3NTk5NDc4NCwwMDAwMDAwMGY0ODVhMTRhNzgzMjE3ZjdlMjYwMDMwOTJhYWYzMmQz",
   "tracks": [
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI"
+        "name": "CON PERMISO DE MIS MAYORES",
+        "url": "https://open.spotify.com/album/1rOnROZrwtjRlBNfU55BSm"
       },
       "artists": [
         {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+          "name": "German Villarreal",
+          "url": "https://open.spotify.com/artist/6xdJa13DzDlm5Vb0xXycj2"
+        },
+        {
+          "name": "Mambo Big Band",
+          "url": "https://open.spotify.com/artist/1S88nr4JvfizT2pLOORfpI"
         }
       ],
-      "duration_ms": 163386,
-      "name": "A Las Seis",
-      "url": "https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex"
+      "duration_ms": 245434,
+      "name": "Ran Kan Kan",
+      "url": "https://open.spotify.com/track/1igx29PgdkqLO2JMxW17Je"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1087,22 +1091,18 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "CON PERMISO DE MIS MAYORES",
-        "url": "https://open.spotify.com/album/1rOnROZrwtjRlBNfU55BSm"
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI"
       },
       "artists": [
         {
-          "name": "German Villarreal",
-          "url": "https://open.spotify.com/artist/6xdJa13DzDlm5Vb0xXycj2"
-        },
-        {
-          "name": "Mambo Big Band",
-          "url": "https://open.spotify.com/artist/1S88nr4JvfizT2pLOORfpI"
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
         }
       ],
-      "duration_ms": 245434,
-      "name": "Ran Kan Kan",
-      "url": "https://open.spotify.com/track/1igx29PgdkqLO2JMxW17Je"
+      "duration_ms": 163386,
+      "name": "A Las Seis",
+      "url": "https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 351333,
-      "name": "Ublabad\u00fa",
-      "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
         "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
         "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 271072,
       "name": "Carro de Fuego",
       "url": "https://open.spotify.com/track/3SXRNFtlBYZKgJeBstl8b3"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 351333,
+      "name": "Ublabad\u00fa",
+      "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
-        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        },
-        {
-          "name": "Gustavo Rodriguez",
-          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
-        }
-      ],
-      "duration_ms": 293067,
-      "name": "Mujer de Carne y Hueso",
-      "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
         "name": "La Epoca de Oro, Vol. 1",
         "url": "https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 418880,
       "name": "Puerto Rico",
       "url": "https://open.spotify.com/track/1Y53t2ucYs8CUMsUkwBZTA"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Gustavo Rodriguez",
+          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
+        }
+      ],
+      "duration_ms": 293067,
+      "name": "Mujer de Carne y Hueso",
+      "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "The Best Of The Concord Years",
-        "url": "https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 315986,
-      "name": "Tokyo Blues",
-      "url": "https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
         "name": "Mambo Mania Vol. 3",
         "url": "https://open.spotify.com/album/7GRXwv2BXJlOTU9QKLd44m"
       },
@@ -1691,18 +1675,18 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "Havana Nights",
-        "url": "https://open.spotify.com/album/3zP5mtJGzeHuiHAhRiaI5s"
+        "name": "The Best Of The Concord Years",
+        "url": "https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 220333,
-      "name": "Pachito Eche",
-      "url": "https://open.spotify.com/track/4Bo0925JisL1yD285mAPTu"
+      "duration_ms": 315986,
+      "name": "Tokyo Blues",
+      "url": "https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1719,6 +1703,22 @@
       "duration_ms": 235125,
       "name": "Ya Se Pein\u00f3 Mar\u00eda",
       "url": "https://open.spotify.com/track/5weRMk5hP0utlRS6nYK1dM"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
+        "name": "Havana Nights",
+        "url": "https://open.spotify.com/album/3zP5mtJGzeHuiHAhRiaI5s"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Pachito Eche",
+      "url": "https://open.spotify.com/track/4Bo0925JisL1yD285mAPTu"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "Instant Party",
-        "url": "https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 346520,
-      "name": "Fiesta A La King",
-      "url": "https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
         "name": "Vintage Cuba No. 90 - EP: Salta Perico",
         "url": "https://open.spotify.com/album/0PP7vABwnCQJAwR6g2nGnl"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 376013,
       "name": "La rebelion",
       "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
+        "name": "Instant Party",
+        "url": "https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 346520,
+      "name": "Fiesta A La King",
+      "url": "https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg"
     },
     {
       "added_at": "2023-02-10 02:06:24",

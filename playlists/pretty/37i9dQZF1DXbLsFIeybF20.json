@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141370,
+  "num_followers": 141387,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMGIzNDA2NzUyNzg5ZDY5NjNiOTNiY2E3ZTkwOWM5Yzdk",
+  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDJiMjVmY2QxMTQ1N2QxNmM4ZGU3OTVhYjA2NWI2ZTAx",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -295,6 +295,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Take It To The Street",
+        "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "duration_ms": 259533,
+      "name": "Take It To The Street",
+      "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Mr. New Orleans",
         "url": "https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH"
       },
@@ -311,18 +327,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Take It To The Street",
-        "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
+        "name": "Best of New Orleans (Mardi Gras Indians)",
+        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
       },
       "artists": [
         {
-          "name": "Rebirth Brass Band",
-          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+          "name": "The Wild Magnolias",
+          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
         }
       ],
-      "duration_ms": 259533,
-      "name": "Take It To The Street",
-      "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
+      "duration_ms": 195586,
+      "name": "Handa Wanda",
+      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -367,22 +383,6 @@
       "duration_ms": 150986,
       "name": "The Bucket's Got a Hole in It",
       "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Best of New Orleans (Mardi Gras Indians)",
-        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
-      },
-      "artists": [
-        {
-          "name": "The Wild Magnolias",
-          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Handa Wanda",
-      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -487,22 +487,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Sounds Of New Orleans Vol. 9",
-        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 288653,
-      "name": "Eh, La Bas",
-      "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Keep Your Head Up",
         "url": "https://open.spotify.com/album/3f3eLzXLCXlhd2G9DTLbvm"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Sounds Of New Orleans Vol. 9",
+        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "duration_ms": 288653,
+      "name": "Eh, La Bas",
+      "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Our New Orleans (Expanded Edition)",
         "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Swinging Mainstream Sides",
-        "url": "https://open.spotify.com/album/2S4vPrFt0T8IeqSUoqW0al"
-      },
-      "artists": [
-        {
-          "name": "Wingy Manone",
-          "url": "https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG"
-        }
-      ],
-      "duration_ms": 192937,
-      "name": "When I Get You Alone Tonight",
-      "url": "https://open.spotify.com/track/6uptP633B6dCOQUEfYiJrB"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Shake That Thing",
         "url": "https://open.spotify.com/album/7FZO1OPxRXhxkz72LD5x2k"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 372106,
       "name": "His Eye Is On The Sparrow",
       "url": "https://open.spotify.com/track/1CaDni89B5qBXIwdHwqaed"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Swinging Mainstream Sides",
+        "url": "https://open.spotify.com/album/2S4vPrFt0T8IeqSUoqW0al"
+      },
+      "artists": [
+        {
+          "name": "Wingy Manone",
+          "url": "https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG"
+        }
+      ],
+      "duration_ms": 192937,
+      "name": "When I Get You Alone Tonight",
+      "url": "https://open.spotify.com/track/6uptP633B6dCOQUEfYiJrB"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -651,6 +651,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Here Come da Great Olympia Band",
+        "url": "https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17"
+      },
+      "artists": [
+        {
+          "name": "Dejan's Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk"
+        }
+      ],
+      "duration_ms": 385040,
+      "name": "I Gotta Woman - Bonus Track",
+      "url": "https://open.spotify.com/track/5k6egEOSbEBGzqCftoeH1J"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Watcha Workin It Fa (feat. 5th Ward Weebie)",
         "url": "https://open.spotify.com/album/2aNXVYXFaEPgNVOXjMPuOK"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 276976,
       "name": "Watcha Workin It Fa (feat. 5th Ward Weebie)",
       "url": "https://open.spotify.com/track/1iESx5RZ9TSYK2tq4dTyhV"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Here Come da Great Olympia Band",
-        "url": "https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17"
-      },
-      "artists": [
-        {
-          "name": "Dejan's Olympia Brass Band",
-          "url": "https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk"
-        }
-      ],
-      "duration_ms": 385040,
-      "name": "I Gotta Woman - Bonus Track",
-      "url": "https://open.spotify.com/track/5k6egEOSbEBGzqCftoeH1J"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -727,22 +727,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "The Great Chicago Concert 1956 - Complete",
-        "url": "https://open.spotify.com/album/2gkqH4dEINtzXwuvznrY2Q"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 306906,
-      "name": "Do You Know What It Means to Miss New Orleans - Live",
-      "url": "https://open.spotify.com/track/1vgGaSamJ3amxeKmXQIsyD"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Atlantic Jazz: New Orleans",
         "url": "https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "The Great Chicago Concert 1956 - Complete",
+        "url": "https://open.spotify.com/album/2gkqH4dEINtzXwuvznrY2Q"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 306906,
+      "name": "Do You Know What It Means to Miss New Orleans - Live",
+      "url": "https://open.spotify.com/track/1vgGaSamJ3amxeKmXQIsyD"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Back to My Roots",
         "url": "https://open.spotify.com/album/3h80PQZuBjr2FCMbXdCFio"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 254885,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/7pwaLS4RMfIgait3uNhmcs"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Here Come da Great Olympia Band",
+        "url": "https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17"
+      },
+      "artists": [
+        {
+          "name": "Dejan's Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk"
+        }
+      ],
+      "duration_ms": 49333,
+      "name": "Everything's Lovely",
+      "url": "https://open.spotify.com/track/38CCKfmrlEEs95wFhEVSWy"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -807,22 +823,6 @@
       "duration_ms": 168440,
       "name": "Don't You Think I Love You",
       "url": "https://open.spotify.com/track/66XzlLhhDDBVPIF0GTcivt"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Here Come da Great Olympia Band",
-        "url": "https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17"
-      },
-      "artists": [
-        {
-          "name": "Dejan's Olympia Brass Band",
-          "url": "https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk"
-        }
-      ],
-      "duration_ms": 49333,
-      "name": "Everything's Lovely",
-      "url": "https://open.spotify.com/track/38CCKfmrlEEs95wFhEVSWy"
     },
     {
       "added_at": "2021-04-26 16:53:52",

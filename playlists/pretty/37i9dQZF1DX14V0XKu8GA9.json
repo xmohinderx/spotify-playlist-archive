@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Coyote",
-  "num_followers": 20775,
+  "num_followers": 20792,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5NTQ3MiwwMDAwMDAwMGZjZjU0YWNkZWYwYWE3MDQwZjIzNzU3ODA1Yjc4YzMz",
+  "snapshot_id": "MTY3NTM5NTQ3MiwwMDAwMDAwMDAwMDY1ZDhhNmNlODRmNzExOTNhMjIyNGU1MWVjMjZm",
   "tracks": [
     {
       "added_at": "2023-02-03 03:37:52",
@@ -115,6 +115,26 @@
     {
       "added_at": "2023-02-03 03:37:52",
       "album": {
+        "name": "Blue Rag",
+        "url": "https://open.spotify.com/album/3yy9CwnrNiZrCrzIoZ1p4C"
+      },
+      "artists": [
+        {
+          "name": "Bozo",
+          "url": "https://open.spotify.com/artist/0MmTKGQIOhXazVmd3IdOKp"
+        },
+        {
+          "name": "King Lil G",
+          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
+        }
+      ],
+      "duration_ms": 117251,
+      "name": "Blue Rag",
+      "url": "https://open.spotify.com/track/50nmYPB44NTrpizigC3lJG"
+    },
+    {
+      "added_at": "2023-02-03 03:37:52",
+      "album": {
         "name": "Frontline",
         "url": "https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 184272,
       "name": "Frontline",
       "url": "https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T"
-    },
-    {
-      "added_at": "2023-02-03 03:37:52",
-      "album": {
-        "name": "Blue Rag",
-        "url": "https://open.spotify.com/album/3yy9CwnrNiZrCrzIoZ1p4C"
-      },
-      "artists": [
-        {
-          "name": "Bozo",
-          "url": "https://open.spotify.com/artist/0MmTKGQIOhXazVmd3IdOKp"
-        },
-        {
-          "name": "King Lil G",
-          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
-        }
-      ],
-      "duration_ms": 117251,
-      "name": "Blue Rag",
-      "url": "https://open.spotify.com/track/50nmYPB44NTrpizigC3lJG"
     },
     {
       "added_at": "2023-02-03 03:37:52",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-02-03 03:37:52",
       "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 209111,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
+    },
+    {
+      "added_at": "2023-02-03 03:37:52",
+      "album": {
         "name": "All My Life 2.0",
         "url": "https://open.spotify.com/album/5yBn27YRCXU6ABfchJESB0"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 224391,
       "name": "All My Life 2.0",
       "url": "https://open.spotify.com/track/1CFmkTFyJU8BsqRIwE7Ut4"
-    },
-    {
-      "added_at": "2023-02-03 03:37:52",
-      "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 209111,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
     },
     {
       "added_at": "2023-02-03 03:37:52",

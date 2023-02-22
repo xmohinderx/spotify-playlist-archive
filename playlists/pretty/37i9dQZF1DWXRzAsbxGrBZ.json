@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 7032,
+  "num_followers": 7079,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDRiOTZkOGIyNzI2YjY5MTEwODEwZGE3YmNiN2RhMTlj",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMGIwMDYxMjdiMmViYzJmNThjZWMxNGM2M2NkMWNmNTAz",
   "tracks": [
     {
       "added_at": "2022-09-14 09:57:38",
@@ -81,26 +81,6 @@
       "url": "https://open.spotify.com/track/1n2LjzjCZPYx78wdxLHvH9"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Back 2 Basics",
-        "url": "https://open.spotify.com/album/54A8PyTjNlFchRt3KBjEa9"
-      },
-      "artists": [
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        },
-        {
-          "name": "CocoSA",
-          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
-        }
-      ],
-      "duration_ms": 439646,
-      "name": "Do 4 Love",
-      "url": "https://open.spotify.com/track/59NwccvTdS0bjuQ0akCojn"
-    },
-    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
         "name": "Sweet Nothings",
@@ -123,6 +103,26 @@
       "duration_ms": 273684,
       "name": "Sweet Nothings - Original Mix",
       "url": "https://open.spotify.com/track/1kwnjlPHIkwfFUFXUJcmj3"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Back 2 Basics",
+        "url": "https://open.spotify.com/album/54A8PyTjNlFchRt3KBjEa9"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "CocoSA",
+          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
+        }
+      ],
+      "duration_ms": 439646,
+      "name": "Do 4 Love",
+      "url": "https://open.spotify.com/track/59NwccvTdS0bjuQ0akCojn"
     },
     {
       "added_at": "2022-11-17 00:58:03",
@@ -189,30 +189,6 @@
       "url": "https://open.spotify.com/track/3olGCkuKopIHUxulYAVPJN"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Woza Moya",
-        "url": "https://open.spotify.com/album/6Id3huB80C8qnSWSSiCJPU"
-      },
-      "artists": [
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        },
-        {
-          "name": "CocoSA",
-          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
-        },
-        {
-          "name": "Russell Zuma",
-          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
-        }
-      ],
-      "duration_ms": 407142,
-      "name": "Woza Moya",
-      "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
-    },
-    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
         "name": "We Groove Different",
@@ -243,6 +219,30 @@
       "duration_ms": 416688,
       "name": "False Facade",
       "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Woza Moya",
+        "url": "https://open.spotify.com/album/6Id3huB80C8qnSWSSiCJPU"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "CocoSA",
+          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
+        },
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        }
+      ],
+      "duration_ms": 407142,
+      "name": "Woza Moya",
+      "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -781,6 +781,22 @@
       "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
     },
     {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "A (Ray)",
+        "url": "https://open.spotify.com/album/7wZwrvSUnOoUMKtGwYxqNM"
+      },
+      "artists": [
+        {
+          "name": "Slotta",
+          "url": "https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ"
+        }
+      ],
+      "duration_ms": 424810,
+      "name": "On It",
+      "url": "https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN"
+    },
+    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
         "name": "Multiverse Theory",
@@ -799,22 +815,6 @@
       "duration_ms": 374257,
       "name": "Multiverse Theory",
       "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "A (Ray)",
-        "url": "https://open.spotify.com/album/7wZwrvSUnOoUMKtGwYxqNM"
-      },
-      "artists": [
-        {
-          "name": "Slotta",
-          "url": "https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ"
-        }
-      ],
-      "duration_ms": 424810,
-      "name": "On It",
-      "url": "https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -853,20 +853,20 @@
       "url": "https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
+      "added_at": "2022-09-29 21:59:00",
       "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law"
       },
       "artists": [
         {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
         }
       ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+      "duration_ms": 392431,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -887,22 +887,6 @@
       "duration_ms": 466467,
       "name": "Don't 4get To Call Me",
       "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law"
-      },
-      "artists": [
-        {
-          "name": "Pando G",
-          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
-        }
-      ],
-      "duration_ms": 392431,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9"
     },
     {
       "added_at": "2022-09-19 09:57:52",
@@ -927,6 +911,22 @@
       "duration_ms": 428000,
       "name": "Out Out",
       "url": "https://open.spotify.com/track/01GL8puSkU5QHyf8pLdiyj"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+      },
+      "artists": [
+        {
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+        }
+      ],
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
     },
     {
       "added_at": "2022-11-10 21:59:00",

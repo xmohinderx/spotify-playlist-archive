@@ -4,7 +4,7 @@
 
 > Fresh new Korean independent talents are here\. \(Cover: Itzel\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-884 songs - 2 day 2 hr 13 min
+887 songs - 2 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [Naksan Park](https://open.spotify.com/track/48xtAdnr3wrZoFbTIyiFe6) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Naksan Park](https://open.spotify.com/album/7G3tBOCWksNcNucngkE04Q) | 2:28 | 2022-06-09 | 2022-06-19 |
 | [Nest](https://open.spotify.com/track/0dXbhqDOQ8Q8RNI8TTbUst) | [e\_so](https://open.spotify.com/artist/1KsLHf4SObKZZUWrENllYL) | [e\_so](https://open.spotify.com/album/0kdNHvY1wYSEAFg8TjW2Jy) | 2:53 | 2022-11-07 | 2023-02-01 |
 | [Never Give Up](https://open.spotify.com/track/5Ac0FmCmJCU2BXFI5QF7Cv) | [이어보이](https://open.spotify.com/artist/5GOWh1RVfbDoYTuy48Ifro) | [Two Sides](https://open.spotify.com/album/36Krs4jlSgHVQDbJptBdwH) | 2:40 | 2022-01-24 | 2022-03-03 |
+| [Neverland](https://open.spotify.com/track/2d2kkFHwxNes3gkScJAV6K) | [eiji](https://open.spotify.com/artist/4ydOC62ATNEH5UKIJ8VRxL) | [Neverland](https://open.spotify.com/album/1EC5BIJJFBy4QTZbaZJfqw) | 4:06 | 2023-02-21 |  |
 | [news from you](https://open.spotify.com/track/4pWsbal6DJOxJC8Pl7XcQH) | [TONE](https://open.spotify.com/artist/2R4B49CdrjImBVWuLYhsXR) | [news from you](https://open.spotify.com/album/17SCPOlbs5IJj41fcpGeok) | 3:21 | 2022-11-07 | 2023-02-01 |
 | [newyear](https://open.spotify.com/track/1Y0xqT5DdzPABdz801Jrnu) | [Lim Jiwon](https://open.spotify.com/artist/1F1Ktz9E830u3uAceQA2y3) | [newyear](https://open.spotify.com/album/0tgJKDBMz9OFcMKDuIMkTD) | 3:07 | 2022-01-10 | 2022-02-05 |
 | [NI](https://open.spotify.com/track/1YPBwYpIgQHTaNA7Lzbju7) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [NI](https://open.spotify.com/album/5Dr99ei10zLhwbmYS4ndhf) | 3:19 | 2023-01-11 | 2023-02-09 |
@@ -700,6 +701,7 @@
 | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/track/49lrMwawOXBBi2zQGrPTlK) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [쿼카](https://open.spotify.com/artist/4n67uXDzfLiGEeaX0NAnJX) | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/album/6LXCbFfy30ywcpWyqwHzoB) | 3:25 | 2022-07-04 | 2022-08-13 |
 | [Take it To the Grave](https://open.spotify.com/track/3xq5Xe4iYlYypb2YUUTJwx) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Take it To the Grave](https://open.spotify.com/album/0AQw1etI1NpTj2kSCbEY8A) | 3:26 | 2022-07-14 | 2022-08-19 |
 | [Take me out, tonight \- 2022 Version](https://open.spotify.com/track/4G7gSxgKxFim71L7wlyHm0) | [The Vastards](https://open.spotify.com/artist/7lUtWxDBvmHPTBlcekHVjf) | [CARNIVAL](https://open.spotify.com/album/0bF5gUOVTNZZ4sHtrAPsB6) | 3:42 | 2022-06-18 | 2022-07-05 |
+| [Take My Time](https://open.spotify.com/track/18rWAmfIQr6X4g4UvlTGNk) | [Juno Oh](https://open.spotify.com/artist/7d3nLKDcRWGJ9eegwwk2Z0) | [Vanish](https://open.spotify.com/album/47Zsi31eBKHriYe4tyTmQx) | 5:15 | 2023-02-21 |  |
 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 | 2022-10-02 | 2023-02-01 |
 | [Tell Me](https://open.spotify.com/track/4mobQQm9hzeBawOl36Mmw9) | [Ru.a.na](https://open.spotify.com/artist/2bZpDQEYZ3dwfpjoxHTIzY) | [Tell Me](https://open.spotify.com/album/6cydofTPNZU5qc6FlE3mHA) | 3:57 | 2022-03-17 | 2022-04-21 |
 | [Tell Me How to Date You \(feat\. Park Han Kyul\)](https://open.spotify.com/track/3xzCvsu9Dtg2KJj25Zq7Te) | [Gilbert](https://open.spotify.com/artist/7HYpsAbttGfuUTmkQXJtsC), [Park Han Kyul](https://open.spotify.com/artist/3lat2ErjBtpkMFnc6veeLa) | [Tell Me How to Date You](https://open.spotify.com/album/5gDB0H17phGRZB4ldgBQxE) | 3:26 | 2022-06-09 | 2022-07-05 |
@@ -891,6 +893,7 @@
 | [제자리 \(loop\)](https://open.spotify.com/track/2tnKd2R6zWHXL65EkruiZM) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [제자리 \(loop\)](https://open.spotify.com/album/5AMPNy9dnzhc3vKyYWqrSh) | 3:20 | 2022-01-27 | 2022-03-03 |
 | [주인공](https://open.spotify.com/track/1qOcEC2RSSzTLyamrKAtQg) | [수정](https://open.spotify.com/artist/0qUoJSaKxbbI2XvjU8usDf) | [Miracle](https://open.spotify.com/album/5mzpPcrg6Uzxtz2J6mBzr7) | 3:32 | 2022-01-10 | 2022-01-25 |
 | [척 X pretend to](https://open.spotify.com/track/759NDy2g8IKBHpS5ULPb6n) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [나는야 찌질이 I'm a Loser](https://open.spotify.com/album/0syKC4hO6yzxl66JrS5hgD) | 4:07 | 2022-11-30 | 2023-01-12 |
+| [천년지애 Everlasting Love](https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [HOWEVER](https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx) | 5:32 | 2023-02-21 |  |
 | [품](https://open.spotify.com/track/3jylDNmrfXP8pVZmJxcIqt) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [품](https://open.spotify.com/album/7wlWWGqGmP5LpowlMwpN2W) | 2:57 | 2022-03-02 | 2022-03-24 |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

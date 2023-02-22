@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. YoSoyMatt en portada.
 
-185 songs - 10 hr 30 min
+186 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bye Bye](https://open.spotify.com/track/1kMVjZ6gDQpMckNs895asT) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Bye Bye](https://open.spotify.com/album/4QHSMXk4TjKaRpHGMDaCCo) | 3:48 | 2022-05-06 | 2022-12-16 |
 | [Camellos](https://open.spotify.com/track/6djw15CRE09NkoyVKLWGyP) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Camellos](https://open.spotify.com/album/3yT69oNV3uFDFs5whmF5qO) | 3:44 | 2022-05-06 |  |
 | [Carpe Diem](https://open.spotify.com/track/0IvtIcfo55vpv0OuG3akRm) | [Mark Cast](https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1), [Barbie Mur](https://open.spotify.com/artist/0siqZtk7F1d20wjkwtpovx) | [Carpe Diem](https://open.spotify.com/album/2Nav67UyvI40ZgAveR8k2O) | 3:04 | 2022-05-06 | 2022-07-28 |
-| [cielo](https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [cielo](https://open.spotify.com/album/1afFi1Z66mROoFltGIkHj3) | 4:34 | 2022-05-06 |  |
+| [cielo](https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [cielo](https://open.spotify.com/album/1afFi1Z66mROoFltGIkHj3) | 4:34 | 2022-05-06 | 2023-02-22 |
 | [Clap Your Hands For Love](https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [CECILLE](https://open.spotify.com/artist/0gjUPLMgb2VVVjrWH7Rspa) | [Clap Your Hands For Love](https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7) | 2:57 | 2022-05-06 | 2023-01-07 |
 | [Como Es Posible Que a Mi Lado](https://open.spotify.com/track/4n3z3N2m6zfCJzrAc3ABPi) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Como Es Posible Que a Mi Lado](https://open.spotify.com/album/73Q842SM0mDLFtiuryhfRP) | 3:08 | 2022-05-06 |  |
 | [Covalent Bond](https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK) | [Erick T](https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0), [The Second Wave](https://open.spotify.com/artist/7IFy6bk5Xwsf0f58o1al0o) | [Covalent Bond](https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK) | 2:39 | 2022-05-06 |  |
@@ -147,6 +147,7 @@
 | [Se Va](https://open.spotify.com/track/6KSrK117BG0DfCdnKAnf1l) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va](https://open.spotify.com/album/5KlTXz9q18qHaH9uOEIO6S) | 3:16 | 2022-11-07 |  |
 | [Senses](https://open.spotify.com/track/6v6AOyEwnzthASohlRwYrS) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd), [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf) | [Senses](https://open.spotify.com/album/3AtsqKQ6fcU3iIUSAAMyeV) | 6:34 | 2022-05-06 |  |
 | [Serotonina](https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Neneto](https://open.spotify.com/artist/4SRF0I10ZzUX6hFmV1RCXR) | [Serotonina](https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs) | 3:54 | 2022-07-28 |  |
+| [Sexy Velocity](https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Sexy Velocity](https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr) | 3:32 | 2023-02-21 |  |
 | [Shadows](https://open.spotify.com/track/4FmMrvogUG8GxzyJSuRbGv) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Atmën](https://open.spotify.com/artist/1Yhyrgpjks2m1yI2c7aIZf), [MaQui](https://open.spotify.com/artist/0LiSEfi7u1vXziSuYH6l2q) | [Shadows](https://open.spotify.com/album/1fRYEitkWXzm7eahpzX0ll) | 3:10 | 2022-05-06 | 2022-07-29 |
 | [Shake It Off](https://open.spotify.com/track/4NeEPhcQgCEBF514Tql4DC) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Shake It Off](https://open.spotify.com/album/6OO1SWTyPTQPmn8cHRLnP2) | 3:01 | 2022-05-06 |  |
 | [Sin Mí No Te Vayas](https://open.spotify.com/track/4GJheqbW6QK9JTtgeVkhCw) | [Pllws](https://open.spotify.com/artist/1MFhgehbIObqmgnONpXeFq) | [Sin Mí No Te Vayas](https://open.spotify.com/album/08Srh3AYNZlJMLWeTX4nnD) | 3:33 | 2022-05-06 | 2022-07-24 |

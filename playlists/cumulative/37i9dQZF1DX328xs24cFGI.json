@@ -171,6 +171,28 @@
     },
     {
       "album": {
+        "name": "KIMINOMAMA",
+        "url": "https://open.spotify.com/album/1zfEiFINYq6yP3aUROBvQz"
+      },
+      "artists": [
+        {
+          "name": "MUKADE",
+          "url": "https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR"
+        },
+        {
+          "name": "INMAN",
+          "url": "https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177580,
+      "name": "KIMINOMAMA",
+      "url": "https://open.spotify.com/track/4O8Dy9kthy651s3M774S1h"
+    },
+    {
+      "album": {
         "name": "Love (feat. Skaai)",
         "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
@@ -427,6 +449,24 @@
     },
     {
       "album": {
+        "name": "\u305d\u308c\u306f\u307e\u308b\u3067\u6620\u753b\u307f\u305f\u3044\u306a\u604b\u3060\u3063\u305f\u3002",
+        "url": "https://open.spotify.com/album/42UJvpF23bGWbAY1xPSYEJ"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u308c\u304f\u3093",
+          "url": "https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241490,
+      "name": "\u305d\u308c\u306f\u307e\u308b\u3067\u6620\u753b\u307f\u305f\u3044\u306a\u604b\u3060\u3063\u305f\u3002",
+      "url": "https://open.spotify.com/track/2ZYJWl6MQtmDovp1LGRwPe"
+    },
+    {
+      "album": {
         "name": "\u30d1\u30ec\u30fc\u30c9\u304c\u7d9a\u304f\u306a\u3089",
         "url": "https://open.spotify.com/album/7bUwvfdHUBdgXcMhczN4nJ"
       },
@@ -438,7 +478,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 296746,
       "name": "\u3069\u3093\u3069\u3093\u541b\u3092\u597d\u304d\u306b\u306a\u308b",
       "url": "https://open.spotify.com/track/5HUFzcZkcj5S8sMaTERsFM"
@@ -482,7 +522,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 288013,
       "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
       "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
@@ -861,6 +901,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u306e\u8a00\u8449",
+        "url": "https://open.spotify.com/album/2riMQYgiw2Octvqe808il3"
+      },
+      "artists": [
+        {
+          "name": "Kyanai",
+          "url": "https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265290,
+      "name": "\u611b\u306e\u8a00\u8449",
+      "url": "https://open.spotify.com/track/4ResLs28mRYFb0nxR5XyMr"
+    },
+    {
+      "album": {
         "name": "\u6700\u4f4e",
         "url": "https://open.spotify.com/album/4DV2vgNpPKrd4BS3p2Msb0"
       },
@@ -1016,7 +1074,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 208896,
       "name": "\u9b54\u6cd5\u306e\u7d68\u6bef",
       "url": "https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL"

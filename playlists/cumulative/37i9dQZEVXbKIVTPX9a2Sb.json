@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 137602,
       "name": "5",
       "url": "https://open.spotify.com/track/1J0NaJEBf2Ifp2f7GNudK0"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2524,7 +2524,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -5470,7 +5470,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 188709,
       "name": "DREME (feat. Rytmus)",
       "url": "https://open.spotify.com/track/4WHvsDDIHyvuPeTmQxl4oQ"
@@ -5858,7 +5858,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
@@ -7889,6 +7889,24 @@
     },
     {
       "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Hodn\u011b Styl",
+      "url": "https://open.spotify.com/track/2g8RI8UZVs4435ah68Om8R"
+    },
+    {
+      "album": {
         "name": "Hodv\u00e1b",
         "url": "https://open.spotify.com/album/3ED5iwrQevkl5ToalEpYZS"
       },
@@ -8388,7 +8406,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -9335,6 +9353,24 @@
     },
     {
       "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173847,
+      "name": "Jako j\u00e1",
+      "url": "https://open.spotify.com/track/2LkccG6tgHgvP9AFRPVZZ6"
+    },
+    {
+      "album": {
         "name": "Jakooo (Club Edit)",
         "url": "https://open.spotify.com/album/5q63KVufX9Vs6Xj6UFdVsp"
       },
@@ -9380,6 +9416,24 @@
       "duration_ms": 135742,
       "name": "Jar Leto Jese\u0148 - Em",
       "url": "https://open.spotify.com/track/0J2wdzkkJ2h8zRqZALFOBT"
+    },
+    {
+      "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104163,
+      "name": "Jaxem \u0159ek",
+      "url": "https://open.spotify.com/track/0U0Mt3EDzKJSSXRtglIIcp"
     },
     {
       "album": {
@@ -9532,6 +9586,28 @@
       "duration_ms": 538536,
       "name": "Jesus Lord",
       "url": "https://open.spotify.com/track/56JwgcQcxo08w7YXrBzrA5"
+    },
+    {
+      "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        },
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212369,
+      "name": "Je\u0161t\u011b chv\u00edli",
+      "url": "https://open.spotify.com/track/4azuIRlW1atR3AYWrR3wlo"
     },
     {
       "album": {
@@ -10338,7 +10414,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 109000,
       "name": "Kudlu",
       "url": "https://open.spotify.com/track/6nQsMDDFqeTFCVl9zl6NJ1"
@@ -11526,7 +11602,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 169756,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2MLspbafcpa876kiGpk8Ga"
@@ -12500,7 +12576,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -13220,6 +13296,28 @@
       "duration_ms": 175471,
       "name": "M\u00e1m Na Tebe Chu\u0165",
       "url": "https://open.spotify.com/track/5ksuX2WZlKEXCYKkLhAVyG"
+    },
+    {
+      "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        },
+        {
+          "name": "Sergei Barracuda",
+          "url": "https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180105,
+      "name": "M\u00e1m nervy",
+      "url": "https://open.spotify.com/track/4xTfRr43SFgaa4UXnPqhnV"
     },
     {
       "album": {
@@ -13948,7 +14046,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 143333,
       "name": "Nevid\u00edm",
       "url": "https://open.spotify.com/track/5klQkcikPBwST9KmCjgIJI"
@@ -14230,6 +14328,24 @@
       "duration_ms": 205863,
       "name": "Nie",
       "url": "https://open.spotify.com/track/5GAJtxlAJsTlyzHDVzipzA"
+    },
+    {
+      "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174521,
+      "name": "Nikdy zp\u00e1tky",
+      "url": "https://open.spotify.com/track/6ScVgwOdJw5ROQJZfgKp4c"
     },
     {
       "album": {
@@ -15982,7 +16098,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 85360,
       "name": "Predmet z\u00e1ujmu",
       "url": "https://open.spotify.com/track/3BcxlM8GmeD0XWd22M0sJL"
@@ -16221,6 +16337,28 @@
     },
     {
       "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        },
+        {
+          "name": "Dollar Prync",
+          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175449,
+      "name": "Pull up",
+      "url": "https://open.spotify.com/track/4efAsxnbRmd8Vvfoczp0KW"
+    },
+    {
+      "album": {
         "name": "EGOTRON",
         "url": "https://open.spotify.com/album/3pWw4X7kNtVpnDLPQ5zKls"
       },
@@ -16384,6 +16522,24 @@
       "duration_ms": 145918,
       "name": "Putin",
       "url": "https://open.spotify.com/track/3lCZxajTCSYR5OnHPEfa2v"
+    },
+    {
+      "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174294,
+      "name": "P\u0159ijdu s\u00e1m",
+      "url": "https://open.spotify.com/track/12QJdSFQFXSXmvl6Wf3irF"
     },
     {
       "album": {
@@ -17630,6 +17786,24 @@
       "duration_ms": 228874,
       "name": "Scam",
       "url": "https://open.spotify.com/track/6X9wJ7rTc45kAKQjaSb1F4"
+    },
+    {
+      "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184575,
+      "name": "Se zm\u011bnili",
+      "url": "https://open.spotify.com/track/06l7bpmSrEEl2o4gULzr1g"
     },
     {
       "album": {
@@ -20319,6 +20493,24 @@
     },
     {
       "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204335,
+      "name": "To neni hra",
+      "url": "https://open.spotify.com/track/0Bn35yqOHU0PVaLeYDUsk2"
+    },
+    {
+      "album": {
         "name": "To neni hra",
         "url": "https://open.spotify.com/album/3lJ4rOyS7DWI7xkDenaCjL"
       },
@@ -20502,6 +20694,24 @@
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127849,
+      "name": "Traphouse",
+      "url": "https://open.spotify.com/track/0rc4QASgHGFMLzeOKOfYtH"
     },
     {
       "album": {
@@ -20924,10 +21134,28 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 231192,
       "name": "Upgrade",
       "url": "https://open.spotify.com/track/1I03N1q3L9npQHuDzXklaF"
+    },
+    {
+      "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231193,
+      "name": "Upgrade",
+      "url": "https://open.spotify.com/track/4o7sNuNNkNVlUombpE3D3F"
     },
     {
       "album": {

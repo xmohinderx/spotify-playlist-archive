@@ -96,7 +96,7 @@
     {
       "album": {
         "name": "04:59",
-        "url": "https://open.spotify.com/album/11fkMucFImeliHJCxCQ8C7"
+        "url": "https://open.spotify.com/album/5y2XKJ7ydWMFo0zROcqisa"
       },
       "artists": [
         {
@@ -111,6 +111,28 @@
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188958,
+      "name": "04:59",
+      "url": "https://open.spotify.com/track/2G0PxH8bh0C9eCz5UwmjJJ"
+    },
+    {
+      "album": {
+        "name": "04:59",
+        "url": "https://open.spotify.com/album/11fkMucFImeliHJCxCQ8C7"
+      },
+      "artists": [
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
       "duration_ms": 188958,
       "name": "04:59",
       "url": "https://open.spotify.com/track/7KQUZd6GvJ1019lwvRMM52"

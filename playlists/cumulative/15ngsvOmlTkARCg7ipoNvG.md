@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-874 songs - 20 hr 21 min
+875 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,6 +699,7 @@
 | [Solace In The Sky](https://open.spotify.com/track/0a6iWFtTMlJw4uqfOgBESX) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Gentle Flow](https://open.spotify.com/album/2xnFA2PQopVi0ZGeOi9g9I) | 1:01 | 2022-05-25 |  |
 | [Solar River](https://open.spotify.com/track/649c58waFQNjQOrBvrYd2K) | [A Slower Tempo](https://open.spotify.com/artist/6OixRRPHDKFH9nFQd6xJOs), [Ken Smith](https://open.spotify.com/artist/3P8IdWrOa3qkyEIpd1Caru) | [Solar River](https://open.spotify.com/album/3OCR6g2h5mwvfrFLWjJslj) | 3:28 | 2022-01-12 |  |
 | [Solemn Night](https://open.spotify.com/track/3V782RX0m9xMK8oPbIODvr) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ambient Season](https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF) | 1:01 | 2022-08-25 |  |
+| [Somewhere Else \- Piano Version](https://open.spotify.com/track/0rMSzsQPRaL0uumXpPL8sq) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Somewhere Else Revisited](https://open.spotify.com/album/4eGF8TzzfdeSTbEc1oQ11y) | 1:01 | 2023-02-21 |  |
 | [Song of the Gentle Warrior](https://open.spotify.com/track/0duHuYpQeHjywgcdr8AAjn) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Lost in Dreams](https://open.spotify.com/album/1KSrjyIcjFmL5JQO8yousZ) | 1:53 | 2022-01-12 |  |
 | [Soon](https://open.spotify.com/track/5jQ5K1zflcdyFJHGcD6tf8) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Cello](https://open.spotify.com/album/10FYDKljITHunEsUCAHFUe) | 1:36 | 2022-01-20 |  |
 | [Soothe My Soul](https://open.spotify.com/track/0ilQHvPWdT6EZGHHAvXdN7) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:41 | 2022-01-12 |  |

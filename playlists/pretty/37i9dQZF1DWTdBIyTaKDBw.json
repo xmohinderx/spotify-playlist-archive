@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 42078,
+  "num_followers": 42115,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzNDg4MiwwMDAwMDAwMDE5MzI4YmZjY2E4N2RkZjRkMGNhYzIxYmIyYzA3YzNm",
+  "snapshot_id": "MTY3NDYzNDg4MiwwMDAwMDAwMGFkY2ZkOTZhN2U2MzYzMzQ2MjgzYTg2YmVmNzRhMmRi",
   "tracks": [
     {
       "added_at": "2023-01-25 08:21:22",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "Honey jar No.01",
-        "url": "https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t"
-      },
-      "artists": [
-        {
-          "name": "HolyBear",
-          "url": "https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn"
-        }
-      ],
-      "duration_ms": 219205,
-      "name": "Butterfly on my mind",
-      "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "Da Ra Da",
         "url": "https://open.spotify.com/album/5AQgoMCw6ioH1YphjOgjYN"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 237369,
       "name": "Da Ra Da",
       "url": "https://open.spotify.com/track/5oBCC0WlEcwvFb2m0vtqr3"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "Honey jar No.01",
+        "url": "https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t"
+      },
+      "artists": [
+        {
+          "name": "HolyBear",
+          "url": "https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn"
+        }
+      ],
+      "duration_ms": 219205,
+      "name": "Butterfly on my mind",
+      "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "Origin of Love",
-        "url": "https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q"
-      },
-      "artists": [
-        {
-          "name": "cylinder",
-          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "Origin of Love",
-      "url": "https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "Tailor",
         "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "Sweeet",
-        "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
+        "name": "Origin of Love",
+        "url": "https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q"
       },
       "artists": [
         {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+          "name": "cylinder",
+          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
         }
       ],
-      "duration_ms": 177999,
-      "name": "Sugardance",
-      "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
+      "duration_ms": 232226,
+      "name": "Origin of Love",
+      "url": "https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -727,6 +711,22 @@
       "duration_ms": 205854,
       "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
       "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "Sweeet",
+        "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "duration_ms": 177999,
+      "name": "Sugardance",
+      "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "Tailor",
-        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
-      },
-      "artists": [
-        {
-          "name": "The BLANK Shop",
-          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
-        },
-        {
-          "name": "WONPIL",
-          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
-        }
-      ],
-      "duration_ms": 300317,
-      "name": "Love song (Feat. WONPIL(DAY6))",
-      "url": "https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "[04]",
         "url": "https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm"
       },
@@ -855,22 +835,22 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "Candy Pianist",
-        "url": "https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5"
+        "name": "Tailor",
+        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
       },
       "artists": [
         {
-          "name": "Lee Jin Ah",
-          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+          "name": "The BLANK Shop",
+          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
         },
         {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
         }
       ],
-      "duration_ms": 259640,
-      "name": "Awake (Feat. Sam Kim)",
-      "url": "https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC"
+      "duration_ms": 300317,
+      "name": "Love song (Feat. WONPIL(DAY6))",
+      "url": "https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -887,6 +867,26 @@
       "duration_ms": 217666,
       "name": "\uc7a0\ub4e4\uace0 \uc2f6\uc5b4(zZ)",
       "url": "https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "Candy Pianist",
+        "url": "https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5"
+      },
+      "artists": [
+        {
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "Awake (Feat. Sam Kim)",
+      "url": "https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
+        "name": "Fuzzy peach",
+        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 251653,
+      "name": "Fuzzy peach",
+      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
         "name": "cozy christmas",
         "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 123666,
       "name": "Today and other days (Feat. Eily)",
       "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
-        "name": "Fuzzy peach",
-        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "Fuzzy peach",
-      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
+        "name": "The Fairy Tale",
+        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 239086,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
         "name": "SEOULVIBES, GROCERY",
         "url": "https://open.spotify.com/album/7H4ODTXkDsCzqraY5DExRX"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 171204,
       "name": "Let's Go (feat. DA:ON, Gunjae & H!)",
       "url": "https://open.spotify.com/track/6mtNKbzf60GX22QiHfX4cE"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
-        "name": "The Fairy Tale",
-        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 239086,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "LOVER",
-        "url": "https://open.spotify.com/album/5BYA62etDUYPIQZHbKizeu"
-      },
-      "artists": [
-        {
-          "name": "Yoon Hyun Sang",
-          "url": "https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Dancing Universe",
-      "url": "https://open.spotify.com/track/21GmIfb64BYbDSqCr5jf8K"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "Rainy Apgujeong",
         "url": "https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/5BYA62etDUYPIQZHbKizeu"
+      },
+      "artists": [
+        {
+          "name": "Yoon Hyun Sang",
+          "url": "https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Dancing Universe",
+      "url": "https://open.spotify.com/track/21GmIfb64BYbDSqCr5jf8K"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
         "name": "\uc232 Forest",
         "url": "https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 244363,
       "name": "Maudie",
       "url": "https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
-        "name": "Home Alone",
-        "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
-      },
-      "artists": [
-        {
-          "name": "cylinder",
-          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Winter Theater",
-      "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -1243,18 +1227,34 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "When I see you",
-        "url": "https://open.spotify.com/album/64PaZnR3MjSalwK0Y6CDg2"
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
       },
       "artists": [
         {
-          "name": "Herz Analog",
-          "url": "https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw"
+          "name": "cylinder",
+          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
         }
       ],
-      "duration_ms": 296799,
-      "name": "When I see you",
-      "url": "https://open.spotify.com/track/3reYD1dbHpy1G7BpKyBzTK"
+      "duration_ms": 190973,
+      "name": "Winter Theater",
+      "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta"
+      },
+      "artists": [
+        {
+          "name": "Kayla",
+          "url": "https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc"
     }
   ],
   "unique_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",

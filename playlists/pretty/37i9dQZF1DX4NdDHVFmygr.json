@@ -1,15 +1,15 @@
 {
   "description": "\u00c9coutez en boucle les hits 100% marocains du moment.",
-  "num_followers": 165004,
+  "num_followers": 165196,
   "original_name": "Maroc Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njg3OTc5MywwMDAwMDAwMGZhMzk5ZDlmNThmYzJiZTkwY2Y4M2E0ODgyMDI0MDFk",
+  "snapshot_id": "MTY3NzAwNjY0NywwMDAwMDAwMGM3NTNmMDFkNmE5NDU3MGQwMDM5MjFhYmZiZDcwOWIw",
   "tracks": [
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "SOS (Chapitre 3)",
         "url": "https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
+      "album": {
+        "name": "AFROBOY",
+        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 191827,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
+    },
+    {
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Ghazali (feat. Bryan Mg)",
         "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
@@ -45,23 +61,23 @@
       "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
-        "name": "M3a L3echrane",
-        "url": "https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk"
+        "name": "Heeya",
+        "url": "https://open.spotify.com/album/2CFvYOAGceKa9RNyfG1rfX"
       },
       "artists": [
         {
-          "name": "Dizzy DROS",
-          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+          "name": "Hatim Ammor",
+          "url": "https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp"
         }
       ],
-      "duration_ms": 232727,
-      "name": "M3a L3echrane",
-      "url": "https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw"
+      "duration_ms": 213178,
+      "name": "Heeya",
+      "url": "https://open.spotify.com/track/7tG8Kl89b8gVuDGnlyCXQA"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "\u0628\u0627\u0644\u0647\u062f\u0649",
         "url": "https://open.spotify.com/album/5k3Z3I40E3EXZSoVJgRZpc"
@@ -77,23 +93,39 @@
       "url": "https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
-        "name": "AFROBOY",
-        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
+        "name": "Lili Nhari",
+        "url": "https://open.spotify.com/album/51VovH7Hj6uBGJiR4WG4cz"
       },
       "artists": [
         {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
         }
       ],
-      "duration_ms": 191827,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
+      "duration_ms": 188800,
+      "name": "Lili Nhari",
+      "url": "https://open.spotify.com/track/3ukdQfWkGzNZN3gxB2us7O"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
+      "album": {
+        "name": "M3a L3echrane",
+        "url": "https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk"
+      },
+      "artists": [
+        {
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "M3a L3echrane",
+      "url": "https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw"
+    },
+    {
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "WILI",
         "url": "https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1"
@@ -109,7 +141,7 @@
       "url": "https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Talet Lghiba",
         "url": "https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ"
@@ -125,7 +157,23 @@
       "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
+      "album": {
+        "name": "Maliach",
+        "url": "https://open.spotify.com/album/3mXeI0v55leircJtBVNAyT"
+      },
+      "artists": [
+        {
+          "name": "Abdeelgha4",
+          "url": "https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv"
+        }
+      ],
+      "duration_ms": 173065,
+      "name": "Maliach",
+      "url": "https://open.spotify.com/track/1pUhEW4SsZjUZ6qs669zPs"
+    },
+    {
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Nsiti",
         "url": "https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG"
@@ -141,7 +189,7 @@
       "url": "https://open.spotify.com/track/0qvOa81HDkZs2c07K6XtCE"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "00:00",
         "url": "https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD"
@@ -157,7 +205,7 @@
       "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
@@ -173,7 +221,7 @@
       "url": "https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Ach Dani Lik",
         "url": "https://open.spotify.com/album/0DkiOYQUtBe7y16it7cuzy"
@@ -189,7 +237,7 @@
       "url": "https://open.spotify.com/track/624gb1oOYf0t7RmUmI65L8"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Massari",
         "url": "https://open.spotify.com/album/1h30k7HoeTkiFmlnBub3xg"
@@ -205,7 +253,7 @@
       "url": "https://open.spotify.com/track/0J65uyzYarHKfC4XHBdqfK"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Seddit Lbibane",
         "url": "https://open.spotify.com/album/60T0APAz9FUAKMJcpfpxjt"
@@ -221,7 +269,7 @@
       "url": "https://open.spotify.com/track/19qSodZXmR2GqMwzLvLYlJ"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "DRAILL",
         "url": "https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M"
@@ -237,23 +285,7 @@
       "url": "https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
-      "album": {
-        "name": "MIXDEEP",
-        "url": "https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym"
-      },
-      "artists": [
-        {
-          "name": "Dollypran",
-          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "Rosita",
-      "url": "https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX"
-    },
-    {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Dirou Niyya (Official Moroccan Fan Chant)",
         "url": "https://open.spotify.com/album/4dh7GUAykeLvwzGOVM1lcb"
@@ -269,7 +301,7 @@
       "url": "https://open.spotify.com/track/2pDBEAiA554r73laQPmzOW"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Welcome to Morocco (Official Song of the FIFA Club World Cup 2022)",
         "url": "https://open.spotify.com/album/7JG9o2OAmmrr6BDvXqjl3T"
@@ -321,7 +353,7 @@
       "url": "https://open.spotify.com/track/4rpUK9h7OZYdelY1QUYjjR"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "SBABO NTI",
         "url": "https://open.spotify.com/album/7GwYS8AurmMvmGKrh0j7ZG"
@@ -337,7 +369,7 @@
       "url": "https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Mouja",
         "url": "https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw"
@@ -353,7 +385,7 @@
       "url": "https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Ya Lalali",
         "url": "https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX"
@@ -369,27 +401,7 @@
       "url": "https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
-      "album": {
-        "name": "Sid Lghram",
-        "url": "https://open.spotify.com/album/57LencHPTBtLmvICFiOwB6"
-      },
-      "artists": [
-        {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        },
-        {
-          "name": "Asma Lmnawar",
-          "url": "https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3"
-        }
-      ],
-      "duration_ms": 236578,
-      "name": "Sid Lghram",
-      "url": "https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G"
-    },
-    {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Stylo warqa",
         "url": "https://open.spotify.com/album/0g7SOVgoPw2bH4cV7Yd65d"
@@ -405,7 +417,7 @@
       "url": "https://open.spotify.com/track/2KB0Hva9YPWOnU7GF5Kgv0"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Ha Mamma",
         "url": "https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW"
@@ -421,23 +433,7 @@
       "url": "https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
-      "album": {
-        "name": "AUBE",
-        "url": "https://open.spotify.com/album/6AVj98SypznZT2Lwe2r6HC"
-      },
-      "artists": [
-        {
-          "name": "Raste",
-          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
-        }
-      ],
-      "duration_ms": 158081,
-      "name": "Amora",
-      "url": "https://open.spotify.com/track/3dDltvmsiTzFO6K5Pq4HFL"
-    },
-    {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "\u0664in",
         "url": "https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9"
@@ -453,7 +449,7 @@
       "url": "https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "WAYLE",
         "url": "https://open.spotify.com/album/2NRpmLrRQOapraNh2MCRnZ"
@@ -469,7 +465,7 @@
       "url": "https://open.spotify.com/track/0jCNrDbEbpRbuDiGcKa907"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "De9at l9elb",
         "url": "https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr"
@@ -485,7 +481,7 @@
       "url": "https://open.spotify.com/track/3WzncgOidVpqkak5Ee4b1n"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "L'\u00c9tranger",
         "url": "https://open.spotify.com/album/6rieTT1tEp2qZPqgNt5hDO"
@@ -505,7 +501,7 @@
       "url": "https://open.spotify.com/track/0o5qyh1mrp1elvYeEuWFbL"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Anaconda",
         "url": "https://open.spotify.com/album/38NNxIG32ee7rKe0thztPa"
@@ -521,7 +517,7 @@
       "url": "https://open.spotify.com/track/52v6JiIMBEvnuvRFOyxhMQ"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "YA LE3DOUWA",
         "url": "https://open.spotify.com/album/5wkvSfHw9t6Vien59gb48s"
@@ -537,7 +533,7 @@
       "url": "https://open.spotify.com/track/66Zvytz9Du8eXZIXXLS8Ea"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "FORSSA",
         "url": "https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x"
@@ -553,7 +549,7 @@
       "url": "https://open.spotify.com/track/4ERqimtfCADVUI256ishDr"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Denbi",
         "url": "https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr"
@@ -569,7 +565,7 @@
       "url": "https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Lberra7",
         "url": "https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq"
@@ -585,7 +581,7 @@
       "url": "https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Makhelaw magalou",
         "url": "https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO"
@@ -601,7 +597,7 @@
       "url": "https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Omri",
         "url": "https://open.spotify.com/album/6uPeVzOEUmO69h6gsNt2rn"
@@ -621,7 +617,7 @@
       "url": "https://open.spotify.com/track/0UoPZZKHTNXyAKvnQC0PrY"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Comforter (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
@@ -641,7 +637,7 @@
       "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Ghir Ntiya",
         "url": "https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm"
@@ -661,7 +657,7 @@
       "url": "https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "KATA",
         "url": "https://open.spotify.com/album/1ESrW2WAb59BBFxFbjpg6W"
@@ -677,7 +673,7 @@
       "url": "https://open.spotify.com/track/5NKlXALZpt7pLjRZimclan"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "CHICHI",
         "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
@@ -693,7 +689,7 @@
       "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Jro7i - Li Kanet Omri",
         "url": "https://open.spotify.com/album/1KRlyoERWrjrZXJ3sAxylo"
@@ -709,7 +705,7 @@
       "url": "https://open.spotify.com/track/3bZvwCGEHeoLXEyrbFjGUm"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "JRO7I",
         "url": "https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA"
@@ -725,7 +721,7 @@
       "url": "https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Crushi",
         "url": "https://open.spotify.com/album/1JO7MjScs6ZjUad2lBzKgA"
@@ -741,7 +737,7 @@
       "url": "https://open.spotify.com/track/1o6J9yEGafI0rbKfksplwF"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA"
@@ -757,7 +753,7 @@
       "url": "https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "MAAK",
         "url": "https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y"
@@ -777,7 +773,7 @@
       "url": "https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Ya Bent Nass",
         "url": "https://open.spotify.com/album/7etlW0csrc4pTaLA55M1cH"
@@ -797,7 +793,7 @@
       "url": "https://open.spotify.com/track/3p6p3ZoO8raP3s4bxI7Z2B"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Magnifique",
         "url": "https://open.spotify.com/album/59iV1eX9oRXELm1zEO8nKB"
@@ -825,7 +821,7 @@
       "url": "https://open.spotify.com/track/0CBFjd1RU3ao8BqWMEiUy5"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Zawali",
         "url": "https://open.spotify.com/album/5DY406iJLXtKIw11Jvd9N4"
@@ -841,7 +837,7 @@
       "url": "https://open.spotify.com/track/4YjQb4TGxnBaGDxzVxoHcP"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Ntiya",
         "url": "https://open.spotify.com/album/5tiCtx89m9IROn2MOsGRFq"
@@ -857,7 +853,7 @@
       "url": "https://open.spotify.com/track/3j0nwjwZKO1EArIlo6RuJN"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Douga",
         "url": "https://open.spotify.com/album/4moiez6TVp0ta4iGHf3Ms5"
@@ -877,7 +873,7 @@
       "url": "https://open.spotify.com/track/7H8cWXov4JefpfvzXiXt6B"
     },
     {
-      "added_at": "2023-02-20 07:56:33",
+      "added_at": "2023-02-21 19:10:47",
       "album": {
         "name": "Ayam",
         "url": "https://open.spotify.com/album/0HBSC3kSOgiV7hAwaycPhd"

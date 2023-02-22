@@ -1,12 +1,12 @@
 {
   "description": "dif\u00edcil \u00e9 fazer o malote, sim",
-  "num_followers": 1070589,
+  "num_followers": 1070988,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0Njk4MSwwMDAwMDAwMGMwYTMzYzY5YjQyNmZkYWQzNWNmNmZkMmM3Y2YzMjE5",
+  "snapshot_id": "MTY3NjY0Njk4MSwwMDAwMDAwMDBhZThkOTA5YWU2MjJkODdhZjZkMjQ0YTgxZmVhN2Fk",
   "tracks": [
     {
       "added_at": "2023-02-17 03:01:00",
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei"
     },
     {
-      "added_at": "2023-02-21 01:24:16",
+      "added_at": "2023-02-22 01:30:54",
       "album": {
         "name": "Quebra Cabe\u00e7a - Spotify Singles",
         "url": "https://open.spotify.com/album/5eIPlZnFSGPUl0YqzWuevT"
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
+        "name": "Prazeres da Vida Noturna",
+        "url": "https://open.spotify.com/album/7gMJfejAZor5ULBw2oaHcX"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "duration_ms": 203128,
+      "name": "Prazeres da Vida Noturna",
+      "url": "https://open.spotify.com/track/66FenlqXH5BFAGehrxovT0"
+    },
+    {
+      "added_at": "2023-02-17 03:01:00",
+      "album": {
         "name": "Cora\u00e7\u00e3o Terra de Ningu\u00e9m",
         "url": "https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 313469,
       "name": "Swing de Morro",
       "url": "https://open.spotify.com/track/0Bl8lSsNsJ6fx2cAqJ0vVC"
-    },
-    {
-      "added_at": "2023-02-17 03:01:00",
-      "album": {
-        "name": "Prazeres da Vida Noturna",
-        "url": "https://open.spotify.com/album/7gMJfejAZor5ULBw2oaHcX"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "DJ Arana",
-          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
-        }
-      ],
-      "duration_ms": 203128,
-      "name": "Prazeres da Vida Noturna",
-      "url": "https://open.spotify.com/track/66FenlqXH5BFAGehrxovT0"
     }
   ],
   "unique_name": "creme",

@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Django Django & Self Esteem.
 
-695 songs - 1 day 21 hr 26 min
+696 songs - 1 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Fittipaldi](https://open.spotify.com/track/2SYqvFbaan8hg0M7wcRkRq) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Fittipaldi](https://open.spotify.com/album/109jPSDNZdNrE9GqnQketK) | 4:15 | 2022-03-25 | 2022-04-11 |
 | [Flipside](https://open.spotify.com/track/4DYIIRoupTZOVlup3L4VDc) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Flipside](https://open.spotify.com/album/3BcVsFBvtL4d7isNtOWHYU) | 3:18 | 2021-09-17 | 2022-02-12 |
 | [Flush with Love](https://open.spotify.com/track/5pbpePKq40EPcbfQSlFHD3) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Mirror Mountain](https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K) | 4:55 | 2022-05-06 | 2022-07-23 |
+| [Fly To You \(feat\. Grimes and Dido\)](https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:05 | 2023-02-22 |  |
 | [Follow](https://open.spotify.com/track/7KxeibFn8Nammh6i9cDD7j) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [CIEL](https://open.spotify.com/album/0e4POgMcYBEFomuUoE2uq6) | 4:22 | 2021-11-19 | 2022-01-21 |
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-01-20 |  |
 | [Foreign Language \(feat\. Jess\) \[Riva Starr Turbo Disco Remix\]](https://open.spotify.com/track/2OxnnahOGJnI2zq85uft58) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/11XTMSjsddSKvC4vSIQ3n5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [Foreign Language \(feat\. Jess\) \[Riva Starr Turbo Disco Remix\]](https://open.spotify.com/album/4EGJ5NZTI7Sgr5Ay21spZo) | 3:06 | 2022-07-01 | 2022-07-23 |
@@ -562,7 +563,7 @@
 | [Starstruck \- Vegyn Remix](https://open.spotify.com/track/1DuPTyxPS2oiZMgLAF11gj) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Starstruck \(Vegyn Remix\)](https://open.spotify.com/album/6GJDNkrgXK9vjiJbK9g9qa) | 3:48 | 2021-05-07 | 2023-02-11 |
 | [Stay \(feat\. Your Smith\)](https://open.spotify.com/track/0bDL2MOuaqdzRLVMAhbCp7) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [FOREVER](https://open.spotify.com/album/1csTPYu7DloHLOLPZygikk) | 3:45 | 2021-11-12 | 2022-01-07 |
 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 | 2021-05-21 | 2022-01-06 |
-| [Still There](https://open.spotify.com/track/68Lyc2FM0k5S5uVM7RlEYM) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Still There](https://open.spotify.com/album/6Gljo8qN1uZXCFIAZkJ3QZ) | 5:14 | 2023-01-20 |  |
+| [Still There](https://open.spotify.com/track/68Lyc2FM0k5S5uVM7RlEYM) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Still There](https://open.spotify.com/album/6Gljo8qN1uZXCFIAZkJ3QZ) | 5:14 | 2023-01-20 | 2023-02-22 |
 | [STR8 UP](https://open.spotify.com/track/0K09e6uKfSP7xfRqjWqYaa) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU), [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [STR8 UP](https://open.spotify.com/album/0H0iipofZO30cxecdHGALI) | 4:25 | 2022-01-28 | 2022-02-12 |
 | [Straight To The Morning \- Myd Remix](https://open.spotify.com/track/3KLXqJ0Syps75zQbMxE3xE) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Straight To The Morning \(Myd Remix\)](https://open.spotify.com/album/3twoTcse5NGocRQ1zcupQo) | 3:26 | 2021-05-14 | 2021-12-29 |
 | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd) | 4:02 | 2021-12-03 | 2023-01-06 |

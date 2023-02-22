@@ -32,7 +32,7 @@
           "url": "https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY"
         }
       ],
-      "date_added": "2023-02-14",
+      "date_added": "2023-02-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 242060,
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 138000,
       "name": "Everyday Wonders & Sunday Mornings",
       "url": "https://open.spotify.com/track/1TBF5kZA7FR0e70lEuyr43"
@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Heartfulness",
+        "url": "https://open.spotify.com/album/6PLL0DyPG8yLOUCnvXn5ZY"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Heartfulness",
+      "url": "https://open.spotify.com/track/4osN7Zl3miJmSdPZmKVoXm"
+    },
+    {
+      "album": {
         "name": "Hommage \u00e0 la for\u00eat",
         "url": "https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ"
       },
@@ -320,7 +338,7 @@
           "url": "https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5"
         }
       ],
-      "date_added": "2023-02-14",
+      "date_added": "2023-02-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 147333,
@@ -344,6 +362,24 @@
       "duration_ms": 212500,
       "name": "Humble Present",
       "url": "https://open.spotify.com/track/4Vi9xSebHSxKK7LArcVcYU"
+    },
+    {
+      "album": {
+        "name": "Insirium",
+        "url": "https://open.spotify.com/album/1gPruQqi2RQqUDKp6y5LCH"
+      },
+      "artists": [
+        {
+          "name": "Gillirium",
+          "url": "https://open.spotify.com/artist/4dfUUvHsq6FLLkA0Qy7wqu"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179874,
+      "name": "Insirium",
+      "url": "https://open.spotify.com/track/310oWEiiJNzno545nutX6e"
     },
     {
       "album": {
@@ -394,7 +430,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 193885,
       "name": "Looking for the Self",
       "url": "https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g"
@@ -581,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Natural Spirit",
+        "url": "https://open.spotify.com/album/3oDBpldNDHsvRAoFcMAkNo"
+      },
+      "artists": [
+        {
+          "name": "Spiritualizer",
+          "url": "https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171785,
+      "name": "River Of Dreams",
+      "url": "https://open.spotify.com/track/45jab7CY7ZsjQGUrhGzAKR"
+    },
+    {
+      "album": {
         "name": "Silva Fabula",
         "url": "https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn"
       },
@@ -590,7 +644,7 @@
           "url": "https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt"
         }
       ],
-      "date_added": "2023-02-14",
+      "date_added": "2023-02-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 190000,
@@ -680,7 +734,7 @@
           "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
         }
       ],
-      "date_added": "2023-02-14",
+      "date_added": "2023-02-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 106046,
@@ -716,7 +770,7 @@
           "url": "https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT"
         }
       ],
-      "date_added": "2023-02-14",
+      "date_added": "2023-02-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178338,
@@ -790,7 +844,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 174965,
       "name": "WATERFALLS",
       "url": "https://open.spotify.com/track/6Y8AeQZTqpfDp3kynbzbBV"

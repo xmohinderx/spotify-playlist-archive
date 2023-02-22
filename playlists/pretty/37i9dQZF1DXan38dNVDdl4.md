@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: Valliant
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,331 likes - 59 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,444 likes - 59 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Discover the newest Hardstyle tracks\. Cover: Sound Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,409 likes - 107 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,485 likes - 107 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 28 | [Absolution](https://open.spotify.com/track/1jurU7dHfTOOZEf6fADV8v) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem) | [Absolution](https://open.spotify.com/album/6Opch7uhVZoJKdUCutnqjp) | 3:44 |
 | 29 | [I Raise My Glass](https://open.spotify.com/track/5qpd9dnhtOojDgdA29BhfO) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [I Raise My Glass](https://open.spotify.com/album/1EwZ1JlLnsa8K74n4FDI27) | 3:23 |
 | 30 | [After Dark](https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Antenora](https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [After Dark](https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy) | 3:43 |
-| 31 | [UNDRGRND](https://open.spotify.com/track/5OPiQgHKYUGd50bAfJnxx8) | [Mandy](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [UNDRGRND](https://open.spotify.com/album/0zccfdoWWFsJW6c7YPRBLj) | 2:54 |
+| 31 | [UNDRGRND](https://open.spotify.com/track/5OPiQgHKYUGd50bAfJnxx8) | [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [UNDRGRND](https://open.spotify.com/album/0zccfdoWWFsJW6c7YPRBLj) | 2:54 |
 | 32 | [Never Be Alone](https://open.spotify.com/track/621OKN7F7dicuOKewxxeq1) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Øien](https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb) | [Never Be Alone](https://open.spotify.com/album/4R4iMy5aLahQicWIoaf1QZ) | 2:45 |
 | 33 | [DOWN DOWN](https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [WELCOME TO THE GANG VOL\. 2](https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ) | 3:26 |
 | 34 | [Magnetism](https://open.spotify.com/track/2MI3pBdP5NBQUUH791wWWk) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Magnetism](https://open.spotify.com/album/35crPsrfykbZJQWYqQOFQo) | 3:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,894,832 likes - 309 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,896,956 likes - 309 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,7 +233,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 223 | [San Siro](https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [San Remo](https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA) | 2:50 |
 | 224 | [The Door into Summer](https://open.spotify.com/track/7inwDSpJOVDN9kUsi7JtqX) | [Nora De Smet](https://open.spotify.com/artist/6fYNVK4HEPxnmTBjCTDj3h) | [The Door into Summer](https://open.spotify.com/album/1x6OZLfOt7xNDGVU9Azcs7) | 3:02 |
 | 225 | [Waltz in a Dream](https://open.spotify.com/track/7fFC24ppNibtsubi84bSwH) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Waltz in a Dream](https://open.spotify.com/album/2CcupVOPa2cwYlzWWbd4OE) | 2:29 |
-| 226 | [Pure](https://open.spotify.com/track/7MkxpIhNBXy8blub5txeDD) | [Nel Aique](https://open.spotify.com/artist/6DQXMlXhosW4HRwMMNKX2G) | [Pure](https://open.spotify.com/album/7FJvepVpyOzTx0mXqCV5BI) | 1:59 |
+| 226 | [Pure](https://open.spotify.com/track/1KYMZHK7mEhNralmfFd228) | [Nel Aique](https://open.spotify.com/artist/6DQXMlXhosW4HRwMMNKX2G) | [Pure Emotions](https://open.spotify.com/album/36asTydRnUdBi9TgYGf2Sa) | 1:59 |
 | 227 | [Last Sunday](https://open.spotify.com/track/6QIPjub60aFnvKxe4oNuEs) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:23 |
 | 228 | [Zephyr](https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Zephyr](https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4) | 2:40 |
 | 229 | [A Beautiful Break](https://open.spotify.com/track/4xwUUKpKf52tIHZRyyUFKw) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L), [Dennis Korn](https://open.spotify.com/artist/1YITDkdJkXrk05uBpnWw4P) | [A Beautiful Break](https://open.spotify.com/album/5s2pUbevUoy45nOUk5NXx8) | 2:08 |
@@ -318,4 +318,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 308 | [A Gentle Sunlight](https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [A Gentle Sunlight](https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF) | 1:57 |
 | 309 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
 
-Snapshot ID: `MTY3NjYwNjQwMCwwMDAwMDAwMDBjOGZiMWE1MmY1OTA1NWY2M2Q5NjFmMjI3NDEwNmNh`
+Snapshot ID: `MTY3NjYwNjQwMCwwMDAwMDAwMGZhMjhhNTE4ZjE3MzNmZDc4OWZiZjJjYzY1OGYxODk2`

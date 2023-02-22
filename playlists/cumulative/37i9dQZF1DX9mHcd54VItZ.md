@@ -4,7 +4,7 @@
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS?si=LsiXeXHtRJKZdTacWbURoA">Gevoel van Veiligheid</a>
 
-197 songs - 11 hr 45 min
+198 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Leech](https://open.spotify.com/track/213FfJIwavzYZrAXa2nNL5) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Leech](https://open.spotify.com/album/4xnqnQAzwMK6gZsuPTojvU) | 3:50 | 2022-05-26 | 2023-02-17 |
 | [Lefase](https://open.spotify.com/track/20ACysTMjJiaat5ZAwD9nF) | [Tshepang Ramoba](https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh), [BLK JKS](https://open.spotify.com/artist/00yegohFGb5ErPFAIYBc3u), [Riders Against the Storm](https://open.spotify.com/artist/7HX7VccoNod5ogSFcosn9Y) | [Lefase](https://open.spotify.com/album/0gODdkdalKBZ9NO4P5a0We) | 3:30 | 2022-05-26 | 2022-12-16 |
 | [Like Fire](https://open.spotify.com/track/03g3AEXXS0sVDkTWQv51eX) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Looking Back At Getting Here](https://open.spotify.com/album/1Kp1XEcGFJKygN7MVhsGIE) | 3:34 | 2022-02-03 | 2022-11-18 |
+| [Loaded Gun](https://open.spotify.com/track/2plDiIgkQP195XUrFRTlNj) | [Oceans of Angels](https://open.spotify.com/artist/043vNvW2Jlt2J03d0tJJPY) | [The Gift](https://open.spotify.com/album/3Bw3SUtousZqEFxBOM2PM3) | 3:57 | 2023-02-21 |  |
 | [Lonely Boy Heart](https://open.spotify.com/track/0oMAe0kUbEvzBDfiNtk6AP) | [Steve Tissiman](https://open.spotify.com/artist/7ebybXjJ5EhyGVt7fhM5fJ) | [Lonely Boy Heart](https://open.spotify.com/album/2fZYS7lZt0PjkRjgfUe5Nf) | 2:52 | 2023-01-06 |  |
 | [Lonely Road](https://open.spotify.com/track/7c5dtWi2N1DBmEwIBWangX) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Lonely Road](https://open.spotify.com/album/5O7lOQew1oBQHZ4ndqKESK) | 3:15 | 2021-05-05 | 2022-03-04 |
 | [Loveless](https://open.spotify.com/track/7iQui052V5iZA7cPzBJ98M) | [De Wallen](https://open.spotify.com/artist/3n6PF2KnptY1WuDGFguiXF) | [Street Fight Sonata](https://open.spotify.com/album/5fnZOHN3JZLNQ208awZyNk) | 3:11 | 2021-02-18 | 2022-01-22 |
@@ -198,7 +199,7 @@
 | [Wasted Time](https://open.spotify.com/track/12HG1wEqsG2im9oTX5baIq) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/15KdGalTwSTxItX1h7kQkG) | 3:58 | 2022-08-04 | 2022-11-20 |
 | [Wasted Time](https://open.spotify.com/track/7EE7O5tuOKrlnhALLnkrW7) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/3qSADMb9OU8gQqiRgFkKEr) | 3:58 | 2022-08-04 | 2023-02-10 |
 | [What Would You Do?](https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Wasteland \- The Purgatory EP](https://open.spotify.com/album/5iFkEubAbRjQN50VLXmhYF) | 4:49 | 2021-07-29 | 2022-11-18 |
-| [What Would You Do? \[Feat\. Gavin Rossdale\]](https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Gavin Rossdale](https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6) | [What Would You Do?](https://open.spotify.com/album/4w2yJlTLXCQWtzQMo8kWxa) | 4:50 | 2023-02-20 |  |
+| [What Would You Do? \[Feat\. Gavin Rossdale\]](https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Gavin Rossdale](https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6) | [What Would You Do?](https://open.spotify.com/album/4w2yJlTLXCQWtzQMo8kWxa) | 4:50 | 2023-02-20 | 2023-02-22 |
 | [When I'm with You](https://open.spotify.com/track/5CFsX5OidbqmLa71haeKhO) | [Alainite](https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH) | [When I'm with You](https://open.spotify.com/album/6nY5M5Y1lxoxXqhM0lsuzL) | 2:52 | 2022-05-26 | 2023-02-03 |
 | [Window](https://open.spotify.com/track/7LENvCM03NF93ww2gqLGO4) | [Moskitos](https://open.spotify.com/artist/1643brtMFWJOJSX9E3kEzY) | [Adieu Or Die](https://open.spotify.com/album/3T85yUoMOP2izbfZjpIBZt) | 3:12 | 2022-03-24 | 2022-08-05 |
 | [Wolves](https://open.spotify.com/track/0eK0J5fikmB5TiCY932gtQ) | [Kat](https://open.spotify.com/artist/4rB9lKJyTJ6LI6mccmA5EW), [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Wolves](https://open.spotify.com/album/1f98ilxMIzaqHosQXwiZY3) | 3:35 | 2022-01-21 | 2022-11-25 |

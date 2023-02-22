@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,745 likes - 68 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,896 likes - 68 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 29 | [Hot Dance \- David Morales Red Zone Mix](https://open.spotify.com/track/0G5R2bLknNjGs9VExDGYNT) | [Tonio Barrientos](https://open.spotify.com/artist/6cAYKNgOgxeidrYARoVttL), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Hot Dance](https://open.spotify.com/album/5gWaYwgGYvNsEcmFJQQqts) | 5:18 |
 | 30 | [Shift Sequence \- Rakom Remix](https://open.spotify.com/track/0rfFvNRcfEYdOCdxL6F2bz) | [Smilla](https://open.spotify.com/artist/4GNUAjOnCWs0kuq2ikLBVK), [Rakom](https://open.spotify.com/artist/1qWaLzAetDFCQpQWUSGMjr) | [Shift Sequence Remixes Part 4](https://open.spotify.com/album/6jj2HwPNT9aeeydW2x0fTo) | 7:04 |
 | 31 | [Dawn of Man](https://open.spotify.com/track/1eKXY9F9BZzDHraaFCajoh) | [Shydow](https://open.spotify.com/artist/7MctCeJARCIyIfzE1RGFV9) | [Dawn of Man](https://open.spotify.com/album/6ygNkqCX4Ud8CwRtzf700V) | 6:17 |
-| 32 | [Legend](https://open.spotify.com/track/34I6QYP9yREZnvVZvDIo1u) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Legend](https://open.spotify.com/album/6NjOgrgQeokiVkP1CAUxIk) | 3:40 |
+| 32 | [Legend](https://open.spotify.com/track/1kUEp7z1Ivfk2caT9uQP1P) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Legend](https://open.spotify.com/album/3SEJwsLKXnjMeg0c1rhCyB) | 3:40 |
 | 33 | [Massive Bells](https://open.spotify.com/track/7w8M9HRuLI36enKabMRdzD) | [Cores](https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M), [Marco Zaffarano](https://open.spotify.com/artist/52bAOymZ9bKSEuyiNMLXjY) | [Massive Bells](https://open.spotify.com/album/5cqpAi3BPkcNuUWbRzsgoT) | 3:48 |
 | 34 | [Adventures of Dama \- Gorge Rework](https://open.spotify.com/track/2IhAnVqvBv2JWvMsh3zPES) | [Cybordelics](https://open.spotify.com/artist/6oA7ZIJ36hYM0DnXndMlII), [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Adventures of Dama 2022](https://open.spotify.com/album/4nZ4TdGq90n6M6CW0a7oG8) | 8:09 |
 | 35 | [Patterns](https://open.spotify.com/track/1Wrgevw8ryE5ygjDBa9f10) | [Jürgen Kaisr](https://open.spotify.com/artist/6hzeX2ERTNIeQ3QolZk8sW) | [Patterns](https://open.spotify.com/album/2UxYojBKGpTT9IKmKL130T) | 7:48 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 67 | [This Is a Dream](https://open.spotify.com/track/7AfMHMKIg9MKMN7rePjukN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [This Is a Dream](https://open.spotify.com/album/5KpV9ITrp6tRkR1Qp9DEaM) | 8:31 |
 | 68 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
 
-Snapshot ID: `MTY3NjYyNzI5MSwwMDAwMDAwMDFiNjY3ZWQxNzc0OGQwNGVjYjNhMTczYTQ2ZjBiZmQw`
+Snapshot ID: `MTY3NjYyNzI5MSwwMDAwMDAwMGM4NzhjZjdhNmE0YTY0NzdhMjJlOWU2YzI3ZDE3MGFm`

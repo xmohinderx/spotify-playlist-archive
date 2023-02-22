@@ -4,7 +4,7 @@
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-109 songs - 6 hr 52 min
+110 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [We Will by Shinpei Nasuno](https://open.spotify.com/track/1BaF3CLIyQCOm8PkNpqK0e) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shinpei Nasuno](https://open.spotify.com/artist/5PR2yqnZM0wldX5hvDKtSO) | [DENONBU 1st LIVE \-Make Waves\- DANCE TRACK](https://open.spotify.com/album/5xCiqHMNrNax57or0U39oH) | 2:15 | 2022-08-24 |  |
 | [Where Is The Love](https://open.spotify.com/track/68hk6aCelSgrKjHaUxJ8k5) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shogo](https://open.spotify.com/artist/4KBiAMGIoarxbHuyBB25aU), [早川博隆](https://open.spotify.com/artist/6HpFEyrszzNRDgU7dpzpdv), [黒鉄たま \(CV: 秋奈\)](https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph), [白金 煌 \(CV: 小宮有紗\)](https://open.spotify.com/artist/2xJeAewClnCHglceTI3gIw), [灰島銀華 \(CV: 澁谷梓希\)](https://open.spotify.com/artist/5B4sSyRcbTVegDTQlj8aX2) | [Where Is The Love](https://open.spotify.com/album/2RCEV3ttFO1vj3VW1X7RxS) | 4:32 | 2022-08-24 |  |
 | [Winter Magic Opening Track](https://open.spotify.com/track/34X3p442A0RywBZ0D84k9O) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Kijibato](https://open.spotify.com/artist/0Nu6ol0k7wvv19hjtMK5f5) | [DENONBU \(AKIBA Winter Magic REMIX\)](https://open.spotify.com/album/3rtkHJ7fBqEnvZ4quYZDeB) | 3:14 | 2022-08-24 |  |
+| [YAKEZAKE](https://open.spotify.com/track/2B0YWVqh1pDMOvS48tYxvq) | [真新宿GR学園](https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [KOERU](https://open.spotify.com/artist/4g5NpVqyhR9fU1gmLyP6VK), [りむる \(CV: をとは\)](https://open.spotify.com/artist/5trPMTBMzwq4ZCACvjAl77), [ポメモリ\(CV.くいしんぼあかちゃん\)](https://open.spotify.com/artist/6wzN8b7AVehsQjoTnjYig8) | [YAKEZAKE](https://open.spotify.com/album/2hJ8cHwFBwoV5z4omc84v8) | 3:39 | 2023-02-21 |  |
 | [You Are The Light](https://open.spotify.com/track/5ldDKgidUu0EYHjOGizdPS) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [外神田文芸高校](https://open.spotify.com/artist/5l6WrdmLlrxtBeRH6OOub6), [神宮前参道學園](https://open.spotify.com/artist/5OIAt6iflQP7QE5dWAg3Ii), [港白金女学院](https://open.spotify.com/artist/6eHsXYmw47VoTIVRENvVbC), [帝音国際学院](https://open.spotify.com/artist/3DuzdA7sSHyXRGHC7HZHoa), [渡辺 量 \[BNSI\]](https://open.spotify.com/artist/40hUcepx63vnmj2KNmG9yP) | [You Are The Light](https://open.spotify.com/album/5fa0qYzIn1ooIPuIg5okt2) | 4:28 | 2023-01-05 |  |
 | [イルシオン \(Respect\. アクログラム\)](https://open.spotify.com/track/4PAo01ugWsBN6u6c4ttZwl) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Pa's Lam System](https://open.spotify.com/artist/50ERkudmGin7lJt1hsOHyK), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5) | [イルシオン \(Respect\. アクログラム\)](https://open.spotify.com/album/6LdesVSs6upBvsTXWMWgZ6) | 5:10 | 2022-08-30 | 2022-09-01 |
 

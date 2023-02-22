@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: SHERELLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,978 likes - 124 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,998 likes - 124 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

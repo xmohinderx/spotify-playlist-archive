@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior H
 
-222 songs - 11 hr 50 min
+223 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 | 2022-05-20 | 2022-08-06 |
 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 | 2022-07-01 | 2022-12-07 |
 | [papacito](https://open.spotify.com/track/1nV5gbrDdxfua6ICkCVTgY) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/0pZWmEVf32O4FD96hUwnGb) | 3:05 | 2022-05-20 | 2022-08-06 |
+| [Para Ti No](https://open.spotify.com/track/4S6uEOfuwiz7qLBOTd58Nt) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/2V0pmwbM5QL3sbb0tVVDMB) | 3:19 | 2023-01-20 |  |
 | [Para Ti No](https://open.spotify.com/track/4pD2EDopSOZl4ojChPFddV) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/2xGJoSFiRndCEdIMd815j9) | 3:19 | 2022-09-23 | 2023-02-17 |
 | [Para Ti No](https://open.spotify.com/track/5SpueQHv3xgumn1fHbtRZY) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/4EapkHVCYFicbJrMFriCUn) | 3:19 | 2022-09-23 | 2022-10-12 |
 | [Pausa](https://open.spotify.com/track/2WghQbGkuUcc2pOwTMO8Xa) | [EVAH](https://open.spotify.com/artist/0Jq68za8AyaPdrI4NEuMni) | [Pausa](https://open.spotify.com/album/5Y2KMjZlfEdAZtOp5JeXXY) | 4:03 | 2022-02-11 | 2022-09-07 |
@@ -228,7 +229,7 @@
 | [Ya Lo Sé](https://open.spotify.com/track/10L8N4aP9oCPaEbD0s2ain) | [Zheit](https://open.spotify.com/artist/2wa9XNQ6RvXwD2WBKpLFsz), [Hieva](https://open.spotify.com/artist/3vLNmRETMGAOugcWZ8AhFI), [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Ya Lo Sé](https://open.spotify.com/album/6LeSg3ycOJT7k8QLpjZ6Ls) | 3:02 | 2022-02-11 | 2022-09-15 |
 | [ZIGZAG \(feat\. Alice Wonder\)](https://open.spotify.com/track/71E5TGusp7CNoO3hkjiIUx) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [ZIGZAG \(feat\. Alice Wonder\)](https://open.spotify.com/album/0GvWRr1JW2cuHUwApYoJIn) | 3:15 | 2022-09-06 |  |
 | [Ámate](https://open.spotify.com/track/6yMDseBOe0gWib8CSr20Lc) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Ámate](https://open.spotify.com/album/5gnlVxxdWhPoGs63rKZtv3) | 3:09 | 2022-02-11 | 2022-09-07 |
-| [Única](https://open.spotify.com/track/4dUd1p3ipkV5rNoCjPeu75) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [De Uno a Otro](https://open.spotify.com/album/09MaOaqsHgjjUO6bJOL2Ms) | 2:17 | 2022-02-11 |  |
+| [Única](https://open.spotify.com/track/4dUd1p3ipkV5rNoCjPeu75) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [De Uno a Otro](https://open.spotify.com/album/09MaOaqsHgjjUO6bJOL2Ms) | 2:17 | 2022-02-11 | 2023-02-22 |
 | [Úsame](https://open.spotify.com/track/5sODCvqrHPSSQAOgKnUv3d) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/72g5DJ2ieqtlXxH1AEz1TV) | 3:23 | 2022-09-06 |  |
 
 \*This playlist was first scraped on 2022-02-24. Prior content cannot be recovered.

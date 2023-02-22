@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-163 songs - 8 hr 28 min
+164 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,8 +123,9 @@
 | [Pissed in the Morning](https://open.spotify.com/track/3cKgffGir3V6y0iGR75KHT) | [Ricky James](https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC) | [Pissed in the Morning](https://open.spotify.com/album/0Pprw9uYAGNPm9Y1Wh6Q1F) | 2:29 | 2021-12-01 | 2023-01-27 |
 | [Plant!](https://open.spotify.com/track/53oZXP24LECwD6YBybecvG) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Plant!](https://open.spotify.com/album/6M5YgjMimJs0qUBkDmXf3N) | 2:11 | 2021-12-01 |  |
 | [Polly](https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Digital Meadow](https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ) | 2:42 | 2021-12-01 |  |
+| [Possibilities](https://open.spotify.com/track/2YkdEBnEtlTjsVkqTmn2Nm) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [The Giant](https://open.spotify.com/album/3h5Kxnj3ROhC2oj1oijpWK) | 2:55 | 2021-12-01 |  |
 | [Possibilities](https://open.spotify.com/track/3GJP6nsQ2BVQErSsxrRDgB) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Possibilities](https://open.spotify.com/album/6z0UK4WmK0vrxVkbBR04do) | 2:55 | 2021-12-01 | 2023-02-09 |
-| [Possibilities](https://open.spotify.com/track/5WcVgK3BmwUQ3urKowjSug) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Possibilities](https://open.spotify.com/album/3pXL5sTOTnibPN5aGncyt7) | 2:55 | 2021-12-01 |  |
+| [Possibilities](https://open.spotify.com/track/5WcVgK3BmwUQ3urKowjSug) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Possibilities](https://open.spotify.com/album/3pXL5sTOTnibPN5aGncyt7) | 2:55 | 2021-12-01 | 2023-02-22 |
 | [Pretty Birds](https://open.spotify.com/track/7mtyITtbuX58AOzJ17mkPA) | [Nathalie Ezmeralda](https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0) | [Pretty Birds](https://open.spotify.com/album/3BxHICEJSYjfDv9OctxfgR) | 3:12 | 2021-12-01 |  |
 | [Pushin' Thru It](https://open.spotify.com/track/2zdl37IauOeAFxgJsEFVMo) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Pushin' Thru It](https://open.spotify.com/album/3ND0sWPefAXkbLUa80Ntdg) | 4:18 | 2021-12-01 |  |
 | [Reassemble](https://open.spotify.com/track/1hUh5SnrnZv1ROMyroR8R6) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ), [James Chatburn](https://open.spotify.com/artist/4sOcMLlr0hMwrLXScjAgoq) | [Reassemble](https://open.spotify.com/album/2BUrigAvDUtMMsQTrWW45Z) | 3:18 | 2021-12-01 |  |

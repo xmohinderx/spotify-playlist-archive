@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: NF
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,763 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,868 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HOPE](https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW) | 4:24 |
 | 2 | [white dress](https://open.spotify.com/track/2qbp0Z79WhS5myTcZGHPeH) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Love,](https://open.spotify.com/album/0TU2tFRFVm3RzdUJtnm7o4) | 3:40 |
 | 3 | [Hazel Eyes](https://open.spotify.com/track/0GE6MaJmhLob3IEdU0nJpY) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Hazel Eyes](https://open.spotify.com/album/75ajVtZ1Ezt3bBNgKiDWI2) | 2:18 |
-| 4 | [Pretty Ones](https://open.spotify.com/track/3aYYGASJYnbJm3JMNB4vyr) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/6SRrDF2P7b83fiFkd1DGN5) | 3:41 |
+| 4 | [Pretty Ones](https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU) | 3:41 |
 | 5 | [Over & Done](https://open.spotify.com/track/2SrYguoTayQPWhMqlYiRPJ) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Over & Done](https://open.spotify.com/album/1202C1Z8kSjcCgfz33mCeu) | 2:01 |
 | 6 | [slow](https://open.spotify.com/track/0OsBYGVkUv8htOal8W5Wiw) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [slow](https://open.spotify.com/album/4xbP5uCoRcocDrvZujOm7Y) | 1:52 |
 | 7 | [mr\. sunshine](https://open.spotify.com/track/6x984mI891z1E2sVwYumUx) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 8](https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 79 | [act right](https://open.spotify.com/track/1Xwhdmv9VnPjYL4hAwLQjn) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [act right](https://open.spotify.com/album/66kLoEXcmlSRFkyEwjjpZW) | 3:26 |
 | 80 | [Call You Drunk](https://open.spotify.com/track/2Zy4IqUZ0FK4NpKU9Mth30) | [Lupo](https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk) | [Call You Drunk](https://open.spotify.com/album/3m2MxYOk7sCKq87MpQi7yT) | 2:13 |
 
-Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMGMwYjRhMjFlMzIyNjg2N2QzM2I3ZmRlOWI0MDhhMTll`
+Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDBkYzI5NzhjN2U3ZTFjMjAxNTE0ZjIyZTQ3ZjA0OTU1`

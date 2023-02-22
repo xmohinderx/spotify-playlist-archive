@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 61 | [I Want You](https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [I Want You](https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ) | 2:26 |
 | 62 | [Big Lizard Energy](https://open.spotify.com/track/6VluWX7HW7IswLgiHrVvn7) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Big Lizard Energy](https://open.spotify.com/album/78c2Ea9FmvEBOi0gGDmfZP) | 2:37 |
 | 63 | [OK](https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [OK](https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg) | 3:44 |
-| 64 | [04:59](https://open.spotify.com/track/7KQUZd6GvJ1019lwvRMM52) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [04:59](https://open.spotify.com/album/11fkMucFImeliHJCxCQ8C7) | 3:08 |
+| 64 | [04:59](https://open.spotify.com/track/2G0PxH8bh0C9eCz5UwmjJJ) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [04:59](https://open.spotify.com/album/5y2XKJ7ydWMFo0zROcqisa) | 3:08 |
 | 65 | [Walk Away](https://open.spotify.com/track/45hRLI6ljnV3rYOYWMyoIt) | [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Joe Devlin](https://open.spotify.com/artist/6zvaBH9XesIrlYqkC4w6ze) | [Walk Away](https://open.spotify.com/album/3aDkMVk9kfsNPGnj5DKIn0) | 3:12 |
 | 66 | [One Three Nine](https://open.spotify.com/track/3fDASogRbq1vEZGLFcN9QA) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [One Three Nine](https://open.spotify.com/album/1NZ4fJ0HxdQ4L4X418SpLi) | 2:48 |
 | 67 | [Sleep Forever](https://open.spotify.com/track/4BKHayZJtmyfm0NP8erXiC) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Sleep Forever](https://open.spotify.com/album/0aruNZwXtrYUShnQJtqf1b) | 3:07 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 132 | [Freeloader](https://open.spotify.com/track/0ETmDfpRKtQIC45COn64V9) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/2kVAEzBvADamc4w3k88beS) | 3:28 |
 | 133 | [Young Pretenders](https://open.spotify.com/track/3aFeAUW8KomrWvMjFvTHrQ) | [Hot Left Pole](https://open.spotify.com/artist/38AMg0A13hyneREkcLXMTR) | [The Same Mistakes](https://open.spotify.com/album/6ndT4HabBaEyBCUrvil2dB) | 2:57 |
 
-Snapshot ID: `MTY3NjYzMTUyMCwwMDAwMDAwMGVjM2Q4NjJiNjIxZTc1ZmI1MDI0NTJmY2I5MTc1YzJl`
+Snapshot ID: `MTY3NjYzMTUyMCwwMDAwMDAwMGE4MjY3ZWNkMTY0YjVlZGRiZTFmODRlN2Y4MWI3NDlm`

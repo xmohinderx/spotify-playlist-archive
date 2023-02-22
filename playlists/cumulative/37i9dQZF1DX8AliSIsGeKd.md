@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Space92
 
-1,419 songs - 5 day 9 hr 39 min
+1,420 songs - 5 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -727,7 +727,8 @@
 | [Learning to Fly \- Bonus Track](https://open.spotify.com/track/0tKT5LrEldMTYJw3Ov9eAS) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Another Night](https://open.spotify.com/album/7f0bkf8n6AeLyDf8pI2bnT) | 4:46 | 2022-11-25 | 2022-12-09 |
 | [Learning to Fly \- Bonus Track](https://open.spotify.com/track/6k4yXDGfo2cgRE5fMsAJnw) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Another Night](https://open.spotify.com/album/1icETboYWcv7eEkd0dHc2n) | 4:46 | 2022-11-25 | 2022-11-26 |
 | [Left Behind](https://open.spotify.com/track/3NQOEIsyMlYGgy0i1pbxlL) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Left Behind](https://open.spotify.com/album/3ahJz8yBkI9eUcKun7MDel) | 4:24 | 2022-09-16 | 2022-09-30 |
-| [Legend](https://open.spotify.com/track/34I6QYP9yREZnvVZvDIo1u) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Legend](https://open.spotify.com/album/6NjOgrgQeokiVkP1CAUxIk) | 3:40 | 2023-02-10 |  |
+| [Legend](https://open.spotify.com/track/1kUEp7z1Ivfk2caT9uQP1P) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Legend](https://open.spotify.com/album/3SEJwsLKXnjMeg0c1rhCyB) | 3:40 | 2023-02-17 |  |
+| [Legend](https://open.spotify.com/track/34I6QYP9yREZnvVZvDIo1u) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Legend](https://open.spotify.com/album/6NjOgrgQeokiVkP1CAUxIk) | 3:40 | 2023-02-10 | 2023-02-22 |
 | [Lele](https://open.spotify.com/track/6XuwwtSoPzEsQQQpwIsUpD) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [Love or Nothing](https://open.spotify.com/artist/6ZSoTBkU2gS9evF3jncopT) | [Lele](https://open.spotify.com/album/207HUz7goXfcassusuQ8sZ) | 3:46 | 2022-09-22 | 2022-10-07 |
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2022-09-08 | 2022-09-30 |
 | [Less Distraction](https://open.spotify.com/track/7jzP8wUMxlSUnd1d6Df5o2) | [Adiel](https://open.spotify.com/artist/1yetl1fEx0mE16k164jXvw) | [Everything in Between EP](https://open.spotify.com/album/2GfZCrYlD1p86pdsaeYyoG) | 7:16 | 2023-02-02 | 2023-02-17 |

@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 54085,
+  "num_followers": 54117,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMDlmMzk0ODhhYTI3NjJhMjM3YTMwOGFkYzJkNWY3Yjc0",
+  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMGQzZDQxNjJhMWEwNDNiZDQxYzRiZWM5MDUwYzFmZmQz",
   "tracks": [
     {
       "added_at": "2023-02-03 16:31:51",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
     },
     {
-      "added_at": "2023-02-21 01:15:29",
+      "added_at": "2023-02-22 00:24:15",
       "album": {
         "name": "ENT",
         "url": "https://open.spotify.com/album/0PClVbELnvZL2fnAVeJlWt"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/05NKgpBkS8YiN1bqNfFwSW"
     },
     {
-      "added_at": "2023-02-21 01:15:29",
+      "added_at": "2023-02-22 00:24:15",
       "album": {
         "name": "Osobista kolekcja 2",
         "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
@@ -235,18 +235,26 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Zawsze tam gdzie Ty",
-        "url": "https://open.spotify.com/album/4nvLyoLUbyrn0kB0sNzxIu"
+        "name": "Ostatni (Rojst '97 | Netflix)",
+        "url": "https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ"
       },
       "artists": [
         {
-          "name": "Lady Pank",
-          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
+          "name": "Tymek",
+          "url": "https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh"
+        },
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        },
+        {
+          "name": "Urbanski",
+          "url": "https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE"
         }
       ],
-      "duration_ms": 258586,
-      "name": "Zawsze tam gdzie Ty",
-      "url": "https://open.spotify.com/track/1f3C0tSFKsjcflvMCa3X27"
+      "duration_ms": 219546,
+      "name": "Ostatni (Rojst '97 | Netflix)",
+      "url": "https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -327,22 +335,18 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Ale jazz!",
-        "url": "https://open.spotify.com/album/76LTor7lkmS5TndjKVxjEc"
+        "name": "Zawsze tam gdzie Ty",
+        "url": "https://open.spotify.com/album/4nvLyoLUbyrn0kB0sNzxIu"
       },
       "artists": [
         {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        },
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+          "name": "Lady Pank",
+          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
         }
       ],
-      "duration_ms": 187545,
-      "name": "Ale jazz!",
-      "url": "https://open.spotify.com/track/7fuvhZxxLou4qRRo4Z63wE"
+      "duration_ms": 258586,
+      "name": "Zawsze tam gdzie Ty",
+      "url": "https://open.spotify.com/track/1f3C0tSFKsjcflvMCa3X27"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -367,26 +371,22 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Ostatni (Rojst '97 | Netflix)",
-        "url": "https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ"
+        "name": "Ale jazz!",
+        "url": "https://open.spotify.com/album/76LTor7lkmS5TndjKVxjEc"
       },
       "artists": [
         {
-          "name": "Tymek",
-          "url": "https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         },
         {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        },
-        {
-          "name": "Urbanski",
-          "url": "https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE"
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
         }
       ],
-      "duration_ms": 219546,
-      "name": "Ostatni (Rojst '97 | Netflix)",
-      "url": "https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq"
+      "duration_ms": 187545,
+      "name": "Ale jazz!",
+      "url": "https://open.spotify.com/track/7fuvhZxxLou4qRRo4Z63wE"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Lady Pank",
-        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
+        "name": "Ma\u0142omiasteczkowy",
+        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
       },
       "artists": [
         {
-          "name": "Lady Pank",
-          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
         }
       ],
-      "duration_ms": 240080,
-      "name": "Kryzysowa narzeczona",
-      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
+      "duration_ms": 195666,
+      "name": "Nie K\u0142ami",
+      "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Ma\u0142omiasteczkowy",
-        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
+        "name": "Lady Pank",
+        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
       },
       "artists": [
         {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+          "name": "Lady Pank",
+          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
         }
       ],
-      "duration_ms": 195666,
-      "name": "Nie K\u0142ami",
-      "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
+      "duration_ms": 240080,
+      "name": "Kryzysowa narzeczona",
+      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Kr\u00f3lowa dram",
-        "url": "https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya"
+        "name": "Milosc",
+        "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
       },
       "artists": [
         {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
         }
       ],
-      "duration_ms": 183339,
-      "name": "Melodia",
-      "url": "https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW"
+      "duration_ms": 195040,
+      "name": "Peron",
+      "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
+        "name": "Kr\u00f3lowa dram",
+        "url": "https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "duration_ms": 183339,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
         "name": "Ma\u0142omiasteczkowy",
         "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 229666,
       "name": "Najnowszy Klip",
       "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "Milosc",
-        "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
-      },
-      "artists": [
-        {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Peron",
-      "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
+        "name": "Bez Ciebie",
+        "url": "https://open.spotify.com/album/2XX6T9V5MPE35hZRDrBJgR"
+      },
+      "artists": [
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        }
+      ],
+      "duration_ms": 198222,
+      "name": "Bez Ciebie",
+      "url": "https://open.spotify.com/track/28rASnN07Gun1cXpOsbCHo"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
         "name": "Duety",
         "url": "https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 263853,
       "name": "Trudno Tak (Razem Byc Nam Ze Soba)",
       "url": "https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "Bez Ciebie",
-        "url": "https://open.spotify.com/album/2XX6T9V5MPE35hZRDrBJgR"
-      },
-      "artists": [
-        {
-          "name": "Dawid Kwiatkowski",
-          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
-        }
-      ],
-      "duration_ms": 198222,
-      "name": "Bez Ciebie",
-      "url": "https://open.spotify.com/track/28rASnN07Gun1cXpOsbCHo"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Helena",
-        "url": "https://open.spotify.com/album/7HYiz2pwAzXulTpWcL5ZtD"
-      },
-      "artists": [
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        }
-      ],
-      "duration_ms": 231932,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5HoGLRydfDTwIWGrTzJPbQ"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Kontrast",
         "url": "https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 185714,
       "name": "Ka\u017cdego Dnia",
       "url": "https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Helena",
+        "url": "https://open.spotify.com/album/7HYiz2pwAzXulTpWcL5ZtD"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "duration_ms": 231932,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5HoGLRydfDTwIWGrTzJPbQ"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "By\u0142a\u015b serca biciem (The Best)",
-        "url": "https://open.spotify.com/album/3Dg77CdM9jYrmACNeaezpp"
-      },
-      "artists": [
-        {
-          "name": "Andrzej Zaucha",
-          "url": "https://open.spotify.com/artist/3jDEqxckloWOCT1l7l1hJT"
-        }
-      ],
-      "duration_ms": 272773,
-      "name": "By\u0142a\u015b serca biciem",
-      "url": "https://open.spotify.com/track/78m1YhFSRqykwJWNJrPeeU"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Bu\u0142garskie centrum",
         "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 374093,
       "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
       "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "By\u0142a\u015b serca biciem (The Best)",
+        "url": "https://open.spotify.com/album/3Dg77CdM9jYrmACNeaezpp"
+      },
+      "artists": [
+        {
+          "name": "Andrzej Zaucha",
+          "url": "https://open.spotify.com/artist/3jDEqxckloWOCT1l7l1hJT"
+        }
+      ],
+      "duration_ms": 272773,
+      "name": "By\u0142a\u015b serca biciem",
+      "url": "https://open.spotify.com/track/78m1YhFSRqykwJWNJrPeeU"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6cdL3GhIlJZaAXo4Khijwg"
     },
     {
-      "added_at": "2023-02-21 01:15:29",
+      "added_at": "2023-02-22 00:24:15",
       "album": {
         "name": "Nie zrozumie nas - z filmu \u201eJohnny\u201d",
         "url": "https://open.spotify.com/album/1ps4zilmJwT8YRPfIrmv30"

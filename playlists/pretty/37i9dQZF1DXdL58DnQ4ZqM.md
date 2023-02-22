@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,127 likes - 153 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,144 likes - 153 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 152 | [whiskey sour](https://open.spotify.com/track/2gxmc5NdgXjfLOFlAYuDuG) | [tezpu](https://open.spotify.com/artist/4qsNTmhzMYuDilyDFbJFp2), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [whiskey sour](https://open.spotify.com/album/1QzDis0oZARpSYyIWaRkHs) | 2:17 |
 | 153 | [bleep](https://open.spotify.com/track/0VutyxcmjtC8Bs0QLcyIhb) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [bleep](https://open.spotify.com/album/2MnmOWac8GbeCedTkbGldw) | 2:07 |
 
-Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMGI0YTcwNjVmZWQ0YWU5NWNkMDA4OTBmODgwYTljNDAw`
+Snapshot ID: `MTY3Njk5MDAxNywwMDAwMDAwMDNkM2QxY2UzMGU2YWNlY2M0NWNhZjM1YWU4MDkyZTZl`

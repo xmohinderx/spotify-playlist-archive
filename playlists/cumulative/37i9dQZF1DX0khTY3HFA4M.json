@@ -3583,6 +3583,24 @@
     },
     {
       "album": {
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/6EEMSohhxYLpaqoYJBHS0w"
+      },
+      "artists": [
+        {
+          "name": "rjoseph",
+          "url": "https://open.spotify.com/artist/2cdb2U5hrSfprEgLTrPDwl"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/0GyDNrpSIx5pUFyeE8FcHH"
+    },
+    {
+      "album": {
         "name": "Hatching a Dragon",
         "url": "https://open.spotify.com/album/4ZaPUMuADwnfJLZKEXbPix"
       },
@@ -7310,6 +7328,24 @@
       "duration_ms": 149333,
       "name": "Sidewalk Pizza",
       "url": "https://open.spotify.com/track/25SJ2Yobd7M7JRCpOe5UNv"
+    },
+    {
+      "album": {
+        "name": "Sidewalking",
+        "url": "https://open.spotify.com/album/0Gvu76HZo16xfDNAzEkNa1"
+      },
+      "artists": [
+        {
+          "name": "Jazzdroid",
+          "url": "https://open.spotify.com/artist/5oHXx18DkyL0MSytwm6LEO"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110666,
+      "name": "Sidewalking",
+      "url": "https://open.spotify.com/track/6yQREQuyTj1BcrDfV1i0j4"
     },
     {
       "album": {

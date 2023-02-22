@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,794 likes - 55 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,871 likes - 55 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 7 | [Now That We Found Love \- 12" Version](https://open.spotify.com/track/3DakouX0AK62dbYE4FhEt2) | [Third World](https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ) | [Reggae Ambassadors: 20th Anniversary Collection](https://open.spotify.com/album/3vlkQm8RweDiMawQPfFnkA) | 8:15 |
 | 8 | [No Nos Pararan](https://open.spotify.com/track/47uSDINq6LvvNdMPvs82WV) | [Charanga 76](https://open.spotify.com/artist/6bB0iS1H2zn09k8kExHknf) | [No Nos Pararan](https://open.spotify.com/album/5cI6VjFpoHnMSnWtOMO7uW) | 9:34 |
 | 9 | [Fotonovela](https://open.spotify.com/track/53sf1Z9U5W34m4PlhHlmyT) | [Ivan](https://open.spotify.com/artist/4geJci3XRoeMknHvknu2gL) | [Lo Mejor De Los Ochenta](https://open.spotify.com/album/1uYi1bqEbverdinug6DMVO) | 4:41 |
-| 10 | [Song for You](https://open.spotify.com/track/5wNkMIiej8AYMkPH2XNNFr) | [Popcorn](https://open.spotify.com/artist/1strD2p7X77pmc2OKsiJ4f) | [Prime Choice](https://open.spotify.com/album/1MQQ20t6mKImGNu2HQstnh) | 4:33 |
+| 10 | [Song for You](https://open.spotify.com/track/0u8ZMXcwzcKqQnWqcCAvLB) | [Popcorn](https://open.spotify.com/artist/1OjLkKWa1sOm8onEQUrZLQ) | [Prime Choice](https://open.spotify.com/album/3w6kQTZlkeOk28IVFwirEt) | 4:33 |
 | 11 | [Use My Body](https://open.spotify.com/track/04mJG6sKQJyXBG4KgrCdES) | [Mavis John](https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 4:27 |
 | 12 | [Riflessione finale](https://open.spotify.com/track/1rlFvwrdtu1dO7iB8ZoBUl) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Sfinge](https://open.spotify.com/album/35JBlxCx7XjzZDD5XbR76s) | 4:26 |
 | 13 | [El Fen](https://open.spotify.com/track/7mxnjeb6R7jMyKbxGTaB9B) | [Ait Meslayene](https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI) | [El Fen / Casbah](https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs) | 4:39 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 54 | [Il Vecchiaccio](https://open.spotify.com/track/7ozKNLwCWp6dIHR1li1Cbr) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le Mie Canzoni](https://open.spotify.com/album/3GmdCYyuxQpTmIq4kBlfrJ) | 3:45 |
 | 55 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
 
-Snapshot ID: `MTY1ODIxOTQ1OSwwMDAwMDAwMDc3ZjRlMzIyZmM0OWQzODAxYTc1MTJiMTYzNDRhY2Nl`
+Snapshot ID: `MTY1ODIxOTQ1OSwwMDAwMDAwMDY0YTc3YzA3MmU1ODhlZGYzZTlhMjkyNmFkYWE2MmZk`

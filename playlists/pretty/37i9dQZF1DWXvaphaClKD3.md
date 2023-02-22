@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Vicente Fernández & Ana Bárbara en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,417 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,549 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 35 | [Quise Ser Bueno](https://open.spotify.com/track/7MAPPJtHY6ufnyhi6OexMu) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [Kevin Lopez](https://open.spotify.com/artist/0ZzYMp49RXtrF29cEngFFJ) | [Quise Ser Bueno](https://open.spotify.com/album/19kg4sH9AsYEu3oIuuBkcf) | 3:38 |
 | 36 | [A Veces Me Acelero](https://open.spotify.com/track/7nOIaI6s21Tie0lQmu0lfv) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [A Veces Me Acelero](https://open.spotify.com/album/2gAKw1ufXAC4JOQ9EkDNGx) | 2:36 |
 | 37 | [Radico En Guadalajara](https://open.spotify.com/track/25mluHAkXrvgrlSfPj8Ltx) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm), [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Radico En Guadalajara](https://open.spotify.com/album/71ipDGT05rCL2C9jIxlUfx) | 3:02 |
-| 38 | [El Sombrero Del Mercadito](https://open.spotify.com/track/0A22ZsBBqLDM8qnqlvXjXQ) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Sombrero Del Mercadito](https://open.spotify.com/album/63BFkVslnXUFMBffS7JtgF) | 2:57 |
+| 38 | [El Sombrero Del Mercadito](https://open.spotify.com/track/0A22ZsBBqLDM8qnqlvXjXQ) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Sombrero Del Mercadito](https://open.spotify.com/album/63BFkVslnXUFMBffS7JtgF) | 2:54 |
 | 39 | [Sigo Vigente](https://open.spotify.com/track/7nXCqGUKaHvlp7sfU710pl) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [Sigo Vigente](https://open.spotify.com/album/5e4UoYWJctlZpUsMgmC9hi) | 3:37 |
 | 40 | [De la Calle Graduado](https://open.spotify.com/track/7BohzfINUZAuv0m1o1xA1u) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [De la Calle Graduado](https://open.spotify.com/album/4Wigj9epF6591J47RiM58Z) | 3:07 |
 | 41 | [Angelitos](https://open.spotify.com/track/0fI5ZikwAGf9a9ghvDcXgZ) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Angelitos Pt\. 1](https://open.spotify.com/album/53YPLsCDz7sHSdBiNbHR1c) | 3:11 |

@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 58006,
+  "num_followers": 58077,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMDM5Y2FkOTc0NzVjOWIxZTY5ZjgzZjI3NmQ3YTJkM2Fl",
+  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMDNkZjBlNjY1YzNhYTMyOWI3ZTRiZjcyNzAyM2VjZjUz",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "A Bothered Mind",
         "url": "https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 196426,
       "name": "Someday Baby",
       "url": "https://open.spotify.com/track/5ZBUC1YafitJgLt8dgZYTW"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
     },
     {
       "added_at": "2021-03-03 17:28:10",

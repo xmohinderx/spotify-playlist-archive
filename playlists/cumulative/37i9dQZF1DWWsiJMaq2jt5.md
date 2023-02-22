@@ -4,7 +4,7 @@
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Pola Rise
 
-807 songs - 1 day 20 hr 4 min
+808 songs - 1 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,7 +803,8 @@
 | [Zostań](https://open.spotify.com/track/4bddoB0gTxMAYjyR3pfZzn) | [Marisol](https://open.spotify.com/artist/5oBe3ZLAxyhcl6w05EnZfF), [Ola Bird](https://open.spotify.com/artist/3Zp731uRE5DetTNcJjcLO6) | [Zostań](https://open.spotify.com/album/4ywiVhmvy98SWXPZ4OHQxc) | 3:02 | 2023-01-31 |  |
 | [ZW \(zaraz wracam\)](https://open.spotify.com/track/4QwAFnUPRiuF32bRcr1Duc) | [Amelia Andryszczyk](https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk) | [ZW \(zaraz wracam\)](https://open.spotify.com/album/2Lj94qF00yZCD06CIzlCrw) | 2:10 | 2022-02-01 | 2022-03-08 |
 | [Zwariowałam](https://open.spotify.com/track/5xVmF7TFVpeILgitUgYVvf) | [Kamila Krawczyk](https://open.spotify.com/artist/3x9Ir9S0D24h754baIEFRL) | [Zwariowałam](https://open.spotify.com/album/5Z3XErxJ7jlhrjZ7U4DdD1) | 3:17 | 2022-05-31 | 2022-07-06 |
-| [Zwiastun](https://open.spotify.com/track/7s0yBOhhH1JklcrkxE7dX9) | [WOLSKA](https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM) | [Zwiastun](https://open.spotify.com/album/4A9eX6wytzLwFFs6PHnqsb) | 2:32 | 2023-01-31 |  |
+| [Zwiastun](https://open.spotify.com/track/1bgkXB3gpfqyadpxk3IfXz) | [WOLSKA](https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM) | [Zwiastun](https://open.spotify.com/album/5EJd6kKhSQX5SAwLzJXcM7) | 2:32 | 2023-01-31 |  |
+| [Zwiastun](https://open.spotify.com/track/7s0yBOhhH1JklcrkxE7dX9) | [WOLSKA](https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM) | [Zwiastun](https://open.spotify.com/album/4A9eX6wytzLwFFs6PHnqsb) | 2:32 | 2023-01-31 | 2023-02-22 |
 | [Śnię](https://open.spotify.com/track/1fIVFQWn3gScoiGAoidSX8) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Śnię](https://open.spotify.com/album/5o6yfjwDa19gz1GvbRvHsn) | 2:52 | 2022-01-04 | 2022-02-02 |
 | [Śpij](https://open.spotify.com/track/0PBwEWEksoojd5BUHWhO15) | [Kinga I Karolina Pruś](https://open.spotify.com/artist/2ESWEvhtbjNnA8F1L4kgtj) | [Dar](https://open.spotify.com/album/39rNcceVwFcTohL82OBNmw) | 3:31 | 2022-04-06 | 2022-05-04 |
 | [Światła Lamp](https://open.spotify.com/track/4KViQTfoOZyxx5Hi2n8R8X) | [Neurosplot](https://open.spotify.com/artist/6bKu2ZbcHZkuxIyzTmQSKD) | [Światła Lamp](https://open.spotify.com/album/546PJbVCqXmnJ7SDg39ldS) | 3:25 | 2022-01-04 | 2022-02-02 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwNjAyNywwMDAwMDAwMGU1ZDlkZjNjMmIyODkzZjE3NmYyYzk1MTVjZmRiYzgz",
+  "snapshot_id": "MTY2NTcwNjAyNywwMDAwMDAwMDMyNDBlZjQ0ZDk5NWY3MjlkOWM0NGMyNjc4MmM0NDcw",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Inmortales de Pedro Infante (USA)",
-        "url": "https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 165306,
-      "name": "Dios nunca muere",
-      "url": "https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "El Tren de la Alegr\u00eda",
         "url": "https://open.spotify.com/album/5bdtr6jYC4Lqm8gkfebEG6"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 262520,
       "name": "El Fantasma Enamorado",
       "url": "https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Inmortales de Pedro Infante (USA)",
+        "url": "https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 165306,
+      "name": "Dios nunca muere",
+      "url": "https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -759,22 +759,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Mexicano Hasta los Huesos",
-        "url": "https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 380023,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/3b0vNndyamPVvdbVPgP7qB"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
         "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 190200,
       "name": "La vida es un sue\u00f1o",
       "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Mexicano Hasta los Huesos",
+        "url": "https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 380023,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/3b0vNndyamPVvdbVPgP7qB"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Cantando Con la Muerte",
-        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
-      },
-      "artists": [
-        {
-          "name": "Los Folkloristas",
-          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Coplas del Muerto (Coplas) [M\u00e9xico]",
-      "url": "https://open.spotify.com/track/0qOkrzZJWLTWDm8AanZwm6"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Rosa Mexicano",
         "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "God Save The Queers EP",
-        "url": "https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ"
+        "name": "Cantando Con la Muerte",
+        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
       },
       "artists": [
         {
-          "name": "Kumbia Queers",
-          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
+          "name": "Los Folkloristas",
+          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
         }
       ],
-      "duration_ms": 288253,
-      "name": "Kumbia Zombie",
-      "url": "https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH"
+      "duration_ms": 147200,
+      "name": "Coplas del Muerto (Coplas) [M\u00e9xico]",
+      "url": "https://open.spotify.com/track/0qOkrzZJWLTWDm8AanZwm6"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1311,6 +1295,22 @@
       "duration_ms": 360823,
       "name": "Amor eterno",
       "url": "https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "God Save The Queers EP",
+        "url": "https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ"
+      },
+      "artists": [
+        {
+          "name": "Kumbia Queers",
+          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
+        }
+      ],
+      "duration_ms": 288253,
+      "name": "Kumbia Zombie",
+      "url": "https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Basalto",
+        "url": "https://open.spotify.com/album/6fz2cMoIVavyBSaREORH27"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        }
+      ],
+      "duration_ms": 329329,
+      "name": "Barrag\u00e1n",
+      "url": "https://open.spotify.com/track/3emS4pu5weH07M5GlQ6nJt"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 204680,
       "name": "Era Mi Abuelo",
       "url": "https://open.spotify.com/track/6fCvxTPA1u5ov55svizA97"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Basalto",
-        "url": "https://open.spotify.com/album/6fz2cMoIVavyBSaREORH27"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
-        }
-      ],
-      "duration_ms": 329329,
-      "name": "Barrag\u00e1n",
-      "url": "https://open.spotify.com/track/3emS4pu5weH07M5GlQ6nJt"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1576,9 +1576,9 @@
           "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
         }
       ],
-      "duration_ms": 235773,
-      "name": "El Enterrador",
-      "url": "https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI"
+      "duration_ms": 238280,
+      "name": "De\u0301cimas a La Muerte",
+      "url": "https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5"
     },
     {
       "added_at": "2021-11-01 17:39:36",

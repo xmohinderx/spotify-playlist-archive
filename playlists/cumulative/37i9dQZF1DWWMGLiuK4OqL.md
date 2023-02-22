@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-292 songs - 19 hr 54 min
+294 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Hit The Road Jack](https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Light Out Of Darkness \(A Tribute To Ray Charles\)](https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc) | 3:11 | 2022-03-25 | 2023-02-02 |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 | 2022-01-20 |  |
 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 | 2023-02-09 |  |
+| [I Can't Escape from You](https://open.spotify.com/track/38gqh7JEnwNxaKAzGpXB8i) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [I Can't Escape from You](https://open.spotify.com/album/27Ma3265McuCUApZ7wijtk) | 4:38 | 2023-02-16 |  |
 | [I Cried For You](https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Complete Piano Duets](https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd) | 3:28 | 2022-01-20 | 2022-10-08 |
 | [I Didn't Know About You](https://open.spotify.com/track/7l2h3uxkaw0R4asgHyVkQP) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Blue Skies](https://open.spotify.com/album/0sZ66FzxugWumHwU97CVum) | 3:37 | 2022-05-31 | 2022-10-01 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:24 | 2022-01-20 |  |
@@ -152,7 +153,7 @@
 | [It Happens Like That](https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [It Happens Like That](https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo) | 3:31 | 2022-01-20 | 2022-10-08 |
 | [It Never Entered My Mind](https://open.spotify.com/track/0e1AN11cklltbh13wD66E8) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 4:28 | 2022-02-18 | 2022-10-08 |
 | [It's Gonna Happen Tonight](https://open.spotify.com/track/2QcUiQ9NBgHJdX9sGQVaAp) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [It's Gonna Happen Tonight](https://open.spotify.com/album/4wRIv7VL7bUq6gOvccx0DU) | 3:16 | 2022-01-20 |  |
-| [Join Me in a Dream](https://open.spotify.com/track/7uNgFlcMfpYMt3bbqREIE3) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:33 | 2023-02-09 |  |
+| [Join Me in a Dream](https://open.spotify.com/track/7uNgFlcMfpYMt3bbqREIE3) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:33 | 2023-02-09 | 2023-02-22 |
 | [Just a Word](https://open.spotify.com/track/0KUWzd4xWLHOfAWu7fvqfe) | [Alma Naidu](https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Alma](https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa) | 3:53 | 2022-02-10 | 2023-02-20 |
 | [Just The Way You Are](https://open.spotify.com/track/6oqlcJf6qJFiMgytmW4RfA) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r) | 3:46 | 2022-01-20 |  |
 | [Keep Me From The Cold](https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Keep Me From The Cold](https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv) | 4:43 | 2022-01-20 | 2022-07-29 |
@@ -180,7 +181,7 @@
 | [Mrs\. Cold](https://open.spotify.com/track/2fZpBqtZeNpXxX5UiO0AVw) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Mrs\. Cold](https://open.spotify.com/album/1WhW0QimR7aDE0qoBhzCaz) | 3:03 | 2022-01-20 |  |
 | [My Foolish Heart](https://open.spotify.com/track/0kDcnUVGfVX1JvRPkslQc3) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Sentimental Journey](https://open.spotify.com/album/5Df4tcguBo4qkUYY8vA7IV) | 4:43 | 2022-01-20 | 2022-10-08 |
 | [My Funny Valentine](https://open.spotify.com/track/75Utq8LS7PFLi72T2hRZFy) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Hailey Tuck](https://open.spotify.com/album/4RqGTebe8VaFgqk8QYRErE) | 4:13 | 2022-01-20 |  |
-| [My Funny Valentine](https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [I Remember Miles](https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd) | 5:34 | 2022-01-20 |  |
+| [My Funny Valentine](https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [I Remember Miles](https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd) | 5:34 | 2022-01-20 | 2023-02-22 |
 | [My Heart Belongs to Daddy](https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:03 | 2022-03-25 |  |
 | [My Love](https://open.spotify.com/track/28qG0oRPrJZFnbJwfJc9BN) | [Matt Block](https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP), [Morton Block](https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [My Love](https://open.spotify.com/album/7eVutr6kxKpRTsCS9Q12pE) | 3:33 | 2022-03-25 | 2022-04-21 |
 | [My Melancholy Baby](https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:39 | 2022-01-20 |  |
@@ -223,6 +224,7 @@
 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 | 2022-01-20 |  |
 | [Send In The Clowns](https://open.spotify.com/track/30kplsNuLjewPoqzruJi5m) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 4:48 | 2022-01-20 | 2022-07-29 |
 | [Siren Song](https://open.spotify.com/track/5ni22llVwiCeoMkgHsDYP0) | [Vicki Burns](https://open.spotify.com/artist/7nZiiyzxTzzq15HO061L6S) | [Lotus Blossom Days](https://open.spotify.com/album/2D9AerrV1XId2OJ2gAUmSA) | 6:20 | 2022-07-14 | 2022-12-03 |
+| [Skylark](https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Skylark](https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF) | 4:34 | 2023-02-16 |  |
 | [Skylark](https://open.spotify.com/track/5CYD74nAnkF99ykO3npx2g) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 6:29 | 2022-05-19 | 2022-11-27 |
 | [Smile](https://open.spotify.com/track/5H09kZp2YiQjnzhrjch3Ae) | [Tia Brazda](https://open.spotify.com/artist/50hsY3SvrJloPHqVfBTI1R) | [When I Get Low](https://open.spotify.com/album/70ljTIleoi86TjqilzoR3r) | 2:45 | 2022-06-09 |  |
 | [Smoke Gets in Your Eyes](https://open.spotify.com/track/377JiNUjjacysE2M01uEZF) | [Reinhardt Winkler](https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK), [Simone Kopmajer](https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB) | [Flying Home](https://open.spotify.com/album/1KwMYu5s3ytrnUuWdB0ud1) | 4:53 | 2022-09-15 |  |

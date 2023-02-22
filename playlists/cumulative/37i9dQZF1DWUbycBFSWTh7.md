@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-148 songs - 14 hr 11 min
+150 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Running Around](https://open.spotify.com/track/2bnayGAnFWqebodBao1xv8) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Regrowth](https://open.spotify.com/album/6Y2VniWR6cKbJ7IQwp0hdS) | 3:45 | 2022-09-15 |  |
 | [Rush](https://open.spotify.com/track/2RVbDkUFdnZcQuqHWOgZe1) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Rush / Can't Stop Thinking About](https://open.spotify.com/album/2A7lN5fuMXlLQXlgAzuXDN) | 4:06 | 2022-09-15 |  |
 | [Santa Maria](https://open.spotify.com/track/5NIM2RIgXdRVBuM6NH4Pvj) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Santa Maria](https://open.spotify.com/album/57LyXCXEsf5XNf4WZuQsvf) | 6:15 | 2022-09-15 |  |
+| [Sentimental Art \- Relmer Remix](https://open.spotify.com/track/22mb6tsGwy56fj3CBedyd8) | [Karel](https://open.spotify.com/artist/71466X2rWKpkslUhAghZck), [Relmer](https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy) | [Denouncing The Hypocrisy Of Our Time \(Remixes\)](https://open.spotify.com/album/4buqt6V1FP3nG1YRJ4kkhI) | 4:32 | 2023-02-21 |  |
 | [Silence & Secrets \- Black Coffee Remix](https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Silence & Secrets \(Black Coffee Remix\)](https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI) | 7:54 | 2022-09-15 |  |
 | [Slow Down \- James Cole Remix](https://open.spotify.com/track/7IasAOphluLSAmgMtg9jYA) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [James Cole](https://open.spotify.com/artist/4uRl0LZUcciuN8tfRQ3LRM) | [Slow Down \(James Cole Remix\)](https://open.spotify.com/album/3zrP0lDAbH8sF4219tbsX4) | 6:57 | 2022-09-15 |  |
 | [Space de Choux](https://open.spotify.com/track/4M3GFudO4wzzGZDNY1IyGh) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [Space de Choux](https://open.spotify.com/album/2L7CjsaNoVp41LLZGylOrK) | 7:08 | 2022-09-15 |  |
@@ -154,6 +155,7 @@
 | [Yasuo](https://open.spotify.com/track/13UXFUokjGZqQM0g1HSX7Q) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Yasuo](https://open.spotify.com/album/6sZubZLNEZiwb1VYnxB5Qa) | 6:50 | 2022-12-15 |  |
 | [Yipalo](https://open.spotify.com/track/1soxvPNeBojuyZIMFmpDZz) | [Ribas Abbas](https://open.spotify.com/artist/4juB9Jqv2v88qmIhZOT088) | [Yipalo](https://open.spotify.com/album/7oPSQ8xywCGe14Jk2QBus9) | 5:47 | 2022-09-15 | 2023-01-13 |
 | [You \- Edit](https://open.spotify.com/track/1jH7hiI0cpqofP2yI0dihS) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [You \(Edit\)](https://open.spotify.com/album/1g0z09fYWlrT1oekKW0jnY) | 3:58 | 2022-11-10 |  |
+| [You Know How To Love Me](https://open.spotify.com/track/3MnU5q2VAHABSqXr6MmFjf) | [Rick Marshall](https://open.spotify.com/artist/4kEJvzNOaVpggzwGedAnwd) | [You Know How To Love Me](https://open.spotify.com/album/0KchcWFmDy8e32TQV5PVJO) | 7:10 | 2023-02-21 |  |
 | [You Want That](https://open.spotify.com/track/78rZKFNN1Hy6SmdR1805uL) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar) | [You Want That](https://open.spotify.com/album/1inngIYvfwsxn2XQHeQf0P) | 5:52 | 2022-09-15 |  |
 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 | 2022-09-15 |  |
 

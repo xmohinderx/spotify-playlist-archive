@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: LAGOS & Reik",
-  "num_followers": 272070,
+  "num_followers": 272167,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGVkNzUxOGFjZmNiMTRkNDNjMTIwMTkzMDYwNjhlMzg5",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDdlNjFkZTk0NTE3YTllNGZkMmIzYzY1MGI2NDZjYTE0",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Tu Apodo",
+        "url": "https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 155880,
+      "name": "Tu Apodo",
+      "url": "https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 171400,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Tu Apodo",
-        "url": "https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 155880,
-      "name": "Tu Apodo",
-      "url": "https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq"
     },
     {
       "added_at": "2023-02-17 05:00:00",

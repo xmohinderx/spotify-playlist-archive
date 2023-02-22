@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai?si=SGvwZPB0TVSU7e3hyJl4CQ">David Guetta</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,020 likes - 49 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,047 likes - 49 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

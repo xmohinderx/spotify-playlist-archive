@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Paola Guanche. Updates every Wednesday.",
-  "num_followers": 168928,
+  "num_followers": 168932,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQzNzIwMCwwMDAwMDAwMDA1MmMzOGZhZjQ3ZWM4YTVkZjg5Zjg4MTUxMjRiOTM1",
+  "snapshot_id": "MTY3NjQzNzIwMCwwMDAwMDAwMGU1Yjg0ZTg1NzBhN2JiZDljOGYyNmUyMWVhYWNlYTY0",
   "tracks": [
     {
       "added_at": "2023-02-15 05:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
-        "name": "yo sad, t\u00fa feliz",
-        "url": "https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5"
-      },
-      "artists": [
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
-        }
-      ],
-      "duration_ms": 161621,
-      "name": "yo sad, t\u00fa feliz",
-      "url": "https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO"
-    },
-    {
-      "added_at": "2023-02-15 05:00:00",
-      "album": {
         "name": "Let Me Down Slow",
         "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 177954,
       "name": "Let Me Down Slow",
       "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "yo sad, t\u00fa feliz",
+        "url": "https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
+        }
+      ],
+      "duration_ms": 161621,
+      "name": "yo sad, t\u00fa feliz",
+      "url": "https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO"
     },
     {
       "added_at": "2023-02-15 05:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/5UtGslIGfnN5XBi6HWsx0l"
-      },
-      "artists": [
-        {
-          "name": "Drea",
-          "url": "https://open.spotify.com/artist/20fywzlqbWbjl0HlrJ3MqL"
-        }
-      ],
-      "duration_ms": 169156,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3PZr746QPiUvRCOLy4uVsb"
-    },
-    {
-      "added_at": "2023-02-15 05:00:00",
-      "album": {
         "name": "Olvidarte Para Qu\u00e9",
         "url": "https://open.spotify.com/album/5QhqosoqUtQTODvmT5Qwji"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 211033,
       "name": "Olvidarte Para Qu\u00e9",
       "url": "https://open.spotify.com/track/6ZBsNz0WOrJi4GsJTABdvg"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/5UtGslIGfnN5XBi6HWsx0l"
+      },
+      "artists": [
+        {
+          "name": "Drea",
+          "url": "https://open.spotify.com/artist/20fywzlqbWbjl0HlrJ3MqL"
+        }
+      ],
+      "duration_ms": 169156,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3PZr746QPiUvRCOLy4uVsb"
     },
     {
       "added_at": "2023-02-15 05:00:00",
@@ -519,6 +519,26 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
+        "name": "No me sale querer",
+        "url": "https://open.spotify.com/album/42g65upSU5sj7NtC6dZth3"
+      },
+      "artists": [
+        {
+          "name": "Rococ\u00f3",
+          "url": "https://open.spotify.com/artist/69a8n82mR2VGTcVejFM2Dq"
+        },
+        {
+          "name": "Meeky",
+          "url": "https://open.spotify.com/artist/5ZvA5aP68LHgdCh0kFF2J5"
+        }
+      ],
+      "duration_ms": 183657,
+      "name": "Ansiedad y TV",
+      "url": "https://open.spotify.com/track/4fgyRpHJridkqa6um7x47e"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
         "name": "Majalca",
         "url": "https://open.spotify.com/album/3iCr5j5ifLIUObeqOIYh2O"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 205000,
       "name": "cuidao",
       "url": "https://open.spotify.com/track/6B2xmQgcYZzDESQUjh2l55"
-    },
-    {
-      "added_at": "2023-02-15 05:00:00",
-      "album": {
-        "name": "No me sale querer",
-        "url": "https://open.spotify.com/album/42g65upSU5sj7NtC6dZth3"
-      },
-      "artists": [
-        {
-          "name": "Rococ\u00f3",
-          "url": "https://open.spotify.com/artist/69a8n82mR2VGTcVejFM2Dq"
-        },
-        {
-          "name": "Meeky",
-          "url": "https://open.spotify.com/artist/5ZvA5aP68LHgdCh0kFF2J5"
-        }
-      ],
-      "duration_ms": 183657,
-      "name": "Ansiedad y TV",
-      "url": "https://open.spotify.com/track/4fgyRpHJridkqa6um7x47e"
     },
     {
       "added_at": "2023-02-15 05:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
-        "name": "Papaya dulce",
-        "url": "https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1"
-      },
-      "artists": [
-        {
-          "name": "Aristi",
-          "url": "https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1"
-        }
-      ],
-      "duration_ms": 211581,
-      "name": "Papaya dulce",
-      "url": "https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb"
-    },
-    {
-      "added_at": "2023-02-15 05:00:00",
-      "album": {
         "name": "Mi Cuerpo Subira",
         "url": "https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 136981,
       "name": "Mi Cuerpo Subira",
       "url": "https://open.spotify.com/track/1YyDgqeagZ4fjjfGcI9c3S"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Papaya dulce",
+        "url": "https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1"
+      },
+      "artists": [
+        {
+          "name": "Aristi",
+          "url": "https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1"
+        }
+      ],
+      "duration_ms": 211581,
+      "name": "Papaya dulce",
+      "url": "https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb"
     },
     {
       "added_at": "2023-02-15 05:00:00",

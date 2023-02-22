@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Lin Rountree",
-  "num_followers": 44634,
+  "num_followers": 44678,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGVhMmNmZDg4OTJjNWFkYjc0NTEyNDg2Y2RhZDlmZGQ0",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGM4ZjdhNTc0ODQxZTJkNDIxZWMwN2I5NmE3MDE3MGY2",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2"
     },
     {
-      "added_at": "2022-10-24 14:43:12",
-      "album": {
-        "name": "Breakthrough (Radio Version)",
-        "url": "https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt"
-      },
-      "artists": [
-        {
-          "name": "Cal Harris Jr.",
-          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
-        }
-      ],
-      "duration_ms": 252877,
-      "name": "Breakthrough - Radio Version",
-      "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "In His Vision",
@@ -447,6 +431,22 @@
       "duration_ms": 231509,
       "name": "In His Vision",
       "url": "https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb"
+    },
+    {
+      "added_at": "2022-10-24 14:43:12",
+      "album": {
+        "name": "Breakthrough (Radio Version)",
+        "url": "https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt"
+      },
+      "artists": [
+        {
+          "name": "Cal Harris Jr.",
+          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
+        }
+      ],
+      "duration_ms": 252877,
+      "name": "Breakthrough - Radio Version",
+      "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
     },
     {
-      "added_at": "2022-10-17 15:45:13",
-      "album": {
-        "name": "Unspeakable",
-        "url": "https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U"
-      },
-      "artists": [
-        {
-          "name": "Sam Rucker",
-          "url": "https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE"
-        }
-      ],
-      "duration_ms": 226438,
-      "name": "Unspeakable",
-      "url": "https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Movin' N Groovin",
@@ -567,6 +551,22 @@
       "duration_ms": 264640,
       "name": "Movin' N Groovin",
       "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
+    },
+    {
+      "added_at": "2022-10-17 15:45:13",
+      "album": {
+        "name": "Unspeakable",
+        "url": "https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U"
+      },
+      "artists": [
+        {
+          "name": "Sam Rucker",
+          "url": "https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE"
+        }
+      ],
+      "duration_ms": 226438,
+      "name": "Unspeakable",
+      "url": "https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
     },
     {
-      "added_at": "2022-02-14 15:14:54",
-      "album": {
-        "name": "A Midnight Rendezvous",
-        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
-      },
-      "artists": [
-        {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Pioneer Town",
-      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
-    },
-    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "A Sunny Day",
@@ -721,24 +705,20 @@
       "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
     },
     {
-      "added_at": "2023-02-03 05:01:00",
+      "added_at": "2022-02-14 15:14:54",
       "album": {
-        "name": "Stick It Out",
-        "url": "https://open.spotify.com/album/7BnIe8wSqy0cC3M96mZax5"
+        "name": "A Midnight Rendezvous",
+        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
       },
       "artists": [
         {
-          "name": "James 'PJ' Spraggins",
-          "url": "https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV"
-        },
-        {
-          "name": "Eric Dubose",
-          "url": "https://open.spotify.com/artist/4zY23YqtW0FKY67lqFhKqK"
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
         }
       ],
-      "duration_ms": 220909,
-      "name": "Stick It Out",
-      "url": "https://open.spotify.com/track/4ZkcYV2L5wz3a1VcmaAZ3t"
+      "duration_ms": 237586,
+      "name": "Pioneer Town",
+      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -757,24 +737,24 @@
       "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
+      "added_at": "2023-02-03 05:01:00",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU"
+        "name": "Stick It Out",
+        "url": "https://open.spotify.com/album/7BnIe8wSqy0cC3M96mZax5"
       },
       "artists": [
         {
-          "name": "J. White",
-          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
+          "name": "James 'PJ' Spraggins",
+          "url": "https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV"
         },
         {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+          "name": "Eric Dubose",
+          "url": "https://open.spotify.com/artist/4zY23YqtW0FKY67lqFhKqK"
         }
       ],
-      "duration_ms": 264573,
-      "name": "Motor City Moves (feat. Lin Rountree)",
-      "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
+      "duration_ms": 220909,
+      "name": "Stick It Out",
+      "url": "https://open.spotify.com/track/4ZkcYV2L5wz3a1VcmaAZ3t"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -807,6 +787,26 @@
       "duration_ms": 374536,
       "name": "Honest",
       "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU"
+      },
+      "artists": [
+        {
+          "name": "J. White",
+          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
+        },
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "duration_ms": 264573,
+      "name": "Motor City Moves (feat. Lin Rountree)",
+      "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
     },
     {
       "added_at": "2022-05-20 04:02:00",

@@ -2,7 +2,7 @@
 
 ### [tear drop](https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl)
 
-> In your bag\. Cover: The Kid Laroi
+> In your bag\. Cover: Kxllswxtch
 
 778 songs - 1 day 11 hr 22 min
 
@@ -346,7 +346,7 @@
 | [I'm Dead](https://open.spotify.com/track/52LqX8qgdJ5hKPvFOWAADe) | [kyeaintdead](https://open.spotify.com/artist/7Guax0U5Sla4txS1loKYUB) | [I'm Dead](https://open.spotify.com/album/0p51edjHUjInQAJPiyIltP) | 2:41 | 2022-03-22 | 2022-04-20 |
 | [I'm falling apart fast feels like I'm flying](https://open.spotify.com/track/16ZHjPPoTEJ5TXPydW3zLR) | [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [I'm falling apart fast feels like I'm flying](https://open.spotify.com/album/5JNoIeBuh2Ikeoj7z5Cx9h) | 2:48 | 2021-01-15 | 2021-03-14 |
 | [i'm just your problem](https://open.spotify.com/track/4q94AsjlAnkieoAGR14XWQ) | [MEANFACE EARL](https://open.spotify.com/artist/6gcq7vcaMDasUfiPojyhSA), [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [i’m not suicidal, just sad](https://open.spotify.com/album/3WLTzOBwa0FFK2D0z2bkPR) | 2:10 | 2021-02-28 | 2021-03-01 |
-| [i'm sorry](https://open.spotify.com/track/5zbaVaJgphpr6ZiIzoYilC) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [i'm sorry](https://open.spotify.com/album/63y7aQhALoZ1L9Z3EQzLvI) | 3:12 | 2022-12-09 |  |
+| [i'm sorry](https://open.spotify.com/track/5zbaVaJgphpr6ZiIzoYilC) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [i'm sorry](https://open.spotify.com/album/63y7aQhALoZ1L9Z3EQzLvI) | 3:12 | 2022-12-09 | 2023-02-22 |
 | [I\. Married](https://open.spotify.com/track/3ZJT9YonkUgHO0wUFKgTKu) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [I\. Married](https://open.spotify.com/album/0o8JzGLMnjrnO0w34Kq5bu) | 3:25 | 2021-12-17 | 2022-04-18 |
 | [Ice Water \(feat\. Trippie Redd\)](https://open.spotify.com/track/2RTkEYOLYDQtjWFGNZtvpT) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Unbothered \(Deluxe\)](https://open.spotify.com/album/66GLiXR40lPbFF3vPc8YXX) | 3:00 | 2021-05-15 | 2022-01-06 |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-03-31 | 2022-06-25 |
@@ -521,7 +521,7 @@
 | [PARANOID](https://open.spotify.com/track/7wRW6FhvuOrXtvlOkW5VrX) | [Memoria XI](https://open.spotify.com/artist/7qIHY5nwyAyxsM0U1e1UzN) | [TOO GOOD TO BE TRUE](https://open.spotify.com/album/4YGNTJCsfomnXHGO80oSD2) | 2:30 | 2022-03-25 | 2022-06-30 |
 | [patience.](https://open.spotify.com/track/6PkmgGS8wwfLgwqIzwv8zt) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [patience.](https://open.spotify.com/album/3p8TvJfEMWmd1rM0P1o57z) | 2:28 | 2022-05-13 | 2022-05-19 |
 | [PAVEMENT](https://open.spotify.com/track/3s5NHQg2jTcOTVM1myA8V3) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [CHASING BUTTERFLIES](https://open.spotify.com/album/3uQxnxiEOlKgkTnxZ2IXuD) | 3:36 | 2021-09-17 | 2022-04-05 |
-| [Perfect](https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Perfect](https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym) | 3:39 | 2021-01-15 | 2023-02-21 |
+| [Perfect](https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Perfect](https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym) | 3:39 | 2021-01-15 |  |
 | [Petrified](https://open.spotify.com/track/2M85nUhefR3JP7k5EXhlqE) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Petrified](https://open.spotify.com/album/1ORMjwQE0Gz64gU3iIwxel) | 3:06 | 2020-12-13\* | 2021-06-19 |
 | [Phone Down](https://open.spotify.com/track/6zzoT6kZHM4SpPCjLdfLVg) | [Boy Pape](https://open.spotify.com/artist/5HHhIPYoYyTyp1mvCngnkZ) | [Phone Down](https://open.spotify.com/album/6MOkdkDvzJ7CmXMdDLq4tc) | 2:12 | 2020-12-18 | 2021-01-05 |
 | [picture us](https://open.spotify.com/track/6anqdTarC0O3k4MZfaSOnz) | [Gun Boi Kaz](https://open.spotify.com/artist/7MwXfL45fq9pA1RwQHxhxy), [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [picture us](https://open.spotify.com/album/0ZgKrG7VgRfHY5FvfWOEJO) | 2:44 | 2021-09-17 | 2022-04-18 |

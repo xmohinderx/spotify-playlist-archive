@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 246221,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/3j8TJsOphpnaBhMATCPFFY"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 263746,
       "name": "Colorful End Epilogue",
       "url": "https://open.spotify.com/track/08l8ahP9ON3IgZlmd2MSq1"
@@ -2381,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322120,
+      "name": "HUMAN",
+      "url": "https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7"
+    },
+    {
+      "album": {
         "name": "HYSTERIC CARAVAN",
         "url": "https://open.spotify.com/album/0rEOEfJikdn5Klb8dKK1za"
       },
@@ -3090,7 +3108,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 242027,
       "name": "Love is Show",
       "url": "https://open.spotify.com/track/1wPOJ0SBOqbrs8Zw7wte88"
@@ -3246,7 +3264,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 210466,
       "name": "Maihime",
       "url": "https://open.spotify.com/track/7ahO8v4N7OQsnnNd2p8Fab"
@@ -5043,6 +5061,24 @@
     },
     {
       "album": {
+        "name": "TRIGGER",
+        "url": "https://open.spotify.com/album/0FX4ocXqTa8VSq9QSXFA4O"
+      },
+      "artists": [
+        {
+          "name": "Amamiya Sora",
+          "url": "https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274978,
+      "name": "TRIGGER",
+      "url": "https://open.spotify.com/track/0zzfORvHh4ak5BscgpdRqF"
+    },
+    {
+      "album": {
         "name": "TRUE STORY",
         "url": "https://open.spotify.com/album/4h4woOf4hcnWWcfER8dOpG"
       },
@@ -6645,6 +6681,28 @@
     },
     {
       "album": {
+        "name": "\u30af\u30a6\u30d5\u30af (starring VALSHE)",
+        "url": "https://open.spotify.com/album/6ggasRuWfhDyzfDCu0aWQn"
+      },
+      "artists": [
+        {
+          "name": "\u4eca\u591c\u3001\u3042\u306e\u8857\u304b\u3089",
+          "url": "https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y"
+        },
+        {
+          "name": "VALSHE",
+          "url": "https://open.spotify.com/artist/3RbqLuOD3CrWxEpXeyMbS3"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170633,
+      "name": "\u30af\u30a6\u30d5\u30af (starring VALSHE)",
+      "url": "https://open.spotify.com/track/3nM0q6UoSaxxfeU81Sb8s5"
+    },
+    {
+      "album": {
         "name": "\u30b5\u30a4\u30c0\u30fc",
         "url": "https://open.spotify.com/album/3hCLUq4eAthQqGFZ3KfJbY"
       },
@@ -7360,7 +7418,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 256532,
       "name": "\u30d5\u30a1\u30f3\u30bf\u30b8\u30c3\u30af\u30fb\u30d1\u30fc\u30c8\u30ca\u30fc",
       "url": "https://open.spotify.com/track/1prl1AtKjdOofWAwjL4usH"
@@ -8075,6 +8133,24 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30c0\u30f3\u30b8\u30e7\u30f3\u306b\u51fa\u4f1a\u3044\u3092\u6c42\u3081\u308b\u306e\u306f\u9593\u9055\u3063\u3066\u3044\u308b\u3060\u308d\u3046\u304bIV \u6df1\u7ae0 \u5384\u707d\u7bc7\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u300c\u5207\u308a\u50b7\u300d",
+        "url": "https://open.spotify.com/album/6JVfpI9ASJJIchwyPuZY9R"
+      },
+      "artists": [
+        {
+          "name": "sajou no hana",
+          "url": "https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217789,
+      "name": "\u5207\u308a\u50b7",
+      "url": "https://open.spotify.com/track/2KJ4Qr0M7KUsy5frJTTjVa"
+    },
+    {
+      "album": {
         "name": "\u53ad\u308f\u306a\u3044",
         "url": "https://open.spotify.com/album/1rI6gPUa74r9I6HUSFHbac"
       },
@@ -8484,6 +8560,28 @@
       "duration_ms": 227625,
       "name": "\u5c0f\u558b\u65e5\u548c",
       "url": "https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN"
+    },
+    {
+      "album": {
+        "name": "\u5e0c\u671b\u306e\u58f0",
+        "url": "https://open.spotify.com/album/5NAgL68RJr4Ribm5Okzu90"
+      },
+      "artists": [
+        {
+          "name": "UniteUp!",
+          "url": "https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo"
+        },
+        {
+          "name": "Anela",
+          "url": "https://open.spotify.com/artist/1BeVYVAzCorZ52aPMereYt"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249866,
+      "name": "\u5e0c\u671b\u306e\u58f0",
+      "url": "https://open.spotify.com/track/0BngQzqA4SQbcdZYy88BqB"
     },
     {
       "album": {

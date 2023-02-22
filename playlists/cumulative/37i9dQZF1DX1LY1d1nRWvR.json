@@ -236,6 +236,28 @@
     {
       "album": {
         "name": "Sankofa Season",
+        "url": "https://open.spotify.com/album/39XIMK0KMICg1ArxQQ84M0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ashong",
+          "url": "https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o"
+        },
+        {
+          "name": "Kaidi Tatham",
+          "url": "https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342591,
+      "name": "Eye Mo K",
+      "url": "https://open.spotify.com/track/0agfSgppo4wJgxxWwjWlng"
+    },
+    {
+      "album": {
+        "name": "Sankofa Season",
         "url": "https://open.spotify.com/album/2X0ipAg7rr3Zzc9bDuhROn"
       },
       "artists": [
@@ -1154,7 +1176,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 222148,
       "name": "The Sun Is Warm and Directly Above You",
       "url": "https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt"
@@ -1172,7 +1194,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-22",
       "duration_ms": 205816,
       "name": "Theme from Selva",
       "url": "https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3"
@@ -1320,7 +1342,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-20",
+      "date_removed": null,
       "duration_ms": 307360,
       "name": "Youth Jazz",
       "url": "https://open.spotify.com/track/7AhZqOQ976CkrBYXCDdsyU"
