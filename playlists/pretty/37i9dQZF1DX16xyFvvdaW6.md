@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,830 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,864 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 33 | [El Héroe De La Humanidad](https://open.spotify.com/track/61ZdhQyMoPmftovugJ7uk2) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:03 |
 | 34 | [En mi palma te escribí](https://open.spotify.com/track/4kkLruWcwJ6B2qSGl58zkf) | [La voz del desierto](https://open.spotify.com/artist/3o3NVYDVBPfg4tWKe6hKuC) | [Él me vuelve a levantar](https://open.spotify.com/album/6mTchxlwaF1UCRmGlof1uB) | 3:55 |
 | 35 | [Revolución](https://open.spotify.com/track/3On8E0EIn0lFMc2Jbc9k0v) | [Padre Jony](https://open.spotify.com/artist/42HGVpAbSf1xevhPB2gero) | [Madrid 2011 \(Música para la JMJ / Music for WYD\)](https://open.spotify.com/album/3UbwDXMWN6ewsV7V9SfKQd) | 3:43 |
-| 36 | [La Bendición](https://open.spotify.com/track/3xATGvvRb6L3pN6VQJN3o9) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/1ftyzyvz2FGRLq6p4Lx8P0) | 3:49 |
+| 36 | [La Bendición](https://open.spotify.com/track/2I7bBpIx0X6yJcWY3AGNi1) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/1b53jIDNaeJhlerPMnCY9e) | 3:49 |
 | 37 | [Vuelvo a Ver](https://open.spotify.com/track/3hJYBaL0k7Y7UHmzHrOeGh) | [Puerto Seguro](https://open.spotify.com/artist/0NYMMK9shZvGfTbaeE75xd) | [Vuelvo a Ver](https://open.spotify.com/album/0HyL4cWJurDVxObSN7kQhO) | 4:16 |
 | 38 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 |
 | 39 | [Somos Libres feat\. Omar Rodríguez Music](https://open.spotify.com/track/2C5f7uN6SEhhZuEBiVednO) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb), [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Incontenible Es Tu Amor](https://open.spotify.com/album/3US7xplIUPp647q67nCMS0) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 49 | [Otra Oportunidad](https://open.spotify.com/track/0g1dQ5Wafzv5umVhjNcEle) | [Revoluzion Estereo](https://open.spotify.com/artist/07y7DBTR7GwPS7sapmxrtG) | [Revoluzion Estereo](https://open.spotify.com/album/6LpcHauCrtKT0UJuXG8YI8) | 4:15 |
 | 50 | [Porque Fingir](https://open.spotify.com/track/7v13JBeYnHzgB4enyvcOcP) | [180 Grados](https://open.spotify.com/artist/5EFB2QpDOSYieHayE27uZ8) | [Cambio](https://open.spotify.com/album/59V6jFpLnTeVajCNjVKlyM) | 4:04 |
 
-Snapshot ID: `MTY2NjcxNTMzNCwwMDAwMDAwMGVhYjgxMmQyZGYzOWMzYjNlMjM2ZWJiYWFiNGVmZTM2`
+Snapshot ID: `MTY2NjcxNTMzNCwwMDAwMDAwMDYyOTRjZjllZWZiOWIzNGJkNzk0YTQ2MDM3ODExZjdl`

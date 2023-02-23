@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5OTQ1NCwwMDAwMDAwMGZlZDA4YjE2ZWQ0MDBkYjczMjkwMTg2N2I2NGZhZmI5",
+  "snapshot_id": "MTY3NjY5OTQ1NCwwMDAwMDAwMDgxNjRlZWU0MzZkNGI5OTJkYjRmZmFlZDVlN2VkMTgx",
   "tracks": [
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Trin-i-tee 5:7",
-        "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
-      },
-      "artists": [
-        {
-          "name": "Trin-I-Tee 5:7",
-          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Mary Don't You Weep",
-      "url": "https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
         "name": "Easter Project",
         "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 429522,
       "name": "The Crucifixion",
       "url": "https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "Trin-i-tee 5:7",
+        "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
+      },
+      "artists": [
+        {
+          "name": "Trin-I-Tee 5:7",
+          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Mary Don't You Weep",
+      "url": "https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO"
     },
     {
       "added_at": "2023-02-18 05:50:54",

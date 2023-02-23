@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 66668,
+  "num_followers": 66691,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDA2YmE1NzJhYmU5YTJkMTVmNTYxNTgzMzU2MzRhZjE4",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDFmY2JmYmJlZDQwODI0MjcyZTFlZDY3NTA0ZWYzMDg5",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -227,6 +227,26 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
+        "name": "Godmorgen, s\u00f8ster",
+        "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
+      },
+      "artists": [
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
+        },
+        {
+          "name": "Rita Eriksen",
+          "url": "https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da"
+        }
+      ],
+      "duration_ms": 270693,
+      "name": "Tir n'a Noir",
+      "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
         "name": "Og s\u00e5 kom resten av livet",
         "url": "https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN"
       },
@@ -239,22 +259,6 @@
       "duration_ms": 311453,
       "name": "E du nord",
       "url": "https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "Liten fuggel (Med kommentarer)",
-        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
-      },
-      "artists": [
-        {
-          "name": "Vamp",
-          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "Liten fuggel",
-      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -327,8 +331,8 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Ka e du redd for",
-        "url": "https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB"
+        "name": "Siste sang",
+        "url": "https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S"
       },
       "artists": [
         {
@@ -336,17 +340,13 @@
           "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
         },
         {
-          "name": "Sigvart Dagsland",
-          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
-        },
-        {
           "name": "Hver gang vi m\u00f8tes",
           "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 244640,
-      "name": "Ka e du redd for",
-      "url": "https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW"
+      "duration_ms": 210173,
+      "name": "Siste sang",
+      "url": "https://open.spotify.com/track/6mqXYaO9snfrzfshOmDrCa"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -371,22 +371,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Godmorgen, s\u00f8ster",
-        "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
+        "name": "Liten fuggel (Med kommentarer)",
+        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
       },
       "artists": [
         {
           "name": "Vamp",
           "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        },
-        {
-          "name": "Rita Eriksen",
-          "url": "https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da"
         }
       ],
-      "duration_ms": 270693,
-      "name": "Tir n'a Noir",
-      "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
+      "duration_ms": 191173,
+      "name": "Liten fuggel",
+      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -487,8 +483,8 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Siste sang",
-        "url": "https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S"
+        "name": "Ka e du redd for",
+        "url": "https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB"
       },
       "artists": [
         {
@@ -496,13 +492,17 @@
           "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
         },
         {
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+        },
+        {
           "name": "Hver gang vi m\u00f8tes",
           "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 210173,
-      "name": "Siste sang",
-      "url": "https://open.spotify.com/track/6mqXYaO9snfrzfshOmDrCa"
+      "duration_ms": 244640,
+      "name": "Ka e du redd for",
+      "url": "https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 266328,
-      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Til deg (Single Version)",
         "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 186552,
       "name": "Pusterom",
       "url": "https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 266328,
+      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
     },
     {
       "added_at": "2023-02-09 23:00:00",

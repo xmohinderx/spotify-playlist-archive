@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 186042,
+  "num_followers": 186120,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NjIwMiwwMDAwMDAwMGEzMWIxOTU3YTFhMjdlODI1OTY1YTQyMDk0MjM3Mzdi",
+  "snapshot_id": "MTY3MzI0NjIwMiwwMDAwMDAwMDk4MmVkOWY4YTA4ZDY1MWQ1ZTNmYmQyODJjNzU2NWE3",
   "tracks": [
     {
       "added_at": "2023-01-09 06:36:42",
@@ -859,18 +859,22 @@
     {
       "added_at": "2023-01-09 06:36:42",
       "album": {
-        "name": "Simplemente Tejano",
-        "url": "https://open.spotify.com/album/49NcAGCAejf91zf9378McY"
+        "name": "Los \u00c1ngeles Existen",
+        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
       },
       "artists": [
         {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 278493,
-      "name": "La Mancha",
-      "url": "https://open.spotify.com/track/4Sftcc8OWNsF6jyszaOwC6"
+      "duration_ms": 170426,
+      "name": "Me Derrito (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -891,22 +895,18 @@
     {
       "added_at": "2023-01-09 06:36:42",
       "album": {
-        "name": "Los \u00c1ngeles Existen",
-        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
+        "name": "Simplemente Tejano",
+        "url": "https://open.spotify.com/album/49NcAGCAejf91zf9378McY"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
         }
       ],
-      "duration_ms": 170426,
-      "name": "Me Derrito (feat. Bobby Pulido)",
-      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
+      "duration_ms": 278493,
+      "name": "La Mancha",
+      "url": "https://open.spotify.com/track/4Sftcc8OWNsF6jyszaOwC6"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -1006,27 +1006,15 @@
         {
           "name": "David Lee Garza",
           "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Al Partir",
-      "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
-    },
-    {
-      "added_at": "2023-01-09 06:36:42",
-      "album": {
-        "name": "Mucho Mas Que Amor",
-        "url": "https://open.spotify.com/album/3LeSzG6DuuxpKdq48olrny"
-      },
-      "artists": [
+        },
         {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+          "name": "Los Musicales",
+          "url": "https://open.spotify.com/artist/71Vi0mhi8ZgBczjBNJlLah"
         }
       ],
-      "duration_ms": 205266,
-      "name": "Eres Mi Todo",
-      "url": "https://open.spotify.com/track/0bWKrBW9avAHSqsgYa19nE"
+      "duration_ms": 206200,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -1043,6 +1031,22 @@
       "duration_ms": 223506,
       "name": "Con un Nudo en la Garganta",
       "url": "https://open.spotify.com/track/0tWVo41LuScCrbfZjYDz6u"
+    },
+    {
+      "added_at": "2023-01-09 06:36:42",
+      "album": {
+        "name": "Tejano Award Nominees",
+        "url": "https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy"
+      },
+      "artists": [
+        {
+          "name": "Pete Astudillo",
+          "url": "https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY"
+        }
+      ],
+      "duration_ms": 230896,
+      "name": "Como Te Extrano",
+      "url": "https://open.spotify.com/track/1xXacwtojBabEce1MTLvkY"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -1067,18 +1071,18 @@
     {
       "added_at": "2023-01-09 06:36:42",
       "album": {
-        "name": "Tejano Award Nominees",
-        "url": "https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy"
+        "name": "Mucho Mas Que Amor",
+        "url": "https://open.spotify.com/album/3LeSzG6DuuxpKdq48olrny"
       },
       "artists": [
         {
-          "name": "Pete Astudillo",
-          "url": "https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY"
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
         }
       ],
-      "duration_ms": 230896,
-      "name": "Como Te Extrano",
-      "url": "https://open.spotify.com/track/1xXacwtojBabEce1MTLvkY"
+      "duration_ms": 205266,
+      "name": "Eres Mi Todo",
+      "url": "https://open.spotify.com/track/0bWKrBW9avAHSqsgYa19nE"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -1122,15 +1126,11 @@
         {
           "name": "David Lee Garza",
           "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
-        },
-        {
-          "name": "Los Musicales",
-          "url": "https://open.spotify.com/artist/71Vi0mhi8ZgBczjBNJlLah"
         }
       ],
-      "duration_ms": 206200,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy"
+      "duration_ms": 194013,
+      "name": "Al Partir",
+      "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -1552,9 +1552,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 212760,
-      "name": "El Cazador",
-      "url": "https://open.spotify.com/track/3B6ZP7yDYHRuLbid9Bk0FO"
+      "duration_ms": 174973,
+      "name": "Cantarle a Ella",
+      "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -1568,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 174973,
-      "name": "Cantarle a Ella",
-      "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
+      "duration_ms": 212760,
+      "name": "El Cazador",
+      "url": "https://open.spotify.com/track/3B6ZP7yDYHRuLbid9Bk0FO"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2023-01-09 06:36:42",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+        "name": "Lo Mejor De\u2026",
+        "url": "https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 195293,
-      "name": "Soy Un Novato",
-      "url": "https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg"
+      "duration_ms": 281186,
+      "name": "I Could Fall In Love",
+      "url": "https://open.spotify.com/track/3BK927dUqOGro6GtXO3e2S"
     }
   ],
   "unique_name": "Tejano Classics",

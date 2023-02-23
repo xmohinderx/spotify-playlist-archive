@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with ROSSY & Pauline Herr.",
-  "num_followers": 954250,
+  "num_followers": 954392,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY2NjgxNiwwMDAwMDAwMGUxZWE3ODYwYWZkYzk5NTk2MDA5YTBiZjZjNWZjNWI4",
+  "snapshot_id": "MTY3NjY2NjgxNiwwMDAwMDAwMGE1YTY4N2NjOWYxYzdhYjg4NjhlN2I0ZjNjYzZkOTgy",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -703,6 +703,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "dashstar* (Yellow Claw Trap Edit)",
+        "url": "https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 152776,
+      "name": "dashstar* - Yellow Claw Trap Edit",
+      "url": "https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "All Eyes On Me",
         "url": "https://open.spotify.com/album/0wgepIc4n4gKNgccZk0b0i"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 141897,
       "name": "Banga",
       "url": "https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "dashstar* (Yellow Claw Trap Edit)",
-        "url": "https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 152776,
-      "name": "dashstar* - Yellow Claw Trap Edit",
-      "url": "https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Beyond The Veil (Deluxe)",
+        "url": "https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 238566,
+      "name": "Brightest Light (feat. Dotter)",
+      "url": "https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Think Of You",
         "url": "https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 185142,
       "name": "Think Of You",
       "url": "https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Every Time (feat. So Below)",
-        "url": "https://open.spotify.com/album/1I9Bg2BoorxcedzgQrlvuU"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "So Below",
-          "url": "https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi"
-        }
-      ],
-      "duration_ms": 342008,
-      "name": "Every Time (feat. So Below)",
-      "url": "https://open.spotify.com/track/6AkEP2vEcpTRn2ilHVPNsa"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1123,22 +1123,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "The Machines",
-        "url": "https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ"
+        "name": "Every Time (feat. So Below)",
+        "url": "https://open.spotify.com/album/1I9Bg2BoorxcedzgQrlvuU"
       },
       "artists": [
         {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
         },
         {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+          "name": "So Below",
+          "url": "https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi"
         }
       ],
-      "duration_ms": 202666,
-      "name": "The Machines",
-      "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"
+      "duration_ms": 342008,
+      "name": "Every Time (feat. So Below)",
+      "url": "https://open.spotify.com/track/6AkEP2vEcpTRn2ilHVPNsa"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1159,22 +1159,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Beyond The Veil (Deluxe)",
-        "url": "https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy"
+        "name": "The Machines",
+        "url": "https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ"
       },
       "artists": [
         {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         },
         {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
         }
       ],
-      "duration_ms": 238566,
-      "name": "Brightest Light (feat. Dotter)",
-      "url": "https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3"
+      "duration_ms": 202666,
+      "name": "The Machines",
+      "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "FRACTALS",
-        "url": "https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Boogie T",
-          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "Gummy Worm (feat. Boogie T)",
-      "url": "https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Halfway Down (with Ashley Drake)",
         "url": "https://open.spotify.com/album/5kgb4YbeYYRAQ7fnFpBRBP"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 310400,
       "name": "Halfway Down (with Ashley Drake)",
       "url": "https://open.spotify.com/track/3RgEkU0pFALv7sQhPlaFLd"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "FRACTALS",
+        "url": "https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "Gummy Worm (feat. Boogie T)",
+      "url": "https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1777,6 +1777,26 @@
       "url": "https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F"
     },
     {
+      "added_at": "2023-02-17 20:46:56",
+      "album": {
+        "name": "Move Back",
+        "url": "https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Move Back",
+      "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "MV//MNT",
@@ -1799,22 +1819,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Symptoms",
-        "url": "https://open.spotify.com/album/1v3mYCjOi9vVeu5gl1Ygs7"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 148114,
-      "name": "Symptoms",
-      "url": "https://open.spotify.com/track/4inYiXI3aHvJMK9LGRDsKa"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae"
       },
@@ -1831,18 +1835,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
+        "name": "Symptoms",
+        "url": "https://open.spotify.com/album/1v3mYCjOi9vVeu5gl1Ygs7"
       },
       "artists": [
         {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
+      "duration_ms": 148114,
+      "name": "Symptoms",
+      "url": "https://open.spotify.com/track/4inYiXI3aHvJMK9LGRDsKa"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1859,6 +1863,22 @@
       "duration_ms": 175135,
       "name": "ACHROMATIC (YOI)",
       "url": "https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
+      },
+      "artists": [
+        {
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1967,6 +1987,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "MIDHEAVEN: OPUS 03",
+        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "duration_ms": 147529,
+      "name": "BDASWY",
+      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Reason For Fighting (feat. ERV ELLO)",
         "url": "https://open.spotify.com/album/1Cauh0pJOIIMFZU7eCOALc"
       },
@@ -1991,22 +2027,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "MIDHEAVEN: OPUS 03",
-        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
-      },
-      "artists": [
-        {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        }
-      ],
-      "duration_ms": 147529,
-      "name": "BDASWY",
-      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Purity",
         "url": "https://open.spotify.com/album/7BuqieOHw8lBxS316dD6qY"
       },
@@ -2021,24 +2041,20 @@
       "url": "https://open.spotify.com/track/0AzoovrzyAFTlOf2UaUPIx"
     },
     {
-      "added_at": "2023-02-17 20:46:56",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Move Back",
-        "url": "https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI"
+        "name": "Meditate",
+        "url": "https://open.spotify.com/album/1PvajiEGruZOjkYlpDZlc1"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Move Back",
-      "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
+      "duration_ms": 359778,
+      "name": "Meditate",
+      "url": "https://open.spotify.com/track/7tMTDLcxCwL570XesaDncS"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2063,22 +2079,6 @@
       "duration_ms": 218322,
       "name": "Take You Home (feat. Dia Frampton)",
       "url": "https://open.spotify.com/track/7dUeGRu9gaXSjkjKO4I8F3"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Meditate",
-        "url": "https://open.spotify.com/album/1PvajiEGruZOjkYlpDZlc1"
-      },
-      "artists": [
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 359778,
-      "name": "Meditate",
-      "url": "https://open.spotify.com/track/7tMTDLcxCwL570XesaDncS"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2167,42 +2167,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "The Uprising",
-        "url": "https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        },
-        {
-          "name": "Kumarion",
-          "url": "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
-        }
-      ],
-      "duration_ms": 197735,
-      "name": "The Uprising",
-      "url": "https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Grit",
-        "url": "https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU"
-      },
-      "artists": [
-        {
-          "name": "Bossfight",
-          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
-        }
-      ],
-      "duration_ms": 283125,
-      "name": "Grit",
-      "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "THIEF IN THE NIGHT",
         "url": "https://open.spotify.com/album/3ydrHaAw7BOX1gNcqd8Pc4"
       },
@@ -2243,6 +2207,42 @@
       "duration_ms": 167467,
       "name": "Between Two",
       "url": "https://open.spotify.com/track/5mQaLrxEBrqBbZFVtCCKUE"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "The Uprising",
+        "url": "https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        },
+        {
+          "name": "Kumarion",
+          "url": "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
+        }
+      ],
+      "duration_ms": 197735,
+      "name": "The Uprising",
+      "url": "https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Grit",
+        "url": "https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "duration_ms": 283125,
+      "name": "Grit",
+      "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2335,6 +2335,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Eden (feat. fussy)",
+        "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "fussy",
+          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
+        }
+      ],
+      "duration_ms": 176761,
+      "name": "Eden (feat. fussy)",
+      "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Not Giving In",
         "url": "https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK"
       },
@@ -2367,26 +2387,6 @@
       "duration_ms": 176124,
       "name": "RELOAD",
       "url": "https://open.spotify.com/track/7Da0d3oeqFpaPvWOH8eQuZ"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/3ywLCMZLSe12Q5Xuc8m1Pj"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "capshun",
-          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2427,6 +2427,42 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "DAMAGE",
+        "url": "https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR"
+      },
+      "artists": [
+        {
+          "name": "KUURO",
+          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
+        }
+      ],
+      "duration_ms": 213722,
+      "name": "DAMAGE",
+      "url": "https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/3ywLCMZLSe12Q5Xuc8m1Pj"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "LEVIATHAN",
         "url": "https://open.spotify.com/album/2Hskj4JWDAV8T8NhnPQ43o"
       },
@@ -2443,22 +2479,6 @@
       "duration_ms": 163200,
       "name": "LEVIATHAN",
       "url": "https://open.spotify.com/track/1JHLFyGl62MDj5jDBJics2"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "DAMAGE",
-        "url": "https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR"
-      },
-      "artists": [
-        {
-          "name": "KUURO",
-          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
-        }
-      ],
-      "duration_ms": 213722,
-      "name": "DAMAGE",
-      "url": "https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2499,26 +2519,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Eden (feat. fussy)",
-        "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "fussy",
-          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
-        }
-      ],
-      "duration_ms": 176761,
-      "name": "Eden (feat. fussy)",
-      "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "RAD",
         "url": "https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ"
       },
@@ -2551,6 +2551,26 @@
       "duration_ms": 214883,
       "name": "Walked Through Fire",
       "url": "https://open.spotify.com/track/5GjxlgXBgCMbp0zHLFUaug"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Captive",
+        "url": "https://open.spotify.com/album/6Lqrl0jg68hcV4GhGTYT4H"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
+        }
+      ],
+      "duration_ms": 199875,
+      "name": "Captive",
+      "url": "https://open.spotify.com/track/6ZvgvFGY2Pv5iL8u0ptduc"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2591,26 +2611,6 @@
       "duration_ms": 209677,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Run It Up EP",
-        "url": "https://open.spotify.com/album/6jixI1D9HqNBx5OpIPEMf8"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        },
-        {
-          "name": "Sam King",
-          "url": "https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/0iNUbvzTSxeTHT9DVaXrJa"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2667,6 +2667,42 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Run It Up EP",
+        "url": "https://open.spotify.com/album/6jixI1D9HqNBx5OpIPEMf8"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "Sam King",
+          "url": "https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/0iNUbvzTSxeTHT9DVaXrJa"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "MIDHEAVEN: OPUS 04",
+        "url": "https://open.spotify.com/album/1YCcu7dz8NqUS7m24YTKH3"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "AXIOM",
+      "url": "https://open.spotify.com/track/6qhkbEzLyKmBlFTIGn7L8p"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh"
       },
@@ -2683,26 +2719,6 @@
       "duration_ms": 228371,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Captive",
-        "url": "https://open.spotify.com/album/6Lqrl0jg68hcV4GhGTYT4H"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        },
-        {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
-        }
-      ],
-      "duration_ms": 199875,
-      "name": "Captive",
-      "url": "https://open.spotify.com/track/6ZvgvFGY2Pv5iL8u0ptduc"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2799,22 +2815,6 @@
       "duration_ms": 212935,
       "name": "Trip To Mars",
       "url": "https://open.spotify.com/track/3jMtndFPgcjtKHuUnGHf9E"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "MIDHEAVEN: OPUS 04",
-        "url": "https://open.spotify.com/album/1YCcu7dz8NqUS7m24YTKH3"
-      },
-      "artists": [
-        {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "AXIOM",
-      "url": "https://open.spotify.com/track/6qhkbEzLyKmBlFTIGn7L8p"
     },
     {
       "added_at": "2023-02-17 05:00:00",

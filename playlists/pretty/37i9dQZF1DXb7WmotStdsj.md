@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,201 likes - 60 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,331 likes - 60 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 12 | [Ya Galbi 39el Fiha](https://open.spotify.com/track/10T3NyeNu9aP1k89RUwWAp) | [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb), [Houari Ghazali](https://open.spotify.com/artist/2KXXuXgrY1X2RLez2UAVog) | [Ya Galbi 39el Fiha](https://open.spotify.com/album/1sIqXsmvaKG504gDsAkEHF) | 5:12 |
 | 13 | [Galbi Ndirleh 3asas](https://open.spotify.com/track/2o9EZRu4Mx5GMFnJi9WpIC) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Ndirleh 3asas](https://open.spotify.com/album/37pvma3AHWm2qQUjh9tA2g) | 2:53 |
 | 14 | [Min Djebti D Lcourage](https://open.spotify.com/track/2ysMp68ms8pxhKb0Fnk602) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Min Djebti Del Courage](https://open.spotify.com/album/4xUcTd7wXrV177y1qT6zNt) | 4:14 |
-| 15 | [Manich Kima Bakri](https://open.spotify.com/track/5z8sSUJ09vXNNrpqxc0u0B) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Manich Kima Bakri](https://open.spotify.com/album/5xB8IXMdACzciVvoujeLoO) | 5:40 |
+| 15 | [Manich Kima Bakri](https://open.spotify.com/track/1b6ylP8XBdY7jOD7bwSWZk) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/3cjlTzZoHAlpC7VsWJBv8F) | 5:45 |
 | 16 | [Nebghiha Fort](https://open.spotify.com/track/2wo2GyiPDb0cL9UdQN6DzD) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/0BsMS6fQ7FIgGDuHWUvLIU) | 3:04 |
 | 17 | [Matebkich & Madanit Netfarko](https://open.spotify.com/track/4dTKDe11H4a3yZrcZvnjWI) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Matebkich & Madanit Netfarko](https://open.spotify.com/album/14JGq86bpnMJ0i7fkYqWsy) | 3:42 |
 | 18 | [Cha3ra Wendir Avc](https://open.spotify.com/track/4212sW8gzoojsEClN5LI8L) | [Amine Matlo](https://open.spotify.com/artist/2aFfUpawrHEPOQHzCXMUMZ) | [Cha3ra Wendir Avc](https://open.spotify.com/album/3OY3BSh6ltSis4Q2AT7dD7) | 6:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 |
 | 60 | [Mimti Khali Bab Mahloul](https://open.spotify.com/track/6vzwnkS56YV0JbqQuZFnXj) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Mimti Khali Bab Mahloul](https://open.spotify.com/album/7BMI1KVKuODfFt4wnNhuuD) | 4:32 |
 
-Snapshot ID: `MTY3Njg5MTkwNiwwMDAwMDAwMDE3ZjEzMzE2MDFkNDEyMjc3NjFjNDczNWYxYmNjMzgw`
+Snapshot ID: `MTY3Njg5MTkwNiwwMDAwMDAwMDlkM2FjNGU1MmFkYzdhOThjMmFlMTYyNThiMzZhNmVj`

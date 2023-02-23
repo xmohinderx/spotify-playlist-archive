@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: انغام
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,621 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,703 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 29 | [Esma W Naseeb \(New Version\)](https://open.spotify.com/track/1NLrUb7V2sz10xZwtK6QAM) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Esma W Naseeb \(New Version\)](https://open.spotify.com/album/45h1SNOrUM3xV27D6FaCLL) | 3:56 |
 | 30 | [El Omr Kollo](https://open.spotify.com/track/4hgBNlMh0PF4S2VE0ejaM6) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Omr Kollo](https://open.spotify.com/album/3DY0Bt7zzSdaLx0i5VFZxh) | 4:20 |
 | 31 | [مسيلى على عيونك](https://open.spotify.com/track/0iACdftSbsuwVGPE98Nu9X) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [مسيلى على عيونك](https://open.spotify.com/album/5BCxozu0drxusYzl0J0vas) | 3:13 |
-| 32 | [Aazbny Aazib](https://open.spotify.com/track/5DZYT2wKA64KDXins0gTIO) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Aazbny Aazib](https://open.spotify.com/album/6DQcUnGijb9dN7d0ehTmOv) | 4:16 |
+| 32 | [عذبني عذب](https://open.spotify.com/track/5DZYT2wKA64KDXins0gTIO) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عذبني عذب](https://open.spotify.com/album/6DQcUnGijb9dN7d0ehTmOv) | 4:16 |
 | 33 | [babat salamy](https://open.spotify.com/track/6OB98f5Aj7otXeLBBn7JoF) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [babat salamy](https://open.spotify.com/album/6X9Nx5KCj2Zsr8W0CiNftG) | 3:41 |
 | 34 | [بحبك و خايف](https://open.spotify.com/track/5QUsDMbLJc8b4h4gNXIyxr) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [بحبك و خايف](https://open.spotify.com/album/3cP7v2k1xLOXCsFBstKtF7) | 3:57 |
 | 35 | [انا بكيت](https://open.spotify.com/track/53aBCmnMQpIbWrDo3b9VXI) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [عندي كلام](https://open.spotify.com/album/1ftMwFolOx5hURYoTxu7Vu) | 4:20 |

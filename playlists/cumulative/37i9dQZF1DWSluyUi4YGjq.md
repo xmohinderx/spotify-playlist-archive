@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. julie on cover!
 
-267 songs - 18 hr 24 min
+268 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Avec Lui](https://open.spotify.com/track/4zWpQKHzdbGNkRP00xAIbe) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/61LPJuFRFHtLf0rily6iKz) | [Balloons of Memories](https://open.spotify.com/album/0fUR7LZcSVYO8nDywl12Z9) | 5:14 | 2022-03-03 | 2022-07-26 |
 | [Ayisha Abyss](https://open.spotify.com/track/4372hjN43SwPpKhQWvRuXI) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [S\-M 2: Abyss In B Minor](https://open.spotify.com/album/4I8nWyG5oG9c9HEgLvhiRR) | 7:46 | 2021-10-19 | 2022-07-26 |
 | [Baldpate Driver](https://open.spotify.com/track/7sS9l7KI8S0hh984RdtTTh) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 4:13 | 2023-02-09 |  |
+| [bb](https://open.spotify.com/track/0BwlbW42QQj8xHABX53WVi) | [Laveda](https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7) | [bb](https://open.spotify.com/album/5lZGM1KnsNUviOenuiil1h) | 2:41 | 2023-02-09 |  |
 | [Beautiful World](https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ) | 5:20 | 2022-12-15 |  |
 | [Belinda Says](https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:45 | 2022-09-29 |  |
 | [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-29 | 2022-11-27 |
@@ -164,7 +165,7 @@
 | [Love Fade](https://open.spotify.com/track/24ZsdPJj8uwhCxo4uanFpG) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/4yfIr3uR60hcYNr1ttJNoC) | 3:40 | 2021-10-19 | 2022-07-29 |
 | [Luminous](https://open.spotify.com/track/0HIqiZlMuJm7fV4CyxaQF2) | [Youthlim](https://open.spotify.com/artist/0rHYAz4lrtdEHOXNZA7XzC) | [Luminous](https://open.spotify.com/album/001WORXD9jU5p2yIcfzHfd) | 6:08 | 2022-01-19 | 2022-07-19 |
 | [Making Room](https://open.spotify.com/track/2CoP6BbpUoMmTfks7WeDHX) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 3:46 | 2022-04-12 | 2023-01-14 |
-| [means to an end \(not enough\)](https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [means to an end \(not enough\)](https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT) | 4:40 | 2023-02-09 |  |
+| [means to an end \(not enough\)](https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [means to an end \(not enough\)](https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT) | 4:40 | 2023-02-09 | 2023-02-23 |
 | [Mind the Wires](https://open.spotify.com/track/0rEVhkcwdi9CcKANWYV0Ot) | [Tears Run Rings](https://open.spotify.com/artist/0cNUrcNznBuZErkcSdHoxJ) | [Always, Sometimes, Seldom, Never](https://open.spotify.com/album/795uPXiy5JMXIpsHtEYmoV) | 4:53 | 2021-10-19 | 2022-12-16 |
 | [Mobius](https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG) | [相對性靜止](https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi) | 3:06 | 2022-09-29 | 2022-12-02 |
 | [Molten Young Lovers](https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z) | 4:39 | 2021-10-19 | 2023-02-10 |

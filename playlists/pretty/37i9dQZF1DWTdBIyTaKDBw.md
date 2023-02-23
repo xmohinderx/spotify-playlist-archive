@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,115 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,143 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 26 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
 | 27 | [Holiday](https://open.spotify.com/track/2EiYnN1JJem3mrzvs2IOGN) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [YUMI's Cells, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CqqZ9yXSWFitudW1r70sX) | 3:56 |
 | 28 | [Missing you](https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:32 |
-| 29 | [Love Encore \(with Lee Sora\)](https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:30 |
-| 30 | [Fairy Of Shampoo](https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD) | [Junggigo Trio](https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL) | [Junggigo Sings Brazil](https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K) | 4:57 |
+| 29 | [Fairy Of Shampoo](https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD) | [Junggigo Trio](https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL) | [Junggigo Sings Brazil](https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K) | 4:57 |
+| 30 | [Love Encore \(with Lee Sora\)](https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:30 |
 | 31 | [Spring Is You](https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Spring Is You](https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC) | 3:45 |
 | 32 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 |
 | 33 | [Waters of March](https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:37 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 61 | [Let's Go \(feat\. DA:ON, Gunjae & H!\)](https://open.spotify.com/track/6mtNKbzf60GX22QiHfX4cE) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [DA:ON](https://open.spotify.com/artist/6vdOplmzMU7t1fGRRzTZcY), [Gunjae](https://open.spotify.com/artist/4i1Cf2H3jiYAaA8iJznkRt), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [SEOULVIBES, GROCERY](https://open.spotify.com/album/7H4ODTXkDsCzqraY5DExRX) | 2:51 |
 | 62 | [Our Cinema \#2 \- Dancing](https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Cinema \#2 \- Dancing](https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC) | 3:30 |
 | 63 | [Habit](https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [\[Vol.134\] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'](https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw) | 3:32 |
-| 64 | [I don't want \(feat.So Jung of LADIES’ CODE\)](https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [So Jung of LADIES’ CODE](https://open.spotify.com/artist/1VFKN7VXbR51RVlaKoZiuZ) | [LISH](https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj) | 3:44 |
-| 65 | [Rainy Apgujeong](https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm), [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rainy Apgujeong](https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV) | 4:34 |
+| 64 | [Rainy Apgujeong](https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm), [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rainy Apgujeong](https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV) | 4:34 |
+| 65 | [I don't want \(feat.So Jung of LADIES’ CODE\)](https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [So Jung of LADIES’ CODE](https://open.spotify.com/artist/1VFKN7VXbR51RVlaKoZiuZ) | [LISH](https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj) | 3:44 |
 | 66 | [Dancing Universe](https://open.spotify.com/track/21GmIfb64BYbDSqCr5jf8K) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [LOVER](https://open.spotify.com/album/5BYA62etDUYPIQZHbKizeu) | 4:25 |
 | 67 | [Maudie](https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:04 |
 | 68 | [Carpet](https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Carpet \- SM STATION](https://open.spotify.com/album/0qJSfEpD5X6xVGBUARniTH) | 3:42 |
-| 69 | [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 |
-| 70 | [Back Home](https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc) | [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi) | [Light](https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta) | 3:48 |
+| 69 | [Back Home](https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc) | [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi) | [Light](https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta) | 3:48 |
+| 70 | [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 |
 
-Snapshot ID: `MTY3NDYzNDg4MiwwMDAwMDAwMGFkY2ZkOTZhN2U2MzYzMzQ2MjgzYTg2YmVmNzRhMmRi`
+Snapshot ID: `MTY3NDYzNDg4MiwwMDAwMDAwMDBjOTIyNTI0MmQ4Nzk4MTc4MzU4OWJmMDJhZWYzNjFl`

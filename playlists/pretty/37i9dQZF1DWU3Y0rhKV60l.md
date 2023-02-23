@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 
 > Keep your focus and drown out distracting sounds with white noise from the oceans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,903 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,973 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 54 | [Rolling Waves and Rockpools](https://open.spotify.com/track/1db2CHgoX19tKKu2p8Zbu2) | [Hello Soundz](https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT) | [Summer Ocean Waves](https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT) | 2:56 |
 | 55 | [Thunderous Ocean \- Seamless](https://open.spotify.com/track/0IY1lXJOW9g5Lt0HiVBqiB) | [Somnography](https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM) | [Thunderous Ocean](https://open.spotify.com/album/6CJiA8Yu7j4YbN7YwHHjKX) | 2:54 |
 | 56 | [Sandy Gulf \(Ocean\)](https://open.spotify.com/track/19fsuPH0RsbaPJ1VQ586CM) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 2:40 |
-| 57 | [Waves After Midnight](https://open.spotify.com/track/1Zj4Br0NYdvldwqS2vPXOJ) | [Gnees Early Waves](https://open.spotify.com/artist/7HWzEstD6nTbL0iiKjMu7s) | [Waves For Sleeping](https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx) | 2:35 |
-| 58 | [Luscious Waves](https://open.spotify.com/track/7DuENdWAHfixMKYqEObGPx) | [Focus 365](https://open.spotify.com/artist/3zMGPjG6X1Rw0JGeBOoEV2) | [Luscious Waves](https://open.spotify.com/album/4h9XHDPN6L0AFyomHKjis8) | 2:48 |
-| 59 | [Powerful Waves](https://open.spotify.com/track/3DqGnCwlU4RDBOdB2AExfv) | [Exotic Wave Sounds](https://open.spotify.com/artist/1kwv2ZDCeSTSoa9J88tN3N) | [Part One](https://open.spotify.com/album/39zcjubfAiJRC0EbKtruol) | 3:30 |
+| 57 | [Soothing Sirens](https://open.spotify.com/track/38cFWalIAa6hrSBQDAdHky) | [Ocean Bank](https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr) | [Dancing with the Sea](https://open.spotify.com/album/0A784kyTLE8armtk5OTXi7) | 2:04 |
+| 58 | [Waves After Midnight](https://open.spotify.com/track/1Zj4Br0NYdvldwqS2vPXOJ) | [Gnees Early Waves](https://open.spotify.com/artist/7HWzEstD6nTbL0iiKjMu7s) | [Waves For Sleeping](https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx) | 2:35 |
+| 59 | [Luscious Waves](https://open.spotify.com/track/7DuENdWAHfixMKYqEObGPx) | [Focus 365](https://open.spotify.com/artist/3zMGPjG6X1Rw0JGeBOoEV2) | [Luscious Waves](https://open.spotify.com/album/4h9XHDPN6L0AFyomHKjis8) | 2:48 |
 | 60 | [Deep And Beautiful \- Seamless](https://open.spotify.com/track/4GahIgDfF61wccryMGdTeu) | [Somnography](https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM) | [Thunderous Ocean](https://open.spotify.com/album/6CJiA8Yu7j4YbN7YwHHjKX) | 2:57 |
 
-Snapshot ID: `MTY3NjQ1MTk2OCwwMDAwMDAwMDEzNGEyZjg1YzY2ZGMyMzE1YjA5NWM0YjVjNGE0MTVl`
+Snapshot ID: `MTY3NjQ1MTk2OCwwMDAwMDAwMDA1ODZiZGVjYmM5YTM2ZWIzNGU4OWI3OWNhOTUyNmRj`

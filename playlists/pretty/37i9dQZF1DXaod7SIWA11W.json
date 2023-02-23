@@ -1,15 +1,15 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: Foggie Raw, artwork by Ian Woods",
-  "num_followers": 40151,
+  "num_followers": 40286,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYyMzY1NSwwMDAwMDAwMGZjZDBhZTQxYjJlNTA2YTI2YWZlMDkxYTBmM2NkN2Ez",
+  "snapshot_id": "MTY3NjYyMzY1NSwwMDAwMDAwMDYyN2Q2NjllNGZhYjEyMjBiMjUyNGY0OGZhY2JhYjI2",
   "tracks": [
     {
-      "added_at": "2023-02-22 01:15:54",
+      "added_at": "2023-02-23 01:19:05",
       "album": {
         "name": "moMINTs",
         "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Won't Be Long Now",
-        "url": "https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 195541,
-      "name": "Won't Be Long Now",
-      "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Fruits of My Labor",
         "url": "https://open.spotify.com/album/5KcS1MD9Z0m9z2dmaGuL0b"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 194388,
       "name": "Fruits of My Labor",
       "url": "https://open.spotify.com/track/209gShZ4rJWhT3l9jZ1cM2"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Won't Be Long Now",
+        "url": "https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 195541,
+      "name": "Won't Be Long Now",
+      "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "T.D. JAKES Presents FINALLY LOOSED",
-        "url": "https://open.spotify.com/album/0ZdjavcVdSEf2QSsSb7JEI"
-      },
-      "artists": [
-        {
-          "name": "Tamar Braxton",
-          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
-        },
-        {
-          "name": "New Breed",
-          "url": "https://open.spotify.com/artist/2Zly7rBPCwrCNxNgYQPoC9"
-        }
-      ],
-      "duration_ms": 374092,
-      "name": "THE GLORY ft. New Breed",
-      "url": "https://open.spotify.com/track/32PAhZGQ3BkfkaR2mJczFm"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Look Up to the Sky",
         "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
       },
@@ -695,6 +675,26 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
+        "name": "T.D. JAKES Presents FINALLY LOOSED",
+        "url": "https://open.spotify.com/album/0ZdjavcVdSEf2QSsSb7JEI"
+      },
+      "artists": [
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        },
+        {
+          "name": "New Breed",
+          "url": "https://open.spotify.com/artist/2Zly7rBPCwrCNxNgYQPoC9"
+        }
+      ],
+      "duration_ms": 374092,
+      "name": "THE GLORY ft. New Breed",
+      "url": "https://open.spotify.com/track/32PAhZGQ3BkfkaR2mJczFm"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
         "name": "New Me",
         "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
       },
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "HOLY GHOST",
-        "url": "https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA"
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
       "artists": [
         {
-          "name": "KJ Scriven",
-          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 290237,
-      "name": "HOLY GHOST",
-      "url": "https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R"
+      "duration_ms": 148800,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
+        "name": "HOLY GHOST",
+        "url": "https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+      "duration_ms": 290237,
+      "name": "HOLY GHOST",
+      "url": "https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1287,38 +1287,18 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0"
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
       },
       "artists": [
         {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        },
-        {
-          "name": "Denise Bamfo",
-          "url": "https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO"
+          "name": "Christ Encounter",
+          "url": "https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf"
         }
       ],
-      "duration_ms": 176062,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "Journey: Acoustic Sessions",
-        "url": "https://open.spotify.com/album/2HvjY8R1wvlAO3qK6tGZYj"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 322083,
-      "name": "Okay - Acoustic",
-      "url": "https://open.spotify.com/track/02oApVYn8WQSLkahzSlgvF"
+      "duration_ms": 248057,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1343,18 +1323,54 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
+        "name": "Take Me to the Fire",
+        "url": "https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2"
       },
       "artists": [
         {
-          "name": "Christ Encounter",
-          "url": "https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf"
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
         }
       ],
-      "duration_ms": 248057,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
+      "duration_ms": 182552,
+      "name": "Take Me to the Fire",
+      "url": "https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Journey: Acoustic Sessions",
+        "url": "https://open.spotify.com/album/2HvjY8R1wvlAO3qK6tGZYj"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 322083,
+      "name": "Okay - Acoustic",
+      "url": "https://open.spotify.com/track/02oApVYn8WQSLkahzSlgvF"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Denise Bamfo",
+          "url": "https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO"
+        }
+      ],
+      "duration_ms": 176062,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Take Me to the Fire",
-        "url": "https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 182552,
-      "name": "Take Me to the Fire",
-      "url": "https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Be My Everything (Reimagined)",
         "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
       },
@@ -1403,26 +1403,6 @@
       "duration_ms": 233086,
       "name": "Be My Everything - Reimagined",
       "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "Humble",
-        "url": "https://open.spotify.com/album/0OGt1dzhFMavsF6bQGCdxg"
-      },
-      "artists": [
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 260385,
-      "name": "Humble",
-      "url": "https://open.spotify.com/track/0jOegEvG5crKummCbFk5rm"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1455,6 +1435,38 @@
       "duration_ms": 147000,
       "name": "Be Real",
       "url": "https://open.spotify.com/track/3IyDfQUM8Dvk67b0hO6or9"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "We Outside",
+        "url": "https://open.spotify.com/album/67WCbBUMISteFiNbOZ2Yqw"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Vincent Charlow",
+          "url": "https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3"
+        },
+        {
+          "name": "ITM",
+          "url": "https://open.spotify.com/artist/6QmwIBi7pzFs75SnQFX6Hn"
+        },
+        {
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+        },
+        {
+          "name": "Seaux Chill",
+          "url": "https://open.spotify.com/artist/1m9azqggcxRtwUD9awNYTV"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Sunrise 2 Sunset",
+      "url": "https://open.spotify.com/track/7EJOV089sJE935qHobWmxA"
     }
   ],
   "unique_name": "Lifted Frequency",

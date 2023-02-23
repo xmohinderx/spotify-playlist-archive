@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Gangsta Boo
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,776 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,862 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 31 | [Here We Go \(feat\. Kelly Rowland\)](https://open.spotify.com/track/6b3CWHNAKiJRqmgz6ZcWaB) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [The Glamorest Life](https://open.spotify.com/album/7lxPWM0F06HwejiYAroSha) | 3:50 |
 | 32 | [Gossip Folks \(feat\. Ludacris\)](https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 3:54 |
 | 33 | [Funkdafied](https://open.spotify.com/track/29VrHhpC5AS9b7XJYDPhqb) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [Funkdafied](https://open.spotify.com/album/3wQuZdfDboB8bo5MPTUpgA) | 3:05 |
-| 34 | [Feels So Good](https://open.spotify.com/track/6oSoFV8IDRMrFh2C4aXIKt) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 4:02 |
-| 35 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 |
+| 34 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 |
+| 35 | [Feels So Good](https://open.spotify.com/track/6oSoFV8IDRMrFh2C4aXIKt) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 4:02 |
 | 36 | [It's a Shame \(My Sister\)](https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu), [True Image](https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:42 |
 | 37 | [Gettin' Some](https://open.spotify.com/track/4uNisev7PGUAixBOagpgyY) | [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Block Music](https://open.spotify.com/album/60JjM21U15tdaMbiYv3naR) | 3:22 |
 | 38 | [Party Ain't A Party](https://open.spotify.com/track/3plNsz0KQaJjtW75gYTMEn) | [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [My Melody](https://open.spotify.com/album/5qFxfTMR6bzWVpmC1baGie) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 49 | [Poor Georgie](https://open.spotify.com/track/0wIEQYOLgV9TneTgM3aRVE) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Act Like You Know \(Explicit Version\)](https://open.spotify.com/album/4eKcz8mSIGrPkibjjwRXqF) | 4:30 |
 | 50 | [Whuteva](https://open.spotify.com/track/5K66mTtWcmGelHC4FkqOFK) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:46 |
 
-Snapshot ID: `MTY3NTM2NzAwMCwwMDAwMDAwMGE5YmJkYmIwYjRiZDBkYjE5ZTdjYjE0M2U4MDNlYTM5`
+Snapshot ID: `MTY3NTM2NzAwMCwwMDAwMDAwMGU5NDYzYTU5YWJkYzYyNDQ1MTM2OTViZjhhNjFiYWUy`

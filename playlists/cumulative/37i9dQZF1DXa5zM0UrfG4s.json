@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "BLINKAR INTE N\u00c4R JAG BYTER FIL",
+        "url": "https://open.spotify.com/album/01ayc4U9jmmjlrmQYoRYfe"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141881,
+      "name": "BLINKAR INTE N\u00c4R JAG BYTER FIL",
+      "url": "https://open.spotify.com/track/0aQ2hgNRUwoICgQ1tvBnYs"
+    },
+    {
+      "album": {
         "name": "Block Party",
         "url": "https://open.spotify.com/album/6zkX0G2P3biWJLOCTf0KIj"
       },
@@ -598,6 +616,24 @@
       "duration_ms": 158346,
       "name": "Bonderomantikk",
       "url": "https://open.spotify.com/track/7mMbSgK2KCiLZAlSuIo96l"
+    },
+    {
+      "album": {
+        "name": "Borde g\u00e5 hem",
+        "url": "https://open.spotify.com/album/11jT6POseAnA12U1ZHdJd2"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Borde g\u00e5 hem",
+      "url": "https://open.spotify.com/track/2alWkiKWlHYmsgdvNoiO7l"
     },
     {
       "album": {
@@ -2738,7 +2774,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 152822,
       "name": "Jeg fortjener en \u00f8l",
       "url": "https://open.spotify.com/track/12MOqhpW8IsWO5xiCqjJdU"
@@ -3024,7 +3060,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 205818,
       "name": "Kongen av campingplassen",
       "url": "https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi"

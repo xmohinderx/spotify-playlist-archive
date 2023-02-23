@@ -9120,7 +9120,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 113855,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/23JZKgmJ20wAIKxijJlJBb"
@@ -15760,7 +15760,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-13",
+      "date_removed": null,
       "duration_ms": 102000,
       "name": "Dumptydum",
       "url": "https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8"
@@ -36826,7 +36826,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 103121,
       "name": "Missed It",
       "url": "https://open.spotify.com/track/7dLCC0addn2kO1ALxsjQhS"
@@ -40466,7 +40466,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 125647,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/5EqzrIDrJXMBPAehmmRSW6"
@@ -49544,7 +49544,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 148306,
       "name": "Sandy Beach",
       "url": "https://open.spotify.com/track/2b95n76DJVE8RkFtLLtnrS"
@@ -58048,6 +58048,28 @@
       "duration_ms": 139533,
       "name": "tavo lara",
       "url": "https://open.spotify.com/track/3prAccfg2dgn8UM1RI482W"
+    },
+    {
+      "album": {
+        "name": "Taxi Back Home",
+        "url": "https://open.spotify.com/album/1uoK04iHyGtNSjpqJah5Ls"
+      },
+      "artists": [
+        {
+          "name": "Made in M",
+          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+        },
+        {
+          "name": "Amber Window",
+          "url": "https://open.spotify.com/artist/066Vam5XGA8T8NNl1sroAg"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155250,
+      "name": "Taxi Back Home",
+      "url": "https://open.spotify.com/track/2R9hkK24jDS4rwul2we3fZ"
     },
     {
       "album": {

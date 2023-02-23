@@ -4,7 +4,7 @@
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama Agency\. \(JTBC 드라마 대행사의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들을 플레이리스트와 클립스를 통해 확인해보세요!\)
 
-40 songs - 2 hr 3 min
+44 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,13 @@
 | [Look Back](https://open.spotify.com/track/0NVO6Kn5CqzAuyXcMdqUMb) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Look Back](https://open.spotify.com/album/7MchsZ5wWMkDTbNEe7x8aN) | 3:04 | 2023-01-11 |  |
 | [Never Let Go](https://open.spotify.com/track/6o5dZWs2C3pZcknbixWMLM) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Agency \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E) | 3:16 | 2023-02-06 |  |
 | [Never Let Go \- Instrumental](https://open.spotify.com/track/3fPZ0jPf6Ts9XQ8w2VNhlN) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Agency \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E) | 3:16 | 2023-02-06 |  |
+| [Neverland](https://open.spotify.com/track/0dHgNgOUSrBVczZVhWwc0R) | [SE O](https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb) | [Agency \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/2reUJ6F89zFPzF9ZVCVUq3) | 4:00 | 2023-02-22 |  |
+| [Neverland \- Instrumental](https://open.spotify.com/track/59x7IwuUmaoboOgKZuMKob) | [SE O](https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb) | [Agency \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/2reUJ6F89zFPzF9ZVCVUq3) | 4:00 | 2023-02-22 |  |
 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 | 2023-01-27 |  |
 | [Palace](https://open.spotify.com/track/5UFvcTCbp9P057YbRNsJ3U) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:07 | 2023-02-09 |  |
 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 | 2023-02-09 |  |
+| [Scream](https://open.spotify.com/track/1zQ9VgCQ3iiPETAWIzSqVW) | [Bjørn Olav Edvardsen](https://open.spotify.com/artist/0RtyQYQcDo0lPs8dLBAcDP) | [Agency \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/0DHtIOYFWjZ7voayZrQhKM) | 3:25 | 2023-02-22 |  |
+| [Scream \- Instrumental](https://open.spotify.com/track/1S2WSetELXUlKg03GfiEvf) | [Bjørn Olav Edvardsen](https://open.spotify.com/artist/0RtyQYQcDo0lPs8dLBAcDP) | [Agency \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/0DHtIOYFWjZ7voayZrQhKM) | 3:25 | 2023-02-22 |  |
 | [Ships](https://open.spotify.com/track/29G4lxwdGV0Ia1uCTkWjjW) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Greatest Hits Vol\. 3](https://open.spotify.com/album/0rPdpVOWKaeHPwayMadpk8) | 4:00 | 2023-01-27 |  |
 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2023-02-09 |  |
 | [Stay Awake](https://open.spotify.com/track/5k9kxCcae70vUElndjveXT) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Heartz](https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU) | 3:33 | 2023-01-20 |  |

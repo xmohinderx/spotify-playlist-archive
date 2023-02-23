@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,316 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,337 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 4 | [Handsome](https://open.spotify.com/track/6ioJIbTdQEpbvkTdPuwhF5) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Karma 3](https://open.spotify.com/album/5Z9H6gen4nUySpLZzKy2y0) | 2:53 |
 | 5 | [Ok Cool](https://open.spotify.com/track/7kOU7qeq1PV6R2ZJcKUyIQ) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Ok Cool](https://open.spotify.com/album/3zifa4JgjBDFXzhq2e7Gom) | 2:57 |
 | 6 | [Top \(Remix\) feat\. Lil Durk](https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [In The Name Of Gee \(Still Most Hated\)](https://open.spotify.com/album/18sKqGhmvXhfhgnzu3uj0T) | 2:38 |
-| 7 | [Nowhere 2 Run](https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb) | [Grind2hard Osh’a](https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET) | [Wolf Talk](https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW) | 2:53 |
-| 8 | [One Of Dem Nights \(with Jhené Aiko\)](https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:23 |
+| 7 | [One Of Dem Nights \(with Jhené Aiko\)](https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:23 |
+| 8 | [Nowhere 2 Run](https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb) | [Grind2hard Osh’a](https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET) | [Wolf Talk](https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW) | 2:53 |
 | 9 | [No More Parties \- Remix](https://open.spotify.com/track/5A4WcRuy0FFEAC5pAK43oa) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [No More Parties \(Remix\)](https://open.spotify.com/album/4H8JPgTkCXVgVr8e2J5tKX) | 3:12 |
 | 10 | [I Ain't Perfect \(feat\. Blxst\)](https://open.spotify.com/track/5Ak6oUUC0r1KfU2sPXkSa5) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Beyond Bulletproof](https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH) | 3:32 |
 | 11 | [No Love Lost](https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 1:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 49 | [Bulgari Shades](https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [X\-Tra Laps](https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi) | 2:43 |
 | 50 | [Federal](https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Federal](https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb) | 2:22 |
 
-Snapshot ID: `MTY2NDY1NjI3MSwwMDAwMDAwMDY3ZjE5OTNiNDFmNDI3YWMxMDFiZmM3ZTNmZTdjZTBm`
+Snapshot ID: `MTY2NDY1NjI3MSwwMDAwMDAwMDliMGVjMjZjYjJmZWIxOTNiMTg0Mzc1Zjg3NzY1YjMy`

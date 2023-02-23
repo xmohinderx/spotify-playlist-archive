@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 
 > Calm piano music for enhanced concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,145 likes - 328 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,139 likes - 328 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 141 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 |
 | 142 | [Am Arbersee](https://open.spotify.com/track/7LekCZ7Sx5an6lZnM5gnCw) | [Lucas Riggio](https://open.spotify.com/artist/0kqkulxBTv0YPpWssUxpfb) | [Am Arbersee](https://open.spotify.com/album/6fCYKO0Zd3eUALoZh2viCB) | 3:09 |
 | 143 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 |
-| 144 | [Little Home](https://open.spotify.com/track/3jJpGbcFO68CduWReWo1oV) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Little Home](https://open.spotify.com/album/61DvnLfaBfNvoIf0dDcDsM) | 2:51 |
+| 144 | [Little Home](https://open.spotify.com/track/0Zi9n2e0CCh9PipP8FI4Hn) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Different Kinds of Silence](https://open.spotify.com/album/6uWIBPRBygQToejf8rWu0a) | 2:51 |
 | 145 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 |
 | 146 | [s'effondrer](https://open.spotify.com/track/3e8h3zJiIpod0eksz4QXZ4) | [Liliane Lucy](https://open.spotify.com/artist/1ICOz8tPrLAs5l5hYq12om) | [s'effondrer](https://open.spotify.com/album/5Rvot5vaWn3LqtT2eHyfPY) | 3:03 |
 | 147 | [Hansa](https://open.spotify.com/track/71WIo1goJLTt41X5CuxxOd) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Hansa](https://open.spotify.com/album/1jyTlVuLLPVtmCYGXfBsj7) | 2:43 |
@@ -337,4 +337,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 327 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 |
 | 328 | [Without Words](https://open.spotify.com/track/2l1F4LJzRpVgqXXvjFydbT) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 4:14 |
 
-Snapshot ID: `MTY3NTY5MDk3MywwMDAwMDAwMDdmMDk4ZDgzOTQ0MTk0ZmM3MzhjMTcyNTQ0YTNhN2M5`
+Snapshot ID: `MTY3NTY5MDk3MywwMDAwMDAwMDlhNzkzNzRjMTcyZjRiZDUyN2RlOGEzNTI4NGZiNTE1`

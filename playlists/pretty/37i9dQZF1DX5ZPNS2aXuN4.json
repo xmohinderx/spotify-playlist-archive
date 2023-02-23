@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
-  "num_followers": 15774,
+  "num_followers": 15782,
   "original_name": "This Is Bart\u00f3k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMDZkYTY4M2Y5NWE2NDlhOTJmMDE0NDQ0ZmM2MDE3ODYz",
+  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMDFhZmMwNjJkNzVmODdiZGYyYjAzMjk5MGM5YzAwMWY2",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -247,8 +247,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Sonata For 2 Pianos And Percussion, Sz. 110 / Ravel: Ma m\u00e8re l'oye, M. 62; Rapsodie espagnole, M. 54",
-        "url": "https://open.spotify.com/album/5nMqNi2w7TF34eZLoM5xk9"
+        "name": "Bart\u00f3k: Music for Strings, Percussion & Celesta; Divertimento; Miraculous Mandarin Suite",
+        "url": "https://open.spotify.com/album/546ycLjWhMPxkN9YhD03ew"
       },
       "artists": [
         {
@@ -256,25 +256,17 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
         },
         {
-          "name": "Nelson Freire",
-          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
-        },
-        {
-          "name": "Peter Sadlo",
-          "url": "https://open.spotify.com/artist/4c9kGa5k5luOxgOntT2A2v"
-        },
-        {
-          "name": "Edgar Guggeis",
-          "url": "https://open.spotify.com/artist/7Ady30rtabb3w263Ajz3kj"
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
         }
       ],
-      "duration_ms": 375000,
-      "name": "Sonata For 2 Pianos And Percussion, Sz. 110: 3. Allegro non troppo",
-      "url": "https://open.spotify.com/track/2dZAwI6vY2p3ebNn9rtY2n"
+      "duration_ms": 393000,
+      "name": "Music for Strings, Percussion and Celesta, Sz. 106: I. Andante tranquillo",
+      "url": "https://open.spotify.com/track/1FFjTygElZaQxzBOu1Xo5U"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -331,8 +323,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Music for Strings, Percussion & Celesta; Divertimento; Miraculous Mandarin Suite",
-        "url": "https://open.spotify.com/album/546ycLjWhMPxkN9YhD03ew"
+        "name": "Bart\u00f3k: Sonata For 2 Pianos And Percussion, Sz. 110 / Ravel: Ma m\u00e8re l'oye, M. 62; Rapsodie espagnole, M. 54",
+        "url": "https://open.spotify.com/album/5nMqNi2w7TF34eZLoM5xk9"
       },
       "artists": [
         {
@@ -340,17 +332,25 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "Chicago Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
         },
         {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        },
+        {
+          "name": "Peter Sadlo",
+          "url": "https://open.spotify.com/artist/4c9kGa5k5luOxgOntT2A2v"
+        },
+        {
+          "name": "Edgar Guggeis",
+          "url": "https://open.spotify.com/artist/7Ady30rtabb3w263Ajz3kj"
         }
       ],
-      "duration_ms": 393000,
-      "name": "Music for Strings, Percussion and Celesta, Sz. 106: I. Andante tranquillo",
-      "url": "https://open.spotify.com/track/1FFjTygElZaQxzBOu1Xo5U"
+      "duration_ms": 375000,
+      "name": "Sonata For 2 Pianos And Percussion, Sz. 110: 3. Allegro non troppo",
+      "url": "https://open.spotify.com/track/2dZAwI6vY2p3ebNn9rtY2n"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -779,58 +779,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
-        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Belgian Radio and Television Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
-        },
-        {
-          "name": "Alexander Rahbari",
-          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
-        }
-      ],
-      "duration_ms": 453000,
-      "name": "Music for Strings, Percussion and Celesta, BB 114: III. Adagio",
-      "url": "https://open.spotify.com/track/6NEwZwRUI1gGoY2VtPQeeD"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bart\u00f3k: Violin Concertos No. 1 & 2",
-        "url": "https://open.spotify.com/album/6zWf25ozog6YJmKqOvxtCN"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Isabelle Faust",
-          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
-        },
-        {
-          "name": "Swedish Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        }
-      ],
-      "duration_ms": 556493,
-      "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
-      "url": "https://open.spotify.com/track/5VbKrfwOpSdXSdQmH7ByAX"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bartok: Rhapsodies Nos. 1 And 2 / Piano Quintet",
         "url": "https://open.spotify.com/album/3WXg9ApkQ8cDUO2AdpKz6J"
       },
@@ -851,6 +799,30 @@
       "duration_ms": 278280,
       "name": "Rhapsody No. 1, BB 94a: Prima Parte 'Lassu': Moderato",
       "url": "https://open.spotify.com/track/2GZVPfkqcQD5W0Xb3gNpG6"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+        }
+      ],
+      "duration_ms": 453000,
+      "name": "Music for Strings, Percussion and Celesta, BB 114: III. Adagio",
+      "url": "https://open.spotify.com/track/6NEwZwRUI1gGoY2VtPQeeD"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -899,6 +871,34 @@
       "duration_ms": 629960,
       "name": "Violin Concerto No. 2, BB 117: II. Andante tranquillo",
       "url": "https://open.spotify.com/track/5ICjfrq4tShFH8GG905wkd"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bart\u00f3k: Violin Concertos No. 1 & 2",
+        "url": "https://open.spotify.com/album/6zWf25ozog6YJmKqOvxtCN"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Isabelle Faust",
+          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "duration_ms": 556493,
+      "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
+      "url": "https://open.spotify.com/track/5VbKrfwOpSdXSdQmH7ByAX"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bart\u00f3k: Works for Solo Piano, Vol. 4",
+        "url": "https://open.spotify.com/album/1wkpZYx1Fw5KtVrS4JZ8l6"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Out Doors, BB 89, Sz. 81 - Volume 2: 4. The Night's Music",
+      "url": "https://open.spotify.com/track/66to0qDs0qnH0m4I0VWDW0"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bart\u00f3k: Bluebeard's Castle, Op. 11, Sz. 48",
         "url": "https://open.spotify.com/album/36dGchtqt2hLKTS2oeNHPx"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 526186,
       "name": "Bluebeard's Castle, Op. 11, Sz. 48: L\u00e1sd a r\u00e9gi asszonyokat (7th Door)",
       "url": "https://open.spotify.com/track/2CiEsmgNchRGnvHMIioM7U"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bart\u00f3k: Works for Solo Piano, Vol. 4",
-        "url": "https://open.spotify.com/album/1wkpZYx1Fw5KtVrS4JZ8l6"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Zolt\u00e1n Kocsis",
-          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Out Doors, BB 89, Sz. 81 - Volume 2: 4. The Night's Music",
-      "url": "https://open.spotify.com/track/66to0qDs0qnH0m4I0VWDW0"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1323,30 +1323,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bartok: 5 Songs / Hungarian Folksongs",
-        "url": "https://open.spotify.com/album/6YmwcQKBGg6puz6vSTcmuk"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Julia Hamari",
-          "url": "https://open.spotify.com/artist/4H3kRAUrqpZSAUUXtWm8jt"
-        },
-        {
-          "name": "Ilona Prunyi",
-          "url": "https://open.spotify.com/artist/4YwG4hDeSXGqjuzxQ5oWvZ"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "5 Dal (5 Songs), BB 71: No. 2. Nyar: Szomjasan vagyva (Summer: Lying and Longing)",
-      "url": "https://open.spotify.com/track/1Pv0QKjixOJM0SWBqSzFnp"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bart\u00f3k",
         "url": "https://open.spotify.com/album/3H1H5H49IB1Xw8z6qX8lmt"
       },
@@ -1371,6 +1347,30 @@
       "duration_ms": 373000,
       "name": "Piano Concerto No. 2, BB 101, Sz. 95: III. Allegro molto",
       "url": "https://open.spotify.com/track/7mnL1wVTvqWrQIrWVbPczg"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bartok: 5 Songs / Hungarian Folksongs",
+        "url": "https://open.spotify.com/album/6YmwcQKBGg6puz6vSTcmuk"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Julia Hamari",
+          "url": "https://open.spotify.com/artist/4H3kRAUrqpZSAUUXtWm8jt"
+        },
+        {
+          "name": "Ilona Prunyi",
+          "url": "https://open.spotify.com/artist/4YwG4hDeSXGqjuzxQ5oWvZ"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "5 Dal (5 Songs), BB 71: No. 2. Nyar: Szomjasan vagyva (Summer: Lying and Longing)",
+      "url": "https://open.spotify.com/track/1Pv0QKjixOJM0SWBqSzFnp"
     },
     {
       "added_at": "2022-07-01 04:02:00",

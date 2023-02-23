@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. La Receta en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,782 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,869 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 19 | [El Dos Sierras \( En Vivo\)](https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [En Vivo De Culiacan](https://open.spotify.com/album/7aLvfvDELF2hdwC6iTKjCM) | 2:38 |
 | 20 | [De Botas O Gabanas \- En Vivo](https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg) | [De Botas O Gabanas \(En Vivo\)](https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww) | 2:34 |
 | 21 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 |
-| 22 | [EL KARMA](https://open.spotify.com/track/3bG4hVhR7fUF3Cn38nOEsf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [EL KARMA](https://open.spotify.com/album/7xiQoNQkpoMzZJuvdrewcf) | 2:51 |
-| 23 | [365](https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf) | 3:08 |
-| 24 | [Gente Del Nini](https://open.spotify.com/track/6tnZI1qKVP3yf4emQhC4ED) | [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Gente Del Nini](https://open.spotify.com/album/6DXVgORaX4tpn4r5GoTI5R) | 2:08 |
-| 25 | [La Bachata](https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as) | 2:58 |
+| 22 | [365](https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf) | 3:08 |
+| 23 | [EL KARMA](https://open.spotify.com/track/3bG4hVhR7fUF3Cn38nOEsf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [EL KARMA](https://open.spotify.com/album/7xiQoNQkpoMzZJuvdrewcf) | 2:51 |
+| 24 | [La Bachata](https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as) | 2:58 |
+| 25 | [Gente Del Nini](https://open.spotify.com/track/6tnZI1qKVP3yf4emQhC4ED) | [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Gente Del Nini](https://open.spotify.com/album/6DXVgORaX4tpn4r5GoTI5R) | 2:08 |
 | 26 | [Yo Soy El Bueno \- En Vivo](https://open.spotify.com/track/7DNJkRM915Hm6B7i1Blhrp) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Yo Soy El Bueno \(En Vivo\)](https://open.spotify.com/album/3aDn1xUk7p7Ec9CCgl1NtY) | 2:56 |
 | 27 | [Puro Pa' Delante](https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Puro Pa' Delante](https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B) | 2:33 |
 | 28 | [También Me Llamo Ismael](https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [También Me Llamo Ismael](https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq) | 3:06 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 53 | [El Sera y El Chavo](https://open.spotify.com/track/4D501jFb5aOvcXal9CWQ5J) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [El Sera y El Chavo](https://open.spotify.com/album/5j9m7pctTpHZyHS7gZ0gro) | 2:49 |
 | 54 | [Manzana en el Mapa](https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Manzana en el Mapa](https://open.spotify.com/album/6CbT6DH726p3P8oAtmox7j) | 3:03 |
 | 55 | [Rosas](https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Rosas](https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh) | 4:47 |
-| 56 | [De La Nada](https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf), [Hd\_offisial](https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX) | [De La Nada](https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ) | 4:24 |
-| 57 | [Tiempos de Guerra 2](https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Tiempos de Guerra 2](https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa) | 2:51 |
+| 56 | [Tiempos de Guerra 2](https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Tiempos de Guerra 2](https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa) | 2:51 |
+| 57 | [De La Nada](https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf), [Hd\_offisial](https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX) | [De La Nada](https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ) | 4:24 |
 | 58 | [F E F](https://open.spotify.com/track/2pjYzSOQSiAw8xzjwDrJ74) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [F E F](https://open.spotify.com/album/6fBY0FGZiYYiE5bUFcNfMe) | 4:33 |
 | 59 | [Eres](https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Nivelado](https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF) | 4:08 |
 | 60 | [Pequeña y Fragíl](https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C) | [Pequeña y Fragíl](https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58) | 2:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [El Wizard Es Mi Apodo](https://open.spotify.com/track/6P6GsfUCmIjOv6Q2zBI36s) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Wizard Es Mi Apodo](https://open.spotify.com/album/2OGIAIOIwoHrqgD8M0vqOZ) | 3:14 |
 | 75 | [Se Alborotaron Los Guachos \- En Vivo](https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Se Alborotaron Los Guachos](https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio) | 2:44 |
 
-Snapshot ID: `MTY3NDc5OTIwMCwwMDAwMDAwMGE1Mzc3NjQ3YmYyNjE2MjY5NTZiMDdkMDU4YmUxNWVk`
+Snapshot ID: `MTY3NDc5OTIwMCwwMDAwMDAwMDg2ZWY3MDNiMzk1YmU2MWRhOTc4NmY4ZjExY2I4OWRl`

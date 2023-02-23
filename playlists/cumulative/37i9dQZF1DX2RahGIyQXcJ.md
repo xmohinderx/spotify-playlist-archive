@@ -4,7 +4,7 @@
 
 > Best of hip\-hop tracks from South Asia\. Cover:  Channi Nattan & Inderpal Moga
 
-176 songs - 10 hr 15 min
+177 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Jhamela Nai](https://open.spotify.com/track/2IBwxmXqZe2tRoahSTtP0b) | [Bhanga Bangla](https://open.spotify.com/artist/3JME2t83KwX07EXNAuVeEK) | [Made in Bangladesh](https://open.spotify.com/album/6WQ7yLqM2VuRXHO2teb3Ru) | 5:01 | 2022-07-18 | 2022-10-11 |
 | [Jodia](https://open.spotify.com/track/3YsjFlBBdirrCGNKWuirsq) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Jodia](https://open.spotify.com/album/0v7K8gzYS2OgsMgGequRGT) | 2:42 | 2023-01-20 | 2023-02-16 |
 | [Jyotiana](https://open.spotify.com/track/4JJ0UDZ0j4h324HGiBHdXi) | [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E) | [New Memories](https://open.spotify.com/album/2rnpZz4qrxYiptr4hG2nG9) | 2:51 | 2022-07-18 | 2022-10-11 |
+| [KALESHI CHORI](https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [DARK HORSE](https://open.spotify.com/artist/4v9G79IPGEpwTbgB6TUUaY) | [KALESHI CHORI](https://open.spotify.com/album/0Hgw8x1UFcmeReCtxDW24U) | 3:31 | 2023-02-22 |  |
 | [Kamini](https://open.spotify.com/track/34022UYT9Ewsv8Oi0rY8RE) | [Kevin Smokio](https://open.spotify.com/artist/6NgfAmWM9yXAtnqvlmEkpc), [Tee Cee](https://open.spotify.com/artist/6hqo8d3gc1rgUFTvUJ0Ndu), [Ramesses Reezy](https://open.spotify.com/artist/2vvoyU5P5AB1ZdMjRYLFOK) | [Kamini](https://open.spotify.com/album/1CsuEETITU53fMSVbaSHwY) | 4:20 | 2021-12-03 | 2023-01-13 |
 | [Karacola](https://open.spotify.com/track/2ub7wz0saK9DvP3Q8pyuvR) | [Dilo](https://open.spotify.com/artist/7lrGPpmDUbhyg2DE8dD8cJ) | [Karacola](https://open.spotify.com/album/539yc6BZmUkZ4ma2g0mcSv) | 2:24 | 2021-12-03 | 2022-02-25 |
 | [Khatam Hue Waande](https://open.spotify.com/track/3LlEnO0INKAExVe4JMi7p7) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Khatam Hue Waande](https://open.spotify.com/album/2SuPTs9x5NnQBRS01rCQq0) | 3:13 | 2022-10-10 | 2022-12-01 |

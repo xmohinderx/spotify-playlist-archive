@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  LUM!X x Gabry Ponte x Alida
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  David Guetta x Marten Hørger
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,078 likes - 25 songs - 1 hr 8 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,090 likes - 25 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 24 | [We Could Be Together \(feat\. Gabry Ponte, LUM!X, Daddy DJ\) \[Slowed Version\]](https://open.spotify.com/track/0w78MPLqL4TAJ8sWjFbrcc) | [Nightcore Slowed Down Tunes](https://open.spotify.com/artist/6I9v0QaDWnhDW8TYjus5zs) | [We Could Be Together \(feat\. Gabry Ponte, LUM!X, Daddy DJ\) \[Slowed Version\]](https://open.spotify.com/album/2yABaRhkLfs02tctHdCUyb) | 3:08 |
 | 25 | [We Could Be Together \(feat\. Gabry Ponte, LUM!X, Daddy DJ\) \[Sped Up Version\]](https://open.spotify.com/track/4fL5CfiMJwMP8rqaIPmB0R) | [Nightcore Sped Up Tunes](https://open.spotify.com/artist/2ts13g0k5xRvkUV4yGvXYF) | [We Could Be Together \(feat\. Gabry Ponte, LUM!X, Daddy DJ\) \[Sped Up Version\]](https://open.spotify.com/album/3W2NXmSP5lmi1YgN7mO7Ub) | 2:05 |
 
-Snapshot ID: `NjQyMixkMDRjNmUyMWViZGZjYzRlZTRiNDgxMzFhNDg5NDE2NGRiY2VmYTdm`
+Snapshot ID: `NjQyMyxiMmZlNzc3ZWRlOTVmMjQ3YWNhODE3MTdlMjYzNTRmYjdkZGQ1Zjg5`

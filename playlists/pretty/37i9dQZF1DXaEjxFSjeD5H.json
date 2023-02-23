@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 11527,
+  "num_followers": 11542,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDhiNDJmYWEwZGNmMjM2MTBjOTM4MmI5NjM2YjYwYTM3",
+  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMGRmMWNlOTM5ODkxMTU3NTU5OTk1MTY2YjAzMjljODJh",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Los Reyes del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4gcpaZ5fvmHylo6d019Nk9"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "Nereidas",
-      "url": "https://open.spotify.com/track/1K8dbgWWPoEdB6OP5bfHt0"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Sal\u00f3n M\u00e9xico Danz\u00f3n",
         "url": "https://open.spotify.com/album/4DBbnXxLEWfCJuRjF4BayU"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 158493,
       "name": "Cerezo Rosa",
       "url": "https://open.spotify.com/track/4jQ4EzE3W26jD5lU2YleHD"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Los Reyes del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4gcpaZ5fvmHylo6d019Nk9"
+      },
+      "artists": [
+        {
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Nereidas",
+      "url": "https://open.spotify.com/track/1K8dbgWWPoEdB6OP5bfHt0"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -815,8 +815,8 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Danzonera Joven de Mexico del Chamaco Aguilar, Vol. 2",
-        "url": "https://open.spotify.com/album/60Naej3w02R25knHK4eZwr"
+        "name": "Aut\u00e9ntico Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
         }
       ],
-      "duration_ms": 217546,
-      "name": "Ang\u00e9lica",
-      "url": "https://open.spotify.com/track/0RWQSk38aQTalfBgGLXfCH"
+      "duration_ms": 258530,
+      "name": "Bodas de Oro",
+      "url": "https://open.spotify.com/track/0Afe0fqZHkVHndVK7NX3VX"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -868,13 +868,13 @@
       },
       "artists": [
         {
-          "name": "Alejandro Aguilar Alc\u00e1ntara",
-          "url": "https://open.spotify.com/artist/4Dz6TV4oFEQGSK4B33MvCX"
+          "name": "Mario \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/3ewwxi1gRlSoYfjaDF5ltV"
         }
       ],
-      "duration_ms": 226150,
-      "name": "De Canela y Huevo",
-      "url": "https://open.spotify.com/track/4vfGT2H5qXI8JTrxlBX51l"
+      "duration_ms": 211622,
+      "name": "Ofelia",
+      "url": "https://open.spotify.com/track/2coXrhZjBOV8jjwNbpLyf2"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -884,13 +884,13 @@
       },
       "artists": [
         {
-          "name": "Mario \u00c1lvarez",
-          "url": "https://open.spotify.com/artist/3ewwxi1gRlSoYfjaDF5ltV"
+          "name": "Alejandro Aguilar Alc\u00e1ntara",
+          "url": "https://open.spotify.com/artist/4Dz6TV4oFEQGSK4B33MvCX"
         }
       ],
-      "duration_ms": 211622,
-      "name": "Ofelia",
-      "url": "https://open.spotify.com/track/2coXrhZjBOV8jjwNbpLyf2"
+      "duration_ms": 226150,
+      "name": "De Canela y Huevo",
+      "url": "https://open.spotify.com/track/4vfGT2H5qXI8JTrxlBX51l"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -911,8 +911,8 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Aut\u00e9ntico Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
+        "name": "La Danzonera Joven de Mexico del Chamaco Aguilar, Vol. 2",
+        "url": "https://open.spotify.com/album/60Naej3w02R25knHK4eZwr"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
         }
       ],
-      "duration_ms": 258530,
-      "name": "Bodas de Oro",
-      "url": "https://open.spotify.com/track/0Afe0fqZHkVHndVK7NX3VX"
+      "duration_ms": 217546,
+      "name": "Ang\u00e9lica",
+      "url": "https://open.spotify.com/track/0RWQSk38aQTalfBgGLXfCH"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danzones a la Mexicana",
-        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
-      },
-      "artists": [
-        {
-          "name": "Acerina Y Su Danzonera",
-          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
-        }
-      ],
-      "duration_ms": 175777,
-      "name": "Blanca Estela",
-      "url": "https://open.spotify.com/track/4a8VEqxbq7hm7bkdneKIGD"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Danzones Y Cha Cha Cha",
         "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 204840,
       "name": "Maria",
       "url": "https://open.spotify.com/track/6ftTw3iQQs4aUYAADPhJjc"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danzones a la Mexicana",
+        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "duration_ms": 175777,
+      "name": "Blanca Estela",
+      "url": "https://open.spotify.com/track/4a8VEqxbq7hm7bkdneKIGD"
     },
     {
       "added_at": "2022-08-02 23:28:22",

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-414 songs - 1 day 0 hr 16 min
+415 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [AGONIZE](https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [AGONIZE](https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx) | 3:43 | 2022-02-10 | 2022-04-21 |
 | [Airborne](https://open.spotify.com/track/5drPG7Jfd99IQuXA0yN5C9) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Airborne](https://open.spotify.com/album/0kjuzNLxD4KV0nJNaNN5iI) | 3:32 | 2022-01-07 | 2022-03-16 |
 | [All Around Me](https://open.spotify.com/track/0upnL2PcB8zLkZf1q83TUg) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [All Around Me](https://open.spotify.com/album/7x03vOspUDZdFRmpJNwubO) | 3:36 | 2022-04-22 | 2022-07-02 |
+| [All But A Dream](https://open.spotify.com/track/4OGWWzeMDVVW0D1dqQCS2t) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [All But A Dream](https://open.spotify.com/album/3hoLLHytifFVosoaxST1fz) | 3:39 | 2023-02-22 |  |
 | [All I Need](https://open.spotify.com/track/1uBA1ThKO8teqrrpeMHk8h) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [All I Need](https://open.spotify.com/album/5awCxZjxAP9h7gyPasDTNb) | 3:57 | 2022-02-02 | 2022-04-13 |
 | [All I Wanted](https://open.spotify.com/track/3oKUgGEaQ5bFsYWu6Wc9Dp) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [WAILD](https://open.spotify.com/artist/1OHv2TAFTSsMg21dhyoyEH) | [All I Wanted](https://open.spotify.com/album/2PjrdQeP3ghvirjQBFETkV) | 2:27 | 2023-01-17 |  |
 | [All In](https://open.spotify.com/track/32hXXUEV1w8DaGnklg1NrP) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Yury](https://open.spotify.com/artist/2XlwOcXssC0QnupEF3RLov) | [All In](https://open.spotify.com/album/2xtIgNQmBybaMsglf2gKMz) | 3:25 | 2022-03-24 | 2022-06-08 |
@@ -63,7 +64,7 @@
 | [Blossom](https://open.spotify.com/track/77vrwV62LCLmun3GIcC4og) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Haen](https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g) | [Blossom](https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE) | 4:09 | 2022-03-18 | 2022-05-31 |
 | [Blue](https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Blue](https://open.spotify.com/album/0cww0SjtI5q55VIb4QfUab) | 2:57 | 2022-05-31 | 2022-08-11 |
 | [Breathe Me Back To Life](https://open.spotify.com/track/0EI9hyJzyEOeRqQzQyitQ9) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Breathe Me Back To Life](https://open.spotify.com/album/5qcMz7TUHmkGN8gXQLOAT3) | 2:26 | 2023-01-06 |  |
-| [Bring Me Back](https://open.spotify.com/track/6Bw3VVF2X0YmZWYPl8wE44) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Bring Me Back](https://open.spotify.com/album/2O9vrpCCTCKdgd6eMGjm8h) | 3:33 | 2022-11-28 |  |
+| [Bring Me Back](https://open.spotify.com/track/6Bw3VVF2X0YmZWYPl8wE44) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Bring Me Back](https://open.spotify.com/album/2O9vrpCCTCKdgd6eMGjm8h) | 3:33 | 2022-11-28 | 2023-02-23 |
 | [Brushes](https://open.spotify.com/track/7sYIVXdHSk466cayCTwAgt) | [Woven](https://open.spotify.com/artist/4NSmulp0hBy5rJyK0doyUO) | [Brushes](https://open.spotify.com/album/1VbJtajKClF79HRsb7O5Lv) | 3:53 | 2023-02-03 |  |
 | [Cage](https://open.spotify.com/track/0KQ80se6Ppe4BRygTmhRcZ) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:45 | 2022-04-11 | 2022-06-22 |
 | [Call My Name](https://open.spotify.com/track/2RTSOgbEyShCnvxsHbCC7D) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Call My Name](https://open.spotify.com/album/7klufynHglkdPiPu82O4wB) | 3:03 | 2022-03-23 | 2022-06-03 |

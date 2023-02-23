@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 58699,
+  "num_followers": 58728,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMDVhZGY2NDlmNGVkOGNiZjcxMDRmZDc1MmQ0ODZlMjEw",
+  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMDU5N2M5N2FiYzZhMTA3OTY2YTg3YzM1M2Y1MmZhZjY4",
   "tracks": [
     {
       "added_at": "2022-10-01 18:54:42",
@@ -381,6 +381,22 @@
       "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
     },
     {
+      "added_at": "2022-12-21 17:22:42",
+      "album": {
+        "name": "Bacard\u00ed",
+        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
+      },
+      "artists": [
+        {
+          "name": "Pet Friendly",
+          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
+        }
+      ],
+      "duration_ms": 151572,
+      "name": "Bacard\u00ed",
+      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
+    },
+    {
       "added_at": "2022-10-01 18:54:42",
       "album": {
         "name": "Gran Blanco",
@@ -411,22 +427,6 @@
       "duration_ms": 214592,
       "name": "Espero Nadie Ocupe Mi Lugar",
       "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
-    },
-    {
-      "added_at": "2022-12-21 17:22:42",
-      "album": {
-        "name": "Bacard\u00ed",
-        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
-      },
-      "artists": [
-        {
-          "name": "Pet Friendly",
-          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
-        }
-      ],
-      "duration_ms": 151572,
-      "name": "Bacard\u00ed",
-      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "La teor\u00eda de los septenios",
-        "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
-      },
-      "artists": [
-        {
-          "name": "Da Skate",
-          "url": "https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW"
-        }
-      ],
-      "duration_ms": 151757,
-      "name": "No olvides de enfocarte siempre en lo importante",
-      "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Un A\u00f1o",
         "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 166540,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "La teor\u00eda de los septenios",
+        "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
+      },
+      "artists": [
+        {
+          "name": "Da Skate",
+          "url": "https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW"
+        }
+      ],
+      "duration_ms": 151757,
+      "name": "No olvides de enfocarte siempre en lo importante",
+      "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "Al infierno y de regreso",
+        "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
+      },
+      "artists": [
+        {
+          "name": "NUNO",
+          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "Cereal",
         "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Al infierno y de regreso",
-        "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
       },
       "artists": [
         {
-          "name": "NUNO",
-          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
         }
       ],
-      "duration_ms": 204500,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
+      "duration_ms": 223046,
+      "name": "Dualidad",
+      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -695,22 +711,6 @@
       "duration_ms": 191346,
       "name": "Lav\u00e1ntula",
       "url": "https://open.spotify.com/track/3rq5FTMGVA3ha3k6dCX2oh"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Dualidad",
-        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 223046,
-      "name": "Dualidad",
-      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -745,26 +745,6 @@
       "url": "https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52"
     },
     {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Clavo",
-        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        },
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Clavo",
-      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
-    },
-    {
       "added_at": "2022-12-21 17:22:42",
       "album": {
         "name": "Nunca Me Voy a Ir",
@@ -783,6 +763,26 @@
       "duration_ms": 151829,
       "name": "Nunca Me Voy a Ir",
       "url": "https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Clavo",
+        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        },
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Clavo",
+      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
     },
     {
       "added_at": "2022-10-01 18:54:42",

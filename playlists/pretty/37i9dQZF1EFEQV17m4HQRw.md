@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 29 | [Originais](https://open.spotify.com/track/0Qx8lDXJOAZlu59dpFdMqX) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Originais](https://open.spotify.com/album/0CBOe3rCben0oysg4KZN2p) | 3:33 |
 | 30 | [Alasca](https://open.spotify.com/track/30xBipXCgDQefGMmVGtODe) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 4:36 |
 | 31 | [Me Garanto](https://open.spotify.com/track/0M0PZQD7FVD9tgzX1VdRXf) | [Carol Roberto](https://open.spotify.com/artist/7jrmYkaX7aXULg3BX9YAYx) | [Me Garanto](https://open.spotify.com/album/1vWNsqfX0Bbq9Y7F7gEuHB) | 2:44 |
-| 32 | [La Drácula](https://open.spotify.com/track/6fd79PtewFZgLXYiIYhhLJ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:45 |
-| 33 | [Tóxico](https://open.spotify.com/track/3Pmh33KdrzB0imutuOUjoZ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:08 |
+| 32 | [Tóxico](https://open.spotify.com/track/3Pmh33KdrzB0imutuOUjoZ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:08 |
+| 33 | [La Drácula](https://open.spotify.com/track/6fd79PtewFZgLXYiIYhhLJ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:45 |
 | 34 | [Pájaro de Acero](https://open.spotify.com/track/4ZKcSMonbfKvy9owujzpt9) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Noel, Vol\. 1](https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk) | 3:29 |
 | 35 | [Então Ora, Igreja](https://open.spotify.com/track/06Dt8u7ZFbnPMIWJdmY8QB) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Como o Céu Te Adora](https://open.spotify.com/album/1nx5w8zaBOoihVeszMVpGF) | 5:36 |
 | 36 | [Multidão](https://open.spotify.com/track/3sSJJfvqp9Lv1CNPWTETsv) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Bulla Beatz](https://open.spotify.com/artist/5KpnynCVA9MKJIqQFPnN7C) | [Noel, Vol\. 1](https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk) | 3:16 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 43 | [15](https://open.spotify.com/track/0uR3XG3utMf03QR2Sg2V6l) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:16 |
 | 44 | [Only Fans](https://open.spotify.com/track/3qsGv2tG8A8HFBkIUwk9Oa) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:11 |
 
-Snapshot ID: `Mjc5NTA0MDEsMDAwMDAwMDA5NGU4MjMyMzIxM2ZiNzNiNWFlZmY4NTJjM2ZhZmE3Yg==`
+Snapshot ID: `Mjc5NTE4NDEsMDAwMDAwMDA1OTdhMjZlNDE3OTA0MWM1ODllNmQ3NmYwN2U5NTZmOQ==`

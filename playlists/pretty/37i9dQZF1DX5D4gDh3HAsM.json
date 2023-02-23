@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 515603,
+  "num_followers": 515545,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDc0YWQ1Nzc1MTg4MjM4NzFlMjI3MzMzNGJmMzQyYWFk",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDA1YTM3Y2M0MjViYzRjMWVlYzQ1ZWYzNjY1YmRjM2Y1",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Big Band Christmas",
-        "url": "https://open.spotify.com/album/56pKtkUTPwFTlRuApcpS9P"
-      },
-      "artists": [
-        {
-          "name": "John Tesh",
-          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
-        }
-      ],
-      "duration_ms": 133893,
-      "name": "We Wish You The Merriest",
-      "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Christmas Cookin'",
         "url": "https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 360133,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Big Band Christmas",
+        "url": "https://open.spotify.com/album/56pKtkUTPwFTlRuApcpS9P"
+      },
+      "artists": [
+        {
+          "name": "John Tesh",
+          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
+        }
+      ],
+      "duration_ms": 133893,
+      "name": "We Wish You The Merriest",
+      "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
     },
     {
       "added_at": "2021-11-12 15:48:58",

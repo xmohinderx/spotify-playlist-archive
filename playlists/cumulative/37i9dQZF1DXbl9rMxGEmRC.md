@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Dimmu Borgir
 
-337 songs - 1 day 5 hr 23 min
+338 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [As Above So Below](https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN) | 4:59 | 2022-07-13 |  |
 | [As Above So Below](https://open.spotify.com/track/5T6FioXGDdd5kw4I3HpHH1) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/7FKHNF62tKyP6ejTQ1qo2m) | 5:01 | 2022-07-13 | 2022-07-29 |
 | [Atomic Chapel](https://open.spotify.com/track/5Ie3VqOrOkiBGy3jXmTUxC) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Demonoir](https://open.spotify.com/album/6oJJJgHeX9b90lz7Vvkzu4) | 6:24 | 2022-07-13 | 2022-07-25 |
+| [Axis Mundi](https://open.spotify.com/track/2AG2lTeueOVfV2vkMyg5j2) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Axis Mundi](https://open.spotify.com/album/7yfSOlctpXVOlkG0pMXjxe) | 4:24 | 2023-02-23 |  |
 | [AZONEI WYRDWALKER](https://open.spotify.com/track/0vxOahfuJ3Qlcwg2Obzdfs) | [DØDSENGEL](https://open.spotify.com/artist/2X20fIoEYriNBjJA7R7dOM) | [MIRIUM OCCULTUM](https://open.spotify.com/album/75oMnd3O6E9QEaPnGzawWa) | 7:58 | 2022-07-13 | 2022-07-22 |
 | [Bathed in Clouds of Blood](https://open.spotify.com/track/0Ms5AudGd4Umj3nOyXlzYk) | [Judas Iscariot](https://open.spotify.com/artist/5G1MlYyOsiG56mjlsZHsLC) | [To Embrace the Corpses Bleeding](https://open.spotify.com/album/5aJR9XznroTV3CpKyhO8EQ) | 3:21 | 2022-07-13 | 2022-09-02 |
 | [Battles in the North](https://open.spotify.com/track/64QlOYDUVsEi4IATvLvWMi) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Battles in the North](https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw) | 4:11 | 2022-07-13 | 2022-07-29 |
@@ -118,7 +119,7 @@
 | [Focus](https://open.spotify.com/track/34zePJ5FTg2gyhOSEiExIT) | [Rivers of Nihil](https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN) | [Focus](https://open.spotify.com/album/5nEEG3gnVTvjqmXNuEKSqh) | 4:54 | 2021-12-17 | 2022-04-02 |
 | [Forest Whispers My Name](https://open.spotify.com/track/39KAA4qcUwhb9KZliy0nYC) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [The Principle Of Evil Made Flesh](https://open.spotify.com/album/15usnPSpMX62IcvbG2PrDN) | 5:06 | 2022-07-13 | 2022-07-29 |
 | [Fortress of Solitude](https://open.spotify.com/track/2twxjWRMdh6fJUnUkRwJsN) | [Thy Kingdom Will Burn](https://open.spotify.com/artist/3NF3YgS5HwEFVfGoAnoWoR) | [Fortress of Solitude](https://open.spotify.com/album/2FiGydND74LKbKzzC5oKMc) | 5:29 | 2022-04-29 | 2022-05-21 |
-| [Forward Into the Light!](https://open.spotify.com/track/5KeK0E61THcUMj2OlXfdDn) | [Trespasser](https://open.spotify.com/artist/2h6nQnzpUndFlaEA6wKOJ5) | [Ἀποκάλυψις](https://open.spotify.com/album/2M2E44j4Ja8pYbK06P0YHa) | 4:59 | 2023-02-16 |  |
+| [Forward Into the Light!](https://open.spotify.com/track/5KeK0E61THcUMj2OlXfdDn) | [Trespasser](https://open.spotify.com/artist/2h6nQnzpUndFlaEA6wKOJ5) | [Ἀποκάλυψις](https://open.spotify.com/album/2M2E44j4Ja8pYbK06P0YHa) | 4:59 | 2023-02-15 |  |
 | [Freezing Moon](https://open.spotify.com/track/4AP3a7eEOlz5sTJiWnv2C6) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 6:23 | 2022-07-13 |  |
 | [Freezing Moon](https://open.spotify.com/track/6NNzTfx7q6BSGot1bryQuk) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/4O9K2VUsGve0wJl49AG0Mu) | 6:23 | 2022-07-13 | 2022-07-29 |
 | [From the Cradle to Enslave](https://open.spotify.com/track/14JG4VbsqeLsFuDJlkybOT) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [From The Cradle To Enslave](https://open.spotify.com/album/1mrpcE3ikZEzH8z0e8j8cp) | 6:37 | 2022-07-13 |  |
@@ -260,7 +261,7 @@
 | [Seance](https://open.spotify.com/track/71lFE7VKJwpeV7YhqgbATO) | [Black Royal](https://open.spotify.com/artist/33lkAv8r2X0dsr8AWzZ6MY) | [Seance](https://open.spotify.com/album/1aXSQVKyOk4gYUZPnC3eqN) | 4:46 | 2021-12-17 | 2022-03-11 |
 | [Seeds Of The Ancient Gods](https://open.spotify.com/track/1r9HG7xOQ2D51jYXuLWfwN) | [Old Man's Child](https://open.spotify.com/artist/4LT73i2bqTazQQkmODMaYf) | [Devil's Path / In The Shades Of Life](https://open.spotify.com/album/6kajasqy9oJmS8kacjAvJe) | 6:37 | 2022-07-13 | 2022-07-27 |
 | [Serimosa](https://open.spotify.com/track/7qrQXuknOcNnhSmFBPtaBn) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Serimosa](https://open.spotify.com/album/0gKXkdw3L4AXUKaXCmB9DP) | 5:26 | 2022-03-10 | 2022-04-02 |
-| [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 | 2022-07-13 |  |
+| [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 | 2022-07-13 | 2023-02-23 |
 | [Serpents](https://open.spotify.com/track/0wox07C2h9VVLmYoGwaFgZ) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Decade of Silence](https://open.spotify.com/album/0zImQSij3CAhYMlkGiCW78) | 5:50 | 2022-05-06 | 2022-07-21 |
 | [Sharpened Narcotics](https://open.spotify.com/track/2YtghqdRA401FXUwCYutF3) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0) | [Encased in Chrome](https://open.spotify.com/album/2dbMIDmPfffd0tO9hyjkNF) | 2:01 | 2022-03-18 | 2022-04-23 |
 | [Shrines in Cinder](https://open.spotify.com/track/5iitxeQ3eMPteFo9EmSpyb) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [Shrines in Cinder](https://open.spotify.com/album/6oreJErT6gkTrUR6WFhABi) | 3:49 | 2022-04-22 | 2022-07-29 |
@@ -324,7 +325,7 @@
 | [Veter](https://open.spotify.com/track/1YuB9VNoHmGVtVxyZQ6dLB) | [Second To Sun](https://open.spotify.com/artist/2Rs3MsF2y8VfkjmOVHkT5N) | [Veter](https://open.spotify.com/album/1VYgM86x2AFTqHxZmOWv3l) | 5:29 | 2021-12-17 | 2022-07-27 |
 | [Virtus Asinaria \- Prayer](https://open.spotify.com/track/6xzzWEFp3AWVkZLXx9HKDh) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Virtus Asinaria \- Prayer](https://open.spotify.com/album/1JmXAptKVqcQm4BrqsQcQZ) | 5:18 | 2022-05-27 | 2022-10-09 |
 | [Voces Ab Alta](https://open.spotify.com/track/2dYYziGqbCMgX1Y4yYWDUp) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [Voces Ab Alta](https://open.spotify.com/album/1DdYqnJfJaXcpJq9TUW9Xj) | 5:39 | 2021-12-17 | 2022-03-11 |
-| [Vomiting Void](https://open.spotify.com/track/7zRN92DMeBbCcwMEBsS3Iy) | [Ciemra](https://open.spotify.com/artist/2jQQJhLOvicHLW0obfFDvx) | [Vomiting Void](https://open.spotify.com/album/1mrbD6kLf00SOGzSDvzywo) | 3:52 | 2023-02-16 |  |
+| [Vomiting Void](https://open.spotify.com/track/7zRN92DMeBbCcwMEBsS3Iy) | [Ciemra](https://open.spotify.com/artist/2jQQJhLOvicHLW0obfFDvx) | [Vomiting Void](https://open.spotify.com/album/1mrbD6kLf00SOGzSDvzywo) | 3:52 | 2023-02-15 |  |
 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 | 2022-08-26 |  |
 | [Warriors](https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72) | [I](https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7) | [Between Two Worlds](https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP) | 5:53 | 2022-07-13 | 2022-08-13 |
 | [We Are Pack](https://open.spotify.com/track/4LxoWlsbZR9gWsFsTAkhSv) | [Wolftopia](https://open.spotify.com/artist/3bJi0mvzPsQzu8uoZdB1Tj) | [Ways of the Pack](https://open.spotify.com/album/0VXVayHw6OxU4h9PYLGGTP) | 4:58 | 2021-12-17 | 2022-02-11 |

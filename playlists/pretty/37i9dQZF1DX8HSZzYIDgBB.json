@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Mula en portada.",
-  "num_followers": 29151,
+  "num_followers": 29170,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk0NDA1NywwMDAwMDAwMDc2Y2JhNmRmNjFmZDJlZTg0MWNlMjgzMDkzYjI5M2U1",
+  "snapshot_id": "MTY3Njk0NDA1NywwMDAwMDAwMDEzMjdmODc4YjJiOTkzMGU3NzJmZjk2YmU0ZjJkZGZk",
   "tracks": [
     {
       "added_at": "2023-01-02 21:45:00",
@@ -101,26 +101,6 @@
       "url": "https://open.spotify.com/track/3kGLHoG47OkMxwzrxZGOeX"
     },
     {
-      "added_at": "2022-09-16 04:52:29",
-      "album": {
-        "name": "traguito",
-        "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "traguito",
-      "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
-    },
-    {
       "added_at": "2022-03-19 05:58:48",
       "album": {
         "name": "Otun",
@@ -139,6 +119,26 @@
       "duration_ms": 263225,
       "name": "Solo Quiero (feat. Pedrina)",
       "url": "https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx"
+    },
+    {
+      "added_at": "2022-09-16 04:52:29",
+      "album": {
+        "name": "traguito",
+        "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "traguito",
+      "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
     },
     {
       "added_at": "2022-09-02 05:58:38",
@@ -305,26 +305,6 @@
       "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
-    },
-    {
       "added_at": "2022-11-03 18:26:02",
       "album": {
         "name": "Mientras Tanto",
@@ -347,6 +327,26 @@
       "duration_ms": 135000,
       "name": "Mientras Tanto",
       "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2022-07-13 15:48:37",
@@ -653,6 +653,22 @@
       "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
     },
     {
+      "added_at": "2022-09-07 01:11:32",
+      "album": {
+        "name": "Manifest Tone EP",
+        "url": "https://open.spotify.com/album/71r1Tt7DmwZejC8ONXC1k5"
+      },
+      "artists": [
+        {
+          "name": "Chico Mann",
+          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
+        }
+      ],
+      "duration_ms": 255435,
+      "name": "Dilo Como Yo (Te Est\u00e1n Llamando)",
+      "url": "https://open.spotify.com/track/3tz4X9gO0l6lOoh4ZvK7xg"
+    },
+    {
       "added_at": "2022-11-17 22:53:43",
       "album": {
         "name": "Starry Nights",
@@ -671,22 +687,6 @@
       "duration_ms": 205067,
       "name": "Starry Nights",
       "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
-    },
-    {
-      "added_at": "2022-09-07 01:11:32",
-      "album": {
-        "name": "Manifest Tone EP",
-        "url": "https://open.spotify.com/album/71r1Tt7DmwZejC8ONXC1k5"
-      },
-      "artists": [
-        {
-          "name": "Chico Mann",
-          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
-        }
-      ],
-      "duration_ms": 255435,
-      "name": "Dilo Como Yo (Te Est\u00e1n Llamando)",
-      "url": "https://open.spotify.com/track/3tz4X9gO0l6lOoh4ZvK7xg"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY"
     },
     {
-      "added_at": "2022-09-26 21:49:32",
-      "album": {
-        "name": "Ven Vamos",
-        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "Ven Vamos",
-      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
-    },
-    {
       "added_at": "2022-03-30 03:09:53",
       "album": {
         "name": "El Sonido Nuevo de",
@@ -867,6 +851,22 @@
       "duration_ms": 200458,
       "name": "Towards The Mountain",
       "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
+    },
+    {
+      "added_at": "2022-09-26 21:49:32",
+      "album": {
+        "name": "Ven Vamos",
+        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "Ven Vamos",
+      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
     },
     {
       "added_at": "2022-09-02 05:18:03",
@@ -933,22 +933,6 @@
       "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
     },
     {
-      "added_at": "2022-03-30 03:05:40",
-      "album": {
-        "name": "\u00bfPor Qu\u00e9 Te Vas?",
-        "url": "https://open.spotify.com/album/0vpvPRS3niS5bS0vd8IJnZ"
-      },
-      "artists": [
-        {
-          "name": "Vicente J\u00e1uregui",
-          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "\u00bfPor Qu\u00e9 Te Vas?",
-      "url": "https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "La Noche",
@@ -973,6 +957,26 @@
       "url": "https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ"
     },
     {
+      "added_at": "2022-08-31 04:48:40",
+      "album": {
+        "name": "Como Si Fuera Yo",
+        "url": "https://open.spotify.com/album/005n9T3G22CAiXUA1RF5Q8"
+      },
+      "artists": [
+        {
+          "name": "Las \u00c1\u00f1ez",
+          "url": "https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9"
+        },
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 196013,
+      "name": "Como Si Fuera Yo",
+      "url": "https://open.spotify.com/track/53KqQmPI1BNgb1g7O2hPHV"
+    },
+    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "El Sol",
@@ -993,24 +997,20 @@
       "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
     },
     {
-      "added_at": "2022-08-31 04:48:40",
+      "added_at": "2022-03-30 03:05:40",
       "album": {
-        "name": "Como Si Fuera Yo",
-        "url": "https://open.spotify.com/album/005n9T3G22CAiXUA1RF5Q8"
+        "name": "\u00bfPor Qu\u00e9 Te Vas?",
+        "url": "https://open.spotify.com/album/0vpvPRS3niS5bS0vd8IJnZ"
       },
       "artists": [
         {
-          "name": "Las \u00c1\u00f1ez",
-          "url": "https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9"
-        },
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+          "name": "Vicente J\u00e1uregui",
+          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
         }
       ],
-      "duration_ms": 196013,
-      "name": "Como Si Fuera Yo",
-      "url": "https://open.spotify.com/track/53KqQmPI1BNgb1g7O2hPHV"
+      "duration_ms": 204000,
+      "name": "\u00bfPor Qu\u00e9 Te Vas?",
+      "url": "https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA"
     },
     {
       "added_at": "2022-03-17 00:23:15",
@@ -1237,6 +1237,22 @@
       "url": "https://open.spotify.com/track/35dti3qmFz9CoPueVni1iW"
     },
     {
+      "added_at": "2022-07-11 18:36:36",
+      "album": {
+        "name": "Me mandaron por tortillas",
+        "url": "https://open.spotify.com/album/2C6SbW2J8gZim56WbhEQmm"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Me mandaron por tortillas",
+      "url": "https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw"
+    },
+    {
       "added_at": "2022-09-30 04:06:25",
       "album": {
         "name": "Arde",
@@ -1255,22 +1271,6 @@
       "duration_ms": 195901,
       "name": "Arde",
       "url": "https://open.spotify.com/track/083pInG64kGBpky2B6Vlfy"
-    },
-    {
-      "added_at": "2022-07-11 18:36:36",
-      "album": {
-        "name": "Me mandaron por tortillas",
-        "url": "https://open.spotify.com/album/2C6SbW2J8gZim56WbhEQmm"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Me mandaron por tortillas",
-      "url": "https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw"
     },
     {
       "added_at": "2022-04-09 05:10:17",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/5Yp11ERdglGeV2akmFrhtU"
     },
     {
-      "added_at": "2022-08-08 21:56:18",
-      "album": {
-        "name": "Marineros",
-        "url": "https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0"
-      },
-      "artists": [
-        {
-          "name": "Ulises Hadjis",
-          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
-        }
-      ],
-      "duration_ms": 128371,
-      "name": "Marineros",
-      "url": "https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "El Cabr\u00f3n",
@@ -1479,6 +1463,22 @@
       "duration_ms": 222333,
       "name": "El Cabr\u00f3n - Radio Edit",
       "url": "https://open.spotify.com/track/6W4efD0hmXfQH2nTl00Fqv"
+    },
+    {
+      "added_at": "2022-08-08 21:56:18",
+      "album": {
+        "name": "Marineros",
+        "url": "https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0"
+      },
+      "artists": [
+        {
+          "name": "Ulises Hadjis",
+          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
+        }
+      ],
+      "duration_ms": 128371,
+      "name": "Marineros",
+      "url": "https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA"
     },
     {
       "added_at": "2022-04-05 15:50:31",
@@ -1549,22 +1549,6 @@
       "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
     },
     {
-      "added_at": "2022-08-19 02:38:30",
-      "album": {
-        "name": "Errores en el extranjero",
-        "url": "https://open.spotify.com/album/2aUY4dvUBxp02PgzMMGyNK"
-      },
-      "artists": [
-        {
-          "name": "Ulises Hadjis",
-          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
-        }
-      ],
-      "duration_ms": 123900,
-      "name": "Mutilado",
-      "url": "https://open.spotify.com/track/2nnDYImuOuOoh0OSbAvDlH"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Frutas",
@@ -1611,6 +1595,22 @@
       "duration_ms": 235311,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG"
+    },
+    {
+      "added_at": "2022-08-19 02:38:30",
+      "album": {
+        "name": "Errores en el extranjero",
+        "url": "https://open.spotify.com/album/2aUY4dvUBxp02PgzMMGyNK"
+      },
+      "artists": [
+        {
+          "name": "Ulises Hadjis",
+          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
+        }
+      ],
+      "duration_ms": 123900,
+      "name": "Mutilado",
+      "url": "https://open.spotify.com/track/2nnDYImuOuOoh0OSbAvDlH"
     },
     {
       "added_at": "2021-10-05 16:26:53",

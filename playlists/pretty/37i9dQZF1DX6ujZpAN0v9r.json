@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Cover: my bloody valentine",
-  "num_followers": 477638,
+  "num_followers": 477934,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1MDc1OCwwMDAwMDAwMDZiZmU3MGM3YzcyYTI5MTUwZjEyNmRiNGViNWMyNTk1",
+  "snapshot_id": "MTY3MzQ1MDc1OCwwMDAwMDAwMDdiMGMyYjM3ZTliZjBiOTlmNGQ5MzNmMzA2Mzc2MzBi",
   "tracks": [
     {
       "added_at": "2021-06-03 02:39:04",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Cherry-coloured Funk",
-      "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Souvlaki",
         "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 285906,
       "name": "When the Sun Hits",
       "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Cherry-coloured Funk",
+      "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -139,18 +139,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
+        "name": "Delaware",
+        "url": "https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp"
       },
       "artists": [
         {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+          "name": "Drop Nineteens",
+          "url": "https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE"
         }
       ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
+      "duration_ms": 535600,
+      "name": "Kick The Tragedy",
+      "url": "https://open.spotify.com/track/40ABtf917Ghhi2tkQDNOdn"
     },
     {
       "added_at": "2023-01-11 15:25:58",
@@ -171,6 +171,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 257519,
       "name": "Only Shallow",
       "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Delaware",
-        "url": "https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp"
-      },
-      "artists": [
-        {
-          "name": "Drop Nineteens",
-          "url": "https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE"
-        }
-      ],
-      "duration_ms": 535600,
-      "name": "Kick The Tragedy",
-      "url": "https://open.spotify.com/track/40ABtf917Ghhi2tkQDNOdn"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -267,18 +267,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
+        "name": "7",
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
       },
       "artists": [
         {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 338869,
-      "name": "Star Roving",
-      "url": "https://open.spotify.com/track/7nq6qpHhCJ3pNOa3KHi8fe"
+      "duration_ms": 204373,
+      "name": "Dark Spring",
+      "url": "https://open.spotify.com/track/4FskS1jBEsv5hPC0VJgqmm"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -299,6 +299,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 338869,
+      "name": "Star Roving",
+      "url": "https://open.spotify.com/track/7nq6qpHhCJ3pNOa3KHi8fe"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 319226,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Dark Spring",
-      "url": "https://open.spotify.com/track/4FskS1jBEsv5hPC0VJgqmm"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 357373,
-      "name": "Souvlaki Space Station",
-      "url": "https://open.spotify.com/track/76JhicgPtW4zbN72tpnMyA"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Everything and Nothing",
         "url": "https://open.spotify.com/album/1YVRY55UKxKz9HSsgHL47y"
       },
@@ -427,22 +411,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 418706,
-      "name": "Soon",
-      "url": "https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Les voyages de l'\u00e2me",
         "url": "https://open.spotify.com/album/1yENAh14y99tcC6No2mXWl"
       },
@@ -455,6 +423,22 @@
       "duration_ms": 350320,
       "name": "Autre temps",
       "url": "https://open.spotify.com/track/50dpeks48j0zMECIKVAGUG"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 357373,
+      "name": "Souvlaki Space Station",
+      "url": "https://open.spotify.com/track/76JhicgPtW4zbN72tpnMyA"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -491,6 +475,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 418706,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Saturdays = Youth",
         "url": "https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE"
       },
@@ -507,38 +507,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Just For A Day",
-        "url": "https://open.spotify.com/album/7761KE2C9rH1QO9WAE1Ysb"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "Catch The Breeze",
-      "url": "https://open.spotify.com/track/4cz5bBa239LZ0Pt5DrJXYK"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Glider",
-        "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 255426,
-      "name": "Off Your Face",
-      "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "The Comforts of Madness",
         "url": "https://open.spotify.com/album/3YZJ5Uiyy1vCMubtZDG7a2"
       },
@@ -551,6 +519,22 @@
       "duration_ms": 337600,
       "name": "Sight of You",
       "url": "https://open.spotify.com/track/7fectUUMiPjZijOJIJaN3S"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Just For A Day",
+        "url": "https://open.spotify.com/album/7761KE2C9rH1QO9WAE1Ysb"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "Catch The Breeze",
+      "url": "https://open.spotify.com/track/4cz5bBa239LZ0Pt5DrJXYK"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -587,22 +571,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Mild Orange",
-        "url": "https://open.spotify.com/album/21ttBqlfgrFZCmIL7xVT3Y"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 251142,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3TY2qqZZhGdk7BciNr5sS5"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Turn Into",
         "url": "https://open.spotify.com/album/1tW2xzjwARfKVOQp6e43Fj"
       },
@@ -615,6 +583,22 @@
       "duration_ms": 203536,
       "name": "Turn Into",
       "url": "https://open.spotify.com/track/0QCpDMWI8zQTB58WqVgu7C"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Mild Orange",
+        "url": "https://open.spotify.com/album/21ttBqlfgrFZCmIL7xVT3Y"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 251142,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3TY2qqZZhGdk7BciNr5sS5"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -647,6 +631,22 @@
       "duration_ms": 102333,
       "name": "Taste of Cindy",
       "url": "https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Glider",
+        "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 255426,
+      "name": "Off Your Face",
+      "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "In Streams",
-        "url": "https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL"
-      },
-      "artists": [
-        {
-          "name": "Centaur",
-          "url": "https://open.spotify.com/artist/4cFiH2RuKB8SzNi3MwCpJJ"
-        }
-      ],
-      "duration_ms": 455000,
-      "name": "The Same Place",
-      "url": "https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 231226,
       "name": "Time Baby III",
       "url": "https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "In Streams",
+        "url": "https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL"
+      },
+      "artists": [
+        {
+          "name": "Centaur",
+          "url": "https://open.spotify.com/artist/4cFiH2RuKB8SzNi3MwCpJJ"
+        }
+      ],
+      "duration_ms": 455000,
+      "name": "The Same Place",
+      "url": "https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "Wax and Wane - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Encounters",
         "url": "https://open.spotify.com/album/0xeUhrPDwkyFJzOAADD6Bf"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 220800,
       "name": "May",
       "url": "https://open.spotify.com/track/3hVlV66Z3PfvXwIYOTeZdi"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Wax and Wane - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Find Yourself Along The Way",
-        "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
-      },
-      "artists": [
-        {
-          "name": "The Meeting Places",
-          "url": "https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "Now I Know You Could Never Be The One",
-      "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Anak Ko",
         "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
       },
@@ -1171,18 +1155,34 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Mindfullness",
-        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
+        "name": "Find Yourself Along The Way",
+        "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
       },
       "artists": [
         {
-          "name": "Flyying Colours",
-          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
+          "name": "The Meeting Places",
+          "url": "https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL"
         }
       ],
-      "duration_ms": 186253,
-      "name": "Long Holiday",
-      "url": "https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc"
+      "duration_ms": 242066,
+      "name": "Now I Know You Could Never Be The One",
+      "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Molten Young Lovers",
+        "url": "https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 279747,
+      "name": "Molten Young Lovers",
+      "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Molten Young Lovers",
-        "url": "https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z"
+        "name": "Mindfullness",
+        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
       },
       "artists": [
         {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+          "name": "Flyying Colours",
+          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
         }
       ],
-      "duration_ms": 279747,
-      "name": "Molten Young Lovers",
-      "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
+      "duration_ms": 186253,
+      "name": "Long Holiday",
+      "url": "https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Mouth By Mouth",
-        "url": "https://open.spotify.com/album/7bff3Hql4bR05CPNvC0JJs"
-      },
-      "artists": [
-        {
-          "name": "His Name Is Alive",
-          "url": "https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Lip",
-      "url": "https://open.spotify.com/track/2sztc6YzQE9GrPHBBWR8Gv"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Chlorine Dream",
         "url": "https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 264533,
       "name": "Chlorine Dream",
       "url": "https://open.spotify.com/track/1XfydTBaDChT4J9K4bng5L"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Mouth By Mouth",
+        "url": "https://open.spotify.com/album/7bff3Hql4bR05CPNvC0JJs"
+      },
+      "artists": [
+        {
+          "name": "His Name Is Alive",
+          "url": "https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Lip",
+      "url": "https://open.spotify.com/track/2sztc6YzQE9GrPHBBWR8Gv"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Parallel Universe Blues",
-        "url": "https://open.spotify.com/album/4lQikOnK4lBEDZwL4SXNDX"
-      },
-      "artists": [
-        {
-          "name": "Papercuts",
-          "url": "https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn"
-        }
-      ],
-      "duration_ms": 344155,
-      "name": "Sing to Me Candy",
-      "url": "https://open.spotify.com/track/04IPKQyLuMn7vXx44OMOAm"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Almost Paradise",
         "url": "https://open.spotify.com/album/0tjeEeo7BpHqdgPujxeu3y"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 257068,
       "name": "Lovely Times",
       "url": "https://open.spotify.com/track/6sskntaT7RFHNjSu6Y437c"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Parallel Universe Blues",
+        "url": "https://open.spotify.com/album/4lQikOnK4lBEDZwL4SXNDX"
+      },
+      "artists": [
+        {
+          "name": "Papercuts",
+          "url": "https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn"
+        }
+      ],
+      "duration_ms": 344155,
+      "name": "Sing to Me Candy",
+      "url": "https://open.spotify.com/track/04IPKQyLuMn7vXx44OMOAm"
     },
     {
       "added_at": "2021-06-03 02:39:04",

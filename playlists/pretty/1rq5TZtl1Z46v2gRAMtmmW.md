@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 27,380 likes - 40 songs - 3 hr 1 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 27,391 likes - 40 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 |
 | 2 | [Circle Back Around](https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Circle Back Around](https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33) | 3:15 |
 | 3 | [Drum](https://open.spotify.com/track/0woEYg2SEO3u2MFKmVnDgM) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:38 |
-| 4 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 |
-| 5 | [Everything Went Well](https://open.spotify.com/track/4gm8AfWEmRuWDfk65P1Nde) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Everything Went Well](https://open.spotify.com/album/2EKCO1b3W6WlRjlAQS2iAX) | 4:59 |
-| 6 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 |
-| 7 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 |
-| 8 | [I Know](https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [I Know](https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO) | 3:43 |
-| 9 | [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 |
-| 10 | [The Last Goodbye \(feat\. Bettye LaVette\) \- Hayden James Remix](https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(Hayden James Remix\)](https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E) | 3:44 |
-| 11 | [I Just Want To Love You \- Club Version](https://open.spotify.com/track/4e3Qn7ZlJsaRKUOJwzGVzk) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You \(Club Version\)](https://open.spotify.com/album/3S948ScIz3AJ0QvPcXF9C6) | 5:04 |
-| 12 | [Give It 2 Me \- Edit](https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give It 2 Me](https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33) | 3:48 |
-| 13 | [Fragments of a Butterfly’s Face \- Edit](https://open.spotify.com/track/2tjotfP0A3kTyx71G42exR) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dummy Corporation](https://open.spotify.com/album/0HZSknL80HGgxczYAi2qEU) | 3:28 |
-| 14 | [Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 8:12 |
-| 15 | [I Saw](https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [I Saw](https://open.spotify.com/album/5dYFkoGHXg0xjjtXEqZkwV) | 3:27 |
-| 16 | [Like The Old Days](https://open.spotify.com/track/3o0yIwcf91q6p6n8xs5NVQ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Like The Old Days](https://open.spotify.com/album/40yz3IgIDiz0LoiVZJF4ri) | 4:00 |
+| 4 | [Sunsleeper](https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Sunsleeper](https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M) | 3:40 |
+| 5 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 |
+| 6 | [Everything Went Well](https://open.spotify.com/track/4gm8AfWEmRuWDfk65P1Nde) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Everything Went Well](https://open.spotify.com/album/2EKCO1b3W6WlRjlAQS2iAX) | 4:59 |
+| 7 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 |
+| 8 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 |
+| 9 | [I Know](https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [I Know](https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO) | 3:43 |
+| 10 | [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 |
+| 11 | [The Last Goodbye \(feat\. Bettye LaVette\) \- Hayden James Remix](https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(Hayden James Remix\)](https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E) | 3:44 |
+| 12 | [I Just Want To Love You \- Club Version](https://open.spotify.com/track/4e3Qn7ZlJsaRKUOJwzGVzk) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You \(Club Version\)](https://open.spotify.com/album/3S948ScIz3AJ0QvPcXF9C6) | 5:04 |
+| 13 | [Give It 2 Me \- Edit](https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give It 2 Me](https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33) | 3:48 |
+| 14 | [Fragments of a Butterfly’s Face \- Edit](https://open.spotify.com/track/2tjotfP0A3kTyx71G42exR) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dummy Corporation](https://open.spotify.com/album/0HZSknL80HGgxczYAi2qEU) | 3:28 |
+| 15 | [Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 8:12 |
+| 16 | [I Saw](https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [I Saw](https://open.spotify.com/album/5dYFkoGHXg0xjjtXEqZkwV) | 3:27 |
 | 17 | [Comfort Eating](https://open.spotify.com/track/5Ga1jDKhuAiZIk2bnh9ODX) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [BLUSH](https://open.spotify.com/album/2RmsiWEPNkqtfjbFDi1zqe) | 3:40 |
 | 18 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 |
 | 19 | [Dream \- Edit](https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dream](https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr) | 4:06 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 39 | [Basketball Shoes \- Live from the Queen Elizabeth Hall](https://open.spotify.com/track/0pemQSbjPQbJllCNTlsmBu) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There \(Deluxe\)](https://open.spotify.com/album/4ZGAjDHKwwcMZSkDALzlSO) | 13:24 |
 | 40 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 |
 
-Snapshot ID: `MzI0NixlZDFhMmNmMjAwY2FmNWI0MTZjZDc3NmQ3MmQwYjYyZTc4ODU1YTUw`
+Snapshot ID: `MzI0OSwxY2IyZjdhM2IxMDhiOGZhODkxMGQzZmRlOTg3Y2QyY2Q3NTRlZDEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX?si=3Z4t2zHRTmujpeqTlB83uw">AKA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,583 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,707 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

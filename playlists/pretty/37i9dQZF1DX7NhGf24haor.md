@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Discover the newest Hardstyle tracks\. Cover: Sound Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,485 likes - 107 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,561 likes - 107 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

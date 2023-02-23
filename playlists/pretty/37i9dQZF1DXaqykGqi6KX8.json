@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 33864,
+  "num_followers": 33916,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMGEwZTkyYzhjODIzYjY0ODJlZmNkZmUzZjdlMTg3OGE1",
+  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMGQwOGVlMWFjNzczYzE1N2Y3YzYwOTExYWZjYmJkNDMz",
   "tracks": [
     {
       "added_at": "2021-10-14 08:16:07",
@@ -283,6 +283,22 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/23VDqGZBZwUKvpaO03O0lq"
+      },
+      "artists": [
+        {
+          "name": "Acyl",
+          "url": "https://open.spotify.com/artist/3lNu61NAziC5x45j6vJv9F"
+        }
+      ],
+      "duration_ms": 336346,
+      "name": "Son of Muhieddine",
+      "url": "https://open.spotify.com/track/4QRjuVSPlAIDZP3KfiBwt1"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
         "name": "The Order of Amenti",
         "url": "https://open.spotify.com/album/1F4dwcJKvBx6KOnQoWcv01"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 196344,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/23VDqGZBZwUKvpaO03O0lq"
-      },
-      "artists": [
-        {
-          "name": "Acyl",
-          "url": "https://open.spotify.com/artist/3lNu61NAziC5x45j6vJv9F"
-        }
-      ],
-      "duration_ms": 336346,
-      "name": "Son of Muhieddine",
-      "url": "https://open.spotify.com/track/4QRjuVSPlAIDZP3KfiBwt1"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Sofia",
-        "url": "https://open.spotify.com/album/6EuwcKP68HmrN6rUqjpHuN"
-      },
-      "artists": [
-        {
-          "name": "Arkan",
-          "url": "https://open.spotify.com/artist/2cr1yLhEpDBjgc7o4dn2vH"
-        }
-      ],
-      "duration_ms": 293600,
-      "name": "Hayati",
-      "url": "https://open.spotify.com/track/2IbOp5y95v0VXR32RV98q1"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Ma Adesh Feeha (We've Had It)",
         "url": "https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 239674,
       "name": "Inta Omri (You Are My Life)",
       "url": "https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/6EuwcKP68HmrN6rUqjpHuN"
+      },
+      "artists": [
+        {
+          "name": "Arkan",
+          "url": "https://open.spotify.com/artist/2cr1yLhEpDBjgc7o4dn2vH"
+        }
+      ],
+      "duration_ms": 293600,
+      "name": "Hayati",
+      "url": "https://open.spotify.com/track/2IbOp5y95v0VXR32RV98q1"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -475,18 +475,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Garden of Dystopia",
-        "url": "https://open.spotify.com/album/01f26cqA6rP4x4YQ43phM9"
+        "name": "Timeless Truths",
+        "url": "https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA"
       },
       "artists": [
         {
-          "name": "Divine Disorder",
-          "url": "https://open.spotify.com/artist/6TUH8SH556eJUVeKVq0ODz"
+          "name": "Luay Rifai",
+          "url": "https://open.spotify.com/artist/36iwFNTe4PEIY0Bhpryu8g"
         }
       ],
-      "duration_ms": 484600,
-      "name": "The Gambit",
-      "url": "https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH"
+      "duration_ms": 342266,
+      "name": "Leap of Faith",
+      "url": "https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH"
     }
   ],
   "unique_name": "Arab Metal",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1198083,
+  "num_followers": 1198615,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM4Mjg1MywwMDAwMDAwMDlkMjJkZTU4ODhlMWU5Njc2ODAyNWMxNjM0N2RlYTdk",
+  "snapshot_id": "MTY3MzM4Mjg1MywwMDAwMDAwMGQ1ZDIxZTkxMmFlODg5ODI1ZmYxYTM0YWY0MDYzYmVl",
   "tracks": [
     {
       "added_at": "2022-06-07 22:21:55",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Guaracha Sabrosona",
-        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Guaracha Sabrosona",
-      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 276559,
       "name": "El Final de Nuestra Historia",
       "url": "https://open.spotify.com/track/4m2r8uvZFYzhWNMtEonxKn"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Guaracha Sabrosona",
+        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Guaracha Sabrosona",
+      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "20 Exitos Originales 20",
-        "url": "https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Que Nota",
-          "url": "https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv"
-        }
-      ],
-      "duration_ms": 277028,
-      "name": "El Amor de la Nena",
-      "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "El Angel Del Amor",
         "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 268460,
       "name": "La Mu\u00f1equita Fea",
       "url": "https://open.spotify.com/track/3Ua9fZLumeONPtLnkkUHbI"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "20 Exitos Originales 20",
+        "url": "https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Que Nota",
+          "url": "https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv"
+        }
+      ],
+      "duration_ms": 277028,
+      "name": "El Amor de la Nena",
+      "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 315680,
-      "name": "El Verde De Tus Ojos - Remix",
-      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "El Poder de la Cumbia",
         "url": "https://open.spotify.com/album/79LPQTAIJn9zkZbQxjijae"
       },
@@ -711,18 +695,34 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Exitos Sonideros, Vol. 2",
-        "url": "https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz"
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
       },
       "artists": [
         {
-          "name": "Sonideros de MEX USA",
-          "url": "https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm"
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
         }
       ],
-      "duration_ms": 196637,
-      "name": "Cumbia Yemaya",
-      "url": "https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS"
+      "duration_ms": 315680,
+      "name": "El Verde De Tus Ojos - Remix",
+      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Los Reyes De Los Sonidos",
+        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "El Paso Del Gigante",
+      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -743,18 +743,18 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Los Reyes De Los Sonidos",
-        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
+        "name": "Exitos Sonideros, Vol. 2",
+        "url": "https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz"
       },
       "artists": [
         {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+          "name": "Sonideros de MEX USA",
+          "url": "https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm"
         }
       ],
-      "duration_ms": 216613,
-      "name": "El Paso Del Gigante",
-      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
+      "duration_ms": 196637,
+      "name": "Cumbia Yemaya",
+      "url": "https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Oro Puro: \u00c9xitos",
-        "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
-      },
-      "artists": [
-        {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Int\u00e9ntalo T\u00fa",
-      "url": "https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Serie Diamante - 15 S\u00faper Exitos",
         "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 235293,
       "name": "Me Volv\u00ed A Acordar De Ti",
       "url": "https://open.spotify.com/track/6z4LGme7tL991yvpk1gURW"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Oro Puro: \u00c9xitos",
+        "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
+      },
+      "artists": [
+        {
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "Int\u00e9ntalo T\u00fa",
+      "url": "https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Todo Lo Encuentro En Ti",
+      "url": "https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "Desvelo",
         "url": "https://open.spotify.com/album/18PmOgLMJbv3lT5wqueTrU"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 211415,
       "name": "Desvelo",
       "url": "https://open.spotify.com/track/1PQx9MPARk2DWTxAc1i8bG"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR"
-      },
-      "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Todo Lo Encuentro En Ti",
-      "url": "https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
     },
     {
-      "added_at": "2023-01-10 20:34:13",
-      "album": {
-        "name": "Un Monton De Estrellas",
-        "url": "https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ju-Juy",
-          "url": "https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m"
-        }
-      ],
-      "duration_ms": 283678,
-      "name": "La Triste Despedida",
-      "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
-    },
-    {
       "added_at": "2022-06-07 22:21:55",
       "album": {
         "name": "Enamoradas",
@@ -1347,6 +1331,22 @@
       "duration_ms": 177213,
       "name": "Por Un Rato",
       "url": "https://open.spotify.com/track/1tuNezfWG1gxqSiyOOQhDt"
+    },
+    {
+      "added_at": "2023-01-10 20:34:13",
+      "album": {
+        "name": "Un Monton De Estrellas",
+        "url": "https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ju-Juy",
+          "url": "https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m"
+        }
+      ],
+      "duration_ms": 283678,
+      "name": "La Triste Despedida",
+      "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1461,54 +1461,6 @@
       "url": "https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379"
     },
     {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "Sabor A Cumbia",
-        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Mu\u00f1eca Esquiva",
-      "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
-      },
-      "artists": [
-        {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
-        }
-      ],
-      "duration_ms": 290089,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "La Cumbia Se\u00f1al",
-        "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Orquesta Sonidera",
-          "url": "https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB"
-        }
-      ],
-      "duration_ms": 375849,
-      "name": "La Cumbia Se\u00f1al",
-      "url": "https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9"
-    },
-    {
       "added_at": "2023-01-10 20:34:13",
       "album": {
         "name": "No Puedo Olvidarte Cumbia Rosa",
@@ -1527,6 +1479,54 @@
       "duration_ms": 285799,
       "name": "No Puedo Olvidarte Cumbia Rosa",
       "url": "https://open.spotify.com/track/5LU3NW5RIL1k2OCXwGNTrd"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Sabor A Cumbia",
+        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Mu\u00f1eca Esquiva",
+      "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "La Cumbia Se\u00f1al",
+        "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Orquesta Sonidera",
+          "url": "https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB"
+        }
+      ],
+      "duration_ms": 375849,
+      "name": "La Cumbia Se\u00f1al",
+      "url": "https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 290089,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Noches Oscuras",
-        "url": "https://open.spotify.com/album/5TJ4Loi2pZaTEfIqFpRh4B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Yeah!",
-          "url": "https://open.spotify.com/artist/4kssNc4REeCjtcorA7rxt7"
-        }
-      ],
-      "duration_ms": 350511,
-      "name": "Noches Oscuras",
-      "url": "https://open.spotify.com/track/2Yr4K1V5LXpSMjWpQ6FGt9"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
         "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 211440,
       "name": "\u00a1Ay! El Amor",
       "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Noches Oscuras",
+        "url": "https://open.spotify.com/album/5TJ4Loi2pZaTEfIqFpRh4B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Yeah!",
+          "url": "https://open.spotify.com/artist/4kssNc4REeCjtcorA7rxt7"
+        }
+      ],
+      "duration_ms": 350511,
+      "name": "Noches Oscuras",
+      "url": "https://open.spotify.com/track/2Yr4K1V5LXpSMjWpQ6FGt9"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "El Ritmo Mamalon",
-        "url": "https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 193375,
-      "name": "El Ritmo Mamalon",
-      "url": "https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "El Angel Del Amor",
         "url": "https://open.spotify.com/album/1iqpr5cqKi8XkqCAmV1eGD"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 272471,
       "name": "Te Vas Con El o Te Vas Conmigo",
       "url": "https://open.spotify.com/track/21voFmS2anMlrpB8WR7wgd"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "El Ritmo Mamalon",
+        "url": "https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 193375,
+      "name": "El Ritmo Mamalon",
+      "url": "https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Con Mas Poder",
-        "url": "https://open.spotify.com/album/71tYifBcxv2ybsKBntBs41"
-      },
-      "artists": [
-        {
-          "name": "Cumbias Poblanas",
-          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
-        }
-      ],
-      "duration_ms": 324504,
-      "name": "Cuando Volveras",
-      "url": "https://open.spotify.com/track/0dUtnWQkXrv3ufAYrmWDhk"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Dos en Uno",
         "url": "https://open.spotify.com/album/62IIfBRz6IlMviHqNs1lNt"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 260928,
       "name": "Amor T\u00f3xico",
       "url": "https://open.spotify.com/track/62y5VJHI9Y5udjRmtrW85E"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Con Mas Poder",
+        "url": "https://open.spotify.com/album/71tYifBcxv2ybsKBntBs41"
+      },
+      "artists": [
+        {
+          "name": "Cumbias Poblanas",
+          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
+        }
+      ],
+      "duration_ms": 324504,
+      "name": "Cuando Volveras",
+      "url": "https://open.spotify.com/track/0dUtnWQkXrv3ufAYrmWDhk"
     },
     {
       "added_at": "2022-06-07 22:21:55",

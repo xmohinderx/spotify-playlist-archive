@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 115051,
+  "num_followers": 115095,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk0NzYwMCwwMDAwMDAwMDJmYmI2MmZkYmJmMjE5ODY2NzQyNWIxYjFmMzhlZWVh",
+  "snapshot_id": "MTY3NTk0NzYwMCwwMDAwMDAwMDBhZjdkYjgwZmVlNzY5ODVkYTA5ZDczOWZiYThmNmRi",
   "tracks": [
     {
       "added_at": "2023-02-09 13:00:00",
@@ -259,26 +259,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Say Nothing (feat. MAY-A)",
-        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 232959,
-      "name": "Say Nothing (feat. MAY-A)",
-      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Love Tonight (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 184783,
       "name": "Love Tonight (Robin Schulz Remix)",
       "url": "https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Say Nothing (feat. MAY-A)",
+        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 232959,
+      "name": "Say Nothing (feat. MAY-A)",
+      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 246832,
       "name": "You",
       "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "Tomorrows",
+        "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        }
+      ],
+      "duration_ms": 198961,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "The Last Goodbye (Hayden James Remix)",
         "url": "https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 224908,
       "name": "The Last Goodbye (feat. Bettye LaVette) - Hayden James Remix",
       "url": "https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Tomorrows",
-        "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
-      },
-      "artists": [
-        {
-          "name": "Crooked Colours",
-          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
-        }
-      ],
-      "duration_ms": 198961,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Changes (Timmy Trumpet Remix)",
         "url": "https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 146250,
       "name": "Changes - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "wish that i could (Memphis LK Remix)",
-        "url": "https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        },
-        {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
-        }
-      ],
-      "duration_ms": 181330,
-      "name": "wish that i could - Memphis LK Remix",
-      "url": "https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Happiness, Guaranteed",
         "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 231578,
       "name": "Empty Promise",
       "url": "https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "wish that i could (Memphis LK Remix)",
+        "url": "https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "duration_ms": 181330,
+      "name": "wish that i could - Memphis LK Remix",
+      "url": "https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM"
     },
     {
       "added_at": "2023-02-09 13:00:00",

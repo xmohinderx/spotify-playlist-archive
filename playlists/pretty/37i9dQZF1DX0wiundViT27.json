@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy, feel-good rock tunes.",
-  "num_followers": 611352,
+  "num_followers": 611357,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIyOTQxMSwwMDAwMDAwMDhjNzA0ZWMyMjc1ZWM0MWMyNWJkNGM3NTQ5YmM1ZjY2",
+  "snapshot_id": "MTY3NDIyOTQxMSwwMDAwMDAwMDk2YTRiZWY0NDYzNWRiMTgyNTk4YjUwNjdkMzNkZjll",
   "tracks": [
     {
       "added_at": "2023-01-20 15:43:31",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-01-20 15:43:31",
       "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/5pq4qSf7QPmEu7F1IhhVmn"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 211119,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/6FqBQIRLJMluO10YtDbETv"
-    },
-    {
-      "added_at": "2023-01-20 15:43:31",
-      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 215173,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
+    },
+    {
+      "added_at": "2023-01-20 15:43:31",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/5pq4qSf7QPmEu7F1IhhVmn"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 211119,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/6FqBQIRLJMluO10YtDbETv"
     },
     {
       "added_at": "2023-01-20 15:43:31",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-01-20 15:43:31",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
-    },
-    {
-      "added_at": "2023-01-20 15:43:31",
-      "album": {
         "name": "adios",
         "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 203502,
       "name": "adios",
       "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
+    },
+    {
+      "added_at": "2023-01-20 15:43:31",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": "2023-01-20 15:43:31",

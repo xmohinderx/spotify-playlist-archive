@@ -1,12 +1,12 @@
 {
   "description": "The highest quality blend ft. The Revivalists",
-  "num_followers": 93453,
+  "num_followers": 93479,
   "original_name": "Grade A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAxNjMyMCwwMDAwMDAwMDU2ZGU0NmRjOWRjY2FjM2I3MDUyMjQ1MjUyZWY2ZDgz",
+  "snapshot_id": "MTY3NzA5NzYxMiwwMDAwMDAwMDc0NTIxNTdmNTViNzUxN2I2ZjZiMTgzNGViYzhiNjJk",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 262623,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Seventeen Going Under (Deluxe)",
         "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
       },
@@ -95,54 +79,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Sea Star",
-        "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Sea Star",
-      "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Shaking Hands With Elvis",
-        "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 209087,
-      "name": "Hollywood Forever Cemetery",
-      "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -155,6 +91,22 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Sea Star",
+        "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Sea Star",
+      "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -175,82 +127,86 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 242922,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     },
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Light Me Up",
-        "url": "https://open.spotify.com/album/3Ok627rSH7jN3F1PBYJzqy"
+        "name": "Off My Mind (feat. K.Flay)",
+        "url": "https://open.spotify.com/album/3asZXme3Y5uxcAHoU7Wt5Q"
       },
       "artists": [
         {
-          "name": "Illiterate Light",
-          "url": "https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J"
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
         }
       ],
-      "duration_ms": 240810,
-      "name": "Light Me Up",
-      "url": "https://open.spotify.com/track/0DHLNrNypoeT1Dr2K1CvMG"
+      "duration_ms": 213855,
+      "name": "Off My Mind (feat. K.Flay)",
+      "url": "https://open.spotify.com/track/6lnBjJKUCc7MtYwGcamvns"
     },
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Tears Run Dry",
-        "url": "https://open.spotify.com/album/6tOPyaHFIOa9zXDQr5m4cJ"
+        "name": "Shaking Hands With Elvis",
+        "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
       },
       "artists": [
         {
-          "name": "Abraham Alexander",
-          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
         }
       ],
-      "duration_ms": 254725,
-      "name": "Tears Run Dry",
-      "url": "https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd"
+      "duration_ms": 209087,
+      "name": "Hollywood Forever Cemetery",
+      "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
     },
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
+        "name": "Eyez",
+        "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
         }
       ],
-      "duration_ms": 189722,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
+      "duration_ms": 220533,
+      "name": "Eyez",
+      "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-22 20:26:52",
       "album": {
-        "name": "Lucifer On The Sofa",
-        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+        "name": "Descending To Nowhere",
+        "url": "https://open.spotify.com/album/40x1FfDLWrqgts1sZq6xyt"
       },
       "artists": [
         {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
         }
       ],
-      "duration_ms": 227267,
-      "name": "My Babe",
-      "url": "https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw"
+      "duration_ms": 209480,
+      "name": "Descending To Nowhere",
+      "url": "https://open.spotify.com/track/2VekSimbB6RVkb1Der7qXG"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -287,54 +243,194 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Eyez",
-        "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
+        "name": "Tears Run Dry",
+        "url": "https://open.spotify.com/album/6tOPyaHFIOa9zXDQr5m4cJ"
       },
       "artists": [
         {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+          "name": "Abraham Alexander",
+          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Eyez",
-      "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
+      "duration_ms": 254725,
+      "name": "Tears Run Dry",
+      "url": "https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd"
     },
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Glue Song",
-        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 135066,
-      "name": "Glue Song",
-      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
+      "duration_ms": 262623,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5"
     },
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Off My Mind (feat. K.Flay)",
-        "url": "https://open.spotify.com/album/3asZXme3Y5uxcAHoU7Wt5Q"
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
       },
       "artists": [
         {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 227267,
+      "name": "My Babe",
+      "url": "https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Lose You (feat. Soccer Mommy)",
+        "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
         },
         {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
         }
       ],
-      "duration_ms": 213855,
-      "name": "Off My Mind (feat. K.Flay)",
-      "url": "https://open.spotify.com/track/6lnBjJKUCc7MtYwGcamvns"
+      "duration_ms": 175386,
+      "name": "Lose You (feat. Soccer Mommy)",
+      "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 242922,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Light Me Up",
+        "url": "https://open.spotify.com/album/3Ok627rSH7jN3F1PBYJzqy"
+      },
+      "artists": [
+        {
+          "name": "Illiterate Light",
+          "url": "https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J"
+        }
+      ],
+      "duration_ms": 240810,
+      "name": "Light Me Up",
+      "url": "https://open.spotify.com/track/0DHLNrNypoeT1Dr2K1CvMG"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 189722,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "$20",
+      "url": "https://open.spotify.com/track/6KHYVC9avWQMH40pidRtcG"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "The Weakness",
+        "url": "https://open.spotify.com/album/5hzXqk2ukjTaPxX9R3Taj6"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "The Weakness",
+      "url": "https://open.spotify.com/track/3HQYZhbq8hhVxof8H5nqVF"
+    },
+    {
+      "added_at": "2023-02-22 16:05:56",
+      "album": {
+        "name": "Any Time Of Day",
+        "url": "https://open.spotify.com/album/0LFz2ib2DdaLrfnHKNH7Pr"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Any Time Of Day",
+      "url": "https://open.spotify.com/track/4F29imzGfhbvEuYgyUPpHx"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/3wApCcYjKiRA68wVVF3V1n"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6Swa2wkTqv5AzmeptAdn4d"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -371,26 +467,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Lose You (feat. Soccer Mommy)",
-        "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
-      },
-      "artists": [
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        },
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Lose You (feat. Soccer Mommy)",
-      "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Superglue",
         "url": "https://open.spotify.com/album/39IcaBkeuTzJQcNJ5Hi9CM"
       },
@@ -403,22 +479,6 @@
       "duration_ms": 250362,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/5tTpyVtQuj1j8ZBnjn9WPC"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/3wApCcYjKiRA68wVVF3V1n"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6Swa2wkTqv5AzmeptAdn4d"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -439,18 +499,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "The Weakness",
-        "url": "https://open.spotify.com/album/5hzXqk2ukjTaPxX9R3Taj6"
+        "name": "Glue Song",
+        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
       "artists": [
         {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 208146,
-      "name": "The Weakness",
-      "url": "https://open.spotify.com/track/3HQYZhbq8hhVxof8H5nqVF"
+      "duration_ms": 135066,
+      "name": "Glue Song",
+      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
       "added_at": "2023-02-21 21:52:00",
@@ -467,34 +527,6 @@
       "duration_ms": 87000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 200093,
-      "name": "$20",
-      "url": "https://open.spotify.com/track/6KHYVC9avWQMH40pidRtcG"
     },
     {
       "added_at": "2023-02-17 05:00:00",

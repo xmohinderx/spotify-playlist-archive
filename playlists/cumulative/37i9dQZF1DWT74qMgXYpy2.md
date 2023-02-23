@@ -4,7 +4,7 @@
 
 > Flute and fiddle, drums and drops.
 
-92 songs - 6 hr 44 min
+93 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Inspector](https://open.spotify.com/track/6kFd7AKRB5VXT4oFlbKZDk) | [Mànran](https://open.spotify.com/artist/0okPaVyeEjh0VJtfBdNPho) | [An Dà Là \- The Two Days](https://open.spotify.com/album/6tRjldxDGgnk1uLj9m7Tlg) | 5:03 | 2020-11-11 |  |
 | [Into the Light](https://open.spotify.com/track/252OaSAHSoMemzy6lcplTf) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Afterlight](https://open.spotify.com/album/1V1NKL76a4COkkHqSG679P) | 3:57 | 2020-11-11 | 2022-07-29 |
 | [Into the Light](https://open.spotify.com/track/4CRFusPzKiPpRr7hWOoaUk) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Afterlight](https://open.spotify.com/album/43DarYsvUv9ljGzt666wqr) | 3:57 | 2020-11-11 |  |
-| [Kadisha](https://open.spotify.com/track/02FrlgjziTVbewcolGVdrI) | [The Trials of Cato](https://open.spotify.com/artist/4IeC7nJG3VMbzXlObCCsYC) | [Hide and Hair](https://open.spotify.com/album/4tzSvK1Mo2GsW9jcIXrBd0) | 5:05 | 2020-11-11 |  |
+| [Kadisha](https://open.spotify.com/track/02FrlgjziTVbewcolGVdrI) | [The Trials of Cato](https://open.spotify.com/artist/4IeC7nJG3VMbzXlObCCsYC) | [Hide and Hair](https://open.spotify.com/album/4tzSvK1Mo2GsW9jcIXrBd0) | 5:05 | 2020-11-11 | 2023-02-23 |
+| [Kadisha](https://open.spotify.com/track/09XtEtZo5vErJmBaPjvW3W) | [The Trials of Cato](https://open.spotify.com/artist/4IeC7nJG3VMbzXlObCCsYC) | [Hide and Hair](https://open.spotify.com/album/2ZJ7ZYvPRBiIB4Y0qgm0UR) | 5:05 | 2020-11-11 |  |
 | [Kings](https://open.spotify.com/track/2t6dq7278w9vxw0PDqz8OE) | [Ross Ainslie](https://open.spotify.com/artist/5qP1QgTFbxBrG4WXN0gRrq), [Ali Hutton](https://open.spotify.com/artist/72zr6hTSr85kBmNqaCMtwh) | [Symbiosis II](https://open.spotify.com/album/3EpS355iRGU2E2CFG0HMoq) | 6:29 | 2020-11-11 |  |
 | [Knees Up](https://open.spotify.com/track/0lkkDlHWpgpPWWQOQqvQjx) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [Knees Up](https://open.spotify.com/album/2mDsVuMML0onkMQCY8A71X) | 3:27 | 2020-11-11 | 2022-11-13 |
 | [Knees Up](https://open.spotify.com/track/0w9DLBvg5p0sl16z0Qn8Ry) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [Frenzy of the Meeting](https://open.spotify.com/album/1dKru5DafMfAT372Ps1V8R) | 3:27 | 2020-11-11 | 2022-07-29 |

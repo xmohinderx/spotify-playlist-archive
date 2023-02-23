@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 
 > All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO\-Ls!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,623 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,813 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 | 24 | [LOVE ME RIGHT](https://open.spotify.com/track/1kFevEv3s7Gf6o5xSDR5DL) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE ME RIGHT \- The 2nd Album Repackage](https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7) | 3:25 |
 | 25 | [Just as usual](https://open.spotify.com/track/64xTu0cKbXu3ZSRkfXiBnx) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:27 |
 | 26 | [Candy](https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:47 |
-| 27 | [Power](https://open.spotify.com/track/53YZi9zgTnF0Py0K6ejyWz) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [THE POWER OF MUSIC– The 4th Album ‘THE WAR’ Repackage](https://open.spotify.com/album/5yUlewRtRySsb77hEoTTIu) | 3:42 |
+| 27 | [Power](https://open.spotify.com/track/53YZi9zgTnF0Py0K6ejyWz) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [THE POWER OF MUSIC – The 4th Album ‘THE WAR’ Repackage](https://open.spotify.com/album/5yUlewRtRySsb77hEoTTIu) | 3:42 |
 | 28 | [Don't Go](https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:34 |
 | 29 | [No matter](https://open.spotify.com/track/5fumVsa0IxAEJvHHu2F2k5) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:42 |
 | 30 | [My dear](https://open.spotify.com/track/3qbsRctNTLFSgCvz6ZKYjW) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Dear my dear \- The 2nd Mini Album](https://open.spotify.com/album/7vIUunVE4NWLS0uq9X9o5f) | 3:58 |

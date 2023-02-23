@@ -1,15 +1,15 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Ana B\u00e1rbara, Vicente Fern\u00e1ndez ",
-  "num_followers": 64476,
+  "num_followers": 64528,
   "original_name": "Mariachi 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxNzQ0MSwwMDAwMDAwMDcxZTY5ZjgwOTMzNTUxNTI1NTUxNTJhYzRkNmY1ZGE0",
+  "snapshot_id": "MTY3NjYxNzQ0MSwwMDAwMDAwMDQ0ZjI1ZWZiNTMwMWZhYWVhYjk3YmM2N2YwODIzZmE4",
   "tracks": [
     {
-      "added_at": "2023-02-22 01:29:06",
+      "added_at": "2023-02-23 01:27:27",
       "album": {
         "name": "La Jugada",
         "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/1WvNTYRxyodbQ4NPmO9jKZ"
     },
     {
-      "added_at": "2023-02-22 01:29:06",
+      "added_at": "2023-02-23 01:27:27",
       "album": {
         "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
     },
     {
-      "added_at": "2023-02-22 01:29:06",
+      "added_at": "2023-02-23 01:27:27",
       "album": {
         "name": "Cuatro Copas",
         "url": "https://open.spotify.com/album/2Q0z2joI0OzF4kLV1ty0gP"
@@ -263,26 +263,6 @@
     {
       "added_at": "2023-02-10 22:29:46",
       "album": {
-        "name": "Me Extra\u00f1o",
-        "url": "https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 191880,
-      "name": "Me Extra\u00f1o",
-      "url": "https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi"
-    },
-    {
-      "added_at": "2023-02-10 22:29:46",
-      "album": {
         "name": "AYAYAY! (S\u00faper Deluxe)",
         "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 171360,
       "name": "Dime C\u00f3mo Quieres",
       "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+    },
+    {
+      "added_at": "2023-02-10 22:29:46",
+      "album": {
+        "name": "Me Extra\u00f1o",
+        "url": "https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 191880,
+      "name": "Me Extra\u00f1o",
+      "url": "https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi"
     },
     {
       "added_at": "2023-02-10 22:29:46",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-02-10 22:29:46",
       "album": {
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Si Nos Dejan - En Vivo",
+      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
+    },
+    {
+      "added_at": "2023-02-10 22:29:46",
+      "album": {
         "name": "Me Hace Tanto Bien",
         "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
-    },
-    {
-      "added_at": "2023-02-10 22:29:46",
-      "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Si Nos Dejan - En Vivo",
-      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
     },
     {
       "added_at": "2023-02-10 22:29:46",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-02-10 22:29:46",
       "album": {
-        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 228187,
-      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
-    },
-    {
-      "added_at": "2023-02-10 22:29:46",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 270943,
       "name": "Hasta Que Llegue el Alba",
       "url": "https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7"
+    },
+    {
+      "added_at": "2023-02-10 22:29:46",
+      "album": {
+        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 228187,
+      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
     },
     {
       "added_at": "2023-02-10 22:29:46",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2023-02-10 22:29:46",
       "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
-    },
-    {
-      "added_at": "2023-02-10 22:29:46",
-      "album": {
         "name": "Paloma Blanca",
         "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 233373,
       "name": "Paloma Blanca",
       "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
+    },
+    {
+      "added_at": "2023-02-10 22:29:46",
+      "album": {
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
     },
     {
       "added_at": "2023-02-10 22:29:46",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-02-10 22:29:46",
       "album": {
+        "name": "Ya Es Suficiente",
+        "url": "https://open.spotify.com/album/5Rd0mR4ErR1V7Seq9D3ELT"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "duration_ms": 182044,
+      "name": "Ya Es Suficiente",
+      "url": "https://open.spotify.com/track/1XF09h15mtS3nvgDniNZN5"
+    },
+    {
+      "added_at": "2023-02-10 22:29:46",
+      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/1uC7oeENjeNnbHavxISZLF"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 205500,
       "name": "El Camino",
       "url": "https://open.spotify.com/track/2FBuHZHjko1h1ynYd9IowW"
-    },
-    {
-      "added_at": "2023-02-10 22:29:46",
-      "album": {
-        "name": "Ya Es Suficiente",
-        "url": "https://open.spotify.com/album/5Rd0mR4ErR1V7Seq9D3ELT"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 182044,
-      "name": "Ya Es Suficiente",
-      "url": "https://open.spotify.com/track/1XF09h15mtS3nvgDniNZN5"
     },
     {
       "added_at": "2023-02-10 22:29:46",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-02-10 22:29:46",
       "album": {
-        "name": "Ser\u00e9",
-        "url": "https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 163433,
-      "name": "Ser\u00e9",
-      "url": "https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2"
-    },
-    {
-      "added_at": "2023-02-10 22:29:46",
-      "album": {
         "name": "Chuladas Del Alma",
         "url": "https://open.spotify.com/album/3PfxvQzZa81oXmrceghQTr"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 196986,
       "name": "A Lo Que Veo",
       "url": "https://open.spotify.com/track/4TEZTwDJqZ5hl8aQrNZC8F"
+    },
+    {
+      "added_at": "2023-02-10 22:29:46",
+      "album": {
+        "name": "Ser\u00e9",
+        "url": "https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "duration_ms": 163433,
+      "name": "Ser\u00e9",
+      "url": "https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2"
     },
     {
       "added_at": "2023-02-10 22:29:46",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-02-10 22:29:46",
       "album": {
-        "name": "No Me Hace Falta Nada",
-        "url": "https://open.spotify.com/album/72gV9k0jtquTeAUzHvvIE1"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 193841,
-      "name": "No Me Hace Falta Nada",
-      "url": "https://open.spotify.com/track/6mbugMNw6tfCJUdmJhP9oE"
-    },
-    {
-      "added_at": "2023-02-10 22:29:46",
-      "album": {
         "name": "Imborrable",
         "url": "https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 192066,
       "name": "Imborrable",
       "url": "https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce"
+    },
+    {
+      "added_at": "2023-02-10 22:29:46",
+      "album": {
+        "name": "No Me Hace Falta Nada",
+        "url": "https://open.spotify.com/album/72gV9k0jtquTeAUzHvvIE1"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "duration_ms": 193841,
+      "name": "No Me Hace Falta Nada",
+      "url": "https://open.spotify.com/track/6mbugMNw6tfCJUdmJhP9oE"
     },
     {
       "added_at": "2023-02-10 22:29:46",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-02-10 22:29:46",
       "album": {
-        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 178378,
-      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
-    },
-    {
-      "added_at": "2023-02-10 22:29:46",
-      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 212746,
       "name": "Por Salud Mental",
       "url": "https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex"
+    },
+    {
+      "added_at": "2023-02-10 22:29:46",
+      "album": {
+        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 178378,
+      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
     },
     {
       "added_at": "2023-02-10 22:29:46",

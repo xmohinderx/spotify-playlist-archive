@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,394 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,679 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 18 | [Keep Up The Pace](https://open.spotify.com/track/359dqboVug8CoRUE8WNVGf) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Keep Up The Pace](https://open.spotify.com/album/5ZQxUv5wcWLpobKa9lIPc4) | 3:12 |
 | 19 | [where r u](https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn) | [Kill Paris](https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w) | [where r u](https://open.spotify.com/album/2F2609uOxkhgnd6OysbbU4) | 3:14 |
 | 20 | [Fire](https://open.spotify.com/track/31OGLSOWrnr6ufgKHq23Sl) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Matisse](https://open.spotify.com/artist/23htNRZZo1AaSgRb8ZULJV) | [Fire](https://open.spotify.com/album/53PK2MPBcD2Z3umLA3DhX3) | 4:20 |
-| 21 | [Change Us](https://open.spotify.com/track/6SfsL6v65hiJwS0clxWsw5) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Jack Dawson](https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx) | [Change Us](https://open.spotify.com/album/2aHsYsKRe868FXbHlo9WZu) | 2:51 |
-| 22 | [Real](https://open.spotify.com/track/10ln7FMO9lBbSBR5P2btE7) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9) | [Real](https://open.spotify.com/album/6TMNSDP3qAOI8Vz9SgPK9p) | 4:46 |
+| 21 | [Real](https://open.spotify.com/track/10ln7FMO9lBbSBR5P2btE7) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9) | [Real](https://open.spotify.com/album/6TMNSDP3qAOI8Vz9SgPK9p) | 4:46 |
+| 22 | [Change Us](https://open.spotify.com/track/6SfsL6v65hiJwS0clxWsw5) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Jack Dawson](https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx) | [Change Us](https://open.spotify.com/album/2aHsYsKRe868FXbHlo9WZu) | 2:51 |
 | 23 | [Lions \- VIP](https://open.spotify.com/track/5nDxkmW3YrWh6KfSMXcIKQ) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Lions \(VIP\)](https://open.spotify.com/album/11yUbbKozNofq5fixsJnPh) | 4:39 |
 | 24 | [Dreamstate](https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc) | [Dreamstate](https://open.spotify.com/album/3GSBcowmQxTWGiBOc4zJwh) | 3:18 |
 | 25 | [Voices](https://open.spotify.com/track/3vYK1bhhuFglF2ucREX4jO) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Voices](https://open.spotify.com/album/1zktHQjfwzgp9x4krbKtJt) | 4:09 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 46 | [Too Much](https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:39 |
 | 47 | [I don't give a Fuck](https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [NICESKEIK](https://open.spotify.com/artist/4yP08tX8zhyAQLFZDLLA6D) | [I don't give a Fuck](https://open.spotify.com/album/3qC18tclXE1DFHzQKqTRAM) | 2:17 |
 | 48 | [Climax](https://open.spotify.com/track/4kAKNNDn9SJu97NQ9vuMik) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Climax](https://open.spotify.com/album/5HuiKWU9kTp3H4hE4m4UVQ) | 4:29 |
-| 49 | [Reviver \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Reviver \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS) | 4:06 |
-| 50 | [Daydreams](https://open.spotify.com/track/10fCnRDanLFxvi6ni9Xfnf) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Daydreams](https://open.spotify.com/album/3bx9QqHke58WWn5yeiUpSy) | 3:31 |
+| 49 | [Daydreams](https://open.spotify.com/track/10fCnRDanLFxvi6ni9Xfnf) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Daydreams](https://open.spotify.com/album/3bx9QqHke58WWn5yeiUpSy) | 3:31 |
+| 50 | [HARDCORE](https://open.spotify.com/track/42wW7YIlVS5UGUat9C75No) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [HARDCORE](https://open.spotify.com/album/3ek1prKoU7k0Dl4ap5M67J) | 1:53 |
 
-Snapshot ID: `MTY3NjU4MTQyNywwMDAwMDAwMDQyMjIwN2EzMmFhMzZmYmMyNWVmZjk3NTY0OWY1ZmZl`
+Snapshot ID: `MTY3NjU4MTQyNywwMDAwMDAwMGU0NTM1NzUwYjk2MDEzNjkxZmM4MmE3YWIyZmM1MmU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,082 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,124 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 20 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 |
 | 21 | [Para Pensa e Volta \(feat\. Marília Mendonça\) \- Ao Vivo](https://open.spotify.com/track/2rRA0VNb8RcaUMAmgWFoCL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Yasmin Santos Ao Vivo em São Paulo](https://open.spotify.com/album/4Izu6KXDCXGOjSEFUjBvYq) | 2:54 |
 | 22 | [Quem de nós Dois \(La Mia Storia Tra Le Dita\)](https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Ana Rita Joana Iracema Carolina](https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK) | 5:05 |
-| 23 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 |
-| 24 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 |
+| 23 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 |
+| 24 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 |
 | 25 | [Minha Felicidade](https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Todo Caminho É Sorte \(álbum Comentado\)](https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS) | 3:49 |
 | 26 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
 | 27 | [Mania De Você](https://open.spotify.com/track/6owwZC8gUvrBuygvOHaYXb) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO) | 4:55 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 43 | [Asa Morena](https://open.spotify.com/track/7K5rZnp7C07SVotXqMaKFp) | [Zizi Possi](https://open.spotify.com/artist/65yVjvbkC6m9DzQFihrSvL) | [Asa Morena](https://open.spotify.com/album/0jP4j74A5rX2B9Ump7jH4e) | 4:04 |
 | 44 | [Poemas Que Colori](https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco](https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr) | 3:30 |
 | 45 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 |
-| 46 | [Seja Gentil](https://open.spotify.com/track/1hCT4zWcdBRv7SxOA970bF) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [O Velho E Bom Novo \(Lado A\)](https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV) | 3:50 |
-| 47 | [Olhos Coloridos](https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra de Sá \- 1982](https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol) | 4:27 |
+| 46 | [Olhos Coloridos](https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra de Sá \- 1982](https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol) | 4:27 |
+| 47 | [Seja Gentil](https://open.spotify.com/track/1hCT4zWcdBRv7SxOA970bF) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [O Velho E Bom Novo \(Lado A\)](https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV) | 3:50 |
 | 48 | [Cafeína](https://open.spotify.com/track/1c8PttPwJZCbgV1P9V5IOB) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [De Cabeça Pra Baixo](https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv) | 3:11 |
 | 49 | [Alguém Me Avisou/Acreditar/Sonho Meu](https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Sempre a Cantar](https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO) | 5:04 |
 | 50 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 72 | [Rito de Passá](https://open.spotify.com/track/7mQF4G6Syae2fCUSSxPjRX) | [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [Rito de Passá](https://open.spotify.com/album/2VdGX4c99Au3aGtR1HJAIm) | 3:21 |
 | 73 | [Mulher do Fim do Mundo](https://open.spotify.com/track/6JyyilCXZPb8fm0tQPqjUZ) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Mulher do Fim do Mundo](https://open.spotify.com/album/0I316eFTjobTdyH5xtniYe) | 4:37 |
 | 74 | [Saudade](https://open.spotify.com/track/3AzSGIT3SYFXl1o9c6zdQC) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Boss in Drama](https://open.spotify.com/artist/3vayFOuOTSUgqcrdoyjZWB) | [Ambulante](https://open.spotify.com/album/6uZweI7OXLIS8WwYb0eVCV) | 2:31 |
-| 75 | [Sussu](https://open.spotify.com/track/0dzMJ2pEdM7LfSZtJaQTyN) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [LEXA](https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi) | 2:06 |
-| 76 | [Nobre Vagabundo](https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C) | 3:53 |
+| 75 | [Nobre Vagabundo](https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C) | 3:53 |
+| 76 | [Sussu](https://open.spotify.com/track/0dzMJ2pEdM7LfSZtJaQTyN) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [LEXA](https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi) | 2:06 |
 | 77 | [Ninguém Perguntou por Você](https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2) | [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Letrux em Noite de Climão](https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT) | 5:21 |
 | 78 | [Sem Medo](https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mundo Novo](https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N) | 4:12 |
 | 79 | [Louca](https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Louca](https://open.spotify.com/album/5nistd67S4SRwZ84CD8BwH) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Eu Amo Você](https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [TODXS](https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b) | 4:29 |
 | 100 | [Clareana](https://open.spotify.com/track/6QhseSwPVZ4QEusjnrCx9C) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v) | [Feminina](https://open.spotify.com/album/7ImYb6goMEMVVtt3FKokEi) | 2:50 |
 
-Snapshot ID: `MTY2NTcyMDg1NywwMDAwMDAwMDM3ZWJkMGRkMWM4MDQ4OGViZTU3ZGZiOTIyZjI5MDRm`
+Snapshot ID: `MTY2NTcyMDg1NywwMDAwMDAwMDA5MjFlNmU1MDFmOTI3ZjlkNGI5NWNkYjQxMjE1ZmFl`

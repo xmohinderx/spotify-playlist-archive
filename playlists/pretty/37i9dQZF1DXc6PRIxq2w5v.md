@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: shiso
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,505 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,686 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 35 | [Chamada Perdida](https://open.spotify.com/track/7BmMRC47OA2nmrXWUbVnUD) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Chamada Perdida](https://open.spotify.com/album/7DZThcuPneAoEFfyk4As9O) | 2:38 |
 | 36 | [Pedra](https://open.spotify.com/track/6sjh2JLz8A7x70M2LcVGWO) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Pedra](https://open.spotify.com/album/1PeuH7zChJkNCw4AL6zd9w) | 3:10 |
 | 37 | [Além](https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Notas de um Coração Amado](https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6) | 2:13 |
-| 38 | [MORADIA](https://open.spotify.com/track/5BU7c2aD5wDoUg0vhY6zdn) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [borbabeatz](https://open.spotify.com/artist/7vVkGGhKfIuTogwznm24kM) | [COLAPSO](https://open.spotify.com/album/3GbiPp0Xbi3yQNzC8WTENZ) | 3:02 |
-| 39 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
+| 38 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
+| 39 | [MORADIA](https://open.spotify.com/track/5BU7c2aD5wDoUg0vhY6zdn) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [borbabeatz](https://open.spotify.com/artist/7vVkGGhKfIuTogwznm24kM) | [COLAPSO](https://open.spotify.com/album/3GbiPp0Xbi3yQNzC8WTENZ) | 3:02 |
 | 40 | [Aliança](https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Fala pra eles que é o Felipin](https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB) | 2:59 |
 | 41 | [Desilusões](https://open.spotify.com/track/1F4PqJexlZ6A92ZVUeaMc9) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Desilusões](https://open.spotify.com/album/5O7lHnbVs8HaS88T7ME2LB) | 2:30 |
 | 42 | [Ele É Deus Em Mim](https://open.spotify.com/track/2VOh7QzZkz6PwPBPcK1Hr3) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Kivitz](https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 4:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 69 | [Falando a Verdade](https://open.spotify.com/track/1jfHhVoo6TeLUINztgMt0R) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Falando a Verdade](https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv) | 2:22 |
 | 70 | [CQC](https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [CQC](https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC) | 3:01 |
 
-Snapshot ID: `MTY3NTQzNzAyOCwwMDAwMDAwMDcyOWM5ZTY5Yzg2NDM1YWRlYTY0YjdjZmJlMzI5NzVm`
+Snapshot ID: `MTY3NTQzNzAyOCwwMDAwMDAwMDg2NGMxNGMwYmJkN2UzODkwMmI4ZmMxMjJjM2EwOTU2`

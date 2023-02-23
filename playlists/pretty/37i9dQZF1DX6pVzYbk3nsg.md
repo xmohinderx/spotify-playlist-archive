@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 14 | [La Novia Nueva](https://open.spotify.com/track/7CE1mVhaUL86nLwkBFrIxy) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Soy Yo](https://open.spotify.com/album/4RBgUnnRFooYqK6Ft7uGEw) | 4:32 |
 | 15 | [El Conde De Loiza](https://open.spotify.com/track/5Pt8ozofQZg1dVdLSvWO4R) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 2:15 |
 | 16 | [Soy Plenero Soy](https://open.spotify.com/track/674J7UQypQ6OjikX4XUIPn) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 4:02 |
-| 17 | [Una Noche En Borinquen](https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3) | [Los Pleneros del Quinto Olivo](https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG) | [Los Pleneros del Quinto Olivo](https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs) | 3:47 |
+| 17 | [Bomba y Plena](https://open.spotify.com/track/2yyFQflmCZXog3ZDJ33hNc) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 3:56 |
 | 18 | [Rule Sonda](https://open.spotify.com/track/5VcZnqmPU8KetpEi0ypoH3) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:05 |
-| 19 | [Bomba y Plena](https://open.spotify.com/track/2yyFQflmCZXog3ZDJ33hNc) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 3:56 |
+| 19 | [Una Noche En Borinquen](https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3) | [Los Pleneros del Quinto Olivo](https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG) | [Los Pleneros del Quinto Olivo](https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs) | 3:47 |
 | 20 | [Bombale](https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5) | [Bomba & Plena](https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB) | [Pal' Mundo](https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH) | 3:49 |
 | 21 | [Plena De San Anton](https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Somos Boricuas: Bomba Y Plena En Nueva York](https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB) | 3:43 |
 | 22 | [Plenazo Callejero 1](https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Distinto Y Diferente](https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W) | 5:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 49 | [Maria Luisa](https://open.spotify.com/track/3B1SEZzoAyeevmv2ySEHVh) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:57 |
 | 50 | [Lamento Borincano](https://open.spotify.com/track/2cAVI7mFlCPPGBYnKoknWQ) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 6:23 |
 
-Snapshot ID: `MTY3NzAxODg1OSwwMDAwMDAwMGIxZjJkMjU5YzQ4OGM1YzMzMTM4YmQ3Y2U0NzQ1ZjY5`
+Snapshot ID: `MTY3NzAxODg1OSwwMDAwMDAwMGVlYTg4NGQ0YzBkZmIxMzIxMDc4ODAyN2YxOGQ2MmRi`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Johnny Ventura",
-  "num_followers": 154900,
+  "num_followers": 154962,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMjIyOTA4NywwMDAwMDAwMGZiMmY4MDAyYTUyZTIzYzI4MWI4NDU1M2U1NmFkNDc3",
+  "snapshot_id": "MTYxMjIyOTA4NywwMDAwMDAwMDE5Y2ZkZDMyNWJjNmFhYmQ3NzVlMTY5ODFjOTFmNTdm",
   "tracks": [
     {
       "added_at": "2021-02-02 01:24:47",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw"
-      },
-      "artists": [
-        {
-          "name": "Rubby Perez",
-          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
-        }
-      ],
-      "duration_ms": 255120,
-      "name": "Sobrevivire",
-      "url": "https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Sergio Vargas y Los Hijos del Rey",
         "url": "https://open.spotify.com/album/6lHfWJOhMIa8SBUqnNLgsv"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 282697,
       "name": "Si Alg\u00fan D\u00eda la Ves",
       "url": "https://open.spotify.com/track/7Er4UIZLdbJNX6hUP7dLFl"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw"
+      },
+      "artists": [
+        {
+          "name": "Rubby Perez",
+          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
+        }
+      ],
+      "duration_ms": 255120,
+      "name": "Sobrevivire",
+      "url": "https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
-      },
-      "artists": [
-        {
-          "name": "Johnny Ventura",
-          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "\u00bfPitaste?",
-      "url": "https://open.spotify.com/track/45uhX5tj1cWfUAcYEPHnds"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Por un Poco de Amor",
         "url": "https://open.spotify.com/album/3j56jEfANtsYlTJ9mzCaq3"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 218000,
       "name": "Que Pasara",
       "url": "https://open.spotify.com/track/3t8PVrZMstgAeWuIzUZSHU"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Ventura",
+          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "\u00bfPitaste?",
+      "url": "https://open.spotify.com/track/45uhX5tj1cWfUAcYEPHnds"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "El Mayimbe",
-        "url": "https://open.spotify.com/album/0clBuxkS9kO7gKLpxU93Qu"
-      },
-      "artists": [
-        {
-          "name": "Fernando Villalona",
-          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
-        }
-      ],
-      "duration_ms": 304120,
-      "name": "El Gusto",
-      "url": "https://open.spotify.com/track/5zEnd7eyGNLNRSoU6NiMUK"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Siempre Yo",
         "url": "https://open.spotify.com/album/3ZO68h9osfe7RruzO0bhJG"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 192932,
       "name": "Siervo de Amor",
       "url": "https://open.spotify.com/track/5ylSx7NURdp7559JuEfopl"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "El Mayimbe",
+        "url": "https://open.spotify.com/album/0clBuxkS9kO7gKLpxU93Qu"
+      },
+      "artists": [
+        {
+          "name": "Fernando Villalona",
+          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
+        }
+      ],
+      "duration_ms": 304120,
+      "name": "El Gusto",
+      "url": "https://open.spotify.com/track/5zEnd7eyGNLNRSoU6NiMUK"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "El Gran Mayimbe",
-        "url": "https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg"
-      },
-      "artists": [
-        {
-          "name": "Fernando Villalona",
-          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Feliz Cumb\u00e9",
-      "url": "https://open.spotify.com/track/1CvYdv3AwrsTt90owD32VB"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Con Fuerza!",
         "url": "https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
+        "name": "El Gran Mayimbe",
+        "url": "https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg"
+      },
+      "artists": [
+        {
+          "name": "Fernando Villalona",
+          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Feliz Cumb\u00e9",
+      "url": "https://open.spotify.com/track/1CvYdv3AwrsTt90owD32VB"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
         "name": "Exitos Inolvidables de Benny Sadel",
         "url": "https://open.spotify.com/album/0Lj9QPARe6Fr2vJZqmYUq2"
       },
@@ -1255,26 +1255,6 @@
       "duration_ms": 218000,
       "name": "Yo Soy Asi",
       "url": "https://open.spotify.com/track/7hgNJBaN3BmxMIGtVHoBvm"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
-        "name": "Esta Noche!",
-        "url": "https://open.spotify.com/album/7pEB5UVMpRaCcuRVaVErbw"
-      },
-      "artists": [
-        {
-          "name": "Milly Quezada",
-          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
-        },
-        {
-          "name": "Los Vecinos",
-          "url": "https://open.spotify.com/artist/3wwEkvc5v1R19fMX5fCj7a"
-        }
-      ],
-      "duration_ms": 277440,
-      "name": "Volvi\u00f3 Juanita",
-      "url": "https://open.spotify.com/track/5GvmR9ZqUhjyyCf0fdsUCm"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1295,18 +1275,22 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "El Mayimbe",
-        "url": "https://open.spotify.com/album/0clBuxkS9kO7gKLpxU93Qu"
+        "name": "Esta Noche!",
+        "url": "https://open.spotify.com/album/7pEB5UVMpRaCcuRVaVErbw"
       },
       "artists": [
         {
-          "name": "Fernando Villalona",
-          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
+          "name": "Milly Quezada",
+          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
+        },
+        {
+          "name": "Los Vecinos",
+          "url": "https://open.spotify.com/artist/3wwEkvc5v1R19fMX5fCj7a"
         }
       ],
-      "duration_ms": 231506,
-      "name": "Dejame Volver",
-      "url": "https://open.spotify.com/track/01bQ56KQj2A2YCFmMXPxfJ"
+      "duration_ms": 277440,
+      "name": "Volvi\u00f3 Juanita",
+      "url": "https://open.spotify.com/track/5GvmR9ZqUhjyyCf0fdsUCm"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1359,6 +1343,30 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
+        "name": "Con Fuerza!",
+        "url": "https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67"
+      },
+      "artists": [
+        {
+          "name": "Jossie Esteban",
+          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
+        },
+        {
+          "name": "La Patrulla 15",
+          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
+        },
+        {
+          "name": "Jossie Esteban y La Patrulla 15",
+          "url": "https://open.spotify.com/artist/0PZFcATGOX0fUm1zPpRiaH"
+        }
+      ],
+      "duration_ms": 283200,
+      "name": "Si Tu Me Dices",
+      "url": "https://open.spotify.com/track/23ZMJ8wr0bd8O98JGn70Pn"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
         "name": "Manuel, Solo Y Con Los Sabrosos Del Merengue",
         "url": "https://open.spotify.com/album/628ElMDQrbp9cRZku3MoiH"
       },
@@ -1391,26 +1399,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Con Fuerza!",
-        "url": "https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67"
+        "name": "El Mayimbe",
+        "url": "https://open.spotify.com/album/0clBuxkS9kO7gKLpxU93Qu"
       },
       "artists": [
         {
-          "name": "Jossie Esteban",
-          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
-        },
-        {
-          "name": "La Patrulla 15",
-          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
-        },
-        {
-          "name": "Jossie Esteban y La Patrulla 15",
-          "url": "https://open.spotify.com/artist/0PZFcATGOX0fUm1zPpRiaH"
+          "name": "Fernando Villalona",
+          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
         }
       ],
-      "duration_ms": 283200,
-      "name": "Si Tu Me Dices",
-      "url": "https://open.spotify.com/track/23ZMJ8wr0bd8O98JGn70Pn"
+      "duration_ms": 231506,
+      "name": "Dejame Volver",
+      "url": "https://open.spotify.com/track/01bQ56KQj2A2YCFmMXPxfJ"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Con el Alma",
-        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro Carlos Manuel & Orquesta",
-          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "Dominicano Ausente",
-      "url": "https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Caciquiando",
         "url": "https://open.spotify.com/album/7cyn7fvmfnDPxIcxHbY320"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 229000,
       "name": "Te He Prometido - Original",
       "url": "https://open.spotify.com/track/65VoPaWq9lJiArZUkNqWgm"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Con el Alma",
+        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro Carlos Manuel & Orquesta",
+          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "Dominicano Ausente",
+      "url": "https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "20 A\u00f1os Despues",
-        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 277866,
-      "name": "Como Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/4oSI0AAcCt4YlLnAwGkuEt"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Exitos Inolvidables de Benny Sadel",
         "url": "https://open.spotify.com/album/0Lj9QPARe6Fr2vJZqmYUq2"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 300000,
       "name": "Te Seguire Queriendo",
       "url": "https://open.spotify.com/track/4GfiJSv9MHToznRilFWYeh"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "20 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 277866,
+      "name": "Como Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/4oSI0AAcCt4YlLnAwGkuEt"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/21TzuVhh3Nm12AFIqnZjF0"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Melina",
+      "url": "https://open.spotify.com/track/6GHOBqeLlPkYabtn1ltqqC"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
         "name": "Fiesta Latina",
         "url": "https://open.spotify.com/album/2QB6lzbYjwCmzWliRTPSau"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 265680,
       "name": "Te Compro Tu Novia",
       "url": "https://open.spotify.com/track/3n30H2cexSzXGCxbAb8mF4"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
-        "name": "Estelares De",
-        "url": "https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur"
-      },
-      "artists": [
-        {
-          "name": "Luis Ovalles",
-          "url": "https://open.spotify.com/artist/3pEATAGQszb8de1Yv8W6dx"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "La Fosforera",
-      "url": "https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1987,18 +1987,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/21TzuVhh3Nm12AFIqnZjF0"
+        "name": "Estelares De",
+        "url": "https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur"
       },
       "artists": [
         {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+          "name": "Luis Ovalles",
+          "url": "https://open.spotify.com/artist/3pEATAGQszb8de1Yv8W6dx"
         }
       ],
-      "duration_ms": 266493,
-      "name": "Melina",
-      "url": "https://open.spotify.com/track/6GHOBqeLlPkYabtn1ltqqC"
+      "duration_ms": 219600,
+      "name": "La Fosforera",
+      "url": "https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k"
     },
     {
       "added_at": "2021-02-02 01:24:47",

@@ -4363,6 +4363,24 @@
     },
     {
       "album": {
+        "name": "Girl In The Half Pearl",
+        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140880,
+      "name": "Heart Break Escape",
+      "url": "https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/6opMaSMh0n9uOEp069dj81"
       },
@@ -5288,7 +5306,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 256992,
       "name": "In Between",
       "url": "https://open.spotify.com/track/4rQlCooK88oFN819QAduCw"
@@ -5342,7 +5360,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 292066,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720"
@@ -8708,7 +8726,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 358341,
       "name": "REACH THE SUNSHINE.",
       "url": "https://open.spotify.com/track/0t8YVhiyInlDW9cHtMGhJg"

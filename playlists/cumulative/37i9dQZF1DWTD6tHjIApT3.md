@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-1,128 songs - 3 day 1 hr 54 min
+1,131 songs - 3 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,13 +204,15 @@
 | [Fukyouwaon](https://open.spotify.com/track/0viF1ZwaXydkfk6yS6fAir) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Fukyouwaon](https://open.spotify.com/album/1D7hil06jG8qQ7oUI5JQMA) | 5:25 | 2022-05-31 | 2022-07-21 |
 | [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 | 2022-08-18 | 2022-08-24 |
 | [FUYU](https://open.spotify.com/track/76qMVdk2nqV2JGfQSzuhQq) | [Ryoma Takamura](https://open.spotify.com/artist/4DQarWq5qDQV42Kz4dnedK), [Noconoco](https://open.spotify.com/artist/7mqeh0ppveN8XEZLXo8PkS), [Saba](https://open.spotify.com/artist/3st6n375XAVbTiurmhpa1Q), [Donatello](https://open.spotify.com/artist/3KDD4QJCRWBrOhGcUIc96y) | [FUYU](https://open.spotify.com/album/3HspJUOkTe12sN4Cpvoor1) | 3:14 | 2023-01-17 | 2023-01-25 |
+| [Gensou](https://open.spotify.com/track/1CXHyiojJVoZFDBtrhqWvz) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Gensou](https://open.spotify.com/album/6cn5LTnUmif9ro3cgI3Va6) | 3:03 | 2023-02-21 |  |
 | [Get High](https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Get High](https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK) | 3:40 | 2022-12-15 | 2023-02-03 |
 | [Getting Stronger, but so blue](https://open.spotify.com/track/0eojcffysQBv5qUnwBxJwH) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 3:19 | 2022-08-18 | 2022-09-30 |
 | [Ginger](https://open.spotify.com/track/28pvMnRZKNiqz6xgBBMkr2) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Ginger](https://open.spotify.com/album/54OkOlGIXztDx8OzcRiPh4) | 3:22 | 2022-11-29 | 2022-12-07 |
 | [Ginger](https://open.spotify.com/track/5kuaoj580FY2PFNes0kqC3) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Ginger](https://open.spotify.com/album/0msyMtUaewaEQKPlKjK5cU) | 3:22 | 2022-05-29 | 2022-07-29 |
 | [Gips](https://open.spotify.com/track/0sHJqALJte0dgyJyblz46D) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [The World Where You Are 1](https://open.spotify.com/album/41nlPakLyZvpX5GfkwHAbU) | 6:41 | 2022-11-08 | 2022-11-16 |
 | [Girl](https://open.spotify.com/track/1TVuQ54AaNhpE7QmBakvtp) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Girl](https://open.spotify.com/album/4es0Pxx1C9K59o1HPmp0JU) | 3:42 | 2022-08-30 | 2022-09-07 |
-| [Go back](https://open.spotify.com/track/1ftGsEABSxkmsOZdASmGfU) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5XjQlyBNjNJnnpqG62tgeb) | 3:52 | 2023-02-21 |  |
+| [Go back](https://open.spotify.com/track/1ftGsEABSxkmsOZdASmGfU) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5XjQlyBNjNJnnpqG62tgeb) | 3:52 | 2023-02-21 | 2023-02-23 |
+| [Go back](https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF) | 3:52 | 2023-02-21 |  |
 | [Gokyuchu](https://open.spotify.com/track/3P1hy53LptV8AhNe5Gh1tm) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Hateshinai Futari](https://open.spotify.com/album/7E8CvB7huaCPvAoKQSVstA) | 5:17 | 2022-10-11 | 2022-10-19 |
 | [GOOD GAME](https://open.spotify.com/track/36JbwNJsWAX6okCVh0Bwbo) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [GOOD GAME](https://open.spotify.com/album/0bjtXbZa2wuFABI2UiTlTc) | 3:19 | 2023-01-12 | 2023-01-18 |
 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 | 2022-05-31 | 2022-11-04 |
@@ -810,7 +812,7 @@
 | [ペルソナの記憶](https://open.spotify.com/track/3RxXuOv8Ek9ugFFRxxNc5J) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:20 | 2022-08-18 | 2022-08-20 |
 | [ペーパードライバー](https://open.spotify.com/track/6YpYRWZCGjdhxKM1txkfmK) | [Aco Kawai](https://open.spotify.com/artist/10xDsE7RRrKil5bVXk2hsJ) | [ペーパードライバー](https://open.spotify.com/album/1xJSe3DIBkewet7dXPSV19) | 2:59 | 2022-10-25 | 2022-12-21 |
 | [ホットチョコレートミュージック](https://open.spotify.com/track/5XotxipU5S6NV3riSldayh) | [ナツノコエ](https://open.spotify.com/artist/6IeQH1Haeo0wYA0klPh5X6) | [hot chocolate music](https://open.spotify.com/album/45KnE5ZCYVrBeK7D2EL2Of) | 3:56 | 2022-06-07 | 2022-06-26 |
-| [ホットミルク](https://open.spotify.com/track/3KbEfn3HkRdKAenSdpzfdj) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ホットミルク](https://open.spotify.com/album/4XuWbqGfKeGBBS1YVeWCxY) | 4:20 | 2022-11-08 |  |
+| [ホットミルク](https://open.spotify.com/track/3KbEfn3HkRdKAenSdpzfdj) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ホットミルク](https://open.spotify.com/album/4XuWbqGfKeGBBS1YVeWCxY) | 4:20 | 2022-11-08 | 2023-02-23 |
 | [ボクとキミを繋ぐモノ](https://open.spotify.com/track/7vWyB6YGbIYru4C6wac97h) | [fumika](https://open.spotify.com/artist/4FPhimiDlyEUsTSMWAUrhG) | [ボクとキミを繋ぐモノ](https://open.spotify.com/album/7bacewGlY9bUzu2Fy94hKG) | 3:38 | 2022-06-07 | 2022-07-25 |
 | [ポッピンラブ!](https://open.spotify.com/track/05rUvwGY3b2zHXwFXf7H4f) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [ポッピンラブ!](https://open.spotify.com/album/0qatIInmTuyCQKhuvzHv56) | 4:19 | 2022-05-29 | 2022-06-01 |
 | [ポポリル \- feat\. 木村千咲](https://open.spotify.com/track/2kJt5wSgLt1LzK6AYaYhjy) | [souzoucity](https://open.spotify.com/artist/0jfrSwW42l9FzT2HDcUXuT), [木村千咲](https://open.spotify.com/artist/2gxCXIHeJ93kR6HhilaJDU) | [ポポリル \(feat\. 木村千咲\)](https://open.spotify.com/album/1usrQa1qEjMcLDSocAGOzC) | 3:38 | 2022-10-18 | 2022-10-26 |
@@ -948,7 +950,7 @@
 | [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 | 2022-07-26 | 2022-09-07 |
 | [左耳にメロディー](https://open.spotify.com/track/14WVA2xyPGlbIPyz2lmjIP) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Bitter](https://open.spotify.com/album/4jtm7PHVbJRSogfB6VNFOp) | 3:23 | 2022-06-07 | 2022-07-29 |
 | [幸せの探し方 \- 2022 Remaster](https://open.spotify.com/track/2vMFdiONHdlNcVCyXhAIqv) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Quiet Life \(30th Anniversary Edition; 2022 Remaster\)](https://open.spotify.com/album/6HSiOQVxo7HrYf05PcLC0S) | 3:53 | 2022-09-06 | 2022-11-25 |
-| [幻想](https://open.spotify.com/track/2RA9HyGBNrstrNhrEpT6v4) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [幻想](https://open.spotify.com/album/22x2l2obwaIYjJIx5qwi7l) | 3:03 | 2023-02-21 |  |
+| [幻想](https://open.spotify.com/track/2RA9HyGBNrstrNhrEpT6v4) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [幻想](https://open.spotify.com/album/22x2l2obwaIYjJIx5qwi7l) | 3:03 | 2023-02-21 | 2023-02-23 |
 | [強くなっちゃったんだ、ブルー](https://open.spotify.com/track/6DjPoz2Abx4W7s8c0osJ3u) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:19 | 2022-08-18 | 2022-08-20 |
 | [強く儚い者たち](https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [強く儚い者たち](https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J) | 3:47 | 2023-01-17 |  |
 | [形ないもの](https://open.spotify.com/track/630KcWoFFWh1Myu8wrBxUR) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [形ないもの](https://open.spotify.com/album/6uIYnq76AKwmiQu36FaXyN) | 4:42 | 2022-05-31 | 2022-08-04 |
@@ -1059,6 +1061,7 @@
 | [私は貴方](https://open.spotify.com/track/6jskP6tIaB2tsussck2mWN) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [私は貴方](https://open.spotify.com/album/6RYebK7BAaT9MJIs85A1eJ) | 3:40 | 2022-05-29 | 2022-07-27 |
 | [秘密](https://open.spotify.com/track/3xAdEKillxmWDnaUbWx6xY) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [秘密](https://open.spotify.com/album/1gi3y5Okb1ictQ2knPgg3N) | 4:01 | 2022-05-29 | 2022-07-12 |
 | [穴空きの空](https://open.spotify.com/track/6jc77ebub9mX2uqELoF5Hh) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [穴空きの空](https://open.spotify.com/album/3lMML0Z6akQ8iIuHk61r8h) | 4:06 | 2022-05-29 | 2022-10-26 |
+| [空っぽ](https://open.spotify.com/track/2YB0gHEctXCJ4U7aKEtWj2) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [空っぽ](https://open.spotify.com/album/7J4oX6OxrWpHYfyDstNl7g) | 3:03 | 2023-02-16 |  |
 | [空白の居場所](https://open.spotify.com/track/4CrPB6keI8Msl5uovASijx) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [空白の居場所](https://open.spotify.com/album/3pt6Af59UWQmDJXjBmmAVp) | 4:20 | 2022-10-11 | 2022-10-26 |
 | [素っ頓狂](https://open.spotify.com/track/4lPHtRs5tCsfhY1AzJJ1aw) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [素っ頓狂](https://open.spotify.com/album/16TMPgNd10gTmWUH3Q7ycf) | 5:07 | 2022-06-28 | 2022-07-22 |
 | [素っ頓狂 \- tofubeats extended mix](https://open.spotify.com/track/6TMMLXMMgpNKomGkHJA7l8) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [素っ頓狂 \(tofubeats extended mix\)](https://open.spotify.com/album/4FkqzpWV1TRBYX0vdyOdYH) | 7:38 | 2022-07-12 | 2022-07-14 |

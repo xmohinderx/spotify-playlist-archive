@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 470282,
+  "num_followers": 470493,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI4NDYyMCwwMDAwMDAwMGU5ZDU1NGNkMDYxMDBmMDcxYzlhOTUzNDIxZGU0YzYw",
+  "snapshot_id": "MTY3NjI4NDYyMCwwMDAwMDAwMDZjYzE2NGViMzJhNzU1NzVjNmVlYjJkNDg0NDE5M2E4",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 295515,
-      "name": "With Or Without You - Remastered",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "We Go Down Together (with Khalid)",
         "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 184963,
       "name": "We Go Down Together (with Khalid)",
       "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295515,
+      "name": "With Or Without You - Remastered",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "The Bedroom Tour Playlist",
         "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 245722,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "The Meetings of the Waters",
-        "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 300277,
-      "name": "The Meetings of the Waters",
-      "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "isaac gracie (extended edition)",
         "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 343249,
       "name": "reverie",
       "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "The Meetings of the Waters",
+        "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 300277,
+      "name": "The Meetings of the Waters",
+      "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1781,7 +1781,7 @@
       "url": "https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs"
     },
     {
-      "added_at": "2023-02-22 01:30:43",
+      "added_at": "2023-02-23 01:21:44",
       "album": {
         "name": "Best Feature (feat. Devin Morrison)",
         "url": "https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3"
@@ -2081,7 +2081,7 @@
       "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
     },
     {
-      "added_at": "2023-02-22 01:30:43",
+      "added_at": "2023-02-23 01:21:44",
       "album": {
         "name": "No Longer in the Suburbs",
         "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Mary Glenn",
+        "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
+      },
+      "artists": [
+        {
+          "name": "Mary Glenn",
+          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
+        }
+      ],
+      "duration_ms": 322478,
+      "name": "Dancefloor",
+      "url": "https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "everytime we fall",
         "url": "https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 189497,
       "name": "everytime we fall",
       "url": "https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Mary Glenn",
-        "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
-      },
-      "artists": [
-        {
-          "name": "Mary Glenn",
-          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
-        }
-      ],
-      "duration_ms": 322478,
-      "name": "Dancefloor",
-      "url": "https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1"
-      },
-      "artists": [
-        {
-          "name": "Chris Call",
-          "url": "https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Animals - Unplugged Version",
-      "url": "https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Song For A Friend",
         "url": "https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I"
       },
@@ -2443,18 +2427,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Amari' SZN 1",
-        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1"
       },
       "artists": [
         {
-          "name": "Amari Noelle",
-          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
+          "name": "Chris Call",
+          "url": "https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg"
         }
       ],
-      "duration_ms": 182248,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
+      "duration_ms": 230250,
+      "name": "Animals - Unplugged Version",
+      "url": "https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2471,6 +2455,22 @@
       "duration_ms": 211826,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Amari' SZN 1",
+        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
+      },
+      "artists": [
+        {
+          "name": "Amari Noelle",
+          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
+        }
+      ],
+      "duration_ms": 182248,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
     },
     {
       "added_at": "2023-02-10 11:00:00",

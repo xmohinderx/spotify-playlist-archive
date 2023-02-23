@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,344 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,355 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 15 | [Only For The Night](https://open.spotify.com/track/1UaBt4vluuMX0prcp6et4E) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Higher Lane](https://open.spotify.com/artist/1FlwGYjqpPXt0kzomFYgmX), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Only For The Night](https://open.spotify.com/album/1Tb49CVypOagsQZqGsQHxz) | 3:04 |
 | 16 | [I Hope That It Hurts](https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [I Hope That It Hurts](https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck) | 2:40 |
 | 17 | [Deep Dark Jungle](https://open.spotify.com/track/09W9ZVEsg5VjGva2lM21dl) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Teamworx](https://open.spotify.com/artist/5AVL4JohmPpJASDshyUzQj) | [Deep Dark Jungle](https://open.spotify.com/album/1rlxsVR8JsuqOiZDn9KCdW) | 2:25 |
-| 18 | [I Need You To Know](https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Ifimay](https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak) | [I Need You To Know](https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt) | 3:00 |
-| 19 | [Toulouse \- Bobby Anthony Vocal Mix](https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Toulouse \(Bobby Anthony Vocal Mix\)](https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2) | 2:58 |
+| 18 | [Toulouse \- Bobby Anthony Vocal Mix](https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Toulouse \(Bobby Anthony Vocal Mix\)](https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2) | 2:58 |
+| 19 | [I Need You To Know](https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Ifimay](https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak) | [I Need You To Know](https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt) | 3:00 |
 | 20 | [Afterglow](https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Jared Lee](https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b) | [Afterglow](https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv) | 3:41 |
 | 21 | [Back To Where We Started](https://open.spotify.com/track/3Xkf0dPNJbLMzi2BuGmbDo) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Back To Where We Started](https://open.spotify.com/album/4Oe7H10BsC7n7hiAFruhQa) | 3:29 |
 | 22 | [Your Eyes](https://open.spotify.com/track/3CBwgDX3JaYLqFLuCNwYJd) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [LAMAS \(BR\)](https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Your Eyes](https://open.spotify.com/album/1yqaJ3y0XGEvzpwOawFxeS) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 49 | [You Used To](https://open.spotify.com/track/0NMhB5jf4SJhzqnx6pBHNh) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [You Used To](https://open.spotify.com/album/7vYgMBgseLvWJUa1TCyKO9) | 2:54 |
 | 50 | [Be Somebody](https://open.spotify.com/track/2xsx8DRlmbGJlxY4msANSB) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Neon Future III](https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL) | 3:18 |
 
-Snapshot ID: `Mjc5NDk2OTgsMDAwMDAwMDA1OTY4OTdkZWM4ODQ3NzQwN2UzNGI0ODI5ZGMxYmNmZg==`
+Snapshot ID: `Mjc5NTExODMsMDAwMDAwMDA2NTdlNDI5NDBmOTgzYTljOTdhZDI4ODUyZDZiZGZiNg==`

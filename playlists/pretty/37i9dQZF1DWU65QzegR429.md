@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 ### [Latin Frequency](https://open.spotify.com/playlist/37i9dQZF1DWU65QzegR429)
 
-> Latin music making waves\. Cover: Jenn Morel
+> Latin music making waves\. Cover: Myke Towers by Ian Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,201 likes - 44 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,220 likes - 44 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 11 | [KI\-KI](https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [KI\-KI](https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1) | 2:21 |
 | 12 | [Booty Puty](https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Booty Puty](https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt) | 2:56 |
 | 13 | [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/7gdOCnWo5AtbjLxf5g58Re) | 3:00 |
-| 14 | [Rosa Melo](https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Rosa Melo](https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX) | 2:44 |
-| 15 | [Chivirika](https://open.spotify.com/track/6RaabFZyIbKpoC2Xh8XeXZ) | [El Villanord](https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Chivirika](https://open.spotify.com/album/4en63LsV1rqze6270c9wBn) | 3:30 |
+| 14 | [Chivirika](https://open.spotify.com/track/6RaabFZyIbKpoC2Xh8XeXZ) | [El Villanord](https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Chivirika](https://open.spotify.com/album/4en63LsV1rqze6270c9wBn) | 3:30 |
+| 15 | [Rosa Melo](https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Rosa Melo](https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX) | 2:44 |
 | 16 | [Morena](https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Lil Silvio & El Vega](https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Morena](https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP) | 4:02 |
 | 17 | [Culo Chapa \(feat\. La Perversa, Quimico Ultra Mega & Haraca Kiko\)](https://open.spotify.com/track/045pZE1F4PGpwHygQLbLXb) | [Malu Trevejo](https://open.spotify.com/artist/58GNHTqgNesANvRuoKzCwX), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Culo Chapa \(feat\. La Perversa, Quimico Ultra Mega & Haraca Kiko\)](https://open.spotify.com/album/7yp999HIsMUanMsvLUq6Ni) | 2:30 |
 | 18 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 43 | [Diferente](https://open.spotify.com/track/0n3jrfZNBxQXAezu2WwrTd) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Colores](https://open.spotify.com/album/2D4OJpTUpKLIyVHi1upoUj) | 2:52 |
 | 44 | [La Incondicional](https://open.spotify.com/track/4CLM8zLq72polDBRjlo8K4) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Ella](https://open.spotify.com/album/1BSgpeCZhcy8xuonUDsNcD) | 3:15 |
 
-Snapshot ID: `MTY3NjAyNzY4MSwwMDAwMDAwMDcxZTM0MjhjMjY5NWU3YzliNzdlZmUyYjhhNzE0ZTg4`
+Snapshot ID: `MTY3NzAzOTk0NCwwMDAwMDAwMGZiMWRiYTk4OWZjZmYzZDJhNzc3YjAzODE2YTc2MTkx`

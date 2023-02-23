@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,705 likes - 50 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,734 likes - 50 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 20 | [Haremos El Amor \- En Vivo](https://open.spotify.com/track/5T7BtRS2UUUHBS7IFwCWrC) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 5:47 |
 | 21 | [Amor Mío No Te Vayas \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:26 |
 | 22 | [La Cita](https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C) | [Alberto Barros](https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul) | [Lo Mejor de Alberto Barros, Vol\. 2](https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ) | 4:54 |
-| 23 | [Señora Ley \(En Vivo\)](https://open.spotify.com/track/0vB3uI6JFXYT6Vq2HRZ4b4) | [Conjunto Clásico](https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0) | [Ray Castro Presenta...20 Super Exitos Del Conjunto Clasico Con Tito Nieves](https://open.spotify.com/album/77g1XIygGh7vez8lkOKaLL) | 5:12 |
-| 24 | [Medley: Amiga/Mi Media Mitad/Luna Negra \- En Vivo](https://open.spotify.com/track/0HIPtOZKPk6796txUKwD0D) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [15 Años \(En Vivo\)](https://open.spotify.com/album/0UbdOBtZ1w4PoXEoLUAyMs) | 7:20 |
+| 23 | [Medley: Amiga/Mi Media Mitad/Luna Negra \- En Vivo](https://open.spotify.com/track/0HIPtOZKPk6796txUKwD0D) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [15 Años \(En Vivo\)](https://open.spotify.com/album/0UbdOBtZ1w4PoXEoLUAyMs) | 7:20 |
+| 24 | [Señora Ley \(En Vivo\)](https://open.spotify.com/track/0vB3uI6JFXYT6Vq2HRZ4b4) | [Conjunto Clásico](https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0) | [Ray Castro Presenta...20 Super Exitos Del Conjunto Clasico Con Tito Nieves](https://open.spotify.com/album/77g1XIygGh7vez8lkOKaLL) | 5:12 |
 | 25 | [Anacaona \- Live](https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Live At The Cheetah, Vol\. 1](https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e) | 7:15 |
 | 26 | [Lo Mio Es Amor \- En Vivo](https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 7:00 |
 | 27 | [Perdóname / Lo Grande Que Es Perdonar \- Medley \(feat\. Vico C\) \- En Vivo desde Puerto Rico](https://open.spotify.com/track/4fM5OkcMCkIsJTTQC0OgTo) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [40..\. y Contando \(En Vivo Desde Puerto Rico\)](https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp) | 8:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [Pedro Navaja \- Live](https://open.spotify.com/track/7lStMGLa4YPstX9AedQSl2) | [Ruben Blades](https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195), [Seis del Solar](https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO) | [Todos Vuelven Live, Vol\. 2](https://open.spotify.com/album/5vuelvutC4GRdYdO4Ka3Bq) | 8:09 |
 | 50 | [Quiéreme Tal Como Soy \- Live](https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [30 Años de Power](https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI) | 5:30 |
 
-Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMGRmNTVjYjhiZWNjMDI3MDMwMTQwMWY5ODNiYjE1MmFh`
+Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMDQ0OTZjYTA3ODc4NzMyNzY4NWJjMWQ3ZjA1NzRjOWMy`

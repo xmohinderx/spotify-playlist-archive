@@ -2,7 +2,7 @@
 
 ### [Trap Nation](https://open.spotify.com/playlist/0NCspsyf0OS4BsPgGhkQXM)
 
-> The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ">INZO </a>.
+> The Official Trap Nation Playlist
 
 693 songs - 1 day 13 hr 55 min
 

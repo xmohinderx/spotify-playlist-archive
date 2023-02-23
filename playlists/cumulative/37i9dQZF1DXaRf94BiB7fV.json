@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Saahel, Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Shubham Kabra, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -858,7 +858,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 339147,
       "name": "Antaragini",
       "url": "https://open.spotify.com/track/3YpTG7n52Ok4AqIGlKKs7j"
@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 185021,
       "name": "Chanchal Mann",
       "url": "https://open.spotify.com/track/5kbwi7gcfkTtP78OIKS4fu"
@@ -4339,6 +4339,24 @@
     },
     {
       "album": {
+        "name": "Hum Kya Karein",
+        "url": "https://open.spotify.com/album/5bh4Z98L2sKtU5lxl9dEJt"
+      },
+      "artists": [
+        {
+          "name": "Shubham Kabra",
+          "url": "https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191219,
+      "name": "Hum Kya Karein",
+      "url": "https://open.spotify.com/track/19KiIzkn7AT9bpgt5KnijH"
+    },
+    {
+      "album": {
         "name": "Humnasheen",
         "url": "https://open.spotify.com/album/5KoHGZvWEd87DiOYBObl89"
       },
@@ -6380,7 +6398,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 148288,
       "name": "Khula Aasmaan",
       "url": "https://open.spotify.com/track/0K87woraSH2QnwWz85loxE"
@@ -7212,6 +7230,24 @@
       "duration_ms": 264500,
       "name": "Love You Too",
       "url": "https://open.spotify.com/track/3iOxcs19LCPhYzvE3lLb4n"
+    },
+    {
+      "album": {
+        "name": "Lovesong for an Apocalypse",
+        "url": "https://open.spotify.com/album/0kB2Om6RFqS6xnVApcz1SM"
+      },
+      "artists": [
+        {
+          "name": "Long Distances",
+          "url": "https://open.spotify.com/artist/6MiMbMXBsR73FeQhJc1Ya4"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320330,
+      "name": "Lovesong for an Apocalypse",
+      "url": "https://open.spotify.com/track/7HzqVQQ8ZB8EmhQoWIhlBH"
     },
     {
       "album": {
@@ -9163,6 +9199,24 @@
     },
     {
       "album": {
+        "name": "Peace Lily",
+        "url": "https://open.spotify.com/album/1jqOENuop4JBbq5SeaOm2X"
+      },
+      "artists": [
+        {
+          "name": "Aarya",
+          "url": "https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225216,
+      "name": "Peace Lily",
+      "url": "https://open.spotify.com/track/3J6IUkgWkqlORllGp9duP2"
+    },
+    {
+      "album": {
         "name": "Winds and the Murky Seas",
         "url": "https://open.spotify.com/album/70AlD14BSPK45IzXhedJ5A"
       },
@@ -9550,7 +9604,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 218367,
       "name": "Raat Jaage",
       "url": "https://open.spotify.com/track/20du7JWLRPHyCRHuZVdq7T"
@@ -12034,6 +12088,24 @@
       "duration_ms": 163415,
       "name": "Theher Ja Tu",
       "url": "https://open.spotify.com/track/39IDnhcezSNxCO7P505zvs"
+    },
+    {
+      "album": {
+        "name": "Thehra",
+        "url": "https://open.spotify.com/album/6lRzCBRK57NRNmrFrRRqx2"
+      },
+      "artists": [
+        {
+          "name": "Lakshay",
+          "url": "https://open.spotify.com/artist/0VImokvPpY4sIvb5NXOyiI"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293374,
+      "name": "Thehra",
+      "url": "https://open.spotify.com/track/4dO5binmRiHTpbLDgpjaEn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,845 likes - 37 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,826 likes - 37 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,6 +44,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 34 | [Wonderful Time](https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N) | [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Wonderful Time](https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL) | 2:41 |
 | 35 | [Jingle Bells](https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs) | [Wubbaduck](https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT) | [Jingle Bells](https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz) | 2:30 |
 | 36 | [Jingle Bells](https://open.spotify.com/track/6FFXHjCbfW4R34jhdHK3mB) | [Mellodees](https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn) | [Happy Holidees](https://open.spotify.com/album/12ayOyjiubYv6Ak89nLSIh) | 1:52 |
-| 37 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 |
+| 37 | [Battle \- Cause & Affect Jingle Bells Remix](https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO) | [Riddim Commission](https://open.spotify.com/artist/6VEfh7l6OPJYzIO8vRsqo9), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Cause & Affect](https://open.spotify.com/artist/6rrfw2MwiwpIMnA8pWj1UQ) | [Battle \(Cause & Affect Jingle Bells Remix\)](https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1) | 2:37 |
 
-Snapshot ID: `MTY3Mjk0NDA4MCwwMDAwMDAwMDFlZDExNjUwN2ZlYTJkMjllNjgxNDI0ZTQ5MjNjMDZk`
+Snapshot ID: `MTY3Mjk0NDA4MCwwMDAwMDAwMDY1ZGI4NjNmMmUwYWM2YTM1MzNkNjgwYzBhMjdhNDNk`

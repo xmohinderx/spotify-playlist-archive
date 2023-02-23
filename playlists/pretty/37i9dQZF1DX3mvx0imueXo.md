@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,368 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,447 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 46 | [Do Your Ting](https://open.spotify.com/track/35lAY27HwxYqDf2wKCIYXt) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/6vb64AUqN5DVTlGROkmxjD) | 3:12 |
 | 47 | [Chosen People](https://open.spotify.com/track/6syjfmKZUlo6IAPJqGDvR2) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:12 |
 | 48 | [Can't Fly](https://open.spotify.com/track/6gZ5ctNbwKowm7EETbq7LI) | [Patrick](https://open.spotify.com/artist/5AsSAnDll3y5sw1XCAOFQv), [Wayne Marshall](https://open.spotify.com/artist/1L9hOwgmwVUkUftkPH0JU1) | [Can't Fly](https://open.spotify.com/album/1kKdzbZ2HOQQjjhPLTWliK) | 2:49 |
-| 49 | [Stop You Coming and Come \- Jam in the Van Live Session](https://open.spotify.com/track/2v3p3V7E1BBBR6B7BNUs2d) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Steel Pulse \(Live at Reggae On The Mountain 2019\)](https://open.spotify.com/album/51sbA0X6M2RI6fDfi1kzoB) | 4:36 |
-| 50 | [Maths Test](https://open.spotify.com/track/38sCQWp7j7lrzCxANN35du) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Black Magic](https://open.spotify.com/album/0lGLhUdrNZjxJnkmugpY4r) | 2:52 |
+| 49 | [Patra](https://open.spotify.com/track/6NABMkgjXgSbJvSmX0qg46) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [BLEU, Vol\. 1](https://open.spotify.com/album/3latFGBYveRAfvYRDIVDYe) | 3:25 |
+| 50 | [Stop You Coming and Come \- Jam in the Van Live Session](https://open.spotify.com/track/2v3p3V7E1BBBR6B7BNUs2d) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Steel Pulse \(Live at Reggae On The Mountain 2019\)](https://open.spotify.com/album/51sbA0X6M2RI6fDfi1kzoB) | 4:36 |
 
-Snapshot ID: `MTY2NTcwMTE5NywwMDAwMDAwMGQ2NmM2OWZkNzJkY2FlYzgzNDlmMDBlMTgwZWNmNDQw`
+Snapshot ID: `MTY2NTcwMTE5NywwMDAwMDAwMDRmYTViYmNjZGFmYWFmOGVhOTU4Nzk3MTk2YmFiZTVi`

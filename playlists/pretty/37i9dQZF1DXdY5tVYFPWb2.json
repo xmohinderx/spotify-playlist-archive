@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 134501,
+  "num_followers": 134572,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MTYwMCwwMDAwMDAwMDRhMjE1MmE4ZjUzZTA2ZGQxOTA0OWI3Y2EwOGE1YmFj",
+  "snapshot_id": "MTY3Njk5MTYwMCwwMDAwMDAwMDQ2ZTc2ZWViMGY1OTlmMGJhYTE1MjdjYjA3YmIwMjhh",
   "tracks": [
     {
       "added_at": "2023-02-21 15:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "\u3044\u3064\u3082\u3001\u30a8\u30f3\u30c9\u30ec\u30b9",
-        "url": "https://open.spotify.com/album/0vzfZObnp6pOHsX3yZyxo3"
+        "name": "DAILY BOP",
+        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
       },
       "artists": [
         {
-          "name": "OKAMOTO'S",
-          "url": "https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 267693,
-      "name": "\u3044\u3064\u3082\u3001\u30a8\u30f3\u30c9\u30ec\u30b9",
-      "url": "https://open.spotify.com/track/6bxUT3WHGWwPGFx60j847d"
+      "duration_ms": 145384,
+      "name": "\u30a8\u30e2\u3081\u306e\u590f",
+      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "DAILY BOP",
-        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
+        "name": "\u3044\u3064\u3082\u3001\u30a8\u30f3\u30c9\u30ec\u30b9",
+        "url": "https://open.spotify.com/album/0vzfZObnp6pOHsX3yZyxo3"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "OKAMOTO'S",
+          "url": "https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T"
         }
       ],
-      "duration_ms": 145384,
-      "name": "\u30a8\u30e2\u3081\u306e\u590f",
-      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
+      "duration_ms": 267693,
+      "name": "\u3044\u3064\u3082\u3001\u30a8\u30f3\u30c9\u30ec\u30b9",
+      "url": "https://open.spotify.com/track/6bxUT3WHGWwPGFx60j847d"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "LUPIN THE THIRD VS CAT'S EYE ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/12eUMGk9JZKeSHZ2z6UcMa"
-      },
-      "artists": [
-        {
-          "name": "Anri",
-          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
-        }
-      ],
-      "duration_ms": 169900,
-      "name": "CAT'S EYE 2023",
-      "url": "https://open.spotify.com/track/43yvgvumHPrqko99AlK1jX"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "Love All Day",
         "url": "https://open.spotify.com/album/0gev2jIsYX6xWMs2bP4JwM"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
+        "name": "LUPIN THE THIRD VS CAT'S EYE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/12eUMGk9JZKeSHZ2z6UcMa"
+      },
+      "artists": [
+        {
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+        }
+      ],
+      "duration_ms": 169900,
+      "name": "CAT'S EYE 2023",
+      "url": "https://open.spotify.com/track/43yvgvumHPrqko99AlK1jX"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
         "name": "Zurukunai?",
         "url": "https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "TICKETS",
         "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 171500,
       "name": "YOU+ME=",
       "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Change My Life",
-        "url": "https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG"
-      },
-      "artists": [
-        {
-          "name": "THE RAMPAGE from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
-        }
-      ],
-      "duration_ms": 243600,
-      "name": "Change My Life",
-      "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "fab",
         "url": "https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Are U Romantic?",
-        "url": "https://open.spotify.com/album/5R1RHDWNPxzdvZVJcUAZEz"
+        "name": "Change My Life",
+        "url": "https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG"
       },
       "artists": [
         {
-          "name": "UA",
-          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
         }
       ],
-      "duration_ms": 258600,
-      "name": "Ocha",
-      "url": "https://open.spotify.com/track/34AxhxmQ3L3ZL1s6M05pcX"
+      "duration_ms": 243600,
+      "name": "Change My Life",
+      "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -1143,6 +1127,22 @@
       "duration_ms": 279240,
       "name": "Adventure",
       "url": "https://open.spotify.com/track/0pDqeRO43GzZTNqrMbahJl"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Are U Romantic?",
+        "url": "https://open.spotify.com/album/5R1RHDWNPxzdvZVJcUAZEz"
+      },
+      "artists": [
+        {
+          "name": "UA",
+          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "Ocha",
+      "url": "https://open.spotify.com/track/34AxhxmQ3L3ZL1s6M05pcX"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Rendezvous",
-        "url": "https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ"
-      },
-      "artists": [
-        {
-          "name": "Yoko Kuzuya",
-          "url": "https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "PLASMA",
         "url": "https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 376533,
       "name": "Drive\u2019n The Rain",
       "url": "https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ"
+      },
+      "artists": [
+        {
+          "name": "Yoko Kuzuya",
+          "url": "https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
+        "name": "\u6d41\u6d6a",
+        "url": "https://open.spotify.com/album/7yJSa3B3S8j06vodDbGvAD"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "\u6d41\u6d6a",
+      "url": "https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
         "name": "Danceless Island",
         "url": "https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "\u6d41\u6d6a",
-        "url": "https://open.spotify.com/album/7yJSa3B3S8j06vodDbGvAD"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "\u6d41\u6d6a",
-      "url": "https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "your room",
         "url": "https://open.spotify.com/album/3JijWekYCz4gBkWB1jFeX6"
       },
@@ -1555,18 +1555,22 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "\u30d6\u30eb\u30fc\u30cf\u30ef\u30a4",
-        "url": "https://open.spotify.com/album/0oZLf6DhoyHhtDMGrybbCb"
+        "name": "Moonset with KozyPop",
+        "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
       },
       "artists": [
         {
-          "name": "\u30c6\u30a3\u30f3\u30da\u30c3\u30c4",
-          "url": "https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1"
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        },
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
         }
       ],
-      "duration_ms": 226432,
-      "name": "\u30d6\u30eb\u30fc\u30cf\u30ef\u30a4",
-      "url": "https://open.spotify.com/track/6aAOQW6aYVfb1RZTpseu5K"
+      "duration_ms": 226933,
+      "name": "Moonset",
+      "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -1591,22 +1595,18 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Moonset with KozyPop",
-        "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
+        "name": "\u30d6\u30eb\u30fc\u30cf\u30ef\u30a4",
+        "url": "https://open.spotify.com/album/0oZLf6DhoyHhtDMGrybbCb"
       },
       "artists": [
         {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        },
-        {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+          "name": "\u30c6\u30a3\u30f3\u30da\u30c3\u30c4",
+          "url": "https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1"
         }
       ],
-      "duration_ms": 226933,
-      "name": "Moonset",
-      "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
+      "duration_ms": 226432,
+      "name": "\u30d6\u30eb\u30fc\u30cf\u30ef\u30a4",
+      "url": "https://open.spotify.com/track/6aAOQW6aYVfb1RZTpseu5K"
     },
     {
       "added_at": "2023-02-21 15:00:00",

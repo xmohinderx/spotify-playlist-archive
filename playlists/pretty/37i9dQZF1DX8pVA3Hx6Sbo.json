@@ -1,12 +1,12 @@
 {
   "description": "Mientras la gente no deje de aplaudir, Chente no deja de cantar. Por siempre, Vicente Fern\u00e1ndez.",
-  "num_followers": 859320,
+  "num_followers": 859817,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjkwOTEyNSwwMDAwMDAwMDE1MjI5ZTM5ODBjNjFmNjc2OTg4NmZkMGI5MWIzMDNj",
+  "snapshot_id": "MTY3NjkwOTEyNSwwMDAwMDAwMDZjOTVmYmQ2NWJmZjUyOGNiYzQ3ZDAwZjFkYzBhNGRk",
   "tracks": [
     {
       "added_at": "2022-12-09 16:26:52",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-12-09 16:26:52",
       "album": {
+        "name": "Un Azteca en el Azteca (En Vivo)",
+        "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 350493,
+      "name": "A Mi Manera - En Vivo [Un Azteca en el Azteca]",
+      "url": "https://open.spotify.com/track/78fl7FwLL7HK60Oa6xg4Ng"
+    },
+    {
+      "added_at": "2022-12-09 16:26:52",
+      "album": {
         "name": "La Muerte De Un Gallero",
         "url": "https://open.spotify.com/album/63Z87jsEERYnhzD0oqAf0w"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 177706,
       "name": "Tu Camino y el M\u00edo",
       "url": "https://open.spotify.com/track/3CCOZJRk10XwhS75UjtFso"
-    },
-    {
-      "added_at": "2022-12-09 16:26:52",
-      "album": {
-        "name": "Un Azteca en el Azteca (En Vivo)",
-        "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 350493,
-      "name": "A Mi Manera - En Vivo [Un Azteca en el Azteca]",
-      "url": "https://open.spotify.com/track/78fl7FwLL7HK60Oa6xg4Ng"
     },
     {
       "added_at": "2022-12-09 16:26:52",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-12-09 16:26:52",
       "album": {
-        "name": "El Hijo Del Pueblo",
-        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 176866,
-      "name": "No Me Hagas Menos",
-      "url": "https://open.spotify.com/track/4j30vBmlV8u1dRY7SjDSn8"
-    },
-    {
-      "added_at": "2022-12-09 16:26:52",
-      "album": {
         "name": "Mi Viejo",
         "url": "https://open.spotify.com/album/6H1Ru58NKY7aNmHNEic44G"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 190653,
       "name": "Mi Viejo",
       "url": "https://open.spotify.com/track/5jmuiCbNU1SEvFKqMadOZR"
+    },
+    {
+      "added_at": "2022-12-09 16:26:52",
+      "album": {
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 176866,
+      "name": "No Me Hagas Menos",
+      "url": "https://open.spotify.com/track/4j30vBmlV8u1dRY7SjDSn8"
     },
     {
       "added_at": "2022-12-09 16:26:52",

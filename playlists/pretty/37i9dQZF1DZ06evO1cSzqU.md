@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,028 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,234 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 32 | [The Future Never Dies](https://open.spotify.com/track/4O9w9kufIaWXCOzKzzInmw) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Humanity \(Hour I\)](https://open.spotify.com/album/4a8dsVJekhZm9CRRVWLHuJ) | 4:03 |
 | 33 | [We Built This House](https://open.spotify.com/track/3A4IneIM1MdcmW0ZuV8ZYg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 3:53 |
 | 34 | [Life Is Too Short \- Live](https://open.spotify.com/track/2XBhU3UcOQUGFKAY7s4Jm1) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 5:15 |
-| 35 | [Peacemaker](https://open.spotify.com/track/1YjOclLzSa0IhjGmjgDseT) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 2:56 |
+| 35 | [Shining Of Your Soul](https://open.spotify.com/track/3D0JskXs8rv4NGAO6nhkI3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:57 |
 | 36 | [Tainted Love](https://open.spotify.com/track/1abFEUbbAk8kQNOzy301Qt) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:27 |
 | 37 | [The Sails of Charon \- 2015 \- Remaster](https://open.spotify.com/track/0KmJAc7tRRI3hWM7A0Ejtk) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/4x60lguRLWOMppq1d5rwGK) | 5:11 |
 | 38 | [Holiday \- 2015 Remaster](https://open.spotify.com/track/32DYxkf7ZLJrsm5JacvF3Y) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/1KWIRGaeCscnnFmZUfbYDj) | 6:31 |
-| 39 | [Shining Of Your Soul](https://open.spotify.com/track/3D0JskXs8rv4NGAO6nhkI3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:57 |
+| 39 | [Peacemaker](https://open.spotify.com/track/1YjOclLzSa0IhjGmjgDseT) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 2:56 |
 | 40 | [Across the Universe](https://open.spotify.com/track/0EOo4bO2Oiido5FnB7mVFN) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:17 |
 | 41 | [Believe In Love](https://open.spotify.com/track/3T8I6Fdb6sUvIQqCaXK98b) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Savage Amusement](https://open.spotify.com/album/3iYSGTBKc5DDUQV1lwvhgl) | 5:24 |
 | 42 | [Alien Nation](https://open.spotify.com/track/6fNGyaXIolVXwKH9C1Ew8k) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 5:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [We'll Burn the Sky \- 2015 \- Remaster](https://open.spotify.com/track/05aYS67B9WxWDA5ZWVkvCf) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/4x60lguRLWOMppq1d5rwGK) | 6:31 |
 | 50 | [Raised on Rock](https://open.spotify.com/track/21wukp6132v5Y165Lxg17H) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 3:58 |
 
-Snapshot ID: `Mjc5NDk2OTgsMDAwMDAwMDBkYjdlNWVkNDg5Y2RiOTIwMzMzNjY2MTllMzZmZmExYw==`
+Snapshot ID: `Mjc5NTExODMsMDAwMDAwMDAxMjI5ZmU4MTRlYzQ2ODhlZjM2OGRlMDUyNjA4Y2VkNw==`

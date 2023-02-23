@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lewsz
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,704 likes - 140 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,722 likes - 140 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

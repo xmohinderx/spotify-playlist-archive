@@ -4,7 +4,7 @@
 
 > saturation, distortion, overdrive, feedBack\. Cover: 100 gecs
 
-95 songs - 4 hr 15 min
+96 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 |  |
 | [Hëłlœ Kįttÿ](https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Hëłlœ Kįttÿ](https://open.spotify.com/album/688OvyTBMdBL6ckZXeN6Kf) | 2:46 | 2023-01-27 |  |
 | [i don't reply](https://open.spotify.com/track/3CyCZZGuBCjir82ta1bkii) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [i don't reply](https://open.spotify.com/album/2j3CSAkyjU62aBogjlm277) | 2:48 | 2023-02-10 |  |
+| [i dont wna cry \(haste\)](https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i dont wna cry](https://open.spotify.com/album/5AIZKUZZW9RE3xhTf64h39) | 2:01 | 2023-02-22 |  |
 | [I Thought I Saw An Astronaut](https://open.spotify.com/track/2oun4Gfgac2SEbdpDTAQgF) | [props](https://open.spotify.com/artist/5O7LMWE0xWgM0NzbsJdckR) | [songs](https://open.spotify.com/album/0y7QaN0r8zsiD9R7ikFdo3) | 2:18 | 2022-12-04 |  |
 | [I Watched Them Go](https://open.spotify.com/track/7caD4SRq2jQfbFy2ZfT3iz) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [I Watched Them Go](https://open.spotify.com/album/5CS8JBzPL6gw4r95U3Ia1d) | 3:19 | 2022-12-04 | 2023-02-18 |
 | [ihatefeelingthisway](https://open.spotify.com/track/3IP5kKSUkqZcOLraMddHJy) | [inuday](https://open.spotify.com/artist/29OqAIxz15uCoDjXX0a4Gg) | [ihatefeelingthisway](https://open.spotify.com/album/72me9cMEdcQxa0uwvEijen) | 3:43 | 2022-12-09 |  |

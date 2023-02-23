@@ -1,12 +1,12 @@
 {
   "description": "jonatan leandoer96 makes anti pop.",
-  "num_followers": 693386,
+  "num_followers": 693431,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYyMjcyMCwwMDAwMDAwMGRkOGYxMDQ3YjA1MmQ1ZTI3NzY3YWQzYTZiNWU2YTk0",
+  "snapshot_id": "MTY3NzA4MTA5OSwwMDAwMDAwMDNkYjNlYjM0Nzk3YWM5YzQwMGZmMWI0NjU3MTFjNTY0",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/0M4PHkYu3loA8rtjrHq5Ym"
     },
     {
-      "added_at": "2022-12-16 15:41:08",
-      "album": {
-        "name": "The Family",
-        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "All That",
-      "url": "https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "lazy",
@@ -551,6 +535,22 @@
       "duration_ms": 125090,
       "name": "lazy (haste)",
       "url": "https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7"
+    },
+    {
+      "added_at": "2022-12-16 15:41:08",
+      "album": {
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "All That",
+      "url": "https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "MANIC MAN",
-        "url": "https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb"
-      },
-      "artists": [
-        {
-          "name": "Curtis Waters",
-          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
-        }
-      ],
-      "duration_ms": 134634,
-      "name": "MANIC MAN",
-      "url": "https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "TM",
         "url": "https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 193120,
       "name": "VIVID",
       "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "MANIC MAN",
+        "url": "https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb"
+      },
+      "artists": [
+        {
+          "name": "Curtis Waters",
+          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+        }
+      ],
+      "duration_ms": 134634,
+      "name": "MANIC MAN",
+      "url": "https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -859,6 +859,430 @@
       "duration_ms": 184826,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Sundays",
+        "url": "https://open.spotify.com/album/0q14hXSgBRBv33M3s8eGne"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 109866,
+      "name": "Sundays",
+      "url": "https://open.spotify.com/track/0troHdGkx1ORKsnR8Kehht"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU"
+      },
+      "artists": [
+        {
+          "name": "Jay Safari",
+          "url": "https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT"
+        }
+      ],
+      "duration_ms": 165485,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/1U4yfIDARp95wtUGOZZW51"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Duo",
+        "url": "https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 126700,
+      "name": "Duo",
+      "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Borderline Insane",
+        "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        },
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 139664,
+      "name": "Borderline Insane",
+      "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
+    },
+    {
+      "added_at": "2023-01-06 15:46:40",
+      "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+      },
+      "artists": [
+        {
+          "name": "KALI",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        }
+      ],
+      "duration_ms": 254399,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 149840,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "spotify singles",
+        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 208710,
+      "name": "feel good inc (bbno$ re-finessed) - spotify single",
+      "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
+    },
+    {
+      "added_at": "2023-02-14 21:52:20",
+      "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "DREAM SOUP",
+        "url": "https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 206370,
+      "name": "Human Shape",
+      "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "PRESSED",
+        "url": "https://open.spotify.com/album/6O5pvcu2FyE8FZYx2Mzl3M"
+      },
+      "artists": [
+        {
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        },
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "duration_ms": 79844,
+      "name": "PRESSED",
+      "url": "https://open.spotify.com/track/4WYoSVibjO0PftEmfRimMN"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "608",
+        "url": "https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "608",
+      "url": "https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Picking Up (feat. Deb Never)",
+        "url": "https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 175520,
+      "name": "Picking Up (feat. Deb Never)",
+      "url": "https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "I Did Drugs For You",
+        "url": "https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO"
+      },
+      "artists": [
+        {
+          "name": "Rook Monroe",
+          "url": "https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED"
+        }
+      ],
+      "duration_ms": 192592,
+      "name": "I Did Drugs For You",
+      "url": "https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Bad Radio",
+        "url": "https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Bad Radio",
+      "url": "https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "are you sleeping alone again?",
+        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "are you sleeping alone again?",
+      "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "MAKER'S DESIGN",
+        "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
+      },
+      "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 186531,
+      "name": "THE SEASON (feat. PawPaw Rod)",
+      "url": "https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K"
+    },
+    {
+      "added_at": "2023-01-11 03:58:35",
+      "album": {
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Crush - Unfinished",
+      "url": "https://open.spotify.com/track/516daakwmX9S2aRifLUCp8"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Psychedelic Views (feat. IDK)",
+        "url": "https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Psychedelic Views (feat. IDK)",
+      "url": "https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw"
+    },
+    {
+      "added_at": "2023-01-24 15:07:09",
+      "album": {
+        "name": "white ceilings",
+        "url": "https://open.spotify.com/album/1qjit4AnftNlPkptTe1ne9"
+      },
+      "artists": [
+        {
+          "name": "whiterosemoxie",
+          "url": "https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV"
+        }
+      ],
+      "duration_ms": 147764,
+      "name": "trix",
+      "url": "https://open.spotify.com/track/1CwkW8d3LxrMdz99PfN8SQ"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Suburbia",
+        "url": "https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Suburbia",
+      "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "THREE HEADS*",
+        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "ANECDOTE (REMIX) [feat. Teezo Touchdown]",
+        "url": "https://open.spotify.com/album/7dNHd2eVIHmdiOFMO5K3Ne"
+      },
+      "artists": [
+        {
+          "name": "Rahul",
+          "url": "https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "ANECDOTE (REMIX) [feat. Teezo Touchdown]",
+      "url": "https://open.spotify.com/track/7rVeOpYLHAS5luBPIv79t2"
+    },
+    {
+      "added_at": "2023-02-09 20:55:39",
+      "album": {
+        "name": "Say My Peace",
+        "url": "https://open.spotify.com/album/2gQS83M28R41uN2kRz1X17"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "Say My Peace",
+      "url": "https://open.spotify.com/track/11fDFZrFvVKoht9u7v6drZ"
     }
   ],
   "unique_name": "anti pop",

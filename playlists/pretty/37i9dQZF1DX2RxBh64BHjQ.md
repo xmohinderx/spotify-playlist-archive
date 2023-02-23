@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:5kxnZh8gXyXdIvCWbDMevT">Eem Triplin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,735,767 likes - 101 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,736,208 likes - 101 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

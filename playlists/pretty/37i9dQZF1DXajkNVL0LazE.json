@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 49909,
+  "num_followers": 50013,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMGIzNWM1MWNkYzJiZjE3ZWExNjc1MjgzZjEyYWRjZjFj",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMGJmMWE1NTk1MjRkNjM2M2UyZWU5NjkwZTZjYzlkNjBj",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -415,18 +415,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Greatest",
-        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
       },
       "artists": [
         {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
         }
       ],
-      "duration_ms": 202560,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
+      "duration_ms": 188400,
+      "name": "Misread",
+      "url": "https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Furr",
         "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 247515,
       "name": "Furr",
       "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Riot On An Empty Street",
-        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Misread",
-      "url": "https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Mouthfuls",
-        "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "When U Love Somebody",
-      "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Sunset Tree",
         "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 232893,
       "name": "This Year",
       "url": "https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Mouthfuls",
+        "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "When U Love Somebody",
+      "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "About A Boy Soundtrack",
-        "url": "https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx"
-      },
-      "artists": [
-        {
-          "name": "Badly Drawn Boy",
-          "url": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Something To Talk About",
-      "url": "https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Hospice",
         "url": "https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 311240,
       "name": "Kettering",
       "url": "https://open.spotify.com/track/453spNn4mGdYErYt3rGhSX"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "About A Boy Soundtrack",
+        "url": "https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx"
+      },
+      "artists": [
+        {
+          "name": "Badly Drawn Boy",
+          "url": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Something To Talk About",
+      "url": "https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Tight Knit",
-        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
+        "name": "Yellow House",
+        "url": "https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta"
       },
       "artists": [
         {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
         }
       ],
-      "duration_ms": 268360,
-      "name": "Strictly Rule",
-      "url": "https://open.spotify.com/track/2NftpgOvfV2YCH1lrRP5p8"
+      "duration_ms": 317173,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/2L7DZcRNEA7ZGiaHC6vlJw"
     }
   ],
   "unique_name": "00s Indie Folk",

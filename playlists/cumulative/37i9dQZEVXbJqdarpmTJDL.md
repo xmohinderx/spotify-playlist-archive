@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,031 songs - 2 day 7 hr 46 min
+1,032 songs - 2 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -968,7 +968,8 @@
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-07 |
 | [Ttg](https://open.spotify.com/track/2VtwLRUgXEebI1DTGJTOCb) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale](https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G) | 3:10 | 2021-06-05 | 2021-07-04 |
 | [Tunnel](https://open.spotify.com/track/5j0YNRtWSWsn8Fh9tyXsCR) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [ATHENA](https://open.spotify.com/album/16BsYbHUF4VT2u8R1Ef3Bc) | 3:34 | 2022-12-17 | 2022-12-19 |
-| [Tutorial](https://open.spotify.com/track/7ATav6YyDdbHnEJ4ALXjpj) | [Katohos](https://open.spotify.com/artist/37vmuL2WrCqCOCk0VUVZsH), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Stepper](https://open.spotify.com/artist/0TC65JpujHr8WnThBPFhiA) | [Tutorial](https://open.spotify.com/album/79NzdpuBPZ1JfQBdvlz6zO) | 3:15 | 2023-02-08 |  |
+| [Tutorial](https://open.spotify.com/track/1AlJGJhgkT252pec9YcSSy) | [Katohos](https://open.spotify.com/artist/37vmuL2WrCqCOCk0VUVZsH), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Stepper](https://open.spotify.com/artist/0TC65JpujHr8WnThBPFhiA) | [Baby Steph 2](https://open.spotify.com/album/1DU1xWRbq4elyiCIvyWece) | 3:15 | 2023-02-22 |  |
+| [Tutorial](https://open.spotify.com/track/7ATav6YyDdbHnEJ4ALXjpj) | [Katohos](https://open.spotify.com/artist/37vmuL2WrCqCOCk0VUVZsH), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Stepper](https://open.spotify.com/artist/0TC65JpujHr8WnThBPFhiA) | [Tutorial](https://open.spotify.com/album/79NzdpuBPZ1JfQBdvlz6zO) | 3:15 | 2023-02-08 | 2023-02-23 |
 | [TuTu](https://open.spotify.com/track/0fep7TqVwzN36mhWZSslHZ) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw) | [TuTu](https://open.spotify.com/album/1tsom7EiIbjmZAm91jFel8) | 2:26 | 2021-05-23 | 2021-05-27 |
 | [TV](https://open.spotify.com/track/0ftxzdYSC6sb5IvV2TjozK) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Phen](https://open.spotify.com/artist/3Or7sFYK0roAEy6IznZP5q) | [1987](https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4) | 3:32 | 2022-01-14 | 2022-02-19 |
 | [Twerk](https://open.spotify.com/track/3QRTR8yxz65LpXgzzFC16O) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw) | [Twerk](https://open.spotify.com/album/13WCCXYqVyjYDCX9FvNuKC) | 2:36 | 2022-05-26 | 2022-05-28 |

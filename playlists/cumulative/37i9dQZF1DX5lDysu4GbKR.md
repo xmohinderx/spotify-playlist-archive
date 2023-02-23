@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-171 songs - 10 hr 23 min
+172 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Golden Ticket \- Stripped Down](https://open.spotify.com/track/4irNRCfA9IxCJS8eWpFZPe) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Golden Ticket \(Stripped Down\)](https://open.spotify.com/album/4qXekZ4rkzYXnVQXGJBqjq) | 2:08 | 2022-02-09 |  |
 | [Good Job](https://open.spotify.com/track/3H68NURFkJOaG0woWCK2sL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Good Job](https://open.spotify.com/album/2m6V0Gl4Hn050cGxqqGrJb) | 3:50 | 2021-12-09 | 2022-07-29 |
 | [Good Job](https://open.spotify.com/track/3qHo2MASEJ79lbJcaDvhRE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:53 | 2022-06-16 |  |
+| [Good Man Down](https://open.spotify.com/track/4c6m1Y1P5xTmvtwAkSZnKM) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW) | [Unproduced @ Pink Moon](https://open.spotify.com/album/0jpljAh1Ge8WspLPUXSSlK) | 3:40 | 2023-02-22 |  |
 | [Good Things Fall Apart](https://open.spotify.com/track/5dIvHAv8t9d42b6lAO53K5) | [Rhonda](https://open.spotify.com/artist/1pqbZX6kOvaCi5IEd9zFkG) | [Good Things Fall Apart](https://open.spotify.com/album/10PQIbXGnyO4DKajt4iLx3) | 4:08 | 2022-12-15 |  |
 | [Grow \- Live acoustic at Concertgebouw Amsterdam](https://open.spotify.com/track/75vCjMFYcbmTsnXR1zSXVp) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Grow \(Live\)](https://open.spotify.com/album/5lK4gRbDz3bjZTMY8alRZa) | 3:20 | 2021-12-09 |  |
 | [Here Before](https://open.spotify.com/track/1GRop5Dgbsq0X0zq9jy3R9) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 4:29 | 2022-06-16 |  |

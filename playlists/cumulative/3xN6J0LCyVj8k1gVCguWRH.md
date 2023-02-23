@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,018 songs - 4 day 20 hr 8 min
+2,021 songs - 4 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [December Summer](https://open.spotify.com/track/57ahzjtCYOz7zhTqgTYglC) | [Work Wife](https://open.spotify.com/artist/3uPvy8pktQ5n3mZCZzOew9) | [December Summer](https://open.spotify.com/album/7kaydbe67wKz6BbWq8A3oK) | 3:25 | 2022-09-29 | 2022-10-18 |
 | [Deep](https://open.spotify.com/track/3rgfD1BvTZJrg65SmX1o0B) | [Cristina Sapalo](https://open.spotify.com/artist/7wOdjxpWj2LvUctb2AYNMl) | [Deep](https://open.spotify.com/album/1m360ohN441dHVqcIyGt5A) | 3:19 | 2021-12-26 | 2022-01-19 |
 | [Deepen the Day](https://open.spotify.com/track/7qGAUADhkXKkaSejiaRPbi) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Deepen the Day](https://open.spotify.com/album/5PHMSAYeUr7ZJq6rNrtFPh) | 3:15 | 2020-07-18 | 2020-08-20 |
+| [Deeper In Love](https://open.spotify.com/track/0rW7hBzFZnvwznu9VjfdiE) | [Prima Apollinaare](https://open.spotify.com/artist/3Xy1ZXp7yMsdiydU3bqSyR) | [Alignment](https://open.spotify.com/album/48rA0ZiAB4ewrmuqZf4gig) | 3:06 | 2023-02-23 |  |
 | [Delete Forever](https://open.spotify.com/track/3I399Xpg21DElMuEhkTeK8) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Delete Forever](https://open.spotify.com/album/5OUmlyyZVfHCVQnHLA4mU9) | 3:57 | 2020-02-21 | 2020-04-09 |
 | [Depth](https://open.spotify.com/track/4i3g5rgdrOp78Fm4QmOfrq) | [Idow](https://open.spotify.com/artist/5wfp7hjVYwUUfEIWWyFnNf) | [Depth](https://open.spotify.com/album/3I3QXEvXSYQq872cn0AUwh) | 3:04 | 2021-12-31 | 2022-01-15 |
 | [Desde Cero](https://open.spotify.com/track/3uHyfqpfIquDj2Nw8DnrJ9) | [Nathalie Hazim](https://open.spotify.com/artist/1pgJnLaz9qEnErUwC0Tm16) | [Desde Cero](https://open.spotify.com/album/7vS0RoVRfmLx1cgEtatChB) | 3:17 | 2022-11-12 | 2022-12-05 |
@@ -1221,6 +1222,7 @@
 | [My Love \(Borth Remix\)](https://open.spotify.com/track/3QA979rq5SWdIH2Rsm2TPg) | [Eric Anders](https://open.spotify.com/artist/7wYbNTiiFpJwzAwFk910dl), [Mark O'Bitz](https://open.spotify.com/artist/1l1iTfSE17m7r3FZehWsIR) | [Bardo Hauntings II: Borth Remixes](https://open.spotify.com/album/4xomyU3RIbujt0hAJLxkwc) | 3:54 | 2022-10-28 | 2022-11-19 |
 | [My Melody](https://open.spotify.com/track/33g3QdjmnRfk877s5j1SrV) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodeje](https://open.spotify.com/artist/66tEYHooGXFu7LqoGFWJ54) | [My Melody](https://open.spotify.com/album/2fQjgO30ltKJrtKO0kUEvH) | 2:36 | 2020-04-10 | 2020-04-20 |
 | [My Muse](https://open.spotify.com/track/17MAaNfrT7tgK9l9YDELqi) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [My Muse](https://open.spotify.com/album/1rwlxgGl3IPrRTK0qssaYc) | 3:29 | 2020-08-02 | 2020-08-20 |
+| [My Own Fleet](https://open.spotify.com/track/4fCT1ApJyzD7plA0T4l3a4) | [Prima Apollinaare](https://open.spotify.com/artist/3Xy1ZXp7yMsdiydU3bqSyR) | [Alignment](https://open.spotify.com/album/48rA0ZiAB4ewrmuqZf4gig) | 2:44 | 2023-02-23 |  |
 | [My Own Thing](https://open.spotify.com/track/2ySRRtrAwDUF4FipiF1Djt) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [My Own Thing](https://open.spotify.com/album/6RQhltF3miWYkdfDT0JIbG) | 3:01 | 2021-08-28 | 2021-09-11 |
 | [My Side](https://open.spotify.com/track/7ooFbn945pbKZwS0WEkxzF) | [Y.D.A](https://open.spotify.com/artist/45Kik1HKtVxnaeajZtYozL) | [Make Am](https://open.spotify.com/album/7dD8gbKSvDvW8fOHzNYujI) | 2:42 | 2021-02-19 | 2021-05-16 |
 | [My Sweet Lord](https://open.spotify.com/track/6u9pmFX8oAmaUyQ6k8gEkw) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Eric Clapton: Life In 12 Bars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cfUT6PId9Jnjar3ftQ3Bk) | 4:40 | 2021-07-11 |  |
@@ -1249,6 +1251,7 @@
 | [Never Knew](https://open.spotify.com/track/1St0yRnxCByKmapxXW52YI) | [JAIV](https://open.spotify.com/artist/177b3Utl38Ov1SoCZU995v) | [Never Knew](https://open.spotify.com/album/1mVrlIa58dKPSs8OaBvcVd) | 3:38 | 2022-10-07 | 2022-10-29 |
 | [Never on My Own](https://open.spotify.com/track/3cWtFXAoPegQNqWmprQIdC) | [Tnola](https://open.spotify.com/artist/3qsiuJcX1xermvwbJ6mg6O) | [Never on My Own](https://open.spotify.com/album/72QsHJfe1wlfbMPV6F3euM) | 2:34 | 2022-08-19 | 2022-09-04 |
 | [Never Wanna Leave](https://open.spotify.com/track/5XBgLpobYbg7odqJz2bmvl) | [Max M](https://open.spotify.com/artist/7eEKw9JAXKdWzbWtyus10c) | [Never Wanna Leave](https://open.spotify.com/album/6n0bHrgR0cQUfTdzCMecBP) | 3:16 | 2019-12-24 | 2019-12-31 |
+| [Nevera](https://open.spotify.com/track/3OYn3qJUZEOEktXWaG2FQU) | [G.nio](https://open.spotify.com/artist/4rCZ1gxmbLVW2zFa3EgKWv) | [Nevera](https://open.spotify.com/album/6sc9wuI56gZaeC1fwIs8c7) | 3:21 | 2023-02-23 |  |
 | [Nevergreen](https://open.spotify.com/track/1TLGjhz6bvO4fGUBxJOM8M) | [Micayl](https://open.spotify.com/artist/7FZQDkxBpXjb2M0phDknLQ) | [Nevergreen](https://open.spotify.com/album/7rD4GU96PUFJybyuHBHVWZ) | 3:39 | 2022-07-04 | 2022-07-27 |
 | [Neverland](https://open.spotify.com/track/089DwZTzdQ1hp6olvyyJgK) | [chae](https://open.spotify.com/artist/04bDQYNj7Aos39p2b1Vm31) | [Neverland](https://open.spotify.com/album/0OgzEEb0rmkd43y284nozB) | 4:17 | 2022-07-01 | 2022-07-22 |
 | [New Lows](https://open.spotify.com/track/2wv0ve1CnWc6yiYKDwzT0B) | [jCube](https://open.spotify.com/artist/0Yg2xlIJI6pG1g0duHZFo7) | [New Lows](https://open.spotify.com/album/07FEcN103GVMzid7dE3poq) | 2:32 | 2021-03-06 | 2021-03-20 |

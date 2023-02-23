@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 970695,
+  "num_followers": 970943,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ1MTM0MSwwMDAwMDAwMDNlMDllNjY4ZjNlZWQxZDAwZWMzODMwOWU3MjgyM2Rh",
+  "snapshot_id": "MTY3NzA1OTUxNCwwMDAwMDAwMDEwYjA0NjZkNGI0NGI0Yzk0NTBkZDk4Zjg5ZjE1OTEy",
   "tracks": [
     {
       "added_at": "2023-02-15 08:55:41",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-02-15 08:55:41",
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "On The Street Where You Live - Remastered",
-      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
-    },
-    {
-      "added_at": "2023-02-15 08:55:41",
-      "album": {
         "name": "Skylark (Std. Version)",
         "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 283093,
       "name": "When I Fall in Love (feat. Chris Botti)",
       "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
+    },
+    {
+      "added_at": "2023-02-15 08:55:41",
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "On The Street Where You Live - Remastered",
+      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
     },
     {
       "added_at": "2023-02-15 08:55:41",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-02-15 08:55:41",
       "album": {
-        "name": "A Valentine For You",
-        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
+        "name": "Hooray For Love",
+        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
         }
       ],
-      "duration_ms": 127186,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+      "duration_ms": 259573,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
     },
     {
       "added_at": "2023-02-15 08:55:41",
@@ -1091,22 +1091,6 @@
       "duration_ms": 113293,
       "name": "Almost Like Being In Love - Remastered",
       "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
-    },
-    {
-      "added_at": "2023-02-15 08:55:41",
-      "album": {
-        "name": "Hooray For Love",
-        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
-      },
-      "artists": [
-        {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
     },
     {
       "added_at": "2023-02-15 08:55:41",
@@ -1159,22 +1143,6 @@
     {
       "added_at": "2023-02-15 08:55:41",
       "album": {
-        "name": "Unforgettable: With Love",
-        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 256959,
-      "name": "The Very Thought Of You",
-      "url": "https://open.spotify.com/track/0yw2d5ySGl52fz5qm9IZD3"
-    },
-    {
-      "added_at": "2023-02-15 08:55:41",
-      "album": {
         "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
         "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
       },
@@ -1187,6 +1155,22 @@
       "duration_ms": 235200,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/0uqoRVmmU2WM9iDgQBf23R"
+    },
+    {
+      "added_at": "2023-02-15 08:55:41",
+      "album": {
+        "name": "Unforgettable: With Love",
+        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 256959,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/0yw2d5ySGl52fz5qm9IZD3"
     },
     {
       "added_at": "2023-02-15 08:55:41",
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-02-15 08:55:41",
       "album": {
-        "name": "Big Band Classics",
-        "url": "https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm"
+        "name": "Music For Torching",
+        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 149986,
-      "name": "Perhaps",
-      "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
+      "duration_ms": 243440,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
     },
     {
       "added_at": "2023-02-15 08:55:41",
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2023-02-15 08:55:41",
       "album": {
-        "name": "Music For Torching",
-        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
+        "name": "Big Band Classics",
+        "url": "https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 243440,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
+      "duration_ms": 149986,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
     },
     {
       "added_at": "2023-02-15 08:55:41",
@@ -1267,22 +1251,6 @@
       "duration_ms": 185600,
       "name": "Tuxedo Junction",
       "url": "https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ"
-    },
-    {
-      "added_at": "2023-02-15 08:55:41",
-      "album": {
-        "name": "The Best Of... The Great American Songbook",
-        "url": "https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Someone To Watch Over Me",
-      "url": "https://open.spotify.com/track/1JCfjUbHzl17ngrOEaS1R2"
     },
     {
       "added_at": "2023-02-15 08:55:41",
@@ -1335,6 +1303,22 @@
     {
       "added_at": "2023-02-15 08:55:41",
       "album": {
+        "name": "The Best Of... The Great American Songbook",
+        "url": "https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Someone To Watch Over Me",
+      "url": "https://open.spotify.com/track/1JCfjUbHzl17ngrOEaS1R2"
+    },
+    {
+      "added_at": "2023-02-15 08:55:41",
+      "album": {
         "name": "Love, Andy",
         "url": "https://open.spotify.com/album/3KtDJorsycOFXqwQGTzwxe"
       },
@@ -1351,22 +1335,6 @@
     {
       "added_at": "2023-02-15 08:55:41",
       "album": {
-        "name": "Fly Me To The Moon...The Great American Songbook Volume V",
-        "url": "https://open.spotify.com/album/1Qy7vORyImzsfU89puG4gV"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0uX23hwTV8jJYbb9Gejg9X"
-    },
-    {
-      "added_at": "2023-02-15 08:55:41",
-      "album": {
         "name": "Moonlight Serenade",
         "url": "https://open.spotify.com/album/6fjwirZ5kSFrSBpYter5zO"
       },
@@ -1379,6 +1347,22 @@
       "duration_ms": 229986,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/1QQDUag0GtYAvifSavCoUy"
+    },
+    {
+      "added_at": "2023-02-15 08:55:41",
+      "album": {
+        "name": "The Reprise Years",
+        "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
     },
     {
       "added_at": "2023-02-15 08:55:41",
@@ -1471,22 +1455,6 @@
     {
       "added_at": "2023-02-15 08:55:41",
       "album": {
-        "name": "The Reprise Years",
-        "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
-    },
-    {
-      "added_at": "2023-02-15 08:55:41",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp"
       },
@@ -1503,6 +1471,22 @@
       "duration_ms": 162360,
       "name": "Love Is Here To Stay - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4ehAqz41dlWdLbBBIubIla"
+    },
+    {
+      "added_at": "2023-02-15 08:55:41",
+      "album": {
+        "name": "Fly Me To The Moon...The Great American Songbook Volume V",
+        "url": "https://open.spotify.com/album/1Qy7vORyImzsfU89puG4gV"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0uX23hwTV8jJYbb9Gejg9X"
     },
     {
       "added_at": "2023-02-15 08:55:41",
@@ -1639,18 +1623,34 @@
     {
       "added_at": "2023-02-15 08:55:41",
       "album": {
-        "name": "Manilow Sings Sinatra",
-        "url": "https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj"
+        "name": "No Count Sarah",
+        "url": "https://open.spotify.com/album/53B3ZugSBLBVQT9XftI5Xb"
       },
       "artists": [
         {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 179493,
-      "name": "You Make Me Feel So Young",
-      "url": "https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3"
+      "duration_ms": 199240,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/33rhFjtqI16a5Q0qI4VHaO"
+    },
+    {
+      "added_at": "2023-02-15 08:55:41",
+      "album": {
+        "name": "The Essential Glenn Miller",
+        "url": "https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "Don't Sit Under The Apple Tree (With Anyone Else But Me)",
+      "url": "https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp"
     }
   ],
   "unique_name": "An Elegant Affair",

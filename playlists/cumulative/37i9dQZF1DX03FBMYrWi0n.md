@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle \- avec blesse, Sophia Bel, Corridor et bien plus.
 
-77 songs - 4 hr 39 min
+78 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 | 2023-02-10 |  |
 | [Ah Ouin](https://open.spotify.com/track/715ogeJXR3EL4ISDjiVdhe) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Rencontrer Looloo](https://open.spotify.com/album/2YcDBVyl0OuRS2mda5jCgG) | 2:30 | 2023-02-10 |  |
 | [Alice](https://open.spotify.com/track/6ybS1WcfNXf1hmx8bE3lgi) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Portraits de famine](https://open.spotify.com/album/6INsKgWoaYYDHCbHOR4BZz) | 2:58 | 2023-02-10 |  |
+| [amour aride](https://open.spotify.com/track/3MgjzlKbn9KfLeKNnvc2aA) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [perle plastique / amour aride](https://open.spotify.com/album/45fee7P68vLtss76aGZs26) | 3:16 | 2023-02-17 |  |
 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 | 2023-02-10 |  |
 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 | 2023-02-10 |  |
 | [Auréole](https://open.spotify.com/track/2Tsl8BPilekrItPa2716qj) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Vertiges](https://open.spotify.com/album/1xJBGMDXE3nHY5SvPS7ZCj) | 3:06 | 2023-02-10 |  |
@@ -39,7 +40,7 @@
 | [Fou fou fou mon minou](https://open.spotify.com/track/0V31InZ8QrZ4bFHeZRXvXG) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Jazz engagé](https://open.spotify.com/album/6tw2d8ukWN6FHzF9u2DF3L) | 3:17 | 2023-02-10 |  |
 | [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 | 2023-02-10 |  |
 | [Horizon](https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Horizon](https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132) | 3:03 | 2023-02-10 |  |
-| [I Forget What I Remembered](https://open.spotify.com/track/2wQqhsoOk1KdJl2UUfYIP7) | [Thus Owls](https://open.spotify.com/artist/49i2hfrmEL0nNp8WZvXyT9) | [Who Would Hold You If The Sky Betrayed Us?](https://open.spotify.com/album/0MudGJonYWCr5S8NfwDKIl) | 6:52 | 2023-02-10 |  |
+| [I Forget What I Remembered](https://open.spotify.com/track/2wQqhsoOk1KdJl2UUfYIP7) | [Thus Owls](https://open.spotify.com/artist/49i2hfrmEL0nNp8WZvXyT9) | [Who Would Hold You If The Sky Betrayed Us?](https://open.spotify.com/album/0MudGJonYWCr5S8NfwDKIl) | 6:52 | 2023-02-10 | 2023-02-23 |
 | [I LIE HERE BURIED WITH MY RINGS AND MY DRESSES](https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Ada Rook](https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY) | [I LIE HERE BURIED WITH MY RINGS AND MY DRESSES](https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD) | 4:58 | 2023-02-10 |  |
 | [Je lève mon verre](https://open.spotify.com/track/6o16D1kBaq7QQUSw9QP0fv) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Je lève mon verre](https://open.spotify.com/album/7FBCvIOKM2KydwJzznpBI3) | 3:46 | 2023-02-10 |  |
 | [Juillet](https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Juillet](https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a) | 3:04 | 2023-02-10 |  |

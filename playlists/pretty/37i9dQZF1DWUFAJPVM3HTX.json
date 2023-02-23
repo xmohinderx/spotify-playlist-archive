@@ -1,13 +1,129 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: Dende. Updates every Wednesday.",
-  "num_followers": 185786,
+  "description": "The best new R&B by independent artists and labels. Cover: MAUIM\u00d8ON. Updates every Wednesday.",
+  "num_followers": 185986,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDg0NjdjNTkyMWM1MGRiM2QwOTQ5OWIwMzk5NDMxOTZj",
+  "snapshot_id": "MTY3NzA4Njc3MSwwMDAwMDAwMDM2ODE2YTEyZDAwOWM1YTZlNzJhNzFmYmZkOTVjNmQz",
   "tracks": [
+    {
+      "added_at": "2023-02-22 17:26:11",
+      "album": {
+        "name": "From Uganda With Love",
+        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 147415,
+      "name": "SAYIN MY NAME",
+      "url": "https://open.spotify.com/track/33VbOW0lg4HTcavV8cJPxr"
+    },
+    {
+      "added_at": "2023-02-22 17:26:11",
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "22",
+      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+    },
+    {
+      "added_at": "2023-02-22 17:26:11",
+      "album": {
+        "name": "ACT 2",
+        "url": "https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "duration_ms": 168128,
+      "name": "WICKED",
+      "url": "https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR"
+    },
+    {
+      "added_at": "2023-02-22 17:26:11",
+      "album": {
+        "name": "So Badly (Stripped)",
+        "url": "https://open.spotify.com/album/6XxFx8LzEFR7OY0AmtobUF"
+      },
+      "artists": [
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 176869,
+      "name": "So Badly - Stripped",
+      "url": "https://open.spotify.com/track/1Kicf5Z8LZrIJFz9PCsYsB"
+    },
+    {
+      "added_at": "2023-02-22 17:26:11",
+      "album": {
+        "name": "From Me, To Me",
+        "url": "https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI"
+      },
+      "artists": [
+        {
+          "name": "Nelccia",
+          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
+        }
+      ],
+      "duration_ms": 196487,
+      "name": "Opps",
+      "url": "https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg"
+    },
+    {
+      "added_at": "2023-02-22 17:26:11",
+      "album": {
+        "name": "SAY THAT",
+        "url": "https://open.spotify.com/album/04yekOcy7bARp79ki4INvT"
+      },
+      "artists": [
+        {
+          "name": "Samaki",
+          "url": "https://open.spotify.com/artist/5sqFxtsACgJNFctsg9VZQZ"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "SAY THAT",
+      "url": "https://open.spotify.com/track/5HkxO1BgXYsyMnmobjpwOa"
+    },
+    {
+      "added_at": "2023-02-22 17:26:11",
+      "album": {
+        "name": "POISON",
+        "url": "https://open.spotify.com/album/32nUygpYujqS6S6MoDJluE"
+      },
+      "artists": [
+        {
+          "name": "Araya",
+          "url": "https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a"
+        }
+      ],
+      "duration_ms": 277993,
+      "name": "POISON",
+      "url": "https://open.spotify.com/track/0YXrieZuC5WrYaljNK3B81"
+    },
     {
       "added_at": "2023-02-15 18:00:57",
       "album": {
@@ -91,26 +207,6 @@
       "duration_ms": 209590,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/5fHomLj0NEDhtQyfnkxTAG"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "From Uganda With Love",
-        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        }
-      ],
-      "duration_ms": 110124,
-      "name": "SUPAHAWT",
-      "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
     },
     {
       "added_at": "2023-02-15 18:00:57",
@@ -463,38 +559,6 @@
     {
       "added_at": "2023-02-10 19:40:32",
       "album": {
-        "name": "If I Call",
-        "url": "https://open.spotify.com/album/6RVywJMfjzLVgpLNgftqrK"
-      },
-      "artists": [
-        {
-          "name": "Janine",
-          "url": "https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM"
-        }
-      ],
-      "duration_ms": 223247,
-      "name": "If I Call",
-      "url": "https://open.spotify.com/track/0wtUDXAnyxvruHRmc9e4bb"
-    },
-    {
-      "added_at": "2023-02-10 19:40:32",
-      "album": {
-        "name": "You Ain't Gotta",
-        "url": "https://open.spotify.com/album/0cSE4JeRkAH9QU71Fev5lp"
-      },
-      "artists": [
-        {
-          "name": "Albert Posis",
-          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
-        }
-      ],
-      "duration_ms": 207593,
-      "name": "You Ain't Gotta",
-      "url": "https://open.spotify.com/track/3GiD9NfHqo68GfqHMutbH6"
-    },
-    {
-      "added_at": "2023-02-10 19:40:32",
-      "album": {
         "name": "OVER2U",
         "url": "https://open.spotify.com/album/35M2X07gE66HuGWqySS3tV"
       },
@@ -619,22 +683,6 @@
       "duration_ms": 131709,
       "name": "My Person",
       "url": "https://open.spotify.com/track/6rnbXLZ12ZlpT7putstFit"
-    },
-    {
-      "added_at": "2023-02-10 19:40:32",
-      "album": {
-        "name": "Mother Tongue",
-        "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
-      },
-      "artists": [
-        {
-          "name": "Maya Law",
-          "url": "https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6"
-        }
-      ],
-      "duration_ms": 204217,
-      "name": "Mother Tongue",
-      "url": "https://open.spotify.com/track/26nbjJWqDmzzZyMetpzjOP"
     },
     {
       "added_at": "2023-02-10 19:40:32",
@@ -1467,8 +1515,8 @@
     {
       "added_at": "2023-01-18 18:13:40",
       "album": {
-        "name": "THEO SAYS (feat. Ego Ella May & D'LEAU)",
-        "url": "https://open.spotify.com/album/4oOD8I1ZoGU3UZJhcrrnq3"
+        "name": "BY THE WAY",
+        "url": "https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe"
       },
       "artists": [
         {
@@ -1486,7 +1534,7 @@
       ],
       "duration_ms": 259012,
       "name": "THEO SAYS (feat. Ego Ella May & D'LEAU)",
-      "url": "https://open.spotify.com/track/556CRBT1Baizm5cRhHY2MK"
+      "url": "https://open.spotify.com/track/6sra6tnpksG17oKLPwj8S6"
     },
     {
       "added_at": "2023-01-18 18:13:40",
@@ -1793,26 +1841,6 @@
       "url": "https://open.spotify.com/track/7g4CppGVpNpA6fYJH47NjS"
     },
     {
-      "added_at": "2023-01-12 17:15:03",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/74ss0t5fmhxC56U1yWw08F"
-      },
-      "artists": [
-        {
-          "name": "Jordan Hush",
-          "url": "https://open.spotify.com/artist/0wN8Xcwcr6dcHiLM3lpgPz"
-        },
-        {
-          "name": "Mellina Tey",
-          "url": "https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx"
-        }
-      ],
-      "duration_ms": 127972,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/2L8H2Agsg9UKfb4zoOHbih"
-    },
-    {
       "added_at": "2023-01-11 17:50:04",
       "album": {
         "name": "scuse me",
@@ -2033,22 +2061,6 @@
       "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
     },
     {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "safety",
-      "url": "https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe"
-    },
-    {
       "added_at": "2022-12-06 06:40:28",
       "album": {
         "name": "If You Leave",
@@ -2087,22 +2099,6 @@
       "duration_ms": 157500,
       "name": "Leaving Summer",
       "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf"
-      },
-      "artists": [
-        {
-          "name": "Kwaku Asante",
-          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
-        }
-      ],
-      "duration_ms": 201836,
-      "name": "Thinking of You",
-      "url": "https://open.spotify.com/track/5GWGCUx1dXcEd9bWphI2IC"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -2155,54 +2151,6 @@
       "duration_ms": 147267,
       "name": "What to Do",
       "url": "https://open.spotify.com/track/62CSQmNkGVUG23BDiisrm8"
-    },
-    {
-      "added_at": "2022-10-05 07:01:00",
-      "album": {
-        "name": "In The Meantime...",
-        "url": "https://open.spotify.com/album/1qUcbrfGhJtaYOpZRna9eX"
-      },
-      "artists": [
-        {
-          "name": "Os\u00e9",
-          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
-        }
-      ],
-      "duration_ms": 130923,
-      "name": "Perfect Timing",
-      "url": "https://open.spotify.com/track/7GJq8XxZby3QLdubVkevYs"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/3gbs7YXcIZ9LkZRa5tAuzn"
-      },
-      "artists": [
-        {
-          "name": "Kenny",
-          "url": "https://open.spotify.com/artist/4S4rq4o8gDqTqVKPA7zJmY"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/29P1QyEgirfz0pJ31npUQx"
-    },
-    {
-      "added_at": "2022-09-28 16:56:17",
-      "album": {
-        "name": "Gone Away",
-        "url": "https://open.spotify.com/album/7EMYsTL9x51BD6szWpUmP6"
-      },
-      "artists": [
-        {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
-        }
-      ],
-      "duration_ms": 290426,
-      "name": "Gone Away",
-      "url": "https://open.spotify.com/track/20TQFjdslMaSvYRJkBYxNA"
     }
   ],
   "unique_name": "Fresh Finds R&B",

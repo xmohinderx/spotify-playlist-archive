@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Pip Millett
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,298 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,346 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 24 | [Better Now](https://open.spotify.com/track/2WTSuYVFhBtnsyZzB5BJbi) | [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l) | [Better Now](https://open.spotify.com/album/6wQTTGr08GpINSllheWoL4) | 2:33 |
 | 25 | [Strange How Good Things Change](https://open.spotify.com/track/0zS1iD37gmxzffMH11vqf7) | [Elli Ingram](https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB) | [Strange How Good Things Change](https://open.spotify.com/album/431GIE38nppu1zGX5EXJUj) | 3:21 |
 | 26 | [Hennessy Tears](https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [ON THE ROCKS](https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz) | 4:03 |
-| 27 | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm) | 3:26 |
-| 28 | [June's Cry](https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 3:56 |
+| 27 | [June's Cry](https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 3:56 |
+| 28 | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm) | 3:26 |
 | 29 | [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 |
 | 30 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
 | 31 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
-| 32 | [Is This Real Love?](https://open.spotify.com/track/2STIbgjW6oD4qc1odTNrqT) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Is This Real Love?](https://open.spotify.com/album/4DqyXB4M4KTJQkeK9vrYmq) | 3:00 |
-| 33 | [Don't Let Me Fall](https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 5:39 |
+| 32 | [Don't Let Me Fall](https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 5:39 |
+| 33 | [Is This Real Love?](https://open.spotify.com/track/2STIbgjW6oD4qc1odTNrqT) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Is This Real Love?](https://open.spotify.com/album/4DqyXB4M4KTJQkeK9vrYmq) | 3:00 |
 | 34 | [Killing Me](https://open.spotify.com/track/7B76OJ0ExVlSkDh1xelvRl) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Killing Me](https://open.spotify.com/album/0llJLK7uiCfzaEJrN38ftl) | 3:25 |
 | 35 | [Evil Eye](https://open.spotify.com/track/4FkAAesNdD4BeTAEHRdswW) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye](https://open.spotify.com/album/1yPS6NFaQFhn1syGD8sQil) | 2:55 |
 | 36 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 59 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 |
 | 60 | [Serial](https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2) | 3:47 |
 
-Snapshot ID: `MTY2NjU1Njc4MywwMDAwMDAwMDZmZGQzYTE3NWI4ZjY3ODYzOGI2NzNjZjZkYzg0NTNm`
+Snapshot ID: `MTY2NjU1Njc4MywwMDAwMDAwMGE1YWI3MjViNGY5YTQ2MGFkNjE0YTMyZDhmNjAyMWEz`

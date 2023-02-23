@@ -1,12 +1,12 @@
 {
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
-  "num_followers": 61495,
+  "num_followers": 61527,
   "original_name": "Your Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDg2MCwwMDAwMDAwMDcwY2E2Y2E1YmU2MjQxMzRjYjhlYWVhZTgxM2U2ZWZi",
+  "snapshot_id": "MTY0Mzk1MDg2MCwwMDAwMDAwMGY4MjU3ZTIyNTg1NzYxYWVmYWQ0NTJjZDhjNzNhNDEy",
   "tracks": [
     {
       "added_at": "2022-02-04 05:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "We Are The Wrecks",
-        "url": "https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Favorite Liar",
-      "url": "https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 196173,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "We Are The Wrecks",
+        "url": "https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Favorite Liar",
+      "url": "https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "This Album Does Not Exist",
-        "url": "https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf"
-      },
-      "artists": [
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
-        }
-      ],
-      "duration_ms": 205173,
-      "name": "Sweet Disaster",
-      "url": "https://open.spotify.com/track/7bEDDsy2LFC0KSqhZp5nPE"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 208133,
       "name": "Night Running",
       "url": "https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "This Album Does Not Exist",
+        "url": "https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf"
+      },
+      "artists": [
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        }
+      ],
+      "duration_ms": 205173,
+      "name": "Sweet Disaster",
+      "url": "https://open.spotify.com/track/7bEDDsy2LFC0KSqhZp5nPE"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "New Age Norms 2",
-        "url": "https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 171226,
-      "name": "Who\u2019s Gonna Love Me Now",
-      "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Everything Not Saved Will Be Lost Part I",
         "url": "https://open.spotify.com/album/6uVaLj0YV3mWRFUw4xJ6eR"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 357419,
       "name": "Exits",
       "url": "https://open.spotify.com/track/1JMGjWpfBj2uctjMmjx4mb"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "New Age Norms 2",
+        "url": "https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 171226,
+      "name": "Who\u2019s Gonna Love Me Now",
+      "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
     },
     {
       "added_at": "2022-02-04 05:01:00",

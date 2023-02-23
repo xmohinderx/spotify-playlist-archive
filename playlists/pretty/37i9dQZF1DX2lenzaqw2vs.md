@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > LGBTQ+ artists que brillan e inspiran.<br/>Cover: Bruses
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,127 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,152 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 58 | [La Foto X El WhatsApp](https://open.spotify.com/track/0K1Q1BotM1euCfc6AvpvWT) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [La Foto X El WhatsApp](https://open.spotify.com/album/0czDNz6Jlo6Zu7qUp6fjHI) | 3:48 |
 | 59 | [Besos](https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Lesbihonest](https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t) | 3:27 |
 | 60 | [Buena Suerte Muchacha](https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Índigo](https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz) | 3:13 |
-| 61 | [Pollo Frito](https://open.spotify.com/track/1U1cDL3SgAG4CC6pcX7hSO) | [Diamante Merybrown](https://open.spotify.com/artist/4LRatXcWgcxuM1fLsn0eF9), [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [Pollo Frito](https://open.spotify.com/album/5WEXzemUJZ1adpjutb33Q5) | 2:45 |
-| 62 | [lo que queda después del amor](https://open.spotify.com/track/1CceTFtIgX7vPVco9Fub6t) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO: Antología de una flor marchita \(Deluxe\)](https://open.spotify.com/album/0L9ebZXy9sK9W846lkYAMm) | 4:04 |
+| 61 | [lo que queda después del amor](https://open.spotify.com/track/1CceTFtIgX7vPVco9Fub6t) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO: Antología de una flor marchita \(Deluxe\)](https://open.spotify.com/album/0L9ebZXy9sK9W846lkYAMm) | 4:04 |
+| 62 | [Pollo Frito](https://open.spotify.com/track/1U1cDL3SgAG4CC6pcX7hSO) | [Diamante Merybrown](https://open.spotify.com/artist/4LRatXcWgcxuM1fLsn0eF9), [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [Pollo Frito](https://open.spotify.com/album/5WEXzemUJZ1adpjutb33Q5) | 2:45 |
 | 63 | [Movimiento](https://open.spotify.com/track/5Jm2A5PpuVdWEgB7TIFJfV) | [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Movimiento](https://open.spotify.com/album/4G1VYN0w6Pk82XUyCS82dE) | 5:20 |
 | 64 | [Si Te Veo](https://open.spotify.com/track/5U76Sb5VwnXM6nTzrbrdxG) | [Stefano Marocco](https://open.spotify.com/artist/6T2Y9dnwLPTni627WUfLPp) | [Si Te Veo](https://open.spotify.com/album/2dgu0MYbE8tJXJCNTxxUW5) | 2:57 |
 | 65 | [Monarca](https://open.spotify.com/track/2sX8WnUz2m9h9sWcpFVDBm) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Sigma](https://open.spotify.com/album/5pKjEUByReFjFH8vwiQNgb) | 4:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 69 | [Demasiado Bueno](https://open.spotify.com/track/63xWPyj9hdO0nupTCjvusY) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [Claro](https://open.spotify.com/album/6z4WRLPcQhk4LEYWKvbLAU) | 2:46 |
 | 70 | [Someone Else](https://open.spotify.com/track/7qJ2WlwfwlhNnnncyz17Xv) | [Solomon Ray](https://open.spotify.com/artist/6bSsC4nmXp8XTMbTO4CnkV) | [Someone Else \(Maxi Single\)](https://open.spotify.com/album/6dOFvYCshx1YW9mQSi1g8l) | 3:20 |
 
-Snapshot ID: `MTY3NTM4NDkyNiwwMDAwMDAwMDc5MjA1ZWU4OWY0ZTRiNDQyYTkxMWI3ZjNiMTY5MjA0`
+Snapshot ID: `MTY3NTM4NDkyNiwwMDAwMDAwMGE3OTlmOTYzMDY3NTkyYWNkNmIxNDMxNGU2MzYzYzc3`

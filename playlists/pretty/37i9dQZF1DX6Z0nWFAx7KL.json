@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 29434,
+  "num_followers": 29460,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMDljYmQ4YzcxMzAxZDI2ZTI1NGY3Zjk3NWJlN2U3ZTk4",
+  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMDQzNDc1MzMwM2FkY2FmOGI3ODc4MjFiMWVjYmM0YjU4",
   "tracks": [
     {
       "added_at": "2023-02-16 23:00:00",
@@ -259,22 +259,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
+        "name": "Sunday Monday",
+        "url": "https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq"
       },
       "artists": [
         {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
         }
       ],
-      "duration_ms": 183460,
-      "name": "Lights Go Down (with SIDEPIECE)",
-      "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
+      "duration_ms": 147096,
+      "name": "Sunday Monday",
+      "url": "https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -303,18 +299,22 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Sunday Monday",
-        "url": "https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq"
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
       },
       "artists": [
         {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         }
       ],
-      "duration_ms": 147096,
-      "name": "Sunday Monday",
-      "url": "https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx"
+      "duration_ms": 183460,
+      "name": "Lights Go Down (with SIDEPIECE)",
+      "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Drift",
         "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 164516,
       "name": "Drift",
       "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -867,18 +867,22 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
       },
       "artists": [
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Light A Fire",
-      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -903,6 +907,22 @@
       "duration_ms": 127021,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -959,26 +979,6 @@
       "duration_ms": 148500,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Forever, Now",
-        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 274795,
-      "name": "Elenore",
-      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Apologize",
+        "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 159845,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Echo [Cha\u00ebl Remix]",
         "url": "https://open.spotify.com/album/1QjzaTNqb5lC73XzhfG1Lv"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 153442,
       "name": "Echo [Cha\u00ebl Remix]",
       "url": "https://open.spotify.com/track/0tYWJ4GvHzNvcbh9hLRFAX"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Apologize",
-        "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 159845,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Talk (Remixes)",
-        "url": "https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 192928,
-      "name": "Talk (with Royal & the Serpent)",
-      "url": "https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Blindly [Thom Merlin Remix]",
         "url": "https://open.spotify.com/album/1xJv5nuu2wpxNZReOAuzuJ"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 182839,
       "name": "Blindly [Thom Merlin Remix]",
       "url": "https://open.spotify.com/track/6l6viiPh9iUZbXuprWe0Dt"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Talk (Remixes)",
+        "url": "https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 192928,
+      "name": "Talk (with Royal & the Serpent)",
+      "url": "https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB"
     },
     {
       "added_at": "2023-02-16 23:00:00",

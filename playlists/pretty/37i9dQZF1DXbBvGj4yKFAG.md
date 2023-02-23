@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,303 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,815 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 38 | [punch](https://open.spotify.com/track/6WMIBMdrYL293siiQCxCGi) | [fairies in our house](https://open.spotify.com/artist/0MwasiNhS1Awj9dnl3slBM) | [fairies in our house](https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo) | 1:20 |
 | 39 | [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 |
 | 40 | [Spinning](https://open.spotify.com/track/4ZtYV4eG1W40rWtyDy9SvA) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [trauma ray](https://open.spotify.com/album/6DxOT2chpx586JqiRbqviT) | 0:56 |
-| 41 | [If Blue Could Be Happiness](https://open.spotify.com/track/7ANZJD6wzlHplIIA7AjsUx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v) | 5:07 |
-| 42 | [Triptych](https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:06 |
+| 41 | [Triptych](https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:06 |
+| 42 | [If Blue Could Be Happiness](https://open.spotify.com/track/7ANZJD6wzlHplIIA7AjsUx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v) | 5:07 |
 | 43 | [Places/Plans](https://open.spotify.com/track/4FAuCkNkIlQnqfZiu60xd6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Skullcrusher](https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu) | 3:03 |
 | 44 | [Familiar Fields](https://open.spotify.com/track/2JaUbapUFcKEly61vqlaRz) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 5:12 |
-| 45 | [fine](https://open.spotify.com/track/7whMBp15emD4yuMLMTazmA) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [fine](https://open.spotify.com/album/6DnW8qL9nSPpOeYOYlyluz) | 3:52 |
-| 46 | [Entertainment](https://open.spotify.com/track/3fzvBbbXUdkqNca8NJe8bb) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Hell](https://open.spotify.com/album/5JBsSxsPoJgyccGXQTPja3) | 3:58 |
+| 45 | [Entertainment](https://open.spotify.com/track/3fzvBbbXUdkqNca8NJe8bb) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Hell](https://open.spotify.com/album/5JBsSxsPoJgyccGXQTPja3) | 3:58 |
+| 46 | [fine](https://open.spotify.com/track/7whMBp15emD4yuMLMTazmA) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [fine](https://open.spotify.com/album/6DnW8qL9nSPpOeYOYlyluz) | 3:52 |
 | 47 | [run it back](https://open.spotify.com/track/5Wcc3fBgp1vjBmbxhHEXCR) | [Dino Gala](https://open.spotify.com/artist/3ILm3k5SKzJCaaTJ4yEw0y) | [Run it Back / Fire Escape](https://open.spotify.com/album/5oan6nmdsscfxfmk7nmhr8) | 4:18 |
 | 48 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 |
 | 49 | [you're not the one that i want](https://open.spotify.com/track/4qj1tji798varSboYl713s) | [Nouns](https://open.spotify.com/artist/54pzZYU7PNFAN1O5H715fk) | [still bummed](https://open.spotify.com/album/0TmbsFrbOcvrBXLZkVGRru) | 3:12 |
 | 50 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 |
 
-Snapshot ID: `MTY3NzAwNTc2NiwwMDAwMDAwMGE0Nzc0ZDNmNmVjYTk4NjNlNTI4NmJjYzlmZjZjMzkz`
+Snapshot ID: `MTY3NzAwNTc2NiwwMDAwMDAwMGZmN2FkYjFmMjg3N2UzNjMyMjQ4ODU2MTY0M2FhMmYy`

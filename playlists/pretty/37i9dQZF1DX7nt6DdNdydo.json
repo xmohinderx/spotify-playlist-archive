@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 38965,
+  "num_followers": 38993,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMDhmZjk0MTg5ZTYzMDJlNTNkMjkwM2M1YmQ2MzllYTVh",
+  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMDhhOTI2ZGUxMWYwMDE2NjhhZTcwMzIwODcwOTY3MWQ1",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Dearest",
-        "url": "https://open.spotify.com/album/4AmBFaXqeJYiS3bMKbVnRX"
-      },
-      "artists": [
-        {
-          "name": "The Swallows",
-          "url": "https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq"
-        }
-      ],
-      "duration_ms": 156653,
-      "name": "It Ain't The Meat, It's The Motion",
-      "url": "https://open.spotify.com/track/5DowgjLju7riW4EXaZfdTZ"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 170533,
       "name": "Going Back To New Orleans",
       "url": "https://open.spotify.com/track/15UtASGoJcuIZlLRTUGYVZ"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Dearest",
+        "url": "https://open.spotify.com/album/4AmBFaXqeJYiS3bMKbVnRX"
+      },
+      "artists": [
+        {
+          "name": "The Swallows",
+          "url": "https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq"
+        }
+      ],
+      "duration_ms": 156653,
+      "name": "It Ain't The Meat, It's The Motion",
+      "url": "https://open.spotify.com/track/5DowgjLju7riW4EXaZfdTZ"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Complete Imperial Recordings, 1950-1954",
-        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 124266,
-      "name": "Teenage Baby",
-      "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Joe Williams' Finest Hour",
         "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 371893,
       "name": "Is You Is Or Is You Ain't My Baby",
       "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Complete Imperial Recordings, 1950-1954",
+        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 124266,
+      "name": "Teenage Baby",
+      "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
     },
     {
       "added_at": "2022-03-28 19:44:25",

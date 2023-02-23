@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-63 songs - 2 hr 54 min
+64 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Can't Be Fucked With](https://open.spotify.com/track/7AmVwZ9vImbly1xOkUFJZI) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 1:46 | 2022-10-28 |  |
 | [CHICKENS \(feat\. EST Gee\)](https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:15 | 2022-10-28 |  |
 | [Cold Gangsta](https://open.spotify.com/track/2bxvKs7Q0zqFqajnRcgxbv) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 3:31 | 2022-10-28 |  |
-| [Come Eat Wit Us](https://open.spotify.com/track/7rWkkbMoqJD7M6ALfD66y0) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Come Eat Wit Us](https://open.spotify.com/album/0usJU0onHYjuQmvFXHp0LN) | 2:56 | 2023-02-15 |  |
+| [Come Eat Wit Us](https://open.spotify.com/track/7rWkkbMoqJD7M6ALfD66y0) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Come Eat Wit Us](https://open.spotify.com/album/0usJU0onHYjuQmvFXHp0LN) | 2:56 | 2023-02-15 | 2023-02-23 |
+| [Come Eat Wit Us](https://open.spotify.com/track/32KUTMzHo7G8Yx80enCYue) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Come Eat Wit Us](https://open.spotify.com/album/53AbV3G4ntie0a4dBg7oUy) | 2:56 | 2023-02-22 |  |
 | [Death Around The Corner \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/3zGZJdM9kXWYatib6GWyk9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:43 | 2022-10-28 |  |
 | [Everybody Shooters Too](https://open.spotify.com/track/6QHlEUJAtLzAtb1ZmhSamg) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 1:52 | 2022-10-28 |  |
 | [Fight That Switch \(Walk\) \[with EST Gee\]](https://open.spotify.com/track/28yy6AId4shZVCSjTRdCa9) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Fight That Switch \(Walk\) \[with EST Gee\]](https://open.spotify.com/album/3oLGzMCN8fnmDXff3hCtMH) | 3:19 | 2022-10-28 |  |

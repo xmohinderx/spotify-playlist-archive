@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1309,
+  "num_followers": 1310,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDg5ODRlM2M3NjkyZGU4NDVkOTE5ODMwMGZkMjgyNGRh",
+  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDYxMWFmZjViOTNhMjI1NjczMmZkOTY5YmQ3MjNlMjIy",
   "tracks": [
     {
       "added_at": "2020-04-22 19:35:42",
@@ -647,6 +647,22 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Rocknoceros",
+        "url": "https://open.spotify.com/album/4eub8hBkToROharOKy0U6s"
+      },
+      "artists": [
+        {
+          "name": "Rocknoceros",
+          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Washing My Hands",
+      "url": "https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Canciones Para Chicos",
         "url": "https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 112400,
       "name": "Ba\u00f1o de Burbujas",
       "url": "https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Rocknoceros",
-        "url": "https://open.spotify.com/album/4eub8hBkToROharOKy0U6s"
-      },
-      "artists": [
-        {
-          "name": "Rocknoceros",
-          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Washing My Hands",
-      "url": "https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -819,6 +819,22 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Pink!",
+        "url": "https://open.spotify.com/album/5LdIdJQ3KuAnfeYuWnULAE"
+      },
+      "artists": [
+        {
+          "name": "Rocknoceros",
+          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "Nappin' Time",
+      "url": "https://open.spotify.com/track/5pI482wCmSObEDLo14dPDl"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Papa Goose",
         "url": "https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 89306,
       "name": "Wash The Dishes",
       "url": "https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Las Mejores Canciones para Ni\u00f1os",
-        "url": "https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b"
-      },
-      "artists": [
-        {
-          "name": "HooplaKidz En Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu"
-        }
-      ],
-      "duration_ms": 129536,
-      "name": "La Canci\u00f3n del Ba\u00f1o",
-      "url": "https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc"
     }
   ],
   "unique_name": "Daily Rutina",

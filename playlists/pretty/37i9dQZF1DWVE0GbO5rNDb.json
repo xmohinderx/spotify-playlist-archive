@@ -1,12 +1,12 @@
 {
   "description": "Musica dance per le tue giornate di sole!",
-  "num_followers": 91636,
+  "num_followers": 91635,
   "original_name": "Voglia di Sole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMGQ0MDhiMDFlOTQxYzU2M2Q0ZWI4M2JiMDU0MjUyY2Y1",
+  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMGQwZjBhMzU1ZGVmMTljNTZiNjk3ZTI2NzNiNzI5MGY1",
   "tracks": [
     {
       "added_at": "2022-12-20 15:00:15",
@@ -515,26 +515,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
-        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
-      },
-      "artists": [
-        {
-          "name": "JJ",
-          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
-        },
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
-        }
-      ],
-      "duration_ms": 193475,
-      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
-      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 166572,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
+        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
+        },
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "duration_ms": 193475,
+      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
+      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -975,26 +975,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Never Really Loved Me (with Dean Lewis)",
-        "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 202158,
-      "name": "Never Really Loved Me (with Dean Lewis)",
-      "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "Everybody Wants To Party",
         "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "Never Really Loved Me (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "Never Really Loved Me (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Little Bit Of Love",
-        "url": "https://open.spotify.com/album/1n46dubYWsiqfO1agUTVyz"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 195452,
-      "name": "Little Bit Of Love",
-      "url": "https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "NOTED...EP",
         "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 158104,
       "name": "Worst Thing",
       "url": "https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "Little Bit Of Love",
+        "url": "https://open.spotify.com/album/1n46dubYWsiqfO1agUTVyz"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 195452,
+      "name": "Little Bit Of Love",
+      "url": "https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1707,18 +1707,26 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7L7ZklG6lldD8OzsrmNzbn"
+        "name": "SCOOB! The Album",
+        "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
       },
       "artists": [
         {
-          "name": "Switch Disco",
-          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 183887,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4S6ytq0m3Wo1kaeRKNw3xy"
+      "duration_ms": 164683,
+      "name": "On Me (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1763,26 +1771,18 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "SCOOB! The Album",
-        "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7L7ZklG6lldD8OzsrmNzbn"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
         }
       ],
-      "duration_ms": 164683,
-      "name": "On Me (feat. Ava Max)",
-      "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
+      "duration_ms": 183887,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4S6ytq0m3Wo1kaeRKNw3xy"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Stay Mine",
-        "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 178010,
-      "name": "Stay Mine",
-      "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2EbGQOhrYnc6oAOIKh4mUl"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "Stay Mine",
+        "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 178010,
+      "name": "Stay Mine",
+      "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
     },
     {
       "added_at": "2022-12-20 15:00:15",

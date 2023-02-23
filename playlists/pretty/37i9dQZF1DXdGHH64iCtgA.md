@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,006 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,043 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 76 | [Play In The Dark](https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Play In The Dark](https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC) | 4:55 |
 | 77 | [Return to Oz](https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic](https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8) | 7:12 |
 | 78 | [Dancers](https://open.spotify.com/track/258BvHGOVi8YbchiORbR52) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA) | 5:00 |
-| 79 | [Back Seat \- Tseba Remix](https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [Back Seat \(Tseba Remix\)](https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW) | 4:00 |
-| 80 | [Burner](https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Burner](https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl) | 5:08 |
-| 81 | [Jam Fam \- Chanel Show Version](https://open.spotify.com/track/5jnyeC8SjI3vUOtstA5kZy) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Planningtochanel](https://open.spotify.com/album/4LqawEWlyDaDP9MA057KKQ) | 3:29 |
+| 79 | [Burner](https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Burner](https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl) | 5:08 |
+| 80 | [Jam Fam \- Chanel Show Version](https://open.spotify.com/track/5jnyeC8SjI3vUOtstA5kZy) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Planningtochanel](https://open.spotify.com/album/4LqawEWlyDaDP9MA057KKQ) | 3:29 |
+| 81 | [Back Seat \- Tseba Remix](https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [Back Seat \(Tseba Remix\)](https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW) | 4:00 |
 | 82 | [Beograd \- Edit](https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Thirst](https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y) | 3:36 |
 | 83 | [The Ghost](https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 4:04 |
 | 84 | [Electrian](https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Galazy EP](https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn) | 6:52 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 88 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 |
 | 89 | [Lucky](https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a) | [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Club Eat](https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR) | 3:54 |
 | 90 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 |
-| 91 | [We All Move Together \- Kevin Saunderson x Latroit Remix](https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [We All Move Together \(Kevin Saunderson x Latroit Remix\)](https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc) | 3:20 |
-| 92 | [On Your Mind](https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d) | 4:06 |
+| 91 | [On Your Mind](https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d) | 4:06 |
+| 92 | [We All Move Together \- Kevin Saunderson x Latroit Remix](https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [We All Move Together \(Kevin Saunderson x Latroit Remix\)](https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc) | 3:20 |
 | 93 | [Just Us](https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8) | 6:45 |
 | 94 | [So Right](https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Working Class Woman](https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh) | 5:06 |
 | 95 | [Sol](https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [Sol De Mi Vida](https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [Like A Good Old Friend](https://open.spotify.com/track/4Ndo9hhsgkQ171kzuDs1a9) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Like A Good Old Friend](https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8) | 3:38 |
 | 100 | [August in Paris](https://open.spotify.com/track/3ZqbN38TDR0e0AEAthNZ3Y) | [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf), [Shonky](https://open.spotify.com/artist/1waWwt8cVCJgqLItlQJz14) | [Mobilee Back to Back Vol\. 2 \- Presented By Gummihz](https://open.spotify.com/album/3qgEzuYMF3B0n2IcDm37yQ) | 8:36 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGIwYTg4Y2E4NWFlNWQ2MzhkMTM0YzllOTVhOGM5NDM4`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGFlZjZlN2ViOWFiZDY1OTg0YTU1OGM2ZWRkYjVlNGQ4`

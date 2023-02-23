@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Taj Mahal
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,077 likes - 95 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,108 likes - 95 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,973 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,203 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 39 | [Man in Black](https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Man In Black](https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd) | 2:52 |
 | 40 | [Every Which Way but Loose \- 2009 Remaster](https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Number One Hits](https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8) | 2:51 |
 | 41 | [You Never Even Called Me By My Name](https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 5:14 |
-| 42 | [The Year That Clayton Delaney Died](https://open.spotify.com/track/1sfXFEpGVK5s5i8eHEtNPj) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [In Search Of A Song](https://open.spotify.com/album/7896HKNHKgVnuiOh401iX2) | 2:44 |
-| 43 | [Daydreams About Night Things](https://open.spotify.com/track/1PTngmREtR0P0YMLdqVWBj) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Night Things](https://open.spotify.com/album/6SKcfybHqgbi425YFczgUH) | 2:22 |
+| 42 | [Daydreams About Night Things](https://open.spotify.com/track/1PTngmREtR0P0YMLdqVWBj) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Night Things](https://open.spotify.com/album/6SKcfybHqgbi425YFczgUH) | 2:22 |
+| 43 | [The Year That Clayton Delaney Died](https://open.spotify.com/track/1sfXFEpGVK5s5i8eHEtNPj) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [In Search Of A Song](https://open.spotify.com/album/7896HKNHKgVnuiOh401iX2) | 2:44 |
 | 44 | [By The Time I Get To Phoenix \- Remastered 2001](https://open.spotify.com/track/1tZKsxgKebVQX9s6oiojG9) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [By The Time I Get To Phoenix \(Remastered\)](https://open.spotify.com/album/29tTA46kurlOioRkjBqOMS) | 2:44 |
 | 45 | [Coat of Many Colors](https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Coat Of Many Colors](https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg) | 3:03 |
 | 46 | [Hello Darlin' \- Single Version](https://open.spotify.com/track/6vmAgl2y9MpoZKrVUXrPe5) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Hello Darlin'](https://open.spotify.com/album/7jHxaZCVO8ITJOtQzexSI8) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 99 | [Pass Me By](https://open.spotify.com/track/13ion8hnAYRdnLmuxddivf) | [Johnny Rodriguez](https://open.spotify.com/artist/5hYruMimtF8axJGLsFpfoU) | [20 Greatest Hits](https://open.spotify.com/album/0O7fLzqBv5cj2tONoAj8sE) | 2:37 |
 | 100 | [Bloody Mary Morning](https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Phases And Stages](https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP) | 2:48 |
 
-Snapshot ID: `MTY3NTEwMzI5NywwMDAwMDAwMDM5NjdjMWUwZTk2MDNlNDkwMDM4NGJlNDhlYzI1MTM0`
+Snapshot ID: `MTY3NTEwMzI5NywwMDAwMDAwMDQ5ODE2MjlkNTkyNjIyYmEyNmM0YjI2ZWQ1NWMxYWVi`

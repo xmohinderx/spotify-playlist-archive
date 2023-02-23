@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,076 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,324 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 112 | [Douliou douliou Saint\-Tropez \- Le Gendarme de St Tropez](https://open.spotify.com/track/6S18m7pr72dq4tbn5tDDIT) | [Do You Swing](https://open.spotify.com/artist/0frKN9m9jNred9YvCELPak) | [Ciné folies \(Les 20 plus joyeux moments du cinéma\)](https://open.spotify.com/album/3AffRdGoovefTdksTobixE) | 3:22 |
 | 113 | [Adventures](https://open.spotify.com/track/1cFafTZ4kcW0lb4TIOyBqm) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN) | [Bluff](https://open.spotify.com/album/7s4GMpCgU0pbUnenzkz0qk) | 3:56 |
 | 114 | [La flemme](https://open.spotify.com/track/1mvbKqnrMeIlknpqPKoDYL) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [La flemme](https://open.spotify.com/album/5sg3y4ml5628Ti4BqFuriV) | 2:47 |
-| 115 | [Just One Dance](https://open.spotify.com/track/7tYCf3ftc99AQrn2cXYM6d) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Just One Dance](https://open.spotify.com/album/0SDFVMcSBRXrodzfAKOEBy) | 3:32 |
+| 115 | [Just One Dance](https://open.spotify.com/track/4Tt9F3SsutXa3AEjAUGG1Y) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Just One Dance](https://open.spotify.com/album/2NshWBILMEJ6tkTz6OJNAU) | 3:32 |
 | 116 | [Va voir ailleurs](https://open.spotify.com/track/4e2ffXhqBYVHUdpyWIicCq) | [Eliott Jane](https://open.spotify.com/artist/4EBgkZ6DyqNwWETWgwBZ8U) | [Liberté chérie](https://open.spotify.com/album/3kBng0jk7xg2RcufJxJQTn) | 3:05 |
 | 117 | [Freedom](https://open.spotify.com/track/4EK6wB8EG5Aa9cR80Mm0h6) | [Elle Valenci](https://open.spotify.com/artist/3glvSAS5Z6057HM9ov0HOt) | [Freedom](https://open.spotify.com/album/3iqNmEN9dVtsTSIiAxHLz9) | 3:00 |
 | 118 | [Dreams](https://open.spotify.com/track/1E9CV1dv9AVVvmrNmRCErq) | [L'Epee](https://open.spotify.com/artist/4r0FnBMOPmKACPLYhkcBtU) | [Diabolique](https://open.spotify.com/album/42QXQwn8uWTOoDutKMEQLk) | 3:16 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MTY3MjQyMjc0NiwwMDAwMDAwMDM3NTBmZGQ1NmI5NTBkN2E2MDc0MmE5YzkwMDU1MGY4`
+Snapshot ID: `MTY3MjQyMjc0NiwwMDAwMDAwMDFmZDUyMTA5NjIzMzcwN2QzOWI3OWQzMmY1MDA0ZGFj`

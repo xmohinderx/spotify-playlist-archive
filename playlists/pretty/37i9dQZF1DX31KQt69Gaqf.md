@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 
 > Let us take care of your workday soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,092 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,087 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 19 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet \(Radio Edit\)](https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST) | 3:56 |
 | 20 | [The Walls Are Way Too Thin](https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:41 |
 | 21 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 |
-| 22 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 |
-| 23 | [Still Got Time](https://open.spotify.com/track/7LS3gaxwBnCPkua0EEfAqf) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9) | 3:01 |
+| 22 | [Still Got Time](https://open.spotify.com/track/7LS3gaxwBnCPkua0EEfAqf) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9) | 3:01 |
+| 23 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 |
 | 24 | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM) | 4:07 |
 | 25 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 |
 | 26 | [Moving Men](https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 2:47 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 64 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
 | 65 | [Fading](https://open.spotify.com/track/77GXioLcswmFLd6wAqN2Eo) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 4:43 |
 | 66 | [Seven Nights](https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 2:50 |
-| 67 | [Confirmation \(SSBD\)](https://open.spotify.com/track/3Pqy5RRW33bhxYXN0ZZNXG) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 4:18 |
-| 68 | [Stronger](https://open.spotify.com/track/5xYhT6DfdLNOk9VYzkv0z9) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Stronger](https://open.spotify.com/album/4p6WCaxi2nrkO5i06iKWm5) | 3:18 |
+| 67 | [Stronger](https://open.spotify.com/track/5xYhT6DfdLNOk9VYzkv0z9) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Stronger](https://open.spotify.com/album/4p6WCaxi2nrkO5i06iKWm5) | 3:18 |
+| 68 | [Confirmation \(SSBD\)](https://open.spotify.com/track/3Pqy5RRW33bhxYXN0ZZNXG) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 4:18 |
 | 69 | [Can't Fight](https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Can't Fight](https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq) | 3:10 |
 | 70 | [Sunshine State](https://open.spotify.com/track/1qk4ro2OIR6Vsxbd41ZlFm) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Sunshine State](https://open.spotify.com/album/78k6vZLwOMeCjL8YPJ7iTq) | 2:18 |
 | 71 | [How Can I Make It Ok?](https://open.spotify.com/track/4g0yqS7sBgZGA3VWBOj1Kk) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:47 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 83 | [A.M\. AM](https://open.spotify.com/track/1tZW8iinOpafycLyeif7zX) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:56 |
 | 84 | [I've Got A Girl](https://open.spotify.com/track/0z88v5OzBLTyqtoicF2rtH) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [I've Got A Girl](https://open.spotify.com/album/23koinchIREk5uVwOcrIPe) | 3:28 |
 | 85 | [If Only](https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [If Only](https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy) | 3:22 |
-| 86 | [Rooftop Dancing](https://open.spotify.com/track/69TJLfGTUYSugs2Yi1dnG3) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Rooftop Dancing](https://open.spotify.com/album/3PvStgRH7gl0LF6tw09yuq) | 3:03 |
-| 87 | [Five and Dime](https://open.spotify.com/track/3HgwWsgkhXJ2LsEFWywrHj) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 2:53 |
+| 86 | [Five and Dime](https://open.spotify.com/track/3HgwWsgkhXJ2LsEFWywrHj) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 2:53 |
+| 87 | [Rooftop Dancing](https://open.spotify.com/track/69TJLfGTUYSugs2Yi1dnG3) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Rooftop Dancing](https://open.spotify.com/album/3PvStgRH7gl0LF6tw09yuq) | 3:03 |
 | 88 | [Party Fear](https://open.spotify.com/track/5TagOSob2rhCeltUpSyOP4) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [Andy](https://open.spotify.com/album/1VGG6wKi23E0xvCScuK6AO) | 3:32 |
 | 89 | [Floating](https://open.spotify.com/track/1MZISLnqzwG3xU6YuQHqPo) | [Lo](https://open.spotify.com/artist/4PWIYHR91QGrOmK0diFMKO) | [Floating](https://open.spotify.com/album/73sU1DlOXPgcp3Z3kFTXYo) | 3:37 |
 | 90 | [Goodnights & Goodbyes](https://open.spotify.com/track/2vZEBUgUkvI8unkULuM5fA) | [Qhairo](https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk) | [Goodnights & Goodbyes](https://open.spotify.com/album/4N5NLp77oC120qnYEH6a9w) | 2:55 |
-| 91 | [Alapathy](https://open.spotify.com/track/3qJwMD0TRsejb73xbaT43o) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:14 |
+| 91 | [Pure Shores](https://open.spotify.com/track/4BfC6YSExs6vhuDrJca9Lz) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Pure Shores](https://open.spotify.com/album/1MWEYBI6r6QinmApx4QkO8) | 3:52 |
 | 92 | [Royal Morning Blue \- Edit](https://open.spotify.com/track/3PkntoEMclM5Xxiy3744Il) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Royal Morning Blue](https://open.spotify.com/album/7KV5IU1kITYQkySptDrk2R) | 3:03 |
-| 93 | [Don't Think](https://open.spotify.com/track/43VHs3j5y5i2feqlhpzRqF) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 4:08 |
-| 94 | [Higher Plain](https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Solstice](https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn) | 2:30 |
-| 95 | [Pure Shores](https://open.spotify.com/track/4BfC6YSExs6vhuDrJca9Lz) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Pure Shores](https://open.spotify.com/album/1MWEYBI6r6QinmApx4QkO8) | 3:52 |
+| 93 | [Alapathy](https://open.spotify.com/track/3qJwMD0TRsejb73xbaT43o) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:14 |
+| 94 | [Don't Think](https://open.spotify.com/track/43VHs3j5y5i2feqlhpzRqF) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 4:08 |
+| 95 | [Higher Plain](https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Solstice](https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn) | 2:30 |
 | 96 | [TRAP PHONE](https://open.spotify.com/track/2bqvn860XasNbI5OSHwjtt) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [TRAP PHONE](https://open.spotify.com/album/4IhmhPD7eW7QSMR3pVrYet) | 4:10 |
 | 97 | [Uriah's Cry](https://open.spotify.com/track/2rtLK9Nj9PzMabMOYb4Tmd) | [SAM DOTIA](https://open.spotify.com/artist/7lHuH8figeMAA7pEWJCMHD) | [Uriah's Cry](https://open.spotify.com/album/4lo8NWKY2fTTDEoFm8J29W) | 3:21 |
 | 98 | [So Simpatico \- Edit](https://open.spotify.com/track/4GzHrLySoKpHdsLwZDwioT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [So Simpatico](https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR) | 3:05 |
 | 99 | [Lonely Dancer](https://open.spotify.com/track/5EDiJyIO6wvTms3qK2E4mk) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Anika](https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5) | [Lonely Dancer](https://open.spotify.com/album/6w0ZfpZWsrqip4YoZ0bsTJ) | 3:07 |
 | 100 | [Big Skies, Silly Faces](https://open.spotify.com/track/0Zga9iWiTp760vRHHLNxFF) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Big Skies, Silly Faces](https://open.spotify.com/album/7lGdpg1UFSOfwXNScK1cSc) | 3:55 |
 
-Snapshot ID: `MTY3NDY5MzEyMCwwMDAwMDAwMGY2NTVhOGM3YTg0ZThjMTkwOWJhODg0ZGRlYTlhODM4`
+Snapshot ID: `MTY3NDY5MzEyMCwwMDAwMDAwMGE3MTg3NThhMDMwZjgwMGJmNTZlNTNmODU2N2E5NWNj`

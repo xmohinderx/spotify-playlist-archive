@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-351 songs - 20 hr 55 min
+352 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Oru Parvaiyaal](https://open.spotify.com/track/5kBR3mysdwcjR1fo792GER) | [Mysterix Infinity](https://open.spotify.com/artist/6JsH7HKaRCfSsRSHrLCAK3) | [Oru Parvaiyaal](https://open.spotify.com/album/3WEYvBWiMwhxmyG9MrJufN) | 5:43 | 2022-12-12 |  |
 | [Oru Pennai Kathalithom](https://open.spotify.com/track/5i0mLPfOHJ3qDDjE0Ek4zi) | [David Shone](https://open.spotify.com/artist/3DJaqdCBdN9HZX880w2uoo), [Aalaap Raju](https://open.spotify.com/artist/6qcMtXmofIpnR9TBhgamMR), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Oru Pennai Kathalithom](https://open.spotify.com/album/36cHA6O0JMJmCPnPQxf0U4) | 4:19 | 2022-12-05 |  |
 | [Oru Ponnu Onnu Enna Paakuthu](https://open.spotify.com/track/0V6jQ4UPA1qZoCjCTlw0WQ) | [Sadish Ragupathy](https://open.spotify.com/artist/1NQn5XmA9wnfmIY4XPFUNL), [Abhijith Anilkumar](https://open.spotify.com/artist/7Lw0R0kCCTfMQaJQiG1ROp), [Madan](https://open.spotify.com/artist/6maVydCk51TQrc7S3wNx49) | [Oru Ponnu Onnu Enna Paakuthu](https://open.spotify.com/album/7Gz4LlHvwyumntJiSvdCQK) | 3:03 | 2022-01-27 | 2022-11-17 |
+| [Oru Theniyin Kadhal](https://open.spotify.com/track/25pEd2JmX87sckTCxRFwDU) | [RK Vilasini](https://open.spotify.com/artist/01kF7XZb8f8B2aywaXOPXy) | [Oru Theniyin Kadhal](https://open.spotify.com/album/4RPjQ9C8VwrCvjzGNawgwX) | 4:11 | 2023-02-22 |  |
 | [Oru Uvamai](https://open.spotify.com/track/5UMeOW8eAD5XRI9JnqG1Ta) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Oru Uvamai](https://open.spotify.com/album/1OJk6AwLsV8dqT4xLmDgAD) | 3:02 | 2022-12-02 |  |
 | [Otha Rosa](https://open.spotify.com/track/6L9S3CZtQRh7VVpFKZE2FF) | [MOZ](https://open.spotify.com/artist/1g4uzCTdQZdsfZKC1rBTZR) | [Otha Rosa](https://open.spotify.com/album/6ARmO2VJID2JouwCoZ3aED) | 2:32 | 2022-12-05 |  |
 | [Otha Thamarai \- Original Soundtrack](https://open.spotify.com/track/7e97QgqoYTXOj1s7JI0dHR) | [Bala](https://open.spotify.com/artist/2KGwmllYQr2BgxTkdOH5wt), [Nixen](https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb), [Sandy Sandellow](https://open.spotify.com/artist/3V0QBKJQQZJdNi5GwWkcyv) | [Otha Thamarai \(Original Soundtrack\)](https://open.spotify.com/album/6sdalaw3mTPzUomDNnWjeN) | 3:39 | 2022-04-29 |  |

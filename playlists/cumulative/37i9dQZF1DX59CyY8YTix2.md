@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: BiSH
 
-800 songs - 2 day 3 hr 20 min
+801 songs - 2 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [ma ta ne](https://open.spotify.com/track/1don1Vrx90qZjIqhThSpSY) | [mismatch\-smile](https://open.spotify.com/artist/159vzWrM1lyDOOGqQGgHgR) | [INNERMOST](https://open.spotify.com/album/0UR5uSg0lAfBTAvzNZOj38) | 4:22 | 2022-10-18 | 2023-01-18 |
 | [made in Miracles](https://open.spotify.com/track/6smcutOPvXpDeqGms5AHOB) | [meh meh white sheeps](https://open.spotify.com/artist/2pS4I1UmsiGaOcunZ99qxo) | [made in Miracles](https://open.spotify.com/album/2PdwLLA7lVbtBIylOuVuQe) | 2:46 | 2022-06-07 | 2022-06-09 |
 | [MAKE IT EASY!](https://open.spotify.com/track/3mWckOPMu3DdILa5WjrBxt) | [\(yoru to\)SAMPO](https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n) | [MAKE IT EASY!](https://open.spotify.com/album/6SC62SB41Xh0WAmUs6bvhQ) | 3:14 | 2022-07-14 | 2022-07-17 |
-| [Memorable](https://open.spotify.com/track/17owggiNAYFzigM57niXUb) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Memorable](https://open.spotify.com/album/7IRqHHRA0aiUelyyU7cRpn) | 3:13 | 2023-02-21 |  |
+| [Memorable](https://open.spotify.com/track/17owggiNAYFzigM57niXUb) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Memorable](https://open.spotify.com/album/7IRqHHRA0aiUelyyU7cRpn) | 3:13 | 2023-02-21 | 2023-02-23 |
+| [Memorable](https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Memorable](https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o) | 3:13 | 2023-02-21 |  |
 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 | 2023-01-19 |  |
 | [Midnight Chinese Restaurant](https://open.spotify.com/track/3dazAee2RPVmky5fQNKh7c) | [Hazy Sour Cherry](https://open.spotify.com/artist/3PsepAwOMZT9vSREseiDW5) | [Strange World](https://open.spotify.com/album/4WmRbMDCsNZhuKIgcyCvvE) | 2:37 | 2022-06-02 | 2022-06-08 |
 | [midnight highway](https://open.spotify.com/track/68g8CDbvKTNB4ddRbUi5Fm) | [Tasty](https://open.spotify.com/artist/5P4m1oUz1xdu5wVMW8CSwL) | [Weep](https://open.spotify.com/album/5dr0obXCgIWzT3UjrrIUDN) | 3:45 | 2022-07-14 | 2022-07-17 |

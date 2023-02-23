@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Bakar
 
-1,437 songs - 3 day 14 hr 0 min
+1,438 songs - 3 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -728,7 +728,7 @@
 | [Let It Go](https://open.spotify.com/track/476ezgiwP3i5JkyC2wAcX0) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Let It Go](https://open.spotify.com/album/6gU4czJZwkad7FKVmLqBcm) | 3:03 | 2021-09-15 | 2022-01-08 |
 | [Let It Pass](https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Let It Pass](https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS) | 4:28 | 2022-12-09 | 2022-12-17 |
 | [Let Me Love You Like A Woman](https://open.spotify.com/track/4HvE2E9rXJDcQhE4YfeNuG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Let Me Love You Like A Woman](https://open.spotify.com/album/6yEZH1HexM9sqOX34qUE4u) | 3:20 | 2020-12-04 | 2020-12-22 |
-| [Let's Make a Mistake Tonight](https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Let's Make a Mistake Tonight](https://open.spotify.com/album/5ZtqvxdR8JObx37QbifQS6) | 4:14 | 2023-01-20 |  |
+| [Let's Make a Mistake Tonight](https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Let's Make a Mistake Tonight](https://open.spotify.com/album/5ZtqvxdR8JObx37QbifQS6) | 4:14 | 2023-01-20 | 2023-02-23 |
 | [Life Is Not The Same](https://open.spotify.com/track/53tKpMeDRvMq4xKvQzc6Ih) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Life Is Not The Same](https://open.spotify.com/album/79cXZ95WbLImty6k16rvhc) | 3:19 | 2021-09-02 | 2022-04-03 |
 | [Lifeline](https://open.spotify.com/track/78dm8zrEiJ1d0G6IBuiN7m) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Lifeline](https://open.spotify.com/album/0iAfdMQLxhqNyO2bZ7aTLL) | 3:22 | 2023-01-28 | 2023-02-01 |
 | [Lifetime](https://open.spotify.com/track/6UcQPAH459nMfAXAvV9Udc) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/4aymv3MZSQ5GEb1jS6NVSa) | 3:17 | 2020-10-13 | 2021-05-28 |
@@ -843,6 +843,7 @@
 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Smoothboi Ezra](https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 | 2020-12-04 | 2020-12-22 |
 | [MyLuv](https://open.spotify.com/track/5cNPfcnT3y3JmWiqBQqtLi) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [MyLuv](https://open.spotify.com/album/0con7VlHh3THpC6TLtNoQd) | 2:01 | 2021-10-13 | 2021-10-14 |
 | [Mystery](https://open.spotify.com/track/5vP8rlBjIV1bPBhi2b3siA) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Mystery](https://open.spotify.com/album/7yLKbtAmyVNuuJKofj2DTg) | 3:51 | 2021-10-09 | 2021-10-12 |
+| [Nadja](https://open.spotify.com/track/6AaZ0uxY59zj65pyIalnKS) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Nadja](https://open.spotify.com/album/0Niv3RqgsVUsDHIJBwqYE5) | 4:06 | 2023-02-22 |  |
 | [Naeem](https://open.spotify.com/track/10HyIp1uCZbLvS4ImdgHg7) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Naeem](https://open.spotify.com/album/6GXEPutCTzXosjcz2hOvWy) | 4:22 | 2019-08-09 | 2019-09-21 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-07-08 | 2022-07-29 |
 | [name & place](https://open.spotify.com/track/45hAnZZq08IMAZZM3GOgMT) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [name & place](https://open.spotify.com/album/5iElagbLcBoeHkFmvY2AeV) | 4:19 | 2020-06-12 | 2021-03-10 |

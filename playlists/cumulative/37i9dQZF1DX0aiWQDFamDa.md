@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-257 songs - 21 hr 41 min
+258 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,12 +138,13 @@
 | [It's Beginning To Rain Again](https://open.spotify.com/track/29GZjjUoPV4zFZsxSRFggf) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [It's Beginning to Rain Again](https://open.spotify.com/album/1F5qfxG8bGJkrlymdB3C2N) | 4:47 | 2022-05-18 | 2022-07-29 |
 | [It's Easy To Remember](https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 2:45 | 2022-09-16 |  |
 | [It's Easy To Remember \- Live](https://open.spotify.com/track/2VLF3Q1yVvTwG32F5uW4z2) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tribute](https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx) | 7:08 | 2022-05-18 | 2022-11-11 |
+| [Lazy Steps](https://open.spotify.com/track/5fhQ6woeIt71IEPs9q0Zd5) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Lazy Steps](https://open.spotify.com/album/2nyieRloloSNbpfwfAoHAj) | 3:48 | 2023-02-12 |  |
 | [Leave Me Here](https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX) | [Hidden Beauty](https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF) | 4:03 | 2022-05-18 |  |
 | [Left Alone](https://open.spotify.com/track/66EfRZTVNbOU5hQasXP1dK) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Left Alone](https://open.spotify.com/album/6R6AEilPIJEoPSDITHiJIn) | 6:04 | 2022-05-18 | 2022-07-29 |
 | [Left Alone](https://open.spotify.com/track/1S3iCPwpLZGi2Usp3fJWpy) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Cat Walk](https://open.spotify.com/album/3PtjzG5e4nTStVE0347nFb) | 6:07 | 2022-06-29 | 2022-09-23 |
 | [Life And Death](https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG) | [Into The Silence](https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD) | 9:18 | 2022-06-03 |  |
 | [Little Girl Blue](https://open.spotify.com/track/4JvwftqbcCk6yW6i6Nypcx) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Standards In Norway](https://open.spotify.com/album/1mge7MpZUjYEUW04dTleUt) | 6:43 | 2022-06-03 | 2023-01-28 |
-| [Little Person](https://open.spotify.com/track/4ahjjiW9EWNwJKiOcCjb12) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 3:53 | 2022-05-18 |  |
+| [Little Person](https://open.spotify.com/track/4ahjjiW9EWNwJKiOcCjb12) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 3:53 | 2022-05-18 | 2023-02-23 |
 | [Lonnie's Lament](https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Crescent](https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp) | 11:47 | 2022-05-18 |  |
 | [Losing You](https://open.spotify.com/track/20QthMrVYk5Ji64YFRdZJC) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Interlude](https://open.spotify.com/album/2z72SdeVR3kLHOp9I2zS4S) | 3:24 | 2022-06-29 | 2022-08-27 |
 | [Losing You](https://open.spotify.com/track/4EyL9JMzL8TPBWqGiPfgtQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Interlude](https://open.spotify.com/album/2P3V9N2u2JNGDKXbDU0weF) | 3:24 | 2022-05-18 | 2022-07-29 |

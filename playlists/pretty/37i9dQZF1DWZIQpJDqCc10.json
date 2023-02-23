@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest indie love songs of all time. ",
-  "num_followers": 499381,
+  "num_followers": 499951,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4MjMwNCwwMDAwMDAwMDQwZmMwMDY4NGI0ZWNiZDVjMzJlOWE0ZDJlODY1MjQw",
+  "snapshot_id": "MTY3NjQ4MjMwNCwwMDAwMDAwMDY1NjZlODQ3NWIxMjJmNTU1ZDNlY2E3YWVkYzBhM2Qw",
   "tracks": [
     {
       "added_at": "2023-02-02 01:43:46",
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
     },
     {
-      "added_at": "2023-02-22 00:20:20",
+      "added_at": "2023-02-23 01:11:26",
       "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-02-02 01:43:46",
       "album": {
-        "name": "Leave Before The Lights Come On",
-        "url": "https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Baby I'm Yours",
-      "url": "https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io"
-    },
-    {
-      "added_at": "2023-02-02 01:43:46",
-      "album": {
         "name": "Good At Falling",
         "url": "https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 200304,
       "name": "i saw you in a dream",
       "url": "https://open.spotify.com/track/0ltmioOsLQsL0OFgcPbdVi"
+    },
+    {
+      "added_at": "2023-02-02 01:43:46",
+      "album": {
+        "name": "Leave Before The Lights Come On",
+        "url": "https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Baby I'm Yours",
+      "url": "https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io"
     }
   ],
   "unique_name": "Indie Love Songs",

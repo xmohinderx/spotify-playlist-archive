@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-217 songs - 13 hr 7 min
+218 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 | 2022-07-08 |  |
 | [Gift](https://open.spotify.com/track/6pDvQuoG0AhHTdy7yWyvMG) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/6js0OoNg9GZleGi2B2QN3b) | 4:20 | 2022-05-11 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/2FfYNplOlQYWelhK2TeqW1) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC) | [Gold](https://open.spotify.com/album/5DjrsUv4LHT4ThG3FqcI6O) | 2:46 | 2023-02-03 | 2023-02-19 |
-| [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 | 2022-05-11 |  |
+| [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 | 2022-05-11 | 2023-02-23 |
 | [Got U](https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [LUV SIGN](https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6) | 3:45 | 2022-11-01 |  |
 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 | 2022-07-08 | 2023-02-08 |
 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 | 2022-05-11 |  |
@@ -90,6 +90,7 @@
 | [I Always Love You](https://open.spotify.com/track/1JbUf8ma0z1xrpQxnJKssz) | [Gu seul i](https://open.spotify.com/artist/58wCBXOmVPsbvDjpjYjl47) | [I Always Love You](https://open.spotify.com/album/3w9XoUYhJaQSxMt9Wf0KPh) | 4:03 | 2022-05-11 | 2022-07-23 |
 | [I Guess I Like You](https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Poong, the Joseon Psychiatrist OST Part.2](https://open.spotify.com/album/5lwGQdHIQZC8WwQ9eJllNz) | 3:29 | 2022-08-19 | 2022-10-08 |
 | [I Love U Forever](https://open.spotify.com/track/7jTZjdxWKwq495z7mzEvd3) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/4B4acomkAwBoTwBMDPLf1h) | 3:17 | 2022-07-08 | 2022-07-10 |
+| [I Love You Enough to Die Now](https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [I Love You Enough to Die Now](https://open.spotify.com/album/2zBzmS2KlASC41G8Qz9vzf) | 3:06 | 2023-02-14 |  |
 | [I love you more than me](https://open.spotify.com/track/44TKhC1koCNrslLPmGKu4A) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 4:11 | 2022-05-11 | 2022-07-15 |
 | [I LUV U \(with Mirani\)](https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [I LUV U \(with Mirani\)](https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1) | 3:55 | 2022-07-08 |  |
 | [I only see you in my eyes \(Feat\. Dearming\)](https://open.spotify.com/track/4hKo4JNEFy9jdhTkICIoM7) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [Dearming](https://open.spotify.com/artist/1Zs3RqrUagA8l69VbL5aJx) | [I only see you in my eyes \(Feat\. Dearming\)](https://open.spotify.com/album/71nlsWdYk92IePIZcKF7M3) | 3:01 | 2022-05-11 | 2022-07-28 |

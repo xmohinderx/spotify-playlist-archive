@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 210000,
       "name": "Powerful Waves",
       "url": "https://open.spotify.com/track/3DqGnCwlU4RDBOdB2AExfv"
@@ -776,6 +776,24 @@
       "duration_ms": 169367,
       "name": "Soothing Ocean Sound",
       "url": "https://open.spotify.com/track/2ACz2tjRaxwK2v7Gsmm5X2"
+    },
+    {
+      "album": {
+        "name": "Dancing with the Sea",
+        "url": "https://open.spotify.com/album/0A784kyTLE8armtk5OTXi7"
+      },
+      "artists": [
+        {
+          "name": "Ocean Bank",
+          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124545,
+      "name": "Soothing Sirens",
+      "url": "https://open.spotify.com/track/38cFWalIAa6hrSBQDAdHky"
     },
     {
       "album": {

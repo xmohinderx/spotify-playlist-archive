@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,152,695 likes - 60 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,153,636 likes - 60 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 12 | [Eckstein Eckstein](https://open.spotify.com/track/2EMukdf4zK0H27I35Vvpmi) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/5I3OPusWIHYX9AKpNJjSaN) | 3:07 |
 | 13 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 |
 | 14 | [Hear The Sound](https://open.spotify.com/track/276lQAZfUAXTvlzpPiSFTw) | [Franck](https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb) | [Rf1](https://open.spotify.com/album/1q6vPrcAmGbLFsYikTLGfG) | 6:13 |
-| 15 | [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/1zgkuQAjwHz9dpy1ty7bX7) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity \(Amelie Lens Remix\)](https://open.spotify.com/album/3bH5A96xSwh8C1Qb1Mn3qU) | 7:23 |
+| 15 | [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity](https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN) | 7:23 |
 | 16 | [Techno in Space \(Edit\)](https://open.spotify.com/track/6SBOX5kbw63zSG4GODenAO) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Techno in Space \(Edit\)](https://open.spotify.com/album/43rmQaMRRUC7FO4NBQYWRA) | 3:54 |
 | 17 | [Valhalla](https://open.spotify.com/track/4b4rqSQbfSnUKESuj49BQT) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Valhalla](https://open.spotify.com/album/5tLSLMDZSrRqjhvjAqdX2O) | 5:21 |
 | 18 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Reality](https://open.spotify.com/track/14QvBZPWC0ztCfiEnQRS6T) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [Reality](https://open.spotify.com/album/2XLz2MXZcs10dMSHvYFNse) | 6:51 |
 | 60 | [Back for Rave \- Original Mix](https://open.spotify.com/track/3XZOviqLQTQdVrLlCOH8Ji) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Back for Rave](https://open.spotify.com/album/4UrzT4RqWT6yLzcy66yHGE) | 7:18 |
 
-Snapshot ID: `MTY3NjY0NzM0MywwMDAwMDAwMDQ2MTVjNGYyZWY1Yjg5MTBlNTg5NTM3N2MzY2M2NmIy`
+Snapshot ID: `MTY3NjY0NzM0MywwMDAwMDAwMDNlYjQ4NzIyM2NhOTE1OTliZjczYTcyMmQ4OTJmODU4`

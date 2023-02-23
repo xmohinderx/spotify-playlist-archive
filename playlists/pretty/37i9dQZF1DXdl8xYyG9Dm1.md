@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX?si=fojlNFrTTAqXuhHrXxWftA"> AKA </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,722 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,805 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 49 | [My Way](https://open.spotify.com/track/62WfsfUZiwm4h87G7e2wv2) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [My Way](https://open.spotify.com/album/7EZdtPWr8DAp1t2JNzpyuk) | 3:20 |
 | 50 | [Royaume Kunga \(Kingdom\)](https://open.spotify.com/track/3cJyHbIs3JW0MBgnUKcxS9) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Dynastie](https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg) | 3:01 |
 | 51 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 |
-| 52 | [Alarm](https://open.spotify.com/track/6eoQu7hIN0aWLG50WmZGxh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 2:30 |
+| 52 | [Alaye Toh Se Gogo](https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO) | [Alaye Toh Se Gogo](https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a) | 2:29 |
 | 53 | [Khuphuka](https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Khuphuka](https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj) | 3:03 |
-| 54 | [Alaye Toh Se Gogo](https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO) | [Alaye Toh Se Gogo](https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a) | 2:29 |
+| 54 | [Alarm](https://open.spotify.com/track/6eoQu7hIN0aWLG50WmZGxh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 2:30 |
 | 55 | [Ball Till We Fall](https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ball Till We Fall](https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx) | 2:23 |
 | 56 | [Tycoon](https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ) | 3:58 |
 | 57 | [Next Up](https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Trapiano, Vol\. 1](https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw) | 2:02 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [4 Door Jeep](https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:12 |
 | 70 | [Best for You](https://open.spotify.com/track/2RTJ8I0U32wZaKLuQj624z) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:40 |
 
-Snapshot ID: `MTY3NjU4ODQwMCwwMDAwMDAwMDY0NDI4YWRhZDA3NDk2NTRiN2QxY2JmZjQ3MDc2ZDM4`
+Snapshot ID: `MTY3NjU4ODQwMCwwMDAwMDAwMGFjNjc4MjE0Y2FjMDUwY2UyOTViMDYxYzYxOTc4NTY5`

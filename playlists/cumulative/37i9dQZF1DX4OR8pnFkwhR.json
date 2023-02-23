@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Ainokotoba",
+        "url": "https://open.spotify.com/album/2vhhT7EjOboMtOGOSiA82b"
+      },
+      "artists": [
+        {
+          "name": "Kyanai",
+          "url": "https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265290,
+      "name": "Ainokotoba",
+      "url": "https://open.spotify.com/track/4V6VeEWODTexeZcxtNTkwq"
+    },
+    {
+      "album": {
         "name": "Airride",
         "url": "https://open.spotify.com/album/7MTn4tE9aED70gybfxYMBg"
       },
@@ -2356,6 +2374,24 @@
       "duration_ms": 175453,
       "name": "gear",
       "url": "https://open.spotify.com/track/4EI8sYjIBvKDYXH9dC6LRD"
+    },
+    {
+      "album": {
+        "name": "Gensou",
+        "url": "https://open.spotify.com/album/6cn5LTnUmif9ro3cgI3Va6"
+      },
+      "artists": [
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183359,
+      "name": "Gensou",
+      "url": "https://open.spotify.com/track/1CXHyiojJVoZFDBtrhqWvz"
     },
     {
       "album": {
@@ -10742,7 +10778,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 183359,
       "name": "\u5e7b\u60f3",
       "url": "https://open.spotify.com/track/2RA9HyGBNrstrNhrEpT6v4"
@@ -10976,7 +11012,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 265290,
       "name": "\u611b\u306e\u8a00\u8449",
       "url": "https://open.spotify.com/track/4ResLs28mRYFb0nxR5XyMr"

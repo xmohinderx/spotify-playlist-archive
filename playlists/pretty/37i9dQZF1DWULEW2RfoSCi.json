@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest soul tracks from the 1970s.",
-  "num_followers": 1374881,
+  "num_followers": 1375406,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMDk5NTFlZjY2ZjkwMjYwNjQ1OGFkNWM2OTk2NTEwMGZl",
+  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMGZkMjIxOTRhOGI5MjUyNmQzYTZhYTgwMWRhZjE0YjI2",
   "tracks": [
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "The Best Of Bobby Womack - The Soul Years",
+        "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "Woman's Gotta Have It",
+      "url": "https://open.spotify.com/track/20HCbY9qPpi1H2pP2MRUWy"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "70's Funk Classics",
         "url": "https://open.spotify.com/album/2qHJQ1SqVTUfN93ovRHjZc"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 198173,
       "name": "Make It Funky - Pt. 1",
       "url": "https://open.spotify.com/track/3pNfCtcbhWwa6TouKcMTGp"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "The Best Of Bobby Womack - The Soul Years",
-        "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "Woman's Gotta Have It",
-      "url": "https://open.spotify.com/track/20HCbY9qPpi1H2pP2MRUWy"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "Hello World - The Motown Solo Collection",
+        "url": "https://open.spotify.com/album/2JTn8KdFeeS4nVz4TTfUpS"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Got To Be There",
+      "url": "https://open.spotify.com/track/5nU90wCMFO8sU0tVYDBvUN"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "R&B: From Doo-Wop To Hip-Hop",
         "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 211426,
       "name": "Wake up Everybody (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Hello World - The Motown Solo Collection",
-        "url": "https://open.spotify.com/album/2JTn8KdFeeS4nVz4TTfUpS"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Got To Be There",
-      "url": "https://open.spotify.com/track/5nU90wCMFO8sU0tVYDBvUN"
     },
     {
       "added_at": "2022-02-04 15:57:42",

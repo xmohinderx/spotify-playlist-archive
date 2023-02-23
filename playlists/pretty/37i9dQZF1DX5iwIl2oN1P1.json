@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 73435,
+  "num_followers": 73532,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMGNhNGE1M2U1MDk0YjE4YWM5ZmEzNGUwOGFjYzYyYjY4",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMGNmNTg4Y2U2ZGM3MGJlMDQ2NjAzZjM4NDE0YzY0NDJl",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Life Music: Stage Two",
-        "url": "https://open.spotify.com/album/2akE85yBX94ruIAOjR7ru4"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        }
-      ],
-      "duration_ms": 176969,
-      "name": "Gotta Have You",
-      "url": "https://open.spotify.com/track/1JhJUr6uQ2bf8CNcVsARr4"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Well Done",
         "url": "https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 292789,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Life Music: Stage Two",
+        "url": "https://open.spotify.com/album/2akE85yBX94ruIAOjR7ru4"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 176969,
+      "name": "Gotta Have You",
+      "url": "https://open.spotify.com/track/1JhJUr6uQ2bf8CNcVsARr4"
     },
     {
       "added_at": "2020-06-03 14:33:10",

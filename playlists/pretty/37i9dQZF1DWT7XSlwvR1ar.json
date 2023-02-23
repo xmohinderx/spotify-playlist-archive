@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2017100,
+  "num_followers": 2017663,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDcwZmZiMWNjMjg2ZDI2N2Q2MDk1YTcwYzA0ZGQxZWM1",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGEzYmI2YWFkYmI4N2EwZWYxMzY5Y2I0NmY5ZWM4Nzg1",
   "tracks": [
     {
       "added_at": "2023-02-10 05:01:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
         "name": "Last Night In The Bittersweet",
         "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 221245,
       "name": "Through The Echoes",
       "url": "https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
         "name": "I Was Born To Love You",
         "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are the Best Thing",
-      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "That's Where I Am",
+      "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p"
       },
@@ -709,20 +725,24 @@
       "url": "https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym"
     },
     {
-      "added_at": "2023-02-10 05:01:00",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 252760,
-      "name": "That's Where I Am",
-      "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
+      "duration_ms": 167200,
+      "name": "Kids in Love",
+      "url": "https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -759,26 +779,6 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Kids in Love",
-      "url": "https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 219020,
-      "name": "Just Another Thing We Don't Talk About",
-      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
         "name": "Signs of Light",
         "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 210895,
+      "name": "Take Some Time",
+      "url": "https://open.spotify.com/track/3C3KF3yVvF7iIsGxkmr6VB"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
         "name": "Furr",
         "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+        "name": "Sunlit Youth",
+        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
       },
       "artists": [
         {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
         }
       ],
-      "duration_ms": 210895,
-      "name": "Take Some Time",
-      "url": "https://open.spotify.com/track/3C3KF3yVvF7iIsGxkmr6VB"
+      "duration_ms": 180413,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "Sunlit Youth",
-        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 180413,
-      "name": "Dark Days",
-      "url": "https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i"
+      "duration_ms": 214666,
+      "name": "Heart's Content",
+      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -1099,22 +1115,6 @@
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Heart's Content",
-      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
+        "name": "Wilder Woods",
+        "url": "https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG"
+      },
+      "artists": [
+        {
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "Supply & Demand",
+      "url": "https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "Wilder Woods",
-        "url": "https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG"
-      },
-      "artists": [
-        {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Supply & Demand",
-      "url": "https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 303653,
-      "name": "Down in the Valley",
-      "url": "https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
         "name": "in defense of my own happiness (the beginnings)",
         "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 193786,
       "name": "sunday",
       "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 303653,
+      "name": "Down in the Valley",
+      "url": "https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "A word becomes a sound",
-        "url": "https://open.spotify.com/album/7zmEZWG9JfmB7lgg2SGgGu"
+        "name": "Yael Na\u00efm",
+        "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
       },
       "artists": [
         {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+          "name": "Yael Naim",
+          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
         }
       ],
-      "duration_ms": 160006,
-      "name": "A Couple Things",
-      "url": "https://open.spotify.com/track/0XJShR9YnNtXtZkAnLRNFD"
+      "duration_ms": 225106,
+      "name": "New Soul",
+      "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
     }
   ],
   "unique_name": "Totally Stress Free",

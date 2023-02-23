@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: くるり
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,201 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,334 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [愛の太陽](https://open.spotify.com/track/0zachxUjDCMi59m1RGjOqT) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [愛の太陽](https://open.spotify.com/album/4NyLuxXiCsxBYis4wkvdaX) | 4:12 |
+| 1 | [Sun of Love](https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Sun of Love](https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I) | 4:12 |
 | 2 | [This Is Not The Ending](https://open.spotify.com/track/7h0F0qv2vExZ5Kv2ZincA8) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [curtain call](https://open.spotify.com/album/7D4cMYPY6OmOt9ZEJg4kiC) | 2:52 |
 | 3 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 |
 | 4 | [月夜の道を俺が行く](https://open.spotify.com/track/2IFPJ7ehMw4hVIVOKxqczk) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 3:17 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 33 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 |
 | 34 | [Mary](https://open.spotify.com/track/6yiqPUtoyygE7I9TJPX8zs) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Mary](https://open.spotify.com/album/1hkJLQbCjVZQ2CznUNGaNx) | 3:11 |
 | 35 | [なないろ](https://open.spotify.com/track/5LOISm9qukDm7veN4Fqgnc) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [なないろ](https://open.spotify.com/album/3AlWWIGwJoaTuSMa9epb3e) | 4:22 |
-| 36 | [変わる消える](https://open.spotify.com/track/1QoIG08kXG8uf5KuJx1y9X) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [変わる消える](https://open.spotify.com/album/3wuPwZME3HR7b16YVVfDub) | 3:49 |
+| 36 | [Change and Vanish](https://open.spotify.com/track/6E0Dz2xGBjK5XdnViJ0jYg) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Change and Vanish](https://open.spotify.com/album/0yOLK8giK4aXxk1Lv3d3ne) | 3:49 |
 | 37 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
-| 38 | [百合の咲く場所で](https://open.spotify.com/track/5fU5rBiYS7ICg3BtojUCIn) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/4dyz7fp74JIqn8UzSkbeDd) | 3:16 |
+| 38 | [Yuri no Saku Basho de](https://open.spotify.com/track/1LSTFX8pTDfApxMsuaHTok) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:16 |
 | 39 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
 | 40 | [Fantasista](https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Fantasista](https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6) | 4:32 |
-| 41 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 |
-| 42 | [This Song](https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [This Song](https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s) | 3:51 |
-| 43 | [yes\. I\. do](https://open.spotify.com/track/1BHQjZCoGdfk6wmSRkFHyA) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [yes\. I\. do](https://open.spotify.com/album/5WX0UesRT8mWRjZNtKBF40) | 4:48 |
+| 41 | [yes\. I\. do](https://open.spotify.com/track/1BHQjZCoGdfk6wmSRkFHyA) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [yes\. I\. do](https://open.spotify.com/album/5WX0UesRT8mWRjZNtKBF40) | 4:48 |
+| 42 | [This Song \-Planxty Irwin\-](https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [This Song \-Planxty Irwin\-](https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s) | 3:51 |
+| 43 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 |
 | 44 | [涅槃](https://open.spotify.com/track/1rvbAtrJ2FBUBeLbES41qV) | [Yamaarashi](https://open.spotify.com/artist/3YKtcPI1ykxg166wjbrvU5) | [PAIN KILLER](https://open.spotify.com/album/3BETwNVDIswbCpCS4M8wxz) | 4:15 |
 | 45 | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT) | 3:09 |
-| 46 | [Memorable](https://open.spotify.com/track/17owggiNAYFzigM57niXUb) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Memorable](https://open.spotify.com/album/7IRqHHRA0aiUelyyU7cRpn) | 3:13 |
+| 46 | [Memorable](https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Memorable](https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o) | 3:13 |
 | 47 | [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 |
 | 48 | [冬ノ道ノセイ](https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [冬ノ道ノセイ](https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs) | 4:31 |
 | 49 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 |
 | 50 | [Fever](https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [Fever](https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL) | 3:41 |
 
-Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMDk1ZGVhMDc4NDcwN2Y3ODQ4NTM3MTI5NjUwYmY4Y2Zi`
+Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMDMwMGI3OTU0ZWM4NWQ2YTQ0YjJmNzhmNjYyOWQxZGFl`

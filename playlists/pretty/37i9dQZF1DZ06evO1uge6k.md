@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,214 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,317 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 17 | [Sixteen Tons \(feat\. Jeff Beck\) \- Live from London](https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Sixteen Tons \(feat\. Jeff Beck\) \[Live From London\]](https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge) | 3:17 |
 | 18 | [I Got the Six \- 2008 Remaster](https://open.spotify.com/track/2WcnvJKsp1aYs8xp2nJyDN) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 2:54 |
 | 19 | [My Head's in Mississippi](https://open.spotify.com/track/57zvMcOgGJLQxZ2hsFgJ5S) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 4:21 |
-| 20 | [Arrested for Driving While Blind](https://open.spotify.com/track/5NR2RuQ5rQplGLaKS7ZwAu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 3:06 |
-| 21 | [Chartreuse](https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 2:57 |
+| 20 | [Chartreuse](https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 2:57 |
+| 21 | [Arrested for Driving While Blind](https://open.spotify.com/track/5NR2RuQ5rQplGLaKS7ZwAu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 3:06 |
 | 22 | [I Need You Tonight \- 2008 Remaster](https://open.spotify.com/track/4s22XSQoOFvN5HrXk9YZ3I) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 6:18 |
 | 23 | [Viva Las Vegas](https://open.spotify.com/track/5JFywJVhSvuJI6KB9ikgjA) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:46 |
 | 24 | [Stages](https://open.spotify.com/track/4Sx0FBH0vNWZVxeUCpdHoL) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:32 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 40 | [I Thank You](https://open.spotify.com/track/4iIU7YoqElLJa6gNx9mDx2) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 3:24 |
 | 41 | [Certified Blues](https://open.spotify.com/track/7mdPXhJBfxJBonEmqZvm9t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 3:27 |
 | 42 | [Rhythmeen](https://open.spotify.com/track/0ENGJrM4g0kODzoWGHjqOr) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 3:52 |
-| 43 | [Hot, Blue and Righteous \- 2006 Remaster](https://open.spotify.com/track/0tH43q9uOXKh1shZCs53DP) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:17 |
-| 44 | [Asleep in the Desert \- Instrumental](https://open.spotify.com/track/0ukb39j9T97cToQVbxnn9a) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 3:29 |
+| 43 | [Asleep in the Desert \- Instrumental](https://open.spotify.com/track/0ukb39j9T97cToQVbxnn9a) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 3:29 |
+| 44 | [Hot, Blue and Righteous \- 2006 Remaster](https://open.spotify.com/track/0tH43q9uOXKh1shZCs53DP) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:17 |
 | 45 | [Jailhouse Rock \- 2005 Remaster](https://open.spotify.com/track/1MRidycoVNBWpBTOkD84rX) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 1:55 |
 | 46 | [Dipping Low \(In the Lap of Luxury\)](https://open.spotify.com/track/4m4XQfjhxm5lV7AT38aeK1) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:11 |
 | 47 | [Consumption](https://open.spotify.com/track/2WtcpnIJRKuzrOA9BRzaEt) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [Mexican Blackbird \- 2005 Remaster](https://open.spotify.com/track/7rbm9b3fLOKCCBqNFVdkWV) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 3:05 |
 | 50 | [Velcro Fly](https://open.spotify.com/track/511XWfaUgmaVcms4OhQ9oz) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:29 |
 
-Snapshot ID: `Mjc5NDk2OTgsMDAwMDAwMDAzOTg0YmM5MjUxOTMwZTgwODQ4NzVlMGQyNjU4NjA2ZA==`
+Snapshot ID: `Mjc5NTExODMsMDAwMDAwMDBmMTE0NDFkZTE2Y2E2OTkzODM4ZGNkZWY3MTNjZjU0NA==`

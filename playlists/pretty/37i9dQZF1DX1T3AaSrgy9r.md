@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 
 > Underground dance and alternative that went on to define a new millennium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,143 likes - 88 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,245 likes - 88 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 37 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
 | 38 | [History Repeating \- Knee Length Mix](https://open.spotify.com/track/56jlrdCvA7Ih13L9OMcfDS) | [Propellerheads](https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp), [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Decksandrumsandrockandroll 20th anniversary](https://open.spotify.com/album/5xbDEJ9xCamw1OSOjaTdzV) | 4:02 |
 | 39 | [Original \- Remastered](https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 6:22 |
-| 40 | [Natural Blues](https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:13 |
-| 41 | [Windowlicker](https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Windowlicker](https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh) | 6:05 |
+| 40 | [Windowlicker](https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Windowlicker](https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh) | 6:05 |
+| 41 | [Natural Blues](https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:13 |
 | 42 | [Smack My Bitch Up](https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 5:43 |
 | 43 | [Human Behaviour](https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:12 |
 | 44 | [Name Of The Game](https://open.spotify.com/track/4XKEVz0X1BIDhCAfb782tm) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj) | [Tweekend](https://open.spotify.com/album/3mfsKYh9lIsHYuraTmfsdv) | 4:15 |
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 81 | [High Noon](https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9) | 3:59 |
 | 82 | [Spin Spin Sugar \- Armands Dark Garage Mix](https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Spin Spin Sugar](https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u) | 9:04 |
 | 83 | [Blueski \- Remastered](https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Second Toughest In The Infants \(Remastered\)](https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI) | 3:03 |
-| 84 | [Snapshot](https://open.spotify.com/track/4iUEAUm9GfwOH1RHMHZEBA) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Puppy](https://open.spotify.com/album/3jMDKHg32dmMYGaDtlWu4C) | 4:09 |
+| 84 | [Atom Bomb \- Atomix 1](https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Atom Bomb](https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS) | 5:42 |
 | 85 | [Weapon Of Choice](https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between The Gutter And The Stars](https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst) | 5:45 |
 | 86 | [Gabriel](https://open.spotify.com/track/3hjWMckLi4P4KGlXQP4IqO) | [Lamb](https://open.spotify.com/artist/1bosXOhcCXixClDJR0OnFV) | [Abc Music \- The Radio 1 Sessions](https://open.spotify.com/album/6OCHcY6z1QzM5zNCkwAvnl) | 4:20 |
 | 87 | [Beauty Never Fades \(feat\. Saffron\)](https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN), [Saffron](https://open.spotify.com/artist/6ra7GePuTXt8U7iPGmMa8n) | [Radio JXL \- A Broadcast From The Computerhell Cabin](https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy) | 3:48 |
-| 88 | [Atom Bomb \- Atomix 1](https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Atom Bomb](https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS) | 5:42 |
+| 88 | [Snapshot](https://open.spotify.com/track/4iUEAUm9GfwOH1RHMHZEBA) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Puppy](https://open.spotify.com/album/3jMDKHg32dmMYGaDtlWu4C) | 4:09 |
 
-Snapshot ID: `MTY1MDkxNjc2OCwwMDAwMDAwMGUzZGFmMDlkN2JjYjM4MTg3NTE0YzU5NWRlYTlhMjk0`
+Snapshot ID: `MTY1MDkxNjc2OCwwMDAwMDAwMGVjZTZiODFmNjg4NzNhNTg1OTdiNzY5ZDE1MDQ2MGZj`

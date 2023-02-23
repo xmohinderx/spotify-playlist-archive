@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 198952,
+  "num_followers": 199181,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg2NTg0NywwMDAwMDAwMDk2NzViZGUzMzAwNTlmYTRlOTU0M2VkOGRhYzdjNDI1",
+  "snapshot_id": "MTY3Mzg2NTg0NywwMDAwMDAwMDI1YTVmYWVhNDc3NTMzYTNkOTVmMzRiMDY4MmNhZDA4",
   "tracks": [
     {
       "added_at": "2023-01-03 15:06:17",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "Sussudio - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "The First & Second Album (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/15JQStE0eqKcRp2tYzDoRD"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 334600,
       "name": "You're My Heart, You're My Soul",
       "url": "https://open.spotify.com/track/0Zn63G0XTiqXwr1KSmARWz"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "Sussudio - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
+        "name": "Let's Hear It for the Boy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 262440,
+      "name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
         "name": "Keep On Movin'",
         "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 228266,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
-        "name": "Let's Hear It for the Boy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
-      "url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Speak & Spell (2006 Remaster)",
         "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 222760,
       "name": "Just Can't Get Enough - 2006 Remaster",
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Harold F",
-        "url": "https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc"
-      },
-      "artists": [
-        {
-          "name": "Harold Faltermeyer",
-          "url": "https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Axel F",
-      "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 201133,
       "name": "Our House",
       "url": "https://open.spotify.com/track/1qV6e4ITnfGmA6m6Vklvbi"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Harold F",
+        "url": "https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc"
+      },
+      "artists": [
+        {
+          "name": "Harold Faltermeyer",
+          "url": "https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Axel F",
+      "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1395,6 +1395,22 @@
       "duration_ms": 240800,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "Got My Mind Set On You - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Take My Time",
-        "url": "https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs"
-      },
-      "artists": [
-        {
-          "name": "Sheena Easton",
-          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Morning Train (Nine to Five) - Edit",
-      "url": "https://open.spotify.com/track/1qvDt6W8oaTO9Q4pFNMFEm"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Frantic Romantic",
         "url": "https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 293240,
       "name": "We Don't Have To Take Our Clothes Off",
       "url": "https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Take My Time",
+        "url": "https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs"
+      },
+      "artists": [
+        {
+          "name": "Sheena Easton",
+          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Morning Train (Nine to Five) - Edit",
+      "url": "https://open.spotify.com/track/1qvDt6W8oaTO9Q4pFNMFEm"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1587,22 +1603,6 @@
       "duration_ms": 237320,
       "name": "The Look",
       "url": "https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "Got My Mind Set On You - 2004 Remaster",
-      "url": "https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL"
     },
     {
       "added_at": "2023-01-03 15:06:17",

@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-140 songs - 11 hr 19 min
+141 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Manich 3ayach Ki Nass](https://open.spotify.com/track/6NxbI1vd0HTY4wNqRcbH7t) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Manich 3ayach Ki Nass](https://open.spotify.com/album/1fAiOJLbsRuEPnSTM1HwJp) | 5:34 | 2022-09-20 | 2022-12-01 |
 | [Manich Adouk](https://open.spotify.com/track/0LFZgd1oDmLTDJMFXfICTZ) | [Houari Bouha](https://open.spotify.com/artist/4STSUAUL17QqyZgMhAjCct) | [Ravda](https://open.spotify.com/album/1rcOZ8jdW4UZZNKWaR4nyW) | 5:06 | 2022-08-15 | 2023-01-29 |
 | [Manich Fahem Rouhi](https://open.spotify.com/track/1xNX8gG65KGMxVaJucOHrd) | [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb) | [Manich Fahem Rouhi](https://open.spotify.com/album/3kgJcloeiWGoFKeRVGrIOM) | 6:00 | 2022-09-20 | 2022-12-01 |
-| [Manich Kima Bakri](https://open.spotify.com/track/5z8sSUJ09vXNNrpqxc0u0B) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Manich Kima Bakri](https://open.spotify.com/album/5xB8IXMdACzciVvoujeLoO) | 5:40 | 2023-02-10 |  |
+| [Manich Kima Bakri](https://open.spotify.com/track/5z8sSUJ09vXNNrpqxc0u0B) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Manich Kima Bakri](https://open.spotify.com/album/5xB8IXMdACzciVvoujeLoO) | 5:40 | 2023-02-10 | 2023-02-23 |
+| [Manich Kima Bakri](https://open.spotify.com/track/1b6ylP8XBdY7jOD7bwSWZk) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/3cjlTzZoHAlpC7VsWJBv8F) | 5:45 | 2023-02-20 |  |
 | [Manich Kima Bakri](https://open.spotify.com/track/5dlisfuyJayuJXCDMEeov3) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 5:45 | 2022-11-14 | 2023-02-15 |
 | [Maniche Ghaya](https://open.spotify.com/track/4b3FfSiGHdCgRioDRgTe3B) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [Maniche Ghaya](https://open.spotify.com/album/0cZAAarZByPdTYTWlco14o) | 4:42 | 2021-10-19 |  |
 | [Matebkich & Madanit Netfarko](https://open.spotify.com/track/4dTKDe11H4a3yZrcZvnjWI) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Matebkich & Madanit Netfarko](https://open.spotify.com/album/14JGq86bpnMJ0i7fkYqWsy) | 3:42 | 2023-02-09 |  |

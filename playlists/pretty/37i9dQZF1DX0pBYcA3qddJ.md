@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,013 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,028 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 4 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
 | 5 | [Es \- piano room](https://open.spotify.com/track/54898GdeiRQr1QurG91Ude) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Es \- piano room](https://open.spotify.com/album/4gXc9xsSZB6IYaCv59I5ai) | 3:13 |
 | 6 | [Upon You](https://open.spotify.com/track/37EGDFUeDj02buaxZfnX4G) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs) | 3:36 |
-| 7 | [変わる消える](https://open.spotify.com/track/1QoIG08kXG8uf5KuJx1y9X) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [変わる消える](https://open.spotify.com/album/3wuPwZME3HR7b16YVVfDub) | 3:49 |
+| 7 | [Change and Vanish](https://open.spotify.com/track/6E0Dz2xGBjK5XdnViJ0jYg) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Change and Vanish](https://open.spotify.com/album/0yOLK8giK4aXxk1Lv3d3ne) | 3:49 |
 | 8 | [My Innocence](https://open.spotify.com/track/7E9h1udUWTkqmOoNWnI1gO) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [My Innocence](https://open.spotify.com/album/1wHXxMbeFl5EOOgUnDe5vG) | 3:12 |
 | 9 | [ベルガマスク組曲\~第3曲: 月の光\(チェロとハープ編\)](https://open.spotify.com/track/4cjkR3dxVYVSPBZ1YWhu2G) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Haruma Sato](https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk), [Naoko Yoshino](https://open.spotify.com/artist/1zfl6prcMarqvXpCksIK99) | [SOUVENIR\~ドビュッシー&フランク作品集](https://open.spotify.com/album/43bKpNPSG2JMQTHqeDpxmH) | 4:59 |
 | 10 | [NEW HEAVEN](https://open.spotify.com/track/0Jmb3suEdJDX0ITYvEEZux) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [NEW HEAVEN](https://open.spotify.com/album/6D32g4mlYcDmRkphuDeK8c) | 15:00 |
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 38 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 |
 | 39 | [Afternoon](https://open.spotify.com/track/3IMXmXPHtklRaY0gYBYX0B) | [KEISUKE SAITO](https://open.spotify.com/artist/6MsrYdBT9y6pGZmQeavVUv) | [Afternoon](https://open.spotify.com/album/20GR8W8JeGHIgoILkLZ7WL) | 3:22 |
 | 40 | [Kinderszenen, Op\. 15: No\. 1, Von fremden Ländern und Menschen](https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Schumann: Kinderszenen; Arabesque; Fantasie; Träumerei](https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2) | 1:33 |
-| 41 | [Levia](https://open.spotify.com/track/4MWgA0WnupVRiZNtdY64bL) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532), [鳳小岳](https://open.spotify.com/artist/3pr7TMfQrob0tDAfN3UeUh) | [Levia](https://open.spotify.com/album/5UFVnvpUGMZbms0f4hoGLo) | 4:28 |
+| 41 | [Levia](https://open.spotify.com/track/3IGhQg2Kto8vFgj3cTVyNL) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Levia](https://open.spotify.com/album/0FEsV9OkvUAEie5BZEUkU7) | 4:28 |
 | 42 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
 | 43 | [たゆたう燈](https://open.spotify.com/track/46KtW7HX55Xo7pDi5ps6Z4) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム\~beautiful sleep\~](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 3:20 |
-| 44 | [Temple White](https://open.spotify.com/track/7elLKWtTEMCbOmYZ37ci9r) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 4:24 |
+| 44 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 |
 | 45 | [Millimeter](https://open.spotify.com/track/5AQxUDqIKfTxYbbEbOGFlB) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Millimeter](https://open.spotify.com/album/3GUsEdMcDqIgPRi9O346zv) | 3:28 |
-| 46 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 |
+| 46 | [Temple White](https://open.spotify.com/track/7elLKWtTEMCbOmYZ37ci9r) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 4:24 |
 | 47 | [orbe](https://open.spotify.com/track/4YzoldEraLKKp1ioNbuYZf) | [Sohn Huma](https://open.spotify.com/artist/4Rjbb4MmZAdSqHgwXcalBx), [Republyric](https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP) | [orbe](https://open.spotify.com/album/7KE0fGJoJBcq7OX6mTDD9F) | 1:59 |
 | 48 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 |
 | 49 | [Snow](https://open.spotify.com/track/7dr3ZhQmk9hZZTz5svschC) | [Tomoya Naka](https://open.spotify.com/artist/16swNvdMD5sQAXlVaHc8Hx) | [Luna e Sole](https://open.spotify.com/album/2fvASnd0fRoJeGxxVVgQmM) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 99 | [Song For My Sister's Son](https://open.spotify.com/track/6M6wAlja282JVJ0cR63rgS) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Song For My Sister's Son](https://open.spotify.com/album/5YL4H7MplLxXOC3qUPinVZ) | 4:40 |
 | 100 | [《女の愛と生涯》 No\. 1\. 彼に出会ってから](https://open.spotify.com/track/2KLSxJ4TjIO0Srg6m7egCN) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [隠岐彩夏](https://open.spotify.com/artist/5p7bRfstS9PGcmXOed8WFz) | [愛しの夜](https://open.spotify.com/album/38j0UdqkoIElC0lahOe3HU) | 2:27 |
 
-Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMDdmOGJjNzMwODYyMTQ2MDQzOWQ1NmI1MTk1MTA0MWM4`
+Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMDVkYzg1ZWRkZWQzMTM0NjRiZDc5MjcxMjg4Y2RiOWZi`

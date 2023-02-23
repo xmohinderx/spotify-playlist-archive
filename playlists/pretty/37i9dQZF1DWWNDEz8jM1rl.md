@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,956 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,030 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 29 | [Digan Lo Que Diga](https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3) | [Richard Cepeda](https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq) | [Vivo Enamorado](https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5) | 4:04 |
 | 30 | [Fue Por Ti](https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax) | [Raza For Christ](https://open.spotify.com/artist/5CF3ghXdP30I58xqDF1nLW) | [Nonstop](https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA) | 3:14 |
 | 31 | [Eternamente Amor](https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Fragmentos Do Céu](https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e) | 4:02 |
-| 32 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
-| 33 | [Cuando Se Acaba El Amor](https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Solo Bachata](https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd) | 5:01 |
+| 32 | [Cuando Se Acaba El Amor](https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Solo Bachata](https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd) | 5:01 |
+| 33 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
 | 34 | [Ante Tus Pies](https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2) | [Pablo Caldarelli](https://open.spotify.com/artist/3UNQgVdq9T2fM1FGjEVQyT), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Ante Tus Pies](https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3) | 3:32 |
 | 35 | [Salsa del Cielo](https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Soy Sonero](https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS) | 4:15 |
 | 36 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 44 | [El Barrio Lo Sabe](https://open.spotify.com/track/2wA8CQeX2p3vkP6Wfl2j6x) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT) | [Favor y Gracia](https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C) | 3:41 |
 | 45 | [Party Love](https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw) | [Party Love](https://open.spotify.com/album/29wQaEDDwOEyghp030mgtm) | 3:16 |
 | 46 | [En Tu Presencia](https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW) | [Alex D' Castro](https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm) | [En Accion](https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0) | 4:42 |
-| 47 | [I Believe](https://open.spotify.com/track/3FMsFUwmzaAD7pPBQ81xAp) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7tJBOnefPMs9QEsLbd0oAe) | 3:30 |
-| 48 | [\#BendecidoAmen](https://open.spotify.com/track/7bgEoYgjwC1OG40Qv0PmFh) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [\#BendecidoAmen](https://open.spotify.com/album/291jzwipV9JQUcJdNXdhRt) | 3:58 |
-| 49 | [Le Llaman Jesus](https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:52 |
-| 50 | [Un adorador](https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos De Marcos Witt En Bachata](https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW) | 4:19 |
+| 47 | [\#BendecidoAmen](https://open.spotify.com/track/7bgEoYgjwC1OG40Qv0PmFh) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [\#BendecidoAmen](https://open.spotify.com/album/291jzwipV9JQUcJdNXdhRt) | 3:58 |
+| 48 | [I Believe](https://open.spotify.com/track/3FMsFUwmzaAD7pPBQ81xAp) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7tJBOnefPMs9QEsLbd0oAe) | 3:30 |
+| 49 | [Un adorador](https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos De Marcos Witt En Bachata](https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW) | 4:19 |
+| 50 | [Le Llaman Jesus](https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:52 |
 
-Snapshot ID: `MTYwMDQwNTMyMCwwMDAwMDAwMGUwOWJjMmE0NjAxYTQ3ZTRiYzNmODYzNmVjYzZmZmZh`
+Snapshot ID: `MTYwMDQwNTMyMCwwMDAwMDAwMDljZTYyODllMzk4NDk5Njc3NTBlMzI5ZjhlMzgwMmNi`

@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alex Ferreira.",
-  "num_followers": 104916,
+  "num_followers": 104981,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMzYwMCwwMDAwMDAwMDBmMjJhNDc0NWQ5YjZkYTJiNmJjMzVhYjAxNDEzYTMx",
+  "snapshot_id": "MTY3NjYxMzYwMCwwMDAwMDAwMGIwOGJhY2I1MTY0OTIxM2U4M2IwZjk3OTU0YTk2NDBk",
   "tracks": [
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/1JVc6xReXLJbKpVlTKg03e"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 270359,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/5Uw24VY2ItLdhCXARPpuPd"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "La Malquerida",
         "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 225600,
       "name": "Sab\u00e9is Qui\u00e9nes Sois",
       "url": "https://open.spotify.com/track/2LzQ5MZuUFAuuqSctvnA7M"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/1JVc6xReXLJbKpVlTKg03e"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 270359,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/5Uw24VY2ItLdhCXARPpuPd"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "La Despedida (feat. Valeria Castro)",
-        "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Panamera",
-          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
-        },
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 218028,
-      "name": "La Despedida (feat. Valeria Castro)",
-      "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "El Perro Feroz",
         "url": "https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 140928,
       "name": "Diente de Le\u00f3n",
       "url": "https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "La Despedida (feat. Valeria Castro)",
+        "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Panamera",
+          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
+        },
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 218028,
+      "name": "La Despedida (feat. Valeria Castro)",
+      "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Las Bestias Que Me Acompa\u00f1an",
-        "url": "https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa"
-      },
-      "artists": [
-        {
-          "name": "Andrea Santiago",
-          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
-        }
-      ],
-      "duration_ms": 222428,
-      "name": "Las Bestias Que Me Acompa\u00f1an",
-      "url": "https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Tu Casa",
         "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 200213,
       "name": "Tu Casa",
       "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Las Bestias Que Me Acompa\u00f1an",
+        "url": "https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa"
+      },
+      "artists": [
+        {
+          "name": "Andrea Santiago",
+          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+        }
+      ],
+      "duration_ms": 222428,
+      "name": "Las Bestias Que Me Acompa\u00f1an",
+      "url": "https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1607,18 +1607,22 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+        "name": "La Sangre del Mundo",
+        "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        },
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 134956,
-      "name": "Paciencia",
-      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
+      "duration_ms": 264160,
+      "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
+      "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1639,22 +1643,38 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "La Sangre del Mundo",
-        "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
+        "name": "Impulso",
+        "url": "https://open.spotify.com/album/1szqXDTyWrUkOhHUrOwy71"
       },
       "artists": [
         {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
         },
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 264160,
-      "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
-      "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
+      "duration_ms": 180853,
+      "name": "Impulso",
+      "url": "https://open.spotify.com/track/5uaNuyJkZ9jKvpopPQLbT3"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 134956,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1687,26 +1707,6 @@
       "duration_ms": 302976,
       "name": "Sana Sana",
       "url": "https://open.spotify.com/track/341SLEDngz2H0kE52OTXao"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "Impulso",
-        "url": "https://open.spotify.com/album/1szqXDTyWrUkOhHUrOwy71"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Impulso",
-      "url": "https://open.spotify.com/track/5uaNuyJkZ9jKvpopPQLbT3"
     },
     {
       "added_at": "2023-02-17 06:00:00",

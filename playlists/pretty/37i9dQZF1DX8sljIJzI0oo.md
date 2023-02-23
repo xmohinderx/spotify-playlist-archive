@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Mixtape \#039 featuring Jay Wheeler 🔥\. Find a new mixtape every Thursday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,844,317 likes - 25 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,844,348 likes - 25 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 384125,
+  "num_followers": 384332,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMwNDUwMSwwMDAwMDAwMDEyOTMxZGQ1M2M4OWFlYTUxNDZjNDRjY2FhNzcyMTRk",
+  "snapshot_id": "MTY3NjMwNDUwMSwwMDAwMDAwMDllNGU3Nzg5NzA5MzNhODg2MDI1OTdmMDM5NjNmMGNh",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Nothing's Gonna Happen (Demo)",
-        "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 236450,
-      "name": "Nothing's Gonna Happen (Demo)",
-      "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "You Don't Own Me Anymore",
-        "url": "https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC"
+        "name": "Nothing's Gonna Happen (Demo)",
+        "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
       },
       "artists": [
         {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 223586,
-      "name": "Kathy's Song",
-      "url": "https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S"
+      "duration_ms": 236450,
+      "name": "Nothing's Gonna Happen (Demo)",
+      "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -495,6 +479,22 @@
       "duration_ms": 207389,
       "name": "Th\u00e9r\u00e8se",
       "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "You Don't Own Me Anymore",
+        "url": "https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "Kathy's Song",
+      "url": "https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 193671,
-      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 193671,
+      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Love Is Everywhere (Beware)",
+        "url": "https://open.spotify.com/album/0xZgWQ2PZZnFK6T1Lr0OMv"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 213127,
+      "name": "Love Is Everywhere (Beware)",
+      "url": "https://open.spotify.com/track/4hrJhMznNddR7UThDKHSJy"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 253888,
       "name": "Bittersweet, TN",
       "url": "https://open.spotify.com/track/0merkJ9dgvkemPaR3urDWs"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Love Is Everywhere (Beware)",
-        "url": "https://open.spotify.com/album/0xZgWQ2PZZnFK6T1Lr0OMv"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 213127,
-      "name": "Love Is Everywhere (Beware)",
-      "url": "https://open.spotify.com/track/4hrJhMznNddR7UThDKHSJy"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "when i look at you.",
-        "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "when i look at you.",
-      "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "San Isabel",
         "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 197906,
       "name": "Harder Way",
       "url": "https://open.spotify.com/track/2mOxQ582K8WAP3FjTUhYVC"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "when i look at you.",
+        "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "when i look at you.",
+      "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "i leave early",
-        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 193793,
-      "name": "i leave early",
-      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 176551,
       "name": "Summertime Mama",
       "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "i leave early",
+        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 193793,
+      "name": "i leave early",
+      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -2059,18 +2059,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN"
+        "name": "Desert Song",
+        "url": "https://open.spotify.com/album/01Wmlp4OQ36xv48lqBmDm2"
       },
       "artists": [
         {
-          "name": "Dawn Landes",
-          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
+          "name": "s\u00e4je",
+          "url": "https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi"
         }
       ],
-      "duration_ms": 182374,
-      "name": "Try to Make a Fire Burn Again",
-      "url": "https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7"
+      "duration_ms": 235474,
+      "name": "Desert Song",
+      "url": "https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp"
     }
   ],
   "unique_name": "Soft & Slow",

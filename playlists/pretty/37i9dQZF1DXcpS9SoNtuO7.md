@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > 2023/1/27・28・29に日本武道館にて開催されるアニソンフェス“リスアニ！LIVE 2023”出演アーティストの楽曲をピックアップ！ The official playlist of "LisAni! LIVE 2023"
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,931 likes - 85 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,940 likes - 85 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

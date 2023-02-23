@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,753,875 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,754,390 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 10 | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/track/53acd3PVcgGCux58YABBr5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5) | 3:15 |
 | 11 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 |
 | 12 | [Shabooya](https://open.spotify.com/track/6PphODv2LB2b9BWK9lhWuY) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz) | [Shabooya](https://open.spotify.com/album/1CGE1Yx45ZHuxkw95NXpyU) | 2:58 |
-| 13 | [Dumb Crasy Shemix](https://open.spotify.com/track/2b6f8czdHr1IpIgSTVPnVh) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Dumb Crasy Shemix](https://open.spotify.com/album/5Vgn0A93xVk2gFgy9RPgth) | 2:13 |
+| 13 | [Dumb Crasy Shemix](https://open.spotify.com/track/2b6f8czdHr1IpIgSTVPnVh) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Dumb Crasy Shemix](https://open.spotify.com/album/5Vgn0A93xVk2gFgy9RPgth) | 2:13 |
 | 14 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 |
 | 15 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 |
 | 16 | [Not My N\*gga](https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Not My N\*gga](https://open.spotify.com/album/1CUo0EBK0PhrHJQeI2Lg3z) | 2:07 |

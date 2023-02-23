@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Indigo De Souza",
-  "num_followers": 60776,
+  "num_followers": 60833,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGMxMDk3ZDQ0YjM4YWFkNjIzMWQ3YmM1Zjc2Mzg2YmI0",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDJmZTFlODVkMGNjYzM5MjFiOWY0NzUwZDMxYzM4ZDFm",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "In My Own Time (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/36WryGURqME9Y2URzzzmio"
-      },
-      "artists": [
-        {
-          "name": "Karen Dalton",
-          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
-        }
-      ],
-      "duration_ms": 203397,
-      "name": "Something on Your Mind",
-      "url": "https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Vanilla Sky",
         "url": "https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 218000,
       "name": "King Street",
       "url": "https://open.spotify.com/track/1iD8ge87IXRn8KPo3oNZb1"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "In My Own Time (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/36WryGURqME9Y2URzzzmio"
+      },
+      "artists": [
+        {
+          "name": "Karen Dalton",
+          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+        }
+      ],
+      "duration_ms": 203397,
+      "name": "Something on Your Mind",
+      "url": "https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Things Take Time, Take Time",
         "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 225632,
       "name": "Before You Gotta Go",
       "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Forever Turned Around",
-        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 190466,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Dibujos De Mi Alma",
         "url": "https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Sorceress",
-        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
+        "name": "Forever Turned Around",
+        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
       },
       "artists": [
         {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
         }
       ],
-      "duration_ms": 186509,
-      "name": "Wind On Tin",
-      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
+      "duration_ms": 190466,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -911,6 +895,22 @@
       "duration_ms": 188390,
       "name": "Ignore Tenderness",
       "url": "https://open.spotify.com/track/0fsjdInurbnZ0cptodXvFW"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
+      },
+      "artists": [
+        {
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Dr. Johann Averies",
@@ -1159,22 +1175,6 @@
       "duration_ms": 277261,
       "name": "Every Once In A While",
       "url": "https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
-      },
-      "artists": [
-        {
-          "name": "Lunar Vacation",
-          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
+        "name": "The Greatest Part",
+        "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
       },
       "artists": [
         {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
         }
       ],
-      "duration_ms": 327440,
-      "name": "Hard Drive",
-      "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
+      "duration_ms": 169257,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1643,18 +1643,34 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "The Greatest Part",
-        "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
       },
       "artists": [
         {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
         }
       ],
-      "duration_ms": 169257,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
+      "duration_ms": 327440,
+      "name": "Hard Drive",
+      "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Less Ready to Go",
+        "url": "https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 267870,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1691,22 +1707,6 @@
       "duration_ms": 182720,
       "name": "Friends",
       "url": "https://open.spotify.com/track/32irCtqVudXga5frCUDFVH"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Less Ready to Go",
-        "url": "https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa"
-      },
-      "artists": [
-        {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-        }
-      ],
-      "duration_ms": 267870,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "4th of July",
+        "url": "https://open.spotify.com/album/38MzZWn8pU4IA8pSAdRgA0"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "duration_ms": 176996,
+      "name": "4th of July",
+      "url": "https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1773,20 +1789,20 @@
       "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "4th of July",
-        "url": "https://open.spotify.com/album/38MzZWn8pU4IA8pSAdRgA0"
+        "name": "Deep Routed",
+        "url": "https://open.spotify.com/album/6XebnDlCOM72VXtzJl0ePD"
       },
       "artists": [
         {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
         }
       ],
-      "duration_ms": 176996,
-      "name": "4th of July",
-      "url": "https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF"
+      "duration_ms": 226699,
+      "name": "Deep Routed",
+      "url": "https://open.spotify.com/track/1SHekIQ0GuWgnFBJ8d615m"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "i don\u2019t know who needs to hear this...",
-        "url": "https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak"
-      },
-      "artists": [
-        {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
-        }
-      ],
-      "duration_ms": 285569,
-      "name": "stoned",
-      "url": "https://open.spotify.com/track/2lHLhy71ZIqedHum50FhvF"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "VBS",
         "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
       },
@@ -1867,6 +1867,22 @@
       "duration_ms": 236864,
       "name": "VBS",
       "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "i don\u2019t know who needs to hear this...",
+        "url": "https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 285569,
+      "name": "stoned",
+      "url": "https://open.spotify.com/track/2lHLhy71ZIqedHum50FhvF"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1887,38 +1903,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "chamomile",
-        "url": "https://open.spotify.com/album/4H9ie0uCEQRmY8u3ILQ9mO"
-      },
-      "artists": [
-        {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
-        }
-      ],
-      "duration_ms": 233789,
-      "name": "chamomile",
-      "url": "https://open.spotify.com/track/1OKhm3Ew6ejYwCalQmC4wP"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Deep Routed",
-        "url": "https://open.spotify.com/album/6XebnDlCOM72VXtzJl0ePD"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 226699,
-      "name": "Deep Routed",
-      "url": "https://open.spotify.com/track/1SHekIQ0GuWgnFBJ8d615m"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "You Belong There",
         "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 230653,
       "name": "The Last One",
       "url": "https://open.spotify.com/track/4t2ZAMb6OkX5BGACCoNNyz"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/4H9ie0uCEQRmY8u3ILQ9mO"
+      },
+      "artists": [
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "duration_ms": 233789,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/1OKhm3Ew6ejYwCalQmC4wP"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "To Enjoy Is the Only Thing",
+        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Memory of a Cut off Head",
         "url": "https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 287280,
       "name": "Memory of a Cut off Head",
       "url": "https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Where The Rocks Are",
-        "url": "https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo"
-      },
-      "artists": [
-        {
-          "name": "Maia Friedman",
-          "url": "https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c"
-        }
-      ],
-      "duration_ms": 233773,
-      "name": "Where The Rocks Are",
-      "url": "https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R"
     }
   ],
   "unique_name": "Folk Arc",

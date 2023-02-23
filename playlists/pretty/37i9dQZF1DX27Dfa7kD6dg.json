@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 15852,
+  "num_followers": 15885,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5NDc4NCwwMDAwMDAwMGY0ODVhMTRhNzgzMjE3ZjdlMjYwMDMwOTJhYWYzMmQz",
+  "snapshot_id": "MTY3NTk5NDc4NCwwMDAwMDAwMGE0OTY1Y2VkNDFjY2EyNTliMGVlM2JjY2ZiMDliNjRm",
   "tracks": [
     {
       "added_at": "2023-02-10 02:06:24",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "Intenso",
-        "url": "https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "La Agarro Bajando",
-      "url": "https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 321200,
       "name": "Casi Te Envidio",
       "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
+        "name": "Intenso",
+        "url": "https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "La Agarro Bajando",
+      "url": "https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 281653,
-      "name": "T\u00fa Me Haces Falta",
-      "url": "https://open.spotify.com/track/6ekixEa22KrZuSynAfxQ8i"
+      "duration_ms": 295333,
+      "name": "Todo Empezo",
+      "url": "https://open.spotify.com/track/3cL9ePuG6NGlmUmXEbOfpG"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 333226,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
         "name": "Bueno y M\u00e1s",
         "url": "https://open.spotify.com/album/2L8Z97iqrz7OMo4OpbCFEg"
       },
@@ -479,22 +463,6 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "De Verdad (15 Super Exitos)",
-        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Todo Empezo",
-      "url": "https://open.spotify.com/track/3cL9ePuG6NGlmUmXEbOfpG"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
         "name": "Que Bueno",
         "url": "https://open.spotify.com/album/03402zoYuwCwfeQ2MLg6St"
       },
@@ -507,6 +475,22 @@
       "duration_ms": 289097,
       "name": "Gracias Amor",
       "url": "https://open.spotify.com/track/09zJAF4Z2v55rU9XXZfA9N"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
+        "name": "De Verdad (15 Super Exitos)",
+        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 281653,
+      "name": "T\u00fa Me Haces Falta",
+      "url": "https://open.spotify.com/track/6ekixEa22KrZuSynAfxQ8i"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -531,6 +515,22 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 333226,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
-        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        },
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        }
-      ],
-      "duration_ms": 271072,
-      "name": "Carro de Fuego",
-      "url": "https://open.spotify.com/track/3SXRNFtlBYZKgJeBstl8b3"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 351333,
       "name": "Ublabad\u00fa",
       "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "duration_ms": 271072,
+      "name": "Carro de Fuego",
+      "url": "https://open.spotify.com/track/3SXRNFtlBYZKgJeBstl8b3"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Gustavo Rodriguez",
+          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
+        }
+      ],
+      "duration_ms": 293067,
+      "name": "Mujer de Carne y Hueso",
+      "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
         "name": "La Epoca de Oro, Vol. 1",
         "url": "https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 418880,
       "name": "Puerto Rico",
       "url": "https://open.spotify.com/track/1Y53t2ucYs8CUMsUkwBZTA"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
-        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
-        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        },
-        {
-          "name": "Gustavo Rodriguez",
-          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
-        }
-      ],
-      "duration_ms": 293067,
-      "name": "Mujer de Carne y Hueso",
-      "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
+        "name": "Here comes... Tito Puente!",
+        "url": "https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Mambo Goz\u00f3n",
+      "url": "https://open.spotify.com/track/2P12SmID74922J8JwQd90j"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
         "name": "Decision Unanime",
         "url": "https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 323266,
       "name": "Puerto Rico 2006 (feat. Eddie Palmieri)",
       "url": "https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
-        "name": "Here comes... Tito Puente!",
-        "url": "https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Mambo Goz\u00f3n",
-      "url": "https://open.spotify.com/track/2P12SmID74922J8JwQd90j"
     },
     {
       "added_at": "2023-02-10 02:06:24",

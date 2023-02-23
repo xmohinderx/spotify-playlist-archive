@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,064 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,035 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 65 | [O Holy Night](https://open.spotify.com/track/7tiWsq60y3wqRVaD4057a5) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 2:18 |
 | 66 | [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 |
 | 67 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 3:11 |
-| 68 | [Go Tell It On The Mountain](https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Go Tell It On The Mountain](https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i) | 2:30 |
-| 69 | [Snow](https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj), [Trudy Stevens](https://open.spotify.com/artist/6Z83RqW2D8bbsxvzhiIcUX) | [Selections From Irving Berlin's White Christmas](https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl) | 2:43 |
+| 68 | [Snow](https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj), [Trudy Stevens](https://open.spotify.com/artist/6Z83RqW2D8bbsxvzhiIcUX) | [Selections From Irving Berlin's White Christmas](https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl) | 2:43 |
+| 69 | [Go Tell It On The Mountain](https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Go Tell It On The Mountain](https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i) | 2:30 |
 | 70 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI) | 3:20 |
 | 71 | [I'd Like You For Christmas](https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [The Singles Collection \(Vol\. 1\)](https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW) | 2:35 |
 | 72 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 99 | [This Winter](https://open.spotify.com/track/62q9lMyhMzNH8LdEOImmeD) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ), [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [The Pianoman at Christmas \(The Complete Edition\)](https://open.spotify.com/album/0LuEO5CPU8DqYEA31cfaGV) | 2:53 |
 | 100 | [Christmas Time Is Here](https://open.spotify.com/track/1f9WJ3jehvcxTK5OTTYiOO) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:34 |
 
-Snapshot ID: `MTY3MjczMjI0NiwwMDAwMDAwMGIwMmUxYzk0NGJhYmVhNGJhNTQ4Y2EyNGJiMzE5N2I5`
+Snapshot ID: `MTY3MjczMjI0NiwwMDAwMDAwMGVlNDcyNjViOTJjODEyY2ZiMjI2MDYyMmRkYTI4ZDRk`

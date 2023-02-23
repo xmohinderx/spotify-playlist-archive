@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-972 songs - 2 day 3 hr 3 min
+973 songs - 2 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Dancing In The Dark \- Live](https://open.spotify.com/track/23IfaTlFcjfs7PZKyXLdjb) | [Jørgen Dahl Moe](https://open.spotify.com/artist/00Ph35PnLLQYLvMnhbizSJ) | [The Voice 2022: Blind Auditions 1 \(Live\)](https://open.spotify.com/album/6zwlsmLRkYWnK3wP6JMHmS) | 2:33 | 2022-01-09 | 2022-01-30 |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2023-01-01 | 2023-01-03 |
 | [Dancing’s Done](https://open.spotify.com/track/06yG42F8p8l621YLki0rp2) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Dancing's Done](https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7) | 2:46 | 2022-12-29 | 2023-01-10 |
-| [Dans](https://open.spotify.com/track/4f3SD5C93R8QXPNmAip2PR) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Dans](https://open.spotify.com/album/5FZ6eOWqmTlZdczQSgvTzw) | 2:58 | 2023-01-23 |  |
+| [Dans](https://open.spotify.com/track/0EfTxcH2ZZ1mkSC83GD3C3) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver gang vi møtes 2023](https://open.spotify.com/album/0D9xDd3je29qrH1otIrbOx) | 2:58 | 2023-02-22 |  |
+| [Dans](https://open.spotify.com/track/4f3SD5C93R8QXPNmAip2PR) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Dans](https://open.spotify.com/album/5FZ6eOWqmTlZdczQSgvTzw) | 2:58 | 2023-01-23 | 2023-02-23 |
 | [Dans På Bordet](https://open.spotify.com/track/2D1QHKW5IBDfn7xBGplNS9) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [David Mokel](https://open.spotify.com/artist/7lGq0g80TaLqM8uT9HLAni) | [Dans På Bordet](https://open.spotify.com/album/71606owUcX3aLa6tyCxOqZ) | 2:23 | 2022-02-11 | 2022-02-19 |
 | [Dans På Bordet](https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [David Mokel](https://open.spotify.com/artist/7lGq0g80TaLqM8uT9HLAni) | [Dans På Bordet](https://open.spotify.com/album/0324AmCGXDbzi4XRgVVc7g) | 2:23 | 2022-02-18 |  |
 | [DANSA](https://open.spotify.com/track/63IaMjanvXp9c3f0Y7OImT) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [DANSA](https://open.spotify.com/album/5pe5edaldK4cwvH2Crjgiw) | 2:47 | 2021-10-23 | 2021-11-07 |

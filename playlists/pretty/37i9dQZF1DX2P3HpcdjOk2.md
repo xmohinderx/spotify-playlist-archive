@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 
 > The best of 70s Glam Rock\. Cover: David Bowie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,612 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,742 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

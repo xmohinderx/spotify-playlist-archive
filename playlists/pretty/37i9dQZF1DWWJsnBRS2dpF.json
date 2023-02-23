@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 17376,
+  "num_followers": 17426,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MTI4NCwwMDAwMDAwMDE0MWUyYzdiNzNmZmM1YTMyZmUxYjRmNzk0YzJmMzZm",
+  "snapshot_id": "MTY2NDY0MTI4NCwwMDAwMDAwMDJlMmI2YzZjYTg1NWZkNTllZGRlNDE0YTAwMWJmN2Qw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:21:24",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/0rLzyBecRbTpnBWvMtPVFR"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "Don\u2019t Stop (feat. Young Thug)",
         "url": "https://open.spotify.com/album/6dm2dXeXB37jhsxKjgKAvw"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 187940,
       "name": "Don\u2019t Stop (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3yv7994DWTEk3ihwy75YBQ"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "Get Right",
-      "url": "https://open.spotify.com/track/0rLzyBecRbTpnBWvMtPVFR"
     },
     {
       "added_at": "2022-10-01 16:21:24",

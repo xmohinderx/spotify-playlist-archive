@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,114 likes - 138 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,108 likes - 138 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 3 | [Fallin Up \(with Thurz & Cocoa Sarai\)](https://open.spotify.com/track/3q5dginMcEftGNTopyd14e) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Thurz](https://open.spotify.com/artist/7bWmyvqnoAdWHLBvGprwsz), [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX) | [Fallin Up \(with Thurz & Cocoa Sarai\)](https://open.spotify.com/album/7mdHDfLoGqaFmUtB3NQHwM) | 3:23 |
 | 4 | [The Scenic Route \(with Rick Ross & Anderson .Paak\)](https://open.spotify.com/track/4cEmMB907Xi22vV9RIOSQE) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Scenic Route \(with Rick Ross & Anderson .Paak\)](https://open.spotify.com/album/4vTOIv2RIvTy8HzyoZCzss) | 3:02 |
 | 5 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 |
-| 6 | [san andreas theme song](https://open.spotify.com/track/3rp1uFBHe72uxyXx1Dz9io) | [Xenoner](https://open.spotify.com/artist/6CyTY01MSE05psT3dC7ep0) | [san andreas theme song](https://open.spotify.com/album/3EyFSWaRWqgih5PvAMZQOG) | 1:26 |
+| 6 | [San Andreas Theme Song](https://open.spotify.com/track/2w7eLhPSwlf70q9dQ1LGpR) | [Young Maylay](https://open.spotify.com/artist/58zzaIQ8XVObJml8da0b2e) | [San Andreas Theme Song](https://open.spotify.com/album/5pEbIWfJhC6lOsxcEHY4dX) | 1:26 |
 | 7 | [Duro 2005](https://open.spotify.com/track/0pgS3J6Vyt1VKrUI0MUeNG) | [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI) | [Dimen5ión](https://open.spotify.com/album/0KhUcxGeOjOsGCodu9IaHj) | 2:21 |
 | 8 | [Skinny Jeans](https://open.spotify.com/track/2Xf4YEfJ3G3Nh0Jpl10JGT) | [Likkle Vybz](https://open.spotify.com/artist/205X0050nYrtDk7oznzvDf), [Likkle Addi](https://open.spotify.com/artist/1gbC1B0H677ryBssCEnIIm) | [Skinny Jeans](https://open.spotify.com/album/2rVj3edIscNUTwnEkiw4po) | 3:20 |
 | 9 | [Nubes](https://open.spotify.com/track/2nU1vaARHQ8FoaxFfe4ZN7) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:58 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 137 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
 | 138 | [Groove Me](https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Guy](https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc) | 4:33 |
 
-Snapshot ID: `MTY0Mzk4NjkyMSwwMDAwMDAwMDJkYzk2ODk3OGIzNjZlYjU3NWZkOWJhMzRkOTU4ZTdh`
+Snapshot ID: `MTY0Mzk4NjkyMSwwMDAwMDAwMDM0YTVjNGRlYmQ1Njg4NDM1NTU3YmFmZjkyMTVkOTY0`

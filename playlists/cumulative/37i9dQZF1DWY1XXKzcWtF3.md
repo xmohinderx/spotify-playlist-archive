@@ -4,7 +4,7 @@
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-339 songs - 1 day 11 hr 33 min
+340 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,8 @@
 | [Work To Do](https://open.spotify.com/track/6CZd52tAm2Cms0px3idmoc) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 3:10 | 2018-02-27 | 2022-11-13 |
 | [Work to Do](https://open.spotify.com/track/3eZAIWi3P840GLe3Z2WLIV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Brother, Brother, Brother](https://open.spotify.com/album/0doxNBv6WvXxVDG84jMtzr) | 3:11 | 2018-02-27 | 2022-07-29 |
 | [Work to Do](https://open.spotify.com/track/1b7tZPt3S2UN6OrPUBqGCp) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Brother, Brother, Brother](https://open.spotify.com/album/5gJBnLRkUtOjqsss6YA5XA) | 3:12 | 2018-02-27 |  |
-| [Yearning For Your Love](https://open.spotify.com/track/5qM925z83TMCtj6h0qooVi) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [Gap Band 3](https://open.spotify.com/album/69RvzqJsKHqhk3m3VYLZs0) | 5:43 | 2018-02-27 |  |
+| [Yearning For Your Love](https://open.spotify.com/track/1kSxm4vU26W5xSUdnPUkyB) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band III](https://open.spotify.com/album/3L3I4Bjtm23rTstzrYIB49) | 5:40 | 2018-02-27 |  |
+| [Yearning For Your Love](https://open.spotify.com/track/5qM925z83TMCtj6h0qooVi) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [Gap Band 3](https://open.spotify.com/album/69RvzqJsKHqhk3m3VYLZs0) | 5:43 | 2018-02-27 | 2023-02-23 |
 | [Yearning For Your Love](https://open.spotify.com/track/6XTKJkpn4A6EukEoatV85x) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [80s Funky Soul and R&B](https://open.spotify.com/album/1FNXNS4tyaLLYVn4XcsvNd) | 5:43 | 2018-02-27 | 2022-11-14 |
 | [Yearning For Your Love](https://open.spotify.com/track/0sqKHuYqCmeckbiQPV7qqm) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [20th Century Masters: The Millennium Collection: Best Of The Gap Band](https://open.spotify.com/album/7wFWL0tlOxAQJWE0xp6pEo) | 5:45 | 2018-02-27 | 2022-07-29 |
 | [Yellow Train](https://open.spotify.com/track/0wvqK9QxlLRGCYRG3I44EB) | [Resonance](https://open.spotify.com/artist/26repaC0CBTKUoIgKapyiS) | [Balance 020 \(Mixed By Deetron\)](https://open.spotify.com/album/7gt0LfGQyoMbmFs56Ib8Nf) | 2:24 | 2018-02-27 | 2022-07-29 |

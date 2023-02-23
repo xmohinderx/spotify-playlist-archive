@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,638 likes - 100 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,897 likes - 100 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 43 | [Seer](https://open.spotify.com/track/7cShikd4rLNwAlHrHo0AFt) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/6WchxcxHQkc9DnwYc3WEC0) | 7:57 |
 | 44 | [Look To Your Orb For The Warning](https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 6:32 |
 | 45 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 |
-| 46 | [Febersvan](https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [GAUPA](https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC) | 7:27 |
-| 47 | [X\-Ray Visions](https://open.spotify.com/track/3MWjHnS7hpzrtRqNhT4DsS) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Psychic Warfare](https://open.spotify.com/album/6lcvofLOkuwd6pxQxCE5iB) | 3:42 |
+| 46 | [X\-Ray Visions](https://open.spotify.com/track/3MWjHnS7hpzrtRqNhT4DsS) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Psychic Warfare](https://open.spotify.com/album/6lcvofLOkuwd6pxQxCE5iB) | 3:42 |
+| 47 | [Febersvan](https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [GAUPA](https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC) | 7:27 |
 | 48 | [I'll Cut You Down](https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3) | 5:01 |
 | 49 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
 | 50 | [Automatic Fantastic](https://open.spotify.com/track/3CNVaHOEJiktEnC3POAVN8) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Jalamanta](https://open.spotify.com/album/1ryZqUZiY09DvOO7Fht9Lu) | 6:55 |
@@ -68,19 +68,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 58 | [Bosses Hang, Pt\. I](https://open.spotify.com/track/4vXuXPEZZpMXLW1pzRNCy2) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 4:39 |
 | 59 | [Gemini](https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Dead Roots Stirring](https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp) | 9:40 |
 | 60 | [Marijuanaut's Theme](https://open.spotify.com/track/6zIcwUvXpw1cTJWYGYdpX4) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [The Sciences](https://open.spotify.com/album/6X0ErPKlQAxQDhWKNprz7u) | 6:40 |
-| 61 | [Echoes](https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG) | [Elephant Tree](https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm) | [Elephant Tree](https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt) | 6:07 |
-| 62 | [Dopethrone](https://open.spotify.com/track/6rbtbfELvUHsOjgYyz52lT) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 10:36 |
-| 63 | [Putain!](https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH) | 3:48 |
-| 64 | [Wucan](https://open.spotify.com/track/4T74vnnnEEVZbgxgiIwSpV) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [In The Future](https://open.spotify.com/album/6bFa0guTmFUo2DKGiVts6R) | 6:02 |
+| 61 | [Wucan](https://open.spotify.com/track/4T74vnnnEEVZbgxgiIwSpV) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [In The Future](https://open.spotify.com/album/6bFa0guTmFUo2DKGiVts6R) | 6:02 |
+| 62 | [Echoes](https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG) | [Elephant Tree](https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm) | [Elephant Tree](https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt) | 6:07 |
+| 63 | [Dopethrone](https://open.spotify.com/track/6rbtbfELvUHsOjgYyz52lT) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 10:36 |
+| 64 | [Putain!](https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH) | 3:48 |
 | 65 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 |
 | 66 | [Mississippi King](https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD) | [Five Horse Johnson](https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl) | [The No\. 6 Dance](https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J) | 3:34 |
 | 67 | [Please Don't](https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 4:12 |
 | 68 | [Ages Move the Earth](https://open.spotify.com/track/4w6W7kTcv13sbJutJXoPYh) | [High Priest of Saturn](https://open.spotify.com/artist/4oiMZnQMj43kMUA41Q1H1x) | [Son of Earth and Sky](https://open.spotify.com/album/3Rt1KIZ02Onot7N0JZatFu) | 9:09 |
 | 69 | [Aquamaria](https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [Tempel](https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5) | 8:46 |
 | 70 | [Moonage Daydream](https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG) | [Zen Guerrilla](https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU) | [Trance States in Tongues](https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa) | 5:01 |
-| 71 | [Uluru Rock](https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [From the Ages](https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9) | 14:08 |
-| 72 | [Tres Brujas](https://open.spotify.com/track/1HzJWsTAhZuMYdCc9PkkOw) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/3URfEPGaPzigfTQSyGG5AO) | 4:09 |
-| 73 | [Big Sky Theory](https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Through The Eyes Of Heathens](https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc) | 8:28 |
+| 71 | [Big Sky Theory](https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Through The Eyes Of Heathens](https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc) | 8:28 |
+| 72 | [Uluru Rock](https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [From the Ages](https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9) | 14:08 |
+| 73 | [Tres Brujas](https://open.spotify.com/track/1HzJWsTAhZuMYdCc9PkkOw) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/3URfEPGaPzigfTQSyGG5AO) | 4:09 |
 | 74 | [Older No Wiser](https://open.spotify.com/track/3vX40kM91roJS58JpFMWct) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:36 |
 | 75 | [Black](https://open.spotify.com/track/1MAZXGVX6v3630AjDhSHPE) | [Witchrider](https://open.spotify.com/artist/6yR8Nf8o56ZZR070jTti83) | [Unmountable Stairs](https://open.spotify.com/album/3zdNW4axkxhHI6kxmVX8cu) | 6:47 |
 | 76 | [Greenthumb](https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf) | [Bongzilla](https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF) | [Gateway](https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER) | 4:07 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 82 | [Colossal](https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 5:04 |
 | 83 | [Tired Old Dog](https://open.spotify.com/track/7qRKONExTItyXpvgXh187M) | [The Devil and the Almighty Blues](https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ) | [The Devil and the Almighty Blues](https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw) | 6:27 |
 | 84 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 |
-| 85 | [Electric Machine](https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Busse Woods](https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ) | 6:24 |
-| 86 | [Woodland Rites](https://open.spotify.com/track/6NTGbJZOj8FxFT30uYCEjp) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Woodland Rites](https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro) | 4:34 |
-| 87 | [The Great American Death Rattle](https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR) | [Youngblood Supercult](https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7) | [The Great American Death Rattle](https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY) | 4:04 |
+| 85 | [Woodland Rites](https://open.spotify.com/track/6NTGbJZOj8FxFT30uYCEjp) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Woodland Rites](https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro) | 4:34 |
+| 86 | [The Great American Death Rattle](https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR) | [Youngblood Supercult](https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7) | [The Great American Death Rattle](https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY) | 4:04 |
+| 87 | [Electric Machine](https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Busse Woods](https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ) | 6:24 |
 | 88 | [Rust](https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [Rust](https://open.spotify.com/album/5NGeKmbgxv6GHky0EtaIZx) | 5:39 |
 | 89 | [Vakuum](https://open.spotify.com/track/57nUabDrFFazqfafSr5UzF) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Feberdröm](https://open.spotify.com/album/0Yqdj3KUlv24X7PIK0RV5w) | 5:02 |
 | 90 | [Cactus](https://open.spotify.com/track/5HTeNKljvMX7tzpbQIGeDn) | [Skraeckoedlan](https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb) | [Äppelträdet](https://open.spotify.com/album/6ieK2rr1yYl1l7H9O3uH4I) | 5:49 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 97 | [The Last Leaf](https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [No Comfort](https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0) | 5:14 |
 | 98 | [Cranberry Kiss](https://open.spotify.com/track/0kiSbJ3HyRnHLiHYLqpTaz) | [Kamggarn](https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2) | [Psych Aux Tropiques](https://open.spotify.com/album/5FPimyiGTHOTXXiabVXWUL) | 2:41 |
 | 99 | [Our Mother Ash](https://open.spotify.com/track/06X9h0zkeEncfohssytDp8) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Trails & Passes](https://open.spotify.com/album/4nrv5D1bFcXVe8Bv7Ra0tr) | 3:14 |
-| 100 | [El Monstro](https://open.spotify.com/track/4NWhOcJUUYesYsHNHrGDrS) | [Skraeckoedlan](https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb) | [Sagor](https://open.spotify.com/album/01iXYjSbjTWy8vNjoN7wmp) | 6:33 |
+| 100 | [The Seeker](https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 5:00 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDZjZWQ0NjFmYWQyNjg4ZjcyODc1OGVkNGI1YWNhMDE2`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDZiOTFmYzE4N2ZkOGUwMjIzZDc2NWVlYTQ3NDUxOWU2`

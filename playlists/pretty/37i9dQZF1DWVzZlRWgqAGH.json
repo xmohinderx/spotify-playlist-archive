@@ -1,12 +1,12 @@
 {
   "description": "\ud83e\uddc8 Smooooth joints. Cover: Beyonc\u00e9",
-  "num_followers": 780138,
+  "num_followers": 780095,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDNiODJjYWRmZWQzYWQ4NmNkMWRiMDJkNmE4OGE5YzA0",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDM3OTNjYTU1ODI2N2YzYWU5ZTJhOGQxMmViMjY3ZDhk",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "BLK VINTAGE",
-        "url": "https://open.spotify.com/album/6psFVVvkFCxIvS8j4N3DkF"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "James Robinson",
-          "url": "https://open.spotify.com/artist/5CxuyyJLIDYZq0nXOOTslo"
-        }
-      ],
-      "duration_ms": 152524,
-      "name": "HANG LOW (feat. James Robinson)",
-      "url": "https://open.spotify.com/track/5nR6MBAFCdusf8C3BZGtop"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "BLK VINTAGE",
+        "url": "https://open.spotify.com/album/6psFVVvkFCxIvS8j4N3DkF"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "James Robinson",
+          "url": "https://open.spotify.com/artist/5CxuyyJLIDYZq0nXOOTslo"
+        }
+      ],
+      "duration_ms": 152524,
+      "name": "HANG LOW (feat. James Robinson)",
+      "url": "https://open.spotify.com/track/5nR6MBAFCdusf8C3BZGtop"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Yasuke",
+        "url": "https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "duration_ms": 133520,
+      "name": "Crust",
+      "url": "https://open.spotify.com/track/6ri6ZQWxqIZgYd2RfsnKNa"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 160506,
       "name": "For South",
       "url": "https://open.spotify.com/track/0CwV9cfbSJEdjlBseVvo4H"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Yasuke",
-        "url": "https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 133520,
-      "name": "Crust",
-      "url": "https://open.spotify.com/track/6ri6ZQWxqIZgYd2RfsnKNa"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Rainforest",
+        "url": "https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 162436,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
         "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 238965,
       "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
       "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Rainforest",
-        "url": "https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 162436,
-      "name": "Rainforest",
-      "url": "https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "TAKE A CHANCE (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 264412,
       "name": "TAKE A CHANCE (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "EEK",
-        "url": "https://open.spotify.com/album/67bRgIiwQuB08M1S0qGYXg"
-      },
-      "artists": [
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 247468,
-      "name": "EEK",
-      "url": "https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "The Room",
         "url": "https://open.spotify.com/album/7bHN1qUOLFRDJN1yclz0vg"
       },
@@ -1627,6 +1611,38 @@
       "duration_ms": 137546,
       "name": "The Room",
       "url": "https://open.spotify.com/track/7euupBRn1BnMdWecnyBWU6"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "EEK",
+        "url": "https://open.spotify.com/album/67bRgIiwQuB08M1S0qGYXg"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 247468,
+      "name": "EEK",
+      "url": "https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1663,22 +1679,6 @@
       "duration_ms": 242973,
       "name": "Running (feat. Ghetts)",
       "url": "https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
       "added_at": "2023-02-17 05:00:00",

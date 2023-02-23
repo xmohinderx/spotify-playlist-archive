@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-530 songs - 23 hr 4 min
+531 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,8 @@
 | [Linger](https://open.spotify.com/track/1dl9NpSOGc99QraGZDAzWx) | [Stephen Canyons](https://open.spotify.com/artist/5ZQycVE891WyyN6kIKe7Oj) | [Linger](https://open.spotify.com/album/62b5qlDwAPMIrK3300tgOP) | 2:04 | 2022-04-07 |  |
 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 | 2021-12-07 | 2022-02-02 |
 | [Lissome](https://open.spotify.com/track/3qU9MnwDlDHcZbhYwQ5i6L) | [Noemi Nucci](https://open.spotify.com/artist/17yiY7Qu0dObFVUA1f0txm) | [Lissome](https://open.spotify.com/album/1vShQpKJIzs2DiKyXUKQ5n) | 2:08 | 2021-12-07 | 2022-07-16 |
-| [Little Home](https://open.spotify.com/track/3jJpGbcFO68CduWReWo1oV) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Little Home](https://open.spotify.com/album/61DvnLfaBfNvoIf0dDcDsM) | 2:51 | 2021-12-07 |  |
+| [Little Home](https://open.spotify.com/track/0Zi9n2e0CCh9PipP8FI4Hn) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Different Kinds of Silence](https://open.spotify.com/album/6uWIBPRBygQToejf8rWu0a) | 2:51 | 2023-02-06 |  |
+| [Little Home](https://open.spotify.com/track/3jJpGbcFO68CduWReWo1oV) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Little Home](https://open.spotify.com/album/61DvnLfaBfNvoIf0dDcDsM) | 2:51 | 2021-12-07 | 2023-02-23 |
 | [Little House](https://open.spotify.com/track/1du82wujEl1RLyjyRZujhJ) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Little House](https://open.spotify.com/album/4C3JuSNctoAqBbFKKBxH4F) | 2:57 | 2021-12-07 | 2022-12-24 |
 | [Little Waltz](https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1) | [Landegren](https://open.spotify.com/artist/60De3BUZl4OerbDL1pOCqd) | [Little Waltz](https://open.spotify.com/album/2ZcIAV2uiIPCAcYKG9d30C) | 2:45 | 2022-02-15 |  |
 | [Ljóma](https://open.spotify.com/track/6Pko3DcmXsGbMOeiiYNVF7) | [Shel Alyse](https://open.spotify.com/artist/01CktpdDnrnnfx3wKMbnPT) | [Ljóma](https://open.spotify.com/album/05yodSTO8kMnX0EZQ9Ak30) | 2:39 | 2022-02-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 53514,
+  "num_followers": 53526,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDA2NzA1MmU4ODFhNTAxNDQyNmM0NzJiZDg0ZGM0NzMy",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDY0NGM1ODU1OTQyMjY2ZDVjNTE0OWFhMWFhMjljMTk5",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Soda de Uva",
         "url": "https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 162077,
       "name": "Miel",
       "url": "https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -771,18 +771,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd"
       },
       "artists": [
         {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        },
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
         }
       ],
-      "duration_ms": 142106,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+      "duration_ms": 172384,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -803,22 +807,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "La Luna",
-        "url": "https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd"
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
       },
       "artists": [
         {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        },
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
         }
       ],
-      "duration_ms": 172384,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0"
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
-      },
-      "artists": [
-        {
-          "name": "Andres",
-          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
-        }
-      ],
-      "duration_ms": 161531,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Postre",
         "url": "https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 180000,
       "name": "Postre",
       "url": "https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
+      },
+      "artists": [
+        {
+          "name": "Andres",
+          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
+        }
+      ],
+      "duration_ms": 161531,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Coronita",
-        "url": "https://open.spotify.com/album/0Bb7ls4MVOjHWAqYae8kms"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Arocena",
-          "url": "https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9"
-        }
-      ],
-      "duration_ms": 223354,
-      "name": "Coronita",
-      "url": "https://open.spotify.com/track/75Wc9CxJw4Oc60cj5LT6eV"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Ni\u00f1a",
         "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 200245,
       "name": "Ni\u00f1a",
       "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Coronita",
+        "url": "https://open.spotify.com/album/0Bb7ls4MVOjHWAqYae8kms"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Arocena",
+          "url": "https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9"
+        }
+      ],
+      "duration_ms": 223354,
+      "name": "Coronita",
+      "url": "https://open.spotify.com/track/75Wc9CxJw4Oc60cj5LT6eV"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Simona a Guitarra y Voz (Lado A)",
-        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
-      },
-      "artists": [
-        {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
-        }
-      ],
-      "duration_ms": 247636,
-      "name": "Paredes Finas",
-      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Hoy Es Hoy",
         "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 174000,
       "name": "Hoy Es Hoy",
       "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Simona a Guitarra y Voz (Lado A)",
+        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
+      },
+      "artists": [
+        {
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
+        }
+      ],
+      "duration_ms": 247636,
+      "name": "Paredes Finas",
+      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        }
-      ],
-      "duration_ms": 202956,
-      "name": "De Viaje",
-      "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Puro",
         "url": "https://open.spotify.com/album/1tU0V696ITlDOgDtljYvle"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 222729,
       "name": "Isla",
       "url": "https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        }
+      ],
+      "duration_ms": 202956,
+      "name": "De Viaje",
+      "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
     },
     {
       "added_at": "2022-11-11 21:41:34",

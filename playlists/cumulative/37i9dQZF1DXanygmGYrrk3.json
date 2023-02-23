@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188778,
+      "name": "365",
+      "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
+    },
+    {
+      "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
       },
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 219533,
       "name": "El G\u00fcero - En vivo",
       "url": "https://open.spotify.com/track/7a6gK5GwlIvGTU4ayZhskd"

@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-536 songs - 1 day 17 hr 29 min
+537 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Atonement](https://open.spotify.com/track/49e8jyxGYok1DJRLqOlg4T) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Atonement](https://open.spotify.com/album/6MFuF7vQuRVuDBRcyPPsbG) | 4:02 | 2022-04-14 | 2022-09-23 |
 | [Autumn In New York](https://open.spotify.com/track/62FrtiVepyS9UGfcTPhu7W) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Autumn In New York](https://open.spotify.com/album/1bfAtOefGFjr2k6eQicSzJ) | 4:19 | 2022-09-29 | 2022-11-25 |
 | [Autumn Leaves](https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [My Funny Valentine: The Best Of Chet Baker](https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t) | 7:03 | 2022-04-14 | 2022-04-27 |
-| [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2022-04-14 |  |
+| [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2022-04-14 | 2023-02-23 |
 | [Ballad for Bernt](https://open.spotify.com/track/3xFwFQ1SIzajuCahC7lRei) | [Krzysztof Komeda Trio](https://open.spotify.com/artist/4AEBBV3amZFMEkiYwSjSqI), [Bernt Rosengren](https://open.spotify.com/artist/0A7N9l9mumtC0BbJXk46ds) | [Polish Radio Jazz Archives, Vol\. 4 \(Krzysztof Komeda \- Trzciński\)](https://open.spotify.com/album/6qk0f68VpLdQmSzwBy7sEG) | 3:25 | 2022-06-30 | 2022-09-23 |
 | [Ballad for Bernt](https://open.spotify.com/track/5cILsTw9kLRveV0cfjCx1a) | [Krzysztof Komeda\-Trzciński](https://open.spotify.com/artist/52aTOhPMsD9Rt9BVeVrZwx), [Krzysztof Komeda Trio](https://open.spotify.com/artist/4AEBBV3amZFMEkiYwSjSqI), [Bernt Rosengren](https://open.spotify.com/artist/0A7N9l9mumtC0BbJXk46ds) | [Polish Radio Jazz Archives 04](https://open.spotify.com/album/17EJqOUzXWNQoDcgCLflCp) | 3:25 | 2022-04-14 | 2022-07-29 |
 | [Ballad for MC](https://open.spotify.com/track/79fmhV6NAraE4Xz3MIXnN4) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [Trying to Figure It Out](https://open.spotify.com/album/0bdzkLwOBum4GKlrVnOfAE) | 3:02 | 2022-04-14 | 2022-10-08 |
@@ -254,6 +254,7 @@
 | [La fin justifie les moyens](https://open.spotify.com/track/1zowWjoCroDC3WZYxbrlNQ) | [Joran Cariou Trio](https://open.spotify.com/artist/0EmoB83lbpEcH9Eh77Sp9K), [Damien Varaillon](https://open.spotify.com/artist/0cE8R1W0Cc2wQIDZPdJJ2M), [Stéphane Adsuar](https://open.spotify.com/artist/1r3aAqkG4KRnk2syAoqSd2) | [The Path Up](https://open.spotify.com/album/54mnf1vkHCoNfWDP0Hu3dG) | 7:13 | 2022-04-14 | 2022-09-23 |
 | [Ladybird](https://open.spotify.com/track/5aO27DQUEMmiFGXvLdg5ub) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Dolphin Dance](https://open.spotify.com/album/4xz7ahUYTnpC8xzWfeDWV3) | 2:53 | 2023-01-20 | 2023-02-03 |
 | [Landmarks](https://open.spotify.com/track/5bjV2B1rH2gkdtJ4qr0qQy) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Landmarks](https://open.spotify.com/album/5InHDZVvNbDDvq917BmMgT) | 8:20 | 2022-04-14 | 2022-10-03 |
+| [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-02-16 |  |
 | [Last Time](https://open.spotify.com/track/1hJDVrOqH92eenr4R1xDge) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Last Time](https://open.spotify.com/album/0jagdC0GzcXXZ3K8K7pubH) | 3:31 | 2022-12-22 | 2023-02-03 |
 | [Last Time I Saw You](https://open.spotify.com/track/2Qyrr1fiYwV3bShAZqiivZ) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [Rue Saint\-Rustique](https://open.spotify.com/album/1IJrePjVbCWRK31hmKa3jB) | 3:55 | 2022-12-22 |  |
 | [Last Time We Kissed](https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 4:14 | 2022-12-22 | 2023-02-03 |

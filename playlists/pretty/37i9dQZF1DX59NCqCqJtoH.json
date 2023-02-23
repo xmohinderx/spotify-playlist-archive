@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1116990,
+  "num_followers": 1117479,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGZhNGU3ODQwMTYwNjcyMmM2YTA4Yzc1YTUyMGYzYmEz",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDg1Y2MzOTNiMzUwMWY4OGE2MTI3NjM2NTNjMDU4ODQz",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 330506,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "tape for when i'm sad",
         "url": "https://open.spotify.com/album/1EeYJrmjXcqx5PCZWu6WV1"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 84176,
       "name": "i don't feel part of the world anymore",
       "url": "https://open.spotify.com/track/11iiMB7TmFTtaXT4YJAltw"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 330506,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Songs from the Swamp",
-        "url": "https://open.spotify.com/album/0HCDt0E4uxtXP99bJyOQDV"
-      },
-      "artists": [
-        {
-          "name": "Ollie MN",
-          "url": "https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Please Never Fall in Love Again",
-      "url": "https://open.spotify.com/track/42H6GeQfrBkT3vTUTdpB1M"
-    },
-    {
       "added_at": "2022-12-22 19:09:14",
       "album": {
         "name": "crush (demos)",
@@ -743,6 +727,22 @@
       "duration_ms": 60869,
       "name": "my fault",
       "url": "https://open.spotify.com/track/36WabQN781ejYiSWKQAzDD"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Songs from the Swamp",
+        "url": "https://open.spotify.com/album/0HCDt0E4uxtXP99bJyOQDV"
+      },
+      "artists": [
+        {
+          "name": "Ollie MN",
+          "url": "https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Please Never Fall in Love Again",
+      "url": "https://open.spotify.com/track/42H6GeQfrBkT3vTUTdpB1M"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Violets",
-        "url": "https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU"
-      },
-      "artists": [
-        {
-          "name": "Josh Golden",
-          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
-        }
-      ],
-      "duration_ms": 115263,
-      "name": "Violets",
-      "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Forever & Always",
         "url": "https://open.spotify.com/album/06EYDifphG99Y4dmF44pwe"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 249704,
       "name": "Forever & Always",
       "url": "https://open.spotify.com/track/2keT649m2xIywngAVJHsuC"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Violets",
+        "url": "https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU"
+      },
+      "artists": [
+        {
+          "name": "Josh Golden",
+          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
+        }
+      ],
+      "duration_ms": 115263,
+      "name": "Violets",
+      "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
     },
     {
       "added_at": "2022-11-22 19:39:39",
@@ -997,22 +997,6 @@
       "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
     },
     {
-      "added_at": "2023-01-06 06:05:00",
-      "album": {
-        "name": "goodnight moon (demos)",
-        "url": "https://open.spotify.com/album/1nClgygrTl1OYhaPssJsgz"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 107344,
-      "name": "i'll never fall in love with myself (demo)",
-      "url": "https://open.spotify.com/track/1LwwYjfoClXVx4lJAngPpp"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Maybe I\u2019m Lonely",
@@ -1029,20 +1013,20 @@
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2023-01-06 06:05:00",
       "album": {
-        "name": "Worn Out Heart",
-        "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
+        "name": "goodnight moon (demos)",
+        "url": "https://open.spotify.com/album/1nClgygrTl1OYhaPssJsgz"
       },
       "artists": [
         {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
         }
       ],
-      "duration_ms": 142588,
-      "name": "I Need U",
-      "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
+      "duration_ms": 107344,
+      "name": "i'll never fall in love with myself (demo)",
+      "url": "https://open.spotify.com/track/1LwwYjfoClXVx4lJAngPpp"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 419093,
       "name": "The Silence",
       "url": "https://open.spotify.com/track/72dIN8F7D5ydB3auSqNi84"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Worn Out Heart",
+        "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 142588,
+      "name": "I Need U",
+      "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1093,42 +1093,6 @@
       "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Japan",
-        "url": "https://open.spotify.com/album/0ebBY53dSSoq5xxcm2NUDX"
-      },
-      "artists": [
-        {
-          "name": "CuBox",
-          "url": "https://open.spotify.com/artist/4zlFLeqKTteBjaFysGR9CU"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        }
-      ],
-      "duration_ms": 170027,
-      "name": "Losing Interest",
-      "url": "https://open.spotify.com/track/1oE6bVjho2LQdTkDMq43Yd"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 303066,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/7JPmhsHbjaDGmTCKBZxVVU"
-    },
-    {
       "added_at": "2023-02-14 18:21:59",
       "album": {
         "name": "homies",
@@ -1151,6 +1115,42 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 303066,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/7JPmhsHbjaDGmTCKBZxVVU"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Japan",
+        "url": "https://open.spotify.com/album/0ebBY53dSSoq5xxcm2NUDX"
+      },
+      "artists": [
+        {
+          "name": "CuBox",
+          "url": "https://open.spotify.com/artist/4zlFLeqKTteBjaFysGR9CU"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 170027,
+      "name": "Losing Interest",
+      "url": "https://open.spotify.com/track/1oE6bVjho2LQdTkDMq43Yd"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "London Is Lonely",
         "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 234760,
       "name": "London Is Lonely",
       "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "songs written for piano",
-        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "white lies",
-      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1199,6 +1183,22 @@
       "duration_ms": 119089,
       "name": "I Know You so Well",
       "url": "https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "songs written for piano",
+        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "white lies",
+      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5"
     },
     {
+      "added_at": "2022-11-16 17:24:20",
+      "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Blood Harmony",
@@ -1287,22 +1303,6 @@
       "duration_ms": 207509,
       "name": "is your bedroom ceiling bored? (feat. Cavetown)",
       "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
-    },
-    {
-      "added_at": "2022-11-16 17:24:20",
-      "album": {
-        "name": "why didn't you call???",
-        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 196734,
-      "name": "why didn't you call???",
-      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "you missed the best part",
+        "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "duration_ms": 124743,
+      "name": "hospital beach",
+      "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Smile in the Face of the Devil",
         "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 168974,
       "name": "Think About U (feat. Joji)",
       "url": "https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "you missed the best part",
-        "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
-      },
-      "artists": [
-        {
-          "name": "Cottonwood Firing Squad",
-          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
-        }
-      ],
-      "duration_ms": 124743,
-      "name": "hospital beach",
-      "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
     },
     {
       "added_at": "2022-11-22 19:43:23",
@@ -1625,22 +1625,6 @@
       "url": "https://open.spotify.com/track/6YTUGuz1IzqKFpNm0yGQws"
     },
     {
-      "added_at": "2023-01-06 06:05:00",
-      "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 214768,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Tell Me About You (feat. Mishaal)",
@@ -1659,6 +1643,22 @@
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
+    },
+    {
+      "added_at": "2023-01-06 06:05:00",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 214768,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "howling",
-        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
         }
       ],
-      "duration_ms": 213720,
-      "name": "howling",
-      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
+      "duration_ms": 222493,
+      "name": "rosier/punk2",
+      "url": "https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK"
     }
   ],
   "unique_name": "idk.",

@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 38002,
+  "num_followers": 38015,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTI1NCwwMDAwMDAwMGJiNTMyNmM3MzVhM2I4NDE1NmU0YjM2ZTNmODEzMzI3",
+  "snapshot_id": "MTYxOTY5MTI1NCwwMDAwMDAwMDE2N2YyOWQ3MTk2NzQ1ZjkxM2I1ODIyZWE2MjUwYjQz",
   "tracks": [
     {
       "added_at": "2019-10-02 08:54:10",
@@ -755,22 +755,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 251093,
-      "name": "Jive At Six",
-      "url": "https://open.spotify.com/track/21UJyo1YGUlm0G8BpaljTf"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "An Image: Lee Konitz With Strings",
         "url": "https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 319666,
       "name": "Round Midnight",
       "url": "https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 251093,
+      "name": "Jive At Six",
+      "url": "https://open.spotify.com/track/21UJyo1YGUlm0G8BpaljTf"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "The Argo, Verve And Impulse Big Band Studio Sessions",
-        "url": "https://open.spotify.com/album/55ECoXlUS7fIjkCrAfniS7"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Miss Fine",
-      "url": "https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Smokin' At The Half Note (Expanded Edition)",
@@ -913,22 +897,6 @@
       "url": "https://open.spotify.com/track/5QdyYHg2QnrPC1lOiRkZBC"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "A Simple Tune",
-      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Motion",
@@ -943,6 +911,38 @@
       "duration_ms": 457186,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "The Argo, Verve And Impulse Big Band Studio Sessions",
+        "url": "https://open.spotify.com/album/55ECoXlUS7fIjkCrAfniS7"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Miss Fine",
+      "url": "https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "A Simple Tune",
+      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -963,6 +963,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Movin' Wes",
+        "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Movin' Wes - Pt. 1",
+      "url": "https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 217960,
       "name": "I Wished On The Moon - Stereo Version",
       "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Movin' Wes",
-        "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Movin' Wes - Pt. 1",
-      "url": "https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1223,38 +1223,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Pocket City",
-        "url": "https://open.spotify.com/album/5ScPG1XIrzq2CoJyVRru7C"
-      },
-      "artists": [
-        {
-          "name": "Art Porter",
-          "url": "https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu"
-        }
-      ],
-      "duration_ms": 318573,
-      "name": "Pocket City",
-      "url": "https://open.spotify.com/track/1s3h7rpQMB1Sm2SuQDXnIp"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Fred Astaire Sings & Swings Irving Berlin",
-        "url": "https://open.spotify.com/album/5eOvyKrONyccUFoW0Dh926"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        }
-      ],
-      "duration_ms": 338826,
-      "name": "Cheek To Cheek",
-      "url": "https://open.spotify.com/track/1h3X4QybzSWb7XaokCC6iF"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "Samba Para Dos",
         "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
       },
@@ -1275,6 +1243,38 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Fred Astaire Sings & Swings Irving Berlin",
+        "url": "https://open.spotify.com/album/5eOvyKrONyccUFoW0Dh926"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 338826,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/1h3X4QybzSWb7XaokCC6iF"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Pocket City",
+        "url": "https://open.spotify.com/album/5ScPG1XIrzq2CoJyVRru7C"
+      },
+      "artists": [
+        {
+          "name": "Art Porter",
+          "url": "https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu"
+        }
+      ],
+      "duration_ms": 318573,
+      "name": "Pocket City",
+      "url": "https://open.spotify.com/track/1s3h7rpQMB1Sm2SuQDXnIp"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "The Lonely One",
         "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 280053,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Giblet Gravy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 332733,
+      "name": "What's New?",
+      "url": "https://open.spotify.com/track/6rUJjG9w109kXQywBxfPLV"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1307,22 +1323,6 @@
       "duration_ms": 186760,
       "name": "Dream A Little Dream Of Me",
       "url": "https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Giblet Gravy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 332733,
-      "name": "What's New?",
-      "url": "https://open.spotify.com/track/6rUJjG9w109kXQywBxfPLV"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/3lta7AUv6eu5QSjiGPqKYz"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Complete Verve Studio Sessions",
-        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Somebody Loves Me",
-      "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "The New Standard",
@@ -1419,6 +1403,22 @@
       "duration_ms": 487026,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/4sHqA2YvJiPsOQbP63LtbW"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Somebody Loves Me",
+      "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Betty Carter Album",
-        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "You're A Sweetheart",
-      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Flip Wails: The Best Of The Verve Years",
         "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 179600,
       "name": "Singin' In The Rain",
       "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Betty Carter Album",
+        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "You're A Sweetheart",
+      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
     },
     {
       "added_at": "2019-10-04 16:01:14",

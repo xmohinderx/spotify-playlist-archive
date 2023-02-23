@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-72 songs - 3 hr 27 min
+73 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Forest Thunderstorm](https://open.spotify.com/track/7F0xezgLJNUnBl2n0Wm48W) | [Earth Thunder Sounds 2021](https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u) | [Thunder And Lightning Vol\. 2](https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe) | 2:42 | 2022-10-28 |  |
 | [Goddess Of Thunder](https://open.spotify.com/track/2NJISxdOO1keYuVzst55Jw) | [Earth Thunder Sounds 2021](https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u) | [Thunder And Lightning Vol\. 2](https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe) | 2:19 | 2022-10-28 |  |
 | [Graue Wolken](https://open.spotify.com/track/1SVyDxMo3VtdWz1fzegvDy) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Graue Wolken](https://open.spotify.com/album/6rCYUB4w56TeN96r9qdjK1) | 3:28 | 2022-10-28 |  |
-| [Hail Rain And Thunder in London](https://open.spotify.com/track/3Xdaw3S3286xOUvGwNWtp9) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol 8](https://open.spotify.com/album/75MQavEgk7m6QtSOYiwU6D) | 2:56 | 2022-10-28 |  |
+| [Hail Rain And Thunder in London](https://open.spotify.com/track/3Xdaw3S3286xOUvGwNWtp9) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol 8](https://open.spotify.com/album/75MQavEgk7m6QtSOYiwU6D) | 2:56 | 2022-10-28 | 2023-02-23 |
 | [Heavy Thunderstorm](https://open.spotify.com/track/2FdcQ9lycbLNjjxjZobvzT) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:07 | 2022-10-28 |  |
 | [Hometown Thunders](https://open.spotify.com/track/6bgUoT7qJnDPKZi6uopxwR) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Hometown](https://open.spotify.com/album/2oJvTwCJsPFgAJPci0XKGR) | 1:55 | 2022-10-28 |  |
 | [Lake Rain With Thunder](https://open.spotify.com/track/4yuc0tswxfh6DgaPTGXnA0) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [The Wet Forest](https://open.spotify.com/album/3lK8bIdeNTajiIBuBW9NP6) | 2:20 | 2022-10-28 |  |
@@ -76,6 +76,7 @@
 | [Thunderstorm at Night](https://open.spotify.com/track/2Uuu9xFGwFfoY30wGWOG01) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 1:37 | 2022-12-09 |  |
 | [Thunderstorm Lullaby](https://open.spotify.com/track/2Bk7dbzRy1TDNsL4mdH6dg) | [Wellseed](https://open.spotify.com/artist/1zItvztjRaMupg7QMvV1Sl) | [Thunderstorm Lullaby](https://open.spotify.com/album/6zQCoBm1SdOdM2tEBAx07e) | 2:54 | 2022-10-28 |  |
 | [Thunderstorms In Italy \- Seamless](https://open.spotify.com/track/4usbGXSHEFUs8W9lXvGRw5) | [Pluvious](https://open.spotify.com/artist/5m8Ny76aXScYfB1HkcjzB6) | [Thunderstorms In Italy](https://open.spotify.com/album/59SfFs0fby6KmMp9A6hnPu) | 2:17 | 2022-12-09 |  |
+| [Thunderstruck](https://open.spotify.com/track/1xNNHG4PheCFA1pNllWAQ7) | [Snore Patrol](https://open.spotify.com/artist/07csNjxjo7yYEOCdpNlIMu) | [Seek Shelter](https://open.spotify.com/album/67JYm6xm9Y0Dz0fuua4H8D) | 3:24 | 2023-02-23 |  |
 | [Tonnerre au printemps](https://open.spotify.com/track/2HrG87Rc7DgpjyI02rcMPS) | [Trueno Tropical](https://open.spotify.com/artist/1u9cwMm7ARcvZ2q2fV7UWW) | [Tonnerre au printemps](https://open.spotify.com/album/6kZ83TrcHx2QQIL3pfNTAF) | 2:55 | 2022-11-15 |  |
 | [Tumult Weather](https://open.spotify.com/track/0MACB4R2mVmzfoNDJlgGeI) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Tumult Weather](https://open.spotify.com/album/42P8aCd9vU9wAr98WeklKs) | 2:06 | 2022-10-28 |  |
 | [Wind Storm, Rain & Far Thunder \(Stereo & HD\)](https://open.spotify.com/track/1eBBOLXyIfNyWHnHxwWVqV) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Thunder Stories \- Stereo HD Sounds](https://open.spotify.com/album/5BTff57UJusB5TgQyIV7CK) | 2:00 | 2022-10-28 |  |

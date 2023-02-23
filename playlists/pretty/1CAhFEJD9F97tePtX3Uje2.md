@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 359 likes - 205 songs - 12 hr 20 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 359 likes - 207 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,5 +213,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 203 | [While It Lasts](https://open.spotify.com/track/4xGGKZKfy8XIGdbgo9DgG6) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [While It Lasts](https://open.spotify.com/album/36nkcbxqR3mLdoO3rEzPz5) | 3:12 |
 | 204 | [Stream](https://open.spotify.com/track/5GW3F4v5PJr4A9l2Fbs40G) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 3:32 |
 | 205 | [Miyako](https://open.spotify.com/track/7pkNtCOB3oitSNnzHNM5FX) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 4:09 |
+| 206 | [Nose to the Grindstone \(Skeler Remix\)](https://open.spotify.com/track/5AnatZYN8dVeZnLYiEK5Ei) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB), [Devilish Trio](https://open.spotify.com/artist/45brkGrBxvV5pxj8eiImiF) | [Nose to the Grindstone \(Skeler Remix\)](https://open.spotify.com/album/3bRK3Lre4FftIREJwicAUO) | 3:19 |
+| 207 | [Contracts](https://open.spotify.com/track/5cJbTzX6S4t1Zw49qBVLGd) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Contracts](https://open.spotify.com/album/08hratSaDsTw0vv1Cci0Di) | 3:24 |
 
-Snapshot ID: `MjIxLDE5YWM1Zjg4OWJmZTY3ZjllNGIwNmY3YWU1NjQ1MmUxYzA3ZWM5YmI=`
+Snapshot ID: `MjIzLGQ5NTE4ZGNlMGM3MjgwZWZmMDA1Yzg3ZjZjNzE0ZDlkOTY1ZTBiN2M=`

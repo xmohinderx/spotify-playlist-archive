@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に新曲をチェック。Lana Del Rey, P!NK, Skrillex, Niall Horan and more! Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,530 likes - 85 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,548 likes - 85 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

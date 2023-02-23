@@ -1,18 +1,18 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: \u304f\u308b\u308a",
-  "num_followers": 250201,
+  "num_followers": 250334,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MTYwMCwwMDAwMDAwMDk1ZGVhMDc4NDcwN2Y3ODQ4NTM3MTI5NjUwYmY4Y2Zi",
+  "snapshot_id": "MTY3Njk5MTYwMCwwMDAwMDAwMDMwMGI3OTU0ZWM4NWQ2YTQ0YjJmNzhmNjYyOWQxZGFl",
   "tracks": [
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "\u611b\u306e\u592a\u967d",
-        "url": "https://open.spotify.com/album/4NyLuxXiCsxBYis4wkvdaX"
+        "name": "Sun of Love",
+        "url": "https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I"
       },
       "artists": [
         {
@@ -21,8 +21,8 @@
         }
       ],
       "duration_ms": 252026,
-      "name": "\u611b\u306e\u592a\u967d",
-      "url": "https://open.spotify.com/track/0zachxUjDCMi59m1RGjOqT"
+      "name": "Sun of Love",
+      "url": "https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -575,8 +575,8 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "\u5909\u308f\u308b\u6d88\u3048\u308b",
-        "url": "https://open.spotify.com/album/3wuPwZME3HR7b16YVVfDub"
+        "name": "Change and Vanish",
+        "url": "https://open.spotify.com/album/0yOLK8giK4aXxk1Lv3d3ne"
       },
       "artists": [
         {
@@ -585,8 +585,8 @@
         }
       ],
       "duration_ms": 229374,
-      "name": "\u5909\u308f\u308b\u6d88\u3048\u308b",
-      "url": "https://open.spotify.com/track/1QoIG08kXG8uf5KuJx1y9X"
+      "name": "Change and Vanish",
+      "url": "https://open.spotify.com/track/6E0Dz2xGBjK5XdnViJ0jYg"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -612,7 +612,7 @@
       "added_at": "2023-02-21 15:00:00",
       "album": {
         "name": "25 -A Tribute To Dragon Ash-(Another Edition)",
-        "url": "https://open.spotify.com/album/4dyz7fp74JIqn8UzSkbeDd"
+        "url": "https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9"
       },
       "artists": [
         {
@@ -621,8 +621,8 @@
         }
       ],
       "duration_ms": 196666,
-      "name": "\u767e\u5408\u306e\u54b2\u304f\u5834\u6240\u3067",
-      "url": "https://open.spotify.com/track/5fU5rBiYS7ICg3BtojUCIn"
+      "name": "Yuri no Saku Basho de",
+      "url": "https://open.spotify.com/track/1LSTFX8pTDfApxMsuaHTok"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -659,38 +659,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "SLEEPLESS",
-        "url": "https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k"
-      },
-      "artists": [
-        {
-          "name": "B'z",
-          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "SLEEPLESS",
-      "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
-        "name": "This Song",
-        "url": "https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s"
-      },
-      "artists": [
-        {
-          "name": "OAU",
-          "url": "https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB"
-        }
-      ],
-      "duration_ms": 231635,
-      "name": "This Song",
-      "url": "https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "yes. I. do",
         "url": "https://open.spotify.com/album/5WX0UesRT8mWRjZNtKBF40"
       },
@@ -703,6 +671,38 @@
       "duration_ms": 288414,
       "name": "yes. I. do",
       "url": "https://open.spotify.com/track/1BHQjZCoGdfk6wmSRkFHyA"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "This Song -Planxty Irwin-",
+        "url": "https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s"
+      },
+      "artists": [
+        {
+          "name": "OAU",
+          "url": "https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB"
+        }
+      ],
+      "duration_ms": 231635,
+      "name": "This Song -Planxty Irwin-",
+      "url": "https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "SLEEPLESS",
+        "url": "https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k"
+      },
+      "artists": [
+        {
+          "name": "B'z",
+          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "SLEEPLESS",
+      "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -740,7 +740,7 @@
       "added_at": "2023-02-21 15:00:00",
       "album": {
         "name": "Memorable",
-        "url": "https://open.spotify.com/album/7IRqHHRA0aiUelyyU7cRpn"
+        "url": "https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o"
       },
       "artists": [
         {
@@ -750,7 +750,7 @@
       ],
       "duration_ms": 193965,
       "name": "Memorable",
-      "url": "https://open.spotify.com/track/17owggiNAYFzigM57niXUb"
+      "url": "https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR"
     },
     {
       "added_at": "2023-02-21 15:00:00",

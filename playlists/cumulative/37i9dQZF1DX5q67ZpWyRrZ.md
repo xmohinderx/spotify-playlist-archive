@@ -4,7 +4,7 @@
 
 > The best Indie tracks from the scene\. Cover \- Taaruk Raina
 
-182 songs - 10 hr 36 min
+183 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Deathcab](https://open.spotify.com/track/4DsZFbvLhBxz5rQZiozfDn) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Poetry Ceylon](https://open.spotify.com/album/5ahVKY0miWXtbmA4E618Zi) | 3:38 | 2021-12-06 | 2022-03-07 |
 | [Dil Beparvah \- The Dewarists, Season 5](https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Dhruv Bhola](https://open.spotify.com/artist/4b0Zi3RZUUv8QdkBkMhc8x), [Nikhil Vasudevan](https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ) | [Dil Beparvah \(The Dewarists, Season 5\)](https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru) | 4:10 | 2022-01-05 |  |
 | [Dil Mere](https://open.spotify.com/track/6ZmtxXUXRVjxOhugKkmerC) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:31 | 2021-12-06 |  |
+| [Dilbar](https://open.spotify.com/track/5YCdQ5NhaZ3PBdcmAV0CZS) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/4pv9PobaeFfnzvZd3IKHEJ) | 2:48 | 2023-02-22 |  |
 | [Dilnawaz](https://open.spotify.com/track/2KDR0VRWbQ88LQ1cdi8T3z) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Vaaqif](https://open.spotify.com/album/7ouN1RiK4NRenRCnrGkA1Z) | 3:27 | 2022-01-05 | 2022-08-11 |
 | [Dooriyaan](https://open.spotify.com/track/09YtF2lAlYgTN5yA39iYYa) | [Shubumm](https://open.spotify.com/artist/5T3nhvOB6jdI5IxYFpuTZ8) | [Dooriyaan](https://open.spotify.com/album/2Okc9hbSudtpncMMbTRUv0) | 2:48 | 2021-12-06 | 2022-08-10 |
 | [Duur](https://open.spotify.com/track/12GcQC9YI2VWwPGxnmrSlJ) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) | [Duur](https://open.spotify.com/album/1osbbEkkZTnW5cUA44YoVz) | 3:06 | 2021-12-06 | 2022-01-06 |
@@ -132,7 +133,7 @@
 | [Parda](https://open.spotify.com/track/09FfppwkzTccGQFWcglxGD) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/5ZxjM0OML0g3RVv3utPfA6) | 3:12 | 2023-01-17 |  |
 | [Pardo](https://open.spotify.com/track/1cl1Wckhfp6MtydmHjVOyd) | [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ) | [Pardo](https://open.spotify.com/album/3RdqIXCoSYTHEXsJGHPwgT) | 3:46 | 2021-12-06 | 2022-08-10 |
 | [Parinda](https://open.spotify.com/track/2Pas1bpuA8riVr0BOTCpJx) | [Xubaan](https://open.spotify.com/artist/0c8yvHOj92kzm4suLMGgbZ) | [Parinda](https://open.spotify.com/album/7705P7v2PKvpK7HZUd1SEc) | 4:41 | 2021-12-06 | 2022-05-24 |
-| [Pehli Baar Mile](https://open.spotify.com/track/3CXlvNO3LSurkx7cNMOXRj) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Pehli Baar Mile](https://open.spotify.com/album/04Lg0MSC0JlWAx9DMWmyt6) | 3:23 | 2022-12-22 |  |
+| [Pehli Baar Mile](https://open.spotify.com/track/3CXlvNO3LSurkx7cNMOXRj) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Pehli Baar Mile](https://open.spotify.com/album/04Lg0MSC0JlWAx9DMWmyt6) | 3:23 | 2022-12-22 | 2023-02-23 |
 | [People \- Hindi Reprise](https://open.spotify.com/track/0hWGN19owiVVfI2f3ePxij) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [People \- Single](https://open.spotify.com/album/3ltUujzRKci71C5quo9TNS) | 3:08 | 2021-12-06 | 2022-08-11 |
 | [Phir Bekhabar](https://open.spotify.com/track/5pUrlEGxrzuC2PzjcqBFRA) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Phir Bekhabar](https://open.spotify.com/album/0cGn21RY35wMplh6OB7nRL) | 3:17 | 2022-12-22 |  |
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-01-24 | 2022-08-11 |

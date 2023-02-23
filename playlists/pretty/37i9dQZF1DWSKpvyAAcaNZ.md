@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,348 likes - 154 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,449 likes - 154 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 79 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 |
 | 80 | [No Good](https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [No Good](https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02) | 3:54 |
 | 81 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 |
-| 82 | [Howlin' Back Again](https://open.spotify.com/track/7o1E1ehrs1aXZXEkQ9rHNH) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Discover Crown Lands](https://open.spotify.com/album/2H8QnNAriPg1S0X5R45Itq) | 2:49 |
+| 82 | [Howlin' Back Again](https://open.spotify.com/track/71Ht9TvlvJMPJc9taJhPQh) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Wayward Flyers Vol.I](https://open.spotify.com/album/6sTFSVLleUdW3dECzSKU9l) | 2:49 |
 | 83 | [Whitehouse Road \(OurVinyl Sessions\)](https://open.spotify.com/track/3BCsNM2w6HcCbrVWlhjTpk) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Tyler Childers \| OurVinyl Sessions](https://open.spotify.com/album/42nsomRaEURVkNt7IF1IFu) | 4:28 |
 | 84 | [Uh Huh](https://open.spotify.com/track/5sRyU2xqnQvCzL6L0OMD37) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:22 |
 | 85 | [Indestructible](https://open.spotify.com/track/0uxAAkgJwHFyGvoRbuCXLm) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [No Place Is Home](https://open.spotify.com/album/4UXg0K9s6iGFntzsrYDdWF) | 3:46 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 153 | [Breathing Bullets \- US Radio Mix](https://open.spotify.com/track/3afn6c2nBmPqogKrYO06qd) | [Owen Campbell](https://open.spotify.com/artist/3euYobDxHiDFZFGnVu23qe) | [Breathing Bullets \(US Radio Mix\)](https://open.spotify.com/album/3Kb4S90XjZF8qekzIc2Wbq) | 3:46 |
 | 154 | [I Killed Robert Johnson](https://open.spotify.com/track/7eogexfpzqrkrJ8Z6B9kHQ) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt) | 5:25 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDFlNWY2ZWRmZjhhMWM2Nzk1M2I5ZjlhYzVhNTBhM2Mx`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDY2NTFmMzFhN2Q4OTJkNTlhYzJmNTY4NGIyNjVlZTQy`

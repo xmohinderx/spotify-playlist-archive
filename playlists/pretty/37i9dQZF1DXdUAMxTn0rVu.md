@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Little Brother
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,142 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,556 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 47 | [Don't Play](https://open.spotify.com/track/51DHGAvIbCO1HJMDjq45rT) | [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [The Best Part](https://open.spotify.com/album/7lvkfeGllsua86JXtLunNG) | 5:04 |
 | 48 | [Players](https://open.spotify.com/track/42il7TuY2vBP0QnWnjpxnI) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 2:26 |
 | 49 | [Never Fallin'](https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z) | [Living Legends](https://open.spotify.com/artist/0E4UA1bttJjSFNgAkLyQuo) | [Classic](https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt) | 5:22 |
-| 50 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
+| 50 | [Boom \- Explicit Album Version](https://open.spotify.com/track/3CiSdq2SJSSUc1AVUU2F4G) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/4ryY8S4t3r2kUmwKgAEqFA) | 3:52 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDEyZThhNDY0MmE2NTVmNTM1YzBjMzAzNWZiZDg3ZjY3`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDQyNjZjNjMxNDNjOTExMWZiNDNjNmRlOTA0ZGEzNDUz`

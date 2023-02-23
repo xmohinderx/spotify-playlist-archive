@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=ZjgNEgYXSzqquSyDO8Ak7g\" > Rema </a> ",
-  "num_followers": 15819,
+  "num_followers": 15849,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMDUzODY2OTNhM2NhZjcwOTMyYTUxY2UxMmE1MzNmZDYx",
+  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMGM2ODYyZTYyZjZlMmQ2OTExZTE4NmFkNjM0YmRmZTdj",
   "tracks": [
     {
       "added_at": "2023-01-27 09:16:17",
@@ -301,30 +301,6 @@
       "url": "https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy"
     },
     {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Hustle",
-        "url": "https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH"
-      },
-      "artists": [
-        {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 189038,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
-    },
-    {
       "added_at": "2023-02-03 09:07:56",
       "album": {
         "name": "Breaking The Yoke Of Love",
@@ -347,6 +323,30 @@
       "duration_ms": 198039,
       "name": "Breaking The Yoke Of Love",
       "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Hustle",
+        "url": "https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH"
+      },
+      "artists": [
+        {
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "duration_ms": 189038,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
     },
     {
       "added_at": "2023-01-27 09:16:17",

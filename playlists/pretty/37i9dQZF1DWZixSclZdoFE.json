@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 889264,
+  "num_followers": 890571,
   "original_name": "Energy Booster: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTY4NDYzMiwwMDAwMDAwMGUyMjc4YTdmMDkyNmNhMmRiMjM2M2Q1NjdkZWE3NGQy",
+  "snapshot_id": "MTY3NTY4NDYzMiwwMDAwMDAwMDk5YTQ0NGY2NGQ4YWI3YThkNWNjYjA2ODQxM2MxYzI4",
   "tracks": [
     {
       "added_at": "2023-01-25 15:55:35",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Super Freaky Girl",
-        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 172800,
       "name": "Ric Flair Drip (with Metro Boomin)",
       "url": "https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -525,24 +525,24 @@
       "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
     },
     {
-      "added_at": "2023-01-25 15:55:35",
+      "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 225439,
-      "name": "Broke Boys",
-      "url": "https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8"
+      "duration_ms": 180522,
+      "name": "Going Bad (feat. Drake)",
+      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -581,24 +581,24 @@
       "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
     },
     {
-      "added_at": "2022-12-19 11:54:28",
+      "added_at": "2023-01-25 15:55:35",
       "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 180522,
-      "name": "Going Bad (feat. Drake)",
-      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+      "duration_ms": 225439,
+      "name": "Broke Boys",
+      "url": "https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -1045,6 +1045,26 @@
       "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
     },
     {
+      "added_at": "2023-02-01 16:00:00",
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Nuthin' But A \"G\" Thang",
+      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
+    },
+    {
       "added_at": "2022-12-19 11:54:28",
       "album": {
         "name": "Mr. Morale & The Big Steppers",
@@ -1075,26 +1095,6 @@
       "duration_ms": 135053,
       "name": "Dua Lipa",
       "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
-    },
-    {
-      "added_at": "2023-02-01 16:00:00",
-      "album": {
-        "name": "The Chronic",
-        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Nuthin' But A \"G\" Thang",
-      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "To Pimp A Butterfly",
-        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "King Kunta",
-      "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
         "name": "Certified Hitmaker",
         "url": "https://open.spotify.com/album/2a1AHCq835BXUcX1aTTWqQ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 145626,
       "name": "Faucet Failure",
       "url": "https://open.spotify.com/track/1ThmUihH9dF8EV08ku5AXN"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "King Kunta",
+      "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
+        "name": "The Search",
+        "url": "https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "When I Grow Up",
+      "url": "https://open.spotify.com/track/5rLyYxZNzca00ENADO9m54"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
         "name": "Ramen & OJ",
         "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 218447,
       "name": "Ramen & OJ",
       "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
-        "name": "The Search",
-        "url": "https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "When I Grow Up",
-      "url": "https://open.spotify.com/track/5rLyYxZNzca00ENADO9m54"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "No More Leaks",
-        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "One Up",
-      "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
         "name": "Taste (feat. Offset)",
         "url": "https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 232959,
       "name": "Taste (feat. Offset)",
       "url": "https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "No More Leaks",
+        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "One Up",
+      "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Oxymoron (Deluxe)",
-        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
         "name": "Watch The Throne (Deluxe)",
         "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 140746,
       "name": "Gotta Have It",
       "url": "https://open.spotify.com/track/5Pt83OUaK3K9C2if4C5JOk"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "Oxymoron (Deluxe)",
+        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "ICY",
-        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 126446,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
         "name": "SYRE",
         "url": "https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E"
       },
@@ -2283,18 +2267,18 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Astronomical",
-        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
       },
       "artists": [
         {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 132780,
-      "name": "Astronaut In The Ocean",
-      "url": "https://open.spotify.com/track/6E90gq0KO6FYZVOXx8kCcC"
+      "duration_ms": 126446,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2315,6 +2299,22 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
+        "name": "Astronomical",
+        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        }
+      ],
+      "duration_ms": 132780,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/6E90gq0KO6FYZVOXx8kCcC"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
         "name": "I Decided.",
         "url": "https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar"
       },
@@ -2327,26 +2327,6 @@
       "duration_ms": 222360,
       "name": "Bounce Back",
       "url": "https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 252256,
-      "name": "pick up the phone",
-      "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2367,6 +2347,26 @@
       "duration_ms": 236501,
       "name": "Isis (feat. Logic)",
       "url": "https://open.spotify.com/track/4h7qcXBtaOJnmrapxoWxGf"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 252256,
+      "name": "pick up the phone",
+      "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2437,30 +2437,6 @@
       "url": "https://open.spotify.com/track/7xVLFuuYdAvcTfcP3IG3dS"
     },
     {
-      "added_at": "2023-01-25 15:55:35",
-      "album": {
-        "name": "MANSION MUSIK",
-        "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 175999,
-      "name": "FULLY LOADED (feat. Future & Lil Baby)",
-      "url": "https://open.spotify.com/track/45M6MPP3yI5I1PXse40lpR"
-    },
-    {
       "added_at": "2022-12-19 11:54:28",
       "album": {
         "name": "The Voice",
@@ -2499,22 +2475,6 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Suga",
-        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 155497,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
         "name": "Last Train To Paris",
         "url": "https://open.spotify.com/album/2psjRixnoePs8ZqE8cuU5Z"
       },
@@ -2531,6 +2491,46 @@
       "duration_ms": 238693,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/6Iocm6VMu6bVNYwiDoyQFW"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "Suga",
+        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 155497,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si"
+    },
+    {
+      "added_at": "2023-01-25 15:55:35",
+      "album": {
+        "name": "MANSION MUSIK",
+        "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "FULLY LOADED (feat. Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/45M6MPP3yI5I1PXse40lpR"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2567,6 +2567,30 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        }
+      ],
+      "duration_ms": 153147,
+      "name": "TRAGIC (feat. Youngboy Never Broke Again & Internet Money)",
+      "url": "https://open.spotify.com/track/6ilmDtTR9yGrZCIOnMLNQy"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
         "name": "FATHER OF 4",
         "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
       },
@@ -2599,30 +2623,6 @@
       "duration_ms": 254093,
       "name": "Hustlin'",
       "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        }
-      ],
-      "duration_ms": 153147,
-      "name": "TRAGIC (feat. Youngboy Never Broke Again & Internet Money)",
-      "url": "https://open.spotify.com/track/6ilmDtTR9yGrZCIOnMLNQy"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2771,6 +2771,22 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
+        "name": "Laugh Now, Cry Later",
+        "url": "https://open.spotify.com/album/6M1IwZsOOyBgmpKO75XPRj"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "Why We Thugs",
+      "url": "https://open.spotify.com/track/5880eYQmXx3c3oD22IljIt"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
         "name": "Battle Of The Sexes (Deluxe)",
         "url": "https://open.spotify.com/album/00kSgH9g6nYBQhjnRQFBew"
       },
@@ -2787,22 +2803,6 @@
       "duration_ms": 216933,
       "name": "My Chick Bad",
       "url": "https://open.spotify.com/track/3bMNprrp2JDKZsGbiXpsJl"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
-        "name": "Laugh Now, Cry Later",
-        "url": "https://open.spotify.com/album/6M1IwZsOOyBgmpKO75XPRj"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "Why We Thugs",
-      "url": "https://open.spotify.com/track/5880eYQmXx3c3oD22IljIt"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2827,18 +2827,18 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "PRE5L",
-        "url": "https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4"
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
       },
       "artists": [
         {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
         }
       ],
-      "duration_ms": 152893,
-      "name": "Jigsaw",
-      "url": "https://open.spotify.com/track/3Wqs6XFKsKcTjaWhmB8VCP"
+      "duration_ms": 312240,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB"
     }
   ],
   "unique_name": "Energy Booster: Hip-Hop",

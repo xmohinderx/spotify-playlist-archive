@@ -1,12 +1,12 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 826602,
+  "num_followers": 826822,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2MTAwMSwwMDAwMDAwMGRlYTliNjg3MDRkZjQyNzlkN2E0YTU1ZTdmZjYyOTRl",
+  "snapshot_id": "MTY3Mjc2MTAwMSwwMDAwMDAwMDU4MmU2N2QwZjhhYzcwMjMyNzRmZjg4MjdlNTk5NzM2",
   "tracks": [
     {
       "added_at": "2023-01-03 15:50:01",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 281231,
+      "name": "My Sweet Lord - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 341626,
       "name": "Tangled up in Blue",
       "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 281231,
-      "name": "My Sweet Lord - 2014 Remaster",
-      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
     },
     {
       "added_at": "2023-01-03 15:50:01",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "My My Hey Hey Out Of The Blue",
-        "url": "https://open.spotify.com/album/1DF416MWInW3F9QLuDnudA"
-      },
-      "artists": [
-        {
-          "name": "erdemelchavo",
-          "url": "https://open.spotify.com/artist/7LZb79enPgbO33Xui57a7S"
-        }
-      ],
-      "duration_ms": 227705,
-      "name": "My My Hey Hey Out Of The Blue",
-      "url": "https://open.spotify.com/track/2cgvwW82POE61bz4D2jNwC"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 226866,
       "name": "All Things Must Pass - 2014 Remaster",
       "url": "https://open.spotify.com/track/16OwZQuzMqnwn3FZsCBZly"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
+        "name": "Harvest (2009 Remaster)",
+        "url": "https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Heart of Gold - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
     }
   ],
   "unique_name": "70s & 80s Acoustic",

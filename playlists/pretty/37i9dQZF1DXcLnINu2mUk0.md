@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,509 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,549 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,28 +45,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 35 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 |
 | 36 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
 | 37 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
-| 38 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 |
-| 39 | [Verão Azul \- Encore Sessions](https://open.spotify.com/track/1l8AOv2r3qTaBcQz6EW6XL) | [D'ZRT](https://open.spotify.com/artist/2Td4hZ8FWidGoeKhu7c73I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Verão Azul](https://open.spotify.com/album/3mDUg1qAUPoEEKJRh1FPMs) | 4:42 |
+| 38 | [Verão Azul \- Encore Sessions](https://open.spotify.com/track/1l8AOv2r3qTaBcQz6EW6XL) | [D'ZRT](https://open.spotify.com/artist/2Td4hZ8FWidGoeKhu7c73I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Verão Azul](https://open.spotify.com/album/3mDUg1qAUPoEEKJRh1FPMs) | 4:42 |
+| 39 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 |
 | 40 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 |
 | 41 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
 | 42 | [Break It](https://open.spotify.com/track/05vnos9Hfj27gKeReNWDNF) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Break It](https://open.spotify.com/album/2VGFyPuCNtXM9Y87rVW8Kq) | 2:24 |
-| 43 | [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 |
-| 44 | [Bad Like You](https://open.spotify.com/track/2Gle4hosXEnrkdTu2YMwsH) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Come quarantine w me](https://open.spotify.com/album/4w38KrD6iNjnzUUEj8hfsi) | 4:27 |
-| 45 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
-| 46 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
+| 43 | [Bad Like You](https://open.spotify.com/track/2Gle4hosXEnrkdTu2YMwsH) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Come quarantine w me](https://open.spotify.com/album/4w38KrD6iNjnzUUEj8hfsi) | 4:27 |
+| 44 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
+| 45 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
+| 46 | [Katrina](https://open.spotify.com/track/5YDwsOw12TSkpjNT57YvgG) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Latência](https://open.spotify.com/album/4V3IpiTNQowJOxQv4oTzH3) | 3:49 |
 | 47 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
-| 48 | [Katrina](https://open.spotify.com/track/5YDwsOw12TSkpjNT57YvgG) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Latência](https://open.spotify.com/album/4V3IpiTNQowJOxQv4oTzH3) | 3:49 |
+| 48 | [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 |
 | 49 | [Só Nós Os Dois](https://open.spotify.com/track/35XIgRzlwtMsfF8wVAKG8i) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Só Nós Os Dois](https://open.spotify.com/album/0PBeGaks9i9J7Ho4uqQx8W) | 3:18 |
 | 50 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
-| 51 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
-| 52 | [Aquece](https://open.spotify.com/track/5h63JxV3NF4zmK8SE5ihuc) | [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Aquece](https://open.spotify.com/album/5QBjnecox9dbzdyN28FMG6) | 3:43 |
-| 53 | [Contigo](https://open.spotify.com/track/6T0xKuYzSIz1AbfcCqcJNu) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Contigo](https://open.spotify.com/album/0nDhqtYEUXpkKWfqgXMXY4) | 3:06 |
-| 54 | [Cadáver](https://open.spotify.com/track/6zaozdqUEfE86imEE4mfue) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Cadáver](https://open.spotify.com/album/3kklO925aQsir4f7YPpWpG) | 4:00 |
-| 55 | [Fe.](https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:34 |
+| 51 | [Cadáver](https://open.spotify.com/track/6zaozdqUEfE86imEE4mfue) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Cadáver](https://open.spotify.com/album/3kklO925aQsir4f7YPpWpG) | 4:00 |
+| 52 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
+| 53 | [Fe.](https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:34 |
+| 54 | [Aquece](https://open.spotify.com/track/5h63JxV3NF4zmK8SE5ihuc) | [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Aquece](https://open.spotify.com/album/5QBjnecox9dbzdyN28FMG6) | 3:43 |
+| 55 | [Contigo](https://open.spotify.com/track/6T0xKuYzSIz1AbfcCqcJNu) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Contigo](https://open.spotify.com/album/0nDhqtYEUXpkKWfqgXMXY4) | 3:06 |
 | 56 | [777](https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG) | [Ziki Ks](https://open.spotify.com/artist/5h7FvtwckwDBdLlC3yOHgU), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [777](https://open.spotify.com/album/2cJ1jf9Oo3mhiDK7dLJfeq) | 3:10 |
 | 57 | [Sobe & Desce](https://open.spotify.com/track/71vNZgRE80njllFK6kHj3z) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Aiane](https://open.spotify.com/artist/2eP7lavTD1B0gEeX1ZQrUP) | [Sobe & Desce](https://open.spotify.com/album/3IF3Qh0KHKMHFbb8fJXJWY) | 2:28 |
-| 58 | [Hot Or Fire](https://open.spotify.com/track/03ufBsWERNppFLwZedOK70) | [DELOSBOY](https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35), [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [Hot Or Fire](https://open.spotify.com/album/1tT2yp4Qq9NeikbtoPPPoW) | 3:50 |
-| 59 | [Tentação](https://open.spotify.com/track/7v383pu4yGbdQW5t8Gv2dV) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi) | [Tentação](https://open.spotify.com/album/06rdIn1DdRecfzKnPrl17m) | 3:28 |
+| 58 | [Tentação](https://open.spotify.com/track/7v383pu4yGbdQW5t8Gv2dV) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi) | [Tentação](https://open.spotify.com/album/06rdIn1DdRecfzKnPrl17m) | 3:28 |
+| 59 | [Hot Or Fire](https://open.spotify.com/track/03ufBsWERNppFLwZedOK70) | [DELOSBOY](https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35), [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [Hot Or Fire](https://open.spotify.com/album/1tT2yp4Qq9NeikbtoPPPoW) | 3:50 |
 | 60 | [Mais Uma Vez](https://open.spotify.com/track/6G1qfNxVKAjxaVInNwj2aK) | [B.E.R.A](https://open.spotify.com/artist/69N3zTGQ7lPJURlJCklOSk) | [Mais Uma Vez](https://open.spotify.com/album/2Cy2WpJjRQ4ZMxqEcK4srx) | 3:57 |
 
-Snapshot ID: `MTY3NjU5MjAwMCwwMDAwMDAwMDhmNDllNzQyN2JhOWRjZTJiZWY4ZWNiYzQ2MThkOGQ2`
+Snapshot ID: `MTY3NjU5MjAwMCwwMDAwMDAwMDgyMTQ1OTA5NzA0YzFiMjdkZTY5YjJiYzVkOWY5OTc3`

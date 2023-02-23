@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S\. Cover: Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,792 likes - 35 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,817 likes - 35 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 28 | [N.Y Minute](https://open.spotify.com/track/0ix2WlhdehNXbRd2ONcj2P) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [N.Y Minute](https://open.spotify.com/album/5dCxzCwyBmKntm5TkQZ1Q7) | 3:07 |
 | 29 | [For Real](https://open.spotify.com/track/6IzBIs6LHy8vs6mJfAoHvG) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm) | [For Real](https://open.spotify.com/album/482kHPPffbYQ6JW4ST1anV) | 3:39 |
 | 30 | [SLIDIN](https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [SLIDIN](https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk) | 2:38 |
-| 31 | [Intoxicated](https://open.spotify.com/track/3iXqT4RJIxiTDwBgGYk2fu) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [Intoxicated](https://open.spotify.com/album/3VRe7Q3WbWVvxohufXx1ea) | 3:12 |
-| 32 | [With Me](https://open.spotify.com/track/2oDh8f3JLuLORqQWNsghbd) | [Kujo the Savage](https://open.spotify.com/artist/1yfzFDrzyENCByIZVkLdFn), [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD) | [With Me](https://open.spotify.com/album/6sxDmYgvv43KjL9sMnDyiF) | 2:42 |
+| 31 | [With Me](https://open.spotify.com/track/2oDh8f3JLuLORqQWNsghbd) | [Kujo the Savage](https://open.spotify.com/artist/1yfzFDrzyENCByIZVkLdFn), [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD) | [With Me](https://open.spotify.com/album/6sxDmYgvv43KjL9sMnDyiF) | 2:42 |
+| 32 | [Intoxicated](https://open.spotify.com/track/3iXqT4RJIxiTDwBgGYk2fu) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [Intoxicated](https://open.spotify.com/album/3VRe7Q3WbWVvxohufXx1ea) | 3:12 |
 | 33 | [Vámonos](https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Chris Obannon](https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4) | [Vámonos](https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV) | 3:51 |
 | 34 | [Scared Of My Love](https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Scared Of My Love](https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG) | 2:25 |
 | 35 | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL), [$tonehardt](https://open.spotify.com/artist/6L0fEdbyPCFjfm8f0Ap58i), [Dexter Cayn](https://open.spotify.com/artist/2xOGNq8UOojSAnw31dYfq2) | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk) | 2:55 |
 
-Snapshot ID: `MTY3NTM5NTQ3MiwwMDAwMDAwMDAwMDY1ZDhhNmNlODRmNzExOTNhMjIyNGU1MWVjMjZm`
+Snapshot ID: `MTY3NTM5NTQ3MiwwMDAwMDAwMDJiZTYxNTRkNjc5NDc3YzNkODQ2Y2U0ZWYwN2ExYzk5`

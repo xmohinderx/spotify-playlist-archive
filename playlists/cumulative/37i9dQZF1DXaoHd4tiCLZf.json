@@ -1574,6 +1574,28 @@
     {
       "album": {
         "name": "Just One Dance",
+        "url": "https://open.spotify.com/album/2NshWBILMEJ6tkTz6OJNAU"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        },
+        {
+          "name": "Tana\u00eb",
+          "url": "https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212352,
+      "name": "Just One Dance",
+      "url": "https://open.spotify.com/track/4Tt9F3SsutXa3AEjAUGG1Y"
+    },
+    {
+      "album": {
+        "name": "Just One Dance",
         "url": "https://open.spotify.com/album/0SDFVMcSBRXrodzfAKOEBy"
       },
       "artists": [
@@ -1588,7 +1610,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 212352,
       "name": "Just One Dance",
       "url": "https://open.spotify.com/track/7tYCf3ftc99AQrn2cXYM6d"

@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 42818,
+  "num_followers": 42823,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MTYwMCwwMDAwMDAwMDU1YjNkODE2NTI2ZTBiMWZiODQxNjk2OGM4YTJlNzI0",
+  "snapshot_id": "MTY3Njk5MTYwMCwwMDAwMDAwMDA3MTVmYjgzMDJjMjhmZWIzYjg1Y2IxY2I1MDFkODNk",
   "tracks": [
     {
       "added_at": "2023-02-21 15:00:00",
@@ -135,6 +135,42 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Eimosezu/Good Luck",
+        "url": "https://open.spotify.com/album/4WCNqpJ3itK3YZULcavlrz"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 230324,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/0cymj9Y9YV5ytzHUTRaylW"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
       },
@@ -159,42 +195,6 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
-        "name": "Eimosezu/Good Luck",
-        "url": "https://open.spotify.com/album/4WCNqpJ3itK3YZULcavlrz"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 230324,
-      "name": "Good Luck",
-      "url": "https://open.spotify.com/track/0cymj9Y9YV5ytzHUTRaylW"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "LOCATION - Los Angeles",
-        "url": "https://open.spotify.com/album/4gpuX2juCWTe8gWsBCznlp"
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/4DTqGZgFGrLMnJgdaetEuJ"
       },
       "artists": [
         {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
         }
       ],
-      "duration_ms": 176354,
-      "name": "Fall in love with you in every 4AM.",
-      "url": "https://open.spotify.com/track/2sXQnT404FrXeSEZkJXfKM"
+      "duration_ms": 221596,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/2QjHdflfNJzFGPtCvcPvOO"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/4DTqGZgFGrLMnJgdaetEuJ"
+        "name": "LOCATION - Los Angeles",
+        "url": "https://open.spotify.com/album/4gpuX2juCWTe8gWsBCznlp"
       },
       "artists": [
         {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
         }
       ],
-      "duration_ms": 221596,
-      "name": "Proof",
-      "url": "https://open.spotify.com/track/2QjHdflfNJzFGPtCvcPvOO"
+      "duration_ms": 176354,
+      "name": "Fall in love with you in every 4AM.",
+      "url": "https://open.spotify.com/track/2sXQnT404FrXeSEZkJXfKM"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -719,38 +719,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "\u30ea\u30c8\u30eb\u30e1\u30ed\u30c7\u30a3",
-        "url": "https://open.spotify.com/album/3ULLCmXxHJPHsIzqtXQjbf"
-      },
-      "artists": [
-        {
-          "name": "Tavito Nanao",
-          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
-        }
-      ],
-      "duration_ms": 379066,
-      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/1bhF1dbIKLXbVW2QupmvJl"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/1PQne7OIZ2eaukaLc3NhC1"
-      },
-      "artists": [
-        {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
-        }
-      ],
-      "duration_ms": 176542,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/4PyoaiaGyrcKMMicZCvzkj"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "Can We Do This? (feat. Sampha)",
         "url": "https://open.spotify.com/album/37GaMBFRIKZtKxmcdjcb6O"
       },
@@ -787,6 +755,38 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
+        "name": "\u30ea\u30c8\u30eb\u30e1\u30ed\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/3ULLCmXxHJPHsIzqtXQjbf"
+      },
+      "artists": [
+        {
+          "name": "Tavito Nanao",
+          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
+        }
+      ],
+      "duration_ms": 379066,
+      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1bhF1dbIKLXbVW2QupmvJl"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/1PQne7OIZ2eaukaLc3NhC1"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "duration_ms": 176542,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/4PyoaiaGyrcKMMicZCvzkj"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
         "name": "NOT IN ALMIGHTY",
         "url": "https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol"
-      },
-      "artists": [
-        {
-          "name": "South Penguin",
-          "url": "https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf"
-        }
-      ],
-      "duration_ms": 109997,
-      "name": "luv revolution",
-      "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "The Youth Night",
         "url": "https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 203846,
       "name": "Neon wo Keshite",
       "url": "https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol"
+      },
+      "artists": [
+        {
+          "name": "South Penguin",
+          "url": "https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf"
+        }
+      ],
+      "duration_ms": 109997,
+      "name": "luv revolution",
+      "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
     },
     {
       "added_at": "2023-02-21 15:00:00",

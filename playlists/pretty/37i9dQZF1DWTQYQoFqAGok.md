@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,549 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,568 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 39 | [La Cocola](https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA) | [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3) | [Soñe \- Jazz Mexicano](https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6) | 4:26 |
 | 40 | [To Chick](https://open.spotify.com/track/37w8imXF52PoSUZyL2ovo2) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 5:35 |
 | 41 | [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 |
-| 42 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
-| 43 | [Orbita 13](https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Musica Infinita](https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ) | 4:43 |
-| 44 | [Once I Loved](https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K) | [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Alberto Medina](https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z), [Pablo Prieto](https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25) | [Triology](https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS) | 7:08 |
+| 42 | [Orbita 13](https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Musica Infinita](https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ) | 4:43 |
+| 43 | [Once I Loved](https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K) | [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Alberto Medina](https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z), [Pablo Prieto](https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25) | [Triology](https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS) | 7:08 |
+| 44 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
 | 45 | [A la Ventana Carolina](https://open.spotify.com/track/1JFYLc7GyftevczE418CcE) | [Aaron Cruz Trío](https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL) | [Eco](https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx) | 6:18 |
 | 46 | [Cenit](https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0) | [Dulce Resillas & Fabiola Franyutti](https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2) | [Hilando Lunas](https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J) | 6:04 |
 | 47 | [Trato De Asimilar](https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h) | [DaJuana Band](https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm) | [¡Oh! Mi Amor](https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u) | 5:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 49 | [Bad Hombres Y Mujeres](https://open.spotify.com/track/4NGb4Tkvgzqz58SA3NNl8W) | [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw), [John Escreet](https://open.spotify.com/artist/4Ije0Q0RlICc17Q7TDZof9), [Matt Brewer](https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU), [Thana Alexa](https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV), [Chase Baird](https://open.spotify.com/artist/6bOdATrvhzr4uWsePPqCwJ) | [Lines In The Sand](https://open.spotify.com/album/0rOMKaWPJScXu76Vm6GglX) | 8:43 |
 | 50 | [Sueños](https://open.spotify.com/track/0IhXOXLvA8B9J91O2BhB2t) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 8:05 |
 
-Snapshot ID: `MTY3NjQ4NTI1MSwwMDAwMDAwMDI4NGQxZjI5ZTIzYjg3Y2M2NmMwZDUwZmY3MDBhYjI1`
+Snapshot ID: `MTY3NjQ4NTI1MSwwMDAwMDAwMDAxMDY0ZjdkOTE4NGQ0NTM1MDJiYWRjZmRhYWRjNDBk`

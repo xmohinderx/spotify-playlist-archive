@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,326 likes - 85 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,942 likes - 85 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 43 | [Invincible Love](https://open.spotify.com/track/0AGbLFnswjmsuNCl8Uqb3m) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Invincible Love](https://open.spotify.com/album/2MdBFOCJlHfVVdERAGFY4W) | 3:54 |
 | 44 | [希望の声](https://open.spotify.com/track/0BngQzqA4SQbcdZYy88BqB) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [Anela](https://open.spotify.com/artist/1BeVYVAzCorZ52aPMereYt) | [希望の声](https://open.spotify.com/album/5NAgL68RJr4Ribm5Okzu90) | 4:09 |
 | 45 | [クウフク \(starring VALSHE\)](https://open.spotify.com/track/3nM0q6UoSaxxfeU81Sb8s5) | [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y), [VALSHE](https://open.spotify.com/artist/3RbqLuOD3CrWxEpXeyMbS3) | [クウフク \(starring VALSHE\)](https://open.spotify.com/album/6ggasRuWfhDyzfDCu0aWQn) | 2:50 |
-| 46 | [切り傷](https://open.spotify.com/track/2KJ4Qr0M7KUsy5frJTTjVa) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TVアニメ「ダンジョンに出会いを求めるのは間違っているだろうかIV 深章 厄災篇」エンディングテーマ「切り傷」](https://open.spotify.com/album/6JVfpI9ASJJIchwyPuZY9R) | 3:37 |
+| 46 | [KIRIKIZU](https://open.spotify.com/track/4axioKS5nckvIhhZgfFxd5) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TV SERIES ”IS IT WRONG TO TRY TO PICK UP GIRLS IN A DUNGEON? IV”](https://open.spotify.com/album/0nPuBJ6dF2sCUCiUfWICFg) | 3:37 |
 | 47 | [FAKEit](https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [FAKEit](https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC) | 2:54 |
 | 48 | [ルードルーズダンス](https://open.spotify.com/track/0sHbdxyepJ11nCCUEOin35) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [ルードルーズダンス](https://open.spotify.com/album/78MM2z00YPJadoqTqmhDbi) | 4:42 |
 | 49 | [祈](https://open.spotify.com/track/2zA8ieFjvQNetHoSnXCYyb) | [Masatoshi Ono](https://open.spotify.com/artist/2R1ubdXY4sUiDqsCtoAVUE) | [祈](https://open.spotify.com/album/6l6gilWLojDjJIUXVdm2qD) | 4:40 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [ヒトミナカ](https://open.spotify.com/track/1hmUIz5bJYPrK571kBXFtW) | [丁](https://open.spotify.com/artist/2FBCBROCrxXD4tC6TmA8t4) | [ヒトミナカ](https://open.spotify.com/album/57HbEIpfJxPB4r3CDf7w0m) | 4:12 |
 | 85 | [SEIEN](https://open.spotify.com/track/42o1jncT5EodHI9TP6J3f5) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [SEIEN](https://open.spotify.com/album/0U6PwfdcTKaLaHKyIWGl16) | 3:26 |
 
-Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMDZhNzViMmZlNDY1OGZkYmZiYzgxNWIxMmJkYTM4NTM5`
+Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMDJhYjI2OTI2MThiOTI3MThhNjgyOTczNDg0NTdmMjVk`

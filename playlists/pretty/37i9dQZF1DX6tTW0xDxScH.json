@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 666136,
+  "num_followers": 666295,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc5MzIwOCwwMDAwMDAwMDQ4OWY5OTZiOGUzMTJiYmZjZTA1MmU1NmU2ZThmZDUy",
+  "snapshot_id": "MTY3NzA5MTE4NCwwMDAwMDAwMGZhYmNlZTBiNWM5ZWQ2ZjViZjA2NTc5MzA2M2QwMWUw",
   "tracks": [
     {
       "added_at": "2023-02-07 18:06:48",
@@ -207,6 +207,22 @@
       "duration_ms": 224481,
       "name": "Work",
       "url": "https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt"
+    },
+    {
+      "added_at": "2023-02-23 01:02:49",
+      "album": {
+        "name": "Glue Song",
+        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 135066,
+      "name": "Glue Song",
+      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -739,22 +755,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Trick To Happy",
-      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Hold Space For Me",
         "url": "https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 215180,
       "name": "Sheep",
       "url": "https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Trick To Happy",
+      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1131,6 +1147,22 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
         "name": "Crescent Moon",
         "url": "https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS"
       },
@@ -1147,22 +1179,6 @@
       "duration_ms": 199041,
       "name": "Crescent Moon",
       "url": "https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "And Then Nothing Turned Itself Inside-Out",
-        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "Our Way to Fall",
-      "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Guard Dog",
         "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
       },
@@ -1427,6 +1427,22 @@
       "duration_ms": 335503,
       "name": "Used To Be Friends",
       "url": "https://open.spotify.com/track/1KhSRq5A95Pj3yseW6uK7P"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "And Then Nothing Turned Itself Inside-Out",
+        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Our Way to Fall",
+      "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1463,26 +1479,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Durand Jones & The Indications (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 229403,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -1499,6 +1495,26 @@
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Durand Jones & The Indications (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 229403,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Magic Ship",
-        "url": "https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83"
-      },
-      "artists": [
-        {
-          "name": "Mountain Man",
-          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Baby Where You Are",
-      "url": "https://open.spotify.com/track/7tZwFmarYtM2Yxy8IRW8wb"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Last Room",
         "url": "https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz"
       },
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Forever & A Few",
-        "url": "https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF"
+        "name": "Magic Ship",
+        "url": "https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83"
       },
       "artists": [
         {
-          "name": "Choker",
-          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
         }
       ],
-      "duration_ms": 251034,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB"
+      "duration_ms": 169333,
+      "name": "Baby Where You Are",
+      "url": "https://open.spotify.com/track/7tZwFmarYtM2Yxy8IRW8wb"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1583,6 +1583,22 @@
       "duration_ms": 162560,
       "name": "Catch Your Eye",
       "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Forever & A Few",
+        "url": "https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF"
+      },
+      "artists": [
+        {
+          "name": "Choker",
+          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
+        }
+      ],
+      "duration_ms": 251034,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1647,22 +1663,6 @@
       "duration_ms": 163072,
       "name": "Love Child",
       "url": "https://open.spotify.com/track/7xlhCrF1qme2kFUmynnaQq"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 220405,
-      "name": "Help Me Down",
-      "url": "https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs"
     }
   ],
   "unique_name": "Stay in Bed",

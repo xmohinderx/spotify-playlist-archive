@@ -1,12 +1,12 @@
 {
   "description": "Indie tunes for t-shirt weather.",
-  "num_followers": 261650,
+  "num_followers": 261628,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDhhNzNjYWJlYmE5MzU3OWE2ZGNkODBiNWY4MDYzMmQy",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGVhN2ZhNDFkOWNmYzIwZGQ4OTVhNGFlYjMyODcxYmM2",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "blkswn",
-        "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 169319,
-      "name": "Wild Irish Roses",
-      "url": "https://open.spotify.com/track/6efkcs2aUBMFKxl0cl2JWQ"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Our Extended Play",
         "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 164690,
       "name": "Cologne",
       "url": "https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "blkswn",
+        "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 169319,
+      "name": "Wild Irish Roses",
+      "url": "https://open.spotify.com/track/6efkcs2aUBMFKxl0cl2JWQ"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Here Comes Everybody",
-        "url": "https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Lots of Nothing",
-      "url": "https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 232320,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Here Comes Everybody",
+        "url": "https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Lots of Nothing",
+      "url": "https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Wet Dream",
+        "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 140083,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Father of the Bride",
         "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 181746,
       "name": "1st Time",
       "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Wet Dream",
-        "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 140083,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Foolish Loving Spaces (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 161293,
-      "name": "Your Girlfriend",
-      "url": "https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Your Life Your Time",
         "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 160257,
       "name": "Your Life Your Time",
       "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Foolish Loving Spaces (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Your Girlfriend",
+      "url": "https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Not High On Drugz",
-        "url": "https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 252372,
-      "name": "Not High On Drugz",
-      "url": "https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Acting My Age",
         "url": "https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 212346,
       "name": "Up To Something",
       "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Not High On Drugz",
+        "url": "https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 252372,
+      "name": "Not High On Drugz",
+      "url": "https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "It Won't Always Be Like This",
+        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Cheer Up Baby",
+      "url": "https://open.spotify.com/track/4jwrBNhvazRacmab5ArWSZ"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Loverini (feat. L'Imp\u00e9ratrice)",
         "url": "https://open.spotify.com/album/2MvJBLxIIPuOMXzxI0bjXB"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 214146,
       "name": "wachito rico",
       "url": "https://open.spotify.com/track/0OYf62rdwDouKohtCALD55"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "It Won't Always Be Like This",
-        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Cheer Up Baby",
-      "url": "https://open.spotify.com/track/4jwrBNhvazRacmab5ArWSZ"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1551,22 +1551,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "OTT",
-        "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
       },
       "artists": [
         {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
         }
       ],
-      "duration_ms": 157817,
-      "name": "OTT",
-      "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
+      "duration_ms": 159490,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1587,18 +1583,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
+        "name": "OTT",
+        "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
       },
       "artists": [
         {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "duration_ms": 159490,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
+      "duration_ms": 157817,
+      "name": "OTT",
+      "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
     },
     {
       "added_at": "2022-08-25 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Amanda Loyola
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,233 likes - 75 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,339 likes - 75 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 60 | [Eu Te Adorarei](https://open.spotify.com/track/1Mlg6pel2dGEIvTrsBdv7T) | [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo) | [Eu Te Adorarei](https://open.spotify.com/album/2cXH4ilW893UBVq33nh4lw) | 3:55 |
 | 61 | [Abra os Meus Olhos \(Ao Vivo\)](https://open.spotify.com/track/3q7jxvZC9t2FZfOSh1Tvv1) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Abra os Meus Olhos \(Ao Vivo\)](https://open.spotify.com/album/04kWUqod7n4eVvhihdv8HT) | 5:45 |
 | 62 | [Oh Quão Lindo Esse Nome É \- Ao Vivo](https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Oh Quão Lindo Esse Nome É \(Ao Vivo\)](https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt) | 7:39 |
-| 63 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
-| 64 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/7t79MtUh8zfrhN1KT56eQv) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/1W4djOiYB5FHEjyngDxIRJ) | 4:00 |
+| 63 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/7t79MtUh8zfrhN1KT56eQv) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/1W4djOiYB5FHEjyngDxIRJ) | 4:00 |
+| 64 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
 | 65 | [Amigas da Cruz: Coral das Mulheres 10](https://open.spotify.com/track/1qGvQHGy8EzD2k8KR23eb5) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O), [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz), [Kesia Mara](https://open.spotify.com/artist/45CkIraQ30WnzVCKnBC9Tu), [Felicia Lima](https://open.spotify.com/artist/2cvnS5GB47p0sy6SCw2uSg) | [Amigas da Cruz: Coral das Mulheres 10](https://open.spotify.com/album/4LHRMLBOALFCa4vVncHump) | 6:01 |
 | 66 | [100% Homem, 100% Deus \- Ao Vivo](https://open.spotify.com/track/1MKh99as2azJTRC43Yi6Zu) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [100% Homem, 100% Deus \(Ao Vivo\)](https://open.spotify.com/album/6LHyXTUDHlGbrfbFuOl2HT) | 4:34 |
 | 67 | [Não Há Outro Lugar](https://open.spotify.com/track/5ArrwR5Id3g6yCufTNFptT) | [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Não Há Outro Lugar](https://open.spotify.com/album/087Z4NDbG4LrzfpagQctxU) | 4:05 |
 | 68 | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/track/6KH0A2ktOEZ5iF82Zhgf9o) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/album/3xbFeQp4PVjFC4gWAyhpec) | 4:16 |
-| 69 | [Deus da Graça \(Ao Vivo\)](https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 4:58 |
-| 70 | [Purificados](https://open.spotify.com/track/0DYqL9ijMsiUZEqMkyTUHL) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Purificados](https://open.spotify.com/album/1FChfjyeKe3iD83te6z5Xs) | 5:39 |
+| 69 | [Purificados](https://open.spotify.com/track/0DYqL9ijMsiUZEqMkyTUHL) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Purificados](https://open.spotify.com/album/1FChfjyeKe3iD83te6z5Xs) | 5:39 |
+| 70 | [Deus da Graça \(Ao Vivo\)](https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 4:58 |
 | 71 | [Águas Purificadoras](https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Águas Purificadoras](https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX) | 5:42 |
 | 72 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
 | 73 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 | 74 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
 | 75 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 |
 
-Snapshot ID: `MTY3NjAzMTc0MCwwMDAwMDAwMGFjYWE4OTg1MDQwNzA3M2ZlNzg4NjUyNzlmMzIxNGEw`
+Snapshot ID: `MTY3NjAzMTc0MCwwMDAwMDAwMDc1ZjI4MTc3MDJjYWE3NTRkMjE2Y2RkOTQwOTJjNjIw`

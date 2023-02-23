@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,855 likes - 56 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,866 likes - 56 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 | 5 | [We Want the Funk \- Live from Metropolis](https://open.spotify.com/track/2ZvgUipjG2wjEp1Ei74Dlf) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [George Clinton P\-Funk: Live from Metropolis Studios](https://open.spotify.com/album/0FNqj3ZqoIBQartZIg5GkP) | 5:11 |
 | 6 | [Own Me \- Live at Pikes Ibiza](https://open.spotify.com/track/3EvJZh4uA88IeMWyiuHTxi) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Shout Out! To Freedom… \(Live at Pikes Ibiza\)](https://open.spotify.com/album/6uFs5V9VWsrJWi6wFZusB6) | 8:16 |
 | 7 | [Wind Me Up Chuck / Hoochie Coochie Man \(Live\)](https://open.spotify.com/track/3j0h8GVtHdkb8PMHp6r4pF) | [Chuck Brown](https://open.spotify.com/artist/2ssIfCr0vMmCuesIw9U4eg) | [Your Game‚ Live At the 9: 30 Club, Washington, D.C.](https://open.spotify.com/album/2Emrjdw9u7VQmsuhXn46vR) | 6:21 |
-| 8 | [Manic Panic Epiphanic \- Live](https://open.spotify.com/track/1EOJiUpdqskM1kcZu1xwZi) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Manic Panic Epiphanic \(Live\)](https://open.spotify.com/album/0K2ivbkmwxapmIkFzMWkDA) | 8:50 |
+| 8 | [Manic Panic Epiphanic \- Live](https://open.spotify.com/track/1EOJiUpdqskM1kcZu1xwZi) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [SuperBlue: Manic Panic Epiphanic \(Live\)](https://open.spotify.com/album/0K2ivbkmwxapmIkFzMWkDA) | 8:50 |
 | 9 | [1+1+1 is 3 \- Live from One Nite Alone Tour 2002](https://open.spotify.com/track/7w0qo3yQoAuiBK4C0Aw7ir) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [One Nite Alone..\. Live!](https://open.spotify.com/album/4WaF42nHDVOOGnE8KIwQyJ) | 6:05 |
 | 10 | [Sing a Simple Song \- Summer of Soul Soundtrack \- Live at the 1969 Harlem Cultural Festival](https://open.spotify.com/track/334p9xIUvVhSzq5HJFip3C) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Summer Of Soul \(...Or, When The Revolution Could Not Be Televised\) Original Motion Picture Soundtrack \[Live at the Harlem Cultural Festival, 1969\]](https://open.spotify.com/album/28BxxgJQdogo7eWYbwHH7w) | 5:28 |
 | 11 | [Fire On the Bayou \- Live](https://open.spotify.com/track/1bczSibAGPsGL98oOqtLvf) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Uptown Rulers! Live on the Queen Mary](https://open.spotify.com/album/4OFlpfoLF5FRjF8EGNt98T) | 7:09 |

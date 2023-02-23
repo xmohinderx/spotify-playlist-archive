@@ -2,9 +2,9 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: GREY D
+> V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: HIEUTHUHAI
 
-146 songs - 9 hr 33 min
+147 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Cô Đơn Trên Sofa](https://open.spotify.com/track/64qXPpH0c7GkJOQcUj79Ia) | [Hồ Ngọc Hà](https://open.spotify.com/artist/24Wn81dwdDeTCuB1BWGoVJ) | [Cô Đơn Trên Sofa](https://open.spotify.com/album/5f98gaVgofuvHJ3ShsxqS5) | 4:23 | 2022-10-27 | 2022-12-19 |
 | [Cơn Đau](https://open.spotify.com/track/6hLEsk1t37XKNwtTQ3iI1b) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Cơn Đau](https://open.spotify.com/album/2HFJlexWqI9WnoMZ9K1N65) | 3:39 | 2022-07-05 | 2022-08-08 |
 | [Cứ Chill Thôi](https://open.spotify.com/track/014DA3BdnmD3kI5pBogH7c) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Cứ Chill Thôi](https://open.spotify.com/album/7FEh6eJumH2tqhXKfQ5Tul) | 4:30 | 2022-05-27 | 2022-09-07 |
+| [Dear \(feat\. Lê Hiếu\)](https://open.spotify.com/track/7sEIHN9lpk8ad8iIAYnR5Y) | [GONZO](https://open.spotify.com/artist/7JGVByf8j0BEhoks40TosM), [Lê Hiếu](https://open.spotify.com/artist/4sOvsEM0ooH149joyEm7Wg) | [Dear \(feat\. Lê Hiếu\)](https://open.spotify.com/album/40lqWjkvl5fN6kMWAiuBkr) | 4:20 | 2023-02-22 |  |
 | [Diễn viên tồi](https://open.spotify.com/track/3pgwxYRPbYIC6C1J2FPge8) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Thành Bùi](https://open.spotify.com/artist/4indpWjPPQ0lLAtYihnI5j), [Cadillac](https://open.spotify.com/artist/4nYRl0uyEIGfhe5uR8aUVc) | [Diễn viên tồi](https://open.spotify.com/album/0VcUiF3nAK2UWeWpRzESob) | 5:49 | 2022-09-18 | 2022-10-04 |
 | [don't côi](https://open.spotify.com/track/2FjjM4a4ISKFqC3sMfIj9j) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [don't côi](https://open.spotify.com/album/3JeTYaj3xCIbtgrealOMJM) | 2:26 | 2023-01-11 | 2023-02-10 |
 | [Don't Côi](https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Don't Côi](https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC) | 2:28 | 2023-02-09 |  |
@@ -75,7 +76,7 @@
 | [không một bài hát nào có thể diễn tả cảm xúc của em lúc này\. \(feat\. Thanh Bui\)](https://open.spotify.com/track/2AA4UcXp2WRvsU9cyHT6Vy) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Thanh Bui](https://open.spotify.com/artist/2q8305j8iKRCQr7Tn6woin) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 4:00 | 2022-08-15 | 2022-09-12 |
 | [Kìa Bóng Dáng Ai](https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Sterry](https://open.spotify.com/artist/2yT9yRYRWEC22aqXEa6vBu) | [Kìa Bóng Dáng Ai](https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp) | 2:44 | 2023-02-20 |  |
 | [Liệu Giờ](https://open.spotify.com/track/2EZtTS76x5M6hK96CLclPd) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/1aRGbHftmJqclyoYJT8q6c) | 4:18 | 2022-06-15 | 2023-02-13 |
-| [Luôn yêu đời](https://open.spotify.com/track/76zJmpyMFX49tGT3u06JaK) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Cheng](https://open.spotify.com/artist/0jBuicIjx2pKvGmq9yRJju) | [Luôn yêu đời](https://open.spotify.com/album/69Ip5wKOotOmZEtcJpFVfo) | 3:54 | 2023-02-12 |  |
+| [Luôn yêu đời](https://open.spotify.com/track/76zJmpyMFX49tGT3u06JaK) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Cheng](https://open.spotify.com/artist/0jBuicIjx2pKvGmq9yRJju) | [Luôn yêu đời](https://open.spotify.com/album/69Ip5wKOotOmZEtcJpFVfo) | 3:54 | 2023-02-12 | 2023-02-23 |
 | [Lâu Lâu Nhắc Lại](https://open.spotify.com/track/5B66uVtd4X6Tls9I2VQm4N) | [Ha Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL), [Khói](https://open.spotify.com/artist/3FZ4GX2mWNn7XElse3fQWd) | [Lâu Lâu Nhắc Lại](https://open.spotify.com/album/6RLMsEvmNeILizkH0RRNQ0) | 4:30 | 2022-09-29 |  |
 | [Lạ Lùng](https://open.spotify.com/track/5Bti0azlFhMattVY76qFr9) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Lạ Lùng](https://open.spotify.com/album/3Snqkoi7IXxtDxx71z1lWR) | 4:21 | 2022-05-27 | 2023-02-09 |
 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/0d6dbFvKczX1Us3J7TsMMv) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/3BKiAnPnm2Xn2cWB2uWeE0) | 3:34 | 2022-07-27 |  |

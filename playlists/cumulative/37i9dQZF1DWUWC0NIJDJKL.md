@@ -4,7 +4,7 @@
 
 > Perfect sunshiney indie tracks for summer.
 
-231 songs - 13 hr 12 min
+232 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [girls](https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je) | 3:18 | 2022-06-10 | 2022-10-13 |
 | [Give Yourself a Try](https://open.spotify.com/track/3Y9zmioo5pZABLx1onkohD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/7zuAt0boSPInT1b0sKyQMk) | 3:16 | 2020-01-31 | 2022-06-11 |
 | [Good Advice](https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Good Advice](https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI) | 2:23 | 2022-06-10 | 2022-07-29 |
+| [Good News](https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw) | 3:10 | 2023-02-23 |  |
 | [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 | 2022-06-10 | 2022-09-26 |
 | [GOOD TIMES](https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te) | 3:01 | 2022-09-02 | 2023-02-20 |
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2022-06-10 |  |
@@ -98,7 +99,7 @@
 | [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 | 2022-06-10 | 2022-12-08 |
 | [How Do I Cry?](https://open.spotify.com/track/4nrkr6IA1mPqLOU4Co67Vc) | [Fake Dad](https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk) | [How Do I Cry?](https://open.spotify.com/album/7B6DIZbDBAWNJ5vTSp1vkj) | 3:01 | 2022-06-10 | 2022-07-27 |
 | [Hunnybee](https://open.spotify.com/track/3DPFmwFtV5ElQaTniLOdgk) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/7c2Xfq7aQKzs0KdSI3K7Rc) | 4:28 | 2020-01-31 | 2022-07-13 |
-| [Hunnybee](https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR) | 4:28 | 2022-06-10 |  |
+| [Hunnybee](https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR) | 4:28 | 2022-06-10 | 2023-02-23 |
 | [Hush \- Still Woozy Remix](https://open.spotify.com/track/4dGuRldChjvboZktprNJFM) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Hush \(Still Woozy Remix\)](https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI) | 3:02 | 2022-06-10 | 2022-10-22 |
 | [I Want It All](https://open.spotify.com/track/7cSJqE5ZUqtqy7is4A3qLn) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I Want It All](https://open.spotify.com/album/4UXqRHcf4yBpuFxIpQe1wV) | 2:51 | 2020-01-31 | 2022-07-29 |
 | [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 | 2022-06-10 | 2022-07-16 |

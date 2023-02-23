@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 429399,
+  "num_followers": 429660,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwNjQwMCwwMDAwMDAwMDllNWEzMDJiZjk2NGY1YjRhZDJmNDg2MWU2NzgwZTg2",
+  "snapshot_id": "MTY3NjYwNjQwMCwwMDAwMDAwMDUyZTc1YjExMTM3NmUxMTUwM2U5Y2VlMDYxNzdiY2Iz",
   "tracks": [
     {
       "added_at": "2023-02-17 04:00:00",
@@ -171,6 +171,30 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
+        "name": "fable",
+        "url": "https://open.spotify.com/album/0PgDvzkzNQ54WDXqmaGgmv"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "reidenshi",
+          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
+        },
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        }
+      ],
+      "duration_ms": 149142,
+      "name": "fable",
+      "url": "https://open.spotify.com/track/2x4JUfTNw6Ht4lUxtAS0OP"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
         "name": "Deux Pens\u00e9es",
         "url": "https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA"
       },
@@ -207,22 +231,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Triptych 1 for Piano",
-        "url": "https://open.spotify.com/album/7lqhbSElKknWLrKgU5G4G6"
-      },
-      "artists": [
-        {
-          "name": "P\u00eatr Aleks\u00e4nder",
-          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Triptych 1 for Piano",
-      "url": "https://open.spotify.com/track/4hz99c39SOIMCng7b7j4Wd"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "The North Wind (Daigo Hanada Re-work)",
         "url": "https://open.spotify.com/album/1LjC5SMuxGzphoo6e9KEG5"
       },
@@ -243,26 +251,18 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "fable",
-        "url": "https://open.spotify.com/album/0PgDvzkzNQ54WDXqmaGgmv"
+        "name": "Triptych 1 for Piano",
+        "url": "https://open.spotify.com/album/7lqhbSElKknWLrKgU5G4G6"
       },
       "artists": [
         {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "reidenshi",
-          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
-        },
-        {
-          "name": "Antent",
-          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
         }
       ],
-      "duration_ms": 149142,
-      "name": "fable",
-      "url": "https://open.spotify.com/track/2x4JUfTNw6Ht4lUxtAS0OP"
+      "duration_ms": 159000,
+      "name": "Triptych 1 for Piano",
+      "url": "https://open.spotify.com/track/4hz99c39SOIMCng7b7j4Wd"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -455,6 +455,26 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
+        "name": "Humming Bird Rework",
+        "url": "https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        },
+        {
+          "name": "mond\u00ebna quartet",
+          "url": "https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo"
+        }
+      ],
+      "duration_ms": 201774,
+      "name": "Humming Bird Rework",
+      "url": "https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
         "name": "Circle 29",
         "url": "https://open.spotify.com/album/2x1GcdwOkZFQQ1mAo7lidl"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 178951,
       "name": "Circle 29",
       "url": "https://open.spotify.com/track/2UKUuA0JShtW9xmnUSqtJx"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
-        "name": "Humming Bird Rework",
-        "url": "https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        },
-        {
-          "name": "mond\u00ebna quartet",
-          "url": "https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo"
-        }
-      ],
-      "duration_ms": 201774,
-      "name": "Humming Bird Rework",
-      "url": "https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -923,38 +923,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Parliament Of Owls",
-        "url": "https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 149751,
-      "name": "Parliament Of Owls",
-      "url": "https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
-        "name": "Modulations: EP2",
-        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        }
-      ],
-      "duration_ms": 201335,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "Clouds in the Mirror (This Is Not a Safe Place Reimagined by P\u00eatr Aleks\u00e4nder) [Instrumentals]",
         "url": "https://open.spotify.com/album/6hXYP3ljDTYrudMF9hyuLb"
       },
@@ -971,6 +939,22 @@
       "duration_ms": 183186,
       "name": "Future Love (Reimagined by P\u00eatr Aleks\u00e4nder) - Instrumental",
       "url": "https://open.spotify.com/track/683mwxOizslObemAVOmvH4"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "Parliament Of Owls",
+        "url": "https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 149751,
+      "name": "Parliament Of Owls",
+      "url": "https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 293405,
       "name": "Big Wide World (Reimagined for Piano)",
       "url": "https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "Modulations: EP2",
+        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        }
+      ],
+      "duration_ms": 201335,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -1067,30 +1067,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "BLOMMA",
-        "url": "https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc"
-      },
-      "artists": [
-        {
-          "name": "Jacob Pavek",
-          "url": "https://open.spotify.com/artist/6vUYqsioPPdlQflRp2z1iG"
-        },
-        {
-          "name": "Philip Daniel",
-          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
-        },
-        {
-          "name": "BLOMMA",
-          "url": "https://open.spotify.com/artist/4S79lGp6gXOuwl4N5Vsp3x"
-        }
-      ],
-      "duration_ms": 265872,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "Svalbard",
         "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
@@ -1123,6 +1099,30 @@
       "duration_ms": 238046,
       "name": "Beginnings",
       "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "BLOMMA",
+        "url": "https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc"
+      },
+      "artists": [
+        {
+          "name": "Jacob Pavek",
+          "url": "https://open.spotify.com/artist/6vUYqsioPPdlQflRp2z1iG"
+        },
+        {
+          "name": "Philip Daniel",
+          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
+        },
+        {
+          "name": "BLOMMA",
+          "url": "https://open.spotify.com/artist/4S79lGp6gXOuwl4N5Vsp3x"
+        }
+      ],
+      "duration_ms": 265872,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
+        "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
+        "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "Bill Ryder-Jones",
+          "url": "https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4"
+        }
+      ],
+      "duration_ms": 233253,
+      "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
+      "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
         "name": "Collage",
         "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 175546,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
-        "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
-        "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        },
-        {
-          "name": "Bill Ryder-Jones",
-          "url": "https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
-      "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Komorebi",
-        "url": "https://open.spotify.com/album/4e7oJ12PgNYRY0tjPditKL"
-      },
-      "artists": [
-        {
-          "name": "BPMoore",
-          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
-        }
-      ],
-      "duration_ms": 183653,
-      "name": "From All Who Came Before",
-      "url": "https://open.spotify.com/track/0iO5O7uyrySeuvOS4O5Azg"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "Vitamin String Quartet Performs Bjork",
         "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 225400,
       "name": "New World",
       "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "Komorebi",
+        "url": "https://open.spotify.com/album/4e7oJ12PgNYRY0tjPditKL"
+      },
+      "artists": [
+        {
+          "name": "BPMoore",
+          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
+        }
+      ],
+      "duration_ms": 183653,
+      "name": "From All Who Came Before",
+      "url": "https://open.spotify.com/track/0iO5O7uyrySeuvOS4O5Azg"
     },
     {
       "added_at": "2023-02-17 04:00:00",

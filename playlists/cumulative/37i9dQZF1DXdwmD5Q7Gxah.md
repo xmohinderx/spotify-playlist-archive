@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: beabadoobee
 
-2,072 songs - 4 day 15 hr 5 min
+2,073 songs - 4 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1341,6 +1341,7 @@
 | [Once Twice Melody](https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/2LZd8GonmbwBvs9YI7NPsc) | 4:44 | 2021-11-13 | 2022-01-08 |
 | [One Day](https://open.spotify.com/track/0IUprcNjE2hDtlvY8rq2W9) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR) | 2:24 | 2021-05-13 | 2021-08-14 |
 | [ONE IN A MILLION](https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:14 | 2022-04-15 | 2022-08-19 |
+| [One Of Those Days \(feat\. Lil Yachty & 347aidan\)](https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [One Of Those Days \(feat\. Lil Yachty & 347aidan\)](https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL) | 2:27 | 2023-02-22 |  |
 | [Online](https://open.spotify.com/track/4kGayPS8mNhWPZn65K7mJH) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Sideline Star](https://open.spotify.com/album/6EyXcFKu0dmDeGqw1ABxOm) | 2:47 | 2019-10-25 | 2019-11-14 |
 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 | 2022-05-31 | 2022-07-02 |
 | [Only One I Know](https://open.spotify.com/track/1gxAuze1sWPszKLIE4qm8T) | [Sam.Sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Only One I Know](https://open.spotify.com/album/6u15BIrKPn2VxNOAzdbyGX) | 2:50 | 2020-10-16 | 2020-12-18 |

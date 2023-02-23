@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,009 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,032 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 44 | [Moonwalk Away](https://open.spotify.com/track/7pcd9XP1fZsiFGFCOFhtY3) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) | [Three Second Memory \(Deluxe\)](https://open.spotify.com/album/4zfXvbTiPAfmHt56Q3tQEc) | 5:59 |
 | 45 | ['Til I Found You \- Montmartre Remix](https://open.spotify.com/track/1W3DjILstwRfspKO8vpfZp) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [‘Til I Found You \(Montmartre Remix\)](https://open.spotify.com/album/2gtbA1YdkxivCi36EambHn) | 2:46 |
 | 46 | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/track/3ZznDRLojMv5oWkeuvGSFR) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/album/659fdu0EaiK5Ilsh3dBTQW) | 3:53 |
-| 47 | [I'm With You](https://open.spotify.com/track/5gXjp3ZnKx0UDaXvwXCOgS) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [I'm With You](https://open.spotify.com/album/1PHQokRN6Hrh10ZQNjZn6A) | 3:33 |
-| 48 | [My Tribe](https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0) | 3:03 |
+| 47 | [My Tribe](https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0) | 3:03 |
+| 48 | [I'm With You](https://open.spotify.com/track/5gXjp3ZnKx0UDaXvwXCOgS) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [I'm With You](https://open.spotify.com/album/1PHQokRN6Hrh10ZQNjZn6A) | 3:33 |
 | 49 | [Ellie](https://open.spotify.com/track/5KNLAnH7BBtoRxDqYP58h6) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Vergeet De Tijd](https://open.spotify.com/album/7B8rmxIjhAODSsLOvcJtLM) | 2:44 |
 | 50 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
 | 51 | [The Woods \- Evida Remix](https://open.spotify.com/track/0MmNZy7ziTgINtA5CSOkGE) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt), [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN) | [The Woods \(Evida Remix\)](https://open.spotify.com/album/16Im37aeKNeMDeTxWb5OYc) | 3:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [Pluto \- Live](https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [The Hanging Gardens Of Beatenberg](https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ) | 5:52 |
 | 60 | [Fine Little Rhythm](https://open.spotify.com/track/2YPAhxlPU2tcdlS4YSx5PA) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Fine Little Rhythm](https://open.spotify.com/album/05VHHbajKoryAVCTSZDDkb) | 3:31 |
 
-Snapshot ID: `MTY3Mzg2NjAyMywwMDAwMDAwMDY5NDk5NjE2Nzg3MWI5NmFiZjEyNjQ2NjJhZGFmZjdj`
+Snapshot ID: `MTY3Mzg2NjAyMywwMDAwMDAwMDUwNzVjM2Q0NjE4ZDE4MmRkMzI1M2E4MGNiODZjMjU0`

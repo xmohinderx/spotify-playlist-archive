@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,342 likes - 28 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,378 likes - 28 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 27 | [R\-A\-T\-C\-H\-E\-T \(FNF FREESTYLE\) \- Remix](https://open.spotify.com/track/5CbtJ0GNYO7wlybagnOLrg) | [Nosym](https://open.spotify.com/artist/0nKzbENsP5VM3J28NTNxQ4), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [R\-A\-T\-C\-H\-E\-T \(FNF FREESTYLE\) \[Remix\]](https://open.spotify.com/album/2cMuNulihFoYJFPwWaNHtr) | 2:30 |
 | 28 | [Afford Me](https://open.spotify.com/track/6zNYUZJGEs70HIH40SFhYX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [JaTavia Akiaa](https://open.spotify.com/artist/2zanO9oR7cBRKmEdi4Gzll) | [Afford Me](https://open.spotify.com/album/5Huo9LyxnF12d2aogAGgeQ) | 3:29 |
 
-Snapshot ID: `Mjc5NDk2OTcsMDAwMDAwMDBlNDY1OGNkOWY0OTA2NDEzYjEzOTE2YjdkMDMxMDY5Ng==`
+Snapshot ID: `Mjc5NTExODMsMDAwMDAwMDA0Yjc4YmQ2NTM2MDQ4NWQwM2E3ZmYxMGVkYzQwMTJkNA==`

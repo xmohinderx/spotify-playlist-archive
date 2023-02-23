@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-510 songs - 1 day 4 hr 55 min
+511 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 | 2021-05-01 | 2022-07-17 |
 | [Face Again](https://open.spotify.com/track/5jTfAzJUjjQAw6UDhozqHc) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Hats Off](https://open.spotify.com/album/5xsUExmsWh1AB0eSCDkiqz) | 2:14 | 2021-05-01 | 2022-07-29 |
 | [Falling Down The Stairs Of Your Smile](https://open.spotify.com/track/4UI61nJPFufxBYSuMnMaxA) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [In The Morse Code Of Brake Lights](https://open.spotify.com/album/07XtrVIcnlM0IA5FC7elBx) | 3:44 | 2021-05-01 | 2022-04-14 |
+| [Feel Good](https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Feel Good](https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp) | 2:04 | 2023-02-22 |  |
 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 | 2022-04-13 |  |
 | [Feels Good](https://open.spotify.com/track/7xSOihDdVPJiAD3dZXSzIj) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Feels Good](https://open.spotify.com/album/4hQAYNBhZZIq8M6Tic4a5j) | 4:07 | 2021-05-01 | 2022-04-13 |
 | [Fire & Fury](https://open.spotify.com/track/24KWPOD5dHhOfyAfgZTJMr) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Fire & Fury](https://open.spotify.com/album/44HCNNxPv7q5KVYvPTNFix) | 3:45 | 2021-05-01 | 2022-07-27 |
@@ -517,6 +518,6 @@
 | [Young Folks](https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/3FDYmCinR2Mx94ukKJKDew) | 4:39 | 2021-06-04 | 2022-04-20 |
 | [Your Drugs](https://open.spotify.com/track/6PPxKutSxVks6WoVHGvXDs) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Your Drugs](https://open.spotify.com/album/4llATXF3wt0UJuQKlg7iqc) | 3:23 | 2021-05-01 | 2022-04-12 |
 | [Your Girlfriend](https://open.spotify.com/track/1f36D2fxgU2Mk1TxS7WhjG) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Your Girlfriend](https://open.spotify.com/album/6wK5L2FA5TwVIAjwh2B8ay) | 2:41 | 2021-05-01 | 2022-04-14 |
-| [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 | 2022-04-13 |  |
+| [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 | 2022-04-13 | 2023-02-23 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

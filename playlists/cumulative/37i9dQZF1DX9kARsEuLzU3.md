@@ -4,7 +4,7 @@
 
 > Your queens are here Pink Panda!
 
-222 songs - 13 hr 13 min
+223 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Worry about nothing](https://open.spotify.com/track/0jJENmwBMN5KavUQmN70Sp) | [OH HAYOUNG](https://open.spotify.com/artist/3mTOjpZV1L0iW54wn90H8K) | [OH!](https://open.spotify.com/album/4DvZDKjAraWQe6HZWSfIm6) | 3:47 | 2022-04-20 | 2022-07-29 |
 | [Worry about nothing](https://open.spotify.com/track/6KmAsWwFLp8rxhJG9Umu0D) | [OH HAYOUNG](https://open.spotify.com/artist/3mTOjpZV1L0iW54wn90H8K) | [OH!](https://open.spotify.com/album/3Y5LqwodVtoyeRkWfzmlcE) | 3:47 | 2022-07-12 |  |
 | [Yeah](https://open.spotify.com/track/6JGpUaVYiWGSv6p4WoWIlf) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Snow Pink](https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr) | 3:12 | 2022-04-20 |  |
+| [You are the inspiration \(I will give you all reply\)](https://open.spotify.com/track/1bwbh1C3ZZt6BkHkoYgUTV) | [Apink CHOBOM](https://open.spotify.com/artist/1eDD6vNEyVQXGev7af156d) | [You are the inspiration \(I will give you all reply\) \(Refresh project\)](https://open.spotify.com/album/2yPwA3QDy54fU8undjstuj) | 4:22 | 2023-02-22 |  |
 | [You're My Garden](https://open.spotify.com/track/2XJOdcqQnB4dpi0mTxmzC9) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Strong Woman Do Bong Soon, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/65aJ9XOIVgYiAWjOdZSo1T) | 4:03 | 2022-04-20 | 2022-07-29 |
 | [You're My Garden](https://open.spotify.com/track/5PlBCHCh7aCDlBBA8DoLp0) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Strong Woman Do Bong Soon, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/77cCsRz7JQHSo2i5GWbKTb) | 4:03 | 2022-07-12 |  |
 | [Yummy](https://open.spotify.com/track/25qwMh39yz1AG4xTtw6oqL) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Look](https://open.spotify.com/album/0mWs7UThGJG413FaTzPq9Y) | 3:49 | 2022-04-20 | 2022-07-29 |

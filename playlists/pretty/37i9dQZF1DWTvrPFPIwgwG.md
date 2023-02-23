@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kemilly Santos, Damares
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,017 likes - 85 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,185 likes - 85 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 61 | [Soldado Ferido \(Ao Vivo\)](https://open.spotify.com/track/0mkAD3baAfUUFDfsUXIOlX) | [Isaque Marins](https://open.spotify.com/artist/6zbfUJ0PG8dHDjwHJEqE70), [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Soldado Ferido \(Ao Vivo\)](https://open.spotify.com/album/3Y446NueL5hkuNN41Nvtu7) | 4:27 |
 | 62 | [Me Ajuda Deus](https://open.spotify.com/track/3mxtkBGt6vx4sS1bIicypQ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Me Ajuda Deus](https://open.spotify.com/album/1f8pXGg6sm3ZpqzjdJe6fN) | 4:28 |
 | 63 | [Vai Se Cumprir](https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9) | [Camilly Vitória](https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Vai Se Cumprir](https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg) | 4:08 |
-| 64 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK) | 4:00 |
-| 65 | [Sou Teu Deus](https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Sou Teu Deus](https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn) | 5:27 |
+| 64 | [Sou Teu Deus](https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Sou Teu Deus](https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn) | 5:27 |
+| 65 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK) | 4:00 |
 | 66 | [Tempo de Espera](https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7) | [Ketelyn Amanda](https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Tempo de Espera](https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6) | 4:23 |
 | 67 | [Eu Te Toquei \- Ao Vivo](https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Eu Te Toquei \(Ao Vivo\)](https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn) | 5:19 |
-| 68 | [O Desfecho](https://open.spotify.com/track/1UsGjeLpVIGxcoXUZ1GbBo) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [O Desfecho](https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU) | 5:08 |
-| 69 | [Santidade](https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Santidade](https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt) | 6:20 |
+| 68 | [Santidade](https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Santidade](https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt) | 6:20 |
+| 69 | [O Desfecho](https://open.spotify.com/track/1UsGjeLpVIGxcoXUZ1GbBo) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [O Desfecho](https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU) | 5:08 |
 | 70 | [Você Disse](https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Você Disse](https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8) | 4:37 |
-| 71 | [Um Sobrevivente](https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Um Sobrevivente](https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk) | 5:01 |
-| 72 | [O Deus Incomparável](https://open.spotify.com/track/2Ssp73mcKby8cJQnonnmtS) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Rayanne Vanessa](https://open.spotify.com/artist/0EN9R1jAJm4BRchke0xceY) | [O Deus Incomparável](https://open.spotify.com/album/1YtRptMSLaYic90xjdpLmt) | 4:06 |
-| 73 | [Pai](https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Pai](https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu) | 5:56 |
-| 74 | [A Vitória Chegou](https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [A Vitória Chegou](https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP) | 3:58 |
+| 71 | [A Vitória Chegou](https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [A Vitória Chegou](https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP) | 3:58 |
+| 72 | [Pai](https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Pai](https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu) | 5:56 |
+| 73 | [O Deus Incomparável](https://open.spotify.com/track/2Ssp73mcKby8cJQnonnmtS) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Rayanne Vanessa](https://open.spotify.com/artist/0EN9R1jAJm4BRchke0xceY) | [O Deus Incomparável](https://open.spotify.com/album/1YtRptMSLaYic90xjdpLmt) | 4:06 |
+| 74 | [Um Sobrevivente](https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Um Sobrevivente](https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk) | 5:01 |
 | 75 | [Calma](https://open.spotify.com/track/6XyL1cVqrfox76QZODQ22t) | [Eliane Silva](https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs) | [Calma](https://open.spotify.com/album/0uZHHtKPIXyIhZNsT6Ur55) | 4:32 |
 | 76 | [Ainda Não Acabou](https://open.spotify.com/track/2nDLeRds1GJ35wpff8Co9U) | [Tayane Aguiar](https://open.spotify.com/artist/6nzvmfceSgwaYrPTr2Hw1E), [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Ainda Não Acabou](https://open.spotify.com/album/6y1pmDWm6wgOXkwPZig300) | 5:02 |
 | 77 | [Chore pra Deus](https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Chore pra Deus](https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb) | 4:42 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Senhor do Tempo](https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Senhor do Tempo](https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE) | 4:34 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MTY3NjAzMTg2NCwwMDAwMDAwMDMzMzViMzBhNmZkMGE3NzY4YmNhODk3M2JmZmM5ZWZm`
+Snapshot ID: `MTY3NjAzMTg2NCwwMDAwMDAwMDRhMTQ3ZDMwOTMzMDdiMzc1ZjkzYmU0ZjNkN2JjNjhh`

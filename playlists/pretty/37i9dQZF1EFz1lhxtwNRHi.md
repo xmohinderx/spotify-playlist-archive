@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,326 likes - 145 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,327 likes - 145 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 99 | [Leona](https://open.spotify.com/track/5oFCGSZuMgUbJZX3ldciUY) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 4:06 |
 | 100 | [Be the 1](https://open.spotify.com/track/1dT6bzRblpd5ALByN95ScG) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ) | [Be the 1](https://open.spotify.com/album/7FTULKxxmfN9biaXculBGb) | 3:01 |
 | 101 | [Hold On To Me](https://open.spotify.com/track/64cNNOHp4pXPgpS7ZRRUS1) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 3:04 |
-| 102 | [Colors \(feat\. Liza Owen\)](https://open.spotify.com/track/6C94uudp1S9fOKJQ7sxrEG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Liza Owen](https://open.spotify.com/artist/7rMi39MYgKE1TdRCTK3xqm) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:41 |
-| 103 | [Celebrity](https://open.spotify.com/track/64qEkCn9ntAmCUdVL6uG4u) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 3:02 |
+| 102 | [Celebrity](https://open.spotify.com/track/64qEkCn9ntAmCUdVL6uG4u) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 3:02 |
+| 103 | [Colors \(feat\. Liza Owen\)](https://open.spotify.com/track/6C94uudp1S9fOKJQ7sxrEG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Liza Owen](https://open.spotify.com/artist/7rMi39MYgKE1TdRCTK3xqm) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:41 |
 | 104 | [Room for One More](https://open.spotify.com/track/5381XmHRfSnSDH2YcQrdfy) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 4:07 |
 | 105 | [DRESS UP](https://open.spotify.com/track/76bt0UPQdWBag54VPDS3LL) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:50 |
 | 106 | [Ordinary Man](https://open.spotify.com/track/5U9oCmRbpS5VouLyPdfJIg) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 4:21 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 144 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 145 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjc5NTA0MDcsMDAwMDAwMDAyYmFmYTA1MmVhOGY3YzBjYjczYTM2NDQzNGYzYWE1MQ==`
+Snapshot ID: `Mjc5NTE4NDcsMDAwMDAwMDBmOTE0NDEyMTFjYWI0M2YxYmIxNzM0ODU5YzNlMmJjOA==`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > The freshest indie sounds from Japan\. 日本のインディーシーン最先端を特集。Cover: Kroi
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,545 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,573 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [風来](https://open.spotify.com/track/0NCp3Af9c2ufCah4LinfJT) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [風来](https://open.spotify.com/album/3JrxuhOs9bd9Tbcs6P7j7D) | 4:25 |
+| 1 | [Furai](https://open.spotify.com/track/0JlDINY2QfgBGG1HYXeuyV) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Furai](https://open.spotify.com/album/4j0Zj8PZiRK5PL7MqFQA83) | 4:25 |
 | 2 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 |
 | 3 | [ears](https://open.spotify.com/track/64iwMa5Iq6343hvufPTCOZ) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [ears](https://open.spotify.com/album/7bzaC6fiUvH3XWd0azxDyf) | 3:43 |
 | 4 | [Third Summer of Love](https://open.spotify.com/track/1JqvgMV4lvu6HCMTY2eAkL) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [ANOCHI](https://open.spotify.com/album/3QaWpNuVe2FRMDAnG2iPwx) | 5:05 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 20 | [friday](https://open.spotify.com/track/0kIwLXLFVA2UT8Q6OrqICw) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [hajimari](https://open.spotify.com/album/5ELosTDtgfk8Ekx8yHolP6) | 2:49 |
 | 21 | [one way](https://open.spotify.com/track/5DQX3YKH3270aIOqMQfpzt) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [one way](https://open.spotify.com/album/44YthLKFtNvEnn4Jzss8BA) | 3:34 |
 | 22 | [It Is What It Is](https://open.spotify.com/track/68uZVWUH97VOOpelnxhIjN) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [It Is What It Is](https://open.spotify.com/album/4w9Vdz9SzDnqEEWEYN0Kzk) | 2:41 |
-| 23 | [むかしの魔法](https://open.spotify.com/track/4vUKvcf74T10psozRyou6B) | [生活の設計](https://open.spotify.com/artist/6ZQ0j6vz0P9rQOQjP8BXlR) | [むかしの魔法](https://open.spotify.com/album/4rBoWGol4wx5pUZ0zS2Wh3) | 3:41 |
+| 23 | [Mukashi no Maho](https://open.spotify.com/track/1kOEFMYAMaEdDAyrez7XSn) | [Seikatsu no Sekkei](https://open.spotify.com/artist/6xM4LUYF3ZCeNOU3sgfrCT) | [Mukashi no Maho](https://open.spotify.com/album/0Ksif7jpdq0jh5fCzDipw8) | 3:41 |
 | 24 | [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 |
 | 25 | [Here I Stand](https://open.spotify.com/track/1xmcCam3mEi2Tmajwkdt6X) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/1RY9bS3e6w4akVpgedsXNH) | 6:50 |
 | 26 | [The Cosmic Law](https://open.spotify.com/track/4H3qpAVmoQEI3kE9YGhZrC) | [The Muddies](https://open.spotify.com/artist/2zFsxadjvDk8KJz1lgxwXS) | [The Cosmic Law](https://open.spotify.com/album/08tqLADQIO4IbNn4CsJohz) | 3:30 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 44 | [suddenly](https://open.spotify.com/track/60H06Uwpf1K7ZSzIPXloZr) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [Ampersand](https://open.spotify.com/album/2WQwITVOBHDt6YzUa2tSnt) | 4:49 |
 | 45 | [From The Top](https://open.spotify.com/track/2EZEeTAXxYhScVxtUYsw9c) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [From The Top](https://open.spotify.com/album/4pTrnYVHUR8QzN9qxhrZe1) | 2:23 |
 | 46 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 |
-| 47 | [TOKYO FOREVER](https://open.spotify.com/track/7zC8YiNELAd6LOAJxNFgSo) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [TOKYO FOREVER](https://open.spotify.com/album/773oXMjqT3Mr6ivO3PwO8M) | 2:55 |
+| 47 | [TOKYO FOREVER](https://open.spotify.com/track/24yYkb7SAuEk69Exafbopw) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [TOKYO FOREVER](https://open.spotify.com/album/06WIzovZvfsowDhcdEjNZd) | 2:55 |
 | 48 | [PANORAMA WORLD](https://open.spotify.com/track/70rnHbHv0WkMF8oQgIrVDL) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PANORAMA WORLD](https://open.spotify.com/album/0UAkGtvWjdX3SFoJnOh9Zx) | 4:33 |
 | 49 | [Sway](https://open.spotify.com/track/50Opxhj5GxjF47Fc5SXoZl) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [Sway](https://open.spotify.com/album/3ZYTXFJA0ju3dk4PErgh5O) | 4:26 |
 | 50 | [Inclusion & Groove](https://open.spotify.com/track/1SQLv9kx6RzfQZulYRICcu) | [GAME CENTER & Future Brothers](https://open.spotify.com/artist/5KmK4SkU5gy76btbPAuS1q) | [Inclusion & Groove](https://open.spotify.com/album/0yC2V4EQMpoMbJuyoYEpFz) | 3:31 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 65 | [最後](https://open.spotify.com/track/0qa0TiXSLBFtSwRYzoo7UL) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [最後](https://open.spotify.com/album/1vORFEKjt7ipDV4VgxJptl) | 5:04 |
 | 66 | [Society](https://open.spotify.com/track/5hjjFWdiwow3yXmmQxUmex) | [バスクのスポーツ](https://open.spotify.com/artist/0yaofYMMvhsv6741FK76zU) | [AVATAMA](https://open.spotify.com/album/1ypjmNYyWhCys668wvRqX6) | 4:07 |
 | 67 | [DubStory](https://open.spotify.com/track/7rnbYYEaz20FaXfpzUHkqq) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6) | [TOKYO OLD SCHOOL](https://open.spotify.com/album/6MnBxETQ3RwIKPvqpU5ssb) | 4:30 |
-| 68 | [La La La](https://open.spotify.com/track/2YRkAZfGJRElab13LXT2d9) | [pavilion](https://open.spotify.com/artist/1TSRXSGEbdwPcXwiDDI68w) | [La La La](https://open.spotify.com/album/60gAxd8jeDnGaoPo8Bmed9) | 3:41 |
+| 68 | [La La La](https://open.spotify.com/track/5gJcnbp3rVmSVeBHv4bnj6) | [pavilion](https://open.spotify.com/artist/1TSRXSGEbdwPcXwiDDI68w) | [La La La](https://open.spotify.com/album/6iIWSif4tILekmHLb6rMDy) | 3:41 |
 | 69 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 |
 | 70 | [Sundaynight](https://open.spotify.com/track/7gPcTsRB1ylvb17OckGa2K) | [Koshi Miura](https://open.spotify.com/artist/14uVBFNoG8Pvv304q3zswS) | [Sundaynight](https://open.spotify.com/album/5ZAQlhUTPNNchqfZXS8g98) | 5:09 |
 
-Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMDc2NTE5ZGExMjM4NmY2MDE4ZjU2MDljNDZjMTI4Nzk5`
+Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMGVlODk5ZTUwYmNiZGEzZDUyNzA5MzljMDgwMmMzMTA1`

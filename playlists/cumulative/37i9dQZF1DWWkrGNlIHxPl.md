@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Saint Levant
 
-234 songs - 13 hr 26 min
+235 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Move Slow](https://open.spotify.com/track/5IQoMOmJ8sfNi4Fjw9WRKF) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Move Slow](https://open.spotify.com/album/55BafVNwGsmsXHnWn5EEsP) | 2:54 | 2021-12-16 | 2022-07-29 |
 | [N'TA GOUDAMI](https://open.spotify.com/track/0sArBZMNEdXNHb1E9cIDoU) | [Cheikha Rimitti](https://open.spotify.com/artist/364dHqe2BwXqmOhgdBXpw8) | [N'ta Goudami](https://open.spotify.com/album/1wLqe5wbNXHrFSaXRyUGpy) | 7:25 | 2022-06-06 | 2022-06-24 |
 | [N'zor nebra](https://open.spotify.com/track/1FTzO3hv3gukg3nibftVWu) | [Cheba Nouria](https://open.spotify.com/artist/3AJD7ohoMSbivLcSHuvznO) | [Raï Club Culture, Vol\. 1 \(The Sound of North Africa\)](https://open.spotify.com/album/6GJTaC3IfQQj7pKz3K73Do) | 6:04 | 2022-06-06 | 2022-06-24 |
+| [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 | 2023-02-22 |  |
 | [Neighborhood](https://open.spotify.com/track/1MqxAzd8MOFxrMlu5Ixw4l) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Neighborhood](https://open.spotify.com/album/6OYqRcMMr0B5XVUhzcgJZf) | 2:48 | 2022-02-03 | 2022-12-08 |
 | [nights in LA](https://open.spotify.com/track/6uoZkDpJvNKtX0QbviMv3m) | [sobhhï](https://open.spotify.com/artist/0nRWv1xU9ooWFExNxKTKef), [NIVO](https://open.spotify.com/artist/6x7vGmycbgmj5h2kexW5fY), [NHYN](https://open.spotify.com/artist/70zsYc3eGQ87Culaq7eYm5) | [LUXURY CASUAL II](https://open.spotify.com/album/5sZOgDWkKHGNtr8Spr45ya) | 2:52 | 2022-07-28 | 2022-12-08 |
 | [Nobody](https://open.spotify.com/track/6XjENN2LsFNLOsAOpDv7ze) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Nobody](https://open.spotify.com/album/0hEo7Gh3anOoce9xCMLDNn) | 3:27 | 2021-12-16 | 2022-03-18 |

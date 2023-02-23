@@ -1,15 +1,15 @@
 {
   "description": "A deep sound, combining electronic elements and organic instrumentation stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 689578,
+  "num_followers": 689924,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0Nzk5NywwMDAwMDAwMGY4ZWFlMmU3MDY5NTZiYjBmYzJkMGEyZGUxOWYxYjcw",
+  "snapshot_id": "MTY3NjY0Nzk5NywwMDAwMDAwMDkxYTk1MGE3M2ZjZmFhZTBiMTZhYTMyYjc5YWIwMTEy",
   "tracks": [
     {
-      "added_at": "2023-02-22 00:37:32",
+      "added_at": "2023-02-23 01:02:21",
       "album": {
         "name": "REKERE",
         "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
     },
     {
-      "added_at": "2023-02-22 00:37:32",
+      "added_at": "2023-02-23 01:02:21",
       "album": {
         "name": "Kamili",
         "url": "https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG"
@@ -315,6 +315,26 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
+        "name": "Maasai (Doctor Flake Remix)",
+        "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
+      },
+      "artists": [
+        {
+          "name": "Kutiman",
+          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+        },
+        {
+          "name": "Doctor Flake",
+          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
+        }
+      ],
+      "duration_ms": 470837,
+      "name": "Maasai - Doctor Flake Remix",
+      "url": "https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
         "name": "Amida",
         "url": "https://open.spotify.com/album/1FSEH402VsDPxxkp9el4vD"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 448072,
       "name": "Amida",
       "url": "https://open.spotify.com/track/4PixJeTcnC98CsW9oHP1sh"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
-        "name": "Maasai (Doctor Flake Remix)",
-        "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
-      },
-      "artists": [
-        {
-          "name": "Kutiman",
-          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
-        },
-        {
-          "name": "Doctor Flake",
-          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
-        }
-      ],
-      "duration_ms": 470837,
-      "name": "Maasai - Doctor Flake Remix",
-      "url": "https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP"
+        "name": "Hidden Garden",
+        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
       },
       "artists": [
         {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
         }
       ],
-      "duration_ms": 456745,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D"
+      "duration_ms": 297802,
+      "name": "Hidden Garden",
+      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Hidden Garden",
-        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP"
       },
       "artists": [
         {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
         }
       ],
-      "duration_ms": 297802,
-      "name": "Hidden Garden",
-      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
+      "duration_ms": 456745,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
-      },
-      "artists": [
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 115090,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
         "name": "Nterini (Sparrow & Barbossa Remix)",
         "url": "https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "6 Years of Underyourskin Records",
-        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
       "artists": [
         {
-          "name": "Ameli Paul",
-          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
         }
       ],
-      "duration_ms": 418364,
-      "name": "Worak",
-      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
+      "duration_ms": 115090,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -817,7 +801,23 @@
       "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
     },
     {
-      "added_at": "2023-02-22 00:37:32",
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "6 Years of Underyourskin Records",
+        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
+      },
+      "artists": [
+        {
+          "name": "Ameli Paul",
+          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
+        }
+      ],
+      "duration_ms": 418364,
+      "name": "Worak",
+      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
+    },
+    {
+      "added_at": "2023-02-23 01:02:21",
       "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Eliso",
-        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 176839,
-      "name": "Eliso Lyamu Katata",
-      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
         "name": "Izivunguvungu (Chlo\u00e9 Remix)",
         "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
       },
@@ -1075,26 +1059,18 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Bote Chin",
-        "url": "https://open.spotify.com/album/2I0DiWIgK52RnfjkE2jRRC"
+        "name": "Eliso",
+        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
       },
       "artists": [
         {
-          "name": "DJ Phellix",
-          "url": "https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV"
-        },
-        {
-          "name": "OF REZZ",
-          "url": "https://open.spotify.com/artist/6PjQPlHoQlkxmgnNIkXu15"
-        },
-        {
-          "name": "Amir Sheykh",
-          "url": "https://open.spotify.com/artist/0jkm4met7RZxXJCE8IvGmr"
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         }
       ],
-      "duration_ms": 425739,
-      "name": "Bote Chin",
-      "url": "https://open.spotify.com/track/5G4UC9fnqy2o50V4p2EuYZ"
+      "duration_ms": 176839,
+      "name": "Eliso Lyamu Katata",
+      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -1111,6 +1087,26 @@
       "duration_ms": 335877,
       "name": "Magic Workout",
       "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "Neko Ep",
+        "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
+      },
+      "artists": [
+        {
+          "name": "Jacob Groening",
+          "url": "https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f"
+        },
+        {
+          "name": "Kotoe",
+          "url": "https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM"
+        }
+      ],
+      "duration_ms": 273523,
+      "name": "Neko (feat Kotoe)",
+      "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
     }
   ],
   "unique_name": "Org\u00e1nica",

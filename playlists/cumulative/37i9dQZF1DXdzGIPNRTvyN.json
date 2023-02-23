@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 107000,
       "name": "Ballerina",
       "url": "https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 192000,
       "name": "Calmest lake",
       "url": "https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8"
@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Jours Heureux",
+        "url": "https://open.spotify.com/album/1xOB5BZcjqUybxX8fnt2HZ"
+      },
+      "artists": [
+        {
+          "name": "Guilliaume Om",
+          "url": "https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109951,
+      "name": "Jours Heureux",
+      "url": "https://open.spotify.com/track/0s7HtboRz3xS0OV0sYHpaM"
+    },
+    {
+      "album": {
         "name": "Lily's Arrival",
         "url": "https://open.spotify.com/album/2lmh2HkpKRGJBjVLNf7D8Z"
       },
@@ -428,9 +446,9 @@
           "url": "https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs"
         }
       ],
-      "date_added": "2023-02-14",
+      "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 193885,
       "name": "Looking for the Self",
       "url": "https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g"

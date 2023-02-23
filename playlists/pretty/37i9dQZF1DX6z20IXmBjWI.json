@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. ",
-  "num_followers": 2142248,
+  "num_followers": 2142244,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MDA0NywwMDAwMDAwMDc5OWE0ZGU4YmU3NWZhYmZhOTZiNzA1ZGNkODU2Zjc4",
+  "snapshot_id": "MTY3Njk5MDA0NywwMDAwMDAwMDNmZjliNjUzMTBhZDFkMTgyNzFhODY2NjhhOWE5NjY5",
   "tracks": [
     {
       "added_at": "2023-02-06 19:59:45",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
+        "name": "Real Estate",
+        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Real Estate",
+      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
         "name": "Forever Young (From NBC's Parenthood)",
         "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
-        "name": "Real Estate",
-        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Real Estate",
-      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Shape & Destroy",
-        "url": "https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/3MKTh8Awrh9roJe0PV9BaI"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "Fall, Fall, Fall",
         "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 281180,
       "name": "Fall, Fall, Fall",
       "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Shape & Destroy",
+        "url": "https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/3MKTh8Awrh9roJe0PV9BaI"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "New Star",
-        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 185728,
-      "name": "New Star",
-      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "All Remains",
         "url": "https://open.spotify.com/album/6duXVbHPuAjgyR5kHyoyLw"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 185250,
       "name": "Tongue Tied - Acoustic",
       "url": "https://open.spotify.com/track/3yeZlcYkmkevkPR8mDmG8E"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "New Star",
+        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
+        "name": "Way I Go",
+        "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 247829,
+      "name": "Way I Go",
+      "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Way I Go",
-        "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
+        "name": "Siren Song",
+        "url": "https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq"
       },
       "artists": [
         {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
         }
       ],
-      "duration_ms": 247829,
-      "name": "Way I Go",
-      "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
+      "duration_ms": 183767,
+      "name": "Siren Song",
+      "url": "https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1299,22 +1315,6 @@
       "duration_ms": 304493,
       "name": "Sophie",
       "url": "https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
-        "name": "Siren Song",
-        "url": "https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 183767,
-      "name": "Siren Song",
-      "url": "https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+        "name": "Angela (Single Version)",
+        "url": "https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
+      "duration_ms": 178840,
+      "name": "Angela (Single Version)",
+      "url": "https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Angela (Single Version)",
-        "url": "https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0"
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 178840,
-      "name": "Angela (Single Version)",
-      "url": "https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D"
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 189282,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
       },
@@ -1763,22 +1779,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 189282,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "NUDES",
         "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
       },
@@ -1791,6 +1791,22 @@
       "duration_ms": 235871,
       "name": "Right Down The Line",
       "url": "https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Ancient Transition",
+        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 292520,
+      "name": "On Your Horizon",
+      "url": "https://open.spotify.com/track/5vXBUBJBvAN7bvGDj6kJjN"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1835,22 +1851,6 @@
       "duration_ms": 197458,
       "name": "Call My Name - Acoustic",
       "url": "https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
-        "name": "Ancient Transition",
-        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 292520,
-      "name": "On Your Horizon",
-      "url": "https://open.spotify.com/track/5vXBUBJBvAN7bvGDj6kJjN"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Hundred Acres",
-        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 243733,
-      "name": "More I See",
-      "url": "https://open.spotify.com/track/24l2W4vP77LGaQGKy9PYmU"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "Build A Problem",
         "url": "https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 199384,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Hundred Acres",
+        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 243733,
+      "name": "More I See",
+      "url": "https://open.spotify.com/track/24l2W4vP77LGaQGKy9PYmU"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2383,26 +2383,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "EPHRATA",
-        "url": "https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        },
-        {
-          "name": "Alana Henderson",
-          "url": "https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "Holllllogram",
-      "url": "https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "THE SUN & THE SEA (feat. Donovan Woods)",
         "url": "https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75"
       },
@@ -2419,6 +2399,26 @@
       "duration_ms": 180000,
       "name": "THE SUN & THE SEA (feat. Donovan Woods)",
       "url": "https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "EPHRATA",
+        "url": "https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        },
+        {
+          "name": "Alana Henderson",
+          "url": "https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "Holllllogram",
+      "url": "https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ"
     },
     {
       "added_at": "2023-02-06 19:59:45",

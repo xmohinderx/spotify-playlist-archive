@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Kaifi Khalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,805 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,186 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 64 | [Ek Pal](https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Ek Pal](https://open.spotify.com/album/1NU5fBhBK0zR6Ei6FGw8Dl) | 4:31 |
 | 65 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 |
 
-Snapshot ID: `MTY3NjAyNTE1OCwwMDAwMDAwMGFlYmVmZjBkNjUxY2UwMTBiY2MwOWNiMGEzMGEzMTlk`
+Snapshot ID: `MTY3NzA2OTEzNCwwMDAwMDAwMDhlNDQ1OWE2M2Q0ZGI1NjNjMDQ4YjE4ZjZlYzZhODFj`

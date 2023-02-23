@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 369855,
+  "num_followers": 369903,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI2MjU2NywwMDAwMDAwMDg5MjkyZjM5ZTA0YzMwOTkzYjhmOWNkZWJhYjI0Njk3",
+  "snapshot_id": "MTY3NjI2MjU2NywwMDAwMDAwMDFiNDk1YzY1Y2NjMGFhNGU5ZGRmY2NhN2IzM2M2ZmFk",
   "tracks": [
     {
       "added_at": "2023-02-09 13:00:00",
@@ -571,18 +571,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -611,22 +615,18 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+      "duration_ms": 198813,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "Wake Up Call",
         "url": "https://open.spotify.com/album/7xpPwin0MrpjMm1N2PeJKV"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 206520,
       "name": "Blue",
       "url": "https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
-      },
-      "artists": [
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "Soldiner",
+        "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 346214,
+      "name": "Soldiner",
+      "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "To Feel Again / Trois",
         "url": "https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 293489,
       "name": "To Feel Again / Trois",
       "url": "https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Soldiner",
-        "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 346214,
-      "name": "Soldiner",
-      "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Ask",
-        "url": "https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD"
-      },
-      "artists": [
-        {
-          "name": "Dual Sessions",
-          "url": "https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp"
-        },
-        {
-          "name": "Style Project",
-          "url": "https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Ask",
-      "url": "https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/6R8SpkZFXLlWAdzWZHnB3j"
       },
@@ -1203,22 +1183,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+        "name": "Ask",
+        "url": "https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD"
       },
       "artists": [
         {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+          "name": "Dual Sessions",
+          "url": "https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp"
         },
         {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+          "name": "Style Project",
+          "url": "https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh"
         }
       ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+      "duration_ms": 140826,
+      "name": "Ask",
+      "url": "https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1239,6 +1219,26 @@
       "duration_ms": 223728,
       "name": "Tied to You",
       "url": "https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Tulum",
-        "url": "https://open.spotify.com/album/4IxpGZORrGm6XfQW1TyMiG"
+        "name": "Visage 5 (Floating)",
+        "url": "https://open.spotify.com/album/7epHm3vYUTyuIjMj0HuU02"
       },
       "artists": [
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
         }
       ],
-      "duration_ms": 225272,
-      "name": "Tulum",
-      "url": "https://open.spotify.com/track/3pT9l5WdtJhCpEyxVgH2LT"
+      "duration_ms": 293333,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1"
     }
   ],
   "unique_name": "Just Chill",

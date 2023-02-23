@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Ten Tonnes
 
-371 songs - 20 hr 54 min
+372 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Hollywood Factory](https://open.spotify.com/track/6mr4kZOSDLgyTdzsUDySdQ) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [The Make It All Show](https://open.spotify.com/album/0PaV2cQZJLbjYjnZRoYq2f) | 2:55 | 2021-03-09 | 2022-01-17 |
 | [HONEY](https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [HONEY](https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ) | 2:35 | 2021-03-09 | 2022-01-17 |
 | [How Are You Feeling?](https://open.spotify.com/track/2ctbvOJeepAPf51RoeBE4m) | [George O'Hanlon](https://open.spotify.com/artist/5U7rIQxm8yEEXbJB3bl7JE) | [How Are You Feeling?](https://open.spotify.com/album/54TbLSAUGAQIIZSW4s8Jwu) | 2:56 | 2022-08-18 | 2022-11-18 |
-| [how would you know](https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [how would you know](https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr) | 2:57 | 2022-11-25 |  |
+| [how would you know](https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [how would you know](https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr) | 2:57 | 2022-11-25 | 2023-02-23 |
 | [Hurt You](https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Hurt You](https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t) | 3:55 | 2022-10-06 |  |
 | [I Feel So Cold But It's Warm Outside](https://open.spotify.com/track/7jAQxWVBVAuKmVjlERODpc) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [World Below](https://open.spotify.com/album/0rxXVzueM7PnAjecoPYg2i) | 2:54 | 2022-08-18 | 2023-01-13 |
 | [I Know You Care](https://open.spotify.com/track/4ziLKM9jCpEwoJLX7BYwJ1) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [I Know You Care](https://open.spotify.com/album/6NgYnPGDqniGXCXTnAbJ3t) | 3:08 | 2022-11-25 | 2023-01-22 |
@@ -213,6 +213,7 @@
 | [Lain \(phone clone\)](https://open.spotify.com/track/3aq2HJqPhVH3D8jcbAQJvT) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Lain \(phone clone\)](https://open.spotify.com/album/6kVkofYbaUHoPO1YKObr3k) | 4:01 | 2023-01-13 |  |
 | [last july](https://open.spotify.com/track/3vC1FzGYGsjUDEeZahvaRt) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [If I never know you like this again](https://open.spotify.com/album/7nMKqegypHLrmj9fN98Tyx) | 3:46 | 2022-08-18 | 2022-11-18 |
 | [Late Teens](https://open.spotify.com/track/376W9y1HicyWrGiHInYdzZ) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Late Teens](https://open.spotify.com/album/7bwleaGVTYLtJagViscDrC) | 3:25 | 2021-03-09 | 2022-01-17 |
+| [Lay Your Troubles on Me](https://open.spotify.com/track/7HxflaQez3QfWoehXQ1B5T) | [The Slow Readers Club](https://open.spotify.com/artist/1DYrH6sucKrK0dskzU4Gsk) | [Lay Your Troubles on Me](https://open.spotify.com/album/4kSn6blI3HVRI0lD9WoD8H) | 3:51 | 2023-02-10 |  |
 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 | 2022-08-18 | 2022-10-07 |
 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-10-06 |  |
 | [Let The Lights On](https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Let The Lights On](https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP) | 3:03 | 2022-08-18 | 2022-10-07 |

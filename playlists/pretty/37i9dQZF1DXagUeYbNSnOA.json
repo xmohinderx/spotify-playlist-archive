@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Paola Guanche. Updates every Wednesday.",
-  "num_followers": 168932,
+  "num_followers": 168984,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQzNzIwMCwwMDAwMDAwMGU1Yjg0ZTg1NzBhN2JiZDljOGYyNmUyMWVhYWNlYTY0",
+  "snapshot_id": "MTY3NjQzNzIwMCwwMDAwMDAwMDIyZTc3ZmQwMWM0NDM3NjY4MWU4MmRjMGExZDU5NzY2",
   "tracks": [
     {
       "added_at": "2023-02-15 05:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
-        "name": "Amor No Correspondido",
-        "url": "https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph"
-      },
-      "artists": [
-        {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Amor No Correspondido",
-      "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
-    },
-    {
-      "added_at": "2023-02-15 05:00:00",
-      "album": {
         "name": "A\u00f1o nuevo (Extended Version)",
         "url": "https://open.spotify.com/album/7eCoisQpB7vmzGUASHtTiu"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 153009,
       "name": "A\u00f1o nuevo - Extended Version",
       "url": "https://open.spotify.com/track/2vBvijUY1ueRubF0Ezc4rA"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Amor No Correspondido",
+        "url": "https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph"
+      },
+      "artists": [
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Amor No Correspondido",
+      "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
     },
     {
       "added_at": "2023-02-15 05:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
-        "name": "Losing My Mind",
-        "url": "https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH"
-      },
-      "artists": [
-        {
-          "name": "Calista Del Toro",
-          "url": "https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc"
-        }
-      ],
-      "duration_ms": 155439,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S"
-    },
-    {
-      "added_at": "2023-02-15 05:00:00",
-      "album": {
         "name": "Mi Cuerpo Subira",
         "url": "https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
-        "name": "Papaya dulce",
-        "url": "https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1"
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH"
       },
       "artists": [
         {
-          "name": "Aristi",
-          "url": "https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1"
+          "name": "Calista Del Toro",
+          "url": "https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc"
         }
       ],
-      "duration_ms": 211581,
-      "name": "Papaya dulce",
-      "url": "https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb"
+      "duration_ms": 155439,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S"
     },
     {
       "added_at": "2023-02-15 05:00:00",
@@ -667,6 +651,22 @@
       "duration_ms": 188500,
       "name": "Tu Tatuaje - Acoustic",
       "url": "https://open.spotify.com/track/7dEVsxtgjC7M1EhBdUDReR"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Papaya dulce",
+        "url": "https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1"
+      },
+      "artists": [
+        {
+          "name": "Aristi",
+          "url": "https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1"
+        }
+      ],
+      "duration_ms": 211581,
+      "name": "Papaya dulce",
+      "url": "https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb"
     },
     {
       "added_at": "2023-02-15 05:00:00",

@@ -788,7 +788,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 158520,
       "name": "El Carretero",
       "url": "https://open.spotify.com/track/5pL0aMup9AGVO1FV87i7w9"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 127333,
       "name": "El Colirio",
       "url": "https://open.spotify.com/track/5mP19u1ndgdqtegwiTXpoU"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 215440,
       "name": "El c\u00f3ndor pasa",
       "url": "https://open.spotify.com/track/5knISmyiRhmeUX7ilkNST1"
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 175346,
       "name": "El gavilancillo",
       "url": "https://open.spotify.com/track/4U6MUfvFvZ6XPoi4pFI0FA"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 210466,
       "name": "El Gusto Apatzingane\u00f1o",
       "url": "https://open.spotify.com/track/46GjwhmVDzGEHETjk1B2uf"
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 203506,
       "name": "El Jilguerillo",
       "url": "https://open.spotify.com/track/3Jgw1lcmFFbpPZpYukjfSc"
@@ -2342,6 +2342,24 @@
       "duration_ms": 272213,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/692C4fgt86NVLGwKXe4KCs"
+    },
+    {
+      "album": {
+        "name": "Maestra Vida",
+        "url": "https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380088,
+      "name": "Hasta La Ra\u00edz",
+      "url": "https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y"
     },
     {
       "album": {
@@ -4124,6 +4142,24 @@
       "duration_ms": 227960,
       "name": "Nada Es Verdad",
       "url": "https://open.spotify.com/track/5inReP5WF9HH5X7ff0I6uk"
+    },
+    {
+      "album": {
+        "name": "Navegar",
+        "url": "https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188654,
+      "name": "Navegar",
+      "url": "https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s"
     },
     {
       "album": {

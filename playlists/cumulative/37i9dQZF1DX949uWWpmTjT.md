@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-415 songs - 1 day 5 hr 9 min
+416 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [All The Way](https://open.spotify.com/track/1BnYMsR1MIxPmMJe02Lot4) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [All The Way](https://open.spotify.com/album/44F64JbPVaSOp54y9SBsg4) | 3:21 | 2023-01-19 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/2vGJACJBCVyEHk6lCcqiSO) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:31 | 2022-06-30 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/20snee2NrSY2DLrz5mGHUq) | [Lester Young & The Oscar Peterson Trio](https://open.spotify.com/artist/3Ws6pq018BWAz8uYhZ7V6h) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/5GV8mn6Y244jnMc8wiOpqt) | 3:33 | 2021-12-03 | 2022-07-29 |
+| [Always a Lady](https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:03 | 2023-02-16 |  |
 | [Anse Source d'Argent](https://open.spotify.com/track/4jl1mBMyPdpDh0mYadTZhR) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Anse Source d'Argent](https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG) | 3:58 | 2023-01-26 |  |
 | [Anything Goes](https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merrill With Strings](https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG) | 3:07 | 2021-12-03 | 2023-01-20 |
 | [As Long As I Live](https://open.spotify.com/track/2Q3QWcfG4G8K5cGx1nG2Hf) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [In Your Own Sweet Way](https://open.spotify.com/album/6kz1KxMklEoHyqx5CjzGG6) | 2:32 | 2023-02-02 |  |
@@ -62,7 +63,7 @@
 | [Cherokee](https://open.spotify.com/track/0sS3JwPSdyWg3d52KnPLsJ) | [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz), [Gadi Lehavi](https://open.spotify.com/artist/01FRXq3Es0z4crmTkjkR7o), [Ben Tiberio](https://open.spotify.com/artist/4HF9chz1OmDunHzUD3ZIos) | [Golden Treasures](https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4) | 6:22 | 2022-06-03 | 2022-09-23 |
 | [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2022-12-08 |  |
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2022-11-10 |  |
-| [Christmas in Bilbao](https://open.spotify.com/track/4yEV9RgUepXeLCdSFG3ohP) | [Juan Ortiz](https://open.spotify.com/artist/72wv4vWevdN2V78wvxj44U), [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8), [Hiroshi Takase](https://open.spotify.com/artist/5wdKbfjSsOpldsBV3GBg9H) | [Brighter Days](https://open.spotify.com/album/6QFy0zMnOL1Y5oacJYP2RE) | 6:41 | 2022-06-03 |  |
+| [Christmas in Bilbao](https://open.spotify.com/track/4yEV9RgUepXeLCdSFG3ohP) | [Juan Ortiz](https://open.spotify.com/artist/72wv4vWevdN2V78wvxj44U), [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8), [Hiroshi Takase](https://open.spotify.com/artist/5wdKbfjSsOpldsBV3GBg9H) | [Brighter Days](https://open.spotify.com/album/6QFy0zMnOL1Y5oacJYP2RE) | 6:41 | 2022-06-03 | 2023-02-23 |
 | [Cinema Paradiso \[Love Theme\]](https://open.spotify.com/track/07coioQpK9jzK3LIGNlwkh) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Beyond The Missoury Sky](https://open.spotify.com/album/6PrwIDWc5ODPwqqzAlzEMg) | 3:34 | 2021-12-03 | 2022-05-18 |
 | [Clear as Autumn Nights](https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [This Is What I Want for Christmas](https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV) | 5:01 | 2022-11-10 |  |
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-11-10 |  |

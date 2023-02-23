@@ -4,7 +4,7 @@
 
 > Time to rave again.
 
-280 songs - 1 day 2 hr 26 min
+281 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Gordon](https://open.spotify.com/track/2mj6LDSazUdSLe9ed32lEH) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Gordon](https://open.spotify.com/album/1aormndMh4RfNXV1fJdjFL) | 4:00 | 2023-02-17 |  |
 | [Greece 2000 \- Sean Finn Radio Edit](https://open.spotify.com/track/1vq73Rln9fEonO77ju3ZfV) | [Sean Finn](https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS), [No Hopes](https://open.spotify.com/artist/4eRfkq2oGeOhnEEndl184K) | [Greece 2000 \(Radio Edits\)](https://open.spotify.com/album/2feiIM0a2Cgd9cEjE3mfhA) | 2:55 | 2022-06-24 | 2023-02-04 |
 | [Greece 2000 \- Sean Finn Radio Edit](https://open.spotify.com/track/6PujLWvaXM1jUF7IXvs2CF) | [Sean Finn](https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS), [No Hopes](https://open.spotify.com/artist/4eRfkq2oGeOhnEEndl184K) | [Greece 2000 \(Radio Edits\)](https://open.spotify.com/album/3wLV28G8AcsDFgRAdvKBFL) | 2:55 | 2022-04-15 | 2022-07-29 |
-| [Gummihammer](https://open.spotify.com/track/2gOvWkgY153efoAcywh7pi) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 6:47 | 2022-04-15 |  |
+| [Gummihammer](https://open.spotify.com/track/2gOvWkgY153efoAcywh7pi) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 6:47 | 2022-04-15 | 2023-02-23 |
 | [Hands On..\. Don't Waste My Time](https://open.spotify.com/track/0L11P6fPsxE8x5jGGHdL0z) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Hands On...](https://open.spotify.com/album/5KthnKFWptxsMyEXxmvBei) | 5:29 | 2022-04-15 | 2022-07-29 |
 | [Hands On..\. Don't Waste My Time](https://open.spotify.com/track/7zPHYX5tpIZYszcKrwfOo0) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Hands On...](https://open.spotify.com/album/5HCJLQJG0k7lMLXyi5zcT1) | 5:29 | 2022-06-24 | 2022-11-14 |
 | [Haute Definition](https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Dissidænce Episode 1](https://open.spotify.com/album/3x4w1TdlWi3d81ibVmR4Lj) | 3:58 | 2022-04-15 |  |
@@ -287,6 +287,7 @@
 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 | 2022-04-15 |  |
 | [Yours](https://open.spotify.com/track/5kNv1Du0DqYgKkFgXiBRu3) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Yours](https://open.spotify.com/album/4nx4lWkeRVuqVTIr0RBFH7) | 4:17 | 2022-04-15 | 2022-09-03 |
 | [Yumi](https://open.spotify.com/track/0qLp8n67H96dA3L0ySGb0l) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/4EyihxwhzNMOtYjGFpJalw) | 6:21 | 2022-11-25 | 2023-02-19 |
+| [Yumi](https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/5LVl6B5iv7BNR4h01jWlJj) | 6:21 | 2023-02-17 |  |
 | [Zorro](https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Zorro](https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch) | 3:36 | 2022-09-22 | 2022-10-01 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

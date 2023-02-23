@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,976 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,010 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,15 +83,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 73 | [Teenage Dream](https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7), [The 615 House](https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q) | [Teenage Dream](https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0) | 3:37 |
 | 74 | [Circles](https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Circles](https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK) | 3:14 |
 | 75 | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 |
-| 76 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 |
-| 77 | [Piece of My Heart](https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 4:01 |
+| 76 | [Piece of My Heart](https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 4:01 |
+| 77 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 |
 | 78 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
-| 79 | [3 Am](https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [15 Years, the Wild Ride](https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW) | 4:32 |
-| 80 | [Blue Bayou](https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Kellyoke](https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi) | 3:52 |
+| 79 | [Blue Bayou](https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Kellyoke](https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi) | 3:52 |
+| 80 | [3 Am](https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [15 Years, the Wild Ride](https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW) | 4:32 |
 | 81 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:17 |
-| 82 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 |
-| 83 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
-| 84 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 |
+| 82 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 |
+| 83 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 |
+| 84 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
 | 85 | [Loud and Heavy](https://open.spotify.com/track/6d5Ip7MN38R1av3Yf4BKMU) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh), [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0) | [Loud and Heavy](https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U) | 3:21 |
 | 86 | [If I Needed You](https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa) | [Rachel Bradshaw](https://open.spotify.com/artist/6b62EC4kRXUMm8JbMhl3I4), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Rachel Bradshaw](https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp) | 3:12 |
 | 87 | [Gentle On My Mind](https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Glen Campbell I'll Be Me Soundtrack](https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [Hallelujah](https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Hallelujah](https://open.spotify.com/album/0a5b336bi3yEiuEKDgkggS) | 4:07 |
 | 100 | [Wicked Game](https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Wicked Game](https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ) | 6:11 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDQ5ODk1MzAxMWEyY2UyNzJmYzVkY2NhNjNjNzIyNzll`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDc5ODBiNzYyZDBlNmU4NTYzNTYyMzdmZDExZWNjZGZm`

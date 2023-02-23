@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 
 > Because everyone else is already taken!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,541 likes - 88 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,538 likes - 88 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 50 | [My Crown](https://open.spotify.com/track/4KH1A0T82cTt0nFd2uzC3v) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 2:44 |
 | 51 | [Smart](https://open.spotify.com/track/4ADVfhoTylxrCM8tQRLGXI) | [Madison](https://open.spotify.com/artist/02n1FZN9wmHROIziGS5JXa) | [Smart](https://open.spotify.com/album/4nZKR9JU7hUkKm7LrnrFJr) | 3:15 |
 | 52 | [Photoshop](https://open.spotify.com/track/2TzDvcvICUWLDzio9LHMOo) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Leanna Crawford \- EP](https://open.spotify.com/album/1JMEL72dcpvDYEHB0wlUSu) | 3:26 |
-| 53 | [Dare to Be Me](https://open.spotify.com/track/2YzDcXvqiREtH6lHlguUAO) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9), [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Dare to Be Me](https://open.spotify.com/album/7FqMUPXFtcQN01EdnnaSA1) | 2:25 |
+| 53 | [Dare to Be Me](https://open.spotify.com/track/2z9tWgtowc2oRMcwzZUlCt) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9), [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Dare to Be Me](https://open.spotify.com/album/3ZBOx6I6Ovj1Z8SnMb29xU) | 2:25 |
 | 54 | [Follow Your Heart](https://open.spotify.com/track/7llCAJGS4RvulKhZTwpxC6) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk), [Doug Stenhouse](https://open.spotify.com/artist/6k8AlHXW9D08RhKC8UjHDA), [Siân](https://open.spotify.com/artist/6KkfJjh5ROtKrDG92MDYAM) | [Follow Your Heart](https://open.spotify.com/album/2WvtEacxiiJJzKoeDr6T72) | 3:52 |
 | 55 | [Beautiful](https://open.spotify.com/track/40fvlRGSBSEYWTgCpRyVqf) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Keeps Gettin' Better: A Decade of Hits](https://open.spotify.com/album/2019iQx5MmA6byqYqdK7zS) | 4:01 |
 | 56 | [Look Into the Mirror](https://open.spotify.com/track/3oGRdXlfbtavcTJpYvhFUm) | [Iya](https://open.spotify.com/artist/20GgGQeVYOrNNVBB0ZkfVc), [The Kuumba Kids](https://open.spotify.com/artist/1501mk3eANsOkQFymBuWp5) | [Ooh Kuumba](https://open.spotify.com/album/7rMINarWwcAFl7AB9S1NRd) | 1:37 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 87 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |
 | 88 | [Sing Your Song](https://open.spotify.com/track/0fjty03g806qqdJtz38ebJ) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Family Photo Album](https://open.spotify.com/album/5ReK6CXisDMoAfz8dKf1nD) | 2:11 |
 
-Snapshot ID: `MTY1MDAzMTYxMSwwMDAwMDAwMDM4OWIzZjJiMWIzZDY2ZGY2NGQzYmQ2OWE1N2VkZjdh`
+Snapshot ID: `MTY1MDAzMTYxMSwwMDAwMDAwMDE5OWJhNDFiNDQ0MDIwNjBjZjNkZjdmYzc3YzMyMDc0`

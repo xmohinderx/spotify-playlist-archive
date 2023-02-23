@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTY0NSxiNTEwMTRlNmVlNTUwZWI3NWU5YjM3ZTgyM2M3ZWNmYjIzN2MxZTQw",
+  "snapshot_id": "NTY0NixjNDA2NGZlYzIyY2ZlYjQyMTA1YjExNTBiODlmZmEyMmJlZGEwYTAy",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -649,6 +649,26 @@
       "url": "https://open.spotify.com/track/53EsDQghnk9rdBelvhDGH7"
     },
     {
+      "added_at": "2021-08-06 13:10:05",
+      "album": {
+        "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
+        "url": "https://open.spotify.com/album/5YQyOrkqCiG2JMKCYskLop"
+      },
+      "artists": [
+        {
+          "name": "Hildegard von Bingen",
+          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Nunc gaudeant materna viscera (Antiphona)",
+      "url": "https://open.spotify.com/track/7E2dEfHyf9VKz8V2O7f5a9"
+    },
+    {
       "added_at": "2018-08-01 14:20:34",
       "album": {
         "name": "Music of the Crusades",
@@ -675,26 +695,6 @@
       "duration_ms": 255000,
       "name": "Chanterai por mon corage",
       "url": "https://open.spotify.com/track/5gb4RsudiAMDby7otcJE1o"
-    },
-    {
-      "added_at": "2021-08-06 13:10:05",
-      "album": {
-        "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
-        "url": "https://open.spotify.com/album/5YQyOrkqCiG2JMKCYskLop"
-      },
-      "artists": [
-        {
-          "name": "Hildegard von Bingen",
-          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
-        },
-        {
-          "name": "La Reverdie",
-          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Nunc gaudeant materna viscera (Antiphona)",
-      "url": "https://open.spotify.com/track/7E2dEfHyf9VKz8V2O7f5a9"
     },
     {
       "added_at": "2018-02-09 19:10:59",
@@ -3213,26 +3213,6 @@
       "url": "https://open.spotify.com/track/3r9lphnhDFkSV0uUZt6Cl2"
     },
     {
-      "added_at": "2021-03-26 22:18:10",
-      "album": {
-        "name": "Troubadours & trouv\u00e8res",
-        "url": "https://open.spotify.com/album/4lJqokqbHflqKRe0Oy0ClQ"
-      },
-      "artists": [
-        {
-          "name": "Guiot de Dijon",
-          "url": "https://open.spotify.com/artist/5aEJBZ2RkxMxyuMmGs65mW"
-        },
-        {
-          "name": "Thomas Binkley",
-          "url": "https://open.spotify.com/artist/4UX4twmKz2tGEpKLOjdPcm"
-        }
-      ],
-      "duration_ms": 688906,
-      "name": "Guiot de Dijon: Chanterai por mon coraige",
-      "url": "https://open.spotify.com/track/1XYTLJo68ZANYkLqfW824t"
-    },
-    {
       "added_at": "2021-08-06 13:10:05",
       "album": {
         "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
@@ -3251,6 +3231,26 @@
       "duration_ms": 555466,
       "name": "O dulcissime amator (Symphonia virginum)",
       "url": "https://open.spotify.com/track/3XxphHH0vu2X6eM3g2zDG5"
+    },
+    {
+      "added_at": "2021-03-26 22:18:10",
+      "album": {
+        "name": "Troubadours & trouv\u00e8res",
+        "url": "https://open.spotify.com/album/4lJqokqbHflqKRe0Oy0ClQ"
+      },
+      "artists": [
+        {
+          "name": "Guiot de Dijon",
+          "url": "https://open.spotify.com/artist/5aEJBZ2RkxMxyuMmGs65mW"
+        },
+        {
+          "name": "Thomas Binkley",
+          "url": "https://open.spotify.com/artist/4UX4twmKz2tGEpKLOjdPcm"
+        }
+      ],
+      "duration_ms": 688906,
+      "name": "Guiot de Dijon: Chanterai por mon coraige",
+      "url": "https://open.spotify.com/track/1XYTLJo68ZANYkLqfW824t"
     },
     {
       "added_at": "2020-09-11 10:54:29",
@@ -4753,6 +4753,30 @@
       "url": "https://open.spotify.com/track/0imvWfuObRl13j7umK5RKh"
     },
     {
+      "added_at": "2023-01-27 14:47:18",
+      "album": {
+        "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
+        "url": "https://open.spotify.com/album/5YQyOrkqCiG2JMKCYskLop"
+      },
+      "artists": [
+        {
+          "name": "Hildegard von Bingen",
+          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        },
+        {
+          "name": "I Piccoli Cantori di San Bortolo",
+          "url": "https://open.spotify.com/artist/0qlsFq6n9dtL38tBmHVlV7"
+        }
+      ],
+      "duration_ms": 568053,
+      "name": "De Sancta Maria: Ave Maria auctrix vit\u00e6 - O dulcissima - Gloria (Responsorium)",
+      "url": "https://open.spotify.com/track/6VcDcKZ6TFkiaqhTijWYM3"
+    },
+    {
       "added_at": "2020-09-18 11:57:01",
       "album": {
         "name": "Richard C\u0153ur de Lion, troubadours et trouv\u00e8res",
@@ -4787,30 +4811,6 @@
       "duration_ms": 310666,
       "name": "Chanterai por mon coraige",
       "url": "https://open.spotify.com/track/1ZbucSwQfg59q42LJUAQU1"
-    },
-    {
-      "added_at": "2023-01-27 14:47:18",
-      "album": {
-        "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
-        "url": "https://open.spotify.com/album/5YQyOrkqCiG2JMKCYskLop"
-      },
-      "artists": [
-        {
-          "name": "Hildegard von Bingen",
-          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
-        },
-        {
-          "name": "La Reverdie",
-          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
-        },
-        {
-          "name": "I Piccoli Cantori di San Bortolo",
-          "url": "https://open.spotify.com/artist/0qlsFq6n9dtL38tBmHVlV7"
-        }
-      ],
-      "duration_ms": 568053,
-      "name": "De Sancta Maria: Ave Maria auctrix vit\u00e6 - O dulcissima - Gloria (Responsorium)",
-      "url": "https://open.spotify.com/track/6VcDcKZ6TFkiaqhTijWYM3"
     },
     {
       "added_at": "2023-02-10 13:52:58",

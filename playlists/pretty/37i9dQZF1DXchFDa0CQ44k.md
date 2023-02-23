@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 
 > Form a circle and hold hands, it's time to Dabke! Cover: Mohammad Assaf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,781 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,821 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 20 | [Bahebak Mn Baad Allah](https://open.spotify.com/track/5oCE5R5foOBwF9B3IxzzQf) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Bahebak Mn Baad Allah](https://open.spotify.com/album/6SXj5pyRtUaSUUE1VjBb7w) | 4:17 |
 | 21 | [دلعونا](https://open.spotify.com/track/7sKRep0Z6sZnQjqc6qOvSH) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [الجرح اللي بعدو](https://open.spotify.com/album/43YudfflH4ShSAe4FFX2OI) | 3:54 |
 | 22 | [عللومة عللومة](https://open.spotify.com/track/0zOtmdD1U7rguuFY6Z90hp) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [ما وحشناك](https://open.spotify.com/album/68pZSiCmstUEJkmcaCBM9v) | 3:40 |
-| 23 | [Dak Almani Terashrash \(feat\. Hussam Jned, Dominique Hourani & Wael Jassar\)](https://open.spotify.com/track/61ij76waZnKpjgwPuvZ554) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei), [Hussam Jned](https://open.spotify.com/artist/1lpnuWXZtFIG8zLE95mI9W), [Dominique Hourani](https://open.spotify.com/artist/0P3K3MbSflUxiPFmhxj2HD), [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Bawast Tyabik](https://open.spotify.com/album/7h12uU0N9i05mCSOPR9wXi) | 5:48 |
-| 24 | [فلسطيني](https://open.spotify.com/track/5XVJRGIoMGf2wp0oL3JNFw) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [فلسطيني](https://open.spotify.com/album/5P2ypwyHbXRZat8f5bD0la) | 3:16 |
+| 23 | [فلسطيني](https://open.spotify.com/track/5XVJRGIoMGf2wp0oL3JNFw) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [فلسطيني](https://open.spotify.com/album/5P2ypwyHbXRZat8f5bD0la) | 3:16 |
+| 24 | [Dak Almani Terashrash \(feat\. Hussam Jned, Dominique Hourani & Wael Jassar\)](https://open.spotify.com/track/61ij76waZnKpjgwPuvZ554) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei), [Hussam Jned](https://open.spotify.com/artist/1lpnuWXZtFIG8zLE95mI9W), [Dominique Hourani](https://open.spotify.com/artist/0P3K3MbSflUxiPFmhxj2HD), [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Bawast Tyabik](https://open.spotify.com/album/7h12uU0N9i05mCSOPR9wXi) | 5:48 |
 | 25 | [Galatli](https://open.spotify.com/track/2T83iujQuX1Vd0IHJKQCxj) | [Al Walid Hallani](https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v) | [Galatli](https://open.spotify.com/album/55Z40WuAarxgzP35nT39CO) | 3:43 |
 | 26 | [Dabke Wdalouna](https://open.spotify.com/track/5XyULdxiS7pNVX8LR4amiv) | [Walid Sarkiss](https://open.spotify.com/artist/1Q9U9i2Hwtub6Ug9ITHlVS) | [Eid El Arz](https://open.spotify.com/album/4L4fxwLWcK7pyGIyyCPE1X) | 9:28 |
 | 27 | [Ya Miyit Hala](https://open.spotify.com/track/3P3WoRuZqF63iciXBvyUoa) | [Merhi Serhan](https://open.spotify.com/artist/1plKSh9bv4wNad4n5GkoJE) | [Ya Miyit Hala](https://open.spotify.com/album/2WhngcT5KklbQYUv88Jo6J) | 3:40 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 48 | [Wahad Tnean](https://open.spotify.com/track/0y9njiG24r8Pc7iPNuY5zl) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Wahad Tnean](https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt) | 3:07 |
 | 49 | [Sabrak Aalaya](https://open.spotify.com/track/2ATBgD8HftsDNKzDZf56WI) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Samt](https://open.spotify.com/album/0o9QyQoKPSXnz8eiRtlhbS) | 4:00 |
 | 50 | [Cyprus](https://open.spotify.com/track/50cvVUrWKoOWyfv4LdgPPu) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Cyprus](https://open.spotify.com/album/7Fcbxz3Tml7F7sWdDSvhIK) | 3:21 |
-| 51 | [Zareef Al Tool](https://open.spotify.com/track/4vhtERQbfYJHIe86HGH1W8) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL) | [Shabiaat](https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ) | 8:12 |
-| 52 | [قولوا](https://open.spotify.com/track/2mIeLxiwLLw5E4QlnR8m2x) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [ملحم زين ٢٠١٩](https://open.spotify.com/album/0cUhs9XCRSl3ZYaD7l94G9) | 3:39 |
+| 51 | [قولوا](https://open.spotify.com/track/2mIeLxiwLLw5E4QlnR8m2x) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [ملحم زين ٢٠١٩](https://open.spotify.com/album/0cUhs9XCRSl3ZYaD7l94G9) | 3:39 |
+| 52 | [Zareef Al Tool](https://open.spotify.com/track/4vhtERQbfYJHIe86HGH1W8) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL) | [Shabiaat](https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ) | 8:12 |
 | 53 | [يامهرة](https://open.spotify.com/track/38CVcpWpiCftQQXaoW2h77) | [Hani Mitwasi](https://open.spotify.com/artist/5m8fc8h0xd4QfpJzcPI9NK) | [يامهرة](https://open.spotify.com/album/337XZCYPpBVgNF53Efmr5J) | 4:37 |
 | 54 | [Ya Qasi](https://open.spotify.com/track/0omcGCy8cJ8aFku257ctWO) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Ya Qasi](https://open.spotify.com/album/0UWsb464VFOomlrr6NseRu) | 3:23 |
 | 55 | [من الآخر](https://open.spotify.com/track/5Izw7BxDnTesneXx34MPs0) | [Wafeek Habib](https://open.spotify.com/artist/4t6ICYfqVNMn1B168kdzrY) | [من الآخر](https://open.spotify.com/album/7MdUlmnd8kVsiWdzVPxr9r) | 3:57 |
 | 56 | [Ahla Sabiyyi](https://open.spotify.com/track/29RO49exsxezSkdZLRKvK4) | [Jad Ezzedine](https://open.spotify.com/artist/76Bde0ICsFrWu9Bzv2atL3) | [Ahla Sabiyyi](https://open.spotify.com/album/2xkWxkBmOlCGsnCIFtbJNU) | 3:49 |
 | 57 | [Chou Kan Badi](https://open.spotify.com/track/41A30e95vtUZWtg9GxZmKT) | [Naji Osta](https://open.spotify.com/artist/4bgldXaGu7WvZpkW1NfyBp) | [Chou Kan Badi](https://open.spotify.com/album/00IObiyCatT9dgrwgCYOmy) | 3:58 |
-| 58 | [Halali Ya Mali \- original](https://open.spotify.com/track/2SqOPpcVQbWYTZpTbWMYQw) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL), [Tamim Asadi](https://open.spotify.com/artist/3ESHX6bPM5q2x8McjsZEMG) | [Afrah](https://open.spotify.com/album/5COJbBMySaSZseXXFFq6mh) | 6:55 |
-| 59 | [Ah Ya Hanan](https://open.spotify.com/track/5rZUSiJgQUMoo6nGoyzj2d) | [Moudy Nassar](https://open.spotify.com/artist/7Mafn4uzAseQADYkXx3VrP) | [Ah Ya Hanan](https://open.spotify.com/album/5c039mRoeey949juDKC4Q0) | 3:21 |
-| 60 | [Ach'hadlak](https://open.spotify.com/track/11Jp7Vr2b27YFeWeafF7XR) | [Wissam Al Rached](https://open.spotify.com/artist/5oFRthuA92B8mtcg1sCjS7) | [Ach'hadlak](https://open.spotify.com/album/4PRwROFXegkxVhizqno7Es) | 4:48 |
+| 58 | [Ah Ya Hanan](https://open.spotify.com/track/5rZUSiJgQUMoo6nGoyzj2d) | [Moudy Nassar](https://open.spotify.com/artist/7Mafn4uzAseQADYkXx3VrP) | [Ah Ya Hanan](https://open.spotify.com/album/5c039mRoeey949juDKC4Q0) | 3:21 |
+| 59 | [Ach'hadlak](https://open.spotify.com/track/11Jp7Vr2b27YFeWeafF7XR) | [Wissam Al Rached](https://open.spotify.com/artist/5oFRthuA92B8mtcg1sCjS7) | [Ach'hadlak](https://open.spotify.com/album/4PRwROFXegkxVhizqno7Es) | 4:48 |
+| 60 | [Habib Hebbak](https://open.spotify.com/track/4XGlYQTcgEHD1WbMgipNWI) | [Majd Moussaly](https://open.spotify.com/artist/2qE29yka4xvCI58mYGLEDG) | [Layali Beirut, Vol\. III](https://open.spotify.com/album/5jGAjPoPiqsjuOvb0IBTmr) | 4:07 |
 
-Snapshot ID: `MTY0NDQ5MTYwMiwwMDAwMDAwMGM3NGE5ZjY1ZTBhMWM1YWVjNTliM2MwNzg2NWEwZDgw`
+Snapshot ID: `MTY0NDQ5MTYwMiwwMDAwMDAwMDk1YmQ2MTkwMTM1MDMzMzczYjVmODAyZGMwODkwMmI5`

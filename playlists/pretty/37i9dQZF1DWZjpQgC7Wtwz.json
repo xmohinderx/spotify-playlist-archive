@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hay tamales! \u00a1Tamales calientitos! Verdes, rojos, de dulce, de mole, \u00a1y hasta oaxaque\u00f1os!",
-  "num_followers": 59363,
+  "num_followers": 59448,
   "original_name": "La Tamalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM5Mzc5OSwwMDAwMDAwMGViMGJiOGZiMzRkYWIxODFjYTJmYWQ0MDIxNGM3OTY2",
+  "snapshot_id": "MTY3MzM5Mzc5OSwwMDAwMDAwMDBlMjJlNDc5YmMwN2I4MDJmMjljYmU3Mjk5ZjA2ODRj",
   "tracks": [
     {
       "added_at": "2023-01-10 23:36:39",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
-      "added_at": "2023-01-10 23:36:39",
-      "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
       "added_at": "2021-11-30 20:14:28",
       "album": {
         "name": "Canci\u00f3n Animal (Remastered)",
@@ -455,6 +439,22 @@
       "duration_ms": 212746,
       "name": "De M\u00fasica Ligera - Remasterizado 2007",
       "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
+    },
+    {
+      "added_at": "2023-01-10 23:36:39",
+      "album": {
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 228426,
-      "name": "Amargo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "Nada Personal (Remastered)",
         "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 229160,
       "name": "Cuando Pase El Temblor - Remasterizado 2007",
       "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 228426,
+      "name": "Amargo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Los Yaguaru",
-        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 234945,
-      "name": "Suavemente Amor",
-      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 368320,
       "name": "Entre dos tierras",
       "url": "https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Los Yaguaru",
+        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 234945,
+      "name": "Suavemente Amor",
+      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 228675,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
         "name": "La Combinacion Vallenata",
         "url": "https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 272533,
       "name": "A Pesar De Todo",
       "url": "https://open.spotify.com/track/6PJlqc0VY2xHVRpdG64O09"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228675,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Almas Gemelas",
-        "url": "https://open.spotify.com/album/1g2WJlNhY41uX1LvqHCc3B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Controversia",
-          "url": "https://open.spotify.com/artist/2HaFbAOPIHQbvFbxho9Zgh"
-        }
-      ],
-      "duration_ms": 245917,
-      "name": "Almas Gemelas",
-      "url": "https://open.spotify.com/track/2QMhGGf1lgvq6ZdO19yEnZ"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "Latin Ska Force",
         "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 217973,
       "name": "Sk\u00e1pate",
       "url": "https://open.spotify.com/track/1vLn1lpgNJTHLcLSJqLEK0"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Almas Gemelas",
+        "url": "https://open.spotify.com/album/1g2WJlNhY41uX1LvqHCc3B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Controversia",
+          "url": "https://open.spotify.com/artist/2HaFbAOPIHQbvFbxho9Zgh"
+        }
+      ],
+      "duration_ms": 245917,
+      "name": "Almas Gemelas",
+      "url": "https://open.spotify.com/track/2QMhGGf1lgvq6ZdO19yEnZ"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -2041,22 +2041,6 @@
       "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
     },
     {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/6Qb0f1j9fnfpraiPN509RI"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 274093,
-      "name": "El Matador",
-      "url": "https://open.spotify.com/track/3EsjrObXPhXA79Cr4QixY8"
-    },
-    {
       "added_at": "2023-01-10 23:36:39",
       "album": {
         "name": "Solstis - De Le\u00f3n Larregui",
@@ -2071,6 +2055,22 @@
       "duration_ms": 224826,
       "name": "Brillas",
       "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/6Qb0f1j9fnfpraiPN509RI"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 274093,
+      "name": "El Matador",
+      "url": "https://open.spotify.com/track/3EsjrObXPhXA79Cr4QixY8"
     },
     {
       "added_at": "2021-11-30 20:14:28",

@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Christian Nodal
 
-2,082 songs - 4 day 13 hr 48 min
+2,083 songs - 4 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1717,6 +1717,7 @@
 | [Si Dios Conmigo, Quién Contra Mí](https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Si Dios Conmigo, Quién Contra Mí](https://open.spotify.com/album/1035I3Ilwk2w85l1Ma1DXS) | 3:32 | 2023-01-27 | 2023-02-04 |
 | [Si Es Cierto Que Te Vas](https://open.spotify.com/track/5ilf0RHAnRF5miyE9ad8O7) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Si Es Cierto Que Te Vas](https://open.spotify.com/album/2gHy7XdAt8pUrtB2mWq2f3) | 3:36 | 2022-09-23 | 2022-10-01 |
 | [Si Es Feliz](https://open.spotify.com/track/2U9JrW474b8IOcmwk9Hj7X) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu), [Carlos Sarabia](https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw) | [Hasta el Cielo](https://open.spotify.com/album/7fDSPyDbQQbHT47Spts4YV) | 3:10 | 2022-05-20 | 2022-05-28 |
+| [Si Esta Botella Hablara](https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Si Esta Botella Hablara](https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o) | 3:08 | 2023-02-17 |  |
 | [Si Hay Otra Vida \- En Vivo](https://open.spotify.com/track/1yfOXQ3CZcqhbv7gumbRNi) | [Jesús Chaparro](https://open.spotify.com/artist/65N3M4suQtP8orxSn9RU1q) | [Si Hay Otra Vida \(En Vivo\)](https://open.spotify.com/album/4MC791D1m3smxPwEezXGjx) | 3:30 | 2022-11-18 | 2022-11-26 |
 | [Si Me Dice Que Si](https://open.spotify.com/track/6NVnWPZpbSrwFHpdFhg1rT) | [Konzentido de Afid Ferrer](https://open.spotify.com/artist/7FONGfnHl6HPvHaJAik9yp) | [Si Me Dice Que Si](https://open.spotify.com/album/5eNucy98bZyS68fWujHdZA) | 2:56 | 2022-07-29 | 2022-08-06 |
 | [Si Me Perdiste](https://open.spotify.com/track/32Xh7Spr1rTtjIYC1G0gGe) | [Siggno](https://open.spotify.com/artist/6RTlv2UCWtRggV0rIo5TrN) | [Sobrevivir](https://open.spotify.com/album/5JgQ9Pl1pM13lJFHms5oxo) | 3:38 | 2022-06-03 | 2022-06-11 |

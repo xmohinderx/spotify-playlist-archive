@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 146270,
+  "num_followers": 146271,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYzODcyNiwwMDAwMDAwMDMxZDQ5N2Y1ZDJkNDUxODA4ZWUxNzEzNGI4ZjAwZDgx",
+  "snapshot_id": "MTY3NjYzODcyNiwwMDAwMDAwMDgxYTM0MGE0YzQ5NDNiM2I2NmQyOWI1ZTRmYjU3NzJj",
   "tracks": [
     {
       "added_at": "2023-02-16 23:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Love You Anymore",
-      "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
         "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 211715,
       "name": "Hold My Girl (Acoustic Version)",
       "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Love You Anymore",
+      "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Vincent",
-        "url": "https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS"
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 223560,
-      "name": "Vincent",
-      "url": "https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7"
+      "duration_ms": 246053,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -991,34 +991,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+        "name": "Vincent",
+        "url": "https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 246053,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
-      },
-      "artists": [
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 211514,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
+      "duration_ms": 223560,
+      "name": "Vincent",
+      "url": "https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1035,6 +1019,22 @@
       "duration_ms": 181400,
       "name": "Please Don't Say You Love Me",
       "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 211514,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/4AgPd1f3cOa9fmTdPGW7UR"
+      },
+      "artists": [
+        {
+          "name": "K E M A L",
+          "url": "https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo"
+        }
+      ],
+      "duration_ms": 138546,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/51tjPYPw6eYxlsqRxjLJaH"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Maybe I'll Find You Again",
         "url": "https://open.spotify.com/album/55B16U7z2wQTFlr27JKmdX"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/4AgPd1f3cOa9fmTdPGW7UR"
-      },
-      "artists": [
-        {
-          "name": "K E M A L",
-          "url": "https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo"
-        }
-      ],
-      "duration_ms": 138546,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/51tjPYPw6eYxlsqRxjLJaH"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "If That's Alright",
         "url": "https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx"
       },
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Better Luck Next Time",
+        "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 172371,
+      "name": "Better Luck Next Time",
+      "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
       },
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Better Luck Next Time",
-        "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 172371,
-      "name": "Better Luck Next Time",
-      "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Rhythm Inside (Acoustic)",
         "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 212171,
       "name": "Rhythm Inside - Acoustic",
       "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1399,6 +1383,22 @@
       "duration_ms": 173682,
       "name": "Be Kind (with Halsey) [Stripped]",
       "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Be Your Man",
-        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Be Your Man",
-      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 226386,
       "name": "Warwick Avenue",
       "url": "https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1543,6 +1543,22 @@
       "duration_ms": 186463,
       "name": "Lose You Too",
       "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 284720,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "What A Day - Edit",
-      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "isaac gracie (extended edition)",
         "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
       },
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "A Song For Every Moon",
-        "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 205029,
-      "name": "Just The Same",
-      "url": "https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ"
+      "duration_ms": 257773,
+      "name": "What A Day - Edit",
+      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
+        "name": "A Song For Every Moon",
+        "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
         }
       ],
-      "duration_ms": 284720,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
+      "duration_ms": 205029,
+      "name": "Just The Same",
+      "url": "https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ"
     },
     {
       "added_at": "2023-02-16 23:00:00",

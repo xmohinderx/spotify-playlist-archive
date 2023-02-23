@@ -4,7 +4,7 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Skillet
 
-138 songs - 9 hr 8 min
+139 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Let Go](https://open.spotify.com/track/5lb9lMxW4p4Wm0Ecdv8W7f) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Three Nails](https://open.spotify.com/album/544EtjtqYdmqkar16e8xtc) | 3:30 | 2022-03-11 |  |
 | [Listen Friend](https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK) | [Above Only](https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn) | [Listen Friend](https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M) | 4:32 | 2022-01-14 |  |
 | [Live Again](https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH) | [Torndown](https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ) | [Live Again](https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG) | 3:45 | 2021-05-28 |  |
-| [Louder Than a Lion](https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT) | [Eisley](https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg) | [I'm Only Dreaming](https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP) | 3:56 | 2021-05-28 |  |
+| [Louder Than a Lion](https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT) | [Eisley](https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg) | [I'm Only Dreaming](https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP) | 3:56 | 2021-05-28 | 2023-02-23 |
 | [Lower East Side](https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [Songs for the Late Night Drive Home](https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl) | 3:31 | 2022-03-11 |  |
 | [Lower East Side](https://open.spotify.com/track/3UzWO1IScDGFfdz5pYLsCB) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [Songs for the Late Night Drive Home](https://open.spotify.com/album/2NkJ9lEGNMiqftqoyjO80G) | 3:31 | 2021-05-28 | 2022-07-29 |
 | [Melancholy Machines](https://open.spotify.com/track/1vc8iLHZV9S9q5qZ0vz6t3) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/5UmDBwQy39y8Hs8CUvR8c4) | 4:20 | 2022-01-14 | 2022-11-12 |
@@ -124,6 +124,7 @@
 | [The Executioner](https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [The Executioner](https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT) | 4:07 | 2023-02-17 |  |
 | [The Fire Itself](https://open.spotify.com/track/0qrjqzcP1kbhtKD2HfODmy) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [The Fire Itself](https://open.spotify.com/album/5Oo7UOjikKgfz36UDS1RAW) | 3:39 | 2022-01-14 | 2023-02-18 |
 | [The First & the Last](https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [The First & the Last](https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m) | 3:39 | 2021-05-28 |  |
+| [The Light](https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [The Light](https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C) | 3:21 | 2023-02-17 |  |
 | [The Resistance](https://open.spotify.com/track/5O9Dz0h08LuBi0aVvDcylh) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:52 | 2021-05-28 | 2022-01-15 |
 | [The Shelter](https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se) | [All For The King](https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF) | [Let There Be Light](https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23) | 4:18 | 2022-01-14 |  |
 | [The Truth](https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju) | [I Am Spartacus](https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l) | [Unite](https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi) | 4:17 | 2021-05-28 | 2023-02-18 |

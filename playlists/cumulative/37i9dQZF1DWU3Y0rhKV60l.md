@@ -4,7 +4,7 @@
 
 > Keep your focus and drown out distracting sounds with white noise from the oceans.
 
-65 songs - 2 hr 57 min
+66 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Misty Waves](https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 2:54 | 2022-11-23 |  |
 | [Naples Beach](https://open.spotify.com/track/0P3wyNDU63zoKiqJmrQI7g) | [Tailormade Ocean Waves](https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:02 | 2022-11-23 |  |
 | [Oceans Outside](https://open.spotify.com/track/4ndb9Sv5pTIolY8Lt5jmSn) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Soft Waves](https://open.spotify.com/album/0AVeNcB2nbFWNFCoN4znCx) | 2:02 | 2022-11-23 |  |
-| [Powerful Waves](https://open.spotify.com/track/3DqGnCwlU4RDBOdB2AExfv) | [Exotic Wave Sounds](https://open.spotify.com/artist/1kwv2ZDCeSTSoa9J88tN3N) | [Part One](https://open.spotify.com/album/39zcjubfAiJRC0EbKtruol) | 3:30 | 2023-02-15 |  |
+| [Powerful Waves](https://open.spotify.com/track/3DqGnCwlU4RDBOdB2AExfv) | [Exotic Wave Sounds](https://open.spotify.com/artist/1kwv2ZDCeSTSoa9J88tN3N) | [Part One](https://open.spotify.com/album/39zcjubfAiJRC0EbKtruol) | 3:30 | 2023-02-15 | 2023-02-23 |
 | [Relax Waves](https://open.spotify.com/track/1TCKDptBmCHnGZ9cqGoBSZ) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Relax Waves](https://open.spotify.com/album/6Qvj2A6BbHE0449Y6DD7Pf) | 1:34 | 2022-11-23 |  |
 | [Relaxing Wave Sounds](https://open.spotify.com/track/7sdoVOZWSmSJGZMqKUUsu5) | [Ilmium](https://open.spotify.com/artist/3SkVjj0FTFiYQ0aLDTtxf8) | [Sleep Sound Green Noise](https://open.spotify.com/album/3mcbAYY05vqOQvEOQaZPnb) | 2:00 | 2022-11-23 |  |
 | [Relaxing Waves](https://open.spotify.com/track/4u2hY8U7zkJWoPHYgVU0z9) | [Coast to Coast Recordings](https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC) | [Ocean Waves for Sleep Volume 3](https://open.spotify.com/album/3Gee2RZkrNJhpxTLn9sQae) | 3:42 | 2022-11-23 |  |
@@ -51,6 +51,7 @@
 | [Soothing Mediterranean Waves 1](https://open.spotify.com/track/2ut8jbR0IscCy1BXbLUhbu) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Soothing Mediterranean Waves](https://open.spotify.com/album/1vghmld08G61LHeiw0ULMq) | 3:14 | 2022-11-23 |  |
 | [Soothing Mediterranean Waves 2](https://open.spotify.com/track/7GUIUopUV2y3PaGx0xUZcc) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Soothing Mediterranean Waves](https://open.spotify.com/album/1vghmld08G61LHeiw0ULMq) | 3:34 | 2022-11-23 |  |
 | [Soothing Ocean Sound](https://open.spotify.com/track/2ACz2tjRaxwK2v7Gsmm5X2) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Soothing Ocean Sound](https://open.spotify.com/album/6YwzxAxdw92YooMgYSLbeq) | 2:49 | 2022-11-23 |  |
+| [Soothing Sirens](https://open.spotify.com/track/38cFWalIAa6hrSBQDAdHky) | [Ocean Bank](https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr) | [Dancing with the Sea](https://open.spotify.com/album/0A784kyTLE8armtk5OTXi7) | 2:04 | 2023-02-15 |  |
 | [Soothing Waves](https://open.spotify.com/track/0bhqI2juxlq9NIMN35cCm1) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Ocean Sounds Vol\. 1](https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59) | 2:34 | 2022-11-23 |  |
 | [Still Thoughts And Wave Sounds](https://open.spotify.com/track/2JIPn2N3uxyCvu2HlNPnqL) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Moments Of Waves](https://open.spotify.com/album/6bDLxgwRP0nDtNpwifS95d) | 2:51 | 2022-11-23 |  |
 | [Stormy Beach Waves](https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Stormy Beach Waves](https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc) | 2:10 | 2022-11-23 |  |

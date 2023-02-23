@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-680 songs - 1 day 16 hr 35 min
+681 songs - 1 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 | 2022-07-22 |  |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2022-01-24 |  |
 | [Colors](https://open.spotify.com/track/5zn38bzjOZhCNmipZ9agN1) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Colors](https://open.spotify.com/album/3uO1F4TvpNqp1EQ6RNxfF1) | 3:11 | 2021-12-17 | 2022-07-28 |
-| [Colors](https://open.spotify.com/track/6pPMNzjGavElntvvM4eLoA) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 3:11 | 2023-02-10 |  |
+| [Colors](https://open.spotify.com/track/6pPMNzjGavElntvvM4eLoA) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 3:11 | 2023-02-10 | 2023-02-23 |
 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 | 2021-12-17 |  |
 | [Come To The Beach \- Acoustic Version](https://open.spotify.com/track/5AYixj0Xa8qMPVeFS2uuzT) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Come To The Beach \(Acoustic Version\)](https://open.spotify.com/album/4cAEODeG7oWbfqAbXZD59Y) | 2:28 | 2021-12-17 | 2022-07-29 |
 | [Control](https://open.spotify.com/track/0H2oAJ06XboQPa4DnKSbXL) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Control](https://open.spotify.com/album/7Ea1qWHjd65hekrOI51DJl) | 3:30 | 2021-12-17 | 2022-07-25 |
@@ -562,6 +562,7 @@
 | [Take It Slow \- Organic Edit](https://open.spotify.com/track/1GrGjdBj3VeSm2deNGE6Pm) | [Michael Lane](https://open.spotify.com/artist/6UUPmOaF0syyjXaWHB68xK) | [Take It Slow \(Organic Edit\)](https://open.spotify.com/album/7DH3Z415tH4x2UYXJfd4C0) | 4:51 | 2021-12-17 | 2022-07-11 |
 | [Talk You Down \(feat\. SYML\) \- Acoustic](https://open.spotify.com/track/4sCigQB2dkJGAMNVsjx1Tf) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Talk You Down \(feat\. SYML\) \[Acoustic\]](https://open.spotify.com/album/5ARx8tknWU7aatboyCgizN) | 3:08 | 2021-12-17 | 2022-04-16 |
 | [Talking to Myself \(Stripped\)](https://open.spotify.com/track/0o72RUfSENq11gnYzYewEv) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Talking to Myself \(Stripped\)](https://open.spotify.com/album/4ErnzS53RXz0hDNhXzDdCS) | 3:58 | 2021-12-17 | 2022-06-12 |
+| [Tears Run Dry](https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Tears Run Dry](https://open.spotify.com/album/6tOPyaHFIOa9zXDQr5m4cJ) | 4:14 | 2023-02-10 |  |
 | [Teenage Drug](https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:40 | 2021-12-17 |  |
 | [Tell Her You Love Her \(feat\. Mat Kearney\)](https://open.spotify.com/track/7b9oZ5tuGDKRWsL0lgQXqg) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x), [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Tell Her You Love Her \(feat\. Mat Kearney\)](https://open.spotify.com/album/3qGdUcPXD86hAZOcztcIS8) | 4:23 | 2021-12-17 |  |
 | [Tennessee](https://open.spotify.com/track/1NuRdepUMCGNgZJoi1R9Ov) | [Lizzy LeBleu](https://open.spotify.com/artist/33zqILedolFKP2PPiTgroc) | [Tennessee](https://open.spotify.com/album/6fQbRZJWGE6S0BNVVJYtJj) | 5:54 | 2021-12-17 | 2022-07-29 |

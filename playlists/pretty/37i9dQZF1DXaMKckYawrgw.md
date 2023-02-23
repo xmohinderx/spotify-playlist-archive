@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > Ska 100% hecho en México con chilito del que pica\. Panteón Rococó en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,618 likes - 101 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,620 likes - 101 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

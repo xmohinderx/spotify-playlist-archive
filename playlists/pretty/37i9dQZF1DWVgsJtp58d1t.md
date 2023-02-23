@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. Cover: Kelela, artwork by Ian Woods Cover: <a href="spotify:artist:1U0sIzpRtDkvu1hXXzxh60">Kelela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,644 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,647 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Love Shit](https://open.spotify.com/track/4KULGT81d2sOsYKsDCICMQ) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Love Shit](https://open.spotify.com/album/3KKBDe0D6VtvycAo1Uv8Rq) | 2:20 |
 | 100 | [Uh Ohhh](https://open.spotify.com/track/2Mj6dY4if9Utm2PONcFJ9O) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Uh Ohhh](https://open.spotify.com/album/3oLpVsCNrXzenMpK6NYy1a) | 2:12 |
 
-Snapshot ID: `MTY3NjY1NzE2OCwwMDAwMDAwMDZjYjQzZjg5ZDc3MDQ4ZGJjNjg4OGY1MzkxMmYwNWVh`
+Snapshot ID: `MTY3NzAzMzE2NSwwMDAwMDAwMDM1ZTdjYWU2OThhNmZiMzhiMTBiY2UzNWEyMzYyOTYy`

@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 1172020,
+  "num_followers": 1174188,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDc4Njk2YTk1ODViMDBmNTQ4NTM4Yjc5MTY5ODg4OGJi",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGQ3MzBkMDg3MmM1NmZmMzRhMzczYjc3YmJjZDA2MjZj",
   "tracks": [
     {
       "added_at": "2023-02-17 05:01:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-02-17 05:01:00",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
         "name": "Hex",
         "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 122221,
       "name": "Hex",
       "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2023-02-17 05:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-02-17 05:01:00",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Fall in Love with You.",
-      "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
         "name": "Do You Like Me?",
         "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 227663,
       "name": "Do You Like Me?",
       "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Fall in Love with You.",
+      "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
     },
     {
       "added_at": "2023-02-17 05:01:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-02-17 05:01:00",
       "album": {
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 260776,
+      "name": "Like I Want You",
+      "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
         "name": "digital druglord",
         "url": "https://open.spotify.com/album/0a8WSH44kA5hR4MQ6LyFDB"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 180018,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/0rOLFkjY5DSIViVBNnzOuK"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 260776,
-      "name": "Like I Want You",
-      "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
     },
     {
       "added_at": "2023-02-17 05:01:00",

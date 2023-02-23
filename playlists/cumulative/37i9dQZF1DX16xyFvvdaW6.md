@@ -4,7 +4,7 @@
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-55 songs - 4 hr 1 min
+56 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Enamorado De Ti](https://open.spotify.com/track/6QQaNfFVNVBzCMCHfTcNln) | [Strike 3](https://open.spotify.com/artist/3hNpQuSjrFXElHOEzmwQ2l) | [Llevate El Tiempo](https://open.spotify.com/album/65tShWSVCNe5Fgj5ogLDBl) | 5:26 | 2022-07-22 |  |
 | [Fe](https://open.spotify.com/track/2HlSpAMXFABYqYTOdT7C8m) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [Santo Remedio](https://open.spotify.com/album/1gtCpknow1BRL3VG4bVaIB) | 3:10 | 2022-07-22 |  |
 | [Harto](https://open.spotify.com/track/5U0V9jjQie6QhNU3khHBhi) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [¿Como Me Ves?](https://open.spotify.com/album/6P0VO2HC3OV54KfupPb2Vk) | 4:07 | 2022-07-22 |  |
-| [La Bendición](https://open.spotify.com/track/3xATGvvRb6L3pN6VQJN3o9) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/1ftyzyvz2FGRLq6p4Lx8P0) | 3:49 | 2022-07-22 |  |
+| [La Bendición](https://open.spotify.com/track/2I7bBpIx0X6yJcWY3AGNi1) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/1b53jIDNaeJhlerPMnCY9e) | 3:49 | 2022-10-25 |  |
+| [La Bendición](https://open.spotify.com/track/3xATGvvRb6L3pN6VQJN3o9) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/1ftyzyvz2FGRLq6p4Lx8P0) | 3:49 | 2022-07-22 | 2023-02-23 |
 | [Libre para Adorar \(En Vivo\)](https://open.spotify.com/track/0pKfAdb93p1moBIeNpdT7C) | [Gerry Marquez](https://open.spotify.com/artist/5Duuy8GUonNkuVCTZnz5ds) | [Un Tiempo Nuevo](https://open.spotify.com/album/2r5OHljOkWZ6qGnJAE3qyr) | 4:13 | 2022-07-22 |  |
 | [Libre Soy](https://open.spotify.com/track/4yblg7xlfOCz6OhHkx9P1L) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [Volver a Respirar](https://open.spotify.com/album/2F4N4AFpV85vooRD19ZInX) | 4:18 | 2022-07-22 |  |
 | [Luz](https://open.spotify.com/track/4xs3I7WgyCmOxohBVmurYX) | [D\-Mente](https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7) | [Valiente Eternidad](https://open.spotify.com/album/7f24LwX5bQTDVjBkOQh2oy) | 4:12 | 2022-07-22 |  |

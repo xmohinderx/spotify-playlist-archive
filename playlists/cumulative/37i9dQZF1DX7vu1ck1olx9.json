@@ -692,7 +692,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 122758,
       "name": "Devine",
       "url": "https://open.spotify.com/track/2UAZ0GqmyRh5O3A17FOlOy"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 233934,
       "name": "High Grade",
       "url": "https://open.spotify.com/track/148fw8hR1GJWy8Wv8Njmae"
@@ -2803,7 +2803,7 @@
     },
     {
       "album": {
-        "name": "Granat Session, Vol. II",
+        "name": "Granat Session Vol. II",
         "url": "https://open.spotify.com/album/0JqAJeILF8gY4vOzmjUXkE"
       },
       "artists": [

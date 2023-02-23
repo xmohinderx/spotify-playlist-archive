@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-633 songs - 1 day 15 hr 1 min
+634 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Bohemian Rhapsody](https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Suicide Squad: The Album](https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8) | 6:03 | 2022-06-10 |  |
 | [Bones](https://open.spotify.com/track/0hGO3Ws99t05Iboxcve9DC) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bones](https://open.spotify.com/album/3xHx0ZEM8KLsEN7yGqYUAf) | 2:58 | 2021-10-20 | 2022-07-22 |
 | [Boom Clap](https://open.spotify.com/track/3j0oJtPonSYt9f5jHVLb91) | [Lennon & Maisy](https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr) | [Boom Clap](https://open.spotify.com/album/2R7c2w7VihO8ouuNAjjOKj) | 2:55 | 2021-10-20 | 2022-07-19 |
-| [Boots Of Spanish Leather](https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Boots Of Spanish Leather](https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT) | 4:42 | 2022-04-29 |  |
+| [Boots Of Spanish Leather](https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Boots Of Spanish Leather](https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT) | 4:42 | 2022-04-29 | 2023-02-23 |
 | [Both Sides Now \(feat\. Natalie Prass\)](https://open.spotify.com/track/1rBmszepBsy1Wgq8ijQ8ak) | [Alva Leigh](https://open.spotify.com/artist/0Gfyhc754mTJyx0XAxXnD5), [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [In Nashville](https://open.spotify.com/album/1yQ0wwJJHexIeAK2fOqt4r) | 4:42 | 2021-10-20 | 2022-07-24 |
 | [Brass in Pocket](https://open.spotify.com/track/1NUpIqsrU4UBxNvmeznDQK) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/7yzvoOWugzfdTuqCeedb4l) | 4:01 | 2021-10-20 | 2022-07-29 |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:54 | 2021-10-20 |  |
@@ -312,6 +312,7 @@
 | [If I Ain’t Got You \- James Bay Spotify Session 2015 "Alicia Keys Cover"](https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 4:21 | 2021-10-20 |  |
 | [If I Fell \- Acoustic](https://open.spotify.com/track/1M0i7gzsHulM28i7dgE32t) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/3toVRkWzjEYU9U51GDqllW) | 3:23 | 2021-10-20 | 2022-06-29 |
 | [If I Needed You](https://open.spotify.com/track/0llpbPQLATUggJkRkZovL9) | [Matthew Barber & Jill Barber](https://open.spotify.com/artist/368ITj3nE0l1DrS8Gkg20T) | [The Family Album](https://open.spotify.com/album/449bkc35qyRId5JYy8JNeI) | 4:22 | 2021-10-20 | 2022-07-24 |
+| [If Not for You \- 2014 Remaster](https://open.spotify.com/track/5zUP3RRw1vmZAsswtE3GrP) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 3:30 | 2022-06-10 |  |
 | [If Not For You \- Remastered 2014](https://open.spotify.com/track/7ykaUgkdQWJLsMuOymTV2A) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:30 | 2022-04-29 | 2023-02-19 |
 | [If You Could Read My Mind](https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [If You Could Read My Mind](https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4) | 3:17 | 2021-10-20 | 2022-07-29 |
 | [Imagine](https://open.spotify.com/track/4xVtiYLS2q1r6bY1Wio7Tu) | [REMMI](https://open.spotify.com/artist/14eQOEJwQwEFzqlaXuSMjf), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Imagine](https://open.spotify.com/album/3GLIXA3lo0L8S5LBfX7UzX) | 3:35 | 2021-10-20 | 2022-07-29 |

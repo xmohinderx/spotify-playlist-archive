@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV"
+    },
+    {
+      "album": {
         "name": "Fight My Fight For Me",
         "url": "https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB"
       },
@@ -3671,6 +3689,24 @@
     },
     {
       "album": {
+        "name": "Known, Seen, Loved",
+        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188138,
+      "name": "Known, Seen, Loved",
+      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
+    },
+    {
+      "album": {
         "name": "Kyrie Eleison (It's Mercy We Need)",
         "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
@@ -3914,7 +3950,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 161219,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
@@ -5596,7 +5632,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 196161,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"

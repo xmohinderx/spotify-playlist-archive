@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-375 songs - 1 day 0 hr 55 min
+376 songs - 1 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Can't Help Loving That Man](https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Can't Help Loving That Man](https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U) | 4:29 | 2023-01-26 |  |
 | [Candlelight](https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 5:42 | 2022-06-14 | 2022-11-28 |
 | [Candy](https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:24 | 2023-01-12 |  |
-| [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 | 2021-12-14 |  |
+| [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 | 2021-12-14 | 2023-02-23 |
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2020-10-20\* | 2020-12-09 |
 | [Clear as Autumn Nights](https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [This Is What I Want for Christmas](https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV) | 5:01 | 2021-11-30 |  |
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-09-29 |  |
@@ -212,7 +212,7 @@
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-06-14 |  |
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-09-29 |  |
 | [Margaret Dances](https://open.spotify.com/track/7KwrcuwPG14xG8XZafQa4I) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Margaret Dances](https://open.spotify.com/album/7beQd9cOaKBuE8N4lVRhau) | 3:30 | 2022-10-21 |  |
-| [May Dance](https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 3:51 | 2022-06-14 | 2023-02-21 |
+| [May Dance](https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 3:51 | 2022-06-14 |  |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-30 |  |
 | [Memories Of Her Music](https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Memories Of Her Music](https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV) | 3:33 | 2023-02-02 |  |
 | [Midday Walk](https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Midday Walk](https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp) | 3:31 | 2022-08-10 |  |
@@ -318,8 +318,9 @@
 | [The End Of A Love Affair](https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [The End Of A Love Affair](https://open.spotify.com/album/42PyETdAanQLbNeoNR1ulI) | 5:38 | 2021-08-07 | 2023-02-20 |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2021-04-23 |  |
 | [The Longing for You](https://open.spotify.com/track/2rqmp9sBeJyhJhpOuabjax) | [Bill Swindon](https://open.spotify.com/artist/7C4qb62TIDk7IbyMORyqTs) | [The Longing for You](https://open.spotify.com/album/6sUORQKRmdqINREz80FmA2) | 3:39 | 2020-10-20\* | 2020-12-09 |
-| [The Masquerade Is Over](https://open.spotify.com/track/3Sg76cvYesfYDtHcMQ2fxn) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [The Masquerade Is Over](https://open.spotify.com/album/0A7QiAU3NJBMHzlZliGrKp) | 4:05 | 2022-03-17 |  |
+| [The Masquerade Is Over](https://open.spotify.com/track/3Sg76cvYesfYDtHcMQ2fxn) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [The Masquerade Is Over](https://open.spotify.com/album/0A7QiAU3NJBMHzlZliGrKp) | 4:05 | 2022-03-17 | 2023-02-23 |
 | [The Masquerade Is Over](https://open.spotify.com/track/6ifkMfpjxGakTjtOWngjYw) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:59 | 2020-10-20\* | 2021-01-21 |
+| [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 | 2023-02-16 |  |
 | [the midnight sun will never set](https://open.spotify.com/track/0iSiLiy0wdl41Pz0RcNzrH) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:25 | 2020-10-20\* | 2021-01-21 |
 | [The Mood Is Mellow](https://open.spotify.com/track/59JE8arSWmuUexU2x22oiH) | [George Shearing Trio](https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT) | [Jazz Moments](https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK) | 2:37 | 2021-01-21 | 2022-07-24 |
 | [The Nearness Of You](https://open.spotify.com/track/1SKlVBEmde9eokyAvzI9lf) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [The Nearness Of You](https://open.spotify.com/album/16pqEckMdJpXjwpWRxZYyW) | 3:58 | 2021-08-09 |  |

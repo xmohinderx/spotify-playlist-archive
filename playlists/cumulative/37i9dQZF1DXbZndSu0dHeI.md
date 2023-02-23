@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-367 songs - 22 hr 7 min
+368 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Game Of Cards](https://open.spotify.com/track/1Lx4PGIgTkmyEzkymVYeKT) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Game Of Cards](https://open.spotify.com/album/21V66hNHfSSZvkB1Fi9UCe) | 3:35 | 2022-06-22 | 2022-07-20 |
 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 | 2021-11-12 | 2022-07-29 |
 | [Give It Hell](https://open.spotify.com/track/3HLfUZSknynfsgCRW9Tp2I) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Give It Hell](https://open.spotify.com/album/0nfZ5UQSjxfYF4MC5YFxC2) | 3:24 | 2021-11-12 | 2022-07-29 |
+| [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-22 |  |
 | [God Melodies \- Single Version](https://open.spotify.com/track/4PFjhC6s3GV1d6roZsj1Fm) | [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg) | [God Melodies](https://open.spotify.com/album/0R70V99HyZ6lPlk9bAXptF) | 3:30 | 2021-11-12 | 2022-07-29 |
 | [Golden Streams](https://open.spotify.com/track/1ydKJam8dKbqePWynTqBNz) | [The Hidden Cameras](https://open.spotify.com/artist/6qJSWLT4bvL49hEyXxc3G9) | [The Smell of Our Own](https://open.spotify.com/album/6JShLMI9IkYCFdM1Gv5dAC) | 4:31 | 2022-03-19 | 2022-04-14 |
 | [Gone](https://open.spotify.com/track/7eRaK8LJUUgStuF29HpNsQ) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Gone](https://open.spotify.com/album/4tvYoJP6LcXBpHglrrH1BP) | 2:51 | 2022-03-19 | 2022-04-11 |
@@ -159,7 +160,7 @@
 | [Hula](https://open.spotify.com/track/5SePTXjCyk17d3VA70ISg7) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj) | [Hula](https://open.spotify.com/album/7zA63TCOzWnJpn4V8GzPpQ) | 3:56 | 2022-03-19 | 2022-04-16 |
 | [Hypochondriac](https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hypochondriac](https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK) | 3:12 | 2022-06-22 | 2022-11-13 |
 | [Hypochondriac](https://open.spotify.com/track/6st6akzmAJS2vYNRui5ezU) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hypochondriac](https://open.spotify.com/album/1DE8BoNxaCs9Fxo7KG7ZXH) | 3:12 | 2021-11-12 | 2022-07-29 |
-| [Hysterical Us](https://open.spotify.com/track/0vMlVGJuREJk3c7vvObE5Z) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:55 | 2022-06-22 |  |
+| [Hysterical Us](https://open.spotify.com/track/0vMlVGJuREJk3c7vvObE5Z) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:55 | 2022-06-22 | 2023-02-23 |
 | [Hysterical Us](https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Hysterical Us](https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX) | 3:55 | 2021-11-12 | 2022-07-29 |
 | [I Can See Clearly Now](https://open.spotify.com/track/12RfMGt8MdXrilOJNAhe6r) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [I Can See Clearly Now](https://open.spotify.com/album/7ijWsMC7YkQm4HiXwt9Epe) | 3:11 | 2022-06-22 | 2022-07-20 |
 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/05qTeP4xG8KXoRhN2HdKjS) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/7MjceL6iPFM86qxxeWCVEz) | 4:37 | 2022-03-19 | 2023-01-28 |

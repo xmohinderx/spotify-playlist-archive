@@ -4,7 +4,7 @@
 
 > Escucha la selección que Señoras Punk hicieron para Mamá Cool\. 🤘🏼🖤
 
-280 songs - 16 hr 53 min
+281 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [I Make Boys Cry](https://open.spotify.com/track/0AsGjmkZw2x6JC05WIkU5w) | [Adult Mom](https://open.spotify.com/artist/7tuwjSE2q4zeBdNObeO7LB) | [Sometimes Bad Happens](https://open.spotify.com/album/6YZjTsPJGtGFdCKTCJIV4f) | 2:08 | 2023-02-20 |  |
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-20 | 2023-02-21 |
 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 | 2022-07-19 | 2023-02-21 |
-| [In Between Buses](https://open.spotify.com/track/2tASbqwzo8nCOgAGFdsuxI) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [Cry Out Loud](https://open.spotify.com/album/4T7NZYTAtTQFx3y2RTI989) | 3:23 | 2023-02-20 |  |
+| [In Between Buses](https://open.spotify.com/track/2tASbqwzo8nCOgAGFdsuxI) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [Cry Out Loud](https://open.spotify.com/album/4T7NZYTAtTQFx3y2RTI989) | 3:23 | 2023-02-20 | 2023-02-23 |
 | [Inevitable](https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Inevitable](https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa) | 3:24 | 2022-04-18 | 2022-11-20 |
 | [Inmortal](https://open.spotify.com/track/6J4udGIKWIekq6hmopunUo) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Inmortal](https://open.spotify.com/album/4h6seZ4nVUdZ2ahzfv83aK) | 3:18 | 2022-04-18 | 2022-07-29 |
 | [It's good to be back](https://open.spotify.com/track/7DVJtbrOizACre54dibkXE) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [It's good to be back](https://open.spotify.com/album/3CNCq8Hdu9TSI57jj6mYgJ) | 3:53 | 2022-04-18 | 2022-07-29 |
@@ -165,6 +165,7 @@
 | [Monitor \- Acoustic](https://open.spotify.com/track/6FmiOrorVIYLMOur2j1KeZ) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 4:18 | 2023-02-20 |  |
 | [MORE JOY! \(feat\. CHAI\)](https://open.spotify.com/track/3aFiljyrkuwi1jPkgR1gTr) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [MORE JOY! \(feat\. CHAI\)](https://open.spotify.com/album/6x8JSV3UxGUwVgcMNudY9s) | 3:39 | 2022-05-16 | 2022-07-28 |
 | [Ms\. Wrong](https://open.spotify.com/track/3xTpY0ZNad6RLINR9gCgQT) | [that dog.](https://open.spotify.com/artist/0tXdvAMrxsEOVmnMJIHolv) | [Totally Crushed Out](https://open.spotify.com/album/7iOZmlcwEiP2oTCveIcLwW) | 2:25 | 2023-02-20 |  |
+| [Mundo](https://open.spotify.com/track/4gkAuy4pP0TQcVdR2V3ff4) | [Jessica Sullivan](https://open.spotify.com/artist/6bHHORSow00HqMs6aGSuGN) | [Mundo](https://open.spotify.com/album/6reYPvLvPmNnj7kIDtJHK6) | 2:22 | 2023-02-20 |  |
 | [Nada Es Real](https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Nada Es Real](https://open.spotify.com/album/2Qi9MlTtbvoaoSxn5EvZmd) | 3:29 | 2022-08-30 | 2022-09-10 |
 | [Nada Te Lastima](https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2) | 4:08 | 2022-07-19 | 2023-02-21 |
 | [Never Come Around](https://open.spotify.com/track/2pPO4hUnx33EcngI0teFDZ) | [La Sera](https://open.spotify.com/artist/3zsjvhvKAuD6GY7i1R5zER) | [La Sera](https://open.spotify.com/album/1odmFE7bGktpIRAiunqEUS) | 2:02 | 2023-02-20 |  |

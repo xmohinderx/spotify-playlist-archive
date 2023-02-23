@@ -1,13 +1,77 @@
 {
   "description": "All the New Joints featuring Polo G, Latto and more. Cover: Don Toliver",
-  "num_followers": 206181,
+  "num_followers": 206283,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY4NjIzOCwwMDAwMDAwMGM4ZjAxYzVmMDdjZGY0ZDVhZWNkZmMxZGI4NTQ3MTMy",
+  "snapshot_id": "MTY3NzA5MTI3NSwwMDAwMDAwMGUyMzhjNmJjMWZlMDJkOWI4OGM2ODVlODdjNDdjYjRl",
   "tracks": [
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/7mUeXlK3dvFRbkUgzXHSH1"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 142973,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/5a72KEfxqoMjzI0sv1By3w"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "HO4ME",
+        "url": "https://open.spotify.com/album/3PZSUpUm106HYZ1nkB9xe0"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 235711,
+      "name": "HO4ME",
+      "url": "https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB"
+    },
+    {
+      "added_at": "2023-02-18 02:10:38",
+      "album": {
+        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
+        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "ARIZONATEARS",
+          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
+        }
+      ],
+      "duration_ms": 163139,
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
+    },
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
@@ -95,46 +159,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Work",
-        "url": "https://open.spotify.com/album/7mUeXlK3dvFRbkUgzXHSH1"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 142973,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/5a72KEfxqoMjzI0sv1By3w"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "HO4ME",
-        "url": "https://open.spotify.com/album/3PZSUpUm106HYZ1nkB9xe0"
-      },
-      "artists": [
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 235711,
-      "name": "HO4ME",
-      "url": "https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "60 Days",
         "url": "https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS"
       },
@@ -151,30 +175,6 @@
       "duration_ms": 180640,
       "name": "60 Days",
       "url": "https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI"
-    },
-    {
-      "added_at": "2023-02-18 02:10:38",
-      "album": {
-        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
-        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "ARIZONATEARS",
-          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
-        }
-      ],
-      "duration_ms": 163139,
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -195,6 +195,26 @@
       "duration_ms": 186563,
       "name": "Tada (feat. Blxst)",
       "url": "https://open.spotify.com/track/6OG1hV6boTYr0GGU16NNnz"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Sinc\u00e8rement",
+        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 162480,
+      "name": "Sadio",
+      "url": "https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -443,26 +463,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Sinc\u00e8rement",
-        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 162480,
-      "name": "Sadio",
-      "url": "https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Weekdays (feat. Zu & Deeno)",
         "url": "https://open.spotify.com/album/5g96Aoz8xAM0kE8itOnS6e"
       },
@@ -692,12 +692,12 @@
           "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
         },
         {
-          "name": "Kash Doll",
-          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
-        },
-        {
           "name": "So Supa",
           "url": "https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP"
+        },
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
         },
         {
           "name": "Queen Key",

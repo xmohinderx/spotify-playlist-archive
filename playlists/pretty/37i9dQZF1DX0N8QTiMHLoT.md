@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,383 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,461 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 28 | [Lifecycle](https://open.spotify.com/track/6UeV69QaXrzISZ5MdeX6Xs) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:54 |
 | 29 | [Cosmic Underground](https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng) | [Adam Nitti](https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR) | [Not of This World](https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY) | 6:37 |
 | 30 | [Chump Suey](https://open.spotify.com/track/1TTbSC0v0D0jWMDPxJrIsI) | [Doug Johns](https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk) | [Pocket Fulla Nasty](https://open.spotify.com/album/0YSybrBdEaK0S2XyR2HGjC) | 4:25 |
-| 31 | [World Go Round](https://open.spotify.com/track/2JA7xuOgISHwyRFNVQKKFs) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [The Second](https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx) | 4:28 |
-| 32 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 |
+| 31 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 |
+| 32 | [World Go Round](https://open.spotify.com/track/2JA7xuOgISHwyRFNVQKKFs) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [The Second](https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx) | 4:28 |
 | 33 | [Countdown](https://open.spotify.com/track/3nbHF2EX8IQwNGMlp9EviS) | [Victor Bailey](https://open.spotify.com/artist/1aTPRuTpqvuPpAps3FhBhe) | [Slippin' N' Trippin'](https://open.spotify.com/album/5GRTkxq12ZgkGQU52izAXj) | 2:26 |
 | 34 | [No Limit](https://open.spotify.com/track/2hHAjvHx7gZL3zSPHYMEwn) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:36 |
 | 35 | [Me & My Bass Guitar](https://open.spotify.com/track/2bGlApShelovL2azxX0ksl) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 5:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 49 | [Right After 4](https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Multiple Faces](https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB) | 6:53 |
 | 50 | [F.U.NKWHY](https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 3:43 |
 
-Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMDFiMDNjZDM5YmNmYTQyZWZlY2VkYzEwMDRlYmRhOWM3`
+Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMGUzMDQ2OTMwMjhmZjE1ZGE1NTdlYjkxZWY3OTI0YzQw`

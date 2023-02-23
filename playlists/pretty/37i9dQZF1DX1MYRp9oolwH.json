@@ -1,13 +1,49 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Hit 2",
-  "num_followers": 74372,
+  "description": "Bringing out the best of latest love tracks\nCover : Agent",
+  "num_followers": 74526,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njg4NjYxNywwMDAwMDAwMDcxNzM5MTI4ZmNmZTZkMjczYWVhNTlmOTdhODdhMTlk",
+  "snapshot_id": "MTY3NzA3ODQ2MywwMDAwMDAwMGYwMjVhYTU0NWQxYTIwMTY1YTFmZjllZGZjOTk1NGI0",
   "tracks": [
+    {
+      "added_at": "2023-02-22 14:11:25",
+      "album": {
+        "name": "Malli Malli (From \"Agent\")",
+        "url": "https://open.spotify.com/album/3A4Wxcl3DMpWMInJiAvnPx"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        }
+      ],
+      "duration_ms": 207210,
+      "name": "Malli Malli (From \"Agent\")",
+      "url": "https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU"
+    },
+    {
+      "added_at": "2022-11-10 13:17:20",
+      "album": {
+        "name": "Sir",
+        "url": "https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "duration_ms": 225424,
+      "name": "Mastaaru Mastaaru",
+      "url": "https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe"
+    },
     {
       "added_at": "2022-11-10 07:23:27",
       "album": {
@@ -37,28 +73,28 @@
       "url": "https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu"
     },
     {
-      "added_at": "2022-12-06 13:08:32",
+      "added_at": "2022-11-29 05:07:08",
       "album": {
-        "name": "Almost Padipoyindhe Pilla (From \"Das Ka Dhamki\") - Single",
-        "url": "https://open.spotify.com/album/3Bq1oXhTLEWvDV03ZmrVue"
+        "name": "Gundellonaa (From \"Ori Devuda\") - Single",
+        "url": "https://open.spotify.com/album/49P4LkEWmcziCCBEfIvAKO"
       },
       "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
         {
           "name": "Leon James",
           "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
         },
         {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        },
-        {
-          "name": "Poornachari",
-          "url": "https://open.spotify.com/artist/7ebwtbh8aSrOUbKIHDW4ty"
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
         }
       ],
-      "duration_ms": 213242,
-      "name": "Almost Padipoyindhe Pilla (From \"Das Ka Dhamki\")",
-      "url": "https://open.spotify.com/track/3d4BUW2iX1HagWRRkat9l7"
+      "duration_ms": 200113,
+      "name": "Gundellonaa (From \"Ori Devuda\")",
+      "url": "https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG"
     },
     {
       "added_at": "2022-12-20 12:37:49",
@@ -79,6 +115,62 @@
       "duration_ms": 314342,
       "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
       "url": "https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U"
+    },
+    {
+      "added_at": "2022-11-22 08:23:25",
+      "album": {
+        "name": "Love Today (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/4F9lI7xMQSG7BVM3dOC41U"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Pilla Padesaave",
+      "url": "https://open.spotify.com/track/4veuanALTmuopcDBoYsoLI"
+    },
+    {
+      "added_at": "2022-12-12 11:56:11",
+      "album": {
+        "name": "18 Pages",
+        "url": "https://open.spotify.com/album/6DYN9cn9dlRY1wvhPJsHHI"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 252775,
+      "name": "Yedurangula Vaana",
+      "url": "https://open.spotify.com/track/0l70yEnMGHPPZff7iLplnY"
+    },
+    {
+      "added_at": "2023-02-01 05:25:42",
+      "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/2g5BBeWGojbHAvFBTyAFIc"
+      },
+      "artists": [
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+        }
+      ],
+      "duration_ms": 281723,
+      "name": "Enno Ratrulosthayi Remix Song",
+      "url": "https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM"
     },
     {
       "added_at": "2023-01-11 12:53:55",
@@ -109,26 +201,6 @@
       "url": "https://open.spotify.com/track/4qPwLohB0tei9j5UBz66UR"
     },
     {
-      "added_at": "2023-02-01 05:25:42",
-      "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/2g5BBeWGojbHAvFBTyAFIc"
-      },
-      "artists": [
-        {
-          "name": "S.P. Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
-        },
-        {
-          "name": "Sameera Bharadwaj",
-          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
-        }
-      ],
-      "duration_ms": 281723,
-      "name": "Enno Ratrulosthayi Remix Song",
-      "url": "https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM"
-    },
-    {
       "added_at": "2023-01-30 06:10:08",
       "album": {
         "name": "Vinaro Bhagyamu Vishnu Katha",
@@ -149,64 +221,28 @@
       "url": "https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM"
     },
     {
-      "added_at": "2022-11-10 13:17:20",
+      "added_at": "2022-12-06 13:08:32",
       "album": {
-        "name": "Sir",
-        "url": "https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc"
+        "name": "Almost Padipoyindhe Pilla (From \"Das Ka Dhamki\") - Single",
+        "url": "https://open.spotify.com/album/3Bq1oXhTLEWvDV03ZmrVue"
       },
       "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 225424,
-      "name": "Mastaaru Mastaaru",
-      "url": "https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe"
-    },
-    {
-      "added_at": "2022-11-29 05:07:08",
-      "album": {
-        "name": "Gundellonaa (From \"Ori Devuda\") - Single",
-        "url": "https://open.spotify.com/album/49P4LkEWmcziCCBEfIvAKO"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
         {
           "name": "Leon James",
           "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
         },
         {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 200113,
-      "name": "Gundellonaa (From \"Ori Devuda\")",
-      "url": "https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG"
-    },
-    {
-      "added_at": "2022-12-12 11:56:11",
-      "album": {
-        "name": "18 Pages",
-        "url": "https://open.spotify.com/album/6DYN9cn9dlRY1wvhPJsHHI"
-      },
-      "artists": [
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
         {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+          "name": "Poornachari",
+          "url": "https://open.spotify.com/artist/7ebwtbh8aSrOUbKIHDW4ty"
         }
       ],
-      "duration_ms": 252775,
-      "name": "Yedurangula Vaana",
-      "url": "https://open.spotify.com/track/0l70yEnMGHPPZff7iLplnY"
+      "duration_ms": 213242,
+      "name": "Almost Padipoyindhe Pilla (From \"Das Ka Dhamki\")",
+      "url": "https://open.spotify.com/track/3d4BUW2iX1HagWRRkat9l7"
     },
     {
       "added_at": "2023-01-27 05:53:08",
@@ -223,26 +259,6 @@
       "duration_ms": 184137,
       "name": "Musi Musi Navvula Manjula (From \"Pareshan\")",
       "url": "https://open.spotify.com/track/0saFMfpWgW1Y1D5wESlCu5"
-    },
-    {
-      "added_at": "2022-11-22 08:23:25",
-      "album": {
-        "name": "Love Today (Telugu) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/4F9lI7xMQSG7BVM3dOC41U"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Pilla Padesaave",
-      "url": "https://open.spotify.com/track/4veuanALTmuopcDBoYsoLI"
     },
     {
       "added_at": "2023-02-02 08:03:51",

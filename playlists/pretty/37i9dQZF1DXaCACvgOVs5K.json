@@ -1,12 +1,12 @@
 {
   "description": "Ibiza season is back for 2022. Let's dance!",
-  "num_followers": 86342,
+  "num_followers": 86453,
   "original_name": "Ibiza 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUzNzc2MCwwMDAwMDAwMGYxYzcxYmRhMTBkOTk0ZmYxM2VlZGJiMDJjNDA5YWE5",
+  "snapshot_id": "MTY2MTUzNzc2MCwwMDAwMDAwMGM1MGRmNjUxODMxZTQzNDlkMTdlYmM0OTBkMTJlZmVl",
   "tracks": [
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
+        "name": "Plastic Smiling",
+        "url": "https://open.spotify.com/album/4bEqr1qELvLFgTUm1LIQFP"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Plastic Smiling",
+      "url": "https://open.spotify.com/track/2Ns6oTwpUGA9zdcS6BEwU7"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
         "name": "Rizzla",
         "url": "https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 176791,
       "name": "Tripasia",
       "url": "https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
-        "name": "Plastic Smiling",
-        "url": "https://open.spotify.com/album/4bEqr1qELvLFgTUm1LIQFP"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Plastic Smiling",
-      "url": "https://open.spotify.com/track/2Ns6oTwpUGA9zdcS6BEwU7"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "Insomnia 2021",
-        "url": "https://open.spotify.com/album/04zGytx3eRCDR7JEQB9GSX"
-      },
-      "artists": [
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        },
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 288238,
-      "name": "Insomnia 2021 - Epic Edit",
-      "url": "https://open.spotify.com/track/6E1VvKBTi0FtLhE8b6GxbE"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
         "name": "Workout",
         "url": "https://open.spotify.com/album/69v32qBsj2wAvt9nTTypIU"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 180032,
       "name": "Workout",
       "url": "https://open.spotify.com/track/2a68xrYa3kxdyxKQkVuaJQ"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
+        "name": "Insomnia 2021",
+        "url": "https://open.spotify.com/album/04zGytx3eRCDR7JEQB9GSX"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 288238,
+      "name": "Insomnia 2021 - Epic Edit",
+      "url": "https://open.spotify.com/track/6E1VvKBTi0FtLhE8b6GxbE"
     },
     {
       "added_at": "2022-08-26 18:16:00",

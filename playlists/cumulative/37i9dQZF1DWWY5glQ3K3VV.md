@@ -2,7 +2,7 @@
 
 ### [Club Rap ](https://open.spotify.com/playlist/37i9dQZF1DWWY5glQ3K3VV)
 
-> Canzoni rap per party fino al mattino! Cover: Paky
+> Canzoni rap per party fino al mattino! Cover: Guè, ANNA, Sfera Ebbasta
 
 192 songs - 9 hr 44 min
 

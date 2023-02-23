@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 494740,
+  "num_followers": 494888,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEzNTA5NywwMDAwMDAwMDliZTU4NGMzODMxZWY2ZGNjNjFiMmY4NDY3OWFhNDI4",
+  "snapshot_id": "MTY3MTEzNTA5NywwMDAwMDAwMDAyNTA4NjRhOGFhMGNmMDY5YmNkYjNjMTlhNWZhNmRi",
   "tracks": [
     {
       "added_at": "2022-12-15 20:11:37",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Alice In Hell",
-        "url": "https://open.spotify.com/album/5oKZacGOXxb7A2OwXgh9UY"
-      },
-      "artists": [
-        {
-          "name": "Annihilator",
-          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
-        }
-      ],
-      "duration_ms": 301053,
-      "name": "Alison Hell",
-      "url": "https://open.spotify.com/track/153SwL1d9SfCLWhqIs08we"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "The Art of Partying",
         "url": "https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 123986,
       "name": "The Art of Partying",
       "url": "https://open.spotify.com/track/1jMjbrmkSZAVvi7iffs06D"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "Alice In Hell",
+        "url": "https://open.spotify.com/album/5oKZacGOXxb7A2OwXgh9UY"
+      },
+      "artists": [
+        {
+          "name": "Annihilator",
+          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+        }
+      ],
+      "duration_ms": 301053,
+      "name": "Alison Hell",
+      "url": "https://open.spotify.com/track/153SwL1d9SfCLWhqIs08we"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Persona Non Grata",
-        "url": "https://open.spotify.com/album/604klFpB4UfWrxeVaJQgL4"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "The Beatings Will Continue (Until Morale Improves)",
-      "url": "https://open.spotify.com/track/2gjsFjDTVacpoZPfGYaddw"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "M-16",
         "url": "https://open.spotify.com/album/4z5S4xdou220mwTfA2mmZn"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 289133,
       "name": "M-16",
       "url": "https://open.spotify.com/track/6z8KgGwhwJPSq948Vk3mWk"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "Persona Non Grata",
+        "url": "https://open.spotify.com/album/604klFpB4UfWrxeVaJQgL4"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 181186,
+      "name": "The Beatings Will Continue (Until Morale Improves)",
+      "url": "https://open.spotify.com/track/2gjsFjDTVacpoZPfGYaddw"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Bonded by Blood",
-        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Bonded by Blood",
-      "url": "https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "Metal Church",
         "url": "https://open.spotify.com/album/6LYQlKhDAXE9xMS3YzioNv"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 194101,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/5VwwTHDa25f8oC9kkBdObh"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "Bonded by Blood",
+        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Bonded by Blood",
+      "url": "https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Mourn the Southern Skies",
-        "url": "https://open.spotify.com/album/6Zv7TZNO5LrJH9dRUjouom"
-      },
-      "artists": [
-        {
-          "name": "Exhorder",
-          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
-        }
-      ],
-      "duration_ms": 233145,
-      "name": "My Time",
-      "url": "https://open.spotify.com/track/7455R3ZkleZUXIl4qUrsEu"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "T\u016b",
         "url": "https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 274310,
       "name": "Holding My Breath",
       "url": "https://open.spotify.com/track/4JTbBZhYkqc8lcAC4DNawJ"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "Mourn the Southern Skies",
+        "url": "https://open.spotify.com/album/6Zv7TZNO5LrJH9dRUjouom"
+      },
+      "artists": [
+        {
+          "name": "Exhorder",
+          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
+        }
+      ],
+      "duration_ms": 233145,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/7455R3ZkleZUXIl4qUrsEu"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Handle With Care",
-        "url": "https://open.spotify.com/album/79vmBrXaUaPS7LleUgP7HY"
-      },
-      "artists": [
-        {
-          "name": "Nuclear Assault",
-          "url": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Critical Mass",
-      "url": "https://open.spotify.com/track/4uOq76srFzt94o98QrCVRO"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "Speed Between the Lines",
         "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 176346,
       "name": "666Teen",
       "url": "https://open.spotify.com/track/3FzPWVOfYBi646pFcei6f3"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "Handle With Care",
+        "url": "https://open.spotify.com/album/79vmBrXaUaPS7LleUgP7HY"
+      },
+      "artists": [
+        {
+          "name": "Nuclear Assault",
+          "url": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Critical Mass",
+      "url": "https://open.spotify.com/track/4uOq76srFzt94o98QrCVRO"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "State of Insurgency",
-        "url": "https://open.spotify.com/album/72l4WhRIOstE9jzWVzpQDY"
-      },
-      "artists": [
-        {
-          "name": "HeXeN",
-          "url": "https://open.spotify.com/artist/4nLzJeIvsP58MnoN7e9KT3"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Knee Deep in the Dead",
-      "url": "https://open.spotify.com/track/2IQS1gH2hzp6WAmjdWZtr1"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "Ahi K\u0101",
         "url": "https://open.spotify.com/album/5nsejUAhSvLeMfZJ12pERm"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Mental Vortex",
-        "url": "https://open.spotify.com/album/0qbld4MsN4rUa4uyEm1juQ"
+        "name": "State of Insurgency",
+        "url": "https://open.spotify.com/album/72l4WhRIOstE9jzWVzpQDY"
       },
       "artists": [
         {
-          "name": "Coroner",
-          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+          "name": "HeXeN",
+          "url": "https://open.spotify.com/artist/4nLzJeIvsP58MnoN7e9KT3"
         }
       ],
-      "duration_ms": 330986,
-      "name": "Semtex Revolution",
-      "url": "https://open.spotify.com/track/7mTceRxYae4a5xkEhTgdqq"
+      "duration_ms": 241133,
+      "name": "Knee Deep in the Dead",
+      "url": "https://open.spotify.com/track/2IQS1gH2hzp6WAmjdWZtr1"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -1567,6 +1551,22 @@
       "duration_ms": 162306,
       "name": "Crank The Heat",
       "url": "https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "Mental Vortex",
+        "url": "https://open.spotify.com/album/0qbld4MsN4rUa4uyEm1juQ"
+      },
+      "artists": [
+        {
+          "name": "Coroner",
+          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+        }
+      ],
+      "duration_ms": 330986,
+      "name": "Semtex Revolution",
+      "url": "https://open.spotify.com/track/7mTceRxYae4a5xkEhTgdqq"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Annihilation Principle",
-        "url": "https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O"
-      },
-      "artists": [
-        {
-          "name": "Laaz Rockit",
-          "url": "https://open.spotify.com/artist/72M83rfnDyqavWqiFGuYUR"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Fire in the Hole",
-      "url": "https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "Armed To The Teeth",
         "url": "https://open.spotify.com/album/5b30EK9tx0jYfn7DP38rNn"
       },
@@ -1779,6 +1763,22 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
+        "name": "Annihilation Principle",
+        "url": "https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O"
+      },
+      "artists": [
+        {
+          "name": "Laaz Rockit",
+          "url": "https://open.spotify.com/artist/72M83rfnDyqavWqiFGuYUR"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Fire in the Hole",
+      "url": "https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
         "name": "No Place For Disgrace",
         "url": "https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e"
       },
@@ -1791,6 +1791,22 @@
       "duration_ms": 373013,
       "name": "No Place for Disgrace",
       "url": "https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "Empire of the Blind",
+        "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
+      },
+      "artists": [
+        {
+          "name": "Heathen",
+          "url": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
+        }
+      ],
+      "duration_ms": 351613,
+      "name": "Empire of the Blind",
+      "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -1831,22 +1847,6 @@
       "duration_ms": 229580,
       "name": "Executioner's Tax (Swing of the Axe) [feat. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias]",
       "url": "https://open.spotify.com/track/16eCW4AHKMNsxLYD4thQGr"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
-        "name": "Empire of the Blind",
-        "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
-      },
-      "artists": [
-        {
-          "name": "Heathen",
-          "url": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
-        }
-      ],
-      "duration_ms": 351613,
-      "name": "Empire of the Blind",
-      "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
     },
     {
       "added_at": "2022-12-15 20:11:37",

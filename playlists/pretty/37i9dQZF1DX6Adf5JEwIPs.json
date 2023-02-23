@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo de la M\u00fasica Mexicana. Cover: Christian Nodal",
-  "num_followers": 330216,
+  "num_followers": 330270,
   "original_name": "New M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,26 @@
       "duration_ms": 211477,
       "name": "El Coach (En Vivo)",
       "url": "https://open.spotify.com/track/3QS5Z1l9keZLelGpmnsSBl"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Si Esta Botella Hablara",
+        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 188511,
+      "name": "Si Esta Botella Hablara",
+      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
     },
     {
       "added_at": "2023-02-17 05:00:00",

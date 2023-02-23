@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Kemilly Santos, Damares",
-  "num_followers": 60017,
+  "num_followers": 60185,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzMTg2NCwwMDAwMDAwMDMzMzViMzBhNmZkMGE3NzY4YmNhODk3M2JmZmM5ZWZm",
+  "snapshot_id": "MTY3NjAzMTg2NCwwMDAwMDAwMDRhMTQ3ZDMwOTMzMDdiMzc1ZjkzYmU0ZjNkN2JjNjhh",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix"
     },
     {
-      "added_at": "2023-02-22 01:01:09",
+      "added_at": "2023-02-23 00:13:55",
       "album": {
         "name": "Estrat\u00e9gia",
         "url": "https://open.spotify.com/album/0AgmbghBFTxFKMmJcQohqr"
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Sou Teu Deus",
+        "url": "https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 327456,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Dependente (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 240000,
       "name": "Dependente (Ao Vivo)",
       "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Sou Teu Deus",
-        "url": "https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 327456,
-      "name": "Sou Teu Deus",
-      "url": "https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "O Desfecho",
-        "url": "https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 308059,
-      "name": "O Desfecho",
-      "url": "https://open.spotify.com/track/1UsGjeLpVIGxcoXUZ1GbBo"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Santidade",
         "url": "https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 380400,
       "name": "Santidade",
       "url": "https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "O Desfecho",
+        "url": "https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 308059,
+      "name": "O Desfecho",
+      "url": "https://open.spotify.com/track/1UsGjeLpVIGxcoXUZ1GbBo"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1235,18 +1235,34 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Um Sobrevivente",
-        "url": "https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk"
+        "name": "A Vit\u00f3ria Chegou",
+        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
       },
       "artists": [
         {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
         }
       ],
-      "duration_ms": 301162,
-      "name": "Um Sobrevivente",
-      "url": "https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX"
+      "duration_ms": 238167,
+      "name": "A Vit\u00f3ria Chegou",
+      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
+    },
+    {
+      "added_at": "2023-02-23 00:13:55",
+      "album": {
+        "name": "Pai",
+        "url": "https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu"
+      },
+      "artists": [
+        {
+          "name": "Eli\u00e3 Oliveira",
+          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
+        }
+      ],
+      "duration_ms": 356624,
+      "name": "Pai",
+      "url": "https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1269,36 +1285,20 @@
       "url": "https://open.spotify.com/track/2Ssp73mcKby8cJQnonnmtS"
     },
     {
-      "added_at": "2023-02-22 01:01:09",
-      "album": {
-        "name": "Pai",
-        "url": "https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu"
-      },
-      "artists": [
-        {
-          "name": "Eli\u00e3 Oliveira",
-          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
-        }
-      ],
-      "duration_ms": 356624,
-      "name": "Pai",
-      "url": "https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D"
-    },
-    {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "A Vit\u00f3ria Chegou",
-        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
+        "name": "Um Sobrevivente",
+        "url": "https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
         }
       ],
-      "duration_ms": 238167,
-      "name": "A Vit\u00f3ria Chegou",
-      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
+      "duration_ms": 301162,
+      "name": "Um Sobrevivente",
+      "url": "https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX"
     },
     {
       "added_at": "2023-02-03 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,178,669 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,182,604 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 39 | [I WANNA BE SAVED \- Remix](https://open.spotify.com/track/4Csr6QhRfKAHAm54mt2ZWY) | [DJ Fronteo](https://open.spotify.com/artist/7bfMpDDy8DCZ0a3zU9p4X0) | [I WANNA BE SAVED \(Remix\)](https://open.spotify.com/album/4F0pMgh6o6y3LrHxmAHMfu) | 4:02 |
 | 40 | [Them Changes \- Sped Up](https://open.spotify.com/track/6pod2VRHVTven17Da0uZHi) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Them Changes \(Sped Up\)](https://open.spotify.com/album/6BxctollBKIGGFZ8zAYLxw) | 2:15 |
 | 41 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
-| 42 | [Not OK \- Sped Up](https://open.spotify.com/track/1UBErDGHs9OSGYiMXxhXgl) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Not OK \- Alt versions](https://open.spotify.com/album/0pJ4FQw91Jqceokv6lHtZw) | 1:57 |
+| 42 | [Not OK \- Sped Up](https://open.spotify.com/track/1UBErDGHs9OSGYiMXxhXgl) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Not OK \- Alt versions](https://open.spotify.com/album/0pJ4FQw91Jqceokv6lHtZw) | 1:57 |
 | 43 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 |
 | 44 | [GigaChad Theme \(Phonk House Version\) \- Sped Up](https://open.spotify.com/track/23Ax0HD24WJH0GALIsqZ8H) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\) \[Sped Up\]](https://open.spotify.com/album/6Jefxs4gSTv2abmn3TbqWK) | 2:02 |
 | 45 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 
 > This is Sum 41\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,098 likes - 47 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,137 likes - 47 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 46 | [What Am I To Say](https://open.spotify.com/track/2zoKi9AQKjtn3Q7Ll8CK7v) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 4:12 |
 | 47 | [God Save Us All \(Death to POP\)](https://open.spotify.com/track/20Pa8HCMi8ouYheMZHOjq7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 3:53 |
 
-Snapshot ID: `Mjc5NDk2OTgsMDAwMDAwMDAzMWZiZWI2OTBkZTA2YjAwNDhlODdhY2YyMDE3MzgwYg==`
+Snapshot ID: `Mjc5NTExODMsMDAwMDAwMDBlZmZjMjBhYzA2MzllYzM4ODNkYzIyYzFiZDZhODQxMQ==`

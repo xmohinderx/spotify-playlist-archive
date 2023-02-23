@@ -4,7 +4,7 @@
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-198 songs - 13 hr 47 min
+199 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,8 +148,9 @@
 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 | 2021-11-17 |  |
 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/5D91sdXb1N3ydb33JG6KUo) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Top 50 Funk Hits](https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ) | 6:54 | 2021-11-17 | 2022-11-13 |
 | [Salgo Pa' la Calle](https://open.spotify.com/track/5hpwyyJJ2JyozFVVRJsfLp) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Talento de Barrio](https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6) | 4:27 | 2021-12-18 |  |
-| [san andreas theme song](https://open.spotify.com/track/3rp1uFBHe72uxyXx1Dz9io) | [Xenoner](https://open.spotify.com/artist/6CyTY01MSE05psT3dC7ep0) | [san andreas theme song](https://open.spotify.com/album/3EyFSWaRWqgih5PvAMZQOG) | 1:26 | 2021-11-17 |  |
+| [san andreas theme song](https://open.spotify.com/track/3rp1uFBHe72uxyXx1Dz9io) | [Xenoner](https://open.spotify.com/artist/6CyTY01MSE05psT3dC7ep0) | [san andreas theme song](https://open.spotify.com/album/3EyFSWaRWqgih5PvAMZQOG) | 1:26 | 2021-11-17 | 2023-02-23 |
 | [San Andreas Theme Song](https://open.spotify.com/track/5f7F8ovtEmFzOdyN5fTOKl) | [Young Maylay](https://open.spotify.com/artist/58zzaIQ8XVObJml8da0b2e) | [San Andreas Original Mixtape](https://open.spotify.com/album/5eH1GJwSmZXI4Xebe1A9X3) | 1:26 | 2021-11-17 | 2023-02-19 |
+| [San Andreas Theme Song](https://open.spotify.com/track/2w7eLhPSwlf70q9dQ1LGpR) | [Young Maylay](https://open.spotify.com/artist/58zzaIQ8XVObJml8da0b2e) | [San Andreas Theme Song](https://open.spotify.com/album/5pEbIWfJhC6lOsxcEHY4dX) | 1:26 | 2021-11-17 |  |
 | [Sharivari](https://open.spotify.com/track/7muqmpmlYfuSTkp08X6WKl) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Party Store](https://open.spotify.com/album/6rY0hRrHzhlUEC2ICWBWEJ) | 5:36 | 2021-11-17 |  |
 | [Skinny Jeans](https://open.spotify.com/track/2Xf4YEfJ3G3Nh0Jpl10JGT) | [Likkle Vybz](https://open.spotify.com/artist/205X0050nYrtDk7oznzvDf), [Likkle Addi](https://open.spotify.com/artist/1gbC1B0H677ryBssCEnIIm) | [Skinny Jeans](https://open.spotify.com/album/2rVj3edIscNUTwnEkiw4po) | 3:20 | 2021-12-18 |  |
 | [Skinny Jeans](https://open.spotify.com/track/5oJIwq4dlZ9Bv1DSTM5Jqh) | [Likkle Vybz](https://open.spotify.com/artist/205X0050nYrtDk7oznzvDf), [Likkle Addi](https://open.spotify.com/artist/1gbC1B0H677ryBssCEnIIm) | [Skinny Jeans](https://open.spotify.com/album/5euwdoUkc5wdS99Qw2g4nV) | 3:20 | 2021-12-18 | 2022-11-12 |

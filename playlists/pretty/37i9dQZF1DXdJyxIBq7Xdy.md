@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 
 > The most definitive female voices in Disco\. Cover: Chaka Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,930 likes - 33 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,948 likes - 33 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 | 23 | [Love Sensation](https://open.spotify.com/track/4OmDRl8nlE1IkWkwS82nY3) | [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Love Sensation](https://open.spotify.com/album/4eK7j8ZSR9AGn3mR8WGqtr) | 6:06 |
 | 24 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
 | 25 | [If I Can't Have You](https://open.spotify.com/track/0QjPiq9Wka9I1b4uzWETYI) | [Yvonne Elliman](https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS) | [The Best Of Yvonne Elliman](https://open.spotify.com/album/0AzxFeB4qg0FXpmXTDuyDj) | 3:00 |
-| 26 | [More, More, More](https://open.spotify.com/track/4hepyFFOO9I7oZCNn3T2sz) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:42 |
+| 26 | [More, More, More](https://open.spotify.com/track/4hepyFFOO9I7oZCNn3T2sz) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:03 |
 | 27 | [Feels Like I'm in Love \- 2022 Remaster](https://open.spotify.com/track/0zDxwumKmmwzNPYeEQMulS) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feels Like I'm in Love \(2022 Remaster\)](https://open.spotify.com/album/2cmLplrGf2m2oxZbuYn5JK) | 4:16 |
 | 28 | [Lady Marmalade](https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Best Of Patti Labelle](https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub) | 3:55 |
 | 29 | [Car Wash](https://open.spotify.com/track/1tJtx09XQnxaynZLOaTNfZ) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/0MRZwmzgulNr9oSGomArxL) | 5:12 |

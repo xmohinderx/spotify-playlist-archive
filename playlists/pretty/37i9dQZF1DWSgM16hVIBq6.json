@@ -1,12 +1,12 @@
 {
   "description": "Tira unos pasos prohibidos. Dance the night away with your favorite tropical tunes.",
-  "num_followers": 62677,
+  "num_followers": 62775,
   "original_name": "SABOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwMzg1NiwwMDAwMDAwMDVhMjYwNjBkMWNlZDk4OGY0YTA0MjgyY2MyYWIwN2Nk",
+  "snapshot_id": "MTY3NjYwMzg1NiwwMDAwMDAwMGZiYjcwZjhkNWFiNjVjZjI1ZDI1ZjY4Y2E5Y2I2NDBl",
   "tracks": [
     {
       "added_at": "2023-02-17 03:17:36",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-02-17 03:17:36",
       "album": {
+        "name": "Asondeguerra",
+        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Bachata En Fukuoka",
+      "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
+    },
+    {
+      "added_at": "2023-02-17 03:17:36",
+      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
-    },
-    {
-      "added_at": "2023-02-17 03:17:36",
-      "album": {
-        "name": "Asondeguerra",
-        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 191106,
-      "name": "Bachata En Fukuoka",
-      "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
     },
     {
       "added_at": "2023-02-17 03:17:36",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-02-17 03:17:36",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 257079,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5"
-    },
-    {
-      "added_at": "2023-02-17 03:17:36",
-      "album": {
         "name": "Para La Eternidad",
         "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": "2023-02-17 03:17:36",
       "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 257079,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5"
+    },
+    {
+      "added_at": "2023-02-17 03:17:36",
+      "album": {
         "name": "Clasicos de la Provincia",
         "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-02-17 03:17:36",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
-    },
-    {
-      "added_at": "2023-02-17 03:17:36",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 237900,
       "name": "La Historia",
       "url": "https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ"
+    },
+    {
+      "added_at": "2023-02-17 03:17:36",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
     },
     {
       "added_at": "2023-02-17 03:17:36",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-17 03:17:36",
       "album": {
-        "name": "Sentimental de Punta a Punta",
-        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 325642,
-      "name": "Oiga, Mire, Vea",
-      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
-    },
-    {
-      "added_at": "2023-02-17 03:17:36",
-      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2023-02-17 03:17:36",
       "album": {
+        "name": "Sentimental de Punta a Punta",
+        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 325642,
+      "name": "Oiga, Mire, Vea",
+      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
+    },
+    {
+      "added_at": "2023-02-17 03:17:36",
+      "album": {
         "name": "Fabricando Fantas\u00edas",
         "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 272266,
       "name": "Fabricando Fantas\u00edas - Salsa Version",
       "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
+    },
+    {
+      "added_at": "2023-02-17 03:17:36",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Las Avispas",
+      "url": "https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u"
     },
     {
       "added_at": "2023-02-17 03:17:36",
@@ -795,22 +811,6 @@
       "duration_ms": 268440,
       "name": "Parecen Viernes",
       "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
-    },
-    {
-      "added_at": "2023-02-17 03:17:36",
-      "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Las Avispas",
-      "url": "https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u"
     },
     {
       "added_at": "2023-02-17 03:17:36",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-02-17 03:17:36",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 289466,
-      "name": "Vali\u00f3 la Pena - Salsa Version",
-      "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
-    },
-    {
-      "added_at": "2023-02-17 03:17:36",
-      "album": {
         "name": "No Hay Quinto Malo",
         "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 310360,
       "name": "Cali Pachanguero",
       "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
+    },
+    {
+      "added_at": "2023-02-17 03:17:36",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f"
     },
     {
       "added_at": "2023-02-17 03:17:36",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-02-17 03:17:36",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
       "artists": [
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Suavemente",
-      "url": "https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f"
+      "duration_ms": 289466,
+      "name": "Vali\u00f3 la Pena - Salsa Version",
+      "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
     },
     {
       "added_at": "2023-02-17 03:17:36",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-02-17 03:17:36",
       "album": {
-        "name": "Dejame Entrar",
-        "url": "https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Carito",
-      "url": "https://open.spotify.com/track/5czkBkWogUvTf2jleGyHaQ"
-    },
-    {
-      "added_at": "2023-02-17 03:17:36",
-      "album": {
         "name": "Lao' a Lao'",
         "url": "https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 184341,
       "name": "Lao' a Lao'",
       "url": "https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37"
+    },
+    {
+      "added_at": "2023-02-17 03:17:36",
+      "album": {
+        "name": "Dejame Entrar",
+        "url": "https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Carito",
+      "url": "https://open.spotify.com/track/5czkBkWogUvTf2jleGyHaQ"
     },
     {
       "added_at": "2023-02-17 03:17:36",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2023-02-17 03:17:36",
       "album": {
+        "name": "Adicto (feat. Marc Anthony)",
+        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 209191,
+      "name": "Adicto (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
+    },
+    {
+      "added_at": "2023-02-17 03:17:36",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 295640,
       "name": "Cara de Ni\u00f1o",
       "url": "https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl"
-    },
-    {
-      "added_at": "2023-02-17 03:17:36",
-      "album": {
-        "name": "Adicto (feat. Marc Anthony)",
-        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 209191,
-      "name": "Adicto (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
     },
     {
       "added_at": "2023-02-17 03:17:36",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-02-17 03:17:36",
       "album": {
-        "name": "The Reventon: 30 Pegaditas",
-        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "El Baile del Perrito",
-      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
-    },
-    {
-      "added_at": "2023-02-17 03:17:36",
-      "album": {
         "name": "Despecho Reggaet\u00f3n",
         "url": "https://open.spotify.com/album/1clxM59p55Br14SInm4uSI"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 233013,
       "name": "Ay Amor - Reggaeton",
       "url": "https://open.spotify.com/track/4E1z3hsYE4bM1PNBvtAoZP"
+    },
+    {
+      "added_at": "2023-02-17 03:17:36",
+      "album": {
+        "name": "The Reventon: 30 Pegaditas",
+        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "El Baile del Perrito",
+      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
     },
     {
       "added_at": "2023-02-17 03:17:36",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-02-17 03:17:36",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
-      },
-      "artists": [
-        {
-          "name": "Fulanito",
-          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "El Cepillo",
-      "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
-    },
-    {
-      "added_at": "2023-02-17 03:17:36",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 284653,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy"
+    },
+    {
+      "added_at": "2023-02-17 03:17:36",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
+      },
+      "artists": [
+        {
+          "name": "Fulanito",
+          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "El Cepillo",
+      "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
     },
     {
       "added_at": "2023-02-17 03:17:36",

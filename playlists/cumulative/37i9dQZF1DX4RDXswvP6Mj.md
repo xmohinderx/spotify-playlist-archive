@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: NewJeans\(뉴진스\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-522 songs - 1 day 4 hr 47 min
+523 songs - 1 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Giant](https://open.spotify.com/track/3p8low79RQzkixDlIngBTT) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [A Page](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) | 3:29 | 2021-12-21 | 2022-07-29 |
 | [gimme gimme](https://open.spotify.com/track/2etvRAUH3Q7HrI0JFF9z9p) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [First Love/gimme gimme](https://open.spotify.com/album/42ntRqVrWaiSSzekEHdKlr) | 3:39 | 2021-12-29 | 2022-05-22 |
 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 | 2022-02-23 | 2022-05-21 |
-| [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-08 |  |
+| [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-08 | 2023-02-23 |
 | [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 | 2021-12-29 | 2022-05-06 |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-29 | 2022-07-25 |
 | [Go or Stop?](https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Go or Stop?](https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA) | 2:38 | 2022-03-02 | 2022-04-20 |
@@ -281,7 +281,7 @@
 | [Life is Beautiful](https://open.spotify.com/track/7ddidn8lqsvjGCvwOFMXQZ) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [ONEUS THEATRE : Life is Beautiful](https://open.spotify.com/album/0PHu8jLNsawhOUxBwFk7KU) | 3:40 | 2022-01-14 | 2022-06-28 |
 | [Lights](https://open.spotify.com/track/6oqpdPyUlrvth5trYx0l0y) | [KIM JONGHYEON](https://open.spotify.com/artist/0xJDnPkh9zb3YWOpMqkXWM) | [MERIDIEM](https://open.spotify.com/album/3a8zl8zbMxiR3VYTQiRs4s) | 3:20 | 2022-11-08 | 2022-11-23 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-12-29 | 2022-08-10 |
-| [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-12-21 | 2023-02-21 |
+| [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-12-21 |  |
 | [Lock Down](https://open.spotify.com/track/3SCxTtLDtZ6HsQrytAoyLV) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [1st EP Album 'Bipolar Pt.1 Prelude of Anxiety'](https://open.spotify.com/album/7vmtkwSVS1bKSvRbQ0ALvY) | 3:27 | 2022-01-03 | 2022-03-09 |
 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 | 2022-07-28 |  |
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-12-21 | 2022-07-29 |
@@ -396,7 +396,7 @@
 | [Ring The Alarm](https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 5th Mini Album 'Re:'](https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl) | 3:05 | 2022-06-22 | 2022-07-11 |
 | [RING X RING](https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception : chapter one](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) | 3:20 | 2022-03-24 | 2022-04-11 |
 | [Road](https://open.spotify.com/track/1zvYrvy4ucwfPlBr2RLUif) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus Pt\. 1: Kaleidoscope](https://open.spotify.com/album/7htimrPXHpXUEehmi902CA) | 4:00 | 2022-08-03 | 2022-08-09 |
-| [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-21 |  |
+| [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-21 | 2023-02-23 |
 | [Roller Coaster](https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 3:32 | 2022-04-05 | 2022-06-15 |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-12-21 | 2022-07-17 |
 | [Rollin' \(New Version\)](https://open.spotify.com/track/7DkqdEiDja7Gn9zvrfy7Vw) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin' \(New Version\)](https://open.spotify.com/album/4xmh2xJI6SENhp5cvXiynw) | 3:21 | 2021-12-29 | 2022-04-12 |
@@ -453,6 +453,7 @@
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 |  |
 | [Tear Drop](https://open.spotify.com/track/5T6UFJ0AtAU7gXGybQ0HH7) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [TURN OVER](https://open.spotify.com/album/5zt8nriwNFRlrZD3Gi4NRI) | 3:17 | 2021-12-21 | 2022-04-19 |
 | [Teddy Bear](https://open.spotify.com/track/3CD9iMJ93oOGucIivL9HWC) | [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [Teddy Bear](https://open.spotify.com/album/4QGeoDTeRMWBQCUcdDvOzf) | 3:25 | 2022-03-31 | 2022-04-06 |
+| [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 | 2023-02-22 |  |
 | [Telepathy](https://open.spotify.com/track/2FVpOsjT1iquZ3SpCjZ9Ne) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:22 | 2021-12-29 | 2022-06-01 |
 | [Tell Me What To Do](https://open.spotify.com/track/082T4CgUFyV0tjPdzaq6ml) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 and 1 \- The 5th Album Repackage](https://open.spotify.com/album/1tLW1mwNWPgSze47VxSuxc) | 4:06 | 2022-03-24 | 2022-03-27 |
 | [Tempo](https://open.spotify.com/track/3RqZIrpndez8Iu5J5BsmnV) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT](https://open.spotify.com/album/2eVmKC7YaC0WmA0NRACVFD) | 3:44 | 2022-01-25 | 2022-07-16 |

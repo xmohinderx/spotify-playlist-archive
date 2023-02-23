@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207,283 likes - 378 songs - 16 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,166 likes - 378 songs - 16 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 44 | [Santa Rosa](https://open.spotify.com/track/4WUknVj32CkjuRtNelRm8l) | [Brisa Matinal](https://open.spotify.com/artist/1DXZ1YHbVYMnaiBKoqiBqd) | [Santa Rosa](https://open.spotify.com/album/6JFU8X93Atd9FCMO2Sy0yW) | 2:47 |
 | 45 | [Rain Zone](https://open.spotify.com/track/32W2llxLUCICb1tA56NvcL) | [Washy Wonka](https://open.spotify.com/artist/3U9X5kGfb8HedidPV4Vn0L) | [Wicked Weather](https://open.spotify.com/album/4t7eWexNZDGac2eturu9xI) | 2:36 |
 | 46 | [Softest Night Rain](https://open.spotify.com/track/6rFnSfkEDYHXCNd4v7l94b) | [Drip\-Drop](https://open.spotify.com/artist/0iDx4sYtJ0FfXi5tdGGXTA) | [Softest Night Rain](https://open.spotify.com/album/3BUdYtLiDLnrSDcPnXFRd3) | 2:56 |
-| 47 | [Night Rain In The Gardem](https://open.spotify.com/track/0GdM8G5zBlK3DI18vaFHeT) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [My Secret Garden](https://open.spotify.com/album/0KtKDMceROcLz6Ft4b7aEY) | 2:26 |
+| 47 | [Night Rain In The Garden](https://open.spotify.com/track/0GdM8G5zBlK3DI18vaFHeT) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [My Secret Garden](https://open.spotify.com/album/0KtKDMceROcLz6Ft4b7aEY) | 2:26 |
 | 48 | [The Skies Clear Up](https://open.spotify.com/track/2h4dGNkPZLhGJtV2tPulAd) | [Unhappy Campers](https://open.spotify.com/artist/6fjsKLQve6XDhg870LDNo2) | [Wet Terrain](https://open.spotify.com/album/3HUBias9HKd0fxmDMZX9lD) | 3:08 |
 | 49 | [Storms Out](https://open.spotify.com/track/3eRC23AjDFRiojUhdbrkDM) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [Storms Out](https://open.spotify.com/album/6uhoM1qN6x8zjn234fwA9c) | 2:54 |
 | 50 | [Steady Rural Rain](https://open.spotify.com/track/2M9dMZm19VVwBpJyi2vbSl) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Mind Calming Rainstorms](https://open.spotify.com/album/3Qx3DrWXvBGpnzxHoJqH9k) | 3:01 |

@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-199 songs - 17 hr 40 min
+200 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Für Alina](https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Alexander Malter](https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH) | [Arvo Pärt: Alina](https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE) | 10:47 | 2022-07-22 |  |
 | [Gazing Back At Earth](https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [Gazing Back At Earth](https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA) | 5:16 | 2022-04-01 |  |
 | [Genesis \(Version\)](https://open.spotify.com/track/5Akz6IbYaaIteC7kQkL9he) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Outlines \(Repurposed\) 2013\-2019](https://open.spotify.com/album/7a8sOJlt87lNL8EjGXJg3P) | 3:56 | 2022-01-28 | 2022-07-29 |
+| [Ghostlore](https://open.spotify.com/track/4fYhvLW1p5inttamdBxDUC) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 6:49 | 2023-02-17 |  |
 | [Ghosts and All](https://open.spotify.com/track/0pAZJrgG34WZZI16v8sTkc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/3m1PX4NYhDWFpdbphMpUgG) | 8:32 | 2022-12-30 | 2023-02-02 |
 | [Ghosts And All](https://open.spotify.com/track/3NoWosBv396ElBNTIuDT4u) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2MfGjYqGBrXFFPqr2Cduv6) | 8:32 | 2022-01-28 | 2022-07-26 |
 | [Gleam \- Stilhed Rework](https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu) | [Infralyd](https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt), [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Gleam \(Stilhed Rework\)](https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB) | 4:01 | 2022-02-18 | 2023-01-24 |
@@ -176,7 +177,7 @@
 | [The Nixe of John Cage's River](https://open.spotify.com/track/6oq6jkurHXr3q9RhAeEkQ7) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:18 | 2022-01-21 |  |
 | [The Reckoning](https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda), [Ella Zwietnig](https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa) | [Far Within Reach](https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g) | 5:12 | 2022-01-21 |  |
 | [the river race](https://open.spotify.com/track/7tA1grFgMTBKiRwebiyvF8) | [Emra Grid](https://open.spotify.com/artist/20sUjZQrFJhslGZLMpvyIY) | [five cycles through an empty chamber](https://open.spotify.com/album/5k2FfmQtwwj83auNkMDPTe) | 9:36 | 2022-01-21 |  |
-| [The Smoke In The Photo \- Remastered](https://open.spotify.com/track/5fPGK6O2B8ljOsTSCfHI4B) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Neon \(Remastered\)](https://open.spotify.com/album/3M2JntluSuC9NNlkyq9lui) | 6:00 | 2022-01-21 |  |
+| [The Smoke In The Photo \- Remastered](https://open.spotify.com/track/5fPGK6O2B8ljOsTSCfHI4B) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Neon \(Remastered\)](https://open.spotify.com/album/3M2JntluSuC9NNlkyq9lui) | 6:00 | 2022-01-21 | 2023-02-23 |
 | [The Walk \- Piano Noir Rework](https://open.spotify.com/track/52oDFJBhX0QMwUiPUFIl1p) | [Sylvain Texier](https://open.spotify.com/artist/2a7kVqWOzTGVmZH28HZauf), [Ô Lake](https://open.spotify.com/artist/6811GEOzZlD8ILi15xUpbN), [Piano Noir](https://open.spotify.com/artist/3pNLseBzEa0hRjLqzI32KB) | [The Walk \(Piano Noir Rework\)](https://open.spotify.com/album/3bXyE5FNCRHuHwWT6Vx4OL) | 4:34 | 2022-01-28 |  |
 | [The Weavers](https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [The Weavers](https://open.spotify.com/album/7A65Zvm39UKY1t1DCVpjPs) | 2:32 | 2023-01-27 |  |
 | [The World Until Yesterday](https://open.spotify.com/track/7Jz9HikD4AWe2WoUIQLnBs) | [Paul Haslinger](https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE) | [The World Until Yesterday](https://open.spotify.com/album/3qiijbyweVFxZ6qcEKRSbX) | 2:56 | 2022-01-21 |  |

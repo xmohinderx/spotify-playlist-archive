@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Ashley McBryde
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,984 likes - 207 songs - 12 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,008 likes - 207 songs - 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

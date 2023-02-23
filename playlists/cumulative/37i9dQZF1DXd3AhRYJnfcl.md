@@ -4,7 +4,7 @@
 
 > أفضل الأغاني من قلب مصر إلى العالم🔥🔝\. الغلاف: مسلم
 
-152 songs - 8 hr 47 min
+153 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [3la 3eny](https://open.spotify.com/track/5Aun0pJOQFBQozav1hPpM1) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [3la 3eny](https://open.spotify.com/album/4I140V5a8hSz7TQzYVmTC4) | 5:16 | 2022-04-13 | 2022-05-14 |
 | [7ALA](https://open.spotify.com/track/00TO3hVgOAgfKrRjrKEZxx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [7ALA](https://open.spotify.com/album/70r1uOvZK1dM37OeCqtEsn) | 3:01 | 2023-01-16 |  |
 | [Aala Shanak](https://open.spotify.com/track/32fN22RlrQRRCH59Y80eSB) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:14 | 2022-10-25 | 2022-11-18 |
+| [Ader Akmel](https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ader Akmel](https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n) | 4:13 | 2023-02-22 |  |
 | [Adrenaline](https://open.spotify.com/track/1uE7Gln68v4duncYy4QgQm) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Adrenaline](https://open.spotify.com/album/7BbMlrhOzLqWAbf9o1yBw6) | 3:14 | 2022-07-30 |  |
 | [Ahkelak](https://open.spotify.com/track/60gNtG4TeY7YQxbxx9mUwU) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Ahkelak](https://open.spotify.com/album/30DzaAannug4aragLVhSMA) | 3:16 | 2022-04-13 | 2022-09-27 |
 | [Ahla Wahda](https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ahla Wahda](https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K) | 2:40 | 2022-04-13 |  |
@@ -156,7 +157,7 @@
 | [مسيطره](https://open.spotify.com/track/0ZjojzTQaoz1MZn0hGBaNP) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/48KAUO2Q0VsyjXQvDOntn4) | 2:48 | 2022-07-25 | 2022-08-18 |
 | [مسيطره](https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/5jHYpm290ktqzYSqOwlwLy) | 2:48 | 2022-04-13 | 2022-07-29 |
 | [معايا هتبدع](https://open.spotify.com/track/3aJ2ThvzAgQiOsFAdtRopt) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/3uLR3lR7rHwoN2drz0k8B2) | 3:16 | 2022-12-23 | 2023-01-14 |
-| [معايا هتبدع](https://open.spotify.com/track/5j45BEfUuIKCZ2eQvkTlTV) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:16 | 2023-01-12 |  |
+| [معايا هتبدع](https://open.spotify.com/track/5j45BEfUuIKCZ2eQvkTlTV) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:16 | 2023-01-12 | 2023-02-23 |
 | [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 | 2022-09-20 | 2022-10-25 |
 | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/album/4UuC0L72EoVpiUo02fjolL) | 4:44 | 2022-10-25 | 2023-01-01 |
 | [يمكن خير](https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:36 | 2023-01-24 |  |

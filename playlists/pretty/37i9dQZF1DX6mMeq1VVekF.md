@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Jim Legxacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,278 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,315 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 51 | [July](https://open.spotify.com/track/1aUJc88f1y0vsC93U1DbGk) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [MIDNIGHT PHUNK](https://open.spotify.com/artist/4ALqqxZGxXSP8g10Q1xvWI) | [The Silhouettes Project](https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL) | 3:13 |
 | 52 | [Hello](https://open.spotify.com/track/2dPljTAcJMuHXwojPtsv3h) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Unlimited](https://open.spotify.com/album/72vlLzn1FIEi1mHwJjfsW5) | 2:58 |
 | 53 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 |
-| 54 | [The Gang](https://open.spotify.com/track/2pKvxpetsBNnGK2L4H64Rf) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [The Gang](https://open.spotify.com/album/605XKaVg1al5g8F2FwSlSN) | 2:33 |
-| 55 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
-| 56 | [Energy \(feat\. Mahalia\)](https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Send Them To Coventry](https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT) | 3:08 |
-| 57 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
-| 58 | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/track/2HGSNTGF7iHWe3jDVJFRtN) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/album/645zTMEqAie03KrgBvhJxa) | 2:36 |
-| 59 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 |
+| 54 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
+| 55 | [Energy \(feat\. Mahalia\)](https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Send Them To Coventry](https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT) | 3:08 |
+| 56 | [The Gang](https://open.spotify.com/track/2pKvxpetsBNnGK2L4H64Rf) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [The Gang](https://open.spotify.com/album/605XKaVg1al5g8F2FwSlSN) | 2:33 |
+| 57 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 |
+| 58 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
+| 59 | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/track/2HGSNTGF7iHWe3jDVJFRtN) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/album/645zTMEqAie03KrgBvhJxa) | 2:36 |
 | 60 | [Come To Me](https://open.spotify.com/track/0YKdx0eEYVJ18peEsgtc2p) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/4HxdC77nF9ywR1s1mS4Jk7) | 3:08 |
 
-Snapshot ID: `MTY2Njk1MzM3MCwwMDAwMDAwMDJjYWM0OTBiNDk3NjgzMzc1ZjhmYjhkZjZhZjBhMmZh`
+Snapshot ID: `MTY2Njk1MzM3MCwwMDAwMDAwMDgzNTA4ZmFlOGU1NDBiNGExMmViZmE2MjU0OTlmMDY0`

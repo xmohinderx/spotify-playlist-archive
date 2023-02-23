@@ -4088,6 +4088,28 @@
     {
       "album": {
         "name": "Faith",
+        "url": "https://open.spotify.com/album/7fYASQOaHLLOrjkUavIlad"
+      },
+      "artists": [
+        {
+          "name": "Amy Lauren",
+          "url": "https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz"
+        },
+        {
+          "name": "Justri",
+          "url": "https://open.spotify.com/artist/5YmGBNnecIeG9pfzegLMEP"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170230,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4dDbwr8GxD7gNYrbKfPe2r"
+    },
+    {
+      "album": {
+        "name": "Faith",
         "url": "https://open.spotify.com/album/2NClHY8Ch8vrBu0CrTDTfo"
       },
       "artists": [
@@ -4470,28 +4492,6 @@
       "duration_ms": 161280,
       "name": "Festa",
       "url": "https://open.spotify.com/track/1uWzEwBhGc5vZZXPjaKPEZ"
-    },
-    {
-      "album": {
-        "name": "Fight For Me",
-        "url": "https://open.spotify.com/album/7fYASQOaHLLOrjkUavIlad"
-      },
-      "artists": [
-        {
-          "name": "Amy Lauren",
-          "url": "https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz"
-        },
-        {
-          "name": "Justri",
-          "url": "https://open.spotify.com/artist/5YmGBNnecIeG9pfzegLMEP"
-        }
-      ],
-      "date_added": "2023-02-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 170230,
-      "name": "Fight For Me",
-      "url": "https://open.spotify.com/track/4dDbwr8GxD7gNYrbKfPe2r"
     },
     {
       "album": {

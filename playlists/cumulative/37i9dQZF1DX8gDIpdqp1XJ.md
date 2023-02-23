@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-673 songs - 1 day 20 hr 55 min
+674 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [HALOHEAD](https://open.spotify.com/track/5ExI57hQ9irAstrGiyOnY6) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [VISUALS](https://open.spotify.com/album/0zoanXJYpaFO0jND1HzAti) | 3:24 | 2022-08-19 | 2022-08-26 |
 | [Happens All the Time](https://open.spotify.com/track/7k6MdU3CPrnFAnkYJRM1gY) | [Spaceface](https://open.spotify.com/artist/3rcMe5nRZ2Z6Qbx1OB0vIz) | [Anemoia](https://open.spotify.com/album/0P65IoBOZZ36tbKMfUwILD) | 3:18 | 2022-04-20 | 2022-07-29 |
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2022-07-01 |  |
+| [Heart Break Escape](https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:20 | 2023-02-22 |  |
 | [Heartbeat](https://open.spotify.com/track/0YUt3MicxnPYcXmoErwqBO) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Heartbeat](https://open.spotify.com/album/6opMaSMh0n9uOEp069dj81) | 3:28 | 2021-04-02 | 2022-04-21 |
 | [Heat Wave](https://open.spotify.com/track/7gkwA9D1GqsbecFEfLR1ka) | [Motel Radio](https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7) | [Heat Wave](https://open.spotify.com/album/757XmHJA5ltYC7lX4oazsP) | 3:49 | 2022-06-17 | 2022-07-26 |
 | [Heaven Is A Place](https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Heaven Is A Place](https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8) | 4:49 | 2022-11-10 |  |
@@ -292,10 +293,10 @@
 | [If You Don't Wanna Know](https://open.spotify.com/track/6u2sNdU0FNLbtZypNb2ubE) | [Fake Laugh](https://open.spotify.com/artist/0T9yyggayix1EKjiq3hW2m) | [If You Don't Wanna Know](https://open.spotify.com/album/2bhkXqzbP7wROlIJPe0BE9) | 3:27 | 2021-04-02 | 2022-04-21 |
 | [ILLUSIONS](https://open.spotify.com/track/5brlbAE683E1wEzKDNT3B8) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [ILLUSIONS](https://open.spotify.com/album/4hBStZD5wKMAlhylLMACpT) | 3:58 | 2021-06-25 | 2022-04-21 |
 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 | 2022-04-22 | 2022-07-30 |
-| [In Between](https://open.spotify.com/track/4rQlCooK88oFN819QAduCw) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 4:16 | 2022-12-16 |  |
+| [In Between](https://open.spotify.com/track/4rQlCooK88oFN819QAduCw) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 4:16 | 2022-12-16 | 2023-02-23 |
 | [In Your Arms](https://open.spotify.com/track/2DgaPZppYXSYGCaBceXfTw) | [Sunbeam Sound Machine](https://open.spotify.com/artist/5rGnc6zmQSjWGJ8KEAvGFq) | [Wonderer](https://open.spotify.com/album/3zmWJr754RgoD1u7BEk2Nk) | 4:39 | 2022-05-23 | 2022-07-30 |
 | [Inner Meet Me](https://open.spotify.com/track/13peHGuZastwBnvw1fVfff) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [The Three EP's](https://open.spotify.com/album/387kRGMURjq8rAquMi3LLN) | 6:20 | 2021-04-02 | 2022-04-05 |
-| [Insomnia](https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Insomnia](https://open.spotify.com/album/61OCdmC6ntHNsoSckGbAkF) | 4:52 | 2022-05-20 | 2023-02-21 |
+| [Insomnia](https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Insomnia](https://open.spotify.com/album/61OCdmC6ntHNsoSckGbAkF) | 4:52 | 2022-05-20 |  |
 | [Interface](https://open.spotify.com/track/6jneoPK80OLlFMDZ47fGPY) | [Absolutely Free](https://open.spotify.com/artist/5DD56TbdQI5Xe9c8YSiTj5) | [Interface](https://open.spotify.com/album/4RtydL39WN7V55HaGO8iy5) | 3:18 | 2021-08-20 | 2022-04-20 |
 | [Interior People](https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy) | 5:15 | 2021-06-11 | 2022-07-06 |
 | [Intrasport](https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:12 | 2021-04-02 | 2022-07-06 |
@@ -478,7 +479,7 @@
 | [Raspberry Jam](https://open.spotify.com/track/3i2pAVmEzBgJIHtIMkNQBJ) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/2L8OeILKoTrzQr8swQx2Ys) | 3:48 | 2021-04-02 | 2022-05-29 |
 | [Raspberry Jam](https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G) | 3:48 | 2022-05-23 |  |
 | [Rattlesnake](https://open.spotify.com/track/0ZL30eQe4jC2x6nrnDRo0a) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flying Microtonal Banana](https://open.spotify.com/album/3WAs9wemNyK4eWWMuniJeY) | 7:48 | 2021-04-02 | 2022-04-15 |
-| [REACH THE SUNSHINE.](https://open.spotify.com/track/0t8YVhiyInlDW9cHtMGhJg) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 5:58 | 2023-01-27 |  |
+| [REACH THE SUNSHINE.](https://open.spotify.com/track/0t8YVhiyInlDW9cHtMGhJg) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 5:58 | 2023-01-27 | 2023-02-23 |
 | [Read My Mind](https://open.spotify.com/track/58If4g2zKueffK6k0vso4e) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Read My Mind](https://open.spotify.com/album/2a7WCivtgfyyqt5TWbApLZ) | 4:23 | 2021-04-02 | 2022-04-18 |
 | [Ready for the Summer](https://open.spotify.com/track/7rLQc7Bd6zsxPO80cTKXey) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Ready for the Summer](https://open.spotify.com/album/52RWZP4bh5aasGvXMynfHV) | 3:24 | 2021-04-02 | 2022-07-09 |
 | [Red Petal](https://open.spotify.com/track/02aik4tdY4oRoWVKxvMUjP) | [Scrimmage](https://open.spotify.com/artist/6UHfKPCRvV71AwZuCoIYO6) | [Superego](https://open.spotify.com/album/4EKaxR1v7cfcxYOchroVNz) | 2:54 | 2022-12-09 | 2023-02-20 |

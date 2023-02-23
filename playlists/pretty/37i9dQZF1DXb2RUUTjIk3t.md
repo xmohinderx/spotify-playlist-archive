@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,877 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,936 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 | 20 | [No News No Blues](https://open.spotify.com/track/3dI1uxPuy9SwEMveMwpDJn) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:53 |
 | 21 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 4:13 |
 | 22 | [Meteorite](https://open.spotify.com/track/4FqAoONyMV4m0KLnoZ43im) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:14 |
-| 23 | [It Matters Until It Doesn't](https://open.spotify.com/track/6yF8gJoUzniKX40Y4AopUo) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [Glorious Miscellanea](https://open.spotify.com/album/2YiePm4VnASWYAs1dAwZx4) | 2:35 |
+| 23 | [It Matters Until It Doesn't](https://open.spotify.com/track/5UGRZhXnVNOkX4ikYKpf1Q) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [Glorious Miscellanea](https://open.spotify.com/album/5t1LgYhccLmZqxxghioxDb) | 2:35 |
 | 24 | [Runaways](https://open.spotify.com/track/6tWR9JWEY6WZHDoQpM1CCr) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [Elsa Carmona](https://open.spotify.com/artist/53giw2tzgMG8eDAmuaxdvR) | [Runaways](https://open.spotify.com/album/5sU26G6vPoN9JzT28o1nXe) | 3:13 |
 | 25 | [where I become someone](https://open.spotify.com/track/4MFA7lHHvfZk1dw3hLahxR) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 3:08 |
 | 26 | [Je Suis la Pomme Rouge](https://open.spotify.com/track/5LVaQHjgN0jiKDYaoMQqFG) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [The Night is Clear](https://open.spotify.com/album/4AzsujfeRZCjymYlgxOpjm) | 4:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 | 74 | [Doing Really Well Thanks](https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Doing Really Well Thanks](https://open.spotify.com/album/3m0pmKEVZHRUo2AIMKau6q) | 4:43 |
 | 75 | [Dusty Issues](https://open.spotify.com/track/27Kcb2Hslz0lSplnxVmmQk) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [Dusty Issues](https://open.spotify.com/album/1kBh2A0rSYYbNVoCaNsjdQ) | 2:04 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGYyOWMyOWYxNDlmY2IzNDA2YzU0YzhjN2IyZWMwZGM4`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGRmMzE1NjFhMzllMzBlNzQzMjUzNmZhOTlmNWQ5MDlk`

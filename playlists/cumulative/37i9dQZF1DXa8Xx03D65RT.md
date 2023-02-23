@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-545 songs - 23 hr 19 min
+546 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2022-05-27 | 2022-07-21 |
 | [Dordogne Peace](https://open.spotify.com/track/6M7WZqI57fDaWnLXOJQjPv) | [Magnus Ludvigsson](https://open.spotify.com/artist/1ZdkboTg5bXbk7siTMxVc7) | [Dordogne Peace](https://open.spotify.com/album/6CmxYF8taQnE8hIEUGB0Ye) | 2:54 | 2022-05-27 |  |
 | [Dream in Eb](https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Dreams](https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t) | 2:25 | 2022-05-27 | 2022-09-24 |
-| [Dreaming Of You](https://open.spotify.com/track/64OSHlDi8TeihNzUMvc2Kv) | [Halbert Stone](https://open.spotify.com/artist/2iLk7f4nMNmLZytDO6vaYc) | [Dreaming Of You](https://open.spotify.com/album/4bYgaFEFfbcm0HjREyj7wY) | 2:53 | 2022-05-27 |  |
+| [Dreaming Of You](https://open.spotify.com/track/64OSHlDi8TeihNzUMvc2Kv) | [Halbert Stone](https://open.spotify.com/artist/2iLk7f4nMNmLZytDO6vaYc) | [Dreaming Of You](https://open.spotify.com/album/4bYgaFEFfbcm0HjREyj7wY) | 2:53 | 2022-05-27 | 2023-02-23 |
 | [Drifting Sand](https://open.spotify.com/track/2ElVZ4JztgEiG6vfb0ZdB2) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Drifting Sand](https://open.spotify.com/album/1HAAeEBz6Y80NLYiroxewn) | 2:20 | 2022-05-27 | 2023-02-13 |
 | [Drops](https://open.spotify.com/track/6tAVuHk9SgULudReDLhcgj) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Stories](https://open.spotify.com/album/10i8H3JBp0J5sRVaONz6qe) | 2:36 | 2022-05-27 | 2022-09-24 |
 | [Duality](https://open.spotify.com/track/1sdV3pcwnK8twgSyqGtmo7) | [Bethany Howell](https://open.spotify.com/artist/0SDJYZtFgByzaTKZrb21kj) | [Water Lilies](https://open.spotify.com/album/7HUWpZuHBpU73fqW0sLEFA) | 2:13 | 2022-05-27 | 2023-02-22 |
@@ -473,6 +473,7 @@
 | [The Morning After](https://open.spotify.com/track/1DHhmHbFGGiQVG3fStE6bf) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [The Morning After](https://open.spotify.com/album/4qgnHamEDQl2MneGMS5rsG) | 2:30 | 2022-05-27 | 2022-09-24 |
 | [The Northern Fairy](https://open.spotify.com/track/1hwfxmyMPUvuuihQY1PLOK) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [The Northern Fairy](https://open.spotify.com/album/3T27VKk3B5a2GY4Ayfc8Ws) | 2:10 | 2022-05-27 | 2022-08-10 |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2022-05-27 |  |
+| [The Parchment Moon](https://open.spotify.com/track/7J3lkfbNJGpJQZOq4xZv4t) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [The Parchment Moon](https://open.spotify.com/album/7rcZ78F9uYe9xFeiLNi9Rs) | 2:12 | 2023-02-20 |  |
 | [The Persistence of Memory](https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [The Persistence of Memory](https://open.spotify.com/album/6Bk0HhWSAZfMAioQEc1dl0) | 2:30 | 2022-05-27 |  |
 | [The Porch Swing](https://open.spotify.com/track/4Be7nKSjLG0iWmt0OJXEks) | [Billie Ivory](https://open.spotify.com/artist/6GtWlyQC6QxNGW1w3EQVpx) | [The Porch Swing](https://open.spotify.com/album/0abQ6KRfx1mMUwH73fFW99) | 2:09 | 2022-05-27 | 2022-07-21 |
 | [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 | 2022-05-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR?si=b92Ewb2ZTiGj7AICKZOT7Q" > Popcaan </a>  and <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=qy\_VHFqCSTa\-9m1ICJ\_u9Q" > Burna Boy </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,839 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,847 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "In Plain Sight",
+        "url": "https://open.spotify.com/album/39H3aSkk8uCM25VoIx16y7"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv"
+    },
+    {
+      "album": {
         "name": "Always A Dream",
         "url": "https://open.spotify.com/album/6FvLm2WrMOHLuu2ZgFr2Et"
       },
@@ -454,6 +472,24 @@
       "duration_ms": 231551,
       "name": "ANSWERS",
       "url": "https://open.spotify.com/track/6giF69se8doTga9JDiGAGp"
+    },
+    {
+      "album": {
+        "name": "HEAVENS DOOR",
+        "url": "https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "ANTHEM",
+      "url": "https://open.spotify.com/track/1McvHPGOTNBsMZNY8knzsK"
     },
     {
       "album": {
@@ -1079,6 +1115,28 @@
     },
     {
       "album": {
+        "name": "CATALYST",
+        "url": "https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206746,
+      "name": "CATALYST",
+      "url": "https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44"
+    },
+    {
+      "album": {
         "name": "cbd",
         "url": "https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV"
       },
@@ -1308,6 +1366,28 @@
       "duration_ms": 215250,
       "name": "Confidence (feat. Jon Waltz) - Slow Magic Remix",
       "url": "https://open.spotify.com/track/1Rvd0fDecFF3UToXYp8oE9"
+    },
+    {
+      "album": {
+        "name": "Conflicted",
+        "url": "https://open.spotify.com/album/7g0ZQYAbYQosKsuT2Hj9tM"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181430,
+      "name": "Conflicted",
+      "url": "https://open.spotify.com/track/24fqHAeKYTZAx6gN9kc3DC"
     },
     {
       "album": {
@@ -2595,6 +2675,24 @@
     },
     {
       "album": {
+        "name": "Food for the Soul",
+        "url": "https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210562,
+      "name": "Food for the Soul",
+      "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
+    },
+    {
+      "album": {
         "name": "For Goodness Sake",
         "url": "https://open.spotify.com/album/5Jzk8JkbvxrTu6r5T6kKAu"
       },
@@ -3048,6 +3146,28 @@
       "duration_ms": 240000,
       "name": "HEAVEN'S GATES (feat. Izzy Camina) - Manila Killa Remix",
       "url": "https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup"
+    },
+    {
+      "album": {
+        "name": "HEAVENS DOOR",
+        "url": "https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "HEAVENS DOOR",
+      "url": "https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb"
     },
     {
       "album": {
@@ -6290,6 +6410,36 @@
       "duration_ms": 191040,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/51gPXzSUjtjlgOtGh7M0bd"
+    },
+    {
+      "album": {
+        "name": "Sorry (with Madonna)",
+        "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Darmon",
+          "url": "https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161627,
+      "name": "Sorry (with Madonna)",
+      "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
     },
     {
       "album": {

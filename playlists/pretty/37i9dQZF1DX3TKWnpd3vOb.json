@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Pettinellis",
-  "num_followers": 199988,
+  "num_followers": 199993,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMGMxMzgyNmFlOWNmYzc5MmM4YmIxMTgwMzI1ZGViM2Zi",
+  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMDI4YmExODdhNjQ1MzRkYjIxODRkOThmZmQ3YzNlZmM3",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Esta Tarde Vi Llover",
-        "url": "https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp"
-      },
-      "artists": [
-        {
-          "name": "Los Ex",
-          "url": "https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP"
-        }
-      ],
-      "duration_ms": 153991,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Sin Condiciones",
         "url": "https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 230725,
       "name": "Sin Condiciones",
       "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp"
+      },
+      "artists": [
+        {
+          "name": "Los Ex",
+          "url": "https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP"
+        }
+      ],
+      "duration_ms": 153991,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Gol de Caszely",
-        "url": "https://open.spotify.com/album/3vb74EiQdE9RO2l8hb4Hwj"
+        "name": "Ases Falsos En El Coliseo",
+        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
       },
       "artists": [
         {
-          "name": "Daniel Guerrero",
-          "url": "https://open.spotify.com/artist/46DjlImkqCqoPI8bQFfGma"
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
         }
       ],
-      "duration_ms": 228741,
-      "name": "Gol de Caszely",
-      "url": "https://open.spotify.com/track/4G5BUwn7bk6GmxwZ2PNnlj"
+      "duration_ms": 243270,
+      "name": "Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Ases Falsos En El Coliseo",
-        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
+        "name": "Gol de Caszely",
+        "url": "https://open.spotify.com/album/3vb74EiQdE9RO2l8hb4Hwj"
       },
       "artists": [
         {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+          "name": "Daniel Guerrero",
+          "url": "https://open.spotify.com/artist/46DjlImkqCqoPI8bQFfGma"
         }
       ],
-      "duration_ms": 243270,
-      "name": "Mala Fama - En Vivo",
-      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
+      "duration_ms": 228741,
+      "name": "Gol de Caszely",
+      "url": "https://open.spotify.com/track/4G5BUwn7bk6GmxwZ2PNnlj"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Volveremos",
+        "url": "https://open.spotify.com/album/2nZ0IhiSRSBTKypqTbm6d7"
+      },
+      "artists": [
+        {
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "Volveremos",
+      "url": "https://open.spotify.com/track/2NtVz2PnXor6n99JUa3lni"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Fuego y Mar",
         "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 224096,
       "name": "Fuego y Mar",
       "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Volveremos",
-        "url": "https://open.spotify.com/album/2nZ0IhiSRSBTKypqTbm6d7"
-      },
-      "artists": [
-        {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "Volveremos",
-      "url": "https://open.spotify.com/track/2NtVz2PnXor6n99JUa3lni"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Estrella Fugaz",
-        "url": "https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 266642,
-      "name": "Estrella Fugaz",
-      "url": "https://open.spotify.com/track/7wcaWObyke61VmmnjRwkgL"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Sangre y Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 183484,
       "name": "Un D\u00eda por Concepci\u00f3n",
       "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 266642,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/7wcaWObyke61VmmnjRwkgL"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1379,38 +1379,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
-        "url": "https://open.spotify.com/album/4Y6QBvjiKF6D7TapNyWJxd"
-      },
-      "artists": [
-        {
-          "name": "Aguaturbia",
-          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
-        }
-      ],
-      "duration_ms": 277849,
-      "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
-      "url": "https://open.spotify.com/track/6ctn61QsvvmiXSl5EafPLc"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Loumania",
-        "url": "https://open.spotify.com/album/3nzWHNbkQZq5nF4QlI9OP8"
-      },
-      "artists": [
-        {
-          "name": "Perrosky",
-          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
-        }
-      ],
-      "duration_ms": 178677,
-      "name": "Bichos / Vicious",
-      "url": "https://open.spotify.com/track/56L0VuYBkJzslZes40qjuf"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Vueltas y Vueltas",
         "url": "https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl"
       },
@@ -1427,6 +1395,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
+        "url": "https://open.spotify.com/album/4Y6QBvjiKF6D7TapNyWJxd"
+      },
+      "artists": [
+        {
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+        }
+      ],
+      "duration_ms": 277849,
+      "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
+      "url": "https://open.spotify.com/track/6ctn61QsvvmiXSl5EafPLc"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Voy Saliendo",
         "url": "https://open.spotify.com/album/7HZGOnq1prj8mI0grmBkMa"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 196336,
       "name": "Voy Saliendo",
       "url": "https://open.spotify.com/track/6pwvmkiqmpk2DSmBHfIu6W"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Loumania",
+        "url": "https://open.spotify.com/album/3nzWHNbkQZq5nF4QlI9OP8"
+      },
+      "artists": [
+        {
+          "name": "Perrosky",
+          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
+        }
+      ],
+      "duration_ms": 178677,
+      "name": "Bichos / Vicious",
+      "url": "https://open.spotify.com/track/56L0VuYBkJzslZes40qjuf"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "El \u00daltimo Hombre",
-        "url": "https://open.spotify.com/album/1eAxuEL8CwlTyoQCHN56oG"
-      },
-      "artists": [
-        {
-          "name": "J\u00fcrgensen",
-          "url": "https://open.spotify.com/artist/3aa7GJeuK2umr3aA4SGPeG"
-        }
-      ],
-      "duration_ms": 179330,
-      "name": "El \u00daltimo Hombre",
-      "url": "https://open.spotify.com/track/3ktAEb2vExKXKIYEasqNZB"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Flores Pl\u00e1sticas",
         "url": "https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 211731,
       "name": "Ven",
       "url": "https://open.spotify.com/track/3kMu5NB2J5na3ZOkrQxiqZ"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "El \u00daltimo Hombre",
+        "url": "https://open.spotify.com/album/1eAxuEL8CwlTyoQCHN56oG"
+      },
+      "artists": [
+        {
+          "name": "J\u00fcrgensen",
+          "url": "https://open.spotify.com/artist/3aa7GJeuK2umr3aA4SGPeG"
+        }
+      ],
+      "duration_ms": 179330,
+      "name": "El \u00daltimo Hombre",
+      "url": "https://open.spotify.com/track/3ktAEb2vExKXKIYEasqNZB"
     },
     {
       "added_at": "2023-02-03 03:00:00",

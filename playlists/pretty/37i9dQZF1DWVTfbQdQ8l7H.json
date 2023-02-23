@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 2010s.",
-  "num_followers": 461503,
+  "num_followers": 462031,
   "original_name": "10s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDEyMDEzOCwwMDAwMDAwMGQ3NzEzZDlmNDhiMjlhMWIxNTI3YjdiOTBhYmE2MjFl",
+  "snapshot_id": "MTY3NDEyMDEzOCwwMDAwMDAwMGFhNzYyNzQ0ZWMxY2NmNzU5MGE1ZDUxNTZlODc0ZTM2",
   "tracks": [
     {
       "added_at": "2021-11-22 06:35:18",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-01-07 11:20:25",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
-    },
-    {
-      "added_at": "2021-01-07 11:20:25",
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 224000,
       "name": "Love On The Brain",
       "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
+    },
+    {
+      "added_at": "2021-01-07 11:20:25",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
     },
     {
       "added_at": "2021-01-07 11:20:25",

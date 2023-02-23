@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Leony",
-  "num_followers": 23419,
+  "num_followers": 23441,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIwNjAwMCwwMDAwMDAwMGMxMjI4MjE0ZTIwZWQ4MTA3N2IwZjc5YjI2MGVjNzg2",
+  "snapshot_id": "MTY3NTIwNjAwMCwwMDAwMDAwMGQ5YWEzYmFlZGM3MjI3NDIxNThmYzYxOGMyODA3ZGI3",
   "tracks": [
     {
       "added_at": "2023-01-31 23:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "LUNE",
-        "url": "https://open.spotify.com/album/110in5Qcb8ry1bmvFNA2yl"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        }
-      ],
-      "duration_ms": 143276,
-      "name": "MON B\u00c8B\u00c8",
-      "url": "https://open.spotify.com/track/7Iki6p3Qsh1mAbvccSqbWF"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "Smarties",
         "url": "https://open.spotify.com/album/3lZmmldlKLvh1P2zdV4T1s"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 119400,
       "name": "Smarties",
       "url": "https://open.spotify.com/track/2e5DbCHlhtk4deIvjrIi2H"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "LUNE",
+        "url": "https://open.spotify.com/album/110in5Qcb8ry1bmvFNA2yl"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        }
+      ],
+      "duration_ms": 143276,
+      "name": "MON B\u00c8B\u00c8",
+      "url": "https://open.spotify.com/track/7Iki6p3Qsh1mAbvccSqbWF"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Bienennest",
-        "url": "https://open.spotify.com/album/5IiXuGdya1sEyxr2FDOBOh"
-      },
-      "artists": [
-        {
-          "name": "Wa22ermann",
-          "url": "https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X"
-        }
-      ],
-      "duration_ms": 208351,
-      "name": "Bienennest",
-      "url": "https://open.spotify.com/track/45fAUlR4UMhnH0g2sxF3U2"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "kann nicht schlafen (ich lieg wach)",
         "url": "https://open.spotify.com/album/4j51z3n4ESXsklaACAc1Ax"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 156000,
       "name": "kann nicht schlafen (ich lieg wach)",
       "url": "https://open.spotify.com/track/0J7XFx01lrlEjrvXWDPz2x"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "Bienennest",
+        "url": "https://open.spotify.com/album/5IiXuGdya1sEyxr2FDOBOh"
+      },
+      "artists": [
+        {
+          "name": "Wa22ermann",
+          "url": "https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X"
+        }
+      ],
+      "duration_ms": 208351,
+      "name": "Bienennest",
+      "url": "https://open.spotify.com/track/45fAUlR4UMhnH0g2sxF3U2"
     },
     {
       "added_at": "2023-01-31 23:00:00",

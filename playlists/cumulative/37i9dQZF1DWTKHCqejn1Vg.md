@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-217 songs - 11 hr 57 min
+218 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,13 +67,14 @@
 | [EASY \(feat\. ELO\)](https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [EASY \(feat\. ELO\)](https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z) | 2:45 | 2022-07-04 |  |
 | [En'dorphin](https://open.spotify.com/track/6JHOV4M8QrVvXdvR1oD5nD) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [ilipp](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [En'dorphin](https://open.spotify.com/album/4V2dqsCsbT3Ikfn3uEjj7k) | 2:38 | 2022-05-03 | 2022-07-28 |
 | [Essential](https://open.spotify.com/track/3H0nxyYFpzMPXGu8JdOS39) | [doe.cent](https://open.spotify.com/artist/2ieO2aPGMErvmiNGBHsQqG) | [Essential](https://open.spotify.com/album/7fRY3ap1PANqSM1bhbfCQI) | 2:56 | 2022-05-03 | 2022-07-14 |
-| [Evident](https://open.spotify.com/track/7Ctwov7S030TIYIYfx4tm7) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:37 | 2023-02-14 |  |
+| [Evident](https://open.spotify.com/track/7Ctwov7S030TIYIYfx4tm7) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:37 | 2023-02-14 | 2023-02-23 |
 | [eww](https://open.spotify.com/track/4wDHrwMYHdd8cQ4TMoEBYe) | [UMiN](https://open.spotify.com/artist/4ZO41R4CUY3lR4CC0s8I9r) | [VROOM](https://open.spotify.com/album/7keAD81agaGb7GmspbdMXK) | 3:21 | 2022-05-03 | 2022-07-17 |
 | [EX](https://open.spotify.com/track/2BW5ObmfJvP8zBslwAM1qV) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [BOYCOLD](https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt) | 3:03 | 2022-05-03 | 2022-07-29 |
 | [Excuses](https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Neo Seoul](https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ) | 3:15 | 2022-07-08 |  |
 | [Excuses](https://open.spotify.com/track/41xVl4Xpbmgb1u5ypTNuZi) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Excuses](https://open.spotify.com/album/2DfyWdoLS1GO89aUyh05WJ) | 3:16 | 2022-05-03 | 2022-07-28 |
 | [Extraordinary \(feat\. Yescoba\)](https://open.spotify.com/track/0y4qgb9SmTnyBPAqaEztJN) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6) | [KEUNG](https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc) | 3:52 | 2022-05-03 | 2022-07-28 |
 | [FALL IN LUST](https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [FALL IN LUST](https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8) | 3:19 | 2022-05-03 |  |
+| [Fantasy](https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [Fantasy](https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS) | 2:48 | 2023-02-14 |  |
 | [Feature \(feat\. Cha Cha Malone\)](https://open.spotify.com/track/5m86qdISRdAeksZ1pSzI5h) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:50 | 2022-05-03 | 2022-07-19 |
 | [Fire](https://open.spotify.com/track/3ZqO9gU0aFrkawmoT3nc9i) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr) | [Fire](https://open.spotify.com/album/3NAD08mjlDk0vW0CHHDzyL) | 2:21 | 2022-08-19 | 2022-09-26 |
 | [First Time \(Feat\. BAYLEE\)](https://open.spotify.com/track/0nSTyJgjxiHSYwH0G4y0E9) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS), [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [First Time](https://open.spotify.com/album/1w5EGv4ZgwhqGX0cTBdoOC) | 3:04 | 2022-05-03 | 2022-07-24 |

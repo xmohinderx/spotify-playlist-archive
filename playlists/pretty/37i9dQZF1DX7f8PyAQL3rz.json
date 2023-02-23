@@ -1,12 +1,12 @@
 {
   "description": "dif\u00edcil \u00e9 fazer o malote, sim",
-  "num_followers": 1070988,
+  "num_followers": 1071434,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0Njk4MSwwMDAwMDAwMDBhZThkOTA5YWU2MjJkODdhZjZkMjQ0YTgxZmVhN2Fk",
+  "snapshot_id": "MTY3NjY0Njk4MSwwMDAwMDAwMGE0YzY4OTVkYzBkZWU2YjcwYTQwNzZjNjdlYzk1NmUz",
   "tracks": [
     {
       "added_at": "2023-02-17 03:01:00",
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei"
     },
     {
-      "added_at": "2023-02-22 01:30:54",
+      "added_at": "2023-02-23 01:11:34",
       "album": {
         "name": "Quebra Cabe\u00e7a - Spotify Singles",
         "url": "https://open.spotify.com/album/5eIPlZnFSGPUl0YqzWuevT"
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
+        "name": "Prazeres da Vida Noturna",
+        "url": "https://open.spotify.com/album/7gMJfejAZor5ULBw2oaHcX"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "duration_ms": 203128,
+      "name": "Prazeres da Vida Noturna",
+      "url": "https://open.spotify.com/track/66FenlqXH5BFAGehrxovT0"
+    },
+    {
+      "added_at": "2023-02-17 03:01:00",
+      "album": {
         "name": "L\u00e1grimas do Tubar\u00e3o \"Contos e Fatos\"",
         "url": "https://open.spotify.com/album/4s1ThdjkZTWKLX38Q41D5Z"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 167500,
       "name": "Pelo Momento",
       "url": "https://open.spotify.com/track/3VGfEHmAaSm8qSTFs74Xq0"
-    },
-    {
-      "added_at": "2023-02-17 03:01:00",
-      "album": {
-        "name": "Prazeres da Vida Noturna",
-        "url": "https://open.spotify.com/album/7gMJfejAZor5ULBw2oaHcX"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "DJ Arana",
-          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
-        }
-      ],
-      "duration_ms": 203128,
-      "name": "Prazeres da Vida Noturna",
-      "url": "https://open.spotify.com/track/66FenlqXH5BFAGehrxovT0"
     },
     {
       "added_at": "2023-02-17 03:01:00",

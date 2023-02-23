@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: SPINALL & Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,279 likes - 126 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,522 likes - 126 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 7 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 |
 | 8 | [SUGAR DIVE](https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [SUGAR DIVE](https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39) | 3:14 |
 | 9 | [Gonna Go](https://open.spotify.com/track/4PZXDDm2BVEccltAEGHuJp) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Gonna Go](https://open.spotify.com/album/5v2xkxpLUFXjOkFBS5uHjv) | 2:57 |
-| 10 | [What It Do \(feat\. Fridayy\)](https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De) | [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [What It Do](https://open.spotify.com/album/55y0JmlsaqXupvjFiMTA4h) | 3:05 |
+| 10 | [What It Do \(with Fridayy\)](https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De) | [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [What It Do](https://open.spotify.com/album/55y0JmlsaqXupvjFiMTA4h) | 3:05 |
 | 11 | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/album/1TXD0BaYXcHlmPIx7A7a0g) | 2:40 |
 | 12 | [Risky](https://open.spotify.com/track/2ZSLDwHIXr5yWI9d3iZr7R) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Risky](https://open.spotify.com/album/0tskRa5YB9FfD0z9K6JvWF) | 2:39 |
 | 13 | [Reassurance](https://open.spotify.com/track/0k9cWPjz8uI5iIAnHotHo8) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Reassurance](https://open.spotify.com/album/1jd1ze2YWeO2hUR0USOrVG) | 3:03 |

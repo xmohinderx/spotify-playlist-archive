@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 493032,
+  "num_followers": 493245,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMGRmNGJmN2M0ZjA0NDVjMDMyYTE3MWJkY2E5NWJiYTM2",
+  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMDU4MjU2ZmRlZTI5OTRlN2VlNjc4YzQ3ODg1ODdkNjMy",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -915,6 +915,26 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Lose Somebody",
+        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 199549,
+      "name": "Lose Somebody",
+      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 198995,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Lose Somebody",
-        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 199549,
-      "name": "Lose Somebody",
-      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 215360,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Going Dumb",
-        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "CORSAK",
-          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "Going Dumb",
-      "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Going Dumb",
+        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Going Dumb",
+      "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
     }
   ],
   "unique_name": "Powerwalk!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: shame
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,185 likes - 125 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,395 likes - 125 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 86 | [u dont kno me](https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:59 |
 | 87 | [Dying Plant](https://open.spotify.com/track/5pl2bLHJA6CPDvVAWcVcG4) | [Early Eyes](https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4) | [Look Alive!](https://open.spotify.com/album/1w0j1VEeFATnYcF9Vvh9UQ) | 3:06 |
 | 88 | [MANIC MAN](https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb) | 2:14 |
-| 89 | [PLANT THE FANGS](https://open.spotify.com/track/6AKsTbsS7RJ3oBBlmrkss4) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5) | [PLANT THE FANGS](https://open.spotify.com/album/3xKtJyeWidxEkuZ1KC5AIl) | 2:05 |
+| 89 | [PLANT THE FANGS](https://open.spotify.com/track/6AKsTbsS7RJ3oBBlmrkss4) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5), [BLUE TWO](https://open.spotify.com/artist/1bS3gg3wCiFfhEshmcd4uC) | [PLANT THE FANGS](https://open.spotify.com/album/3xKtJyeWidxEkuZ1KC5AIl) | 2:05 |
 | 90 | [No Proper Life](https://open.spotify.com/track/3m1qGLyr7OMyZLfTBKWT9S) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [No Proper Life](https://open.spotify.com/album/01iuegbl5telLk3B5Cl52p) | 2:45 |
 | 91 | [I Feel So Cold But It's Warm Outside](https://open.spotify.com/track/7jAQxWVBVAuKmVjlERODpc) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [World Below](https://open.spotify.com/album/0rxXVzueM7PnAjecoPYg2i) | 2:54 |
 | 92 | [Big Bad!](https://open.spotify.com/track/1OsQOPV4671B3MmJIuoeNg) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Big Bad!](https://open.spotify.com/album/0vygUxLK7ltBvtD4O0xzYh) | 2:11 |

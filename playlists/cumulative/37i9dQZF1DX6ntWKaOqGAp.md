@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover:フレデリック
 
-200 songs - 12 hr 45 min
+202 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Fever](https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [Fever](https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL) | 3:41 | 2023-02-21 |  |
 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 | 2023-01-13 | 2023-02-15 |
 | [Flowers](https://open.spotify.com/track/4qYIs02Uvh9qF82hXqlp0q) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Flowers](https://open.spotify.com/album/1Pj3yg2zcUPt6H5v66K8Jm) | 4:04 | 2023-01-13 | 2023-01-18 |
+| [Furai](https://open.spotify.com/track/0JlDINY2QfgBGG1HYXeuyV) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Furai](https://open.spotify.com/album/4j0Zj8PZiRK5PL7MqFQA83) | 4:25 | 2023-02-21 |  |
 | [Fusen Sanka](https://open.spotify.com/track/4TOSbBEsPsUhoZTPCkFlPk) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [DOKI DOKI](https://open.spotify.com/album/0ahFITufRRpuHUXx2REpDq) | 4:14 | 2023-01-13 | 2023-02-10 |
 | [FUSION](https://open.spotify.com/track/5Am9Kz8iYJH7xmcRnApAuE) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [FUSION](https://open.spotify.com/album/7FTvw6y4wRQyN0eWybfJjA) | 3:44 | 2023-01-13 | 2023-01-18 |
 | [Get High](https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Get High](https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK) | 3:40 | 2023-01-13 | 2023-02-15 |
@@ -89,6 +90,7 @@
 | [Sparkle Dancer](https://open.spotify.com/track/0uBrG0rTvuqcvl2jGFFgHh) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Sparkle Dancer](https://open.spotify.com/album/1ClZWnf2R7u3SRkRONNaZH) | 3:28 | 2023-01-24 |  |
 | [Stardom](https://open.spotify.com/track/7gdbaUPut1M0ewKOSAqvyW) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Stardom](https://open.spotify.com/album/5zieK5I6FAIjUR3I3OYThE) | 3:37 | 2023-01-13 | 2023-01-25 |
 | [Sukijanaiyo](https://open.spotify.com/track/23AdLPEUScszzqA51mU6wq) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Sukijanaiyo](https://open.spotify.com/album/6ZkWBopcFVcuB2K8Gxj8r7) | 4:48 | 2023-01-13 | 2023-02-08 |
+| [Sun of Love](https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Sun of Love](https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I) | 4:12 | 2023-02-21 |  |
 | [Sunshine](https://open.spotify.com/track/7iOawL9cuIdPVzt7vT6QxA) | [Ryota Fujimaki](https://open.spotify.com/artist/7r3FkquAY1tv1roZs3unJ1) | [Sunshine](https://open.spotify.com/album/361LK8wqvhs0Sv6oVPwzMz) | 4:52 | 2023-01-13 | 2023-01-18 |
 | [Symbol 2](https://open.spotify.com/track/6SbB3wddYrGmB6HAbzzqav) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [Symbol 2](https://open.spotify.com/album/6ZzQ4FjzxCTXZCZtZqnxOe) | 2:52 | 2023-01-13 | 2023-01-18 |
 | [Tear](https://open.spotify.com/track/1GWYGK6DLPIFYnmuKaB3fX) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [Best Answer / Someday Loser / Look Back / In My Car / Sun Shower / Hangover / Tear](https://open.spotify.com/album/4rJRr3NV4LzV657seWSHUG) | 4:28 | 2023-01-17 | 2023-02-15 |
@@ -96,7 +98,7 @@
 | [the eye drops from 7th floor make my eyes burn](https://open.spotify.com/track/5muzgZHK75iLi3HgBf5OFg) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [the eye drops from 7th floor make my eyes burn](https://open.spotify.com/album/4Sh6E35orP4cqcKA7lPrfT) | 3:48 | 2023-01-17 |  |
 | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k) | [The Last Rockstars](https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz) | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor) | 4:45 | 2023-01-13 | 2023-02-15 |
 | [THE PROMISE](https://open.spotify.com/track/3nzAbV5u0IBT6UJuPqPcLp) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [THE PROMISE](https://open.spotify.com/album/2Bx6rMVAb1WltCaBQWT5Lg) | 3:18 | 2023-02-14 |  |
-| [This Song](https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [This Song](https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s) | 3:51 | 2023-02-21 |  |
+| [This Song \-Planxty Irwin\-](https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [This Song \-Planxty Irwin\-](https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s) | 3:51 | 2023-02-21 |  |
 | [Timeless Melody \- Album Ver.](https://open.spotify.com/track/6ZL95Gf3zyUx0PZrxbwZfX) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Ride](https://open.spotify.com/album/0fk8yp59UfhdKnRp9o7cvC) | 2:09 | 2023-01-17 | 2023-02-15 |
 | [Tokai no Yurei](https://open.spotify.com/track/5N1vMQL4L3jpgMUniAZrJs) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Tokai no Yurei](https://open.spotify.com/album/5VVeNDmWcIYvYxwTTH1wWv) | 4:17 | 2023-01-13 | 2023-01-25 |
 | [tokyo insomnia.](https://open.spotify.com/track/1aFgCBNmrURg7r4QdfUc1l) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [CHAPTER II: TOKYO INSOMNIA](https://open.spotify.com/album/0HKChpTLtiYactwS5T7PAb) | 3:39 | 2023-01-13 | 2023-02-15 |
@@ -180,7 +182,7 @@
 | [幸せの果てに](https://open.spotify.com/track/3nOSBHApPJXJeLWLuLamQh) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [幸せの果てに](https://open.spotify.com/album/4rYOedvAE0DQaTgl8hSuyI) | 2:59 | 2023-01-24 | 2023-02-22 |
 | [怪物たちよ](https://open.spotify.com/track/5krBK1TJTetrfDGzVcyq6f) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [怪物たちよ](https://open.spotify.com/album/1ZrTplBiIjywcJJ0xQ2o3D) | 5:20 | 2023-01-31 | 2023-02-02 |
 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 | 2023-01-13 | 2023-01-20 |
-| [愛の太陽](https://open.spotify.com/track/0zachxUjDCMi59m1RGjOqT) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [愛の太陽](https://open.spotify.com/album/4NyLuxXiCsxBYis4wkvdaX) | 4:12 | 2023-02-21 |  |
+| [愛の太陽](https://open.spotify.com/track/0zachxUjDCMi59m1RGjOqT) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [愛の太陽](https://open.spotify.com/album/4NyLuxXiCsxBYis4wkvdaX) | 4:12 | 2023-02-21 | 2023-02-23 |
 | [愛を信じたいんだ](https://open.spotify.com/track/5vTFsO3TE3yPVoeqUP8N8r) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [愛を信じたいんだ](https://open.spotify.com/album/0UEAPSJcIEyYmAR35FQGQq) | 3:22 | 2023-01-13 | 2023-01-18 |
 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 | 2023-01-13 |  |
 | [春よ、恋](https://open.spotify.com/track/5apcXZd7pDhlHYM3fpLIK7) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [春よ、恋](https://open.spotify.com/album/158n63trUTwgLxptMqxA7h) | 5:01 | 2023-01-24 | 2023-02-15 |
@@ -205,7 +207,7 @@
 | [雪冴ゆる](https://open.spotify.com/track/1DgAZpPIhvajIJhztp4fFx) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [雪冴ゆる](https://open.spotify.com/album/3TJcG4XO36lO41bWnPp0L8) | 4:00 | 2023-01-13 | 2023-01-27 |
 | [青い空の幻](https://open.spotify.com/track/4LY4WB62mr7yhSj2MOBP4U) | [FULL OF LOVE](https://open.spotify.com/artist/21H82W5uNA68DQ43dAMs8i) | [FULL OF LOVE](https://open.spotify.com/album/3LdSpParymYK20V21oOI2m) | 3:32 | 2023-01-31 | 2023-02-15 |
 | [風になれ \(cover ver.\)](https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [風になれ \(cover ver.\)](https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py) | 3:06 | 2023-01-13 | 2023-02-15 |
-| [風来](https://open.spotify.com/track/0NCp3Af9c2ufCah4LinfJT) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [風来](https://open.spotify.com/album/3JrxuhOs9bd9Tbcs6P7j7D) | 4:25 | 2023-02-21 |  |
+| [風来](https://open.spotify.com/track/0NCp3Af9c2ufCah4LinfJT) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [風来](https://open.spotify.com/album/3JrxuhOs9bd9Tbcs6P7j7D) | 4:25 | 2023-02-21 | 2023-02-23 |
 | [鯨の子](https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [鯨の子](https://open.spotify.com/album/72OedMUACIRxK4gVHnPgKB) | 4:13 | 2023-02-14 |  |
 | [鴨川、夕暮れと僕](https://open.spotify.com/track/2RqqcgHZB5hIcwjhyrSS1g) | [Hello Hello](https://open.spotify.com/artist/0VHtkjMrNXTTDNE9Ej96og) | [鴨川、夕暮れと僕](https://open.spotify.com/album/4upEdITR0F6sypGS7i4jpy) | 2:55 | 2023-02-07 | 2023-02-09 |
 

@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 119201,
+  "num_followers": 119216,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYyNTIzMCwwMDAwMDAwMDk3Njc1Y2NiMDIwZDIxMGUxOWZhNjZiNDNmN2M5N2My",
+  "snapshot_id": "MTY3NjYyNTIzMCwwMDAwMDAwMGMzZDQzODc1NGVkN2E1ZmY3NzQ5YjVlNWE0M2FlYmY0",
   "tracks": [
     {
       "added_at": "2023-02-16 23:00:00",
@@ -63,18 +63,22 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "2 Die 4",
-        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
+        "name": "Under n\u00e5gon ny",
+        "url": "https://open.spotify.com/album/35VHFKVhL4H8Zd4rPRYHjA"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        },
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
         }
       ],
-      "duration_ms": 185875,
-      "name": "2 Die 4",
-      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
+      "duration_ms": 247790,
+      "name": "Under n\u00e5gon ny",
+      "url": "https://open.spotify.com/track/2eOLvT5HNiHZQb4BTSiwQl"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -93,7 +97,7 @@
       "url": "https://open.spotify.com/track/0JOY8MuzpGRFteDGsRVLkK"
     },
     {
-      "added_at": "2023-02-22 01:15:24",
+      "added_at": "2023-02-23 00:56:20",
       "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
@@ -115,22 +119,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Under n\u00e5gon ny",
-        "url": "https://open.spotify.com/album/35VHFKVhL4H8Zd4rPRYHjA"
+        "name": "2 Die 4",
+        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
       },
       "artists": [
         {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        },
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 247790,
-      "name": "Under n\u00e5gon ny",
-      "url": "https://open.spotify.com/track/2eOLvT5HNiHZQb4BTSiwQl"
+      "duration_ms": 185875,
+      "name": "2 Die 4",
+      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Lay All Your Love On Me - Spotify Singles",
-        "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 161125,
-      "name": "Lay All Your Love On Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Vet Hon Om?",
         "url": "https://open.spotify.com/album/0a4tSc39xsFYlKIY1XBB9K"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 184773,
       "name": "Vet Hon Om?",
       "url": "https://open.spotify.com/track/0078peqORcMMXbcYEfeLkk"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Lay All Your Love On Me - Spotify Singles",
+        "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 161125,
+      "name": "Lay All Your Love On Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Out of My Head",
-        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "late night thoughts",
         "url": "https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 145275,
       "name": "late night thoughts",
       "url": "https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "wish I didn't know you",
-        "url": "https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 173203,
-      "name": "wish I didn't know you",
-      "url": "https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Every Little Heart",
         "url": "https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2"
       },
@@ -679,6 +663,38 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "wish I didn't know you",
+        "url": "https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 173203,
+      "name": "wish I didn't know you",
+      "url": "https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv"
+      },
+      "artists": [
+        {
+          "name": "Sky Li",
+          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
+        }
+      ],
+      "duration_ms": 198217,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Grammofon",
         "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 228453,
       "name": "Gr\u00e5ter om du vill",
       "url": "https://open.spotify.com/track/0FlfVeOFogL3cU4AO8xNc4"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv"
-      },
-      "artists": [
-        {
-          "name": "Sky Li",
-          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
-        }
-      ],
-      "duration_ms": 198217,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Du f\u00f6rtj\u00e4nar det",
-        "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 199657,
-      "name": "Du f\u00f6rtj\u00e4nar det",
-      "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "\u00c4nnu mer",
         "url": "https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O"
       },
@@ -867,22 +851,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "L\u00e5t mig g\u00e5",
-        "url": "https://open.spotify.com/album/4fU7tWWq6MAiOq5g7RDqAn"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "L\u00e5t mig g\u00e5",
-      "url": "https://open.spotify.com/track/4tlGcxLzdWUxrabEPpflvC"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Ut med allt",
         "url": "https://open.spotify.com/album/3j4hIguJ9ftVQI6J4ZUGSE"
       },
@@ -895,6 +863,38 @@
       "duration_ms": 141333,
       "name": "Ut med allt",
       "url": "https://open.spotify.com/track/7Ek3bY3DecGbIaRKo7aQVQ"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Du f\u00f6rtj\u00e4nar det",
+        "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 199657,
+      "name": "Du f\u00f6rtj\u00e4nar det",
+      "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "L\u00e5t mig g\u00e5",
+        "url": "https://open.spotify.com/album/4fU7tWWq6MAiOq5g7RDqAn"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "L\u00e5t mig g\u00e5",
+      "url": "https://open.spotify.com/track/4tlGcxLzdWUxrabEPpflvC"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Poppade en till",
-        "url": "https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ"
-      },
-      "artists": [
-        {
-          "name": "Parham",
-          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Poppade en till",
-      "url": "https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Water Pistol",
         "url": "https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Can\u2019t Stay Away",
-        "url": "https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5"
+        "name": "Poppade en till",
+        "url": "https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ"
       },
       "artists": [
         {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
         }
       ],
-      "duration_ms": 179761,
-      "name": "Can\u2019t Stay Away",
-      "url": "https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260"
+      "duration_ms": 209786,
+      "name": "Poppade en till",
+      "url": "https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 164742,
       "name": "Can We Talk About Me?",
       "url": "https://open.spotify.com/track/144HD6H46Fkqen2mLoU74O"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Can\u2019t Stay Away",
+        "url": "https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 179761,
+      "name": "Can\u2019t Stay Away",
+      "url": "https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "New World Coming",
-        "url": "https://open.spotify.com/album/6RkA5qwUrAGVe3mWn8KgFE"
+        "name": "Satsa \u2013 Spotify Studio 100 Recording",
+        "url": "https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I"
       },
       "artists": [
         {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
         }
       ],
-      "duration_ms": 125850,
-      "name": "New World Coming",
-      "url": "https://open.spotify.com/track/2vGSxCHc28CQFCLu45QGmL"
+      "duration_ms": 177630,
+      "name": "Satsa \u2013 Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1283,34 +1283,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Satsa \u2013 Spotify Studio 100 Recording",
-        "url": "https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I"
+        "name": "New World Coming",
+        "url": "https://open.spotify.com/album/6RkA5qwUrAGVe3mWn8KgFE"
       },
       "artists": [
         {
-          "name": "INOMI",
-          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
         }
       ],
-      "duration_ms": 177630,
-      "name": "Satsa \u2013 Spotify Studio 100 Recording",
-      "url": "https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Jag forts\u00e4tter gl\u00f6mma",
-        "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
-      },
-      "artists": [
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "Barn av v\u00e5r tid",
-      "url": "https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG"
+      "duration_ms": 125850,
+      "name": "New World Coming",
+      "url": "https://open.spotify.com/track/2vGSxCHc28CQFCLu45QGmL"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 215080,
       "name": "maracuya massage",
       "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Jag forts\u00e4tter gl\u00f6mma",
+        "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
+      },
+      "artists": [
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "Barn av v\u00e5r tid",
+      "url": "https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/0V3i5t2pEO9amGcykcBFPH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "duration_ms": 153783,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Bara bby",
         "url": "https://open.spotify.com/album/3plhQIEFllsYNv708OaENV"
       },
@@ -1403,22 +1423,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/0V3i5t2pEO9amGcykcBFPH"
+        "name": "Neon Lights",
+        "url": "https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE"
       },
       "artists": [
         {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        },
-        {
-          "name": "maybealice",
-          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 153783,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM"
+      "duration_ms": 209200,
+      "name": "Neon Lights",
+      "url": "https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1435,22 +1451,6 @@
       "duration_ms": 180787,
       "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
       "url": "https://open.spotify.com/track/2yRw3fTBnpJKaa6AGHonZ9"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Neon Lights",
-        "url": "https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Neon Lights",
-      "url": "https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Fint att f\u00e5 va med dig",
-        "url": "https://open.spotify.com/album/0ct5SzIYbWiQfbrzEAjEvi"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Ahl\u00e9n",
-          "url": "https://open.spotify.com/artist/0VdcztH2xzmGP5hFr9pUtg"
-        },
-        {
-          "name": "Hanna Christiansson",
-          "url": "https://open.spotify.com/artist/50CfYjX4VlsiXgOXHc8aQG"
-        }
-      ],
-      "duration_ms": 209379,
-      "name": "Fint att f\u00e5 va med dig",
-      "url": "https://open.spotify.com/track/6yz3bCneU0XztgwIu6CNxJ"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0fq0sVhYUlFzRCrt2T9AU1"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 140613,
       "name": "In The Sunrise",
       "url": "https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Fint att f\u00e5 va med dig",
+        "url": "https://open.spotify.com/album/0ct5SzIYbWiQfbrzEAjEvi"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Ahl\u00e9n",
+          "url": "https://open.spotify.com/artist/0VdcztH2xzmGP5hFr9pUtg"
+        },
+        {
+          "name": "Hanna Christiansson",
+          "url": "https://open.spotify.com/artist/50CfYjX4VlsiXgOXHc8aQG"
+        }
+      ],
+      "duration_ms": 209379,
+      "name": "Fint att f\u00e5 va med dig",
+      "url": "https://open.spotify.com/track/6yz3bCneU0XztgwIu6CNxJ"
     }
   ],
   "unique_name": "Made in Sweden",

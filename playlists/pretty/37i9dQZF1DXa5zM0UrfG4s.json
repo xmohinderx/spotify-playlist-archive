@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du kan spelle i kjerra! Cover: Hagle",
-  "num_followers": 93797,
+  "num_followers": 93835,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMDg5MTgxMjUyZjA5ZGY2MGZjZGNlODc0ZmQyNWE4YWM5",
+  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMGU4ZjQwODA2NTc3MGQ1OWIxZjU5ZDNlYmFhZDgwMDQz",
   "tracks": [
     {
       "added_at": "2023-02-16 23:01:00",
@@ -279,6 +279,26 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
+        "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
+        "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 186692,
+      "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
+      "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
         "name": "Mawbys",
         "url": "https://open.spotify.com/album/55wTUqbJh1I6jhmNZKexO8"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 184508,
       "name": "Mawbys",
       "url": "https://open.spotify.com/track/6R20ReFHCSjtK3vMUZI3Yv"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
-        "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        },
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 186692,
-      "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
-      "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "B\u00f8gda",
-        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 164127,
-      "name": "B\u00f8gda",
-      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "Livet Er Herlig",
         "url": "https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 143261,
       "name": "Livet Er Herlig",
       "url": "https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "B\u00f8gda",
+        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 164127,
+      "name": "B\u00f8gda",
+      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
+        "name": "Ola",
+        "url": "https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 204336,
+      "name": "Ola",
+      "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
         "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
         "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 173986,
       "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
       "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Ola",
-        "url": "https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 204336,
-      "name": "Ola",
-      "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -1283,6 +1283,38 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
+        "name": "Borde g\u00e5 hem",
+        "url": "https://open.spotify.com/album/11jT6POseAnA12U1ZHdJd2"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Borde g\u00e5 hem",
+      "url": "https://open.spotify.com/track/2alWkiKWlHYmsgdvNoiO7l"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "BLINKAR INTE N\u00c4R JAG BYTER FIL",
+        "url": "https://open.spotify.com/album/01ayc4U9jmmjlrmQYoRYfe"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        }
+      ],
+      "duration_ms": 141881,
+      "name": "BLINKAR INTE N\u00c4R JAG BYTER FIL",
+      "url": "https://open.spotify.com/track/0aQ2hgNRUwoICgQ1tvBnYs"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
         "name": "Besseggen",
         "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
       },
@@ -1295,42 +1327,6 @@
       "duration_ms": 165612,
       "name": "Besseggen",
       "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Jeg fortjener en \u00f8l",
-        "url": "https://open.spotify.com/album/45biKF9vMhEpCJxrBROwjG"
-      },
-      "artists": [
-        {
-          "name": "Erik Og Kriss",
-          "url": "https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 152822,
-      "name": "Jeg fortjener en \u00f8l",
-      "url": "https://open.spotify.com/track/12MOqhpW8IsWO5xiCqjJdU"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "En f\u00e5r v\u00e6re som en er",
-        "url": "https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT"
-      },
-      "artists": [
-        {
-          "name": "Ole Ivars",
-          "url": "https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6"
-        }
-      ],
-      "duration_ms": 205818,
-      "name": "Kongen av campingplassen",
-      "url": "https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

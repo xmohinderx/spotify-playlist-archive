@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 38376,
+  "num_followers": 38423,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMDM0ODVmZTI0OTIxMjg2MDEzMDkzOWVjNjA1MmI0MmJh",
+  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMGVkYjc0ZGVmMjM5MTViMWQ2MTMxMmUxYmMxMmQxNDUw",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
-        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
-      },
-      "artists": [
-        {
-          "name": "Ashford & Simpson",
-          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
-        }
-      ],
-      "duration_ms": 423240,
-      "name": "Found a Cure - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Risqu\u00e9 (2018 Remaster)",
         "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 274960,
       "name": "My Forbidden Lover - 2018 Remaster",
       "url": "https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
+        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
+      },
+      "artists": [
+        {
+          "name": "Ashford & Simpson",
+          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
+        }
+      ],
+      "duration_ms": 423240,
+      "name": "Found a Cure - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
     },
     {
       "added_at": "2022-12-31 00:39:45",

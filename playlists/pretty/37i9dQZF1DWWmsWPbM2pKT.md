@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Molchat Doma on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,260 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,718 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 72 | [Rituel](https://open.spotify.com/track/2Nac4pGLIiXjLyo7lLDK4R) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Belirdi Gece](https://open.spotify.com/album/5yRJLea73tCtrtdRhDjaxC) | 4:56 |
 | 73 | [Тебя Нет Рядом](https://open.spotify.com/track/2RgnOTU4RYx7VNXXLAUJCJ) | [Vollny](https://open.spotify.com/artist/7JicwePFjrTsQusfRCaM1P) | [I](https://open.spotify.com/album/53wzm4ZmFim5ZvBYdpD87P) | 4:02 |
 | 74 | [Алкоголь мой враг](https://open.spotify.com/track/3w9cGIYBC12SoepuHUaV19) | [Electroforez](https://open.spotify.com/artist/2xZHADRPl17tm8FPthebhR) | [505 \(Deluxe\)](https://open.spotify.com/album/3KY1gWySaFXOmWImcN7vLm) | 2:47 |
-| 75 | [Into Those Woods](https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf) | [Bragolin](https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD) | [I Saw Nothing Good so I Left](https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8) | 3:23 |
-| 76 | [Whirl](https://open.spotify.com/track/5CNEbwdhDgosVr96njlnGK) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Choke](https://open.spotify.com/album/5gX6BIzokidmOiI6X6ZnBH) | 6:08 |
+| 75 | [Whirl](https://open.spotify.com/track/5CNEbwdhDgosVr96njlnGK) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Choke](https://open.spotify.com/album/5gX6BIzokidmOiI6X6ZnBH) | 6:08 |
+| 76 | [Into Those Woods](https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf) | [Bragolin](https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD) | [I Saw Nothing Good so I Left](https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8) | 3:23 |
 | 77 | [66 MHz](https://open.spotify.com/track/3r9mYXFYhlA8Z84hdY00MQ) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [66 MHz](https://open.spotify.com/album/5n9NdJA0qI9zrfg65zdzwK) | 3:54 |
 | 78 | [Electric Groove](https://open.spotify.com/track/7Jh9J7M0yPVzn5DtNiVpVt) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Redline](https://open.spotify.com/album/0A9H0uAwdTCWNofsksO2fX) | 4:50 |
 | 79 | [Электрический ток](https://open.spotify.com/track/0H5bUiwDSEl2NuoIMEK00y) | [Увула](https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9) | [Ничего сверхъестественного](https://open.spotify.com/album/7lQLNZSt6iEXtGvgP9fMXD) | 3:34 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 95 | [Odyssey Point](https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Odyssey Point](https://open.spotify.com/album/5IVdG5UgyB1oXQGrMa8F56) | 4:17 |
 | 96 | [Sleepy](https://open.spotify.com/track/5e20l8hl7vcF96rYn9FxAM) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Moondust](https://open.spotify.com/album/3FfcJSLi3vTvOEAjYgO7hB) | 3:32 |
 | 97 | [Bad Night at Black's Beach](https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam) | [L.A\. Takedown](https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v) | [II](https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73) | 2:50 |
-| 98 | [Diamonds](https://open.spotify.com/track/76arnVYjWjOAHDyRCunKrI) | [Pixel Grip](https://open.spotify.com/artist/4NmxBuCBL7Y5nqxDawpYKW) | [Heavy Handed](https://open.spotify.com/album/3melhf7QbTrTpJgzOrhbgQ) | 5:06 |
-| 99 | [Night](https://open.spotify.com/track/0tdZbCUN57uLhTPMjfQz1f) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes](https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9) | 3:38 |
+| 98 | [Night](https://open.spotify.com/track/0tdZbCUN57uLhTPMjfQz1f) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes](https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9) | 3:38 |
+| 99 | [Diamonds](https://open.spotify.com/track/76arnVYjWjOAHDyRCunKrI) | [Pixel Grip](https://open.spotify.com/artist/4NmxBuCBL7Y5nqxDawpYKW) | [Heavy Handed](https://open.spotify.com/album/3melhf7QbTrTpJgzOrhbgQ) | 5:06 |
 | 100 | [We Need](https://open.spotify.com/track/2iQ5UVxkcCfGZ6vLd4q8t1) | [Ssleeping Desiress](https://open.spotify.com/artist/4fDRRcMe3Ci8lhq01OaVlI) | [Ssleeping Desiress](https://open.spotify.com/album/157P582dPYLDWK3tbHBe8f) | 4:13 |
 
-Snapshot ID: `MTY3Njk0OTAwOSwwMDAwMDAwMGM3MzA4NzFkMzEyODNmNzNjZmU0YTkzYjlhZGZkNTFi`
+Snapshot ID: `MTY3Njk0OTAwOSwwMDAwMDAwMGI1YzNkYWU4NTk2N2MxNDY2ZGZiNzlkMTRlZGM0ZmFk`

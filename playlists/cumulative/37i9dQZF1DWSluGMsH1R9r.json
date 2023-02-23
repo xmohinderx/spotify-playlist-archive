@@ -4417,6 +4417,24 @@
     },
     {
       "album": {
+        "name": "Different Kinds of Silence",
+        "url": "https://open.spotify.com/album/6uWIBPRBygQToejf8rWu0a"
+      },
+      "artists": [
+        {
+          "name": "Eik Octobre",
+          "url": "https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Little Home",
+      "url": "https://open.spotify.com/track/0Zi9n2e0CCh9PipP8FI4Hn"
+    },
+    {
+      "album": {
         "name": "Little Home",
         "url": "https://open.spotify.com/album/61DvnLfaBfNvoIf0dDcDsM"
       },
@@ -4428,7 +4446,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 171000,
       "name": "Little Home",
       "url": "https://open.spotify.com/track/3jJpGbcFO68CduWReWo1oV"

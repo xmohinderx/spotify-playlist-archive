@@ -4,7 +4,7 @@
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: MAVE:
 
-338 songs - 18 hr 36 min
+340 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Melting](https://open.spotify.com/track/5wAbvhL5cCWPA08wsL5jPK) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3Rble1wgbwvGEqvpOaZ63b) | 3:06 | 2022-04-05 | 2022-05-27 |
 | [MEOS \(THE REAL\) \- 흥: 興](https://open.spotify.com/track/38UMVwxbkrn2rD9f06d4ws) | [TEAM 8:00](https://open.spotify.com/artist/18dzwxwxMH7ZUrW6ILGFRc) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:34 | 2023-02-20 |  |
 | [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 | 2022-08-05 | 2022-09-02 |
+| [MMM Simile \- Live ver.](https://open.spotify.com/track/0tyip3SICRMxPXitAbd1TS) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [\[Hwa Sa Show Vol.3\] MMM Simile](https://open.spotify.com/album/2xPznUnpJGiaIP1QrQnYAT) | 5:25 | 2023-02-22 |  |
 | [Mmmh](https://open.spotify.com/track/5dntGTbUtmUO239wQ0k3yM) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [KAI \- The 1st Mini Album](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) | 3:12 | 2022-04-05 | 2022-08-26 |
 | [MONEY](https://open.spotify.com/track/45OX2jjEw1l7lOFJfDP9fv) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/4ASxFYWyk2216OloHoaSh8) | 2:48 | 2022-04-05 | 2022-07-29 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2022-07-28 | 2023-02-03 |
@@ -247,6 +248,7 @@
 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 | 2022-09-01 | 2022-11-11 |
 | [Ring The Alarm](https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 5th Mini Album 'Re:'](https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl) | 3:05 | 2022-06-23 | 2022-08-26 |
 | [Rising](https://open.spotify.com/track/6QCPweR3aP6nj7P43WpiZs) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [ASSEMBLE](https://open.spotify.com/album/6ArYgWdHk7mcG4knENgPN5) | 2:39 | 2023-02-14 |  |
+| [ROAR](https://open.spotify.com/track/7yP9oxhtOozkCptLHJoq3l) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 8th MINI ALBUM \[BE AWAKE\]](https://open.spotify.com/album/1rxSHvDHLjLdz7x8G4Ssy5) | 3:40 | 2023-02-22 |  |
 | [Rollin' \(Prod\. GroovyRoom\)](https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Rollin'](https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU) | 3:09 | 2022-10-07 | 2022-11-26 |
 | [Romance Symphony \(Feat\. CHANGMO, Jay Park\)](https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 4:00 | 2022-06-09 | 2022-07-29 |
 | [Rose Blossom](https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 1st Mini Album \[Rose Blossom\]](https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L) | 3:15 | 2023-01-05 |  |

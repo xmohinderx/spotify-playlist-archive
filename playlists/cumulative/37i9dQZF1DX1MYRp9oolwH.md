@@ -2,9 +2,9 @@
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Hit 2
+> Bringing out the best of latest love tracks<br/>Cover : Agent
 
-94 songs - 6 hr 18 min
+95 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Maaye Maaye](https://open.spotify.com/track/5SNRhelbiJfu3aKYho9i4V) | [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Nenu Student Sir](https://open.spotify.com/album/0jEEf15OT7CRttOqDkt2MD) | 3:38 | 2022-12-13 |  |
 | [Madhi Thalupunu Thelupaleka \- Meet the Boy](https://open.spotify.com/track/5Km8AdqtP8z28oD8wZTd9h) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Roshan Sebastian](https://open.spotify.com/artist/72fjH95OAer1Y0g78l5QaM) | [Meet Cute \(Original Series Soundtrack\)](https://open.spotify.com/album/2pERRqfvIM08alsjNpcvRu) | 4:26 | 2022-11-24 |  |
 | [Madhura Gathamaa](https://open.spotify.com/track/1mIEW1GeYaAahoBIBOhUnB) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Madhura Gathamaa \(From "Shaakuntalam"\) \[Telugu\] \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0Xkh3ns9WTdJZ5Eiqo3UKx) | 5:29 | 2023-02-14 |  |
+| [Malli Malli \(From "Agent"\)](https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Malli Malli \(From "Agent"\)](https://open.spotify.com/album/3A4Wxcl3DMpWMInJiAvnPx) | 3:27 | 2023-02-22 |  |
 | [Manasa Manasa \(From “Nachindi Girl Friendu”\)](https://open.spotify.com/track/0tXHjE683Znzi7xfmZOw4Q) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn) | [Manasa Manasa \(From “Nachindi Girl Friendu”\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/16Fi5WZP0SUkqMJXCUtTti) | 5:15 | 2022-10-24 |  |
 | [Manase Manihaarame](https://open.spotify.com/track/4kDyGiTGv3QznWbovgJHyn) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Pasalapoodi Veerababu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aPPeqrbPohMM1eBbkbqpw) | 3:49 | 2022-10-06 |  |
 | [Mastaaru Mastaaru](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Sir](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 | 2022-11-10 |  |

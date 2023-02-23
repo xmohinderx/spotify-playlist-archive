@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : KASYAP
 
-217 songs - 13 hr 2 min
+219 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 | 2022-04-25 |  |
 | [Aankhon Se Batana](https://open.spotify.com/track/49oltVbt6XTuhAptCpGW4j) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/19H1bwuvijYTRr5urWUFTI) | 3:41 | 2022-03-21 | 2022-04-26 |
 | [Aao Na](https://open.spotify.com/track/7jHxMddr8mtxqdlyw1cN7l) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Aao Na](https://open.spotify.com/album/1QdtXX9vMP2P7PldhkMboq) | 3:19 | 2023-01-10 |  |
-| [Aapki Yaad](https://open.spotify.com/track/5Bi49mDJQ6IjDbxnlpxxrZ) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Aapki Yaad](https://open.spotify.com/album/6ETtqi3HL36TiXpO0U2U4E) | 3:06 | 2022-03-25 |  |
+| [Aapki Yaad](https://open.spotify.com/track/5Bi49mDJQ6IjDbxnlpxxrZ) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Aapki Yaad](https://open.spotify.com/album/6ETtqi3HL36TiXpO0U2U4E) | 3:06 | 2022-03-25 | 2023-02-23 |
 | [Aarzoo](https://open.spotify.com/track/26buvjxi64EHjKs2vfdZkf) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Aarzoo](https://open.spotify.com/album/4fpwyrMEdb0e9EDoSvSgqW) | 3:25 | 2021-12-06 | 2022-03-22 |
 | [Aasaan Nahin Hota](https://open.spotify.com/track/4AQWEhpvoDFYJDUEMJXNG2) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Qurbat](https://open.spotify.com/album/1pwQRDtIQYcSreN5EBI8xU) | 4:25 | 2022-11-30 | 2023-01-11 |
 | [Aasaan Nahin Hota](https://open.spotify.com/track/6JSJnZpxa9Dw2vTovINcIA) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Aasaan Nahin Hota](https://open.spotify.com/album/2cId8C1yfFRtJAshO6IqgS) | 4:25 | 2022-04-07 | 2022-04-22 |
@@ -50,6 +50,7 @@
 | [complicated](https://open.spotify.com/track/0S3rH8lM0LceL2itJRdbR5) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [complicated](https://open.spotify.com/album/2Hvf7mHorq11zWsERLN4Js) | 3:36 | 2021-12-06 | 2022-01-11 |
 | [Constellation](https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo) | 3:15 | 2022-01-10 | 2023-02-04 |
 | [Cool Kids](https://open.spotify.com/track/4EARhoKrvwopHfqiEd4xSo) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/2nFDQjOYZqRB7THcM5eEqs) | 2:52 | 2022-01-10 | 2022-04-15 |
+| [Daaye Baaye](https://open.spotify.com/track/3w9jI8mCgQCsk2SCxuPNBt) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Daaye Baaye](https://open.spotify.com/album/59ov3w48N6VxopAwC0N5op) | 3:12 | 2023-02-22 |  |
 | [Dar Nahi](https://open.spotify.com/track/4xIgWpwTC5nFDXvH6KWCCJ) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Dar Nahi](https://open.spotify.com/album/2uhMiaprwg9pGyaxAMOhXW) | 3:31 | 2023-02-10 |  |
 | [Dear Mind \(En Route\)](https://open.spotify.com/track/1zINTeMqxjb9UtMhOsIQPJ) | [Rachel Singh](https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V) | [Dear Mind \(En Route\)](https://open.spotify.com/album/4Q8UxMXgLhub4QoiE9c5Ff) | 3:54 | 2021-12-06 | 2022-01-11 |
 | [Dil](https://open.spotify.com/track/0AcjYkz8h6XhmASAoaHgBY) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Dil](https://open.spotify.com/album/0cbPgz6gaYyUp2eCn8WpS4) | 3:08 | 2022-03-21 | 2023-01-25 |
@@ -115,6 +116,7 @@
 | [Kehna Kuch](https://open.spotify.com/track/0CbH9bhJrTO6VyjJ8h3rgd) | [Geetesh Iyer](https://open.spotify.com/artist/7yidmGI409tmobqWWAg3fS) | [Kehna Kuch](https://open.spotify.com/album/3UkesRRbgTtZ4zsmY1mRx5) | 3:27 | 2021-12-06 | 2022-02-16 |
 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 | 2022-01-10 | 2023-01-11 |
 | [Khabar](https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Khabar](https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq) | 3:38 | 2022-07-01 |  |
+| [Kho Gaya Kyun](https://open.spotify.com/track/0IOasZouiW0Zr9osyXhFT0) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Kho Gaya Kyun](https://open.spotify.com/album/4TTaId3wunhM5YlrXLcu55) | 2:40 | 2023-02-22 |  |
 | [Khoya](https://open.spotify.com/track/042J1bbhYbWcal95ZPOuJe) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM) | [Khoya](https://open.spotify.com/album/2D8X4Z53wmX6LNs0SpBFV1) | 2:58 | 2022-05-06 |  |
 | [Khushiyon Ke Pal](https://open.spotify.com/track/3chiE90csYmQ8UIZvuT9gH) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Khushiyon Ke Pal](https://open.spotify.com/album/6evDJ3PMbBfWrzWg4mLOK0) | 2:41 | 2022-08-22 |  |
 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 | 2022-02-04 |  |
@@ -132,7 +134,7 @@
 | [Le Chal](https://open.spotify.com/track/5fehqyMcmFL86IkoPtntbz) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Le Chal](https://open.spotify.com/album/13T9R562F4d4Xmd2SI9c7J) | 4:07 | 2022-01-10 | 2022-09-10 |
 | [Le Chal](https://open.spotify.com/track/6Lc9DslN6gU7gJLhGC0YP6) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Self Help Radio](https://open.spotify.com/album/7BcuPEUyxXNmRjRIlFX24v) | 4:07 | 2022-11-30 | 2023-01-11 |
 | [Love Drunk](https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO) | 2:30 | 2022-01-10 | 2022-10-11 |
-| [Love Note](https://open.spotify.com/track/0uVdtnoCTDoxbHgEAvBRjY) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Love Note](https://open.spotify.com/album/1Ay9m3wFymygsyusr2H7fK) | 2:56 | 2023-01-10 |  |
+| [Love Note](https://open.spotify.com/track/0uVdtnoCTDoxbHgEAvBRjY) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Love Note](https://open.spotify.com/album/1Ay9m3wFymygsyusr2H7fK) | 2:56 | 2023-01-10 | 2023-02-23 |
 | [Makhmal](https://open.spotify.com/track/46qCjuV2ydLZNdGxf2PSWB) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Priyanshu Soni](https://open.spotify.com/artist/6MB9eP64yx5KQ12VLrXo6p), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Makhmal](https://open.spotify.com/album/1vyIwvbXKGfu9AoLNg6WGx) | 3:17 | 2022-08-08 |  |
 | [Makin' My Move](https://open.spotify.com/track/11MXG7ypbXmFk6PgYKnbX2) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:19 | 2022-11-30 | 2023-01-11 |
 | [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 | 2021-12-06 | 2022-03-16 |

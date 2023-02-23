@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, Tony Effe, Gemitaiz e tanti altri.
 
-1,327 songs - 2 day 12 hr 46 min
+1,328 songs - 2 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [1of1](https://open.spotify.com/track/5Kd075ZC3yyNHWfp2TNDpj) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD), [Frostee](https://open.spotify.com/artist/6xZVjHaQyPmX5XIXqAWfae) | [1of1](https://open.spotify.com/album/0TUt2kA1AgQiPShIioXluo) | 3:05 | 2022-05-26 | 2022-06-03 |
 | [1TOT](https://open.spotify.com/track/38Zp4uNQBw8goSWgr8NAkF) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [1TOT](https://open.spotify.com/album/2GwLEs08qGyLSIbDUs3wtp) | 2:17 | 2022-11-04 | 2022-11-11 |
 | [2 Minuti](https://open.spotify.com/track/6Pb347IsDVdenArQDkWjAa) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [2 Minuti](https://open.spotify.com/album/3URcr6a2WSqc6631IzhxDF) | 2:30 | 2023-01-12 | 2023-02-03 |
+| [20 ALBANESI](https://open.spotify.com/track/0D2U3OZOuOuYptEF4Q6ziQ) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [20 ALBANESI](https://open.spotify.com/album/6vFxXGFvqMTjm7IIgXg16q) | 2:27 | 2023-02-22 |  |
 | [20 Anni \(Andale\)](https://open.spotify.com/track/5F9qPcOEMVaeFJYpTGckAS) | [Gorka](https://open.spotify.com/artist/0PeyvqHvFlYQjI3GfNQqLR), [Fra Bacci](https://open.spotify.com/artist/0MKjQHGhnW0QrlWMJthrKx) | [20 Anni \(Andale\)](https://open.spotify.com/album/0Y8euCijZZYD0gHCefXtK6) | 2:43 | 2022-05-10 | 2022-05-13 |
 | [2003](https://open.spotify.com/track/1eIsHZTtQrGAucyyMLN2ba) | [Cristian Margelia](https://open.spotify.com/artist/5VPQZTf2iiPKyDJNKwuKg5), [neezyboy](https://open.spotify.com/artist/15vmwcb1NmeosE2GIZMEPv) | [2003](https://open.spotify.com/album/4dpnXPrdhmcdnJp9PwrgSI) | 2:11 | 2022-10-20 | 2022-11-18 |
 | [21 Freestyle](https://open.spotify.com/track/2WnKNBq12Hf8BzTdrjwEkP) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [21 Freestyle](https://open.spotify.com/album/58apMhROHuGnRpGbjtJ00u) | 2:41 | 2022-12-19 | 2023-01-27 |
@@ -244,8 +245,8 @@
 | [Ce l'hai](https://open.spotify.com/track/4bgqD4wOAm6XqxnpuvPcj7) | [Attila](https://open.spotify.com/artist/4dLVhtuSzBh5fPam7fNnES), [GuIRIE](https://open.spotify.com/artist/4OqwjGEy8AP6FvRcypvXoR) | [Ce l'hai](https://open.spotify.com/album/12CbyPsnuRD8l2tV6YZsWH) | 2:50 | 2022-07-28 | 2022-08-13 |
 | [Cecchino](https://open.spotify.com/track/3P8ZLsAr6ipegENB65REsp) | [Lucariello](https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9) | [Cecchino](https://open.spotify.com/album/50fluzx8dNhpcNYD13oOWW) | 2:36 | 2023-01-26 |  |
 | [Cellphone \(feat\. Rhove & Bianca Costa\)](https://open.spotify.com/track/4wijO5YHrGBaf49IEQ2oZ3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:32 | 2022-11-25 | 2022-12-16 |
-| [CENERE](https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty) | 3:28 | 2023-02-10 | 2023-02-17 |
-| [CENERE](https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [CENERE](https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh) | 3:28 | 2023-02-16 |  |
+| [CENERE](https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty) | 3:28 | 2023-02-10 |  |
+| [CENERE](https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [CENERE](https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh) | 3:28 | 2023-02-16 | 2023-02-23 |
 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 | 2022-12-09 | 2023-01-13 |
 | [CESENA](https://open.spotify.com/track/1LeLs06rDO7xncbNXvqpJK) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Giordy](https://open.spotify.com/artist/4kJkxmZLk4rfFKTmKbdInO), [Frisio](https://open.spotify.com/artist/5y5Lf6igP3nDIifegEhoNF) | [CESENA](https://open.spotify.com/album/4ZUqbbyQPbk2bCPB07Ksbd) | 2:59 | 2023-01-26 |  |
 | [CHAAANCE](https://open.spotify.com/track/7CrfyZx1NagubkJZpXdBsA) | [YD Kiku](https://open.spotify.com/artist/4VGrVZ7Alhf74EDqM21Qr1) | [CHAAANCE](https://open.spotify.com/album/5OrI3fMDwAiLN6ngZrIUTt) | 1:58 | 2022-12-09 | 2022-12-16 |
@@ -360,7 +361,7 @@
 | [DOGS](https://open.spotify.com/track/6POMHazmbA3zSjSuBRaoVp) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [DOGS](https://open.spotify.com/album/2eHacRtyC35sPUYhBWq4tr) | 2:02 | 2022-07-14 | 2022-08-26 |
 | [Doje Vote](https://open.spotify.com/track/6PupByuUnrfNgW1XowhNe7) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Doje Vote](https://open.spotify.com/album/2cgmzVomHZo5fH1A1O2WIW) | 2:51 | 2022-05-19 | 2022-06-10 |
 | [DOM PÉRIGNON](https://open.spotify.com/track/0J5aKIGJe6njOPMpEcZfCr) | [Amill Leonardo](https://open.spotify.com/artist/6O1mWUAaIrcMAXQAoNzpT5), [Seck](https://open.spotify.com/artist/0TDisUBeAlYDLMToNVhTfH) | [DOM PÉRIGNON](https://open.spotify.com/album/2EP3BCMtSkm6JzgHgPMTQG) | 2:46 | 2022-11-10 | 2022-11-17 |
-| [DOMENICA](https://open.spotify.com/track/4hx2NNEZBoZJWonQt3orUC) | [Gimmi](https://open.spotify.com/artist/0qPwpz51T4mzD9VC5yXvt9) | [DOMENICA](https://open.spotify.com/album/4zHMcSFaZ6XY6LLcJJIfBg) | 3:33 | 2023-02-03 |  |
+| [DOMENICA](https://open.spotify.com/track/4hx2NNEZBoZJWonQt3orUC) | [Gimmi](https://open.spotify.com/artist/0qPwpz51T4mzD9VC5yXvt9) | [DOMENICA](https://open.spotify.com/album/4zHMcSFaZ6XY6LLcJJIfBg) | 3:33 | 2023-02-03 | 2023-02-23 |
 | [DON'T LIE](https://open.spotify.com/track/4SxUEEjbrozKRKVwUAJAHY) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2) | [DON'T LIE](https://open.spotify.com/album/3LBrDHJJRGWY4Ik4aJOoBk) | 3:29 | 2023-01-19 | 2023-02-10 |
 | [DON'T PANIC](https://open.spotify.com/track/3SQc9pCnZomObjgUUjssg5) | [Security](https://open.spotify.com/artist/7MKJc8WAYeq779QzmWPzlw) | [DON'T PANIC](https://open.spotify.com/album/1Mb8FJxss43rIb1IWyr0bB) | 2:33 | 2023-02-03 | 2023-02-17 |
 | [DON'T STOP](https://open.spotify.com/track/7phaQRCg0ws1d9mb9C9aTO) | [SPETRIX](https://open.spotify.com/artist/5TfIVdYlqjs9RmC4vyAesM), [DENEMI](https://open.spotify.com/artist/5wQUqEJMbi2INC969TwMXt) | [DON'T STOP / ACAL 'A VOCE](https://open.spotify.com/album/0IcpZncMY4qhuX44ocnJNr) | 2:30 | 2022-07-21 | 2022-08-13 |

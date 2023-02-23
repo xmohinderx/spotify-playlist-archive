@@ -4,7 +4,7 @@
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Vicente Fernández & Ana Bárbara en portada.
 
-1,281 songs - 2 day 20 hr 49 min
+1,282 songs - 2 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1046,6 +1046,7 @@
 | [Si de Bélicos Hablamos \(En Vivo\)](https://open.spotify.com/track/2fTo0N3x8JCEy3iSVNMiHx) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Si de Bélicos Hablamos \(En Vivo\)](https://open.spotify.com/album/3l4KUKS3RgieBHWLmyjJ3Q) | 2:36 | 2022-12-30 | 2023-01-14 |
 | [Si Dios Conmigo, Quién Contra Mí](https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Si Dios Conmigo, Quién Contra Mí](https://open.spotify.com/album/1035I3Ilwk2w85l1Ma1DXS) | 3:32 | 2023-01-27 | 2023-02-04 |
 | [Si Es Cierto Que Te Vas](https://open.spotify.com/track/5ilf0RHAnRF5miyE9ad8O7) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Si Es Cierto Que Te Vas](https://open.spotify.com/album/2gHy7XdAt8pUrtB2mWq2f3) | 3:36 | 2022-09-23 | 2022-10-08 |
+| [Si Esta Botella Hablara](https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Si Esta Botella Hablara](https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o) | 3:08 | 2023-02-17 |  |
 | [Si Estoy Donde Estoy \(En Vivo\)](https://open.spotify.com/track/72zKXb35QSe3wTIsSHoz64) | [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Si Estoy Donde Estoy \(En Vivo\)](https://open.spotify.com/album/2gx6KVPGKqFRmdxPAUjLek) | 3:22 | 2022-10-28 | 2022-11-05 |
 | [Si Me Caigo Me Levanto](https://open.spotify.com/track/2Suexu17s87wIJCBhwfyW6) | [Código Inicial](https://open.spotify.com/artist/6zts2SsMKoNSfd16JKaieV) | [Si Me Caigo Me Levanto](https://open.spotify.com/album/5jQ5AWrBD64ZFc4FSyEiKW) | 2:33 | 2022-07-22 | 2022-07-30 |
 | [Si No Se Dio](https://open.spotify.com/track/1CKKGy99iDQbItYVgqdF0W) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/1itC5UQ9xn65wqndqlaJkQ) | 2:07 | 2022-09-23 | 2022-10-08 |

@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Busty and The Bass & Magi Merlin
 
-393 songs - 23 hr 35 min
+394 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,8 @@
 | [The Music Is The Magic](https://open.spotify.com/track/6Oyc9RidszDnwTkyWJXZbT) | [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [Y’all Don’t \(Really\) Care About Black Women](https://open.spotify.com/album/746qWwUCILB8ZILy6wkXFZ) | 1:14 | 2021-11-12 | 2022-02-19 |
 | [The Night](https://open.spotify.com/track/6Pi2UMOtnJJqEUD3Jdalyu) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [The Night](https://open.spotify.com/album/0VO3UbmFTG70b27lk5N9p0) | 3:24 | 2021-11-12 | 2022-05-14 |
 | [The Sun \(feat\. Bran Movay\)](https://open.spotify.com/track/0TjxhONN1mFhhIwUnaVpcm) | [Kabwasa](https://open.spotify.com/artist/4n3BiuRU79B4qPqiqsnhQ4), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Bran Movay](https://open.spotify.com/artist/6qOnVqczf3XJzyy3eQazOu) | [The Sun \(feat\. Bran Movay\)](https://open.spotify.com/album/0sjw26JHZs8ETCZkMMYDRD) | 2:49 | 2022-10-14 |  |
-| [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/556CRBT1Baizm5cRhHY2MK) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/album/4oOD8I1ZoGU3UZJhcrrnq3) | 4:19 | 2023-01-20 |  |
+| [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/556CRBT1Baizm5cRhHY2MK) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/album/4oOD8I1ZoGU3UZJhcrrnq3) | 4:19 | 2023-01-20 | 2023-02-23 |
+| [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/6sra6tnpksG17oKLPwj8S6) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:19 | 2023-01-20 |  |
 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 | 2022-10-14 |  |
 | [Things I Imagined](https://open.spotify.com/track/4T6pxSpiNC0VnspWWZzuGj) | [The Growth Eternal](https://open.spotify.com/artist/7Mb2dw6lrp0Hn2H9HJf0Tw) | [Kensho !](https://open.spotify.com/album/2mXtxxxa66pPJ833JWy1o5) | 0:58 | 2021-11-12 | 2022-05-07 |
 | [Through The Noise \(Chant No\. 2\)](https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [Through The Noise \(Chant No\. 2\)](https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX) | 4:48 | 2022-08-08 | 2023-01-21 |

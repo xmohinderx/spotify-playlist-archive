@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b?si=U8nTYhyNR6e1faQ1Zo1G1w" >MAUIMØON</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,513 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,622 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

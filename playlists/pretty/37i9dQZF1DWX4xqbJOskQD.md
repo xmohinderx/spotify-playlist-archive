@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,481 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,484 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 13 | [Straighten Up And Fly Right \- Single Version](https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [50th Anniversary Collection \(Vol\. 2\)](https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L) | 2:29 |
 | 14 | [Teach Me Tonight](https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 3:05 |
 | 15 | [It's A Blue World](https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU) | [The Four Freshmen](https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9) | [Voices In Modern](https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8) | 2:58 |
-| 16 | [Nevertheless \(I'm In Love With You\)](https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [The Anthology: 1931 \- 1968](https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo) | 2:48 |
-| 17 | [Have You Heard](https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [Hits Singles: Collectors Series](https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH) | 2:31 |
+| 16 | [Have You Heard](https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [Hits Singles: Collectors Series](https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH) | 2:31 |
+| 17 | [Nevertheless \(I'm In Love With You\)](https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [The Anthology: 1931 \- 1968](https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo) | 2:48 |
 | 18 | [Moments To Remember](https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs](https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE) | 3:15 |
 | 19 | [May You Always](https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:58 |
 | 20 | [Tea for Two \(with Axel Stordahl & His Orchestra\)](https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Axel Stordahl And His Orchestra](https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl) | [Tea For Two \(with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio\)](https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv) | 3:11 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 38 | [My One Sin](https://open.spotify.com/track/0gWKRxc5ncnS3wxXF1E9jV) | [The Four Coins](https://open.spotify.com/artist/1XQXkciRULT2PXhRUtmmuH) | [Best Of The Four Coins](https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9) | 2:19 |
 | 39 | [Ain't Gonna Worry 'Bout a Soul](https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg) | [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [Jump & Jive 'Til One O'Clock \- Anthology, Vol\. 2](https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9) | 2:37 |
 | 40 | [Lullaby of Birdland](https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH) | [Kirby Stone Four](https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9) | [The Kirby Stone Touch](https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA) | 2:09 |
-| 41 | [Love On A Greyhound Bus](https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C) | [The Dinning Sisters](https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h) | [The Very Best Of](https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz) | 2:53 |
-| 42 | [Give Me Time](https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz) | [The De Castro Sisters](https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G) | [Teach Me Tonight](https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ) | 2:39 |
+| 41 | [Give Me Time](https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz) | [The De Castro Sisters](https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G) | [Teach Me Tonight](https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ) | 2:39 |
+| 42 | [Love On A Greyhound Bus](https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C) | [The Dinning Sisters](https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h) | [The Very Best Of](https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz) | 2:53 |
 | 43 | [Underneath The Linden Tree](https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU) | [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15) | [The Singles Collection 1946\-60](https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN) | 2:41 |
 | 44 | [Swing High Swing Low](https://open.spotify.com/track/6a0f0Kz6PXKinTaiF1N6sO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Ink Spots Retrospective](https://open.spotify.com/album/3V3OopO2A0CoZURseTfrPs) | 2:39 |
 | 45 | [It's Sand, Man!](https://open.spotify.com/track/1mhOW7fYuOTEv1oJxqgXJG) | [Jon Hendricks](https://open.spotify.com/artist/2Kn5swSfLmUU2WEJVlQvJY), [Annie Ross](https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy), [Lambert, Hendricks & Ross](https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg) | [Sing A Song Of Basie](https://open.spotify.com/album/2TmARLhB8VuTpm7y1nhrY7) | 2:27 |
 
-Snapshot ID: `MTY0ODQ5NTc0OSwwMDAwMDAwMDAzNzAzNWM3Yjk3NTc5ZmNhOWRhZWY4N2VlNWI5OTVh`
+Snapshot ID: `MTY0ODQ5NTc0OSwwMDAwMDAwMDA4ZWUzMTdhYmY5OTdjY2E5NWI5MGUzMThmMjVlMTkz`

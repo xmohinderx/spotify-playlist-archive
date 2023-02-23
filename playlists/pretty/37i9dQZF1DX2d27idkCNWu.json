@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 258836,
+  "num_followers": 258871,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzNzE3MCwwMDAwMDAwMDM2YTBlYTZhN2U3MjdlZGFmYzc2NDE5MzhiYmZhN2E3",
+  "snapshot_id": "MTY3NjAzNzE3MCwwMDAwMDAwMDUxZWJkYzBkNTkzZWExZjA4MDAyNWQ0N2NjZTBhZTk1",
   "tracks": [
     {
       "added_at": "2023-02-03 12:40:22",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
     },
     {
+      "added_at": "2023-02-23 01:18:15",
+      "album": {
+        "name": "Pointless (Strings Acoustic)",
+        "url": "https://open.spotify.com/album/1cblE478ZQE4G3sDtGprqy"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 240238,
+      "name": "Pointless - Strings Acoustic",
+      "url": "https://open.spotify.com/track/4rmuX9LHbxYYJuPtP353uL"
+    },
+    {
       "added_at": "2023-02-03 12:40:22",
       "album": {
         "name": "Arcade (Acoustic Version)",
@@ -383,22 +399,6 @@
       "duration_ms": 199237,
       "name": "Arcade - Acoustic Version",
       "url": "https://open.spotify.com/track/5e5XSjfqBk4mgRnQR1vu8Z"
-    },
-    {
-      "added_at": "2023-02-22 01:20:14",
-      "album": {
-        "name": "Pointless (Strings Acoustic)",
-        "url": "https://open.spotify.com/album/1cblE478ZQE4G3sDtGprqy"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 240238,
-      "name": "Pointless - Strings Acoustic",
-      "url": "https://open.spotify.com/track/4rmuX9LHbxYYJuPtP353uL"
     },
     {
       "added_at": "2023-02-03 12:40:22",
@@ -715,38 +715,6 @@
     {
       "added_at": "2023-02-03 12:40:22",
       "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "You Learn - Live / Unplugged",
-      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
-    },
-    {
-      "added_at": "2023-02-03 12:40:22",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 225790,
-      "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
-    },
-    {
-      "added_at": "2023-02-03 12:40:22",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
       },
@@ -767,6 +735,38 @@
     {
       "added_at": "2023-02-03 12:40:22",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 225790,
+      "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
+    },
+    {
+      "added_at": "2023-02-03 12:40:22",
+      "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "You Learn - Live / Unplugged",
+      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
+    },
+    {
+      "added_at": "2023-02-03 12:40:22",
+      "album": {
         "name": "All The Little Lights (Deluxe Version)",
         "url": "https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF"
       },
@@ -783,22 +783,18 @@
     {
       "added_at": "2023-02-03 12:40:22",
       "album": {
-        "name": "Better Part of Me",
-        "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 226146,
-      "name": "Better Part of Me",
-      "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
+      "duration_ms": 227927,
+      "name": "Somewhere Only We know - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
     },
     {
       "added_at": "2023-02-03 12:40:22",
@@ -819,18 +815,22 @@
     {
       "added_at": "2023-02-03 12:40:22",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
+        "name": "Better Part of Me",
+        "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
       },
       "artists": [
         {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
         }
       ],
-      "duration_ms": 227927,
-      "name": "Somewhere Only We know - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
+      "duration_ms": 226146,
+      "name": "Better Part of Me",
+      "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
     },
     {
       "added_at": "2023-02-03 12:40:22",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-02-03 12:40:22",
       "album": {
+        "name": "Jason Mraz's Beautiful Mess: Live on Earth",
+        "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 312800,
+      "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
+      "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
+    },
+    {
+      "added_at": "2023-02-03 12:40:22",
+      "album": {
         "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
         "url": "https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 188527,
       "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
       "url": "https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb"
-    },
-    {
-      "added_at": "2023-02-03 12:40:22",
-      "album": {
-        "name": "Jason Mraz's Beautiful Mess: Live on Earth",
-        "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 312800,
-      "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
-      "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
     },
     {
       "added_at": "2023-02-03 12:40:22",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2023-02-03 12:40:22",
       "album": {
-        "name": "C\u00ea N\u00e3o Tem No\u00e7\u00e3o (Ao vivo no Meo Sudoeste)",
-        "url": "https://open.spotify.com/album/5bV19R3ZqETQrOoRHiZUSd"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 163537,
-      "name": "C\u00ea N\u00e3o Tem No\u00e7\u00e3o (Ao vivo no Meo Sudoeste)",
-      "url": "https://open.spotify.com/track/0ZoiqyHoSNMYRJLzZzPaMl"
-    },
-    {
-      "added_at": "2023-02-03 12:40:22",
-      "album": {
         "name": "Ac\u00fastico Planta e Raiz 2022, Show Completo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 221262,
       "name": "Eu Tive um Sonho - Ao Vivo",
       "url": "https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z"
+    },
+    {
+      "added_at": "2023-02-03 12:40:22",
+      "album": {
+        "name": "C\u00ea N\u00e3o Tem No\u00e7\u00e3o (Ao vivo no Meo Sudoeste)",
+        "url": "https://open.spotify.com/album/5bV19R3ZqETQrOoRHiZUSd"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 163537,
+      "name": "C\u00ea N\u00e3o Tem No\u00e7\u00e3o (Ao vivo no Meo Sudoeste)",
+      "url": "https://open.spotify.com/track/0ZoiqyHoSNMYRJLzZzPaMl"
     },
     {
       "added_at": "2023-02-03 12:40:22",

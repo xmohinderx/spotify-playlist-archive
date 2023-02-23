@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to snuggling on the sofa.",
-  "num_followers": 30265,
+  "num_followers": 30370,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDY5NzI3N2Y1ZWVkZWVhODdmMzUxNjM5MmY5NjM1NGVk",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDliMTA3ZDgxNDc5YjQwN2Y0MDEzNmY4N2RkNzcxZjY5",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Love You For A Long Time",
+        "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "Love You For A Long Time",
+      "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Thinking 'Bout Love",
         "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 184200,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Love You For A Long Time",
-        "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "Love You For A Long Time",
-      "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Weezer (Teal Album)",
         "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 267880,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
     }
   ],
   "unique_name": "Lazy Afternoon",

@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-181 songs - 9 hr 9 min
+182 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [raise it up!](https://open.spotify.com/track/0brPfanoFwTjJ22vUqsKVC) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [raise it up!](https://open.spotify.com/album/4NCHxHtyOy9lBxeHQSCfDG) | 2:28 | 2020-12-07 |  |
 | [ripped jeans](https://open.spotify.com/track/1hkrrzCHWx3SwwrBp3i9h7) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [ripped jeans](https://open.spotify.com/album/5O7x0cAksWA4GPvOCgsu0P) | 2:02 | 2020-12-07 | 2022-07-29 |
 | [ripped jeans](https://open.spotify.com/track/229Nu0G3uLnijxO8d69NVA) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [ripped jeans](https://open.spotify.com/album/4WQt08qyCGByVqqQXbPetC) | 2:02 | 2020-12-07 |  |
-| [rosier](https://open.spotify.com/track/6ZUiIY6JQtDkrJggZ1OSQ7) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [rosier](https://open.spotify.com/album/3ri0YspOIBYjD3d8QIMwB7) | 3:42 | 2020-12-07 |  |
+| [rosier](https://open.spotify.com/track/6ZUiIY6JQtDkrJggZ1OSQ7) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [rosier](https://open.spotify.com/album/3ri0YspOIBYjD3d8QIMwB7) | 3:42 | 2020-12-07 | 2023-02-23 |
+| [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 | 2020-12-07 |  |
 | [ROXY](https://open.spotify.com/track/1ijJsS6VCiJXGgHtLHmrCx) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Lavender](https://open.spotify.com/album/0o1r2elNdzE964UNjJp6OG) | 3:25 | 2020-12-07 |  |
 | [Sansevieria](https://open.spotify.com/track/28V06ats2bx8OCdh9DBBOR) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/5ADF8juLhrC8IerOq4G6e5) | 4:24 | 2020-12-07 | 2022-07-29 |
 | [Sansevieria](https://open.spotify.com/track/3APZAHZbjudqp4755vGl2K) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 4:24 | 2020-12-07 |  |

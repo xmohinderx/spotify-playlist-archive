@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Hyperanhas, Tammy
 
-123 songs - 5 hr 32 min
+124 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bumbunka](https://open.spotify.com/track/79kwyO53ANPImzsvFyRqLa) | [Bea Galhano](https://open.spotify.com/artist/0yFi90XiMn031PAznQsM4X) | [Bumbunka](https://open.spotify.com/album/4PfmEZbermcJZLd0LPgjwW) | 2:48 | 2022-03-18 | 2022-12-03 |
 | [Camisa 10](https://open.spotify.com/track/66m7H4PHOFGWWfpBwVfzQc) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Camisa 10](https://open.spotify.com/album/1BT1zwJm02tDL5W2kNAk2H) | 2:34 | 2022-03-18 | 2022-10-29 |
 | [Campo Minado](https://open.spotify.com/track/2uPmyJMVozLNBE6YermhOM) | [Luacih](https://open.spotify.com/artist/7zsL7ceYrzvikWVlI7BnTI), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Campo Minado](https://open.spotify.com/album/1GVoV2r9U7dZNKWXvXFX27) | 3:15 | 2022-04-22 |  |
+| [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW) | 1:52 | 2023-02-22 |  |
 | [Cofre](https://open.spotify.com/track/4Ob435otPVxJEvhYVDyaxW) | [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Cofre](https://open.spotify.com/album/1zeiWi4ap2VXX9ldNQXxCK) | 2:17 | 2022-05-27 |  |
 | [Conversas Secretas](https://open.spotify.com/track/54lXGqjLkx1l6nDqvRAw3E) | [NaLua](https://open.spotify.com/artist/1JuaPNMWpUfF5sKtvLs7eA), [Redoma](https://open.spotify.com/artist/0Jit1nn3676eCzXLM8bcxk) | [Conversas Secretas](https://open.spotify.com/album/6sfC8DyOG3WoAXwRZjGdk7) | 2:09 | 2022-08-12 |  |
 | [Cor de Sangue](https://open.spotify.com/track/0o2UAD9Osda1SEsL8rUr7L) | [Nicky](https://open.spotify.com/artist/0MJjniyiJk8iTLcOU1iWfH), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS) | [Cor de Sangue](https://open.spotify.com/album/3Axmf4ThFpdE4Jz7KQwjdo) | 2:30 | 2022-03-18 | 2022-07-02 |
@@ -53,7 +54,7 @@
 | [Futuro](https://open.spotify.com/track/0JqeNZ9naWlaojoueuwBQg) | [Mc Lucy](https://open.spotify.com/artist/44bzWn6GQs6zVXvnYtqIMa), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c) | [Poder](https://open.spotify.com/album/2Avjohr3TQNOdMaCbw3dOd) | 2:23 | 2022-03-18 |  |
 | [Garota Califórnia](https://open.spotify.com/track/3qVGrdhoNv3xzpga0B8I6S) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Garota California](https://open.spotify.com/album/6tkNx1oadbWZLzYr3kH1Tk) | 3:06 | 2022-06-24 |  |
 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 | 2022-03-18 |  |
-| [Girassol](https://open.spotify.com/track/26comn1fbkVTg3HuuYU4w3) | [A's Trinca](https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I) | [Girassol](https://open.spotify.com/album/7poqNacyVe3hPkzyPtugdD) | 2:26 | 2023-01-06 |  |
+| [Girassol](https://open.spotify.com/track/26comn1fbkVTg3HuuYU4w3) | [A's Trinca](https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I) | [Girassol](https://open.spotify.com/album/7poqNacyVe3hPkzyPtugdD) | 2:26 | 2023-01-06 | 2023-02-23 |
 | [Haters And Snakes](https://open.spotify.com/track/0GrH8cHTWShAdjaQtS9yBy) | [Casa De Musique](https://open.spotify.com/artist/0hZopCUa9lvzrv2GGsHfxz), [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Haters And Snakes](https://open.spotify.com/album/1ezQ47LA8hNsUdZafyOUSY) | 2:28 | 2022-07-08 |  |
 | [Haters and Snakes](https://open.spotify.com/track/4yPrZjRwN6vB07Qx6zyxVa) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Haters and Snakes](https://open.spotify.com/album/2KGOOACrBMEGoEWFY7RWEM) | 2:28 | 2022-03-18 | 2022-07-29 |
 | [Hija de Kuyen \- Ao Vivo](https://open.spotify.com/track/2ca0ORNc1zHBU55rENU09T) | [Brisa Flow](https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO) | [Brisa Flow no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/3ln6jlK3dSMATTdhHnm2w1) | 3:32 | 2022-07-01 | 2022-12-03 |

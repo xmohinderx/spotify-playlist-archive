@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Escucha a Loyaltty y a más mujeres a todo volumen\. Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,349 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,357 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 31 | [Desilusión](https://open.spotify.com/track/2WZClCpIXY4L2k4FfayBbT) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [Desilusión](https://open.spotify.com/album/3iPBHbQtfW67wIzVdvwHzY) | 3:27 |
 | 32 | [Mi Cula \(Remix\)](https://open.spotify.com/track/4mRfyjonZZuRy3iTxKHazl) | [Señorita Chu](https://open.spotify.com/artist/66HozQ44x8qKTB7irTL2NJ), [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Señorita](https://open.spotify.com/album/7t50mP3PTQZkO1O8BeqV4z) | 3:47 |
 | 33 | [Visera Yankee](https://open.spotify.com/track/500wBp8dxe6Dtpc88B1tIH) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Saitoape](https://open.spotify.com/artist/1uXQ1A3Jy85T7cWKFvlgoU) | [Visera Yankee](https://open.spotify.com/album/1KF8txH6U6j7YRjmRFhsUI) | 2:16 |
-| 34 | [MATRIX](https://open.spotify.com/track/0XXhYM7qlTHbrYTpI44XO7) | [Esteza](https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ) | [MATRIX](https://open.spotify.com/album/1eAuOa1shPZKN6OS25iScZ) | 2:22 |
-| 35 | [1000](https://open.spotify.com/track/0LNeX04cUkoS0j9LDuNuyA) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Jsnck!](https://open.spotify.com/artist/3oFAXYbLPLYimPiQ3JJzSj) | [1000](https://open.spotify.com/album/4W1bHfVBxpmXXGywqv7vx6) | 2:50 |
+| 34 | [1000](https://open.spotify.com/track/0LNeX04cUkoS0j9LDuNuyA) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Jsnck!](https://open.spotify.com/artist/3oFAXYbLPLYimPiQ3JJzSj) | [1000](https://open.spotify.com/album/4W1bHfVBxpmXXGywqv7vx6) | 2:50 |
+| 35 | [MATRIX](https://open.spotify.com/track/0XXhYM7qlTHbrYTpI44XO7) | [Esteza](https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ) | [MATRIX](https://open.spotify.com/album/1eAuOa1shPZKN6OS25iScZ) | 2:22 |
 | 36 | [No sé](https://open.spotify.com/track/1cSBQQlx8r3aWJimguLnHc) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/3RbneQRC7hqcFIn2DZpCKg) | 2:49 |
 | 37 | [Luni Tun](https://open.spotify.com/track/0YDV4jdHf8W6N9KvhrIh4d) | [Iktus](https://open.spotify.com/artist/4DqguavmAWXP4KjI7badwW), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [Luni Tun](https://open.spotify.com/album/1cIeelqlUeS3al1jk4d1Hg) | 3:21 |
 | 38 | [KUINA TU GATA](https://open.spotify.com/track/55D2Xql8aCLVNf9Rj7mnRA) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [KONEJO DI PLATA](https://open.spotify.com/album/7pya0vD47R76K51BNNg572) | 1:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Teteo](https://open.spotify.com/track/6j2a0uszU96dBMLt3DAPtC) | [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv) | [Teteo](https://open.spotify.com/album/5qPpnqKrwB6OLBfu07uHj6) | 2:31 |
 | 50 | [Fuega](https://open.spotify.com/track/2nh8GLnWGZwGUUryJfSlNf) | [La Lola](https://open.spotify.com/artist/76fJm7snE4sS86N9gd7tnT) | [Fuega](https://open.spotify.com/album/5xOlrYq3hPU7PFhyCf0jAg) | 2:51 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDk5YWMyNDNlMDNmNTIxYmE2MTdjYWJjYjE5YTFkYmZl`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDUwN2YxMjg4N2MwYTc0OTk5MGZkNmVmZDYwYjQ5MmQ1`

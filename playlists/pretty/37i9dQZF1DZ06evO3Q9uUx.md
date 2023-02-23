@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,765 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,780 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [BADSIDE](https://open.spotify.com/track/4i52IhZoFDXVxKhJewywbs) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BADSIDE](https://open.spotify.com/album/3j7poPDs9oT3VEMtPdw8jf) | 3:44 |
 | 50 | [Gucci Comin' Home](https://open.spotify.com/track/4r6AFRv8b4KurDJvm7BZ5N) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Gucci Comin' Home](https://open.spotify.com/album/1dXVrNCauP1ZD51Xc2LCIU) | 2:59 |
 
-Snapshot ID: `Mjc5NDk2OTgsMDAwMDAwMDA4OTdlOWI2MjE5MGIwMWQ5ZDQzMmE3NTM1YjBkNGI4Zg==`
+Snapshot ID: `Mjc5NTExODMsMDAwMDAwMDAyYzE3NjNmNTM5OTVmM2FhMmJkMzk5OTNlNjJiZDg5YQ==`

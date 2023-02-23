@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,052,737 likes - 110 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,053,031 likes - 110 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 42 | [One Day](https://open.spotify.com/track/0nCZDQrlWA149QdGTdlsFU) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Light](https://open.spotify.com/album/0ZWXIBvYjY13xIbDyWdnBN) | 3:27 |
 | 43 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 |
 | 44 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 |
-| 45 | [Legalize It](https://open.spotify.com/track/73lYI49LhfsscO33ohrGN0) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Legalize It \(Legacy Edition\)](https://open.spotify.com/album/4ESdQfdgBr9yaYraKU0Vle) | 4:39 |
-| 46 | [Dream Land](https://open.spotify.com/track/7vp89zcbYncoBCbX5HA3tZ) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr) | 2:46 |
-| 47 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
-| 48 | [Get Up, Stand Up](https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 3:17 |
-| 49 | [Police & Thieves](https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Police & Thieves](https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR) | 4:04 |
+| 45 | [Get Up, Stand Up](https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 3:17 |
+| 46 | [Legalize It](https://open.spotify.com/track/73lYI49LhfsscO33ohrGN0) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Legalize It \(Legacy Edition\)](https://open.spotify.com/album/4ESdQfdgBr9yaYraKU0Vle) | 4:39 |
+| 47 | [Dream Land](https://open.spotify.com/track/7vp89zcbYncoBCbX5HA3tZ) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr) | 2:46 |
+| 48 | [Police & Thieves](https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Police & Thieves](https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR) | 4:04 |
+| 49 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
 | 50 | [Hills And Valleys](https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 4:33 |
 | 51 | [Murderer](https://open.spotify.com/track/1yxQwMLJIn5oBTOLl38GLL) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Original Ragga Muffin, Pt\. 1](https://open.spotify.com/album/0moZgBJ6jA54D1Fvm4dqf3) | 3:53 |
 | 52 | [Morning Is Coming \(with Shaggy\)](https://open.spotify.com/track/1MIoqrkFISWV3q3JvifC4S) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [44/876 \(Deluxe\)](https://open.spotify.com/album/1CoVw7saic0ozYSDTeQ26l) | 3:11 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 58 | [007 \(Shanty Town\)](https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [007 Shanty Town](https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm) | 2:32 |
 | 59 | [Take Me Home, Country Roads](https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 3:21 |
 | 60 | [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 |
-| 61 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
-| 62 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
+| 61 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
+| 62 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
 | 63 | [The International Herb](https://open.spotify.com/track/0GGPUysb8GpCG76dQH63te) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Too Long In Slavery](https://open.spotify.com/album/0NZmEygtcOVC9ulZ9FxuvJ) | 3:20 |
 | 64 | [Marcus Garvey](https://open.spotify.com/track/30ELPvO4DH57Rq2kgj7a8e) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Marcus Garvey](https://open.spotify.com/album/2YsfYi8B9pEuts9qwa3TSN) | 3:27 |
 | 65 | [Rock Away](https://open.spotify.com/track/2RlVyAjLnGJQYp7uzpfUta) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Music Is Life](https://open.spotify.com/album/3IySm9LueCi3FKBNexYOh6) | 3:59 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Stars Align](https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:21 |
 | 110 | [Tempted to Touch](https://open.spotify.com/track/24kv7kR0Cz8ZBWFx4Kq50A) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Love Affair](https://open.spotify.com/album/3NGkvceBnNk5cTDbb56unf) | 3:48 |
 
-Snapshot ID: `MTY2NTY5NTIwOSwwMDAwMDAwMDdmMThlNGFkZTAwODE2ZGVmZGViNTFiN2FjY2YwYWQ0`
+Snapshot ID: `MTY2NTY5NTIwOSwwMDAwMDAwMDYwZGFiOWI5OTNhZDEyYWFhZTFmZmFiYWMzZTI4Yjdi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,936 likes - 99 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,015 likes - 99 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 7 | [Astrology Joint](https://open.spotify.com/track/1jcGbrSCZ32Q2vyvOpOZzg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Astrology Joint](https://open.spotify.com/album/22JbTK2Ol0UpTjPnW8rlds) | 2:32 |
 | 8 | [Told you so](https://open.spotify.com/track/2S5Ews7qHXfQTtbTPF7oB7) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 4:49 |
 | 9 | [Mood Right](https://open.spotify.com/track/5Q8G6sLpG6PBFjJIXOPW9l) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Mood Right](https://open.spotify.com/album/5B4oxR73Yss8t4dcgOezUI) | 2:49 |
-| 10 | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/556CRBT1Baizm5cRhHY2MK) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/album/4oOD8I1ZoGU3UZJhcrrnq3) | 4:19 |
+| 10 | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/6sra6tnpksG17oKLPwj8S6) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:19 |
 | 11 | [Build Me A House](https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Build Me A House](https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17) | 3:01 |
 | 12 | [Stay](https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Stay](https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe) | 2:55 |
 | 13 | [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 98 | [Introvert Hotline](https://open.spotify.com/track/5SQxSIapsaziYnZRLwfPSU) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Introvert Hotline](https://open.spotify.com/album/0HxAmiI6pF4ZRaLGv63HnX) | 3:17 |
 | 99 | [Ascension](https://open.spotify.com/track/6BnkcVCFZX3HCU9csLS6UR) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85), [Oliver Night](https://open.spotify.com/artist/6n2LDOKxdPlYU0Awxu53Z9) | [Birdhouse](https://open.spotify.com/album/1gCav3gJyQL0ShBQ2BLYMJ) | 3:49 |
 
-Snapshot ID: `MTY3NjYzODIyMiwwMDAwMDAwMGMxODhhNjM0MDA1YWFlMDg2NzY3NGRiNGY2NjJhMDZi`
+Snapshot ID: `MTY3NjYzODIyMiwwMDAwMDAwMDZjOTc1ZWEwYmM5NWYxZGRjNGQxYjA1NTk4YzNlNGZi`

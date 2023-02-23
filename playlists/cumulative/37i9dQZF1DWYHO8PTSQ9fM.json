@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Fi Lamane",
+        "url": "https://open.spotify.com/album/3MCrQeMpa5llbeiwNKeLPi"
+      },
+      "artists": [
+        {
+          "name": "Numidia Lezoul",
+          "url": "https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180306,
+      "name": "Fi Lamane",
+      "url": "https://open.spotify.com/track/5vlL8e2Ssrc7YCxjzgG55A"
+    },
+    {
+      "album": {
         "name": "Filamen (\u0641\u064a\u0644\u0645\u0627\u0646)",
         "url": "https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5"
       },
@@ -928,7 +946,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 304457,
       "name": "Ghazali",
       "url": "https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN"
@@ -1602,7 +1620,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 176571,
       "name": "Lbaroud",
       "url": "https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm"
@@ -2798,6 +2816,24 @@
       "duration_ms": 190515,
       "name": "WAYLE",
       "url": "https://open.spotify.com/track/0jCNrDbEbpRbuDiGcKa907"
+    },
+    {
+      "album": {
+        "name": "WILI",
+        "url": "https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "WILI",
+      "url": "https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS"
     },
     {
       "album": {

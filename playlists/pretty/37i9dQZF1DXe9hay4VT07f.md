@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,691 likes - 84 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,934 likes - 84 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 3 | [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 |
 | 4 | [Narcissistic](https://open.spotify.com/track/62gv0hzbDQGDD9fy8AHTtb) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Narcissistic](https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz) | 3:02 |
 | 5 | [Welcome To Jamrock](https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 3:33 |
-| 6 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 |
-| 7 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
+| 6 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
+| 7 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 |
 | 8 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
 | 9 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 |
 | 10 | [Speed Off](https://open.spotify.com/track/2brmWfgvpkTotbDYSi8jbO) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Speed Off](https://open.spotify.com/album/4VGPlCegWF5KHqOmYn8cXp) | 2:54 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 58 | [Goodas Mi Back Mi Back](https://open.spotify.com/track/0vPBj8SXXsIdBwz4FIzcT8) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Riddim Driven: Gully Slime](https://open.spotify.com/album/0kpVC3GfFWpsgwQOE1dXH8) | 3:44 |
 | 59 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 |
 | 60 | [Head, Shoulders, Kneez & Toez \- Radio Edit](https://open.spotify.com/track/0amlI2JWPEfxioAcc7kVSJ) | [K.I.G](https://open.spotify.com/artist/5urltEzdvmWz8tl1J4reSj) | [Head, Shoulders, Kneez & Toez](https://open.spotify.com/album/2Xi4tCQ7x4vnoNDCSdRoQv) | 3:32 |
-| 61 | [Top Prize](https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on) | 3:12 |
+| 61 | [Ocean Wave](https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Ocean Wave](https://open.spotify.com/album/722vGdkmCeXfKriYdKonto) | 2:43 |
 | 62 | [Deport Them](https://open.spotify.com/track/2KD9Ao72XR2C4VjI3d1AtG) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Bookshelf Riddim](https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc) | 3:08 |
 | 63 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
 | 64 | [Dat Sexy Body](https://open.spotify.com/track/3MA9vuvFgT11GTazSK5FQ0) | [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY) | [Bookshelf Riddim](https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc) | 2:49 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 66 | [Press Trigger](https://open.spotify.com/track/27GiOlVbVjPaN8wco4d9m2) | [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Buzz Riddim](https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9) | 3:45 |
 | 67 | [Bun Fi Bun](https://open.spotify.com/track/0qVHePWosXdYsXQyPfwsPM) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun](https://open.spotify.com/album/2RL83zJh0gADlYn4nLMbHd) | 3:17 |
 | 68 | [Paranoid](https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Rygin King](https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:07 |
-| 69 | [Ocean Wave](https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Ocean Wave](https://open.spotify.com/album/722vGdkmCeXfKriYdKonto) | 2:43 |
+| 69 | [Top Prize](https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on) | 3:12 |
 | 70 | [All 2 Myself](https://open.spotify.com/track/3lUsC8WAJTEqvsnOCLDyNk) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [All 2 Myself](https://open.spotify.com/album/55L9lmkSHhPw7dL397V8nZ) | 2:31 |
 | 71 | [TEMPERATURE](https://open.spotify.com/track/6zSThntwhPtWU3my2y9I1F) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Riddim Driven: Applause](https://open.spotify.com/album/0Oy4Q9QsoRFxdzcMVwF0Rm) | 3:39 |
 | 72 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 83 | [Do You Mind](https://open.spotify.com/track/2nQ5CtkYZ2ufJNP3C4BL0I) | [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Best in '09](https://open.spotify.com/album/0zoxOALXc0b2mKAtlSyBQe) | 1:28 |
 | 84 | [Infiltrate](https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Fear](https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV) | 3:27 |
 
-Snapshot ID: `MTY3NTA4NzYyNywwMDAwMDAwMGJkNWRiYWJmYjg5NDY1MTNhMzYxNWM4NTRjZTM2MzJk`
+Snapshot ID: `MTY3NTA4NzYyNywwMDAwMDAwMDljYThmYWUwYjZmZGEzNGIwMDVlYWRiNGQ0Mjg0ZWJm`

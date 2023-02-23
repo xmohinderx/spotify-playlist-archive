@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from Outer Banks and get ready for Poguelanida, tickets available now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,319 likes - 96 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,090 likes - 96 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

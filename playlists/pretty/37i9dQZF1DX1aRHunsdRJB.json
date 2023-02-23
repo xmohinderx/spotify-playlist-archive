@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 8836,
+  "num_followers": 8841,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDA0YjBkNzVlYWViNmZmYjMwMDFjYTRhMzE0ZTk1MWJi",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGQyNTI1ZGViZTQ1NDE0NTMwMjhhN2RjZDg5Yjk5OTkw",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Captain",
+        "url": "https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6"
+      },
+      "artists": [
+        {
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+        }
+      ],
+      "duration_ms": 230711,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Conch Shell",
         "url": "https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 192198,
       "name": "Conch Shell",
       "url": "https://open.spotify.com/track/6NVR4oBAlPuuvpsYSZcyJF"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Captain",
-        "url": "https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6"
-      },
-      "artists": [
-        {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
-        }
-      ],
-      "duration_ms": 230711,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Baila Riddim",
-        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
-      },
-      "artists": [
-        {
-          "name": "Motto",
-          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
-        }
-      ],
-      "duration_ms": 137195,
-      "name": "Shots (One for Di Road)",
-      "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Knock About Riddim",
         "url": "https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 176000,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Baila Riddim",
+        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
+      },
+      "artists": [
+        {
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+        }
+      ],
+      "duration_ms": 137195,
+      "name": "Shots (One for Di Road)",
+      "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -787,30 +787,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Big Ride Riddim",
-        "url": "https://open.spotify.com/album/6xf96U9L4Lf1GdSV2ai5sN"
-      },
-      "artists": [
-        {
-          "name": "Motto",
-          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
-        },
-        {
-          "name": "Blackboy",
-          "url": "https://open.spotify.com/artist/5IRAIoTz3nx7KYujtayoMu"
-        },
-        {
-          "name": "Ezra",
-          "url": "https://open.spotify.com/artist/6H3rq6G5qNy35La9pxUtoB"
-        }
-      ],
-      "duration_ms": 126458,
-      "name": "Man with Ride (Big Ride)",
-      "url": "https://open.spotify.com/track/4lnYCV8h7WMusbocyjX8aP"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Arch & Bend Riddim Reloaded",
         "url": "https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy"
       },
@@ -867,22 +843,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
-        "url": "https://open.spotify.com/album/4PHvt5nQcyhapIxtD9rcT7"
-      },
-      "artists": [
-        {
-          "name": "DJ CHEEM",
-          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
-        }
-      ],
-      "duration_ms": 146681,
-      "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
-      "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Private Zess",
         "url": "https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6"
       },
@@ -899,6 +859,46 @@
       "duration_ms": 168888,
       "name": "Private Zess",
       "url": "https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
+        "url": "https://open.spotify.com/album/4PHvt5nQcyhapIxtD9rcT7"
+      },
+      "artists": [
+        {
+          "name": "DJ CHEEM",
+          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
+        }
+      ],
+      "duration_ms": 146681,
+      "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
+      "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Big Ride Riddim",
+        "url": "https://open.spotify.com/album/6xf96U9L4Lf1GdSV2ai5sN"
+      },
+      "artists": [
+        {
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+        },
+        {
+          "name": "Blackboy",
+          "url": "https://open.spotify.com/artist/5IRAIoTz3nx7KYujtayoMu"
+        },
+        {
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/6H3rq6G5qNy35La9pxUtoB"
+        }
+      ],
+      "duration_ms": 126458,
+      "name": "Man with Ride (Big Ride)",
+      "url": "https://open.spotify.com/track/4lnYCV8h7WMusbocyjX8aP"
     },
     {
       "added_at": "2022-02-24 18:00:00",

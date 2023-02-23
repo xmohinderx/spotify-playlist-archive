@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aaJXQXKS5j.md) - [plain]
 
 > In the trap with Bad Bunny 🐰 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,014 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,054 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aaJXQXKS5j.md) - [plain]
 | 15 | [Tranquilo](https://open.spotify.com/track/4PE7pAJ3DDmJdxWzpsXrlS) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tranquilo](https://open.spotify.com/album/7CUZQVHLggh7X0za629It0) | 3:35 |
 | 16 | [Soy Peor](https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy Peor](https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF) | 4:17 |
 | 17 | [Pa Ti](https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Pa Ti](https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A) | 3:11 |
-| 18 | [NI BIEN NI MAL](https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:56 |
-| 19 | [Sensualidad](https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Sensualidad](https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY) | 4:57 |
+| 18 | [Sensualidad](https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Sensualidad](https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY) | 4:57 |
+| 19 | [NI BIEN NI MAL](https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:56 |
 | 20 | [Me Mata](https://open.spotify.com/track/2wgDAPgBhFA7pnIbm0YOhP) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Me Mata](https://open.spotify.com/album/711Ewqb91hqv9aKXWPaBTI) | 6:52 |
 | 21 | [LA DROGA](https://open.spotify.com/track/67ACYA3UI6QMNtHX6b34wX) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 |
 | 22 | [25/8](https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:03 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aaJXQXKS5j.md) - [plain]
 | 39 | [Blockia](https://open.spotify.com/track/3uPLiBTUgz7wrGJ2mw1rzM) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Blockia](https://open.spotify.com/album/1hSE6GgLMO64esTVyBjjG4) | 3:21 |
 | 40 | [Me Llueven 3.0](https://open.spotify.com/track/7b59ZUw0TkGZuE0HNeiuc4) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Me Llueven 3.0](https://open.spotify.com/album/2MnWwUaZTarBd6M11iXJ6Z) | 4:50 |
 
-Snapshot ID: `MTY3MzI0NTk5MiwwMDAwMDAwMDM0NDg0ZTM4NGYyOWYxYjE1NWIzNWI3YjgxZmU2YzBj`
+Snapshot ID: `MTY3MzI0NTk5MiwwMDAwMDAwMDA5NDAzMjcyZmI5Zjc3ZjgyNjIyMWIxMWZjODVkYjBk`

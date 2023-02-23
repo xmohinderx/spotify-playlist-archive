@@ -4,7 +4,7 @@
 
 > Sunlight! The most precious gold to be found on Earth.
 
-140 songs - 10 hr 50 min
+141 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [Space Between Clouds](https://open.spotify.com/artist/5GAMzg4pAy2tTbBbiYtc2x) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 | 2022-12-21 |  |
 | [Altar of Tammy](https://open.spotify.com/track/0vY8f5mk1hJJ9qVWqYy0pU) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Altar of Tammy](https://open.spotify.com/album/0X4MaivNbTViISJ5anYIbc) | 7:58 | 2022-03-30 | 2022-07-28 |
 | [Always Returning \- Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:04 | 2021-09-10 |  |
-| [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 | 2021-09-10 |  |
+| [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 | 2021-09-10 | 2023-02-23 |
 | [AT THE RIVERS EDGE](https://open.spotify.com/track/3Cf908nBvfqqH7rzAi8KbM) | [Celestial](https://open.spotify.com/artist/3SFCZy20vLywkF2KDiwqCk) | [I Had Too Much to Dream Last Night](https://open.spotify.com/album/1MmJmjY9LKhylRSgydvGwJ) | 4:31 | 2021-09-10 | 2022-07-29 |
 | [Awakening](https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4) | [INFINITY](https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg) | [Breath](https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ) | 10:44 | 2021-09-10 | 2022-07-29 |
 | [Berlin](https://open.spotify.com/track/1dUJSg35YhhEeG9potM4Cv) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Insen](https://open.spotify.com/album/3VT8eoRaoFsqjVcSu1GFfB) | 6:16 | 2021-09-10 | 2022-04-20 |
@@ -51,6 +51,7 @@
 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 | 2021-09-10 |  |
 | [Connotes Beauty](https://open.spotify.com/track/7IDiphQDYTrR6za5qWU8M5) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Connotes Beauty](https://open.spotify.com/album/2SYILPGpVVbVxVD62OBtRs) | 3:50 | 2021-09-10 | 2022-07-26 |
 | [Crystal Silence](https://open.spotify.com/track/5F8rPLt2c52p0SK7kiH26b) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Return To Forever](https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc) | 6:55 | 2021-09-10 |  |
+| [Dawn Chorus](https://open.spotify.com/track/1AzyK709SaGmKOT32r0jSj) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 3:55 | 2021-09-10 |  |
 | [Dawn Chorus](https://open.spotify.com/track/7LY0R33pPIFr0Y64VZC9Wo) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 3:55 | 2021-09-10 | 2023-02-03 |
 | [Dawn Chorus](https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Dawn Chorus](https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD) | 3:28 | 2021-09-10 |  |
 | [Discrete \(The Market\)](https://open.spotify.com/track/2h0tsulVU8hOZzHog4mLk0) | [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Discrete \(The Market\)](https://open.spotify.com/album/3Kgg7UPQBnIHyLnXAC9xsf) | 6:34 | 2021-09-10 | 2022-07-28 |

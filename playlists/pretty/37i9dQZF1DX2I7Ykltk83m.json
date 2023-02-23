@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Madison Cunningham",
-  "num_followers": 322042,
+  "num_followers": 322195,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAwMjg0NSwwMDAwMDAwMDkxMTkzY2U4MGEzNWQ4MTI0ZjVlNzAzMzU1YmUzYmIx",
+  "snapshot_id": "MTY3NzAwMjg0NSwwMDAwMDAwMDJlOGY4NGM4MDgyYmU0ZWM0MzdlNzNmODk0MTU4MzI0",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5"
     },
     {
-      "added_at": "2023-02-22 01:19:38",
+      "added_at": "2023-02-23 00:56:29",
       "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD"
     },
     {
-      "added_at": "2023-02-22 01:19:38",
+      "added_at": "2023-02-23 00:56:29",
       "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/6exdwZ3EOSCjb11bd6k6Np"
     },
     {
-      "added_at": "2023-02-22 01:19:38",
-      "album": {
-        "name": "Bunny Is A Rider",
-        "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 193957,
-      "name": "Bunny Is A Rider",
-      "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
-    },
-    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "concussion",
@@ -559,6 +543,22 @@
       "duration_ms": 277142,
       "name": "concussion",
       "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
+    },
+    {
+      "added_at": "2023-02-23 00:56:29",
+      "album": {
+        "name": "Bunny Is A Rider",
+        "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 193957,
+      "name": "Bunny Is A Rider",
+      "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 146184,
+      "name": "Savage Good Boy",
+      "url": "https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 146184,
-      "name": "Savage Good Boy",
-      "url": "https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Silver Into Rain",
+      "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 307075,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        },
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Silver Into Rain",
-      "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Everything I had",
-      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 174773,
       "name": "Faith Healer",
       "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Everything I had",
+      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Tick Tock",
-      "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Things Take Time, Take Time",
         "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
       "artists": [
         {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 300586,
-      "name": "Cool Dry Place",
-      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
+      "duration_ms": 219213,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1323,6 +1307,22 @@
       "duration_ms": 200303,
       "name": "Company",
       "url": "https://open.spotify.com/track/0xMsn2VuXcfdf2Ksw4qz7G"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 300586,
+      "name": "Cool Dry Place",
+      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "The Sky Is Bleeding",
-        "url": "https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib"
+        "name": "Happy Birthday, Ratboy",
+        "url": "https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
         }
       ],
-      "duration_ms": 172066,
-      "name": "American Beauty",
-      "url": "https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb"
+      "duration_ms": 169066,
+      "name": "Go Outside",
+      "url": "https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Happy Birthday, Ratboy",
-        "url": "https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn"
+        "name": "The Sky Is Bleeding",
+        "url": "https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib"
       },
       "artists": [
         {
-          "name": "Ratboys",
-          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 169066,
-      "name": "Go Outside",
-      "url": "https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn"
+      "duration_ms": 172066,
+      "name": "American Beauty",
+      "url": "https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG"
-      },
-      "artists": [
-        {
-          "name": "The Greeting Committee",
-          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
-        }
-      ],
-      "duration_ms": 143493,
-      "name": "Make Out",
-      "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Present Tense",
         "url": "https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5"
       },
@@ -1763,6 +1747,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG"
+      },
+      "artists": [
+        {
+          "name": "The Greeting Committee",
+          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
+        }
+      ],
+      "duration_ms": 143493,
+      "name": "Make Out",
+      "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Flood",
         "url": "https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW"
       },
@@ -1775,6 +1775,22 @@
       "duration_ms": 223000,
       "name": "Flood",
       "url": "https://open.spotify.com/track/6WstYKyrp8qkVBNtpcvaO1"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Jump Rope Gazers",
+        "url": "https://open.spotify.com/album/4MJqiRxj9jMveL9TxyE3Ji"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 312182,
+      "name": "Jump Rope Gazers",
+      "url": "https://open.spotify.com/track/1awytjc79cueIqbstbKvDf"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1807,22 +1823,6 @@
       "duration_ms": 179146,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/0BFGclich9JXVCAS79P793"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Jump Rope Gazers",
-        "url": "https://open.spotify.com/album/4MJqiRxj9jMveL9TxyE3Ji"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 312182,
-      "name": "Jump Rope Gazers",
-      "url": "https://open.spotify.com/track/1awytjc79cueIqbstbKvDf"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Coming to Get You Nowhere",
+      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/17WOu1wHd6KdSO2Z0HRz6w"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 208906,
       "name": "Watching Cartoons",
       "url": "https://open.spotify.com/track/3Gb1M4i5UlDauEnaLJF2HT"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Coming to Get You Nowhere",
-      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Wayfinder",
-        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
-      },
-      "artists": [
-        {
-          "name": "Boy Scouts",
-          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
-        }
-      ],
-      "duration_ms": 182012,
-      "name": "That's Life Honey",
-      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 261213,
       "name": "The Last Man On Earth",
       "url": "https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Wayfinder",
+        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
+      },
+      "artists": [
+        {
+          "name": "Boy Scouts",
+          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
+        }
+      ],
+      "duration_ms": 182012,
+      "name": "That's Life Honey",
+      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
     },
     {
       "added_at": "2023-02-03 05:00:00",

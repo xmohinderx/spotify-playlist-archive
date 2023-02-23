@@ -4,13 +4,14 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Kim Loaiza en portada.
 
-417 songs - 23 hr 2 min
+418 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 | 2022-02-01 | 2022-02-26 |
 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 | 2022-03-11 | 2022-04-21 |
 | [365](https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e) | 3:08 | 2022-10-14 | 2023-02-17 |
+| [365](https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf) | 3:08 | 2023-02-10 |  |
 | [5 Estrellas](https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas](https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF) | 3:11 | 2022-08-26 |  |
 | [6 en Mi Rollie](https://open.spotify.com/track/7AurrfdK4RKjueAKkZN2RF) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Milkman](https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [6 en Mi Rollie](https://open.spotify.com/album/6wJfXfTluFA3XhFdshg8Cz) | 5:25 | 2022-07-29 | 2022-08-19 |
 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 | 2022-01-13 | 2022-07-16 |
@@ -401,7 +402,7 @@
 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/2JBGoJqzvPAsGa0eo7zcNg) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 3:40 | 2022-01-13 | 2022-07-29 |
 | [Vivo en el 6](https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Vivo en el 6](https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz) | 3:12 | 2022-05-06 | 2022-10-15 |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-08 | 2022-03-18 |
-| [Wapo y Mamón](https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE) | 2:16 | 2023-01-13 |  |
+| [Wapo y Mamón](https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE) | 2:16 | 2023-01-13 | 2023-02-23 |
 | [Webcam](https://open.spotify.com/track/5jptp98AmzDqiDT8bBVcLy) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Webcam](https://open.spotify.com/album/0QTW7ygeF5Uoz3r8mCD8z3) | 3:00 | 2022-05-06 | 2022-05-14 |
 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 | 2022-08-18 |  |
 | [Y Me Da Vergüenza](https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:02 | 2022-06-28 | 2022-10-15 |

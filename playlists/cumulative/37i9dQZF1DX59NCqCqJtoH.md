@@ -4,7 +4,7 @@
 
 > We hear you.
 
-545 songs - 1 day 2 hr 56 min
+546 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [how i'm feeling](https://open.spotify.com/track/0Bo3X0RlboVKipzxpzwXfo) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [how i'm feeling](https://open.spotify.com/album/6QSRDk2LlMms9aEmAOtfwC) | 2:51 | 2021-04-02 | 2022-07-29 |
 | [how to drown](https://open.spotify.com/track/3dKkjqZd66petAT4yw1BhD) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [songs for wolfie.](https://open.spotify.com/album/5sdxg6IFrzjZFrgPdhIIrX) | 2:10 | 2022-03-29 | 2022-08-17 |
 | [how to live](https://open.spotify.com/track/1DiOSZ8PpnmwgriDH0RNQd) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [how to live](https://open.spotify.com/album/70CHFyAWpiJFddcr0425NF) | 2:26 | 2021-06-25 | 2022-07-22 |
-| [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2021-10-08 |  |
+| [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2021-10-08 | 2023-02-23 |
 | [Hung up on You](https://open.spotify.com/track/6dlw8Uhym4Jhab0a7HFUeD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Hung up on You](https://open.spotify.com/album/2dpuDqB4pGJMaWny0kXXNl) | 3:21 | 2021-04-02 | 2022-04-20 |
 | [i can be your home](https://open.spotify.com/track/4ArZJSF6KW4wyaXqrGfdXB) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [i can be your home](https://open.spotify.com/album/2TxiqmbAoKkCDhwnGTrJKr) | 2:01 | 2021-04-02 | 2022-06-27 |
 | [I Can't Hate You](https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5) | [Kayou.](https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [I Can't Hate You](https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc) | 2:58 | 2021-04-02 |  |
@@ -400,6 +400,7 @@
 | [rock bottom \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/5d1OeQBC6zyHO8jc2svOZz) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:45 | 2021-04-02 | 2022-05-16 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-08-31 | 2023-02-15 |
 | [rosier](https://open.spotify.com/track/6ZUiIY6JQtDkrJggZ1OSQ7) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [rosier](https://open.spotify.com/album/3ri0YspOIBYjD3d8QIMwB7) | 3:42 | 2021-04-02 | 2022-07-29 |
+| [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 | 2022-11-11 |  |
 | [Ruthless \(Nice Guys Always Finish Last\)](https://open.spotify.com/track/6HeCk6yewXH7WO4D93eub9) | [MarMar Oso](https://open.spotify.com/artist/5rGbtFeEVjymN6xzE8opA6) | [Oso Different](https://open.spotify.com/album/0Ga2a9eC2PvMNr8LRceotI) | 3:53 | 2021-04-02 | 2022-12-17 |
 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 | 2022-04-08 | 2022-07-29 |
 | [Sad Thoughts, Anxiety Panics](https://open.spotify.com/track/5NfSH292uE4Kcyr3QkHfJl) | [CYBERLOVE](https://open.spotify.com/artist/71pi8vh7jr7f0DnisuL03m) | [Sad Thoughts, Anxiety Panics](https://open.spotify.com/album/7en610Uv88Vckej2Tq1a9p) | 2:00 | 2022-04-12 | 2022-04-19 |

@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 195293,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
@@ -1594,6 +1594,24 @@
       "duration_ms": 197599,
       "name": "I Love U Forever",
       "url": "https://open.spotify.com/track/7jTZjdxWKwq495z7mzEvd3"
+    },
+    {
+      "album": {
+        "name": "I Love You Enough to Die Now",
+        "url": "https://open.spotify.com/album/2zBzmS2KlASC41G8Qz9vzf"
+      },
+      "artists": [
+        {
+          "name": "Chawoo",
+          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186493,
+      "name": "I Love You Enough to Die Now",
+      "url": "https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr"
     },
     {
       "album": {

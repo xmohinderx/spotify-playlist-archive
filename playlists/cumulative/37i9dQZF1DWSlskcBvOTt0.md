@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-369 songs - 1 day 14 hr 14 min
+370 songs - 1 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Marimba](https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Marimba](https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx) | 5:59 | 2021-04-21 |  |
 | [Mariposa](https://open.spotify.com/track/4vBoDgmhEeGd8mNBS9gTso) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Mariposa](https://open.spotify.com/album/7c431xYw1mJqGslm1DkQ3g) | 7:31 | 2021-07-09 | 2022-07-10 |
 | [Matangi](https://open.spotify.com/track/07nVOOusinceXoUPH4ko89) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Matangi](https://open.spotify.com/album/45Q1bss7wlmJI3rxVXgXS4) | 7:45 | 2021-12-10 | 2022-07-29 |
-| [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-01-21 |  |
+| [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-01-21 | 2023-02-23 |
 | [Melt](https://open.spotify.com/track/6PXLUDOUGRlvQU5ZX8sncU) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Land Of Heroes](https://open.spotify.com/album/4PEEAEwfRHYm6G623lwyhC) | 6:37 | 2022-04-11 | 2022-08-02 |
 | [Menq \- Nick Warren & Nicolas Rada Remix](https://open.spotify.com/track/4uWFK5qbPLrwuoTZipEPmz) | [Hraach](https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO), [Armen Miran](https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Armat](https://open.spotify.com/album/207uRcfNbu0k7zd2zdXsEy) | 8:34 | 2021-04-21 | 2022-06-16 |
 | [Mental \(feat\. Cabadzi\)](https://open.spotify.com/track/0p5LyGZBJCiC9I7yUQDyWM) | [VAPA](https://open.spotify.com/artist/6RgqlEYDVX9kAnsujuG7H7), [Cabadzi](https://open.spotify.com/artist/6SOfR3vMDf9otrCMyzrdDn) | [Mental \- EP](https://open.spotify.com/album/0J1nw3aoVtiH5z6gF5iqf0) | 4:23 | 2021-06-11 | 2022-04-21 |
@@ -270,6 +270,7 @@
 | [Pont de la Caille](https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pont de la Caille](https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M) | 5:13 | 2021-09-03 |  |
 | [Power](https://open.spotify.com/track/2fHtXQkRN2Mwp6nFTSxH9q) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Mario Reyes](https://open.spotify.com/artist/0MNovidyopz59Kcu16ot3v) | [Power](https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO) | 7:49 | 2022-09-30 |  |
 | [Praah Com Poesia](https://open.spotify.com/track/5wA6aFuMZw783ghYlxVybw) | [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1) | [Confluencias II: Montaña](https://open.spotify.com/album/59OxHbwWRRJ20ZGENMwRSq) | 6:16 | 2021-04-21 | 2022-06-07 |
+| [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 | 2023-02-23 |  |
 | [Psilocybin](https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:17 | 2022-07-08 |  |
 | [Pyxis](https://open.spotify.com/track/4VfESynVjdqW2aXQk4SMKs) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Pyxis EP](https://open.spotify.com/album/4HFq51XXEP4uPzcCACtYyT) | 7:44 | 2022-03-11 | 2022-07-26 |
 | [Quetzal](https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Quetzal](https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK) | 7:37 | 2021-04-21 | 2023-02-01 |

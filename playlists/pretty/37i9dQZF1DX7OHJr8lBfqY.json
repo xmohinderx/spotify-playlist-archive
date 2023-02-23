@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 25249,
+  "num_followers": 25278,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMGJkZTYxYjE4ZDY3MzNlN2UwYTE1YzU4MDI3NzIzZjRl",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDVmMWJlMjA5YjVhYTgxNTVlNGMzYjJhOTk2OWQ1Mjdh",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1775,30 +1775,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "La Plata (Los \u00c1ngeles Azules Remix)",
-        "url": "https://open.spotify.com/album/0ybT81ASDfAvIFKoWWPVr8"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "La Plata (Los \u00c1ngeles Azules Remix) (Feat. Los \u00c1ngeles Azules, Lalo Ebratt)",
-      "url": "https://open.spotify.com/track/65qnIZCLVTYdnNxWMJQ3kj"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Sanga Zoo (feat. Farruko)",
         "url": "https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V"
       },
@@ -1823,6 +1799,30 @@
       "duration_ms": 231520,
       "name": "Sanga Zoo (feat. Farruko)",
       "url": "https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "La Plata (Los \u00c1ngeles Azules Remix)",
+        "url": "https://open.spotify.com/album/0ybT81ASDfAvIFKoWWPVr8"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "La Plata (Los \u00c1ngeles Azules Remix) (Feat. Los \u00c1ngeles Azules, Lalo Ebratt)",
+      "url": "https://open.spotify.com/track/65qnIZCLVTYdnNxWMJQ3kj"
     },
     {
       "added_at": "2022-08-31 07:37:37",

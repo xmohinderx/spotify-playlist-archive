@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Space92
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,854 likes - 76 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,034 likes - 76 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 70 | [If I Had Wings](https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [If I Had Wings](https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1) | 7:00 |
 | 71 | [Vision Widened](https://open.spotify.com/track/3RWG8CkMZ5xHY7g2KBDkLv) | [Space Food](https://open.spotify.com/artist/26N57YIjcZ0h3GDamTf9qn), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Vision Widened](https://open.spotify.com/album/7F1a33Xbs7CV7mJvI7GmjB) | 6:42 |
 | 72 | [Dovercourt](https://open.spotify.com/track/6vRiWzbzZJAKCi3x0aIfzC) | [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Dovercourt / Limelight](https://open.spotify.com/album/58yWqIo8RZgI3p9cRAMoSa) | 4:29 |
-| 73 | [Know Now \- Extended](https://open.spotify.com/track/5IxBuQFvE0TqdqohTDoGgy) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Know Now](https://open.spotify.com/album/2VwCecHsXzKvlm43gppca2) | 4:11 |
+| 73 | [Know Now feat\. Poté \- Extended](https://open.spotify.com/track/5IxBuQFvE0TqdqohTDoGgy) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Know Now](https://open.spotify.com/album/2VwCecHsXzKvlm43gppca2) | 4:11 |
 | 74 | [The Beauty and The Beat \- Radio Edit](https://open.spotify.com/track/2ymIkRgZYYMrwiFOtoRuE0) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn) | [The Beauty and the Beat](https://open.spotify.com/album/6p0pJuq0d9YUC2AYd3Cviw) | 3:45 |
 | 75 | [Flashing Excitement](https://open.spotify.com/track/1nCJHaPHWNcBjwAJxnLdo7) | [Smash TV](https://open.spotify.com/artist/1VUgV5TXOldN4yUTiIjJbP), [KIKI](https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez), [June Coco](https://open.spotify.com/artist/06Av3z6xKBCMXblNdMc4Cu) | [Electric Days EP](https://open.spotify.com/album/4bxpcVPORPJpgwvMKixl4a) | 5:13 |
 | 76 | [Angel Number 909 \- Acidhouse Mix](https://open.spotify.com/track/7KinsrCi8YFBqp1ZNbJHU6) | [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8) | [Angel Number 909](https://open.spotify.com/album/0sqVxMx8dPxEwXJsmW5UKO) | 5:11 |

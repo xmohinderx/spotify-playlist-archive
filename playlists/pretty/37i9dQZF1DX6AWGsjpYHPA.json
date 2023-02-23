@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 97540,
+  "num_followers": 97605,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDU2ZGY5YzBiMTk4Mjk3YjkyOTg4MmFlOTUyMDg5ODIz",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMGVhODFhNWYzZTNjYzBiOGVlYWEwY2Y2MWMwMjQ0MmRj",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "Gospel For A New Century",
+      "url": "https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 163946,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "Gospel For A New Century",
-      "url": "https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Wind Parade",
-        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "Wind Parade",
-      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Wind Parade",
+        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 288640,
+      "name": "Wind Parade",
+      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Little Dragon",
-        "url": "https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 273546,
-      "name": "Constant Surprises",
-      "url": "https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
         "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 214893,
       "name": "Do What You Gotta Do",
       "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Little Dragon",
+        "url": "https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 273546,
+      "name": "Constant Surprises",
+      "url": "https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Along the Lethe",
-        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
-      },
-      "artists": [
-        {
-          "name": "Beacon",
-          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Harm",
-      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Aletheia",
         "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 276008,
       "name": "Desmond's Empire",
       "url": "https://open.spotify.com/track/57vEXvnoTpXlLi3wYES4uQ"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Along the Lethe",
+        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
+      },
+      "artists": [
+        {
+          "name": "Beacon",
+          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Harm",
+      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Shout Out! To Freedom...",
+        "url": "https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 274973,
+      "name": "Imagineering",
+      "url": "https://open.spotify.com/track/3s768KxqbbRHoOcIt4FDSN"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "La Perla",
         "url": "https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 327096,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Gun Metal Grey",
-        "url": "https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ"
-      },
-      "artists": [
-        {
-          "name": "The Budos Band",
-          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Gun Metal Grey",
-      "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
     }
   ],
   "unique_name": "Turntable",

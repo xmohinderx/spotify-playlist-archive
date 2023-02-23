@@ -4,7 +4,7 @@
 
 > Nakakakilig!
 
-113 songs - 6 hr 32 min
+115 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Crush](https://open.spotify.com/track/4wCD0qOFNRu1Q6O3N6ycm4) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [David Archuleta](https://open.spotify.com/album/4aZ3Mf9Tza576UhJ9kjYd7) | 3:33 | 2022-04-04 | 2022-07-24 |
 | [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 | 2022-04-04 | 2023-02-01 |
 | [Dinamalayan](https://open.spotify.com/track/4Ae6ScLqE5PDYouXr9IHNR) | [Ferdinand Aragon](https://open.spotify.com/artist/199ECS30J1oOc3Ftz93dsk) | [Dinamalayan](https://open.spotify.com/album/15ttDPrSFEH34EZw8wpJww) | 4:54 | 2022-04-04 | 2022-07-25 |
+| [DIYOSA](https://open.spotify.com/track/12AwQOlkVNbi90XlD64qqH) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [ZACK: FOR ALL](https://open.spotify.com/album/7LVnO3GNEfzjixX3ApTY1E) | 3:30 | 2023-02-23 |  |
 | [Drive](https://open.spotify.com/track/2l4ZBEYH67RwM66z0whkAI) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Drive](https://open.spotify.com/album/2twlPZI6mnkHbuC9amSwzy) | 3:42 | 2022-04-04 | 2022-07-14 |
 | [Dumaloy](https://open.spotify.com/track/1X6CvDSqNCsOy0h2pv9Yjd) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Dumaloy](https://open.spotify.com/album/0CPFOWJixO9sorCggeUYy1) | 4:20 | 2022-04-04 | 2022-07-29 |
 | [Fall In Love Alone](https://open.spotify.com/track/2GZE4GznoVuHVAY1Xci08V) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone \(Stripped Version\)](https://open.spotify.com/album/3PMJ80miJjWOXtEWoirIiK) | 3:25 | 2022-11-11 | 2022-11-25 |
@@ -70,7 +71,7 @@
 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 | 2022-06-27 |  |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 | 2022-09-05 |  |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 | 2022-06-27 | 2022-10-13 |
-| [Ligaw Tingin](https://open.spotify.com/track/1sb94XlK6C8VETUPeMpzjq) | [Zildjian Parma](https://open.spotify.com/artist/7mpEg5WV7rNQSLwxxVJ4kk) | [Ligaw Tingin](https://open.spotify.com/album/1Z55VsiKo1lpe4n03B2iL9) | 4:16 | 2022-11-24 |  |
+| [Ligaw Tingin](https://open.spotify.com/track/1sb94XlK6C8VETUPeMpzjq) | [Zildjian Parma](https://open.spotify.com/artist/7mpEg5WV7rNQSLwxxVJ4kk) | [Ligaw Tingin](https://open.spotify.com/album/1Z55VsiKo1lpe4n03B2iL9) | 4:16 | 2022-11-24 | 2023-02-23 |
 | [Little Things](https://open.spotify.com/track/1bnrJZhVSy0gDif2aZBVdj) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [Little Things](https://open.spotify.com/album/5eExz4zgc3wXgm5ihEbkPY) | 3:19 | 2022-06-27 | 2022-07-13 |
 | [Love Back](https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Love Back](https://open.spotify.com/album/4WVPdkba5QybMBD8szrRwB) | 3:05 | 2022-04-04 | 2022-06-11 |
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2022-04-04 |  |
@@ -81,7 +82,7 @@
 | [Make You Mine](https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Make You Mine](https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214) | 3:52 | 2022-06-27 |  |
 | [MARIA CLARA](https://open.spotify.com/track/5dOsNjqGBo6bPrqtpOrewZ) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [MARIA CLARA](https://open.spotify.com/album/0cTuZSRmuaKKLiwQWbZ0zW) | 3:48 | 2022-09-05 | 2022-11-12 |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2022-06-27 |  |
-| [May Sasabihin Lang](https://open.spotify.com/track/0Su5BcYFPevcGUZY9CHEiM) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [May Sasabihin Lang](https://open.spotify.com/album/4YCbCdDj4wbLRyivrqTX5U) | 3:02 | 2022-11-24 |  |
+| [May Sasabihin Lang](https://open.spotify.com/track/0Su5BcYFPevcGUZY9CHEiM) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [May Sasabihin Lang](https://open.spotify.com/album/4YCbCdDj4wbLRyivrqTX5U) | 3:02 | 2022-11-24 | 2023-02-23 |
 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 | 2022-04-04 | 2022-07-29 |
 | [Meant To Be](https://open.spotify.com/track/2qH56HkSYRkKjSTHZlfe2o) | [Ethan Loukas](https://open.spotify.com/artist/5KaNWaFGm1LSNLO7eEOsNW), [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Meant To Be](https://open.spotify.com/album/7kNaqnBImI14yHmSbCPNEM) | 3:29 | 2022-04-04 | 2022-07-05 |
 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 | 2022-06-27 |  |
@@ -100,6 +101,7 @@
 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 | 2022-04-04 | 2022-07-29 |
 | [Still You](https://open.spotify.com/track/01tlnMZbaHDRuEqdfTbsJo) | [Kyle Juliano](https://open.spotify.com/artist/7aD2Ni3fUu66gklUFlvJi5) | [Still You](https://open.spotify.com/album/1G2LUZmx7vzYuam4IVggZv) | 3:28 | 2022-04-04 | 2022-07-29 |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2022-06-27 |  |
+| [Tadhana](https://open.spotify.com/track/4EwfQaG6ZTLW1NS2iJ48CC) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Tadhana](https://open.spotify.com/album/3xFXjRWSlF7q18XHfcMuwD) | 3:11 | 2023-02-23 |  |
 | [Tanging Dahilan](https://open.spotify.com/track/23sa0BogsmnZXkXT7bHDYK) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Daylight](https://open.spotify.com/album/0X7VQJn05fiB3BKGaxeI3M) | 3:08 | 2022-04-04 | 2022-07-29 |
 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 | 2022-06-27 | 2022-11-28 |
 | [The Search Is Over](https://open.spotify.com/track/7g7mYjkJzHkCye65pzfK7Q) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [The Search Is Over](https://open.spotify.com/album/0glELRFO61WFYXpQascxcK) | 4:01 | 2022-04-04 | 2022-06-17 |

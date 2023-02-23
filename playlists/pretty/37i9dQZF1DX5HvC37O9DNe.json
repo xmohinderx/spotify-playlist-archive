@@ -1,12 +1,12 @@
 {
   "description": "Semplicemente noi.",
-  "num_followers": 90864,
+  "num_followers": 90922,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYzMzA4MiwwMDAwMDAwMDc1YTIzMzhjYzllZGQ2ZjA2NjA4ZWU1ZDgzNWI4NTQw",
+  "snapshot_id": "MTY3NjYzMzA4MiwwMDAwMDAwMGI3MmRmMTEyM2M2YTg4MDEyMDEyN2U4NzgxZTcyYThk",
   "tracks": [
     {
       "added_at": "2023-02-17 11:24:41",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-02-17 11:24:41",
       "album": {
-        "name": "THE LONELIEST",
-        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 247067,
-      "name": "THE LONELIEST",
-      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
-    },
-    {
-      "added_at": "2023-02-17 11:24:41",
-      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2023-02-17 11:24:41",
+      "album": {
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
       "added_at": "2023-02-17 11:24:41",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-02-17 11:24:41",
       "album": {
+        "name": "SUPEREROI",
+        "url": "https://open.spotify.com/album/1wCM2lec05I4cZ2u7dV7xU"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "SUPEREROI",
+      "url": "https://open.spotify.com/track/42koUxIEdY4kVqcLRjp6uE"
+    },
+    {
+      "added_at": "2023-02-17 11:24:41",
+      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2023-02-17 11:24:41",
       "album": {
-        "name": "SUPEREROI",
-        "url": "https://open.spotify.com/album/1wCM2lec05I4cZ2u7dV7xU"
+        "name": "CENERE",
+        "url": "https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh"
       },
       "artists": [
         {
-          "name": "Mr.Rain",
-          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         }
       ],
-      "duration_ms": 195000,
-      "name": "SUPEREROI",
-      "url": "https://open.spotify.com/track/42koUxIEdY4kVqcLRjp6uE"
+      "duration_ms": 208323,
+      "name": "CENERE",
+      "url": "https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK"
     },
     {
       "added_at": "2023-02-17 11:24:41",
@@ -739,22 +755,6 @@
       "duration_ms": 169265,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
-    },
-    {
-      "added_at": "2023-02-17 11:24:41",
-      "album": {
-        "name": "CENERE",
-        "url": "https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 208323,
-      "name": "CENERE",
-      "url": "https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK"
     },
     {
       "added_at": "2023-02-17 11:24:41",
@@ -939,6 +939,26 @@
     {
       "added_at": "2023-02-17 11:24:41",
       "album": {
+        "name": "MADE IN ITALY",
+        "url": "https://open.spotify.com/album/0miArJPcQRJwlfZ6OGs2WJ"
+      },
+      "artists": [
+        {
+          "name": "Rosa Chemical",
+          "url": "https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH"
+        },
+        {
+          "name": "Bdope",
+          "url": "https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "MADE IN ITALY",
+      "url": "https://open.spotify.com/track/35BICD5dEJLVicj9cV0jhe"
+    },
+    {
+      "added_at": "2023-02-17 11:24:41",
+      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -951,22 +971,6 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
-    },
-    {
-      "added_at": "2023-02-17 11:24:41",
-      "album": {
-        "name": "Milano Demons",
-        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 228454,
-      "name": "Non lo Sai",
-      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
     },
     {
       "added_at": "2023-02-17 11:24:41",
@@ -991,22 +995,18 @@
     {
       "added_at": "2023-02-17 11:24:41",
       "album": {
-        "name": "MADE IN ITALY",
-        "url": "https://open.spotify.com/album/0miArJPcQRJwlfZ6OGs2WJ"
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
       },
       "artists": [
         {
-          "name": "Rosa Chemical",
-          "url": "https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH"
-        },
-        {
-          "name": "Bdope",
-          "url": "https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 178080,
-      "name": "MADE IN ITALY",
-      "url": "https://open.spotify.com/track/35BICD5dEJLVicj9cV0jhe"
+      "duration_ms": 228454,
+      "name": "Non lo Sai",
+      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
     },
     {
       "added_at": "2023-02-17 11:24:41",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-02-17 11:24:41",
       "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2023-02-17 11:24:41",
-      "album": {
         "name": "Splash",
         "url": "https://open.spotify.com/album/7963LrIHyvVfjRCIQWc55t"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 209803,
       "name": "Splash",
       "url": "https://open.spotify.com/track/7EZcLhi3EhKMb408cHOQOU"
+    },
+    {
+      "added_at": "2023-02-17 11:24:41",
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2023-02-17 11:24:41",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-02-17 11:24:41",
       "album": {
+        "name": "L'ADDIO",
+        "url": "https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ"
+      },
+      "artists": [
+        {
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "L'ADDIO",
+      "url": "https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe"
+    },
+    {
+      "added_at": "2023-02-17 11:24:41",
+      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2023-02-17 11:24:41",
       "album": {
-        "name": "L'ADDIO",
-        "url": "https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ"
-      },
-      "artists": [
-        {
-          "name": "Coma_Cose",
-          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "L'ADDIO",
-      "url": "https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe"
-    },
-    {
-      "added_at": "2023-02-17 11:24:41",
-      "album": {
         "name": "Take You Dancing",
         "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 190306,
       "name": "Take You Dancing",
       "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
+    },
+    {
+      "added_at": "2023-02-17 11:24:41",
+      "album": {
+        "name": "TANGO",
+        "url": "https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        }
+      ],
+      "duration_ms": 209062,
+      "name": "TANGO",
+      "url": "https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF"
     },
     {
       "added_at": "2023-02-17 11:24:41",
@@ -1271,22 +1287,6 @@
       "duration_ms": 236906,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
-    },
-    {
-      "added_at": "2023-02-17 11:24:41",
-      "album": {
-        "name": "TANGO",
-        "url": "https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs"
-      },
-      "artists": [
-        {
-          "name": "Tananai",
-          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
-        }
-      ],
-      "duration_ms": 209062,
-      "name": "TANGO",
-      "url": "https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF"
     },
     {
       "added_at": "2023-02-17 11:24:41",

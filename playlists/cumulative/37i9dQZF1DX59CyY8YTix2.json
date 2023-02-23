@@ -3184,10 +3184,28 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 193965,
       "name": "Memorable",
       "url": "https://open.spotify.com/track/17owggiNAYFzigM57niXUb"
+    },
+    {
+      "album": {
+        "name": "Memorable",
+        "url": "https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193965,
+      "name": "Memorable",
+      "url": "https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR"
     },
     {
       "album": {

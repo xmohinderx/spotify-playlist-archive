@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 174233,
+  "num_followers": 174314,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMDRiOTg4MmViNTMxNjE4YzJkMjlmYmZlMzMyYTBlNjc4",
+  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMGExOTcwMGYwNDhjMmYxZjBhYWFlM2ViMjBlNzI3MWQ1",
   "tracks": [
     {
       "added_at": "2023-02-16 23:01:00",
@@ -903,26 +903,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Be Here Soon",
-        "url": "https://open.spotify.com/album/76GU37as8GBPpZdauuS6EW"
-      },
-      "artists": [
-        {
-          "name": "iamamiwhoami",
-          "url": "https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP"
-        },
-        {
-          "name": "ionnalee",
-          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
-        }
-      ],
-      "duration_ms": 216328,
-      "name": "Zeven",
-      "url": "https://open.spotify.com/track/1fW3S0ANHrRLxOGd1MbhTP"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "Time of Waiting",
         "url": "https://open.spotify.com/album/55d318EyF219Cbnei0f0wV"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 168583,
       "name": "Time of Waiting",
       "url": "https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "Be Here Soon",
+        "url": "https://open.spotify.com/album/76GU37as8GBPpZdauuS6EW"
+      },
+      "artists": [
+        {
+          "name": "iamamiwhoami",
+          "url": "https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP"
+        },
+        {
+          "name": "ionnalee",
+          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+        }
+      ],
+      "duration_ms": 216328,
+      "name": "Zeven",
+      "url": "https://open.spotify.com/track/1fW3S0ANHrRLxOGd1MbhTP"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
+        "name": "Joni Was Right Pt. II",
+        "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "duration_ms": 200262,
+      "name": "Bluebelle Mountain",
+      "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
         "name": "The Last Great Country Swindle",
         "url": "https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 203933,
       "name": "Ain't Nobody Like Me",
       "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Joni Was Right Pt. II",
-        "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 200262,
-      "name": "Bluebelle Mountain",
-      "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
     }
   ],
   "unique_name": "Nordic Folk",

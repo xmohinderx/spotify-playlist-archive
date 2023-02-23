@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,840 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,863 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 2 | [Jogi](https://open.spotify.com/track/0h0gWburhWxIhV9h7kyX3l) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Avasa](https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh) | 6:16 |
 | 3 | [Mo Funk \(Indo\-Western Fusion\)](https://open.spotify.com/track/4C95pR86Pp1CiRDJQnGFWk) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Top 25 Fusion Ringtunes](https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1) | 1:39 |
 | 4 | [Jazbaat](https://open.spotify.com/track/5KPgdiXBqZeMKn3LSkNV8S) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn), [Shubham Roy](https://open.spotify.com/artist/6yon1QQ3G3GGhK8g67F7Io) | [Jazbaat](https://open.spotify.com/album/02WsvCMmNNPnsQLToOKMdL) | 5:46 |
-| 5 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 |
-| 6 | [Ankhon Ke Saagar](https://open.spotify.com/track/3DnaAKpexBd35Jwdk63Go6) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Fuzon](https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS) | 5:43 |
+| 5 | [Ankhon Ke Saagar](https://open.spotify.com/track/3DnaAKpexBd35Jwdk63Go6) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Fuzon](https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS) | 5:43 |
+| 6 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 |
 | 7 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 |
 | 8 | [The Celestial Nymph \(Manassi Dussaham\)](https://open.spotify.com/track/3oN3Ko3rSGszXL8VCYAS5p) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Celestial Nymph \(Manassi Dussaham\) \- Single](https://open.spotify.com/album/0QIlgq2GR8jTthBkdsGDft) | 8:31 |
 | 9 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 33 | [Sakhi](https://open.spotify.com/track/1nlgs8u9AEoIljf13DBWnQ) | [Dhaiwat](https://open.spotify.com/artist/0MDNPCoSJLI4iBkIFBTnob), [Vidushi Kalpana Zokarkar](https://open.spotify.com/artist/12r2xD99LYO5hrilYhAFXV) | [Sakhi](https://open.spotify.com/album/3iRKkWNQQ2EnnAA5jA4sAZ) | 4:19 |
 | 34 | [Ja Ja Re](https://open.spotify.com/track/7fVYiLYOph8btMb6BxCTZP) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Sattar Khan](https://open.spotify.com/artist/0wART8J53ZbpAN7kFqkqjn) | [Ja Ja Re](https://open.spotify.com/album/52U7TP7dILVI4hue1faGh2) | 3:42 |
 | 35 | [Saahiba](https://open.spotify.com/track/72ZCskgfexMXQ7k9E0qx5l) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Saahiba](https://open.spotify.com/album/0Atpcs1HndL61F1zQO8BYV) | 4:54 |
-| 36 | [Bihag](https://open.spotify.com/track/5pcewCfXI5xVVdDsPQbi4g) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm), [Nikhil Rao](https://open.spotify.com/artist/6OSQbUN4wMOyMEEBsG5u5S), [Sree Rag](https://open.spotify.com/artist/5tDlXhji6JOZh7wTiWK3h5) | [Bihag](https://open.spotify.com/album/3K2vEVbx5qQ3I4PYTWPdKy) | 5:53 |
-| 37 | [Ahir Bhairav](https://open.spotify.com/track/3izOUe13B7GBFb181eKujB) | [Honeysuckle Weekends](https://open.spotify.com/artist/30Jmjb5tjtHwwAX51M2yn2) | [Ahir Bhairav](https://open.spotify.com/album/0WrdiH1EH8dv7DMf1HieYW) | 5:39 |
+| 36 | [Ahir Bhairav](https://open.spotify.com/track/3izOUe13B7GBFb181eKujB) | [Honeysuckle Weekends](https://open.spotify.com/artist/30Jmjb5tjtHwwAX51M2yn2) | [Ahir Bhairav](https://open.spotify.com/album/0WrdiH1EH8dv7DMf1HieYW) | 5:39 |
+| 37 | [Bihag](https://open.spotify.com/track/5pcewCfXI5xVVdDsPQbi4g) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm), [Nikhil Rao](https://open.spotify.com/artist/6OSQbUN4wMOyMEEBsG5u5S), [Sree Rag](https://open.spotify.com/artist/5tDlXhji6JOZh7wTiWK3h5) | [Bihag](https://open.spotify.com/album/3K2vEVbx5qQ3I4PYTWPdKy) | 5:53 |
 | 38 | [Palkan Lagi](https://open.spotify.com/track/5n3WlH86m4OTnctsTv6JYM) | [Pragya Dasgupta](https://open.spotify.com/artist/4GYA4XRktJKOgy4ndFNcH9), [Jai Kothari](https://open.spotify.com/artist/7vZjmMk8cVIsJyeW5btZq4) | [Palkan Lagi](https://open.spotify.com/album/4oAiwIn4sXm8UTVtyPcpWg) | 2:49 |
 | 39 | [Badarwa](https://open.spotify.com/track/7FkI3zkAGGL7q09PxpmpY4) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Badarwa](https://open.spotify.com/album/2IogLl0Rn9jq8Ru17JPihQ) | 3:44 |
 | 40 | [Pathjhad](https://open.spotify.com/track/5yuzt5Ib1KhOCxBLKhaeol) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Sabar](https://open.spotify.com/album/44gFbG7mWYc4u0lENFlQSY) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 49 | [High](https://open.spotify.com/track/1ejKjr17tS1xJdfnUroTdK) | [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn) | [Up](https://open.spotify.com/album/30f4bIRZBaGq5TalJs6D2S) | 2:46 |
 | 50 | [In The Air \- Live](https://open.spotify.com/track/6cPVvyzI5HSfzgYp9sQRw6) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [In the Air \(Live\)](https://open.spotify.com/album/4FO7sPSNKBYaE9rXrU9jAH) | 6:53 |
 
-Snapshot ID: `MTY3NTMzMjk1OSwwMDAwMDAwMDFiOGYwMDVkNTE0ZjllYzI0NDg2M2E2YTIzNTI0M2Y1`
+Snapshot ID: `MTY3NTMzMjk1OSwwMDAwMDAwMDliNzY1NjRiMWYxMWE3Zjc0ODliM2Q1MWE0NWFkYjBi`

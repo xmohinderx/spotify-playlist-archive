@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 891445,
+  "num_followers": 892118,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAyNjgwMCwwMDAwMDAwMDg4Yzg4YjVlMDBhNjcwNjIxZGMyZjNmYWRiZmZiZDU4",
+  "snapshot_id": "MTY3NjAyNjgwMCwwMDAwMDAwMGFmYzA2N2Q5ZDhjYzcwODllZWM4YzZkM2ZhY2ZlODIy",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Where I Wanna Be",
         "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 270893,
       "name": "Wish I Didn't Miss You",
       "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "A Seat at the Table",
-        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 324666,
-      "name": "Fastlove, Pt. 1",
-      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Silk Degrees",
         "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 315640,
       "name": "Lowdown",
       "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 324666,
+      "name": "Fastlove, Pt. 1",
+      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 183895,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Brown Sugar",
         "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 262893,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 183895,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 269815,
+      "name": "South of the River",
+      "url": "https://open.spotify.com/track/1ZwejHvd2KmKCWHn9HpAEw"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "The Best of George Benson",
         "url": "https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 269815,
-      "name": "South of the River",
-      "url": "https://open.spotify.com/track/1ZwejHvd2KmKCWHn9HpAEw"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Risqu\u00e9 (2018 Remaster)",
         "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
       },
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 381626,
-      "name": "Spinning the Wheel",
-      "url": "https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "When the City Sleeps",
         "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 216514,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 381626,
+      "name": "Spinning the Wheel",
+      "url": "https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Acoustic Soul",
+        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Video",
+      "url": "https://open.spotify.com/track/4oiAlcisfimXQc1wyAtX9a"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Introducing...",
         "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 184938,
       "name": "Petit Prince Du Macadam",
       "url": "https://open.spotify.com/track/3cCLvbMCHMgX7DLXPr1ALv"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Acoustic Soul",
-        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
-      },
-      "artists": [
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Video",
-      "url": "https://open.spotify.com/track/4oiAlcisfimXQc1wyAtX9a"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Subject",
-        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
-      },
-      "artists": [
-        {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
-        }
-      ],
-      "duration_ms": 249573,
-      "name": "Find A Way",
-      "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Get Lifted",
         "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 210866,
       "name": "Used to Love U",
       "url": "https://open.spotify.com/track/051NZ3rr3HXTULCEySJRX3"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Subject",
+        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
+      },
+      "artists": [
+        {
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 316600,
-      "name": "Star People",
-      "url": "https://open.spotify.com/track/2x8rw8kMwjbxdThFw1NCIX"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Jazzmatazz Volume 1",
         "url": "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 294400,
       "name": "No Time To Play",
       "url": "https://open.spotify.com/track/0pPf7GFLcuqp3Eis5Hm5yw"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 316600,
+      "name": "Star People",
+      "url": "https://open.spotify.com/track/2x8rw8kMwjbxdThFw1NCIX"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2263,26 +2263,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Pass Time",
-        "url": "https://open.spotify.com/album/13Zo5L7T7hhrOdsUUZsiWz"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Berchie",
-          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
-        },
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        }
-      ],
-      "duration_ms": 219963,
-      "name": "Pass Time",
-      "url": "https://open.spotify.com/track/7MuAIzPxVZwUNJgF9cGZr6"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Loose Tonight",
         "url": "https://open.spotify.com/album/4VOUTfka8VJP2aiHYDcP7D"
       },
@@ -2315,6 +2295,26 @@
       "duration_ms": 259333,
       "name": "911 (feat. Mary J. Blige)",
       "url": "https://open.spotify.com/track/28hgx2bWXcaBJeC9zVwrBq"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Pass Time",
+        "url": "https://open.spotify.com/album/13Zo5L7T7hhrOdsUUZsiWz"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        },
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "duration_ms": 219963,
+      "name": "Pass Time",
+      "url": "https://open.spotify.com/track/7MuAIzPxVZwUNJgF9cGZr6"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Much Love",
-        "url": "https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz"
-      },
-      "artists": [
-        {
-          "name": "Shola Ama",
-          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
-        }
-      ],
-      "duration_ms": 291120,
-      "name": "You Might Need Somebody",
-      "url": "https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 206160,
       "name": "Fool to Love",
       "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Much Love",
+        "url": "https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz"
+      },
+      "artists": [
+        {
+          "name": "Shola Ama",
+          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
+        }
+      ],
+      "duration_ms": 291120,
+      "name": "You Might Need Somebody",
+      "url": "https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP"
     },
     {
       "added_at": "2023-02-10 11:00:00",

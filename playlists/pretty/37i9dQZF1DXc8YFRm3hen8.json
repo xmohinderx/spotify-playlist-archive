@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 142744,
+  "num_followers": 142826,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwMjgwMCwwMDAwMDAwMDI4ZWEyNGY3YjE4YzdmNWFlOTQ0ODA4MjllZGYwYzg4",
+  "snapshot_id": "MTY3NjYwMjgwMCwwMDAwMDAwMDA1MjA5MmU0ZWE2ZWVjNmZmOGRiZjQ2NTdhMWZjOWI4",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "Mi Caramelo - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "El Tesoro de los Inocentes (Bingo Fuel)",
         "url": "https://open.spotify.com/album/6c7d0efZpNxeQCOm6Af7fD"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 258866,
       "name": "El Tesoro de los Inocentes",
       "url": "https://open.spotify.com/track/7qGn9WweEDJw8KZwJqB1KN"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "Mi Caramelo - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Pura Casualidad",
-        "url": "https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 182217,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "La Sintesis O'Konor",
         "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 327739,
       "name": "La Noche Eterna",
       "url": "https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Pura Casualidad",
+        "url": "https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 182217,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu"
     },
     {
       "added_at": "2023-02-17 03:00:00",

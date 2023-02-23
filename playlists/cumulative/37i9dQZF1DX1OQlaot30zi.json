@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "20 ALBANESI",
+        "url": "https://open.spotify.com/album/6vFxXGFvqMTjm7IIgXg16q"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "20 ALBANESI",
+      "url": "https://open.spotify.com/track/0D2U3OZOuOuYptEF4Q6ziQ"
+    },
+    {
+      "album": {
         "name": "20 Anni (Andale)",
         "url": "https://open.spotify.com/album/0Y8euCijZZYD0gHCefXtK6"
       },
@@ -5248,7 +5266,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 208323,
       "name": "CENERE",
       "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
@@ -5266,7 +5284,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 208323,
       "name": "CENERE",
       "url": "https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK"
@@ -7776,7 +7794,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 213600,
       "name": "DOMENICA",
       "url": "https://open.spotify.com/track/4hx2NNEZBoZJWonQt3orUC"

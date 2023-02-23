@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: LUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,078 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,598 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 17 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 |
 | 18 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
 | 19 | [J’comprends pas](https://open.spotify.com/track/1CxtymiucDK0AB9vgGZ6q2) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Que la famille](https://open.spotify.com/album/2LOyzVRA6BJgfgGxQj21O1) | 4:43 |
-| 20 | [we are the people tekkno](https://open.spotify.com/track/3gINWpBZCz4kBNF4sWTWqw) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [we are the people tekkno](https://open.spotify.com/album/1fhroOApt0VfVEP7NCYOsn) | 3:50 |
+| 20 | [we are the people tekkno](https://open.spotify.com/track/0cOWhYe2UHOwmv4YtGDkqY) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [we are the people tekkno](https://open.spotify.com/album/40ukgxhFLPLEUvF7yCs4fK) | 3:50 |
 | 21 | [Give It To Me \- Sped Up Remix](https://open.spotify.com/track/6DyMrh39uJ04o3S1uZdpg4) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Give It To Me \(Sped Up Remix\)](https://open.spotify.com/album/5AZ7gKAm4aa6BDn4ujsfdE) | 3:06 |
 | 22 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 |
 | 23 | [Hundred Miles](https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ) | [Yall](https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Hundred Miles](https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 100 | [Bad Karma](https://open.spotify.com/track/5fHn7u1thTOTfhcTfABwsS) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT), [Slatt Zy](https://open.spotify.com/artist/2PCrvJNRI8qGLtz9QwL7fq) | [Bad Karma](https://open.spotify.com/album/4uVClL9ZxBAnqTQrII5lFu) | 3:14 |
 
-Snapshot ID: `MTY3NjU4ODQwMCwwMDAwMDAwMDk1NjI4ZGYxYjgwMDI4YzA0ZjgxNWMwMmU5OTQ0NDE1`
+Snapshot ID: `MTY3NjU4ODQwMCwwMDAwMDAwMGYzNDUzN2VmZThhZmU1ZDUwMTNmODhiYzU5OTNmYThk`

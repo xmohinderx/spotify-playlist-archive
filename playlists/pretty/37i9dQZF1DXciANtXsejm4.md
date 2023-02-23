@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,152 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,296 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 37 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 |
 | 38 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 |
 | 39 | [Hasta el Sol de Hoy \(En Vivo\)](https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [El Aguante Continúa...En Concierto \(En Vivo\)](https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a) | 2:17 |
-| 40 | [El Chancho Come Caviar](https://open.spotify.com/track/2gE7O9Fa9Botb1AtUS0CPp) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/2ZYrdNtbBgd2qqD1kKpvFD) | 2:35 |
+| 40 | [Si Me Ves Llorar por Ti](https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [Después de Tí, Que](https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX) | 3:55 |
 | 41 | [A Decirme Qué](https://open.spotify.com/track/0usHK6nqUWU1PLkKi1Gy7c) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 4:02 |
-| 42 | [Si Me Ves Llorar por Ti](https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [Después de Tí, Que](https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX) | 3:55 |
+| 42 | [El Chancho Come Caviar](https://open.spotify.com/track/2gE7O9Fa9Botb1AtUS0CPp) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/2ZYrdNtbBgd2qqD1kKpvFD) | 2:35 |
 | 43 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
 | 44 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 |
 | 45 | [Piropo](https://open.spotify.com/track/5PYoEMtC7VN0HyKcS7heT4) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz) | 3:08 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 51 | [Entre tú y mil mares](https://open.spotify.com/track/5l4vFZvA9YpHNPWfQJEoo0) | [La contrà](https://open.spotify.com/artist/4mG70wQ5qWBs9GogyP7WuM) | [Para Toda La Vida](https://open.spotify.com/album/25bzZeH69TvnFcgV4JPKGr) | 3:47 |
 | 52 | [Humíllate](https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk) | [Mi Única Alegría](https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT) | 2:42 |
 | 53 | [Te Tengo que Olvidar](https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [20 Grandes Exitos](https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n) | 3:13 |
-| 54 | [Me Dediqué a Perderte \- En Vivo](https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Todo a Su Tiempo \(En Vivo\)](https://open.spotify.com/album/6ncnLdG9zt1XlpewOBSqJl) | 4:15 |
-| 55 | [Placer y Olvido](https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Placer y Olvido](https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm) | 3:53 |
+| 54 | [Placer y Olvido](https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Placer y Olvido](https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm) | 3:53 |
+| 55 | [Me Dediqué a Perderte \- En Vivo](https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Todo a Su Tiempo \(En Vivo\)](https://open.spotify.com/album/6ncnLdG9zt1XlpewOBSqJl) | 4:15 |
 | 56 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 |
 | 57 | [Loco](https://open.spotify.com/track/1PsM5kAMF5E7EgLfeY3xdA) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK), [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk) | [Loco](https://open.spotify.com/album/5k4mZBSWVZ1984ZwDULZ2L) | 3:42 |
 | 58 | [Ojalá Que No Puedas](https://open.spotify.com/track/2VoXXbqULk6GZf0lhEi2bl) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk) | [La Gorda Me Quiere](https://open.spotify.com/album/3i1Lfo5HXErBC2AIq9RN63) | 3:12 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 71 | [Duele \(En Vivo\)](https://open.spotify.com/track/14JHCa6cBpKibif7SeWzcW) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [Alta Revolución, Pt\. 2 \(En Vivo\)](https://open.spotify.com/album/1g2pbUcnkHCem0Lu6Qb3RJ) | 3:55 |
 | 72 | [Te Soñé una Vez](https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 |
 | 73 | [No se va](https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [No se va](https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0) | 4:18 |
-| 74 | [Qué Se Siente](https://open.spotify.com/track/0sL2C1WvJnmrvE9F3hTZaw) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [Una Eterna Pasión](https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn) | 3:59 |
-| 75 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |
+| 74 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |
+| 75 | [Qué Se Siente](https://open.spotify.com/track/0sL2C1WvJnmrvE9F3hTZaw) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [Una Eterna Pasión](https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn) | 3:59 |
 | 76 | [Enganchados 2 \(Contigo me gusta / No me acostumbro\)](https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4) | [Leo Mattioli y Trinidad](https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH) | [Juntando Las Almas](https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To) | 3:20 |
 | 77 | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/track/2cBvpjA37H8AGuVhSpWbMv) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/album/0k6pbTWKg8k9qeAdYpTfzH) | 3:56 |
 | 78 | [Entre el Odio y el Amor](https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 3:38 |
 | 79 | [Como Tu Enemigo](https://open.spotify.com/track/03IoH7NmNDEXW7SSGj0ISS) | [Chanchi y Los Autenticos](https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc) | [A Matar o Morir](https://open.spotify.com/album/2gHlHLY067nIqOR0lU0fCL) | 3:49 |
 | 80 | [Dos Hombres y un Destino](https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/2w11EboINsdQtXVzZXKuJo) | 3:09 |
 
-Snapshot ID: `MTY3NTM5MzIwMCwwMDAwMDAwMGJhYWU3MGRjZDQ3MDY5NGYyN2QzY2NkYTk5Nzg2MWI1`
+Snapshot ID: `MTY3NTM5MzIwMCwwMDAwMDAwMDQ2OTZlMDUzODg5M2NhMmEzYzMxOTZhZmFjY2RlY2Jl`

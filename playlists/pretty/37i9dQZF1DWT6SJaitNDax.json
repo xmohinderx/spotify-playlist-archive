@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=cc4qsqDzSfS21lTakVte6w\">Wizkid</a>",
-  "num_followers": 572194,
+  "num_followers": 572435,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc1NDc3NCwwMDAwMDAwMGNiYmRjYWI2NzE4NjQ0NzM1MmY1YWRjY2FhMWE1MmQ2",
+  "snapshot_id": "MTY3NDc1NDc3NCwwMDAwMDAwMGUwNzNjNWI5OTE0YjIwNWYwY2RkMDA4MDQ2MjVjMmQ3",
   "tracks": [
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Simmer (feat. Burna Boy)",
-        "url": "https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "Simmer (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 225146,
       "name": "4AM",
       "url": "https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Simmer (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "Simmer (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3"
     },
     {
       "added_at": "2023-01-26 17:39:34",

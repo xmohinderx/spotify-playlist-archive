@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 121242,
+  "num_followers": 121256,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MTYwMCwwMDAwMDAwMDUxZTY1Y2Q3NDMwNzNkMzFkNmUyYTliZmMwZTUxM2I5",
+  "snapshot_id": "MTY3Njk5MTYwMCwwMDAwMDAwMDFjYjdjYmI4N2E4MzViNTY5MjExODllMWI0NWI0NTdi",
   "tracks": [
     {
       "added_at": "2023-02-16 15:00:00",
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
     },
     {
-      "added_at": "2023-02-22 01:15:10",
+      "added_at": "2023-02-23 01:26:55",
       "album": {
         "name": "\u8108\u5149",
         "url": "https://open.spotify.com/album/4K1kDRnYCIoPJItc6qmKzB"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
     },
     {
-      "added_at": "2023-02-22 01:15:10",
+      "added_at": "2023-02-23 01:26:55",
       "album": {
         "name": "Neverland",
         "url": "https://open.spotify.com/album/0yJdJurfPk87zYjirjJvRx"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
     },
     {
-      "added_at": "2023-02-22 01:15:10",
+      "added_at": "2023-02-23 01:26:55",
       "album": {
         "name": "Comfort",
         "url": "https://open.spotify.com/album/0vcBFyLhnRZP2ay5vHa7Yf"
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "POLY LIFE MULTI SOUL",
-        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
-      },
-      "artists": [
-        {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
-        }
-      ],
-      "duration_ms": 128028,
-      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
-      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
         "name": "Karakai",
         "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 242000,
       "name": "Karakai",
       "url": "https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
+        "name": "POLY LIFE MULTI SOUL",
+        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "duration_ms": 128028,
+      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
+      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "Prescribing The...",
-        "url": "https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat"
-      },
-      "artists": [
-        {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        }
-      ],
-      "duration_ms": 287169,
-      "name": "\u82fa",
-      "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
         "name": "\u30c9\u30ec\u30df",
         "url": "https://open.spotify.com/album/4m3Zz5ajxf9evbVOLySDc8"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 247952,
       "name": "\u30c9\u30ec\u30df",
       "url": "https://open.spotify.com/track/64Z33eQCGZfixuBVoJqvwC"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
+        "name": "Prescribing The...",
+        "url": "https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        }
+      ],
+      "duration_ms": 287169,
+      "name": "\u82fa",
+      "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "\u702c\u3068\u702c",
-        "url": "https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS"
-      },
-      "artists": [
-        {
-          "name": "\u4e0a\u91ce\u5927\u6a39",
-          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
-        }
-      ],
-      "duration_ms": 283149,
-      "name": "\u540c\u3058\u6708\u3092\u898b\u3066\u3044\u308b",
-      "url": "https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
         "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0~beautiful sleep~",
         "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "\u65b0\u3057\u3044\u4eba",
-        "url": "https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8"
+        "name": "\u702c\u3068\u702c",
+        "url": "https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS"
       },
       "artists": [
         {
-          "name": "OGRE YOU ASSHOLE",
-          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
+          "name": "\u4e0a\u91ce\u5927\u6a39",
+          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
         }
       ],
-      "duration_ms": 278517,
-      "name": "\u65b0\u3057\u3044\u4eba",
-      "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
+      "duration_ms": 283149,
+      "name": "\u540c\u3058\u6708\u3092\u898b\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
+        "name": "\u65b0\u3057\u3044\u4eba",
+        "url": "https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8"
+      },
+      "artists": [
+        {
+          "name": "OGRE YOU ASSHOLE",
+          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
+        }
+      ],
+      "duration_ms": 278517,
+      "name": "\u65b0\u3057\u3044\u4eba",
+      "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
         "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
         "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
-      },
-      "artists": [
-        {
-          "name": "KENTA MAENO",
-          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
-        }
-      ],
-      "duration_ms": 67203,
-      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
         "name": "HALSHURA(\u30cf\u30eb\u30b7\u30e5\u30e9)",
         "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 195693,
       "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
       "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
+        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
+      },
+      "artists": [
+        {
+          "name": "KENTA MAENO",
+          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
+        }
+      ],
+      "duration_ms": 67203,
+      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

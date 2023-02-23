@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-116 songs - 6 hr 38 min
+117 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Shiver & Gold](https://open.spotify.com/track/3N71XPi2XVIuIMSrrsy8fB) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb) | [Shiver & Gold](https://open.spotify.com/album/5o7cXm5Xm6KMkltlPzBDIW) | 3:34 | 2022-12-08 |  |
 | [Shiver & Gold \- Ares Carter Remix](https://open.spotify.com/track/4WXXl3fsIg5GiuXYluadV8) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF) | [Shiver & Gold \(Ares Carter Remix\)](https://open.spotify.com/album/6kNJhblzEXoMD6HmsxWTuy) | 2:17 | 2023-02-15 |  |
 | [Shiver & Gold \- Fallenius Remix](https://open.spotify.com/track/7gdcrDv0Dxa5MS9XCdieac) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [Fallenius](https://open.spotify.com/artist/1uMowT5YqJIkKcYnwVLpru) | [Shiver & Gold \(Fallenius Remix\)](https://open.spotify.com/album/5etya24cHghPP0czV9QBM0) | 2:43 | 2023-02-08 |  |
+| [Shiver & Gold \- Malcolm Zeller Remix](https://open.spotify.com/track/0PkOcvOPirzWdpABLZdhgN) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Shiver & Gold \(Malcolm Zeller Remix\)](https://open.spotify.com/album/6aw9p9GrGjHKDcWTv5xmES) | 3:05 | 2023-02-22 |  |
 | [Shiver & Gold \- RJ The Second Remix](https://open.spotify.com/track/6OZMJyT3EttQpNO7HtAs0Q) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [RJ The Second](https://open.spotify.com/artist/2hfegcERF3KkLLAp8CpdFf) | [Shiver & Gold \(RJ The Second Remix\)](https://open.spotify.com/album/2FfKgU6tIKQXbeQiB4yZP8) | 3:47 | 2023-02-01 |  |
 | [Shy](https://open.spotify.com/track/37rholV7FQmDvCNV64ydkh) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP) | [Shy](https://open.spotify.com/album/4JZHZRLlXUs15fOzj9FumQ) | 3:03 | 2022-04-27 | 2022-07-07 |
 | [So High](https://open.spotify.com/track/5doFTkrPLq1AZYDvAIdn7x) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [Kitsuné America 2](https://open.spotify.com/album/2dVnDTtY8qzYbPTMmw88vX) | 3:06 | 2021-11-05 |  |

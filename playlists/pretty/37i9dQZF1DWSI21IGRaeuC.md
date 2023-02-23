@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,632 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,685 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 34 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 |
 | 35 | [Music4TheMasses \- Andrea Oliva Remix](https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Music4TheMasses \(Andrea Oliva Remix\)](https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9) | 3:07 |
 | 36 | [Really Really Hot](https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Really Really Hot](https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD) | 3:52 |
-| 37 | [Strung Up](https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [Strung Up](https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p) | 3:20 |
-| 38 | [Trip](https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Trip](https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B) | 3:43 |
+| 37 | [Trip](https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Trip](https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B) | 3:43 |
+| 38 | [Strung Up](https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [Strung Up](https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p) | 3:20 |
 | 39 | [Rudeboi](https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Rudeboi](https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5) | 3:01 |
 | 40 | [Fuck The Regs](https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Fuck The Regs EP](https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy) | 3:24 |
 | 41 | [Dilemma](https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Dilemma](https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 49 | [DJ Lover \- Original Mix](https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Welcome EP](https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh) | 6:47 |
 | 50 | [Provenance](https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Provenance](https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk) | 6:41 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDE3YWE4ZWEzY2VlYWM2ODFlOTMyZjZlZWYxNWQ1YmVm`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGE3OGNmMjYyMWFmNGY1MDAxZjg5YWMzMGQxY2VlNmRh`

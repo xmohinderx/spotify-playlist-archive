@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: ALO",
-  "num_followers": 14358,
+  "num_followers": 14430,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDdiZjExZjExMjVmZTUzMzhiY2Q5NjZhZmE5MzMzZDQ1",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDZiZjc4N2JjYjU3MWNiMmIxNmY4ODQ3OWU4NmYyNWJi",
   "tracks": [
     {
       "added_at": "2023-02-17 05:01:00",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Another Plan of Attack",
-        "url": "https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k"
-      },
-      "artists": [
-        {
-          "name": "The Disco Biscuits",
-          "url": "https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D"
-        }
-      ],
-      "duration_ms": 394596,
-      "name": "Another Plan of Attack",
-      "url": "https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Megagem",
@@ -397,6 +381,22 @@
       "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Another Plan of Attack",
+        "url": "https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k"
+      },
+      "artists": [
+        {
+          "name": "The Disco Biscuits",
+          "url": "https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D"
+        }
+      ],
+      "duration_ms": 394596,
+      "name": "Another Plan of Attack",
+      "url": "https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2"
+    },
+    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Tumbleweed",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Circles Around the Sun",
-        "url": "https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy"
-      },
-      "artists": [
-        {
-          "name": "Circles Around The Sun",
-          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
-        }
-      ],
-      "duration_ms": 357053,
-      "name": "Babyman",
-      "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Microdosio",
         "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 331570,
       "name": "Cubensis",
       "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Circles Around the Sun",
+        "url": "https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy"
+      },
+      "artists": [
+        {
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+        }
+      ],
+      "duration_ms": 357053,
+      "name": "Babyman",
+      "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -491,6 +491,22 @@
       "duration_ms": 193101,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "I Am The Moon: III. The Fall",
+        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 327546,
+      "name": "Take Me As I Am",
+      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -545,22 +561,6 @@
       "url": "https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "I Am The Moon: III. The Fall",
-        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 327546,
-      "name": "Take Me As I Am",
-      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Tumbleweed",
@@ -575,38 +575,6 @@
       "duration_ms": 400000,
       "name": "Tumbleweed",
       "url": "https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "You're a Catman",
-        "url": "https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 342994,
-      "name": "You\u2019re a Catman",
-      "url": "https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Night Lights",
-        "url": "https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4"
-      },
-      "artists": [
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 401213,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -627,6 +595,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Night Lights",
+        "url": "https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "duration_ms": 401213,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Casino Cabaret",
         "url": "https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 448385,
       "name": "Mr. Scientist",
       "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "You're a Catman",
+        "url": "https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 342994,
+      "name": "You\u2019re a Catman",
+      "url": "https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Zoom Out",
-        "url": "https://open.spotify.com/album/45iOI3SakDgddbyhObA3LC"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 262805,
-      "name": "Zoom Out",
-      "url": "https://open.spotify.com/track/4zVwDHjHraUBJiTuU8SRAv"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Tracking Buffalo Through the Bathtub",
@@ -785,10 +769,10 @@
       "url": "https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Not Just a Word",
-        "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
+        "name": "Zoom Out",
+        "url": "https://open.spotify.com/album/45iOI3SakDgddbyhObA3LC"
       },
       "artists": [
         {
@@ -796,9 +780,9 @@
           "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
         }
       ],
-      "duration_ms": 338011,
-      "name": "Not Just a Word",
-      "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
+      "duration_ms": 262805,
+      "name": "Zoom Out",
+      "url": "https://open.spotify.com/track/4zVwDHjHraUBJiTuU8SRAv"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -815,6 +799,22 @@
       "duration_ms": 462830,
       "name": "Off Leash",
       "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Dopapod",
+        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
+      },
+      "artists": [
+        {
+          "name": "Dopapod",
+          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
+        }
+      ],
+      "duration_ms": 304826,
+      "name": "Nuff",
+      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
     }
   ],
   "unique_name": "Modern Jam Band",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Play Your Part\. <br/>Don't forget to Vote\. <br/><br/><br/>Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=FsN9h4j\-RjC56CRz6HEvpA"> Rema </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,720 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,112 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

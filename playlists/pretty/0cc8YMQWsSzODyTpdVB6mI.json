@@ -1,13 +1,33 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 45107,
+  "num_followers": 45110,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MzA0MCw4OWNiNmRjYjNmZGZhYjExZDk1YjM3MTgyNWYwOTU0YmM5MDQ5M2Q5",
+  "snapshot_id": "MzA0Miw5YTVmYWIyMTM0YzQ0ZmE1YWM0YmEyOGRlNGE4NGFlZjc1NWMxMDNh",
   "tracks": [
+    {
+      "added_at": "2023-02-22 10:26:34",
+      "album": {
+        "name": "Shiver & Gold (Malcolm Zeller Remix)",
+        "url": "https://open.spotify.com/album/6aw9p9GrGjHKDcWTv5xmES"
+      },
+      "artists": [
+        {
+          "name": "Imanos",
+          "url": "https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb"
+        },
+        {
+          "name": "Malcolm Zeller",
+          "url": "https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Shiver & Gold - Malcolm Zeller Remix",
+      "url": "https://open.spotify.com/track/0PkOcvOPirzWdpABLZdhgN"
+    },
     {
       "added_at": "2023-02-16 16:12:53",
       "album": {

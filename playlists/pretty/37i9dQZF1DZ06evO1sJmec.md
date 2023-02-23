@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,740,286 likes - 51 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,740,834 likes - 51 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 50 | [Orion \- Remastered](https://open.spotify.com/track/3z9e5b0P7zoIeV6I3iyX8O) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Deluxe Box Set / Remastered\)](https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm) | 8:27 |
 | 51 | [Wherever I May Roam](https://open.spotify.com/track/7qCHqtiSiX3T09ErW718yQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Wherever I May Roam](https://open.spotify.com/album/0WNfOMxwCMjYOjDWlGsgNA) | 2:38 |
 
-Snapshot ID: `Mjc5NDk2OTcsMDAwMDAwMDBlYThjYzQxMDg1ZGIyMTlmYzhlZmMyN2U0NTRmMDEyNA==`
+Snapshot ID: `Mjc5NTExODMsMDAwMDAwMDA1M2ZmN2JlNzEwMTdmMWM1N2JhY2UwZDliMzBlMjc0NA==`

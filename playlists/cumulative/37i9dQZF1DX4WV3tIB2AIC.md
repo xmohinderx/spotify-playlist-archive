@@ -4,7 +4,7 @@
 
 > Our editorial picks for the best gaming tracks of the year\. Cover: Lil Nas X \#SpotifyWrapped
 
-50 songs - 2 hr 26 min
+51 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-11-30 |  |
 | [Blood Upon the Snow](https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:31 | 2022-11-30 |  |
 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-11-30 |  |
-| [BOW](https://open.spotify.com/track/01V6K40AZcyCVdCiEOYk9V) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [FREAKY](https://open.spotify.com/album/035gwa3Veg378UiY2p6ZwN) | 3:02 | 2022-11-30 |  |
+| [BOW](https://open.spotify.com/track/01V6K40AZcyCVdCiEOYk9V) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [FREAKY](https://open.spotify.com/album/035gwa3Veg378UiY2p6ZwN) | 3:02 | 2022-11-30 | 2023-02-23 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-11-30 |  |
 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 | 2022-11-30 |  |
 | [C’est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/3QqOcLtTU8zzlQRJCZzttP) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Marvelous](https://open.spotify.com/album/3DCLmgvu8dwEyJ3MpBcNka) | 2:40 | 2022-11-30 |  |
@@ -55,6 +55,7 @@
 | [Super Gremlin](https://open.spotify.com/track/1Y5Jvi3eLi4Chwqch9GMem) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:20 | 2022-11-30 |  |
 | [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 | 2022-11-30 |  |
 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2022-11-30 |  |
+| [The Final Battle](https://open.spotify.com/track/6mIuQuKlOK7l6HkQnHfvpQ) | [Tsukasa Saitoh](https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 4:58 | 2022-11-30 |  |
 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 | 2022-11-30 |  |
 | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \- from GRAN TURISMO 7](https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d) | [The FaNaTiX](https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \(from GRAN TURISMO 7\)](https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay) | 3:57 | 2022-11-30 |  |
 | [Wrath](https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:53 | 2022-11-30 |  |

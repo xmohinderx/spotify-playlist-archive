@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline! ft\. Bushbaby
 
-155 songs - 9 hr 47 min
+156 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Casual](https://open.spotify.com/track/1fg8X5xFJIkICvQ3rgIP3L) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Devilman](https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Casual](https://open.spotify.com/album/5HCAc747bZfTVFOxqzHAvI) | 3:32 | 2022-04-15 | 2022-07-29 |
 | [Chances](https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP) | 5:10 | 2022-04-15 |  |
 | [Check Yourself](https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR) | [909](https://open.spotify.com/artist/1BGPK5MFxGtMlDfMym8fQF), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Check Yourself](https://open.spotify.com/album/7HlM6tx37YlyZtIBIdsjFl) | 3:27 | 2022-10-28 |  |
-| [Closer](https://open.spotify.com/track/21xzkkfeDUsPXyxZmiGGpM) | [Bailey P](https://open.spotify.com/artist/7MJpKixo6xeRETtQC1KFHd) | [Images / Closer](https://open.spotify.com/album/0zRA2049WBLpWo0m90Fb6B) | 3:36 | 2022-09-05 |  |
+| [Closer](https://open.spotify.com/track/21xzkkfeDUsPXyxZmiGGpM) | [Bailey P](https://open.spotify.com/artist/7MJpKixo6xeRETtQC1KFHd) | [Images / Closer](https://open.spotify.com/album/0zRA2049WBLpWo0m90Fb6B) | 3:36 | 2022-09-05 | 2023-02-23 |
 | [Come Back](https://open.spotify.com/track/685VvVtdY4Nhr6PcWW1Zyl) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Night Bass Freshmen Vol 4](https://open.spotify.com/album/0MPdu2GZc6HZOQGzHcSPl2) | 4:27 | 2022-04-15 | 2022-09-06 |
 | [Da Bomb](https://open.spotify.com/track/2H1R8OwkWuOkwNIDkA9Vcp) | [Guau](https://open.spotify.com/artist/3B09YsVwUYEmbxDAHqJhvs) | [Da Bomb](https://open.spotify.com/album/5C0WDCdIgFf0irvBdtwyUI) | 4:24 | 2022-05-13 | 2022-09-24 |
 | [Dance \- Tengu remix](https://open.spotify.com/track/5wVsRQKP6xt4Z82QQDJA2f) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi), [Tengu](https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o) | [Dance \(The Remixes\)](https://open.spotify.com/album/21Gn31tVzHqLQwQBrDbKGW) | 4:23 | 2022-05-13 |  |
@@ -83,6 +83,7 @@
 | [Icon](https://open.spotify.com/track/3FzRX9CTMgu2Qn1wHE6ygo) | [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU), [SK](https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc) | [Icon](https://open.spotify.com/album/2kwFtcaZUVlEK3liC4PywN) | 2:37 | 2022-04-15 | 2022-07-27 |
 | [In My Head](https://open.spotify.com/track/2yWYceNVmSmTc4XK4GQAsZ) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [In My Head](https://open.spotify.com/album/3x0BpjZvx3VzldV7uEdvU5) | 3:29 | 2022-04-22 | 2022-07-21 |
 | [In The Rave](https://open.spotify.com/track/4pTk5KSXzF68SMACQ1fCyR) | [A.2.Z](https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ), [2 Below](https://open.spotify.com/artist/7wponEQgf3A7sgrV6cbSk7) | [In The Rave](https://open.spotify.com/album/65ZW9lhYTBzcqJdHc4q2aB) | 3:16 | 2022-04-15 | 2022-07-24 |
+| [Inside](https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI) | [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Inside](https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa) | 4:12 | 2023-01-24 |  |
 | [Inside](https://open.spotify.com/track/6y83sAg5Mx81YSzKSUw36j) | [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Inside](https://open.spotify.com/album/4JvQ6sH4NsLqABE1qG6dy6) | 4:12 | 2022-04-15 | 2023-02-03 |
 | [It's Just This Thing](https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Feel So Free Mixtape](https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB) | 3:39 | 2022-11-26 |  |
 | [It's Your Time](https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd), [Jamie Boy Bassline](https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj) | [It's Your Time](https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt) | 3:06 | 2023-01-24 |  |

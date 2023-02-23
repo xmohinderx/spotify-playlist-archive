@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Skrillex
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,561 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,628 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 85 | [All In One Night](https://open.spotify.com/track/4GUxUmge58qGkX81nD2RRe) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Love Is Love](https://open.spotify.com/album/2uEuw3GLQXeLTrawVFHjBX) | 3:07 |
 | 86 | [Gonna Go](https://open.spotify.com/track/4PZXDDm2BVEccltAEGHuJp) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Gonna Go](https://open.spotify.com/album/5v2xkxpLUFXjOkFBS5uHjv) | 2:57 |
 | 87 | [Sugar \(feat\. Soaky Siren\)](https://open.spotify.com/track/6OHQzBYaXeF6FVu8gxLMkE) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Sugar \(feat\. Soaky Siren\)](https://open.spotify.com/album/5r4LmZOSMh4xN8tjg3WzkO) | 2:24 |
-| 88 | [What It Do \(feat\. Fridayy\)](https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De) | [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [What It Do](https://open.spotify.com/album/55y0JmlsaqXupvjFiMTA4h) | 3:05 |
+| 88 | [What It Do \(with Fridayy\)](https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De) | [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [What It Do](https://open.spotify.com/album/55y0JmlsaqXupvjFiMTA4h) | 3:05 |
 | 89 | [Man On The Moon](https://open.spotify.com/track/7E6jdcJTGDpYmjHFnXu3vG) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Man On The Moon](https://open.spotify.com/album/18WXWG3I5v4L3odjNg1YtR) | 3:20 |
 | 90 | [Freeloader](https://open.spotify.com/track/0ETmDfpRKtQIC45COn64V9) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/2kVAEzBvADamc4w3k88beS) | 3:28 |
 | 91 | [Last Time Last](https://open.spotify.com/track/09pr49bPWb2OKkDSvxKn2s) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu), [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Last Time Last](https://open.spotify.com/album/0N4b2e4iIY4uIKUI7kikks) | 3:03 |

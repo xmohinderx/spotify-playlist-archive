@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127116,
+  "num_followers": 127129,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDAwNSxiMWRkMDE4ODI5NDRkODQ1N2MzYmI5ZTVkOTcxYmNlZWYzN2M2OGUy",
+  "snapshot_id": "NDAwOCwyNzk2MmQ2ZTczYWNhNTFhMzQ3MjAyMDBkYTIzODg2OGQ4MjQ4ZjZi",
   "tracks": [
+    {
+      "added_at": "2023-02-22 17:33:49",
+      "album": {
+        "name": "All But A Dream",
+        "url": "https://open.spotify.com/album/3hoLLHytifFVosoaxST1fz"
+      },
+      "artists": [
+        {
+          "name": "TOMB",
+          "url": "https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "All But A Dream",
+      "url": "https://open.spotify.com/track/4OGWWzeMDVVW0D1dqQCS2t"
+    },
     {
       "added_at": "2023-02-21 18:04:15",
       "album": {
@@ -1139,22 +1159,6 @@
       "duration_ms": 189919,
       "name": "Around You",
       "url": "https://open.spotify.com/track/54EKXaigl9tDnVZINeLKtO"
-    },
-    {
-      "added_at": "2022-11-28 12:50:22",
-      "album": {
-        "name": "Bring Me Back",
-        "url": "https://open.spotify.com/album/2O9vrpCCTCKdgd6eMGjm8h"
-      },
-      "artists": [
-        {
-          "name": "Chime",
-          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
-        }
-      ],
-      "duration_ms": 213931,
-      "name": "Bring Me Back",
-      "url": "https://open.spotify.com/track/6Bw3VVF2X0YmZWYPl8wE44"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

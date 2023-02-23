@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > Essential kids songs to add to your family's collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,561 likes - 114 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,621 likes - 114 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

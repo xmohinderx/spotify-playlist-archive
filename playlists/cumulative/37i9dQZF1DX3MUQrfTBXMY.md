@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Odd Signature
 
-160 songs - 13 hr 22 min
+161 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Bhober Pagol](https://open.spotify.com/track/7HUzW6Xv5cSWGbikS5MiAG) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/7wh9uFC8EvU6PuyYD4Webb) | 5:25 | 2022-07-29 | 2022-09-09 |
 | [Bhoboghure 2022](https://open.spotify.com/track/61g0LfYhsMLvrz6DXlLIek) | [Cryptic Fate](https://open.spotify.com/artist/7tJID3D9UVKLpJSleVaM0b) | [Bhoboghure 2022](https://open.spotify.com/album/0u8JsU2k3GaMyJwsFQHUds) | 4:38 | 2022-07-15 |  |
 | [Bhondo](https://open.spotify.com/track/07qgJazJQyknsbmuJZDL6N) | [Oblique](https://open.spotify.com/artist/4UZiqcfIggY32IYR1j13fz) | [Aloron](https://open.spotify.com/album/3B7o0RIBaO8xsXFuEGOUzr) | 4:40 | 2022-06-16 |  |
-| [Bhrom](https://open.spotify.com/track/20tqANKua7Erq6u3yfT8tj) | [Karnival](https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl) | [Mohomukti](https://open.spotify.com/album/2QjYtadVjnPoQkZVLqkzqv) | 5:34 | 2022-06-16 | 2023-02-18 |
+| [Bhrom](https://open.spotify.com/track/20tqANKua7Erq6u3yfT8tj) | [Karnival](https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl) | [Mohomukti](https://open.spotify.com/album/2QjYtadVjnPoQkZVLqkzqv) | 5:34 | 2022-06-16 |  |
 | [Biday Shur](https://open.spotify.com/track/23Mz2CJBQBqfeen2wtqQCm) | [Greatest News of All Time](https://open.spotify.com/artist/0WE323uSiupYVvsNjH2BTS), [sadishahnewaz](https://open.spotify.com/artist/3F6p3o5g8lVjxlyo6NKqus) | [Biday Shur](https://open.spotify.com/album/08dDfGxp6qZzyAMTnHA18I) | 3:35 | 2022-09-09 |  |
 | [Bijoyer Gan](https://open.spotify.com/track/4fO6kQvF1BtjW2tpaUIamd) | [Aurthohin](https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A) | [Dhrubok](https://open.spotify.com/album/3zCNTxHE3jnV2RNwHhErGI) | 3:46 | 2023-02-17 |  |
 | [Biporit](https://open.spotify.com/track/3PvHtgctQj93os8wwyt4ZE) | [12 AM](https://open.spotify.com/artist/0iSj43HCLPRUKnJjVIfgXT) | [Rockoholic](https://open.spotify.com/album/2DLL4wKniDTPu17TPVKvpA) | 3:47 | 2022-06-16 | 2023-02-18 |
@@ -110,7 +110,7 @@
 | [Nijer Jonno Gan](https://open.spotify.com/track/2fEMTumzVh5H1ozQwkBDyu) | [13th Funeral](https://open.spotify.com/artist/6r4kTQoYjObienwuKU4PBT) | [Nijer Jonno Gan](https://open.spotify.com/album/78jmJKiaCKhaUvpOxqYXgx) | 5:56 | 2022-06-16 | 2023-01-21 |
 | [Nitol Paye](https://open.spotify.com/track/44NjxYASrwY5FNO89NmUAh) | [Fuad](https://open.spotify.com/artist/3my0yG4y3f4CnxDiFzApeD), [Rajib](https://open.spotify.com/artist/25uAaPSBBQVyqBslErnSuA) | [Best of Fuad, Vol\. 2](https://open.spotify.com/album/4MEDHrD390pgfZB6rOxOF5) | 4:36 | 2023-02-17 |  |
 | [NITTOJIBON](https://open.spotify.com/track/3GEdr4Fl6rmniWZwqqsKBH) | [IMPLICIT](https://open.spotify.com/artist/6yvVDi2Uw3tVYOkhXiI9Gk) | [NITTOJIBON](https://open.spotify.com/album/4Tkpkg64IlY4vljFqPHua7) | 6:05 | 2022-09-09 | 2023-01-21 |
-| [Obak](https://open.spotify.com/track/5qZE8vsRIm5zeMGqcs4cp1) | [Invaders](https://open.spotify.com/artist/072YOPgJBQASwnyXY6tlP6) | [Rockoholic](https://open.spotify.com/album/2DLL4wKniDTPu17TPVKvpA) | 4:14 | 2022-06-16 |  |
+| [Obak](https://open.spotify.com/track/5qZE8vsRIm5zeMGqcs4cp1) | [Invaders](https://open.spotify.com/artist/072YOPgJBQASwnyXY6tlP6) | [Rockoholic](https://open.spotify.com/album/2DLL4wKniDTPu17TPVKvpA) | 4:14 | 2022-06-16 | 2023-02-23 |
 | [Obak Bhalobasha \(Sob Aalo Nibe Ja\)](https://open.spotify.com/track/74MnX5SrkGB6Y9LsmQvZSQ) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 7:21 | 2023-02-17 |  |
 | [Obhiman](https://open.spotify.com/track/3DK8pt5Ky1Ii4QblF5iBsI) | [Black](https://open.spotify.com/artist/1qA4YCACKNrNV3foCbUTSr) | [Amar Prithibi](https://open.spotify.com/album/5RZpZjnmV9bsX6GGNAXGwZ) | 4:36 | 2023-02-17 |  |
 | [Obhimaner Nokkhotro](https://open.spotify.com/track/0LmP1YYlOgQL5OHAseNf4Z) | [Noxious Traitor](https://open.spotify.com/artist/6Rlz8NF2OkYQFurkYs4OQY) | [Obhimaner Nokkhotro](https://open.spotify.com/album/1jjUZ6Dpbmds029jPnGFJS) | 6:13 | 2023-01-20 |  |
@@ -131,7 +131,7 @@
 | [Pabona Tomay](https://open.spotify.com/track/3gLaGj5WlACwyjsFxjFDyL) | [Abir Mannan](https://open.spotify.com/artist/75tnGqluDnpfDILALcANFf) | [Pabona Tomay](https://open.spotify.com/album/4wIinxsyNNAWjXz1wMUilZ) | 6:20 | 2022-07-15 | 2023-01-21 |
 | [Pakhi](https://open.spotify.com/track/2iwhemWEp6YMN1BD84nUPl) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Icche Ghuri](https://open.spotify.com/album/6xsj12l9oKEbWsdgeqxjAD) | 4:16 | 2023-01-20 |  |
 | [Parabar](https://open.spotify.com/track/75esoVpXyHok6jAOaCSmWq) | [Mmanifesto](https://open.spotify.com/artist/5HYXOKiy88BlZStvgCNqHF) | [Parabar](https://open.spotify.com/album/2m0tykjdzNt1Uda5iWq0k2) | 5:09 | 2022-11-02 | 2022-12-01 |
-| [Pichutaan](https://open.spotify.com/track/3kGrKLyNUdcVh27oqwEYdE) | [Sammam](https://open.spotify.com/artist/2lis2CHagnbMNlEUrhU0wu) | [Pichutaan](https://open.spotify.com/album/4LfHUgVOnuvznzkOGCTxwX) | 6:05 | 2022-06-16 |  |
+| [Pichutaan](https://open.spotify.com/track/3kGrKLyNUdcVh27oqwEYdE) | [Sammam](https://open.spotify.com/artist/2lis2CHagnbMNlEUrhU0wu) | [Pichutaan](https://open.spotify.com/album/4LfHUgVOnuvznzkOGCTxwX) | 6:05 | 2022-06-16 | 2023-02-23 |
 | [Porinita](https://open.spotify.com/track/5fQBQdZwNcW1FKTuCXQWjU) | [Conclusion](https://open.spotify.com/artist/5SVgbg1080uyYMNC7rBoIp) | [Porinita](https://open.spotify.com/album/27MXNp9QGpVfaH06YTM7mJ) | 4:12 | 2022-09-09 |  |
 | [Poth Chola](https://open.spotify.com/track/3vXCKgUpHrv5dfXM53w28W) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Onnosomoy](https://open.spotify.com/album/7s9Ssc1V7AgSdAlVpHl12E) | 7:01 | 2023-02-17 |  |
 | [Priyosini](https://open.spotify.com/track/3CLpJ76tJjpmUKKyXKrHbZ) | [Unique Bond](https://open.spotify.com/artist/6Mz5djl2JRwJUn6WvDgx7T) | [Priyosini](https://open.spotify.com/album/70Owf4Xzf7Lu0sz861McNp) | 5:43 | 2022-11-02 | 2022-12-01 |
@@ -161,6 +161,7 @@
 | [Somoy gele](https://open.spotify.com/track/3RDSAyE32oOnMFoEWEDtH3) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6oXxXaKox9eRoP1QUxaUOT) | 4:41 | 2022-06-16 | 2022-07-29 |
 | [Srotoshinni](https://open.spotify.com/track/0fLJBwZIGP33RP4nLyqKrY) | [Encore](https://open.spotify.com/artist/2oJ0oZmbYNILTxgX7F0tq5) | [Chinnho](https://open.spotify.com/album/2aLOCDq7vGHIO7OyDwQSuM) | 4:23 | 2023-02-17 |  |
 | [Tamakpata](https://open.spotify.com/track/54rbC8m2E1ghnwJyTHTPM8) | [Ashes](https://open.spotify.com/artist/1OxPcVkWgpIFAFBBl88jjG) | [Rockoholic 3](https://open.spotify.com/album/0sUGhA7xMLiaxkTyo2aXdp) | 5:03 | 2022-11-30 |  |
+| [Tomari Jonne](https://open.spotify.com/track/0BEvCqn4WTbGy8r48utyJ0) | [Velvet Wings](https://open.spotify.com/artist/1wPk8o5tbmLLv1B1CPfOCB) | [Tomari Jonne](https://open.spotify.com/album/0qRyp1Ow8aIqe3OSx3D2Rk) | 4:37 | 2023-02-22 |  |
 | [Tomay Mone Pore](https://open.spotify.com/track/5wW1wMvFAYkG0PIA1XSPkf) | [Shafayet Badhon](https://open.spotify.com/artist/6IkPa1RHI4966Tmbos22Px), [Bayzid Rony](https://open.spotify.com/artist/0d9xrOzUVP4VRw0zeVqiDh) | [Project North Star, Vol\. 1](https://open.spotify.com/album/0eg9Gl97LB6NoSL9C01eMO) | 2:45 | 2022-06-16 |  |
 | [Tumi](https://open.spotify.com/track/7iSWYBp3QGl3eQyv8l40hs) | [Level Five](https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8) | [Tumi](https://open.spotify.com/album/0KAkp5p9mfSCIqRfIduRcl) | 3:56 | 2023-01-20 |  |
 | [Tumi, Ami O Bhor](https://open.spotify.com/track/12KuRGdlIUoPOYUmMqFiPa) | [Nemesis](https://open.spotify.com/artist/694bRUlAdfIh4BpiMWI3FF) | [Tumi, Ami O Bhor](https://open.spotify.com/album/0nGeQAJDGQnl3pYUUPEwCy) | 4:50 | 2022-06-16 |  |

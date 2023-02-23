@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,877 likes - 125 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,982 likes - 125 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 80 | [Concrete Angel \- Radio Edit](https://open.spotify.com/track/2zM1zEjv2JX1qTmSDeB8IL) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Concrete Angel](https://open.spotify.com/album/4Jykpzu0mPClJY1eo77H5o) | 3:55 |
 | 81 | [I Can't Stop](https://open.spotify.com/track/5WSL7UTa38jMWoBzObD4BD) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [I Can't Stop](https://open.spotify.com/album/2DM8pAHT2jv7XXjyIbQppM) | 5:05 |
 | 82 | [Apollo](https://open.spotify.com/track/7EdxI2Yro4AW2HH3akwqms) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [I Am Hardwell \(Original Soundtrack\)](https://open.spotify.com/album/1c8VPF74qax6iaGsf74cQ8) | 3:29 |
-| 83 | [Boy Oh Boy](https://open.spotify.com/track/20c8kwM60klIrU9LIYNv0X) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 2:54 |
-| 84 | [Booyah](https://open.spotify.com/track/30BBwDTjwHQf1ixFGaE2o2) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [We Are Loud](https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Booyah](https://open.spotify.com/album/5VlVcVoGT5g1F8t1VUAef8) | 5:11 |
+| 83 | [Booyah](https://open.spotify.com/track/30BBwDTjwHQf1ixFGaE2o2) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [We Are Loud](https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Booyah](https://open.spotify.com/album/5VlVcVoGT5g1F8t1VUAef8) | 5:11 |
+| 84 | [Boy Oh Boy](https://open.spotify.com/track/20c8kwM60klIrU9LIYNv0X) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 2:54 |
 | 85 | [Bad \(feat\. Vassy\) \- Radio Edit](https://open.spotify.com/track/06dT0EYXrhRQV1MsvWhNGv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 2:50 |
 | 86 | [Beam Me Up \- Radio Edit](https://open.spotify.com/track/64y85LeHY8Z6OlTOM9cpKD) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS) | [Eject](https://open.spotify.com/album/5cYW3ILGflf28W2vkkCvgs) | 3:23 |
 | 87 | [Fortune Days](https://open.spotify.com/track/5VWVVSABdgccboSdrKGiZH) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Drink the Sea](https://open.spotify.com/album/4c5fhgLoAaFzwjNTxC57jK) | 6:22 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 113 | [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/track/7iT98FhZ7BAE8xdCxBlw55) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/album/0JtlJvtmyOR0z5uuFjeHm9) | 3:26 |
 | 114 | [The Drop](https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp) | [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [The Drop EP](https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg) | 3:49 |
 | 115 | [Jaguar](https://open.spotify.com/track/0QcwSZWxpePBVSCbfIJUz6) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Jaguar](https://open.spotify.com/album/2jKVZKviFNCICo24dK6nJ2) | 4:46 |
-| 116 | [LRAD](https://open.spotify.com/track/4ce29VAx1D8f3HULOHHA3K) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [Haunted House](https://open.spotify.com/album/1YhwGzFBdDAR1OA9644LK9) | 5:15 |
-| 117 | [Higher Ground](https://open.spotify.com/track/3PRPiS8XO5BDwtBePgAlVM) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [TNGHT](https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A) | 3:19 |
+| 116 | [Higher Ground](https://open.spotify.com/track/3PRPiS8XO5BDwtBePgAlVM) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [TNGHT](https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A) | 3:19 |
+| 117 | [LRAD](https://open.spotify.com/track/4ce29VAx1D8f3HULOHHA3K) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [Haunted House](https://open.spotify.com/album/1YhwGzFBdDAR1OA9644LK9) | 5:15 |
 | 118 | [Wasted](https://open.spotify.com/track/1EavLSmwRWtmkKEmlCfFzT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Wasted](https://open.spotify.com/album/584m4QL0kmpG69zSpMKvv8) | 3:08 |
 | 119 | [No Beef \- Original Mix](https://open.spotify.com/track/52Y9VvRfnKjdM0MvAM21cR) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U) | [No Beef](https://open.spotify.com/album/7oQGR9TBbk3m9Nuc2CPR08) | 6:01 |
 | 120 | [Last Chance](https://open.spotify.com/track/1ags60Iq9M0vFlvSLAOZE4) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Atmosphere](https://open.spotify.com/album/6poiDDI8corGzWMXUechzZ) | 4:18 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Kick Out The Epic Motherf\*\*ker \- Vocal Version](https://open.spotify.com/track/5B4RzgnBLi7BU1CLQ4j0Nw) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Kick Out The Epic Motherf\*\*ker \(Vocal Version\)](https://open.spotify.com/album/2lXDflusONskee9ju4BhuN) | 3:27 |
 | 125 | [Ready For Your Love](https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens](https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG) | 3:18 |
 
-Snapshot ID: `MTY1NDgwNDc2NiwwMDAwMDAwMDQwZWExY2Q5NzIzY2VmNWNmYzQ5ZTk2MzdmODZjODc0`
+Snapshot ID: `MTY1NDgwNDc2NiwwMDAwMDAwMDgwOWU4MGJhNmQ2NzY1N2RkYzFkOTE2YTEyYTc1MTJj`

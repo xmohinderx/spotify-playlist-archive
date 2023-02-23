@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Furai",
+        "url": "https://open.spotify.com/album/4j0Zj8PZiRK5PL7MqFQA83"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265933,
+      "name": "Furai",
+      "url": "https://open.spotify.com/track/0JlDINY2QfgBGG1HYXeuyV"
+    },
+    {
+      "album": {
         "name": "DOKI DOKI",
         "url": "https://open.spotify.com/album/0ahFITufRRpuHUXx2REpDq"
       },
@@ -1511,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "Sun of Love",
+        "url": "https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252026,
+      "name": "Sun of Love",
+      "url": "https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/361LK8wqvhs0Sv6oVPwzMz"
       },
@@ -1637,7 +1673,7 @@
     },
     {
       "album": {
-        "name": "This Song",
+        "name": "This Song -Planxty Irwin-",
         "url": "https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s"
       },
       "artists": [
@@ -1650,7 +1686,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 231635,
-      "name": "This Song",
+      "name": "This Song -Planxty Irwin-",
       "url": "https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER"
     },
     {
@@ -3164,7 +3200,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 252026,
       "name": "\u611b\u306e\u592a\u967d",
       "url": "https://open.spotify.com/track/0zachxUjDCMi59m1RGjOqT"
@@ -3622,7 +3658,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 265933,
       "name": "\u98a8\u6765",
       "url": "https://open.spotify.com/track/0NCp3Af9c2ufCah4LinfJT"

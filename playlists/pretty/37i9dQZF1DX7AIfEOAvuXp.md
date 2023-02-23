@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,141 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,140 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 4 | [Calvaire](https://open.spotify.com/track/1rJRb5A6ZfqOuqLCwpD7Ld) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Calvaire](https://open.spotify.com/album/3RuhXnLH8SZT5GnHyGe9gf) | 1:57 |
 | 5 | [Come Over](https://open.spotify.com/track/0gTqEEZKoCn53BZAU1A4DG) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 1](https://open.spotify.com/album/1AQvLVWkgAxzSa8zJbYkdW) | 2:15 |
 | 6 | [Call My Parents](https://open.spotify.com/track/1BPfuDHIxnB8ndQBiXpm4F) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Call My Parents](https://open.spotify.com/album/329qyXniWjTtkVMlGnXFFp) | 2:22 |
-| 7 | [rosier](https://open.spotify.com/track/6ZUiIY6JQtDkrJggZ1OSQ7) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [rosier](https://open.spotify.com/album/3ri0YspOIBYjD3d8QIMwB7) | 3:42 |
+| 7 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 |
 | 8 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
 | 9 | [Jealous](https://open.spotify.com/track/6M3nptRy5w6wiKk5mMjWHN) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Eldorado](https://open.spotify.com/album/5cjB2vtGhbo12x1gAdJvvY) | 2:08 |
 | 10 | [pissed](https://open.spotify.com/track/5KXYsV0p2xWQCjXizedRpt) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [pissed](https://open.spotify.com/album/5qEmrjZKIvBUBikMMbzeML) | 1:47 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 101 | [Bass Jumpin](https://open.spotify.com/track/1T6PwHz0L4zdTyGInqG4xd) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Bass Jumpin](https://open.spotify.com/album/5REn5qlzivqOk4dqhwZZWo) | 2:36 |
 | 102 | [Black Cat](https://open.spotify.com/track/4TpGdf05nm8lYiBPbXjwv2) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN) | 2:56 |
 
-Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMGVmNWVhNDc3OWQ4Y2JlZmU4MmI3MGUyNTI4Nzk4ZjQ4`
+Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMDc5NWYzYjMyNjgyZDYxNjI5MmQ0ZWY0NzNmMWVjMGEx`

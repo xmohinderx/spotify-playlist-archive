@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,289 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,381 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 31 | [Happier Alone](https://open.spotify.com/track/7vtbbBGH2hKTVMnhJlLpn7) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Black Sheep](https://open.spotify.com/album/42FIwhkRiRgUp0bLKTwvVP) | 3:44 |
 | 32 | [Don't Even Say Bye](https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Don't Even Say Bye](https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r) | 3:57 |
 | 33 | [It Ain't Me](https://open.spotify.com/track/610z3fv4hqlH5eff9yBJTN) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Vol\. 1\- EP](https://open.spotify.com/album/5syk2daTo1YtSBRRjuyCjS) | 4:28 |
-| 34 | [Kill a Man](https://open.spotify.com/track/29vxm6LKPquf3gWDnKdijO) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Red Eye E.P.](https://open.spotify.com/album/4siecYatTT3ySmsG6juFIv) | 5:19 |
+| 34 | [Don't Tell Me](https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb) | 3:40 |
 | 35 | [Horses in Heaven](https://open.spotify.com/track/3IQqdI9Z4th4c7TcFwTdS7) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4), [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Horses in Heaven](https://open.spotify.com/album/5rHZUvMU0CGCA38fqhh7L8) | 4:07 |
-| 36 | [Don't Tell Me](https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb) | 3:40 |
+| 36 | [Kill a Man](https://open.spotify.com/track/29vxm6LKPquf3gWDnKdijO) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Red Eye E.P.](https://open.spotify.com/album/4siecYatTT3ySmsG6juFIv) | 5:19 |
 | 37 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
 | 38 | [Walls Coming Down](https://open.spotify.com/track/2OvZ5FqpAHrbp1cyRPp7CP) | [Abbey Duncan](https://open.spotify.com/artist/1gxoexlfgalY8uZT3Rp0ui) | [Walls Coming Down](https://open.spotify.com/album/6HPdPvqDCzBVMFxXmjsIPG) | 3:37 |
 | 39 | [Outlaw Angel](https://open.spotify.com/track/3hvugLbmjKHMf1qQijX99W) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Outlaw Angel](https://open.spotify.com/album/04HvbuaquvTZlfBDWi0Eqf) | 2:58 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 83 | [Sunlight](https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG) | [Shotgun Rider](https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk) | [Sunlight](https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7) | 3:55 |
 | 84 | [Jacket On](https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Jacket On](https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt) | 2:36 |
 | 85 | [Hundred Dollar Bill](https://open.spotify.com/track/6Vp4D3Sol9en197r99a78C) | [Hill Country Revival](https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE) | [Hundred Dollar Bill](https://open.spotify.com/album/22dnWcCtX2Jmjgw3FF2aAn) | 3:43 |
-| 86 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 |
-| 87 | [You Look Good in Neon](https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [You Look Good in Neon](https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg) | 4:00 |
+| 86 | [You Look Good in Neon](https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [You Look Good in Neon](https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg) | 4:00 |
+| 87 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 |
 | 88 | [Boomtown to Bust](https://open.spotify.com/track/0lApKrmYRXa5RhfhS68vlY) | [Kelley Mickwee](https://open.spotify.com/artist/1mL6Bc23N2p1OTNnlrgy3K) | [Boomtown to Bust](https://open.spotify.com/album/2CSLSJ2C3mLZWOOxJL4RfS) | 3:32 |
 | 89 | [First Dirt Road](https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [First Dirt Road](https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3) | 3:23 |
 | 90 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 93 | [Lightning Fast](https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Lightning Fast](https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS) | 3:10 |
 | 94 | [Hold My Beer](https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer](https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh) | 3:59 |
 | 95 | [Don't Want to Go Home](https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [Don't Want To Go Home](https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks) | 3:03 |
-| 96 | [High on the Bottle](https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [High on the Bottle](https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr) | 4:13 |
-| 97 | [Slow](https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Slow](https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh) | 3:04 |
+| 96 | [Slow](https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Slow](https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh) | 3:04 |
+| 97 | [High on the Bottle](https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [High on the Bottle](https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr) | 4:13 |
 | 98 | [Something 'Bout a Southern Girl](https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Something 'Bout a Southern Girl](https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5) | 4:22 |
 | 99 | [Everything I Had](https://open.spotify.com/track/70eyw755HGnxFAk8jPJGRo) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Volume 2](https://open.spotify.com/album/1Ow5quOYqrRSf4SU6SQnga) | 3:30 |
 | 100 | [What It Doesn’t Do](https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [What It Doesn’t Do](https://open.spotify.com/album/1MHxVPMWkJwBYn7FNHncra) | 3:36 |
 
-Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMDE1ZTEzODg1MGMzZTJlY2ZjOTM2YjRjNWNiZTRlODRl`
+Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMGY5MDg3MzU5YWJlNmQxZjI4OWZjZmVhZTI5NzhjZTVh`

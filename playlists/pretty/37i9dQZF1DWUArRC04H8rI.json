@@ -1,12 +1,12 @@
 {
   "description": "it's never too early.",
-  "num_followers": 103114,
+  "num_followers": 103156,
   "original_name": "Reggaeton for Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY1MjA1MywwMDAwMDAwMDRjOTcwYjc4YTg1MjMzZTE5Mjc2NDExYjYwOGRmOTMw",
+  "snapshot_id": "MTY3NjY1MjA1MywwMDAwMDAwMDFjMjQ1ODA2NTBjMGRhYzc4NTk2NzMxYzc0NTJhMmJm",
   "tracks": [
     {
       "added_at": "2023-02-17 16:08:27",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-02-17 16:08:27",
       "album": {
-        "name": "El Cartel: The Big Boss",
-        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Ella Me Levanto",
-      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
-    },
-    {
-      "added_at": "2023-02-17 16:08:27",
-      "album": {
         "name": "Monastery",
         "url": "https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 189333,
       "name": "Monastery",
       "url": "https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok"
+    },
+    {
+      "added_at": "2023-02-17 16:08:27",
+      "album": {
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Ella Me Levanto",
+      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
     },
     {
       "added_at": "2023-02-17 16:08:27",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2023-02-17 16:08:27",
       "album": {
-        "name": "Te Perd\u00ed",
-        "url": "https://open.spotify.com/album/7kYuBysyq8f3BfcV3jJ7J7"
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
       "artists": [
         {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/3ODWjPcN2heqjInFGpH2KU"
+      "duration_ms": 144799,
+      "name": "Las Jordans",
+      "url": "https://open.spotify.com/track/4eOGoAtYWRPQZ6mUwwgmuW"
     },
     {
       "added_at": "2023-02-17 16:08:27",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2023-02-17 16:08:27",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+        "name": "Te Perd\u00ed",
+        "url": "https://open.spotify.com/album/7kYuBysyq8f3BfcV3jJ7J7"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 144799,
-      "name": "Las Jordans",
-      "url": "https://open.spotify.com/track/4eOGoAtYWRPQZ6mUwwgmuW"
+      "duration_ms": 197000,
+      "name": "Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/3ODWjPcN2heqjInFGpH2KU"
     },
     {
       "added_at": "2023-02-17 16:08:27",

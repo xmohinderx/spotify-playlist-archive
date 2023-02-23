@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Foggie Raw, artwork by Ian Woods
 
-197 songs - 12 hr 10 min
+198 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [HOLY GHOST](https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [HOLY GHOST](https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA) | 4:50 | 2022-09-03 |  |
 | [Holy Ground](https://open.spotify.com/track/58xUB4HoZJmcUsc7h4xy4I) | [Caleb Carroll](https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf) | [The Word](https://open.spotify.com/album/3dQX4vUMkTnsUxWee3rZ4n) | 3:37 | 2022-07-17 | 2022-12-17 |
 | [How It Feels](https://open.spotify.com/track/7soNMxKiqVOma0DpcsISNx) | [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N) | [How It Feels](https://open.spotify.com/album/6RHxWNgkrehuZfhCy6knUs) | 3:19 | 2022-02-18 | 2022-06-01 |
-| [Humble](https://open.spotify.com/track/0jOegEvG5crKummCbFk5rm) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Humble](https://open.spotify.com/album/0OGt1dzhFMavsF6bQGCdxg) | 4:20 | 2023-02-02 |  |
+| [Humble](https://open.spotify.com/track/0jOegEvG5crKummCbFk5rm) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Humble](https://open.spotify.com/album/0OGt1dzhFMavsF6bQGCdxg) | 4:20 | 2023-02-02 | 2023-02-23 |
 | [I Am Loved](https://open.spotify.com/track/0vo4Ls8OV3D85CvkXiJKlO) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N) | [Unproduced: We Out Here](https://open.spotify.com/album/29gKx60TaRweRfptUVm4BZ) | 4:35 | 2022-06-01 | 2022-10-01 |
 | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj) | 3:45 | 2023-02-02 |  |
 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 | 2022-06-01 |  |
@@ -164,6 +164,7 @@
 | [Stop](https://open.spotify.com/track/25zS8gq7dkaXieDRMuj5vS) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [Stop](https://open.spotify.com/album/4OvPeGJUu03SZ6ocHlxs5W) | 2:42 | 2022-06-01 | 2022-07-18 |
 | [Summertime](https://open.spotify.com/track/2pVXqvUkfOb9S7NNsRvQey) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Summertime](https://open.spotify.com/album/1g538z0oTFoZdKOciRvPJn) | 3:09 | 2022-06-01 | 2023-02-03 |
 | [Sunrise 2 Sunset](https://open.spotify.com/track/3mrX6h20KTtxUqBwxkCaPV) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Vincent Charlow](https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3), [ITM](https://open.spotify.com/artist/6QmwIBi7pzFs75SnQFX6Hn), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Seaux Chill](https://open.spotify.com/artist/1m9azqggcxRtwUD9awNYTV) | [Sunrise 2 Sunset](https://open.spotify.com/album/7biUU4CgJf6anWLgdRr6Tk) | 3:42 | 2022-09-30 | 2023-01-28 |
+| [Sunrise 2 Sunset](https://open.spotify.com/track/7EJOV089sJE935qHobWmxA) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Vincent Charlow](https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3), [ITM](https://open.spotify.com/artist/6QmwIBi7pzFs75SnQFX6Hn), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Seaux Chill](https://open.spotify.com/artist/1m9azqggcxRtwUD9awNYTV) | [We Outside](https://open.spotify.com/album/67WCbBUMISteFiNbOZ2Yqw) | 3:42 | 2023-02-02 |  |
 | [Supernatural](https://open.spotify.com/track/56Q2OtRzToYHKxU9p6XWsn) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 2:20 | 2022-06-01 |  |
 | [Take Me to the Fire](https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Take Me to the Fire](https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2) | 3:02 | 2022-07-17 |  |
 | [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 | 2022-12-16 | 2023-01-13 |

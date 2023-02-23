@@ -4,7 +4,7 @@
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-95 songs - 8 hr 48 min
+96 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Ghost of a Chance](https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM) | [Lennie Tristano](https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e) | [Lennie Tristano / The New Tristano](https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9) | 6:05 | 2022-01-20 |  |
 | [How Deep Is The Ocean](https://open.spotify.com/track/6OkDQI3XFhWc4Ui18hi66h) | [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y) | [Tenor Conclave](https://open.spotify.com/album/1tGUz6CL3KTjp0Wm4ouZpY) | 15:03 | 2022-01-20 | 2022-07-29 |
 | [How Deep Is The Ocean](https://open.spotify.com/track/7y7M0Qd8r37uhLLScSQUyB) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Interplay \[Box Set\]](https://open.spotify.com/album/1H7bSbmS2OprRnTd4xz0Xy) | 15:06 | 2022-01-20 |  |
-| [I Didn't Know What Time It Was](https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants](https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg) | 10:06 | 2022-01-20 |  |
+| [I Didn't Know What Time It Was](https://open.spotify.com/track/1lAoG1TBej7gYJQ3UHUxjT) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants '56](https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1) | 10:02 | 2023-02-02 |  |
+| [I Didn't Know What Time It Was](https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants](https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg) | 10:06 | 2022-01-20 | 2023-02-23 |
 | [I'll Remember April](https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [September In The Rain](https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142) | 2:46 | 2022-01-20 |  |
 | [I'm Glad There Is You \- Remaster/2004](https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:14 | 2022-01-20 |  |
 | [It Ain't Necessarily So](https://open.spotify.com/track/1XjlS8YfcN2E4OJQ5CgOQC) | [Art Farmer & Benny Golson](https://open.spotify.com/artist/7wBmz5nj8jTmGvQXQC2EqT) | [Meet the Jazztet](https://open.spotify.com/album/56OywEvg2cq2C75EPzpGRc) | 4:30 | 2022-01-20 | 2022-07-29 |

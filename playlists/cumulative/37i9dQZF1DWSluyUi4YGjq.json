@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "bb",
+        "url": "https://open.spotify.com/album/5lZGM1KnsNUviOenuiil1h"
+      },
+      "artists": [
+        {
+          "name": "Laveda",
+          "url": "https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161225,
+      "name": "bb",
+      "url": "https://open.spotify.com/track/0BwlbW42QQj8xHABX53WVi"
+    },
+    {
+      "album": {
         "name": "To See the Next Part of the Dream",
         "url": "https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ"
       },
@@ -2864,7 +2882,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 280243,
       "name": "means to an end (not enough)",
       "url": "https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM"

@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 111342,
+  "num_followers": 111434,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY1MzIwMCwwMDAwMDAwMDA4ODFkNDk4YjZmODYwOTU3NTdhYmRkMTUxOTE0NDU3",
+  "snapshot_id": "MTY3NjY1MzIwMCwwMDAwMDAwMGI2NGRlMzE2NGYwYWUzMmVkOWE0YmE3MWM3MzQ1ZWVi",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -469,6 +469,22 @@
       "url": "https://open.spotify.com/track/7xINpy0rVreuzLsNMFaC4P"
     },
     {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "once in a moon",
+        "url": "https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 245175,
+      "name": "once in a moon",
+      "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
+    },
+    {
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "It Might as Well Be Spring",
@@ -487,22 +503,6 @@
       "duration_ms": 292706,
       "name": "It Might as Well Be Spring",
       "url": "https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "once in a moon",
-        "url": "https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 245175,
-      "name": "once in a moon",
-      "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
     },
     {
       "added_at": "2022-06-06 13:59:05",
@@ -689,26 +689,6 @@
       "url": "https://open.spotify.com/track/7jB2MgZ6ljFZaB63kwoWer"
     },
     {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "Love Tastes Like Strawberries",
-        "url": "https://open.spotify.com/album/3oOqTn2s7bE9Ye7GTmKO6m"
-      },
-      "artists": [
-        {
-          "name": "Somi",
-          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 218207,
-      "name": "Love Tastes Like Strawberries",
-      "url": "https://open.spotify.com/track/61jFe9N3u046ORguFBVAQa"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "When a Man Loves a Woman",
@@ -731,6 +711,26 @@
       "duration_ms": 258398,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "Love Tastes Like Strawberries",
+        "url": "https://open.spotify.com/album/3oOqTn2s7bE9Ye7GTmKO6m"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 218207,
+      "name": "Love Tastes Like Strawberries",
+      "url": "https://open.spotify.com/track/61jFe9N3u046ORguFBVAQa"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -765,6 +765,34 @@
       "url": "https://open.spotify.com/track/5eg751DjyXstfd7xwdHZ62"
     },
     {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Some Other Time",
+        "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        },
+        {
+          "name": "Mark Fitzgibbon",
+          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
+        },
+        {
+          "name": "Ben Hanlon",
+          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
+        },
+        {
+          "name": "Peter Hodges",
+          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
+        }
+      ],
+      "duration_ms": 207895,
+      "name": "Some Other Time",
+      "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Si tu vois ma m\u00e8re",
@@ -795,34 +823,6 @@
       "duration_ms": 191033,
       "name": "Just in Time",
       "url": "https://open.spotify.com/track/3qF3gCZxWzt9j60XfjtohG"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Some Other Time",
-        "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
-      },
-      "artists": [
-        {
-          "name": "Connie Lansberg",
-          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
-        },
-        {
-          "name": "Mark Fitzgibbon",
-          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
-        },
-        {
-          "name": "Ben Hanlon",
-          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
-        },
-        {
-          "name": "Peter Hodges",
-          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
-        }
-      ],
-      "duration_ms": 207895,
-      "name": "Some Other Time",
-      "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-02-18 05:02:00",
       "album": {
-        "name": "Language of Love (Version with Orchestra)",
-        "url": "https://open.spotify.com/album/4sQ9xawfO2mAMnZ25hz2o0"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 248469,
-      "name": "Language of Love (Version with Orchestra)",
-      "url": "https://open.spotify.com/track/22hByVCjdms7oeWe3SgxL8"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
         "name": "House of the Rising Sun",
         "url": "https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 225806,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Language of Love (Version with Orchestra)",
+        "url": "https://open.spotify.com/album/4sQ9xawfO2mAMnZ25hz2o0"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 248469,
+      "name": "Language of Love (Version with Orchestra)",
+      "url": "https://open.spotify.com/track/22hByVCjdms7oeWe3SgxL8"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1273,6 +1273,22 @@
       "url": "https://open.spotify.com/track/7dP5Y13MV07A983j7kiPkf"
     },
     {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Laura Goes East",
+        "url": "https://open.spotify.com/album/0ktGkuJRuBSqGmNZ0wOCw1"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 169046,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4yzx7CiAFb4UlV16G7iBpn"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "That's All",
@@ -1299,22 +1315,6 @@
       "duration_ms": 247208,
       "name": "That's All",
       "url": "https://open.spotify.com/track/4fccK8WxSPWlt9lolJqM6u"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Laura Goes East",
-        "url": "https://open.spotify.com/album/0ktGkuJRuBSqGmNZ0wOCw1"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 169046,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4yzx7CiAFb4UlV16G7iBpn"
     },
     {
       "added_at": "2022-09-12 14:36:28",
@@ -1409,24 +1409,20 @@
       "url": "https://open.spotify.com/track/4c1ZinOfQQeWkkDgAb9Jh3"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-02-18 05:02:00",
       "album": {
-        "name": "'Tis Autumn",
-        "url": "https://open.spotify.com/album/2SU5rrWTBsP4snnjoHBtyD"
+        "name": "Alfie",
+        "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
       },
       "artists": [
         {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Pat LaBarbera",
-          "url": "https://open.spotify.com/artist/5RUD9RUhciOcJG5dL8s3Ja"
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
         }
       ],
-      "duration_ms": 275133,
-      "name": "'Tis Autumn",
-      "url": "https://open.spotify.com/track/0VUDiPnBlf13otxOPzSPd9"
+      "duration_ms": 334933,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1481,38 +1477,6 @@
       "url": "https://open.spotify.com/track/4Y6QmccnSLAEBEkIwDi14d"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Alfie",
-        "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        }
-      ],
-      "duration_ms": 334933,
-      "name": "Alfie",
-      "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Simply Falling",
-        "url": "https://open.spotify.com/album/74T1wuXtwHkyRKt9rprUDA"
-      },
-      "artists": [
-        {
-          "name": "Chantal Chamberland",
-          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
-        }
-      ],
-      "duration_ms": 218679,
-      "name": "Simply Falling",
-      "url": "https://open.spotify.com/track/1ssJNXZibBxgDu9uIJ2ZQC"
-    },
-    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Cookin' at the Swing (Vol. 1)",
@@ -1539,6 +1503,42 @@
       "duration_ms": 389276,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/1KTaQ86FXc2K1yQg6aSWeq"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "'Tis Autumn",
+        "url": "https://open.spotify.com/album/2SU5rrWTBsP4snnjoHBtyD"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Pat LaBarbera",
+          "url": "https://open.spotify.com/artist/5RUD9RUhciOcJG5dL8s3Ja"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "'Tis Autumn",
+      "url": "https://open.spotify.com/track/0VUDiPnBlf13otxOPzSPd9"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Simply Falling",
+        "url": "https://open.spotify.com/album/74T1wuXtwHkyRKt9rprUDA"
+      },
+      "artists": [
+        {
+          "name": "Chantal Chamberland",
+          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
+        }
+      ],
+      "duration_ms": 218679,
+      "name": "Simply Falling",
+      "url": "https://open.spotify.com/track/1ssJNXZibBxgDu9uIJ2ZQC"
     },
     {
       "added_at": "2021-11-05 04:01:00",
@@ -1577,26 +1577,6 @@
       "url": "https://open.spotify.com/track/0ERXPudDdVEsXesQ8gT8v7"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/5oKYZptTBjlXmQKjkpwBrf"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        },
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 231487,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/2wJeDPbOfGRhzVLSQdjSgS"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Broadway By Day",
@@ -1615,6 +1595,26 @@
       "duration_ms": 250200,
       "name": "If I Loved You",
       "url": "https://open.spotify.com/track/6mMaZQLLPCMxOWhTjBpRkW"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/5oKYZptTBjlXmQKjkpwBrf"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 231487,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/2wJeDPbOfGRhzVLSQdjSgS"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-02-18 05:02:00",
       "album": {
-        "name": "A Child Is Born",
-        "url": "https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx"
-      },
-      "artists": [
-        {
-          "name": "Dara Tucker",
-          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
         "name": "Ink on a Pin - A Celebration of Joni Mitchell",
         "url": "https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 349160,
       "name": "The Sorrow It Shows",
       "url": "https://open.spotify.com/track/7cZenJ6XodfUnnZ0wwbFih"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "A Child Is Born",
+        "url": "https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx"
+      },
+      "artists": [
+        {
+          "name": "Dara Tucker",
+          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -2265,6 +2265,22 @@
       "url": "https://open.spotify.com/track/1inkgJ6fVHgpc6Goz2R7hA"
     },
     {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Nikki By Starlight",
+        "url": "https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz"
+      },
+      "artists": [
+        {
+          "name": "Nikki Yanofsky",
+          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "Comment Allez Vous",
+      "url": "https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm"
+    },
+    {
       "added_at": "2022-12-23 05:00:00",
       "album": {
         "name": "I Watch You Sleep",
@@ -2287,22 +2303,6 @@
       "duration_ms": 270078,
       "name": "I Watch You Sleep",
       "url": "https://open.spotify.com/track/6kEJOhJ6viqoOny0dIeUXF"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Nikki By Starlight",
-        "url": "https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz"
-      },
-      "artists": [
-        {
-          "name": "Nikki Yanofsky",
-          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "Comment Allez Vous",
-      "url": "https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm"
     },
     {
       "added_at": "2022-09-23 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,803 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,835 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 50 | [Shine](https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Start Livin'](https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg) | 3:14 |
 | 51 | [Fade Away](https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:29 |
 | 52 | [Dawn of Time](https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd) | [Tribal Seeds](https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02) | [Tribal Seeds](https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN) | 4:16 |
-| 53 | [Right Me Up](https://open.spotify.com/track/0mIedzCvGwfq4wIdGiVSut) | [State Radio](https://open.spotify.com/artist/6eaKsv68njcrz5OjeQor5L), [Chadwick Stokes](https://open.spotify.com/artist/785rMkDH7JjOFN3NcBGDJM) | [Us Against The Crown \(Bonus Track Version\)](https://open.spotify.com/album/3XOvNcVeUI9AInH5f0i7ou) | 4:13 |
-| 54 | [Sunshine](https://open.spotify.com/track/1ma4sCjoVMptvilcgJDPGc) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Spark Seeker](https://open.spotify.com/album/2dq7y0FKyzr33UBYXZ2g7u) | 3:33 |
+| 53 | [Sunshine](https://open.spotify.com/track/1ma4sCjoVMptvilcgJDPGc) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Spark Seeker](https://open.spotify.com/album/2dq7y0FKyzr33UBYXZ2g7u) | 3:33 |
+| 54 | [Right Me Up](https://open.spotify.com/track/0mIedzCvGwfq4wIdGiVSut) | [State Radio](https://open.spotify.com/artist/6eaKsv68njcrz5OjeQor5L), [Chadwick Stokes](https://open.spotify.com/artist/785rMkDH7JjOFN3NcBGDJM) | [Us Against The Crown \(Bonus Track Version\)](https://open.spotify.com/album/3XOvNcVeUI9AInH5f0i7ou) | 4:13 |
 | 55 | [Goodbyes](https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Goodbyes](https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B) | 2:11 |
 | 56 | [Walk Away](https://open.spotify.com/track/2zpWbK58RhiLysM201bT3W) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Daydreams](https://open.spotify.com/album/5R8yRYP7TqrGXsjV6xaLVJ) | 3:23 |
 | 57 | [Gimme Love](https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Gimme Love](https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [Free Your Mind \(with Surfer Girl\)](https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [All The Colors](https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG) | 3:09 |
 | 100 | [Jump](https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 5:04 |
 
-Snapshot ID: `MTY2ODcxNTAxOSwwMDAwMDAwMDM4Y2E2ZGJiYzU3ODIxZmJiY2Q0ODU1OTA3NzIzMmM4`
+Snapshot ID: `MTY2ODcxNTAxOSwwMDAwMDAwMGUwZWVlNDVjMTVjZTgxMjZiNGJlN2FmZWFjMzc5NTcw`

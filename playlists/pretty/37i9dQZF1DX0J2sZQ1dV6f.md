@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 
 > Perreo after hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,577 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,671 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

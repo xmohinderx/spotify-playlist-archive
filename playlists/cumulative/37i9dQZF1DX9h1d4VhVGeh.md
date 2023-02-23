@@ -4,7 +4,7 @@
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-145 songs - 9 hr 42 min
+148 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,10 @@
 | [Al Khafif](https://open.spotify.com/track/2ZJlmgrAuV1okMMYl3iJE6) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Nour](https://open.spotify.com/album/39qrmahD2aHHwfXaoBgxXE) | 3:59 | 2022-06-29 |  |
 | [Al Khafif](https://open.spotify.com/track/2OcawH6XV47Lc5utS3DCEW) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Nour](https://open.spotify.com/album/1wvevjoU5bxXWEXGZ1PuXw) | 3:59 | 2022-04-18 | 2022-07-24 |
 | [Albi](https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw), [Norah Shaqur](https://open.spotify.com/artist/357LwT1uF798pX9P418HhS) | [Ya Zalamez](https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo) | 3:53 | 2022-04-18 |  |
+| [Aleb Fel Dafater](https://open.spotify.com/track/68WRDAU8QecpIyasp2BEby) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Aleb Fel Dafater](https://open.spotify.com/album/6yF1BKku71kjth4L1WEMYV) | 5:06 | 2023-02-22 |  |
+| [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 | 2023-02-22 |  |
 | [Another Day](https://open.spotify.com/track/2OKIfa8QDPUb5fZOfXdU9p) | [Harget Kart](https://open.spotify.com/artist/5zfHhvhZk4urnU1SHWkxBm) | [Another Day](https://open.spotify.com/album/785ArxpCDxcCaV7a8jFhUM) | 3:52 | 2022-04-18 |  |
-| [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 | 2022-04-18 |  |
+| [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 | 2022-04-18 | 2023-02-23 |
 | [Asfur](https://open.spotify.com/track/6vuMqisW5jWBMNgh2EzAdd) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Amal](https://open.spotify.com/album/5Lx6Qo1efOKGYOLRc5u76S) | 5:24 | 2022-04-18 | 2022-07-29 |
 | [Bad Timing](https://open.spotify.com/track/5w3zFqLzDVn5uB4Fz7N02N) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 4:32 | 2022-04-18 |  |
 | [Badi Nsafer](https://open.spotify.com/track/2YQIEg63oy29RPK9JxjK1w) | [JOHANNA MORKOS](https://open.spotify.com/artist/3FH2g6XjDpSbPJaiNmto22) | [Badi Nsafer](https://open.spotify.com/album/3rWkdN3EccK10416tX7RgX) | 3:44 | 2022-04-18 | 2022-11-13 |
@@ -58,7 +60,7 @@
 | [Greetings](https://open.spotify.com/track/6muj0lvXBLEtDM2yw6H6ys) | [Hamza El Din](https://open.spotify.com/artist/5Aq8aAMrRJlJj8DMI8xOJZ) | [A Wish](https://open.spotify.com/album/2IxwTQpM2n5tFm2hWaYZeM) | 7:44 | 2022-04-18 |  |
 | [Habbaitak Be El Saif \- Live](https://open.spotify.com/track/1QJ2l3k2BFJypRUT5M4mLg) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Shahrazad \(Live\)](https://open.spotify.com/album/7Bp5hg6TqzX9wcxBn3WEfR) | 3:31 | 2022-04-18 |  |
 | [Halalalalaya](https://open.spotify.com/track/0bNJjUrO1ng64TlBzqfq1c) | [The Chehade Brothers](https://open.spotify.com/artist/6hhD05021IbbmyD93oaFaZ) | [Halalalalaya](https://open.spotify.com/album/0dArmNTWLeJwmUI4XBS9Pi) | 2:17 | 2022-04-18 | 2022-11-13 |
-| [Hasaruha](https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp) | [Taim Saleh](https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2) | [Hasaruha](https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa) | 3:24 | 2022-04-18 |  |
+| [Hasaruha](https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp) | [Taim Saleh](https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2) | [Hasaruha](https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa) | 3:24 | 2022-04-18 | 2023-02-23 |
 | [Hashrab Hashish](https://open.spotify.com/track/4S7oLETjomhx5WCDHf1166) | [Luka Salam](https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK) | [Hashrab Hashish](https://open.spotify.com/album/0GDXEudxSlauLzuQxfq2KO) | 3:04 | 2022-04-18 | 2022-09-07 |
 | [Hashrab Hashish](https://open.spotify.com/track/6Ah2JMiRc7MTr4SwRVNMh9) | [Luka Salam](https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK) | [Hashrab Hashish](https://open.spotify.com/album/2Nc4YEEwac5P2s3vjcsrEX) | 3:04 | 2022-06-29 |  |
 | [Hawel Tensany](https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hawel Tensany](https://open.spotify.com/album/7ndAWFIsXAqncsWbytToka) | 3:39 | 2022-04-18 | 2023-01-09 |
@@ -117,7 +119,7 @@
 | [Teftah El Shebbak](https://open.spotify.com/track/0WccFvkfsltcCe9gKefZYO) | [Haytham Saeid](https://open.spotify.com/artist/0WXx3Fv4nzZbz6RtsXa3Mw) | [Teftah El Shebbak](https://open.spotify.com/album/7y1XvljJOCcCvi6iBcX9Cy) | 3:46 | 2022-06-29 | 2022-11-14 |
 | [Teftah El Shebbak](https://open.spotify.com/track/584pFuFJjpCXhnQj4jQeOg) | [Haytham Saeid](https://open.spotify.com/artist/0WXx3Fv4nzZbz6RtsXa3Mw) | [Teftah El Shebbak](https://open.spotify.com/album/7e6cBQKnWs8OqkjR7gcoUO) | 3:46 | 2022-04-18 | 2022-07-29 |
 | [The Sun of Love \- Remix](https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO), [Bruno Cruz](https://open.spotify.com/artist/0yIJhvdaYRB4dOJskdpqxW), [Ministry of Dub\-Key](https://open.spotify.com/artist/1XW2NTbJjpWDcZioxGuzVT) | [R.I.M.I.X](https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc) | 3:26 | 2022-04-18 |  |
-| [W3od](https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [W3od](https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq) | 2:48 | 2022-04-18 |  |
+| [W3od](https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [W3od](https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq) | 2:48 | 2022-04-18 | 2023-02-23 |
 | [Waga'a El Hawa](https://open.spotify.com/track/1YW1dJLhxxlDab19RkeIQz) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Waga'a El Hawa](https://open.spotify.com/album/3wklcSidQvgDPzgAmiAckq) | 4:57 | 2022-04-18 |  |
 | [Wahna Kbar](https://open.spotify.com/track/7MUFWM9ColelDcWwUNpllS) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Wahna Kbar](https://open.spotify.com/album/3xGHjKsxftZypjhKbL8tA8) | 2:58 | 2022-04-18 | 2022-07-29 |
 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 | 2022-04-18 |  |
@@ -142,6 +144,7 @@
 | [Zina](https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci) | 3:57 | 2022-04-18 | 2022-07-29 |
 | [Zuruni](https://open.spotify.com/track/0dW503oQBCoCcwl2uTvnr6) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 3:09 | 2022-04-18 |  |
 | [إوعديني](https://open.spotify.com/track/0IVKMWovu9jtiHDRKn4HvE) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [مالناش الا بعض](https://open.spotify.com/album/33pX4SvxjRcSSaR1hQCLVL) | 5:43 | 2022-04-18 |  |
+| [انقذيني مني](https://open.spotify.com/track/1zAuToKatU8CEw01ZCcjQ5) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [انقذيني مني](https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s) | 3:01 | 2023-02-22 |  |
 | [بأمارة مين](https://open.spotify.com/track/0SbObewB36qKLWcaxMntej) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بأمارة مين](https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd) | 3:15 | 2022-11-09 |  |
 | [بحبك من زمان](https://open.spotify.com/track/3ZSch1osGSHoo0QnVFOqhg) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 5:01 | 2022-04-18 |  |
 | [حب عالحاجز](https://open.spotify.com/track/17WC8AQg7BuZvSEZcZxPu2) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6ARv46xQRJZsE5C78g4mFS) | 6:34 | 2022-04-18 | 2022-11-27 |

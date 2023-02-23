@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,500 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,511 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 7 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
 | 8 | [Playin' With My Friends](https://open.spotify.com/track/071l1tdfckojdC5V37NKN6) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Blues Summit](https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI) | 5:18 |
 | 9 | [Mojo Boogie \- Remastered](https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:53 |
-| 10 | [Shake Your Money Maker](https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq) | 2:30 |
-| 11 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
+| 10 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
+| 11 | [Shake Your Money Maker](https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq) | 2:30 |
 | 12 | [We Made It](https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 3:34 |
 | 13 | [Too Drunk To Drive Drunk](https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Hellfire](https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA) | 3:56 |
 | 14 | [Soundman](https://open.spotify.com/track/0QiCMItV7fotSykjjha7o3) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 3:43 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 40 | [Whoop And Holler](https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Stronger For It](https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA) | 2:36 |
 | 41 | [Hail Mighty Caesar](https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [Damage Control](https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH) | 4:16 |
 | 42 | [Good Time](https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 2:52 |
-| 43 | [Funky Broadway](https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [The Son Of A Bluesman](https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9) | 4:41 |
-| 44 | [Outlaw Angel](https://open.spotify.com/track/6sxkNpFtNuK5q8ctf626Z1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Dirty Truth](https://open.spotify.com/album/0kzodLdXKTl9mbyAr5hFXW) | 4:22 |
+| 43 | [Outlaw Angel](https://open.spotify.com/track/6sxkNpFtNuK5q8ctf626Z1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Dirty Truth](https://open.spotify.com/album/0kzodLdXKTl9mbyAr5hFXW) | 4:22 |
+| 44 | [Funky Broadway](https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [The Son Of A Bluesman](https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9) | 4:41 |
 | 45 | [Come On Up](https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW) | [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI), [Felix Cavaliere](https://open.spotify.com/artist/74wxdlP4utkNZrtAL0mKrQ), [Lee Roy Parnell](https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ) | [Times Have Changed](https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx) | 3:53 |
 | 46 | [Mr\. Soul](https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 3:44 |
 | 47 | [She Got Some Money](https://open.spotify.com/track/4gyMp3SlD3xaYQoP77nlAQ) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [She Got Some Money](https://open.spotify.com/album/6dvZHqoGgZjlTnNhYRpmjc) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 49 | [Little Juke Joint](https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Show Of Strength](https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3) | 6:00 |
 | 50 | [Mr\. Loving Man](https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7) | [Cassie Taylor / Dani Wilde / Samantha Fish](https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc) | [Girls With Guitars](https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS) | 3:34 |
 
-Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDEzZGQwNDcwZTEzZjk5M2QxZGFjYjgxNGVlMGVmYTE5`
+Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDgyNjg4OTcxMDNjMzhiOTFiZTFiYmEyNTlkNTlkNGNh`

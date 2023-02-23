@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in
 
-445 songs - 22 hr 37 min
+446 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [FOREVER, PT\. 2 \(JEZEBEL\) \[feat\. Destroy Lonely\]](https://open.spotify.com/track/4UvPWXmqiExQdIIoxb7ZHD) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [FOREVER, PT\. 2 \(JEZEBEL\) \[feat\. Destroy Lonely\]](https://open.spotify.com/album/46dFusMk8XdHcmOf1M43if) | 2:46 | 2023-02-17 | 2023-02-22 |
 | [Fractions](https://open.spotify.com/track/28PeqNMnFfVQnXvXmyf88G) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 3:01 | 2021-09-02 | 2022-03-09 |
 | [Freak \(feat\. Quavo\)](https://open.spotify.com/track/4bMQRUKsiELewtb3tzdFQn) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:41 | 2021-09-02 |  |
+| [Freestyle](https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:42 | 2023-02-23 |  |
 | [Freestyle 2](https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:18 | 2023-02-17 | 2023-02-22 |
 | [From Florida With Love](https://open.spotify.com/track/0YkUwXxnTkeJBvt5upeEtP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:54 | 2021-09-02 |  |
 | [From Nothing](https://open.spotify.com/track/5RtOqP26S4KrWexNolBaQc) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [From Nothing](https://open.spotify.com/album/1aDPMtE5pS8cNUKC3FnoIH) | 2:49 | 2022-08-26 |  |
@@ -294,7 +295,7 @@
 | [Pain 1993 \(with Playboi Carti\)](https://open.spotify.com/track/6Kj17Afjo1OKJYpf5VzCeo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 2:29 | 2021-09-02 | 2022-11-05 |
 | [Pape Talk](https://open.spotify.com/track/1fInVZhQmpopTKTkZnLvwG) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Paint the City \(Gangsta Grillz\)](https://open.spotify.com/album/3M1RUPna1fFjxNd9I0Vo0l) | 2:09 | 2022-12-30 | 2023-02-18 |
 | [Paper Route \(ft\. Young Dolph\)](https://open.spotify.com/track/5A5XZ49RusDpRHlltXB4f5) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Mention My Name](https://open.spotify.com/album/2yepLQw2fOxkEMfU3gbsWB) | 3:23 | 2022-07-29 |  |
-| [Patek](https://open.spotify.com/track/76MjtLfZoTNc3BDqUVjuRH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Patek](https://open.spotify.com/album/3A5i5WurRyY0fytprSDsKH) | 4:40 | 2021-09-02 |  |
+| [Patek](https://open.spotify.com/track/76MjtLfZoTNc3BDqUVjuRH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Patek](https://open.spotify.com/album/3A5i5WurRyY0fytprSDsKH) | 4:40 | 2021-09-02 | 2023-02-23 |
 | [Peta \(feat\. Meek Mill\)](https://open.spotify.com/track/4bl1HBZliBuYpFZjWgefE4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:18 | 2021-09-02 | 2022-06-25 |
 | [PICK UP \(feat\. Quavo\)](https://open.spotify.com/track/5gNOINI5dXZVom2b36LMOd) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 1:58 | 2021-09-02 | 2022-10-01 |
 | [Pink Toes \(Offset, DaBaby feat\. Gunna\)](https://open.spotify.com/track/0W1ZfgXpC23RYQPDq7RM5I) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 3:37 | 2021-09-02 |  |

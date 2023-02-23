@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-672 songs - 1 day 15 hr 42 min
+673 songs - 1 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Bước Qua Mùa Cô Đơn](https://open.spotify.com/track/7wkX67ruxr3x2GFz6vyIX9) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Mùa Cô Đơn](https://open.spotify.com/album/5eZM5D8F9yNZvsE4uC2l1s) | 4:38 | 2021-03-27\* | 2022-09-11 |
 | [Bước Qua Nhau](https://open.spotify.com/track/38rjRVqEHSlDRrDWDvjkqW) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:17 | 2022-09-10 | 2023-02-01 |
 | [Bước Qua Nhau](https://open.spotify.com/track/6GJi4nSZOiTOU2FhsgxWyH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Nhau](https://open.spotify.com/album/1kEjHdHNnYIv7CPF4fK8gU) | 4:17 | 2021-11-13 | 2022-09-11 |
+| [Bật Tình Yêu Lên](https://open.spotify.com/track/62SFLTN7txImu8pQwBMP6A) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ), [Hoà Minzy](https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8) | [Bật Tình Yêu Lên](https://open.spotify.com/album/6jOJUucuzH32n2BdTJ9lOB) | 3:23 | 2023-02-22 |  |
 | [Bắt Cóc Con Tim](https://open.spotify.com/track/3ho1OQb9SFtCt3MIiRZ8Si) | [Lou Hoang](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Bắt Cóc Con Tim](https://open.spotify.com/album/538vBy7c27uatest2Eu58q) | 3:17 | 2022-07-05 | 2022-09-23 |
 | [Bắt Vía \(feat\. Wren Evans & Mew Amazing\)](https://open.spotify.com/track/54EzTMmlLYab5d9psfwmxZ) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [Mew Amazing](https://open.spotify.com/artist/34nom4Ft3keMWBZPAUB3EI) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:24 | 2022-08-13 | 2022-08-21 |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-21 | 2021-11-22 |
@@ -374,7 +375,7 @@
 | [Mascara](https://open.spotify.com/track/50cmxP6KlnQA9IG3q5ckKD) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Qua Khung Cửa Sổ](https://open.spotify.com/album/7FbJRg2IYkVJioqMayEukG) | 4:53 | 2021-05-08 | 2021-10-17 |
 | [Mastermind](https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:11 | 2022-10-24 | 2022-10-25 |
 | [Mastermind](https://open.spotify.com/track/7zcJSflhqcSGICHUjgncnj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 3:11 | 2022-10-22 | 2022-10-24 |
-| [Matsuri](https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:45 | 2023-02-20 |  |
+| [Matsuri](https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:45 | 2023-02-20 | 2023-02-23 |
 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 | 2021-12-25 | 2021-12-27 |
 | [Midnight Rain](https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 2:54 | 2022-10-22 | 2022-10-24 |
 | [Midnight Rain](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:54 | 2022-10-24 | 2022-11-08 |

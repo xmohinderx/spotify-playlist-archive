@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Carole Samaha
 
-394 songs - 23 hr 9 min
+395 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Elain Tebki](https://open.spotify.com/track/0sd7Nw1PMval64C1YZjj4q) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Elain Tebki](https://open.spotify.com/album/5Y5e4ZbvgGgnPmTTfZzjUH) | 3:56 | 2021-12-23 | 2022-02-25 |
 | [Elak w Bas](https://open.spotify.com/track/16QkRfapLRwe9kBtYlctFC) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Elak w Bas](https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY) | 4:01 | 2022-08-25 |  |
 | [Elbet CDhat](https://open.spotify.com/track/020A1vGLssPEhWUhSnDPS7) | [Gohary](https://open.spotify.com/artist/0YGskdvcglrOoyXsGbixRn) | [Elbet CDhat](https://open.spotify.com/album/4dtDTpiF5qAVRSpwaOu126) | 3:17 | 2021-12-23 | 2022-03-01 |
-| [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 | 2022-07-21 |  |
+| [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 | 2022-07-21 | 2023-02-23 |
 | [Endi Rooh](https://open.spotify.com/track/1D01O8Tk05AZtAPqMQQT7C) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Endi Rooh](https://open.spotify.com/album/7HiwjvsxLEWs1IEZ6VK2J9) | 3:41 | 2022-11-15 |  |
 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 | 2021-12-23 | 2022-02-28 |
 | [Ensani Jdidi](https://open.spotify.com/track/418acwEsYYWdtuUW6fYMxE) | [DJ Carlos B](https://open.spotify.com/artist/6Zc4YkIlrrgNXpcTXoj9M6), [Mona K](https://open.spotify.com/artist/5ODayvnpNQjrzyeUrrdAvU) | [Ensani Jdidi](https://open.spotify.com/album/7y2ihN3XTC9ANP5vqkt2MO) | 3:34 | 2022-06-16 | 2022-07-07 |
@@ -394,6 +394,7 @@
 | [نساى](https://open.spotify.com/track/2AVA6NJZXA7UERS5nnsTzz) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:17 | 2022-11-15 |  |
 | [نظر عيني](https://open.spotify.com/track/1SWoEHNrMXTMVt4xlOxw1P) | [Farah Chreim](https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc) | [Nazar Aayni](https://open.spotify.com/album/1QwswXYVpJ31bZ4eM4mZm6) | 3:15 | 2023-01-01 |  |
 | [هاجر نعمان \- مسعود هجر](https://open.spotify.com/track/7jA6AqFb0h95bne8OAFQyj) | [هاجر نعمان](https://open.spotify.com/artist/6SeRGZj4fBqstC7JBv2Rb8) | [هاجر نعمان \- مسعود هجر](https://open.spotify.com/album/1aQuxtQPo3W1PNRUKkYT8u) | 6:45 | 2021-12-23 | 2022-03-02 |
+| [واجهني](https://open.spotify.com/track/7asTmSESqhuj3HdgR6rQwk) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k) | [قلبي فين](https://open.spotify.com/album/3la6nheI10U25uw7auvl4h) | 3:15 | 2023-02-23 |  |
 | [وذا مارحت](https://open.spotify.com/track/0yBbI752cyXl1lioeMrn1v) | [ضحى ذاكر](https://open.spotify.com/artist/2YscB4ch7eFXGvGiv6uSV5) | [واذا مارحت \- Single](https://open.spotify.com/album/0rga8umlOMLhiJ6deifelZ) | 2:47 | 2021-12-23 | 2022-03-02 |
 | [ولو](https://open.spotify.com/track/4YkNQggwRFNWBxCOrNf7nj) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [ولو](https://open.spotify.com/album/44ixYLqJfjnmY5UKLOpbgf) | 2:58 | 2022-03-01 | 2023-01-19 |
 | [يا صبر الليل](https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [يا صبر الليل](https://open.spotify.com/album/1eJTKJZZ8DwHTS2bB9aphX) | 4:22 | 2022-03-01 | 2023-02-12 |

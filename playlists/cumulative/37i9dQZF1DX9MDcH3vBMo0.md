@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-582 songs - 1 day 1 hr 31 min
+584 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Tough Hand](https://open.spotify.com/track/4UYSLzyr0ONAmb9MapOruJ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [A Tough Hand](https://open.spotify.com/album/24rSOZgo1sJvLCmoRXelVe) | 2:27 | 2022-04-21 |  |
 | [A Winged Time](https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Out Of The Blue](https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc) | 2:00 | 2022-04-21 |  |
 | [Abbellimenti](https://open.spotify.com/track/6CJRpyYTWrVqVGFbu9rc8r) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Abbellimenti](https://open.spotify.com/album/3vzFG9NkHWpizfwNBIqMx8) | 2:32 | 2022-04-21 | 2022-07-21 |
-| [Above Light](https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Above Light](https://open.spotify.com/album/6CAfWb9Pc7ThbXdGR5sr7R) | 3:11 | 2022-04-21 |  |
+| [Above Light](https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Above Light](https://open.spotify.com/album/6CAfWb9Pc7ThbXdGR5sr7R) | 3:11 | 2022-04-21 | 2023-02-23 |
 | [Abre los ojos](https://open.spotify.com/track/0xxo7AH7SJMuoTJKeX72Jj) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Abre los ojos](https://open.spotify.com/album/4EM7qAQ7pqE6qWYFFp7aVi) | 2:46 | 2022-04-21 | 2022-07-21 |
 | [Adagio](https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Adagio](https://open.spotify.com/album/2rlGSTH3U5yFtDzs296a89) | 3:55 | 2022-04-21 | 2023-01-21 |
 | [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 | 2022-04-21 |  |
@@ -26,6 +26,7 @@
 | [Akeleie](https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Akeleie](https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP) | 3:53 | 2022-04-21 |  |
 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 | 2022-04-21 |  |
 | [All My Words](https://open.spotify.com/track/4t6nAyyW8FEEXbN5MLAjtL) | [Mark Millson](https://open.spotify.com/artist/3wIkO7KPoP7jhrn7OA4yvG) | [All My Words](https://open.spotify.com/album/3szqW639zPbIC99Fy8eNfF) | 2:41 | 2022-04-21 | 2022-10-08 |
+| [Altar](https://open.spotify.com/track/4GBWvw48RFr6WQDSvFJ5yh) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Altar](https://open.spotify.com/album/7gmheB2m41ayIEe5yPWFPj) | 2:17 | 2023-02-20 |  |
 | [Always Watching Over You](https://open.spotify.com/track/3g3Ff3nRjNXQlXsYgTM8GT) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Always Watching Over You](https://open.spotify.com/album/6LqqB9KbNrztwPnJQkgECi) | 2:30 | 2022-04-21 | 2022-09-24 |
 | [am eisernen Steig](https://open.spotify.com/track/6Vy0gvQG1dq7I7yTnNZwiz) | [Maggie Fletcher](https://open.spotify.com/artist/4BAzGcIrYWKK95fYvVaDjI) | [high above the trees](https://open.spotify.com/album/64eS8Jz1rSRTwmHxPufz8P) | 3:08 | 2022-04-21 | 2022-07-21 |
 | [Amaryllis](https://open.spotify.com/track/2WaBWRReKqvbWBi2ATw5QE) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Amaryllis](https://open.spotify.com/album/63RlPJTM1SC2knHQtbspf2) | 2:21 | 2022-04-21 |  |
@@ -467,6 +468,7 @@
 | [Solace](https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Solace](https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB) | 2:31 | 2023-01-20 |  |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-04-21 |  |
 | [Solitude](https://open.spotify.com/track/1DBcTd8Qkm9hAHOXI1ajDa) | [Light Beyond Life](https://open.spotify.com/artist/6qLYeDUv2dxEGxNCWoL7b5) | [Solitude](https://open.spotify.com/album/21PRAMDAdTD9Q1GTWc89l6) | 2:27 | 2022-04-21 | 2022-07-20 |
+| [Somersault \- Revisited](https://open.spotify.com/track/1hpZuDKO80t1lR5BR0BaKP) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Somersault \(lO\)](https://open.spotify.com/album/33YGKrv3mjwVhAlFhz9vyQ) | 2:07 | 2023-02-20 |  |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2022-04-21 | 2022-07-21 |
 | [Song for Marianne](https://open.spotify.com/track/2xlSPP16a3SSOLBPOvTDru) | [Shane Dillard](https://open.spotify.com/artist/4I3uP0iJu6cGL8H3HRJ6vq) | [Song for Marianne](https://open.spotify.com/album/26tnVVQif13uMyUux1Nsvc) | 2:13 | 2022-04-21 | 2022-09-24 |
 | [Song for the Dandelion](https://open.spotify.com/track/2GXsUlfyM2BjijJQscU2oB) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [Song for the Dandelion](https://open.spotify.com/album/6CpIli1LlEdyjK801eaYZ8) | 2:17 | 2022-04-21 | 2022-07-21 |
@@ -476,7 +478,7 @@
 | [South Road](https://open.spotify.com/track/6IHwCVzlZl4wRzHO7iag9s) | [Anne Dubbot](https://open.spotify.com/artist/2Du8SzCwTpfWaUvU5d4Gdc) | [South Road](https://open.spotify.com/album/6GmIlyvmNLiAq0IeE2tinY) | 2:26 | 2022-04-21 | 2022-09-24 |
 | [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 | 2022-04-21 | 2022-07-21 |
 | [Spring Shower](https://open.spotify.com/track/6mjeJniGJxw9q29cBHQKRH) | [Harbor Stone](https://open.spotify.com/artist/7IshNIQ1vOJIBFBx7FXfcn) | [Spring Shower](https://open.spotify.com/album/5cTl20iAy3UHlc1IIYyfWE) | 2:46 | 2022-04-21 |  |
-| [Spur Of The Moment](https://open.spotify.com/track/6io03Imv3ItVjAhrBat1WY) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Spur Of The Moment](https://open.spotify.com/album/3XYOzXOGdUcO7RPzv1YaMz) | 2:50 | 2022-04-21 |  |
+| [Spur Of The Moment](https://open.spotify.com/track/6io03Imv3ItVjAhrBat1WY) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Spur Of The Moment](https://open.spotify.com/album/3XYOzXOGdUcO7RPzv1YaMz) | 2:50 | 2022-04-21 | 2023-02-23 |
 | [Spørsmål](https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Fylke](https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H) | 3:16 | 2022-04-21 | 2022-09-24 |
 | [Starling](https://open.spotify.com/track/0deHuVvihpR7Xi8CZCy23s) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Maxine](https://open.spotify.com/album/46o6wVwjYewCk2cFa239XN) | 4:04 | 2022-04-21 | 2022-09-24 |
 | [Stay here](https://open.spotify.com/track/0ikGD2kxo348Cqxdb2jkzQ) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Stay here](https://open.spotify.com/album/43zF1UhpFqNjcFc28PQIfk) | 2:52 | 2022-04-21 | 2022-11-15 |

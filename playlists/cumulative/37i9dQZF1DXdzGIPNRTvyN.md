@@ -4,15 +4,15 @@
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-48 songs - 2 hr 9 min
+49 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [40](https://open.spotify.com/track/640cERY2tzEK0UURzWgFJp) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [40](https://open.spotify.com/album/3wk7uPZns7HJ0lNtn0driV) | 2:29 | 2023-01-24 |  |
 | [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 | 2023-02-13 |  |
-| [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 | 2023-01-24 |  |
+| [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 | 2023-01-24 | 2023-02-23 |
 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 | 2023-01-24 | 2023-02-21 |
-| [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 | 2023-01-24 |  |
+| [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 | 2023-01-24 | 2023-02-23 |
 | [Canola Morning](https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Canola Morning](https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb) | 2:44 | 2023-01-24 |  |
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-01-24 |  |
 | [Countryside](https://open.spotify.com/track/1niV98qbCKuViXYebTlyEX) | [Noche Larga](https://open.spotify.com/artist/4QOp3aQnEKX1eFwZiT5U3I) | [Countryside](https://open.spotify.com/album/3P5GsO5dYCjBD7nLXMANPG) | 3:24 | 2023-01-24 | 2023-02-13 |
@@ -30,8 +30,9 @@
 | [Humble Present](https://open.spotify.com/track/4Vi9xSebHSxKK7LArcVcYU) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Humble Present](https://open.spotify.com/album/0hpfhie8BPcA0okirMROQB) | 3:32 | 2023-01-24 |  |
 | [Insirium](https://open.spotify.com/track/310oWEiiJNzno545nutX6e) | [Gillirium](https://open.spotify.com/artist/4dfUUvHsq6FLLkA0Qy7wqu) | [Insirium](https://open.spotify.com/album/1gPruQqi2RQqUDKp6y5LCH) | 2:59 | 2023-02-22 |  |
 | [Iridescence](https://open.spotify.com/track/6e4I3Y1IfBQxdv4iuaB3Wx) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Iridescence](https://open.spotify.com/album/4vWK3QWLMqhSD5DVET5UPa) | 2:53 | 2023-01-24 |  |
+| [Jours Heureux](https://open.spotify.com/track/0s7HtboRz3xS0OV0sYHpaM) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Jours Heureux](https://open.spotify.com/album/1xOB5BZcjqUybxX8fnt2HZ) | 1:49 | 2023-02-13 |  |
 | [Lily's Arrival](https://open.spotify.com/track/0KdOX4bbKodh8fWhbUgRLe) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Lily's Arrival](https://open.spotify.com/album/2lmh2HkpKRGJBjVLNf7D8Z) | 2:58 | 2023-01-24 |  |
-| [Looking for the Self](https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs) | [Ascend](https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv) | 3:13 | 2023-02-14 | 2023-02-22 |
+| [Looking for the Self](https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs) | [Ascend](https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv) | 3:13 | 2023-02-13 |  |
 | [Luna Nueva](https://open.spotify.com/track/6GLKRIk8YSDDi3BnJIVr4C) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Luna Nueva](https://open.spotify.com/album/1nXR27VjplhMuwL7u6ChGd) | 3:37 | 2023-01-24 |  |
 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 | 2023-01-24 |  |
 | [Micelle](https://open.spotify.com/track/6B93bHTKbd7Tv4F3U267ga) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Micelle](https://open.spotify.com/album/2ZuVz9Mjtohq1taNses5ym) | 2:07 | 2023-01-24 | 2023-02-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover:フレデリック
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,709 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,798 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 6 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 |
 | 7 | [第ゼロ感](https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 4:46 |
 | 8 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 |
-| 9 | [風来](https://open.spotify.com/track/0NCp3Af9c2ufCah4LinfJT) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [風来](https://open.spotify.com/album/3JrxuhOs9bd9Tbcs6P7j7D) | 4:25 |
-| 10 | [愛の太陽](https://open.spotify.com/track/0zachxUjDCMi59m1RGjOqT) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [愛の太陽](https://open.spotify.com/album/4NyLuxXiCsxBYis4wkvdaX) | 4:12 |
+| 9 | [Furai](https://open.spotify.com/track/0JlDINY2QfgBGG1HYXeuyV) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Furai](https://open.spotify.com/album/4j0Zj8PZiRK5PL7MqFQA83) | 4:25 |
+| 10 | [Sun of Love](https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Sun of Love](https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I) | 4:12 |
 | 11 | [鯨の子](https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [鯨の子](https://open.spotify.com/album/72OedMUACIRxK4gVHnPgKB) | 4:13 |
 | 12 | [TRAIN\-TRAIN](https://open.spotify.com/track/5PUNRSIFNxWimFJ1r9vgkl) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/4c3iop1ngWgS6LZNcMYpI5) | 3:53 |
 | 13 | [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 74 | [1096](https://open.spotify.com/track/7Ld2efllkAfXdSOkAqPNwu) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [1096](https://open.spotify.com/album/2Cf2vmP3ffvd5n1Qo1UFNY) | 5:45 |
 | 75 | [リバイブレーション](https://open.spotify.com/track/16mw2JWm6u8Cc5ZMMamrGI) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [リバイブレーション / うざ。 / STRAWBERRY](https://open.spotify.com/album/3gMSby01PQLlG684fSYNkT) | 2:20 |
 | 76 | [流浪](https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [流浪](https://open.spotify.com/album/7yJSa3B3S8j06vodDbGvAD) | 4:02 |
-| 77 | [This Song](https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [This Song](https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s) | 3:51 |
+| 77 | [This Song \-Planxty Irwin\-](https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [This Song \-Planxty Irwin\-](https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s) | 3:51 |
 | 78 | [BeachBoys](https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BeachBoys](https://open.spotify.com/album/3igMRAOzbW8TJH7xoIaylg) | 2:18 |
 | 79 | [Neighbor](https://open.spotify.com/track/5Gfd9OVeGAntRYosUS0ZCy) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Neighbor](https://open.spotify.com/album/4SMsvmN93mpnD23tZXZikV) | 4:32 |
 | 80 | [煙](https://open.spotify.com/track/7ePUIMn58JPBBO4GgZ5ws1) | [ペルシカリア](https://open.spotify.com/artist/4FdJpSAmMOX4yoYTAzjLKB) | [煙](https://open.spotify.com/album/4vsVm3kF6hvG6bLISAOEGX) | 4:29 |
 
-Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMDc0NmI2NGI0M2M1MjU1OWNhNjI2NmM3YWU1M2M4NTMz`
+Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMGE0MTAzNmJhMTJiMjg3MzVjNGM0Y2YwZjUzMjRkZjc1`

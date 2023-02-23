@@ -4,7 +4,7 @@
 
 > Les hits du moment sont ici\. Cover : Dizzy DROS
 
-148 songs - 8 hr 20 min
+150 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,10 +51,11 @@
 | [Ena](https://open.spotify.com/track/2EgLc1ac8D2PRIoOc0MWhA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/6ikbd0GPRfPckuN7rLDSit) | 5:12 | 2022-05-12 | 2022-09-07 |
 | [Enty Hayaty](https://open.spotify.com/track/2FCV8dhMiAl3fNifmx1Q3m) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Enty Hayaty](https://open.spotify.com/album/6xcvw1ccUgfmlOqh55D2yN) | 4:15 | 2022-05-12 | 2022-07-14 |
 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 | 2022-07-23 | 2022-10-28 |
+| [Fi Lamane](https://open.spotify.com/track/5vlL8e2Ssrc7YCxjzgG55A) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Fi Lamane](https://open.spotify.com/album/3MCrQeMpa5llbeiwNKeLPi) | 3:00 | 2023-02-22 |  |
 | [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 | 2022-12-13 |  |
 | [Galbi 3lik Nberdah](https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A), [Yousri Osqar](https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay) | [Galbi 3lik Nberdah](https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y) | 5:07 | 2022-12-31 | 2023-01-10 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2022-05-12 | 2022-05-31 |
-| [Ghazali](https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [Ghazali](https://open.spotify.com/album/3W7Td1MGNtH7PqGMpbtb57) | 5:04 | 2022-12-05 |  |
+| [Ghazali](https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [Ghazali](https://open.spotify.com/album/3W7Td1MGNtH7PqGMpbtb57) | 5:04 | 2022-12-05 | 2023-02-23 |
 | [GHAZALI](https://open.spotify.com/track/1hZrz8xkp0QEJNNmdKYNVP) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC) | 5:04 | 2022-10-24 | 2022-10-27 |
 | [GHAZALI](https://open.spotify.com/track/1SYjg4Ff4aGzZVJKfK7OEA) | [MOUHAMED GRINE](https://open.spotify.com/artist/5Sj8EjR3eENxsr4Tgv9OGh), [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [GHAZALI](https://open.spotify.com/album/6q4ADoh3h7OHkFJsCFcx6l) | 3:16 | 2022-10-26 | 2022-12-06 |
 | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo) | 3:04 | 2022-06-06 |  |
@@ -87,7 +88,7 @@
 | [La rwina](https://open.spotify.com/track/1qmQtjLHkjwrRzuFmP9smG) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 4:11 | 2022-05-12 | 2022-08-09 |
 | [La street](https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 3:20 | 2022-07-13 |  |
 | [Laisse Tomber](https://open.spotify.com/track/5VpkGOSBwYh0ikxPxmR2ld) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Laisse Tomber](https://open.spotify.com/album/6ZhgW4To5S7eY08c0wMPPO) | 3:17 | 2022-08-30 | 2022-11-15 |
-| [Lbaroud](https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:56 | 2022-05-12 |  |
+| [Lbaroud](https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:56 | 2022-05-12 | 2023-02-23 |
 | [Lberra7](https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Lberra7](https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq) | 3:16 | 2022-09-19 | 2022-12-02 |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-01-26 |  |
 | [Lovini](https://open.spotify.com/track/40Sf3xGKMtwYM9y2RyScr8) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Lovini](https://open.spotify.com/album/0xExuBGAAYGqgBelfN7Gzn) | 3:09 | 2022-05-24 | 2022-06-24 |
@@ -150,6 +151,7 @@
 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2022-05-12 | 2022-08-17 |
 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 | 2023-01-17 |  |
 | [WAYLE](https://open.spotify.com/track/0jCNrDbEbpRbuDiGcKa907) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [WAYLE](https://open.spotify.com/album/2NRpmLrRQOapraNh2MCRnZ) | 3:10 | 2022-11-07 |  |
+| [WILI](https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [WILI](https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1) | 3:10 | 2023-02-22 |  |
 | [Ya Ayouni](https://open.spotify.com/track/5mayCpikqyQIDXWscGgNXf) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Ya Ayouni](https://open.spotify.com/album/7qj7ixMmSbbC8G8FoaYzlu) | 4:21 | 2022-05-12 | 2022-07-14 |
 | [Ya Hmed](https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [Ya Hmed](https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf) | 3:29 | 2022-05-12 | 2022-06-10 |
 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 | 2022-06-02 |  |

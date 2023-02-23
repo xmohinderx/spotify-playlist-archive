@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 32687,
+  "num_followers": 32698,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMGJiNDQzMmM2MzVjZDg3ZDZlY2NlNGI0NjI0Y2M2ZWEx",
+  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMDM4ZGZjYmI2NzQyZjRiMTZjZDAyMzVjZWI2NDAyZDNk",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Tim Maia 1973",
         "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 217604,
       "name": "R\u00e9u Confesso",
       "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -451,6 +451,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Martinho da Vila",
+        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 153440,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Getz/Gilberto (Expanded Edition)",
         "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 139986,
       "name": "Corcovado (Quiet Nights Of Quiet Stars) - Single Version",
       "url": "https://open.spotify.com/track/5nU7dvOfzYs9QVVL7YVNPE"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Martinho da Vila",
-        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 153440,
-      "name": "Canta Canta, Minha Gente",
-      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -855,6 +855,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "A Valentine For You",
+        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 127186,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Elegance: The Birth Of The Modern Jazz Quartet",
         "url": "https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 362093,
       "name": "Entre Dos Aguas",
       "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "A Valentine For You",
-        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 127186,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
-        "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Bang! Bang!",
-      "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Para Todo el Mundo, Vol. 2",
         "url": "https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 220080,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/5NKsz3ZklHNHbCVxMHiFU7"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
+        "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Bang! Bang!",
+      "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Dois Momentos",
-        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Quando voc\u00ea chegar",
-      "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Para Sempre",
         "url": "https://open.spotify.com/album/5e2HXBdSKE8VtNUTSVzeWs"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 166200,
       "name": "Maracangalha",
       "url": "https://open.spotify.com/track/2cP4EP3v6I5UYcmixnEroX"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Dois Momentos",
+        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Quando voc\u00ea chegar",
+      "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "The New Look",
-        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 224360,
-      "name": "Our Day Will Come",
-      "url": "https://open.spotify.com/track/1juZY0JbbkkATQP9LSeOQH"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Bonfa Burrows Brazil",
         "url": "https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 234200,
       "name": "The Shade of the Mango Tree",
       "url": "https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "The New Look",
+        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Our Day Will Come",
+      "url": "https://open.spotify.com/track/1juZY0JbbkkATQP9LSeOQH"
     },
     {
       "added_at": "2021-03-15 16:04:53",

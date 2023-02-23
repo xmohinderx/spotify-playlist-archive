@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: GONEISBACK\(고은이\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-306 songs - 17 hr 24 min
+308 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-14 | 2022-08-14 |
 | [Ditto](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:05 | 2023-01-04 |  |
 | [DIVE](https://open.spotify.com/track/36UWU0wqIELSR6Azb3zcgD) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [DIVE](https://open.spotify.com/album/74i7iW2GXbm50mQttVDHYy) | 3:13 | 2021-11-21 | 2022-07-10 |
-| [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-19 |  |
+| [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-19 | 2023-02-23 |
 | [Don't Hurt the Island Please](https://open.spotify.com/track/1FBEwUknugg7TJC70uVJ7s) | [Hanbona](https://open.spotify.com/artist/5Ks1S1FGw6Yym0Km9XCrsH) | [Don't Hurt the Island Please](https://open.spotify.com/album/3kNufrGn0Vxd0KCUoWWBlt) | 3:24 | 2021-11-21 | 2022-07-18 |
 | [Don't Leave Me 너는 왜 날 사랑하지 않았을까 \(With SILVERBELL\)](https://open.spotify.com/track/6AqBNTdNQfWqBkrhyhY3HI) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [은종 SILVERBELL](https://open.spotify.com/artist/3qkoYX52r1wKyh1yDy5Uic) | [Don't Leave Me 너는 왜 날 사랑하지 않았을까 \(With SILVERBELL\)](https://open.spotify.com/album/5AXVR3mwnqR8egSpzvmqB7) | 4:13 | 2022-03-29 | 2022-04-21 |
 | [DOOMCHITA](https://open.spotify.com/track/3gLmJaolKWQGRT5xaS09JN) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [DOOMCHITA](https://open.spotify.com/album/10OdrpNsZ8FGFpWqsz7ujT) | 3:17 | 2022-07-07 | 2022-08-02 |
@@ -197,6 +197,7 @@
 | [POP](https://open.spotify.com/track/2FzMEX0nP9tFd6phID2tm8) | [bugAboo](https://open.spotify.com/artist/0qgxiUt2HZ0GoYRYF01aH5) | [POP](https://open.spotify.com/album/1ZMNqhcar5rjEgjWZ6WFv1) | 3:14 | 2022-06-18 | 2022-07-05 |
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-06-24 |  |
 | [Pop? Pop!](https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [Sequence : 7272](https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo) | 3:35 | 2022-08-01 | 2022-08-19 |
+| [Poppy \(Korean Ver.\)](https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Poppy \(Korean Ver.\)](https://open.spotify.com/album/5zjvNPacLQjzsBVDxyhuiu) | 2:58 | 2023-02-22 |  |
 | [POSE](https://open.spotify.com/track/6L22JhubMtyZNBEFuzeZKB) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:06 | 2022-07-07 | 2022-08-10 |
 | [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 | 2022-03-22 | 2022-09-02 |
 | [pporappippam 보라빛 밤](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [pporappippam 보라빛 밤](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) | 3:26 | 2021-11-21 | 2022-08-23 |
@@ -217,7 +218,7 @@
 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 | 2022-09-06 | 2022-11-21 |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-11-21 | 2022-07-29 |
 | [Rollin'](https://open.spotify.com/track/4ajYy2PqT3czWrpI4rgmIP) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/4GQIMQs8dxEjI3el1HCGzq) | 3:17 | 2022-07-07 | 2022-08-04 |
-| [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2022-08-02 |  |
+| [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2022-08-02 | 2023-02-23 |
 | [Roomie](https://open.spotify.com/track/1KH10P3M4x3ONABMhiv8B5) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Roomie](https://open.spotify.com/album/0XIFtmJyxwfYFzTxzq4ILi) | 3:52 | 2021-11-21 | 2022-06-14 |
 | [Rose Blossom](https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 1st Mini Album \[Rose Blossom\]](https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L) | 3:15 | 2023-01-11 |  |
 | [RUN](https://open.spotify.com/track/4gHUimlUJuaZMn1E7mFBvt) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [RUN](https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF) | 3:15 | 2022-07-07 | 2022-08-02 |
@@ -249,6 +250,7 @@
 | [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 | 2021-11-21 | 2023-02-21 |
 | [Take My Hand](https://open.spotify.com/track/0T1OJqhF2ihqavFfxbiOO8) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Baeeori](https://open.spotify.com/artist/1pHjQiHrT8MN5KZd6ueb7c) | [Take My Hand](https://open.spotify.com/album/0bIJnz9JqrGqOKr8DCN6N5) | 3:18 | 2021-11-21 | 2022-07-17 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-31 |  |
+| [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 | 2023-02-22 |  |
 | [Tell me now](https://open.spotify.com/track/2kIYgg1tOBTjs7XLZNwuSs) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB), [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 2:42 | 2022-05-31 | 2022-06-24 |
 | [The Best Ending](https://open.spotify.com/track/2r8ndLpyDjYJo0q03AMo5s) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [The Best Ending OST](https://open.spotify.com/album/4tcJcOrgd4qRPRXFHFslwT) | 2:56 | 2021-11-21 | 2022-07-23 |
 | [The Breath Of Winter \(feat\. Jung Young Eun\)](https://open.spotify.com/track/42UDKyFA8mxrLjP5mHvJRj) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf) | [The Breath Of Winter \(feat\. Jung Young Eun\)](https://open.spotify.com/album/2ZNsDPYOBprv3g0venQ9q6) | 3:14 | 2022-03-22 | 2022-04-14 |

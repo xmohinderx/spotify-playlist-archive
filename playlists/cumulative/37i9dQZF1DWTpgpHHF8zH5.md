@@ -4,7 +4,7 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-260 songs - 13 hr 25 min
+261 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,9 +98,10 @@
 | [Girls Like Us](https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:09 | 2022-05-06 | 2022-07-29 |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2022-09-23 | 2023-01-11 |
 | [Golden Nights](https://open.spotify.com/track/5EKy5i2ZYe3UXPExAyBaRd) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt), [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ) | [Golden Nights](https://open.spotify.com/album/44KYSw3czmtKXP6KM2ZciM) | 2:58 | 2022-05-06 | 2022-07-29 |
-| [Good Vibes](https://open.spotify.com/track/53kWAAfx7IopXRa31MQHB8) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Good Vibes](https://open.spotify.com/album/4jNGoT2765DZqZA1rlT3DL) | 2:50 | 2022-05-13 |  |
+| [Good Vibes](https://open.spotify.com/track/53kWAAfx7IopXRa31MQHB8) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Good Vibes](https://open.spotify.com/album/4jNGoT2765DZqZA1rlT3DL) | 2:50 | 2022-05-13 | 2023-02-23 |
 | [Greatest Hits](https://open.spotify.com/track/1GAPdTb7VRCwLskdsmCr1A) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Greatest Hits](https://open.spotify.com/album/36YSz1QyExBcGJrCoOU9A5) | 3:17 | 2022-05-06 | 2022-07-29 |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2022-05-06 |  |
+| [Heart Wants What It Wants](https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Wants What It Wants](https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG) | 3:02 | 2023-02-17 |  |
 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 | 2022-05-06 |  |
 | [Heaven](https://open.spotify.com/track/1NZLDZsqmvMVcZ02VT7ocP) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Heaven](https://open.spotify.com/album/6EuPz5zzV6JLMZKrb7LIsu) | 2:33 | 2022-09-02 | 2022-09-24 |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-07-22 | 2022-09-24 |

@@ -4,7 +4,7 @@
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-221 songs - 13 hr 5 min
+222 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Jim](https://open.spotify.com/track/6okhWB79mZuK96OJt3VAHU) | [Faire](https://open.spotify.com/artist/2YyXNn8mZ7CUAzS1X4u2UY) | [L'Enfer](https://open.spotify.com/album/5F1z37hg0DSbK12G6mNfNa) | 3:01 | 2022-05-20 |  |
 | [JTM](https://open.spotify.com/track/5vwg3qMy6YSid8ZWMUs3TL) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Erotico](https://open.spotify.com/album/2qgly5AILBokzUG2Be1QrD) | 2:42 | 2022-05-20 |  |
 | [Just a Clown](https://open.spotify.com/track/5JJTagJDBRxOwBDPuvVLB7) | [Primer](https://open.spotify.com/artist/0RZs9ZOXkINVtC9rnV24MI) | [Incubator](https://open.spotify.com/album/4H2VMSzj5yp80XLKaCmEzZ) | 3:42 | 2022-12-21 |  |
-| [Just One Dance](https://open.spotify.com/track/7tYCf3ftc99AQrn2cXYM6d) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Just One Dance](https://open.spotify.com/album/0SDFVMcSBRXrodzfAKOEBy) | 3:32 | 2022-05-20 |  |
+| [Just One Dance](https://open.spotify.com/track/4Tt9F3SsutXa3AEjAUGG1Y) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Just One Dance](https://open.spotify.com/album/2NshWBILMEJ6tkTz6OJNAU) | 3:32 | 2022-12-21 |  |
+| [Just One Dance](https://open.spotify.com/track/7tYCf3ftc99AQrn2cXYM6d) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Just One Dance](https://open.spotify.com/album/0SDFVMcSBRXrodzfAKOEBy) | 3:32 | 2022-05-20 | 2023-02-23 |
 | [Keep It Close to Me \- Cyril Hahn Remix](https://open.spotify.com/track/0A7TZtpIH7a3kYnVOkHfsN) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Keep It Close to Me \(Cyril Hahn Remix\)](https://open.spotify.com/album/5tj2y4bz4ZFEHoGmLMDs5l) | 4:23 | 2022-05-20 |  |
 | [Kunigonde](https://open.spotify.com/track/2Fw7OgSb2f9CO25VzSUFAC) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Canicule](https://open.spotify.com/album/4KZRFwBBoi7NIJsbDlADhg) | 4:22 | 2022-05-20 |  |
 | [L'amour est dans l'air \- Remasterisé en 2019](https://open.spotify.com/track/04qJXFRmt06SOjqeecfNTu) | [Laurent Rossi](https://open.spotify.com/artist/3mr7jNmay7VJ7BTUBeYyeM) | [Les 45 Tours \(Remasterisé en 2019\)](https://open.spotify.com/album/33CrUTfdeq7hdcOhWLX2g7) | 3:39 | 2022-12-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Rachel Chinouriri",
-  "num_followers": 1704394,
+  "num_followers": 1704473,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAwMzM3OCwwMDAwMDAwMDBhZjJjNWJmMmRjOTUzMmIyYzUyZTEyY2I2MGEyMjM2",
+  "snapshot_id": "MTY3NzAwMzM3OCwwMDAwMDAwMGQyODA0MjI1ZmE0YzlmNTJmZTlhNTBhYWMzOTAwMmI2",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Dance Fever",
-        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 227374,
-      "name": "Dream Girl Evil",
-      "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
-    },
-    {
       "added_at": "2023-02-21 18:16:18",
       "album": {
         "name": "Desire, I Want To Turn Into You",
@@ -507,6 +491,22 @@
       "duration_ms": 232625,
       "name": "Welcome To My Island",
       "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 227374,
+      "name": "Dream Girl Evil",
+      "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "letting you go (demo)",
-        "url": "https://open.spotify.com/album/0zcvrmnfKMWW31SisynhrZ"
-      },
-      "artists": [
-        {
-          "name": "CLAY",
-          "url": "https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL"
-        }
-      ],
-      "duration_ms": 221469,
-      "name": "letting you go - demo",
-      "url": "https://open.spotify.com/track/5XMiziJ3bT3zHZzzHW2QtP"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Think I'm In Love",
         "url": "https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 133000,
       "name": "Think I'm In Love",
       "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "letting you go (demo)",
+        "url": "https://open.spotify.com/album/0zcvrmnfKMWW31SisynhrZ"
+      },
+      "artists": [
+        {
+          "name": "CLAY",
+          "url": "https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL"
+        }
+      ],
+      "duration_ms": 221469,
+      "name": "letting you go - demo",
+      "url": "https://open.spotify.com/track/5XMiziJ3bT3zHZzzHW2QtP"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Let's Make a Mistake Tonight",
-        "url": "https://open.spotify.com/album/5ZtqvxdR8JObx37QbifQS6"
-      },
-      "artists": [
-        {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Let's Make a Mistake Tonight",
-      "url": "https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "The Problem Song",
         "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 157570,
       "name": "The Problem Song",
       "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Let's Make a Mistake Tonight",
+        "url": "https://open.spotify.com/album/5ZtqvxdR8JObx37QbifQS6"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Let's Make a Mistake Tonight",
+      "url": "https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
       },
       "artists": [
         {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         }
       ],
-      "duration_ms": 162421,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
+      "duration_ms": 145324,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1211,34 +1211,34 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
         }
       ],
-      "duration_ms": 145324,
-      "name": "Hannah Montana",
-      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
+      "duration_ms": 162421,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
     },
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "liar",
-        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
+        "name": "Bumblebee",
+        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
         }
       ],
-      "duration_ms": 134000,
-      "name": "liar",
-      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
+      "duration_ms": 200000,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
     }
   ],
   "unique_name": "Indie Pop",

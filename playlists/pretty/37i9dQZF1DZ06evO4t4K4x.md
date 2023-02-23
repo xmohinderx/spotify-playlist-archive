@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080 likes - 31 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082 likes - 31 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 30 | [Great Zoos of the World](https://open.spotify.com/track/4HnfjfedOmmZkxjaAeEkcY) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:37 |
 | 31 | [Science and Health](https://open.spotify.com/track/3CsSFQJyWG9gYqP6mwkqAj) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:57 |
 
-Snapshot ID: `Mjc5NDk2OTcsMDAwMDAwMDBlODkwZmI2NjEzNDVhN2VkZDU1Y2MxNGM2NmQ1ZGZlZQ==`
+Snapshot ID: `Mjc5NTExODIsMDAwMDAwMDAwNjQ0YWM3YmYyMGZkYTRlNTU1ODcxOWE2MTYxMWY0MQ==`

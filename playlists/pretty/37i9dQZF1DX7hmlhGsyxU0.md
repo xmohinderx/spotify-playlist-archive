@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,559 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,662 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 26 | [No Time But Eternity](https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [No Time But Eternity](https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY) | 6:39 |
 | 27 | [What If](https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Transcend](https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1) | 3:32 |
 | 28 | [In a Field of Silence](https://open.spotify.com/track/0LNvUKT6sskN56036poQCY) | [Michael Kim\-Sheng](https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd) | [Heavy Moon](https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz) | 4:37 |
-| 29 | [Drifter](https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa) | 2:37 |
-| 30 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 |
-| 31 | [Living Rooms](https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE) | 2:55 |
+| 29 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 |
+| 30 | [Living Rooms](https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE) | 2:55 |
+| 31 | [Drifter](https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa) | 2:37 |
 | 32 | [We All Grieve Differently](https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ) | [Rohit](https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3) | [On The Verge Of Collapse](https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA) | 2:48 |
-| 33 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 |
-| 34 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
-| 35 | [Efterskalv](https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a) | [Efterskalv](https://open.spotify.com/album/5awzU6y9tgPQq4axj75TjS) | 3:49 |
-| 36 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 |
+| 33 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
+| 34 | [Efterskalv](https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a) | [Efterskalv](https://open.spotify.com/album/5awzU6y9tgPQq4axj75TjS) | 3:49 |
+| 35 | [Low Sun](https://open.spotify.com/track/2WV63cJoapM6BNN22RvxZF) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Hristo Dunev](https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF) | [Low Sun](https://open.spotify.com/album/5nPnWhONfOxXGJ24qAaJwc) | 3:16 |
+| 36 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 |
 | 37 | [Gravegarden](https://open.spotify.com/track/49TkJGEsIbcSIIJUkXziAR) | [JustJosh](https://open.spotify.com/artist/1TbzLqFHKYsQ428ZTKqvx8) | [Serenity](https://open.spotify.com/album/5azwhbDYpWykwwAH6YZMOh) | 4:18 |
-| 38 | [Low Sun](https://open.spotify.com/track/2WV63cJoapM6BNN22RvxZF) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Hristo Dunev](https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF) | [Low Sun](https://open.spotify.com/album/5nPnWhONfOxXGJ24qAaJwc) | 3:16 |
-| 39 | [Calm Water](https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen) | [Elise Bordeaux](https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW) | [Calm Water](https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ) | 4:20 |
+| 38 | [Calm Water](https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen) | [Elise Bordeaux](https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW) | [Calm Water](https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ) | 4:20 |
+| 39 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 |
 | 40 | [How Time Works](https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh) | [Eric Carlson](https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE) | [How Time Works](https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE) | 3:45 |
 | 41 | [Sérénité](https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ) | [Jérémie Fauquet](https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob) | [Sérénité](https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ) | 1:48 |
 | 42 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 62 | [Sóliton](https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Sóliton](https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE) | 2:02 |
 | 63 | [Perceptions](https://open.spotify.com/track/0Vg0pWGNhanZaZX1K4u6RU) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/0q4yViidvirc5Oki1E7Lu6) | 2:52 |
 
-Snapshot ID: `MTY2NzgzMTMxMCwwMDAwMDAwMDk5NzFmNzE4NTY3YjI1YjM5MWI3ZDU0NjJjNzlhNTIw`
+Snapshot ID: `MTY2NzgzMTMxMCwwMDAwMDAwMDYwZmJiZDJjMjU0NDQ5ODNjYTQyYjk2ODI2NjY2YWIy`

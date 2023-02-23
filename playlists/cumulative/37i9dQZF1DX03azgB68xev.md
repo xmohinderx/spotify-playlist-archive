@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-330 songs - 18 hr 29 min
+331 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Fearless](https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Lionheart \(Deluxe\)](https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD) | 4:14 | 2021-10-31 | 2022-07-27 |
 | [Feel Good](https://open.spotify.com/track/2qDJNEzQvyuXPblfZcXPqM) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Feel Good](https://open.spotify.com/album/7tofoNXgN2AgkEeQ0mbKK1) | 3:39 | 2023-01-13 |  |
 | [Feel Holy](https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Feel Holy](https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac) | 5:31 | 2021-10-31 | 2022-06-22 |
+| [Feeling Good](https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Good Life](https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng) | 3:06 | 2023-01-13 |  |
 | [Fight My Fight For Me](https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Trampolines](https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2) | [Fight My Fight For Me](https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB) | 2:41 | 2021-10-31 | 2023-01-14 |
 | [Fire](https://open.spotify.com/track/3QGRDHfqA8ShEmLZJG2tEU) | [Cat Rea](https://open.spotify.com/artist/2p5dxSCkyWzMfgCc77ulwi) | [Fire](https://open.spotify.com/album/6q4IGnHGVmq3XWP3FrCLWN) | 3:24 | 2021-10-31 | 2022-07-22 |
 | [Fire + Rain](https://open.spotify.com/track/5pFU5IH9dTIaGGRtL7dNUQ) | [The Agape Music Group](https://open.spotify.com/artist/6q6OWH72l1iFYBZUb6z9E4), [Renee Pullum](https://open.spotify.com/artist/6jX5ekSzDJgziIWpxvumgt) | [Fire + Rain](https://open.spotify.com/album/7HsEsFpLDvnsIwuIpZypm7) | 3:10 | 2021-10-31 | 2022-07-05 |
@@ -270,7 +271,7 @@
 | [Source](https://open.spotify.com/track/5P8f4IKLbTap8ua0DKepcX) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Source](https://open.spotify.com/album/1dqLRB8MrN9zlkSEAhQtIZ) | 3:04 | 2023-01-13 |  |
 | [Spring Theory](https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:41 | 2023-01-13 |  |
 | [Stages](https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Stages](https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2) | 3:08 | 2021-10-31 | 2023-01-14 |
-| [Stained Glass](https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It \(Deluxe Edition\)](https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz) | 3:16 | 2023-01-13 |  |
+| [Stained Glass](https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It \(Deluxe Edition\)](https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz) | 3:16 | 2023-01-13 | 2023-02-23 |
 | [State Of Mind \- Live](https://open.spotify.com/track/4x92BLwZCXLS5JGvYO6Cbl) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [All Glory \(Live\)](https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR) | 3:41 | 2021-10-31 | 2022-07-28 |
 | [Stay \(feat\. Eris Ford\) \- Remix](https://open.spotify.com/track/6jxmiJbjn6pH8nxEKCFw72) | [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z), [GIDI](https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Stay \(Remix\) \[feat\. Eris Ford\]](https://open.spotify.com/album/6cZRxLsUIWMricmggksk3T) | 3:28 | 2021-10-31 | 2022-07-25 |
 | [Story of Our Love \(Remix\)](https://open.spotify.com/track/0oDvkijT0QEPvHRUx9cedz) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Story of Our Love \(Remix\)](https://open.spotify.com/album/0SJ8xAyevSx07cmaF4mHfI) | 3:05 | 2021-10-31 | 2022-07-29 |

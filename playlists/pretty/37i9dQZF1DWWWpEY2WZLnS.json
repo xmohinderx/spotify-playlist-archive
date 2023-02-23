@@ -1,15 +1,15 @@
 {
   "description": "Lo mas pegao en Dembow. \nCover: Prince Royce & El Alfa",
-  "num_followers": 328718,
+  "num_followers": 328815,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxNzg2NCwwMDAwMDAwMGYxYTMyMGZhZmRkNTIzY2ZiMTliMGI5OWExNTRmNzZh",
+  "snapshot_id": "MTY3NjYxNzg2NCwwMDAwMDAwMDE2ZTU0YjE0MGM5NzVmNzJkYTM5MTY3NDlmZWI4ZWM1",
   "tracks": [
     {
-      "added_at": "2023-02-22 01:02:12",
+      "added_at": "2023-02-23 00:50:44",
       "album": {
         "name": "LE DOY 20 MIL",
         "url": "https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/7qgovmYLU3BUltCBdYUPKg"
     },
     {
-      "added_at": "2023-02-22 01:02:12",
+      "added_at": "2023-02-23 00:50:44",
       "album": {
         "name": "Doggy Doggy",
         "url": "https://open.spotify.com/album/4meeL0ZVvnYmaEjA8iz7HX"
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
+        "name": "El Boom",
+        "url": "https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 219402,
+      "name": "El Boom",
+      "url": "https://open.spotify.com/track/4hir6efnLrA73d06HuLbZo"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
         "name": "Maliante",
         "url": "https://open.spotify.com/album/4JYslbzoOPChDxxyYTvkn0"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 151423,
       "name": "Maliante",
       "url": "https://open.spotify.com/track/2bktmhGaISzLn0XCdeGzK4"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
-        "name": "El Boom",
-        "url": "https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 219402,
-      "name": "El Boom",
-      "url": "https://open.spotify.com/track/4hir6efnLrA73d06HuLbZo"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
+        "name": "Marianela",
+        "url": "https://open.spotify.com/album/3DcQWl5CYS0R81XMNYGNDS"
+      },
+      "artists": [
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Marianela",
+      "url": "https://open.spotify.com/track/3NVvbKNndun3sfDKJANhw4"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
         "name": "Lokisla",
         "url": "https://open.spotify.com/album/6tQmUnaSJ4TkqvdfujoYIZ"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 264827,
       "name": "Lokisla",
       "url": "https://open.spotify.com/track/5k4YmMdNXdzN8zOdYxHet2"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
-        "name": "Marianela",
-        "url": "https://open.spotify.com/album/3DcQWl5CYS0R81XMNYGNDS"
-      },
-      "artists": [
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Marianela",
-      "url": "https://open.spotify.com/track/3NVvbKNndun3sfDKJANhw4"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
+        "name": "Mi Flaca",
+        "url": "https://open.spotify.com/album/0x9ue70sk15y8M4EDjGLHx"
+      },
+      "artists": [
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        },
+        {
+          "name": "DJ Kiko El De Lo Alka",
+          "url": "https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF"
+        }
+      ],
+      "duration_ms": 110500,
+      "name": "Mi Flaca",
+      "url": "https://open.spotify.com/track/0QzZqrEZ4FpviHkpafy5lQ"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/6h9dkQ3QFyf8v17w2XOdyT"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 180048,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
-        "name": "Mi Flaca",
-        "url": "https://open.spotify.com/album/0x9ue70sk15y8M4EDjGLHx"
-      },
-      "artists": [
-        {
-          "name": "Dilon Baby",
-          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
-        },
-        {
-          "name": "DJ Kiko El De Lo Alka",
-          "url": "https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF"
-        }
-      ],
-      "duration_ms": 110500,
-      "name": "Mi Flaca",
-      "url": "https://open.spotify.com/track/0QzZqrEZ4FpviHkpafy5lQ"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -1747,26 +1747,18 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "Yo Lo Da\u00f1o",
-        "url": "https://open.spotify.com/album/7yOfvoEwpyHXa3Dl8vhvZM"
+        "name": "Maniqui",
+        "url": "https://open.spotify.com/album/46b2mwTXK6QJGRZgJ2q8cc"
       },
       "artists": [
         {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
         }
       ],
-      "duration_ms": 147543,
-      "name": "Yo Lo Da\u00f1o",
-      "url": "https://open.spotify.com/track/0KzcNyuqxT7DoKBOMplUzc"
+      "duration_ms": 177632,
+      "name": "Maniqui",
+      "url": "https://open.spotify.com/track/4i8NEPpP802z5lxewO8flu"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -1787,18 +1779,26 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "Maniqui",
-        "url": "https://open.spotify.com/album/46b2mwTXK6QJGRZgJ2q8cc"
+        "name": "Yo Lo Da\u00f1o",
+        "url": "https://open.spotify.com/album/7yOfvoEwpyHXa3Dl8vhvZM"
       },
       "artists": [
         {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
         }
       ],
-      "duration_ms": 177632,
-      "name": "Maniqui",
-      "url": "https://open.spotify.com/track/4i8NEPpP802z5lxewO8flu"
+      "duration_ms": 147543,
+      "name": "Yo Lo Da\u00f1o",
+      "url": "https://open.spotify.com/track/0KzcNyuqxT7DoKBOMplUzc"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -2327,26 +2327,6 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "Always Dream",
-        "url": "https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w"
-      },
-      "artists": [
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        },
-        {
-          "name": "Kiko el Crazy",
-          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
-        }
-      ],
-      "duration_ms": 169253,
-      "name": "Ruleta",
-      "url": "https://open.spotify.com/track/1TmaUCaKqjWmd1JAsU4jo3"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
         "name": "Reencarnaci\u00f2n",
         "url": "https://open.spotify.com/album/7sPE3bH9YnLraUfpREGcvr"
       },
@@ -2363,6 +2343,26 @@
       "duration_ms": 136320,
       "name": "Arete",
       "url": "https://open.spotify.com/track/2p5LVvY7ja8NQKJoSaqJL4"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
+        "name": "Always Dream",
+        "url": "https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w"
+      },
+      "artists": [
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        }
+      ],
+      "duration_ms": 169253,
+      "name": "Ruleta",
+      "url": "https://open.spotify.com/track/1TmaUCaKqjWmd1JAsU4jo3"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -2455,30 +2455,6 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "Me Quieren Abobiar",
-        "url": "https://open.spotify.com/album/6vlGqLulsURF5I3A1YV825"
-      },
-      "artists": [
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "La Gre\u00f1a",
-          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
-        }
-      ],
-      "duration_ms": 153407,
-      "name": "Me Quieren Abobiar",
-      "url": "https://open.spotify.com/track/4D4VTDo7ni7YPeKl5proCF"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/6Ewr6sAvH5YJiLlTop0BRq"
       },
@@ -2503,6 +2479,30 @@
       "duration_ms": 170132,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/6fx777GrjGp9SjnAKUUrvN"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
+        "name": "Me Quieren Abobiar",
+        "url": "https://open.spotify.com/album/6vlGqLulsURF5I3A1YV825"
+      },
+      "artists": [
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        }
+      ],
+      "duration_ms": 153407,
+      "name": "Me Quieren Abobiar",
+      "url": "https://open.spotify.com/track/4D4VTDo7ni7YPeKl5proCF"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -2671,6 +2671,22 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
+        "name": "Pin Pon",
+        "url": "https://open.spotify.com/album/0Fm04gVS5QjzNXMB10o8xM"
+      },
+      "artists": [
+        {
+          "name": "Liro Shaq",
+          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "Pin Pon",
+      "url": "https://open.spotify.com/track/0hsvxHMRWEvUCtE1qDfiDG"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
         "name": "melacomo",
         "url": "https://open.spotify.com/album/5lEbFl8zV2BSTUwWDxYZBK"
       },
@@ -2691,22 +2707,6 @@
       "duration_ms": 228571,
       "name": "melacomo",
       "url": "https://open.spotify.com/track/6FUiZ86ucz8sn45kLfK2wD"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
-        "name": "Pin Pon",
-        "url": "https://open.spotify.com/album/0Fm04gVS5QjzNXMB10o8xM"
-      },
-      "artists": [
-        {
-          "name": "Liro Shaq",
-          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "Pin Pon",
-      "url": "https://open.spotify.com/track/0hsvxHMRWEvUCtE1qDfiDG"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -3211,30 +3211,6 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "Chupable",
-        "url": "https://open.spotify.com/album/2CYVPdemfQfUrEK3rMBkbb"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chikybombom La Pantera",
-          "url": "https://open.spotify.com/artist/4nKbC3BWCO0m0CdQ42OZB5"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Chupable",
-      "url": "https://open.spotify.com/track/5e9Otk4mv4O0DOoKjjZcG1"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
         "name": "Tamo en Hoja",
         "url": "https://open.spotify.com/album/5y0riJ489uBOTqX6aauDW0"
       },
@@ -3255,6 +3231,30 @@
       "duration_ms": 223461,
       "name": "Tamo en Hoja",
       "url": "https://open.spotify.com/track/3N2lSc9JXDFiE0rqKOiGIs"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
+        "name": "Chupable",
+        "url": "https://open.spotify.com/album/2CYVPdemfQfUrEK3rMBkbb"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chikybombom La Pantera",
+          "url": "https://open.spotify.com/artist/4nKbC3BWCO0m0CdQ42OZB5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Chupable",
+      "url": "https://open.spotify.com/track/5e9Otk4mv4O0DOoKjjZcG1"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -3627,6 +3627,22 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
+        "name": "La Pampara",
+        "url": "https://open.spotify.com/album/47wn5kQQYh8dCJq9nFdkjk"
+      },
+      "artists": [
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        }
+      ],
+      "duration_ms": 140492,
+      "name": "La Pampara",
+      "url": "https://open.spotify.com/track/27D9B8v0U0Dx4I1gys0Y1Y"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
         "name": "Lleg\u00f3 el Domi",
         "url": "https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC"
       },
@@ -3643,22 +3659,6 @@
       "duration_ms": 175093,
       "name": "H\u00e1blale de Cualto",
       "url": "https://open.spotify.com/track/4zRITqNT5onefyu56kOI9W"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
-        "name": "La Pampara",
-        "url": "https://open.spotify.com/album/47wn5kQQYh8dCJq9nFdkjk"
-      },
-      "artists": [
-        {
-          "name": "Kiko el Crazy",
-          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
-        }
-      ],
-      "duration_ms": 140492,
-      "name": "La Pampara",
-      "url": "https://open.spotify.com/track/27D9B8v0U0Dx4I1gys0Y1Y"
     },
     {
       "added_at": "2023-02-09 00:00:06",

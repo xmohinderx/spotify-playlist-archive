@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Eddie Zuko
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,868 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,846 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 8 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 |
 | 9 | [Unbothered](https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU) | 2:04 |
 | 10 | [Say It](https://open.spotify.com/track/6PyZGb1rB7oLKCICWTmGYa) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:40 |
-| 11 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 |
-| 12 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:24 |
+| 11 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:24 |
+| 12 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 |
 | 13 | [El Momento Perfecto](https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 3:21 |
 | 14 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 |
 | 15 | [Ni bien ni mal](https://open.spotify.com/track/6KUQvfFKLMF2fL3xFXoZbG) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Ni bien ni mal](https://open.spotify.com/album/6rWFTuLNpePpP8cCx83uVs) | 2:50 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 36 | [Sola](https://open.spotify.com/track/3JqDfnSgtwbw8jiTEr4Zvf) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Naona](https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd) | 3:51 |
 | 37 | [te di mi luz](https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF) | [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg) | [SI ME ELEVO](https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr) | 2:22 |
 | 38 | [Miel <3](https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 3:23 |
-| 39 | [NORTE A SUR](https://open.spotify.com/track/2ghoM5KMSQUOGW0VAVaTvF) | [Cyluz](https://open.spotify.com/artist/6B2ybhyaJT5yd7V5dMX8BQ), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NORTE A SUR](https://open.spotify.com/album/0Cfa8A3NCWF9pgPKZHbgOO) | 2:32 |
-| 40 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 |
+| 39 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 |
+| 40 | [NORTE A SUR](https://open.spotify.com/track/2ghoM5KMSQUOGW0VAVaTvF) | [Cyluz](https://open.spotify.com/artist/6B2ybhyaJT5yd7V5dMX8BQ), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NORTE A SUR](https://open.spotify.com/album/0Cfa8A3NCWF9pgPKZHbgOO) | 2:32 |
 | 41 | [¿Para dónde vamos?](https://open.spotify.com/track/51Eock8moiROVuwifuovBF) | [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Andrik](https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp) | [¿Para dónde vamos?](https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL) | 3:34 |
 | 42 | [CONTRACORRIENTE](https://open.spotify.com/track/6RNtxMrTBFaZ1O80D2jsKT) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 3:25 |
 | 43 | [MI AMOR](https://open.spotify.com/track/0pRRA68mFH6sIhLsenSit9) | [Call Me Ace](https://open.spotify.com/artist/4FKGHM8GGbuP6XIAUoNShM), [CHANNA](https://open.spotify.com/artist/0eWYvUXSchDSbrUvvNcPvp), [J\-Dot Music](https://open.spotify.com/artist/5zNLBBmJp8f1OWisLEIqXw) | [RETURN TO OFFICE](https://open.spotify.com/album/0CxeKUMjFYN38iZRDQbsSO) | 3:31 |
-| 44 | [wonder](https://open.spotify.com/track/6d4J0NMFdQ8Y6dRCAc0Kzp) | [Angel Cintron](https://open.spotify.com/artist/6hZZbz6dn2lD5VvXUSeUs3) | [wonder](https://open.spotify.com/album/5YBrEKfnHHCPWoLSKl9L1d) | 2:54 |
-| 45 | [bend&break](https://open.spotify.com/track/5K3ULL04iSyZo0on8cBkHt) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Hasta La Dorada](https://open.spotify.com/album/0A0Ez9RZ22c9NWW9pVm5d1) | 3:03 |
+| 44 | [bend&break](https://open.spotify.com/track/5K3ULL04iSyZo0on8cBkHt) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Hasta La Dorada](https://open.spotify.com/album/0A0Ez9RZ22c9NWW9pVm5d1) | 3:03 |
+| 45 | [wonder](https://open.spotify.com/track/6d4J0NMFdQ8Y6dRCAc0Kzp) | [Angel Cintron](https://open.spotify.com/artist/6hZZbz6dn2lD5VvXUSeUs3) | [wonder](https://open.spotify.com/album/5YBrEKfnHHCPWoLSKl9L1d) | 2:54 |
 | 46 | [Blu](https://open.spotify.com/track/2qPc3RreHTFZF24GJP1L5A) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Mundos Paralelos](https://open.spotify.com/album/4AabL56MTUUk3khEB3rzxA) | 3:59 |
 | 47 | [La Selva Se Lo Llevo](https://open.spotify.com/track/7HbliIqpMum8pNhGTB9hz0) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT), [Shary Rose](https://open.spotify.com/artist/0Fy1mYuGtX0RBAraYKsJId) | [Lost Tribes](https://open.spotify.com/album/4x6FWqKuw1ruzP8IcdiuFm) | 5:54 |
 | 48 | [Minute In The Morning](https://open.spotify.com/track/1Epn4eSgWUPQ1gGM64jmGc) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Principe Azul](https://open.spotify.com/album/5OZV8awIYVFNjbxq0ucMIJ) | 2:41 |
 | 49 | [Supersad](https://open.spotify.com/track/3wXHiSxEOqxhPHB9sa2Ylk) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Oscuro](https://open.spotify.com/album/2M2py5NnsTLVQhmkQfIrft) | 3:35 |
 | 50 | [FWEGO](https://open.spotify.com/track/56k3h7yVCSJgCeqh3f53PZ) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [FWEGO](https://open.spotify.com/album/0YS43LsRpzZsw9Im7BL5nt) | 3:07 |
 
-Snapshot ID: `MTY3NjU4MTIwMywwMDAwMDAwMGU4ODE2ODIwMTZmNDM3ZWI0ODUzMGYxZjk1MmM2MTI2`
+Snapshot ID: `MTY3NjU4MTIwMywwMDAwMDAwMDA3MzU1ZDcyYTcwZTA3Y2ViYjZiZWVjZTU0OTMzZWYx`

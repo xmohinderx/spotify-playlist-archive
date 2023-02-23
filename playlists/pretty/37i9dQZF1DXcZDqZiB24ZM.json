@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Loud",
-  "num_followers": 6708,
+  "num_followers": 6712,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMDY4MzEwZTUyMmE1N2YxNTEyNjc2Mjk2Njg5YjU3YmE2",
+  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMGQ3MzQ1NWM1ZjJhOGU1ZGM5NjRiNjAzN2NhNGFmN2Vm",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Aliens",
-        "url": "https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke"
-      },
-      "artists": [
-        {
-          "name": "Charlie Shulz",
-          "url": "https://open.spotify.com/artist/6x27JqHjIcFUHDKkOgtZUI"
-        },
-        {
-          "name": "TrippyThaKid",
-          "url": "https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz"
-        },
-        {
-          "name": "Kamiyada",
-          "url": "https://open.spotify.com/artist/178pxGCx631sen6g9vqvxP"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Aliens",
-      "url": "https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Oh Ma Loca",
         "url": "https://open.spotify.com/album/4lkzEyFaYSXp5pTm1W2VRC"
       },
@@ -1259,6 +1235,30 @@
       "duration_ms": 208301,
       "name": "Oh Ma Loca",
       "url": "https://open.spotify.com/track/3RcwT1owoV6QE9zrXUk0b6"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Aliens",
+        "url": "https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke"
+      },
+      "artists": [
+        {
+          "name": "Charlie Shulz",
+          "url": "https://open.spotify.com/artist/6x27JqHjIcFUHDKkOgtZUI"
+        },
+        {
+          "name": "TrippyThaKid",
+          "url": "https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz"
+        },
+        {
+          "name": "Kamiyada",
+          "url": "https://open.spotify.com/artist/178pxGCx631sen6g9vqvxP"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Gesamtkunstwerk",
-        "url": "https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW"
-      },
-      "artists": [
-        {
-          "name": "Dead Obies",
-          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
-        }
-      ],
-      "duration_ms": 481800,
-      "name": "Explosif",
-      "url": "https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Silence de mort",
         "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 208140,
       "name": "La purge",
       "url": "https://open.spotify.com/track/4IsyXZc89MKb0AgjiejaYB"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Gesamtkunstwerk",
+        "url": "https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW"
+      },
+      "artists": [
+        {
+          "name": "Dead Obies",
+          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
+        }
+      ],
+      "duration_ms": 481800,
+      "name": "Explosif",
+      "url": "https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0"
+      },
+      "artists": [
+        {
+          "name": "O.Z",
+          "url": "https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc"
+        }
+      ],
+      "duration_ms": 210976,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Aujourd'hui ou jamais",
         "url": "https://open.spotify.com/album/1Lyct4vAScJYqZIkar3D2J"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 227262,
       "name": "Henny",
       "url": "https://open.spotify.com/track/2kr0AZ8R4zMR6aQu0Icnzp"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0"
-      },
-      "artists": [
-        {
-          "name": "O.Z",
-          "url": "https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc"
-        }
-      ],
-      "duration_ms": 210976,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh"
+      },
+      "artists": [
+        {
+          "name": "TNGHT",
+          "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Dollaz",
+      "url": "https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Day Off",
         "url": "https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 183160,
       "name": "Faits d'hiver",
       "url": "https://open.spotify.com/track/300wnPpERq0OFEG92ur2Nn"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh"
-      },
-      "artists": [
-        {
-          "name": "TNGHT",
-          "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Dollaz",
-      "url": "https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A"
     },
     {
       "added_at": "2022-03-11 05:02:00",

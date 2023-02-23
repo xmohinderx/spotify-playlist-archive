@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Daniela Araújo
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,632 likes - 80 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,720 likes - 80 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 46 | [Nunca Te Deixarei \- Acústico](https://open.spotify.com/track/4GnEfHMHLZaoQU2UiWI3Ku) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Nunca Te Deixarei \(Acústico\)](https://open.spotify.com/album/6wL4XGAa6V2EVJdE08ol55) | 3:21 |
 | 47 | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6) | 3:31 |
 | 48 | [Seu Amor: YOUnique \- Acústico](https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Seu Amor: YOUnique \(Acústico\)](https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA) | 7:24 |
-| 49 | [Cicatrizes](https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Cicatrizes](https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl) | 3:35 |
-| 50 | [Vulnerável \- Acústico](https://open.spotify.com/track/6Q24Gewxq13E2nBwuAEsxa) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Vulnerável \(Acústico\)](https://open.spotify.com/album/2C25ASgEB7G9HYCmvJpkXZ) | 3:45 |
+| 49 | [Vulnerável \- Acústico](https://open.spotify.com/track/6Q24Gewxq13E2nBwuAEsxa) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Vulnerável \(Acústico\)](https://open.spotify.com/album/2C25ASgEB7G9HYCmvJpkXZ) | 3:45 |
+| 50 | [Cicatrizes](https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Cicatrizes](https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl) | 3:35 |
 | 51 | [Intimidade \- Ao Vivo](https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Intimidade \(Ao Vivo\)](https://open.spotify.com/album/3fWhF5KsfOZxRUvYEVIw3T) | 3:39 |
 | 52 | [Tuas Águas \- Acústico](https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Tuas Águas \(Acústico\)](https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t) | 4:59 |
 | 53 | [Ninguém Explica Deus](https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ninguém Explica Deus](https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3) | 5:01 |
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 63 | [Segure Minhas Mãos \- Acústico](https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Segure Minhas Mãos \(Acústico\)](https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY) | 7:17 |
 | 64 | [Mais Que Uma Voz](https://open.spotify.com/track/1RlwQdnnfFYIIPEnYj6yI8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Mais Que Uma Voz / A Ele a Glória](https://open.spotify.com/album/1sPNFLs4tFZmpMLep14OgN) | 4:02 |
 | 65 | [Até o Fim](https://open.spotify.com/track/5pYCKUDdBvxK8Zhxr4ywri) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Até o Fim](https://open.spotify.com/album/1adgtw24sgeeH5kEWz2Yyv) | 3:45 |
-| 66 | [Aprender Com a Vida \- Piano e Voz](https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Aprender Com a Vida \(Piano e Voz\)](https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL) | 4:18 |
-| 67 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 |
+| 66 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 |
+| 67 | [Aprender Com a Vida \- Piano e Voz](https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Aprender Com a Vida \(Piano e Voz\)](https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL) | 4:18 |
 | 68 | [Valeu a Pena: Releitura](https://open.spotify.com/track/49pcbzSIk8GU3SZ1geQowm) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Mari Marques](https://open.spotify.com/artist/6Fi2a2JgeYRENRKPCdXTwS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 3:54 |
 | 69 | [Nova Canção](https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP) | [Felipe Valente](https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev) | [Nova Canção](https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq) | 3:26 |
-| 70 | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/track/0mhUZvUCWUdStTS3auZcDo) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/album/5SBfBAdERjPdm2AGehXySV) | 3:42 |
-| 71 | [No Secreto](https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [No Secreto](https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K) | 6:50 |
+| 70 | [No Secreto](https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [No Secreto](https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K) | 6:50 |
+| 71 | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/track/0mhUZvUCWUdStTS3auZcDo) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/album/5SBfBAdERjPdm2AGehXySV) | 3:42 |
 | 72 | [Falar Com Deus \- Faixa Bônus](https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [On Tape \(Ao Vivo\)](https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL) | 3:48 |
 | 73 | [Ele Mudará](https://open.spotify.com/track/2X4wT4QUUQl7tL9dI0ELH8) | [Gabriel Tavela](https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3) | [Ele Mudará](https://open.spotify.com/album/3su6MTa1S1Zrli6mCyfGKZ) | 4:00 |
 | 74 | [Quem Sou](https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK) | [PEDRAZUL](https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA) | [Quem Sou](https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj) | 4:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Pai](https://open.spotify.com/track/518dbOPcDV45Zi2u1VEITp) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Pai](https://open.spotify.com/album/2U65qCgWMTyJCfwABYbfnT) | 5:21 |
 | 80 | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/track/5NWZfAvvjPkXxz00Vugg9q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/album/2YzdSN1IQZJlISrbINPnSM) | 4:31 |
 
-Snapshot ID: `MTY3NjAzMTgyNywwMDAwMDAwMDRkZTg0N2MzODhkNDU3MjhhZGVlYWY5YjY0ZGYxNWU1`
+Snapshot ID: `MTY3NjAzMTgyNywwMDAwMDAwMDY0OTM0OGM4ODZmNmQ0YTNmNmM3NzMzZGM0MjE4OGNk`

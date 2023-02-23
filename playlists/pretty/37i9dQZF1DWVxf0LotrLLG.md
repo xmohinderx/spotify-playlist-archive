@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: TINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,891 likes - 87 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,870 likes - 87 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

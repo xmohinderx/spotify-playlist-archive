@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,285 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,368 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 26 | [LIT BITCH](https://open.spotify.com/track/6rXEeSswc5z1lpRcHcV6zc) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [SMD](https://open.spotify.com/album/2v9QOVsyQI2815eaOk4em6) | 3:02 |
 | 27 | [Nunnadet Shit](https://open.spotify.com/track/0TResTtx98vH1rbuMMzqSh) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Nunnadet Shit](https://open.spotify.com/album/5gEwrxdbRbjDUOE4EORN6W) | 3:34 |
 | 28 | [Look Back At Me](https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Still Da Baddest](https://open.spotify.com/album/4vWbJou14Qw9ykxT9IsdBo) | 4:13 |
-| 29 | [Sleeping With the Enemy](https://open.spotify.com/track/0ISoKjo9JVUB97JMgygRZP) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [The Bastard Tape, Vol\. 1](https://open.spotify.com/album/2N2geXZotNXw4nqi2bk00J) | 3:49 |
-| 30 | [Weak](https://open.spotify.com/track/2eJ87on7uDqIvKobxuPpov) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:36 |
+| 29 | [Weak](https://open.spotify.com/track/2eJ87on7uDqIvKobxuPpov) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:36 |
+| 30 | [Sleeping With the Enemy](https://open.spotify.com/track/0ISoKjo9JVUB97JMgygRZP) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [The Bastard Tape, Vol\. 1](https://open.spotify.com/album/2N2geXZotNXw4nqi2bk00J) | 3:49 |
 | 31 | [Walk](https://open.spotify.com/track/3YfrGk7UWFqxWeWfFp1sQE) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [It's a Vibe](https://open.spotify.com/album/00N7d8ASGThdtQWGu8V7Zl) | 2:23 |
 | 32 | [Wat U Need](https://open.spotify.com/track/3IiE3DEdKaXLTtlSUPFhUn) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0KcfQLwLhdChGUYeFTYv2b) | 2:01 |
 | 33 | [Got Dem Racks](https://open.spotify.com/track/5bHuDZwLcuXTlFMj2XPk0S) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [January 10th](https://open.spotify.com/album/3pD5nHq65PfGJtd5aMNPUj) | 3:39 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 47 | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/track/0YrYVhq0EukTxojdqLh2Sj) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [AzSwaye](https://open.spotify.com/artist/5tg5JDw7tQiZdJCShs9rk9), [Pjay](https://open.spotify.com/artist/6rB1jv0emRIkbLluXskjt9) | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/album/4aBeGq3hlU2z7c6EvKjHpc) | 2:36 |
 | 48 | [Hood Baby](https://open.spotify.com/track/5Elw813HnizJdMcnGAvVUK) | [Hood Brat](https://open.spotify.com/artist/6lXxD7jB6A4GBp8FIj4Drd) | [Hood Baby](https://open.spotify.com/album/3epVF8JDjLOAbMbWXL2SdO) | 2:40 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDg0YWM4YzFhODcwODQ4YzEwZjgzZDA5YWY4OTk0NzY5`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDYwMjNmMDRiNzEwMDI1ZjE4YTNlZGQxYTU4NjBiYjk4`

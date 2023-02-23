@@ -4,7 +4,7 @@
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-114 songs - 7 hr 17 min
+115 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Let's Roll](https://open.spotify.com/track/61Qah5aEk9024AEaXCgXtN) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Radioactive \(Explicit Version\)](https://open.spotify.com/album/3AGMorE666prvzWaHGddKo) | 3:54 | 2021-05-15 |  |
 | [Lollipop](https://open.spotify.com/track/49dFv4gH1SeY90FySDOwCE) | [Framing Hanley](https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE) | [The Moment \(Digital Deluxe\)](https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u) | 3:07 | 2021-05-15 |  |
 | [Lost+ \(with Jay\-Z\)](https://open.spotify.com/track/2FbmJu9obAOMB3PCv2oic7) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida \(Prospekt's March Edition\)](https://open.spotify.com/album/71pRFAwHBLrjKYRG7V1Q2o) | 4:16 | 2022-03-31 | 2022-04-21 |
-| [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 | 2021-05-15 |  |
+| [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 | 2021-05-15 | 2023-02-23 |
 | [Madness](https://open.spotify.com/track/5faXyg4iS36jNS7btOUqPU) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [A Beautiful Place To Drown](https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap) | 3:38 | 2022-03-31 | 2022-05-26 |
 | [Magic \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P) | 3:16 | 2022-03-31 |  |
 | [Make Noise \(feat\. Lenny Kravitz\)](https://open.spotify.com/track/0zpLgWZgWvm2rebnYjvoSt) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Anarchy](https://open.spotify.com/album/2lIZst69wS2xmePqhCvLRo) | 3:17 | 2022-03-31 | 2022-04-20 |
@@ -83,6 +83,7 @@
 | [Pony](https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [At Night We Live](https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i) | 4:22 | 2022-11-04 | 2022-11-08 |
 | [Pony](https://open.spotify.com/track/5cP1MO5wtxaAsf3GP5fQ6C) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [At Night We Live](https://open.spotify.com/album/77C5KlztfSufwoZj9AxK42) | 4:22 | 2021-05-15 | 2022-07-27 |
 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 | 2021-05-15 |  |
+| [Raise Hell](https://open.spotify.com/track/3MmNP0Ey7mtyWY6DbsibtW) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Only In Amerika](https://open.spotify.com/album/6asMjHG61jnEVBsoScskM6) | 5:09 | 2023-02-22 |  |
 | [Ready To Go](https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Ready To Go](https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur) | 6:01 | 2021-05-15 |  |
 | [Real Thing](https://open.spotify.com/track/28S7ljAJMJs3ZUfucDDEob) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Judgement Night: Music From The Motion Picture](https://open.spotify.com/album/1qwrbuNLtDcuj2myhuESlh) | 3:30 | 2021-05-15 | 2022-07-26 |
 | [Red to Black \(feat\. Kenna, Jonah Matranga & Styles of Beyond\)](https://open.spotify.com/track/1u3h7Jm3MIbeSW45ek6Tzy) | [Fort Minor](https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk), [Kenna](https://open.spotify.com/artist/1bnOVGYMqR3dgSDU1ZUmnT), [Jonah Matranga](https://open.spotify.com/artist/3Ztgr9y1L9ZfoIOEsCrZEb), [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX) | [The Rising Tied \(Deluxe Edition\)](https://open.spotify.com/album/4IeQ4pMgtlYDNzB3SD5J54) | 3:11 | 2021-05-15 | 2022-07-25 |

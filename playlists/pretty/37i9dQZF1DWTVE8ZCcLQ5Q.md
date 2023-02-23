@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,578 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,580 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 8 | [Putaria 2000](https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV) | [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Putaria 2000](https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC) | 1:47 |
 | 9 | [INVEJOSO](https://open.spotify.com/track/5YURHESoQKz81fL4IxV7NJ) | [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [INVEJOSO](https://open.spotify.com/album/255NGGUak0BPXU1ImuceyR) | 5:00 |
 | 10 | [Bagulho Louco](https://open.spotify.com/track/04vzhKfl5HtPEgrdZJCZ7L) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Bagulho Louco](https://open.spotify.com/album/7vmDYV51NrlXuzdyyQYDen) | 2:04 |
-| 11 | [Incrivel Jogando a Potranca](https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Incrivel Jogando a Potranca](https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5) | 1:50 |
-| 12 | [Desligado](https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Desligado](https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC) | 2:02 |
+| 11 | [Desligado](https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Desligado](https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC) | 2:02 |
+| 12 | [Incrivel Jogando a Potranca](https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Incrivel Jogando a Potranca](https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5) | 1:50 |
 | 13 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 |
 | 14 | [Formosa](https://open.spotify.com/track/1QmupixsVNc0osesKXraZC) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa](https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI) | 3:05 |
 | 15 | [Red de Maracujá](https://open.spotify.com/track/1Ox6cNiWa6diK3mIImaq1P) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Red de Maracujá](https://open.spotify.com/album/6vSJkKFM9XI4Pmy23P5MJO) | 2:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [De Novo](https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Luísa Nascim](https://open.spotify.com/artist/5j1I6HLmRd52lplPaEl6uU), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH), [Tombc](https://open.spotify.com/artist/6xWZS3GMWCdADhHYLW2gb6) | [De Novo](https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ) | 2:15 |
 | 60 | [Viciado em Você](https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Viciado em Você](https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb) | 2:27 |
 
-Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMGQ3OTg2NTY2ZDIyOTAwNzQ4NmE0ZGE5N2I3ZWM1MDIw`
+Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMDM0MDNkNzk5OWJkNDI4ZjA4ZTRkMjVmMTJhZTc0NTk1`

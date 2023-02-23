@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-265 songs - 17 hr 10 min
+266 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Anyone](https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8) | [Cosma Joy](https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ) | [Boy Boredom](https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN) | 3:41 | 2022-12-08 |  |
 | [At Last](https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [At Last](https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR) | 2:44 | 2021-11-19 | 2022-11-25 |
 | [At the End of the Day](https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [At the End of the Day](https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O) | 3:36 | 2021-11-19 | 2022-11-25 |
-| [Autumn Breeze](https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Autumn Breeze](https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj) | 4:01 | 2022-12-08 |  |
+| [Autumn Breeze](https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Autumn Breeze](https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj) | 4:01 | 2022-12-08 | 2023-02-23 |
 | [Baby](https://open.spotify.com/track/7Lo9xvnSEyh1dodL2QS79u) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Gabi Hartmann](https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv) | 3:37 | 2023-01-19 |  |
 | [Baby, It's Cold Outside](https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe) | [JP Maurice](https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt), [Pyper Geddes](https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ) | [Baby, It's Cold Outside](https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg) | 3:08 | 2021-11-19 | 2022-10-08 |
 | [Back to the Start](https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2) | [Gordon Robertson](https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5) | [Back to the Start](https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6) | 3:16 | 2021-11-19 | 2022-10-20 |
@@ -107,7 +107,7 @@
 | [Hey Laura](https://open.spotify.com/track/3VFr9JYb6ppsl4yxwerUXq) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Liquid Spirit \(Deluxe Version\)](https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj) | 3:19 | 2021-11-19 |  |
 | [Hey Laura](https://open.spotify.com/track/3WH078dURFTzcALQD8UBMw) | [Tiny Little Bigband](https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ) | [Hey Laura](https://open.spotify.com/album/5RVJgpxz5uWPDXdGWMCx1d) | 3:13 | 2021-11-19 | 2022-10-27 |
 | [Hilltop](https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF) | [Sophia HP](https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe) | [Hilltop](https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63) | 4:32 | 2022-12-08 |  |
-| [Holding On](https://open.spotify.com/track/2ZloT7eCvBWrfqCCPQlgnh) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Take Me To The Alley](https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ) | 5:01 | 2022-02-08 | 2023-02-22 |
+| [Holding On](https://open.spotify.com/track/2ZloT7eCvBWrfqCCPQlgnh) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Take Me To The Alley](https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ) | 5:01 | 2022-02-08 |  |
 | [Hommage](https://open.spotify.com/track/7auTBZlMspqWjyqB1Mj5J9) | [Marek Johnson](https://open.spotify.com/artist/4y9tl1SgxrEhYnDN40Ls8T) | [At Home Again, Singing](https://open.spotify.com/album/1Qe9Sg7RkVoFEG3D5Wt9rG) | 3:34 | 2022-11-24 |  |
 | [How About You](https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo) | [Nellie McKay](https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN) | [Bagatelles](https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1) | 2:07 | 2021-11-19 | 2022-10-08 |
 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 | 2023-02-09 |  |
@@ -140,7 +140,7 @@
 | [It Was You](https://open.spotify.com/track/4erTX3wgD0p4ZvoeXN30Gi) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [It Was You](https://open.spotify.com/album/4auJ5nsBrC9i6BKeUTZihy) | 5:30 | 2021-11-19 | 2022-07-29 |
 | [It's Complicated](https://open.spotify.com/track/6w9GAp3fgHFeDpYHDAaApX) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/2wakq28QTH960KEygvzPXl) | 3:28 | 2022-09-09 | 2022-11-25 |
 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 | 2021-11-19 | 2022-09-06 |
-| [Just A Dream](https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Bells On Sand](https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g) | 5:29 | 2022-11-24 |  |
+| [Just A Dream](https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Bells On Sand](https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g) | 5:29 | 2022-11-24 | 2023-02-23 |
 | [Just A Little Bit](https://open.spotify.com/track/1JfbhdC2PRpB1TcobDTvF8) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 5:02 | 2022-07-14 | 2022-12-09 |
 | [Just A Little Bit](https://open.spotify.com/track/3dIIFugA63qbkvnX9pTgw3) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Just A Little Bit](https://open.spotify.com/album/56bhw19Vvl8lJ5A8DAZMm3) | 5:02 | 2021-11-19 | 2022-07-28 |
 | [Just a Little Bit](https://open.spotify.com/track/4urDvEJ9KbZiv8BszszXiB) | [Waltzing on Waves](https://open.spotify.com/artist/6NBm8u09fMrshjhu4f2quW) | [Just a Little Bit](https://open.spotify.com/album/0dBeEKGEg7rpeyYvTzgnou) | 3:26 | 2021-11-19 |  |
@@ -204,6 +204,7 @@
 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 | 2021-11-19 |  |
 | [She Used To Be Mine](https://open.spotify.com/track/3QjBj0FOOlDmIt9s3YZAwX) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [She Used To Be Mine](https://open.spotify.com/album/0ck5yBjvct1p5w6FRXQo2Y) | 4:24 | 2021-11-19 | 2022-07-29 |
 | [She Used To Be Mine](https://open.spotify.com/track/66cyDInjEEpnQ25TdYeNvf) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Out Of The Shadows](https://open.spotify.com/album/5zzAVxK9UBimzOd6b5iyOH) | 4:24 | 2022-07-14 | 2023-02-14 |
+| [She Used To Be Mine](https://open.spotify.com/track/6PguX5ZYOUWsxuRIcAy4MI) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Out Of The Shadows](https://open.spotify.com/album/4lBEvDriPaU6Xn0pnSUYA8) | 4:24 | 2023-02-22 |  |
 | [She's Awesome](https://open.spotify.com/track/52rIpC68rq8AgpAootOn7B) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [She's Awesome](https://open.spotify.com/album/6aPCC4FFb2kryUdUgAtjLN) | 4:40 | 2021-11-19 | 2022-11-25 |
 | [Sleeping Satellite](https://open.spotify.com/track/6mqDkgdHcTSkUujnJZtFnJ) | [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG), [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9), [Francoise Sanders](https://open.spotify.com/artist/1gziOczQaDTj4pXbljZPX2) | [Sleeping Satellite](https://open.spotify.com/album/57aN9GJYwKxpSe0bJDTT2G) | 2:39 | 2021-11-19 | 2022-11-25 |
 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 | 2021-11-19 |  |

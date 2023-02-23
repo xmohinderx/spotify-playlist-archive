@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-310 songs - 19 hr 21 min
+311 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Paddling](https://open.spotify.com/track/4bk6zQvr1tEokVjLJ7xZfz) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/4z44Wir05QzQYSCs0KwsKX) | 6:15 | 2022-06-16 | 2022-12-17 |
 | [Pain Killer](https://open.spotify.com/track/2V4U5hZOUnY1jzhNZpcrAD) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU), [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Beyondless](https://open.spotify.com/album/5H8wFFblf7YvGc7LbBzuR9) | 3:39 | 2021-12-06 | 2022-07-29 |
 | [Pamphlets](https://open.spotify.com/track/09fQwACfFYN1mZJHCoIo9u) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Pamphlets](https://open.spotify.com/album/1VQ9pHT4jfJXrfFuh1Fbyv) | 8:03 | 2021-12-06 | 2022-07-28 |
+| [Pamphlets](https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 8:03 | 2023-01-19 |  |
 | [Parfois](https://open.spotify.com/track/5SkYdzJvAshnjL8yqJuDi6) | [Rip Pop Mutant](https://open.spotify.com/artist/0Fkytt8xfwUxXZztw9UD58) | [Parfois](https://open.spotify.com/album/2jird3M7HyN657TgrhbNc6) | 3:18 | 2022-03-11 | 2022-07-14 |
 | [Paul](https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Holding Hands with Jamie](https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9) | 6:53 | 2022-06-16 |  |
 | [Paul](https://open.spotify.com/track/1ulRN20ts4efc3DHKABsVu) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Holding Hands With Jamie](https://open.spotify.com/album/3rVfXtGiIeKX1nkHXhiN1D) | 6:53 | 2021-12-06 | 2022-07-27 |
@@ -274,7 +275,7 @@
 | [Taking On Time](https://open.spotify.com/track/1b0UgeaxiNubfHilAf4AWh) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Taking On Time](https://open.spotify.com/album/3KfdysWJU39uXlmN5ivR4S) | 3:08 | 2021-12-06 | 2022-07-29 |
 | [Taking Us Back](https://open.spotify.com/track/7CBcqtcPbO3L9jHzAXgq5x) | [Benefits](https://open.spotify.com/artist/5nrO8X72nFeyu3sqYIkskQ) | [Taking Us Back](https://open.spotify.com/album/7mqyal2rF84QPhgTMZEQwM) | 3:18 | 2021-12-06 | 2022-06-24 |
 | [Talking Pictures](https://open.spotify.com/track/41rEc1qxuC6RSD9Kmgrokw) | [FRIGS](https://open.spotify.com/artist/7qnOIwmC4mBss5sA6y8jvi) | [Basic Behaviour](https://open.spotify.com/album/5yhJfm3NbkJggTi8xn9PIR) | 2:31 | 2021-12-06 | 2022-07-24 |
-| [Tennis](https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Tennis](https://open.spotify.com/album/0e8QilyTd0atf4T6fk59Jr) | 4:01 | 2022-06-16 |  |
+| [Tennis](https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Tennis](https://open.spotify.com/album/0e8QilyTd0atf4T6fk59Jr) | 4:01 | 2022-06-16 | 2023-02-23 |
 | [The Base Level](https://open.spotify.com/track/6aWwVyojU4AtnCVRmQVFmF) | [Conspirators](https://open.spotify.com/artist/6kuHgRehBPmDqj2VL4pO0N) | [Conspirators EP](https://open.spotify.com/album/2wP54m8K6x4JlIq42Z6ll9) | 2:41 | 2022-03-11 | 2022-04-13 |
 | [The Cleaner](https://open.spotify.com/track/0NCu73bAuBp4tXZFx4DEHJ) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Cleaner](https://open.spotify.com/album/0LHX6YAAQXNiQwlpVinKEN) | 7:33 | 2021-12-06 | 2022-07-29 |
 | [The Cleaner](https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Cleaner](https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo) | 7:33 | 2022-06-16 |  |

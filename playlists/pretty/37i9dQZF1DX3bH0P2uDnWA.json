@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 330457,
+  "num_followers": 330614,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDhkZWMzM2Q1YmJjODBiNDVmMGY1N2QxMDFiNDEyZjZk",
+  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDk1YmFjYzRjMTY1NzkzYzYzZDIxODVlNDBjNTFiN2I0",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
     },
     {
-      "added_at": "2022-11-11 17:00:00",
-      "album": {
-        "name": "Rum & Coke",
-        "url": "https://open.spotify.com/album/7o1x33fQlvcSDmlxhbr78P"
-      },
-      "artists": [
-        {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
-        }
-      ],
-      "duration_ms": 157229,
-      "name": "Rum & Coke",
-      "url": "https://open.spotify.com/track/72c1SNHSVF0nC6ajCDQN3B"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Outsidein",
@@ -387,6 +371,22 @@
       "duration_ms": 246973,
       "name": "No Strings Attached",
       "url": "https://open.spotify.com/track/5Ps6yt0FmXilnOeq1Djg9O"
+    },
+    {
+      "added_at": "2022-11-11 17:00:00",
+      "album": {
+        "name": "Rum & Coke",
+        "url": "https://open.spotify.com/album/7o1x33fQlvcSDmlxhbr78P"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 157229,
+      "name": "Rum & Coke",
+      "url": "https://open.spotify.com/track/72c1SNHSVF0nC6ajCDQN3B"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -997,24 +997,20 @@
       "url": "https://open.spotify.com/track/556y7EL1trkqGtevzn8684"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
+      "added_at": "2021-04-16 04:01:00",
       "album": {
-        "name": "Ponder (Betty Booom Remix)",
-        "url": "https://open.spotify.com/album/3glSK3ZZ9cn74XCkJpSzME"
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2"
       },
       "artists": [
         {
-          "name": "Marina & The Kats",
-          "url": "https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg"
-        },
-        {
-          "name": "Betty Booom",
-          "url": "https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg"
+          "name": "Szigeti Juli",
+          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
         }
       ],
-      "duration_ms": 201900,
-      "name": "Ponder - Betty Booom Remix",
-      "url": "https://open.spotify.com/track/0tFzgPOxtXFNScRZ6ePrg8"
+      "duration_ms": 182608,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -1053,36 +1049,24 @@
       "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
     },
     {
-      "added_at": "2021-04-16 04:01:00",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2"
+        "name": "Ponder (Betty Booom Remix)",
+        "url": "https://open.spotify.com/album/3glSK3ZZ9cn74XCkJpSzME"
       },
       "artists": [
         {
-          "name": "Szigeti Juli",
-          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Ladies Night",
-        "url": "https://open.spotify.com/album/37TPTEBX1LA7SrITRlmKxI"
-      },
-      "artists": [
+          "name": "Marina & The Kats",
+          "url": "https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg"
+        },
         {
-          "name": "11 Acorn Lane",
-          "url": "https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5"
+          "name": "Betty Booom",
+          "url": "https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg"
         }
       ],
-      "duration_ms": 202497,
-      "name": "Perfect (Electro Swing Remix)",
-      "url": "https://open.spotify.com/track/46jrqGkZ9TPqP9u06RMfYq"
+      "duration_ms": 201900,
+      "name": "Ponder - Betty Booom Remix",
+      "url": "https://open.spotify.com/track/0tFzgPOxtXFNScRZ6ePrg8"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1103,6 +1087,22 @@
       "duration_ms": 328441,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Ladies Night",
+        "url": "https://open.spotify.com/album/37TPTEBX1LA7SrITRlmKxI"
+      },
+      "artists": [
+        {
+          "name": "11 Acorn Lane",
+          "url": "https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5"
+        }
+      ],
+      "duration_ms": 202497,
+      "name": "Perfect (Electro Swing Remix)",
+      "url": "https://open.spotify.com/track/46jrqGkZ9TPqP9u06RMfYq"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1209,6 +1209,26 @@
       "url": "https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO"
     },
     {
+      "added_at": "2022-11-07 16:43:23",
+      "album": {
+        "name": "Watch Your Tongue",
+        "url": "https://open.spotify.com/album/0VlRMNxmBvdI1wF3LV16Z4"
+      },
+      "artists": [
+        {
+          "name": "Pisk",
+          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+        },
+        {
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+        }
+      ],
+      "duration_ms": 178320,
+      "name": "Watch Your Tongue",
+      "url": "https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N"
+    },
+    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "My 20s Woman",
@@ -1243,26 +1263,6 @@
       "duration_ms": 231724,
       "name": "The Jungle Jive",
       "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
-    },
-    {
-      "added_at": "2022-11-07 16:43:23",
-      "album": {
-        "name": "Watch Your Tongue",
-        "url": "https://open.spotify.com/album/0VlRMNxmBvdI1wF3LV16Z4"
-      },
-      "artists": [
-        {
-          "name": "Pisk",
-          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
-        },
-        {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
-        }
-      ],
-      "duration_ms": 178320,
-      "name": "Watch Your Tongue",
-      "url": "https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -1333,20 +1333,20 @@
       "url": "https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2021-05-28 04:00:00",
       "album": {
-        "name": "Re-Charleston (Electro Swing)",
-        "url": "https://open.spotify.com/album/0zFY28BzgmNsz7EvZp7UKo"
+        "name": "Chicago",
+        "url": "https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi"
       },
       "artists": [
         {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+          "name": "Mr. Jazzek",
+          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
         }
       ],
-      "duration_ms": 167360,
-      "name": "Re-Charleston (Radio Edit)",
-      "url": "https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2"
+      "duration_ms": 164257,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
     }
   ],
   "unique_name": "Electro Swing",

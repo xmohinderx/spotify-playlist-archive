@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! La Arrolladora Banda El Limón en portada.
 
-214 songs - 11 hr 33 min
+215 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Se Manda Sola](https://open.spotify.com/track/2ZyqVjfaWdbXogeNjwrLgo) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Se Manda Sola](https://open.spotify.com/album/6JEaPc6iKUgI3YrDUGxJDk) | 2:34 | 2022-04-22 | 2023-01-21 |
 | [Se Vale Enamorarse](https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Vale Enamorarse](https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY) | 2:56 | 2022-12-03 |  |
 | [Serafin \- En Vivo](https://open.spotify.com/track/0HjK2cWbHy5CwWQXk6HEj8) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin \(En Vivo\)](https://open.spotify.com/album/1z6LJpFaTXx1C74tmzAsTg) | 3:07 | 2022-11-03 | 2022-12-03 |
+| [Si Esta Botella Hablara](https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Si Esta Botella Hablara](https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o) | 3:08 | 2023-02-23 |  |
 | [Si Te Mirara](https://open.spotify.com/track/4Hmq3saCDEqDbirwgWkyOf) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Si Te Mirara](https://open.spotify.com/album/692wEGizdxsHDys4lVmjxK) | 4:11 | 2022-07-01 | 2022-07-28 |
 | [Si Te Vas A Ir](https://open.spotify.com/track/74eA4vGic1cBaGSAQSaQPn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Si Te Vas A Ir](https://open.spotify.com/album/7aLmI4s5RkG708JchOa2qH) | 3:17 | 2022-10-25 | 2022-12-02 |
 | [Sigues Siendo Tu \- En vivo](https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 3:35 | 2023-01-06 |  |

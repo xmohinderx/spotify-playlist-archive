@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 82360,
+  "num_followers": 82611,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ1MDMyOCwwMDAwMDAwMDliN2Y5ZjNkMTkxYzRkMjU4NTdiYTQxYjBlNzRlNThl",
+  "snapshot_id": "MTY3NzA1ODI0NSwwMDAwMDAwMGNhOGQ0ZmY3MmQxN2ViMTRhNjU0Yzc5NzA2Yzc5MzEw",
   "tracks": [
     {
       "added_at": "2023-02-15 08:38:48",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-02-15 08:38:48",
       "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 285600,
+      "name": "After The Storm",
+      "url": "https://open.spotify.com/track/57DG0j3hPpSjlMKrwE7gPg"
+    },
+    {
+      "added_at": "2023-02-15 08:38:48",
+      "album": {
         "name": "Pearls",
         "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 224840,
       "name": "Pacific Breeze",
       "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
-    },
-    {
-      "added_at": "2023-02-15 08:38:48",
-      "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 285600,
-      "name": "After The Storm",
-      "url": "https://open.spotify.com/track/57DG0j3hPpSjlMKrwE7gPg"
     },
     {
       "added_at": "2023-02-15 08:38:48",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-02-15 08:38:48",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Straight to the Heart",
-      "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
-    },
-    {
-      "added_at": "2023-02-15 08:38:48",
-      "album": {
         "name": "Forever, For Always, For Luther",
         "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 304453,
       "name": "Any Love",
       "url": "https://open.spotify.com/track/1uQnqFPN4Fzvn17DGX0eBj"
+    },
+    {
+      "added_at": "2023-02-15 08:38:48",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Straight to the Heart",
+      "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
     },
     {
       "added_at": "2023-02-15 08:38:48",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-02-15 08:38:48",
       "album": {
-        "name": "Love and Paragraphs",
-        "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Have Your Cake And Eat It",
-      "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
-    },
-    {
-      "added_at": "2023-02-15 08:38:48",
-      "album": {
         "name": "White Sand",
         "url": "https://open.spotify.com/album/1rUIdXNTlE56EvLLsvyXy8"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 279880,
       "name": "More Or Less Paul",
       "url": "https://open.spotify.com/track/3xOHBpfwg3oaRvgi6xZXCw"
+    },
+    {
+      "added_at": "2023-02-15 08:38:48",
+      "album": {
+        "name": "Love and Paragraphs",
+        "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Have Your Cake And Eat It",
+      "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
     },
     {
       "added_at": "2023-02-15 08:38:48",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-02-15 08:38:48",
       "album": {
-        "name": "South Beach",
-        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 298266,
-      "name": "Moonlit Ocean",
-      "url": "https://open.spotify.com/track/2GjaIfajaXSN7nE4A8K423"
-    },
-    {
-      "added_at": "2023-02-15 08:38:48",
-      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
       },
@@ -1087,18 +1071,34 @@
     {
       "added_at": "2023-02-15 08:38:48",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
+        "name": "South Beach",
+        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
       },
       "artists": [
         {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
         }
       ],
-      "duration_ms": 308346,
-      "name": "Love To All",
-      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
+      "duration_ms": 298266,
+      "name": "Moonlit Ocean",
+      "url": "https://open.spotify.com/track/2GjaIfajaXSN7nE4A8K423"
+    },
+    {
+      "added_at": "2023-02-15 08:38:48",
+      "album": {
+        "name": "Born 2 Groove",
+        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 301240,
+      "name": "Mr. Groove",
+      "url": "https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN"
     },
     {
       "added_at": "2023-02-15 08:38:48",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-02-15 08:38:48",
       "album": {
-        "name": "Born 2 Groove",
-        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
       },
       "artists": [
         {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
         }
       ],
-      "duration_ms": 301240,
-      "name": "Mr. Groove",
-      "url": "https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN"
+      "duration_ms": 308346,
+      "name": "Love To All",
+      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
     },
     {
       "added_at": "2023-02-15 08:38:48",
@@ -1203,6 +1203,38 @@
     {
       "added_at": "2023-02-15 08:38:48",
       "album": {
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 258398,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
+    },
+    {
+      "added_at": "2023-02-15 08:38:48",
+      "album": {
+        "name": "GK",
+        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Floating in Bahia",
+      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
+    },
+    {
+      "added_at": "2023-02-15 08:38:48",
+      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -1231,38 +1263,6 @@
       "duration_ms": 320733,
       "name": "Midnight At The Oasis",
       "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
-    },
-    {
-      "added_at": "2023-02-15 08:38:48",
-      "album": {
-        "name": "GK",
-        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Floating in Bahia",
-      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
-    },
-    {
-      "added_at": "2023-02-15 08:38:48",
-      "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 258398,
-      "name": "I Feel You",
-      "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
     },
     {
       "added_at": "2023-02-15 08:38:48",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-02-15 08:38:48",
       "album": {
-        "name": "In The Name Of Love",
-        "url": "https://open.spotify.com/album/54oJKdLUcrIwOwX4FkxBxW"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 301933,
-      "name": "Tell Me So",
-      "url": "https://open.spotify.com/track/1xIfnVs8j4QfY91Un3rxvE"
-    },
-    {
-      "added_at": "2023-02-15 08:38:48",
-      "album": {
         "name": "Just Around The Corner",
         "url": "https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 289453,
       "name": "Flower Child",
       "url": "https://open.spotify.com/track/2WGmkBmywV4gBLZer6lAAH"
+    },
+    {
+      "added_at": "2023-02-15 08:38:48",
+      "album": {
+        "name": "In The Name Of Love",
+        "url": "https://open.spotify.com/album/54oJKdLUcrIwOwX4FkxBxW"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 301933,
+      "name": "Tell Me So",
+      "url": "https://open.spotify.com/track/1xIfnVs8j4QfY91Un3rxvE"
     },
     {
       "added_at": "2023-02-15 08:38:48",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-02-15 08:38:48",
       "album": {
-        "name": "In The Moment",
-        "url": "https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 325373,
-      "name": "Night Calls",
-      "url": "https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I"
-    },
-    {
-      "added_at": "2023-02-15 08:38:48",
-      "album": {
         "name": "Influences",
         "url": "https://open.spotify.com/album/1hbsoh6rcNrxngTQwAi1gR"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 264440,
       "name": "When You Love Somebody",
       "url": "https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt"
+    },
+    {
+      "added_at": "2023-02-15 08:38:48",
+      "album": {
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 325373,
+      "name": "Night Calls",
+      "url": "https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I"
     },
     {
       "added_at": "2023-02-15 08:38:48",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-02-15 08:38:48",
       "album": {
+        "name": "Send One Your Love",
+        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 304653,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/5qsm0eGh4vPXOOEKNrH6cX"
+    },
+    {
+      "added_at": "2023-02-15 08:38:48",
+      "album": {
         "name": "Out Of A Dream",
         "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 253815,
       "name": "Just One Wish",
       "url": "https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f"
-    },
-    {
-      "added_at": "2023-02-15 08:38:48",
-      "album": {
-        "name": "Send One Your Love",
-        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 304653,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/5qsm0eGh4vPXOOEKNrH6cX"
     }
   ],
   "unique_name": "Smooth Jazz Chill",

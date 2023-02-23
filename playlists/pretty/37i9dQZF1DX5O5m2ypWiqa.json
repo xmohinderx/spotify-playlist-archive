@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda en portada. ",
-  "num_followers": 1592774,
+  "num_followers": 1593488,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE4NTAwOCwwMDAwMDAwMDJhNTNjNjg3Mzk5ZmJlZWNkMjdjNGJjZGYzM2UzNjBh",
+  "snapshot_id": "MTY1ODE4NTAwOCwwMDAwMDAwMGNhNTVjMjhiNjZlOTMxNjg4NWVlNTU0ZjZiOWZhZDQw",
   "tracks": [
     {
       "added_at": "2022-06-20 21:21:51",
@@ -489,38 +489,6 @@
       "url": "https://open.spotify.com/track/5zMgWyXawwhTbCh74tiMxD"
     },
     {
-      "added_at": "2022-01-20 23:03:47",
-      "album": {
-        "name": "La Barda Me Vol\u00e9",
-        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Nadie Como Tu\u0301",
-      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 213280,
-      "name": "Qui\u00e9n Es Usted",
-      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
-    },
-    {
       "added_at": "2021-12-09 18:03:27",
       "album": {
         "name": "Joyas Prestadas - Banda",
@@ -539,6 +507,38 @@
       "duration_ms": 243173,
       "name": "Basta Ya - Banda",
       "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
+    },
+    {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 213280,
+      "name": "Qui\u00e9n Es Usted",
+      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
+    },
+    {
+      "added_at": "2022-01-20 23:03:47",
+      "album": {
+        "name": "La Barda Me Vol\u00e9",
+        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Nadie Como Tu\u0301",
+      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "Exitos De Mariano Barba",
-        "url": "https://open.spotify.com/album/3Y1feJXQVxyZGhwA3IC4uR"
-      },
-      "artists": [
-        {
-          "name": "Mariano Barba",
-          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Una Noche M\u00e1s Contigo",
-      "url": "https://open.spotify.com/track/3hyZDNRrpnUo2ScK2J6fe7"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
         "name": "Mil Heridas",
         "url": "https://open.spotify.com/album/1d6M5lgMTJfgwQCReGSWGk"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 227840,
       "name": "Mil Heridas",
       "url": "https://open.spotify.com/track/42QrQFst462IHFXR19hxZQ"
+    },
+    {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
+        "name": "Exitos De Mariano Barba",
+        "url": "https://open.spotify.com/album/3Y1feJXQVxyZGhwA3IC4uR"
+      },
+      "artists": [
+        {
+          "name": "Mariano Barba",
+          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Una Noche M\u00e1s Contigo",
+      "url": "https://open.spotify.com/track/3hyZDNRrpnUo2ScK2J6fe7"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
     },
     {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
+        "name": "Yo No Canto Pero Lo Intentamos",
+        "url": "https://open.spotify.com/album/3M0CcOWFI6hwxNB8gr03hm"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 197122,
+      "name": "Lo Intentamos",
+      "url": "https://open.spotify.com/track/0TE6IiCnzQdFTwnWZ84JOq"
+    },
+    {
       "added_at": "2022-01-20 23:03:47",
       "album": {
         "name": "25 A\u00f1os, Vol. 1",
@@ -939,18 +955,18 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "Yo No Canto Pero Lo Intentamos",
-        "url": "https://open.spotify.com/album/3M0CcOWFI6hwxNB8gr03hm"
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
       },
       "artists": [
         {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
         }
       ],
-      "duration_ms": 197122,
-      "name": "Lo Intentamos",
-      "url": "https://open.spotify.com/track/0TE6IiCnzQdFTwnWZ84JOq"
+      "duration_ms": 182106,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -967,22 +983,6 @@
       "duration_ms": 182800,
       "name": "Recostada En La Cama",
       "url": "https://open.spotify.com/track/50tmOF513elS7K3HrwYq29"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -1257,24 +1257,20 @@
       "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
     },
     {
-      "added_at": "2022-07-18 22:56:48",
+      "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "Juro por Dios (En Vivo)",
-        "url": "https://open.spotify.com/album/2RaLM3MaoI25mqOSsixXTF"
+        "name": "Volver a Verte",
+        "url": "https://open.spotify.com/album/7Fr4KyfCljns3TO7M0gS1S"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Coloso",
-          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
         }
       ],
-      "duration_ms": 202005,
-      "name": "Juro por Dios - En Vivo",
-      "url": "https://open.spotify.com/track/6ya4Hq3twTffkM15X389KY"
+      "duration_ms": 248520,
+      "name": "Cuatro Rosas",
+      "url": "https://open.spotify.com/track/4MNshDc0FgyiddMjlGbeCV"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -1293,20 +1289,24 @@
       "url": "https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY"
     },
     {
-      "added_at": "2021-12-09 18:03:27",
+      "added_at": "2022-07-18 22:56:48",
       "album": {
-        "name": "Volver a Verte",
-        "url": "https://open.spotify.com/album/7Fr4KyfCljns3TO7M0gS1S"
+        "name": "Juro por Dios (En Vivo)",
+        "url": "https://open.spotify.com/album/2RaLM3MaoI25mqOSsixXTF"
       },
       "artists": [
         {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Coloso",
+          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
         }
       ],
-      "duration_ms": 248520,
-      "name": "Cuatro Rosas",
-      "url": "https://open.spotify.com/track/4MNshDc0FgyiddMjlGbeCV"
+      "duration_ms": 202005,
+      "name": "Juro por Dios - En Vivo",
+      "url": "https://open.spotify.com/track/6ya4Hq3twTffkM15X389KY"
     },
     {
       "added_at": "2021-12-09 18:03:27",

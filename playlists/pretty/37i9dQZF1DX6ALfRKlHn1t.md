@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > good vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,065 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,393 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 41 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
 | 42 | [Stone Love](https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Kona Town](https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4) | 4:14 |
 | 43 | [Guru](https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:24 |
-| 44 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 |
+| 44 | [Oxygen](https://open.spotify.com/track/3YbtjYddK11NTDdUpC4nGp) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Dirty Heads](https://open.spotify.com/album/2yt8pr76AIWu3ohmnZKNcd) | 3:45 |
 | 45 | [Colorado](https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:54 |
-| 46 | [Oxygen](https://open.spotify.com/track/3YbtjYddK11NTDdUpC4nGp) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Dirty Heads](https://open.spotify.com/album/2yt8pr76AIWu3ohmnZKNcd) | 3:45 |
+| 46 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 |
 | 47 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
 | 48 | [Walking On A Dream](https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt) | 3:18 |
 | 49 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 70 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 |
 | 71 | [Good Day for a Good Day](https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:10 |
 | 72 | [Wherever You Go](https://open.spotify.com/track/38GuP87aSI8phjYj7TzZK8) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Sirens](https://open.spotify.com/album/61BsnCrEb7zeRowWTFP4zC) | 3:31 |
-| 73 | [I Wanna Be Your High](https://open.spotify.com/track/7CkeYEfGBL8SYAq63Z72oh) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [I Wanna Be Your High](https://open.spotify.com/album/3XUe0l63TUAhtxrA0WPqVU) | 3:07 |
-| 74 | [Brad Pitt](https://open.spotify.com/track/0ByROqFlBxTQeX4XlvE7Gk) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf) | 3:36 |
-| 75 | [Hollow Life](https://open.spotify.com/track/2dq863fgcwToMdBxaPlyyT) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:57 |
+| 73 | [Hollow Life](https://open.spotify.com/track/2dq863fgcwToMdBxaPlyyT) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:57 |
+| 74 | [I Wanna Be Your High](https://open.spotify.com/track/7CkeYEfGBL8SYAq63Z72oh) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [I Wanna Be Your High](https://open.spotify.com/album/3XUe0l63TUAhtxrA0WPqVU) | 3:07 |
+| 75 | [Brad Pitt](https://open.spotify.com/track/0ByROqFlBxTQeX4XlvE7Gk) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf) | 3:36 |
 | 76 | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc) | 3:47 |
 | 77 | [Sway](https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Sway](https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD) | 2:16 |
 | 78 | [California](https://open.spotify.com/track/1SVbYemhVlCGnpxUF3gyLH) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:52 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 91 | [Life's 2 Short](https://open.spotify.com/track/1wVklb85pKYaoCGx9jybqm) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [Slum Beach Denny](https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix) | 4:00 |
 | 92 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
 | 93 | [Set On Fire](https://open.spotify.com/track/49YNXgHWiNSxz2wGtXCVZ7) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 3:35 |
-| 94 | [Chlorine \- Alternative Mix](https://open.spotify.com/track/3ZQgFtjJtmvUZZ8K5OBqIN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Chlorine \(Alternative Mix\)](https://open.spotify.com/album/5gPTivcCK6JfPNZqoAzP2O) | 3:11 |
-| 95 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42UaTVeWaNaME7ttu61ykG) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [Classic \(feat\. POWERS\)](https://open.spotify.com/album/4TXid0z5ty83lP4tq25sTJ) | 4:08 |
+| 94 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42UaTVeWaNaME7ttu61ykG) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [Classic \(feat\. POWERS\)](https://open.spotify.com/album/4TXid0z5ty83lP4tq25sTJ) | 4:08 |
+| 95 | [Chlorine \- Alternative Mix](https://open.spotify.com/track/3ZQgFtjJtmvUZZ8K5OBqIN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Chlorine \(Alternative Mix\)](https://open.spotify.com/album/5gPTivcCK6JfPNZqoAzP2O) | 3:11 |
 | 96 | [Carried Away](https://open.spotify.com/track/670iB5TOAt9dGjyPFXUUiu) | [OVERSTREET](https://open.spotify.com/artist/5TGdkTyHliaYLHPGxqcSUt) | [Carried Away](https://open.spotify.com/album/5UHnIcmtWq5rldnKeDF2cc) | 3:16 |
 | 97 | [Changes](https://open.spotify.com/track/5RdHkLxnVnj1RZndX1Sj1T) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Under The Shade of Green](https://open.spotify.com/album/7zDlksfOktU7vodm08KPsb) | 3:31 |
 | 98 | [Mixtape](https://open.spotify.com/track/7pV3R5btHH6ddO4FYUumej) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Girls.](https://open.spotify.com/album/731pQqiILP4nsxEUzvRAhf) | 3:52 |
 | 99 | [Too Late \(with Jared Watson of Dirty Heads\)](https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Too Late \(with Jared Watson of Dirty Heads\)](https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn) | 2:37 |
 | 100 | [Lift Me Up](https://open.spotify.com/track/4ARoMobdw8Pv6idjmbQUjJ) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Lift Me Up](https://open.spotify.com/album/1aN1BvqkohdINxEHf83z3u) | 2:33 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDU4YjMwN2QyYjMxOWY1YmI3MTcxZjYwYWU3ZDdjNzU1`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDA2NTFkZGIyODhiODMxYjM4MzI2MTcxYjBlOWRhMWQz`

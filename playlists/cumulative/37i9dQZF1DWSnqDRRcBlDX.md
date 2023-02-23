@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-103 songs - 10 hr 17 min
+104 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Techno Lust](https://open.spotify.com/track/6vrJmOsPKS6tusB8dsnsWI) | [Luca Maier](https://open.spotify.com/artist/0g0YEju2GfxHogh42aySl2), [Marco Leckbert](https://open.spotify.com/artist/49HgT3Jf89Xiw8lKvvemf5) | [Bud Sampler 10](https://open.spotify.com/album/6ccV50uWrOE8Tbopmg5m0B) | 5:48 | 2023-01-27 |  |
 | [The Quantum Collision](https://open.spotify.com/track/4SY9giYIR4HotlfGs0EBzm) | [Vall Du Son](https://open.spotify.com/artist/7dxbiWVBTS1j37WGihfBa2) | [The Quantum Collision](https://open.spotify.com/album/2eg4btBVmtpayERKfJXnr2) | 6:18 | 2022-12-02 | 2023-01-28 |
 | [Trance Wax 5 \- Ntbr Edit](https://open.spotify.com/track/5XbYkc5rn6a0EJCjYGs6xK) | [NTBR](https://open.spotify.com/artist/1Ye4UZN2QjBlSyZF1Ts2CR) | [Trance Wax 5 \(Ntbr Edit\)](https://open.spotify.com/album/02hz3ZsW7eAdrc1TbNg3K8) | 6:21 | 2022-12-02 |  |
-| [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/1zgkuQAjwHz9dpy1ty7bX7) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity \(Amelie Lens Remix\)](https://open.spotify.com/album/3bH5A96xSwh8C1Qb1Mn3qU) | 7:23 | 2023-02-10 |  |
+| [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity](https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN) | 7:23 | 2023-02-10 |  |
+| [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/1zgkuQAjwHz9dpy1ty7bX7) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity \(Amelie Lens Remix\)](https://open.spotify.com/album/3bH5A96xSwh8C1Qb1Mn3qU) | 7:23 | 2023-02-10 | 2023-02-23 |
 | [Trippin'](https://open.spotify.com/track/3VXyb65hlabLcfaHYQm8j8) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [In My Mind EP](https://open.spotify.com/album/0VkR9gcSHuF8jbxsc3SCsp) | 5:18 | 2022-12-02 | 2023-01-28 |
 | [UNDER THE VAULT](https://open.spotify.com/track/4ds0gcec443bVW4Uek3L5V) | [Sept](https://open.spotify.com/artist/1pteEYBBIJjSjZlgkvGjAz) | [SENTENCE THREE](https://open.spotify.com/album/1AKUhvXqaKlQvh6AbQbdAy) | 6:02 | 2022-12-02 | 2023-01-28 |
 | [Valhalla Calling](https://open.spotify.com/track/191oCOOnYfoMrZ9JN2o7f1) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Hope in Darkness](https://open.spotify.com/album/0DiQzmDqvy5fAO76Zu1t69) | 6:03 | 2022-12-02 |  |

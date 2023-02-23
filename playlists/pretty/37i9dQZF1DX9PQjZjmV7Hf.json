@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 13307,
+  "num_followers": 13380,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjA3MiwwMDAwMDAwMGFjYjAyNGUyMTVkMTZmNzcxMmU3ZjM2MTBiYTNhN2Yy",
+  "snapshot_id": "MTY2NDY1NjA3MiwwMDAwMDAwMDkyYjg4NDJhNDkzYmRmZmQwYjgxOWRlYmM1N2JjZWQ1",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 236462,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/6Ms3n5sUl0Bzg3bMCtUEAw"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 193617,
       "name": "Lick Back Remix (feat. Future & Young Thug)",
       "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 236462,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/6Ms3n5sUl0Bzg3bMCtUEAw"
     },
     {
       "added_at": "2022-10-01 20:14:07",

@@ -1,15 +1,15 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Ben L'Oncle Soul",
-  "num_followers": 12212,
+  "num_followers": 12213,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0MzgyMSwwMDAwMDAwMDFjN2UyYjAzNDNjMzIyYjE5NmQzM2QxZGI4YzgzYmM5",
+  "snapshot_id": "MTY3NjY0MzgyMSwwMDAwMDAwMDA5NzY0MjQxY2M0ZTBmODZkOWYzYzA4MGE0YzIxOGRh",
   "tracks": [
     {
-      "added_at": "2023-02-22 01:04:02",
+      "added_at": "2023-02-23 01:06:19",
       "album": {
         "name": "IS IT YOU ?",
         "url": "https://open.spotify.com/album/0wRqGMoyq5WUUNu0ijOy7a"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/01U0RoOjtVZGFRobHmnWKt"
     },
     {
-      "added_at": "2023-02-22 01:04:02",
+      "added_at": "2023-02-23 01:06:19",
       "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/2Akf7c4ZjddtzAd3lj6bI8"
     },
     {
-      "added_at": "2023-02-22 01:04:02",
+      "added_at": "2023-02-23 01:06:19",
       "album": {
         "name": "Last One Standing (Radio Edit)",
         "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Moral",
-        "url": "https://open.spotify.com/album/2L2ncr9AyJlL3hE6TWenlb"
-      },
-      "artists": [
-        {
-          "name": "Sofie Winterson",
-          "url": "https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg"
-        }
-      ],
-      "duration_ms": 154986,
-      "name": "Be Bad",
-      "url": "https://open.spotify.com/track/0aWLSxNvttlmRayiJMXZy1"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Good People",
         "url": "https://open.spotify.com/album/1bv8ZKWesoZtYkz4liyRyJ"
       },
@@ -697,7 +681,23 @@
       "url": "https://open.spotify.com/track/7j95Sbh2IwxyCn512XSUue"
     },
     {
-      "added_at": "2023-02-22 01:04:02",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Moral",
+        "url": "https://open.spotify.com/album/2L2ncr9AyJlL3hE6TWenlb"
+      },
+      "artists": [
+        {
+          "name": "Sofie Winterson",
+          "url": "https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg"
+        }
+      ],
+      "duration_ms": 154986,
+      "name": "Be Bad",
+      "url": "https://open.spotify.com/track/0aWLSxNvttlmRayiJMXZy1"
+    },
+    {
+      "added_at": "2023-02-23 01:06:19",
       "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/2D9q3w8AhX70qOdnfUNHAG"
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Bigger Love",
-        "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 262773,
-      "name": "Slow Cooker",
-      "url": "https://open.spotify.com/track/4hVk7SMLCJ72CEfycSBvWT"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 178500,
       "name": "Skin",
       "url": "https://open.spotify.com/track/5nz0KE3qltISzUI9v5qPoh"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Bigger Love",
+        "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 262773,
+      "name": "Slow Cooker",
+      "url": "https://open.spotify.com/track/4hVk7SMLCJ72CEfycSBvWT"
     },
     {
       "added_at": "2022-12-08 23:00:00",

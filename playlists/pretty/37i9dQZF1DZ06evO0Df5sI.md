@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,869 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,880 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 49 | [Goodbye Fire Island](https://open.spotify.com/track/11b8iIU8p1DnkrMaVipeSp) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:31 |
 | 50 | [The Torture Doctor](https://open.spotify.com/track/6sEggmTY2zxpmni8QdCYQp) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:37 |
 
-Snapshot ID: `Mjc5NDk2OTgsMDAwMDAwMDAyMWRkYTM4ZGRlMDc5MTgwZDY4MDAwZjE2YzE4NTBmNQ==`
+Snapshot ID: `Mjc5NTExODMsMDAwMDAwMDA2YWZhMmJmNmU5MmQwNTcyMzAxYTFjOTZjZGIzMTYyYw==`

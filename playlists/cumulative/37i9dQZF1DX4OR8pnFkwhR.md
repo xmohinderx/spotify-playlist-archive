@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 春ねむり/ <br/>Early Noise Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-686 songs - 1 day 18 hr 35 min
+688 songs - 1 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A.O.U](https://open.spotify.com/track/6oyagq8m6zMSeIGmCXkceD) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [A.O.U](https://open.spotify.com/album/671xpFoPFWV4zfs8C5yuuv) | 4:18 | 2022-07-05 | 2022-07-27 |
 | [About me](https://open.spotify.com/track/3axLw3lcHemC6MMkEz4Sac) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [About me](https://open.spotify.com/album/14CLwdCKsrhYWjcxRDv4o0) | 4:44 | 2022-02-17 | 2022-03-23 |
 | [Aiaru Sekai](https://open.spotify.com/track/7FzuvU29KpohVxXr4DFcEN) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [Aiaru Sekai](https://open.spotify.com/album/62D26AgLZHyTMsLFYrAN4R) | 3:16 | 2022-09-08 | 2022-10-05 |
+| [Ainokotoba](https://open.spotify.com/track/4V6VeEWODTexeZcxtNTkwq) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [Ainokotoba](https://open.spotify.com/album/2vhhT7EjOboMtOGOSiA82b) | 4:25 | 2023-02-21 |  |
 | [Airride](https://open.spotify.com/track/0EacIYze2OP47UWmOBAmVB) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Airride](https://open.spotify.com/album/7MTn4tE9aED70gybfxYMBg) | 3:48 | 2022-12-31 | 2023-01-13 |
 | [Akachan kawaii \(Yueni Kibou Nado\)](https://open.spotify.com/track/2QArMxNdNf0RRtbWgluQ8B) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [Akachan kawaii \(Yueni Kibou Nado\)](https://open.spotify.com/album/0dne3frd7OM589ZVfQDWqS) | 4:03 | 2022-08-30 | 2022-09-15 |
 | [alien](https://open.spotify.com/track/6BOQ3AuQwtXgNkbt3p8jIA) | [aryy](https://open.spotify.com/artist/4Zk5qOGzxR0iPsKTO63VRK) | [alien](https://open.spotify.com/album/0sB4m0wrniL7HCXgmnmr7F) | 2:56 | 2022-02-22 | 2022-03-09 |
@@ -133,6 +134,7 @@
 | [Game Over](https://open.spotify.com/track/3RTPhsEAhEOTcw4y7cAnbC) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Game Over](https://open.spotify.com/album/2l28sfvxclSXQOMHgm1fe3) | 3:19 | 2022-11-01 | 2022-11-30 |
 | [garden.](https://open.spotify.com/track/2aDshEBdWAyUo4H8z9AHbO) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [garden.](https://open.spotify.com/album/1l1s0fAZcrYEkJ6thwDFZk) | 3:35 | 2022-05-24 | 2022-08-17 |
 | [gear](https://open.spotify.com/track/4EI8sYjIBvKDYXH9dC6LRD) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [gear](https://open.spotify.com/album/11aYtBeFURxSFnFrUMAiKs) | 2:55 | 2022-12-13 | 2023-01-13 |
+| [Gensou](https://open.spotify.com/track/1CXHyiojJVoZFDBtrhqWvz) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Gensou](https://open.spotify.com/album/6cn5LTnUmif9ro3cgI3Va6) | 3:03 | 2023-02-21 |  |
 | [Gerbera](https://open.spotify.com/track/6XAAEYr0JoYH86BXR797l7) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Gerbera](https://open.spotify.com/album/1aCpE4qQJ99g18K1AWVP5f) | 3:27 | 2022-03-29 | 2022-04-27 |
 | [Get High](https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Get High](https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK) | 3:40 | 2022-12-15 | 2023-01-13 |
 | [GHOST](https://open.spotify.com/track/5hMPL9uwIHTMzV3ASz9IpI) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [GHOST](https://open.spotify.com/album/6fU3bolaKlQff22zpWZ3lY) | 2:41 | 2022-05-24 | 2022-07-01 |
@@ -583,7 +585,7 @@
 | [差し色](https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [差し色](https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W) | 3:03 | 2022-04-14 | 2022-07-29 |
 | [帰り路](https://open.spotify.com/track/3E3NsTYYRQqHYauCm7qExn) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [i's](https://open.spotify.com/album/00X0ZVNwkI9SQRvM7Ek500) | 3:23 | 2022-02-24 | 2022-05-27 |
 | [帰り路 \- MONJOE Remix](https://open.spotify.com/track/2dwK6HnOEGCVbVOjCQtQGG) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [帰り路 \(MONJOE Remix\)](https://open.spotify.com/album/4WlZLxlIrggvFJxZYDby6a) | 3:25 | 2022-05-26 | 2022-07-06 |
-| [幻想](https://open.spotify.com/track/2RA9HyGBNrstrNhrEpT6v4) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [幻想](https://open.spotify.com/album/22x2l2obwaIYjJIx5qwi7l) | 3:03 | 2023-02-21 |  |
+| [幻想](https://open.spotify.com/track/2RA9HyGBNrstrNhrEpT6v4) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [幻想](https://open.spotify.com/album/22x2l2obwaIYjJIx5qwi7l) | 3:03 | 2023-02-21 | 2023-02-23 |
 | [待ち遠しいの!](https://open.spotify.com/track/3F9ZhEcFH1AQbsa6EAUbAY) | [シヴァネコ](https://open.spotify.com/artist/5BlTidgzgtb6VqF10RR0lB) | [ひねもす](https://open.spotify.com/album/0kVKAVsZxnZoUwgW8qt8JQ) | 3:37 | 2022-12-06 | 2023-01-13 |
 | [心を照らせ!](https://open.spotify.com/track/7EPAubvUXuj7fMmQ7GBJBd) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [心を照らせ!](https://open.spotify.com/album/60QWfUY2GUB0z7QoIlzp7G) | 3:21 | 2022-07-19 | 2022-08-03 |
 | [恋の行方は](https://open.spotify.com/track/7mtNCJDBtzHWX5Hhtccq0z) | [CC81](https://open.spotify.com/artist/0lDBfTAgGg6Ouqh0lEQbYK) | [恋の行方は](https://open.spotify.com/album/3G3Cs1RfGUwJYh2uBGi2fl) | 3:06 | 2022-06-21 | 2022-07-06 |
@@ -596,7 +598,7 @@
 | [愛ある世界](https://open.spotify.com/track/2LHR0pUDiYc4NiFhnp7YCt) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [愛ある世界](https://open.spotify.com/album/1WUEaIFtxxrkK1PNVhWy7O) | 3:16 | 2022-09-05 | 2022-09-09 |
 | [愛くるしい](https://open.spotify.com/track/7KxMETuGfHLNuSIjmioXMw) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [愛くるしい](https://open.spotify.com/album/1HvyZrbkhKUvkhlH63o83e) | 3:29 | 2022-06-21 | 2022-07-27 |
 | [愛してますっ!](https://open.spotify.com/track/5Fyxfo0fSuKq14lb37ZSAF) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [愛してますっ!](https://open.spotify.com/album/3kk5TDaqFPBIAbe6mAXkZJ) | 3:38 | 2022-05-10 | 2022-05-25 |
-| [愛の言葉](https://open.spotify.com/track/4ResLs28mRYFb0nxR5XyMr) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [愛の言葉](https://open.spotify.com/album/2riMQYgiw2Octvqe808il3) | 4:25 | 2023-02-21 |  |
+| [愛の言葉](https://open.spotify.com/track/4ResLs28mRYFb0nxR5XyMr) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [愛の言葉](https://open.spotify.com/album/2riMQYgiw2Octvqe808il3) | 4:25 | 2023-02-21 | 2023-02-23 |
 | [愛はいつも](https://open.spotify.com/track/3jP8dzUFw0rP3QyE2AdBRC) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [愛はいつも](https://open.spotify.com/album/5pgsBGk0Z5TvzsF5xU4EIp) | 4:39 | 2022-10-25 | 2022-10-27 |
 | [愛をつかまえて](https://open.spotify.com/track/0NF5k4GYaJrr7hOJVzaVqD) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [愛をつかまえて](https://open.spotify.com/album/0yI2oGI2X12FrTCHxOBtr7) | 4:23 | 2022-12-13 |  |
 | [我愛你](https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活のニュース](https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz) | 4:56 | 2022-08-23 | 2022-10-12 |

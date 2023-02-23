@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 188859,
+  "num_followers": 188870,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGQ4Njg2OWM1MTJkMmNmZjQyY2JkOWY2ZTk3N2E3ZmQ5",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDRiMzAxM2IxNDBjZTcwOGU2ZmU3ZTk2ZTFiZTJkY2Iw",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "All We Got (feat. KIDDO)",
         "url": "https://open.spotify.com/album/7wzcIKvtXDWs1VA2BMHuaY"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 190218,
       "name": "All We Got (feat. KIDDO)",
       "url": "https://open.spotify.com/track/1FP9s72rDYty6mfoOEYKnE"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Sad (feat. Afrojack)",
+        "url": "https://open.spotify.com/album/3iyLP2ce8hthgd4ygzLRJD"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Sad (feat. Afrojack)",
+      "url": "https://open.spotify.com/track/4ESPuOrSsRcBISzcMlzmY5"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Shine Your Light (feat. Akon)",
         "url": "https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 189390,
       "name": "Shine Your Light (feat. Akon)",
       "url": "https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Sad (feat. Afrojack)",
-        "url": "https://open.spotify.com/album/3iyLP2ce8hthgd4ygzLRJD"
-      },
-      "artists": [
-        {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "Sad (feat. Afrojack)",
-      "url": "https://open.spotify.com/track/4ESPuOrSsRcBISzcMlzmY5"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Something Stupid (feat. AWA)",
-        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "AWA",
-          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
-        }
-      ],
-      "duration_ms": 176734,
-      "name": "Something Stupid (feat. AWA)",
-      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/6veielpwGAJ4FKG7w3q69H"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 192088,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/1S7hEPenrIVKVTuEjtXKz9"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Something Stupid (feat. AWA)",
+        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "AWA",
+          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
+        }
+      ],
+      "duration_ms": 176734,
+      "name": "Something Stupid (feat. AWA)",
+      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Fiender \u00e4r tr\u00e5kigt",
+        "url": "https://open.spotify.com/album/5IpwTXB95XBp7YVUESyhVi"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Tillf\u00e4lligheter",
+      "url": "https://open.spotify.com/track/0rBj6lYQUMHwTJ33sdj6Qz"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Everywhere (feat. Maya Avedis)",
         "url": "https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 176129,
       "name": "Everywhere (feat. Maya Avedis)",
       "url": "https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Fiender \u00e4r tr\u00e5kigt",
-        "url": "https://open.spotify.com/album/5IpwTXB95XBp7YVUESyhVi"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Tillf\u00e4lligheter",
-      "url": "https://open.spotify.com/track/0rBj6lYQUMHwTJ33sdj6Qz"
     },
     {
       "added_at": "2022-11-10 23:00:00",

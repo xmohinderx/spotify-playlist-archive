@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-214 songs - 14 hr 3 min
+215 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [How Can I Live Without You](https://open.spotify.com/track/2WU6qcQohr7YTygqaE1A0J) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [How Can I Live Without You](https://open.spotify.com/album/3Z8pAXoh1RbOLaLia5Y1wz) | 3:44 | 2022-10-04 | 2023-01-04 |
 | [How Can I Live Without You](https://open.spotify.com/track/2wR3Hf3iIiCIAP8xx1I3Px) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [How Can I Live Without You](https://open.spotify.com/album/4ToOcySEVsN3ZEpKtd4nvO) | 3:44 | 2022-05-11 | 2022-07-24 |
 | [How could you](https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [How could you](https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo) | 4:11 | 2022-05-11 | 2022-10-25 |
-| [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 | 2023-02-03 |  |
+| [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 | 2023-02-03 | 2023-02-23 |
 | [How You Been](https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq) | 2:58 | 2022-07-08 |  |
 | [How You Been](https://open.spotify.com/track/3tKplzefIgmzzjYvQPIORB) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 2:58 | 2022-05-11 | 2022-07-29 |
 | [I draw you](https://open.spotify.com/track/6ASNsdgDEIaHjvmcFm8a8S) | [The Brothers](https://open.spotify.com/artist/4cca1jneSmmm9K1uXTQaUc) | [I draw you](https://open.spotify.com/album/1NhyqimJ7BIgA1IGMEiGGj) | 3:29 | 2022-05-11 | 2022-06-28 |
@@ -123,6 +123,7 @@
 | [Love Each Other](https://open.spotify.com/track/1MAWAwi7CQDZyZuIsjgIa2) | [HAEDEUN](https://open.spotify.com/artist/2cWWliWQ6Ziim9v8RKK9SI) | [Love Each Other](https://open.spotify.com/album/2lugWah96q2znqUjsoZyb3) | 4:05 | 2022-06-20 | 2022-07-29 |
 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 | 2022-07-08 | 2022-09-06 |
 | [Love Lost](https://open.spotify.com/track/1axSh8e8I2eSYLBt4nrgYn) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Love Lost](https://open.spotify.com/album/73GcOMMjtWU30MrV9NblhT) | 3:50 | 2022-09-05 | 2022-12-28 |
+| [Love Lost](https://open.spotify.com/track/3S6rPD9U4esvHwgYe3d1hk) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Love Lost](https://open.spotify.com/album/4RB7FLLcYwNpkdyZdIrEu2) | 3:06 | 2023-02-16 |  |
 | [Love Me Like You Used To](https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [START\-UP \(Original Television Soundtrack\) Pt\. 15](https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP) | 3:36 | 2022-05-11 |  |
 | [Loveless Fan Club](https://open.spotify.com/track/6LGzijZQRFSypcWELbCeni) | [Autumn Vacation](https://open.spotify.com/artist/09FfoFiVjZZEQ7ZcFVfYts) | [The World Is Like a Handkerchief](https://open.spotify.com/album/7trpOK3KKjYt6nxMBKT2S1) | 4:04 | 2022-05-11 | 2022-07-27 |
 | [Lovesick](https://open.spotify.com/track/0gPNUEHPZJN0oOSwJ1Ymnd) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:13 | 2022-07-08 | 2022-07-24 |

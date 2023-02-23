@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 15632,
+  "num_followers": 15685,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDE3YWE4ZWEzY2VlYWM2ODFlOTMyZjZlZWYxNWQ1YmVm",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGE3OGNmMjYyMWFmNGY1MDAxZjg5YWMzMGQxY2VlNmRh",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Strung Up",
-        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
-      },
-      "artists": [
-        {
-          "name": "Sorley",
-          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Strung Up",
-      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 223880,
       "name": "Trip",
       "url": "https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Strung Up",
+        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
+      },
+      "artists": [
+        {
+          "name": "Sorley",
+          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Strung Up",
+      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
     },
     {
       "added_at": "2023-02-17 05:00:00",

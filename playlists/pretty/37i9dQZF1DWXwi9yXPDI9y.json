@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 39098,
+  "num_followers": 39190,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjUzNzIwOSwwMDAwMDAwMDU0YTRiNjFhMjRkZTNjNThhMWZjNGMxOWMzYmQ5MjY5",
+  "snapshot_id": "MTY3NjUzNzIwOSwwMDAwMDAwMDk1YjhjMzNiMmY5MWFlYmVhODRiNWM5OTdiODJkYmZm",
   "tracks": [
     {
       "added_at": "2023-02-16 08:46:49",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-02-16 08:46:49",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 403826,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
-    },
-    {
-      "added_at": "2023-02-16 08:46:49",
-      "album": {
         "name": "Tommy Flanagan Trio",
         "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 319626,
       "name": "Velvet Moon",
       "url": "https://open.spotify.com/track/1eQnTVNUwVaU7dXglhgCFr"
+    },
+    {
+      "added_at": "2023-02-16 08:46:49",
+      "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 403826,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
     },
     {
       "added_at": "2023-02-16 08:46:49",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-02-16 08:46:49",
       "album": {
-        "name": "The Classic Lena Horne",
-        "url": "https://open.spotify.com/album/2feDNzqIwyjntEmwEoqMfm"
-      },
-      "artists": [
-        {
-          "name": "Lena Horne",
-          "url": "https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/301Sxo2jTQH3CBRka9wEK1"
-    },
-    {
-      "added_at": "2023-02-16 08:46:49",
-      "album": {
         "name": "Lester Swings",
         "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 231866,
       "name": "I Cover The Waterfront - Master Take",
       "url": "https://open.spotify.com/track/4VcDJCwRyrSa1oJNJ1Ac9P"
+    },
+    {
+      "added_at": "2023-02-16 08:46:49",
+      "album": {
+        "name": "The Classic Lena Horne",
+        "url": "https://open.spotify.com/album/2feDNzqIwyjntEmwEoqMfm"
+      },
+      "artists": [
+        {
+          "name": "Lena Horne",
+          "url": "https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/301Sxo2jTQH3CBRka9wEK1"
     },
     {
       "added_at": "2023-02-16 08:46:49",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-02-16 08:46:49",
       "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Am I Blue? - Take 2",
-      "url": "https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX"
-    },
-    {
-      "added_at": "2023-02-16 08:46:49",
-      "album": {
         "name": "The Hawk Relaxes",
         "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 356973,
       "name": "Moonglow",
       "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
+    },
+    {
+      "added_at": "2023-02-16 08:46:49",
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Am I Blue? - Take 2",
+      "url": "https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX"
     },
     {
       "added_at": "2023-02-16 08:46:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,714 likes - 33 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,795 likes - 33 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 | 32 | [The Ride \(feat\. Jordan Davis\)](https://open.spotify.com/track/3YT4ivJlZm1imbjAPKpuEj) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:27 |
 | 33 | [Bluebird Days](https://open.spotify.com/track/6EWzoMLUnhfMVcovg6qXgf) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 3:46 |
 
-Snapshot ID: `Mjc5NDk2OTgsMDAwMDAwMDBlYjA5ZmJiMzU1NzE2YTNkM2MxZmMzYmJhN2Q5OTczOA==`
+Snapshot ID: `Mjc5NTExODMsMDAwMDAwMDA3ZWEyM2FiMzNmOThkNTI3MGM2YmQwZjFmNDMwNTg5Nw==`

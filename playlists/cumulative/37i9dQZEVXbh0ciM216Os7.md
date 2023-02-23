@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-57 songs - 3 hr 40 min
+58 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Diferente ft CNCO](https://open.spotify.com/track/02dJRtnDdqon7U1CQD5BpH) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Diferente ft CNCO](https://open.spotify.com/album/4QmDORaIrehe1FsixkVW79) | 3:19 | 2023-02-17 |  |
 | [Don't Let Me Let Go \(with ILLENIUM & EVAN GIIA\) – Zomboy Remix](https://open.spotify.com/track/6ZQHhBaGgwX2zourh1J5Ie) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Don't Let Me Let Go \(with ILLENIUM & EVAN GIIA\) – Zomboy Remix](https://open.spotify.com/album/5zLvgObeFVjQZ8Q7Ifqotq) | 4:18 | 2023-02-10 | 2023-02-18 |
 | [Doom And Gloom \- Live](https://open.spotify.com/track/3ZMPZ6A5boeoB7pvFCo4kq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Doom And Gloom \(Live\)](https://open.spotify.com/album/6NtX3RvkYtEyVdUM6EOgbV) | 4:34 | 2023-02-17 |  |
+| [Drinkaby](https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Drinkaby](https://open.spotify.com/album/7aMF2CCGWFppLNwMZzGnY6) | 3:02 | 2023-02-17 |  |
 | [Fact \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ht9obvnnWeW4eoRtPAoQD) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Fact \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/4lpOnXYfA4BRnZzx54EhqX) | 2:54 | 2023-02-10 | 2023-02-18 |
 | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7) | 4:02 | 2023-02-17 |  |
 | [Flowers \(Metal Version\)](https://open.spotify.com/track/5h8k6b7a85OqTqWfAEqSde) | [Leo](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy) | [Flowers \(Metal Version\)](https://open.spotify.com/album/0N4v2VPeaztKO230vel9P9) | 4:34 | 2023-02-17 |  |
@@ -63,7 +64,7 @@
 | [Tube \- Live](https://open.spotify.com/track/7diMNbGu0CZhNmGQFg9mhP) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [The Gorge '98](https://open.spotify.com/album/2lCNMTbwN2kPwy4MKy0OV3) | 9:53 | 2023-02-10 |  |
 | [Tumbling Dice \- Live](https://open.spotify.com/track/4mn5riACKGOZbADntB95wE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [GRRR Live!](https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2) | 4:53 | 2023-02-10 | 2023-02-18 |
 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 | 2023-02-10 | 2023-02-19 |
-| [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/2ntMdOsTvndzY4vQzkSigb) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/0h04WVpjhX7TDcUlr5ztzo) | 2:43 | 2023-02-17 |  |
+| [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/2ntMdOsTvndzY4vQzkSigb) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/0h04WVpjhX7TDcUlr5ztzo) | 2:43 | 2023-02-17 | 2023-02-23 |
 | [WYD](https://open.spotify.com/track/2tFTUUlBZeHGeI2Ys0nkci) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [WYD](https://open.spotify.com/album/08PRxcK4bHMKg6PVObT6r9) | 3:21 | 2023-02-17 |  |
 
 \*This playlist was first scraped on 2023-02-13. Prior content cannot be recovered.

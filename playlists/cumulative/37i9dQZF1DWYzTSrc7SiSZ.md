@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-207 songs - 11 hr 3 min
+208 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [El Día Que Me Odies](https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [El Día Que Me Odies](https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE) | 3:05 | 2022-05-20 |  |
 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 | 2022-05-20 |  |
 | [El Mismo Aire](https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:06 | 2022-05-20 | 2022-10-28 |
-| [Electricidad \(2:21am\)](https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Dos y Veintidós](https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp) | 3:57 | 2022-05-20 |  |
+| [Electricidad \(2:21am\)](https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Dos y Veintidós](https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp) | 3:57 | 2022-05-20 | 2023-02-23 |
 | [En Cantos](https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En Cantos](https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl) | 3:32 | 2022-05-20 | 2022-10-28 |
 | [Escápate](https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4) | [Malxs](https://open.spotify.com/artist/15vG2WQMHbjKWepVbj7lNY) | [Escápate](https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ) | 2:52 | 2022-05-20 | 2023-01-07 |
 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 | 2022-05-20 |  |
@@ -103,6 +103,7 @@
 | [La Vida en Rosa](https://open.spotify.com/track/2MBYMHjtOPxVtZxaKbQYxc) | [Pantera Blue](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [La Vida en Rosa](https://open.spotify.com/album/4UoTOkoxOm0DWB2fh3W65x) | 2:08 | 2022-05-20 | 2022-07-29 |
 | [La Vida en Rosa](https://open.spotify.com/track/2odlHl0cZ7Q1npc6RL07Ar) | [Pantera Blue](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [La Vida en Rosa](https://open.spotify.com/album/40vbtVpx6kZt8AgNixhVeP) | 2:08 | 2022-07-11 |  |
 | [la vida viene y va](https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [la vida viene y va](https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW) | 3:35 | 2022-05-20 |  |
+| [Lento](https://open.spotify.com/track/5qy7TkqmSsuDarSz9Ogt5s) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Fin de Semana Largo](https://open.spotify.com/album/0OilsQo54eWy2d9XHtt0d7) | 2:53 | 2023-02-17 |  |
 | [lily](https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV) | [Danny Mont](https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX) | [fluye](https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb) | 3:45 | 2022-10-27 | 2023-01-07 |
 | [Lluvia](https://open.spotify.com/track/0kq1HuBQzWPJfC2qXQfeTK) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Daniel Haaksman](https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r) | [Lluvia \(Man120\)](https://open.spotify.com/album/7HpxvfyReSCZwrHSEe5tPA) | 3:51 | 2022-05-20 |  |
 | [Llévate](https://open.spotify.com/track/6cpGWvX109d5I9Cx13sPMy) | [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Llévate](https://open.spotify.com/album/50o7453bYYgKKkbr4CreN3) | 2:50 | 2022-07-11 | 2023-02-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 春ねむり/ <br/>Early Noise Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,521 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,548 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 21 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 |
 | 22 | [Omocha Teikoku](https://open.spotify.com/track/3WpKIipnEpE5hSDbjqTnne) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Omocha Teikoku](https://open.spotify.com/album/43wX4DrD0IYYtMhlfiYevx) | 3:02 |
 | 23 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 |
-| 24 | [幻想](https://open.spotify.com/track/2RA9HyGBNrstrNhrEpT6v4) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [幻想](https://open.spotify.com/album/22x2l2obwaIYjJIx5qwi7l) | 3:03 |
+| 24 | [Gensou](https://open.spotify.com/track/1CXHyiojJVoZFDBtrhqWvz) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Gensou](https://open.spotify.com/album/6cn5LTnUmif9ro3cgI3Va6) | 3:03 |
 | 25 | [All night](https://open.spotify.com/track/5JlJuloP4IgM88EZ3IjCxe) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [All night](https://open.spotify.com/album/23omW2nOAt0jOBcHXo9sYb) | 2:57 |
 | 26 | [SOMETHING](https://open.spotify.com/track/0YUWGLoMy9Uc2W0HiBHtmp) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [Welcome to our 1st EP](https://open.spotify.com/album/65z861iUxO3B5gmr57bco5) | 3:18 |
 | 27 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 54 | [ハナノヨウ](https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [ハナノヨウ](https://open.spotify.com/album/1NORsBbP4WjmIBG2P8OsCt) | 3:52 |
 | 55 | [Funktion](https://open.spotify.com/track/3xqpCXPBgkQQctOygx8Epk) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [FIRST LIGHT](https://open.spotify.com/album/7HNFkK46GTSOsEZuKjm3zs) | 2:48 |
 | 56 | [ルーシー](https://open.spotify.com/track/4u2ssD8qpxwayjjghIMX4Z) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [ルーシー](https://open.spotify.com/album/1zkesL9M2wNq0qQJiIlOId) | 3:32 |
-| 57 | [愛の言葉](https://open.spotify.com/track/4ResLs28mRYFb0nxR5XyMr) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [愛の言葉](https://open.spotify.com/album/2riMQYgiw2Octvqe808il3) | 4:25 |
+| 57 | [Ainokotoba](https://open.spotify.com/track/4V6VeEWODTexeZcxtNTkwq) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [Ainokotoba](https://open.spotify.com/album/2vhhT7EjOboMtOGOSiA82b) | 4:25 |
 | 58 | [Neighbor](https://open.spotify.com/track/5Gfd9OVeGAntRYosUS0ZCy) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Neighbor](https://open.spotify.com/album/4SMsvmN93mpnD23tZXZikV) | 4:32 |
 | 59 | [祈り](https://open.spotify.com/track/7HPycbZx8VSAwN1tOdy4Ty) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [祈り](https://open.spotify.com/album/7HytM9B1Hbl3MDAMKdE5c6) | 3:36 |
 | 60 | [夢のしるし](https://open.spotify.com/track/7k4O76xxXaOfSW7MbTrSVv) | [まなつ](https://open.spotify.com/artist/5jrKolawagaQ6oSN5VCcnO) | [夢のしるし](https://open.spotify.com/album/12nNBrL39FSaR9xlEUBA7Z) | 3:08 |
 
-Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMDk5ZDkyYjg2NmVhNWI3YWQzZjAxMzM2NzQ1ODRmOThl`
+Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMDU2NzNhODUyODI2ZWVkNDU1NzAwNDUzOTA2YjQxNzZh`

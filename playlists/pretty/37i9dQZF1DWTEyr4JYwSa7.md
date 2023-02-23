@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,236 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,227 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [23 Decembre \- 2008 Digital Remaster](https://open.spotify.com/track/1CHfc4n8adHnVKCovZiyno) | [Beau Dommage](https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp) | [Noël 2019](https://open.spotify.com/album/6ykFQwwI2HgSZsHAzprXeP) | 2:16 |
 | 2 | [Noël des enfants / Happy Xmas \(War Is Over\)](https://open.spotify.com/track/6m47mc93sFSQJ7ld7ggwUt) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn), [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Noël des enfants / Happy Xmas \(War Is Over\)](https://open.spotify.com/album/76J7Opnr6Ma0NQjdHscwZ6) | 4:00 |
 | 3 | [Noël c't'année](https://open.spotify.com/track/6KH1j58SYbfYSwvlMOB4CP) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Noël c't'année](https://open.spotify.com/album/0biUd5DgmDEvdk4VB6gtAn) | 3:24 |
-| 4 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 |
-| 5 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 |
+| 4 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 |
+| 5 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 |
 | 6 | [Noël est arrivé](https://open.spotify.com/track/2U9N0ZugRSPNvyCCgWymVC) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Noël est arrivé](https://open.spotify.com/album/1XPaE5gMgKnOMZs25bKK5D) | 3:11 |
 | 7 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 |
 | 8 | [J'ai vu maman embrasser le père Noël](https://open.spotify.com/track/4rEmPwDqff0iLL0cEXD1GU) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [J'ai vu maman embrasser le père Noël](https://open.spotify.com/album/5ReyWZwqRMiEc21kMeoW7w) | 3:11 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 63 | [My Kind Of Present](https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:41 |
 | 64 | [Blame It On The Mistletoe](https://open.spotify.com/track/110lWlsa8fJXgrrwGgg0f1) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Blame It On The Mistletoe](https://open.spotify.com/album/3MuX8Afd4KC0kGIBOstzxs) | 3:05 |
 | 65 | [Le bonhomme de neige](https://open.spotify.com/track/1RotaRDMB06sEMMv1iwtmU) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [It's Magic !](https://open.spotify.com/album/6hoZGBlQ2bsYaP9AfhZ4za) | 2:38 |
-| 66 | [O Holy Night](https://open.spotify.com/track/0dKBg0sPcfOFXFxSs23Xz5) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [O Holy Night](https://open.spotify.com/album/0x8AUQKZdcAbY693C4SM79) | 3:14 |
-| 67 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 |
+| 66 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 |
+| 67 | [O Holy Night](https://open.spotify.com/track/0dKBg0sPcfOFXFxSs23Xz5) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [O Holy Night](https://open.spotify.com/album/0x8AUQKZdcAbY693C4SM79) | 3:14 |
 | 68 | [I'll Be Home for Christmas](https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 4:24 |
 | 69 | [Winter Song](https://open.spotify.com/track/1KDkSCXJIR4CJaVUK9qP7O) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM), [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 4:26 |
 | 70 | [We'll Be Alright](https://open.spotify.com/track/4AXX2fes8GOdvuCUjadbmT) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [We'll Be Alright](https://open.spotify.com/album/4MEHD7eRexeF3cpIlauzM1) | 2:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [J'ai vu maman](https://open.spotify.com/track/7C2rBix360wLA61Al61APh) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 3:13 |
 | 100 | [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 |
 
-Snapshot ID: `MTY3MTc1MTc0OCwwMDAwMDAwMDJiYzdlMzM2YWQ3NzQ3ZTQ1NWI5YzljNzBiMDdlYmYx`
+Snapshot ID: `MTY3MTc1MTc0OCwwMDAwMDAwMDJmOWNmODZjNWY1OTgwMDFlZDQ3NjUwZTAyYTQ3Njg1`

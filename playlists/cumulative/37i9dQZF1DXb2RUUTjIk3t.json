@@ -410,7 +410,7 @@
     {
       "album": {
         "name": "Glorious Miscellanea",
-        "url": "https://open.spotify.com/album/2YiePm4VnASWYAs1dAwZx4"
+        "url": "https://open.spotify.com/album/5t1LgYhccLmZqxxghioxDb"
       },
       "artists": [
         {
@@ -421,6 +421,24 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 155375,
+      "name": "It Matters Until It Doesn't",
+      "url": "https://open.spotify.com/track/5UGRZhXnVNOkX4ikYKpf1Q"
+    },
+    {
+      "album": {
+        "name": "Glorious Miscellanea",
+        "url": "https://open.spotify.com/album/2YiePm4VnASWYAs1dAwZx4"
+      },
+      "artists": [
+        {
+          "name": "Ruru",
+          "url": "https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
       "duration_ms": 155375,
       "name": "It Matters Until It Doesn't",
       "url": "https://open.spotify.com/track/6yF8gJoUzniKX40Y4AopUo"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848 likes - 29 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 849 likes - 29 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 28 | [Wait in the Car](https://open.spotify.com/track/0fm9CqVDMAFiVBvCcBBJo0) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:40 |
 | 29 | [Place Isn't Lost](https://open.spotify.com/track/26h24NAtgkferYRxAgUX0c) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Place Isn't Lost](https://open.spotify.com/album/2GKb0jadpaGEzqyFfxomTk) | 2:58 |
 
-Snapshot ID: `Mjc5NDk2OTgsMDAwMDAwMDA1YTM0NGViM2YzMzMyZTYwOWFmNmYyMDM5NGVkMjBiOQ==`
+Snapshot ID: `Mjc5NTExODMsMDAwMDAwMDA3OTNjZDk2YjA4OWEzNDA4MTE0ODhhMzJkNDQ3OTRjMQ==`

@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-531 songs - 1 day 9 hr 54 min
+532 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Key to My Heart](https://open.spotify.com/track/1NmvymljWwjFk64R6N24So) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [Key to My Heart](https://open.spotify.com/album/63H4TPHDzaIKYtcIGxTDzM) | 3:50 | 2023-01-17 | 2023-02-01 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-11 |  |
 | [Kimiiro](https://open.spotify.com/track/6cOaH9XTtUbaWpntWUpmV9) | [Beatcats](https://open.spotify.com/artist/3vmZgwzFp8rwt5GicYWbST) | [Kimiiro](https://open.spotify.com/album/5VhIXhofvuhXuUIKlve7eU) | 3:24 | 2022-07-28 | 2022-08-03 |
+| [KIRIKIZU](https://open.spotify.com/track/4axioKS5nckvIhhZgfFxd5) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TV SERIES ”IS IT WRONG TO TRY TO PICK UP GIRLS IN A DUNGEON? IV”](https://open.spotify.com/album/0nPuBJ6dF2sCUCiUfWICFg) | 3:37 | 2023-02-21 |  |
 | [Konotateni Kakuremasu \- TVSize](https://open.spotify.com/track/1VHTcCoAPqHXanvpVrGVYK) | [純情のアフィリア](https://open.spotify.com/artist/1RFi2Nn5fsdUsVcH6V0xC1) | [TV Animation”I Don’t Want to Get Hurt, so I’ll Max Out My Defense.2”theme song](https://open.spotify.com/album/3ukhrSxULp81bKgwvm4D61) | 1:29 | 2023-01-12 | 2023-01-25 |
 | [Kyokansarenakutemoiijanai](https://open.spotify.com/track/0ILqv4nIfyMSHg7WPJBwlw) | [Rie Takahashi](https://open.spotify.com/artist/0ENel7sUUXjVGUsP0xvwEJ) | [Kyokansarenakutemoiijanai](https://open.spotify.com/album/1O0nkN0Qp1rcdwJHsNds6p) | 3:53 | 2022-10-06 | 2022-12-28 |
 | [Ladder](https://open.spotify.com/track/6gZzyh7mytbxOTX0qWxbhx) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [Ladder](https://open.spotify.com/album/17MpD6N5nkhHHatcIckvNa) | 3:40 | 2022-11-02 | 2023-01-13 |
@@ -442,7 +443,7 @@
 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 | 2022-05-28 | 2022-07-13 |
 | [出町柳パラレルユニバース](https://open.spotify.com/track/7wRI6losvhjrbPlpsx1tXZ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [出町柳パラレルユニバース](https://open.spotify.com/album/7esEraxgPxV0BlLBjaP8Gs) | 4:04 | 2022-09-20 | 2022-11-03 |
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2022-10-25 | 2022-12-24 |
-| [切り傷](https://open.spotify.com/track/2KJ4Qr0M7KUsy5frJTTjVa) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TVアニメ「ダンジョンに出会いを求めるのは間違っているだろうかIV 深章 厄災篇」エンディングテーマ「切り傷」](https://open.spotify.com/album/6JVfpI9ASJJIchwyPuZY9R) | 3:37 | 2023-02-21 |  |
+| [切り傷](https://open.spotify.com/track/2KJ4Qr0M7KUsy5frJTTjVa) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TVアニメ「ダンジョンに出会いを求めるのは間違っているだろうかIV 深章 厄災篇」エンディングテーマ「切り傷」](https://open.spotify.com/album/6JVfpI9ASJJIchwyPuZY9R) | 3:37 | 2023-02-21 | 2023-02-23 |
 | [厭わない](https://open.spotify.com/track/17f8pQdBqQd27349d4AINC) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0), [市ノ瀬加那](https://open.spotify.com/artist/3ZdaeWXncjBsPJoGkoF8w6) | [厭わない](https://open.spotify.com/album/1rI6gPUa74r9I6HUSFHbac) | 3:33 | 2023-01-17 |  |
 | [友情的行進](https://open.spotify.com/track/0VjvxavbMLReB2maDJwokt) | [ファンタスティック☆パイセン](https://open.spotify.com/artist/2VRte4lrD9hgjwg0js8r53) | [友情的行進](https://open.spotify.com/album/0yduV9d4GQsFrVg9pn7fY4) | 3:55 | 2022-09-29 | 2022-11-03 |
 | [可愛くなりたい](https://open.spotify.com/track/2gnAKLPBO3Z8Le28LR2wI6) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [瀬戸口雛（CV：麻倉もも）](https://open.spotify.com/artist/2YBlQwDHazL6jCrjIKgb1r) | [可愛くなりたい](https://open.spotify.com/album/29yNNZx29gnMcJaJZdYkLI) | 4:12 | 2022-05-28 | 2022-07-06 |

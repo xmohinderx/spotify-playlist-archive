@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > HARDY is taking OVER! His new album the mockingbird & THE CROW is out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,238 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,496 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 77 | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk) | [Robert Counts](https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ) | 3:28 |
 | 78 | [Tabasco & Sweet Tea](https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Tabasco & Sweet Tea](https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA) | 4:40 |
 | 79 | [Shoot From The Hip](https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi) | 3:33 |
-| 80 | [Lone Wolf](https://open.spotify.com/track/2Q9oePSJXYu74fE3ZUR5XX) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [&](https://open.spotify.com/album/3QFQRHFIQtlPKxzmBXNoyF) | 3:40 |
-| 81 | [Cloud of Dust \(feat\. The Gronkowski Brothers\)](https://open.spotify.com/track/6ttWS9HFc1fkvIjPTko8EJ) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ), [The Gronkowski Brothers](https://open.spotify.com/artist/3P5Gy7HVsYRKZW5rQf08u3) | [Cloud of Dust \(feat\. The Gronkowski Brothers\)](https://open.spotify.com/album/72EWD9Ef18RP1lV5jQ9bCC) | 2:49 |
+| 80 | [Cloud of Dust \(feat\. The Gronkowski Brothers\)](https://open.spotify.com/track/6ttWS9HFc1fkvIjPTko8EJ) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ), [The Gronkowski Brothers](https://open.spotify.com/artist/3P5Gy7HVsYRKZW5rQf08u3) | [Cloud of Dust \(feat\. The Gronkowski Brothers\)](https://open.spotify.com/album/72EWD9Ef18RP1lV5jQ9bCC) | 2:49 |
+| 81 | [Lone Wolf](https://open.spotify.com/track/2Q9oePSJXYu74fE3ZUR5XX) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [&](https://open.spotify.com/album/3QFQRHFIQtlPKxzmBXNoyF) | 3:40 |
 | 82 | [Till the Wheels Fall Off](https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Find a Light](https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7) | 3:45 |
 | 83 | [No Reservations](https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [No Reservations](https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq) | 3:44 |
 | 84 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 89 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 |
 | 90 | [Antioch](https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Antioch](https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn) | 4:05 |
 | 91 | [Pull Me Under](https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Frayed At Both Ends](https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar) | 4:28 |
-| 92 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
-| 93 | [Overrated](https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Overrated](https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm) | 3:38 |
+| 92 | [Overrated](https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Overrated](https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm) | 3:38 |
+| 93 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
 | 94 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 |
 | 95 | [I'm Not For Everyone](https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [I'm Not For Everyone](https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr) | 2:52 |
 | 96 | [Sunday Drunk](https://open.spotify.com/track/47AbGEgg7B33psQDmIygKz) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Sunday Drunk](https://open.spotify.com/album/4cmQ0g8KAGhVOMLB03r2dK) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [Year to Be Young 1994](https://open.spotify.com/track/189qLE479B11BbwQlOFxQO) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Year to Be Young 1994](https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA) | 3:20 |
 | 100 | [4 X 4 Play](https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41) | [Blackjack Billy](https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7) | [4 X 4 Play](https://open.spotify.com/album/4FSD23k3aTS9zAPopothvW) | 3:21 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDBhMjBiODEzZDlhMGY5ZDdiMjJlNzRjZjI3NDdlMDQ3`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDQzN2JlMGQzY2RlMTI4ZWMzMTRlYjM4OWUwNDBkOWM4`

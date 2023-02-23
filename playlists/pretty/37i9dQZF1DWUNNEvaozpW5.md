@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Marea.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,996 likes - 75 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,096 likes - 75 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 41 | [Salir](https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Canciones Prohibidas](https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG) | 5:18 |
 | 42 | [La sirena varada](https://open.spotify.com/track/185xDOLU8KPZKqhUICnjRz) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu Del Vino\- Edición Especial](https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3) | 4:17 |
 | 43 | [Buscando en la basura](https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Negociando gasolina](https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR) | 3:28 |
-| 44 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 |
+| 44 | [El lenguaje de los coleteros](https://open.spotify.com/track/5Q4xFUlMcZJkP5GzMdZoOK) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [El lenguaje de los coleteros](https://open.spotify.com/album/1WclhT4Z96YxX4K9WQhdQn) | 3:25 |
 | 45 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 |
-| 46 | [El lenguaje de los coleteros](https://open.spotify.com/track/5Q4xFUlMcZJkP5GzMdZoOK) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [El lenguaje de los coleteros](https://open.spotify.com/album/1WclhT4Z96YxX4K9WQhdQn) | 3:25 |
+| 46 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 |
 | 47 | [Acabo de llegar](https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 6:15 |
 | 48 | [Chica de ayer](https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [Nacha Pop](https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP) | 3:28 |
 | 49 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 74 | [Flojos de pantalón](https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Jugar Al Gua](https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0) | 4:22 |
 | 75 | [Devil Came to Me](https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 4:36 |
 
-Snapshot ID: `MTY3NjU4ODQwMCwwMDAwMDAwMGMzN2IwMTk3N2IyOGE1N2Q3MDE0N2M4MzRkZDJlYWY2`
+Snapshot ID: `MTY3NjU4ODQwMCwwMDAwMDAwMGI1ZjJmZGQ3OTBjNWMyMTdmYzc4OTA1ODZiYWRlZTA4`

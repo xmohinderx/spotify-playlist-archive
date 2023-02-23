@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 288700,
+  "num_followers": 288821,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYzMzQwMCwwMDAwMDAwMGExNGI2MWQzNmUxODRkNTc2ZTk2MzdkYjc5MzdiOTMx",
+  "snapshot_id": "MTY3NjYzMzQwMCwwMDAwMDAwMDc5MDBiYmU5OGRlN2M1OTZjNTNiYTJmMDdjODYyMzM5",
   "tracks": [
     {
       "added_at": "2023-01-27 15:30:00",
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/2kfZCiSWhAYKdxD7o7WLoa"
     },
     {
-      "added_at": "2023-02-22 01:34:12",
+      "added_at": "2023-02-23 01:00:02",
       "album": {
         "name": "Dance For Me (1, 2, 3)",
         "url": "https://open.spotify.com/album/4qUNnH1PZZQkUlpuNAECW3"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES"
     },
     {
-      "added_at": "2023-02-22 01:34:12",
+      "added_at": "2023-02-23 01:00:02",
       "album": {
         "name": "Look Into My Eyes",
         "url": "https://open.spotify.com/album/1sFDhICmXyVfall99PnFbe"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy"
     },
     {
-      "added_at": "2023-02-22 01:34:12",
+      "added_at": "2023-02-23 01:00:02",
       "album": {
         "name": "Monster (Under My Bed)",
         "url": "https://open.spotify.com/album/6RbsMktpx1OttoRw2GK2PQ"
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-01-27 15:30:00",
       "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
+    },
+    {
+      "added_at": "2023-01-27 15:30:00",
+      "album": {
         "name": "Under the Influence",
         "url": "https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 165853,
       "name": "Under the Influence",
       "url": "https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr"
-    },
-    {
-      "added_at": "2023-01-27 15:30:00",
-      "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
     },
     {
       "added_at": "2023-01-27 15:30:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-01-27 15:30:00",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
-      },
-      "artists": [
-        {
-          "name": "Stefy De Cicco",
-          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
-        },
-        {
-          "name": "RED5",
-          "url": "https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
-    },
-    {
-      "added_at": "2023-01-27 15:30:00",
-      "album": {
         "name": "Moonlight Shadow",
         "url": "https://open.spotify.com/album/6lzT6YsquWyRwQlooAOWGM"
       },
@@ -1227,30 +1207,42 @@
     {
       "added_at": "2023-01-27 15:30:00",
       "album": {
-        "name": "Fury and the Thunder",
-        "url": "https://open.spotify.com/album/6uGE9mt5WS0niNHEVBXLWE"
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
       },
       "artists": [
         {
-          "name": "Pule",
-          "url": "https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R"
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
         },
         {
-          "name": "Hr. Troels",
-          "url": "https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC"
-        },
-        {
-          "name": "Jungle Jonsson",
-          "url": "https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z"
-        },
-        {
-          "name": "Jessica Chertock",
-          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
+          "name": "RED5",
+          "url": "https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7"
         }
       ],
-      "duration_ms": 123319,
-      "name": "Fury and the Thunder",
-      "url": "https://open.spotify.com/track/5zuMbR7aGaJbdVcKZ0cS4f"
+      "duration_ms": 156093,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
+    },
+    {
+      "added_at": "2023-01-27 15:30:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "S\u00d8LO",
+          "url": "https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
     },
     {
       "added_at": "2023-01-27 15:30:00",

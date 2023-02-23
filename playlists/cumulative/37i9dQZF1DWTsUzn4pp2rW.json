@@ -498,7 +498,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 241413,
       "name": "Autumn Breeze",
       "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 301960,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/2ZloT7eCvBWrfqCCPQlgnh"
@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 329306,
       "name": "Just A Dream",
       "url": "https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq"
@@ -3798,6 +3798,24 @@
       "duration_ms": 264000,
       "name": "She Used To Be Mine",
       "url": "https://open.spotify.com/track/66cyDInjEEpnQ25TdYeNvf"
+    },
+    {
+      "album": {
+        "name": "Out Of The Shadows",
+        "url": "https://open.spotify.com/album/4lBEvDriPaU6Xn0pnSUYA8"
+      },
+      "artists": [
+        {
+          "name": "Parry Ray",
+          "url": "https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "She Used To Be Mine",
+      "url": "https://open.spotify.com/track/6PguX5ZYOUWsxuRIcAy4MI"
     },
     {
       "album": {

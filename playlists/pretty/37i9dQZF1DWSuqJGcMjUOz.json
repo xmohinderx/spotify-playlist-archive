@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2081,
+  "num_followers": 2082,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGJkMmFmODQ0YmQ1ZGYwY2E5NTRkZjZhNTJiNmU5NTU3",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGU0Y2IxNjk3OGM2NTRiMzEwMjY4YWU4NDA4OTNkOGJi",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "H\u00e9doniste",
-        "url": "https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3"
-      },
-      "artists": [
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        }
-      ],
-      "duration_ms": 199073,
-      "name": "H\u00e9doniste",
-      "url": "https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Abri de fortune (pour fin du monde)",
         "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "40 Degr\u00e9s",
-        "url": "https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq"
+        "name": "H\u00e9doniste",
+        "url": "https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3"
       },
       "artists": [
         {
-          "name": "Admiral T",
-          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
         }
       ],
-      "duration_ms": 160182,
-      "name": "#DMTS",
-      "url": "https://open.spotify.com/track/5g1OQq1LdPiPaRUgFKFvW3"
+      "duration_ms": 199073,
+      "name": "H\u00e9doniste",
+      "url": "https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -911,6 +895,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "40 Degr\u00e9s",
+        "url": "https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq"
+      },
+      "artists": [
+        {
+          "name": "Admiral T",
+          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
+        }
+      ],
+      "duration_ms": 160182,
+      "name": "#DMTS",
+      "url": "https://open.spotify.com/track/5g1OQq1LdPiPaRUgFKFvW3"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Excalibur",
         "url": "https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 151586,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Homme Autonome",
         "url": "https://open.spotify.com/album/1HPHFA0duEoD5ewnAvrcHY"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 205373,
       "name": "Mot de passe",
       "url": "https://open.spotify.com/track/5DPdRHRTZHwxiz35F2FQCt"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 151586,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Citoyen d'Am\u00e9rique",
         "url": "https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 146106,
       "name": "Am\u00e8ne-toi chez nous",
       "url": "https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Grand voyage d\u00e9sorganis\u00e9",
-        "url": "https://open.spotify.com/album/1rLmRNRjmGvzDk1rGGKUET"
-      },
-      "artists": [
-        {
-          "name": "Patrice Michaud",
-          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "La grande \u00e9vasion",
-      "url": "https://open.spotify.com/track/2aA0QjPKz8BDUHx2JTUVjp"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Roi",
         "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 153846,
       "name": "Roi",
       "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Grand voyage d\u00e9sorganis\u00e9",
+        "url": "https://open.spotify.com/album/1rLmRNRjmGvzDk1rGGKUET"
+      },
+      "artists": [
+        {
+          "name": "Patrice Michaud",
+          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "La grande \u00e9vasion",
+      "url": "https://open.spotify.com/track/2aA0QjPKz8BDUHx2JTUVjp"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Avec les yeux",
-        "url": "https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH"
-      },
-      "artists": [
-        {
-          "name": "Fishbach",
-          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Masque d'or",
-      "url": "https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "L\u00e9g\u00e8rement",
         "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 207338,
       "name": "Insensible",
       "url": "https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Avec les yeux",
+        "url": "https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH"
+      },
+      "artists": [
+        {
+          "name": "Fishbach",
+          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Masque d'or",
+      "url": "https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m"
     },
     {
       "added_at": "2022-05-25 18:00:00",

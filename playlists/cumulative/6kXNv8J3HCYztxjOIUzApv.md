@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-193 songs - 12 hr 13 min
+194 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Still Counting](https://open.spotify.com/track/4ehFuOQd4GaJp08kNvMR3z) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/2BqLW9LGoxfwRCn1hP5vOq) | 4:21 | 2022-01-24 |  |
 | [Straight Jacket](https://open.spotify.com/track/3tMELHc8vx3wdlXardClYj) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Straight Jacket](https://open.spotify.com/album/2Zgodbk1funlhzBmMTlA0N) | 4:00 | 2021-08-20 |  |
 | [Stupify](https://open.spotify.com/track/54cWVWqgyFukgDKQYmaKM3) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:34 | 2021-08-20 |  |
+| [Survivor](https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Survivor](https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs) | 3:13 | 2023-02-22 |  |
 | [The American Nightmare](https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Silver Scream](https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz) | 4:09 | 2022-01-24 |  |
 | [The Comeback \(feat\. Craig Mabbitt of Escape The Fate\)](https://open.spotify.com/track/6IFN3NtLjOHFpTmgZfGz2N) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [The Comeback \(feat\. Craig Mabbitt of Escape The Fate\)](https://open.spotify.com/album/2Rwy7b6mf4bstYZ7eUe2Hq) | 4:15 | 2021-08-20 |  |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 | 2023-01-03 |  |

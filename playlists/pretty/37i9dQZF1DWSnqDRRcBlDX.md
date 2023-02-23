@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,423 likes - 51 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,525 likes - 51 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/1zgkuQAjwHz9dpy1ty7bX7) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity \(Amelie Lens Remix\)](https://open.spotify.com/album/3bH5A96xSwh8C1Qb1Mn3qU) | 7:23 |
+| 1 | [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity](https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN) | 7:23 |
 | 2 | [Reverse Psychology](https://open.spotify.com/track/4j6IGvQ60qnehb9apAN73W) | [Ahl Iver](https://open.spotify.com/artist/0rX7Jq1AcfbVfKZGO2d6pV) | [Paradox EP](https://open.spotify.com/album/3Vj4c0xlQr0GEBUypiLaqA) | 6:58 |
 | 3 | [Creeper x Swamplyfe \- Nene H Remix](https://open.spotify.com/track/3O1ITBiIyA86GVLfSVNf2R) | [peachlyfe](https://open.spotify.com/artist/7z5jhhZFj3xUTxipinFogh), [Nene H](https://open.spotify.com/artist/3i7e7kVkTVFhkjYMfZoFoI) | [Swamplyfe](https://open.spotify.com/album/5xD5QYdp2mgQMtl0KDiXjq) | 5:10 |
 | 4 | [Money to Silence You](https://open.spotify.com/track/7o1lqHzZmnAMdTBezJt2ha) | [X\-Alox](https://open.spotify.com/artist/02bXKhV38LfhJraVsQ5qCc) | [Nether Region](https://open.spotify.com/album/0WjHEvhA3F5XfeapAP9vSJ) | 5:08 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 50 | [Get Dirty](https://open.spotify.com/track/7s0FvUlUvRXwKkAuEet9ri) | [Julian Muller](https://open.spotify.com/artist/5UWmNXxqHIUcpHEJCxDojK), [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [To My Side](https://open.spotify.com/album/0B7Z917Qc6OFI1fYjfr0I5) | 5:47 |
 | 51 | [Police Brutality](https://open.spotify.com/track/2xJfLMmhopHaPis1pd9CJR) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Historia](https://open.spotify.com/album/56tITXyE0RcImU43s2OL7j) | 6:13 |
 
-Snapshot ID: `MTY3NjAyNTY1MSwwMDAwMDAwMGYzYjA5OTYxNGNiNjQyZjE4MTY3YmY1OTg1NGVlMWRi`
+Snapshot ID: `MTY3NjAyNTY1MSwwMDAwMDAwMGFmZjU2NTZhOGU2ZGUxODMzZWM3NGY5MTMwOGZhNjIw`

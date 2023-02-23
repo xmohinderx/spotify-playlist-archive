@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night time hours
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,291 likes - 70 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,314 likes - 70 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,16 +43,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 33 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 |
 | 34 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
 | 35 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 |
-| 36 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 |
-| 37 | [Condition](https://open.spotify.com/track/6FmA0C7U8o7U4LvvyuV5wP) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:44 |
+| 36 | [Condition](https://open.spotify.com/track/6FmA0C7U8o7U4LvvyuV5wP) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:44 |
+| 37 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 |
 | 38 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
 | 39 | [Dhollandia](https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Dhollandia / Circles](https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr) | 6:18 |
 | 40 | [Go On](https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj) | [Go On](https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1) | 2:52 |
 | 41 | [Whatever Happens, Happens](https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Whatever Happens, Happens](https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8) | 3:47 |
 | 42 | [fall back](https://open.spotify.com/track/0Li5j7ruBzzWoJJcdmPtGk) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f), [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw) | [fall back](https://open.spotify.com/album/4gu4F5gAFTXjhpB87qMiaj) | 4:12 |
-| 43 | [Signs](https://open.spotify.com/track/6j40S2A7LdyLH5JIIOb8Jy) | [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe) | [Signs](https://open.spotify.com/album/50zPVLRmcBmmJRYDPSZ15E) | 3:11 |
+| 43 | [Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 8:12 |
 | 44 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 |
-| 45 | [Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 8:12 |
+| 45 | [Signs](https://open.spotify.com/track/6j40S2A7LdyLH5JIIOb8Jy) | [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe) | [Signs](https://open.spotify.com/album/50zPVLRmcBmmJRYDPSZ15E) | 3:11 |
 | 46 | [Clavicle](https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 3:33 |
 | 47 | [Closure \(feat\. Helena\)](https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6), [Helena](https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm) | [Closure \(feat\. Helena\)](https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM) | 4:30 |
 | 48 | [Flauta Magica](https://open.spotify.com/track/4SZskM7pn7z0gAL7onqeI7) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Moonbaton Vol\. 1](https://open.spotify.com/album/3T5s9mE6LhH5KR5AlZAId8) | 2:22 |
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 55 | [Setting Sun](https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Setting Sun](https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G) | 6:13 |
 | 56 | [Deep In The Glowing Heart \- Night Version](https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Deep In The Glowing Heart \(Night Version\)](https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ) | 7:00 |
 | 57 | [Sea To Sky](https://open.spotify.com/track/7AZvdqbQJdakmxCPFK5F5E) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Sea To Sky](https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8) | 4:24 |
-| 58 | [Shallow Water](https://open.spotify.com/track/1lJPVwuvM9b8wpdZIYRNq9) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 4:41 |
-| 59 | [Shapeless](https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW) | 4:34 |
-| 60 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 |
-| 61 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [Subset](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 |
-| 62 | [meserole](https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [meserole](https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD) | 3:33 |
+| 58 | [Shapeless](https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW) | 4:34 |
+| 59 | [Shallow Water](https://open.spotify.com/track/1lJPVwuvM9b8wpdZIYRNq9) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 4:41 |
+| 60 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [Subset](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 |
+| 61 | [meserole](https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [meserole](https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD) | 3:33 |
+| 62 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 |
 | 63 | [The Antidote](https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Jewels from the Sun EP](https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW) | 4:50 |
 | 64 | [Speed King](https://open.spotify.com/track/3AHzNfksnT7en2Ir8sIUc9) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Speed King](https://open.spotify.com/album/1XIpESQiT426pr6dvBgZRf) | 9:52 |
 | 65 | [Sueños](https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa) | [Waleed](https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs) | [Sueños](https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe) | 4:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 69 | [Control](https://open.spotify.com/track/3aCHltJ5vsCJI94VxpWhf2) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Control EP](https://open.spotify.com/album/5XqTrQdLMhuCxtxKwxDTFx) | 3:59 |
 | 70 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
 
-Snapshot ID: `MTY3NTk0NzYwMCwwMDAwMDAwMGJmNzRjZGY2NmQxYzEzYmUwZGU5ZGQ2NmNhNTczODU0`
+Snapshot ID: `MTY3NTk0NzYwMCwwMDAwMDAwMDc1ZDg4NTA3YWVkZDczYTRjZTBmYzUyZGM2OTk5Mjk5`

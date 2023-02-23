@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 115128,
+  "num_followers": 115252,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNjc4NywwMDAwMDAwMGRmM2QyMjM4ODViOTMxMzRhYWM1NmUxMzg0MzdhOWYz",
+  "snapshot_id": "MTY3MjQyNjc4NywwMDAwMDAwMGFmY2FhMjIwNWM0ZjA2YTE1OTNkMmE0MmYyYWVlODgx",
   "tracks": [
     {
       "added_at": "2022-12-30 18:59:47",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "La Parranda De Los Amigos (Vol. 1 / En Vivo)",
-        "url": "https://open.spotify.com/album/4KU1Pj7yeo1eH0edQFuSlB"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 441000,
-      "name": "Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde - En Vivo",
-      "url": "https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Era Cab - El Viejo",
         "url": "https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 153093,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "La Parranda De Los Amigos (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/4KU1Pj7yeo1eH0edQFuSlB"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 441000,
+      "name": "Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde - En Vivo",
+      "url": "https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
-        "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Cinco De T\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Cortinas Guindas",
         "url": "https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 216163,
       "name": "El Tecolotito",
       "url": "https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
+        "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Cinco De T\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
-        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense de Acero",
-          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
-        }
-      ],
-      "duration_ms": 135146,
-      "name": "El Sauce y la Palma",
-      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
         "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 461333,
       "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
       "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
+        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense de Acero",
+          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
+        }
+      ],
+      "duration_ms": 135146,
+      "name": "El Sauce y la Palma",
+      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
-        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+        "name": "Puras De Viento Vol. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/26dmrrDSwkLnpEGxhgewDt"
       },
       "artists": [
         {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 197162,
-      "name": "Los Enanitos",
-      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
+      "duration_ms": 167787,
+      "name": "El Olotito - En Vivo",
+      "url": "https://open.spotify.com/track/3LL8k9l7vtZ7fWNakS3vwJ"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Puras De Viento Vol. 3 (En Vivo)",
-        "url": "https://open.spotify.com/album/26dmrrDSwkLnpEGxhgewDt"
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
       },
       "artists": [
         {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
         }
       ],
-      "duration_ms": 167787,
-      "name": "El Olotito - En Vivo",
-      "url": "https://open.spotify.com/track/3LL8k9l7vtZ7fWNakS3vwJ"
+      "duration_ms": 197162,
+      "name": "Los Enanitos",
+      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
     },
     {
       "added_at": "2022-12-30 18:59:47",

@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 45589,
+  "num_followers": 45640,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDNkYTA0MWJlYjVkOTQ5N2YyNjBlYjRkNWU4ODNlZmJl",
+  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDU0Mjc2NTM1YTQ0MDRiZGM1NTZkY2RjNzlhZWEyN2E4",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -187,22 +187,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Night On The Town",
-        "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        }
-      ],
-      "duration_ms": 289240,
-      "name": "Let It Flow",
-      "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "For Your Pleasure",
         "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 218293,
       "name": "Do You Wanna Dance",
       "url": "https://open.spotify.com/track/6lOaVShahOYSeDR2RS0b9l"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Night On The Town",
+        "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
+      },
+      "artists": [
+        {
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        }
+      ],
+      "duration_ms": 289240,
+      "name": "Let It Flow",
+      "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
     },
     {
       "added_at": "2020-08-19 19:15:51",

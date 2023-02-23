@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 346336,
+  "num_followers": 347007,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMDg2ZDkxZjE2ZjRmNDEwZDg5MWZhYjIzMzI5Y2ViOGFj",
+  "snapshot_id": "MTY3NzA1MTM4MiwwMDAwMDAwMDBjODEwOGYyMTE3MDhmZjJiMzAyNzg2MjhhOGFlMGE4",
   "tracks": [
     {
       "added_at": "2023-02-16 23:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 150813,
-      "name": "Jimmy Jazz",
-      "url": "https://open.spotify.com/track/63GVVtC9u2csLf7CqfInL7"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Peter Cincotti",
         "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 251920,
       "name": "Sway",
       "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 150813,
+      "name": "Jimmy Jazz",
+      "url": "https://open.spotify.com/track/63GVVtC9u2csLf7CqfInL7"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -443,6 +443,22 @@
       "duration_ms": 259480,
       "name": "What a Wonderful World (with Eva Cassidy)",
       "url": "https://open.spotify.com/track/49GsE7zUrjEea5QXfP4NWS"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 171253,
+      "name": "What Love Will Do to You",
+      "url": "https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -475,22 +491,6 @@
       "duration_ms": 232280,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 171253,
-      "name": "What Love Will Do to You",
-      "url": "https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -999,8 +999,8 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "From Paris With Love",
-        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
         }
       ],
-      "duration_ms": 288693,
-      "name": "From Paris With Love - Single Version",
-      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
+      "duration_ms": 162720,
+      "name": "Your Heart Is As Black As Night",
+      "url": "https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1159,8 +1159,8 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "My One And Only Thrill",
-        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
+        "name": "From Paris With Love",
+        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
       },
       "artists": [
         {
@@ -1168,9 +1168,9 @@
           "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
         }
       ],
-      "duration_ms": 162720,
-      "name": "Your Heart Is As Black As Night",
-      "url": "https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP"
+      "duration_ms": 288693,
+      "name": "From Paris With Love - Single Version",
+      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
       "artists": [
         {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
+      "duration_ms": 124986,
+      "name": "They Can\u2019t Take That Away From Me",
+      "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
         }
       ],
-      "duration_ms": 124986,
-      "name": "They Can\u2019t Take That Away From Me",
-      "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
         "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 242666,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI"
     },
     {
       "added_at": "2023-02-16 23:00:00",

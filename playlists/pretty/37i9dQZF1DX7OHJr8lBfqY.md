@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 
 > Add some sabor to your summer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,249 likes - 111 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,278 likes - 111 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 | 88 | [Sin Pijama \- Kumbia Remix](https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama \(Kumbia Remix\)](https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7) | 3:24 |
 | 89 | [El Combo del Mundo](https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [En Cuarentena](https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2) | 4:19 |
 | 90 | [La Serpiente](https://open.spotify.com/track/4BRG6SROw2Oza2fGZfds6l) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [La Serpiente](https://open.spotify.com/album/6DzpfNjxShOGaJeXrJyipv) | 4:15 |
-| 91 | [La Plata \(Los Ángeles Azules Remix\) \(Feat\. Los Ángeles Azules, Lalo Ebratt\)](https://open.spotify.com/track/65qnIZCLVTYdnNxWMJQ3kj) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [La Plata \(Los Ángeles Azules Remix\)](https://open.spotify.com/album/0ybT81ASDfAvIFKoWWPVr8) | 3:39 |
-| 92 | [Sanga Zoo \(feat\. Farruko\)](https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Obrinn](https://open.spotify.com/artist/50jpd7AIFmv5ki7QBv2WgY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Sanga Zoo \(feat\. Farruko\)](https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V) | 3:51 |
+| 91 | [Sanga Zoo \(feat\. Farruko\)](https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Obrinn](https://open.spotify.com/artist/50jpd7AIFmv5ki7QBv2WgY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Sanga Zoo \(feat\. Farruko\)](https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V) | 3:51 |
+| 92 | [La Plata \(Los Ángeles Azules Remix\) \(Feat\. Los Ángeles Azules, Lalo Ebratt\)](https://open.spotify.com/track/65qnIZCLVTYdnNxWMJQ3kj) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [La Plata \(Los Ángeles Azules Remix\)](https://open.spotify.com/album/0ybT81ASDfAvIFKoWWPVr8) | 3:39 |
 | 93 | [Perdoname](https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Pa' Que Te Duela](https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7) | 3:35 |
 | 94 | [Brindemos por Ellas](https://open.spotify.com/track/1QBlf7g1RiNr2oGajY0lo6) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Ronny Mercedes](https://open.spotify.com/artist/5EzBKoSqSIvU8uQnBP74T2) | [Brindemos por Ellas](https://open.spotify.com/album/5Yxk0RoPNkJAp4wGWQrFv2) | 3:39 |
 | 95 | [Canción para Rubén](https://open.spotify.com/track/7dTyStawUmXzQmyUCVFl4p) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Cumbiana](https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS) | 4:10 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 | 110 | [Otra Botella](https://open.spotify.com/track/7B6aEwgsjVLGrXn11mbyRe) | [Victor & Gabo](https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx), [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Otra Botella](https://open.spotify.com/album/1x1l4HTXeFzxKcRovL23h3) | 2:46 |
 | 111 | [El Fenómeno del Mambo](https://open.spotify.com/track/2J6tJINnAI7Oqh0hYyQPLd) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [El Fenómeno del Mambo](https://open.spotify.com/album/25Vl33c9fDERhuJ7mSzEdJ) | 2:59 |
 
-Snapshot ID: `MTY2MTkzMTQ1NywwMDAwMDAwMGJkZTYxYjE4ZDY3MzNlN2UwYTE1YzU4MDI3NzIzZjRl`
+Snapshot ID: `MTY2MTkzMTQ1NywwMDAwMDAwMDVmMWJlMjA5YjVhYTgxNTVlNGMzYjJhOTk2OWQ1Mjdh`

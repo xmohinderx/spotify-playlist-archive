@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,631 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,640 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 38 | [Je l'ai jamais dit à personne](https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Je l'ai jamais dit à personne](https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni) | 3:22 |
 | 39 | [Soirs de Scotch](https://open.spotify.com/track/38PausDDlmKd6jwriKyiyF) | [Luce Dufault](https://open.spotify.com/artist/5FXcHIUubTQhOvzOFT8k7v) | [Luce Dufault](https://open.spotify.com/album/0CSO0Cq6hGT5KbqNKhZZP5) | 3:33 |
 | 40 | [Je voudrais voir la mer](https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Un trou dans les nuages](https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN) | 5:19 |
-| 41 | [Seul au combat](https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 5:28 |
-| 42 | [Tue\-moi](https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs) | [Dan Bigras](https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb) | [1992\-2002 tout...](https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC) | 3:25 |
+| 41 | [Tue\-moi](https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs) | [Dan Bigras](https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb) | [1992\-2002 tout...](https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC) | 3:25 |
+| 42 | [Seul au combat](https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 5:28 |
 | 43 | [Pour une histoire d'un soir](https://open.spotify.com/track/0oXqAQBT0KE2IzBgFivcnW) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Les introuvables](https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo) | 3:39 |
 | 44 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
 | 45 | [Ailleurs](https://open.spotify.com/track/423t7wuX8K01IcXZMzVbBW) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Sans retour](https://open.spotify.com/album/5NBZzXIoyqDUKlvPrdV3fq) | 7:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Je voudrais voir New\-York](https://open.spotify.com/track/3Io2XSb6fY3MZTDujUkyux) | [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM) | [Vue sur la mer](https://open.spotify.com/album/4RnJlOpXOYuuxScSUANVhL) | 3:30 |
 | 75 | [Bye Bye Mon Cowboy \- Original Version](https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [La Collection](https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX) | 3:46 |
 
-Snapshot ID: `MTU4NjI3MjY5OCwwMDAwMDAwMDNlY2U3ODY0MTQ4Y2VhODcxM2YwNDI1ODE3YzM3NTA2`
+Snapshot ID: `MTU4NjI3MjY5OCwwMDAwMDAwMGRkMDU3M2E2YmI4Yjg1Y2FlNGU2MWJlZjEzN2EyOTgz`

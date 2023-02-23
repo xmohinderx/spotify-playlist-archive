@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: MOONGA K.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,988 likes - 82 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,566 likes - 82 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 81 | [Bhuti](https://open.spotify.com/track/7bEIVw6nFRu0yn3W0aqv1f) | [Umlilo](https://open.spotify.com/artist/14oq8TIMDzq12ttQIdKoow), [Jumping Backslash](https://open.spotify.com/artist/2ymGU4OA96plBXhc8tsD1b) | [Bhuti](https://open.spotify.com/album/3RYkAFIAEFzmrB3SwwgzqO) | 4:26 |
 | 82 | [Daj mi jeszcze jedną szansę](https://open.spotify.com/track/3VHXHfcl9ovXKzfycuZr1k) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Daj mi jeszcze jedną szansę](https://open.spotify.com/album/7gWLqkWIShjmmRj4VsT1ro) | 2:52 |
 
-Snapshot ID: `MTY3NzAyNDAwMCwwMDAwMDAwMGJlOTVlZjhlY2FkZWIxYzY4ZGE0NWY2OGJmZjFjNzM5`
+Snapshot ID: `MTY3NzA4MzM5MSwwMDAwMDAwMGFkNGViOTlmZWMzNmE5NDMyY2U3NGI3NTg2OTc2ZmNl`

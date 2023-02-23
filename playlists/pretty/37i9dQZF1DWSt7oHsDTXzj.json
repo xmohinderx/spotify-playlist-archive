@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 164990,
+  "num_followers": 164920,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2Mjk5MiwwMDAwMDAwMGI5MTVkYWJhOWYzYTFlZTQwZDRkNTY4YThkMjY3MTFi",
+  "snapshot_id": "MTY3MTc2Mjk5MiwwMDAwMDAwMGM5ODYyYTJjZGQ4NmNkZGVlODNjMzQ0MGVhMWE0MzIw",
   "tracks": [
     {
       "added_at": "2022-12-23 02:36:32",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 152426,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Another Year",
         "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 256648,
       "name": "Another Year",
       "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 152426,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -419,18 +419,22 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Transatlanticism (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf"
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        },
+        {
+          "name": "Slowed Down Songs + Reverb",
+          "url": "https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi"
         }
       ],
-      "duration_ms": 246373,
-      "name": "The New Year",
-      "url": "https://open.spotify.com/track/4Y2cR1AEADE6FyNVnuaWhZ"
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -467,22 +471,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Edits",
-        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
+        "name": "Transatlanticism (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        },
-        {
-          "name": "Slowed Down Songs + Reverb",
-          "url": "https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi"
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
         }
       ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
+      "duration_ms": 246373,
+      "name": "The New Year",
+      "url": "https://open.spotify.com/track/4Y2cR1AEADE6FyNVnuaWhZ"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "LIFE ON EARTH (with Preservation Hall Jazz Band)",
         "url": "https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 380480,
       "name": "LIFE ON EARTH - with Preservation Hall Jazz Band",
       "url": "https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "HARK!",
-        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 212120,
-      "name": "Andalucia",
-      "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "christmas day",
         "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 161324,
       "name": "christmas day",
       "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "HARK!",
+        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 212120,
+      "name": "Andalucia",
+      "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
         "name": "Songs For Christmas",
         "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+        "name": "Darling I Do",
+        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Snow Song",
-      "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
+      "duration_ms": 181094,
+      "name": "Darling I Do",
+      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1059,22 +1075,6 @@
       "duration_ms": 147134,
       "name": "Rise Up Shepherd",
       "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
-        "name": "Darling I Do",
-        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 181094,
-      "name": "Darling I Do",
-      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+        "name": "baby jesus is nobody\u2019s baby now",
+        "url": "https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY"
       },
       "artists": [
         {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
         }
       ],
-      "duration_ms": 139600,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
+      "duration_ms": 215065,
+      "name": "baby jesus is nobody\u2019s baby now",
+      "url": "https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr"
     }
   ],
   "unique_name": "Indie Christmas",

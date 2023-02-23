@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Joe Louis Walker",
-  "num_followers": 8317,
+  "num_followers": 8366,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGNiYWVkMTc5MzMyMWY4NjkxNThjY2QzMzM1MTFmNDYy",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDU2NmQwYzVkODA5NDdlOTM1YTQxNTMwMjY3MDc0NWFh",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -121,20 +121,20 @@
       "url": "https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+        "name": "I've Got My Own Hell To Raise",
+        "url": "https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC"
       },
       "artists": [
         {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
         }
       ],
-      "duration_ms": 174106,
-      "name": "Starting To See",
-      "url": "https://open.spotify.com/track/4ZCmcMZxQJYcRhTaklYqVU"
+      "duration_ms": 235533,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/4HzTglAWhVCUmRdhpYwDGw"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -157,20 +157,20 @@
       "url": "https://open.spotify.com/track/4pNHUObYXKqIL8dt176TLK"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2021-05-21 04:01:00",
       "album": {
-        "name": "I've Got My Own Hell To Raise",
-        "url": "https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC"
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
       "artists": [
         {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
         }
       ],
-      "duration_ms": 235533,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/4HzTglAWhVCUmRdhpYwDGw"
+      "duration_ms": 174106,
+      "name": "Starting To See",
+      "url": "https://open.spotify.com/track/4ZCmcMZxQJYcRhTaklYqVU"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "I've Got My Own Hell To Raise",
+        "url": "https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "The High Road",
+      "url": "https://open.spotify.com/track/36vAHOr65vVohDeyDOKbfN"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Keep On Believing",
         "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 229226,
       "name": "I Know",
       "url": "https://open.spotify.com/track/1LSC4TKKoJCbpAEsyvRmkQ"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "I've Got My Own Hell To Raise",
-        "url": "https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC"
-      },
-      "artists": [
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 269533,
-      "name": "The High Road",
-      "url": "https://open.spotify.com/track/36vAHOr65vVohDeyDOKbfN"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/5AdvtCXgP6IPuX0xQkaUB2"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 257560,
-      "name": "Guitar Man",
-      "url": "https://open.spotify.com/track/1RFyA8YvsZOCNTQ5eVW2ni"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Right On Time!",
         "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 265506,
       "name": "First You Cry",
       "url": "https://open.spotify.com/track/28hYrUWnji9pKfEZ5RcZQD"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/5AdvtCXgP6IPuX0xQkaUB2"
+      },
+      "artists": [
+        {
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+        }
+      ],
+      "duration_ms": 257560,
+      "name": "Guitar Man",
+      "url": "https://open.spotify.com/track/1RFyA8YvsZOCNTQ5eVW2ni"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Don't Hurt No More",
-        "url": "https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F"
-      },
-      "artists": [
-        {
-          "name": "Buddy Ace",
-          "url": "https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Chockin' Kind",
-      "url": "https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Makin Love is Good For You (Expanded Edition)",
         "url": "https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 227706,
       "name": "Makin' Love Is Good For You",
       "url": "https://open.spotify.com/track/3V4cXvtMvp38DRAa666XRp"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Don't Hurt No More",
+        "url": "https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F"
+      },
+      "artists": [
+        {
+          "name": "Buddy Ace",
+          "url": "https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Chockin' Kind",
+      "url": "https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Deep In The Heart",
+        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
+      },
+      "artists": [
+        {
+          "name": "W.C. Clark",
+          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Stronger Than You Need To Be",
+      "url": "https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Miss Lavelle",
         "url": "https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 234760,
       "name": "Yes, I've Been Crying",
       "url": "https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "From the Heart and Soul",
-        "url": "https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn"
-      },
-      "artists": [
-        {
-          "name": "Chick Willis",
-          "url": "https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A"
-        }
-      ],
-      "duration_ms": 282026,
-      "name": "Someday Baby",
-      "url": "https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Deep In The Heart",
-        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
+        "name": "From the Heart and Soul",
+        "url": "https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn"
       },
       "artists": [
         {
-          "name": "W.C. Clark",
-          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
+          "name": "Chick Willis",
+          "url": "https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A"
         }
       ],
-      "duration_ms": 245600,
-      "name": "Stronger Than You Need To Be",
-      "url": "https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK"
+      "duration_ms": 282026,
+      "name": "Someday Baby",
+      "url": "https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
+      },
+      "artists": [
+        {
+          "name": "Tutu Jones",
+          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Into the Mystic",
         "url": "https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 194933,
       "name": "One Monkey Don't Stop No Show",
       "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
-      },
-      "artists": [
-        {
-          "name": "Tutu Jones",
-          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -823,38 +823,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Today I Sing The Blues",
-        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
-      },
-      "artists": [
-        {
-          "name": "Joyce Lawson",
-          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Stop Doggin Me Around",
-      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Cheatin' Habit",
-        "url": "https://open.spotify.com/album/6eeNKMUfztxq7CL6nYKyQc"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "Kick My Cheatin' Habits",
-      "url": "https://open.spotify.com/track/64NtFAXA4Ko81zOpX5IYKA"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Midnight In Memphis",
         "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
       },
@@ -871,18 +839,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "People Love The Blues",
-        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
+        "name": "Today I Sing The Blues",
+        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
       },
       "artists": [
         {
-          "name": "Sista Monica",
-          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
+          "name": "Joyce Lawson",
+          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
         }
       ],
-      "duration_ms": 332826,
-      "name": "Honey It's Your Fault",
-      "url": "https://open.spotify.com/track/5YpqRyGuBn5etkcVncz6fv"
+      "duration_ms": 275773,
+      "name": "Stop Doggin Me Around",
+      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -903,18 +871,50 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Keep On Believing",
-        "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
+        "name": "People Love The Blues",
+        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
       },
       "artists": [
         {
-          "name": "Lou Pride",
-          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
+          "name": "Sista Monica",
+          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
         }
       ],
-      "duration_ms": 265133,
-      "name": "I Can't Hold It",
-      "url": "https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6"
+      "duration_ms": 332826,
+      "name": "Honey It's Your Fault",
+      "url": "https://open.spotify.com/track/5YpqRyGuBn5etkcVncz6fv"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Cheatin' Habit",
+        "url": "https://open.spotify.com/album/6eeNKMUfztxq7CL6nYKyQc"
+      },
+      "artists": [
+        {
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Kick My Cheatin' Habits",
+      "url": "https://open.spotify.com/track/64NtFAXA4Ko81zOpX5IYKA"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Jump the Joint",
+        "url": "https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ"
+      },
+      "artists": [
+        {
+          "name": "Eugene Bridges",
+          "url": "https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR"
+        }
+      ],
+      "duration_ms": 389373,
+      "name": "Living",
+      "url": "https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Jump the Joint",
-        "url": "https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ"
+        "name": "Keep On Believing",
+        "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
       },
       "artists": [
         {
-          "name": "Eugene Bridges",
-          "url": "https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR"
+          "name": "Lou Pride",
+          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
         }
       ],
-      "duration_ms": 389373,
-      "name": "Living",
-      "url": "https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu"
+      "duration_ms": 265133,
+      "name": "I Can't Hold It",
+      "url": "https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6"
     },
     {
       "added_at": "2020-12-01 05:01:00",

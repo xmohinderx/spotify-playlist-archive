@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Felipe Vilela
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,998 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,032 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 43 | [A Porta \- Acústico](https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [A Porta \(Acústico\)](https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4) | 3:11 |
 | 44 | [Te Vejo Lá](https://open.spotify.com/track/1J3AyZHElKl8EDeXXdreJO) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Por Completo](https://open.spotify.com/album/0foeg5VyoAQBSmWf3JNCHx) | 3:32 |
 | 45 | [Leve](https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7) | [Leve](https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE) | 3:24 |
-| 46 | [Eu To Vivo](https://open.spotify.com/track/1BEB3kRruqodB1A61Srmfc) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Eu To Vivo](https://open.spotify.com/album/1lztSLUPpggJsYVv6rEZjt) | 4:16 |
-| 47 | [Plano B](https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Acoustic Sessions, Vol\. 6](https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n) | 2:45 |
+| 46 | [Plano B](https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Acoustic Sessions, Vol\. 6](https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n) | 2:45 |
+| 47 | [Eu To Vivo](https://open.spotify.com/track/1BEB3kRruqodB1A61Srmfc) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Eu To Vivo](https://open.spotify.com/album/1lztSLUPpggJsYVv6rEZjt) | 4:16 |
 | 48 | [Neste Lugar](https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Isaac Felix](https://open.spotify.com/artist/6MoY74shUPUJY1HukGaO1a) | [Neste Lugar](https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0) | 5:14 |
 | 49 | [Asas](https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Asas](https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC) | 3:37 |
 | 50 | [Amor Leal](https://open.spotify.com/track/6rrbLn49jsw8sdcCqdFgbN) | [Lari Macário](https://open.spotify.com/artist/5AdvNG5bNSx9lKOj7Tj5ck), [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu), [Dani Aguiar](https://open.spotify.com/artist/774uYXQYFkSEs4TvjM2lZA) | [Amor Leal](https://open.spotify.com/album/2XNWrlxoCDchGediXzLTRd) | 3:02 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 72 | [Manuscrito](https://open.spotify.com/track/2ramZL8iUXXFgSbgZZ3Tiu) | [JARDENYA](https://open.spotify.com/artist/7qpTv7VDYeg2EwHrDjln66) | [Manuscrito](https://open.spotify.com/album/4sQnOzkB97HBeG2AmYMGLB) | 3:43 |
 | 73 | [Te Vejo](https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Te Vejo](https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv) | 3:30 |
 | 74 | [Me Chamar de Filho](https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0) | [Ana Canhoto](https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y) | [Me Chamar de Filho](https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM) | 3:07 |
-| 75 | [Teu Calor \- Acústico](https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor \(Acústico\)](https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY) | 3:44 |
+| 75 | [Tua Graça](https://open.spotify.com/track/0CzdBHBIMdChN40eKy9fbP) | [Carol Aguiar](https://open.spotify.com/artist/6UWc0mUbFhZyW5VZbY2w4m) | [Tua Graça](https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu) | 3:55 |
 | 76 | [Amado](https://open.spotify.com/track/6fGwm1Qb7MkW9PEy5v4SEV) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Amado](https://open.spotify.com/album/373Qpp1O7HijqwAIMNO8VE) | 4:10 |
-| 77 | [Tua Graça](https://open.spotify.com/track/0CzdBHBIMdChN40eKy9fbP) | [Carol Aguiar](https://open.spotify.com/artist/6UWc0mUbFhZyW5VZbY2w4m) | [Tua Graça](https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu) | 3:55 |
+| 77 | [Teu Calor \- Acústico](https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor \(Acústico\)](https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY) | 3:44 |
 | 78 | [Amor de Pai](https://open.spotify.com/track/2zvuGj62W1rYAmotN7H8nE) | [Jessé Lucas](https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL) | [Amor de Pai](https://open.spotify.com/album/7zFp6VVBpVZyGWatYgtwE2) | 3:49 |
 | 79 | [Planos Melhores](https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL) | [Andressa Cordeiro](https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF) | [Planos Melhores](https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul) | 3:04 |
 | 80 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 |
 
-Snapshot ID: `MTY3NTM5MzIwMCwwMDAwMDAwMGJjOWRlM2Y0YWVkNTQzOGYxMGY2MTAzYmZhY2VjNjA4`
+Snapshot ID: `MTY3NTM5MzIwMCwwMDAwMDAwMDkyMDI3ZGNhNjU3NDQwYjg4NjYxOTUxY2JlN2YwYWQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,922 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,247 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 43 | [Mi Tío Snoop](https://open.spotify.com/track/48XgkAh1fkcZqA2EZWCDX6) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Mi Tío Snoop](https://open.spotify.com/album/6ugE8dVzZdepHyyGxCt2kW) | 3:23 |
 | 44 | [Mundo de Piedra](https://open.spotify.com/track/4fhF0iJffyUJReKSecg78m) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 4:44 |
 | 45 | [Salud y Vida](https://open.spotify.com/track/25KbjEXRp7kYaxhEQixl2D) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:26 |
-| 46 | [C.R.O](https://open.spotify.com/track/6t5PsfTj1NA2hEwXcgsLYY) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm) | [24/Siempre Vol.1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 1:50 |
+| 46 | [Más Flow Más Cash](https://open.spotify.com/track/47zBGuVCeAzjFEPnRQQBew) | [Millonario & W\. Corona](https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ) | [Así Soy Yo](https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi) | 3:29 |
 | 47 | [Perdón](https://open.spotify.com/track/6ATUv2VnD9x4F2zEFMQ1sT) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz) | [Éxitos, Vol\. 2](https://open.spotify.com/album/0bJflknytQqeyAG4HGDZyR) | 3:50 |
-| 48 | [Más Flow Más Cash](https://open.spotify.com/track/47zBGuVCeAzjFEPnRQQBew) | [Millonario & W\. Corona](https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ) | [Así Soy Yo](https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi) | 3:29 |
+| 48 | [C.R.O](https://open.spotify.com/track/6t5PsfTj1NA2hEwXcgsLYY) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm) | [24/Siempre Vol.1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 1:50 |
 | 49 | [Anda Y Ve](https://open.spotify.com/track/21GrZqnug24ENdZ5e6seWN) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Los Aguacates De Jilquilpan](https://open.spotify.com/album/1WjKGOdClpJdzlMAtdg8uF) | 4:52 |
 | 50 | [Verte Cerquita](https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Verte Cerquita](https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv) | 3:52 |
 | 51 | [Aquí Todo Esta Bien](https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nico Maleón](https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Homer el Mero Mero](https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm) | [24/Siempre Vol.1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 2:32 |
 | 100 | [Me Estás Matando](https://open.spotify.com/track/2mAEh1VRtDyesBTJvnOwHw) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Loop’n Soup](https://open.spotify.com/artist/7aCwMyxItJHSUrLKpUnBTJ) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 2:15 |
 
-Snapshot ID: `MTYzNzA5NDA5NywwMDAwMDAwMGVhMWE5Njk3MWExZjM3ZGIxN2ZkNTNhMTA1NDRjZWUy`
+Snapshot ID: `MTYzNzA5NDA5NywwMDAwMDAwMGJhYTc4OTg3N2M3YmQ4MzRkNTk2NGFlZjBmNmM0NWYz`

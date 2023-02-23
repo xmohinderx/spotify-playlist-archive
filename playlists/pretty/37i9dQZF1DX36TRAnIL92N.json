@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 105005,
+  "num_followers": 105605,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzODU5MywwMDAwMDAwMDUwNDhlZTc4OTA5Y2FiNTA2ZDBlNDdiZTRmZjIwOGE4",
+  "snapshot_id": "MTY3NjAzODU5MywwMDAwMDAwMDJhNTdkMjNlY2E3OTQ5NjQ3ZTIzYzE3NDc4YTZlMDE0",
   "tracks": [
     {
       "added_at": "2023-02-10 14:16:33",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
-        "name": "Golden Door",
-        "url": "https://open.spotify.com/album/153hNVE9Gd8KEaRUH72vgP"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 457875,
-      "name": "Golden Door",
-      "url": "https://open.spotify.com/track/5CssKUX7YWpZVJp3jYC4ri"
-    },
-    {
-      "added_at": "2023-02-10 14:16:33",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/5G6vurrV89G90eb1EVINKF"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 387807,
       "name": "Control - Original Mix",
       "url": "https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ"
+    },
+    {
+      "added_at": "2023-02-10 14:16:33",
+      "album": {
+        "name": "Golden Door",
+        "url": "https://open.spotify.com/album/153hNVE9Gd8KEaRUH72vgP"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 457875,
+      "name": "Golden Door",
+      "url": "https://open.spotify.com/track/5CssKUX7YWpZVJp3jYC4ri"
     },
     {
       "added_at": "2023-02-10 14:16:33",

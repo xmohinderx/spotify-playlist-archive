@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 310103,
+  "num_followers": 310138,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMGI5MTQwZTc5ZTlhMzY4NTY2ZjhhMjAyZWI3NjM0MDUw",
+  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDcwYWZiNTVlNmYxZDE1NzA5ZTY0N2RjNTUwYTJhMWU3",
   "tracks": [
     {
       "added_at": "2021-12-29 23:38:25",
@@ -291,22 +291,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 408506,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Victor Garc\u00eda",
         "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 230800,
       "name": "He Venido a Pedirte Perd\u00f3n (with HA-ASH)",
       "url": "https://open.spotify.com/track/0yNBnX5iuu108NLpxcI2Yw"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 408506,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Celebridades- Daniela Romo",
-        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 218120,
-      "name": "De Mi Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Buenos D\u00edas Se\u00f1or Sol",
         "url": "https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 165560,
       "name": "Buenos D\u00edas Se\u00f1or Sol",
       "url": "https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Celebridades- Daniela Romo",
+        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ"
     },
     {
       "added_at": "2021-12-29 23:38:25",

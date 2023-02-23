@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 273756,
+  "num_followers": 273766,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY4MTQzOSwwMDAwMDAwMDZiZTEyZjZkYWZiMTIwMzg4OTUyMDdmOTMwYjM4Njg3",
+  "snapshot_id": "MTY3MjY4MTQzOSwwMDAwMDAwMGQwNDZkNzgxNGYzYWQwMGQyMWQzNmRmYmQ2YTVhZmRj",
   "tracks": [
     {
       "added_at": "2023-01-02 17:43:59",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 282744,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Better EP (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/6XTuLXNcNIzDaLzI6EwKXy"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 150652,
       "name": "Better (feat. Teddy Swims) - Acoustic Version",
       "url": "https://open.spotify.com/track/24MoOLc4izxq0E0lzRxxJn"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 282744,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Smoke Filled Room (Acoustic Session)",
+        "url": "https://open.spotify.com/album/4XTi91nigdbuWtOGjimn9D"
+      },
+      "artists": [
+        {
+          "name": "Mako",
+          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+        }
+      ],
+      "duration_ms": 189660,
+      "name": "Smoke Filled Room - Acoustic Session",
+      "url": "https://open.spotify.com/track/0Vw98EX4aRLiBcNbeUYst9"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Living Without You (Acoustic)",
         "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 187333,
       "name": "Living Without You - Acoustic",
       "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Smoke Filled Room (Acoustic Session)",
-        "url": "https://open.spotify.com/album/4XTi91nigdbuWtOGjimn9D"
-      },
-      "artists": [
-        {
-          "name": "Mako",
-          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
-        }
-      ],
-      "duration_ms": 189660,
-      "name": "Smoke Filled Room - Acoustic Session",
-      "url": "https://open.spotify.com/track/0Vw98EX4aRLiBcNbeUYst9"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -967,42 +967,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "You Don't Know Me (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "You Don't Know Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy"
       },
@@ -1023,18 +987,18 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Say Nothing (MAY-A\u2019s Version)",
-        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
       },
       "artists": [
         {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         }
       ],
-      "duration_ms": 217894,
-      "name": "Say Nothing - MAY-A\u2019s Version",
-      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
+      "duration_ms": 288026,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1055,6 +1019,42 @@
       "duration_ms": 171840,
       "name": "Stay The Night - Acoustic",
       "url": "https://open.spotify.com/track/4beQ74mY5EVRwXgBJ7wFf6"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "You Don't Know Me (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "You Don't Know Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "Say Nothing (MAY-A\u2019s Version)",
+        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Say Nothing - MAY-A\u2019s Version",
+      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "End Of The World (Acoustic Mix)",
-        "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "End Of The World - Acoustic Mix",
-      "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "Where Did You Go? (Acoustic)",
         "url": "https://open.spotify.com/album/41LZiXValPCTFoxZx6NqT2"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 202680,
       "name": "Where Did You Go? - Acoustic",
       "url": "https://open.spotify.com/track/5AHam2qo8G5SqYtmqVIAq6"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "End Of The World (Acoustic Mix)",
+        "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "End Of The World - Acoustic Mix",
+      "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1651,30 +1651,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
-        "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "John Ewbank",
-          "url": "https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG"
-        },
-        {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
-        }
-      ],
-      "duration_ms": 192724,
-      "name": "This Is What It Feels Like - John Ewbank Classical Remix",
-      "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "Crazy (Remixes - Pt. 1)",
         "url": "https://open.spotify.com/album/63oRa4RTNrXMMlyNWsHHcO"
       },
@@ -1695,6 +1671,30 @@
       "duration_ms": 171743,
       "name": "Crazy - Acoustic Version",
       "url": "https://open.spotify.com/track/5HhEkkAFcGMYLQbF6GUa6C"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
+        "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "John Ewbank",
+          "url": "https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+        }
+      ],
+      "duration_ms": 192724,
+      "name": "This Is What It Feels Like - John Ewbank Classical Remix",
+      "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1879,26 +1879,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Good Luck (Acoustic)",
-        "url": "https://open.spotify.com/album/5YlinJKokEX5FIeQDCZ9wL"
+        "name": "Synchronize (VIP / Acoustic)",
+        "url": "https://open.spotify.com/album/0AhntYxT3MoNfXO2CMf4fC"
       },
       "artists": [
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Hellberg",
+          "url": "https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5"
         },
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Aaron Richards",
+          "url": "https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp"
         }
       ],
-      "duration_ms": 227800,
-      "name": "Good Luck - Acoustic",
-      "url": "https://open.spotify.com/track/0F8hd4ZANp8dAIDDe0rygZ"
+      "duration_ms": 228095,
+      "name": "Synchronize - Acoustic",
+      "url": "https://open.spotify.com/track/5314v8WqYO67WQkrH8q7SX"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1923,22 +1919,26 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Synchronize (VIP / Acoustic)",
-        "url": "https://open.spotify.com/album/0AhntYxT3MoNfXO2CMf4fC"
+        "name": "Good Luck (Acoustic)",
+        "url": "https://open.spotify.com/album/5YlinJKokEX5FIeQDCZ9wL"
       },
       "artists": [
         {
-          "name": "Hellberg",
-          "url": "https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         },
         {
-          "name": "Aaron Richards",
-          "url": "https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 228095,
-      "name": "Synchronize - Acoustic",
-      "url": "https://open.spotify.com/track/5314v8WqYO67WQkrH8q7SX"
+      "duration_ms": 227800,
+      "name": "Good Luck - Acoustic",
+      "url": "https://open.spotify.com/track/0F8hd4ZANp8dAIDDe0rygZ"
     },
     {
       "added_at": "2023-01-02 17:43:59",

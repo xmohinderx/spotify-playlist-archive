@@ -918,6 +918,24 @@
     {
       "album": {
         "name": "Classique",
+        "url": "https://open.spotify.com/album/0AAMNy3r2qUUGEBPa5lPxZ"
+      },
+      "artists": [
+        {
+          "name": "Adieu Aru",
+          "url": "https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Classique",
+      "url": "https://open.spotify.com/track/0R0sfYBCFVRXTxzMAdqIL0"
+    },
+    {
+      "album": {
+        "name": "Classique",
         "url": "https://open.spotify.com/album/4Uj6HHrgN4YRNIq5R2fZTM"
       },
       "artists": [
@@ -928,7 +946,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 232000,
       "name": "Classique",
       "url": "https://open.spotify.com/track/767a2JIsUhYYxrDLSWAs5e"
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 224000,
       "name": "Dans la for\u00eat",
       "url": "https://open.spotify.com/track/7pXJSMQd8MpUBWSDTgXoQY"
@@ -4710,7 +4728,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 278130,
       "name": "October",
       "url": "https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2"
@@ -5400,7 +5418,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 220800,
       "name": "Release",
       "url": "https://open.spotify.com/track/3XVJx3ZIHAhSsjapF263Ql"
@@ -6656,7 +6674,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 134666,
       "name": "The Mansion",
       "url": "https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD"

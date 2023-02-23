@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,310 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 36 | [Aguita Y Jabon](https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal) | [Cantando con Adriana](https://open.spotify.com/artist/1nbn5tCrTiPWwDUqhgzMGk) | [Bailaré junto a ti](https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh) | 1:41 |
 | 37 | [Kids Just Love to Brush](https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9) | [Sesame Street's Bicuspids](https://open.spotify.com/artist/32xzvYpAc8iQSohhQ81QXF), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Splish Splash \- Bath Time Fun](https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw) | 2:51 |
 | 38 | [Cover Your Sneeze](https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 1:49 |
-| 39 | [Canción De Tomar El Té](https://open.spotify.com/track/19VEw5WbEyxIkmyZWgen9x) | [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Canciones Para Chicos](https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn) | 1:50 |
-| 40 | [Baño de Burbujas](https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW) | [Osito Panda Band](https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0) | [20 Canciones Infantiles](https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3) | 1:52 |
-| 41 | [Washing My Hands](https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Rocknoceros](https://open.spotify.com/album/4eub8hBkToROharOKy0U6s) | 3:21 |
+| 39 | [Washing My Hands](https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Rocknoceros](https://open.spotify.com/album/4eub8hBkToROharOKy0U6s) | 3:21 |
+| 40 | [Canción De Tomar El Té](https://open.spotify.com/track/19VEw5WbEyxIkmyZWgen9x) | [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Canciones Para Chicos](https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn) | 1:50 |
+| 41 | [Baño de Burbujas](https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW) | [Osito Panda Band](https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0) | [20 Canciones Infantiles](https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3) | 1:52 |
 | 42 | [Cuantos Tacos \(The Taco Song\)](https://open.spotify.com/track/4gwBN4pGzuwvn5uoKe9JCS) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 2:54 |
 | 43 | [Please and Thank You Song](https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Children's Songs for Family, Friends & Siblings from LittleBabyBum](https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV) | 1:31 |
 | 44 | [Exercise Time](https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street's Gordon](https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe) | [Sesame Street: Getting Ready for School](https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM) | 1:43 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 46 | [Sonidos al Comer](https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Las 4 Estaciones, vol\. 11](https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2) | 0:58 |
 | 47 | [Comida light](https://open.spotify.com/track/16QKoDI5F9MxWUBYORKV3w) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [English Pitinglish](https://open.spotify.com/album/5opZvBrL0N2jSFyGwvOvoZ) | 2:54 |
 | 48 | [I Always Sit When I Eat](https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 2:09 |
-| 49 | [Wash The Dishes](https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ) | [Nat Hussey](https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA) | [Papa Goose](https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j) | 1:29 |
-| 50 | [La Canción del Baño](https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc) | [HooplaKidz En Español](https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu) | [Las Mejores Canciones para Niños](https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b) | 2:09 |
+| 49 | [Nappin' Time](https://open.spotify.com/track/5pI482wCmSObEDLo14dPDl) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Pink!](https://open.spotify.com/album/5LdIdJQ3KuAnfeYuWnULAE) | 3:04 |
+| 50 | [Wash The Dishes](https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ) | [Nat Hussey](https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA) | [Papa Goose](https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j) | 1:29 |
 
-Snapshot ID: `MTY0NzI3Njg2OSwwMDAwMDAwMDg5ODRlM2M3NjkyZGU4NDVkOTE5ODMwMGZkMjgyNGRh`
+Snapshot ID: `MTY0NzI3Njg2OSwwMDAwMDAwMDYxMWFmZjViOTNhMjI1NjczMmZkOTY5YmQ3MjNlMjIy`

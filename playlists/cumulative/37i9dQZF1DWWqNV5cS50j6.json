@@ -302,7 +302,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 204760,
       "name": "608",
       "url": "https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "ANECDOTE (REMIX) [feat. Teezo Touchdown]",
       "url": "https://open.spotify.com/track/7rVeOpYLHAS5luBPIv79t2"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 126857,
       "name": "are you sleeping alone again?",
       "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 185317,
       "name": "Bad Radio",
       "url": "https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K"
@@ -2646,7 +2646,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 139664,
       "name": "Borderline Insane",
       "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
@@ -4710,7 +4710,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 225280,
       "name": "Crush - Unfinished",
       "url": "https://open.spotify.com/track/516daakwmX9S2aRifLUCp8"
@@ -4894,7 +4894,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 165485,
       "name": "Dance",
       "url": "https://open.spotify.com/track/1U4yfIDARp95wtUGOZZW51"
@@ -5394,7 +5394,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 207813,
       "name": "Diva",
       "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
@@ -5846,7 +5846,7 @@
       ],
       "date_added": "2021-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 126700,
       "name": "Duo",
       "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
@@ -6716,7 +6716,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-29",
+      "date_removed": null,
       "duration_ms": 208710,
       "name": "feel good inc (bbno$ re-finessed) - spotify single",
       "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
@@ -9820,7 +9820,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 206370,
       "name": "Human Shape",
       "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
@@ -9944,7 +9944,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 192592,
       "name": "I Did Drugs For You",
       "url": "https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv"
@@ -10070,7 +10070,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 254399,
       "name": "I Just Wanna",
       "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
@@ -11138,7 +11138,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 149840,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
@@ -15830,7 +15830,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-29",
+      "date_removed": null,
       "duration_ms": 175520,
       "name": "Picking Up (feat. Deb Never)",
       "url": "https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn"
@@ -16373,6 +16373,28 @@
     },
     {
       "album": {
+        "name": "PRESSED",
+        "url": "https://open.spotify.com/album/6O5pvcu2FyE8FZYx2Mzl3M"
+      },
+      "artists": [
+        {
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        },
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79844,
+      "name": "PRESSED",
+      "url": "https://open.spotify.com/track/4WYoSVibjO0PftEmfRimMN"
+    },
+    {
+      "album": {
         "name": "Pressure Love",
         "url": "https://open.spotify.com/album/6TzdVnJ0nbqS2citnEtEgF"
       },
@@ -16574,7 +16596,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Psychedelic Views (feat. IDK)",
       "url": "https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw"
@@ -17870,6 +17892,24 @@
       "duration_ms": 148953,
       "name": "say it twice",
       "url": "https://open.spotify.com/track/6oq3j9MoTRXrphekijMsuw"
+    },
+    {
+      "album": {
+        "name": "Say My Peace",
+        "url": "https://open.spotify.com/album/2gQS83M28R41uN2kRz1X17"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "Say My Peace",
+      "url": "https://open.spotify.com/track/11fDFZrFvVKoht9u7v6drZ"
     },
     {
       "album": {
@@ -19712,7 +19752,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 179026,
       "name": "Suburbia",
       "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
@@ -19900,7 +19940,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 109866,
       "name": "Sundays",
       "url": "https://open.spotify.com/track/0troHdGkx1ORKsnR8Kehht"
@@ -21115,6 +21155,24 @@
     },
     {
       "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169466,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
+    },
+    {
+      "album": {
         "name": "The Perfect Girl",
         "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
       },
@@ -21184,7 +21242,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 186531,
       "name": "THE SEASON (feat. PawPaw Rod)",
       "url": "https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K"
@@ -21350,7 +21408,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 171842,
       "name": "THREE HEADS*",
       "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
@@ -21894,7 +21952,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 147764,
       "name": "trix",
       "url": "https://open.spotify.com/track/1CwkW8d3LxrMdz99PfN8SQ"
@@ -22484,7 +22542,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 295866,
       "name": "venus fly trap",
       "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"

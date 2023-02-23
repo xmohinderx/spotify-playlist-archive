@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk...
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,248 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,271 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 14 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 |
 | 15 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 |
 | 16 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 |
-| 17 | [Alberta](https://open.spotify.com/track/6THJEXEOlRPu7BDyrQwJJP) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 2:41 |
-| 18 | [They're Red Hot \- SA.2627\-1](https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [The Centennial Collection](https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF) | 2:58 |
+| 17 | [They're Red Hot \- SA.2627\-1](https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [The Centennial Collection](https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF) | 2:58 |
+| 18 | [Alberta](https://open.spotify.com/track/6THJEXEOlRPu7BDyrQwJJP) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 2:41 |
 | 19 | [Shadrach](https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 2:51 |
 | 20 | [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 2:58 |
 | 21 | [Deep Gap](https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 3:23 |
 | 22 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 |
 | 23 | [Dust My Broom](https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Dust My Broom](https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj) | 3:35 |
-| 24 | [Death Letter](https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Covered Tracks: Vol\. 2](https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K) | 4:23 |
-| 25 | [Spike Driver Blues](https://open.spotify.com/track/0QcYseQfUmZpjXGoXDT9z4) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:28 |
-| 26 | [Statesboro Blues](https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Presenting Blind Willie McTell](https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z) | 2:32 |
+| 24 | [Statesboro Blues](https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Presenting Blind Willie McTell](https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z) | 2:32 |
+| 25 | [Death Letter](https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Covered Tracks: Vol\. 2](https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K) | 4:23 |
+| 26 | [Spike Driver Blues](https://open.spotify.com/track/0QcYseQfUmZpjXGoXDT9z4) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:28 |
 | 27 | [Clair de lune \(For Twelve\-String\) \[Live\]](https://open.spotify.com/track/18ul6LoGQ7Fg9yOKLxxWZx) | [Robbie Basho](https://open.spotify.com/artist/1bB0hKohfWkczaTMQLQdlR) | [Live in Forlì, Italy 1982](https://open.spotify.com/album/6jJ64hMG1uwafIGiltuNNZ) | 4:42 |
 | 28 | [God Moves On the Water](https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 2:59 |
 | 29 | [Can the Gwot Save Us?](https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Legs to Make us Longer](https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL) | 4:20 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 31 | [I'm Ready](https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/33kr65x9D148InPeYYIloG) | 2:17 |
 | 32 | [The Ballad of Barbara Allen](https://open.spotify.com/track/1vMUVPqOZDb0rAy1e9JMnS) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 1:43 |
 | 33 | [Down in Mississippi](https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Down in Mississippi](https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP) | 3:23 |
-| 34 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
-| 35 | [Lonely Days](https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 2:32 |
+| 34 | [Lonely Days](https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 2:32 |
+| 35 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
 | 36 | [Let Your Light Shine on Me](https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:08 |
 | 37 | [Gone Clear](https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 6:07 |
 | 38 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 67 | [Good Timin'](https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Bottom's Up](https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31) | 2:52 |
 | 68 | [There Is a Place in This Old Town](https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Imaginational Anthem Vol\. 5](https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE) | 4:48 |
 | 69 | [Mama Don't Tear Your Clothes](https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [That's All Right](https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS) | 1:56 |
-| 70 | [Right Kind of Trouble](https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp) | [Elly Wininger](https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ) | [The Blues Never End](https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1) | 4:21 |
-| 71 | [Friar's Point Blues](https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 2:54 |
+| 70 | [Friar's Point Blues](https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 2:54 |
+| 71 | [Right Kind of Trouble](https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp) | [Elly Wininger](https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ) | [The Blues Never End](https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1) | 4:21 |
 | 72 | [Long Nights I](https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Seven Pines](https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV) | 4:05 |
 | 73 | [A Real State of Independence](https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 6:19 |
 | 74 | [The Man From Nowhere](https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 79 | [Long River \(Allegheny\)](https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 4:05 |
 | 80 | [Dodge City](https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 5:16 |
 
-Snapshot ID: `MTY3NjAzMzU4OSwwMDAwMDAwMDliNmJlNDA5OWY0NTZlM2RkODcyNjU0ZDFmOGVlZDVj`
+Snapshot ID: `MTY3NjAzMzU4OSwwMDAwMDAwMGQ2ZmUxZjNkMzliM2E0ZGYxNmJkMGY4ZDAyMDcyNTIx`

@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Zior Park\(지올팍\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: SINDOSI:22\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-589 songs - 1 day 8 hr 10 min
+590 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [BETTER LYF \(Feat\. ZENE THE ZILLA, greenbeige, Rakon, iknouwannit, Dawn Dox, J;KEY, ogoovado, Val'dane\) \(Prod\. iknouwannit\)](https://open.spotify.com/track/5rlPp2JyI36cUPmxIB0RnT) | [YTC4LYF](https://open.spotify.com/artist/3HqmILErtFTTIJt7vovJ6l), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [greenbeige](https://open.spotify.com/artist/4x3Fz4qscjiV4wNg5jCznm), [Rakon](https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk), [iknouwannit](https://open.spotify.com/artist/5jqbDV7xuxjQsS10nlf8O5), [Dawn Dox](https://open.spotify.com/artist/4j7IhXlXKQkZ4kXZpGI2S7), [제이키\(J;KEY\)](https://open.spotify.com/artist/3BgxHivrpOrBuEEJOWX9E2), [ogoovado](https://open.spotify.com/artist/3l9OJFfBQGJnaU15JTPnpG), [Val'dane](https://open.spotify.com/artist/2gZt3nWt9o804AkeqxqqHp) | [BETTER LYF](https://open.spotify.com/album/3V3TbmMq3SCySyIRixbgRa) | 4:23 | 2022-07-14 | 2022-07-19 |
 | [Bike \(Feat\. h3hyeon\)](https://open.spotify.com/track/69LLLrHGGwog2l5UWaYM4m) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 3:32 | 2022-09-05 | 2022-09-29 |
 | [BINGO \(Feat\. meenoi, george\) \(Prod\. by Slom\)](https://open.spotify.com/track/33zyxtEENVeaXiAZc8s6Wa) | [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:42 | 2022-12-21 |  |
-| [Birthday](https://open.spotify.com/track/70ksrZAHcrMSXO7ukAEnA2) | [Yuja](https://open.spotify.com/artist/2gQ5AJZbeVZ9aeZcH3JBqf) | [BLUE NIGHT](https://open.spotify.com/album/24LFXshqQe2hYl6BUEikit) | 3:09 | 2023-02-15 |  |
+| [Birthday](https://open.spotify.com/track/70ksrZAHcrMSXO7ukAEnA2) | [Yuja](https://open.spotify.com/artist/2gQ5AJZbeVZ9aeZcH3JBqf) | [BLUE NIGHT](https://open.spotify.com/album/24LFXshqQe2hYl6BUEikit) | 3:09 | 2023-02-15 | 2023-02-23 |
 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 | 2022-04-21 | 2022-07-23 |
 | [Black Heart \(feat\. Leellamarz, BE'O\)](https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Between Sat & Sun](https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio) | 3:55 | 2022-04-01 |  |
 | [Black Raspberry](https://open.spotify.com/track/7qCvgdH5SUiPFAEQAEDfYb) | [Holynn](https://open.spotify.com/artist/7A1q1Vwym8cB1eU5PpgOVP) | [NOW YOU SEE ME](https://open.spotify.com/album/2hJn4HmX53DhPMyHUtUOn3) | 3:12 | 2023-02-15 |  |
@@ -504,6 +504,7 @@
 | [SUR:VIBE \(feat\. BRAWL STARS\)](https://open.spotify.com/track/4AOEeJbeHPYCEzxfsStEwG) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Brawl Stars](https://open.spotify.com/artist/6uqbI01HHuIVZ2LcZoDGlG) | [SUR:VIBE \(feat\. BRAWL STARS\)](https://open.spotify.com/album/0A85GFAjC2oiJu7phflbCN) | 3:13 | 2022-05-05 | 2022-05-12 |
 | [Survival Rapper](https://open.spotify.com/track/2dLQDEG4Y0EKsaXNbmQcwm) | [lil bosal](https://open.spotify.com/artist/61uB19bE5ejvku0NCSAH2t) | [Bosal Coin](https://open.spotify.com/album/3IYYz6DyYX5ihg733A5ksL) | 2:16 | 2022-05-05 | 2022-06-14 |
 | [Sweatpants](https://open.spotify.com/track/6KvCQg5TgZcINznUKpZVVT) | [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R) | [Sweatpants](https://open.spotify.com/album/3OfwdpjIP0f8dAwP9wURp6) | 2:58 | 2022-07-24 | 2022-10-04 |
+| [swerve](https://open.spotify.com/track/5eLPiUhguRtW3QPI2OadgV) | [SINDOSI:22](https://open.spotify.com/artist/7vevYh1lSMFrRhH72kFtpY) | [howtosurvive\_\_\_\_\_](https://open.spotify.com/album/7Jtm1R5Z7HpmkiqsgHJ2bh) | 2:54 | 2023-02-22 |  |
 | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/track/49lrMwawOXBBi2zQGrPTlK) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [쿼카](https://open.spotify.com/artist/4n67uXDzfLiGEeaX0NAnJX) | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/album/6LXCbFfy30ywcpWyqwHzoB) | 3:25 | 2022-07-04 | 2022-07-10 |
 | [TAKE IT OFF](https://open.spotify.com/track/01uePcvWj4yclJUpSQ6LGq) | [Wooks](https://open.spotify.com/artist/3l7GFDLQsdvNzHcLqTIXbt) | [OFF](https://open.spotify.com/album/7LuIZnLMfPJAwx3WoYxFat) | 2:06 | 2022-04-01 | 2022-07-12 |
 | [Take Me There](https://open.spotify.com/track/1ng3gM2zQ7kIJwC89np2oX) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Take Me There](https://open.spotify.com/album/0Z2eQf5pUlFIs5PXgy1lml) | 3:41 | 2022-06-27 | 2022-07-18 |

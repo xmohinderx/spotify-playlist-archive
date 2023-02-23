@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,334 likes - 60 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,355 likes - 60 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 37 | [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 |
 | 38 | [Poetas no Topo 2](https://open.spotify.com/track/5ePNo6uzHyOiZ5lq1L5WVs) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Ducon](https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP) | [Poetas no Topo 2](https://open.spotify.com/album/4Qnc9kgBCgCD4BAOlf8GHb) | 8:43 |
 | 39 | [Bicho de 7 Cabeças / A Culpa É das Igrejas](https://open.spotify.com/track/4eeGpiaBPnOwD9fT6fBDcE) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [Medulla](https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN), [Disstinto](https://open.spotify.com/artist/7FDAabVIlVUaloRm7MA1Jy) | [Bicho de 7 Cabeças / a Culpa É das Igrejas](https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS) | 4:42 |
-| 40 | [Sensação](https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Sensação](https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1) | 4:32 |
-| 41 | [Estilo Coyote](https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Estilo Coyote](https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq) | 2:54 |
+| 40 | [Estilo Coyote](https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Estilo Coyote](https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq) | 2:54 |
+| 41 | [Sensação](https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Sensação](https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1) | 4:32 |
 | 42 | [Babylon By Gus](https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:16 |
 | 43 | [Universo](https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [O Líder em Movimento](https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5) | 4:16 |
 | 44 | [Rosas e Rimas](https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Slow Flow](https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3) | 2:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Linda, Louca e Mimada](https://open.spotify.com/track/1rcZKMWbCac4FDnUvtYfyK) | [Oriente, Rebeca](https://open.spotify.com/artist/4OihQRMAYzuKUobEFCpmLE) | [Oriente](https://open.spotify.com/album/5i7yYQx7XGmfl5G6XZIsUu) | 3:22 |
 | 60 | [Cantando pro Santo](https://open.spotify.com/track/4ObGL3b6H7kbe3r7QgaIr9) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Chorão](https://open.spotify.com/artist/5u3nOqtEJfhFUuPR9EjnkC) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 6:06 |
 
-Snapshot ID: `MTY3MTU3MDg3MCwwMDAwMDAwMDA0YTQ4MDgyYTM4Zjg2ODg0Y2NmMjczNjg5MGI5Yjk4`
+Snapshot ID: `MTY3MTU3MDg3MCwwMDAwMDAwMDRiOTdhZDc5MjQ5ZDU4MDQwN2YwODViMWQzMWQ3OWQz`

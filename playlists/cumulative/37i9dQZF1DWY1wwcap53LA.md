@@ -2,7 +2,7 @@
 
 ### [Country Frequency](https://open.spotify.com/playlist/37i9dQZF1DWY1wwcap53LA)
 
-> Country music making waves\. Cover: Blanco Brown
+> Country music making waves\. Cover: Tanner Adell, by Ian Woods.
 
 131 songs - 6 hr 48 min
 

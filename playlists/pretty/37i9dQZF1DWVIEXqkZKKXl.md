@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 
 > Background scores to help you sail through the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,404 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,428 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 24 | [Kaise Mujhe \(Instrumental\)](https://open.spotify.com/track/02nOZG5WrxCHEYbjjxeZQf) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ghajini](https://open.spotify.com/album/1bakFVqPdxrSCSZI2HUGhJ) | 4:01 |
 | 25 | [Don The Theme](https://open.spotify.com/track/6d7MSaXaEBSzRG39HNODNz) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Don](https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm) | 4:09 |
 | 26 | [Perpendicular \(Theme\)](https://open.spotify.com/track/4dnBoWcH0c5BzaIXssStBi) | [Sneha Khanwalkar](https://open.spotify.com/artist/3JtetEsoytPoOIPGvqUvSR) | [Gangs Of Wasseypur \- 2](https://open.spotify.com/album/7DBbDXQbei6e4X6EdXOyz2) | 1:53 |
-| 27 | [Andhadhun Theme 02](https://open.spotify.com/track/1Me3vv09VaF0C4zTOryogb) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 2:40 |
+| 27 | [Andhadhun Theme 01](https://open.spotify.com/track/62KAX5PbRgblMOiHxGK4r4) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 4:15 |
 | 28 | [Saiyyan \- Instrumental](https://open.spotify.com/track/3aG2fRZk8wJVurZEcl6MR0) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Unchained Melodies](https://open.spotify.com/album/7lReU7R3QMMfVdn9SIT7UO) | 5:47 |
 | 29 | [The Don Waltz](https://open.spotify.com/track/5XcOoA1V7bj4g2I49dOXbk) | [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1) | [Don 2](https://open.spotify.com/album/567IupuTzzBF0cgmtucllU) | 3:28 |
 | 30 | [Bombay Theme \- Bombay / Soundtrack Version](https://open.spotify.com/track/7n6YJCoiTHtdhytgAliYDu) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bombay](https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk) | 5:18 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 35 | [Maachis Theme Closing](https://open.spotify.com/track/5H83kULz9wDkDdNkFUFFuI) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Maachis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kc4rAQ1kkW3orZ87Le7M6) | 2:57 |
 | 36 | [Sarbjit Theme](https://open.spotify.com/track/7i6ISlTSvgYFZFy7d9o8fO) | [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Sarbjit](https://open.spotify.com/album/3gFdzTRV0jUP8da5miEWyU) | 2:56 |
 | 37 | [The Horizon of Saudade](https://open.spotify.com/track/7zTrimhtil85dyT7VSpvMA) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Dil Bechara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr) | 2:46 |
-| 38 | [Andhadhun Theme 01](https://open.spotify.com/track/62KAX5PbRgblMOiHxGK4r4) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 4:15 |
+| 38 | [Andhadhun Theme 02](https://open.spotify.com/track/1Me3vv09VaF0C4zTOryogb) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 2:40 |
 | 39 | [Victory \- Instrumental](https://open.spotify.com/track/0k7Jl4wxnWZpsFsMOyr9Li) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 3:20 |
 | 40 | [Charminar](https://open.spotify.com/track/3fbM7XnAJOF5S4W3cqJhJd) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Amit Heri](https://open.spotify.com/artist/0EfPLCM3YgAj83a4K4TVMg), [Rajesh Vaidya](https://open.spotify.com/artist/4H83oUEiCke2zJcFbJAmCw) | [Morning Raga \- A Meeting Of Worlds](https://open.spotify.com/album/0WzQ9zO97qwwntyQ1mgaCE) | 1:29 |
 | 41 | [Time To Meet My Friend](https://open.spotify.com/track/4b6B8CxuXAtmgh7eXgo5tZ) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Sardar Udham \(Original Background Score\)](https://open.spotify.com/album/2k5K1jBDj5ynIiAhRxuuXp) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 49 | [Hanuman Theme](https://open.spotify.com/track/6J4UQsBAj04eKLRdR480bZ) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Hanuman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YJ4ybOBMtxPyhdy8Q9al1) | 3:03 |
 | 50 | [Remembering His Violin](https://open.spotify.com/track/09bmCSMLxAJuBYX5Jwzqfy) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Amit Heri](https://open.spotify.com/artist/0EfPLCM3YgAj83a4K4TVMg), [Gayathri](https://open.spotify.com/artist/2Ah48tA0TPqph0m9snNNxM) | [Morning Raga \- A Meeting Of Worlds](https://open.spotify.com/album/0WzQ9zO97qwwntyQ1mgaCE) | 3:03 |
 
-Snapshot ID: `MTY3Mjk4NzA0NSwwMDAwMDAwMGE3ZTY4NjVkNGQyMmZlNTVhMWQxNGMyNDZhOTkwYmM4`
+Snapshot ID: `MTY3Mjk4NzA0NSwwMDAwMDAwMDk1ZWYyMzI0Mjk0MTMxMmI4MjRlOGVlZTdhOGI0MzZh`

@@ -4,13 +4,14 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: YEИDRY
 
-287 songs - 18 hr 0 min
+288 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15,500 Noches](https://open.spotify.com/track/0X6sRADYbUDYutAulPllKN) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy), [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx), [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu), [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 4:31 | 2022-09-02 | 2022-09-10 |
 | [50/50](https://open.spotify.com/track/6OMRRYsSxvwAfFxkFfzn4L) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [50/50](https://open.spotify.com/album/7pqN4Gjy61BPFqpbJ8Vqjf) | 3:46 | 2022-03-04 | 2022-09-03 |
 | [Abrete](https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD) | [Chiko Swagg](https://open.spotify.com/artist/0zz9lzzQBgwxEDsYHy0H2n), [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Abrete](https://open.spotify.com/album/06PuNPUtn9QmMWuSgmMAz5) | 4:14 | 2022-08-19 | 2022-09-03 |
+| [Adicta](https://open.spotify.com/track/0TrltbGlB8TyzKnYLWGaM8) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT), [Mayinbito](https://open.spotify.com/artist/6FdgIggKvVgdMenO8cnnBA) | [Adicta](https://open.spotify.com/album/5VfoZy7Ge4Le12RDRRZVt5) | 3:31 | 2023-02-03 |  |
 | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ) | 3:29 | 2022-03-04 | 2022-07-29 |
 | [Adios Amor](https://open.spotify.com/track/20fBJJrq3ATDmVd6PyeZqu) | [Andy Andy](https://open.spotify.com/artist/6uEyybDR7K1r88t6iT1oBw) | [Adios Amor](https://open.spotify.com/album/7rMGadR0ELbkpNfqFAoQoX) | 3:53 | 2022-03-04 | 2022-09-03 |
 | [Adónde Se Fue ?](https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Haciendo Historia](https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D) | 3:05 | 2022-09-09 |  |
@@ -98,7 +99,7 @@
 | [Ella Baila](https://open.spotify.com/track/16OF2jzcdoPXg8RbmPcYcC) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Ella Baila](https://open.spotify.com/album/17bQjdCUdAx1EG90unGg8A) | 2:46 | 2022-03-04 | 2022-07-28 |
 | [Ella Baila](https://open.spotify.com/track/2SpZXqtlhjoivW2dRovLZF) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 2:46 | 2022-07-19 | 2022-09-03 |
 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 | 2022-09-09 |  |
-| [En Cada Aniversario](https://open.spotify.com/track/5p8f4fXfH83ixykJnIkUMD) | [Alexandra](https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX), [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Duos Entre Amigos](https://open.spotify.com/album/2aZsa1dc6ynwuv3yXjyZDC) | 4:05 | 2022-09-09 |  |
+| [En Cada Aniversario](https://open.spotify.com/track/5p8f4fXfH83ixykJnIkUMD) | [Alexandra](https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX), [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Duos Entre Amigos](https://open.spotify.com/album/2aZsa1dc6ynwuv3yXjyZDC) | 4:05 | 2022-09-09 | 2023-02-23 |
 | [En Todo Fuiste la Mejor](https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 3:49 | 2022-03-04 |  |
 | [Enséñame a Olvidar](https://open.spotify.com/track/4iTtqoImVortyy7MHw51Cv) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 5:48 | 2022-03-04 | 2022-07-29 |
 | [Era Mentira](https://open.spotify.com/track/205UQMjPr9vVthUghoqynT) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Circharles](https://open.spotify.com/artist/7h9r1hKkJ7FGA6k5vjiz1i) | [Era Mentira](https://open.spotify.com/album/0Jq5HRj6AT5UgwDioSOG4Z) | 4:10 | 2022-03-04 | 2022-08-20 |

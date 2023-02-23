@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-560 songs - 1 day 10 hr 8 min
+562 songs - 1 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-28 | 2022-06-20 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-09-05 | 2021-09-12 |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-12 |  |
+| [I Ain't Worried](https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 2:28 | 2023-02-22 |  |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-06 | 2023-02-08 |
 | [I am not a woman, I'm a god](https://open.spotify.com/track/5RhFmJifQe83FpQ6ZFFTZ5) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 2:56 | 2021-09-04 | 2021-09-05 |
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Don’t Think That I Like Her](https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID) | 3:08 | 2022-09-23 | 2022-09-25 |
@@ -324,6 +325,7 @@
 | [一千萬次的淚水](https://open.spotify.com/track/4gQLLI4oii6Dt4IpBwIxn6) | [Miu Chu](https://open.spotify.com/artist/06KOetaeFEz0gabCnqvCxz) | [女神Miu朱俐靜 存在的力量](https://open.spotify.com/album/2JhPdMVOASpHZ6ODdszwZy) | 4:08 | 2022-07-05 | 2022-07-09 |
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0n620D2UF9SNRKny1vFdQo) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/album/6mVkOMZ2W2fZX0WLPijazf) | 2:24 | 2021-06-04 | 2021-06-10 |
 | [一定會](https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb) | 3:27 | 2021-12-11 | 2021-12-12 |
+| [一念之間](https://open.spotify.com/track/0XEEIG7IVzJUdkCg6taS9d) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶你飛](https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy) | 4:47 | 2023-02-22 |  |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2022-03-01 | 2022-03-26 |
 | [不介意](https://open.spotify.com/track/4tVLXGYrlv0aysDrZSLRVN) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 3:19 | 2022-12-29 | 2023-01-24 |
 | [不在一起就不會分開](https://open.spotify.com/track/4ozGCLtrgrzy6Ve3WWwtjN) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [不在一起就不會分開](https://open.spotify.com/album/3zdOCw1uKKB8I9jHC0E7Cg) | 4:47 | 2022-07-31 | 2022-08-24 |
@@ -371,7 +373,7 @@
 | [可](https://open.spotify.com/track/5mQzXOKoAwbpE7Y4cGO9Gc) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN), [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [可](https://open.spotify.com/album/6JcXxjHrSXgLCxMiObeOV9) | 4:40 | 2022-06-17 | 2022-06-25 |
 | [各自安好](https://open.spotify.com/track/7ep5TafdBRpwCbwMciRPaU) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [各自安好](https://open.spotify.com/album/42kIWWADJxhtXbMvfm8jO8) | 4:23 | 2021-04-01 | 2021-04-23 |
 | [哪里都是你](https://open.spotify.com/track/3QP3cYE3qnplFueLKNVsbM) | [队长](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz) | [哪里都是你](https://open.spotify.com/album/6C7UyN1fTxNKDeU6X4fYsH) | 3:42 | 2022-06-01 | 2022-06-08 |
-| [唯一 \(三立/台視戲劇《戀愛是科學》插曲\)](https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 4:30 | 2021-03-27\* |  |
+| [唯一 \(三立/台視戲劇《戀愛是科學》插曲\)](https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 4:30 | 2021-03-27\* | 2023-02-23 |
 | [嘉宾](https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉宾](https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta) | 5:33 | 2021-10-02 |  |
 | [嚣张](https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw) | 4:13 | 2021-03-27\* | 2021-08-24 |
 | [四季予你](https://open.spotify.com/track/0upiMcFbQHH51etgz4xK0l) | [程響](https://open.spotify.com/artist/7nKA1c1Qn6nI0XA8yburf3) | [四季予你](https://open.spotify.com/album/4csJfkLKIaltiP8ALv7H0S) | 4:08 | 2021-03-27\* | 2021-12-24 |
@@ -555,7 +557,7 @@
 | [错位时空 \- 治愈版](https://open.spotify.com/track/65pvMJX8rkUCyeByCHKFhj) | [小玄子](https://open.spotify.com/artist/5dneY5jm0VI7GBg0pqXTrL) | [错位时空 \(治愈版\)](https://open.spotify.com/album/4fZbtkif14aDimARvreeNT) | 3:31 | 2021-07-20 | 2021-08-24 |
 | [閉上眼睛會想起的人 \(電影《一杯熱奶茶的等待》主題曲\)](https://open.spotify.com/track/3YznHBhAqELVwdRFxBD7MI) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [閉上眼睛會想起的人](https://open.spotify.com/album/4m8zX2aF2ggXlAqLsSj8Vb) | 4:45 | 2021-12-16 | 2021-12-30 |
 | [閣愛妳一擺](https://open.spotify.com/track/07plVccQ0N6FTTTonk3c2M) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [閣愛妳一擺](https://open.spotify.com/album/3qpPxu0v6G5fNYe8OfslFt) | 4:38 | 2021-12-12 |  |
-| [间距](https://open.spotify.com/track/4U0bL1ouvksMgvXU2aKq4O) | [en](https://open.spotify.com/artist/1Gv7r0FAYOhJF8Dzi6MebN) | [间距](https://open.spotify.com/album/1wccrWdon60UC49GbPvCyO) | 4:43 | 2021-10-14 |  |
+| [间距](https://open.spotify.com/track/4U0bL1ouvksMgvXU2aKq4O) | [en](https://open.spotify.com/artist/1Gv7r0FAYOhJF8Dzi6MebN) | [间距](https://open.spotify.com/album/1wccrWdon60UC49GbPvCyO) | 4:43 | 2021-10-14 | 2023-02-23 |
 | [隆裡電絲](https://open.spotify.com/track/6XrnEjYDnm9JUeoDE4efvA) | [盛宇DamnShine](https://open.spotify.com/artist/6aHqXgbCmijW9Tthh1yidE), [KEY.L刘聪](https://open.spotify.com/artist/4vvCGXDAaBukbf2dI2slRT), [ICE](https://open.spotify.com/artist/6ChvTm3RiOLbx8apza83c7) | [中國說唱巔峰對決 第四期](https://open.spotify.com/album/49zgQLPXHka2uFR62BOzsq) | 3:39 | 2022-07-30 | 2022-08-20 |
 | [雛形](https://open.spotify.com/track/3mrkmWt803vSvGxTlW27YI) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [雛形](https://open.spotify.com/album/6sP1HwzA0iqkGjoroBgog4) | 3:59 | 2021-09-12 | 2021-10-02 |
 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 | 2021-05-30 | 2022-01-08 |

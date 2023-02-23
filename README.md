@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5625\)
+## Playlists \(5626\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -1768,6 +1768,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fuego \#035](/playlists/pretty/37i9dQZF1DXb4ps4t1jxnw.md)
 - [Fuego \#036](/playlists/pretty/37i9dQZF1DX2oJnpmnPOSY.md)
 - [Fuego \#037](/playlists/pretty/37i9dQZF1DX41FF8f7L0yU.md)
+- [Fuego \#038](/playlists/pretty/37i9dQZF1DX3Xx858vMwUc.md)
 - [Full Volume](/playlists/pretty/37i9dQZF1DWUv0cTKdT8jJ.md)
 - [Fun Run](/playlists/pretty/37i9dQZF1DXadOVCgGhS7j.md)
 - [Funk & Disco Zamaan](/playlists/pretty/37i9dQZF1DX8SE5tIsUWTD.md)
@@ -5592,13 +5593,13 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Éxitos México](/playlists/pretty/37i9dQZF1DX5BAPG29mHS8.md)
 - [Éxitos USA](/playlists/pretty/37i9dQZF1DX4oUPBOaEkL6.md)
 - [Éxitos del Ayer](/playlists/pretty/37i9dQZF1DX4Ma23gvJILl.md)
-- [أجمل الشيلات](/playlists/pretty/37i9dQZF1DWTZ8jTY8g4MU.md)
 - [أقوى المهرجانات](/playlists/pretty/37i9dQZF1DX4qF0846GNk8.md)
 - [اغاني حب مصرية](/playlists/pretty/37i9dQZF1DWYFV1CnuXO8v.md)
 - [التوب](/playlists/pretty/37i9dQZF1DXd3AhRYJnfcl.md)
 - [خليجي جديد](/playlists/pretty/37i9dQZF1DWWQRKXabpuS2.md)
 - [دبكة ‎ Dabke](/playlists/pretty/37i9dQZF1DXchFDa0CQ44k.md)
 - [شعبي مصري](/playlists/pretty/37i9dQZF1DX7Gwi28HhdBP.md)
+- [شيلات](/playlists/pretty/37i9dQZF1DWTZ8jTY8g4MU.md)
 - [عراقي جديد](/playlists/pretty/37i9dQZF1DWVSIz2AGspV4.md)
 - [فيروزيات الصباح](/playlists/pretty/37i9dQZF1DXcHggRa2aOoC.md)
 - [مصري جديد](/playlists/pretty/37i9dQZF1DWXJnW46G73SM.md)

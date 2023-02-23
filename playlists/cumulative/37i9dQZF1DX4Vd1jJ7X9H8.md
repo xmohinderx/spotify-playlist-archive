@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff.
 
-380 songs - 22 hr 32 min
+381 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Good Life](https://open.spotify.com/track/14blxrgE0VWAgv5aF2wWmx) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Graduation](https://open.spotify.com/album/5fPglEDz9YEwRgbLRvhCZy) | 3:27 | 2020-12-31 | 2022-04-18 |
 | [Good Life](https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:27 | 2022-07-22 | 2022-08-12 |
 | [Gospel For A New Century](https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:18 | 2020-12-31 | 2023-02-03 |
+| [Gospel For A New Century](https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 3:18 | 2023-01-24 |  |
 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 | 2020-12-31 | 2022-07-29 |
 | [Guilty Conscience \- Tame Impala Remix](https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience \(Tame Impala Remix\)](https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW) | 3:34 | 2020-12-31 | 2022-10-22 |
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-05-31 | 2022-10-19 |
@@ -298,7 +299,7 @@
 | [Sensitive](https://open.spotify.com/track/6Vo8KwBWXiKwHa4bz4XWht) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/3Zx1LH7RSNIsrctDzs0VJF) | 2:54 | 2021-11-12 | 2022-06-04 |
 | [Separated](https://open.spotify.com/track/5yNL07FfOxLK8onHaA7JIa) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn) | [House Hues](https://open.spotify.com/album/7zOq9dtIhDjmtYzKnMQU8v) | 1:38 | 2023-01-15 |  |
 | [Sex](https://open.spotify.com/track/67ispalOAo3jnZWYSTTfZk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 3:27 | 2020-12-31 | 2022-04-20 |
-| [Sex n' Drugs](https://open.spotify.com/track/0G2wimhVoDYXbQ6csDxtSf) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en), [Copper King](https://open.spotify.com/artist/0UcRuQorbZibK50cFtsJh3) | [Marbled](https://open.spotify.com/album/4UdZHRBCIoe7XCPr8KdVg7) | 3:37 | 2022-08-11 |  |
+| [Sex n' Drugs](https://open.spotify.com/track/0G2wimhVoDYXbQ6csDxtSf) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en), [Copper King](https://open.spotify.com/artist/0UcRuQorbZibK50cFtsJh3) | [Marbled](https://open.spotify.com/album/4UdZHRBCIoe7XCPr8KdVg7) | 3:37 | 2022-08-11 | 2023-02-23 |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-01-28 | 2022-08-12 |
 | [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2021-10-19 | 2022-07-30 |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2020-12-31 | 2022-07-29 |

@@ -5674,7 +5674,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 308080,
       "name": "Opto File 1",
       "url": "https://open.spotify.com/track/4wanjskAp43E4l97QhoogC"
@@ -6330,6 +6330,24 @@
       "duration_ms": 273426,
       "name": "Protean",
       "url": "https://open.spotify.com/track/2526Vqp94nRuBDnS8Xu5nm"
+    },
+    {
+      "album": {
+        "name": "Spanners",
+        "url": "https://open.spotify.com/album/6BrkYc6kK7iw7Q4NkvyGbO"
+      },
+      "artists": [
+        {
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 634826,
+      "name": "Psil-cosyin",
+      "url": "https://open.spotify.com/track/2MGASk9tWpOlH716lfQLuk"
     },
     {
       "album": {

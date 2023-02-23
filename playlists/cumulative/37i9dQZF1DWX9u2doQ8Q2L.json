@@ -800,7 +800,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 138305,
       "name": "BeachBoys",
       "url": "https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u"
@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Change and Vanish",
+        "url": "https://open.spotify.com/album/0yOLK8giK4aXxk1Lv3d3ne"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229374,
+      "name": "Change and Vanish",
+      "url": "https://open.spotify.com/track/6E0Dz2xGBjK5XdnViJ0jYg"
+    },
+    {
+      "album": {
         "name": "CROWS",
         "url": "https://open.spotify.com/album/2D8HpOl0a3Bs2A1iAG0Zyd"
       },
@@ -1572,10 +1590,28 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 231754,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/0wndA7TlVzbCwPpRspo5Qs"
+    },
+    {
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/4DRvwCaKOaEBdHKCN7IaC3"
+      },
+      "artists": [
+        {
+          "name": "Murakami Keisuke",
+          "url": "https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231754,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/7Fn6rbt6ex6WdbiUrTD5a8"
     },
     {
       "album": {
@@ -2247,6 +2283,24 @@
     },
     {
       "album": {
+        "name": "Furai",
+        "url": "https://open.spotify.com/album/4j0Zj8PZiRK5PL7MqFQA83"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265933,
+      "name": "Furai",
+      "url": "https://open.spotify.com/track/0JlDINY2QfgBGG1HYXeuyV"
+    },
+    {
+      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/4L87Q0OnGLe89dfaY0ddix"
       },
@@ -2466,10 +2520,28 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 232284,
       "name": "Go back",
       "url": "https://open.spotify.com/track/1ftGsEABSxkmsOZdASmGfU"
+    },
+    {
+      "album": {
+        "name": "Go back / friends",
+        "url": "https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232284,
+      "name": "Go back",
+      "url": "https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi"
     },
     {
       "album": {
@@ -6745,6 +6817,28 @@
     },
     {
       "album": {
+        "name": "SPEED AGETE (Prod. Chaki Zulu)",
+        "url": "https://open.spotify.com/album/0s5YEX9wcWOR6CxNxywvBk"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Chaki Zulu",
+          "url": "https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166053,
+      "name": "SPEED AGETE (Prod. Chaki Zulu)",
+      "url": "https://open.spotify.com/track/7wte64HKNL0keeCHfanAG6"
+    },
+    {
+      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/2zBMFUd4MG6buGgHXPTtsT"
       },
@@ -8124,10 +8218,36 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 200506,
       "name": "Two Of Us",
       "url": "https://open.spotify.com/track/6V1YfiwX4NJ2BJR5lVhvXP"
+    },
+    {
+      "album": {
+        "name": "Two Of Us",
+        "url": "https://open.spotify.com/album/1GhoFqozrEhPWZTD7BdlIP"
+      },
+      "artists": [
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        },
+        {
+          "name": "ANPYO",
+          "url": "https://open.spotify.com/artist/42OaUjnLIdRnlCRH7Dczb7"
+        },
+        {
+          "name": "NARISK",
+          "url": "https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200506,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/7qszjOZgNYdkfXB2NwHzWY"
     },
     {
       "album": {
@@ -8510,7 +8630,7 @@
     {
       "album": {
         "name": "When I Feel You",
-        "url": "https://open.spotify.com/album/3SF3cXFyoG4CwN2ppbGk9N"
+        "url": "https://open.spotify.com/album/5pJU06vlP1sffr47RXgF3n"
       },
       "artists": [
         {
@@ -8525,6 +8645,28 @@
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 208000,
+      "name": "When I Feel You",
+      "url": "https://open.spotify.com/track/5TyOOFGwABSR6OoX3k65j4"
+    },
+    {
+      "album": {
+        "name": "When I Feel You",
+        "url": "https://open.spotify.com/album/3SF3cXFyoG4CwN2ppbGk9N"
+      },
+      "artists": [
+        {
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
       "duration_ms": 208000,
       "name": "When I Feel You",
       "url": "https://open.spotify.com/track/6bMGySvDyXOTw9fhM5x8TF"
@@ -9324,7 +9466,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 266600,
       "name": "\u30b2\u30fc\u30e0\u30aa\u30fc\u30d0\u30fc",
       "url": "https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk"
@@ -9422,7 +9564,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 166053,
       "name": "\u30b9\u30d4\u30fc\u30c9\u4e0a\u3052\u3066 (Prod. Chaki Zulu)",
       "url": "https://open.spotify.com/track/7iWu7c0Ss28SrAmaivs2qr"
@@ -10360,7 +10502,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 229374,
       "name": "\u5909\u308f\u308b\u6d88\u3048\u308b",
       "url": "https://open.spotify.com/track/1QoIG08kXG8uf5KuJx1y9X"
@@ -11516,7 +11658,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-23",
       "duration_ms": 265933,
       "name": "\u98a8\u6765",
       "url": "https://open.spotify.com/track/0NCp3Af9c2ufCah4LinfJT"
