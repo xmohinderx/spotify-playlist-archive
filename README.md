@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5626\)
+## Playlists \(5627\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -3486,6 +3486,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Retrowave // Outrun](/playlists/pretty/37i9dQZF1DXdLEN7aqioXM.md)
 - [Return to the Rave](/playlists/pretty/37i9dQZF1DWXTfdxNcD5sS.md)
 - [Rhythm & Praise](/playlists/pretty/37i9dQZF1DX35T8tss1Gxt.md)
+- [Riding the Soundwave: the playlist](/playlists/pretty/2MVOmcETWNEZHSxdhG5e9k.md)
 - [Ridley Jones Official Playlist](/playlists/pretty/37i9dQZF1DWXdbjTtdRf2g.md)
 - [Rima Avançada](/playlists/pretty/37i9dQZF1DX0EaLv8xHmij.md)
 - [Rimas Pa'l Cora](/playlists/pretty/37i9dQZF1DXbMnDeC4VENb.md)
