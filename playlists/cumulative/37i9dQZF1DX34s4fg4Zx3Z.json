@@ -923,6 +923,28 @@
     },
     {
       "album": {
+        "name": "Anh \u0110\u00e3 T\u1eeb B\u1ecf R\u1ed3i \u0110\u1ea5y",
+        "url": "https://open.spotify.com/album/1VmIxDRDv2dowkEF4CIFF0"
+      },
+      "artists": [
+        {
+          "name": "Nguyenn",
+          "url": "https://open.spotify.com/artist/0FflNqUFk4ODtAZuVuqgou"
+        },
+        {
+          "name": "Aric",
+          "url": "https://open.spotify.com/artist/2M3RlbYLy67kjYrrCCZcm2"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304014,
+      "name": "Anh \u0110\u00e3 T\u1eeb B\u1ecf R\u1ed3i \u0110\u1ea5y",
+      "url": "https://open.spotify.com/track/1YW6r5WNuGOBiofHQZkyCM"
+    },
+    {
+      "album": {
         "name": "Anniverse",
         "url": "https://open.spotify.com/album/16E5aldZmJZYnCej4uf8kU"
       },
@@ -2086,7 +2108,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 264444,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/24uq1AAOUJpajFPWJNJlcX"
@@ -3543,6 +3565,32 @@
     },
     {
       "album": {
+        "name": "C\u00f4 G\u00e1i N\u00e0y L\u00e0 C\u1ee7a Ai? (feat. Rush & Nhi Nhi)",
+        "url": "https://open.spotify.com/album/2NGMT2aQkL96whD93DdNxo"
+      },
+      "artists": [
+        {
+          "name": "Krix",
+          "url": "https://open.spotify.com/artist/0CFshi8xoCTnhggihTqoUL"
+        },
+        {
+          "name": "Nhi Nhi",
+          "url": "https://open.spotify.com/artist/69WVr1fBDPGsMEMn3kbxZt"
+        },
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166120,
+      "name": "C\u00f4 G\u00e1i N\u00e0y L\u00e0 C\u1ee7a Ai? (feat. Rush & Nhi Nhi)",
+      "url": "https://open.spotify.com/track/5sIgSa5Q1GEGWF0lrCQ0N6"
+    },
+    {
+      "album": {
         "name": "C\u01a1m Nh\u00e0",
         "url": "https://open.spotify.com/album/54oIo1WVgy6zXZWSy2gBkt"
       },
@@ -4266,7 +4314,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 115000,
       "name": "Em C\u00f3 Ti\u1ebfc Nh\u1edb Cho Tu\u1ed5i Th\u01a1 Qua",
       "url": "https://open.spotify.com/track/7lsnLcxNrTDjfQobUibiEu"

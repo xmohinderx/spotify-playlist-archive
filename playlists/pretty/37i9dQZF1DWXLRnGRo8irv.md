@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: 고은이\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,026 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,037 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 36 | [Worth It](https://open.spotify.com/track/5IoVUdE0ux6eOFJh91Ys4n) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Worth It](https://open.spotify.com/album/7iGhLNqA3VgbPa9qnlUqsl) | 4:05 |
 | 37 | [Stay](https://open.spotify.com/track/2OZe3pjwHDXQmH2NKPnEa1) | [MIGYO](https://open.spotify.com/artist/6MMlmK7TkMzkyMfWXoIkFS) | [STAY](https://open.spotify.com/album/4Trq0y85JqraCEqDxAcvYs) | 4:00 |
 | 38 | [It\`s Love](https://open.spotify.com/track/22AHrxX4vp2VOz3NDxJSpf) | [MIGYO](https://open.spotify.com/artist/6MMlmK7TkMzkyMfWXoIkFS) | [Returning Student: Grade A, but Love is F \(Original Soundtrack\), Pt\. 4](https://open.spotify.com/album/14T4pQDglbR2y3KsR99Wuj) | 3:12 |
-| 39 | [I can't do this](https://open.spotify.com/track/19CcNDMwsJClAHoObmOVcL) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [Three Siblings Bravely \(Original Soundtrack\), Pt.9](https://open.spotify.com/album/6NL8KIrrgkQmQ3WYZXrxM0) | 4:08 |
+| 39 | [I can't do this](https://open.spotify.com/track/19CcNDMwsJClAHoObmOVcL) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [Three Siblings Bravely OST Part.9 \(Soundtrack\)](https://open.spotify.com/album/6NL8KIrrgkQmQ3WYZXrxM0) | 4:08 |
 | 40 | [With this song](https://open.spotify.com/track/5Ea2nMOE7vTIj7x4xlvOyl) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [With this song](https://open.spotify.com/album/0TKfPDP4Jf6W6iP0bxNhmZ) | 3:55 |
 | 41 | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59) | 2:43 |
 | 42 | [Butterfly \(feat\. Oceanfromtheblue\)](https://open.spotify.com/track/1P9ztAUu6vrOdZ0Mr8lxWp) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Therapy Session](https://open.spotify.com/album/2hp1xdmCKrjVdAodJjDVgO) | 3:46 |

@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-195 songs - 11 hr 36 min
+198 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [Carry Me Away](https://open.spotify.com/track/6TL3MOcVW8i1UiJkvhpDbR) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Carry Me Away](https://open.spotify.com/album/5KvmuOTWNRFPAQdz0KRPcf) | 2:39 | 2021-11-24 | 2022-07-29 |
 | [Chateau](https://open.spotify.com/track/2eKTPiHsDLaVV5aJpjW7Y3) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Chateau](https://open.spotify.com/album/08cceZ2uTJGPx6lsHDAaiU) | 4:33 | 2021-11-24 | 2022-07-29 |
 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 | 2022-06-03 |  |
-| [Close To You](https://open.spotify.com/track/0ptKXVvF6qrNAjm9HGG0Rw) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [De Beste Singer Songwriter van Nederland 2](https://open.spotify.com/album/5rWkw0mK0WGSWtZnfKE8DV) | 4:50 | 2021-11-24 |  |
+| [Close To You](https://open.spotify.com/track/0ptKXVvF6qrNAjm9HGG0Rw) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [De Beste Singer Songwriter van Nederland 2](https://open.spotify.com/album/5rWkw0mK0WGSWtZnfKE8DV) | 4:50 | 2021-11-24 | 2023-02-24 |
 | [Closer To The Sun](https://open.spotify.com/track/5qQ7HmA57BxMfHEOtWuPCF) | [Frank Rensen](https://open.spotify.com/artist/4nahdbp2YzcisSOrGyVBAP) | [Closer To The Sun](https://open.spotify.com/album/7tCbZ4Kx4ksIKqRTnoM3Eo) | 3:47 | 2021-11-24 |  |
+| [Constellations](https://open.spotify.com/track/427ckvkTomPZKpFvgaMBcy) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Constellations](https://open.spotify.com/album/3cJm2D899SihiCAY68lU1Z) | 2:45 | 2023-02-23 |  |
 | [Cruel Heart](https://open.spotify.com/track/4D7tOyEvUdzNvkDXuD0PQW) | [Novastar](https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1) | [In The Cold Light of Monday](https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i) | 2:51 | 2021-11-24 | 2022-06-04 |
 | [Daisy Dukes](https://open.spotify.com/track/5FDiYtSHAao9GnAgm2dcST) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Daisy Dukes](https://open.spotify.com/album/23DLPcGwO0tQWz6VomUQry) | 3:41 | 2021-11-24 |  |
 | [Days of Old](https://open.spotify.com/track/7EUoHpKl506IJQlpYQUBsc) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Days of Old](https://open.spotify.com/album/6WUfZhaL11rvcFlgLtvQJP) | 3:15 | 2021-11-24 |  |
@@ -40,6 +41,7 @@
 | [Don't You](https://open.spotify.com/track/3rBM5DQVSTzkpNLqRwsNpH) | [Marike Jager](https://open.spotify.com/artist/1DvjWYF9T7H6CuQ7udKLYF), [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [The Silent Song](https://open.spotify.com/album/5786aDAs5wQeuRgbPVuhBt) | 3:03 | 2022-06-03 |  |
 | [Don't You](https://open.spotify.com/track/57qbmijYidoNcaLkT9zXQJ) | [Marike Jager](https://open.spotify.com/artist/1DvjWYF9T7H6CuQ7udKLYF), [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [The Silent Song](https://open.spotify.com/album/7p8kTQeWSGGs3yQkl8t6j8) | 3:03 | 2021-11-24 | 2022-07-29 |
 | [Dream In A Dream](https://open.spotify.com/track/6EGvCC2xy1lEzfINPK5DUq) | [Frank Rensen](https://open.spotify.com/artist/4nahdbp2YzcisSOrGyVBAP) | [1/2](https://open.spotify.com/album/02YjNurvWFrkzn5wjEYT2P) | 3:11 | 2021-11-24 |  |
+| [Everything Grows](https://open.spotify.com/track/1SjWBuWiOuEWyZQJZI7aLZ) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Everything Grows](https://open.spotify.com/album/3bUHdR32jmz04qR2DNSF8B) | 4:17 | 2023-02-23 |  |
 | [Find The River](https://open.spotify.com/track/3SBgn3VyF9blrHYcJ5bg1k) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/3ImeTxETbPlg8S6cFNlova) | 3:49 | 2021-11-24 | 2022-02-04 |
 | [For All You Give](https://open.spotify.com/track/59GNu8e5TeFC8RsdkdXJsz) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [For All You Give](https://open.spotify.com/album/7CgedGQTmESdQxTg2FE3mR) | 3:11 | 2022-11-03 | 2022-11-13 |
 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 | 2022-06-03 |  |
@@ -70,6 +72,7 @@
 | [if i wasn't made for love](https://open.spotify.com/track/0gTQHu2jECAp9qSw1t5dkr) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [if i wasn't made for love](https://open.spotify.com/album/3zLvfi1YxYdN0YwgIc8vDA) | 3:56 | 2022-03-24 |  |
 | [In Our Hearts](https://open.spotify.com/track/2coh2rbFkh7L77h6TH5stT) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [In Our Hearts](https://open.spotify.com/album/3Hlhrov3Um9vBbd8dkibLI) | 3:19 | 2022-11-17 |  |
 | [Is It Really Over](https://open.spotify.com/track/6iu2xELNP7DX9XPG3kl58q) | [Paper Towns](https://open.spotify.com/artist/5ofMaKibg1xntezRb8Og2U), [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [Is It Really Over](https://open.spotify.com/album/5giATgpzWHU0d0N48oRdIa) | 3:38 | 2021-11-24 |  |
+| [Jackal](https://open.spotify.com/track/1vwWgLdCaChk6SjQRVYVWJ) | [Noah\-Jazz](https://open.spotify.com/artist/6c133VGM0x6c5kJO5k2sLN) | [Jackal](https://open.spotify.com/album/5Rp9fkDFzzArRcsGEnZuvl) | 3:12 | 2023-02-23 |  |
 | [Joe](https://open.spotify.com/track/43Hd4eUPRzrramyZOQh0JG) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Joe](https://open.spotify.com/album/0cW3C8VF3sHOevQOvsTFr4) | 3:12 | 2021-11-24 | 2022-07-29 |
 | [Joe](https://open.spotify.com/track/7kO4G9gASA6xwUGcqRzoLF) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Joe](https://open.spotify.com/album/3ulX2huBgCgMUhgHbYTevv) | 3:12 | 2022-11-03 | 2022-11-13 |
 | [Joe](https://open.spotify.com/track/0uLrfjlCV5eCQcEwwmz8uX) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Julius](https://open.spotify.com/album/10bl29X1V0NlDr4erbugC4) | 3:12 | 2022-06-03 |  |
@@ -114,7 +117,7 @@
 | [New Light](https://open.spotify.com/track/41f8HyuxASzuEcEs01x10O) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Treino Pop 2022](https://open.spotify.com/album/1NeZ6oYVALUuygJwW5zvve) | 3:37 | 2022-11-03 | 2022-11-14 |
 | [Nicotine](https://open.spotify.com/track/5YqwpwmzMGwUIU9h1kcOK8) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Amigo](https://open.spotify.com/album/0cai6DfUIlJ3aDAAzommLJ) | 3:58 | 2022-06-03 |  |
 | [Nicotine](https://open.spotify.com/track/6yvxKrf9KZLTodXFTBmdR1) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Amigo](https://open.spotify.com/album/1jkWbtGWX47YAIYHmRONUg) | 3:58 | 2021-11-24 | 2022-07-29 |
-| [Nothing](https://open.spotify.com/track/7tJNVStBtyz0kIqMx1sofO) | [Noah\-Jazz](https://open.spotify.com/artist/6c133VGM0x6c5kJO5k2sLN) | [Nothing](https://open.spotify.com/album/5EJ1I1OTpQT3Ipjj9rDD2M) | 3:12 | 2022-11-03 |  |
+| [Nothing](https://open.spotify.com/track/7tJNVStBtyz0kIqMx1sofO) | [Noah\-Jazz](https://open.spotify.com/artist/6c133VGM0x6c5kJO5k2sLN) | [Nothing](https://open.spotify.com/album/5EJ1I1OTpQT3Ipjj9rDD2M) | 3:12 | 2022-11-03 | 2023-02-24 |
 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2022-12-01 |  |
 | [October, Halfway July](https://open.spotify.com/track/2eD56lWTL92klRLfmgjP9h) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [October, Halfway July](https://open.spotify.com/album/2zQmazQRssxqwdUe198gqn) | 3:22 | 2021-11-24 |  |
 | [On My Mind](https://open.spotify.com/track/3lNBBcH8OWPp281L9VuqQn) | [Christy](https://open.spotify.com/artist/3BgniSkzaCLKgQSBkWcsoV) | [On My Mind](https://open.spotify.com/album/3ibBY3XM01fTDd1Z7us1k0) | 2:39 | 2021-11-24 |  |
@@ -124,7 +127,7 @@
 | [pass you by](https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 4:05 | 2022-09-26 |  |
 | [Passport Home](https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:00 | 2022-06-03 |  |
 | [Passport Home](https://open.spotify.com/track/4sasqE4lDhBhm4ER7EsQaf) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Passport Home](https://open.spotify.com/album/35oMYxeEPYIGzwIOOVqX28) | 3:00 | 2021-11-24 | 2022-07-29 |
-| [Princess](https://open.spotify.com/track/0JfIKYbzWSO4HP1xQ8yx5T) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/51JA0UFkSPqimGkwXL7upb) | 3:56 | 2022-12-01 |  |
+| [Princess](https://open.spotify.com/track/0JfIKYbzWSO4HP1xQ8yx5T) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/51JA0UFkSPqimGkwXL7upb) | 3:56 | 2022-12-01 | 2023-02-24 |
 | [Princess](https://open.spotify.com/track/3OzgmgV9iwlOSfrlPFNWxy) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Princess](https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J) | 3:56 | 2021-11-24 | 2022-07-29 |
 | [Princess](https://open.spotify.com/track/7MoXmKuJTCBTE9lQFtMWM2) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/5WMuOOML8PANPuUQKeIo8S) | 3:56 | 2022-06-03 | 2022-12-02 |
 | [Quietly Yours](https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W) | 3:54 | 2022-08-11 | 2022-11-20 |

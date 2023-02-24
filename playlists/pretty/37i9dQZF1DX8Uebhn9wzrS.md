@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,643 likes - 510 songs - 19 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,677 likes - 510 songs - 19 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -351,7 +351,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 341 | [Mellowly](https://open.spotify.com/track/2ZhjgwoeBKVvfktIdGs7jg) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [Mellowly](https://open.spotify.com/album/0ctjkoVtkNRRNLlW24w0OQ) | 2:18 |
 | 342 | [Mistle](https://open.spotify.com/track/09F4NbaDx67AaQdukx5tIw) | [furozun](https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U) | [Mistle](https://open.spotify.com/album/7AdlNag6CqJMNTTpHsqsVs) | 2:16 |
 | 343 | [Shapes](https://open.spotify.com/track/4BiiiOiilAEgCkeynf3hlC) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Shapes](https://open.spotify.com/album/2Gk8tUVQ8KTbTJCd2hnvZZ) | 1:54 |
-| 344 | [No Saintz](https://open.spotify.com/track/201Uk2CZF6aJTSYDE307i3) | [Flash Dry](https://open.spotify.com/artist/1zmoasbVWHtHxY22AoyBCs) | [No Saintz](https://open.spotify.com/album/1S3RYqAldSKsGhupkolVOc) | 1:52 |
+| 344 | [No Saintz](https://open.spotify.com/track/201Uk2CZF6aJTSYDE307i3) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [No Saintz](https://open.spotify.com/album/1S3RYqAldSKsGhupkolVOc) | 1:52 |
 | 345 | [Strike Soft Strike Slow](https://open.spotify.com/track/7KfZjncXfzdNA1Gmn7jkJu) | [Party Of Six](https://open.spotify.com/artist/7faG8ojwSoTVGP32Q2GxGj) | [Strike Soft Strike Slow](https://open.spotify.com/album/6Px9dXXBauVs3NfDYW3Y1Y) | 1:54 |
 | 346 | [Birds in a Tree](https://open.spotify.com/track/66XDRP8a73wHcqMqnWM0z7) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [The Way She Moves](https://open.spotify.com/album/6d56jnrEI4HSi6khvktQDr) | 3:15 |
 | 347 | [Between The Lines](https://open.spotify.com/track/0xu4nHvp3S4wVFc685Z9EY) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Between The Lines](https://open.spotify.com/album/6cG45DQCdR1QBumoTWSkDf) | 2:02 |

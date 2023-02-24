@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,945,667 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,945,846 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 32 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
 | 33 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 |
 | 34 | [Stone Cold](https://open.spotify.com/track/2ZJSuTo2KtL066oKKmcUlL) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Stone Cold](https://open.spotify.com/album/75XtJQhaA2gnlYJ1RsrxgO) | 2:30 |
-| 35 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 |
+| 35 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 |
 | 36 | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW) | 2:38 |
 | 37 | [In the Essence](https://open.spotify.com/track/0MhxLAfnXrgKqL9V7VAaj4) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [In the Essence](https://open.spotify.com/album/04ftEPqjtbQNpRqsUYdu6R) | 3:33 |
 | 38 | [Tada \(feat\. Blxst\)](https://open.spotify.com/track/6OG1hV6boTYr0GGU16NNnz) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Tada \(feat\. Blxst\)](https://open.spotify.com/album/19tfV4P34rmSvKoc6abGJw) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 99 | [Bop Bop](https://open.spotify.com/track/1891EswrvOu3kHIcROshhe) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Bop Bop](https://open.spotify.com/album/3YkTJig3cTGSp9JHM3tHWW) | 2:17 |
 | 100 | [How Would You Like It](https://open.spotify.com/track/50poSCEPSegJFt2Np1ycqB) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [How Would You Like It](https://open.spotify.com/album/0KrL6cUlXuWs9BzC9dejYo) | 2:45 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDQyZmYxYTRkMDNjYTIxMWM3NzExNmZjZWQxNWNmOWE4`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGZkYjVlMzljNGNjYTY2MzRmNDEzMDhmZTJhM2E4Mzdi`

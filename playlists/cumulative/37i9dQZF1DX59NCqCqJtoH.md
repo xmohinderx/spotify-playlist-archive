@@ -4,7 +4,7 @@
 
 > We hear you.
 
-546 songs - 1 day 3 hr 0 min
+547 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [i don't feel part of the world anymore](https://open.spotify.com/track/11iiMB7TmFTtaXT4YJAltw) | [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [tape for when i'm sad](https://open.spotify.com/album/1EeYJrmjXcqx5PCZWu6WV1) | 1:24 | 2022-11-08 |  |
 | [i don't wanna die alone](https://open.spotify.com/track/1UfDwb7EyvtEXvFZrm7ABQ) | [RNAQ](https://open.spotify.com/artist/3juSp5raLqxGiyimUYB5Rk), [Kaxi](https://open.spotify.com/artist/2Aaz4mQGMr0iuyBE2lcfxn) | [i don't wanna die alone](https://open.spotify.com/album/5Boolgafpn3z03X6POfQn8) | 2:48 | 2021-04-02 | 2022-04-15 |
 | [i don't wanna fall in love](https://open.spotify.com/track/2hkrK4tbCWGhUlF0rtQzBs) | [XINCLAIR](https://open.spotify.com/artist/3b71MgFOkWOk0P0SN9t8Db), [Mada](https://open.spotify.com/artist/4FpLPGEsFlGesZo9ov3eNd) | [i don't wanna fall in love](https://open.spotify.com/album/77qeFaiCEw2DOP6TAF2042) | 2:09 | 2021-04-02 | 2022-04-18 |
+| [I even told my mom about u](https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Seon](https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8), [Boyfifty](https://open.spotify.com/artist/1UXAQeRmVW5aEd4W0gTIA9), [juli](https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV) | [I even told my mom about u](https://open.spotify.com/album/7keewWiui2hsR0iOXOQaQQ) | 2:00 | 2023-02-17 |  |
 | [I Feel It](https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 3:36 | 2021-09-10 |  |
 | [I h8 ur mom/ i h8 myself](https://open.spotify.com/track/4EVJGoZ9SQdo7txULNdkOw) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I h8 ur mom/ i h8 myself](https://open.spotify.com/album/1AEd6FhHjlPjO9uM1KB7wh) | 2:52 | 2022-07-19 | 2022-08-25 |
 | [i hate myself tbh](https://open.spotify.com/track/3yGNEaRrxNCpOYndu3jTUA) | [Aidan](https://open.spotify.com/artist/2p9YQq5YvvPaD4fj8aOCyk), [Kaxi](https://open.spotify.com/artist/2Aaz4mQGMr0iuyBE2lcfxn) | [i hate myself tbh](https://open.spotify.com/album/1jRre5scscTvNhnNJFPY3U) | 2:54 | 2021-04-02 | 2022-04-18 |
@@ -400,7 +401,7 @@
 | [rock bottom \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/5d1OeQBC6zyHO8jc2svOZz) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:45 | 2021-04-02 | 2022-05-16 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-08-31 | 2023-02-15 |
 | [rosier](https://open.spotify.com/track/6ZUiIY6JQtDkrJggZ1OSQ7) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [rosier](https://open.spotify.com/album/3ri0YspOIBYjD3d8QIMwB7) | 3:42 | 2021-04-02 | 2022-07-29 |
-| [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 | 2022-11-11 |  |
+| [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 | 2022-11-11 | 2023-02-24 |
 | [Ruthless \(Nice Guys Always Finish Last\)](https://open.spotify.com/track/6HeCk6yewXH7WO4D93eub9) | [MarMar Oso](https://open.spotify.com/artist/5rGbtFeEVjymN6xzE8opA6) | [Oso Different](https://open.spotify.com/album/0Ga2a9eC2PvMNr8LRceotI) | 3:53 | 2021-04-02 | 2022-12-17 |
 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 | 2022-04-08 | 2022-07-29 |
 | [Sad Thoughts, Anxiety Panics](https://open.spotify.com/track/5NfSH292uE4Kcyr3QkHfJl) | [CYBERLOVE](https://open.spotify.com/artist/71pi8vh7jr7f0DnisuL03m) | [Sad Thoughts, Anxiety Panics](https://open.spotify.com/album/7en610Uv88Vckej2Tq1a9p) | 2:00 | 2022-04-12 | 2022-04-19 |

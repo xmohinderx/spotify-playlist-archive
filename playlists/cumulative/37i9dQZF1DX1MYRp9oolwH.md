@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-95 songs - 6 hr 22 min
+96 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Malli Malli \(From "Agent"\)](https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Malli Malli \(From "Agent"\)](https://open.spotify.com/album/3A4Wxcl3DMpWMInJiAvnPx) | 3:27 | 2023-02-22 |  |
 | [Manasa Manasa \(From “Nachindi Girl Friendu”\)](https://open.spotify.com/track/0tXHjE683Znzi7xfmZOw4Q) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn) | [Manasa Manasa \(From “Nachindi Girl Friendu”\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/16Fi5WZP0SUkqMJXCUtTti) | 5:15 | 2022-10-24 |  |
 | [Manase Manihaarame](https://open.spotify.com/track/4kDyGiTGv3QznWbovgJHyn) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Pasalapoodi Veerababu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aPPeqrbPohMM1eBbkbqpw) | 3:49 | 2022-10-06 |  |
+| [Manusutho Preminchi](https://open.spotify.com/track/4G2spi7AQPJba2J3H6RLJy) | [Madhu Karthik](https://open.spotify.com/artist/04GMGtK6GiTz9WEWUuun9T) | [Samudram Chittabbai](https://open.spotify.com/album/1KIMT9VSR4UCR1XRWYIMYS) | 3:22 | 2023-02-23 |  |
 | [Mastaaru Mastaaru](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Sir](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 | 2022-11-10 |  |
 | [Megham Karigena \(From "Thiru"\)](https://open.spotify.com/track/548VhmAhtRb8g4agXrqvCM) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Megham Karigena \(From "Thiru"\)](https://open.spotify.com/album/60souT1gyPJdMI1jcqAf89) | 4:50 | 2022-08-23 |  |
 | [Mehabooba](https://open.spotify.com/track/1XOCtdeIjy7eIIPsYFGXzZ) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/6tYYbx3TIgC0xIqAYGkCD7) | 3:32 | 2022-05-04 | 2023-02-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,408 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,755 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 44 | [Stairway to Heaven](https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Stairway to Nick John](https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e) | 8:05 |
 | 45 | [Hey Joe](https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Born Dead](https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz) | 4:28 |
 | 46 | [Come Together \- Live From Fox Theatre Detroit, MI/2012](https://open.spotify.com/track/02LrmnkHvOcQo6L2RBdfqu) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live & Inspired](https://open.spotify.com/album/4qq3w5Bfb46Rw9kE6QSYNT) | 3:46 |
-| 47 | [Bohemian Rhapsody](https://open.spotify.com/track/2lG0zhMNTXoDdA6R6o9O2Z) | [Postscript](https://open.spotify.com/artist/5vmEAPJu1H4JKvjMXtJUJf), [Jeremy Tollas](https://open.spotify.com/artist/6tsABB4MuOA6HoDfKgLieW), [Famous Last Words](https://open.spotify.com/artist/3rxPTMtxVQKNAbBBl6cQrw) | [Bohemian Rhapsody](https://open.spotify.com/album/0CDBNFho40fetPZ0OhJBu0) | 5:33 |
-| 48 | [Let It Go](https://open.spotify.com/track/4Cf7HDam6eNq1Rg2Gv8Ag7) | [Betraying The Martyrs](https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro) | [Phantom](https://open.spotify.com/album/2QZhGE2USg7NCL98E7DkpS) | 4:22 |
+| 47 | [Let It Go](https://open.spotify.com/track/4Cf7HDam6eNq1Rg2Gv8Ag7) | [Betraying The Martyrs](https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro) | [Phantom](https://open.spotify.com/album/2QZhGE2USg7NCL98E7DkpS) | 4:22 |
+| 48 | [Bohemian Rhapsody](https://open.spotify.com/track/2lG0zhMNTXoDdA6R6o9O2Z) | [Postscript](https://open.spotify.com/artist/5vmEAPJu1H4JKvjMXtJUJf), [Jeremy Tollas](https://open.spotify.com/artist/6tsABB4MuOA6HoDfKgLieW), [Famous Last Words](https://open.spotify.com/artist/3rxPTMtxVQKNAbBBl6cQrw) | [Bohemian Rhapsody](https://open.spotify.com/album/0CDBNFho40fetPZ0OhJBu0) | 5:33 |
 | 49 | [My Heart Will Go On](https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Extreme Power Metal](https://open.spotify.com/album/0xgC478TCYgc4BaO7nAheO) | 3:24 |
 | 50 | [Lose Yourself](https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Lose Yourself](https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F) | 3:27 |
 
-Snapshot ID: `MTY3NjgyODA0NiwwMDAwMDAwMDE5MWYzZmM4NmQyZGZiOTlkNTZiYzUxYTYyNmMzM2Vl`
+Snapshot ID: `MTY3NjgyODA0NiwwMDAwMDAwMDIyODM1NjczZjAzOTI5ZjUyMzE4MjQzMmU5Nzk5Y2Yz`

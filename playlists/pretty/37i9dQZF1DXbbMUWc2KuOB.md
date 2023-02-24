@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Forecasting Love and Weather\(기상청 사람들\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,121 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,252 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 37 | [All of My Days \- Instrumental](https://open.spotify.com/track/4a6zTEEgWsFPJoOt78ef8r) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/18CHwtIEjpfLZjWImSrjhu) | 3:58 |
 | 38 | [Is You \- Instrumental](https://open.spotify.com/track/3qhAl59H69PCjM2zOCrW5f) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Memories of the Alhambra \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3K4uVMdGeyvmQGd2Biby43) | 4:23 |
 | 39 | [Be a Flame](https://open.spotify.com/track/2wt4pn6IN8L2eatDPT6EkC) | [Nam Hye Seung](https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9), [Park Sang Hee](https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p) | [Mr\. Sunshine \(Original Television Soundtrack\)](https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ) | 3:22 |
-| 40 | [Breath \- instrumental](https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 |
-| 41 | [Please Don't Cry \- Instrumental](https://open.spotify.com/track/1duxldBw0SGQ56SPBg5gLb) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/4XWPJiQfB1sTbhy9JJTl47) | 3:55 |
-| 42 | [Someday, The Boy Instrumental](https://open.spotify.com/track/1cVvH5rZ4IYYhJfKed7K2R) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\)](https://open.spotify.com/album/2PsmLUt0LAcT2c9xzDmxI0) | 4:47 |
+| 40 | [Please Don't Cry \- Instrumental](https://open.spotify.com/track/1duxldBw0SGQ56SPBg5gLb) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/4XWPJiQfB1sTbhy9JJTl47) | 3:55 |
+| 41 | [Someday, The Boy Instrumental](https://open.spotify.com/track/1cVvH5rZ4IYYhJfKed7K2R) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\)](https://open.spotify.com/album/2PsmLUt0LAcT2c9xzDmxI0) | 4:47 |
+| 42 | [Breath \- instrumental](https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 |
 | 43 | [Home Instrumental](https://open.spotify.com/track/5HHEhGBLhP6NAHNqXCkJeA) | [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [Your Honor Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KvtjZtElrGb7sFvOrE4t6) | 4:39 |
-| 44 | [If you're with me \- Instrumental](https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |
-| 45 | [너를 사랑하고 있어 \- Instrumental](https://open.spotify.com/track/22ufiu7gDBCAUgytTidmS5) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 |
+| 44 | [너를 사랑하고 있어 \- Instrumental](https://open.spotify.com/track/22ufiu7gDBCAUgytTidmS5) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 |
+| 45 | [If you're with me \- Instrumental](https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |
 | 46 | [Another Day \- Instrumental](https://open.spotify.com/track/1VkaIjfAKJargRlbnJZIg2) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Hotel del Luna \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/51VPAPWzszkMcyqVz5VvKc) | 3:37 |
 | 47 | [Is It Still Beautiful \- Instrumental](https://open.spotify.com/track/2h1Ul51I7yWhu2KcI6RSaO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HOSPITAL PLAYLIST Season2 \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4) | 4:35 |
 | 48 | [More Than Words \- Instrumental](https://open.spotify.com/track/78QbLG6ybYftybcqJxniL6) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [DINNER MATE \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/7aF3Y9ZTC67P0ISGQeK7JF) | 3:15 |
 | 49 | [Melting \- Inst.](https://open.spotify.com/track/5zx2UcgNu7CIpczUCgYghY) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3Rble1wgbwvGEqvpOaZ63b) | 3:06 |
 | 50 | [지금 만나러 갈게 \- Instrumental](https://open.spotify.com/track/0LzzN4vnTVHZUNZuAe8EYt) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [브람스를 좋아하세요? \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/4iouMUcFgTOvYb7uOzYPsc) | 4:14 |
 
-Snapshot ID: `MTY0OTc1NDk3OSwwMDAwMDAwMDg3ZjZmMjcyMGM1YjI4Nzk3Y2E0M2RlMTVhOTQwZDdj`
+Snapshot ID: `MTY0OTc1NDk3OSwwMDAwMDAwMGMwNTZiYzAxYTgxNzNiMmQ5NThiNmNiZmRiZjljZGYy`

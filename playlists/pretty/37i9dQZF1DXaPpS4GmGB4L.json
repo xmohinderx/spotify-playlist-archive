@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 37625,
+  "num_followers": 37686,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYzNTIyNywwMDAwMDAwMDczNjY4MWRiYjJiNmRiMmEyYTY4MDdkZDRjYWI2YWVl",
+  "snapshot_id": "MTY3NjYzNTIyNywwMDAwMDAwMDhkMDQ1ZWYwMGM1ODRmNzNmMTZjMWNjZDU0ZmQ0Yzkw",
   "tracks": [
     {
       "added_at": "2023-02-03 16:09:38",
@@ -731,6 +731,26 @@
     {
       "added_at": "2023-02-03 16:09:38",
       "album": {
+        "name": "Traveler's Blues",
+        "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
+      },
+      "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        },
+        {
+          "name": "Mickey Raphael",
+          "url": "https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B"
+        }
+      ],
+      "duration_ms": 265386,
+      "name": "Roadhouse Blues",
+      "url": "https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy"
+    },
+    {
+      "added_at": "2023-02-03 16:09:38",
+      "album": {
         "name": "I Cry For You (Live)",
         "url": "https://open.spotify.com/album/4hGPhYsYb7TiEm6V71rnSA"
       },
@@ -763,42 +783,6 @@
     {
       "added_at": "2023-02-03 16:09:38",
       "album": {
-        "name": "Traveler's Blues",
-        "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        },
-        {
-          "name": "Mickey Raphael",
-          "url": "https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B"
-        }
-      ],
-      "duration_ms": 265386,
-      "name": "Roadhouse Blues",
-      "url": "https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy"
-    },
-    {
-      "added_at": "2023-02-03 16:09:38",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Poor Boy",
-      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
-    },
-    {
-      "added_at": "2023-02-03 16:09:38",
-      "album": {
         "name": "If These Walls Could Talk",
         "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
       },
@@ -819,18 +803,34 @@
     {
       "added_at": "2023-02-03 16:09:38",
       "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+        "name": "662",
+        "url": "https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ"
       },
       "artists": [
         {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 146333,
-      "name": "Shake Your Money-Maker",
-      "url": "https://open.spotify.com/track/5GHZ9UH4L3r6UK1A2zHWf3"
+      "duration_ms": 203481,
+      "name": "That's What You Do",
+      "url": "https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk"
+    },
+    {
+      "added_at": "2023-02-03 16:09:38",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Poor Boy",
+      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
     }
   ],
   "unique_name": "Upbeat Blues",

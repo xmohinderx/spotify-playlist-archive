@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: Allie Paige
 
-209 songs - 13 hr 10 min
+210 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Burn Out](https://open.spotify.com/track/2GUvFoJipxwxQI6pvpHXDC) | [A Beauty Initiative Within Focus](https://open.spotify.com/artist/5cnbawSLtziDxZDqk93JKp), [Andrew Ascough](https://open.spotify.com/artist/6K7tPy8fZS1sCr5Fw6dYbS) | [Burn Out](https://open.spotify.com/album/2cj6CrCchettlCriBNPSkr) | 4:23 | 2020-12-18 | 2023-02-19 |
 | [Captive](https://open.spotify.com/track/2f3EkdJtuokX2L85cK0yOz) | [Clemency](https://open.spotify.com/artist/5fuNHncNSPS8kNTSDzxlvJ) | [Captive](https://open.spotify.com/album/1xo0esdUHZWjuVzInMGm27) | 3:03 | 2020-12-18 | 2022-06-23 |
 | [cast \(get better\)](https://open.spotify.com/track/57ujX4LPYjK8kPkSLiBwl7) | [ØM\-53](https://open.spotify.com/artist/2n2zrJvvOxdEIdumy0FrwA) | [cast \(get better\)](https://open.spotify.com/album/2SKthw3FGVjNnFgBfiaTF7) | 2:57 | 2023-02-19 | 2023-02-21 |
-| [Changes \- Guitarmix](https://open.spotify.com/track/1lq3tG50UFLWpmbFostGPS) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Changes \(Guitarmix\)](https://open.spotify.com/album/4etzZKMzM0fhK5oyrnHyxo) | 2:30 | 2023-02-19 |  |
+| [Changes \- Guitarmix](https://open.spotify.com/track/1lq3tG50UFLWpmbFostGPS) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Changes \(Guitarmix\)](https://open.spotify.com/album/4etzZKMzM0fhK5oyrnHyxo) | 2:30 | 2023-02-19 | 2023-02-24 |
 | [Changing](https://open.spotify.com/track/3J8anA9EbYJqXlJqaisAdN) | [Pauline Zoe Park](https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T) | [Changing](https://open.spotify.com/album/64N5jJtHEd3aVePrdMr8kV) | 3:45 | 2023-02-19 |  |
 | [Chariots \- Live](https://open.spotify.com/track/0lucLOAYQB0gpxARVqH7Mz) | [Freedom Church](https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh) | [Chariots \(Live\)](https://open.spotify.com/album/219sQ1lUO7Yxg8pFDNIn58) | 6:22 | 2023-02-19 |  |
 | [Clarity](https://open.spotify.com/track/4rJRXfmZ20U2Xp0yIDoLGb) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Clarity](https://open.spotify.com/album/5A77Lh2xcL71y5pLXeBZGC) | 2:35 | 2023-02-19 |  |
@@ -158,12 +158,13 @@
 | [Room In My Heart \- Live](https://open.spotify.com/track/0lAYTLhvqqHEoSwwNQHWoX) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Zo Chilengwe](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [Room In My Heart \(Live\)](https://open.spotify.com/album/4pDAlIbOqFqT5M7F228qJ6) | 4:15 | 2023-02-19 |  |
 | [Ruins](https://open.spotify.com/track/0TSXwxAZe2RaP1jMebwKPQ) | [Mahood](https://open.spotify.com/artist/4Xo4ozqAUlAaSYfwOLuCfB) | [Ruins](https://open.spotify.com/album/4A6OCWqlSYoCLVPXWWNIGY) | 3:48 | 2020-12-18 | 2022-06-29 |
 | [Sabbath](https://open.spotify.com/track/2ly8Ew4ToTagJhwprIenZp) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Watobi](https://open.spotify.com/artist/4STK5DXKwQn86PfOUZYAQj) | [Sabbath](https://open.spotify.com/album/5r6SrB9T6WNULWdkc1U516) | 3:32 | 2023-02-19 |  |
+| [Safe](https://open.spotify.com/track/5ODnTtYMnow1nV6WIdS87j) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Welcome to Alive City](https://open.spotify.com/album/77MfLEjnam9cGd5mCRFqqt) | 3:19 | 2023-02-24 |  |
 | [Safe Place](https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD) | [Pauline Zoe Park](https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T) | [Safe Place](https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx) | 3:31 | 2023-02-19 |  |
 | [Salome & Saint Procula](https://open.spotify.com/track/2zmLBzrcJt2es39J8n98SE) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/3UIUny1GT2hwrj7mn0MdHi) | 4:21 | 2020-12-18 | 2022-07-24 |
 | [Salome & Saint Procula](https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q) | 4:21 | 2020-12-18 | 2023-02-19 |
 | [Saving Me Still](https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Saving Me Still](https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca) | 6:20 | 2020-12-18 | 2023-02-19 |
 | [Scotoma](https://open.spotify.com/track/0QXYZ9DHNY2D3jjkDveTdq) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Scotoma](https://open.spotify.com/album/3D67jo28f5OAlDX3dBgSMv) | 1:57 | 2023-02-20 |  |
-| [shine now](https://open.spotify.com/track/48DIlVS9amxr16u95y2CZd) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [shine now](https://open.spotify.com/album/4t5cWxseHAKq9Cf5sPEZ6x) | 2:50 | 2023-02-19 | 2023-02-23 |
+| [shine now](https://open.spotify.com/track/48DIlVS9amxr16u95y2CZd) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [shine now](https://open.spotify.com/album/4t5cWxseHAKq9Cf5sPEZ6x) | 2:50 | 2023-02-19 |  |
 | [SLEEPIN!](https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [SLEEPIN!](https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P) | 2:40 | 2023-02-19 |  |
 | [Slow Down](https://open.spotify.com/track/0z0jIa4ieoF1U2kMXJRemg) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Slow Down](https://open.spotify.com/album/0R36i2T4Afvy3frSywQ9dy) | 3:07 | 2020-12-18 | 2023-02-19 |
 | [Smell The Roses](https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Smell The Roses](https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f) | 4:13 | 2023-02-19 |  |
@@ -208,7 +209,7 @@
 | [Where To Find Me](https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Where To Find Me](https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb) | 2:18 | 2023-02-19 |  |
 | [Where Would I Be](https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm) | [Seeker & Servant](https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu) | [Leaving Shadowland](https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE) | 3:26 | 2020-12-18 | 2023-02-19 |
 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 | 2023-02-19 |  |
-| [Without Your Love](https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [A.Bishai](https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM) | [Without Your Love](https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC) | 2:59 | 2023-02-19 |  |
+| [Without Your Love](https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [A.Bishai](https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM) | [Without Your Love](https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC) | 2:59 | 2023-02-19 | 2023-02-24 |
 | [World Keeps Spinning](https://open.spotify.com/track/2p5VBF4NTxAIooKRCIMWYj) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [World Keeps Spinning](https://open.spotify.com/album/5FI4Yqy2KTTaijWo2QLg0U) | 5:11 | 2020-12-18 | 2022-07-24 |
 | [Worth It All](https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Worth It All](https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD) | 3:37 | 2020-12-18 | 2023-02-19 |
 | [Wounded Healer](https://open.spotify.com/track/4YsShNqQca2l7F0ycSpZXi) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Wounded Healer](https://open.spotify.com/album/0mdmYWwRjrZwnN6kWlVwFx) | 2:59 | 2023-02-19 |  |

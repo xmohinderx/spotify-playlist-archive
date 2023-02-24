@@ -3496,6 +3496,24 @@
     {
       "album": {
         "name": "Last Path",
+        "url": "https://open.spotify.com/album/6k4WHhBJaf9QdJmbq7QeJK"
+      },
+      "artists": [
+        {
+          "name": "VIQ",
+          "url": "https://open.spotify.com/artist/6XpN8mRlhuOXuvEyva4yjZ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242842,
+      "name": "Last Path",
+      "url": "https://open.spotify.com/track/2Apx7HHXWmBitTwJxOtQV2"
+    },
+    {
+      "album": {
+        "name": "Last Path",
         "url": "https://open.spotify.com/album/2Kk03vlxFYQwv3xH5k3wNC"
       },
       "artists": [
@@ -4728,7 +4746,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 278130,
       "name": "October",
       "url": "https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2"

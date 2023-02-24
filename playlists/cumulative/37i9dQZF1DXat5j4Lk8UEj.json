@@ -712,6 +712,24 @@
     {
       "album": {
         "name": "Elastic Heart",
+        "url": "https://open.spotify.com/album/2pgXrkogTz9L82tULHZekY"
+      },
+      "artists": [
+        {
+          "name": "Longfellow",
+          "url": "https://open.spotify.com/artist/6sn1KjI14lIWWSd3IJm5bU"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257079,
+      "name": "Elastic Heart",
+      "url": "https://open.spotify.com/track/5QUBz8NnN1LfHTckvldMNc"
+    },
+    {
+      "album": {
+        "name": "Elastic Heart",
         "url": "https://open.spotify.com/album/1Y50NzwC91YDY4fqTv3gpC"
       },
       "artists": [
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 272346,
       "name": "Jazz on the Autobahn",
       "url": "https://open.spotify.com/track/39FTmyyxXFvK7yXyyuW9ja"

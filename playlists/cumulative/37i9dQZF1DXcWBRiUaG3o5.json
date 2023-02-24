@@ -344,7 +344,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 268080,
       "name": "Blue Heron",
       "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
@@ -510,6 +510,24 @@
       "duration_ms": 201892,
       "name": "Can't Get My Head Around Loving You - Acoustic Version",
       "url": "https://open.spotify.com/track/3gRWoyZSogGNdef8vlniMC"
+    },
+    {
+      "album": {
+        "name": "Tragedy Reel",
+        "url": "https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM"
+      },
+      "artists": [
+        {
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201028,
+      "name": "Catacombs",
+      "url": "https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O"
     },
     {
       "album": {

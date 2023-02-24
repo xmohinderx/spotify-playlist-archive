@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 
 > Roger Eno continues The Classical Takeover with his selection of "Warm Music for a Cold Season"
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,272 likes - 45 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,320 likes - 45 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 | 20 | [And So](https://open.spotify.com/track/0tUEnHQb0E7jROOmaMjgC8) | [Caroline Shaw](https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C), [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF) | [Caroline Shaw: Evergreen](https://open.spotify.com/album/56FoV6hfV406kfsALlu5W5) | 5:06 |
 | 21 | [King of Birds](https://open.spotify.com/track/5BtONucE6QcBhNvoP8EgwG) | [Karine Polwart](https://open.spotify.com/artist/5WS3dnCZR6MuN6m3dTMuwF) | [Traces](https://open.spotify.com/album/4Dy9hwhCPjvE3PCuPg9Si2) | 4:16 |
 | 22 | [Requiem in D Minor, K\. 626: 1\. Introitus: Requiem \- Live](https://open.spotify.com/track/3V4FF9d8nBWfFR3fJ8uXEp) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Karita Mattila](https://open.spotify.com/artist/4M4iRyyLAlSbnDKOuldXIF), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Claudio Abbado](https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP), [Swedish Radio Choir](https://open.spotify.com/artist/1A9umzen6B9Shk2spCzR9y), [Kay Johannsen](https://open.spotify.com/artist/47YXE8kwtR1YCZ47SqsNXd) | [Mozart: Requiem](https://open.spotify.com/album/09ZGdaL9F1eSqKS8U9sKFt) | 4:31 |
-| 23 | [The Unfolding](https://open.spotify.com/track/7kZWl6yV9WYnGD6OTQS7GH) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o), [Paraorchestra](https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm) | [The Unfolding](https://open.spotify.com/album/7wxd4u4qDhBamLFUUp4J2H) | 5:47 |
+| 23 | [The Unfolding](https://open.spotify.com/track/7BKOFg8gQm0pMMPrKyrvd2) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o), [Paraorchestra](https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm) | [The Unfolding](https://open.spotify.com/album/17VZ1IVAxBYtoWCvQSKrch) | 5:47 |
 | 24 | [Jesus' Blood Never Failed Me Yet](https://open.spotify.com/track/5TZZ1FqSZhWpLjUapdpG35) | [Gavin Bryars](https://open.spotify.com/artist/0lVWTWT1YdiNwuW9Gv3mUF) | [Bryars: Jesus' Blood Never Failed Me Yet](https://open.spotify.com/album/2HhyL4w54DewA4E7hyofOE) | 26:02 |
 | 25 | [Homo fugit velut umbra \(Passacaglia della Vita\)](https://open.spotify.com/track/6HlgWGTW11mf3SDmIGqzss) | [Stefano Landi](https://open.spotify.com/artist/5838e3CrmiYomHCQUiZOSP), [L'Arpeggiata](https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ), [Christina Pluhar](https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ) | [L'Arpeggiata, Christina Pluhar: The Complete Alpha Recordings](https://open.spotify.com/album/2TnwfMgIz41Q9WNuuzJMOT) | 4:17 |
 | 26 | [Ne Cede Mella](https://open.spotify.com/track/79fOgoE6bulDWnN3ZaQcos) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Lost In Translation](https://open.spotify.com/album/5Dd3SCxevq5RthFAdUrzg0) | 3:24 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 | 44 | [Song To The Siren \- Remastered](https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:31 |
 | 45 | [Figures in the Garden: IV\. Barbarina Alone](https://open.spotify.com/track/0Qf8Chc242t3OXtjiK49FE) | [Jonathan Dove](https://open.spotify.com/artist/0sdCVT40NVs1qzsPTUbtjK), [Members of the Orchestra of the Age of Enlightenment](https://open.spotify.com/artist/6nvw6kPgpxJT2jYyRbF9bp), [Antony Pay](https://open.spotify.com/artist/5wj8PisRqzqnRWdYXhOHRT) | [The Very Best of Glyndebourne on Record](https://open.spotify.com/album/1q0kovRylFHvHhkApZzgYm) | 2:18 |
 
-Snapshot ID: `MTY3MzAwNDUwMCwwMDAwMDAwMDU5ZDM2YjhmNjhkMjU2ZTIxODU0YWRhNjUxYzYzODBi`
+Snapshot ID: `MTY3MzAwNDUwMCwwMDAwMDAwMGQzNjU2YzdjNTQyODExMjQyNzM5MTlkNGJjZWQ3ZWI4`

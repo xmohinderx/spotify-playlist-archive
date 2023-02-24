@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 109358,
+  "num_followers": 109414,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMGIwZDU2NjFkOGI5YTEzMTk3YWE3YzdkN2ZhZjcyMWVl",
+  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDIyYmZmNWRkYzg1ODY4ZjI2NGVmNzRhM2NiOWY1OThk",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -255,18 +255,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+        "name": "No Hay Imposibles",
+        "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
+      "duration_ms": 263666,
+      "name": "Me Enamor\u00e9 de Ti",
+      "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -287,18 +287,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "No Hay Imposibles",
-        "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 263666,
-      "name": "Me Enamor\u00e9 de Ti",
-      "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
+      "duration_ms": 171000,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Entre El Amor Y Yo",
+        "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Me Voy a Quitar de en Medio",
+      "url": "https://open.spotify.com/track/2kgUPa3UUnHIUfySDkg2bm"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Rom\u00e1ntico Desliz",
         "url": "https://open.spotify.com/album/6UlH9VLq1S6TJtY0xojINt"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 203906,
       "name": "La Descarada",
       "url": "https://open.spotify.com/track/0GXGsFQeB1x5H21xjTF2j5"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Entre El Amor Y Yo",
-        "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Me Voy a Quitar de en Medio",
-      "url": "https://open.spotify.com/track/2kgUPa3UUnHIUfySDkg2bm"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/16xce8lPlKNdhbPbJFxMne"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 229194,
+      "name": "Por Amarte (Destilando Amor)",
+      "url": "https://open.spotify.com/track/3EVVkNVaZoEwS2C4xntDJX"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Desequilibrio",
         "url": "https://open.spotify.com/album/1HqNCyE4T5lD1R1CYnE4Se"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 182720,
       "name": "Mi Coraz\u00f3n Es Tuyo",
       "url": "https://open.spotify.com/track/1ITcEqIHJwRU1oTBz4M0uE"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/16xce8lPlKNdhbPbJFxMne"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 229194,
-      "name": "Por Amarte (Destilando Amor)",
-      "url": "https://open.spotify.com/track/3EVVkNVaZoEwS2C4xntDJX"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Lo Esencial de Belinda",
-        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3mplices",
-          "url": "https://open.spotify.com/artist/0jInV5FX8JnkgYo5yZt6JK"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "El Baile del Sapito",
-      "url": "https://open.spotify.com/track/6EQ18D8PPgzGGr8WusMDKy"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Luis Miguel (Edici\u00f3n De Lujo)",
         "url": "https://open.spotify.com/album/3MpbAt21ozNGRmmLCmP2ed"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 175013,
       "name": "Tres palabras",
       "url": "https://open.spotify.com/track/67HOYnFs2hqbKKRNz0YfY8"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Lo Esencial de Belinda",
+        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3mplices",
+          "url": "https://open.spotify.com/artist/0jInV5FX8JnkgYo5yZt6JK"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "El Baile del Sapito",
+      "url": "https://open.spotify.com/track/6EQ18D8PPgzGGr8WusMDKy"
     },
     {
       "added_at": "2022-05-06 18:32:26",

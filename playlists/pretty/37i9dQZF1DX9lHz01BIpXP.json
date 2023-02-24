@@ -1,13 +1,29 @@
 {
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=fvnHAKwCQ-u8gnmqQaUJ8A\">Loufi</a>\n",
-  "num_followers": 621,
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=cbp-s6maTIy6umdmoRunFQ\">Jack Parow</a>\n",
+  "num_followers": 627,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4NDc0MCwwMDAwMDAwMDYwNmM5MGVjNjM1NWQ3NTBlNTk2YTY4NWZhYjBlZTk0",
+  "snapshot_id": "MTY3NzE4OTU0MCwwMDAwMDAwMGZlODRkNjI2NzBmNGI2NjgwOWM3NzVmMGU4YjA5MmRm",
   "tracks": [
+    {
+      "added_at": "2023-02-23 21:59:00",
+      "album": {
+        "name": "Die Evangelie Van Goeie Tye",
+        "url": "https://open.spotify.com/album/1vKQJRx5BOWeiFZ1zXVp13"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "duration_ms": 201023,
+      "name": "Neus Breek",
+      "url": "https://open.spotify.com/track/2JxD0YQCAaGMSTqR1ColGD"
+    },
     {
       "added_at": "2023-01-27 11:30:47",
       "album": {
@@ -85,22 +101,6 @@
       "url": "https://open.spotify.com/track/1c2tsesE4APsc5mUwMt4D2"
     },
     {
-      "added_at": "2022-12-02 06:33:49",
-      "album": {
-        "name": "Skattie",
-        "url": "https://open.spotify.com/album/3cBDPIVFjgVWomuGm8fFQq"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        }
-      ],
-      "duration_ms": 193834,
-      "name": "Skattie",
-      "url": "https://open.spotify.com/track/6SN8hJGOuVe4pPEUtXecHr"
-    },
-    {
       "added_at": "2023-02-09 21:59:00",
       "album": {
         "name": "Is Ekke Man",
@@ -137,20 +137,20 @@
       "url": "https://open.spotify.com/track/3Lyk4X2mZp1BbmzTG9sqmg"
     },
     {
-      "added_at": "2022-12-01 21:59:00",
+      "added_at": "2023-02-23 21:59:00",
       "album": {
-        "name": "Smooth",
-        "url": "https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq"
+        "name": "Wie",
+        "url": "https://open.spotify.com/album/2oVKdhq3UUbHCoh7mCmJhk"
       },
       "artists": [
         {
-          "name": "Harry CBY",
-          "url": "https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l"
+          "name": "Young Midi",
+          "url": "https://open.spotify.com/artist/4NQRYP8Shjn1eA4Ic0iTk4"
         }
       ],
-      "duration_ms": 169062,
-      "name": "Smooth",
-      "url": "https://open.spotify.com/track/7oovNehysT0pyWphC78mnH"
+      "duration_ms": 117894,
+      "name": "Wie",
+      "url": "https://open.spotify.com/track/0O8LcMl314edgLVPCnT9OZ"
     },
     {
       "added_at": "2022-12-01 21:59:00",
@@ -189,6 +189,22 @@
       "url": "https://open.spotify.com/track/4V3i57trY95kxR28rEgMaw"
     },
     {
+      "added_at": "2022-12-02 06:33:49",
+      "album": {
+        "name": "Skattie",
+        "url": "https://open.spotify.com/album/3cBDPIVFjgVWomuGm8fFQq"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "duration_ms": 193834,
+      "name": "Skattie",
+      "url": "https://open.spotify.com/track/6SN8hJGOuVe4pPEUtXecHr"
+    },
+    {
       "added_at": "2022-09-08 21:59:00",
       "album": {
         "name": "Grammadoelas",
@@ -223,6 +239,22 @@
       "duration_ms": 330031,
       "name": "Passion Vir Die Game",
       "url": "https://open.spotify.com/track/5Bn47hs1QD5eByG6g11cKS"
+    },
+    {
+      "added_at": "2022-12-01 21:59:00",
+      "album": {
+        "name": "Smooth",
+        "url": "https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq"
+      },
+      "artists": [
+        {
+          "name": "Harry CBY",
+          "url": "https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l"
+        }
+      ],
+      "duration_ms": 169062,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/7oovNehysT0pyWphC78mnH"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -279,22 +311,6 @@
       "duration_ms": 309003,
       "name": "Is Dope",
       "url": "https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL"
-    },
-    {
-      "added_at": "2022-12-01 21:59:00",
-      "album": {
-        "name": "WUTJAINJILLE",
-        "url": "https://open.spotify.com/album/4aza6nbvvOP3SPWK5NKOhL"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo 7945",
-          "url": "https://open.spotify.com/artist/42kYVWWbrUVyhsCWzxKwVp"
-        }
-      ],
-      "duration_ms": 172434,
-      "name": "WUTJAINJILLE",
-      "url": "https://open.spotify.com/track/6xWKj3N3die6nrCtv6WZiS"
     },
     {
       "added_at": "2022-09-08 21:59:00",
@@ -791,30 +807,6 @@
       "duration_ms": 255000,
       "name": "Innie Boland",
       "url": "https://open.spotify.com/track/41BvgzRpKygcNw4WPveCk7"
-    },
-    {
-      "added_at": "2022-12-01 21:59:00",
-      "album": {
-        "name": "Bru",
-        "url": "https://open.spotify.com/album/6RirppwJmnR5e0PTghCull"
-      },
-      "artists": [
-        {
-          "name": "BRU",
-          "url": "https://open.spotify.com/artist/5BZSMHMX8U0s2uLdutE8Sv"
-        },
-        {
-          "name": "Isaac Mutant",
-          "url": "https://open.spotify.com/artist/76VLsNwSomCEFiV6Va9PgX"
-        },
-        {
-          "name": "Baze",
-          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
-        }
-      ],
-      "duration_ms": 266486,
-      "name": "Bring the Noise",
-      "url": "https://open.spotify.com/track/6e3FJoRmqAQF76x4o3BYjn"
     },
     {
       "added_at": "2022-09-08 21:59:00",

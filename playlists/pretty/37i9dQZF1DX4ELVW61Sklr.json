@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 169387,
+  "num_followers": 169376,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2OTg0MywwMDAwMDAwMDhjZTgxYmE5OTE3ZWU1Zjc3YTFiMDBkYjQzZGIwNzJm",
+  "snapshot_id": "MTY3MTE2OTg0MywwMDAwMDAwMGI3NjgxZGY2NjhiMzJhMjQxNTA2M2IzNWQxNGVlMmI1",
   "tracks": [
     {
       "added_at": "2022-11-25 20:23:30",
@@ -933,26 +933,6 @@
       "url": "https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH"
     },
     {
-      "added_at": "2022-12-12 18:18:20",
-      "album": {
-        "name": "Home For The Holidays Vol. 2",
-        "url": "https://open.spotify.com/album/2Izcmsu37OSeXzSQE9C0ev"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 237393,
-      "name": "Might As Well Have Coal (with Baby Tate)",
-      "url": "https://open.spotify.com/track/7JbdnRGVDw8eJimk6jtdOh"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Def The Halls",
@@ -967,6 +947,22 @@
       "duration_ms": 214183,
       "name": "Wrap Me Up",
       "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Another Kind Of Christmas",
+        "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 202007,
+      "name": "Just Ain't Christmas",
+      "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -987,22 +983,6 @@
       "duration_ms": 257399,
       "name": "Be Mine For Christmas",
       "url": "https://open.spotify.com/track/62wRKfwOB7pyoFgX4ohQBB"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Another Kind Of Christmas",
-        "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 202007,
-      "name": "Just Ain't Christmas",
-      "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1339,6 +1319,22 @@
       "duration_ms": 296255,
       "name": "Mary Did You Know",
       "url": "https://open.spotify.com/track/4YxMSxRKT1ILmi4c0IzvIJ"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Still Home For The Holidays",
+        "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 275902,
+      "name": "Chimney [from Still Home For The Holidays (An R&B Christmas Album)]",
+      "url": "https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP"
     }
   ],
   "unique_name": "R&B Christmas",

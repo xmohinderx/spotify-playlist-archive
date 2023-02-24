@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x?si=HpcPKFgZTCGB17-R5wcMMA\"> BNXN </a> , <a href=\"https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV?si=hMNNbEARRbqf15dmv5CSwA\"> Kizz Daniel</a>  and <a href=\"https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx?si=6vGX5Gp2QSupxDiqFCD7Jw\"> Seyi Vibez</a>",
-  "num_followers": 46167,
+  "num_followers": 46282,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMGVjODM1NjAyNDUzYWY5NGIxYTQ5MTYzYzg2NTIxOGNj",
+  "snapshot_id": "MTY3NzE5MzAwNiwwMDAwMDAwMDZiZTA2NjlhYmY2NmZjNWUyZTA4MTQzMjMyODJiODY0",
   "tracks": [
     {
       "added_at": "2023-02-16 23:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-01-27 07:54:25",
       "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
-    },
-    {
-      "added_at": "2023-01-27 07:54:25",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -283,6 +267,26 @@
       "duration_ms": 174545,
       "name": "understand",
       "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
+    },
+    {
+      "added_at": "2023-01-27 07:54:25",
+      "album": {
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 178225,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
     },
     {
       "added_at": "2023-01-27 09:35:56",
@@ -311,22 +315,18 @@
     {
       "added_at": "2023-01-27 07:54:25",
       "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 178225,
-      "name": "Bandana",
-      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+      "duration_ms": 169411,
+      "name": "Damages",
+      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -391,22 +391,6 @@
       "duration_ms": 123716,
       "name": "Organise",
       "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
-    },
-    {
-      "added_at": "2023-01-27 07:54:25",
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Damages",
-      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
     },
     {
       "added_at": "2023-01-27 07:54:25",
@@ -747,22 +731,6 @@
     {
       "added_at": "2023-01-27 07:54:25",
       "album": {
-        "name": "Traboski",
-        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155860,
-      "name": "Traboski",
-      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
-    },
-    {
-      "added_at": "2023-01-27 07:54:25",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -775,6 +743,22 @@
       "duration_ms": 168742,
       "name": "woman",
       "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2023-01-27 07:54:25",
+      "album": {
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
     },
     {
       "added_at": "2023-01-27 07:54:25",
@@ -865,6 +849,26 @@
       "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
     },
     {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Currency",
+        "url": "https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 178144,
+      "name": "Currency",
+      "url": "https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI"
+    },
+    {
       "added_at": "2023-01-27 07:54:25",
       "album": {
         "name": "Bad Since '97",
@@ -895,26 +899,6 @@
       "duration_ms": 143452,
       "name": "Personal",
       "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "Currency",
-        "url": "https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 178144,
-      "name": "Currency",
-      "url": "https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI"
     },
     {
       "added_at": "2023-01-27 07:54:25",
@@ -1055,26 +1039,6 @@
     {
       "added_at": "2023-01-27 07:54:25",
       "album": {
-        "name": "Ojemba",
-        "url": "https://open.spotify.com/album/1UDK8dfDpF5WmhS3d8POZM"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 177250,
-      "name": "Ojemba",
-      "url": "https://open.spotify.com/track/4zqWVvzrPDFQmTH8lkeU5p"
-    },
-    {
-      "added_at": "2023-01-27 07:54:25",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
       },
@@ -1197,6 +1161,34 @@
       "url": "https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0"
     },
     {
+      "added_at": "2023-02-24 00:09:34",
+      "album": {
+        "name": "Abracadabra (Remix)",
+        "url": "https://open.spotify.com/album/6YMeH1rG1CtkXvv9zKI7f3"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 172062,
+      "name": "Abracadabra - Remix",
+      "url": "https://open.spotify.com/track/7CDmOoIXrtknQN5zcpHRBr"
+    },
+    {
       "added_at": "2023-01-27 07:54:25",
       "album": {
         "name": "Holy Father",
@@ -1235,22 +1227,6 @@
       "duration_ms": 171921,
       "name": "Astalavista",
       "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
-    },
-    {
-      "added_at": "2023-01-27 07:54:25",
-      "album": {
-        "name": "Rora",
-        "url": "https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 149812,
-      "name": "Rora",
-      "url": "https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY"
     },
     {
       "added_at": "2023-01-27 07:54:25",
@@ -1297,22 +1273,6 @@
       "url": "https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz"
     },
     {
-      "added_at": "2023-01-27 07:54:25",
-      "album": {
-        "name": "Hypertension / Things I Need",
-        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "Hypertension",
-      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
-    },
-    {
       "added_at": "2023-02-16 23:00:00",
       "album": {
         "name": "Clueless (with Oxlade)",
@@ -1331,6 +1291,38 @@
       "duration_ms": 164705,
       "name": "Clueless (with Oxlade)",
       "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
+    },
+    {
+      "added_at": "2023-01-27 07:54:25",
+      "album": {
+        "name": "Hypertension / Things I Need",
+        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "Hypertension",
+      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
+    },
+    {
+      "added_at": "2023-01-27 07:54:25",
+      "album": {
+        "name": "LEADER!",
+        "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 141711,
+      "name": "LEADER!",
+      "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
     },
     {
       "added_at": "2023-01-27 07:54:25",
@@ -1359,42 +1351,6 @@
       "duration_ms": 206315,
       "name": "Maitama (Going)",
       "url": "https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ"
-    },
-    {
-      "added_at": "2023-01-27 07:54:25",
-      "album": {
-        "name": "LEADER!",
-        "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 141711,
-      "name": "LEADER!",
-      "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "Continental Playlist",
-        "url": "https://open.spotify.com/album/1dwyrQj4JyTf4uUr1Y1nuQ"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 163653,
-      "name": "Tight Condition",
-      "url": "https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI"
     },
     {
       "added_at": "2023-01-27 07:54:25",
@@ -1471,42 +1427,86 @@
     {
       "added_at": "2023-01-27 07:54:25",
       "album": {
-        "name": "Rum & Boogie",
-        "url": "https://open.spotify.com/album/0XVVlqghvytvnjjIeZakYC"
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/3y0yjUEuag7X0HQSc4aqDF"
       },
       "artists": [
         {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
         },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 210048,
-      "name": "Southy Love",
-      "url": "https://open.spotify.com/track/06mcgnr3eJ8cF8ed0WfdPA"
+      "duration_ms": 176283,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/1yz6NJ6hXpVvaRbllgXQpI"
     },
     {
       "added_at": "2023-01-27 07:54:25",
       "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
+        "name": "Love is Not Enough",
+        "url": "https://open.spotify.com/album/4tCH2crJruCSAnwVHO1vJZ"
       },
       "artists": [
         {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 176842,
-      "name": "The Love Song (feat. Wande Coal)",
-      "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
+      "duration_ms": 151665,
+      "name": "Normally",
+      "url": "https://open.spotify.com/track/2VA1XsvSN6H60KZSEvf9Bt"
+    },
+    {
+      "added_at": "2023-02-03 09:26:49",
+      "album": {
+        "name": "Escapade",
+        "url": "https://open.spotify.com/album/5Crdlhgl0QFmuOGxfTvjke"
+      },
+      "artists": [
+        {
+          "name": "Novemba",
+          "url": "https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/2syWCWxrwfqBqBLKMRCb1N"
+    },
+    {
+      "added_at": "2023-01-27 07:54:25",
+      "album": {
+        "name": "New Born Fela",
+        "url": "https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 129807,
+      "name": "New Born Fela",
+      "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "To Be Continued",
+        "url": "https://open.spotify.com/album/5JUyDnxDlHqr5iiJFOZRnm"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/3XcSFDEcdE6vlQzY6CKWkF"
     }
   ],
   "unique_name": "Gbedu",

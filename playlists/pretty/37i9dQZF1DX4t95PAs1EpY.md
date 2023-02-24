@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,415 likes - 239 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,582 likes - 239 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 95 | [Without You](https://open.spotify.com/track/5YmEUcCSx4MgdonQAQYdw3) | [ghost talk](https://open.spotify.com/artist/63vxoykPG9d9640xdt86KB), [User67](https://open.spotify.com/artist/07cqYCAhK2tVhD6JKkWAIS) | [Without You](https://open.spotify.com/album/3yahRCCjwYLF6yyd15XH8d) | 2:08 |
 | 96 | [Pizogi](https://open.spotify.com/track/13VfNj6MtlTyqEOsm3LWBq) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Solsken](https://open.spotify.com/album/2JzhBFTPswo8Xzv48mSn6G) | 2:42 |
 | 97 | [Until Dawn](https://open.spotify.com/track/64qL1d3aSX0QMZRWf29zy4) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Until Dawn](https://open.spotify.com/album/7akmB3n9nOEkHn48cTZWkI) | 2:26 |
-| 98 | [Exhibit A](https://open.spotify.com/track/7eSGgkpKap0NkmcsyX9DbN) | [Divine Stacks](https://open.spotify.com/artist/3gxhMzrCpxtLnUvLo1bEQC) | [Pellegrino](https://open.spotify.com/album/0UHLq4m23c1rspMr8rsqHe) | 2:09 |
+| 98 | [Exhibit A](https://open.spotify.com/track/7eSGgkpKap0NkmcsyX9DbN) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Pellegrino](https://open.spotify.com/album/0UHLq4m23c1rspMr8rsqHe) | 2:09 |
 | 99 | [Come The Money](https://open.spotify.com/track/5yO3E2n5bHBeRir4URHOtG) | [Chuck Morrison](https://open.spotify.com/artist/6m3viXMwlZLZFKL8EQsDnB) | [Come The Money](https://open.spotify.com/album/2BhirANPh4QcvnH0F98mPT) | 2:12 |
 | 100 | [moss](https://open.spotify.com/track/0O33Eb3LtTPdqwNOfJIyOR) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 1:55 |
 | 101 | [Bumblebees](https://open.spotify.com/track/09mvIzJdvDPEkt7NKigZbd) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Bumblebees](https://open.spotify.com/album/5RKDrF5Nma8osfAstzZXKY) | 3:15 |

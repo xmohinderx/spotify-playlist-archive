@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Lin Rountree
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,711 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,767 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 15 | [Summer Solstice](https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY) | [Anthony Island](https://open.spotify.com/artist/16Qk6lelYJUiCbuZQAPm7v), [Pete Dingon](https://open.spotify.com/artist/5lZnAbDvhOcVlcdIV7ajzC) | [Summer Solstice](https://open.spotify.com/album/3RjqIXF2BUrwBrCwd7kZYz) | 3:20 |
 | 16 | [All Love](https://open.spotify.com/track/7jZ0n3hGirxUYCr8Zm3QFh) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [All Love](https://open.spotify.com/album/5BAHMxR5mzhEHy4WspShc8) | 3:12 |
 | 17 | [Step into Love](https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [The Trilogy, Pt\. 3: White](https://open.spotify.com/album/5JOp5nvHOvF3jLQ0MaidMh) | 5:08 |
-| 18 | [Lean Into It](https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE) | [Andrew Neu](https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF) | [Lean Into It](https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN) | 4:24 |
-| 19 | [Jazz Party](https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Jazz Party](https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL) | 4:47 |
+| 18 | [Jazz Party](https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Jazz Party](https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL) | 4:47 |
+| 19 | [Lean Into It](https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE) | [Andrew Neu](https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF) | [Lean Into It](https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN) | 4:24 |
 | 20 | [Catalina Nights](https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Catalina Nights](https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97) | 4:04 |
 | 21 | [Another Day In Paradise](https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Another Day In Paradise](https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn) | 4:35 |
 | 22 | [Deep Into You](https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Deep Into You](https://open.spotify.com/album/0N4DaL3j9Awcu941nalsE4) | 4:10 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 29 | [Stride](https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg) | [Eric Essix](https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp) | [Stride](https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF) | 4:14 |
 | 30 | [Step to This](https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Step to This](https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM) | 3:52 |
 | 31 | [Movin' N Groovin](https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5), [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Movin' N Groovin](https://open.spotify.com/album/5mPrwquK15wRc4rvYBZ8gd) | 4:24 |
-| 32 | [Unspeakable](https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA) | [Sam Rucker](https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE) | [Unspeakable](https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U) | 3:46 |
-| 33 | [Secret Sauce](https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Promised Land](https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM) | 4:00 |
-| 34 | [Foolish Heart](https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq) | [Johnny James Dr J](https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ) | [Foolish Heart](https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj) | 3:37 |
+| 32 | [Secret Sauce](https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Promised Land](https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM) | 4:00 |
+| 33 | [Foolish Heart](https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq) | [Johnny James Dr J](https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ) | [Foolish Heart](https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj) | 3:37 |
+| 34 | [Unspeakable](https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA) | [Sam Rucker](https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE) | [Unspeakable](https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U) | 3:46 |
 | 35 | [Off The Top \- radio single](https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Off The Top](https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a) | 4:19 |
 | 36 | [Sweet Talk](https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Sweet Talk](https://open.spotify.com/album/5EUUo76pUrle56LBRx17N2) | 4:04 |
 | 37 | [G\-Wiggle](https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream 2\-Turn It Up](https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8) | 4:30 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 47 | [Change the World](https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Simple Things](https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X) | 3:44 |
 | 48 | [Summertime in Nyc \(Instrumental Mix\)](https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Summertime in Nyc \(Instrumental Mix\)](https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0) | 3:30 |
 | 49 | [Savoir Faire](https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Savoir Faire](https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp) | 5:18 |
-| 50 | [Chicago Morning](https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb) | [Spontaneous Groovin' Combustion](https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5) | [Chicago Morning](https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N) | 4:20 |
+| 50 | [Busta Move](https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [SOLO](https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA) | 4:34 |
 
-Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMGViYTRlMTRmYjU1MzE4NmIzYmVlYTExOGQzM2FkZjg4`
+Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDQ2NDFjYmQ1ODY4ZmZmMWIyODFlMzQxM2JiZDE5OTM4`

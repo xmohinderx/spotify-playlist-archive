@@ -4,7 +4,7 @@
 
 > Keeping the party going w/ Designer, LaQuan Smith for \#NYFW
 
-457 songs - 1 day 3 hr 46 min
+458 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,8 @@
 | [THIQUE](https://open.spotify.com/track/1LCm0lFnEsxR2oPqyHLGX9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:04 | 2022-09-03 | 2022-10-26 |
 | [thought i was playing](https://open.spotify.com/track/5dqeWGM9sqLd5bZhyBikrZ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:47 | 2022-10-25 | 2022-12-02 |
 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 | 2022-01-28 | 2022-04-09 |
-| [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 | 2023-02-13 |  |
+| [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 | 2023-02-13 |  |
+| [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 | 2023-02-13 | 2023-02-24 |
 | [Took The Night](https://open.spotify.com/track/0nrcBf21XEcXy8QesYxPfT) | [Chelley](https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8) | [Took The Night \(Clean\)](https://open.spotify.com/album/06CdpvrAbycm2DsPsn0Z0t) | 3:54 | 2023-02-13 |  |
 | [Touch Your Button Carnival Jam \(feat\. will.i.am & Melissa Jimenez, feat\. Machel Montano, Daniela Mercury, Black Alex & Djakout Mizik\)](https://open.spotify.com/track/0RqlafGxDq1kZGWKvLVWd5) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Melissa Jimenez](https://open.spotify.com/artist/1nNADjkJmLkLPnDAzUV612), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg), [Black Alex](https://open.spotify.com/artist/4h9F4B1Fwa5WuSEJy1ene9), [Djakout Mizik](https://open.spotify.com/artist/6V5n3LkJ2sTG6PfvnSjRPe) | [CARNIVAL VOL\. II...Memoirs of an Immigrant](https://open.spotify.com/album/5FFt6Eps1jva0X0nbsTSAH) | 13:29 | 2022-05-27 | 2022-08-25 |
 | [Township Funk](https://open.spotify.com/track/32bk6u6Pbe2cotvyKJgrP0) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/3luAwCNNb1nLAwq2oMUhJi) | 5:49 | 2022-05-27 | 2022-08-25 |

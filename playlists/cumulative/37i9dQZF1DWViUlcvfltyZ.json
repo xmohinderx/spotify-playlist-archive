@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. In cover, i Barkee Bay!",
+  "description": "La playlist che \u00e8 come andare ai concerti. In cover, le Bambole di Pezza!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "AMERICA",
+        "url": "https://open.spotify.com/album/24ottTrnTzbGEDpomgejEh"
+      },
+      "artists": [
+        {
+          "name": "I Boschi Bruciano",
+          "url": "https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187480,
+      "name": "AMERICA",
+      "url": "https://open.spotify.com/track/1KkPmyuTNbxjhylVrhoMKp"
+    },
+    {
+      "album": {
         "name": "Canzoni da odiare",
         "url": "https://open.spotify.com/album/4i3LslAd4jo5F3tFCQ7CYd"
       },
@@ -492,7 +510,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 150000,
       "name": "Barman",
       "url": "https://open.spotify.com/track/5IyY5hticbnFBR5ztmZ7cV"
@@ -906,7 +924,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 186763,
       "name": "Capannone",
       "url": "https://open.spotify.com/track/2O8iMn5Ix5QMk0eyMDfRFg"
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 253400,
       "name": "Castelli in Aria",
       "url": "https://open.spotify.com/track/5N8gGAxV3wP56aTXiFpqO9"
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 152768,
       "name": "Chi lo decide chi siamo?",
       "url": "https://open.spotify.com/track/03sZbzvfpwP6biNYJKXIjI"
@@ -1812,7 +1830,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 173039,
       "name": "Everybody Loves Sad Songs",
       "url": "https://open.spotify.com/track/2MOeboWxYSIDyiADtW4YjE"
@@ -2018,6 +2036,32 @@
       "duration_ms": 163940,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0QCYEkX0MfJkvVEOr6Up08"
+    },
+    {
+      "album": {
+        "name": "RAGAZZAcd",
+        "url": "https://open.spotify.com/album/5biGGXXcg1SwYrzq5aeH15"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Baronciani",
+          "url": "https://open.spotify.com/artist/7pLL31FfCScLXL47auT67u"
+        },
+        {
+          "name": "RAGAZZAcd",
+          "url": "https://open.spotify.com/artist/6lTvJHqB7bNnL7YCmeFNQp"
+        },
+        {
+          "name": "Giungla",
+          "url": "https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199145,
+      "name": "Fragili",
+      "url": "https://open.spotify.com/track/7d322WMHpY6G4GHV6bas2Y"
     },
     {
       "album": {
@@ -2353,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "I.KNOW.YOU.KNOW.IT.",
+        "url": "https://open.spotify.com/album/3nVkK5RaSLXYld21Z4t9re"
+      },
+      "artists": [
+        {
+          "name": "Indigo Quest",
+          "url": "https://open.spotify.com/artist/5faxdMwaZrv6bLYLWHhbrf"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187206,
+      "name": "I.KNOW.YOU.KNOW.IT.",
+      "url": "https://open.spotify.com/track/7u14JXY85GbajBwcFPWbxD"
+    },
+    {
+      "album": {
         "name": "Ice Age",
         "url": "https://open.spotify.com/album/0q1EYVfZLHtFLE4sUVQ8Kg"
       },
@@ -2596,6 +2658,24 @@
       "duration_ms": 250106,
       "name": "Io me ne sto fermo ad aspettare",
       "url": "https://open.spotify.com/track/0TmzVdDz05521DzSKJst6v"
+    },
+    {
+      "album": {
+        "name": "It Will Be Nice",
+        "url": "https://open.spotify.com/album/2EDtRxAaULZ02Gi2r3Qh0d"
+      },
+      "artists": [
+        {
+          "name": "Black And Blue Radio",
+          "url": "https://open.spotify.com/artist/2RapILNg5CtoAEe8bYtGPP"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155289,
+      "name": "It Will Be Nice",
+      "url": "https://open.spotify.com/track/2wjBjguEcbLgjwiRkmrGcx"
     },
     {
       "album": {
@@ -2904,6 +2984,24 @@
       "duration_ms": 186666,
       "name": "Libellula",
       "url": "https://open.spotify.com/track/0XbO1VbFRlFlycqvnaNuYn"
+    },
+    {
+      "album": {
+        "name": "Libera (esseri umani perfetti)",
+        "url": "https://open.spotify.com/album/4dTODDZeNDbKIsAWutEln2"
+      },
+      "artists": [
+        {
+          "name": "\u2044handlogic",
+          "url": "https://open.spotify.com/artist/0Fke9julMOJ0HZ1UhCoe9Z"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407262,
+      "name": "Libera (esseri umani perfetti)",
+      "url": "https://open.spotify.com/track/2l5ym1CsjSg10FapXRbdkz"
     },
     {
       "album": {
@@ -4404,7 +4502,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 197836,
       "name": "Sexy solitudini",
       "url": "https://open.spotify.com/track/34WPnL7WsZfAlTc2CoX9dh"
@@ -4664,7 +4762,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 329386,
       "name": "Stasi",
       "url": "https://open.spotify.com/track/4D2n8bGDt0QajFrUiWMMDD"
@@ -5134,7 +5232,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 214812,
       "name": "Trasloco",
       "url": "https://open.spotify.com/track/5A920VhoFqzQJE3E3aXxNg"
@@ -5156,6 +5254,24 @@
       "duration_ms": 187500,
       "name": "Trieste",
       "url": "https://open.spotify.com/track/6QUSKBtEtHK1cC8yW1TkOu"
+    },
+    {
+      "album": {
+        "name": "Turning",
+        "url": "https://open.spotify.com/album/3aVW4CAdWU21Dzng8BG12W"
+      },
+      "artists": [
+        {
+          "name": "Persian Pelican",
+          "url": "https://open.spotify.com/artist/70dQpFGaNGdeDMfFSn9hOG"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207919,
+      "name": "Turning",
+      "url": "https://open.spotify.com/track/0bPM2PUtNUeAuxl5fG26s7"
     },
     {
       "album": {
@@ -5358,6 +5474,24 @@
       "duration_ms": 223360,
       "name": "Valichi, Oltre",
       "url": "https://open.spotify.com/track/5H16YC9eVKmvZimkNe7T38"
+    },
+    {
+      "album": {
+        "name": "Vaslin",
+        "url": "https://open.spotify.com/album/7k3bc04BjVRbGwaZmAfxgL"
+      },
+      "artists": [
+        {
+          "name": "Krano",
+          "url": "https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246600,
+      "name": "Vaslin",
+      "url": "https://open.spotify.com/track/1KgP3b2yEzwxDNVIRwzLOu"
     },
     {
       "album": {

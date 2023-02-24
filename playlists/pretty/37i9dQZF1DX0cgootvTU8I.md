@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,615 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,661 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 6 | [Ringa Ringa \(The Old Pandemic Folk Song\) \[feat\. The Mediaeval Baebes\] \- Breakage Remix](https://open.spotify.com/track/0FVVU7Ok63VQCOrVOefhQW) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Mediæval Bæbes](https://open.spotify.com/artist/1vQmLYgD92RwmsfHqTwjmQ), [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Ringa Ringa \(The Old Pandemic Folk Song\) \[Breakage Remix\]](https://open.spotify.com/album/1DQbuba1bTaOfSqryD1Q0M) | 3:04 |
 | 7 | [Vérité](https://open.spotify.com/track/35IlONRZh770GBVlnU1lc9) | [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Vérité](https://open.spotify.com/album/2dJX4pK9GkznEQyYbxocAB) | 5:48 |
 | 8 | [Looking at Your Pager \- CLIPZ Remix](https://open.spotify.com/track/2Ikl0HGBDhvSPyPudSrM9s) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Looking At Your Pager \(CLIPZ Remix\)](https://open.spotify.com/album/3Y4VU7ZIN8v4XVK6J35tdj) | 3:46 |
-| 9 | [Surfing The Anxiety Waves](https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/6OLU1sIlbexb3zoViljR8y) | 4:03 |
-| 10 | [War Drum Riddim](https://open.spotify.com/track/4oUf1DEdGXozH3gTRJNmFW) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW) | [War Drum Riddim](https://open.spotify.com/album/19bUNg6Fc8OLF9ZTfwVtXZ) | 3:18 |
+| 9 | [War Drum Riddim](https://open.spotify.com/track/4oUf1DEdGXozH3gTRJNmFW) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW) | [War Drum Riddim](https://open.spotify.com/album/19bUNg6Fc8OLF9ZTfwVtXZ) | 3:18 |
+| 10 | [Surfing The Anxiety Waves](https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/6OLU1sIlbexb3zoViljR8y) | 4:03 |
 | 11 | [On the Flip \- Synkro's Ambient Jungle Flip](https://open.spotify.com/track/4xJqgEhzLOucFRBf90aZa0) | [Speckman](https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7), [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [On the Flip \(Synkro's Ambient Jungle Flip\)](https://open.spotify.com/album/48dHt2ZrAiqCLQ92CfOond) | 9:00 |
 | 12 | [Who Started Jungle](https://open.spotify.com/track/6n15iBMrAgeAhiCSF0iFUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [To the Core](https://open.spotify.com/album/5jg7MkaU3gRhwufJRjxgeP) | 4:00 |
 | 13 | [BMW Track](https://open.spotify.com/track/1dkaug0lOb0SEd4H7jfTvl) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [BMW Track](https://open.spotify.com/album/5kCMzwAQ2IipDAYmUUt1Qn) | 7:23 |
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 25 | [Off the Lorry](https://open.spotify.com/track/0P4iPgEIEDX75wUOXd9qtE) | [Bailey Ibbs](https://open.spotify.com/artist/4eD3dYFqa3RmNZlAlVHFjO) | [Helter Skelter](https://open.spotify.com/album/7yObjiXbEUKeOSL8N2XqOr) | 4:48 |
 | 26 | [Gold Soul](https://open.spotify.com/track/0x7iceybhRRDkMHuY9vFzt) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/1u9VM2GL8xRWRIZbQCM6Qz) | 4:51 |
 | 27 | [Take My Control](https://open.spotify.com/track/5TVNBl0srd3VHK8Hb5SuSy) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [Take My Control](https://open.spotify.com/album/5smkZ2UvCj9tkxZHrtsaAM) | 4:05 |
-| 28 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
-| 29 | [Good Time](https://open.spotify.com/track/2LVz0jvvdCSwSEYIvcIXqA) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/1C9ovUwakv3dr4dMgBJcWg) | 4:37 |
+| 28 | [Good Time](https://open.spotify.com/track/2LVz0jvvdCSwSEYIvcIXqA) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/1C9ovUwakv3dr4dMgBJcWg) | 4:37 |
+| 29 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
 | 30 | [Daktari](https://open.spotify.com/track/5owmZx9QF53AiqqldvPILj) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Daktari EP](https://open.spotify.com/album/3UyLzpscjnDPCSEBrR7L07) | 5:37 |
 | 31 | [Close Proximity](https://open.spotify.com/track/43vW5IEEqHooORXeA3ya8t) | [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [SNKRX07](https://open.spotify.com/album/4pR4ysFeWi8PGqfn3balyw) | 8:34 |
-| 32 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
-| 33 | [Poison Dart](https://open.spotify.com/track/0obrmAmV2GVxzIqcSVsvlD) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Poison Dart](https://open.spotify.com/album/4IVVcdv4PghrHBrroHctI1) | 4:29 |
+| 32 | [Poison Dart](https://open.spotify.com/track/0obrmAmV2GVxzIqcSVsvlD) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Poison Dart](https://open.spotify.com/album/4IVVcdv4PghrHBrroHctI1) | 4:29 |
+| 33 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
 | 34 | [Swift](https://open.spotify.com/track/5zalkQp8ZAe4y1goA95S9X) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Swift](https://open.spotify.com/album/70mlx5ec76uiUILSH8LCi6) | 6:41 |
 | 35 | [So Good](https://open.spotify.com/track/2jbNkB6CIW8vSwZMWknd8g) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [Denham Audio & Friends](https://open.spotify.com/album/42xpRc6lrJwY7yeXyhiOy9) | 5:54 |
 | 36 | [Live And Direct](https://open.spotify.com/track/64zlbq7x2ZgHPFbOUBe5v1) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [FWD Thinking](https://open.spotify.com/album/6W1kKAUQ8LwG1vO0OXrKSr) | 6:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 49 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 |
 | 50 | [Black Rave Culture](https://open.spotify.com/track/5GC1sO0S9cFUGqnhZ3kxDC) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture](https://open.spotify.com/album/0BBcuJVrHGYrisoIZa3Om9) | 3:25 |
 
-Snapshot ID: `MTY3NDE4OTM4NCwwMDAwMDAwMDEwZmI5NDI5OGY1ZWQ1YWUyNDkxNTMzZDNhNGY3ZDc1`
+Snapshot ID: `MTY3NDE4OTM4NCwwMDAwMDAwMDQ4NWQyNzJiMTUyYWM0OTA1MjFkYjcxZjVhNGYwMTNk`

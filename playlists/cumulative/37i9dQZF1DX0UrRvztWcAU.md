@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these happy songs.
 
-516 songs - 1 day 5 hr 4 min
+517 songs - 1 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 | 2022-07-08 |  |
 | [Happy Days \(Theme from ''Happy Days''\)](https://open.spotify.com/track/1CCuMgDauGruOwxrSh9NSW) | [Pratt & McClain](https://open.spotify.com/artist/3vNHR4OsgOsktxndG612B7) | [Pratt & McClain featuring "Happy Days"](https://open.spotify.com/album/3L0FxSHAAHw75PvQJmAVh9) | 2:36 | 2022-03-15 | 2022-11-13 |
 | [Happy Kids](https://open.spotify.com/track/3nVJ4tGeLFR6HUiz3e7qAe) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Happy Kids](https://open.spotify.com/album/792bNRtVnNsqWfKSabIwgz) | 2:57 | 2021-12-16 | 2022-11-13 |
-| [Happy Now](https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Happy Now](https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO) | 3:31 | 2021-12-16 |  |
+| [Happy Now](https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Happy Now](https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO) | 3:31 | 2021-12-16 | 2023-02-24 |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2022-12-14 |  |
 | [Head Held High](https://open.spotify.com/track/5PyRffCCs2KPPL5LFDGEs5) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Head Held High](https://open.spotify.com/album/6C5W5MjZX4tJWL9EJpOGIC) | 3:34 | 2021-12-16 | 2022-07-28 |
 | [Headlights](https://open.spotify.com/track/2nfvybU2w0S5X6Qp2A6HA1) | [Hellberg](https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Headlights](https://open.spotify.com/album/1ElV8ovOsuSz5id7Oy42gv) | 3:23 | 2021-12-16 | 2022-07-29 |
@@ -292,6 +292,7 @@
 | [London Boy](https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 | 2022-07-08 |  |
 | [Looking Back Someday](https://open.spotify.com/track/1mA2gJOAX8Xn2DshGalRd2) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Looking Back Someday](https://open.spotify.com/album/38pXXYiGcEvdfvNG6sBTXF) | 3:29 | 2022-03-15 | 2022-04-21 |
 | [Lost](https://open.spotify.com/track/7Lw5FXm8nhQPvezIpA6jK5) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [Lost](https://open.spotify.com/album/2Qf8hCpYFhiHI3sQcgse78) | 3:37 | 2021-12-16 | 2022-07-29 |
+| [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-02-17 |  |
 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 | 2021-12-16 | 2022-12-14 |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2022-01-07 | 2022-03-01 |
 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 | 2022-11-17 |  |

@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 255506,
       "name": "60W",
       "url": "https://open.spotify.com/track/1xRACXqo2UiX6Ci4oa5vKw"
@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/2ff6i92pRXmlG5QpKDOeuU"
+      },
+      "artists": [
+        {
+          "name": "age",
+          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257786,
+      "name": "HUMAN",
+      "url": "https://open.spotify.com/track/2HTPQfPf92R09MFSOaE8nD"
+    },
+    {
+      "album": {
         "name": "hurray",
         "url": "https://open.spotify.com/album/7ABVCB6trpJ1hoIUb27aXQ"
       },
@@ -809,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Light and Darkness",
+        "url": "https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o"
+    },
+    {
+      "album": {
         "name": "LOVE ROCKETS",
         "url": "https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N"
       },
@@ -914,7 +950,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 351354,
       "name": "METAL KINGDOM",
       "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
@@ -1792,10 +1828,28 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 216000,
       "name": "TRUMAN",
       "url": "https://open.spotify.com/track/22ddh4soKM3Soz0SMHzlAP"
+    },
+    {
+      "album": {
+        "name": "UMA WITH A MISSION",
+        "url": "https://open.spotify.com/album/3uWTEqofNs8cZ04WqdyQUF"
+      },
+      "artists": [
+        {
+          "name": "su-xing-cyu",
+          "url": "https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "UMA WITH A MISSION",
+      "url": "https://open.spotify.com/track/76Kpt955dzeNTVpyIveNBO"
     },
     {
       "album": {
@@ -2609,6 +2663,32 @@
     },
     {
       "album": {
+        "name": "\u30de\u30e8\u30a4\u30ac (PHIL REWORK)",
+        "url": "https://open.spotify.com/album/5vxYwjHklE4OKDpd7D0PwR"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        },
+        {
+          "name": "\u84ee\u6cbc\u57f7\u592a\u30d5\u30a3\u30eb",
+          "url": "https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5"
+        },
+        {
+          "name": "Shuta Hasunuma",
+          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247295,
+      "name": "\u30de\u30e8\u30a4\u30ac - PHIL REWORK",
+      "url": "https://open.spotify.com/track/16j0i4b87epv1BYA7AU3P7"
+    },
+    {
+      "album": {
         "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
         "url": "https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU"
       },
@@ -3236,7 +3316,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 273160,
       "name": "\u65e5\u5e38\u9769\u547d",
       "url": "https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT"

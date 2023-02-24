@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-248 songs - 13 hr 39 min
+249 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Forget Me](https://open.spotify.com/track/7GEV626sMh00yN7RRPMSa5) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Forget Me](https://open.spotify.com/album/2zcAZvavezu2TMxGFGd3OU) | 4:06 | 2022-10-14 |  |
 | [Giant](https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Giant](https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak) | 2:59 | 2022-08-26 | 2023-01-05 |
 | [Girls Just Wanna Have Fun \- Acoustic](https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY) | 2:52 | 2022-08-26 | 2023-02-18 |
+| [Girls Like You](https://open.spotify.com/track/6J2gTwqgxuYnIU5yJt64Id) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Girls Like You](https://open.spotify.com/album/0m8do2sQQ59xwjG6sLkOmT) | 3:37 | 2023-02-24 |  |
 | [Glycerine](https://open.spotify.com/track/5oyDs4s7zWcvPyOr6aenCW) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Glycerine](https://open.spotify.com/album/26RqcmCTKtxEo3W0ADbuSY) | 2:59 | 2022-08-26 |  |
 | [Good](https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Good](https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe) | 4:01 | 2022-08-26 |  |
 | [Good 4 U \(Acoustic\)](https://open.spotify.com/track/7JY9axEOxQbeAN8OzwsOwy) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Good 4 U \(Acoustic\)](https://open.spotify.com/album/0InVd2HfogNShrLXhHflQA) | 2:54 | 2022-08-26 |  |

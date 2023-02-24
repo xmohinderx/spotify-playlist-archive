@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-241 songs - 13 hr 56 min
+245 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,12 +59,14 @@
 | [Doin Nothing](https://open.spotify.com/track/7uQGl7eCMmeb7yuKwkEmaO) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Doin Nothing](https://open.spotify.com/album/2I8JDTsc8gRIcZYFBwElyW) | 3:53 | 2022-12-08 |  |
 | [Doldrums](https://open.spotify.com/track/0SAS6ARxYiOJT1OTUYakLf) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Doldrums](https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p) | 3:12 | 2022-04-12 | 2022-11-25 |
 | [Dolphin Dance](https://open.spotify.com/track/54qJkfXVHmgJhYpbMgVjM4) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Dolphin Dance](https://open.spotify.com/album/3ImIn4IPL59kQU1B0lrQRG) | 2:18 | 2023-02-16 |  |
+| [Don't Be That Way](https://open.spotify.com/track/5dim4yMUDWM0c5g7sdereZ) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Early Autumn](https://open.spotify.com/album/59fAHLXGySE1TJ9HeVCTl7) | 2:48 | 2023-02-23 |  |
 | [Don't Blame Me](https://open.spotify.com/track/5RuKvZoJv8uDrMcVECOcIZ) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Don't Blame Me](https://open.spotify.com/album/0RWlDYTkb9pdpOqw08se8R) | 3:32 | 2023-02-16 |  |
 | [Don't Ever Leave Me](https://open.spotify.com/track/6HpQCQJnF0sYOBgH9nyp0F) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 2:42 | 2022-04-12 | 2022-06-23 |
 | [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 | 2022-11-24 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/1Wkb0jY5EVVGACaJQlfeyA) | [Ron Fields](https://open.spotify.com/artist/1x5zKG8Bhm8RW3LuKUMcRF) | [When I Fall In Love](https://open.spotify.com/album/7x9nV3lH3nuUo9r1h3pt8N) | 3:01 | 2022-04-12 | 2022-11-25 |
 | [Dreams](https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Dreams](https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6) | 2:27 | 2022-10-13 |  |
 | [Dreams](https://open.spotify.com/track/1d1lfPt3kdB2DInFt1mhVe) | [Darius Briley](https://open.spotify.com/artist/0SlMXLjZNuSRZJ3VvpbQit) | [Dreams](https://open.spotify.com/album/17nFGc4cZJcr61JbeWFTLk) | 2:23 | 2023-01-19 |  |
+| [Early Autumn](https://open.spotify.com/track/3VztHPAF4NNh2QXdQ5M6XP) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Early Autumn](https://open.spotify.com/album/59fAHLXGySE1TJ9HeVCTl7) | 2:53 | 2023-02-23 |  |
 | [Easy Living](https://open.spotify.com/track/5o2QRKZqtdKMeZ47Im0wgg) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Easy Living](https://open.spotify.com/album/4G08VuIeQLEvP0ieLg7kIB) | 3:37 | 2022-04-12 |  |
 | [Embraceable You](https://open.spotify.com/track/4M83WIzH5cqPFqjnYwcji9) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Embraceable You](https://open.spotify.com/album/0wnfgpSxtv8UzL4n1f055H) | 3:22 | 2022-06-14 |  |
 | [Evening Silence](https://open.spotify.com/track/0Rf7mzOsDoMDVVGOeLIr9r) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [Pretty Are Your Eyes](https://open.spotify.com/album/6oTeiJZ9MS3xbvul8mW3NE) | 4:04 | 2022-08-10 |  |
@@ -81,6 +83,7 @@
 | [Gone With The Wind](https://open.spotify.com/track/5Ipp7U3NUTdLcfUknpqYd3) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Gone With The Wind](https://open.spotify.com/album/5gWixXwisRX4dTF15toKLe) | 3:32 | 2022-12-01 |  |
 | [Good Night](https://open.spotify.com/track/2UatfwTngd99ugjekcg8Kw) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Good Night](https://open.spotify.com/album/0N3Zd0I4F8iTTzorbht0xH) | 2:15 | 2022-11-10 |  |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/4pwfhJMOpGRd3hABNPd1n2) | [Joshua Ware](https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT) | [Midnight Solo Sessions](https://open.spotify.com/album/5G2e2LCTC6MFixt6amtciV) | 2:20 | 2022-04-12 |  |
+| [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-02-23 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/3DgjObIndXAIIsTM4YdroG) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 2:37 | 2022-04-12 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/5N1CLBoASSxd0IP3aOXeIA) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [How Long Has This Been Going On?](https://open.spotify.com/album/4enSlE24XGXXLkrGW7lxZ1) | 2:51 | 2022-06-22 |  |
 | [I Can't Get Started \(With You\)](https://open.spotify.com/track/0vpZnqfPR7ztK1iYUdRI4P) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [I Can't Get Started \(With You\)](https://open.spotify.com/album/61gEEgRzs3Rl0QB7X4lk7D) | 4:39 | 2022-08-10 |  |
@@ -116,6 +119,7 @@
 | [Lady Bird](https://open.spotify.com/track/4HbWMOjpKwELFft5e0010n) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [It Could Happen to You](https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf) | 1:53 | 2022-10-06 |  |
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2022-04-12 | 2022-10-28 |
 | [Leave The Bottle](https://open.spotify.com/track/4wzA7y3rVCFI5N65LIm1ie) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [Leave The Bottle](https://open.spotify.com/album/4Wn4TtWxzxIVlhteYhGqrl) | 3:38 | 2023-01-12 |  |
+| [Lenox Hill](https://open.spotify.com/track/3rtDk5D3VmzvZn2ywGg0bq) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Lenox Hill](https://open.spotify.com/album/27cTJGvI2eXXMNy94uBwv7) | 2:31 | 2023-02-23 |  |
 | [Let's Fall in Love](https://open.spotify.com/track/61Wv9rlpZz27NHul5O6XN7) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Jazz Piano Before Midnight](https://open.spotify.com/album/6tC4AiQ7S9tz8bCrOmzfKo) | 2:03 | 2022-05-24 |  |
 | [Like Someone in Love](https://open.spotify.com/track/7HfS1TFqIaAO044jhCmNAl) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Like Someone in Love](https://open.spotify.com/album/55LGBLAN5hoiDD4hGF0l0r) | 3:32 | 2022-04-12 |  |
 | [Lola and Kirby](https://open.spotify.com/track/4GyAzGvtspTgBsenXna9Ik) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:19 | 2022-08-10 |  |

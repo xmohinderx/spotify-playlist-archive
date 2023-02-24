@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Escuchá a Yami Safdie y a más mujeres a todo volumen\. <br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,649 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,660 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,19 +36,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 26 | [Ella](https://open.spotify.com/track/2mym9sPryRlsZxftEtY6MZ) | [ERNES](https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU) | [Ella](https://open.spotify.com/album/3od0Nq1bL9ooT7wDzyJl9r) | 3:42 |
 | 27 | [Ella y Yo](https://open.spotify.com/track/1NnfVCcWRT2rVlCS0x44cZ) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:24 |
 | 28 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 |
-| 29 | [Fresh Prince \- Remix](https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Fresh Prince \(Remix\)](https://open.spotify.com/album/7fP6eFdFHyneo1Ez8tku5X) | 3:32 |
-| 30 | [Bellaca](https://open.spotify.com/track/4ete7zWr70bdvUBhq8CEZt) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Bellaca](https://open.spotify.com/album/2Ff3G9rBwSjr5D2C4hxDEl) | 2:25 |
+| 29 | [Bellaca](https://open.spotify.com/track/4ete7zWr70bdvUBhq8CEZt) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Bellaca](https://open.spotify.com/album/2Ff3G9rBwSjr5D2C4hxDEl) | 2:25 |
+| 30 | [Fresh Prince \- Remix](https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Fresh Prince \(Remix\)](https://open.spotify.com/album/7fP6eFdFHyneo1Ez8tku5X) | 3:32 |
 | 31 | [Hoy Dejé De Llorar](https://open.spotify.com/track/7mQyrhiwZf5xOIr0klasjZ) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Hoy Dejé De Llorar](https://open.spotify.com/album/4PM1GeOZpI3cP8329Plp1D) | 2:31 |
 | 32 | [Música bailando](https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Música bailando](https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq) | 2:18 |
 | 33 | [Luna En Venus](https://open.spotify.com/track/41bVvrQ3VwOPWg9Wkz7JLa) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Luna En Venus](https://open.spotify.com/album/5fRgHLDuUsNGZ8vPdbBXn8) | 3:36 |
-| 34 | [Último Intento](https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Que Me Duela](https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh) | 3:04 |
-| 35 | [360 al Mundo](https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [Xoxo](https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8) | 2:59 |
-| 36 | [No Es Tan Fácil](https://open.spotify.com/track/5GAVXj9KKGXa3TcmU6KcnI) | [Meri Deal](https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H) | [No Es Tan Fácil](https://open.spotify.com/album/0zgNHTHmjDhupCz27J5YXn) | 2:49 |
-| 37 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
+| 34 | [360 al Mundo](https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [Xoxo](https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8) | 2:59 |
+| 35 | [Último Intento](https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Que Me Duela](https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh) | 3:04 |
+| 36 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
+| 37 | [No Es Tan Fácil](https://open.spotify.com/track/5GAVXj9KKGXa3TcmU6KcnI) | [Meri Deal](https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H) | [No Es Tan Fácil](https://open.spotify.com/album/0zgNHTHmjDhupCz27J5YXn) | 2:49 |
 | 38 | [Ancla](https://open.spotify.com/track/653aGqEPBnBcO2nJ7PwGF2) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Me cansé de hacer canciones \(que no salgan si no estoy llorando\)](https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw) | 3:32 |
 | 39 | [Cielo Negro](https://open.spotify.com/track/7ez9Og9vU2FxKZoriBFJCD) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Selva](https://open.spotify.com/album/7c2v5ycSRINlH2yIi3oV85) | 3:02 |
-| 40 | [Mi Corazón y Yo](https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Mi Corazón y Yo](https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5) | 2:58 |
-| 41 | [Pedazos](https://open.spotify.com/track/7pe9YKf899xuL7ZSS9V3Hz) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Spm \(Se Pronuncia Maguaier\)](https://open.spotify.com/album/6yDOQhDAnwt9Bh2KN5Volt) | 2:44 |
+| 40 | [Pedazos](https://open.spotify.com/track/7pe9YKf899xuL7ZSS9V3Hz) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Spm \(Se Pronuncia Maguaier\)](https://open.spotify.com/album/6yDOQhDAnwt9Bh2KN5Volt) | 2:44 |
+| 41 | [Mi Corazón y Yo](https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Mi Corazón y Yo](https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5) | 2:58 |
 | 42 | [Crudo](https://open.spotify.com/track/3QP7UaXnfLRYIvbUYwqwYn) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Crudo](https://open.spotify.com/album/4xLWlcNBB3tL4kTlphsdu8) | 3:24 |
 | 43 | [Destilar](https://open.spotify.com/track/6JW1dkSXWbGYMoOPOLijom) | [Luna Suarez](https://open.spotify.com/artist/6cP3LTMb8GOiIRREzXLXjH) | [Destilar](https://open.spotify.com/album/7rZi5sZ1CSm1HDd02x1cSY) | 2:50 |
 | 44 | [No Tiene Sentido](https://open.spotify.com/track/79C0RSNURD1IoWONaJrVM7) | [CORI](https://open.spotify.com/artist/6FMpGkY0mH4eCFSwAgQesf) | [No Tiene Sentido](https://open.spotify.com/album/6PwmZVsTxJ7VIXb2CCxjgN) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Ansiedad](https://open.spotify.com/track/7h7SgRb5teNxvfkcMLFabO) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Vulnerable](https://open.spotify.com/album/0uyFaEhSZngTXmQn2E3wvR) | 2:41 |
 | 50 | [Qué Raro Es Este Lugar](https://open.spotify.com/track/3BeDygN8kF3KTYt1Uk7trO) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Qué Raro Es Este Lugar](https://open.spotify.com/album/4mAIuhNoyIVljEC1KCKNYd) | 4:13 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMGY2MmQyMzQyODZkMjFmNTFkMWY3YTg5ZDE0NzY5MjJj`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDg2YzYwNWNjMzllM2U5NmE3NDE3MzVhNWE2ZTVmYTQx`

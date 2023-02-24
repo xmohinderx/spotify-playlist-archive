@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,780 likes - 309 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,873 likes - 309 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 146 | [Spain](https://open.spotify.com/track/4yX9B5mcnnXhuQ684b6O0L) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Spain](https://open.spotify.com/album/0U98UQupLlnffsDTOAuTpv) | 2:40 |
 | 147 | [Alter Witz](https://open.spotify.com/track/4FO8ygXmPAxWeU8xX0JiVT) | [Hairklep](https://open.spotify.com/artist/7hIODasG8UClMMJFKxA8IZ) | [Alter Witz](https://open.spotify.com/album/5buCA6vOBGVzefuRPZpTMU) | 1:26 |
 | 148 | [Secret Village](https://open.spotify.com/track/6boOSC8VmhBre8fg6sCnau) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Secret Village of Chill](https://open.spotify.com/album/4xHXC1XtNxxSZCHxT2eoFs) | 1:52 |
-| 149 | [Black Foam](https://open.spotify.com/track/5ABxYELhyp9nIHqCADcRSD) | [Skinny Cap](https://open.spotify.com/artist/4xpyWZOZJlhLhdeCrr3SV9) | [Black Foam](https://open.spotify.com/album/0PP5wt0BC0NmGb7PU652fR) | 2:03 |
+| 149 | [Black Foam](https://open.spotify.com/track/5ABxYELhyp9nIHqCADcRSD) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Black Foam](https://open.spotify.com/album/0PP5wt0BC0NmGb7PU652fR) | 2:03 |
 | 150 | [The Bottom Line](https://open.spotify.com/track/5VktpwGshteKpO45NtZMAo) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [The Bottom Line](https://open.spotify.com/album/0wCkjHSF4CymAYxiiZsC9m) | 2:15 |
 | 151 | [Lucy Dreamer](https://open.spotify.com/track/0JczY880Kt9FviLxsimJd6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Luscious](https://open.spotify.com/album/1d5DMrZe0OUFwXOnpnZUQF) | 1:32 |
 | 152 | [Momentum](https://open.spotify.com/track/7q6aQazraLUiuCUVkoYOb2) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [Momentum](https://open.spotify.com/album/6ZLAw5N0dcMXQtPVWk6r8F) | 2:08 |
@@ -257,7 +257,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 247 | [Outer circles](https://open.spotify.com/track/08K0FjEDRLXt3j1bjwTbcJ) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [Outer circles](https://open.spotify.com/album/0pXh5suqHtj7xz7kDtX29Y) | 3:03 |
 | 248 | [Jovial](https://open.spotify.com/track/4hCmMa1benzcqObgxDH2GU) | [still yung](https://open.spotify.com/artist/5g6oWIIspPHHUQ8c1ksVJ0) | [Jovial](https://open.spotify.com/album/4CLz4Ly8dEcRyUdp8n8nxG) | 2:12 |
 | 249 | [Crushin](https://open.spotify.com/track/0kzFqquPfU14JmkkUUHbX8) | [The Man from Mexico](https://open.spotify.com/artist/7ig2AJW5U845K57IhLZvdb) | [La Muchacha Ochentas](https://open.spotify.com/album/15rmla56JfHzwiuU4a9vyh) | 2:36 |
-| 250 | [Papillon](https://open.spotify.com/track/6S1uhrWCT8WFV6z8f5P8Va) | [Xsist](https://open.spotify.com/artist/5UXNo7yX1QsF9VkPVCNKxW) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:50 |
+| 250 | [Papillon](https://open.spotify.com/track/6S1uhrWCT8WFV6z8f5P8Va) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:50 |
 | 251 | [Llama Drama](https://open.spotify.com/track/3BIigRWvCUldxIeQkzSEMa) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Llama Drama](https://open.spotify.com/album/1JjljDOBIiFcWw7j3Qrxcw) | 2:07 |
 | 252 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 |
 | 253 | [Out Of Jazzizity](https://open.spotify.com/track/6LnZKT2R1jhUTXgwUPldIr) | [Savage Bops](https://open.spotify.com/artist/3D54UHQi6RvooCNsIP0E27) | [Out Of Jazzizity](https://open.spotify.com/album/55KvMPCeXvLMhD2HfDJ9Bp) | 2:21 |
@@ -309,7 +309,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 299 | [Uptown Buses](https://open.spotify.com/track/4Vs4uFcFIduQva6sfEIEqG) | [The Precocious Birds](https://open.spotify.com/artist/5oLT0V8Xp31OtLkLvUH07U) | [Good Morning](https://open.spotify.com/album/0VnIOAwK9IyAsNc1HXqEHs) | 2:57 |
 | 300 | [Donde Estas?](https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Donde Estas?](https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j) | 2:04 |
 | 301 | [Hang On](https://open.spotify.com/track/4duI476FUu6iId8JOTOk8i) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Hang On](https://open.spotify.com/album/246psBSULJ3D3tL7zwU4wO) | 1:58 |
-| 302 | [Paint Drip](https://open.spotify.com/track/7JlI1eHDw1XWFiMy3LKJ8b) | [Mr Nitro](https://open.spotify.com/artist/7KvQlp8VjB1cFpH91KZQ3p) | [Paint Drip](https://open.spotify.com/album/2JRmuTzGZjgKW6Xyq3oUBE) | 1:46 |
+| 302 | [Paint Drip](https://open.spotify.com/track/7JlI1eHDw1XWFiMy3LKJ8b) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Paint Drip](https://open.spotify.com/album/2JRmuTzGZjgKW6Xyq3oUBE) | 1:46 |
 | 303 | [No Problem Too Small](https://open.spotify.com/track/0Td7VHO3ojTr3VO8GJTqQh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [No Problem Too Small](https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d) | 2:02 |
 | 304 | [XOXO](https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:31 |
 | 305 | [One Day at a Time](https://open.spotify.com/track/3YzOBxLQQVvqKH8xR0XgNh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [One Day at a Time](https://open.spotify.com/album/7wqOTHoyjGvqRJ7ThxxdNk) | 2:01 |

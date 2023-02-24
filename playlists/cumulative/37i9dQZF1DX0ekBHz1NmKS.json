@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180578,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/7tbUp2NTr7CxIgIF04Kf5U"
       },
@@ -720,6 +738,24 @@
       "duration_ms": 222000,
       "name": "Att vara sj\u00e4lv och inte ensam alls",
       "url": "https://open.spotify.com/track/2kg9iuONImcFwLYanWJfvp"
+    },
+    {
+      "album": {
+        "name": "ikv\u00e4ll, inatt, men aldrig imorgon",
+        "url": "https://open.spotify.com/album/2iHZ5X0FRetrOOK6A97G9N"
+      },
+      "artists": [
+        {
+          "name": "Josef Slunge",
+          "url": "https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172013,
+      "name": "aura",
+      "url": "https://open.spotify.com/track/7A63dexDM5NCXlICgq8RUc"
     },
     {
       "album": {
@@ -1329,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Bug Eye",
+        "url": "https://open.spotify.com/album/37FkslA5Is8lueB6qrALfG"
+      },
+      "artists": [
+        {
+          "name": "Juli Capelius",
+          "url": "https://open.spotify.com/artist/5lvgW9cUNZajEcT18Wui5p"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125828,
+      "name": "Bug Eye",
+      "url": "https://open.spotify.com/track/0IhyGjf2QCm5BkgmotrSnR"
+    },
+    {
+      "album": {
         "name": "Buried",
         "url": "https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs"
       },
@@ -1772,7 +1826,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 161355,
       "name": "Circles",
       "url": "https://open.spotify.com/track/2mYTINvwFoJYySe9XQsHkN"
@@ -2088,6 +2142,24 @@
       "duration_ms": 203005,
       "name": "Death Of Me",
       "url": "https://open.spotify.com/track/5OLWoMycnrKMQIB5g6hjZw"
+    },
+    {
+      "album": {
+        "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
+        "url": "https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256449,
+      "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
+      "url": "https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W"
     },
     {
       "album": {
@@ -3264,7 +3336,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 209379,
       "name": "Fint att f\u00e5 va med dig",
       "url": "https://open.spotify.com/track/6yz3bCneU0XztgwIu6CNxJ"
@@ -5136,7 +5208,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 140613,
       "name": "In The Sunrise",
       "url": "https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG"
@@ -7246,7 +7318,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 202972,
       "name": "Notre-Dame",
       "url": "https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2"
@@ -9319,6 +9391,24 @@
     },
     {
       "album": {
+        "name": "Som en s\u00e5ng",
+        "url": "https://open.spotify.com/album/5FW9X0S4UqnM9QuSqITB11"
+      },
+      "artists": [
+        {
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230413,
+      "name": "Som en s\u00e5ng",
+      "url": "https://open.spotify.com/track/0cVDXsKlmi4ANSpld0XTSq"
+    },
+    {
+      "album": {
         "name": "Som ett minne blott",
         "url": "https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE"
       },
@@ -10758,7 +10848,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 201826,
       "name": "Turning Onto You",
       "url": "https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,073 songs - 2 day 15 hr 15 min
+1,074 songs - 2 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,7 +577,8 @@
 | [Love Of My Life](https://open.spotify.com/track/6kSkRPbVGlxBpt1Vp9JbEN) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Love Of My Life](https://open.spotify.com/album/2NM3fBFcHZM8FXp2x9Sgr3) | 2:52 | 2020-06-12 | 2021-09-25 |
 | [Love Runs Deep](https://open.spotify.com/track/33oQaDZex8PFThfgpCpOdH) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Tiina](https://open.spotify.com/artist/6GVBNOQURiHG9apNXi9fE8) | [Love Runs Deep](https://open.spotify.com/album/3ZFHeK3HYytlTh7LASxQwU) | 2:46 | 2022-03-18 | 2022-11-19 |
 | [Love Song](https://open.spotify.com/track/2x4i2WnE05D2Z7yEeytmPr) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Love Song](https://open.spotify.com/album/3GZj10D83YZNnMQbcQ6yGh) | 5:48 | 2020-06-04 | 2021-09-11 |
-| [Love Song](https://open.spotify.com/track/3w8bLR0i4JxPYgj1oiWHST) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Love Song](https://open.spotify.com/album/3lWowPEw7IgHz4UXhumHYw) | 4:22 | 2023-02-17 |  |
+| [Love Song](https://open.spotify.com/track/2S3nwkJOnoNGGL40EWCBWW) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Love Song](https://open.spotify.com/album/2EVjxedFSqwKeDbQGDp5pJ) | 4:22 | 2023-02-17 |  |
+| [Love Song](https://open.spotify.com/track/3w8bLR0i4JxPYgj1oiWHST) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Love Song](https://open.spotify.com/album/3lWowPEw7IgHz4UXhumHYw) | 4:22 | 2023-02-17 | 2023-02-24 |
 | [Love Song \- Radio Edit](https://open.spotify.com/track/3f9AhH3gPQnQIxJgnnhlwB) | [Marcus Worgull](https://open.spotify.com/artist/4N2PiVgTuh2rxhc3HGVKAG) | [Love Song](https://open.spotify.com/album/6MrtOgbJZNXYfifA8bKrfo) | 4:08 | 2019-08-09\* | 2019-09-12 |
 | [Love The One You're With](https://open.spotify.com/track/5cC7V4UPSs0G98rgeN5prF) | [Pep & Rash](https://open.spotify.com/artist/2HmmA3GhP0xsbRUiDllJUn) | [Love The One You're With](https://open.spotify.com/album/4UjiXrKjP5C3op1OBkdePd) | 2:32 | 2019-08-09\* | 2019-08-27 |
 | [Love To Give \(with Culture Shock & Billy Lockett\)](https://open.spotify.com/track/0Rww3ql3uRmzTvLOVBFlpn) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE), [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Love To Give \(with Culture Shock & Billy Lockett\)](https://open.spotify.com/album/0UTEQDl8kWLzdAJr8WTzQq) | 3:22 | 2020-05-15 | 2021-09-11 |

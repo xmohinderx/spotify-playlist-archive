@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,801 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,921 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 68 | [Mariposas Blancas](https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Mariposas](https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q) | 4:21 |
 | 69 | [Pelo Negro](https://open.spotify.com/track/63lE9CBiNmJIdgkH2vPpVm) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Pelo Negro](https://open.spotify.com/album/1aHrWZbOa31S3rBUA51muK) | 6:10 |
 | 70 | [Around the World \(Intro\)](https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c) | [Atom TM](https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL) | [Señor Coconut / Around the World](https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF) | 2:47 |
-| 71 | [Electric Boogaloo](https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH) | 4:00 |
-| 72 | [Speakin' Nuyorican](https://open.spotify.com/track/26x75c32oXBl5fQMFAYptW) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Cookin' Gumbo](https://open.spotify.com/album/021DHyGZjaaAX37sopdmgH) | 3:29 |
-| 73 | [Arturo Sandoval](https://open.spotify.com/track/35U6NyVIlRIdNiNBd7Hz6G) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Arturo Sandoval](https://open.spotify.com/album/3tsXNHsYyzPRneHlebjQtk) | 3:31 |
+| 71 | [Arturo Sandoval](https://open.spotify.com/track/35U6NyVIlRIdNiNBd7Hz6G) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Arturo Sandoval](https://open.spotify.com/album/3tsXNHsYyzPRneHlebjQtk) | 3:31 |
+| 72 | [Electric Boogaloo](https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH) | 4:00 |
+| 73 | [Speakin' Nuyorican](https://open.spotify.com/track/26x75c32oXBl5fQMFAYptW) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Cookin' Gumbo](https://open.spotify.com/album/021DHyGZjaaAX37sopdmgH) | 3:29 |
 | 74 | [Una Piedra en el Cielo](https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Parrilladas Vargas](https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR) | 2:11 |
 | 75 | [Un Telegrama](https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:42 |
 | 76 | [Cun Cun Prá](https://open.spotify.com/track/5cYUjVF8imi3J9Q6mu8ZoG) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Cun Cun Prá](https://open.spotify.com/album/24UH0bSpSX7dikFJI9dE0v) | 3:25 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 82 | [Rosalie \(Español\)](https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Rosalie \(Español\)](https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk) | 4:18 |
 | 83 | [Guajira](https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re) | [HABIBI](https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt), [Elisabeth Borne](https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna) | [Guajira](https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V) | 3:30 |
 | 84 | [Una Música Brutal](https://open.spotify.com/track/6Xnri87uPZrNCYfo3rCIWG) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [La Revancha Del Tango](https://open.spotify.com/album/4FoqXHGjFrUsjtz7jgaaGo) | 4:11 |
-| 85 | [Pa' Bailar](https://open.spotify.com/track/6CT7lmMAco13bgfBotJweu) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:58 |
-| 86 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
-| 87 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 |
+| 85 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 |
+| 86 | [Pa' Bailar](https://open.spotify.com/track/6CT7lmMAco13bgfBotJweu) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:58 |
+| 87 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
 | 88 | [Por Si las Dudas](https://open.spotify.com/track/1mSZtzrkyjPVHryN28833M) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU), [Lof](https://open.spotify.com/artist/4TrbIX2ppmaAvqO5IYcSH0) | [A MAR](https://open.spotify.com/album/6amcskT3XUBmlayQ1O0Bne) | 3:49 |
 | 89 | [El Extranjero](https://open.spotify.com/track/795MWYB06Kuc3w1T26ftys) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Película Muda \(Primera Parte\)](https://open.spotify.com/album/5fiR3WAp6vuCLmxoQ88Vcd) | 5:42 |
 | 90 | [El Bombo](https://open.spotify.com/track/6Y8ezCRn008lOajLva47nN) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [El Bombo](https://open.spotify.com/album/2cSlFeJYEyoyrM9AwjtSEc) | 3:20 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 95 | [Mambo 1000](https://open.spotify.com/track/1NuSZFERO5CMr0dSrWO3Lu) | [Ursula 1000](https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT) | [The Now Sound of Ursula 1000 \(Deluxe Version\)](https://open.spotify.com/album/7pyqMk8bzqQDIAFT2MdRKK) | 5:40 |
 | 96 | [El hombre que quiso ser canción](https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct) | [Alessio Arena](https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc) | [Atacama!](https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf) | 4:11 |
 | 97 | [Pra Manha](https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN) | [Songs From The Tin](https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl) | 6:13 |
-| 98 | [Perdoa](https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls), [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Meus Momentos: Paulinho Da Viola](https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu) | 4:00 |
-| 99 | [Lavabo Mi Amor](https://open.spotify.com/track/1lFMWSIu7isKOdn12emfDf) | [French Fuse](https://open.spotify.com/artist/3bZHlENvWWvWYYIsC7vLSi) | [Lavabo Mi Amor](https://open.spotify.com/album/4euUcMhzG6GELGIMfWasPT) | 3:03 |
+| 98 | [Lavabo Mi Amor](https://open.spotify.com/track/1lFMWSIu7isKOdn12emfDf) | [French Fuse](https://open.spotify.com/artist/3bZHlENvWWvWYYIsC7vLSi) | [Lavabo Mi Amor](https://open.spotify.com/album/4euUcMhzG6GELGIMfWasPT) | 3:03 |
+| 99 | [Perdoa](https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls), [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Meus Momentos: Paulinho Da Viola](https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu) | 4:00 |
 | 100 | [Tiene Sabor, Tiene Sazón](https://open.spotify.com/track/7CPu17eltuCnWj3QZtlI8Z) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/7yjJJnG1eUZRJkwHcjqg8Y) | 4:33 |
 
-Snapshot ID: `MTY3NjYwNDkyMSwwMDAwMDAwMDA1NDRjN2I4OTQ0ODNiOTY3NmEzNGNiZWNhYTUwYWI4`
+Snapshot ID: `MTY3NjYwNDkyMSwwMDAwMDAwMDM2ODRkMDRhYmZmN2ViOWI0OTgzZTRkZDA2YTkwZDM2`

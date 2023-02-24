@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2891,
+  "num_followers": 2894,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM1ODI4MiwwMDAwMDAwMGU0NWI2NzEzNTgxZjg1OGE1ZTk2YjE4YzhlNGRhYjQw",
+  "snapshot_id": "MTY3NjM1ODI4MiwwMDAwMDAwMDc5ODQyNjQ0YWRlM2ZjYzQwODVlNTU4MzM1ZjVhZGY3",
   "tracks": [
     {
       "added_at": "2023-02-14 07:04:41",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
+        "name": "TELEVISION",
+        "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 192827,
+      "name": "Artist",
+      "url": "https://open.spotify.com/track/12GJcC8SdDYpkbHvFrgp1w"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
         "name": "grayground. 01",
         "url": "https://open.spotify.com/album/0jR5mEh7PtD96CfXwkmem7"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 228097,
       "name": "Just Do It",
       "url": "https://open.spotify.com/track/1RXMtaUUM2hyixi37Z7vA5"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
-        "name": "TELEVISION",
-        "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 192827,
-      "name": "Artist",
-      "url": "https://open.spotify.com/track/12GJcC8SdDYpkbHvFrgp1w"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/6JZcMszjclxpjaS3VPyOvw"
       },
       "artists": [
         {
@@ -1052,17 +1052,21 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         },
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         }
       ],
-      "duration_ms": 362314,
-      "name": "WORLDWIDE",
-      "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
+      "duration_ms": 221142,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/61J1dGU5RCNs6rMnPADv4r"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1103,26 +1107,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "MEVIUS",
-        "url": "https://open.spotify.com/album/76tNouAAoq5UcyhYZ5zEUz"
-      },
-      "artists": [
-        {
-          "name": "J;KEY",
-          "url": "https://open.spotify.com/artist/4I42k3aXHgTQ7hUMx259WK"
-        },
-        {
-          "name": "Von Air",
-          "url": "https://open.spotify.com/artist/2d5pN8dJvMwQllTEbKs9m7"
-        }
-      ],
-      "duration_ms": 174587,
-      "name": "MEVIUS (Feat. Von Air)",
-      "url": "https://open.spotify.com/track/44GtWk95ctG99mgbjLUGkA"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "Call Me Gray",
         "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
       },
@@ -1143,6 +1127,26 @@
       "duration_ms": 273267,
       "name": "Dream Chaser",
       "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "MEVIUS",
+        "url": "https://open.spotify.com/album/76tNouAAoq5UcyhYZ5zEUz"
+      },
+      "artists": [
+        {
+          "name": "J;KEY",
+          "url": "https://open.spotify.com/artist/4I42k3aXHgTQ7hUMx259WK"
+        },
+        {
+          "name": "Von Air",
+          "url": "https://open.spotify.com/artist/2d5pN8dJvMwQllTEbKs9m7"
+        }
+      ],
+      "duration_ms": 174587,
+      "name": "MEVIUS (Feat. Von Air)",
+      "url": "https://open.spotify.com/track/44GtWk95ctG99mgbjLUGkA"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1283,6 +1287,26 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
+        "name": "Boys and Girls",
+        "url": "https://open.spotify.com/album/7ADI8MDAmfM10pipMZnq8e"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "J-Tong",
+          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
+        }
+      ],
+      "duration_ms": 208771,
+      "name": "Predator",
+      "url": "https://open.spotify.com/track/0U90SCa9RwlfQOKAwRdawq"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
         "name": "SAVED MY LIFE",
         "url": "https://open.spotify.com/album/3AMcOPFUmreqG9qamdjzfa"
       },
@@ -1303,26 +1327,6 @@
       "duration_ms": 229106,
       "name": "SAVED MY LIFE (Prod. Kidstone)",
       "url": "https://open.spotify.com/track/14dJ7lD1iJhxfx6b4vutVY"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
-        "name": "Boys and Girls",
-        "url": "https://open.spotify.com/album/7ADI8MDAmfM10pipMZnq8e"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "J-Tong",
-          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
-        }
-      ],
-      "duration_ms": 208771,
-      "name": "Predator",
-      "url": "https://open.spotify.com/track/0U90SCa9RwlfQOKAwRdawq"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1879,6 +1883,22 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
         "name": "THE STRANGER",
         "url": "https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB"
       },
@@ -1895,18 +1915,22 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+        "name": "UNDERGROUND ROCKSTAR",
+        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
       "artists": [
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "LIL GIMCHI",
+          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
         }
       ],
-      "duration_ms": 162186,
-      "name": "A.O.M.G.",
-      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
+      "duration_ms": 197266,
+      "name": "Little Brothers (Feat. LIL GIMCHI)",
+      "url": "https://open.spotify.com/track/3pJnCMY3ox7NCXYU1kERms"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1947,26 +1971,6 @@
       "duration_ms": 244186,
       "name": "Naked (Feat. SINCE, Roh Yun Ha)",
       "url": "https://open.spotify.com/track/20SnjTFsnEWVYtqUEB7EYx"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
-        "name": "UNDERGROUND ROCKSTAR",
-        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "LIL GIMCHI",
-          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "Little Brothers (Feat. LIL GIMCHI)",
-      "url": "https://open.spotify.com/track/3pJnCMY3ox7NCXYU1kERms"
     },
     {
       "added_at": "2023-02-14 07:04:41",

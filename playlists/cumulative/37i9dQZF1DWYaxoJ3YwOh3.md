@@ -4,7 +4,7 @@
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-86 songs - 5 hr 31 min
+87 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Ethnic Relaxation](https://open.spotify.com/track/5cISGyz7flqHyJnPredy4s) | [Tranquility Spa Universe](https://open.spotify.com/artist/5JmcaXlVpjfZctdmHTgWLd) | [Arabic Relaxation & Spa \(Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute\)](https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl) | 3:54 | 2022-09-06 |  |
 | [Far Away](https://open.spotify.com/track/7FWxgkffwiIrr2SR72RqAh) | [CreativeWaves](https://open.spotify.com/artist/6ckEar8o3QDbpIK520uRyx) | [Far Away](https://open.spotify.com/album/4LmSHbGhpvsVK1kGPv0KeT) | 4:06 | 2022-09-06 |  |
 | [Final Feliz](https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL) | [Shah Feryan](https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx) | [Focus Forward](https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR) | 3:00 | 2022-09-06 |  |
+| [Garden of Tranquility \- Studio Edit](https://open.spotify.com/track/3kqiXiHTpo3P8DHVT2tzhY) | [SARAB](https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI) | [Garden of Tranquility](https://open.spotify.com/album/08Ii4bNT3RExNzWsmzr3Tr) | 2:50 | 2023-02-23 |  |
 | [Garden State](https://open.spotify.com/track/1oem56p9BOOYg51OVVkuVn) | [Will Tuinstra](https://open.spotify.com/artist/0saSJJHHdamRyjGmd789FD) | [Garden State](https://open.spotify.com/album/2rQMnPvRvBxACgYQ2Pd79S) | 3:35 | 2022-09-06 |  |
 | [Happiness](https://open.spotify.com/track/0lJ5rRcxyYDFddnKptuyXQ) | [Nambara Nim](https://open.spotify.com/artist/3At7zeaoPY1lvcdRNioifv) | [Happiness](https://open.spotify.com/album/4yfV7rBQ4zDMOV5cOh9PBd) | 3:20 | 2023-02-10 |  |
 | [Harmony of Senses](https://open.spotify.com/track/6bJQjILATeEqvRSk9pU6cj) | [Ethnic Moods Academy](https://open.spotify.com/artist/0HPsSqgWf8994BfuySJoZl) | [Journey to Arabia: Namaste Yoga \- Middle Eastern Meditation, Oriental Relaxation, Deep Spiritual Music](https://open.spotify.com/album/4pGkIMQ2xwUJvnOmYyBr5j) | 3:40 | 2022-09-06 |  |

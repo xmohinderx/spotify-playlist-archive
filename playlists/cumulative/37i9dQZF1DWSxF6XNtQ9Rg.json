@@ -853,6 +853,28 @@
     },
     {
       "album": {
+        "name": "Crack Musica",
+        "url": "https://open.spotify.com/album/5jEMsm5dqdur3YKs8RL56B"
+      },
+      "artists": [
+        {
+          "name": "Dark Polo Gang",
+          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251653,
+      "name": "Cavallini (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3StzACYDEYmfOOWNU83iRs"
+    },
+    {
+      "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We"
       },
@@ -1272,7 +1294,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 188145,
       "name": "Fiori Del Male (feat.Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6L9c3eo0Mcfmom3QqsGN0j"

@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Myke Towers by Ian Woods",
-  "num_followers": 6220,
+  "num_followers": 6226,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAzOTk0NCwwMDAwMDAwMGZiMWRiYTk4OWZjZmYzZDJhNzc3YjAzODE2YTc2MTkx",
+  "snapshot_id": "MTY3NzAzOTk0NCwwMDAwMDAwMDE1NDY1NWZmOTllNjRhZGEzNjNlMzA3ZTE1MzIxZDI1",
   "tracks": [
     {
       "added_at": "2023-02-10 11:14:41",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-02-10 11:14:41",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/5JrXPbEvx3yHlWLJYGFJE6"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/4x3HgoN0TpvdyNLU3EKbVi"
-    },
-    {
-      "added_at": "2023-02-10 11:14:41",
-      "album": {
         "name": "Claramente",
         "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 182542,
       "name": "Claramente",
       "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
+    },
+    {
+      "added_at": "2023-02-10 11:14:41",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/5JrXPbEvx3yHlWLJYGFJE6"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/4x3HgoN0TpvdyNLU3EKbVi"
     },
     {
       "added_at": "2023-02-10 11:14:41",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-10 11:14:41",
       "album": {
-        "name": "94",
-        "url": "https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 153680,
-      "name": "94",
-      "url": "https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN"
-    },
-    {
-      "added_at": "2023-02-10 11:14:41",
-      "album": {
         "name": "Para Mi",
         "url": "https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 217411,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
+    },
+    {
+      "added_at": "2023-02-10 11:14:41",
+      "album": {
+        "name": "94",
+        "url": "https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 153680,
+      "name": "94",
+      "url": "https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN"
     },
     {
       "added_at": "2023-02-10 11:14:41",

@@ -2,7 +2,7 @@
 
 ### [Tiësto's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DXafKxB0kzl3A)
 
-> International hitmaker, producer & DJ <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a> takes us through 2022 with his exclusive Spotify mix, featuring banger after banger.
+> International hitmaker, producer & DJ <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a> shares his exclusive Spotify mix, featuring banger after banger.
 
 20 songs - 1 hr 0 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 53839,
+  "num_followers": 53851,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk0ODU4MSwwMDAwMDAwMGY2OGIyOTJiYjE1Zjk0Y2M3M2YzZjg2NWE1ZDcwNGFk",
+  "snapshot_id": "MTY3Njk0ODU4MSwwMDAwMDAwMDk3OWNhYzdiZjkzNzNjM2NjODU3YTJmYjI1MmFmZmZl",
   "tracks": [
     {
       "added_at": "2022-08-02 18:48:01",
@@ -496,7 +496,7 @@
       },
       "artists": [
         {
-          "name": "MAL\u00d3NE",
+          "name": "Mal\u00f3ne",
           "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
         },
         {
@@ -673,6 +673,26 @@
       "url": "https://open.spotify.com/track/2IDa4VHiakky6xNeSrkYE8"
     },
     {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Trago a Trago",
+        "url": "https://open.spotify.com/album/6wJZCc4a0h220aD4oCkckl"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "duration_ms": 137829,
+      "name": "Trago a Trago",
+      "url": "https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX"
+    },
+    {
       "added_at": "2022-12-07 04:39:54",
       "album": {
         "name": "Paradise",
@@ -703,26 +723,6 @@
       "duration_ms": 332560,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Trago a Trago",
-        "url": "https://open.spotify.com/album/6wJZCc4a0h220aD4oCkckl"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        }
-      ],
-      "duration_ms": 137829,
-      "name": "Trago a Trago",
-      "url": "https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "El Pana Dero",
+        "url": "https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "El Pana Dero",
+      "url": "https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Tribu Latina",
         "url": "https://open.spotify.com/album/0vzt5WFJsjVw5hCZLojiK9"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 202500,
       "name": "Tribu Latina",
       "url": "https://open.spotify.com/track/3d3XJIOhedhrt6UbU0KwQf"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "El Pana Dero",
-        "url": "https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I"
-      },
-      "artists": [
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "El Pana Dero",
-      "url": "https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -947,26 +947,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "UP (Bzars Remix)",
-        "url": "https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "UP (Bzars Remix)",
-      "url": "https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/1d1vnzF7rbEKA7Csc4OPo0"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 188689,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/6kEIY1YMGoUG3WGqBzpEEq"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "UP (Bzars Remix)",
+        "url": "https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "UP (Bzars Remix)",
+      "url": "https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "\u00a1V\u00e1monos De Viaje! (Edit)",
-        "url": "https://open.spotify.com/album/7dRPOI1PHOiBR5KaB2HrZ8"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "\u00a1V\u00e1monos De Viaje! - Edit",
-      "url": "https://open.spotify.com/track/37aiG4NvRA0PUI70KKJjm2"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Never Love Me",
         "url": "https://open.spotify.com/album/0ZTaSPCpXrRIr0t9BbKFP9"
       },
@@ -1171,22 +1155,18 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "The King Is Dead",
-        "url": "https://open.spotify.com/album/3yRxD3JAUKPgjDrAkQXXho"
+        "name": "\u00a1V\u00e1monos De Viaje! (Edit)",
+        "url": "https://open.spotify.com/album/7dRPOI1PHOiBR5KaB2HrZ8"
       },
       "artists": [
         {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Steller",
-          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
         }
       ],
-      "duration_ms": 155224,
-      "name": "The King Is Dead",
-      "url": "https://open.spotify.com/track/1JkMlh3QfX8Sed828vjI0g"
+      "duration_ms": 180800,
+      "name": "\u00a1V\u00e1monos De Viaje! - Edit",
+      "url": "https://open.spotify.com/track/37aiG4NvRA0PUI70KKJjm2"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1215,18 +1195,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Hanging Tree",
-        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
+        "name": "The King Is Dead",
+        "url": "https://open.spotify.com/album/3yRxD3JAUKPgjDrAkQXXho"
       },
       "artists": [
         {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
         }
       ],
-      "duration_ms": 173760,
-      "name": "Hanging Tree",
-      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
+      "duration_ms": 155224,
+      "name": "The King Is Dead",
+      "url": "https://open.spotify.com/track/1JkMlh3QfX8Sed828vjI0g"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1247,6 +1231,22 @@
       "duration_ms": 243000,
       "name": "Levante la Mano (Tonga Conga Remix)",
       "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Hanging Tree",
+        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Hanging Tree",
+      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN"
     },
     {
-      "added_at": "2023-01-07 03:40:04",
-      "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT"
-      },
-      "artists": [
-        {
-          "name": "SANTO BEATS",
-          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
-        }
-      ],
-      "duration_ms": 121937,
-      "name": "FUEL",
-      "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
-    },
-    {
       "added_at": "2022-08-02 18:48:01",
       "album": {
         "name": "Don't Let Me Go",
@@ -1515,6 +1499,22 @@
       "duration_ms": 183870,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE"
+    },
+    {
+      "added_at": "2023-01-07 03:40:04",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT"
+      },
+      "artists": [
+        {
+          "name": "SANTO BEATS",
+          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
+        }
+      ],
+      "duration_ms": 121937,
+      "name": "FUEL",
+      "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1679,18 +1679,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Highway",
-        "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
+        "name": "El Santito",
+        "url": "https://open.spotify.com/album/5nZ6ZTp4KeOq9EYlV4n2SZ"
       },
       "artists": [
         {
-          "name": "Andre VII",
-          "url": "https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Dmitri Saidi",
+          "url": "https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g"
         }
       ],
-      "duration_ms": 369828,
-      "name": "Highway - Original Mix",
-      "url": "https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr"
+      "duration_ms": 222844,
+      "name": "El Santito",
+      "url": "https://open.spotify.com/track/5fau5l1O4BhhJlho8S7UdC"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1719,22 +1723,18 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "El Santito",
-        "url": "https://open.spotify.com/album/5nZ6ZTp4KeOq9EYlV4n2SZ"
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Dmitri Saidi",
-          "url": "https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g"
+          "name": "Andre VII",
+          "url": "https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq"
         }
       ],
-      "duration_ms": 222844,
-      "name": "El Santito",
-      "url": "https://open.spotify.com/track/5fau5l1O4BhhJlho8S7UdC"
+      "duration_ms": 369828,
+      "name": "Highway - Original Mix",
+      "url": "https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "We Don\u2019t Care (Incl. SaberZ Remix)",
-        "url": "https://open.spotify.com/album/5qKNGI7G6cWffK3ze90yai"
-      },
-      "artists": [
-        {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
-        },
-        {
-          "name": "Kazhi",
-          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
-        }
-      ],
-      "duration_ms": 173243,
-      "name": "We Don't Care",
-      "url": "https://open.spotify.com/track/382ySBv00owmZOwA8xreBY"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Perder (Hakuna)",
         "url": "https://open.spotify.com/album/64qQ5mcZmAlOCLrulNudlh"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 178536,
       "name": "Perder - Hakuna",
       "url": "https://open.spotify.com/track/6L2CqVszA9dpjR6jasxvYY"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "We Don\u2019t Care (Incl. SaberZ Remix)",
+        "url": "https://open.spotify.com/album/5qKNGI7G6cWffK3ze90yai"
+      },
+      "artists": [
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        },
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+        }
+      ],
+      "duration_ms": 173243,
+      "name": "We Don't Care",
+      "url": "https://open.spotify.com/track/382ySBv00owmZOwA8xreBY"
     },
     {
       "added_at": "2022-08-02 18:48:01",

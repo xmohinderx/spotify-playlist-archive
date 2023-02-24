@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > <a href="http://bluegiant.jp/">BLUE GIANT EXPLORER</a>とSpotifyのコラボ・プレイリスト。<br/>いよいよアメリカに上陸した主人公＝宮本大が愛聴する、新旧のジャズの名曲たち！
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,974 likes - 30 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,055 likes - 30 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 | 17 | [Newk's Fadeaway](https://open.spotify.com/track/6dqa2J00i7PtgUwKTa7rRP) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Sonny Rollins With The Modern Jazz Quartet](https://open.spotify.com/album/1Vnn90iSXyOn5jCh0l9Usl) | 3:11 |
 | 18 | [Kofi](https://open.spotify.com/track/6Hk76REBGJGtePFcMWVxQT) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Kofi](https://open.spotify.com/album/41rZeHM1GX1aocheecDsBr) | 7:46 |
 | 19 | [Smile \- Rudy Van Gelder Edition/2004 Remaster](https://open.spotify.com/track/3twTFhmtilczlnGTalMvN2) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Calling \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P) | 3:23 |
-| 20 | [It Never Entered My Mind \- Remastered](https://open.spotify.com/track/47zglRNpxJfxadAe3C6xQe) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Miles Davis \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 4:03 |
+| 20 | [It Never Entered My Mind \- Remastered](https://open.spotify.com/track/47zglRNpxJfxadAe3C6xQe) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Volume 2 \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 4:03 |
 | 21 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 |
 | 22 | [Speak Like A Child](https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 7:50 |
 | 23 | [Mosaic \- 2005 Remaster](https://open.spotify.com/track/7fX1jZuluhiOhVx5HKzIBA) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Mosaic \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0ROzOHhkPnjLnHFLJ49Xco) | 8:13 |

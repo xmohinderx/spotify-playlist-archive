@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-237 songs - 17 hr 14 min
+238 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Charles Duke](https://open.spotify.com/track/2C7lu8FJWZXeIv1MV6ena8) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [LUNA](https://open.spotify.com/album/4HwFLDcgHHI1t0OpUGeW5M) | 4:26 | 2022-03-25 | 2022-10-26 |
 | [Circle 23 \- Slow Meadow Rework](https://open.spotify.com/track/6Rk40KBJsfnmmQbg3R35VY) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Circle 23 \(Slow Meadow Rework\)](https://open.spotify.com/album/66rfRw6aDTgOeSTT8xfN6J) | 5:23 | 2021-12-10 |  |
 | [Circle 26 \- Tom Ashbrook Rework](https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Circle 26 \(Tom Ashbrook Rework\)](https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349) | 3:40 | 2021-12-10 |  |
-| [Circle 31](https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i) | [Circle 31](https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk) | 4:17 | 2022-09-02 |  |
+| [Circle 31](https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i) | [Circle 31](https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk) | 4:17 | 2022-09-02 | 2023-02-24 |
 | [Clair de lune \- Arr\. for Theremin and Voice](https://open.spotify.com/track/2VrCFjVIxFRT924d2NDyce) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI) | [Clair de lune](https://open.spotify.com/album/1ELRQdm7g1MR5HolqHIR38) | 4:56 | 2022-02-18 | 2022-08-26 |
 | [Close To Her](https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Close To Her](https://open.spotify.com/album/7fDowPFB51eACxbg61btqa) | 3:29 | 2022-03-25 |  |
 | [Cloud Cuckoo](https://open.spotify.com/track/0YzZdp3BjO08QtM4Ybpgly) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [Cloud Cuckoo](https://open.spotify.com/album/2IxMrwvGYxeKe0EXjkQbYs) | 3:29 | 2022-05-27 | 2022-07-19 |
@@ -186,6 +186,7 @@
 | [Prayers](https://open.spotify.com/track/2vmjrsYw0g3fpoJkuIzh05) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Prayers](https://open.spotify.com/album/44M51OEL60fhGnyht1CtVb) | 5:07 | 2022-12-08 | 2023-01-05 |
 | [Rameau, etc](https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ) | [PAVANE](https://open.spotify.com/artist/4PE4i9qqfT0fpCm76kcuuB) | [Rameau, etc](https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1) | 4:05 | 2022-03-25 |  |
 | [Rembihnútur \- Liminal re\-work by Paul Corley](https://open.spotify.com/track/5jPcyrg8ixRFxWcybzoQGt) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 7:24 | 2022-03-25 | 2022-04-01 |
+| [Remembered Words](https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [We All Have Places That We Miss](https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa) | 5:10 | 2023-02-10 |  |
 | [Remembering](https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE) | [Thom Robson](https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk) | [Walking With Ghosts](https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a) | 3:54 | 2023-01-13 | 2023-01-29 |
 | [Retour](https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl), [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [Retour](https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8) | 7:05 | 2021-12-10 |  |
 | [Reverie](https://open.spotify.com/track/49ZOkiemgtMXCePLHIrccO) | [Todd & Klein](https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz) | [Epilogue, Pt\. 1](https://open.spotify.com/album/56A14A6JdE5Cxxw4YKqL8p) | 3:00 | 2021-12-10 | 2022-07-28 |

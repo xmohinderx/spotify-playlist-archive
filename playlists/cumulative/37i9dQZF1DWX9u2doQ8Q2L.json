@@ -800,7 +800,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 138305,
       "name": "BeachBoys",
       "url": "https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u"
@@ -2772,7 +2772,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 276624,
       "name": "Hard Pool",
       "url": "https://open.spotify.com/track/4WVOYJcZi5QhrBVp7sSelj"
@@ -3096,6 +3096,28 @@
     {
       "album": {
         "name": "Highway",
+        "url": "https://open.spotify.com/album/0LRbsy0bndIFllIVDosuQM"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        },
+        {
+          "name": "NF Zessho",
+          "url": "https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143247,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/0CKF5Il9laNqfSWNU36qgZ"
+    },
+    {
+      "album": {
+        "name": "Highway",
         "url": "https://open.spotify.com/album/5HZmVbeStX2ma4GB9GWw4g"
       },
       "artists": [
@@ -3352,6 +3374,24 @@
       "duration_ms": 243531,
       "name": "HOWL",
       "url": "https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb"
+    },
+    {
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/2ff6i92pRXmlG5QpKDOeuU"
+      },
+      "artists": [
+        {
+          "name": "age",
+          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257786,
+      "name": "HUMAN",
+      "url": "https://open.spotify.com/track/2HTPQfPf92R09MFSOaE8nD"
     },
     {
       "album": {
@@ -5206,7 +5246,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 216634,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/620i08CTZIo1K9ycN144lg"
@@ -5360,7 +5400,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 199500,
       "name": "Old Fashioned",
       "url": "https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6"
@@ -7653,6 +7693,24 @@
     },
     {
       "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/2HnbfPdTfU6ALbVGxE7xID"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163790,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/7ErnaYalt2rUa9TZbq5fwU"
+    },
+    {
+      "album": {
         "name": "The Plot / Echo",
         "url": "https://open.spotify.com/album/0rVsFYQTx5WPkaIHOuOdje"
       },
@@ -9332,7 +9390,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 271986,
       "name": "\u306c\u3044",
       "url": "https://open.spotify.com/track/6la6m8JxEAfYL3VUKi0QtH"
@@ -9698,7 +9756,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 198014,
       "name": "\u30cf\u30c4\u30b3\u30a4\u30ce\u30a6\u30bf",
       "url": "https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c"
@@ -9952,6 +10010,32 @@
       "duration_ms": 194347,
       "name": "\u30dd\u30e9\u30ed\u30a4\u30c9",
       "url": "https://open.spotify.com/track/1meYLsqbLSkjMpBS2DDx6T"
+    },
+    {
+      "album": {
+        "name": "\u30de\u30e8\u30a4\u30ac (PHIL REWORK)",
+        "url": "https://open.spotify.com/album/5vxYwjHklE4OKDpd7D0PwR"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        },
+        {
+          "name": "\u84ee\u6cbc\u57f7\u592a\u30d5\u30a3\u30eb",
+          "url": "https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5"
+        },
+        {
+          "name": "Shuta Hasunuma",
+          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247295,
+      "name": "\u30de\u30e8\u30a4\u30ac - PHIL REWORK",
+      "url": "https://open.spotify.com/track/16j0i4b87epv1BYA7AU3P7"
     },
     {
       "album": {
@@ -10491,6 +10575,24 @@
     },
     {
       "album": {
+        "name": "\u571f\u661f\u3068\u30e6\u30cb\u30b3\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/22jKKpIgO83SVo2sF8kCMb"
+      },
+      "artists": [
+        {
+          "name": "Ayane Yamazaki",
+          "url": "https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265978,
+      "name": "\u571f\u661f\u3068\u30e6\u30cb\u30b3\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/7mwC1MjoqPFPiFwUBoy4Nr"
+    },
+    {
+      "album": {
         "name": "\u5909\u308f\u308b\u6d88\u3048\u308b",
         "url": "https://open.spotify.com/album/3wuPwZME3HR7b16YVVfDub"
       },
@@ -10658,7 +10760,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 265498,
       "name": "\u5931\u6557",
       "url": "https://open.spotify.com/track/5XwbJUBGiE0gNKvN7pOa2V"

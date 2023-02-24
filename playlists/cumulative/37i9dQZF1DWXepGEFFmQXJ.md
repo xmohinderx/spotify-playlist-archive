@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Kaylee Bell
+> The cream of today's Country crop\. Cover: Brad Cox
 
-297 songs - 16 hr 15 min
+300 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Heart Don't Break Like That](https://open.spotify.com/track/2V7KxZ0HTzRVqKkQFOawNO) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [A Heart Don't Break Like That](https://open.spotify.com/album/0DCDKUtWSJc3KgIG0JjcwT) | 2:59 | 2022-03-17 | 2022-08-12 |
 | [A Little Love Will Fix You Up](https://open.spotify.com/track/55cp9h1BUgjvwDG4v4swHe) | [The Long and Short Of It](https://open.spotify.com/artist/78GEEWDfGY6HjdDG8CLiiI) | [Midnight Choir](https://open.spotify.com/album/0nBWf4xjmKnwmZKZkibL8B) | 2:52 | 2022-08-05 | 2022-10-28 |
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2022-01-21 | 2022-06-24 |
+| [Acres](https://open.spotify.com/track/4JIWCqW9WFHYD7Snwxji7m) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Acres](https://open.spotify.com/album/59ZMKvAyxlAYf6IioYgSi0) | 3:52 | 2023-02-23 |  |
 | [Admire](https://open.spotify.com/track/0wdFJP36ORnHvKNK0fEtTg) | [Jake Davey](https://open.spotify.com/artist/5dlylLGY11H1ekOD9hwHuK) | [Admire](https://open.spotify.com/album/6OpFEhugnMcaFwgVGoFFcg) | 3:34 | 2022-03-04 | 2022-07-18 |
 | [After the Breakdown](https://open.spotify.com/track/5XsBQNOToyIfL0dGp7KIna) | [McAlister Kemp](https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6) | [After the Breakdown](https://open.spotify.com/album/6TDFO09pfq3OdtvKFEj9Ey) | 3:24 | 2022-03-31 | 2022-06-17 |
 | [Ain't Goin' Home](https://open.spotify.com/track/4HpMCEkK2bAYTsIaMnVfsc) | [Vixens Of Fall](https://open.spotify.com/artist/5E8CKxCEIm6vLESXqUExBt) | [Ain't Goin' Home](https://open.spotify.com/album/2BaCaOKP9hMhf68PTLKJY6) | 3:18 | 2022-07-21 | 2022-10-07 |
@@ -192,6 +193,7 @@
 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 | 2021-12-30 | 2022-04-01 |
 | [One Of Them Nights](https://open.spotify.com/track/5nCsSiaW9gjTaobQ8Hj6zW) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [One Of Them Nights](https://open.spotify.com/album/3BbMi5ff2Tj4OhRGrgk5Ue) | 3:05 | 2022-07-14 | 2023-02-10 |
 | [Only You](https://open.spotify.com/track/0BOAxZQ9xv738lfPKpBBsi) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:05 | 2021-12-30 | 2022-03-18 |
+| [Our Church](https://open.spotify.com/track/1Y4dvnpSu7lLWnM571HWJV) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Matt Cornell](https://open.spotify.com/artist/01eCwGI76wbxMepuNTetLg) | [Our Church](https://open.spotify.com/album/4B4LxUhDgy2eBRaT3UQFxX) | 3:39 | 2023-02-23 |  |
 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 | 2022-06-23 | 2022-09-16 |
 | [Over For You](https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You](https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2) | 3:05 | 2022-10-20 |  |
 | [Paid for Drinking Beer](https://open.spotify.com/track/11oJonCsKfg0OCguWx66kf) | [McAlister Kemp](https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6) | [Paid for Drinking Beer](https://open.spotify.com/album/4nAkZQ5lkuCU82ad47TF5P) | 3:12 | 2022-06-16 | 2022-08-27 |
@@ -241,12 +243,12 @@
 | [Stay In Your Lane](https://open.spotify.com/track/5w6cDriC2fIXeEcmN5WQLv) | [Hinterland](https://open.spotify.com/artist/0rRxOKXLCsE9wuDl0TnrLY) | [Stay In Your Lane](https://open.spotify.com/album/1MNF5gihhNsPwn0WjdE6Ro) | 3:08 | 2022-06-30 | 2022-09-09 |
 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 | 2022-01-31 | 2022-07-12 |
 | [Stereotype](https://open.spotify.com/track/6N4iblHDsHG4jOdgjohRV5) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/4rl9XdFEi5hIagPjROoA55) | 3:42 | 2022-03-31 | 2022-07-15 |
-| [Stick Around](https://open.spotify.com/track/4KJmdT3lIvG64yEIAo9mIP) | [Matt Cornell](https://open.spotify.com/artist/01eCwGI76wbxMepuNTetLg) | [Stick Around](https://open.spotify.com/album/4g49f0BWOlCOjs6E7HMk41) | 3:23 | 2022-10-27 |  |
+| [Stick Around](https://open.spotify.com/track/4KJmdT3lIvG64yEIAo9mIP) | [Matt Cornell](https://open.spotify.com/artist/01eCwGI76wbxMepuNTetLg) | [Stick Around](https://open.spotify.com/album/4g49f0BWOlCOjs6E7HMk41) | 3:23 | 2022-10-27 | 2023-02-24 |
 | [Still The One](https://open.spotify.com/track/6drVWzBYAceXUCAtdl1Fnu) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Still The One](https://open.spotify.com/album/3tQSwavTtrMTGebddI8Fqw) | 2:38 | 2021-12-30 | 2022-05-06 |
 | [Stratosphere](https://open.spotify.com/track/7c2yHFDExS2ufE6Y4n1owc) | [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [Stratosphere](https://open.spotify.com/album/7L9l55MMNZF9AIa65O4tAQ) | 3:07 | 2022-10-13 | 2023-01-06 |
 | [Street Called Main](https://open.spotify.com/track/1CkulMzIn6ISjxiJMxqDz4) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Street Called Main](https://open.spotify.com/album/6hcYMqdIwsg2xfbGsGoQxb) | 3:49 | 2022-10-27 |  |
 | [Stubborn Pride](https://open.spotify.com/track/414EsuxXyDJ5vpUllmt2ue) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Stubborn Pride](https://open.spotify.com/album/1aTYKaVzN0q2tPHiYfkhTj) | 7:09 | 2022-08-11 | 2023-01-19 |
-| [Stubborn Pride](https://open.spotify.com/track/49ExSGKErkQHeqxPnanEcO) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Comeback \(Deluxe\)](https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J) | 7:09 | 2023-01-12 |  |
+| [Stubborn Pride](https://open.spotify.com/track/49ExSGKErkQHeqxPnanEcO) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Comeback \(Deluxe\)](https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J) | 7:09 | 2023-01-12 | 2023-02-24 |
 | [Summer Nights](https://open.spotify.com/track/4JirGOs4LxL71MMiZ2VCba) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Summer Nights](https://open.spotify.com/album/2CYk6UftZW4oIig98jYMI0) | 2:51 | 2023-02-16 |  |
 | [Summer Rain](https://open.spotify.com/track/7AS0u8nC57oTNALtjslOIv) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG) | [Summer Rain](https://open.spotify.com/album/7n5QThNlUNiJ36AmEYFdPI) | 2:21 | 2022-08-11 | 2022-09-04 |
 | [Summer Rain](https://open.spotify.com/track/47lk3vZPjzsmKUsMCR89vz) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Summer Rain](https://open.spotify.com/album/50P7qe9VNgSoooPKOKN5QH) | 2:21 | 2022-09-01 | 2023-02-03 |
@@ -278,6 +280,7 @@
 | [Trouble With A Heartbreak](https://open.spotify.com/track/3HO30hRbkOLU6ZWERayfQO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 3:16 | 2022-07-28 | 2022-09-24 |
 | [Trouble With A Heartbreak](https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Trouble With A Heartbreak](https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28) | 3:16 | 2022-03-31 | 2022-07-29 |
 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 | 2022-09-08 | 2023-02-17 |
+| [Try To Forget You](https://open.spotify.com/track/1lYZtEEGD1UtpSiT9J8Dtc) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [Try To Forget You](https://open.spotify.com/album/1SrKEKh22rvCW04I33xlHb) | 3:06 | 2023-02-23 |  |
 | [Unforgettable](https://open.spotify.com/track/3iGJtZHxtI3O8qD3Iy4vjv) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Unforgettable](https://open.spotify.com/album/5970tU5hee5HwYy4fJbYgD) | 3:30 | 2022-01-27 | 2022-04-22 |
 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 | 2022-09-23 |  |
 | [What Am I Gonna Do?](https://open.spotify.com/track/5endOqbem32xRK4t1CxJep) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [What Am I Gonna Do?](https://open.spotify.com/album/2mMUo8sqXZvnO8gPWAvJVo) | 2:46 | 2022-04-08 | 2022-04-29 |

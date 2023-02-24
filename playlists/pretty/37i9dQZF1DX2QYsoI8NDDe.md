@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Celebrando a los mujerones con sangre mexicana! Cover: Michelle Bi
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,537 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,580 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 82 | [Que Vuelva](https://open.spotify.com/track/6h4krpn1OHlpiRDkthIcJk) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Y Seguimos Con Duranguense](https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR) | 4:18 |
 | 83 | [Pobre Corazón](https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c) | 3:18 |
 | 84 | [No Me Preguntes](https://open.spotify.com/track/7h5SXPuwGLSIenz3cLpSb6) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 2:51 |
-| 85 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Como Te Quiero Yo A Ti \(Regional Mexican Version\)](https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H) | 3:09 |
-| 86 | [La ocasión para amarnos](https://open.spotify.com/track/3kNkKkE4PG8zcbrek4SNQj) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Daniela Romo](https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153) | 3:41 |
+| 85 | [La ocasión para amarnos](https://open.spotify.com/track/3kNkKkE4PG8zcbrek4SNQj) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Daniela Romo](https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153) | 3:41 |
+| 86 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Como Te Quiero Yo A Ti \(Regional Mexican Version\)](https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H) | 3:09 |
 | 87 | [Romeo Y Su Nieta](https://open.spotify.com/track/45q7Y91RaCuQAOk2pCSMGM) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Romeo Y Su Nieta](https://open.spotify.com/album/3RSaSZediHZ92VPNRzf8KU) | 2:14 |
 | 88 | [Amar Y Vivir \- En Vivo](https://open.spotify.com/track/5SMGmsiSlbB0mhoM8RVBxQ) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Amar Y Vivir \(En Vivo Desde La Ciudad De México, 2017\)](https://open.spotify.com/album/4Xjf9chXOeW3SNxnARpMNT) | 3:02 |
 | 89 | [Morí](https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Morí](https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0) | 3:44 |
 | 90 | [El Próximo Viernes \- Live Version](https://open.spotify.com/track/1uW8wYIoulhYK6qIXhakbg) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia En Primera Fila](https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR) | 4:09 |
 | 91 | [Por hablarle de ti](https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:40 |
-| 92 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
+| 92 | [Quiero Amanecer Con Alguien](https://open.spotify.com/track/2ryQUYtQkg8oHvkEyPxPz5) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 4:07 |
 | 93 | [Resulta \- En Vivo](https://open.spotify.com/track/6Dt6PWJ6lRBhhUF9d9UVRg) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [En Vivo Vol.2](https://open.spotify.com/album/31hbmBJOtbKIlm4aJ1YUav) | 5:04 |
-| 94 | [Quiero Amanecer Con Alguien](https://open.spotify.com/track/2ryQUYtQkg8oHvkEyPxPz5) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 4:07 |
+| 94 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
 | 95 | [Yo No Creo en los Hombres \(Pop Radio\)](https://open.spotify.com/track/7jhXzs2FcFGHQMOW2OiMD0) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/0x2GSFcZSDT1uY0TivBxxn) | 3:43 |
-| 96 | [Qué No Me Faltes Tú](https://open.spotify.com/track/4CWs6jJZE4UL2cWv8zl5fl) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [La Malquerida](https://open.spotify.com/album/6x9gNY8gVDP8yd6isgj8AL) | 3:16 |
-| 97 | [Qué Maldición \- Remix](https://open.spotify.com/track/3tHes0wml6ededP4ZVEwET) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Qué Maldición \(Remix\)](https://open.spotify.com/album/6EwsJc0zPtxdk40DlUXGP6) | 3:44 |
+| 96 | [Qué Maldición \- Remix](https://open.spotify.com/track/3tHes0wml6ededP4ZVEwET) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Qué Maldición \(Remix\)](https://open.spotify.com/album/6EwsJc0zPtxdk40DlUXGP6) | 3:44 |
+| 97 | [Qué No Me Faltes Tú](https://open.spotify.com/track/4CWs6jJZE4UL2cWv8zl5fl) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [La Malquerida](https://open.spotify.com/album/6x9gNY8gVDP8yd6isgj8AL) | 3:16 |
 | 98 | [Equivocada \- Live Version](https://open.spotify.com/track/7yc7bnIJpmecG0Jp1rhDyJ) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia En Primera Fila](https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR) | 4:04 |
-| 99 | [Mentiras](https://open.spotify.com/track/15Ua6Q1yeD6GHdf4J0Elws) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [30 Exitos Insuperables](https://open.spotify.com/album/33ZPVVNd1W4MaLloP1H2UC) | 3:56 |
-| 100 | [Mi Problema](https://open.spotify.com/track/3yeCINGZ8cCCoIVV5XZfdV) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:04 |
+| 99 | [Mi Problema](https://open.spotify.com/track/3yeCINGZ8cCCoIVV5XZfdV) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:04 |
+| 100 | [Sobrevivire](https://open.spotify.com/track/41ElxuhnIN7W5lozKT3EXl) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Singles](https://open.spotify.com/album/7uxeDavpgWJrgUnv7GU5EJ) | 3:20 |
 
-Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMGVhYmE5NTg2MWU4MDYxZTBlNDIwNGRiNzkxNjE0MmMw`
+Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDlkZDY4Y2EwMTgyMTRmZDFlMmY1MWNmNDk1MDM1ODhl`

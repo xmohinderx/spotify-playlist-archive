@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 
 > Soft electronic music for your dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,480 likes - 148 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,542 likes - 148 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 111 | [Abloom](https://open.spotify.com/track/21jdnxa5TffMhHItXZ0y0R) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [Abloom](https://open.spotify.com/album/5G08OE0nZRJPJukutFrpcL) | 2:59 |
 | 112 | [One for Babushka](https://open.spotify.com/track/6YfQRaPuHSNcNSyMQ3DXno) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Claptrap](https://open.spotify.com/album/7j1jLxax94o0cRXF7bf81A) | 3:17 |
 | 113 | [I and Love](https://open.spotify.com/track/0GFBdfj09IKlRucWbvOITu) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [I and Love](https://open.spotify.com/album/254L0w6tz1JkfmmYNCuX4t) | 4:01 |
-| 114 | [Bansuri Whistle](https://open.spotify.com/track/6jwotT3mYVp7DPE8LQacEn) | [Sasupt](https://open.spotify.com/artist/1UZDqEZC20MLeXRrbhtWbq) | [Bansuri Whistle](https://open.spotify.com/album/1NDHHw6G5lhTpr2y6qBfun) | 5:42 |
+| 114 | [Bansuri Whistle](https://open.spotify.com/track/6jwotT3mYVp7DPE8LQacEn) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Bansuri Whistle](https://open.spotify.com/album/1NDHHw6G5lhTpr2y6qBfun) | 5:42 |
 | 115 | [Semiconcious](https://open.spotify.com/track/7DZcwJ8CKNIgpgPDnqmDox) | [Brooklynn Contreras](https://open.spotify.com/artist/6ds4IULZlDK5RutmpOhwGt) | [Semiconcious](https://open.spotify.com/album/39yrRMOKpQOdKX1ElgihUm) | 3:00 |
 | 116 | [Back to Java](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Back to Java](https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4) | 3:17 |
 | 117 | [Keep Keepin On](https://open.spotify.com/track/3n7zfj79mavt7QnjuTw2QQ) | [Calitto](https://open.spotify.com/artist/0sUKrTh4bykVgGFl67aau5) | [Keep Keepin On](https://open.spotify.com/album/4XpaShZVMOaDaRkO81Hm3Q) | 3:27 |

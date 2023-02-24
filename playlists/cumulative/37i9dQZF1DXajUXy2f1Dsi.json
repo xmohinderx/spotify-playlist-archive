@@ -1947,6 +1947,28 @@
     },
     {
       "album": {
+        "name": "Lauro: Guitar Music, Vol. 1 - Venezuelan Waltzes",
+        "url": "https://open.spotify.com/album/31Fu1f8xTmLAhLqNaXlqRl"
+      },
+      "artists": [
+        {
+          "name": "Antonio Lauro",
+          "url": "https://open.spotify.com/artist/0V0JCoSmbDzy5hwLsGYoQ7"
+        },
+        {
+          "name": "Adam Holzman",
+          "url": "https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78666,
+      "name": "El Marabino",
+      "url": "https://open.spotify.com/track/532zdGjRSFbfAA1Xh5cFwq"
+    },
+    {
+      "album": {
         "name": "The Liberator / Libertador (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0PeHMW1UaBxR5nUxYfqnks"
       },
@@ -2006,7 +2028,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 271752,
       "name": "El rancho abandonado, Op. 32, No. 4",
       "url": "https://open.spotify.com/track/3laIWTVdXASANIYiCGm6Ul"
@@ -2388,7 +2410,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 491360,
       "name": "Graciela y Buenos Aires",
       "url": "https://open.spotify.com/track/5ZaNOCU2RnxSDAQxKq0EcM"
@@ -2832,7 +2854,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 248493,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/5nYEjku0xTg5ADlxgBwmhR"

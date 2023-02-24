@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - France.",
-  "num_followers": 826182,
+  "num_followers": 826239,
   "original_name": "Top 50 - France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzMwMzc2NDU1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzMwNDYyNjkyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4BZZTXcd5ROagKhynqj61X"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
@@ -45,27 +45,7 @@
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
-      "album": {
-        "name": "Sinc\u00e8rement",
-        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 162480,
-      "name": "Sadio",
-      "url": "https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0"
-    },
-    {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "La Gaule, Vol.1",
         "url": "https://open.spotify.com/album/0xkRuvISedgQKc7BesPxwP"
@@ -85,23 +65,7 @@
       "url": "https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
-      "album": {
-        "name": "Sinc\u00e8rement",
-        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 186253,
-      "name": "Free YSL",
-      "url": "https://open.spotify.com/track/0cFS3AMF9Lhj3CNoFvwjvY"
-    },
-    {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
         "url": "https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE"
@@ -121,7 +85,43 @@
       "url": "https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
+      "album": {
+        "name": "Sinc\u00e8rement",
+        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 162480,
+      "name": "Sadio",
+      "url": "https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0"
+    },
+    {
+      "added_at": "2023-02-23 10:18:12",
+      "album": {
+        "name": "Sinc\u00e8rement",
+        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 186253,
+      "name": "Free YSL",
+      "url": "https://open.spotify.com/track/0cFS3AMF9Lhj3CNoFvwjvY"
+    },
+    {
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "AMBER",
         "url": "https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -153,7 +153,23 @@
       "url": "https://open.spotify.com/track/1IMgLV6uQ1mzc1XzfhLRQt"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
+      "album": {
+        "name": "DNK",
+        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3xrZCGMyXIDqesVz4QwJOL"
+    },
+    {
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/3Q8qW4OUBQWLZaNLR9TxFr"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -189,39 +205,23 @@
       "url": "https://open.spotify.com/track/64rFW9zxAIeH6dLuiB56Tz"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
-        "name": "DNK",
-        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 162373,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/3xrZCGMyXIDqesVz4QwJOL"
+      "duration_ms": 240413,
+      "name": "DIE",
+      "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
-      "album": {
-        "name": "Sinc\u00e8rement",
-        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "Au Bout De La Nuit",
-      "url": "https://open.spotify.com/track/2r6L78L65TyGirzPgJvYEy"
-    },
-    {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Maybach",
         "url": "https://open.spotify.com/album/2tuankgH55CwSsfXPTcMRu"
@@ -241,23 +241,7 @@
       "url": "https://open.spotify.com/track/2doTFAqat5o4dbFq9qUuLT"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
-      "album": {
-        "name": "KMT",
-        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 240413,
-      "name": "DIE",
-      "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
-    },
-    {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -268,28 +252,12 @@
           "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 94253,
-      "name": "Introduction",
-      "url": "https://open.spotify.com/track/48doyYB1i3Yyv3B13R1rZ3"
+      "duration_ms": 181240,
+      "name": "Au Bout De La Nuit",
+      "url": "https://open.spotify.com/track/2r6L78L65TyGirzPgJvYEy"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
-      "album": {
-        "name": "Sinc\u00e8rement",
-        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 217933,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5nPUi1FjzXA2Ur35LIS0X3"
-    },
-    {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -313,7 +281,7 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -324,12 +292,12 @@
           "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 194026,
-      "name": "Only U",
-      "url": "https://open.spotify.com/track/6mq2UNgparrHZkswdKEPdX"
+      "duration_ms": 94253,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/48doyYB1i3Yyv3B13R1rZ3"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Liens du 100",
         "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
@@ -345,7 +313,23 @@
       "url": "https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
+      "album": {
+        "name": "M\u00e9lo",
+        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 152546,
+      "name": "Meuda",
+      "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
+    },
+    {
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Telegram",
         "url": "https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ"
@@ -365,23 +349,7 @@
       "url": "https://open.spotify.com/track/57JhjU33uXlZtmr2Dsk8TX"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
-      "album": {
-        "name": "M\u00e9lo",
-        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 152546,
-      "name": "Meuda",
-      "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
-    },
-    {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
@@ -397,7 +365,7 @@
       "url": "https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -408,12 +376,12 @@
           "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 184746,
-      "name": "Nasa",
-      "url": "https://open.spotify.com/track/6kjLacoo31Ehp4pTHIJhq0"
+      "duration_ms": 217933,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5nPUi1FjzXA2Ur35LIS0X3"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -422,18 +390,14 @@
         {
           "name": "Hamza",
           "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 229920,
-      "name": "Cocoro",
-      "url": "https://open.spotify.com/track/6kjNnf3xoreZJHvZ1oSARR"
+      "duration_ms": 194026,
+      "name": "Only U",
+      "url": "https://open.spotify.com/track/6mq2UNgparrHZkswdKEPdX"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
         "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
@@ -449,7 +413,23 @@
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
+      "album": {
+        "name": "Galactic",
+        "url": "https://open.spotify.com/album/0zIaCF5gbhbOrrMP7C1K2h"
+      },
+      "artists": [
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "duration_ms": 134910,
+      "name": "Galactic",
+      "url": "https://open.spotify.com/track/3NzxPt9QFCTsFBQ0wPVTDe"
+    },
+    {
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "La Force Tranquille",
         "url": "https://open.spotify.com/album/0gfcNJ7BVV5u7JCWYeHHw9"
@@ -465,7 +445,7 @@
       "url": "https://open.spotify.com/track/7i7lGrzY9BHFclTeQSeopG"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -485,7 +465,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
@@ -505,91 +485,7 @@
       "url": "https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
-      "album": {
-        "name": "Galactic",
-        "url": "https://open.spotify.com/album/0zIaCF5gbhbOrrMP7C1K2h"
-      },
-      "artists": [
-        {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
-        }
-      ],
-      "duration_ms": 134910,
-      "name": "Galactic",
-      "url": "https://open.spotify.com/track/3NzxPt9QFCTsFBQ0wPVTDe"
-    },
-    {
-      "added_at": "2023-02-22 10:20:55",
-      "album": {
-        "name": "Liens du 100",
-        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Bolide allemand",
-      "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
-    },
-    {
-      "added_at": "2023-02-22 10:20:55",
-      "album": {
-        "name": "Urus",
-        "url": "https://open.spotify.com/album/2Gf7U6e63AwtWjbG3wVV6P"
-      },
-      "artists": [
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        }
-      ],
-      "duration_ms": 147788,
-      "name": "Urus",
-      "url": "https://open.spotify.com/track/7A2DyRIqqelhZ4caPJMaFI"
-    },
-    {
-      "added_at": "2023-02-22 10:20:55",
-      "album": {
-        "name": "Sinc\u00e8rement",
-        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "Murder",
-      "url": "https://open.spotify.com/track/3LK81r3yptHlliNgLBo1UC"
-    },
-    {
-      "added_at": "2023-02-22 10:20:55",
-      "album": {
-        "name": "Taulier",
-        "url": "https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ"
-      },
-      "artists": [
-        {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 190786,
-      "name": "Qui sait ? (feat. ElGrandeToto)",
-      "url": "https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2"
-    },
-    {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Fetty Wap",
         "url": "https://open.spotify.com/album/3FU8qkXDboBsrASS7VFIqK"
@@ -605,7 +501,55 @@
       "url": "https://open.spotify.com/track/5HavMB9WGE33KK6NL8XjXl"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
+      "album": {
+        "name": "Urus",
+        "url": "https://open.spotify.com/album/2Gf7U6e63AwtWjbG3wVV6P"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "duration_ms": 147788,
+      "name": "Urus",
+      "url": "https://open.spotify.com/track/7A2DyRIqqelhZ4caPJMaFI"
+    },
+    {
+      "added_at": "2023-02-23 10:18:12",
+      "album": {
+        "name": "Liens du 100",
+        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 176746,
+      "name": "Bolide allemand",
+      "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
+    },
+    {
+      "added_at": "2023-02-23 10:18:12",
+      "album": {
+        "name": "Mauvais Ordre",
+        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
+      },
+      "artists": [
+        {
+          "name": "Lomepal",
+          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
+        }
+      ],
+      "duration_ms": 218586,
+      "name": "Decrescendo",
+      "url": "https://open.spotify.com/track/4otT81iBBpaf36roGtzT4a"
+    },
+    {
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -625,23 +569,43 @@
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
-        "name": "Mauvais Ordre",
-        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
+        "name": "Taulier",
+        "url": "https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ"
       },
       "artists": [
         {
-          "name": "Lomepal",
-          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 218586,
-      "name": "Decrescendo",
-      "url": "https://open.spotify.com/track/4otT81iBBpaf36roGtzT4a"
+      "duration_ms": 190786,
+      "name": "Qui sait ? (feat. ElGrandeToto)",
+      "url": "https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
+      "album": {
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/7dISpxgINJOQSuXUTEfB9x"
+    },
+    {
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -652,44 +616,12 @@
           "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 198573,
-      "name": "WWE",
-      "url": "https://open.spotify.com/track/5IuquxbuAYmwm9tucytE3J"
+      "duration_ms": 184746,
+      "name": "Nasa",
+      "url": "https://open.spotify.com/track/6kjLacoo31Ehp4pTHIJhq0"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
-      "album": {
-        "name": "Sinc\u00e8rement",
-        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "Plus Jamais La M\u00eame",
-      "url": "https://open.spotify.com/track/2KwhL5FVELiEoyCj59CRwV"
-    },
-    {
-      "added_at": "2023-02-22 10:20:55",
-      "album": {
-        "name": "Mentalit\u00e9 (Pt. 1)",
-        "url": "https://open.spotify.com/album/1fLfmnXNbu9crr25QC3esR"
-      },
-      "artists": [
-        {
-          "name": "RK",
-          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "Lola",
-      "url": "https://open.spotify.com/track/43vjYTKZg8R5LsuITJ4wVu"
-    },
-    {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
@@ -709,23 +641,23 @@
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
-        "name": "Sentiments",
-        "url": "https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL"
+        "name": "Mentalit\u00e9 (Pt. 1)",
+        "url": "https://open.spotify.com/album/1fLfmnXNbu9crr25QC3esR"
       },
       "artists": [
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
         }
       ],
-      "duration_ms": 191173,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/7dISpxgINJOQSuXUTEfB9x"
+      "duration_ms": 146133,
+      "name": "Lola",
+      "url": "https://open.spotify.com/track/43vjYTKZg8R5LsuITJ4wVu"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "LET GO",
         "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
@@ -741,27 +673,43 @@
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
-        "name": "DNK",
-        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
+        "name": "Sinc\u00e8rement",
+        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         },
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 151000,
-      "name": "Cadeau (feat. Tiakola)",
-      "url": "https://open.spotify.com/track/4serT1J6lu8eTsMMG9VhF8"
+      "duration_ms": 229920,
+      "name": "Cocoro",
+      "url": "https://open.spotify.com/track/6kjNnf3xoreZJHvZ1oSARR"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
+      "album": {
+        "name": "Sinc\u00e8rement",
+        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Murder",
+      "url": "https://open.spotify.com/track/3LK81r3yptHlliNgLBo1UC"
+    },
+    {
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Tiki Taka",
         "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
@@ -777,23 +725,55 @@
       "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
-        "name": "Sinc\u00e8rement",
-        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
+        "name": "Telegram",
+        "url": "https://open.spotify.com/album/2IvmoaCYrxIVVdmfW9082i"
       },
       "artists": [
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         }
       ],
-      "duration_ms": 201533,
-      "name": "I Love U",
-      "url": "https://open.spotify.com/track/3AX8XsctkvdewCyTeYzgOY"
+      "duration_ms": 146440,
+      "name": "Solitaire",
+      "url": "https://open.spotify.com/track/0uSjZhPKuYBcObeetfVlpn"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
+      "album": {
+        "name": "M\u00eame pas un grincement",
+        "url": "https://open.spotify.com/album/3HRJy5fGgdgrCp8g6tEN8O"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 225413,
+      "name": "M\u00eame pas un grincement",
+      "url": "https://open.spotify.com/track/7wNHu6h06KBh20KVYmnRKa"
+    },
+    {
+      "added_at": "2023-02-23 10:18:12",
+      "album": {
+        "name": "Ips\u00e9it\u00e9",
+        "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "\u0394. Dieu ne ment jamais",
+      "url": "https://open.spotify.com/track/6YWjskKykdPsBuiTBOg1VK"
+    },
+    {
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Civilisation Edition Ultime",
         "url": "https://open.spotify.com/album/68YP0pEgwhnfRqQAzu71gP"
@@ -813,7 +793,39 @@
       "url": "https://open.spotify.com/track/6btgTbK2UslfSu0qjTEXQm"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
+      "album": {
+        "name": "Regarde-moi",
+        "url": "https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9"
+      },
+      "artists": [
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        }
+      ],
+      "duration_ms": 164567,
+      "name": "Un jour je marierai un ange",
+      "url": "https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR"
+    },
+    {
+      "added_at": "2023-02-23 10:18:12",
+      "album": {
+        "name": "Sinc\u00e8rement",
+        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 189733,
+      "name": "Plus Jamais La M\u00eame",
+      "url": "https://open.spotify.com/track/2KwhL5FVELiEoyCj59CRwV"
+    },
+    {
+      "added_at": "2023-02-23 10:18:12",
       "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
@@ -829,52 +841,36 @@
       "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
-        "name": "Telegram",
-        "url": "https://open.spotify.com/album/2IvmoaCYrxIVVdmfW9082i"
+        "name": "Sinc\u00e8rement",
+        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
       },
       "artists": [
         {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 146440,
-      "name": "Solitaire",
-      "url": "https://open.spotify.com/track/0uSjZhPKuYBcObeetfVlpn"
+      "duration_ms": 198573,
+      "name": "WWE",
+      "url": "https://open.spotify.com/track/5IuquxbuAYmwm9tucytE3J"
     },
     {
-      "added_at": "2023-02-22 10:20:55",
+      "added_at": "2023-02-23 10:18:12",
       "album": {
-        "name": "Opaque",
-        "url": "https://open.spotify.com/album/4SKv02b5MRQOrbjbDXgdqG"
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
       },
       "artists": [
         {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 214946,
-      "name": "Opaque",
-      "url": "https://open.spotify.com/track/0xiMdJVrFh8Al0dRowFu76"
-    },
-    {
-      "added_at": "2023-02-22 10:20:55",
-      "album": {
-        "name": "M\u00eame pas un grincement",
-        "url": "https://open.spotify.com/album/3HRJy5fGgdgrCp8g6tEN8O"
-      },
-      "artists": [
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 225413,
-      "name": "M\u00eame pas un grincement",
-      "url": "https://open.spotify.com/track/7wNHu6h06KBh20KVYmnRKa"
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     }
   ],
   "unique_name": "Top 50 - France",

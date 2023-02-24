@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 
 > Hear all of NMIXX's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,278 likes - 28 songs - 47 min 38 sec
+[Spotify](https://open.spotify.com/user/spotify) - 14,370 likes - 28 songs - 47 min 38 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

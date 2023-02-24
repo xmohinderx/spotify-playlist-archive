@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: lau.ra & Dope Earth Alien
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,059 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,172 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 70 | [All I Want](https://open.spotify.com/track/1azvFwFJWipzA89MPBRMfj) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5), [matthew james](https://open.spotify.com/artist/00KE0BfmidRniw6CYYnXJy) | [All I Want](https://open.spotify.com/album/4fwVsLLJVk9nXGOYEVhaXJ) | 3:08 |
 | 71 | [Majestic \(Ride or Die\)](https://open.spotify.com/track/19zxhHtJMYoCuR5dmFJ1WN) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Majestic \(Ride or Die\)](https://open.spotify.com/album/1YaY6qMiUUdNY5198aTGet) | 3:08 |
 | 72 | [JUSTIN BIEBER \[Rockstar Wasted Hype Hop Edit\]](https://open.spotify.com/track/1Z84RBVY8aTEL3yVEq1vug) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [JUSTIN BIEBER \[Rockstar Wasted Hype Hop Edit\]](https://open.spotify.com/album/6FLPMg1lOVUgX5yd1DFi9D) | 3:19 |
-| 73 | [Action](https://open.spotify.com/track/4tSeDdrzZtGpEuKjSJFcl2) | [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [Ryan Respinto](https://open.spotify.com/artist/3rDz2rKsTH0GLkK4x1ITcU), [Alex Price](https://open.spotify.com/artist/2xtZchCzPx5YtM0cMNKedw) | [Action](https://open.spotify.com/album/66glNJUCaB46d80nOQf6Co) | 3:18 |
-| 74 | [Step Into It](https://open.spotify.com/track/5NTuMqHe6C2wPNB6pRxnT0) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Karsten Sollors](https://open.spotify.com/artist/0ltQvvKInsKwRwpg6sDW35) | [Step Into It](https://open.spotify.com/album/4TyRY68LRAM61BRBKDNiNq) | 3:09 |
-| 75 | [Spaceship](https://open.spotify.com/track/1GZaUXs4yZ45S5qiAObPTn) | [INNOCENT](https://open.spotify.com/artist/4nLQkTmrwDF2urrLlgLj1y) | [Spaceship](https://open.spotify.com/album/3YV50C8unIF38vKAyMDeSI) | 2:20 |
-| 76 | [Pop Like](https://open.spotify.com/track/6lG6sIWzNkntKpBSBxat4V) | [KARBON](https://open.spotify.com/artist/3KQWdNzEwAMedviqUBAodQ) | [6am EP](https://open.spotify.com/album/5gllxDkktUWrcUZK0ORhmh) | 3:31 |
-| 77 | [Halcyon \- Bensley Remix](https://open.spotify.com/track/2EZPBMS2uL5CoI0P0wmlWt) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF), [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [The Resonance V](https://open.spotify.com/album/2i13ug5QaD2KH7AiQpkJGi) | 4:08 |
+| 73 | [Step Into It](https://open.spotify.com/track/5NTuMqHe6C2wPNB6pRxnT0) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Karsten Sollors](https://open.spotify.com/artist/0ltQvvKInsKwRwpg6sDW35) | [Step Into It](https://open.spotify.com/album/4TyRY68LRAM61BRBKDNiNq) | 3:09 |
+| 74 | [Action](https://open.spotify.com/track/4tSeDdrzZtGpEuKjSJFcl2) | [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [Ryan Respinto](https://open.spotify.com/artist/3rDz2rKsTH0GLkK4x1ITcU), [Alex Price](https://open.spotify.com/artist/2xtZchCzPx5YtM0cMNKedw) | [Action](https://open.spotify.com/album/66glNJUCaB46d80nOQf6Co) | 3:18 |
+| 75 | [Halcyon \- Bensley Remix](https://open.spotify.com/track/2EZPBMS2uL5CoI0P0wmlWt) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF), [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [The Resonance V](https://open.spotify.com/album/2i13ug5QaD2KH7AiQpkJGi) | 4:08 |
+| 76 | [Spaceship](https://open.spotify.com/track/1GZaUXs4yZ45S5qiAObPTn) | [INNOCENT](https://open.spotify.com/artist/4nLQkTmrwDF2urrLlgLj1y) | [Spaceship](https://open.spotify.com/album/3YV50C8unIF38vKAyMDeSI) | 2:20 |
+| 77 | [Pop Like](https://open.spotify.com/track/6lG6sIWzNkntKpBSBxat4V) | [KARBON](https://open.spotify.com/artist/3KQWdNzEwAMedviqUBAodQ) | [6am EP](https://open.spotify.com/album/5gllxDkktUWrcUZK0ORhmh) | 3:31 |
 | 78 | [cantthinkofaname](https://open.spotify.com/track/5QxrUAzSRLlVmgWUvhwbLD) | [Dana Vicci](https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4) | [cantthinkofaname](https://open.spotify.com/album/4F7uTTKK65dLfximrw5FhN) | 3:46 |
 | 79 | [Reunite](https://open.spotify.com/track/2LzBgINM6AAjUHTflU4OiU) | [Minicied](https://open.spotify.com/artist/49UZ0RBgUl86yJ99YgQPhi) | [Reunite](https://open.spotify.com/album/6moBpoGzGg6wkyhks1tyZa) | 3:35 |
 | 80 | [Zilliqa](https://open.spotify.com/track/6pFpkJgi4Uxi37UDBJDjf9) | [Starkillers](https://open.spotify.com/artist/6gJE2UbjRlQBb0dFmMQTm0), [Andrea Godin](https://open.spotify.com/artist/0XR05zlzXQ6FIQ4Nbp2s47) | [Zilliqa](https://open.spotify.com/album/3k8iUColKC25RuqAtpYB5h) | 5:27 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGI1ZjA1NjA1M2U2N2MzNWNjNTQzODdkZjY3OWQ5ZWEw`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDQ0MmQyYzVlOGZkOGI4OGNhMDNlYmEzNmY2OWE0YTVk`

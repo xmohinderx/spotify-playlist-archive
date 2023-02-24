@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-142 songs - 7 hr 31 min
+144 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Entebbe](https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Entebbe](https://open.spotify.com/album/59vlQB3gPrQV9VLhU120ub) | 3:52 | 2022-03-25 |  |
 | [Ex Wako Hawezi](https://open.spotify.com/track/3lHMAXPEoikE95Diavz31s) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Ex Wako Hawezi](https://open.spotify.com/album/1Dc1YLXcQXRuNn55VaWxGc) | 3:48 | 2022-03-10 |  |
 | [Fair Game](https://open.spotify.com/track/0N6jiFbnIPADb0ywO2Chqs) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Fair Game](https://open.spotify.com/album/1IxoYVkTwUXmMnfnPpxQXo) | 2:12 | 2022-01-27 | 2022-08-06 |
-| [Fall In Love](https://open.spotify.com/track/35meyoYQd5k0mDKpk6RlAW) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Fall In Love](https://open.spotify.com/album/1Ity1cTX8gNylmJi5CNtcf) | 1:14 | 2022-04-28 |  |
+| [Fall In Love](https://open.spotify.com/track/35meyoYQd5k0mDKpk6RlAW) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Fall In Love](https://open.spotify.com/album/1Ity1cTX8gNylmJi5CNtcf) | 1:14 | 2022-04-28 | 2023-02-24 |
 | [Feel A Vibe](https://open.spotify.com/track/3sDAbZpJWBxgxry5ATbW9g) | [Iminza](https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br) | [Feel A Vibe](https://open.spotify.com/album/4EjSGOjlSpwN4Kdv3gvALp) | 2:59 | 2021-12-09 |  |
 | [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 | 2022-02-24 | 2022-04-02 |
 | [Filthy Rich](https://open.spotify.com/track/0HRJK34PPIPWu3mEQHgDD9) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Filthy Rich](https://open.spotify.com/album/2xWZiT64H6JH8NSV3kHs0l) | 2:46 | 2022-01-13 |  |
@@ -41,6 +41,7 @@
 | [Fluid](https://open.spotify.com/track/6ujGeCDFqxkzyxLWlKFeGa) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Fluid](https://open.spotify.com/album/2Gl9K6erA2hugDhU1qqbUC) | 3:19 | 2022-05-05 |  |
 | [For Hawi](https://open.spotify.com/track/0sa9IqP77NArCvVe1MkdBp) | [Michelle Gatuiku](https://open.spotify.com/artist/04KS7CODE7DDZ3VvgRrbiT) | [Sky Up Above](https://open.spotify.com/album/4BguiMoE15dCHo5mG2tMv0) | 6:34 | 2021-10-15 | 2022-08-26 |
 | [Funk To Black](https://open.spotify.com/track/1vbXnEiGmrEVeC86HnUul3) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [FUNK TO BLACK](https://open.spotify.com/album/4lSpuoQtBMFGXdmCXkqyki) | 2:23 | 2022-04-25 | 2022-06-18 |
+| [Galatea](https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG) | 3:46 | 2023-02-23 |  |
 | [Gangverment](https://open.spotify.com/track/2sEswtS0JbRU8WnjciNz8I) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Gangverment](https://open.spotify.com/album/2izp2Z7ZsXy5Ks3A6ApDUg) | 2:06 | 2022-09-22 |  |
 | [Genuine](https://open.spotify.com/track/1ERuwIudqIjDkwDBKADD8V) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di), [B.Hobs](https://open.spotify.com/artist/5cI5qKNAllqufhbyybTvC6) | [Genuine](https://open.spotify.com/album/3B7RxI6smax8IV9JJQS2SI) | 2:56 | 2022-01-27 |  |
 | [Genuine](https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di), [B.Hobs](https://open.spotify.com/artist/6j4XLopWlHMQqAR92RvI53) | [Genuine](https://open.spotify.com/album/2hDhraboxuNWVKTbg1sf0x) | 2:56 | 2022-01-27 | 2022-10-22 |
@@ -55,6 +56,7 @@
 | [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 | 2022-02-04 | 2022-10-20 |
 | [I Love the Way You](https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72) | 2:13 | 2022-02-04 |  |
 | [iBururu](https://open.spotify.com/track/3WoZm7j7yedbj9Dh0XIYBX) | [Sema Sole](https://open.spotify.com/artist/6bKkC8yidNL8j94vKjLysJ) | [Bururu](https://open.spotify.com/album/5dtXHFvbsamHEh8YB9MGbX) | 2:54 | 2021-10-15 | 2022-01-28 |
+| [Isn't Love](https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Closure](https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5) | 1:53 | 2023-02-23 |  |
 | [Jaafari's 19th](https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Jaafari's 19th](https://open.spotify.com/album/0ai61scImkAr7m5BXocapW) | 3:33 | 2022-01-27 | 2022-11-20 |
 | [Jaafari's 19th](https://open.spotify.com/track/7ChMpmVqd0NB1KL0vqFv8a) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 3:33 | 2022-01-27 |  |
 | [JAMES BOND](https://open.spotify.com/track/0Iq3j9CMUCsCi2j10BS4os) | [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn) | [JAMES BOND](https://open.spotify.com/album/5CL0vcPX9aWVhD7lzrO4Cu) | 3:16 | 2021-10-29 | 2022-04-29 |
@@ -88,7 +90,7 @@
 | [My Heart Is Yours](https://open.spotify.com/track/5FKRgg3w4e4uKOiLxttCSY) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:05 | 2021-10-15 | 2022-02-05 |
 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 | 2022-05-05 |  |
 | [Nakujali](https://open.spotify.com/track/2d2ogRrGa1wLEkRXiUwB7a) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Nakujali](https://open.spotify.com/album/24ltQJTER5RRMF0zrK90wu) | 2:09 | 2022-06-02 |  |
-| [Ndanu](https://open.spotify.com/track/6BQHAffEfWfGqZK9WKZGuJ) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Ndanu](https://open.spotify.com/album/0S5c02uwpmrACcV7UFgm6y) | 3:28 | 2022-02-04 |  |
+| [Ndanu](https://open.spotify.com/track/6BQHAffEfWfGqZK9WKZGuJ) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Ndanu](https://open.spotify.com/album/0S5c02uwpmrACcV7UFgm6y) | 3:28 | 2022-02-04 | 2023-02-24 |
 | [Never Left](https://open.spotify.com/track/5NmZh4HWwcrABFobXleIF6) | [Cxnrvd](https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ) | [Never Left](https://open.spotify.com/album/1S9nZvo7L2skkCIx6QxlNN) | 2:52 | 2022-02-11 |  |
 | [Never Loose](https://open.spotify.com/track/3W7ZhocyMpK2b4MxwbpGu5) | [Bura](https://open.spotify.com/artist/368JQ3ZxIJ55JQaKaGdh8k) | [Never Loose](https://open.spotify.com/album/3AnUhJWeLVlQ1hD16fQ4bC) | 3:15 | 2021-12-16 |  |
 | [New Level // SUPERWATER](https://open.spotify.com/track/0wIDhVcSIKvB8zxpfJc9dC) | [BEMATA](https://open.spotify.com/artist/795rusHeDFKZwVrgmzx87x) | [New Level // SUPERWATER](https://open.spotify.com/album/2N0k8TVpxu2uZuR3C0tQHH) | 3:20 | 2021-10-15 | 2022-10-28 |

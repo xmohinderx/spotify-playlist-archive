@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 273766,
+  "num_followers": 273774,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY4MTQzOSwwMDAwMDAwMGQwNDZkNzgxNGYzYWQwMGQyMWQzNmRmYmQ2YTVhZmRj",
+  "snapshot_id": "MTY3MjY4MTQzOSwwMDAwMDAwMDBkYTEwMjllNzdmZjRkZmE2YWMzNjE2ZTUyNjY3ZmU5",
   "tracks": [
     {
       "added_at": "2023-01-02 17:43:59",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "Wake Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
         "url": "https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH"
       },
@@ -527,18 +543,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Lift Your Spirit",
-        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
+        "name": "All That Really Matters (Stripped Version)",
+        "url": "https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM"
       },
       "artists": [
         {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 225106,
-      "name": "Wake Me Up - Acoustic",
-      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
+      "duration_ms": 198568,
+      "name": "All That Really Matters - Stripped Version",
+      "url": "https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -559,26 +579,6 @@
       "duration_ms": 185019,
       "name": "Paradise - Guitar Acoustic",
       "url": "https://open.spotify.com/track/6ehKqIkVCkz9chGBwk3alc"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "All That Really Matters (Stripped Version)",
-        "url": "https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 198568,
-      "name": "All That Really Matters - Stripped Version",
-      "url": "https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Tell Me You Love Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "No Promises - Acoustic",
+      "url": "https://open.spotify.com/track/4gd5QOwPhztB74FW28S93P"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Crazy What Love Can Do (Acoustic)",
         "url": "https://open.spotify.com/album/3iRtMz9n1e2yd2TBiuT83x"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 188644,
       "name": "Crazy What Love Can Do - Acoustic",
       "url": "https://open.spotify.com/track/0cCz33JLQYo8LQTddyF0IY"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Tell Me You Love Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "No Promises - Acoustic",
-      "url": "https://open.spotify.com/track/4gd5QOwPhztB74FW28S93P"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -967,22 +967,18 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy"
+        "name": "Say Nothing (MAY-A\u2019s Version)",
+        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
         }
       ],
-      "duration_ms": 293946,
-      "name": "Looking For Your Name",
-      "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
+      "duration_ms": 217894,
+      "name": "Say Nothing - MAY-A\u2019s Version",
+      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1023,6 +1019,26 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 293946,
+      "name": "Looking For Your Name",
+      "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "You Don't Know Me (Acoustic Version)",
         "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 224560,
       "name": "You Don't Know Me - Acoustic Version",
       "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Say Nothing (MAY-A\u2019s Version)",
-        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
-      },
-      "artists": [
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Say Nothing - MAY-A\u2019s Version",
-      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Clarity (Remixes)",
-        "url": "https://open.spotify.com/album/2BgayRsdVhn6knKI5cgUFS"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Clarity - Zedd Union Mix",
-      "url": "https://open.spotify.com/track/2Nf0RbvVIKcL0SbEziqArb"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "How You Love Me (Acoustic Version)",
         "url": "https://open.spotify.com/album/2HwW0kegqZTxmZw6COLgiN"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 171101,
       "name": "How You Love Me - Acoustic Version",
       "url": "https://open.spotify.com/track/4UKlAy4rj6kCXZ076PyHyd"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "Clarity (Remixes)",
+        "url": "https://open.spotify.com/album/2BgayRsdVhn6knKI5cgUFS"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Clarity - Zedd Union Mix",
+      "url": "https://open.spotify.com/track/2Nf0RbvVIKcL0SbEziqArb"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Don't Forget My Love - Acoustic",
-      "url": "https://open.spotify.com/track/11A85UqLSvYdT8Lxba3nVL"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "Hypnotized (Acoustic)",
         "url": "https://open.spotify.com/album/31sIFQ5fOYUQZ62LpNmQzY"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 211068,
       "name": "Hypnotized - Acoustic",
       "url": "https://open.spotify.com/track/47iizIcROe1dhW3ii9cvTf"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Don't Forget My Love - Acoustic",
+      "url": "https://open.spotify.com/track/11A85UqLSvYdT8Lxba3nVL"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1859,66 +1859,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Hear Me Say (Acoustic)",
-        "url": "https://open.spotify.com/album/3mZ3lgRGgKJ1osqqH39vH0"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 149525,
-      "name": "Hear Me Say - Acoustic",
-      "url": "https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Synchronize (VIP / Acoustic)",
-        "url": "https://open.spotify.com/album/0AhntYxT3MoNfXO2CMf4fC"
-      },
-      "artists": [
-        {
-          "name": "Hellberg",
-          "url": "https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5"
-        },
-        {
-          "name": "Aaron Richards",
-          "url": "https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp"
-        }
-      ],
-      "duration_ms": 228095,
-      "name": "Synchronize - Acoustic",
-      "url": "https://open.spotify.com/track/5314v8WqYO67WQkrH8q7SX"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Roxanne Emery",
-          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "Good Luck (Acoustic)",
         "url": "https://open.spotify.com/album/5YlinJKokEX5FIeQDCZ9wL"
       },
@@ -1943,6 +1883,66 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Hear Me Say (Acoustic)",
+        "url": "https://open.spotify.com/album/3mZ3lgRGgKJ1osqqH39vH0"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 149525,
+      "name": "Hear Me Say - Acoustic",
+      "url": "https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Roxanne Emery",
+          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "Synchronize (VIP / Acoustic)",
+        "url": "https://open.spotify.com/album/0AhntYxT3MoNfXO2CMf4fC"
+      },
+      "artists": [
+        {
+          "name": "Hellberg",
+          "url": "https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5"
+        },
+        {
+          "name": "Aaron Richards",
+          "url": "https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp"
+        }
+      ],
+      "duration_ms": 228095,
+      "name": "Synchronize - Acoustic",
+      "url": "https://open.spotify.com/track/5314v8WqYO67WQkrH8q7SX"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Melody (Acoustic)",
         "url": "https://open.spotify.com/album/6PV59UYpjm3mws5eNArleY"
       },
@@ -1959,18 +1959,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "They Don't Know Us (Piano Version)",
-        "url": "https://open.spotify.com/album/4rJ12YsAzupoxuVaJYJAh0"
+        "name": "How to Love (feat. Sofia Reyes) [Spanish & Acoustic]",
+        "url": "https://open.spotify.com/album/3MsD918JVOTgVAAGYw94Uy"
       },
       "artists": [
         {
-          "name": "Borgeous",
-          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 201762,
-      "name": "They Don't Know Us - Piano Version",
-      "url": "https://open.spotify.com/track/5t7NI9WuLyDMHafulqpOps"
+      "duration_ms": 201468,
+      "name": "How to Love (feat. Sofia Reyes) - Acoustic",
+      "url": "https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG"
     }
   ],
   "unique_name": "mint Acoustic",

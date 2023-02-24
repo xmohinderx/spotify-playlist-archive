@@ -1,12 +1,12 @@
 {
   "description": "La casa de los corazones rotos.",
-  "num_followers": 1435544,
+  "num_followers": 1436180,
   "original_name": "Mal de Amores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM5NDUzOCwwMDAwMDAwMDdiMDQwYzZlMWQ0ZjE1NmI3ODM5ZDk1MzY5ZWI5MzQ0",
+  "snapshot_id": "MTY3NjM5NDUzOCwwMDAwMDAwMDhiNWM2ZmY5NjVmYjI4ZDg2MGI3MDExMDljYjBjZTFi",
   "tracks": [
     {
       "added_at": "2023-02-14 17:08:58",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-02-14 17:08:58",
       "album": {
+        "name": "Encerrados Pero Enfiestados Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 200488,
+      "name": "Si Tu Amor No Vuelve - Live",
+      "url": "https://open.spotify.com/track/6xnjB5xkhzYzyrtsUAHHWJ"
+    },
+    {
+      "added_at": "2023-02-14 17:08:58",
+      "album": {
         "name": "Me Extra\u00f1o",
         "url": "https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 191880,
       "name": "Me Extra\u00f1o",
       "url": "https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi"
-    },
-    {
-      "added_at": "2023-02-14 17:08:58",
-      "album": {
-        "name": "Encerrados Pero Enfiestados Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 200488,
-      "name": "Si Tu Amor No Vuelve - Live",
-      "url": "https://open.spotify.com/track/6xnjB5xkhzYzyrtsUAHHWJ"
     },
     {
       "added_at": "2023-02-14 17:08:58",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-02-14 17:08:58",
       "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 180542,
+      "name": "Te Vi Con \u00c9l",
+      "url": "https://open.spotify.com/track/3zK8zUmJzPAF4x1AtkxIcR"
+    },
+    {
+      "added_at": "2023-02-14 17:08:58",
+      "album": {
         "name": "Chingas A Tu Madre",
         "url": "https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 204200,
       "name": "Borracho de Amor",
       "url": "https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A"
-    },
-    {
-      "added_at": "2023-02-14 17:08:58",
-      "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 180542,
-      "name": "Te Vi Con \u00c9l",
-      "url": "https://open.spotify.com/track/3zK8zUmJzPAF4x1AtkxIcR"
     },
     {
       "added_at": "2023-02-14 17:08:58",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-02-14 17:08:58",
       "album": {
-        "name": "Querido Ex Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/3EE2AwVMOWthcfk1b5d6iR"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Querido Ex Amor (En Vivo)",
-      "url": "https://open.spotify.com/track/0sxUALE5zJjNBlida8NALL"
-    },
-    {
-      "added_at": "2023-02-14 17:08:58",
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 182106,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
+    },
+    {
+      "added_at": "2023-02-14 17:08:58",
+      "album": {
+        "name": "Querido Ex Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/3EE2AwVMOWthcfk1b5d6iR"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Querido Ex Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/0sxUALE5zJjNBlida8NALL"
     },
     {
       "added_at": "2023-02-14 17:08:58",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-02-14 17:08:58",
       "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
+    },
+    {
+      "added_at": "2023-02-14 17:08:58",
+      "album": {
         "name": "Palabra de Hombre",
         "url": "https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 173866,
       "name": "Mujer De Piedra",
       "url": "https://open.spotify.com/track/4US4uNDUynAor7UMaQHaxv"
-    },
-    {
-      "added_at": "2023-02-14 17:08:58",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
     },
     {
       "added_at": "2023-02-14 17:08:58",
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2023-02-14 17:08:58",
       "album": {
-        "name": "XVII ANIVERSARIO",
-        "url": "https://open.spotify.com/album/4cnDNI7pytSivupozFsMi7"
+        "name": "De Cuando Ac\u00e1",
+        "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
         }
       ],
-      "duration_ms": 225217,
-      "name": "Dijimos",
-      "url": "https://open.spotify.com/track/4IHUyrYKSdwR6qmlhrSKDv"
+      "duration_ms": 178474,
+      "name": "De Cuando Ac\u00e1",
+      "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
     },
     {
       "added_at": "2023-02-14 17:08:58",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2023-02-14 17:08:58",
       "album": {
-        "name": "De Cuando Ac\u00e1",
-        "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
+        "name": "XVII ANIVERSARIO",
+        "url": "https://open.spotify.com/album/4cnDNI7pytSivupozFsMi7"
       },
       "artists": [
         {
-          "name": "La Energia Nortena",
-          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 178474,
-      "name": "De Cuando Ac\u00e1",
-      "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
+      "duration_ms": 225217,
+      "name": "Dijimos",
+      "url": "https://open.spotify.com/track/4IHUyrYKSdwR6qmlhrSKDv"
     },
     {
       "added_at": "2023-02-14 17:08:58",

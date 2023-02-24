@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Zack Dyer, Artwork: Fanélie Muselier
 
-1,278 songs - 2 day 21 hr 51 min
+1,281 songs - 2 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Addicted to Heartbreak](https://open.spotify.com/track/4d8QPsjHCDH1YOWTh9bJpU) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Addicted to Heartbreak](https://open.spotify.com/album/7AjrGlB0p0wpSg4McX95mJ) | 4:04 | 2022-08-10 | 2022-09-15 |
 | [Addicted To You](https://open.spotify.com/track/3W0rRJ2b09PQ98QeD5jaon) | [Alexa Kate Henry](https://open.spotify.com/artist/7Ia1uOjvIjOeCvRl1WGxgu), [DigitalTek](https://open.spotify.com/artist/38WbKG4vfPMrrnHUhfm7Ry) | [Addicted To You](https://open.spotify.com/album/6OBXS3vV3ZboAslOjbb2sT) | 3:11 | 2022-06-15 | 2022-07-21 |
 | [After Me](https://open.spotify.com/track/4bvWD6jaP4PJzj5e2auCzu) | [Morgan Johnston](https://open.spotify.com/artist/7Id5sMAP4fhLdPeweOusnC) | [After Me](https://open.spotify.com/album/4z5eotsFW80CeZ07cZn360) | 2:53 | 2022-07-06 | 2022-08-04 |
+| [After The Sun Goes Down](https://open.spotify.com/track/4ZwXTIuBLn3Wc7crqrmo8d) | [Sean Williams](https://open.spotify.com/artist/6tECOHwuesPtQJvJdZ8gs7) | [After The Sun Goes Down](https://open.spotify.com/album/49np5NxIis4GopJx3m5rtT) | 3:32 | 2023-02-23 |  |
 | [Again](https://open.spotify.com/track/0Ustl8OXZB4GLaGK8HuIPa) | [Todd Cameron](https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL) | [Again](https://open.spotify.com/album/434Wsj2X1jxkxnq4jKq5Sb) | 3:09 | 2023-01-18 | 2023-02-16 |
 | [Ain't Doing Something Right](https://open.spotify.com/track/5lesYQ4UDsSGGFMNf5fLVn) | [After Midtown](https://open.spotify.com/artist/59Idogc5QIefeRoxcro5fs) | [Don't Give Away The Ending](https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa) | 3:32 | 2021-12-01 | 2022-01-13 |
 | [Ain't Got the Heart](https://open.spotify.com/track/5WvHZvK7EkrTFOSttRAmTv) | [Jeb Gipson](https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF) | [Ain't Got the Heart](https://open.spotify.com/album/4dJrfQpx73rRWTpN84an2P) | 3:18 | 2023-01-18 | 2023-02-16 |
@@ -198,6 +199,7 @@
 | [Car](https://open.spotify.com/track/1ROJYnhmEDutnEEA3LdJcN) | [Willie Morrison](https://open.spotify.com/artist/1TLEakWAFDv8bQeDW0zr0W) | [Car](https://open.spotify.com/album/0F0XEsJn5VJ86MDyImHDNk) | 3:15 | 2022-03-02 | 2022-04-14 |
 | [Card Game](https://open.spotify.com/track/1OcPhIgxeyh9F2fXqHPbdQ) | [Colten Jesse](https://open.spotify.com/artist/2a54v7t8zdzGJxDKHhEGrT) | [Card Game](https://open.spotify.com/album/1hLCVNCl5mTAzdBhEVRNOm) | 3:54 | 2022-10-19 | 2022-12-01 |
 | [Carefree](https://open.spotify.com/track/6gskDkFXQj5kuUvJohNhM6) | [Brittany Maggs](https://open.spotify.com/artist/7nhHQaEhJJWxz51Eey1hQ0) | [Carefree](https://open.spotify.com/album/5ivgsUoOAhJXWwnEcezbKi) | 3:20 | 2022-08-03 | 2022-09-15 |
+| [Careful What You Pray For](https://open.spotify.com/track/1Pc44ezqsg2xVFGVrd5cfO) | [Kyle Coulahan](https://open.spotify.com/artist/3IdOgOU1lVWJMqpKYJQCD6) | [Careful What You Pray For](https://open.spotify.com/album/6ay6PNP64G8k1ylOvxprhq) | 3:13 | 2023-02-23 |  |
 | [Carolina](https://open.spotify.com/track/5Q7BgJ0EhqFWdqlMtgDUgM) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [White Trash Revelry](https://open.spotify.com/album/2GlHvIfPIhJCgpqimu1mTP) | 3:24 | 2023-01-11 | 2023-02-09 |
 | [Casual](https://open.spotify.com/track/782ZzWLrCziHo3uVpgJ8qk) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2) | [Anything But Casual](https://open.spotify.com/album/1OKK45Ysi9Iu5r3WhsEI8s) | 3:27 | 2022-01-26 | 2022-03-10 |
 | [Catching Fire](https://open.spotify.com/track/2jDMfJiwAzJKl1a1X4anEg) | [Lost Saints](https://open.spotify.com/artist/7yesAkgxokciQUMxMeZtsy) | [Catching Fire](https://open.spotify.com/album/0I3SV9aqIY2kNOHEdgEG2Q) | 2:55 | 2022-07-06 | 2022-08-04 |
@@ -787,6 +789,7 @@
 | [My Kind of Paradise](https://open.spotify.com/track/4H3auEbmMoWqc13ns3u2MS) | [Mike Whiteside](https://open.spotify.com/artist/3gx8Jy5EhQET99sstT90bk) | [My Kind of Paradise](https://open.spotify.com/album/50JOZnRf31tSFX9cPMlDAy) | 3:13 | 2022-02-09 | 2022-03-24 |
 | [My Kinda Country](https://open.spotify.com/track/45vE1cFelwn5xT6dbdxrTm) | [Blake Henderson](https://open.spotify.com/artist/5ILg0WBOzkaN5ePByRuMw4) | [My Kinda Country](https://open.spotify.com/album/2HoCUUfvCvQTNQALIQQUkA) | 3:04 | 2022-10-05 | 2022-11-03 |
 | [My Last Broken Heart](https://open.spotify.com/track/5VfVx9d9reQSSG1PD1Yn8N) | [Jesse Labelle](https://open.spotify.com/artist/5xLdSGejmdil911M6q1HdU) | [My Last Broken Heart](https://open.spotify.com/album/6EDVGgHoZVYPxgWxRc6YSB) | 3:27 | 2022-08-17 | 2022-09-22 |
+| [My Own Two Hands](https://open.spotify.com/track/3kLbFQBUEVLwboruNjIcCM) | [Matt Jordan](https://open.spotify.com/artist/42o4AcPbHwxBYJm1MK7OqC) | [The Gamble \(Deluxe Edition\)](https://open.spotify.com/album/0mJVpeyj4tY6SgHT3hxVlw) | 3:40 | 2023-02-23 |  |
 | [Naive](https://open.spotify.com/track/31Ptw3pIczChzLahyqzUXC) | [Erin Gibney](https://open.spotify.com/artist/6T2lvnNVmGWVzbmmMAH4TF) | [Naive](https://open.spotify.com/album/3u0p3sbi4mWFXBoiyYmNcQ) | 3:28 | 2022-02-02 | 2022-03-17 |
 | [Name Drop](https://open.spotify.com/track/4tiezSQT5R9a5bOef15mKj) | [River Town Saints](https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo) | [Name Drop](https://open.spotify.com/album/4BBl9CNwXfEXF7BugZYlfT) | 2:48 | 2022-06-15 | 2022-07-21 |
 | [Never Been in Love](https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/25xDXodLiZRjEve55T9A8G) | 2:59 | 2021-12-01 | 2022-01-13 |

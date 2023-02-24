@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 97720,
+  "num_followers": 97742,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDJkMjgwZGRlOGVmZGVhNjk2YjBhZjdkZDc5OWNhMjcy",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDhmMDJlMmM1M2VmMjgyZWJkNjA5YzdiYzExYjYzNDVi",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -535,22 +535,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Under the Influence: Holiday Edition",
-        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
+        "name": "Six Pack: Volume 2",
+        "url": "https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6"
       },
       "artists": [
         {
           "name": "Straight No Chaser",
           "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        },
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
         }
       ],
-      "duration_ms": 160840,
-      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
-      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
+      "duration_ms": 213880,
+      "name": "Rhythm of Love / Can't Help Falling in Love - EP Version",
+      "url": "https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -691,18 +687,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Six Pack: Volume 2",
-        "url": "https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6"
+        "name": "Under the Influence: Holiday Edition",
+        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
       },
       "artists": [
         {
           "name": "Straight No Chaser",
           "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        },
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
         }
       ],
-      "duration_ms": 213880,
-      "name": "Rhythm of Love / Can't Help Falling in Love - EP Version",
-      "url": "https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy"
+      "duration_ms": 160840,
+      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
+      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Best of BOCA: The First 20 Years",
-        "url": "https://open.spotify.com/album/0fYmQbtamuztIVeY5c7Svs"
+        "name": "The Singles: In My Mind",
+        "url": "https://open.spotify.com/album/2mRy0qh8B7XE7ZfBCXGKhY"
       },
       "artists": [
         {
-          "name": "University of Rochester Midnight Ramblers",
-          "url": "https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu"
+          "name": "Voices in Your Head",
+          "url": "https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ"
         }
       ],
-      "duration_ms": 218613,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/7LRWKRtImL5kcLHOZXOntp"
+      "duration_ms": 225916,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/71V0rTB5iFgHkjkTG20iAg"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "The Singles: In My Mind",
-        "url": "https://open.spotify.com/album/2mRy0qh8B7XE7ZfBCXGKhY"
+        "name": "Best of BOCA: The First 20 Years",
+        "url": "https://open.spotify.com/album/0fYmQbtamuztIVeY5c7Svs"
       },
       "artists": [
         {
-          "name": "Voices in Your Head",
-          "url": "https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ"
+          "name": "University of Rochester Midnight Ramblers",
+          "url": "https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu"
         }
       ],
-      "duration_ms": 225916,
-      "name": "We Found Love",
-      "url": "https://open.spotify.com/track/71V0rTB5iFgHkjkTG20iAg"
+      "duration_ms": 218613,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/7LRWKRtImL5kcLHOZXOntp"
     },
     {
       "added_at": "2022-12-09 05:00:00",

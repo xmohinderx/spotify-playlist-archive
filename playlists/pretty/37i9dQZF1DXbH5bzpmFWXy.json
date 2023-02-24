@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Chino Pacas en portada.",
-  "num_followers": 112582,
+  "num_followers": 112780,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMzYwMCwwMDAwMDAwMDEwNWE5OWYzZTkxMzA1MzViMTZkMTJhMjA3YjMwZDFl",
+  "snapshot_id": "MTY3NjYxMzYwMCwwMDAwMDAwMGYxODVjZDk3ZTNkODJlOTYyYjkyOGRlZGU1YWY1MTJi",
   "tracks": [
     {
       "added_at": "2023-02-03 06:00:00",
@@ -1037,26 +1037,6 @@
       "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
     },
     {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
-        "name": "Me Acostumbre (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Me Acostumbre (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
-    },
-    {
       "added_at": "2023-02-03 06:00:00",
       "album": {
         "name": "Ojos Tumbados",
@@ -1075,6 +1055,26 @@
       "duration_ms": 218980,
       "name": "Ojos Tumbados",
       "url": "https://open.spotify.com/track/2uHEX5YxQU9wpHH0dQlChS"
+    },
+    {
+      "added_at": "2022-12-16 06:00:00",
+      "album": {
+        "name": "Me Acostumbre (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Me Acostumbre (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -1113,6 +1113,22 @@
       "url": "https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf"
     },
     {
+      "added_at": "2022-12-16 06:00:00",
+      "album": {
+        "name": "A La PM Puse En Alto",
+        "url": "https://open.spotify.com/album/2hiOsbQn2kl3BnMUN538Jl"
+      },
+      "artists": [
+        {
+          "name": "Doble ONE Flow Letal",
+          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
+        }
+      ],
+      "duration_ms": 261808,
+      "name": "A La PM Puse En Alto",
+      "url": "https://open.spotify.com/track/3gzj2Q3R1oSfp0hlDnzv7J"
+    },
+    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "Malas Rachas (En Vivo)",
@@ -1133,22 +1149,6 @@
       "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"
     },
     {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
-        "name": "A La PM Puse En Alto",
-        "url": "https://open.spotify.com/album/2hiOsbQn2kl3BnMUN538Jl"
-      },
-      "artists": [
-        {
-          "name": "Doble ONE Flow Letal",
-          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
-        }
-      ],
-      "duration_ms": 261808,
-      "name": "A La PM Puse En Alto",
-      "url": "https://open.spotify.com/track/3gzj2Q3R1oSfp0hlDnzv7J"
-    },
-    {
       "added_at": "2022-11-07 23:46:55",
       "album": {
         "name": "Les Cerre La Boca",
@@ -1163,42 +1163,6 @@
       "duration_ms": 206160,
       "name": "El Black",
       "url": "https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Un Dia Todo Se Termina",
-        "url": "https://open.spotify.com/album/1N1BtWoCxBjmLwTTMFRgaG"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 216393,
-      "name": "Un Dia Todo Se Termina",
-      "url": "https://open.spotify.com/track/4h3D9YX8raIWdDaDyiopow"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Ahog\u00e1ndome en Alcohol",
-        "url": "https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 257846,
-      "name": "Ahog\u00e1ndome en Alcohol",
-      "url": "https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1221,6 +1185,22 @@
       "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
     },
     {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Un Dia Todo Se Termina",
+        "url": "https://open.spotify.com/album/1N1BtWoCxBjmLwTTMFRgaG"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 216393,
+      "name": "Un Dia Todo Se Termina",
+      "url": "https://open.spotify.com/track/4h3D9YX8raIWdDaDyiopow"
+    },
+    {
       "added_at": "2022-12-16 06:00:00",
       "album": {
         "name": "Intenciones Malas",
@@ -1239,6 +1219,26 @@
       "duration_ms": 135821,
       "name": "Intenciones Malas",
       "url": "https://open.spotify.com/track/5mHvccDXkSclGx5no3wtZ1"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Ahog\u00e1ndome en Alcohol",
+        "url": "https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 257846,
+      "name": "Ahog\u00e1ndome en Alcohol",
+      "url": "https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT"
     },
     {
       "added_at": "2022-09-23 05:00:00",

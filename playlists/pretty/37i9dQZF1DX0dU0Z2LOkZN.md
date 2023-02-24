@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,243 likes - 207 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,369 likes - 207 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 6 | [D\-Bounce](https://open.spotify.com/track/3ZQzuwNNLstDqee25SQzCp) | [Bus Topp](https://open.spotify.com/artist/6iWgfTsyBsH03H2XDrveyR) | [D\-Bounce](https://open.spotify.com/album/1fYMSkZu4OweUq1yyj8038) | 2:19 |
 | 7 | [Second Flat](https://open.spotify.com/track/7EXuUIbqpxoeEnH0D2cvBw) | [Green Balloon](https://open.spotify.com/artist/2GGLsAPwyfEvtUyKYvELDy) | [Epic Love](https://open.spotify.com/album/5C1vgrBe5b4SeyS2Beap3c) | 1:27 |
 | 8 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 |
-| 9 | [Do Understand](https://open.spotify.com/track/4EM29o6NRkqkcGYZsVUdx5) | [Alex Dumpty](https://open.spotify.com/artist/6U5fHzqa2qiHqlYPzGTB7I) | [Morning Yolk](https://open.spotify.com/album/2Rj4kUv2XhpAko0Ckirg2X) | 2:14 |
+| 9 | [Do Understand](https://open.spotify.com/track/4EM29o6NRkqkcGYZsVUdx5) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Morning Yolk](https://open.spotify.com/album/2Rj4kUv2XhpAko0Ckirg2X) | 2:14 |
 | 10 | [Highly Blessed](https://open.spotify.com/track/6JdfFM5WBrLpLDJ6p5aiEi) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Highly Blessed](https://open.spotify.com/album/1Rv4B8EwsTM4a1cYqfVv6r) | 1:38 |
 | 11 | [Fixed Emotions](https://open.spotify.com/track/7zqjFQqv1FEAv8nlEYLVoR) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [Fixed Emotions](https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu) | 2:38 |
 | 12 | [A Few Days Ahead](https://open.spotify.com/track/29Piig79HQpigQuUtxshPv) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [A Few Days Ahead](https://open.spotify.com/album/5mtJbn2mK0qS0iInJ9tmIt) | 2:22 |

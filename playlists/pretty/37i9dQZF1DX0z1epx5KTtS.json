@@ -1,31 +1,15 @@
 {
-  "description": "African dance party music from Paris to Abidjan. Photo : Serge Beynaud",
-  "num_followers": 63833,
+  "description": "African dance party music from Paris to Abidjan. Photo : DOUPI PAPILLON",
+  "num_followers": 63898,
   "original_name": "Coup\u00e9 D\u00e9cal\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMGI5OTdkZGYxY2U0ZTc0NTg3ZmQ1NzczZGEwNjY0Mjg4",
+  "snapshot_id": "MTY3NzE5MzI2MCwwMDAwMDAwMDU1ZDQ1NjkxNGY2NGQ4YzVkNmQ3MmQwMzU3Yzk5YmIz",
   "tracks": [
     {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "M\u00f4k\u00f4d\u00f4",
-        "url": "https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD"
-      },
-      "artists": [
-        {
-          "name": "Serge Beynaud",
-          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
-        }
-      ],
-      "duration_ms": 218824,
-      "name": "M\u00f4k\u00f4d\u00f4",
-      "url": "https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
         "name": "Chebaba",
         "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
@@ -41,7 +25,39 @@
       "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "M\u00f4k\u00f4d\u00f4",
+        "url": "https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD"
+      },
+      "artists": [
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "duration_ms": 218824,
+      "name": "M\u00f4k\u00f4d\u00f4",
+      "url": "https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Dibango Dibanga",
+        "url": "https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX"
+      },
+      "artists": [
+        {
+          "name": "Bello Falcao",
+          "url": "https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R"
+        }
+      ],
+      "duration_ms": 180321,
+      "name": "Dibango Dibanga",
+      "url": "https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
       "album": {
         "name": "Mademoiselle",
         "url": "https://open.spotify.com/album/2vA35OUTpM5gVmTPnTGSnC"
@@ -61,159 +77,7 @@
       "url": "https://open.spotify.com/track/3Vt5QZrsmeOESKmpciE4ks"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "TCH\u00d4K\u00d4R\u00d4BA",
-        "url": "https://open.spotify.com/album/1NUTQf3AsMDfcCdshXx2gL"
-      },
-      "artists": [
-        {
-          "name": "DJ KEROZEN",
-          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
-        },
-        {
-          "name": "Ste Milano",
-          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
-        }
-      ],
-      "duration_ms": 186086,
-      "name": "TCH\u00d4K\u00d4R\u00d4BA",
-      "url": "https://open.spotify.com/track/3sUcopiGb0rdBfKNprd2Pa"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Dibango Dibanga",
-        "url": "https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX"
-      },
-      "artists": [
-        {
-          "name": "Bello Falcao",
-          "url": "https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R"
-        }
-      ],
-      "duration_ms": 180321,
-      "name": "Dibango Dibanga",
-      "url": "https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "L'oracle",
-        "url": "https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc"
-      },
-      "artists": [
-        {
-          "name": "Mix Premier",
-          "url": "https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY"
-        }
-      ],
-      "duration_ms": 227803,
-      "name": "L'oracle",
-      "url": "https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Rein",
-        "url": "https://open.spotify.com/album/6dkkDjeELnGdewas8yuB2E"
-      },
-      "artists": [
-        {
-          "name": "Obam's",
-          "url": "https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Rein",
-      "url": "https://open.spotify.com/track/5v3phnlqL1HJWobXYH0WHo"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "C'est dos\u00e9",
-        "url": "https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5"
-      },
-      "artists": [
-        {
-          "name": "Serge Beynaud",
-          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "C'est dos\u00e9",
-      "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Bokoko (Extra Musica)",
-        "url": "https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6"
-      },
-      "artists": [
-        {
-          "name": "Roga Roga",
-          "url": "https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug"
-        },
-        {
-          "name": "Extra Musica",
-          "url": "https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K"
-        }
-      ],
-      "duration_ms": 252687,
-      "name": "Bokoko",
-      "url": "https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Best Of DJ Arafat",
-        "url": "https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK"
-      },
-      "artists": [
-        {
-          "name": "DJ Arafat",
-          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
-        }
-      ],
-      "duration_ms": 276900,
-      "name": "Jonathan",
-      "url": "https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "On a pris balle",
-        "url": "https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 227294,
-      "name": "On a pris balle",
-      "url": "https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Allez Dire",
-        "url": "https://open.spotify.com/album/3Z9MaFaOQTvNmwK0PGrsve"
-      },
-      "artists": [
-        {
-          "name": "DJ KEROZEN",
-          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
-        }
-      ],
-      "duration_ms": 211970,
-      "name": "Allez Dire",
-      "url": "https://open.spotify.com/track/1zxQQU3fRRPnpVKM8bd1cf"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
         "name": "Cabri Mort (Remix)",
         "url": "https://open.spotify.com/album/2wEh88diaPfNN7VAJ0plXC"
@@ -233,47 +97,79 @@
       "url": "https://open.spotify.com/track/6oMr9YN0oodyAnR8lfiHZ2"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "\u00c9chauffement (Remix)",
-        "url": "https://open.spotify.com/album/5oBjhFTdm6JAMsJfCxY1dR"
+        "name": "Rein",
+        "url": "https://open.spotify.com/album/6dkkDjeELnGdewas8yuB2E"
       },
       "artists": [
         {
-          "name": "Dayo Lamar",
-          "url": "https://open.spotify.com/artist/05bfMROifJpylezJUnm10j"
-        },
-        {
-          "name": "Fior 2 Bior",
-          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
+          "name": "Obam's",
+          "url": "https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq"
         }
       ],
-      "duration_ms": 128615,
-      "name": "\u00c9chauffement - Remix",
-      "url": "https://open.spotify.com/track/7FrQ65IHw0NCJOPsm2mAML"
+      "duration_ms": 191146,
+      "name": "Rein",
+      "url": "https://open.spotify.com/track/5v3phnlqL1HJWobXYH0WHo"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "Ambiance Mopacho",
-        "url": "https://open.spotify.com/album/5QgIL8XeuoJgyqUeXEx1g6"
+        "name": "Bokoko (Extra Musica)",
+        "url": "https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6"
       },
       "artists": [
         {
-          "name": "Kedjevara",
-          "url": "https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6"
+          "name": "Roga Roga",
+          "url": "https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug"
         },
         {
-          "name": "Afara Tsena",
-          "url": "https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP"
+          "name": "Extra Musica",
+          "url": "https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K"
         }
       ],
-      "duration_ms": 255660,
-      "name": "Ambiance Mopacho",
-      "url": "https://open.spotify.com/track/2M4f4coh903vjprofqQcrW"
+      "duration_ms": 252687,
+      "name": "Bokoko",
+      "url": "https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "C'est dos\u00e9",
+        "url": "https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5"
+      },
+      "artists": [
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "C'est dos\u00e9",
+      "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "TCH\u00d4K\u00d4R\u00d4BA",
+        "url": "https://open.spotify.com/album/1NUTQf3AsMDfcCdshXx2gL"
+      },
+      "artists": [
+        {
+          "name": "DJ KEROZEN",
+          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
+        },
+        {
+          "name": "Ste Milano",
+          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
+        }
+      ],
+      "duration_ms": 186086,
+      "name": "TCH\u00d4K\u00d4R\u00d4BA",
+      "url": "https://open.spotify.com/track/3sUcopiGb0rdBfKNprd2Pa"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
       "album": {
         "name": "Gb\u00eass\u00ea",
         "url": "https://open.spotify.com/album/60ZH03fBOxrVsHuP5VTdee"
@@ -289,43 +185,7 @@
       "url": "https://open.spotify.com/track/4HnSuaffFKg2FveLpOubAr"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Toffol\u00e8 (feat. Koffi Olomid\u00e9)",
-        "url": "https://open.spotify.com/album/6pFvsYQ82OZLx1t5dtIxlQ"
-      },
-      "artists": [
-        {
-          "name": "Ariel Sheney",
-          "url": "https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b"
-        },
-        {
-          "name": "Koffi Olomide",
-          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
-        }
-      ],
-      "duration_ms": 234167,
-      "name": "Toffol\u00e8 (feat. Koffi Olomid\u00e9)",
-      "url": "https://open.spotify.com/track/5SDXcxvvxGoLbfRKg8cX9x"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "C'est g\u00e2t\u00e9",
-        "url": "https://open.spotify.com/album/0WAvLhOtVWCj7DiRtSi5MX"
-      },
-      "artists": [
-        {
-          "name": "Obam's",
-          "url": "https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq"
-        }
-      ],
-      "duration_ms": 198576,
-      "name": "C'est g\u00e2t\u00e9",
-      "url": "https://open.spotify.com/track/5lFhAaksXwDqd0SCj9pK5V"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
         "name": "C'est Dieu",
         "url": "https://open.spotify.com/album/5pDcPJPOZzUkE4dPqoxHzV"
@@ -345,79 +205,7 @@
       "url": "https://open.spotify.com/track/0lzg8WWNBXrp6IAcMNGU54"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "DJAKOTO",
-        "url": "https://open.spotify.com/album/6UylXYPAXpU6Ohpm2Y8Ad5"
-      },
-      "artists": [
-        {
-          "name": "Agato",
-          "url": "https://open.spotify.com/artist/7sDqcdPnwu8MAy5zulMiNz"
-        },
-        {
-          "name": "Dayo Lamar",
-          "url": "https://open.spotify.com/artist/05bfMROifJpylezJUnm10j"
-        }
-      ],
-      "duration_ms": 168756,
-      "name": "DJAKOTO",
-      "url": "https://open.spotify.com/track/4bbLwc6FSnibrV6iZeJ2hM"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Manger la Vie & Gar\u00e7on Djandjou",
-        "url": "https://open.spotify.com/album/7dcAf4da4ajOExJSD7N8Lr"
-      },
-      "artists": [
-        {
-          "name": "Serge Beynaud",
-          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
-        }
-      ],
-      "duration_ms": 193004,
-      "name": "Manger la vie",
-      "url": "https://open.spotify.com/track/6DCVOdL5lk2FxHXZ54T5Eb"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Le Secret",
-        "url": "https://open.spotify.com/album/1h9Xp386wUIbffEgODh4ic"
-      },
-      "artists": [
-        {
-          "name": "Bebi Philip",
-          "url": "https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "Le Secret",
-      "url": "https://open.spotify.com/track/09V5sBv2hhBXSRjXSAB3sb"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Tia Lokolo",
-        "url": "https://open.spotify.com/album/1ztxb2s1GFytG2MiUhNJge"
-      },
-      "artists": [
-        {
-          "name": "Kedjevara",
-          "url": "https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6"
-        },
-        {
-          "name": "Extra Musica Nouvel Horizon",
-          "url": "https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98"
-        }
-      ],
-      "duration_ms": 252489,
-      "name": "Tia Lokolo",
-      "url": "https://open.spotify.com/track/2HF3vfhadGD8031QYEi9UK"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
         "name": "Donnez nous un peu",
         "url": "https://open.spotify.com/album/3uF6riPOUySzte9e68eXUu"
@@ -433,39 +221,39 @@
       "url": "https://open.spotify.com/track/2XnpZ2HWVvEJqUhyhQBGZj"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "\u00c7a me fait",
-        "url": "https://open.spotify.com/album/44cCWmdLfoYuYLmWfhPfzE"
+        "name": "Best Of DJ Arafat",
+        "url": "https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK"
       },
       "artists": [
         {
-          "name": "Chouchou Salvador",
-          "url": "https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI"
+          "name": "DJ Arafat",
+          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
         }
       ],
-      "duration_ms": 222772,
-      "name": "\u00c7a me fait",
-      "url": "https://open.spotify.com/track/621YkVNvsCKXHh45xfsewd"
+      "duration_ms": 276900,
+      "name": "Jonathan",
+      "url": "https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "Le Beau des beaux",
-        "url": "https://open.spotify.com/album/4e9R1lhWaPLrNxAdGHrd70"
+        "name": "L'ARGENT",
+        "url": "https://open.spotify.com/album/1ddf374lK7mJLNirc8dvOS"
       },
       "artists": [
         {
-          "name": "Fanicko",
-          "url": "https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p"
+          "name": "Mix Premier",
+          "url": "https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY"
         }
       ],
-      "duration_ms": 247058,
-      "name": "Le Beau des beaux",
-      "url": "https://open.spotify.com/track/2T5E3D3TLTJS50VNNqkZJf"
+      "duration_ms": 232941,
+      "name": "L'ARGENT",
+      "url": "https://open.spotify.com/track/7scxQF1Vtekl1t8ZEQP8Rp"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
         "name": "Mon gar",
         "url": "https://open.spotify.com/album/7KSSQ9nredhRwgVpwU6jBe"
@@ -481,99 +269,99 @@
       "url": "https://open.spotify.com/track/2OtsMf8cvkkogm5yJZyh44"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "OLUWA OSHE",
-        "url": "https://open.spotify.com/album/5sQZ8G7IXc9SkjdgOuAikB"
+        "name": "Allez Dire",
+        "url": "https://open.spotify.com/album/3Z9MaFaOQTvNmwK0PGrsve"
       },
       "artists": [
         {
-          "name": "Mike Alabi",
-          "url": "https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM"
-        },
-        {
-          "name": "Bebi Philip",
-          "url": "https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt"
+          "name": "DJ KEROZEN",
+          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
         }
       ],
-      "duration_ms": 221414,
-      "name": "OLUWA OSHE",
-      "url": "https://open.spotify.com/track/0ocKa3ZwyFVGfm2pb1xaUc"
+      "duration_ms": 211970,
+      "name": "Allez Dire",
+      "url": "https://open.spotify.com/track/1zxQQU3fRRPnpVKM8bd1cf"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "BINAKA",
-        "url": "https://open.spotify.com/album/0zCYYMTHLUKVTeGJm1w8lh"
+        "name": "C'est g\u00e2t\u00e9",
+        "url": "https://open.spotify.com/album/0WAvLhOtVWCj7DiRtSi5MX"
       },
       "artists": [
         {
-          "name": "Dj Moasco",
-          "url": "https://open.spotify.com/artist/6AfzTdenXg9xaTui9NXoRa"
+          "name": "Obam's",
+          "url": "https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq"
+        }
+      ],
+      "duration_ms": 198576,
+      "name": "C'est g\u00e2t\u00e9",
+      "url": "https://open.spotify.com/track/5lFhAaksXwDqd0SCj9pK5V"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "\u00c9chauffement (Remix)",
+        "url": "https://open.spotify.com/album/5oBjhFTdm6JAMsJfCxY1dR"
+      },
+      "artists": [
+        {
+          "name": "Dayo Lamar",
+          "url": "https://open.spotify.com/artist/05bfMROifJpylezJUnm10j"
         },
+        {
+          "name": "Fior 2 Bior",
+          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
+        }
+      ],
+      "duration_ms": 128615,
+      "name": "\u00c9chauffement - Remix",
+      "url": "https://open.spotify.com/track/7FrQ65IHw0NCJOPsm2mAML"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Tresor",
+        "url": "https://open.spotify.com/album/70u6kE9EXGjpNdjtPiqRJ6"
+      },
+      "artists": [
+        {
+          "name": "Les Patrons",
+          "url": "https://open.spotify.com/artist/1nsZMNRP1vmtIat8hD4bHg"
+        },
+        {
+          "name": "Revolution",
+          "url": "https://open.spotify.com/artist/0psAr2Os4y9mRbgas7mHpk"
+        }
+      ],
+      "duration_ms": 236286,
+      "name": "Zozo",
+      "url": "https://open.spotify.com/track/1Syhx5tRxvICLuxeDVwHIp"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Toffol\u00e8 (feat. Koffi Olomid\u00e9)",
+        "url": "https://open.spotify.com/album/6pFvsYQ82OZLx1t5dtIxlQ"
+      },
+      "artists": [
         {
           "name": "Ariel Sheney",
           "url": "https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b"
-        }
-      ],
-      "duration_ms": 236417,
-      "name": "BINAKA",
-      "url": "https://open.spotify.com/track/4G5lllH9iGUSyFkMDwabMU"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Sol\u00e9 Mol\u00e9",
-        "url": "https://open.spotify.com/album/3uwZVh63OTVP10CYLGbUhF"
-      },
-      "artists": [
-        {
-          "name": "Debordo Leekunfa",
-          "url": "https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "Sol\u00e9 Mol\u00e9",
-      "url": "https://open.spotify.com/track/2Y6dWajudXnoL8ABsSRMpC"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Kindotila (Remix)",
-        "url": "https://open.spotify.com/album/1TMpL7PorVe5YKhc2zlf3L"
-      },
-      "artists": [
-        {
-          "name": "Yvane Kouame",
-          "url": "https://open.spotify.com/artist/3C5aa2x3FFL4JdVjXKJYwP"
         },
         {
-          "name": "Serge Beynaud",
-          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
         }
       ],
-      "duration_ms": 161231,
-      "name": "Kindotila - Remix",
-      "url": "https://open.spotify.com/track/0ZxIKjaUl31uLgla5QJILZ"
+      "duration_ms": 234167,
+      "name": "Toffol\u00e8 (feat. Koffi Olomid\u00e9)",
+      "url": "https://open.spotify.com/track/5SDXcxvvxGoLbfRKg8cX9x"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Rhythms of Zamunda (Music Inspired by the Amazon Original Movie: Coming 2 America)",
-        "url": "https://open.spotify.com/album/3OelY3WvwTxAQGBGgdxEPn"
-      },
-      "artists": [
-        {
-          "name": "DJ Arafat",
-          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
-        }
-      ],
-      "duration_ms": 150453,
-      "name": "Dosabado",
-      "url": "https://open.spotify.com/track/5g9YSheBayQuouTCHXDJt6"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
         "name": "Cocktail",
         "url": "https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN"
@@ -593,10 +381,10 @@
       "url": "https://open.spotify.com/track/5QqYi2I1W5qWs492jukBhc"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "Commando",
-        "url": "https://open.spotify.com/album/34fhvumHC8dqlDhZBaWSXd"
+        "name": "L'oracle",
+        "url": "https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc"
       },
       "artists": [
         {
@@ -604,32 +392,84 @@
           "url": "https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY"
         }
       ],
-      "duration_ms": 172941,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/1FKK9VxAHmqPBXW6WRun5S"
+      "duration_ms": 227803,
+      "name": "L'oracle",
+      "url": "https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "Sur le beat",
-        "url": "https://open.spotify.com/album/0vrSnFVV7uZ9AzQXpNi5Zz"
+        "name": "Rhythms of Zamunda (Music Inspired by the Amazon Original Movie: Coming 2 America)",
+        "url": "https://open.spotify.com/album/3OelY3WvwTxAQGBGgdxEPn"
       },
       "artists": [
         {
-          "name": "Roma Chiyaya",
-          "url": "https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0"
-        },
-        {
-          "name": "Debordo Leekunfa",
-          "url": "https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f"
+          "name": "DJ Arafat",
+          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
         }
       ],
-      "duration_ms": 209502,
-      "name": "Sur le beat",
-      "url": "https://open.spotify.com/track/2Mz0CKrmFgbLxfV44EbOcI"
+      "duration_ms": 150453,
+      "name": "Dosabado",
+      "url": "https://open.spotify.com/track/5g9YSheBayQuouTCHXDJt6"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "On a pris balle",
+        "url": "https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 227294,
+      "name": "On a pris balle",
+      "url": "https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Ambiance Mopacho",
+        "url": "https://open.spotify.com/album/5QgIL8XeuoJgyqUeXEx1g6"
+      },
+      "artists": [
+        {
+          "name": "Kedjevara",
+          "url": "https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6"
+        },
+        {
+          "name": "Afara Tsena",
+          "url": "https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP"
+        }
+      ],
+      "duration_ms": 255660,
+      "name": "Ambiance Mopacho",
+      "url": "https://open.spotify.com/track/2M4f4coh903vjprofqQcrW"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "BINAKA",
+        "url": "https://open.spotify.com/album/0zCYYMTHLUKVTeGJm1w8lh"
+      },
+      "artists": [
+        {
+          "name": "Dj Moasco",
+          "url": "https://open.spotify.com/artist/6AfzTdenXg9xaTui9NXoRa"
+        },
+        {
+          "name": "Ariel Sheney",
+          "url": "https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b"
+        }
+      ],
+      "duration_ms": 236417,
+      "name": "BINAKA",
+      "url": "https://open.spotify.com/track/4G5lllH9iGUSyFkMDwabMU"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
       "album": {
         "name": "D\u00e9bordement",
         "url": "https://open.spotify.com/album/6hWIrIYXRphvEAuUy90cpM"
@@ -649,7 +489,167 @@
       "url": "https://open.spotify.com/track/1O5ZMazV82oegjqaXrphT5"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Le Secret",
+        "url": "https://open.spotify.com/album/1h9Xp386wUIbffEgODh4ic"
+      },
+      "artists": [
+        {
+          "name": "Bebi Philip",
+          "url": "https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Le Secret",
+      "url": "https://open.spotify.com/track/09V5sBv2hhBXSRjXSAB3sb"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "OMNI",
+        "url": "https://open.spotify.com/album/7IdUJMA4X3IzzrQeWfMJJ4"
+      },
+      "artists": [
+        {
+          "name": "Shado Chris",
+          "url": "https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg"
+        },
+        {
+          "name": "Mozard Letagnroter",
+          "url": "https://open.spotify.com/artist/6gpi6KpAKEKb5YBHLKxOEo"
+        }
+      ],
+      "duration_ms": 187232,
+      "name": "CPLM",
+      "url": "https://open.spotify.com/track/1nMW4kWWNlCdZ5YWoUURm8"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "DJAKOTO",
+        "url": "https://open.spotify.com/album/6UylXYPAXpU6Ohpm2Y8Ad5"
+      },
+      "artists": [
+        {
+          "name": "Agato",
+          "url": "https://open.spotify.com/artist/7sDqcdPnwu8MAy5zulMiNz"
+        },
+        {
+          "name": "Dayo Lamar",
+          "url": "https://open.spotify.com/artist/05bfMROifJpylezJUnm10j"
+        }
+      ],
+      "duration_ms": 168756,
+      "name": "DJAKOTO",
+      "url": "https://open.spotify.com/track/4bbLwc6FSnibrV6iZeJ2hM"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Sur le beat",
+        "url": "https://open.spotify.com/album/0vrSnFVV7uZ9AzQXpNi5Zz"
+      },
+      "artists": [
+        {
+          "name": "Roma Chiyaya",
+          "url": "https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0"
+        },
+        {
+          "name": "Debordo Leekunfa",
+          "url": "https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f"
+        }
+      ],
+      "duration_ms": 209502,
+      "name": "Sur le beat",
+      "url": "https://open.spotify.com/track/2Mz0CKrmFgbLxfV44EbOcI"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Manger la Vie & Gar\u00e7on Djandjou",
+        "url": "https://open.spotify.com/album/7dcAf4da4ajOExJSD7N8Lr"
+      },
+      "artists": [
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "duration_ms": 193004,
+      "name": "Manger la vie",
+      "url": "https://open.spotify.com/track/6DCVOdL5lk2FxHXZ54T5Eb"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Ils n'ont pas cru",
+        "url": "https://open.spotify.com/album/5DlZKO83y2BTB7iDCWzuvd"
+      },
+      "artists": [
+        {
+          "name": "Aveiro Djess",
+          "url": "https://open.spotify.com/artist/4lypn4ixPqyT9o2OLDCEsf"
+        }
+      ],
+      "duration_ms": 238504,
+      "name": "Ils n'ont pas cru",
+      "url": "https://open.spotify.com/track/4NmG4x6MnVtv1SPDYkYf7b"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Sol\u00e9 Mol\u00e9",
+        "url": "https://open.spotify.com/album/3uwZVh63OTVP10CYLGbUhF"
+      },
+      "artists": [
+        {
+          "name": "Debordo Leekunfa",
+          "url": "https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "Sol\u00e9 Mol\u00e9",
+      "url": "https://open.spotify.com/track/2Y6dWajudXnoL8ABsSRMpC"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Kindotila (Remix)",
+        "url": "https://open.spotify.com/album/1TMpL7PorVe5YKhc2zlf3L"
+      },
+      "artists": [
+        {
+          "name": "Yvane Kouame",
+          "url": "https://open.spotify.com/artist/3C5aa2x3FFL4JdVjXKJYwP"
+        },
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "duration_ms": 161231,
+      "name": "Kindotila - Remix",
+      "url": "https://open.spotify.com/track/0ZxIKjaUl31uLgla5QJILZ"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Le Beau des beaux",
+        "url": "https://open.spotify.com/album/4e9R1lhWaPLrNxAdGHrd70"
+      },
+      "artists": [
+        {
+          "name": "Fanicko",
+          "url": "https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p"
+        }
+      ],
+      "duration_ms": 247058,
+      "name": "Le Beau des beaux",
+      "url": "https://open.spotify.com/track/2T5E3D3TLTJS50VNNqkZJf"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
       "album": {
         "name": "Mozo Dance",
         "url": "https://open.spotify.com/album/4CfE5TqPCpZTJ5YvKAZhVb"
@@ -673,43 +673,27 @@
       "url": "https://open.spotify.com/track/0dwgVvBmuaoiJJUOkNS8VX"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "Ils n'ont pas cru",
-        "url": "https://open.spotify.com/album/5DlZKO83y2BTB7iDCWzuvd"
+        "name": "OLUWA OSHE",
+        "url": "https://open.spotify.com/album/5sQZ8G7IXc9SkjdgOuAikB"
       },
       "artists": [
         {
-          "name": "Aveiro Djess",
-          "url": "https://open.spotify.com/artist/4lypn4ixPqyT9o2OLDCEsf"
-        }
-      ],
-      "duration_ms": 238504,
-      "name": "Ils n'ont pas cru",
-      "url": "https://open.spotify.com/track/4NmG4x6MnVtv1SPDYkYf7b"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "OMNI",
-        "url": "https://open.spotify.com/album/7IdUJMA4X3IzzrQeWfMJJ4"
-      },
-      "artists": [
-        {
-          "name": "Shado Chris",
-          "url": "https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg"
+          "name": "Mike Alabi",
+          "url": "https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM"
         },
         {
-          "name": "Mozard Letagnroter",
-          "url": "https://open.spotify.com/artist/6gpi6KpAKEKb5YBHLKxOEo"
+          "name": "Bebi Philip",
+          "url": "https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt"
         }
       ],
-      "duration_ms": 187232,
-      "name": "CPLM",
-      "url": "https://open.spotify.com/track/1nMW4kWWNlCdZ5YWoUURm8"
+      "duration_ms": 221414,
+      "name": "OLUWA OSHE",
+      "url": "https://open.spotify.com/track/0ocKa3ZwyFVGfm2pb1xaUc"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:01:00",
       "album": {
         "name": "Coup\u00e9 D\u00e9cal\u00e9 SuperSonic",
         "url": "https://open.spotify.com/album/2zj72TEqodhRAAPb4ngQ0q"
@@ -727,6 +711,22 @@
       "duration_ms": 206470,
       "name": "Coup\u00e9 D\u00e9cal\u00e9 SuperSonic",
       "url": "https://open.spotify.com/track/3WaX1ciQMCAuI9kAD8xpTQ"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/34fhvumHC8dqlDhZBaWSXd"
+      },
+      "artists": [
+        {
+          "name": "Mix Premier",
+          "url": "https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/1FKK9VxAHmqPBXW6WRun5S"
     }
   ],
   "unique_name": "Coup\u00e9 D\u00e9cal\u00e9",

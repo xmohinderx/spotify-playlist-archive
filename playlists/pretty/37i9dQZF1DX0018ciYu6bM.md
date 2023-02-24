@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: MAVE:
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,349 likes - 59 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,221 likes - 59 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 19 | [Typa Girl](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:59 |
 | 20 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 |
 | 21 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 |
-| 22 | [Fly Up \(Concert Ver.\) \(Feat\. Door\)](https://open.spotify.com/track/0M55V4n7l0ULeYP64IcjX7) | [Hwang Chang young](https://open.spotify.com/artist/77i53Qlp3vNOh4Rab2wr56), [Door](https://open.spotify.com/artist/739RUVFap7LGgh9UcIfLdc) | [LOOKISM \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1KHVPqrQsgT5xbNbRXNJjA) | 3:48 |
+| 22 | [Fly Up \(Feat\. Door\) \- Concert Version](https://open.spotify.com/track/0M55V4n7l0ULeYP64IcjX7) | [Hwang Chang young](https://open.spotify.com/artist/77i53Qlp3vNOh4Rab2wr56), [Door](https://open.spotify.com/artist/739RUVFap7LGgh9UcIfLdc) | [LOOKISM \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1KHVPqrQsgT5xbNbRXNJjA) | 3:48 |
 | 23 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 |
 | 24 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 |
 | 25 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 |

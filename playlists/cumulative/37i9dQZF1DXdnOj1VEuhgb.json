@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: G\u00fcne\u015f",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ben Fero",
   "name": "NKVT",
   "tracks": [
     {
@@ -514,7 +514,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 183750,
       "name": "\u0130NAN BANA",
       "url": "https://open.spotify.com/track/4cjnDLZtFqhXry4Srvtk6O"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 132244,
       "name": "MARS",
       "url": "https://open.spotify.com/track/5ribh1wRPknjD7Cg1RLH9P"
@@ -728,6 +728,24 @@
       "duration_ms": 155598,
       "name": "MOVIE",
       "url": "https://open.spotify.com/track/3fznN0fNZAuTSu8f0vDO7E"
+    },
+    {
+      "album": {
+        "name": "NEY LAN",
+        "url": "https://open.spotify.com/album/4qHNw6BDaSsFzLeiBJ7xwc"
+      },
+      "artists": [
+        {
+          "name": "Ben Fero",
+          "url": "https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130235,
+      "name": "NEY LAN",
+      "url": "https://open.spotify.com/track/0SpLI3mIFEvaVyrmPT56s3"
     },
     {
       "album": {
@@ -1288,6 +1306,24 @@
       "duration_ms": 135416,
       "name": "\u00d6z\u00fcr",
       "url": "https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi"
+    },
+    {
+      "album": {
+        "name": "\u015eimdi De\u011filse Ne Zaman?",
+        "url": "https://open.spotify.com/album/3xt3Wi2E4WwCZIJtp0VIHl"
+      },
+      "artists": [
+        {
+          "name": "Jefe",
+          "url": "https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177999,
+      "name": "\u015eimdi De\u011filse Ne Zaman?",
+      "url": "https://open.spotify.com/track/4ImVHwW75uD99O4UHVdYTW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb"

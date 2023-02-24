@@ -2,7 +2,7 @@
 
 ### [Big Room Dance](https://open.spotify.com/playlist/37i9dQZF1DX3d2wagqzwmM)
 
-> Big rooms and big sounds\. Cover: Maddix
+> Big rooms and big sounds\. Cover: Armin van Buuren
 
 285 songs - 15 hr 26 min
 

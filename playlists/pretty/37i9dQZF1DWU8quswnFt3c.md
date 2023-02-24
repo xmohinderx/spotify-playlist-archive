@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to the women of the world at full volume\. Cover: Leony
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,444 likes - 73 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,436 likes - 73 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,28 +33,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 23 | [Suzuki](https://open.spotify.com/track/4HzgLpnh5U2Id1uBHbPuQ0) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Suzuki](https://open.spotify.com/album/7yyp5pGRqPaXmfg1vaxnt9) | 2:39 |
 | 24 | [2/10](https://open.spotify.com/track/5GyjN34ERWoiTbNDEje48C) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [2/10](https://open.spotify.com/album/1WHuYkVgYBm2yh5EbYzyq6) | 3:50 |
 | 25 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
-| 26 | [BLOW!](https://open.spotify.com/track/4dUDX48wvKwio1oXFtmzA6) | [Karencitta](https://open.spotify.com/artist/0touaoSr4QOLYxBJ9lmGgK) | [BLOW!](https://open.spotify.com/album/2xX8q9GzY7xM00hMSCiPkn) | 2:42 |
-| 27 | [Ma Place](https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Ma Place](https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK) | 2:41 |
+| 26 | [Ma Place](https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Ma Place](https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK) | 2:41 |
+| 27 | [BLOW!](https://open.spotify.com/track/4dUDX48wvKwio1oXFtmzA6) | [Karencitta](https://open.spotify.com/artist/0touaoSr4QOLYxBJ9lmGgK) | [BLOW!](https://open.spotify.com/album/2xX8q9GzY7xM00hMSCiPkn) | 2:42 |
 | 28 | [Gazoza](https://open.spotify.com/track/3wPvs8nWjtDhOApqPIdf0y) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Gazoza](https://open.spotify.com/album/52pJhLdz8Le17VGyDOzT5h) | 3:45 |
-| 29 | [Child Of Sin](https://open.spotify.com/track/3ASAvmNlhz4VYt5iUApaHc) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF), [Till Lindemann](https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP) | [Child Of Sin](https://open.spotify.com/album/1GUJ68BpXPPp98eAMzLT6N) | 3:50 |
-| 30 | [Néztek](https://open.spotify.com/track/2RvZC77XsiE9x434T6o1S2) | [Tóth Andi](https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu) | [Néztek](https://open.spotify.com/album/4BW1rSljFjxLD3OXmav7km) | 2:27 |
+| 29 | [Néztek](https://open.spotify.com/track/2RvZC77XsiE9x434T6o1S2) | [Tóth Andi](https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu) | [Néztek](https://open.spotify.com/album/4BW1rSljFjxLD3OXmav7km) | 2:27 |
+| 30 | [Child Of Sin](https://open.spotify.com/track/3ASAvmNlhz4VYt5iUApaHc) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF), [Till Lindemann](https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP) | [Child Of Sin](https://open.spotify.com/album/1GUJ68BpXPPp98eAMzLT6N) | 3:50 |
 | 31 | [foolish thinking](https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [foolish thinking](https://open.spotify.com/album/3aazS3R5JRjdKi2CcbAA3N) | 5:53 |
 | 32 | [Amante y Amigo](https://open.spotify.com/track/4UvRhamcRD4kpjEFtVN2ef) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Mi Historia](https://open.spotify.com/album/2FQg1fzHKwyTEZgk1XziKf) | 3:04 |
 | 33 | [ZOMBIE](https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ZOMBIE](https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv) | 3:13 |
 | 34 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 |
 | 35 | [Mayday](https://open.spotify.com/track/6v28bvjhEHYmBmG1xbpuxL) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Mayday](https://open.spotify.com/album/1Ipdh7E0cyxXCxPhz3wBxJ) | 3:24 |
-| 36 | [הגיל דופק בדלת \(Prod\. By Triangle\)](https://open.spotify.com/track/2trg8gUn9D8OJfbtnpXMdH) | [Carakukly](https://open.spotify.com/artist/7hEYcTJuBYjhekQukXWBWu), [הפשוטע](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) | [הגיל דופק בדלת \(Prod\. By Triangle\)](https://open.spotify.com/album/11jCUGmgUmPa7kilqbjvBt) | 3:03 |
-| 37 | [Break It](https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN) | [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt) | [Break It](https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega) | 2:47 |
+| 36 | [Break It](https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN) | [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt) | [Break It](https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega) | 2:47 |
+| 37 | [הגיל דופק בדלת \(Prod\. By Triangle\)](https://open.spotify.com/track/2trg8gUn9D8OJfbtnpXMdH) | [Carakukly](https://open.spotify.com/artist/7hEYcTJuBYjhekQukXWBWu), [הפשוטע](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) | [הגיל דופק בדלת \(Prod\. By Triangle\)](https://open.spotify.com/album/11jCUGmgUmPa7kilqbjvBt) | 3:03 |
 | 38 | [Haramata](https://open.spotify.com/track/2q2cxmczUo4AAZXmjeNzMk) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Haramata](https://open.spotify.com/album/2dKt5Zwj1nNiOb0ncJSE6W) | 3:12 |
-| 39 | [Hey Mom Hey Dad](https://open.spotify.com/track/4WZxhWx3eLXPkNwjJx2VsP) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Hey Mom Hey Dad](https://open.spotify.com/album/4IfKTKRlwGJa5pCL2TF88D) | 2:53 |
-| 40 | [Down Down Down Down](https://open.spotify.com/track/2N0P1fCYL7tnxq4RiPAz2l) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Down Down Down Down](https://open.spotify.com/album/4dggVrjDYcUArNkVpqdHKU) | 3:11 |
+| 39 | [Down Down Down Down](https://open.spotify.com/track/2N0P1fCYL7tnxq4RiPAz2l) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Down Down Down Down](https://open.spotify.com/album/4dggVrjDYcUArNkVpqdHKU) | 3:11 |
+| 40 | [Hey Mom Hey Dad](https://open.spotify.com/track/4WZxhWx3eLXPkNwjJx2VsP) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Hey Mom Hey Dad](https://open.spotify.com/album/4IfKTKRlwGJa5pCL2TF88D) | 2:53 |
 | 41 | [There's Too Much Of You](https://open.spotify.com/track/7ox53QO10ykeeAkrFvmn3f) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/1RpUrBuml8USoJNuUAbVrH) | 2:18 |
 | 42 | [Late Night People](https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Late Night People](https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo) | 5:34 |
 | 43 | [Juguito Mañanero](https://open.spotify.com/track/3H5Esjz1C6r3nWyBMRNpQI) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Juguito Mañanero](https://open.spotify.com/album/68JOn4Xtdqgez41Wkvic88) | 2:46 |
 | 44 | [Wytrzymam](https://open.spotify.com/track/1cbgaTsV1q6qZ3sfhIVHxh) | [Pola Rise](https://open.spotify.com/artist/3MTuYlKV6qbJXPLh7kmf4B) | [Wytrzymam](https://open.spotify.com/album/2NKBpcoWvoqam8c3JlBUYf) | 4:03 |
 | 45 | [MONA XINA](https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [MONA XINA](https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx) | 2:32 |
-| 46 | [Sejuta Maaf](https://open.spotify.com/track/2dNl9852kqrSurEtz1WsyQ) | [Liza Hanim](https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O) | [Sejuta Maaf](https://open.spotify.com/album/4Ku3zmF2wR54POfcnj36ty) | 3:52 |
-| 47 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 |
+| 46 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 |
+| 47 | [Sejuta Maaf](https://open.spotify.com/track/2dNl9852kqrSurEtz1WsyQ) | [Liza Hanim](https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O) | [Sejuta Maaf](https://open.spotify.com/album/4Ku3zmF2wR54POfcnj36ty) | 3:52 |
 | 48 | [Castelo De Areia](https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Bullet Bane](https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0) | [Castelo De Areia](https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S) | 2:56 |
 | 49 | [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 |
 | 50 | [Honey Bun](https://open.spotify.com/track/20f6NKhIFA61Sw4bjYKHu7) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Honey Bun](https://open.spotify.com/album/4JYcG0gR8kCJ6rd3mKB3hm) | 3:11 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 72 | [Laal Ishq](https://open.spotify.com/track/538KG2KvN1nMhMdXAJa49N) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Laal Ishq](https://open.spotify.com/album/3DwG13lfiH3IL5DWgmyQuR) | 1:53 |
 | 73 | [la jaula](https://open.spotify.com/track/1Be3ou3Z5sBq0qwgR6ymIz) | [Claudia Bain](https://open.spotify.com/artist/0HpMnoBW5aeXNr9tWZyPWt), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [la jaula](https://open.spotify.com/album/2q7xnQethPPhteviQSVkZf) | 3:02 |
 
-Snapshot ID: `MTY3NjQ2MzE4OSwwMDAwMDAwMDRjODQ4YWE4YzFhNjViNTYwOGI4ZTIyNmZlZGE3ZjA3`
+Snapshot ID: `MTY3NjQ2MzE4OSwwMDAwMDAwMDM1YTI2NDJlNmIyZDRjZDQzZjJiYTEyNzVkZDAxNGU4`

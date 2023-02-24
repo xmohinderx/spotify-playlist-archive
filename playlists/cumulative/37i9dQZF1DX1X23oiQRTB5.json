@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Zola & Tiakola au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "Hamza & Offset au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -354,7 +354,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 298080,
       "name": "Branch\u00e9",
       "url": "https://open.spotify.com/track/0aG6nPOgAKnbWOWrAlFLjO"
@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "La Force Tranquille",
+        "url": "https://open.spotify.com/album/0gfcNJ7BVV5u7JCWYeHHw9"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244040,
+      "name": "La Force Tranquille",
+      "url": "https://open.spotify.com/track/7i7lGrzY9BHFclTeQSeopG"
+    },
+    {
+      "album": {
         "name": "SUAVEMENTE",
         "url": "https://open.spotify.com/album/4VM0NDn0OQlz3odTKvnTJf"
       },
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 200279,
       "name": "Malpolis",
       "url": "https://open.spotify.com/track/4MHEsggGJNsgcK1zKD6W1D"
@@ -1763,6 +1781,28 @@
     },
     {
       "album": {
+        "name": "Maybach",
+        "url": "https://open.spotify.com/album/2tuankgH55CwSsfXPTcMRu"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188573,
+      "name": "Maybach",
+      "url": "https://open.spotify.com/track/2doTFAqat5o4dbFq9qUuLT"
+    },
+    {
+      "album": {
         "name": "Metaverse",
         "url": "https://open.spotify.com/album/4yb1lj6MdPuKHJuQlXs5O7"
       },
@@ -1818,7 +1858,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 209032,
       "name": "Milli",
       "url": "https://open.spotify.com/track/21or6VWTcaOPwwVxPioLmJ"
@@ -2508,6 +2548,28 @@
       "duration_ms": 164240,
       "name": "Reste-l\u00e0 (feat. Tiakola)",
       "url": "https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6"
+    },
+    {
+      "album": {
+        "name": "Sinc\u00e8rement",
+        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162480,
+      "name": "Sadio",
+      "url": "https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0"
     },
     {
       "album": {

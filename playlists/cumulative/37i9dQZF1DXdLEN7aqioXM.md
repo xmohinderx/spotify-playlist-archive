@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-389 songs - 1 day 3 hr 51 min
+390 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Keepin' on](https://open.spotify.com/track/6o0AOlWQHSyto3C4wFeP8m) | [Myrone](https://open.spotify.com/artist/36pSrxZllYXcKEeyUqnXTX) | [Humanity](https://open.spotify.com/album/1mNWCwd5pDxalbFZndW2lg) | 4:25 | 2022-07-22 |  |
 | [Kintsugi](https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [Metaversal](https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK) | 5:39 | 2022-02-04 |  |
 | [Krater 3000](https://open.spotify.com/track/6CcXm3RDDNfSjI0AxzYnNC) | [Mono\-Tone](https://open.spotify.com/artist/6x0lWImvRmAYedYhoQkjUx) | [Krater 3000](https://open.spotify.com/album/63OaEhzeCzMhLmhic0W1wY) | 6:00 | 2022-02-04 | 2022-07-28 |
+| [Last Path](https://open.spotify.com/track/2Apx7HHXWmBitTwJxOtQV2) | [VIQ](https://open.spotify.com/artist/6XpN8mRlhuOXuvEyva4yjZ) | [Last Path](https://open.spotify.com/album/6k4WHhBJaf9QdJmbq7QeJK) | 4:02 | 2023-01-13 |  |
 | [Last Path](https://open.spotify.com/track/6g8EEkAjIuJ56RLKKgHpKT) | [VIQ](https://open.spotify.com/artist/6XpN8mRlhuOXuvEyva4yjZ) | [Last Path](https://open.spotify.com/album/2Kk03vlxFYQwv3xH5k3wNC) | 4:02 | 2021-10-15 | 2022-07-28 |
 | [Laugh Away](https://open.spotify.com/track/4qSG7uX4AGz0rBxDQoFxH9) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Laugh Away](https://open.spotify.com/album/6SSX0knQ6kawHeYhyecKFh) | 2:51 | 2021-10-15 | 2022-04-02 |
 | [Less Than Zero \- Waveshaper Remix](https://open.spotify.com/track/3HwJmPyOpvA2uzQ9U48yP5) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [King Protea](https://open.spotify.com/artist/3PwDndbBVU4u5Pgvx0mf9c), [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Less Than Zero \(feat\. King Protea\) \[Waveshaper Remix\]](https://open.spotify.com/album/0ii4KfMrtI7OSNfHnJj8S4) | 4:21 | 2021-10-15 |  |
@@ -254,7 +255,7 @@
 | [Obie](https://open.spotify.com/track/5ZsXVVpUxrxUMt5KUp7Izm) | [The Blizzard](https://open.spotify.com/artist/40lHcSYwAqhkmBPoViitWP) | [Obie](https://open.spotify.com/album/3e2wU9LHYtL1gCkqmTxcRa) | 3:43 | 2022-04-01 | 2022-04-21 |
 | [Ocean Drive Miami 84](https://open.spotify.com/track/7AKXgPdoFdEsC4U11CXcrr) | [Deorbiting](https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr) | [Stil vor Talent 300, Pt\. 3](https://open.spotify.com/album/53RFlPKPzERwJflaaK2YSX) | 7:00 | 2022-04-08 | 2022-04-16 |
 | [Ocean Parkway](https://open.spotify.com/track/1uloqdf6spYzacVShYYsMU) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [Then Again](https://open.spotify.com/album/48u42pkXw9wIIp3LZyfjk3) | 3:13 | 2021-10-15 | 2022-08-03 |
-| [October](https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [October](https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz) | 4:38 | 2022-05-06 |  |
+| [October](https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [October](https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz) | 4:38 | 2022-05-06 | 2023-02-24 |
 | [Odyssey](https://open.spotify.com/track/7BaoPkMMPX5LwdyyUSByKe) | [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO) | [2020 AD](https://open.spotify.com/album/10CEe5Hjg0iHasl8Z2DbSa) | 3:42 | 2021-10-15 |  |
 | [Odyssey Point](https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Odyssey Point](https://open.spotify.com/album/5IVdG5UgyB1oXQGrMa8F56) | 4:17 | 2021-10-15 |  |
 | [Olympus](https://open.spotify.com/track/1b9aCUB4EhpcW5BesCkJsU) | [3FORCE](https://open.spotify.com/artist/0FHXyAFKLg02mIUpNApPgo) | [Olympus](https://open.spotify.com/album/1wZyUeNGvnHImaJzY2FUG4) | 4:36 | 2022-02-04 | 2022-07-28 |

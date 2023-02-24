@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 
 > Enjoy the must\-listen VMC songs selected by VMC that will go down in the history of Korean hip\-hop\. \(Cover: VMC\) \(한국힙합 역사에 길이남을 VMC가 직접 선곡한 꼭 들어봐야할 VMC 노래들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,086 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,083 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

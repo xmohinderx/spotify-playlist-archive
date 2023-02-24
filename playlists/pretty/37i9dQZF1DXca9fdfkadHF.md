@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,882 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,911 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Tiempo](https://open.spotify.com/track/4X2IwER8pyOAnqO17PMd1B) | [Afrodisiaco](https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93) | [Love](https://open.spotify.com/album/123qwjmrd4Kt1hkRJRffbJ) | 3:14 |
 | 2 | [Un Vino, Una Cerveza](https://open.spotify.com/track/5Q2J37xbIR60z6ifswoGKe) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:35 |
 | 3 | [Las Torres](https://open.spotify.com/track/0sN4ERM2Q2UBKyePqfcgv9) | [Nosequien y los Nosecuantos](https://open.spotify.com/artist/53NElDuSIPdjifOGOcvqqe) | [XX Larga Duración](https://open.spotify.com/album/1EGY0YnV5576fW6v8mw9pK) | 3:21 |
-| 4 | [Los Buenos Tiempos](https://open.spotify.com/track/01HnBtxksndufRZ0G4P78H) | [Imágenes](https://open.spotify.com/artist/21FhK40xTF3XpUPXZgdV7Q) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0sKdSlr1ui53Ar4hX71Ntd) | 4:32 |
+| 4 | [Los Buenos Tiempos](https://open.spotify.com/track/7CIkH5bColvkIiHdo0cQVd) | [Imágenes](https://open.spotify.com/artist/21FhK40xTF3XpUPXZgdV7Q) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0MFkglbEJAh1dT5D6Q9Rd7) | 4:32 |
 | 5 | [Lo Peor de Todo](https://open.spotify.com/track/7cnUsQVdrZFNdtIBKZBMb5) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 4:03 |
 | 6 | [Suna](https://open.spotify.com/track/4udGuDY6x5WzWdMiVe3yea) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 4:04 |
 | 7 | [Borracha Cha](https://open.spotify.com/track/7thb9ZOxlnvC2zUJmBae9X) | [Afrodisiaco](https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93), [Ricky Majka](https://open.spotify.com/artist/4xUQJIDnmeo4ucWGvhW0JU), [Amadeo Gaviria](https://open.spotify.com/artist/4CdUtm3UZQmQ14Nxitvp12) | [Borracha Cha](https://open.spotify.com/album/0eQzNdCh2D2Fo9eF0s7QOV) | 3:13 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 40 | [Máquina](https://open.spotify.com/track/1OTgiJYTDcXxp4KFeNzmgh) | [Cuchillazo](https://open.spotify.com/artist/2PUyeJkrdcOntByKHmnKtv) | [DÍas Negros](https://open.spotify.com/album/3PEirdybTes0NQVNKlKzEv) | 2:50 |
 | 41 | [Gracias](https://open.spotify.com/track/0ECtfhLKp1wB7q67bwgUSi) | [Chachi Luján](https://open.spotify.com/artist/7y0peWaS8foIWpoTuLfO1Y) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/5HLcA82W29prT29qKbdbUx) | 3:49 |
 | 42 | [Personalidad](https://open.spotify.com/track/2UO1BZ44RhM74qv13PCixW) | [Jas](https://open.spotify.com/artist/47nHIKTmZwcDtIOaSflgPZ) | [Mueres en Tu Ley](https://open.spotify.com/album/16m1xehdAu0dlKIrWeXuEw) | 3:12 |
-| 43 | [Pronóstico Reservado](https://open.spotify.com/track/0r3r6idica0ZQMUPOzO6w0) | [La Banda Azul](https://open.spotify.com/artist/6egHTp2ACHZXellZBMPXGS) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0sKdSlr1ui53Ar4hX71Ntd) | 2:50 |
+| 43 | [Pronóstico Reservado](https://open.spotify.com/track/7GQX7wuSBQcQfkMcWFeblQ) | [La Banda Azul](https://open.spotify.com/artist/6egHTp2ACHZXellZBMPXGS) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0MFkglbEJAh1dT5D6Q9Rd7) | 2:50 |
 | 44 | [Equidistante](https://open.spotify.com/track/6Cdr1voGvpaY2LWXwXKXfL) | [TK](https://open.spotify.com/artist/2Fyl2R5qMxAPabuAlQEn6l) | [Equidistante](https://open.spotify.com/album/6RNPd8DKJsW3NJX2OHprcf) | 4:39 |
 | 45 | [Un Ovni en Mi Jardín](https://open.spotify.com/track/6EO9B5nyP0cS1auCFDIbYF) | [Trama](https://open.spotify.com/artist/5HT6tm0lJBhS5Zl2tXC0WY) | [Trama](https://open.spotify.com/album/7c7gUfqJxX21nhpDIZ5rX8) | 3:21 |
 | 46 | [Tus Alas Caerán](https://open.spotify.com/track/47RPhZOsbbgeSugavCkqtT) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [\[Campo De Almas\]](https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC) | 5:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 59 | [Confusión](https://open.spotify.com/track/6SiQcAM3WKVf9eP2WQZ0Ok) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Confusión](https://open.spotify.com/album/39JBhk7OBHt3Zv61nZcFte) | 2:46 |
 | 60 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 |
 
-Snapshot ID: `MTY0ODc4OTIwMCwwMDAwMDAwMDA3OTJkMWM5YzRkODYzNzMwOTkwZGUyNmRlYzQ2NTQ1`
+Snapshot ID: `MTY0ODc4OTIwMCwwMDAwMDAwMDUwOTkzN2Q2NmZmYzQ3YzMyNzYyMmY4NmIwYzEyZmMx`

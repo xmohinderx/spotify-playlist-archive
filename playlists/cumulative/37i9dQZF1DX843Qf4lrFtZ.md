@@ -4,7 +4,7 @@
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-1,251 songs - 2 day 15 hr 58 min
+1,252 songs - 2 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,7 +698,7 @@
 | [Midnight Sky](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:43 | 2022-09-29 |  |
 | [Milano](https://open.spotify.com/track/6VAnosTGj9nzhCVgWcz9Kp) | [Mugisho](https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw) | [Milano](https://open.spotify.com/album/3z0sY8wsG9A7AosxPKmj4D) | 2:47 | 2019-08-05 | 2019-08-06 |
 | [Millennial](https://open.spotify.com/track/3c9klj2gGejXCrikD3EX9t) | [ohFrank](https://open.spotify.com/artist/5c73wRE0oKiJKJvwLBFUqD) | [Millennial](https://open.spotify.com/album/6gSB7AaRS1SHwR4B1we8OQ) | 3:04 | 2020-06-13 | 2020-09-25 |
-| [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2022-09-15 |  |
+| [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2022-09-15 | 2023-02-24 |
 | [Million Lights](https://open.spotify.com/track/0MTNn4zNL9sgy5evzyuh71) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Million Lights](https://open.spotify.com/album/2863Sg4z7BIn7aFsojrwmc) | 3:06 | 2019-07-29\* | 2022-04-17 |
 | [Mind Made Up \(feat\. Kylie Auldist\) \- Lenno vs\. Cookin' on 3 Burners](https://open.spotify.com/track/4SSTvCbhOnt4McxalyU8dU) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Kylie Auldist](https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4), [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7) | [Mind Made Up \(feat\. Kylie Auldist\) \[Lenno vs\. Cookin' On 3 Burners\]](https://open.spotify.com/album/4emXvkBs3MqnPrV8uSf38d) | 3:10 | 2019-07-29\* | 2020-01-01 |
 | [Mirror](https://open.spotify.com/track/783Q8cR3BbuBQnVWwosHQ0) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC) | [Mirror](https://open.spotify.com/album/3xb7mcwDudKrBMnMroUNF4) | 2:50 | 2019-07-29\* | 2019-08-10 |
@@ -928,6 +928,7 @@
 | [Running Out Of Roses](https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Walker Racing League](https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV) | 2:16 | 2021-10-10 | 2022-07-29 |
 | [Sacrifice](https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Sacrifice](https://open.spotify.com/album/1Ty6uDLjv7qCgEe9ABx9dj) | 2:40 | 2021-03-08 | 2022-07-28 |
 | [SAD \- Imanbek xxx Remix](https://open.spotify.com/track/4x5ymi4akay9Fq5Xm1PW3E) | [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg), [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [SAD \(Imanbek xxx Remix\)](https://open.spotify.com/album/0MoT8k5F7qoeCcP2DfW8GF) | 2:54 | 2020-06-12 | 2022-04-14 |
+| [SAD B!TCH](https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [SAD B!TCH](https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ) | 2:12 | 2023-02-09 |  |
 | [Sad Boy \(feat\. Ava Max & Kylie Cantrall\)](https://open.spotify.com/track/1qRgEKIeSrMcS62Ji4g8VT) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Sad Boy \(feat\. Ava Max & Kylie Cantrall\)](https://open.spotify.com/album/5KcaU97tf7FqJ1s9cKVPpZ) | 2:21 | 2021-10-10 | 2022-07-06 |
 | [Sad Child](https://open.spotify.com/track/756V8q3qX8yeVhKSUnTaKa) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy), [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [Sad Child](https://open.spotify.com/album/7t93I70Mi63LlZljhdUT9f) | 3:02 | 2020-06-29 | 2022-04-13 |
 | [Sail Away](https://open.spotify.com/track/3L39BPAGNdyM2wnHNr06aF) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Sail Away](https://open.spotify.com/album/13IbfiWa5dygjuGio0uSNP) | 3:30 | 2020-08-30 | 2022-04-19 |

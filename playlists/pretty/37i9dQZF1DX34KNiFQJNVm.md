@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ana Castela e PEDRO SAMPAIO, ZAAC com Anitta, Tierry, POCAH, Vitor e Luan e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,839,052 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,839,641 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

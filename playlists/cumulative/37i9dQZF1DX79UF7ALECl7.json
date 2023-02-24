@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
+    },
+    {
+      "album": {
         "name": "Fading Memories",
         "url": "https://open.spotify.com/album/1DrA0ZU45wJOm46XoAO2Sd"
       },
@@ -1792,6 +1810,28 @@
       "duration_ms": 221564,
       "name": "Riviera",
       "url": "https://open.spotify.com/track/2OahtOhFTTHkq7111ZmGYi"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/7yxVfuMQqLo8Ev3hgMfZNo"
+      },
+      "artists": [
+        {
+          "name": "DJ Style",
+          "url": "https://open.spotify.com/artist/3dpTkLisXZEZNvQqLHgJb9"
+        },
+        {
+          "name": "Lee Avril",
+          "url": "https://open.spotify.com/artist/6LH7SUgERTDqDlpc2APvZu"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130526,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/3RUH0HeITf0oN5jyV9cduz"
     },
     {
       "album": {

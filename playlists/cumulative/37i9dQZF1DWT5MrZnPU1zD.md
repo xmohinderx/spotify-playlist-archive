@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-631 songs - 1 day 6 hr 20 min
+632 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,7 +568,7 @@
 | [Throw'd As It Gets \(Remix\)\[Feat\. Maxo Kream\]](https://open.spotify.com/track/7zSSH0SSoU3jOUT6gbd1uA) | [Cam Wallace](https://open.spotify.com/artist/15PcygUDr0j5LvDA23i5BG), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Throw'd As It Gets \(Remix\)\[Feat\. Maxo Kream\]](https://open.spotify.com/album/7xrChkbhPLl6lWyFNOlix5) | 3:21 | 2022-04-15 | 2022-07-29 |
 | [THS](https://open.spotify.com/track/4lm1TTjljEGIDefhl7FfyW) | [Jon Hope](https://open.spotify.com/artist/5oGS8Bs7cYYAFFlgwWtyrC), [Israel Wusu](https://open.spotify.com/artist/7v9HwZnQWL9zfACSgDqz3f) | [THS](https://open.spotify.com/album/6qNcXdRXXJ6vAUr0J9MwDY) | 2:45 | 2022-03-25 | 2022-04-19 |
 | [Thump Shit](https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thump Shit](https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk) | 3:46 | 2022-05-13 | 2022-07-29 |
-| [Thump Shit](https://open.spotify.com/track/5tLdDm1cVYAH2kk7TyjmdW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 3:46 | 2022-07-22 |  |
+| [Thump Shit](https://open.spotify.com/track/5tLdDm1cVYAH2kk7TyjmdW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 3:46 | 2022-07-22 | 2023-02-24 |
 | [Tic Tac Toe](https://open.spotify.com/track/3pLV6EZ231JaaLWjkB6m02) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Tic Tac Toe](https://open.spotify.com/album/14HIwi80tfnyZO3dTII17t) | 2:58 | 2022-02-04 | 2022-02-12 |
 | [TikTok](https://open.spotify.com/track/5fMAZiE6Kdqo3fWIOXMtH6) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [TikTok](https://open.spotify.com/album/2iWXf6Z3rPyxIVrOaY0tyM) | 2:15 | 2021-09-03 | 2022-01-19 |
 | [Times Up](https://open.spotify.com/track/1J2uejzGKyOeak5jN4hdBV) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3) | [Times Up](https://open.spotify.com/album/7wi0hfacPZ009kEBB5WJTO) | 1:51 | 2022-03-18 | 2022-05-08 |
@@ -628,6 +628,7 @@
 | [With The Villains](https://open.spotify.com/track/6NLT5ioKnvVuFLrumNlmvy) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [With The Villains / Lucky](https://open.spotify.com/album/50n8NcGfxgw6YPPUUgdo4G) | 2:23 | 2022-03-11 | 2022-07-28 |
 | [Wolves \(feat\. Post Malone\)](https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 | 2021-09-03 | 2022-03-18 |
 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 | 2022-12-02 |  |
+| [Work](https://open.spotify.com/track/5a72KEfxqoMjzI0sv1By3w) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Work](https://open.spotify.com/album/7mUeXlK3dvFRbkUgzXHSH1) | 2:22 | 2023-02-17 |  |
 | [Wraith](https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT) | 2:27 | 2022-05-20 | 2022-10-08 |
 | [Y OFC](https://open.spotify.com/track/66D4gGaEenEmVGDoO2XX4i) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [Y OFC](https://open.spotify.com/album/4IeLpOeduM8SodNkluPm06) | 3:23 | 2022-06-03 | 2022-06-11 |
 | [YA YA YA](https://open.spotify.com/track/6WPH7wmoqgAy9b70XiP9mU) | [Black Yungin'](https://open.spotify.com/artist/4QiGp24evQtZMwl7Za2fsl) | [YA YA YA](https://open.spotify.com/album/3gJzcoeQdZhYwjkKpMXEkb) | 2:52 | 2022-10-14 | 2022-10-29 |

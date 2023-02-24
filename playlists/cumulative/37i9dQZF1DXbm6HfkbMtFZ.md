@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-476 songs - 1 day 4 hr 49 min
+477 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Alright](https://open.spotify.com/track/3HnQE5qyk3egTWCreicuOf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/6e2X313opvmQbWCvHdlADs) | 4:35 | 2022-03-30 | 2022-04-16 |
 | [Alright](https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx) | 4:35 | 2022-07-26 | 2022-12-19 |
 | [Always Afternoon](https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Always Afternoon](https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi) | 3:03 | 2022-03-30 |  |
-| [Always on My Mind \(Acoustic\)](https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my) | [Nané](https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7), [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Always on My Mind \(Acoustic\)](https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt) | 3:34 | 2022-06-21 |  |
+| [Always on My Mind \(Acoustic\)](https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my) | [Nané](https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7), [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Always on My Mind \(Acoustic\)](https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt) | 3:34 | 2022-06-21 | 2023-02-24 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-07-26 | 2022-09-27 |
 | [Amenábar](https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:11 | 2022-03-30 | 2022-04-22 |
 | [And the Birds Sing](https://open.spotify.com/track/2dU1nKAltV9lWPfuHdHwnI) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/0dcdC8vKdmAEAl6J24SP7p) | 3:41 | 2022-03-30 | 2022-04-21 |
@@ -197,6 +197,7 @@
 | [If I Ever Was a Child](https://open.spotify.com/track/41Kl6LI2iFiT3I2IvXMsFT) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Schmilco](https://open.spotify.com/album/1Wjheru5k9DMQduRIasAyL) | 2:55 | 2022-07-26 |  |
 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/3cx4K9v7RwDEXX6OGPNLNy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/album/3habIVRUhTf6wzwR4O1dBI) | 3:14 | 2021-12-16 | 2022-07-29 |
 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 | 2022-07-26 | 2022-10-04 |
+| [If Not for You \- 2014 Remaster](https://open.spotify.com/track/5zUP3RRw1vmZAsswtE3GrP) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 3:30 | 2023-02-10 |  |
 | [If Not For You \- Remastered 2014](https://open.spotify.com/track/7ykaUgkdQWJLsMuOymTV2A) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:30 | 2022-10-14 | 2023-02-19 |
 | [If We Want To](https://open.spotify.com/track/5duLlJqkjbHt891ElG8TM2) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [A Memory Of A Memory Of A Postcard](https://open.spotify.com/album/5hm348PpGnmB1dRrj2r9Bg) | 4:08 | 2021-12-16 | 2022-04-21 |
 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 | 2022-03-30 |  |

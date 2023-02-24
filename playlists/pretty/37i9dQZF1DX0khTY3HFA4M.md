@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,927 likes - 502 songs - 19 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,126 likes - 502 songs - 19 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 34 | [Soft Rain](https://open.spotify.com/track/5yCNJAroJonupuYMyHHioc) | [Ondi Vil](https://open.spotify.com/artist/4ZguwlmrdElUZaO36dRTbn), [Neoplasma](https://open.spotify.com/artist/1UUfEEstgd64AnExToS403) | [Fading Dreams](https://open.spotify.com/album/3x7HTpvBGsQHnl2iR7110V) | 2:11 |
 | 35 | [It Feels Right](https://open.spotify.com/track/1nRWpQ6hdE7lgGOJg5rnSt) | [Taste Of Purple](https://open.spotify.com/artist/29ulLEQloQJrmKG4HHBmBa) | [Hip Hope](https://open.spotify.com/album/5obALIk6zsK0gYEiM0YwkU) | 1:42 |
 | 36 | [measure](https://open.spotify.com/track/6Xgh67TMWtXrKfeAVSDYBA) | [Mo Rana](https://open.spotify.com/artist/5ZQEuLlGt1sfPoZIqFyKG9) | [measure](https://open.spotify.com/album/0gQG0fIyasBTSdPCC9yQuO) | 2:27 |
-| 37 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Oscar](https://open.spotify.com/artist/5ezLUfvnIzXoZIIVGHaReU) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 |
+| 37 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Discant Of Venus](https://open.spotify.com/artist/3GqXOi7G86eK1uMNOiuTTn) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 |
 | 38 | [Ewreka](https://open.spotify.com/track/6OplxekMb8dbnH3ZbLVJvo) | [Papir Chaser](https://open.spotify.com/artist/64jtTdqJ8iLVkpbiQvBfy2) | [Ewreka](https://open.spotify.com/album/34BU4llTcSkoRilnkdDBBl) | 2:08 |
 | 39 | [Sun\-Rainy](https://open.spotify.com/track/1hZEKLB9Xwgla0rkleh7sh) | [Phat Dizzy Dean](https://open.spotify.com/artist/1o0M8dJPrG2xg5u3gv9D6g) | [Sun\-Rainy](https://open.spotify.com/album/005AxaCubpQkVCI4cyiNOq) | 2:43 |
 | 40 | [Curious](https://open.spotify.com/track/5vJwUYGqvf3OON93oEvwQq) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Curious](https://open.spotify.com/album/0iU0c2qWBI0NFcTLurQP7B) | 2:25 |
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 115 | [Ments](https://open.spotify.com/track/3SPKjG840S7wfQTTyMMTXV) | [Few Herbs](https://open.spotify.com/artist/7ma9eVZdiNE3ZVn2BU4CFS) | [Ments](https://open.spotify.com/album/0BvOnWnnuMi4iqmkOVxReQ) | 2:08 |
 | 116 | [Hymn To Freedom](https://open.spotify.com/track/6f11LFELTFZsMTPzdxHZ3s) | [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN) | [Hymn To Freedom](https://open.spotify.com/album/2EEM0YgF3yUH77QBSCO6r8) | 1:26 |
 | 117 | [Recordar](https://open.spotify.com/track/36ismlZjS82Hnlu0sDxRA3) | [Senoidal](https://open.spotify.com/artist/6r9s2iVXnrwENfSRUUtxpa) | [Recordar](https://open.spotify.com/album/175n68FKT3phBamXATIpuX) | 1:54 |
-| 118 | [Bowl of mine](https://open.spotify.com/track/7C1yeWtYHbwCKdS8NfCh4a) | [Elkisen](https://open.spotify.com/artist/0WATboTSfypHxtbxPNNu7G) | [Bowl of mine](https://open.spotify.com/album/2HCALXup9uK0gtiFdSEKnx) | 1:57 |
+| 118 | [Bowl of mine](https://open.spotify.com/track/7C1yeWtYHbwCKdS8NfCh4a) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Bowl of mine](https://open.spotify.com/album/2HCALXup9uK0gtiFdSEKnx) | 1:57 |
 | 119 | [Coffee At Night](https://open.spotify.com/track/1HpRHDtWgbvz6I1FzJJzBJ) | [Jcomadeit](https://open.spotify.com/artist/5acyyyz8DVuN98IloXF3eC), [Lost in Space](https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf) | [A Weekend in the Woods](https://open.spotify.com/album/77YOdqJfx29tJehsUHDIuk) | 2:26 |
 | 120 | [Perfect Fit](https://open.spotify.com/track/6hh9Qll2VMMdlkZGThkucw) | [Lynde](https://open.spotify.com/artist/6TstGTgiRM3jW0LaUeG61d), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Perfect Fit](https://open.spotify.com/album/3PfX4bOB3oDoGlzd1ONmSO) | 2:15 |
 | 121 | [Planets Over There](https://open.spotify.com/track/4gKvs3VsnSFtPlcNiDwFgN) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP) | [Planets Over There](https://open.spotify.com/album/7CQ4XolMl1vPh6DF9biQdt) | 2:15 |
@@ -257,7 +257,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 247 | [Voyager I](https://open.spotify.com/track/5L7aVnfxW3mFCSDBXIwhZg) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Simplices](https://open.spotify.com/album/1TzpUMqtFSJUhRi601NDbv) | 2:08 |
 | 248 | [LMIRL](https://open.spotify.com/track/0j0gaTj0JB6vT3poiPwLd5) | [Phive O](https://open.spotify.com/artist/3BazVVHaz03CY1JFfedL9L) | [LMIRL](https://open.spotify.com/album/1XLYvhtvgjOhJcKpfikmo8) | 2:29 |
 | 249 | [Liza waited](https://open.spotify.com/track/286NfUkb1H8WjWkDfUESqw) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [Liza waited](https://open.spotify.com/album/547dH8CiDKtnLluMDeVZ35) | 2:09 |
-| 250 | [Dirty Ensemble](https://open.spotify.com/track/0pGDCfVjkHuQRNnthF5ur5) | [Azetz](https://open.spotify.com/artist/0rCTujNdCAGjAHKOmG6hsQ) | [Emo Nemo](https://open.spotify.com/album/0X4jSnVgS8g6MWKdXhcwwh) | 2:08 |
+| 250 | [Dirty Ensemble](https://open.spotify.com/track/0pGDCfVjkHuQRNnthF5ur5) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Emo Nemo](https://open.spotify.com/album/0X4jSnVgS8g6MWKdXhcwwh) | 2:08 |
 | 251 | [Sketchy Dreamers](https://open.spotify.com/track/5nxEHnue5hDtbbubvyZRUe) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Sketchy Dreamers](https://open.spotify.com/album/5CWACW6EISOrtIaNFZxJkN) | 2:40 |
 | 252 | [Alone In The Car](https://open.spotify.com/track/2viPvch99oXtsrjQ9Z1kby) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd), [dream tax](https://open.spotify.com/artist/4d0HHSwsgB7l4IPv0wh0It) | [Alone In The Car](https://open.spotify.com/album/7HSsuGt9lVtRcnbNRD9s83) | 2:30 |
 | 253 | [the golden hour](https://open.spotify.com/track/3mwgB2wh1FNe1xIwH7Trxp) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [the golden hour](https://open.spotify.com/album/27UoLU4BkoAsHmwLkYZodY) | 1:39 |

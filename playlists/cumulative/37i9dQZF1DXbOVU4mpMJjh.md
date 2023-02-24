@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-537 songs - 1 day 17 hr 32 min
+538 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Ballad Of The Sad Young Men](https://open.spotify.com/track/2seZ8ZHnD5RQBkhT8RsBZu) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Vanished Gardens](https://open.spotify.com/album/2q6z7yobPwN2YTkR8U4i1z) | 6:17 | 2022-04-14 | 2022-09-23 |
 | [Bamako Love Song \(featuring Shabaka Hutchings\)](https://open.spotify.com/track/17gEZxt93zKbDYZ3mGMQeA) | [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Shabaka Hutchings](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Welcome To This World](https://open.spotify.com/album/67cZKIWDd5rVWFaXdgOD3L) | 5:22 | 2022-04-14 | 2022-04-28 |
 | [Banks of Noon](https://open.spotify.com/track/2HriYFonV6QkhctkB8DMxY) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Banks of Noon](https://open.spotify.com/album/7EOxOqItUbFeCrlC4xxgfR) | 3:35 | 2022-12-08 |  |
-| [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2022-11-24 |  |
+| [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2022-11-24 | 2023-02-24 |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-14 |  |
 | [Beatrice](https://open.spotify.com/track/3fZQ7I7lDN2DZQJHuJ70Ly) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Beatrice](https://open.spotify.com/album/4g1qHBpSJiWwjhLyX27ypB) | 3:35 | 2023-01-19 | 2023-02-03 |
 | [Beatrice](https://open.spotify.com/track/30qPlOpLeJWD1mASyON1po) | [Westend Jazz Trio](https://open.spotify.com/artist/0HaG0FgLppnqm1WHvtzUXu) | [Beatrice](https://open.spotify.com/album/1VJRaHnjfgwtQVlCV2NcQb) | 2:55 | 2022-04-14 | 2022-10-08 |
@@ -222,6 +222,7 @@
 | [I'll Wait and Pray](https://open.spotify.com/track/4z6d79RAbC5q0VAqPQas8W) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Atlantic Studio Album Collection](https://open.spotify.com/album/0BSousVS9bndHhwKl4Eu0r) | 3:26 | 2022-04-14 | 2022-10-08 |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/1FW3sdgzfR7gdqXXqprBxJ) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/01sPJkRHG839tmyrd1V8s6) | 3:49 | 2022-09-08 | 2023-02-03 |
 | [I'm Glad There Is You](https://open.spotify.com/track/499pC27JxKGMh6mYyuRmlT) | [Bill Mobley](https://open.spotify.com/artist/2RnJnmDsu7HDPmj4UNjmjh), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Robert Hurst](https://open.spotify.com/artist/398OLP0K6sxmwsYaB7Wnmj), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [MoodScape](https://open.spotify.com/album/5ACA0ncZdwtno9H8jQ9AQk) | 8:04 | 2022-04-14 | 2022-10-03 |
+| [i've got a crush on you](https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [i've got a crush on you](https://open.spotify.com/album/3bdegMUGxFxJbgKocQE2G4) | 3:36 | 2023-02-23 |  |
 | [If I could just go back](https://open.spotify.com/track/6GqR4kbLTMfwJ2hFDZclMv) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [If I could just go back](https://open.spotify.com/album/6pt2EdumSP5OK6gyUEXnaH) | 2:59 | 2023-01-20 |  |
 | [If I Had You](https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [American Classic](https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p) | 4:21 | 2022-04-14 | 2022-05-03 |
 | [Imagination](https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Imagination](https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx) | 4:33 | 2022-12-01 |  |

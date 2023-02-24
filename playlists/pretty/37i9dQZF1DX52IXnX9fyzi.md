@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,352 likes - 204 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,548 likes - 204 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 89 | [Stories of Hope](https://open.spotify.com/track/2pPaKO126yniarJuGFKj0j) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ), [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Stories of Hope](https://open.spotify.com/album/3OiHdkTm7zlyGZxlFrFiGd) | 3:11 |
 | 90 | [Aurskog](https://open.spotify.com/track/4Xy7g0dikhYyNhdHyzBBr6) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Aurskog](https://open.spotify.com/album/1NdMcghLOelX6u0Mz8smaG) | 2:05 |
 | 91 | [Canyon, Catch Your Thoughts](https://open.spotify.com/track/1DZgGPsQfkz9JUTzP2qQVr) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Canyon, Catch Your Thoughts](https://open.spotify.com/album/59OTSpWsLdw5IVPFTnzr3v) | 2:15 |
-| 92 | [22](https://open.spotify.com/track/6mz8JRgQtisMv1x65BIrQg) | [Barabás Lőrinc](https://open.spotify.com/artist/0v55iDyhmDRG129So8PjZ2) | [22](https://open.spotify.com/album/7EHxGA5N2Mnm0crgbST5qU) | 3:27 |
+| 92 | [22](https://open.spotify.com/track/5S1bPj1rsbiUScS5kxdQfB) | [Barabás Lőrinc](https://open.spotify.com/artist/0v55iDyhmDRG129So8PjZ2) | [22](https://open.spotify.com/album/1zen2IxXy7OYgH8EWKKCbC) | 3:27 |
 | 93 | [System Next Door](https://open.spotify.com/track/6GmG5vN2CxjMZ9Hjxr0P0D) | [Aurelius Conner](https://open.spotify.com/artist/1UwYRIlQBtCysDN5bbXhlh) | [Ohio Fair](https://open.spotify.com/album/608MQ2CpVoBzLUN4cwgjrZ) | 2:54 |
 | 94 | [Felt Improv No\. 25](https://open.spotify.com/track/4jklfyp9aW2xX8oUp7Z8gA) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 25](https://open.spotify.com/album/683ttioDjnQMeIgqQC2gfM) | 2:55 |
 | 95 | [Nellie](https://open.spotify.com/track/18dbTewxSaZaTtSWkbTFWS) | [Bonnaire](https://open.spotify.com/artist/3zGm82WsQMKu2Nf7Z2Mf0u) | [Nellie](https://open.spotify.com/album/1zg3IZB7I7YuPS4riu6sZO) | 2:48 |
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 203 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 |
 | 204 | [Vogeltrek](https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:14 |
 
-Snapshot ID: `MTY3Njk3NzM1OCwwMDAwMDAwMGEyYTAzNDZjZDkzNGZjZmY1Y2Q2MDFmZWU5ODcxMDBi`
+Snapshot ID: `MTY3Njk3NzM1OCwwMDAwMDAwMGM1OTAxMzgyZGE1YzMzNzkxOTMzZDhmNWNkN2M3NTQ0`

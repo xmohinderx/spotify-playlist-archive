@@ -1,12 +1,12 @@
 {
   "description": "In cerca di energie? Prova con la nostra playlist!",
-  "num_followers": 166500,
+  "num_followers": 166503,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDQ4OTg3NywwMDAwMDAwMGY1N2Y2YmU1ZTc2MmFhNGEwNmQ1NDU2ZjE1ZTYwYTk4",
+  "snapshot_id": "MTY3NDQ4OTg3NywwMDAwMDAwMDJkMDdkYjFhYzgzY2FjY2I4ZWZhZjZhYWM2MDZhMWNl",
   "tracks": [
     {
       "added_at": "2023-01-23 16:04:37",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
-        "name": "Forgot How to Love",
-        "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Moss Kena",
-          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
-        }
-      ],
-      "duration_ms": 149055,
-      "name": "Forgot How to Love",
-      "url": "https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t"
-    },
-    {
-      "added_at": "2023-01-23 16:04:37",
-      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
+    },
+    {
+      "added_at": "2023-01-23 16:04:37",
+      "album": {
+        "name": "Forgot How to Love",
+        "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Moss Kena",
+          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+        }
+      ],
+      "duration_ms": 149055,
+      "name": "Forgot How to Love",
+      "url": "https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t"
     },
     {
       "added_at": "2023-01-23 16:04:37",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
+        "name": "Wildest Dreams",
+        "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Waves of Blue",
+      "url": "https://open.spotify.com/track/4lKe0viSvv8ckoTPvHBih1"
+    },
+    {
+      "added_at": "2023-01-23 16:04:37",
+      "album": {
         "name": "Heaven On My Mind (with Sigala)",
         "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 192573,
       "name": "Heaven On My Mind (with Sigala)",
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
-    },
-    {
-      "added_at": "2023-01-23 16:04:37",
-      "album": {
-        "name": "Wildest Dreams",
-        "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Waves of Blue",
-      "url": "https://open.spotify.com/track/4lKe0viSvv8ckoTPvHBih1"
     },
     {
       "added_at": "2023-01-23 16:04:37",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+    },
+    {
+      "added_at": "2023-01-23 16:04:37",
+      "album": {
         "name": "Day N Night",
         "url": "https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 179199,
       "name": "Day N Night",
       "url": "https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2"
-    },
-    {
-      "added_at": "2023-01-23 16:04:37",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
     }
   ],
   "unique_name": "Una Carica di Espresso!",

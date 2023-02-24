@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-266 songs - 17 hr 14 min
+267 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 | 2021-11-19 |  |
 | [She Used To Be Mine](https://open.spotify.com/track/3QjBj0FOOlDmIt9s3YZAwX) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [She Used To Be Mine](https://open.spotify.com/album/0ck5yBjvct1p5w6FRXQo2Y) | 4:24 | 2021-11-19 | 2022-07-29 |
 | [She Used To Be Mine](https://open.spotify.com/track/66cyDInjEEpnQ25TdYeNvf) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Out Of The Shadows](https://open.spotify.com/album/5zzAVxK9UBimzOd6b5iyOH) | 4:24 | 2022-07-14 | 2023-02-14 |
-| [She Used To Be Mine](https://open.spotify.com/track/6PguX5ZYOUWsxuRIcAy4MI) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Out Of The Shadows](https://open.spotify.com/album/4lBEvDriPaU6Xn0pnSUYA8) | 4:24 | 2023-02-22 |  |
+| [She Used To Be Mine](https://open.spotify.com/track/6PguX5ZYOUWsxuRIcAy4MI) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Out Of The Shadows](https://open.spotify.com/album/4lBEvDriPaU6Xn0pnSUYA8) | 4:24 | 2023-02-22 | 2023-02-24 |
 | [She's Awesome](https://open.spotify.com/track/52rIpC68rq8AgpAootOn7B) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [She's Awesome](https://open.spotify.com/album/6aPCC4FFb2kryUdUgAtjLN) | 4:40 | 2021-11-19 | 2022-11-25 |
 | [Sleeping Satellite](https://open.spotify.com/track/6mqDkgdHcTSkUujnJZtFnJ) | [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG), [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9), [Francoise Sanders](https://open.spotify.com/artist/1gziOczQaDTj4pXbljZPX2) | [Sleeping Satellite](https://open.spotify.com/album/57aN9GJYwKxpSe0bJDTT2G) | 2:39 | 2021-11-19 | 2022-11-25 |
 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 | 2021-11-19 |  |
@@ -252,6 +252,7 @@
 | [This Life](https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7) | [The Magic Lantern](https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V) | [A Reckoning Bell](https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO) | 4:21 | 2022-11-24 |  |
 | [This Too Shall Pass](https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW) | [Dennis van Aarssen](https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi) | [This Too Shall Pass](https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV) | 3:21 | 2021-11-19 | 2022-10-08 |
 | [Those Sweet Words](https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:22 | 2022-11-24 |  |
+| [Try Your Wings](https://open.spotify.com/track/0aa0phSxPErvXk0drKFBOM) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/29vC4zQ1mb9V3YylUigQGA) | 2:54 | 2023-02-23 |  |
 | [Try Your Wings](https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5) | 2:54 | 2022-11-24 | 2023-02-19 |
 | [Visions](https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 5:11 | 2021-11-19 |  |
 | [Waiting In Vain](https://open.spotify.com/track/4hsEJ43P9oQmIx5btLLoAV) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [Heart First](https://open.spotify.com/album/5o3acBzPBPJUsT4S2VUMJo) | 4:59 | 2022-11-24 |  |

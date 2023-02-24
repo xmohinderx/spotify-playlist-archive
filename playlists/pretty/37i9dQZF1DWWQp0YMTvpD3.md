@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Uplifting, slow House music to work or relax to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,427 likes - 172 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,485 likes - 172 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 27 | [Numberless](https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Numberless](https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24) | 2:46 |
 | 28 | [Almannagjá](https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Almannagjá](https://open.spotify.com/album/3oc8GKdKvYten8v7t4mspv) | 3:31 |
 | 29 | [Hydralove](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6) | [Jade Shade](https://open.spotify.com/artist/7Ilefc5kqmjsXyPdNExIt3) | [Hydralove](https://open.spotify.com/album/555BCXEOB1b412Bs6PhxrX) | 3:26 |
-| 30 | [Maze](https://open.spotify.com/track/3fG4uUJ8yTCfe9KHUQM45W) | [Sasupt](https://open.spotify.com/artist/1UZDqEZC20MLeXRrbhtWbq) | [Maze](https://open.spotify.com/album/0803IoVPGn37OTU19kKF7z) | 2:06 |
+| 30 | [Maze](https://open.spotify.com/track/3fG4uUJ8yTCfe9KHUQM45W) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Maze](https://open.spotify.com/album/0803IoVPGn37OTU19kKF7z) | 2:06 |
 | 31 | [Throw Down The Key](https://open.spotify.com/track/763ZUZsvNs1ZQjl1jFU66k) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Throw Down The Key](https://open.spotify.com/album/0sNMyl46kuOREnBTroiPJc) | 1:57 |
 | 32 | [Forest](https://open.spotify.com/track/6KeIMvw8uhRYLnacrkw1Ud) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Forest](https://open.spotify.com/album/22UFmpYk6dIxWHhWQX1zn2) | 3:01 |
 | 33 | [big heart](https://open.spotify.com/track/2tTEI9HzHglqVe3fthyZ4X) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [big heart](https://open.spotify.com/album/1z9alhP09uNHb8XzGi5Fp7) | 2:04 |

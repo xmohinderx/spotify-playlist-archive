@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 11067,
+  "num_followers": 11094,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM2MDkzNSwwMDAwMDAwMGY5YTRiN2IxMGM5NTc3Yjc4MjY5NGQyMWU5NmZhYTQ3",
+  "snapshot_id": "MTY3NjM2MDkzNSwwMDAwMDAwMDAxNjUxYTlkNDY4NTQ2N2E4NThkNGQwOTM2MzgwMTE5",
   "tracks": [
     {
       "added_at": "2023-02-14 07:48:55",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-02-14 07:48:55",
       "album": {
+        "name": "SOULBYSEL Compilation 04",
+        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "Image",
+          "url": "https://open.spotify.com/artist/58L7Wn6gqkg86DH0I3z2p5"
+        }
+      ],
+      "duration_ms": 124572,
+      "name": "Donut",
+      "url": "https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5"
+    },
+    {
+      "added_at": "2023-02-14 07:48:55",
+      "album": {
         "name": "MONOCHROME",
         "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 217595,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
-    },
-    {
-      "added_at": "2023-02-14 07:48:55",
-      "album": {
-        "name": "SOULBYSEL Compilation 04",
-        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
-      },
-      "artists": [
-        {
-          "name": "SOULBYSEL",
-          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
-        },
-        {
-          "name": "Image",
-          "url": "https://open.spotify.com/artist/58L7Wn6gqkg86DH0I3z2p5"
-        }
-      ],
-      "duration_ms": 124572,
-      "name": "Donut",
-      "url": "https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5"
     },
     {
       "added_at": "2023-02-14 07:48:55",

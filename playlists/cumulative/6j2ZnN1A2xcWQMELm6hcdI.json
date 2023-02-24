@@ -2685,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "Ridgemont Baby",
+        "url": "https://open.spotify.com/album/0v8C3sUbtUgFKBBuQc3nBD"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Ridgemont Baby",
+      "url": "https://open.spotify.com/track/24auUYE1W2wQmHiOqJSBhy"
+    },
+    {
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/3Lk51jNfQewZIGuTvvE8uk"
       },

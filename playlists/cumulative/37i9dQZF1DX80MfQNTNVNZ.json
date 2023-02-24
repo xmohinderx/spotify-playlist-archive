@@ -1977,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "Go back / friends",
+        "url": "https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232284,
+      "name": "Go back",
+      "url": "https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi"
+    },
+    {
+      "album": {
         "name": "Gone Baby, Don't Be Long",
         "url": "https://open.spotify.com/album/0amr9WM6hmjOA09JwSV2si"
       },
@@ -4732,7 +4750,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 233554,
       "name": "Sentiment",
       "url": "https://open.spotify.com/track/5F7shYRRh82Ikcjija4wqd"

@@ -4,7 +4,7 @@
 
 > The perfect playlist to just sit back and chill out with.
 
-372 songs - 23 hr 35 min
+373 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh) | 3:12 | 2022-04-01 |  |
 | [Real Love](https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z) | [Cammy Enaharo](https://open.spotify.com/artist/0iM6AplgWF7ISiwJaBhXLF) | [Hard To Look At](https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv) | 2:29 | 2022-03-25 | 2022-04-21 |
 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 | 2021-12-17 | 2022-06-05 |
-| [Requiem](https://open.spotify.com/track/1H669K2zLp8ombaLNTCi96) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Holy Smokes Future Jokes](https://open.spotify.com/album/10D5ke3EYdoFD89zQZjjVc) | 3:33 | 2021-12-17 |  |
+| [Requiem](https://open.spotify.com/track/1H669K2zLp8ombaLNTCi96) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Holy Smokes Future Jokes](https://open.spotify.com/album/10D5ke3EYdoFD89zQZjjVc) | 3:33 | 2021-12-17 | 2023-02-24 |
 | [Revolution \(feat\. First Aid Kit\)](https://open.spotify.com/track/4J0bnxBAoscCdN62zHuHi7) | [Van William](https://open.spotify.com/artist/73Au3G1YzSqMiEg9ru49UQ), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Revolution \(feat\. First Aid Kit\)](https://open.spotify.com/album/6JzD4lxJ6IU6PTpktKXXva) | 3:55 | 2022-03-25 | 2022-04-18 |
 | [Rock Bottom](https://open.spotify.com/track/4Y0OMpK5cINmtwNm5TRhRx) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Rock Bottom](https://open.spotify.com/album/5TheealFtp3ScdyJws3wvD) | 2:44 | 2022-04-01 | 2022-04-21 |
 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 | 2023-01-09 |  |
@@ -322,6 +322,7 @@
 | [The Right Thing Is Hard To Do](https://open.spotify.com/track/1p6WbBtGoQwPwXoSNxxwXm) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [The Right Thing Is Hard To Do](https://open.spotify.com/album/5s6h22ICsAsKQE8nL6Zwb9) | 3:46 | 2022-03-25 | 2022-04-15 |
 | [The Trapeze Swinger](https://open.spotify.com/track/7f1rzHP8aCGTHjTq9CIYqo) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Around The Well](https://open.spotify.com/album/4sgupIgP8AaivCBO5gXA2g) | 9:31 | 2022-03-25 | 2022-04-20 |
 | [The Wave](https://open.spotify.com/track/5olVelMkgNjLzUVxNREP2i) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [The Wave](https://open.spotify.com/album/3AnTgqHXi6YiCQMy3gcA9V) | 3:48 | 2021-12-17 | 2022-07-29 |
+| [The Weakness](https://open.spotify.com/track/3HQYZhbq8hhVxof8H5nqVF) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/5hzXqk2ukjTaPxX9R3Taj6) | 3:28 | 2023-02-24 |  |
 | [The Weakness in Me](https://open.spotify.com/track/1cAKZih7f5kzaBDYPfCbdj) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses: Phantom Limb](https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH) | 3:42 | 2022-04-15 | 2022-07-25 |
 | [There From Here](https://open.spotify.com/track/2z6ieOiCE0aF2Zdbqb8d5I) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [C’est La Vie](https://open.spotify.com/album/2Ex277htheVs9aDi6svcsv) | 5:20 | 2022-03-25 | 2022-04-20 |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2023-01-09 |  |

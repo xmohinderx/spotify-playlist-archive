@@ -1,15 +1,15 @@
 {
   "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Mayberg",
-  "num_followers": 20406,
+  "num_followers": 20415,
   "original_name": "RADAR GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMGVkMWU3YmVjMDE0NWJiYmVhOThkZGJjNDFmNmEwMDlm",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMGExOTAwZDU5MDk4YWQ1ZDNhYmEzMTg2MzdlMGRiY2Ez",
   "tracks": [
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Das Sch\u00f6nste",
         "url": "https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1"
@@ -25,7 +25,39 @@
       "url": "https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Bedroom Exile",
+        "url": "https://open.spotify.com/album/4lmPBBBCnBl6uHdFMIjCmZ"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 198970,
+      "name": "Bedroom Exile",
+      "url": "https://open.spotify.com/track/1n7mpf8v5OZL6DKf6a0TD1"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Nero",
+        "url": "https://open.spotify.com/album/3cBbmX6ACg8NdpVyr2QACS"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Nero",
+      "url": "https://open.spotify.com/track/1ySWFxPIPHpjA5EsRx39Q7"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "You Problem",
         "url": "https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu"
@@ -45,7 +77,7 @@
       "url": "https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Running Round",
         "url": "https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Broker",
         "url": "https://open.spotify.com/album/6mn6PbO5EXrQ4UzGpRP9qo"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/28eI53WyFJVjjQwSnWTh9K"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "SOUL TO KEEP",
         "url": "https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC"
@@ -93,7 +125,7 @@
       "url": "https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Keep Going",
         "url": "https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo"
@@ -109,7 +141,7 @@
       "url": "https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "pressure & release",
         "url": "https://open.spotify.com/album/2aCwGrHZVzuNtjUlxZY9JU"
@@ -125,7 +157,7 @@
       "url": "https://open.spotify.com/track/6BzTik1v9IdQpXMxsBXAsY"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb"
@@ -141,7 +173,7 @@
       "url": "https://open.spotify.com/track/5NN5yCExaaQdYLWXWQ9d65"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "ZOMBIE",
         "url": "https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv"
@@ -157,23 +189,7 @@
       "url": "https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Mercurial Vapor",
-        "url": "https://open.spotify.com/album/5PlEkgdwrcOFk7n9OPajCZ"
-      },
-      "artists": [
-        {
-          "name": "BRUCKNER",
-          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
-        }
-      ],
-      "duration_ms": 185684,
-      "name": "Mercurial Vapor",
-      "url": "https://open.spotify.com/track/5hWmJ3vuMbBHdJYpKXGdm3"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "echo",
         "url": "https://open.spotify.com/album/1FVtCp6xQpGoxrTJcUJ5jz"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/39rdOcmqMFRCoxaFLSXB00"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Zorn & Liebe",
         "url": "https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/6CWr033ZS8JwfKfhuMavWp"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "coq au vin",
         "url": "https://open.spotify.com/album/1GreCrihbUzlxlT6sI6RRM"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/4NERmR0700rwstJpWkFO5b"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Blood In The Water",
         "url": "https://open.spotify.com/album/1IbRlTLil2YwX2M0eCo9BU"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/7aIAOHBLDuh2IKJPM97VBb"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Look Around",
         "url": "https://open.spotify.com/album/2ppasYNU18BBmkLpaS0Tdn"
@@ -253,23 +269,7 @@
       "url": "https://open.spotify.com/track/5r1sF6bvYPtDMvb2rwJBn5"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Morning Blue",
-        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 217136,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Wind",
         "url": "https://open.spotify.com/album/2y7fLVS5J30B7CxzwDSdDf"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/1jZRoK2NYNfJ714ZCUejZQ"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Daddy\u2019s Eyes",
         "url": "https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "S\u00fc\u00dfe Tr\u00e4ume",
         "url": "https://open.spotify.com/album/5G5VwA4Nb7JxVamloIDFdl"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/4c8LnzyBlBW1crRcbDXKoW"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Keine Tr\u00e4nen",
         "url": "https://open.spotify.com/album/6omnE7nYZCSFSkbTFTVSqR"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Crushed by the Weight of the World",
         "url": "https://open.spotify.com/album/1Axcj3Di7G4Qw0iYTJAhC0"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/713AJFIsjfdlwC6IvY9FeJ"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Body Mind Hell",
         "url": "https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Survival Mode (Intro)",
         "url": "https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "VOICEMAIL",
         "url": "https://open.spotify.com/album/0wg7TKWgd0ZdhSif29VuKu"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/25gIGyYd4Q9kHJ7Fvsa9RP"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Herz Klopft",
         "url": "https://open.spotify.com/album/0PpvnPnQgnObHVKSUsnGrO"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/3S52C6WTpp5kqKvEInZXOu"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Breddaz",
         "url": "https://open.spotify.com/album/5FT4AWmrf82orNUV9Y8EwD"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/2f3Mn7wQBLthtljAg3pNtj"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Universum regelt",
         "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Push Life",
         "url": "https://open.spotify.com/album/5QCQE9y6dsC9TSEW4qJkU4"
@@ -469,7 +469,23 @@
       "url": "https://open.spotify.com/track/0OUKgnOS2Xj64K8x4Unutp"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 217136,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/3O04qupq1XsQZI6rmC4OTr"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/2pxQTg8ecN1k3CXnEmpa8t"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Bring The Good Mood Back",
         "url": "https://open.spotify.com/album/4oHJfzm4Snx1mvehq0a9RE"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/69dxNtRNHQknBIrXRgYvvt"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Altbau",
         "url": "https://open.spotify.com/album/2qwFhDKCrCy5sYU6lqGC77"
@@ -525,7 +541,23 @@
       "url": "https://open.spotify.com/track/0WujdAWFACZ7AKmxnFg52I"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Mercurial Vapor",
+        "url": "https://open.spotify.com/album/5PlEkgdwrcOFk7n9OPajCZ"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "duration_ms": 185684,
+      "name": "Mercurial Vapor",
+      "url": "https://open.spotify.com/track/5hWmJ3vuMbBHdJYpKXGdm3"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Funke, Fl\u00e4chenbrand",
         "url": "https://open.spotify.com/album/6OTvVeDS7GlTqKf2qVU86o"
@@ -541,7 +573,7 @@
       "url": "https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Ghetto Tekkno",
         "url": "https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Immer wenn du weinst",
         "url": "https://open.spotify.com/album/0ksQY1tGoSYQMweAYgmOpB"
@@ -577,7 +609,7 @@
       "url": "https://open.spotify.com/track/6GYGIEVQHFbYV5AvkJD8Mp"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Hilferuf",
         "url": "https://open.spotify.com/album/2pV2IQwHfErIcdjNxznMqs"
@@ -593,7 +625,7 @@
       "url": "https://open.spotify.com/track/08QqmrxcfV58x8f1o6JxKe"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Fucked Up.",
         "url": "https://open.spotify.com/album/3369iQfBJZcTS1ZrMa3Jbx"
@@ -609,7 +641,7 @@
       "url": "https://open.spotify.com/track/1nIUFAIo5U4Yc1KsnnnPz0"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb"
@@ -625,23 +657,7 @@
       "url": "https://open.spotify.com/track/09QQd4SG87DKuel4BVYkfT"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Gib Gib",
-        "url": "https://open.spotify.com/album/557EOriY4Y0nOixN726p9C"
-      },
-      "artists": [
-        {
-          "name": "BRUCKNER",
-          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
-        }
-      ],
-      "duration_ms": 179933,
-      "name": "Gib Gib",
-      "url": "https://open.spotify.com/track/1RUZl4jYcStuNxkwib8wBk"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "She's A Star",
         "url": "https://open.spotify.com/album/3YDJfL56ce6fcxL4tWxvg6"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/5aLY8E1e60iaI4gVCCD7OK"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "FALLING",
         "url": "https://open.spotify.com/album/0tHRET0OgupLXVJvqM1oG9"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Walls Around Me EP",
         "url": "https://open.spotify.com/album/0MkBm4v1xnbLiD0sh6lAJn"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/3kymiOCRjfkuueb0HD2nNX"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Sleeping Beauty",
         "url": "https://open.spotify.com/album/03sv8wkTRvQfB8rh7qLzaf"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "FU In My Head",
         "url": "https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/6xg0GJEU0lf60zcSdsjCel"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/3SV6D7J2G3LUxhuybgHJg4"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Our Beautiful Mess",
         "url": "https://open.spotify.com/album/0ZkXgfTXWi2UsQGmKqCHQ3"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "ich geh\u00f6r wieder mir",
         "url": "https://open.spotify.com/album/6Et0Q8bXMXOSChFgXgvvv8"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/4PpGmzid7fvGFayn8icZRF"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Nothing to Me",
         "url": "https://open.spotify.com/album/7fiGgJfGWFRGHmNil6Wg7x"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/2pVZpUlgPZSSfTP9nFs6kn"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "A$AP & Rihanna",
         "url": "https://open.spotify.com/album/3o5lHTIpsmGE5GdRboWMRs"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/0GihNtHYSZwkqB48jbkyC7"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Daddy's Boy",
         "url": "https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM"
@@ -821,7 +837,7 @@
       "url": "https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Zorn & Liebe",
         "url": "https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB"
@@ -841,7 +857,7 @@
       "url": "https://open.spotify.com/track/5IDcDES093PGqsDwfyf23F"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Mach kaputt",
         "url": "https://open.spotify.com/album/1YxQJI2BWCPeA48pKEyAW4"
@@ -861,7 +877,7 @@
       "url": "https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "I'm Boring",
         "url": "https://open.spotify.com/album/0flQZoTrG15C0XVFX7qCdV"
@@ -877,7 +893,7 @@
       "url": "https://open.spotify.com/track/3ctzBJ2yOva67pX2PSaS1o"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Diamonds (feat. Takt32)",
         "url": "https://open.spotify.com/album/5WAnIlIOyTf5VJwMqB8DxF"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/7w6HmxoHbohJ9S9lScjH1m"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Altbau",
         "url": "https://open.spotify.com/album/2qwFhDKCrCy5sYU6lqGC77"
@@ -933,7 +949,7 @@
       "url": "https://open.spotify.com/track/3z3thFt7kVIkfY9PRdIOcJ"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Lipsticks & Heartbreaks",
         "url": "https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc"
@@ -949,7 +965,7 @@
       "url": "https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Complex Happenings Reduced To A Simple Design",
         "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
@@ -965,23 +981,7 @@
       "url": "https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "ROOKERY",
-        "url": "https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "All We Are",
-      "url": "https://open.spotify.com/track/0RuQVn5JcxuDBSNxo1sxau"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "M (Extended)",
         "url": "https://open.spotify.com/album/1AnZRh08V385fqDx1qw979"
@@ -997,7 +997,7 @@
       "url": "https://open.spotify.com/track/3Z0vdZfMKPRgPrVlpj18oQ"
     },
     {
-      "added_at": "2023-02-16 23:01:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/651CcYUL1asuZzRClUinai"

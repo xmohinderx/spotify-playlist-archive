@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-144 songs - 11 hr 27 min
+146 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Groovin' Up Hip Street](https://open.spotify.com/track/1rEt3jLRkVWz1m9EEfTFeo) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 6:02 | 2022-05-06 |  |
 | [Have Your Cake And Eat It](https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 4:03 | 2022-05-06 |  |
 | [Here With You](https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 4:17 | 2022-05-06 |  |
-| [Hold On Tight](https://open.spotify.com/track/5qsm0eGh4vPXOOEKNrH6cX) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 5:04 | 2022-05-06 |  |
+| [Hold On Tight](https://open.spotify.com/track/5qsm0eGh4vPXOOEKNrH6cX) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 5:04 | 2022-05-06 | 2023-02-24 |
 | [I Feel You](https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 4:18 | 2022-05-06 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Sudden Burst Of Energy](https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj) | 4:47 | 2022-05-06 |  |
 | [I'll Tell You What](https://open.spotify.com/track/7m85ef6chzSPAyhx9Nc3qD) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Smooth Sensation](https://open.spotify.com/album/12tng68mKohYzlVWT1QRna) | 4:51 | 2022-05-06 | 2022-12-24 |
@@ -67,7 +67,7 @@
 | [It Ain't Over BWB](https://open.spotify.com/track/2S7XYSL5qyBoJVQqm2mogJ) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:37 | 2022-06-14 | 2022-09-22 |
 | [It's All Good](https://open.spotify.com/track/1aXysFRgZfghWtgteEVQIz) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 5:14 | 2022-05-06 |  |
 | [Just Chillin'](https://open.spotify.com/track/2CZvyta27Yxnjw9JdDGGyG) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Chillin'](https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt) | 4:27 | 2022-08-16 |  |
-| [Just One Wish](https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:13 | 2022-08-16 |  |
+| [Just One Wish](https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:13 | 2022-08-16 | 2023-02-24 |
 | [Kicks](https://open.spotify.com/track/2DRXRN3kBgwGYZtLc5yFcM) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO) | 4:05 | 2022-05-06 | 2022-10-05 |
 | [Kimi Trick](https://open.spotify.com/track/1ouzK9gIxLEADwHlL97nPv) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Jonathan Fritzen](https://open.spotify.com/artist/0z0HE95gGMzsYOFD1EpnBD) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:05 | 2022-08-16 |  |
 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 | 2022-05-06 | 2022-08-11 |
@@ -122,6 +122,7 @@
 | [Summer Groove](https://open.spotify.com/track/2oXfaASoAr4XVmubahCw08) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [This Is What I Hear](https://open.spotify.com/album/3wKbSf1poINjnQB7A1tLkl) | 4:39 | 2022-05-06 | 2022-07-29 |
 | [Summer Groove](https://open.spotify.com/track/1vJNMJf8iGkfO7TR9XRpFz) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:40 | 2022-06-28 |  |
 | [Surrender \(feat\. Boney James\)](https://open.spotify.com/track/3XS01xqHzkICimJBDwy0iA) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD), [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Surrender](https://open.spotify.com/album/11cJrPEgWk8xpK8MqRegfd) | 4:42 | 2022-05-06 |  |
+| [Take It Higher](https://open.spotify.com/track/2n3CS2o8W2zUzOvGHaAynw) | [Gino Rosaria](https://open.spotify.com/artist/1kQHli4oL4h6IZxBu8PHoq) | [Don't Stop Now!](https://open.spotify.com/album/1uVPlYMIp6GoyWWflqm9cm) | 4:23 | 2023-02-23 |  |
 | [Take Me There](https://open.spotify.com/track/5rB6wRwImtMsQirYDS2Xxu) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 5:14 | 2022-05-06 | 2022-10-05 |
 | [Tell Me So](https://open.spotify.com/track/1xIfnVs8j4QfY91Un3rxvE) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [In The Name Of Love](https://open.spotify.com/album/54oJKdLUcrIwOwX4FkxBxW) | 5:01 | 2022-05-06 |  |
 | [The Gift](https://open.spotify.com/track/4OEEX2KxWFXOjp8tBf02t6) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 5:28 | 2022-05-06 | 2022-11-23 |
@@ -150,6 +151,7 @@
 | [Winelight](https://open.spotify.com/track/74Ne3x1RIbHNvpUzOY5QOF) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [The City](https://open.spotify.com/album/5eYYVtIE39eZiFqfyFIDLk) | 4:38 | 2022-05-06 | 2022-10-05 |
 | [Wonderful Tonight](https://open.spotify.com/track/2H26ZEY1lP9uA1JTERztmg) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [Love Songs](https://open.spotify.com/album/7y6QhxfFFbPj4xrBy4yywf) | 4:33 | 2022-05-06 | 2022-08-11 |
 | [Words \(Unspoken\)](https://open.spotify.com/track/499DR2g9x9o4aPAJiM48Z9) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 4:38 | 2022-05-06 | 2022-10-05 |
+| [Working Buttons](https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Working Buttons](https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe) | 4:30 | 2023-02-23 |  |
 | [You Read My Mind](https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ) | [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) | [Fuzzy Logic](https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m) | 4:51 | 2022-05-06 |  |
 | [You're The One For Me](https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM) | [Urban Knights](https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5) | [Urban Knights III](https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ) | 4:02 | 2022-05-06 |  |
 

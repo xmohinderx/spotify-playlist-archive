@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,635 likes - 135 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,932 likes - 135 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 40 | [Super Duper Party People](https://open.spotify.com/track/1gbzs6U70kBFLOtBB0Rr1L) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God](https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H) | 3:49 |
 | 41 | [Numb](https://open.spotify.com/track/2Bh6Dm3ApriRXPprHyaVHR) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Sphere](https://open.spotify.com/album/4Tr2HXJyVCExLEntpdKig7) | 3:23 |
 | 42 | [CLOUDS](https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [CLOUDS](https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ) | 3:16 |
-| 43 | [Damn Girl \(feat\. Jean Deaux\)](https://open.spotify.com/track/0KXQqXxBt9PkcGREjkWi9J) | [Biako](https://open.spotify.com/artist/2UJzd3nPhsf58RQmMe7nYQ), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Damn Girl \(feat\. Jean Deaux\)](https://open.spotify.com/album/3wJcxMsWDoyjora9uBTTQY) | 3:09 |
+| 43 | [Damn Girl](https://open.spotify.com/track/0KXQqXxBt9PkcGREjkWi9J) | [Biako](https://open.spotify.com/artist/2UJzd3nPhsf58RQmMe7nYQ), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Damn Girl](https://open.spotify.com/album/3wJcxMsWDoyjora9uBTTQY) | 3:09 |
 | 44 | [Devil I Know](https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:32 |
 | 45 | [I See You](https://open.spotify.com/track/1mvDqP8BpVzD2GkbHChFzS) | [Pumarosa](https://open.spotify.com/artist/2iWb4skzSlf6dMTu1DS18J) | [Devastation](https://open.spotify.com/album/6FFdKK8ONwThrzC1SmbZOj) | 3:57 |
 | 46 | [Lost Cause](https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:32 |

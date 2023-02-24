@@ -1,12 +1,12 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 772467,
+  "num_followers": 772469,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU2MDY0NCwwMDAwMDAwMDZjMDE5OTdiZDJjZTI2ZDFiMWZmMDViMWRmZWY5OTM4",
+  "snapshot_id": "MTY0ODU2MDY0NCwwMDAwMDAwMGYxM2ZhMjVhNjVhNWJhN2IzODU3NjgyZTFkNGFlMmZj",
   "tracks": [
     {
       "added_at": "2022-03-29 13:30:44",
@@ -267,6 +267,26 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -727,26 +727,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Waves (Robin Schulz Radio Edit)",
-        "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Waves - Robin Schulz Radio Edit",
-      "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Waves (Robin Schulz Radio Edit)",
+        "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Waves - Robin Schulz Radio Edit",
+      "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 176766,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 211975,
       "name": "Five More Hours",
       "url": "https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 176766,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "Thank You [Not So Bad]",
         "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 197963,
       "name": "Thank You [Not So Bad]",
       "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2891,26 +2891,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Praise You (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/0o731p1naTotYd1TQklCIk"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 230162,
-      "name": "Praise You (Purple Disco Machine Remix) - Radio Edit",
-      "url": "https://open.spotify.com/track/0h078RRiZ0cGTG8XOgbqkE"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Insomnia (King Topher Remix)",
         "url": "https://open.spotify.com/album/50HIbfbrQemacUUAD9UfNX"
       },
@@ -2927,6 +2907,26 @@
       "duration_ms": 176097,
       "name": "Insomnia - King Topher Remix",
       "url": "https://open.spotify.com/track/52Y5nYBQgqawttJxxtUv1e"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Praise You (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0o731p1naTotYd1TQklCIk"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 230162,
+      "name": "Praise You (Purple Disco Machine Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/0h078RRiZ0cGTG8XOgbqkE"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3019,6 +3019,26 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "Be Your Friend",
+        "url": "https://open.spotify.com/album/33GfLqCFzz4RMZe1bLkFTe"
+      },
+      "artists": [
+        {
+          "name": "Vigiland",
+          "url": "https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds"
+        },
+        {
+          "name": "Alexander Tidebrink",
+          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
+        }
+      ],
+      "duration_ms": 180820,
+      "name": "Be Your Friend\u202c\u202c",
+      "url": "https://open.spotify.com/track/2mSIu1ZPo22Ihx3EwS4E6h"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "Old Town Road (Diplo Remix)",
         "url": "https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl"
       },
@@ -3039,26 +3059,6 @@
       "duration_ms": 204026,
       "name": "Old Town Road - Diplo Remix",
       "url": "https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "Be Your Friend",
-        "url": "https://open.spotify.com/album/33GfLqCFzz4RMZe1bLkFTe"
-      },
-      "artists": [
-        {
-          "name": "Vigiland",
-          "url": "https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds"
-        },
-        {
-          "name": "Alexander Tidebrink",
-          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
-        }
-      ],
-      "duration_ms": 180820,
-      "name": "Be Your Friend\u202c\u202c",
-      "url": "https://open.spotify.com/track/2mSIu1ZPo22Ihx3EwS4E6h"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3875,6 +3875,26 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "Bromance (Remixes)",
+        "url": "https://open.spotify.com/album/4zQnSr3qIEuy9Wv6sOXJXY"
+      },
+      "artists": [
+        {
+          "name": "Tim Berg",
+          "url": "https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1"
+        },
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 218616,
+      "name": "Bromance - Avicii's Radio Edit",
+      "url": "https://open.spotify.com/track/0xHQuV3c496RjG7ocxBINZ"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX"
       },
@@ -3911,26 +3931,6 @@
       "duration_ms": 182160,
       "name": "Need You",
       "url": "https://open.spotify.com/track/0EQeui6OBMzqJ3Z3wCOzZh"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "Bromance (Remixes)",
-        "url": "https://open.spotify.com/album/4zQnSr3qIEuy9Wv6sOXJXY"
-      },
-      "artists": [
-        {
-          "name": "Tim Berg",
-          "url": "https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1"
-        },
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 218616,
-      "name": "Bromance - Avicii's Radio Edit",
-      "url": "https://open.spotify.com/track/0xHQuV3c496RjG7ocxBINZ"
     },
     {
       "added_at": "2022-03-29 13:30:44",

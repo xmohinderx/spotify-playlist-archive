@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-304 songs - 19 hr 49 min
+305 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Come Home for Christmas](https://open.spotify.com/track/0kg3jsJlDCRTQUJr9ND8cv) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Come Home for Christmas](https://open.spotify.com/album/15uMS77uo95r4Q92eSDKHE) | 3:43 | 2022-11-26 |  |
 | [Come See \(Glory Hallelujah\)](https://open.spotify.com/track/0b6kJeukz3aFUyAiHoRT3U) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Power +](https://open.spotify.com/album/26UqkxKwmjXrxdOFFzOCXj) | 3:54 | 2021-12-11 | 2022-10-22 |
 | [Comfort & Joy](https://open.spotify.com/track/36OkQH2Hr216zV4J0PnsJb) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Comfort and Joy](https://open.spotify.com/album/5M4YSlCdqgYqycYo3ZU5y8) | 4:02 | 2021-12-24 | 2022-11-14 |
-| [Comfort and Joy](https://open.spotify.com/track/0ep9IjFxqMGLx6PsvV5cW9) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 4:02 | 2022-11-26 |  |
+| [Comfort and Joy](https://open.spotify.com/track/0ep9IjFxqMGLx6PsvV5cW9) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 4:02 | 2022-11-26 | 2023-02-24 |
 | [Comfort and Joy](https://open.spotify.com/track/1wAagNq445jUMg16Slaanc) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Comfort and Joy](https://open.spotify.com/album/3l8zkUWFFNEc8DZgyBGMuC) | 4:02 | 2021-12-11 | 2022-07-29 |
 | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/track/0xjCdmZQQQAY3lrvPEaZRS) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/album/16IA6igILbx316CPY6CwjP) | 5:12 | 2022-12-11 |  |
 | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/track/4859UK92TjODjB39UrCZo4) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/album/0V7o9iGSCjoeJ3QIkMnl5z) | 5:03 | 2022-11-26 | 2022-11-28 |
@@ -87,6 +87,7 @@
 | [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/track/0GHZixuBIWMWUsED3IaXSR) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/album/0O4AM6bSfFzUPpNOrHi5Zf) | 4:12 | 2021-12-11 | 2022-12-13 |
 | [Gloria \- Live](https://open.spotify.com/track/3l4f4bD5JePEYHv4mMAOgw) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Emmanuel: Christmas Songs Of Worship \(Deluxe\)](https://open.spotify.com/album/4mNQ4Jm87KEl2HXAQdF0al) | 3:37 | 2022-11-26 |  |
 | [Gloria/Angels We Have Heard on High](https://open.spotify.com/track/2PzQepOc2vrzP8hYfQlghd) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [It's Finally Christmas \- EP](https://open.spotify.com/album/6yYrcNXcSslKmDkR2sfm6Q) | 4:31 | 2021-12-11 |  |
+| [Glory](https://open.spotify.com/track/545661gwwNUrfWaRlxGB8z) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [GENYUS MCFLY](https://open.spotify.com/artist/0qCbHriiVyhxnZTpCEHbqA) | [Glory](https://open.spotify.com/album/7DqVpahFrtFI1cFHBvMdXr) | 2:20 | 2022-12-11 |  |
 | [Glory Hallelujah \(Christmas\) \- Live](https://open.spotify.com/track/7EYEnh1mIoBXn73VjkVJJr) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [REVERE: Christmas](https://open.spotify.com/album/10Ivj7BV9TwIHIvxLtpUHy) | 4:08 | 2021-12-24 | 2022-07-26 |
 | [Glory In The Highest](https://open.spotify.com/track/2U8ktRTW0SpL7GS994KNQE) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Receive Our King](https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy) | 4:51 | 2021-12-24 | 2022-07-23 |
 | [Glory To You In The Highest \(O Come Let Us Adore\)](https://open.spotify.com/track/0QRDvMDcInrXSODsTQ6h7O) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [These Christmas Lights](https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a) | 5:16 | 2021-12-24 | 2022-07-29 |

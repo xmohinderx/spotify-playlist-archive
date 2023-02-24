@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 
 > Relax and escape with these tranquil tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,628 likes - 76 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,684 likes - 76 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

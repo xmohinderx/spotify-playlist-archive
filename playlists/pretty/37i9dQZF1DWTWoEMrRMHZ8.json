@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Adriana Calcanhotto",
-  "num_followers": 334319,
+  "num_followers": 334382,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA5NDExNywwMDAwMDAwMGY3ZmEwOTk4NzhkYzM1NzViOTBkNWJkN2VkZTczYjdk",
+  "snapshot_id": "MTY3NzA5NDExNywwMDAwMDAwMDdjZmY1M2M1ODk3MDZkMDYxMzA1MThiZWE4YjBlZmE2",
   "tracks": [
     {
       "added_at": "2023-02-22 19:28:37",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-02-22 19:28:37",
       "album": {
-        "name": "Portas",
-        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Feliz, Alegre e Forte",
-      "url": "https://open.spotify.com/track/5wIytrxWis1yWdvAE5z890"
-    },
-    {
-      "added_at": "2023-02-22 19:28:37",
-      "album": {
         "name": "Deixa Vir Do Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 204007,
       "name": "Outono",
       "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
+    },
+    {
+      "added_at": "2023-02-22 19:28:37",
+      "album": {
+        "name": "Portas",
+        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Feliz, Alegre e Forte",
+      "url": "https://open.spotify.com/track/5wIytrxWis1yWdvAE5z890"
     },
     {
       "added_at": "2023-02-22 19:28:37",
@@ -343,38 +343,6 @@
     {
       "added_at": "2023-02-22 19:28:37",
       "album": {
-        "name": "SIM SIM SIM",
-        "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
-      },
-      "artists": [
-        {
-          "name": "Bala Desejo",
-          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
-        },
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        },
-        {
-          "name": "Dora Morelenbaum",
-          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
-        },
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        },
-        {
-          "name": "Lucas Nunes",
-          "url": "https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW"
-        }
-      ],
-      "duration_ms": 235435,
-      "name": "Passarinha",
-      "url": "https://open.spotify.com/track/0cLilijUD3FgmzYzV7UAug"
-    },
-    {
-      "added_at": "2023-02-22 19:28:37",
-      "album": {
         "name": "Pra Melhorar",
         "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
       },
@@ -411,6 +379,38 @@
       "duration_ms": 256155,
       "name": "Bem Que Se Quis - Ao Vivo",
       "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
+    },
+    {
+      "added_at": "2023-02-22 19:28:37",
+      "album": {
+        "name": "SIM SIM SIM",
+        "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
+      },
+      "artists": [
+        {
+          "name": "Bala Desejo",
+          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "Dora Morelenbaum",
+          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        },
+        {
+          "name": "Lucas Nunes",
+          "url": "https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW"
+        }
+      ],
+      "duration_ms": 235435,
+      "name": "Passarinha",
+      "url": "https://open.spotify.com/track/0cLilijUD3FgmzYzV7UAug"
     },
     {
       "added_at": "2023-02-22 19:28:37",
@@ -1115,6 +1115,30 @@
     {
       "added_at": "2023-02-22 19:28:37",
       "album": {
+        "name": "Eu Nem Ligo",
+        "url": "https://open.spotify.com/album/68CiYAj4cMlbSxsIMRkiqi"
+      },
+      "artists": [
+        {
+          "name": "Bruna Caram",
+          "url": "https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Lan Lahn",
+          "url": "https://open.spotify.com/artist/00XaOztVLjv4rRQ5gqDFar"
+        }
+      ],
+      "duration_ms": 183355,
+      "name": "Eu Nem Ligo",
+      "url": "https://open.spotify.com/track/5hZw6yNbvVIyKaCwX04e6B"
+    },
+    {
+      "added_at": "2023-02-22 19:28:37",
+      "album": {
         "name": "Preciso Me Encontrar",
         "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
       },
@@ -1203,30 +1227,6 @@
       "duration_ms": 179517,
       "name": "Morena Bonita",
       "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
-    },
-    {
-      "added_at": "2023-02-22 19:28:37",
-      "album": {
-        "name": "Eu Nem Ligo",
-        "url": "https://open.spotify.com/album/68CiYAj4cMlbSxsIMRkiqi"
-      },
-      "artists": [
-        {
-          "name": "Bruna Caram",
-          "url": "https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Lan Lahn",
-          "url": "https://open.spotify.com/artist/00XaOztVLjv4rRQ5gqDFar"
-        }
-      ],
-      "duration_ms": 183355,
-      "name": "Eu Nem Ligo",
-      "url": "https://open.spotify.com/track/5hZw6yNbvVIyKaCwX04e6B"
     },
     {
       "added_at": "2023-02-22 19:28:37",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2023-02-22 19:28:37",
       "album": {
+        "name": "desculpe o au\u00ea",
+        "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/2HDu3X8LSyHU8SggdwHNmc"
+        },
+        {
+          "name": "Fl\u00e1via Felicio",
+          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
+        }
+      ],
+      "duration_ms": 178867,
+      "name": "desculpe o au\u00ea",
+      "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
+    },
+    {
+      "added_at": "2023-02-22 19:28:37",
+      "album": {
         "name": "Ef\u00eamera (Remix)",
         "url": "https://open.spotify.com/album/60kjU0d3OHVUBrHjr6Bi9G"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 244809,
       "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea - Remix",
       "url": "https://open.spotify.com/track/5w6lysYJvK9IVBwzs8xm8G"
-    },
-    {
-      "added_at": "2023-02-22 19:28:37",
-      "album": {
-        "name": "desculpe o au\u00ea",
-        "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
-      },
-      "artists": [
-        {
-          "name": "Belle",
-          "url": "https://open.spotify.com/artist/2HDu3X8LSyHU8SggdwHNmc"
-        },
-        {
-          "name": "Fl\u00e1via Felicio",
-          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
-        }
-      ],
-      "duration_ms": 178867,
-      "name": "desculpe o au\u00ea",
-      "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
     },
     {
       "added_at": "2023-02-22 19:28:37",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-02-22 19:28:37",
       "album": {
-        "name": "A Situa\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/29EgsSSK4l4CIQmFJqXPPp"
-      },
-      "artists": [
-        {
-          "name": "Sara N\u00e3o Tem Nome",
-          "url": "https://open.spotify.com/artist/31HTzBU95YF2eY7oXK92vM"
-        }
-      ],
-      "duration_ms": 193283,
-      "name": "Incomoda",
-      "url": "https://open.spotify.com/track/4tZZwP0bPBjOeLjDjKrAGc"
-    },
-    {
-      "added_at": "2023-02-22 19:28:37",
-      "album": {
         "name": "Essa Pele Marcada 4 (Ao Vivo)",
         "url": "https://open.spotify.com/album/19XR5RzqSQ3ZBbmZ7F8ZmQ"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 359706,
       "name": "Conviver - Ao Vivo",
       "url": "https://open.spotify.com/track/56n5c5qisRIcJqawTM7Bgr"
+    },
+    {
+      "added_at": "2023-02-22 19:28:37",
+      "album": {
+        "name": "A Situa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/29EgsSSK4l4CIQmFJqXPPp"
+      },
+      "artists": [
+        {
+          "name": "Sara N\u00e3o Tem Nome",
+          "url": "https://open.spotify.com/artist/31HTzBU95YF2eY7oXK92vM"
+        }
+      ],
+      "duration_ms": 193283,
+      "name": "Incomoda",
+      "url": "https://open.spotify.com/track/4tZZwP0bPBjOeLjDjKrAGc"
     },
     {
       "added_at": "2023-02-22 19:28:37",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-02-22 19:28:37",
       "album": {
-        "name": "O futuro \u00e9 mais bonito",
-        "url": "https://open.spotify.com/album/2plCYji1S7EECkKDwlRO8J"
-      },
-      "artists": [
-        {
-          "name": "Anna Setton",
-          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
-        }
-      ],
-      "duration_ms": 167926,
-      "name": "O futuro \u00e9 mais bonito",
-      "url": "https://open.spotify.com/track/10iqODY9yNkOwwHMhZPLL9"
-    },
-    {
-      "added_at": "2023-02-22 19:28:37",
-      "album": {
         "name": "Can\u00e7\u00e3o do esp\u00edrito",
         "url": "https://open.spotify.com/album/50cl3sGCnxnr6zwd4yFHnV"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 214693,
       "name": "Can\u00e7\u00e3o do esp\u00edrito",
       "url": "https://open.spotify.com/track/1l5gqW9fYAIcrk0lv9AuWB"
+    },
+    {
+      "added_at": "2023-02-22 19:28:37",
+      "album": {
+        "name": "O futuro \u00e9 mais bonito",
+        "url": "https://open.spotify.com/album/2plCYji1S7EECkKDwlRO8J"
+      },
+      "artists": [
+        {
+          "name": "Anna Setton",
+          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
+        }
+      ],
+      "duration_ms": 167926,
+      "name": "O futuro \u00e9 mais bonito",
+      "url": "https://open.spotify.com/track/10iqODY9yNkOwwHMhZPLL9"
     },
     {
       "added_at": "2023-02-22 19:28:37",

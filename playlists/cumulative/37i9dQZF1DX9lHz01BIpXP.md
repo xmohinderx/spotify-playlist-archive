@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP)
 
-> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=fvnHAKwCQ\-u8gnmqQaUJ8A">Loufi</a>
+> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=cbp\-s6maTIy6umdmoRunFQ">Jack Parow</a>
 
-68 songs - 3 hr 47 min
+70 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Benni McCarthy](https://open.spotify.com/track/3Lyk4X2mZp1BbmzTG9sqmg) | [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Shaney Jay](https://open.spotify.com/artist/1q95EBYcea3p624dJytDFh) | [Benni McCarthy](https://open.spotify.com/album/70g8vpdQWQjAxPRfOpS8dY) | 3:05 | 2023-02-16 |  |
 | [Bons](https://open.spotify.com/track/27rWp1eK0aH82c8Uo9nJAB) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic), [Katinka Band](https://open.spotify.com/artist/4KQ5Y1mDvgEUSxKk5FT7pS) | [The Party Starter](https://open.spotify.com/album/1Rzyo8ixVvtCt3ygXclytD) | 3:06 | 2022-09-08 | 2022-12-09 |
 | [Breinsuiker \- Remix](https://open.spotify.com/track/20CX51tTFlht4gXK1loswW) | [Jitsvinger](https://open.spotify.com/artist/0Mn0ce5OUNmCtxfiT3TmZr), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Zomer '17](https://open.spotify.com/album/1CP6a9AvPbfDL4FiK49ViT) | 4:23 | 2022-09-08 |  |
-| [Bring the Noise](https://open.spotify.com/track/6e3FJoRmqAQF76x4o3BYjn) | [BRU](https://open.spotify.com/artist/5BZSMHMX8U0s2uLdutE8Sv), [Isaac Mutant](https://open.spotify.com/artist/76VLsNwSomCEFiV6Va9PgX), [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Bru](https://open.spotify.com/album/6RirppwJmnR5e0PTghCull) | 4:26 | 2022-12-01 |  |
+| [Bring the Noise](https://open.spotify.com/track/6e3FJoRmqAQF76x4o3BYjn) | [BRU](https://open.spotify.com/artist/5BZSMHMX8U0s2uLdutE8Sv), [Isaac Mutant](https://open.spotify.com/artist/76VLsNwSomCEFiV6Va9PgX), [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Bru](https://open.spotify.com/album/6RirppwJmnR5e0PTghCull) | 4:26 | 2022-12-01 | 2023-02-24 |
 | [By Die See](https://open.spotify.com/track/0GJrUyW2Gi3OrCdbBMl9hI) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [By Die See](https://open.spotify.com/album/5Fspb1oAi4FQVr6csHTjz5) | 2:47 | 2022-11-03 |  |
 | [Capeflets](https://open.spotify.com/track/1gcpYFHHLKDXefNHRqPOpg) | [Cream](https://open.spotify.com/artist/3juzOjpaVU73kK8WdtkGB4) | [Bruin Brood](https://open.spotify.com/album/3fFmIN3E1RFCel6vvmN2s5) | 2:11 | 2022-09-08 |  |
 | [Cerebellum](https://open.spotify.com/track/0RITqRIAaeqTkH69haD3SN) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Aangename Kennis](https://open.spotify.com/album/3rSgGMWq1S2Xipr0kKYfq4) | 3:07 | 2022-09-08 |  |
@@ -48,6 +48,7 @@
 | [Mooiste Meisies](https://open.spotify.com/track/4V3i57trY95kxR28rEgMaw) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Mooiste Meisies](https://open.spotify.com/album/6CPg4uM54Rc86XT2bRfamF) | 3:41 | 2022-12-01 |  |
 | [Moola](https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Moola](https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t) | 3:04 | 2022-11-17 |  |
 | [My Main Bra Tops](https://open.spotify.com/track/0N1SlT7lVO21RgeqLYMtac) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Early B](https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd) | [My Main Bra Tops](https://open.spotify.com/album/1fi2Jaz0NJyc1yGMnlWwjT) | 3:03 | 2022-12-08 | 2023-01-14 |
+| [Neus Breek](https://open.spotify.com/track/2JxD0YQCAaGMSTqR1ColGD) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Die Evangelie Van Goeie Tye](https://open.spotify.com/album/1vKQJRx5BOWeiFZ1zXVp13) | 3:21 | 2023-02-23 |  |
 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 | 2023-01-27 |  |
 | [okay, oraait](https://open.spotify.com/track/30yMwESJ0zz1TlosluFC2t) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Ek Belowe, Demos \(pt\. 1\)](https://open.spotify.com/album/09ugntywMtYnjHWgLInVuj) | 2:37 | 2022-09-08 |  |
 | [Ongerep](https://open.spotify.com/track/3eXMAAp2vmVQYzau6Tr2Zy) | [Jaak](https://open.spotify.com/artist/7xPfiz8ANL69EeDuLNS8hm) | [Ongerep](https://open.spotify.com/album/5Q9qa3yXeuPfgDBBKrD7W5) | 3:32 | 2022-09-08 | 2022-11-18 |
@@ -72,9 +73,10 @@
 | [Watch Wat Jy Praat](https://open.spotify.com/track/05jiDkfyoTZzhEHf7eN94t) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Young K](https://open.spotify.com/artist/2K1piKoDWujwiWh5pdktIV) | [Watch Wat Jy Praat](https://open.spotify.com/album/0xjCTQeFz0rkSNSq2SsyV3) | 3:40 | 2022-11-10 |  |
 | [Werkhom 2.0 \(Bonus Track\)](https://open.spotify.com/track/0zi0Do3nO8LtRzlau2V7DR) | [Temple Boys Cpt](https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n) | [The Goats Ep](https://open.spotify.com/album/7gNuFZUosaLFUvWK4xJV8D) | 3:35 | 2022-10-13 |  |
 | [Wesbank Bloei](https://open.spotify.com/track/25DeMB5fLrhgiGWKvVb083) | [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Wesbank Bloei](https://open.spotify.com/album/0bo1Peg9WhB0rV0HNRK5Ss) | 3:13 | 2022-09-08 | 2023-02-10 |
+| [Wie](https://open.spotify.com/track/0O8LcMl314edgLVPCnT9OZ) | [Young Midi](https://open.spotify.com/artist/4NQRYP8Shjn1eA4Ic0iTk4) | [Wie](https://open.spotify.com/album/2oVKdhq3UUbHCoh7mCmJhk) | 1:57 | 2023-02-23 |  |
 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 | 2022-09-08 |  |
 | [Windgat](https://open.spotify.com/track/6bttyQEk8x8i4pzNfqEjtd) | [Die Twaalf](https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW) | [Windgat](https://open.spotify.com/album/28pC9cAetccJKHDpIjsCnd) | 4:35 | 2022-09-08 | 2022-12-02 |
-| [WUTJAINJILLE](https://open.spotify.com/track/6xWKj3N3die6nrCtv6WZiS) | [Marco Polo 7945](https://open.spotify.com/artist/42kYVWWbrUVyhsCWzxKwVp) | [WUTJAINJILLE](https://open.spotify.com/album/4aza6nbvvOP3SPWK5NKOhL) | 2:52 | 2022-12-01 |  |
+| [WUTJAINJILLE](https://open.spotify.com/track/6xWKj3N3die6nrCtv6WZiS) | [Marco Polo 7945](https://open.spotify.com/artist/42kYVWWbrUVyhsCWzxKwVp) | [WUTJAINJILLE](https://open.spotify.com/album/4aza6nbvvOP3SPWK5NKOhL) | 2:52 | 2022-12-01 | 2023-02-24 |
 | [Yes Meneer](https://open.spotify.com/track/1c2tsesE4APsc5mUwMt4D2) | [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Yes Meneer](https://open.spotify.com/album/6zGyqXBpUdzjPdRFXaSszY) | 3:57 | 2022-12-08 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

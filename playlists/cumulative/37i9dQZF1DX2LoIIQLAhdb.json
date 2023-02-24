@@ -1,8 +1,44 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Imen Es",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Zaho",
   "name": "R&Bae",
   "tracks": [
+    {
+      "album": {
+        "name": "20\u00e8me symphonie",
+        "url": "https://open.spotify.com/album/441i6kpJyPZw9A0zAd5Eqd"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "20\u00e8me symphonie",
+      "url": "https://open.spotify.com/track/2DQOu0QGjeRPJ8NzyUO4l2"
+    },
+    {
+      "album": {
+        "name": "Ailleurs",
+        "url": "https://open.spotify.com/album/4Qsy1FwQVGeYD2JkZKUZPH"
+      },
+      "artists": [
+        {
+          "name": "Mibsy",
+          "url": "https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129748,
+      "name": "Ailleurs",
+      "url": "https://open.spotify.com/track/56q3vWvUDhVR0yHTtC9RLN"
+    },
     {
       "album": {
         "name": "ANANAS (Acoustic version)",
@@ -56,7 +92,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 160693,
       "name": "Au naturel",
       "url": "https://open.spotify.com/track/0gMwNsAiKcJ2r73M4l8E2T"
@@ -650,7 +686,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 180694,
       "name": "Karma",
       "url": "https://open.spotify.com/track/35N2xWSkn7wio2V7ti8Xse"
@@ -672,10 +708,28 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 185576,
       "name": "L'officiel",
       "url": "https://open.spotify.com/track/2kwPIIXZX9ZcnbeXtTTFsZ"
+    },
+    {
+      "album": {
+        "name": "BTLV",
+        "url": "https://open.spotify.com/album/0RVI6Nf64FsFvG8yZJ7JNR"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169026,
+      "name": "La vie de r\u00eave",
+      "url": "https://open.spotify.com/track/7KjwR9ijEbm3BCVM3CrKnO"
     },
     {
       "album": {
@@ -1040,7 +1094,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 179106,
       "name": "On s'en fout",
       "url": "https://open.spotify.com/track/2Rckl4cG3BpVNor01Dp1OQ"
@@ -1384,6 +1438,28 @@
       "duration_ms": 179093,
       "name": "Solo (feat. Tayc)",
       "url": "https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi"
+    },
+    {
+      "album": {
+        "name": "Galat\u00e9e",
+        "url": "https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "Nemir",
+          "url": "https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190937,
+      "name": "Souvenirs",
+      "url": "https://open.spotify.com/track/39S74tThedRDddGIRPKtfC"
     },
     {
       "album": {

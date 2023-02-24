@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop Cover: Of Mice & Men \\m/",
-  "num_followers": 295440,
+  "num_followers": 295538,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDZlYTU3ZjVkZmQ5MjZiNTNlZGQ3NGEyNTUxZTI4ODU0",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGZiOGQ0ZTlmMDA3YTBkZTdiZmVkN2Q0MWU2MGRiN2Q2",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "When You & Me Dance",
-        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "When You & Me Dance",
-      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Nothing For Free",
         "url": "https://open.spotify.com/album/2C5pOup7ksQ7YFutOlP6nA"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 183049,
       "name": "Nothing For Free",
       "url": "https://open.spotify.com/track/7eJqLdEQ96D5Xzc406xkeZ"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "When You & Me Dance",
+        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "When You & Me Dance",
+      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -771,30 +771,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "1000 gecs and The Tree of Clues",
-        "url": "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
+        "name": "COMPLICATED (feat. aldn & 8485)",
+        "url": "https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx"
       },
       "artists": [
         {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
         },
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
         },
         {
-          "name": "Craig Owens",
-          "url": "https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv"
-        },
-        {
-          "name": "Nicole Dollanganger",
-          "url": "https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO"
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
         }
       ],
-      "duration_ms": 175699,
-      "name": "hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",
-      "url": "https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo"
+      "duration_ms": 180923,
+      "name": "COMPLICATED (feat. aldn & 8485)",
+      "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -819,26 +815,30 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "COMPLICATED (feat. aldn & 8485)",
-        "url": "https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx"
+        "name": "1000 gecs and The Tree of Clues",
+        "url": "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
       },
       "artists": [
         {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
         },
         {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         },
         {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+          "name": "Craig Owens",
+          "url": "https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv"
+        },
+        {
+          "name": "Nicole Dollanganger",
+          "url": "https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO"
         }
       ],
-      "duration_ms": 180923,
-      "name": "COMPLICATED (feat. aldn & 8485)",
-      "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
+      "duration_ms": 175699,
+      "name": "hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",
+      "url": "https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1327,22 +1327,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "you\u2019ve changed, i\u2019ve changed",
-        "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
+        "name": "Won't Make A Sound",
+        "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
         },
         {
-          "name": "Chet Porter",
-          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
         }
       ],
-      "duration_ms": 311625,
-      "name": "you\u2019ve changed, i\u2019ve changed",
-      "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
+      "duration_ms": 276480,
+      "name": "Won't Make A Sound",
+      "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1367,6 +1371,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "you\u2019ve changed, i\u2019ve changed",
+        "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        }
+      ],
+      "duration_ms": 311625,
+      "name": "you\u2019ve changed, i\u2019ve changed",
+      "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Out Of My Head",
         "url": "https://open.spotify.com/album/6FGebBndNrEv5hNPPHqHFJ"
       },
@@ -1387,30 +1411,6 @@
       "duration_ms": 163941,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Won't Make A Sound",
-        "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 276480,
-      "name": "Won't Make A Sound",
-      "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Baptize (Sullivan King Remix)",
+        "url": "https://open.spotify.com/album/170AbiVPb4OIprabzweN14"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Baptize - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/48JuHnroG6NcNMVGcFFVRw"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "11 Minutes (feat. Travis Barker) [Kayzo Remix]",
         "url": "https://open.spotify.com/album/77iOq0ll6f92j1Z0O8mW1u"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 257349,
       "name": "11 Minutes (feat. Travis Barker) - Kayzo Remix",
       "url": "https://open.spotify.com/track/0YbKNvAu6wHeM4bfRTZFT3"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Baptize (Sullivan King Remix)",
-        "url": "https://open.spotify.com/album/170AbiVPb4OIprabzweN14"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Baptize - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/48JuHnroG6NcNMVGcFFVRw"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
-      },
-      "artists": [
-        {
-          "name": "HVDES",
-          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
-        }
-      ],
-      "duration_ms": 292173,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Not Letting Go",
         "url": "https://open.spotify.com/album/3PmTpFfC6pLv98v8CJlUZV"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 183600,
       "name": "Not Letting Go",
       "url": "https://open.spotify.com/track/7ybW2xuOiUz7CNYn9BCJfQ"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Better Than Before",
-        "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
-      },
-      "artists": [
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        },
-        {
-          "name": "Vanthe",
-          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "Better Than Before",
-      "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "come around",
         "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
       },
@@ -1899,26 +1879,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "NEW BREED (REMIXES)",
-        "url": "https://open.spotify.com/album/3z7otCLPeYt98e8U9bgWGt"
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
       },
       "artists": [
         {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
         },
         {
-          "name": "conner",
-          "url": "https://open.spotify.com/artist/6FUrCaaUDkYwhFOmP6FfBf"
-        },
-        {
-          "name": "N3WPORT",
-          "url": "https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8"
+          "name": "Vanthe",
+          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
         }
       ],
-      "duration_ms": 242823,
-      "name": "POSER (N3WPORT Remix)",
-      "url": "https://open.spotify.com/track/4WqGcKp5dnqj8nCFbV9Af3"
+      "duration_ms": 164897,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1943,6 +1919,30 @@
       "duration_ms": 195720,
       "name": "Kill The Machine (feat. Bad/Love)",
       "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "NEW BREED (REMIXES)",
+        "url": "https://open.spotify.com/album/3z7otCLPeYt98e8U9bgWGt"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "conner",
+          "url": "https://open.spotify.com/artist/6FUrCaaUDkYwhFOmP6FfBf"
+        },
+        {
+          "name": "N3WPORT",
+          "url": "https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8"
+        }
+      ],
+      "duration_ms": 242823,
+      "name": "POSER (N3WPORT Remix)",
+      "url": "https://open.spotify.com/track/4WqGcKp5dnqj8nCFbV9Af3"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "I'm Just A Monster Underneath, My Darling",
-        "url": "https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 250344,
-      "name": "I'm Just A Monster Underneath, My Darling",
-      "url": "https://open.spotify.com/track/5CkicabyzDs7F7Froa503f"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Be Careful What You Say",
         "url": "https://open.spotify.com/album/4QsFsQhwDJLUbKLSeceD1w"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 210573,
       "name": "Be Careful What You Say",
       "url": "https://open.spotify.com/track/296Fv8CqhmVqEol73p5y4Q"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "I'm Just A Monster Underneath, My Darling",
+        "url": "https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 250344,
+      "name": "I'm Just A Monster Underneath, My Darling",
+      "url": "https://open.spotify.com/track/5CkicabyzDs7F7Froa503f"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2159,26 +2159,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/2ppAD4evsVMvE6maIUlmZ2"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Favour",
         "url": "https://open.spotify.com/album/2IyRXg2vo1lGbAEHvPo4H8"
       },
@@ -2195,6 +2175,26 @@
       "duration_ms": 185250,
       "name": "Favour",
       "url": "https://open.spotify.com/track/3VmmsSRAhOr3MIWdMUdKjE"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/2ppAD4evsVMvE6maIUlmZ2"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2231,6 +2231,22 @@
       "duration_ms": 176008,
       "name": "Get To U",
       "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "What is Really Underneath?",
+        "url": "https://open.spotify.com/album/6b7BEJklF29cidjmtLOC1Y"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        }
+      ],
+      "duration_ms": 188970,
+      "name": "Drowning In It",
+      "url": "https://open.spotify.com/track/41wvy0sdybjSqAQZ3dD9x5"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2287,38 +2303,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "What is Really Underneath?",
-        "url": "https://open.spotify.com/album/6b7BEJklF29cidjmtLOC1Y"
-      },
-      "artists": [
-        {
-          "name": "Code Orange",
-          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
-        }
-      ],
-      "duration_ms": 188970,
-      "name": "Drowning In It",
-      "url": "https://open.spotify.com/track/41wvy0sdybjSqAQZ3dD9x5"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Fade With Me",
-        "url": "https://open.spotify.com/album/2eOUEwRDCp9qIgydVJWKuA"
-      },
-      "artists": [
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        }
-      ],
-      "duration_ms": 214758,
-      "name": "Fade With Me",
-      "url": "https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX"
       },
@@ -2339,22 +2323,42 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Flatlined",
-        "url": "https://open.spotify.com/album/2sK83xEbolOa7q6ZcyOC7W"
+        "name": "Fade With Me",
+        "url": "https://open.spotify.com/album/2eOUEwRDCp9qIgydVJWKuA"
       },
       "artists": [
         {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
         }
       ],
-      "duration_ms": 291200,
-      "name": "Flatlined",
-      "url": "https://open.spotify.com/track/1jFw2LjM5koaqVYaiA2SPN"
+      "duration_ms": 214758,
+      "name": "Fade With Me",
+      "url": "https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Sick",
+        "url": "https://open.spotify.com/album/4BvWG5QPVZk19DgLCUqxur"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "FRANK ZUMMO",
+          "url": "https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz"
+        },
+        {
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/3IlbZZjgwqs255bQActy5O"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2383,26 +2387,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Sick",
-        "url": "https://open.spotify.com/album/4BvWG5QPVZk19DgLCUqxur"
+        "name": "Flatlined",
+        "url": "https://open.spotify.com/album/2sK83xEbolOa7q6ZcyOC7W"
       },
       "artists": [
         {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
         },
         {
-          "name": "FRANK ZUMMO",
-          "url": "https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz"
-        },
-        {
-          "name": "We Are PIGS",
-          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
         }
       ],
-      "duration_ms": 229090,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/3IlbZZjgwqs255bQActy5O"
+      "duration_ms": 291200,
+      "name": "Flatlined",
+      "url": "https://open.spotify.com/track/1jFw2LjM5koaqVYaiA2SPN"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2447,22 +2447,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Hit The Floor",
-        "url": "https://open.spotify.com/album/1qV35eCz8zR0MdO823pMJZ"
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/25qwYj0uO2Bo2L3sCF3cEL"
       },
       "artists": [
         {
-          "name": "Draeden",
-          "url": "https://open.spotify.com/artist/7tZV4FXJNO8FzjgrAToCln"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+          "name": "Andromida",
+          "url": "https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr"
         }
       ],
-      "duration_ms": 212307,
-      "name": "Hit The Floor",
-      "url": "https://open.spotify.com/track/2FHa5rOKOAhuKa0p7XfLTo"
+      "duration_ms": 180285,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/7MGbiE5OBeLjvPY6Sv9EDx"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -2487,26 +2483,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "The Trip Out",
-        "url": "https://open.spotify.com/album/78qwuQ29QWiA4PkfF6CC2b"
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/4DouZKdjc4nddOIHZxOK2n"
       },
       "artists": [
         {
-          "name": "The Crystal Method",
-          "url": "https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj"
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
         },
         {
-          "name": "Koda",
-          "url": "https://open.spotify.com/artist/3WhvgoOwfFRjuHf7zgCptu"
-        },
-        {
-          "name": "VAAAL",
-          "url": "https://open.spotify.com/artist/69F2d9RXVEVXH6Dhy5G7ng"
+          "name": "REEBZ",
+          "url": "https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t"
         }
       ],
-      "duration_ms": 201235,
-      "name": "Watch Me Now (feat. Koda & VAAAL)",
-      "url": "https://open.spotify.com/track/7Lc7Sqh2drQf8c2LK5v2Hu"
+      "duration_ms": 244457,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/2qxSDSCNGnAcmYyHzjfSFP"
     }
   ],
   "unique_name": "Rocktronic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,026 likes - 100 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,028 likes - 100 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 65 | [He Got Up](https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK) | [Deacon D.A.S.](https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [He Got Up](https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK) | 3:49 |
 | 66 | [I Know It Was the Blood](https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:02 |
 | 67 | [Jesus I Love You](https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [Declarations](https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT) | 6:13 |
-| 68 | [Blood Medley \(Part 3\) \- I Know It Was The Blood](https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Psalms, Hymns & Spiritual Songs](https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On) | 5:41 |
-| 69 | [The Cross Made the Change \- Live](https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Justin Gray](https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR) | [Common Hymnal \(Live\)](https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj) | 7:51 |
+| 68 | [The Cross Made the Change \- Live](https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Justin Gray](https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR) | [Common Hymnal \(Live\)](https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj) | 7:51 |
+| 69 | [Blood Medley \(Part 3\) \- I Know It Was The Blood](https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Psalms, Hymns & Spiritual Songs](https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On) | 5:41 |
 | 70 | [He Got Up \(feat\. Dorinda Clark Cole with Sean Tillery & Changed\)](https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA), [Dorinda Clark\-Cole](https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK), [Sean Tillery](https://open.spotify.com/artist/4P2nUuHgzfMwailfmGiyQ3), [Changed](https://open.spotify.com/artist/6zyqJXkwgEDElZcoqlI7cm) | [Cross Music](https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57) | 5:38 |
 | 71 | [I Need You Now](https://open.spotify.com/track/128ypdDlPrG9lpwGQzMiBQ) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [The Ultimate Playlist](https://open.spotify.com/album/7e7Kn1acCuaq8owAQHt8dI) | 4:10 |
 | 72 | [Calvary](https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy), [Jason Nicholson\-Porter](https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 5:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [Cherish The Cross](https://open.spotify.com/track/7BranHqbktqdiojkd0r07A) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [Live In Detroit \(Live\)](https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv) | 7:30 |
 | 100 | [He Carried The Cross For Me](https://open.spotify.com/track/5v2ObK3yVL3XUEwxYIqlcr) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [He Carried The Cross For Me](https://open.spotify.com/album/1bX7rKDrzP6RUTC1w2FhWN) | 3:50 |
 
-Snapshot ID: `MTY3NjY5OTQ1NCwwMDAwMDAwMDgxNjRlZWU0MzZkNGI5OTJkYjRmZmFlZDVlN2VkMTgx`
+Snapshot ID: `MTY3NjY5OTQ1NCwwMDAwMDAwMDg1MjhmMWMxOWZhYmQyOTNiNjYzNjVkNGNjYTkwNGIz`

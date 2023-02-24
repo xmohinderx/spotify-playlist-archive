@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Walker County
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,247 likes - 141 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,287 likes - 141 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

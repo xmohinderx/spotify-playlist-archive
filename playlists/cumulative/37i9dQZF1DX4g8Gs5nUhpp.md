@@ -4,7 +4,7 @@
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: HIEUTHUHAI
 
-147 songs - 9 hr 37 min
+148 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bên Trên Tầng Lầu](https://open.spotify.com/track/0Cy7uOfTjJrmHkNEPBBZxf) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ) | [Bên Trên Tầng Lầu](https://open.spotify.com/album/3YTsTxFi7qKmDx2TqlpYKG) | 3:04 | 2022-07-12 | 2022-12-19 |
 | [Bông Hoa Đẹp Nhất](https://open.spotify.com/track/7oX6qKTnKeVG6iT0qG1i29) | [Quân A.P](https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi) | [Bông Hoa Đẹp Nhất](https://open.spotify.com/album/0Vw8JSu2raGD3tKl5qKFwc) | 5:15 | 2022-05-27 | 2022-06-23 |
 | [Bước Qua Nhau](https://open.spotify.com/track/6GJi4nSZOiTOU2FhsgxWyH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Nhau](https://open.spotify.com/album/1kEjHdHNnYIv7CPF4fK8gU) | 4:17 | 2022-05-27 | 2022-06-29 |
+| [Bật Tình Yêu Lên](https://open.spotify.com/track/62SFLTN7txImu8pQwBMP6A) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ), [Hoà Minzy](https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8) | [Bật Tình Yêu Lên](https://open.spotify.com/album/6jOJUucuzH32n2BdTJ9lOB) | 3:23 | 2023-02-23 |  |
 | [Bắt Cóc Con Tim](https://open.spotify.com/track/3ho1OQb9SFtCt3MIiRZ8Si) | [Lou Hoang](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Bắt Cóc Con Tim](https://open.spotify.com/album/538vBy7c27uatest2Eu58q) | 3:17 | 2022-07-05 | 2022-11-26 |
 | [Cho Ngày Không Còn Nhau](https://open.spotify.com/track/2bRouRW1FbegiYbDVcoscf) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Cho Ngày Không Còn Nhau](https://open.spotify.com/album/5wRyEOHa0HIrWF20N24D5g) | 3:57 | 2022-05-27 | 2023-02-01 |
 | [Chuyện Rằng](https://open.spotify.com/track/3VOeGtJwJh2jslvQAFaaEn) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [Chuyện Rằng](https://open.spotify.com/album/4LCUSz7bnPTF3IKerCv308) | 4:32 | 2022-05-27 | 2022-06-23 |

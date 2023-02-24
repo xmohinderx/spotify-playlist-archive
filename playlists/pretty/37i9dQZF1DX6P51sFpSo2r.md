@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: A7X
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,980 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,264 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

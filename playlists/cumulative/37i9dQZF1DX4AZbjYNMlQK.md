@@ -4,7 +4,7 @@
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones.
 
-147 songs - 7 hr 59 min
+148 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Santa Claus Llegó a La Ciudad](https://open.spotify.com/track/0IrKbfhVKW0xpPEzRDeSUb) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 1:55 | 2021-12-15 | 2022-12-20 |
 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/4mpwuLCkeVzmzYFYjNrwMr) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/album/07xPl363lb9z67lLCtjuNS) | 2:38 | 2022-12-19 |  |
 | [Santa Para Que Porfa](https://open.spotify.com/track/52qnXpspvSfn6VK96iADHG) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Santa Para Que Porfa](https://open.spotify.com/album/6y60Q4HPD3K9V0anQN0y2P) | 2:56 | 2022-12-19 |  |
-| [Santa Quiero](https://open.spotify.com/track/2pPT6xpYHd6GQTEDfJxb1g) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Amor Navideño](https://open.spotify.com/album/2OvnTHTkyITkfhUl0kZ9hV) | 3:45 | 2021-12-15 |  |
+| [Santa Quiero](https://open.spotify.com/track/2pPT6xpYHd6GQTEDfJxb1g) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Amor Navideño](https://open.spotify.com/album/2OvnTHTkyITkfhUl0kZ9hV) | 3:45 | 2021-12-15 | 2023-02-24 |
+| [Santa Quiero](https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Amor Navideño](https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705) | 3:45 | 2022-12-22 |  |
 | [Santa, Te Espero A Las 10](https://open.spotify.com/track/1rrgtua4d11ALBCNQHlvI4) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Santa, Te Espero A Las 10](https://open.spotify.com/album/4zPbYPL2cP6MD8cDyXQ6fi) | 2:33 | 2021-12-15 | 2022-12-19 |
 | [Se Acerca Navidad](https://open.spotify.com/track/3RBTdjq25TnsJRIpkZxMkw) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Se Acerca Navidad](https://open.spotify.com/album/3ZE9lMRkHFM2RnjzSyxe5C) | 3:16 | 2022-12-22 |  |
 | [Se Va Diciembre](https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs) | [José Alfredo Jimenez Con Mariachi Vargas De Tecalitlan](https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB) | [Nuestra Navidad](https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm) | 2:36 | 2021-12-15 | 2022-12-20 |

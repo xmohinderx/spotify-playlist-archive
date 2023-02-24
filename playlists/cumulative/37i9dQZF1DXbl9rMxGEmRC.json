@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Dimmu Borgir",
+  "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Darkthrone",
   "name": "Extreme Metal",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 497740,
       "name": "Am Rande der Dunkelheit",
       "url": "https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 256553,
       "name": "Apostle",
       "url": "https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 236453,
       "name": "Black Crow On A Tombstone",
       "url": "https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1"
@@ -1795,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Existence of Awe",
+        "url": "https://open.spotify.com/album/2tcsisxp6rKvWppxliNwp1"
+      },
+      "artists": [
+        {
+          "name": "Downfall Of Gaia",
+          "url": "https://open.spotify.com/artist/2ZBAmlpAv7mVb9ZqUuHLSg"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330721,
+      "name": "Existence of Awe",
+      "url": "https://open.spotify.com/track/5kICTvuUW9hrDpEktp78fL"
+    },
+    {
+      "album": {
         "name": "Faces From Beyond",
         "url": "https://open.spotify.com/album/07tI8UIDXurBgET99kFZmk"
       },
@@ -2368,6 +2386,24 @@
       "duration_ms": 252066,
       "name": "Harvest Pyre",
       "url": "https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl"
+    },
+    {
+      "album": {
+        "name": "Haunted by Guilt",
+        "url": "https://open.spotify.com/album/7KTsCcLQtB09OhpulYMTmB"
+      },
+      "artists": [
+        {
+          "name": "Kalmah",
+          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225635,
+      "name": "Haunted by Guilt",
+      "url": "https://open.spotify.com/track/6vt2sAnAVzN0fPAa9hvFYU"
     },
     {
       "album": {
@@ -3557,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "Harrowing",
+        "url": "https://open.spotify.com/album/4u6tkLpzgHn5IBJRRHL0XB"
+      },
+      "artists": [
+        {
+          "name": "Mithridatum",
+          "url": "https://open.spotify.com/artist/2ukVC6m4tSCgaCXqWuEwNQ"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468909,
+      "name": "Mournful Glow",
+      "url": "https://open.spotify.com/track/4dWlYMm90NXNyRBe8duLXv"
+    },
+    {
+      "album": {
         "name": "Enthrone Darkness Triumphant",
         "url": "https://open.spotify.com/album/6EZbLDXHjeW5LHGmEqChmQ"
       },
@@ -4152,7 +4206,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 244109,
       "name": "Prism",
       "url": "https://open.spotify.com/track/21Atks7bDN6e7RYQe7Ctax"
@@ -4372,6 +4426,24 @@
       "duration_ms": 334973,
       "name": "Ring of Gold",
       "url": "https://open.spotify.com/track/35yrWddjHkq0FqDBitYZZT"
+    },
+    {
+      "album": {
+        "name": "Goatlord (Original)",
+        "url": "https://open.spotify.com/album/62vwGVGlQ68PK61VHamXmp"
+      },
+      "artists": [
+        {
+          "name": "Darkthrone",
+          "url": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235773,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/65FGIRbPo764N0mSAyJF4F"
     },
     {
       "album": {

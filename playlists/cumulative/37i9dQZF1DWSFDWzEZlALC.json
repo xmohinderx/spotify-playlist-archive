@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JEREMIAS",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Nina Chuba",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "Einsame Insel",
+        "url": "https://open.spotify.com/album/2bA9VJUcbmzW47Nubm8yOJ"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164063,
+      "name": "Einsame Insel",
+      "url": "https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76"
+    },
+    {
+      "album": {
         "name": "Elendig",
         "url": "https://open.spotify.com/album/5hGBNX1x3YCbFxoaxbQEYE"
       },
@@ -782,7 +800,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 186000,
       "name": "Ewiger Fahrgast",
       "url": "https://open.spotify.com/track/3RXfhZCEVajHZa9lwyPruL"
@@ -825,6 +843,50 @@
     },
     {
       "album": {
+        "name": "wie es ist",
+        "url": "https://open.spotify.com/album/7lj1zNPlp5Fh3rBh6ph539"
+      },
+      "artists": [
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Fragil",
+      "url": "https://open.spotify.com/track/0k1akQtVHZ7PWqjxqazJoV"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr immer",
+        "url": "https://open.spotify.com/album/4ta6tTPzBZ52kisCgtXvGR"
+      },
+      "artists": [
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        },
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        },
+        {
+          "name": "Cato",
+          "url": "https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203613,
+      "name": "F\u00fcr immer",
+      "url": "https://open.spotify.com/track/4YCs039j51sP9kEw5AJILe"
+    },
+    {
+      "album": {
         "name": "Geister bei Tageslicht",
         "url": "https://open.spotify.com/album/1aYtL3YKtImw2hkHtWAPHY"
       },
@@ -836,7 +898,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 163538,
       "name": "Geister bei Tageslicht",
       "url": "https://open.spotify.com/track/1t2ZCcxotoTylvYpPTOWgR"
@@ -1133,6 +1195,46 @@
     },
     {
       "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        },
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175554,
+      "name": "Ich glaub ich will heut nicht mehr gehen",
+      "url": "https://open.spotify.com/track/4zLCLlqLivpZXvYfQCqTWh"
+    },
+    {
+      "album": {
+        "name": "Ich Hab Dich",
+        "url": "https://open.spotify.com/album/4G9naEktOfdufVk8MU0dFO"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Ich Hab Dich",
+      "url": "https://open.spotify.com/track/4ukBo7BejjVCB1dkwLEb30"
+    },
+    {
+      "album": {
         "name": "Ich hass dich",
         "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
       },
@@ -1260,7 +1362,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 167327,
       "name": "Kater",
       "url": "https://open.spotify.com/track/7y9Kp4Tjka2B52vtuY4Jse"
@@ -1300,6 +1402,24 @@
       "duration_ms": 218573,
       "name": "Kein Stern",
       "url": "https://open.spotify.com/track/617OQB1qwAXCK8G25Yejop"
+    },
+    {
+      "album": {
+        "name": "Keine Panik",
+        "url": "https://open.spotify.com/album/3cC8Qm5TtLpzvR2CJImgcY"
+      },
+      "artists": [
+        {
+          "name": "Siggi",
+          "url": "https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209146,
+      "name": "Keine Panik",
+      "url": "https://open.spotify.com/track/6LH0YQyj12KPaFTe3PRO1S"
     },
     {
       "album": {
@@ -1379,6 +1499,28 @@
     },
     {
       "album": {
+        "name": "Lass Sie Reden",
+        "url": "https://open.spotify.com/album/6ACfV8Mg31s9C9O5SsLhi5"
+      },
+      "artists": [
+        {
+          "name": "futurebae",
+          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
+        },
+        {
+          "name": "JESUE",
+          "url": "https://open.spotify.com/artist/3EIiFjVdVmLOTCbgqhUCKP"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175973,
+      "name": "Lass Sie Reden",
+      "url": "https://open.spotify.com/track/13aLB1KmkCh52On7ASZMQo"
+    },
+    {
+      "album": {
         "name": "Laufen lernen",
         "url": "https://open.spotify.com/album/4DvFGcoQgXof8xO8xpVv2u"
       },
@@ -1390,7 +1532,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 198080,
       "name": "Laufen lernen",
       "url": "https://open.spotify.com/track/0dY9rVInyyuRCa0rNin52x"
@@ -1438,6 +1580,46 @@
       "duration_ms": 162373,
       "name": "Liebeslied",
       "url": "https://open.spotify.com/track/5yf926Kfq9Wv2vGJ11hCn1"
+    },
+    {
+      "album": {
+        "name": "jaaaaaaaaaaaaaaaa!",
+        "url": "https://open.spotify.com/album/6K5JrkKsdo5iKcEFxK79Rk"
+      },
+      "artists": [
+        {
+          "name": "KLAN",
+          "url": "https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8"
+        },
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206186,
+      "name": "Linie 72",
+      "url": "https://open.spotify.com/track/6xN7HQDr8X0xusxdedwEme"
+    },
+    {
+      "album": {
+        "name": "lost",
+        "url": "https://open.spotify.com/album/5fhETrRmzcp29kd6ey26EW"
+      },
+      "artists": [
+        {
+          "name": "Apollo Sissi",
+          "url": "https://open.spotify.com/artist/3rx1CQwe0iyA3d2q1renfJ"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133306,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/38UXs833I3BFuLT9Sq31KZ"
     },
     {
       "album": {
@@ -1510,7 +1692,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 192213,
       "name": "MISFIT",
       "url": "https://open.spotify.com/track/06D5zVYb8elwt1N22WH4RC"
@@ -1557,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Nero",
+        "url": "https://open.spotify.com/album/3cBbmX6ACg8NdpVyr2QACS"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "Nero",
+      "url": "https://open.spotify.com/track/1ySWFxPIPHpjA5EsRx39Q7"
+    },
+    {
+      "album": {
         "name": "Nicht gern allein",
         "url": "https://open.spotify.com/album/5eBnFfpvZhq0XEnPnm7aZy"
       },
@@ -1590,7 +1790,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 219000,
       "name": "Nichts Macht Mich Kaputt",
       "url": "https://open.spotify.com/track/4apYkUv1eTKQZ3hHuGS8Kh"
@@ -1742,7 +1942,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 133458,
       "name": "Piet",
       "url": "https://open.spotify.com/track/1ArGTFysctSfkyyD3AFC6O"
@@ -2046,7 +2246,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 196920,
       "name": "Ticket f\u00fcr die Nacht (feat. ana\u00efs)",
       "url": "https://open.spotify.com/track/0wwBo3a8gvwvrBjVmPMyT9"
@@ -2090,6 +2290,42 @@
       "duration_ms": 121451,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/34L1vbjzYUl7UsnaqoJfT4"
+    },
+    {
+      "album": {
+        "name": "Trotzdem",
+        "url": "https://open.spotify.com/album/21E0iNCqzuN4wQsdvCAE2e"
+      },
+      "artists": [
+        {
+          "name": "JUDI&COCHO",
+          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275653,
+      "name": "Trotzdem",
+      "url": "https://open.spotify.com/track/1GyyebDa06oQi6O30C97KW"
+    },
+    {
+      "album": {
+        "name": "T\u00e4towier Mir Dein Namen",
+        "url": "https://open.spotify.com/album/6RPkPeXNuakYMF5yDWhOkk"
+      },
+      "artists": [
+        {
+          "name": "STEEZY",
+          "url": "https://open.spotify.com/artist/7qrYjRiwMxIIxbuvVyVIeL"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148255,
+      "name": "T\u00e4towier Mir Dein Namen",
+      "url": "https://open.spotify.com/track/3B8E7EJ5KkR6NJM2qlB92z"
     },
     {
       "album": {
@@ -2238,10 +2474,28 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 167191,
       "name": "Vollnarkose",
       "url": "https://open.spotify.com/track/2xH7rLuS7c3k0cwsb4hkeG"
+    },
+    {
+      "album": {
+        "name": "Vor die Hunde",
+        "url": "https://open.spotify.com/album/6Qvu65AReaZABJLBIgmYXh"
+      },
+      "artists": [
+        {
+          "name": "Freude",
+          "url": "https://open.spotify.com/artist/2ms8OQ4CM5aBwwWYmG5VVV"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186173,
+      "name": "Vor die Hunde",
+      "url": "https://open.spotify.com/track/58fKtJQyhLnnmPxR6QtibV"
     },
     {
       "album": {
@@ -2386,7 +2640,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 203453,
       "name": "Wenn ich du w\u00e4r",
       "url": "https://open.spotify.com/track/68GVmWjf1rNBtsdeJopEHd"

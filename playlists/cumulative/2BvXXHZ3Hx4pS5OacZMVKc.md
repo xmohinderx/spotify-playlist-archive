@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-237 songs - 12 hr 27 min
+238 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [E Welem Bah](https://open.spotify.com/track/7h0qG1QdtSTF72yrKOL8rA) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [E Welem Bah](https://open.spotify.com/album/7wrishZ94tx9y2xZ7nrr3m) | 2:30 | 2022-09-23 |  |
 | [Electric \- jeonghyeon Remix](https://open.spotify.com/track/78yNJ5AiK2UkM8gDuSmRPB) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Deerock](https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Electric \(jeonghyeon Remix\)](https://open.spotify.com/album/47U0y4WrOv38gtxJcgZhm8) | 3:00 | 2022-09-22 | 2022-10-31 |
 | [Emotions](https://open.spotify.com/track/220ruturt9KcBkc4DCYAN4) | [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Emotions](https://open.spotify.com/album/4PqX0mPwf8NC5I9qnLdcBZ) | 3:44 | 2022-05-26 |  |
+| [Enemies](https://open.spotify.com/track/5OkJvUvwFbbiejQ2Tsv2pE) | [ATSMXN](https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW), [XTOM](https://open.spotify.com/artist/4zB6ahEJIuTVI5AgzqYrH5) | [Enemies](https://open.spotify.com/album/1FGSlHg8ZaXHBVVH4pBQad) | 1:54 | 2023-02-23 |  |
 | [Escape](https://open.spotify.com/track/3pr8PMLXqvDWVIB0pAP1Kq) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [AKIAL](https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv) | [Escape](https://open.spotify.com/album/2pWEZNtbgw1OriZClqaNLD) | 2:22 | 2022-04-16 |  |
 | [Evolution](https://open.spotify.com/track/27Jox9FmzQcLvDCdp0qcLw) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [3rd Prototype](https://open.spotify.com/artist/1zzlu7Aj6Dx6hFhS5sehOM), [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR), [Debris](https://open.spotify.com/artist/4SdjRO432fApGQp8iHbgIF), [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Evolution](https://open.spotify.com/album/2RDdelfgAcDoe7ZeAZQBSa) | 2:28 | 2022-02-03 | 2022-09-15 |
 | [Fall In Love](https://open.spotify.com/track/0sZZw0P5oaiqUflw6H1oLl) | [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Fall In Love](https://open.spotify.com/album/1Cq2iRmDRdb3JJsRkn1NSq) | 2:36 | 2022-03-15 |  |

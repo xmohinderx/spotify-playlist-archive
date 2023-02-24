@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New Jam City, plus the latest cuts from Aluna, X\-Coast, Nia Archives and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,437 likes - 68 songs - 4 hr 2 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,435 likes - 68 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 10 | [Other Side](https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Other Side](https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc) | 4:04 |
 | 11 | [Way Back](https://open.spotify.com/track/2mobDDzkskezluhIzhM7Sg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Way Back](https://open.spotify.com/album/01VCnhIMf2hE6FePTapW54) | 1:59 |
 | 12 | [Don't Be Afraid \- DJ Tennis & Carlita Remix](https://open.spotify.com/track/6Vu7uVbGQBCR5S051RPEEF) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Diplo \(Life and Death Remixes\)](https://open.spotify.com/album/2upODwjr88W3EhHghbEtDv) | 3:52 |
-| 13 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 |
+| 13 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 |
 | 14 | [Heartbroken I'm Lonely](https://open.spotify.com/track/6HI3GAwMiAjk4L0Md7OmK8) | [Bear1Boss](https://open.spotify.com/artist/6Cd6nNgWZWZrlfrc4q0qJD) | [Integrity](https://open.spotify.com/album/1uVgC2vzEpfu7Y1l9jFxev) | 2:15 |
 | 15 | [Going Back](https://open.spotify.com/track/02D5BJH4qFH578VbitQObD) | [Akira Akira](https://open.spotify.com/artist/4LdGTb93DvRRpPwwVfPkR2) | [4 Bye Four](https://open.spotify.com/album/1oIS1G1KqZKd6EgDYvSkYF) | 4:31 |
 | 16 | [CONFLICT](https://open.spotify.com/track/36i3VDSBSrn5m3VqIA5tgR) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [CONFLICT](https://open.spotify.com/album/2dtIwb6Qv3oeuzl04SjiW0) | 3:26 |

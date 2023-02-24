@@ -1593,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139017,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
+    },
+    {
+      "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V"
       },
@@ -2949,6 +2967,24 @@
     },
     {
       "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF"
+    },
+    {
+      "album": {
         "name": "Heart Of The Heavenly Undeniable (HOTHU)",
         "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
       },
@@ -2982,7 +3018,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 197142,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi"
@@ -3202,6 +3238,28 @@
       "duration_ms": 202000,
       "name": "Island Pink (feat. PsychoYP)",
       "url": "https://open.spotify.com/track/4XHNGQTifbzr1R6xVGRCaW"
+    },
+    {
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "Isn't Love",
+      "url": "https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6"
     },
     {
       "album": {
@@ -4224,7 +4282,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 150857,
       "name": "N2P",
       "url": "https://open.spotify.com/track/74vkHzSB21qPkxzkkMN9Ls"
@@ -4470,7 +4528,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 203076,
       "name": "OH OH",
       "url": "https://open.spotify.com/track/3IKNLvjbfXmr9xaZQmBqPz"
@@ -4656,10 +4714,32 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 146500,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj"
+    },
+    {
+      "album": {
+        "name": "Pacifier",
+        "url": "https://open.spotify.com/album/2ytDOAj8V1qYVlNHt3HWD1"
+      },
+      "artists": [
+        {
+          "name": "Love Moor",
+          "url": "https://open.spotify.com/artist/2YUbTUcCN7avxcXKrJGm71"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150293,
+      "name": "Pacifier",
+      "url": "https://open.spotify.com/track/1pWiciwrA2f7sny0zC6XAt"
     },
     {
       "album": {
@@ -5723,6 +5803,28 @@
     },
     {
       "album": {
+        "name": "SPACE COWBOY",
+        "url": "https://open.spotify.com/album/6dWdz1zf7BXz9mtNW2tjHX"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201682,
+      "name": "SPACE COWBOY",
+      "url": "https://open.spotify.com/track/5f68045DHI297ti1WI8qUr"
+    },
+    {
+      "album": {
         "name": "Run Boy, Run",
         "url": "https://open.spotify.com/album/1wDia3xzNcoGtQofuxPCD0"
       },
@@ -6776,7 +6878,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 106666,
       "name": "Y I Want U",
       "url": "https://open.spotify.com/track/5opjJ7bTPyiRDh8DHnnUFc"

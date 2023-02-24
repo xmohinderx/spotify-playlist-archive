@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 237533,
       "name": "Mais Uma Vez",
       "url": "https://open.spotify.com/track/6G1qfNxVKAjxaVInNwj2aK"
@@ -4004,6 +4004,28 @@
       "duration_ms": 203783,
       "name": "Viciado",
       "url": "https://open.spotify.com/track/2utfCVxSXEWN711XL58Ci7"
+    },
+    {
+      "album": {
+        "name": "Vistas",
+        "url": "https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o"
+      },
+      "artists": [
+        {
+          "name": "Ary Rafeiro",
+          "url": "https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO"
+        },
+        {
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Vistas",
+      "url": "https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW"
     },
     {
       "album": {

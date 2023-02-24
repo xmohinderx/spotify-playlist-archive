@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 5794,
+  "num_followers": 5836,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDIxNzE4NTQwMzZlZjEwMDI4N2ViNTM5MTQ2OTE4MmRh",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGRmMjhlOGIzMWJiZTI5ZTdiNTdhZWQwMTEwZjg3MWZi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "TwoFr 2",
-        "url": "https://open.spotify.com/album/6IFG8yV0MHsyAaZxbDHzlK"
-      },
-      "artists": [
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Scoring",
-      "url": "https://open.spotify.com/track/5DuSL6z9KIv58xWCBly9qG"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Stronger Than Pride",
         "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 262800,
       "name": "Nothing Can Come Between Us",
       "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "TwoFr 2",
+        "url": "https://open.spotify.com/album/6IFG8yV0MHsyAaZxbDHzlK"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Scoring",
+      "url": "https://open.spotify.com/track/5DuSL6z9KIv58xWCBly9qG"
     },
     {
       "added_at": "2022-10-01 16:00:00",

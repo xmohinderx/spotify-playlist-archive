@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists. Cover: <a href=\u201chttps://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU?si=I6R9735GR3ip6As26zjzRg\u201d>Zolita</a>  ",
-  "num_followers": 34182,
+  "num_followers": 34205,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTgwNjYwNiwwMDAwMDAwMDYwODZmNWQyYmZmZTRhYTIxNjIzOTk3NTA0OGIzZmIx",
+  "snapshot_id": "MTY3NTgwNjYwNiwwMDAwMDAwMGE5Y2E4ZWE3NjM0ODNkYTMzM2VkNTdhYzkzNDNkMWMw",
   "tracks": [
     {
       "added_at": "2023-02-07 21:50:06",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-02-07 21:50:06",
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/2nrQItfebwUiVGC9MY6KiK"
-      },
-      "artists": [
-        {
-          "name": "Leah Marie Mason",
-          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/2Zr8Qe0jMZZaIjJoy3bmHz"
-    },
-    {
-      "added_at": "2023-02-07 21:50:06",
-      "album": {
         "name": "no me gusta eso",
         "url": "https://open.spotify.com/album/3I4Zau33AWgPNJzit17Iz7"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 112108,
       "name": "no me gusta eso",
       "url": "https://open.spotify.com/track/1RSCXKXHzyO0okaJH093RZ"
+    },
+    {
+      "added_at": "2023-02-07 21:50:06",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/2nrQItfebwUiVGC9MY6KiK"
+      },
+      "artists": [
+        {
+          "name": "Leah Marie Mason",
+          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/2Zr8Qe0jMZZaIjJoy3bmHz"
     },
     {
       "added_at": "2023-02-07 21:50:06",

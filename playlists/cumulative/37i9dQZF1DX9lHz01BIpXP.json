@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=fvnHAKwCQ-u8gnmqQaUJ8A\">Loufi</a>\n",
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=cbp-s6maTIy6umdmoRunFQ\">Jack Parow</a>\n",
   "name": "Afrikaanse Hip Hop",
   "tracks": [
     {
@@ -152,7 +152,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 266486,
       "name": "Bring the Noise",
       "url": "https://open.spotify.com/track/6e3FJoRmqAQF76x4o3BYjn"
@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Die Evangelie Van Goeie Tye",
+        "url": "https://open.spotify.com/album/1vKQJRx5BOWeiFZ1zXVp13"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201023,
+      "name": "Neus Breek",
+      "url": "https://open.spotify.com/track/2JxD0YQCAaGMSTqR1ColGD"
+    },
+    {
+      "album": {
         "name": "Noem My 'n Goen",
         "url": "https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp"
       },
@@ -1317,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Wie",
+        "url": "https://open.spotify.com/album/2oVKdhq3UUbHCoh7mCmJhk"
+      },
+      "artists": [
+        {
+          "name": "Young Midi",
+          "url": "https://open.spotify.com/artist/4NQRYP8Shjn1eA4Ic0iTk4"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117894,
+      "name": "Wie",
+      "url": "https://open.spotify.com/track/0O8LcMl314edgLVPCnT9OZ"
+    },
+    {
+      "album": {
         "name": "Gan Se Jou Mense",
         "url": "https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy"
       },
@@ -1364,7 +1400,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 172434,
       "name": "WUTJAINJILLE",
       "url": "https://open.spotify.com/track/6xWKj3N3die6nrCtv6WZiS"

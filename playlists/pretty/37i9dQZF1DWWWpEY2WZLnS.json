@@ -1,15 +1,15 @@
 {
   "description": "Lo mas pegao en Dembow. \nCover: Prince Royce & El Alfa",
-  "num_followers": 328815,
+  "num_followers": 328946,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxNzg2NCwwMDAwMDAwMDE2ZTU0YjE0MGM5NzVmNzJkYTM5MTY3NDlmZWI4ZWM1",
+  "snapshot_id": "MTY3NjYxNzg2NCwwMDAwMDAwMDVjY2E2YmY5ZjllZTZjNDY2ZmZjNjUwMTQyYjFhZjRi",
   "tracks": [
     {
-      "added_at": "2023-02-23 00:50:44",
+      "added_at": "2023-02-24 00:52:19",
       "album": {
         "name": "LE DOY 20 MIL",
         "url": "https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/7qgovmYLU3BUltCBdYUPKg"
     },
     {
-      "added_at": "2023-02-23 00:50:44",
+      "added_at": "2023-02-24 00:52:19",
       "album": {
         "name": "Doggy Doggy",
         "url": "https://open.spotify.com/album/4meeL0ZVvnYmaEjA8iz7HX"
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "Maliante",
-        "url": "https://open.spotify.com/album/4JYslbzoOPChDxxyYTvkn0"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        },
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 151423,
-      "name": "Maliante",
-      "url": "https://open.spotify.com/track/2bktmhGaISzLn0XCdeGzK4"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
         "name": "Se Comenta",
         "url": "https://open.spotify.com/album/0AAlETTmKJAII1bFkJSlCQ"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 179124,
       "name": "Se Comenta",
       "url": "https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
+        "name": "Maliante",
+        "url": "https://open.spotify.com/album/4JYslbzoOPChDxxyYTvkn0"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 151423,
+      "name": "Maliante",
+      "url": "https://open.spotify.com/track/2bktmhGaISzLn0XCdeGzK4"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
+        "name": "3730",
+        "url": "https://open.spotify.com/album/3Q2EYfVHIPBtcwrs6IKkpP"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "duration_ms": 137810,
+      "name": "3730",
+      "url": "https://open.spotify.com/track/2nlbKSzDPYUmU8F2npLFak"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
         "name": "Rulay",
         "url": "https://open.spotify.com/album/7ewfnID6qhnszV6eta2uri"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 189302,
       "name": "Rulay",
       "url": "https://open.spotify.com/track/7mLJiuLlh6v8Hz5PfYfOTh"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
-        "name": "3730",
-        "url": "https://open.spotify.com/album/3Q2EYfVHIPBtcwrs6IKkpP"
-      },
-      "artists": [
-        {
-          "name": "Treintisiete",
-          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
-        }
-      ],
-      "duration_ms": 137810,
-      "name": "3730",
-      "url": "https://open.spotify.com/track/2nlbKSzDPYUmU8F2npLFak"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
+        "name": "Los Bobo Son Mio",
+        "url": "https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF"
+      },
+      "artists": [
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        }
+      ],
+      "duration_ms": 131870,
+      "name": "Los Bobo Son Mio",
+      "url": "https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
         "name": "Lleg\u00f3 el Domi",
         "url": "https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 161415,
       "name": "Chukiteo",
       "url": "https://open.spotify.com/track/5tOKGmMGBeH5E1zz2r7N7z"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
-        "name": "Los Bobo Son Mio",
-        "url": "https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF"
-      },
-      "artists": [
-        {
-          "name": "Haraca Kiko",
-          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
-        }
-      ],
-      "duration_ms": 131870,
-      "name": "Los Bobo Son Mio",
-      "url": "https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "Bliky",
-        "url": "https://open.spotify.com/album/2tam2CR18UtUo86yj8sTlZ"
-      },
-      "artists": [
-        {
-          "name": "Shootter Ledo",
-          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
-        },
-        {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        }
-      ],
-      "duration_ms": 183405,
-      "name": "Bliky",
-      "url": "https://open.spotify.com/track/79TIziymcMWiaOqEqJlNYF"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
         "name": "Dejen Su Loquera",
         "url": "https://open.spotify.com/album/5v6B5vwTTfkjWR3mCjfWiD"
       },
@@ -2115,6 +2095,26 @@
       "duration_ms": 177972,
       "name": "Dejen Su Loquera",
       "url": "https://open.spotify.com/track/0cRdPQhJwgKl2NEvtjUaz7"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
+        "name": "Bliky",
+        "url": "https://open.spotify.com/album/2tam2CR18UtUo86yj8sTlZ"
+      },
+      "artists": [
+        {
+          "name": "Shootter Ledo",
+          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
+        },
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        }
+      ],
+      "duration_ms": 183405,
+      "name": "Bliky",
+      "url": "https://open.spotify.com/track/79TIziymcMWiaOqEqJlNYF"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -2483,30 +2483,6 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "Me Quieren Abobiar",
-        "url": "https://open.spotify.com/album/6vlGqLulsURF5I3A1YV825"
-      },
-      "artists": [
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "La Gre\u00f1a",
-          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
-        }
-      ],
-      "duration_ms": 153407,
-      "name": "Me Quieren Abobiar",
-      "url": "https://open.spotify.com/track/4D4VTDo7ni7YPeKl5proCF"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
         "name": "LATIN HITS 2018 - Reggaeton, Salsa, Bachata, Pop Latino, Latin Fitness (60 Super Exitos Latinos - Club Edition)",
         "url": "https://open.spotify.com/album/7CecgOEOAK5MBc5kkEycA4"
       },
@@ -2539,6 +2515,30 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
+        "name": "Me Quieren Abobiar",
+        "url": "https://open.spotify.com/album/6vlGqLulsURF5I3A1YV825"
+      },
+      "artists": [
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        }
+      ],
+      "duration_ms": 153407,
+      "name": "Me Quieren Abobiar",
+      "url": "https://open.spotify.com/track/4D4VTDo7ni7YPeKl5proCF"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
         "name": "El Con Con",
         "url": "https://open.spotify.com/album/29HCwiG8wd0LWtSzMN5SWf"
       },
@@ -2563,26 +2563,6 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "Gata",
-        "url": "https://open.spotify.com/album/4hhfUh6OyyIEcFZpk2qDoN"
-      },
-      "artists": [
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG"
-        },
-        {
-          "name": "Nakary",
-          "url": "https://open.spotify.com/artist/3pPvxpifWmiueGdmBeUvZW"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Gata",
-      "url": "https://open.spotify.com/track/4h1dCJjiybPIB3yUaYl19J"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
         "name": "Eso Es Mental",
         "url": "https://open.spotify.com/album/2UqAGEkeshUDADfxlDMApg"
       },
@@ -2603,6 +2583,26 @@
       "duration_ms": 157863,
       "name": "La Boda",
       "url": "https://open.spotify.com/track/3q13pn7i4AWn1aAl98ph7E"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
+        "name": "Gata",
+        "url": "https://open.spotify.com/album/4hhfUh6OyyIEcFZpk2qDoN"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG"
+        },
+        {
+          "name": "Nakary",
+          "url": "https://open.spotify.com/artist/3pPvxpifWmiueGdmBeUvZW"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Gata",
+      "url": "https://open.spotify.com/track/4h1dCJjiybPIB3yUaYl19J"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -2711,22 +2711,6 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "Son Trampa",
-        "url": "https://open.spotify.com/album/7s3G8K0MTHT2M8pPnXZYFF"
-      },
-      "artists": [
-        {
-          "name": "Haraca Kiko",
-          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
-        }
-      ],
-      "duration_ms": 177235,
-      "name": "Son Trampa",
-      "url": "https://open.spotify.com/track/0iadslZZI7iH0sHY41oB6t"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
         "name": "Te Va Dobla",
         "url": "https://open.spotify.com/album/4KJJ2OoZuvb5TWSHzxlVsx"
       },
@@ -2743,18 +2727,18 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "La Hookita",
-        "url": "https://open.spotify.com/album/0qjp4y3dG86jFGlJ2yj6RX"
+        "name": "Son Trampa",
+        "url": "https://open.spotify.com/album/7s3G8K0MTHT2M8pPnXZYFF"
       },
       "artists": [
         {
-          "name": "Rickstarr",
-          "url": "https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ"
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
         }
       ],
-      "duration_ms": 91200,
-      "name": "La Hookita",
-      "url": "https://open.spotify.com/track/6z2YjomcCbGe1mUzQ3J49K"
+      "duration_ms": 177235,
+      "name": "Son Trampa",
+      "url": "https://open.spotify.com/track/0iadslZZI7iH0sHY41oB6t"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -2779,6 +2763,22 @@
       "duration_ms": 184032,
       "name": "El Patron",
       "url": "https://open.spotify.com/track/0EfgdRTQ7GQ8kTkphHwKWq"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
+        "name": "La Hookita",
+        "url": "https://open.spotify.com/album/0qjp4y3dG86jFGlJ2yj6RX"
+      },
+      "artists": [
+        {
+          "name": "Rickstarr",
+          "url": "https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ"
+        }
+      ],
+      "duration_ms": 91200,
+      "name": "La Hookita",
+      "url": "https://open.spotify.com/track/6z2YjomcCbGe1mUzQ3J49K"
     },
     {
       "added_at": "2023-02-09 00:00:06",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Sleep Token",
+  "description": "The UK's biggest rock playlist. Cover: Master Peace",
   "name": "The Rock List",
   "tracks": [
     {
@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142737,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI"
+    },
+    {
+      "album": {
         "name": "Bring Us Down",
         "url": "https://open.spotify.com/album/3l7IR16zZm6pvPDPckG7Af"
       },
@@ -254,7 +272,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 231882,
       "name": "CYAN1DE (feat. PETE WENTZ)",
       "url": "https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY"
@@ -593,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Groundhog Day",
+        "url": "https://open.spotify.com/album/2ex4Ft73QrAjK7oFwwejjH"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Groundhog Day",
+      "url": "https://open.spotify.com/track/2ko8dvhLWtjJLpVRP0MsSy"
+    },
+    {
+      "album": {
         "name": "HAPPY",
         "url": "https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie"
       },
@@ -770,10 +806,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 187793,
       "name": "I\u2019m a Mess (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
+    },
+    {
+      "album": {
+        "name": "Kool",
+        "url": "https://open.spotify.com/album/4AERPveWzXsS4SIBWBVIsv"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131181,
+      "name": "Kool",
+      "url": "https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H"
     },
     {
       "album": {
@@ -788,7 +842,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 310594,
       "name": "Leech",
       "url": "https://open.spotify.com/track/4PJYzWsL4EjU9s15owchBD"
@@ -806,7 +860,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 155342,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
@@ -940,7 +994,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 182100,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/1F3VhVtaMqUqKhXdpA3itF"
@@ -1066,7 +1120,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 182346,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/4Wsst7bJEVKRWI1vef1S7R"
@@ -1088,6 +1142,24 @@
       "duration_ms": 310380,
       "name": "Place Your Debts",
       "url": "https://open.spotify.com/track/29f4cPjqBi9n5lS8XQlKa3"
+    },
+    {
+      "album": {
+        "name": "Play My Favourite Song",
+        "url": "https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155603,
+      "name": "Play My Favourite Song",
+      "url": "https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV"
     },
     {
       "album": {
@@ -1336,7 +1408,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 211578,
       "name": "Take A Ride (Lights, Camera, Action)",
       "url": "https://open.spotify.com/track/22TNVzuLGBBaK9a25K3Lo0"
@@ -1372,7 +1444,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 155562,
       "name": "Tell Me I\u2019m Alive",
       "url": "https://open.spotify.com/track/3Bzw0mcFyIcVgQbLfxbDGt"
@@ -1394,7 +1466,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 182407,
       "name": "The Delicate Nature",
       "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
@@ -1502,10 +1574,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 186097,
       "name": "Up Against It",
       "url": "https://open.spotify.com/track/4cwhDJiQ3vhbcxOapza2MB"
+    },
+    {
+      "album": {
+        "name": "Used To You",
+        "url": "https://open.spotify.com/album/4p6tJ0wUX7GXUvWwCFkFjs"
+      },
+      "artists": [
+        {
+          "name": "lozeak",
+          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187830,
+      "name": "Used To You",
+      "url": "https://open.spotify.com/track/0ivsDrBQ9HloEcdaYxq9Un"
     },
     {
       "album": {
@@ -1520,7 +1610,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 135172,
       "name": "Veronica",
       "url": "https://open.spotify.com/track/7uAlf2KtylpPbXCqaB38EJ"

@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 192314,
+  "num_followers": 192438,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDE5YzA2YmE2MmY4MTRiODdmZmZjMGExZTJhNTU1Yzg1",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMGYxZDZkYzdjNzQ3MDA1M2NmMjlhMDI2ODE5MTVhZTQ3",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Jazz",
-        "url": "https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt"
-      },
-      "artists": [
-        {
-          "name": "Rupa",
-          "url": "https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh"
-        }
-      ],
-      "duration_ms": 479629,
-      "name": "Aaj Shanibar",
-      "url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "What A Woman Needs",
         "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 219880,
       "name": "Your Sweet Lovin'",
       "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Jazz",
+        "url": "https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt"
+      },
+      "artists": [
+        {
+          "name": "Rupa",
+          "url": "https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh"
+        }
+      ],
+      "duration_ms": 479629,
+      "name": "Aaj Shanibar",
+      "url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Charles Webster - Coast2Coast",
-        "url": "https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO"
-      },
-      "artists": [
-        {
-          "name": "Larry Heard",
-          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
-        }
-      ],
-      "duration_ms": 396546,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Is It All Over My Face?",
         "url": "https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 427990,
       "name": "Is It All Over My Face? - Female Version",
       "url": "https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Charles Webster - Coast2Coast",
+        "url": "https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO"
+      },
+      "artists": [
+        {
+          "name": "Larry Heard",
+          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
+        }
+      ],
+      "duration_ms": 396546,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Groovin' You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
-      },
-      "artists": [
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        }
-      ],
-      "duration_ms": 376986,
-      "name": "Groovin' You - 12\" Version",
-      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Kiss Me Again",
         "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 181698,
       "name": "Kiss Me Again - Mix Edit",
       "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Groovin' You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
+      },
+      "artists": [
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        }
+      ],
+      "duration_ms": 376986,
+      "name": "Groovin' You - 12\" Version",
+      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
     },
     {
       "added_at": "2022-09-05 16:54:43",

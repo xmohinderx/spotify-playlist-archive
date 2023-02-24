@@ -1,13 +1,29 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 8676,
+  "num_followers": 8685,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAxMzc0NSwwMDAwMDAwMDE0MTcwYzEwNzc0YTYxYTFhNzk3ZjQ4MjYxNjU1YTM0",
+  "snapshot_id": "MTY3NzE4NTk0MCwwMDAwMDAwMGY3N2ZhMzVlNDg0MjM3MGUzMjg4NTM5NWM5OWYxNTQ5",
   "tracks": [
+    {
+      "added_at": "2023-02-23 20:59:00",
+      "album": {
+        "name": "Galatea",
+        "url": "https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "duration_ms": 226290,
+      "name": "Galatea",
+      "url": "https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO"
+    },
     {
       "added_at": "2022-10-27 20:59:00",
       "album": {
@@ -47,22 +63,6 @@
       "duration_ms": 148981,
       "name": "Closure",
       "url": "https://open.spotify.com/track/2AgQh0XQEYKybUvP9QM3Mf"
-    },
-    {
-      "added_at": "2022-11-17 21:59:00",
-      "album": {
-        "name": "Your Turn",
-        "url": "https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e"
-      },
-      "artists": [
-        {
-          "name": "IkeN",
-          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
-        }
-      ],
-      "duration_ms": 234861,
-      "name": "Your Turn",
-      "url": "https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu"
     },
     {
       "added_at": "2022-01-27 20:59:00",
@@ -131,6 +131,42 @@
       "duration_ms": 168000,
       "name": "What To Expect When Expecting",
       "url": "https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk"
+    },
+    {
+      "added_at": "2023-02-23 20:59:00",
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "duration_ms": 113684,
+      "name": "Isn't Love",
+      "url": "https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6"
+    },
+    {
+      "added_at": "2022-11-17 21:59:00",
+      "album": {
+        "name": "Your Turn",
+        "url": "https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "duration_ms": 234861,
+      "name": "Your Turn",
+      "url": "https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu"
     },
     {
       "added_at": "2021-12-09 20:59:00",
@@ -1149,22 +1185,6 @@
       "url": "https://open.spotify.com/track/3lHMAXPEoikE95Diavz31s"
     },
     {
-      "added_at": "2022-04-28 20:59:00",
-      "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/1Ity1cTX8gNylmJi5CNtcf"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 74437,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/35meyoYQd5k0mDKpk6RlAW"
-    },
-    {
       "added_at": "2022-01-13 13:38:18",
       "album": {
         "name": "Filthy Rich",
@@ -1179,22 +1199,6 @@
       "duration_ms": 166736,
       "name": "Filthy Rich",
       "url": "https://open.spotify.com/track/0HRJK34PPIPWu3mEQHgDD9"
-    },
-    {
-      "added_at": "2022-02-04 03:01:04",
-      "album": {
-        "name": "Ndanu",
-        "url": "https://open.spotify.com/album/0S5c02uwpmrACcV7UFgm6y"
-      },
-      "artists": [
-        {
-          "name": "Manasseh Shalom",
-          "url": "https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Ndanu",
-      "url": "https://open.spotify.com/track/6BQHAffEfWfGqZK9WKZGuJ"
     },
     {
       "added_at": "2022-02-04 03:01:04",

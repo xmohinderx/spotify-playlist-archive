@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 29460,
+  "num_followers": 29498,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMDQzNDc1MzMwM2FkY2FmOGI3ODc4MjFiMWVjYmM0YjU4",
+  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMDhiNWViM2QzOTJmZmEyNTcxYTAyYzdhZmJkZWE3MTM2",
   "tracks": [
     {
       "added_at": "2023-02-16 23:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Hold This Memory",
         "url": "https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 160071,
       "name": "Hold This Memory",
       "url": "https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Better Than This",
         "url": "https://open.spotify.com/album/3PYlJuHzvfM5OQYfJQlUJS"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 156923,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/2ZoKeEKH1Y2yp0GJAvNngn"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "I Blame You",
         "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 180000,
       "name": "Live In The Moment",
       "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Forever, Now",
-        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 274795,
-      "name": "Elenore",
-      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0lCkWOdc6EZQKrsswelBXP"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/056o22JVIosLPAF9ZTPVqV"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Come Along",
         "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
       },
@@ -1451,22 +1435,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Scent of Wood (Bound to Divide Remix)",
         "url": "https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3"
       },
@@ -1487,6 +1455,22 @@
       "duration_ms": 208548,
       "name": "Scent of Wood (Bound to Divide Remix)",
       "url": "https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1523,22 +1507,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Winter's Going",
-        "url": "https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3"
-      },
-      "artists": [
-        {
-          "name": "Flantier",
-          "url": "https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Winter's Going",
-      "url": "https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
       },
@@ -1555,22 +1523,38 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Unrequited",
-        "url": "https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P"
+        "name": "Winter's Going",
+        "url": "https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3"
       },
       "artists": [
         {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
-        },
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+          "name": "Flantier",
+          "url": "https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96"
         }
       ],
-      "duration_ms": 171696,
-      "name": "Unrequited",
-      "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
+      "duration_ms": 200981,
+      "name": "Winter's Going",
+      "url": "https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
+      },
+      "artists": [
+        {
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        },
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        }
+      ],
+      "duration_ms": 126147,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1591,6 +1575,26 @@
       "duration_ms": 262800,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Unrequited",
+        "url": "https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Unrequited",
+      "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
     }
   ],
   "unique_name": "Dance Chill",

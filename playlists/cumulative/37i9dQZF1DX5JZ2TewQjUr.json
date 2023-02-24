@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Lewsz",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: ProdiG",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -1469,6 +1469,32 @@
     },
     {
       "album": {
+        "name": "Forest",
+        "url": "https://open.spotify.com/album/1Zl1BD9G5b8V9gsXZp9Mf1"
+      },
+      "artists": [
+        {
+          "name": "Virgin Vacation",
+          "url": "https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ"
+        },
+        {
+          "name": "Gold Mountain",
+          "url": "https://open.spotify.com/artist/0YZHNcGfT61Yvmp8FklTxT"
+        },
+        {
+          "name": "Romer String Quartet",
+          "url": "https://open.spotify.com/artist/38iTibcPtXJZG3JQ1vGnWf"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327736,
+      "name": "Forest (feat. Gold Mountain & Romer String Quartet)",
+      "url": "https://open.spotify.com/track/1xuC2jthRz6vwc2RncwtAc"
+    },
+    {
+      "album": {
         "name": "Windsong",
         "url": "https://open.spotify.com/album/1oCtNZFONXjJoAgZJBckHJ"
       },
@@ -1702,6 +1728,24 @@
       "duration_ms": 237956,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/0aNKJq3HKyHtC0XTadVJm6"
+    },
+    {
+      "album": {
+        "name": "Guaranteed",
+        "url": "https://open.spotify.com/album/4bjBunt43qGNuRyhGysUaV"
+      },
+      "artists": [
+        {
+          "name": "Ryan Cheung",
+          "url": "https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175152,
+      "name": "Guaranteed",
+      "url": "https://open.spotify.com/track/7Fu0tzqKMEZPgogTkfY9aF"
     },
     {
       "album": {
@@ -2639,6 +2683,24 @@
     },
     {
       "album": {
+        "name": "XANADU",
+        "url": "https://open.spotify.com/album/05pgDUmktdenplVwZwkEn5"
+      },
+      "artists": [
+        {
+          "name": "ProdiG",
+          "url": "https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111588,
+      "name": "ME U",
+      "url": "https://open.spotify.com/track/3BztdQlSChX0PUeFinnsYr"
+    },
+    {
+      "album": {
         "name": "Meteor (ft. XTIE)",
         "url": "https://open.spotify.com/album/0mJh1ggPbCmtI7FdiH3RXT"
       },
@@ -2764,6 +2826,24 @@
       "duration_ms": 204036,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/4fKsTs4EEVirWN9NNswks8"
+    },
+    {
+      "album": {
+        "name": "More I Know",
+        "url": "https://open.spotify.com/album/43iq31cloLsshhWfZWE7Oy"
+      },
+      "artists": [
+        {
+          "name": "Gwyn",
+          "url": "https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "More I Know",
+      "url": "https://open.spotify.com/track/5ybNApdieMirwLYQG6r7zW"
     },
     {
       "album": {
@@ -3220,7 +3300,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 164378,
       "name": "ON MY WAYYY",
       "url": "https://open.spotify.com/track/3PrffNnl6qw9Wwk5qMLgGt"
@@ -4339,6 +4419,24 @@
     },
     {
       "album": {
+        "name": "Think I'm In Love",
+        "url": "https://open.spotify.com/album/5lfI2lfNkgMpCpfSxsNdje"
+      },
+      "artists": [
+        {
+          "name": "kayan9896",
+          "url": "https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141738,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/4Ip4uvrIqnxGM8RB9rsCrt"
+    },
+    {
+      "album": {
         "name": "This Is Our Time",
         "url": "https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ"
       },
@@ -4723,6 +4821,24 @@
     },
     {
       "album": {
+        "name": "WATER COMES OUT OF MY EYES",
+        "url": "https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202945,
+      "name": "water comes out of my eyes",
+      "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"
+    },
+    {
+      "album": {
         "name": "As if - II. The Deep End \u5f80\u6df1",
         "url": "https://open.spotify.com/album/0YVzlKAxl14t6UNy7KU5Ur"
       },
@@ -5016,6 +5132,24 @@
       "duration_ms": 106500,
       "name": "Willow",
       "url": "https://open.spotify.com/track/20SoteM0n0B8xvYuAo63qq"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/5fbfTUERZ5wQTOPjep5d7m"
+      },
+      "artists": [
+        {
+          "name": "thisisgrant",
+          "url": "https://open.spotify.com/artist/1kAFDd4QiDBpkhMB4O0rzZ"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182569,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2bqfD3YhJTpHJsuwmfG1hI"
     },
     {
       "album": {
@@ -7946,6 +8080,28 @@
       "duration_ms": 254613,
       "name": "\u9a37",
       "url": "https://open.spotify.com/track/34DwldJDRq2Qi3aQatDTWZ"
+    },
+    {
+      "album": {
+        "name": "\u9b5a\u86cb\u71d2\u8ce3",
+        "url": "https://open.spotify.com/album/3EMwOR2jUzFD08ncmVCpnw"
+      },
+      "artists": [
+        {
+          "name": "handwash",
+          "url": "https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva"
+        },
+        {
+          "name": "N-Free",
+          "url": "https://open.spotify.com/artist/0or4a5LZi0qF0shTXnTNvZ"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155744,
+      "name": "\u9b5a\u86cb\u71d2\u8ce3",
+      "url": "https://open.spotify.com/track/4lSKRgNrR3x8nnLSTXpFI1"
     },
     {
       "album": {

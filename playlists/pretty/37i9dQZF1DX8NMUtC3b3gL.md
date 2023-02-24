@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,888 likes - 189 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,911 likes - 189 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 86 | [Peach](https://open.spotify.com/track/2gnTR4wQ7EhwZYoRRZWnrT) | [zxry.](https://open.spotify.com/artist/2EBMa1emZmsUTYcb1xJwIJ) | [Peach](https://open.spotify.com/album/4NosSndHdk6qgy0OAs9Fay) | 2:03 |
 | 87 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 |
 | 88 | [First Impressions](https://open.spotify.com/track/4m4QBep0gtfC3g8wjev0QB) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [First Impressions](https://open.spotify.com/album/6UaF71BrRIVOoKWoqOaGPx) | 2:11 |
-| 89 | [Commuter](https://open.spotify.com/track/4Rf27qELU6XDQx8DtFHU4Q) | [CLOCC](https://open.spotify.com/artist/1QNQOpFcbLjmKPiCDKSiGG) | [Commuter](https://open.spotify.com/album/73ddBbDKMzEiLWqA3VDXi0) | 2:00 |
+| 89 | [Commuter](https://open.spotify.com/track/4Rf27qELU6XDQx8DtFHU4Q) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Commuter](https://open.spotify.com/album/73ddBbDKMzEiLWqA3VDXi0) | 2:00 |
 | 90 | [A Life of Joy](https://open.spotify.com/track/1dYGpcPwL6p2wrkq3mxDPm) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [A Life of Joy](https://open.spotify.com/album/5DnA5FG3EQKFuVIcqqxtO9) | 3:15 |
 | 91 | [Rainforest](https://open.spotify.com/track/0wViERMhIIaHnCmUhjF19E) | [Yowshi](https://open.spotify.com/artist/1XcacEm8FbUXnZUPObrmtC) | [Rainforest](https://open.spotify.com/album/3ZkEztfd8qSKrqFt4SfiqW) | 1:35 |
 | 92 | [Starlust](https://open.spotify.com/track/5XijzlJUxXVwKmMo2BoGDm) | [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL), [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av) | [Starlust](https://open.spotify.com/album/3yO7pZzyGo8vuanWHaYCp4) | 2:45 |

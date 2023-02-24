@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: Bea Miller",
-  "num_followers": 85101,
+  "num_followers": 85138,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGNjYjE5NjViNGQxMmRhM2FmZTRhOWM2MWYxMGFiYzYx",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGM2NDdlMWRmMTY3ODc1ZjhmNzdkY2FlMTJjZTJlYWY5",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "STEREO DRIVER",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "STEREO DRIVER",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Good For Now",
         "url": "https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 241877,
       "name": "Good For Now (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "STEREO DRIVER",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "STEREO DRIVER",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Growing/Dying",
-        "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Growing/Dying",
-      "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 138894,
       "name": "I Do",
       "url": "https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Growing/Dying",
+        "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Growing/Dying",
+      "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1535,34 +1535,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "This Is What They Meant",
-        "url": "https://open.spotify.com/album/10NLVV7jqlEAjMuyv03Dnq"
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 174986,
-      "name": "This Is What They Meant",
-      "url": "https://open.spotify.com/track/0tZHm9L4ssbjBoJ2N5vOiK"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Would Ya Could Ya",
-        "url": "https://open.spotify.com/album/2x7LOKpKzlPL9vvvnqONBG"
-      },
-      "artists": [
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        },
         {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Would Ya Could Ya",
-      "url": "https://open.spotify.com/track/7Fh24Qm2fng2eJLveOw3AL"
+      "duration_ms": 225128,
+      "name": "Where Are You Now? (feat. girlhouse)",
+      "url": "https://open.spotify.com/track/6yqCz1a30TyBBkLQrAcs7L"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1587,22 +1575,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
+        "name": "This Is What They Meant",
+        "url": "https://open.spotify.com/album/10NLVV7jqlEAjMuyv03Dnq"
       },
       "artists": [
         {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        },
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 225128,
-      "name": "Where Are You Now? (feat. girlhouse)",
-      "url": "https://open.spotify.com/track/6yqCz1a30TyBBkLQrAcs7L"
+      "duration_ms": 174986,
+      "name": "This Is What They Meant",
+      "url": "https://open.spotify.com/track/0tZHm9L4ssbjBoJ2N5vOiK"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Further Joy (Deluxe)",
-        "url": "https://open.spotify.com/album/3c5DNRo3UUU3DBGd96BgoW"
+        "name": "Would Ya Could Ya",
+        "url": "https://open.spotify.com/album/2x7LOKpKzlPL9vvvnqONBG"
       },
       "artists": [
         {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
         }
       ],
-      "duration_ms": 196466,
-      "name": "Dummy",
-      "url": "https://open.spotify.com/track/2Bc4O6c1kI99Ug2Xnv4RAI"
+      "duration_ms": 169000,
+      "name": "Would Ya Could Ya",
+      "url": "https://open.spotify.com/track/7Fh24Qm2fng2eJLveOw3AL"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 146769,
       "name": "indieedgycool",
       "url": "https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Further Joy (Deluxe)",
+        "url": "https://open.spotify.com/album/3c5DNRo3UUU3DBGd96BgoW"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/2Bc4O6c1kI99Ug2Xnv4RAI"
     },
     {
       "added_at": "2023-01-13 05:00:00",

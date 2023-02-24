@@ -117,6 +117,42 @@
     },
     {
       "album": {
+        "name": "El Abogado del Diablo",
+        "url": "https://open.spotify.com/album/4dxaKFSKLSYMCcGaHVRZs3"
+      },
+      "artists": [
+        {
+          "name": "El Movimiento Alterado",
+          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212145,
+      "name": "Asociacion Antrax",
+      "url": "https://open.spotify.com/track/0Urvla5f7y5bAZFXJKOLzh"
+    },
+    {
+      "album": {
+        "name": "As\u00ed es Mi Cartel",
+        "url": "https://open.spotify.com/album/0LHwdWd68tpucRwMT2C27a"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170053,
+      "name": "As\u00ed es Mi Cartel",
+      "url": "https://open.spotify.com/track/3KpqNzebxPqY1YHQaGg9SN"
+    },
+    {
+      "album": {
         "name": "Musica, Polvora y Sangre",
         "url": "https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV"
       },
@@ -942,7 +978,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 181146,
       "name": "El Mensaje",
       "url": "https://open.spotify.com/track/5KCqnvbmpJt4E8LiojzPCM"
@@ -1104,7 +1140,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 167933,
       "name": "El Sinaloense Americano",
       "url": "https://open.spotify.com/track/3pjsT7agqnrM8Y3b3zx9g9"
@@ -1823,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Empecherado Y Adiamantado",
+        "url": "https://open.spotify.com/album/7nmJaHhZ0xNBTVBjXrsf7A"
+      },
+      "artists": [
+        {
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237040,
+      "name": "Missiones MP",
+      "url": "https://open.spotify.com/track/3hswamg6GIzoIqyZe3oykn"
+    },
+    {
+      "album": {
         "name": "La Sorpresa Del Katch",
         "url": "https://open.spotify.com/album/48Aj5n1ZpfdLTQmiYwv0wL"
       },
@@ -2050,7 +2104,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 174506,
       "name": "Termina La Temporada",
       "url": "https://open.spotify.com/track/79F6Rw4EP623GyG2FIndnD"

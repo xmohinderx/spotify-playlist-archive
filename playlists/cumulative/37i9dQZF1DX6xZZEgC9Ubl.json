@@ -12294,7 +12294,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 123333,
       "name": "starstruck",
       "url": "https://open.spotify.com/track/15AGcabJTNLdLc01X3OoO9"
@@ -13800,6 +13800,24 @@
       "duration_ms": 170378,
       "name": "two hearts",
       "url": "https://open.spotify.com/track/4lndF6hGEM6eHptQoag03q"
+    },
+    {
+      "album": {
+        "name": "UDNTLUVME",
+        "url": "https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "UDNTLUVME",
+      "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
     },
     {
       "album": {

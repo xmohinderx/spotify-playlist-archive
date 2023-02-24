@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 102314,
+  "num_followers": 102362,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk0NzYwMCwwMDAwMDAwMDc1ZDg4NTA3YWVkZDczYTRjZTBmYzUyZGM2OTk5Mjk5",
+  "snapshot_id": "MTY3NTk0NzYwMCwwMDAwMDAwMDY5YjA4MDQyMWJiMWMxNDMxNDc5YmMxMzI4NThmZGFh",
   "tracks": [
     {
       "added_at": "2023-02-09 13:00:00",
@@ -495,22 +495,18 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Black Rain (\u00c2me Remix)",
-        "url": "https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF"
+        "name": "Standing There",
+        "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        },
-        {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
         }
       ],
-      "duration_ms": 352916,
-      "name": "Black Rain - \u00c2me Remix",
-      "url": "https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh"
+      "duration_ms": 216028,
+      "name": "Standing There",
+      "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -531,18 +527,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Standing There",
-        "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
+        "name": "Black Rain (\u00c2me Remix)",
+        "url": "https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF"
       },
       "artists": [
         {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
         }
       ],
-      "duration_ms": 216028,
-      "name": "Standing There",
-      "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
+      "duration_ms": 352916,
+      "name": "Black Rain - \u00c2me Remix",
+      "url": "https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/50zPVLRmcBmmJRYDPSZ15E"
-      },
-      "artists": [
-        {
-          "name": "Cleopold",
-          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
-        }
-      ],
-      "duration_ms": 191406,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/6j40S2A7LdyLH5JIIOb8Jy"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Cherry",
         "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 213441,
       "name": "Clavicle",
       "url": "https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/50zPVLRmcBmmJRYDPSZ15E"
+      },
+      "artists": [
+        {
+          "name": "Cleopold",
+          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
+        }
+      ],
+      "duration_ms": 191406,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/6j40S2A7LdyLH5JIIOb8Jy"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "All Together, Here Together",
+        "url": "https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx"
+      },
+      "artists": [
+        {
+          "name": "Adult Art Club",
+          "url": "https://open.spotify.com/artist/74l1bnHa89Rs8yoMFUaLVl"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "All Together, Here Together",
+      "url": "https://open.spotify.com/track/1fUy3z7TaLqyUF3VDuBzLR"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "Be With U",
         "url": "https://open.spotify.com/album/6uLhqdqu5aqIQeT24caWAw"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 233253,
       "name": "21",
       "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "All Together, Here Together",
-        "url": "https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx"
-      },
-      "artists": [
-        {
-          "name": "Adult Art Club",
-          "url": "https://open.spotify.com/artist/74l1bnHa89Rs8yoMFUaLVl"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "All Together, Here Together",
-      "url": "https://open.spotify.com/track/1fUy3z7TaLqyUF3VDuBzLR"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "Call of the Whipbird",
+        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
+      },
+      "artists": [
+        {
+          "name": "Subset",
+          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
+        }
+      ],
+      "duration_ms": 388735,
+      "name": "Whipbird Dub",
+      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "Caring EP",
         "url": "https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 281240,
       "name": "Shallow Water",
       "url": "https://open.spotify.com/track/1lJPVwuvM9b8wpdZIYRNq9"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Call of the Whipbird",
-        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
-      },
-      "artists": [
-        {
-          "name": "Subset",
-          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
-        }
-      ],
-      "duration_ms": 388735,
-      "name": "Whipbird Dub",
-      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Inperspect",
         "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 498001,
       "name": "Inperspect",
       "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2023-02-09 13:00:00",

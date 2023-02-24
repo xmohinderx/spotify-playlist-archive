@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC?si=g\-chrsjWQBW251fkSrIVGA">Karun</a>
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf?si=BtUw\_V2qRrGdMnuxhMw6og">mau from nowhere </a>
 
-113 songs - 6 hr 23 min
+116 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Built for You](https://open.spotify.com/track/46TDKUYWxWeDrbWWsntEu6) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Built for You](https://open.spotify.com/album/3RV5Ev9KtvyEzkhzJb3OIT) | 3:35 | 2021-12-28 | 2022-09-09 |
 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 | 2022-03-31 |  |
 | [Can't Keep It In](https://open.spotify.com/track/5r5x6rTbWTn2CxoNVg86lN) | [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [Can't Keep It In](https://open.spotify.com/album/2s5m4P630f4PkTWMesgkfV) | 2:49 | 2022-09-22 |  |
-| [Catch Me Later](https://open.spotify.com/track/23ccG0YrcOB1ZiEMRfkNVq) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [FREE](https://open.spotify.com/album/1eo8gcKfYcFCE12POc0Uqa) | 3:31 | 2022-08-26 |  |
+| [Catch Me Later](https://open.spotify.com/track/23ccG0YrcOB1ZiEMRfkNVq) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [FREE](https://open.spotify.com/album/1eo8gcKfYcFCE12POc0Uqa) | 3:31 | 2022-08-26 | 2023-02-24 |
 | [Coka Mucie](https://open.spotify.com/track/4WUB5yrRvObEzUIld8zRm8) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Coka Mucie](https://open.spotify.com/album/77IgdQQfnJkNuRtjSN3DtP) | 4:13 | 2021-12-28 |  |
 | [Crazy](https://open.spotify.com/track/3cqi4rYzbrppWEts9VWS32) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Crazy](https://open.spotify.com/album/5ssbf7DOGCatUKfGOsCkqB) | 3:19 | 2021-12-28 | 2022-04-29 |
 | [Crossing Lines](https://open.spotify.com/track/0xnSY4GmMl3qvXYuzJcGnf) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:12 | 2021-12-28 | 2022-05-27 |
@@ -45,6 +45,7 @@
 | [Haba Na Haba](https://open.spotify.com/track/7iB7aG563XdqyqGLpb1BYj) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [Colours](https://open.spotify.com/album/3clJXsKbeadJqCZoURhp5R) | 2:59 | 2022-07-22 |  |
 | [Hit Me Up](https://open.spotify.com/track/09XIfMbZ7hLoa1Ae4R0mdg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Hit Me Up](https://open.spotify.com/album/69jV1c5wIirVWVyaZpiLuj) | 3:42 | 2021-12-28 | 2022-05-20 |
 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 | 2022-06-10 |  |
+| [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 | 2023-02-23 |  |
 | [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 | 2022-02-04 | 2022-10-20 |
 | [I Love the Way You](https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72) | 2:13 | 2022-02-04 |  |
 | [Ignited](https://open.spotify.com/track/560xVsPybvOmJ0iok2MJGE) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [Rafiki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47HCCsYMmSjswC4jLM644r) | 5:45 | 2021-12-28 | 2022-10-28 |
@@ -69,6 +70,7 @@
 | [Loverman \- Acoustic](https://open.spotify.com/track/6vxwG8RWDOOlyCyxU4l0qP) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Ethan](https://open.spotify.com/artist/6ouFdOVHXs3aZV5pwM3JlQ) | [Loverman \(Acoustic\)](https://open.spotify.com/album/5Ajbk0U4jDQRtqLDg9OZoB) | 2:54 | 2021-12-28 |  |
 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 | 2021-12-28 | 2022-06-17 |
 | [Malaika](https://open.spotify.com/track/5J4SDAQfgnAE90ErS4dO4u) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/4jmj60YuyEMwANIOck2jFV) | 3:42 | 2021-12-28 | 2022-07-15 |
+| [Mbali \- Stripped Version](https://open.spotify.com/track/1XCI64DmbFXhxXKTWqILgG) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Mbali \(Stripped Version\)](https://open.spotify.com/album/6rVwUsa69ADOMkAH6ZOPx8) | 3:20 | 2023-02-23 |  |
 | [Milele](https://open.spotify.com/track/4j46yRxfE9nGMwL1JSKNNc) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 3:21 | 2021-12-28 |  |
 | [My Everything](https://open.spotify.com/track/5OB9O4aHm8IlB1FOoQFRXm) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:51 | 2021-12-28 | 2023-01-27 |
 | [My Love Belongs to You](https://open.spotify.com/track/32znzBnjFs06EEgMzyUINd) | [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg) | [Super Ego](https://open.spotify.com/album/6ALr7CV39er0V3Jq4CI6O6) | 3:33 | 2021-12-28 | 2022-04-29 |
@@ -103,11 +105,12 @@
 | [Sorry](https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Sorry](https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ) | 3:52 | 2022-02-17 |  |
 | [sorry it didn't work out](https://open.spotify.com/track/2C7AVrBA3vu2mg1zBu0pHk) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Legacy](https://open.spotify.com/album/1RJZeNA3Awf8RBHPqQ9Cha) | 2:29 | 2022-03-31 |  |
 | [sorry it didn't work out](https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [sorry it didn't work out](https://open.spotify.com/album/5BP6SX5xnt4qvitpCBVKJw) | 2:29 | 2022-03-31 | 2022-10-09 |
-| [Suddenly](https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh) | [Audrey Hinya](https://open.spotify.com/artist/6mOSgelMANzkmaQ1Hvh6gG), [King Kanja](https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5) | [Suddenly](https://open.spotify.com/album/4NkvtR6pq3GVc0OEh6nQey) | 3:47 | 2022-09-30 |  |
+| [Suddenly](https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh) | [Audrey Hinya](https://open.spotify.com/artist/6mOSgelMANzkmaQ1Hvh6gG), [King Kanja](https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5) | [Suddenly](https://open.spotify.com/album/4NkvtR6pq3GVc0OEh6nQey) | 3:47 | 2022-09-30 | 2023-02-24 |
 | [Sunny days](https://open.spotify.com/track/1MmFwUDvDTcPXZ9KeeWoMg) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Mwanzo](https://open.spotify.com/album/6QOgL8YEk2rQwgAXDBv9GO) | 3:34 | 2021-12-28 | 2022-10-14 |
 | [Sunshine](https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 3:28 | 2021-12-28 |  |
-| [Switch It Up](https://open.spotify.com/track/4SWMtMtaLoC2jpi5NWHr0y) | [Antoneosoul](https://open.spotify.com/artist/7fsXIEztGNSh4QUaP9mp4T) | [Welcome 2 My Soul](https://open.spotify.com/album/4wVpKqI9vE8ce64g1lCukJ) | 4:32 | 2022-06-16 |  |
+| [Switch It Up](https://open.spotify.com/track/4SWMtMtaLoC2jpi5NWHr0y) | [Antoneosoul](https://open.spotify.com/artist/7fsXIEztGNSh4QUaP9mp4T) | [Welcome 2 My Soul](https://open.spotify.com/album/4wVpKqI9vE8ce64g1lCukJ) | 4:32 | 2022-06-16 | 2023-02-24 |
 | [Tender](https://open.spotify.com/track/4VGdRiXSYdL44YCz84jpG5) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Anchor](https://open.spotify.com/album/3hdpiMQSXkG3tXRVF4oaw7) | 3:32 | 2021-12-28 | 2022-08-27 |
+| [Three Little Birds](https://open.spotify.com/track/7vGO9525GQZMGfc6qEY6BZ) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06), [Lullaby Club](https://open.spotify.com/artist/4NRmTiCjbKDTSJmwhOjDnq) | [Three Little Birds](https://open.spotify.com/album/22uuw7dC7oXrWHITQ2DHjh) | 2:48 | 2023-02-23 |  |
 | [Tosheka](https://open.spotify.com/track/3rqJOJNbeyxBDOas8W6CRN) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Dive In](https://open.spotify.com/album/3OkzNe6vIcb7ZhVtDGO9vP) | 4:02 | 2021-12-28 | 2022-08-14 |
 | [Tosheka](https://open.spotify.com/track/5g1YeZeEGyPOMwnz0TpGeO) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Dive In](https://open.spotify.com/album/7nuk7Wcfcv8UyMDfRimD4I) | 4:02 | 2021-12-28 |  |
 | [Turn It Off](https://open.spotify.com/track/1juwVlJ15TZZXFo4vIEexs) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [TURN IT OFF](https://open.spotify.com/album/4ylxBzU0yxcLNsDGkBQnVS) | 3:42 | 2022-10-21 |  |

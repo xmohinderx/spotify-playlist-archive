@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 414067,
+  "num_followers": 414088,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAwNDk2MSwwMDAwMDAwMGY0OWIwNGIxMTUyZWEyMWE4MzVmZDg1NTg4M2VkOWQ2",
+  "snapshot_id": "MTY3NzAwNDk2MSwwMDAwMDAwMGE3YWQzMDEwMWYzMjhmZGIzNTk5NTgzMDE2ZjlmNTQ4",
   "tracks": [
     {
       "added_at": "2023-02-03 17:05:03",
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
-      "added_at": "2023-02-23 01:18:36",
+      "added_at": "2023-02-24 01:05:10",
       "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
-        "name": "Hide & Seek",
-        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq"
       },
       "artists": [
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
         }
       ],
-      "duration_ms": 208350,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
+      "duration_ms": 177609,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc"
     },
     {
       "added_at": "2023-02-03 17:05:03",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 208350,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
+    },
+    {
+      "added_at": "2023-02-03 17:05:03",
+      "album": {
         "name": "Birthday Cake",
         "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 205280,
       "name": "Birthday Cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
-    },
-    {
-      "added_at": "2023-02-03 17:05:03",
-      "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 177609,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc"
     },
     {
       "added_at": "2023-02-03 17:05:03",
@@ -669,6 +669,22 @@
       "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
     },
     {
+      "added_at": "2023-02-24 01:05:10",
+      "album": {
+        "name": "When I Get There",
+        "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK"
+    },
+    {
       "added_at": "2023-02-03 17:05:03",
       "album": {
         "name": "Last Call",
@@ -715,22 +731,6 @@
       "duration_ms": 366004,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF"
-    },
-    {
-      "added_at": "2023-02-23 01:18:36",
-      "album": {
-        "name": "When I Get There",
-        "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "When I Get There",
-      "url": "https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK"
     },
     {
       "added_at": "2023-02-03 17:05:03",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 160786,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/1GYCkhHyUmLIt4da7iCVzy"
+    },
+    {
+      "added_at": "2023-02-03 17:05:03",
+      "album": {
         "name": "Bad Life",
         "url": "https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 226867,
       "name": "Bad Life",
       "url": "https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq"
-    },
-    {
-      "added_at": "2023-02-03 17:05:03",
-      "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 160786,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/1GYCkhHyUmLIt4da7iCVzy"
     },
     {
       "added_at": "2023-02-03 17:05:03",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
+        "name": "Best Day Of My Life",
+        "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 146895,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
+    },
+    {
+      "added_at": "2023-02-03 17:05:03",
+      "album": {
         "name": "For Those Who Can't Be Here",
         "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 183789,
       "name": "Something to Someone - Piano",
       "url": "https://open.spotify.com/track/5LMMHLhxyicdWm3uEdbNrV"
-    },
-    {
-      "added_at": "2023-02-03 17:05:03",
-      "album": {
-        "name": "Best Day Of My Life",
-        "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 146895,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
     },
     {
       "added_at": "2023-02-03 17:05:03",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
+        "name": "Quiet Zone",
+        "url": "https://open.spotify.com/album/17udCcoR78nM6Dp9P0LNjO"
+      },
+      "artists": [
+        {
+          "name": "Edith Whiskers",
+          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
+        }
+      ],
+      "duration_ms": 126206,
+      "name": "Quiet Zone",
+      "url": "https://open.spotify.com/track/7uThAwbtW0yuK6fePJMpyg"
+    },
+    {
+      "added_at": "2023-02-03 17:05:03",
+      "album": {
         "name": "Better in the Shade",
         "url": "https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 204216,
       "name": "Second Hand Love (feat. Ruben)",
       "url": "https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj"
-    },
-    {
-      "added_at": "2023-02-03 17:05:03",
-      "album": {
-        "name": "Quiet Zone",
-        "url": "https://open.spotify.com/album/17udCcoR78nM6Dp9P0LNjO"
-      },
-      "artists": [
-        {
-          "name": "Edith Whiskers",
-          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
-        }
-      ],
-      "duration_ms": 126206,
-      "name": "Quiet Zone",
-      "url": "https://open.spotify.com/track/7uThAwbtW0yuK6fePJMpyg"
     }
   ],
   "unique_name": "Easy",

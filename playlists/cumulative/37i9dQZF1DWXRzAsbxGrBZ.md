@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-76 songs - 8 hr 46 min
+77 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Do 4 Love](https://open.spotify.com/track/59NwccvTdS0bjuQ0akCojn) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j) | [Back 2 Basics](https://open.spotify.com/album/54A8PyTjNlFchRt3KBjEa9) | 7:19 | 2022-11-10 |  |
 | [Don't 4get To Call Me](https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP) | [OUT OF ORDER](https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [OOO: AFRO](https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx) | 7:46 | 2022-11-10 |  |
 | [Don’t Get Me Wrong](https://open.spotify.com/track/2ntpd9lUjPovqyEFfbYwmK) | [Deepconsoul](https://open.spotify.com/artist/5i4JeNw6u1j4B6f8ezRHRf), [Freeman Gumede](https://open.spotify.com/artist/72TQ8KmrZj6SfF2SgDWWib) | [Don’t Get Me Wrong](https://open.spotify.com/album/6fuxtJsTxSzDWBpjkOGFsh) | 7:53 | 2022-09-29 | 2022-11-18 |
-| [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 | 2022-09-14 |  |
+| [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 | 2022-09-14 | 2023-02-24 |
 | [E.O.L \(Extraordinary Life\) \(Original LP Mix\)](https://open.spotify.com/track/7o0UkICXQlYARbMU6C4TTc) | [Nini Maluks](https://open.spotify.com/artist/4wt6OI7hl305rb96PueedT), [Pascale Yav](https://open.spotify.com/artist/73wxsmF4LKKCMsHJVIMH75) | [G.E.N.U.F.L.E.X.I.O.N](https://open.spotify.com/album/7l9FWrlJl4ANd95P9MC7RD) | 8:17 | 2022-09-29 | 2022-11-08 |
 | [Eternal Existence \- Original Mix](https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [New Beginning EP](https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4) | 6:42 | 2022-09-14 |  |
 | [False Facade](https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza) | [DRMZ](https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ) | [False Facade](https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs) | 6:56 | 2022-09-14 |  |
@@ -48,6 +48,7 @@
 | [My Heartbeat For You](https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs) | [RoneeDeep](https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [My Heartbeat For You](https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6) | 5:32 | 2022-09-14 |  |
 | [Myself & The Dark](https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol) | [Supreme Rhythm](https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i) | [Sentimental Affair](https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1) | 7:11 | 2022-09-14 | 2022-11-11 |
 | [Ndoyiswe](https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Bamtho Imbongi](https://open.spotify.com/artist/4LqkwXbr8GaGIinEcUhVUX) | [Ndoyiswe](https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq) | 5:25 | 2022-09-14 | 2022-12-14 |
+| [Nelisiwe](https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT) | [Craving Souls](https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe), [Da Tee SA](https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5) | [Joyful Music, Vol\. 1 \(Compiled\)](https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV) | 6:53 | 2022-09-29 |  |
 | [Never Give Up](https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP) | [Zico SA](https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc) | [I Rise Again](https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg) | 9:16 | 2022-09-14 | 2022-12-06 |
 | [Never Thought](https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Thap Soul](https://open.spotify.com/artist/1CgzjfRs4cZjM58OJO1jPy), [NexVocals](https://open.spotify.com/artist/5vZfRSP0feCD65uUeThc4X), [Massive R](https://open.spotify.com/artist/1CnxaxpA4ZAt9NKClbv7Tc) | [Never Thought](https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj) | 4:44 | 2022-09-29 |  |
 | [Ngaphakathi](https://open.spotify.com/track/6VDV7qSg8oBsdiBkHnYoug) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM) | [Welcome To The Party](https://open.spotify.com/album/7CZsavnt6vFWPkk8KntzjO) | 6:22 | 2022-11-17 |  |

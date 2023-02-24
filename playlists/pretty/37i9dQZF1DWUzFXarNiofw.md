@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: SPINALL & Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,522 likes - 126 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,808 likes - 126 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

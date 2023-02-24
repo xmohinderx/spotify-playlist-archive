@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1310,
+  "num_followers": 1308,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDYxMWFmZjViOTNhMjI1NjczMmZkOTY5YmQ3MjNlMjIy",
+  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDI3OWU3OGRjMzQwY2Q1ZTJkZTQ4YTI2ZWY2OTNkY2Jj",
   "tracks": [
     {
       "added_at": "2020-04-22 19:35:42",
@@ -107,22 +107,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0y5nHLqrkcPducSd8QRISi"
-      },
-      "artists": [
-        {
-          "name": "Duo Tiempo de Sol",
-          "url": "https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA"
-        }
-      ],
-      "duration_ms": 154395,
-      "name": "Baile del marinero",
-      "url": "https://open.spotify.com/track/4MCWEpke2vLhcS96ZK88oo"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Juguemos a cantar con Barney",
         "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 34342,
       "name": "Limpieza",
       "url": "https://open.spotify.com/track/3yG4U2GnmSH04Li8aXGFiE"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0y5nHLqrkcPducSd8QRISi"
+      },
+      "artists": [
+        {
+          "name": "Duo Tiempo de Sol",
+          "url": "https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA"
+        }
+      ],
+      "duration_ms": 154395,
+      "name": "Baile del marinero",
+      "url": "https://open.spotify.com/track/4MCWEpke2vLhcS96ZK88oo"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -711,22 +711,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Children's Songs for Family, Friends & Siblings from LittleBabyBum",
-        "url": "https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 91874,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Sesame Street: Getting Ready for School",
         "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 103147,
       "name": "Exercise Time",
       "url": "https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Children's Songs for Family, Friends & Siblings from LittleBabyBum",
+        "url": "https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 91874,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -819,6 +819,26 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Sesame Street: Getting Ready for School",
+        "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
+      },
+      "artists": [
+        {
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Sesame Street's Olivia",
+          "url": "https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr"
+        }
+      ],
+      "duration_ms": 93812,
+      "name": "Snack Time (Juice and Cookies)",
+      "url": "https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Pink!",
         "url": "https://open.spotify.com/album/5LdIdJQ3KuAnfeYuWnULAE"
       },
@@ -831,22 +851,6 @@
       "duration_ms": 184600,
       "name": "Nappin' Time",
       "url": "https://open.spotify.com/track/5pI482wCmSObEDLo14dPDl"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Papa Goose",
-        "url": "https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j"
-      },
-      "artists": [
-        {
-          "name": "Nat Hussey",
-          "url": "https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA"
-        }
-      ],
-      "duration_ms": 89306,
-      "name": "Wash The Dishes",
-      "url": "https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ"
     }
   ],
   "unique_name": "Daily Rutina",

@@ -1,12 +1,12 @@
 {
   "description": "may include",
-  "num_followers": 4815,
+  "num_followers": 5331,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAwNTc2NiwwMDAwMDAwMGZmN2FkYjFmMjg3N2UzNjMyMjQ4ODU2MTY0M2FhMmYy",
+  "snapshot_id": "MTY3NzE4NTg5MCwwMDAwMDAwMDMwMDE5ZTBiNDJiMzIwNWFjYTFkMTU1NWRhYjZiNDQ5",
   "tracks": [
     {
       "added_at": "2023-02-09 18:38:29",
@@ -23,22 +23,6 @@
       "duration_ms": 212750,
       "name": "YKWIM?",
       "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "A Hopeful Ending",
-        "url": "https://open.spotify.com/album/6AO2WCT8r2bYtdralBbzsq"
-      },
-      "artists": [
-        {
-          "name": "Elliott Fullam",
-          "url": "https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "A Hopeful Ending",
-      "url": "https://open.spotify.com/track/6G3Rl9I1mqrok2EyPeQ0PX"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -59,22 +43,6 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
-    },
-    {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -89,36 +57,20 @@
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
     },
     {
-      "added_at": "2023-02-09 18:38:29",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
+        "name": "A Hopeful Ending",
+        "url": "https://open.spotify.com/album/6AO2WCT8r2bYtdralBbzsq"
       },
       "artists": [
         {
-          "name": "Duster",
-          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+          "name": "Elliott Fullam",
+          "url": "https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw"
         }
       ],
-      "duration_ms": 141040,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os"
-    },
-    {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
-        "name": "Grade Pending",
-        "url": "https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP"
-      },
-      "artists": [
-        {
-          "name": "Whatever, Dad",
-          "url": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
-        }
-      ],
-      "duration_ms": 254116,
-      "name": "Warsh_Tippy and Zelda",
-      "url": "https://open.spotify.com/track/3R0jMlEvot7UYLeulRfl8E"
+      "duration_ms": 202000,
+      "name": "A Hopeful Ending",
+      "url": "https://open.spotify.com/track/6G3Rl9I1mqrok2EyPeQ0PX"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -139,18 +91,34 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
-        "name": "Latch Relay",
-        "url": "https://open.spotify.com/album/7BVF7TAhJX4bJDG4MjKONr"
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
       "artists": [
         {
-          "name": "Plas Teg",
-          "url": "https://open.spotify.com/artist/7DfLOst9EGAaBbtoyrUxTu"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 206366,
-      "name": "The Structure",
-      "url": "https://open.spotify.com/track/6nOKw3Ru2vnDetFnFTqWPH"
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "added_at": "2023-02-09 18:38:29",
+      "album": {
+        "name": "Grade Pending",
+        "url": "https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP"
+      },
+      "artists": [
+        {
+          "name": "Whatever, Dad",
+          "url": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
+        }
+      ],
+      "duration_ms": 254116,
+      "name": "Warsh_Tippy and Zelda",
+      "url": "https://open.spotify.com/track/3R0jMlEvot7UYLeulRfl8E"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -167,6 +135,22 @@
       "duration_ms": 354691,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5vwXQUwkpmnkJrfv69L6Mp"
+    },
+    {
+      "added_at": "2023-02-09 18:38:29",
+      "album": {
+        "name": "Latch Relay",
+        "url": "https://open.spotify.com/album/7BVF7TAhJX4bJDG4MjKONr"
+      },
+      "artists": [
+        {
+          "name": "Plas Teg",
+          "url": "https://open.spotify.com/artist/7DfLOst9EGAaBbtoyrUxTu"
+        }
+      ],
+      "duration_ms": 206366,
+      "name": "The Structure",
+      "url": "https://open.spotify.com/track/6nOKw3Ru2vnDetFnFTqWPH"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -235,6 +219,22 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
+      },
+      "artists": [
+        {
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os"
+    },
+    {
+      "added_at": "2023-02-09 18:38:29",
+      "album": {
         "name": "Chamber of Reflection (Remixes)",
         "url": "https://open.spotify.com/album/4SmPOUhbSUydP4jg0KZNfT"
       },
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
-      },
-      "artists": [
-        {
-          "name": "Duster",
-          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Constellations",
-      "url": "https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV"
-    },
-    {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
         "name": "A Different Age",
         "url": "https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 138306,
       "name": "then i met her",
       "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
+    },
+    {
+      "added_at": "2023-02-09 18:38:29",
+      "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
+      },
+      "artists": [
+        {
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV"
     },
     {
       "added_at": "2023-02-09 18:38:29",

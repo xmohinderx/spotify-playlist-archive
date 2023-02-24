@@ -3948,7 +3948,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 107500,
       "name": "Isonzo",
       "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
@@ -6060,6 +6060,24 @@
       "duration_ms": 206000,
       "name": "On Your Side",
       "url": "https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o"
+    },
+    {
+      "album": {
+        "name": "Once Upon A Star",
+        "url": "https://open.spotify.com/album/11xfwgFFCr73Y4rkb7Xz8S"
+      },
+      "artists": [
+        {
+          "name": "Julius Cuvier",
+          "url": "https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103040,
+      "name": "Once Upon A Star",
+      "url": "https://open.spotify.com/track/5ro4n67wO8Q8aRV3upxnut"
     },
     {
       "album": {

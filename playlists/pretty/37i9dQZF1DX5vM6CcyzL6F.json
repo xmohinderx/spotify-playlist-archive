@@ -1,12 +1,12 @@
 {
   "description": "Si la salsa se cruza con la chamba... \u00a1s\u00fabele a la bocina!",
-  "num_followers": 24532,
+  "num_followers": 24632,
   "original_name": "Chambeando con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwNDAwMCwwMDAwMDAwMDFhMTAwNWQ1MWQ3NDE5NjBhMTMzNGUxMWE3ZTQzMjhm",
+  "snapshot_id": "MTY3NTQwNDAwMCwwMDAwMDAwMDNhOGZhZDM2NDkwNTUyNzZiNzliZmU5NDg4ZTM5NWIw",
   "tracks": [
     {
       "added_at": "2023-02-03 06:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Galy Galiano 30 A\u00f1os",
-        "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 438026,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/02IhbBURLOQ1PiaDODuHfW"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 292973,
       "name": "Mi Media Mitad",
       "url": "https://open.spotify.com/track/0vffx55ffXHq2bz0yKlZiM"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Galy Galiano 30 A\u00f1os",
+        "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 438026,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 265480,
-      "name": "De Punta a Punta",
-      "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Llego La Salsa",
         "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
       },
@@ -983,22 +967,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
-      },
-      "artists": [
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Caretas",
-      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "La Negra Tiene Tumbao",
         "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
       },
@@ -1011,6 +979,22 @@
       "duration_ms": 253346,
       "name": "La Negra Tiene Tumbao",
       "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Caretas",
+      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1243,22 +1227,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "14 Ca\u00f1onazos Bailables 2001",
-        "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
-      },
-      "artists": [
-        {
-          "name": "Sonora Carruseles",
-          "url": "https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Arranca En Fa",
-      "url": "https://open.spotify.com/track/5ChULaTmIYylzL3lrrzuhf"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Descarga Espectacular",
         "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
       },
@@ -1271,6 +1239,22 @@
       "duration_ms": 297386,
       "name": "Cachondea",
       "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "14 Ca\u00f1onazos Bailables 2001",
+        "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
+      },
+      "artists": [
+        {
+          "name": "Sonora Carruseles",
+          "url": "https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Arranca En Fa",
+      "url": "https://open.spotify.com/track/5ChULaTmIYylzL3lrrzuhf"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1359,22 +1343,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Rey del Bajo",
-        "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
-      },
-      "artists": [
-        {
-          "name": "Bobby Valentin",
-          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
-        }
-      ],
-      "duration_ms": 346306,
-      "name": "Mi Ritmo Es Bueno",
-      "url": "https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "From Cali with Love",
         "url": "https://open.spotify.com/album/6l2H02jQ5TEVk0QTI90I4s"
       },
@@ -1387,6 +1355,22 @@
       "duration_ms": 301400,
       "name": "Tendria Que Llorar Por Ti",
       "url": "https://open.spotify.com/track/1KvvRNWBKRcWE6aSxroIb0"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Rey del Bajo",
+        "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
+      },
+      "artists": [
+        {
+          "name": "Bobby Valentin",
+          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
+        }
+      ],
+      "duration_ms": 346306,
+      "name": "Mi Ritmo Es Bueno",
+      "url": "https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "El Caballero De La Salsa - La Historia Tropical",
-        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 266786,
-      "name": "Conteo Regresivo - Salsa Version",
-      "url": "https://open.spotify.com/track/7uNNpyYnWFeUPO3h5jIgIc"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/6lkHxEey00QbomsLj9h0Q3"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 285120,
       "name": "Tu Amigo o Tu Amante",
       "url": "https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "El Caballero De La Salsa - La Historia Tropical",
+        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 266786,
+      "name": "Conteo Regresivo - Salsa Version",
+      "url": "https://open.spotify.com/track/7uNNpyYnWFeUPO3h5jIgIc"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1579,38 +1579,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "Por Retenerte",
-      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Sencillamente Genial Perfume de Paris",
-        "url": "https://open.spotify.com/album/2TvA9Vz1RRAEUrgGvTWOyL"
-      },
-      "artists": [
-        {
-          "name": "La Misma Gente",
-          "url": "https://open.spotify.com/artist/4q3sKRFsDPs82sKriW34mJ"
-        }
-      ],
-      "duration_ms": 304927,
-      "name": "Raquel",
-      "url": "https://open.spotify.com/track/6V4l36LmwN0ZicPwC7SSsG"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "\u00a1Para Bailar!",
         "url": "https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs"
       },
@@ -1627,6 +1595,22 @@
       "duration_ms": 212640,
       "name": "Dime Que Pas\u00f3",
       "url": "https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Sencillamente Genial Perfume de Paris",
+        "url": "https://open.spotify.com/album/2TvA9Vz1RRAEUrgGvTWOyL"
+      },
+      "artists": [
+        {
+          "name": "La Misma Gente",
+          "url": "https://open.spotify.com/artist/4q3sKRFsDPs82sKriW34mJ"
+        }
+      ],
+      "duration_ms": 304927,
+      "name": "Raquel",
+      "url": "https://open.spotify.com/track/6V4l36LmwN0ZicPwC7SSsG"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1687,22 +1671,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Back To The Future",
-        "url": "https://open.spotify.com/album/0CNxlDVsAay8Nsbpd9mKXd"
+        "name": "Historia M\u00fasical - 30 \u00c9xitos",
+        "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
       },
       "artists": [
         {
-          "name": "Willie Rosario",
-          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
         },
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Piper Pimienta Diaz",
+          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
         }
       ],
-      "duration_ms": 258800,
-      "name": "El Apartamento",
-      "url": "https://open.spotify.com/track/2ZyTUDRlkjxFRtKntSVacO"
+      "duration_ms": 237253,
+      "name": "Las Cale\u00f1as Son Como las Flores",
+      "url": "https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1719,6 +1703,26 @@
       "duration_ms": 283924,
       "name": "Mia",
       "url": "https://open.spotify.com/track/7rHFlEWOFJYn60AybSRj02"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Back To The Future",
+        "url": "https://open.spotify.com/album/0CNxlDVsAay8Nsbpd9mKXd"
+      },
+      "artists": [
+        {
+          "name": "Willie Rosario",
+          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 258800,
+      "name": "El Apartamento",
+      "url": "https://open.spotify.com/track/2ZyTUDRlkjxFRtKntSVacO"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1751,26 +1755,6 @@
       "duration_ms": 232385,
       "name": "Mala Mujer",
       "url": "https://open.spotify.com/track/6WodQgc6eoPietr4k9lPHR"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Historia M\u00fasical - 30 \u00c9xitos",
-        "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        },
-        {
-          "name": "Piper Pimienta Diaz",
-          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
-        }
-      ],
-      "duration_ms": 237253,
-      "name": "Las Cale\u00f1as Son Como las Flores",
-      "url": "https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1871,22 +1855,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Serie 32 : Eddie Santiago",
-        "url": "https://open.spotify.com/album/0bmXT2b5Rl5mddzk182Aoj"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 304466,
-      "name": "Me Fallaste",
-      "url": "https://open.spotify.com/track/6irnHSTORkdgw13lwscY9d"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Hot Latin Tracks",
         "url": "https://open.spotify.com/album/1EjKhZdCc1bZNeyza5tlV5"
       },
@@ -1899,6 +1867,22 @@
       "duration_ms": 251253,
       "name": "Tu Cari\u00f1ito",
       "url": "https://open.spotify.com/track/7cl1jhPW0kwvvrI0YwOkEC"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Serie 32 : Eddie Santiago",
+        "url": "https://open.spotify.com/album/0bmXT2b5Rl5mddzk182Aoj"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 304466,
+      "name": "Me Fallaste",
+      "url": "https://open.spotify.com/track/6irnHSTORkdgw13lwscY9d"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1935,22 +1919,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/0amJBy02Venc60GFjt7ytH"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 212386,
-      "name": "Ese",
-      "url": "https://open.spotify.com/track/6IYAUfaukZUjEP1zi2gjdn"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Sonero de la Juventud... Salsero Original",
         "url": "https://open.spotify.com/album/2SIh1G5RFQKYWhRfGXXpnA"
       },
@@ -1963,6 +1931,22 @@
       "duration_ms": 304306,
       "name": "Api\u00e1date de Mi",
       "url": "https://open.spotify.com/track/6bRCaBDdiooh14QUiuWjfb"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/0amJBy02Venc60GFjt7ytH"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Ese",
+      "url": "https://open.spotify.com/track/6IYAUfaukZUjEP1zi2gjdn"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1995,22 +1979,6 @@
       "duration_ms": 278871,
       "name": "Detalles",
       "url": "https://open.spotify.com/track/7xTLXbF0nACwXPPC5VHviB"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "2 Grandes de la Salsa Vol. 2",
-        "url": "https://open.spotify.com/album/0tClfEzS907n6sscmXth0S"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 307106,
-      "name": "Peque\u00f1as cosas",
-      "url": "https://open.spotify.com/track/7i2lDcjjEZ8LIz7Mq43YUn"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -2063,6 +2031,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "2 Grandes de la Salsa Vol. 2",
+        "url": "https://open.spotify.com/album/0tClfEzS907n6sscmXth0S"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 307106,
+      "name": "Peque\u00f1as cosas",
+      "url": "https://open.spotify.com/track/7i2lDcjjEZ8LIz7Mq43YUn"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "Amores Como El Nuestro...Los Exitos",
         "url": "https://open.spotify.com/album/3AOCGCilv8dBhnxWqraZA9"
       },
@@ -2111,18 +2095,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "The Afrosound Of Colombia Volume 1",
-        "url": "https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf"
+        "name": "Fruko el Grande",
+        "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
       "artists": [
         {
           "name": "Fruko Y Sus Tesos",
           "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
         }
       ],
-      "duration_ms": 248040,
+      "duration_ms": 248733,
       "name": "Manyoma",
-      "url": "https://open.spotify.com/track/3TA9nq749Dfq7VwirwPuiJ"
+      "url": "https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -2175,6 +2163,22 @@
       "duration_ms": 323266,
       "name": "El D\u00eda De Mi Suerte",
       "url": "https://open.spotify.com/track/7x4oqDdLnqN2loFfklxvKe"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
+        "url": "https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 261472,
+      "name": "Punta a Punta",
+      "url": "https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO"
     },
     {
       "added_at": "2022-08-02 22:53:13",

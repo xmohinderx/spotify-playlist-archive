@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-173 songs - 10 hr 30 min
+174 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Clair de Lune, No\. 3](https://open.spotify.com/track/7cwPQGHgob1v9pek8WnQRx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [Tomita's Greatest Hits](https://open.spotify.com/album/7yAuhoZXCopPOlaCh21Xlt) | 5:51 | 2021-08-17 |  |
 | [Cosmic Bust](https://open.spotify.com/track/0BufJVMmsjjrL0MdwIS0Md) | [Colonel Elliott & The Lunatics](https://open.spotify.com/artist/4ntYHeXkHdaw8dH6Fsv7lj) | [Sounds in Space\. a Very Unusual Collection of Space Influenced Music.](https://open.spotify.com/album/4A64TR1UmFtiLv2FXJr6lm) | 2:39 | 2021-08-17 |  |
 | [Cul\-De\-Sac](https://open.spotify.com/track/1XXOdq1sBD0cSyN3DjzKlt) | [Krzysztof Komeda](https://open.spotify.com/artist/6BoLqGW2NuMvgHqiDbyfOC) | [Cul\-De\-Sac & Knife In The Water](https://open.spotify.com/album/3M6aFO2t4IVkK1gMUlOg1W) | 2:38 | 2021-08-17 |  |
-| [Cumbia de sal](https://open.spotify.com/track/1pUao3U3TtnQ5Ob1CMy5vl) | [Cumbia en Moog](https://open.spotify.com/artist/09IDlbGKw98FeUbVOU0lk5) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 3:33 | 2022-01-11 |  |
+| [Cumbia de sal](https://open.spotify.com/track/1pUao3U3TtnQ5Ob1CMy5vl) | [Cumbia en Moog](https://open.spotify.com/artist/09IDlbGKw98FeUbVOU0lk5) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 3:33 | 2022-01-11 | 2023-02-24 |
+| [Cumbia de Sal](https://open.spotify.com/track/50qOHV8gy3A1NLHNzK2qTg) | [Cumbias en Moog](https://open.spotify.com/artist/0bOBmTNlVh1aNKDTWtedyB) | [Big Box Of Afrosound](https://open.spotify.com/album/7p8GXoclTZMumgjfZkUWDJ) | 3:33 | 2022-01-11 |  |
 | [Cybernaut](https://open.spotify.com/track/5zYhAOp5es0F7P8P7XFGUb) | [Tonto's Expanding Head Band](https://open.spotify.com/artist/1EAuonSn6FGXejwZS6EU9Z) | [Zero Time](https://open.spotify.com/album/0MaUdz9RPBFN22IgC95cMk) | 4:31 | 2021-08-17 |  |
 | [Db Angels](https://open.spotify.com/track/1G85a7BogVOS1ql5iKvoBl) | [Paolo Di Cioccio](https://open.spotify.com/artist/3GNXga9dtpSX9UiPG8MTfx) | [Romantische Technologie](https://open.spotify.com/album/4vuMcGpR8AlANyU7V2VIk2) | 3:16 | 2021-08-17 |  |
 | [Deep Distance](https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 5:49 | 2021-08-17 |  |

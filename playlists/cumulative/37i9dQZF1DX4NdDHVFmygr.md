@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-229 songs - 12 hr 34 min
+230 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,8 +186,9 @@
 | [Safe safe](https://open.spotify.com/track/5LyViLHbmjbJgQwwNgKEEH) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 2:40 | 2021-12-25 | 2022-02-17 |
 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2021-12-25 | 2023-01-05 |
 | [Salam](https://open.spotify.com/track/12HuEuSbjbaX3TgAu917gh) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Salam](https://open.spotify.com/album/7DZ568lgXANTKdT8rfb7tH) | 2:53 | 2022-07-13 | 2022-09-09 |
+| [SARA](https://open.spotify.com/track/1pI3VzxUIrXmgxc9tmhwHC) | [Milfaya](https://open.spotify.com/artist/04AJQXlTk4IiSxESsmYDvp) | [L'Mdina](https://open.spotify.com/album/4yfsWZwP2S19rizMlxjcxW) | 4:05 | 2023-02-23 |  |
 | [Sasasa](https://open.spotify.com/track/0ijOIF6RHKsJu7SDxKznDF) | [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [Sasasa](https://open.spotify.com/album/5NF5qAN61aw3UbZR2RM41x) | 3:45 | 2022-07-21 | 2022-09-15 |
-| [SBABO NTI](https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [SBABO NTI](https://open.spotify.com/album/7GwYS8AurmMvmGKrh0j7ZG) | 4:13 | 2023-01-29 |  |
+| [SBABO NTI](https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [SBABO NTI](https://open.spotify.com/album/7GwYS8AurmMvmGKrh0j7ZG) | 4:13 | 2023-01-29 | 2023-02-24 |
 | [Seddit Lbibane](https://open.spotify.com/track/19qSodZXmR2GqMwzLvLYlJ) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Seddit Lbibane](https://open.spotify.com/album/60T0APAz9FUAKMJcpfpxjt) | 3:08 | 2023-01-28 |  |
 | [Ser Lekdim](https://open.spotify.com/track/43lrk3f9bdnH5E92YPoQpT) | [Ihab Amir](https://open.spotify.com/artist/3B0pL0vuA6bTa94mcJFyIN) | [Ser Lekdim](https://open.spotify.com/album/0kJ96yCGwxBvE4AG4OA371) | 4:00 | 2021-12-25 | 2022-02-18 |
 | [Serrek](https://open.spotify.com/track/2P6663NWulwljND7qHu910) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Serrek](https://open.spotify.com/album/1CCZubOoiB5X0xdJCVvnOU) | 3:51 | 2022-04-07 | 2023-01-12 |

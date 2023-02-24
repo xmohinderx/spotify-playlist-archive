@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/7GSt7smvMMAiOFmPJ17jEf.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stranger On The Shore \(Re\-Recording\)](https://open.spotify.com/track/3I2j9uOUl4YkyoZgjSo9vF) | [Acker Bilk](https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA) | [\#1 Hits Of The 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:49 |
+| 1 | [Stranger on the Shore \(Rerecorded\)](https://open.spotify.com/track/3I2j9uOUl4YkyoZgjSo9vF) | [Acker Bilk](https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA) | [\#1 Hits Of The 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:49 |
 | 2 | [I Can't Stop Loving You](https://open.spotify.com/track/0lKNhJylqHrHdQBzmFN73Y) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Six Pack \- Ray Charles](https://open.spotify.com/album/68wjp1tSvtS4vXkKxQ9WQQ) | 4:13 |
 | 3 | [Mashed Potato Time](https://open.spotify.com/track/6jouZcdraQvsbh7SWkLEui) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [It's Mashed Potato Time/Do The Bird](https://open.spotify.com/album/4SaED2mtSzOU6UEGk6rzwm) | 2:30 |
 | 4 | [Roses Are Red \(My Love\) \- Single Version](https://open.spotify.com/track/0qYok0f8O5DE8yJSo146dn) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:38 |

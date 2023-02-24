@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-300 songs - 17 hr 39 min
+301 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1234](https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:03 | 2022-06-24 | 2022-07-28 |
 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2022-07-29 |  |
 | [4Runner](https://open.spotify.com/track/6fHORDEAnP4POdVZB9kO9V) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [4Runner](https://open.spotify.com/album/4pK1F2rM5omfZyrv4FEPQZ) | 3:49 | 2022-04-05 | 2022-07-28 |
+| [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 | 2023-02-21 |  |
 | [A Song About Fishing](https://open.spotify.com/track/2nCEjCTe2lo1mx8EDFE84Z) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/1AwxJPvM50yifnRc9wLUlM) | 3:25 | 2022-04-05 | 2022-07-28 |
 | [A Sunday Kind Of Love](https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:16 | 2022-06-24 |  |
 | [Addicted To The Sunshine](https://open.spotify.com/track/3Rb7HXCPIzxBbelwdL15O3) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [14 Steps To A Better You](https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY) | 4:30 | 2022-04-05 | 2022-07-29 |
@@ -224,7 +225,7 @@
 | [Sagittarius Superstar \(feat\. Faye Webster\)](https://open.spotify.com/track/4j8Dz7TdDXoJ2z5zhqEwYX) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Sagittarius Superstar \(feat\. Faye Webster\)](https://open.spotify.com/album/6EPQ8xP6KHop02y6abUX3u) | 2:53 | 2022-04-05 | 2022-07-29 |
 | [Saltwater](https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:07 | 2022-06-24 | 2022-07-16 |
 | [Scream Drive Faster](https://open.spotify.com/track/0WpZm3wky84KQ8BKWTELqw) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Scream Drive Faster](https://open.spotify.com/album/58hdwGn7rS7kRWIpyBu8wd) | 4:00 | 2022-04-05 | 2022-07-29 |
-| [See The Light](https://open.spotify.com/track/5nsFJfYtAFZmL9PbtYKYcA) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 3:00 | 2022-09-29 |  |
+| [See The Light](https://open.spotify.com/track/5nsFJfYtAFZmL9PbtYKYcA) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 3:00 | 2022-09-29 | 2023-02-24 |
 | [Seize The Day \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4ByvgSH9KPxMQqqXFR9797) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [McCartney III Imagined](https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT) | 3:29 | 2022-04-05 | 2022-07-27 |
 | [Send Me on My Way](https://open.spotify.com/track/0Eko4AsGljvQQHb0T7cu1N) | [Guy Meets Girl](https://open.spotify.com/artist/5YqGCzRaUM6XZss3tWRNAY) | [Send Me on My Way](https://open.spotify.com/album/0Q9gYCnSArFUpFhCDXxRAD) | 3:44 | 2022-04-05 | 2022-07-18 |
 | [Send Me On My Way](https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [When I Woke](https://open.spotify.com/album/2LjYjQN5yVZYiZNDIVIKDf) | 4:23 | 2022-06-24 |  |

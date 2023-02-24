@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 209841,
+  "num_followers": 209867,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDljODI4M2IyYzgzODkyMmRjYjk5NGRlZjhhMzBkZDgx",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMGEyYTc5OTdkYzEzNTg5NDY2ZWE0MmVmMjE3MzJlNzM4",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Elixir",
         "url": "https://open.spotify.com/album/1IMGSrqAcD0F6aTtd5X4RV"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 202129,
       "name": "Frobidden Fruit",
       "url": "https://open.spotify.com/track/5AtQKKuYkuGbdQOXAvxGCN"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -621,20 +621,20 @@
       "url": "https://open.spotify.com/track/3DvdHFeQ3AeZNzxHy61Gcu"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "The Goddess",
-        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/4ILJ7RNqetmplRsoyFvouK"
       },
       "artists": [
         {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
         }
       ],
-      "duration_ms": 246458,
-      "name": "The Goddess",
-      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+      "duration_ms": 301853,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/6lyoLhAkRUDGXVgcpXXcCx"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -653,20 +653,20 @@
       "url": "https://open.spotify.com/track/13XQpSrDR5iE5DQsjW97wA"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
+      "added_at": "2021-10-01 04:02:00",
       "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/4ILJ7RNqetmplRsoyFvouK"
+        "name": "The Goddess",
+        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
       },
       "artists": [
         {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
         }
       ],
-      "duration_ms": 301853,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/6lyoLhAkRUDGXVgcpXXcCx"
+      "duration_ms": 246458,
+      "name": "The Goddess",
+      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Manhattan Nights",
-        "url": "https://open.spotify.com/album/5DGDEZkZPkc2OrnBAp9ij1"
-      },
-      "artists": [
-        {
-          "name": "Jaared",
-          "url": "https://open.spotify.com/artist/0SaucWNgFLWiUFMEplJnyL"
-        }
-      ],
-      "duration_ms": 232733,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Soul City",
         "url": "https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 230696,
       "name": "Soul City",
       "url": "https://open.spotify.com/track/5H6VCCvafjEQWIrnui0wOd"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Manhattan Nights",
+        "url": "https://open.spotify.com/album/5DGDEZkZPkc2OrnBAp9ij1"
+      },
+      "artists": [
+        {
+          "name": "Jaared",
+          "url": "https://open.spotify.com/artist/0SaucWNgFLWiUFMEplJnyL"
+        }
+      ],
+      "duration_ms": 232733,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1041,6 +1041,22 @@
       "url": "https://open.spotify.com/track/7mDJQJu8HAyeALcGNNWZ9x"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Quintastic",
+        "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
+      },
+      "artists": [
+        {
+          "name": "Deon Yates",
+          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
+        }
+      ],
+      "duration_ms": 243685,
+      "name": "Quintastic",
+      "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
+    },
+    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "West Coast Soul",
@@ -1057,20 +1073,20 @@
       "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
+      "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "Quintastic",
-        "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
+        "name": "Say What",
+        "url": "https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo"
       },
       "artists": [
         {
-          "name": "Deon Yates",
-          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
         }
       ],
-      "duration_ms": 243685,
-      "name": "Quintastic",
-      "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
+      "duration_ms": 227077,
+      "name": "Say What",
+      "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1089,20 +1105,20 @@
       "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Say What",
-        "url": "https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo"
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
       },
       "artists": [
         {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
         }
       ],
-      "duration_ms": 227077,
-      "name": "Say What",
-      "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
+      "duration_ms": 258275,
+      "name": "Issa Party",
+      "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1157,6 +1173,22 @@
       "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Main Street Beat",
+        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 253426,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
+    },
+    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "On The Move",
@@ -1207,22 +1239,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 258275,
-      "name": "Issa Party",
-      "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Sweetness",
         "url": "https://open.spotify.com/album/0fEG5FbdY24aA6sSlceKEW"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Main Street Beat",
-        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
       },
       "artists": [
         {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
         }
       ],
-      "duration_ms": 253426,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
+      "duration_ms": 217022,
+      "name": "You're My Joy",
+      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
-      },
-      "artists": [
-        {
-          "name": "Randy Scott",
-          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
-        }
-      ],
-      "duration_ms": 217022,
-      "name": "You're My Joy",
-      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Chocolate Vibez",
         "url": "https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 254011,
       "name": "Crown Royal",
       "url": "https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "duration_ms": 248071,
+      "name": "Kiss and Tell",
+      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 248071,
-      "name": "Kiss and Tell",
-      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Steppin' Up",
         "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
       },
@@ -1423,38 +1423,6 @@
       "duration_ms": 284093,
       "name": "City Vibe",
       "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Breakin' Thru",
-        "url": "https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        }
-      ],
-      "duration_ms": 270968,
-      "name": "Breakin' Thru",
-      "url": "https://open.spotify.com/track/4hHPO7Vt4eGqEPreB35Tn7"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Sexy Saxy, Vol. 3",
-        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
-      },
-      "artists": [
-        {
-          "name": "Jarez",
-          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
-        }
-      ],
-      "duration_ms": 263128,
-      "name": "What U Want, What U Need",
-      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -1475,6 +1443,38 @@
       "duration_ms": 238529,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Sexy Saxy, Vol. 3",
+        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
+      },
+      "artists": [
+        {
+          "name": "Jarez",
+          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
+        }
+      ],
+      "duration_ms": 263128,
+      "name": "What U Want, What U Need",
+      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Breakin' Thru",
+        "url": "https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI"
+      },
+      "artists": [
+        {
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        }
+      ],
+      "duration_ms": 270968,
+      "name": "Breakin' Thru",
+      "url": "https://open.spotify.com/track/4hHPO7Vt4eGqEPreB35Tn7"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
     },
     {
-      "added_at": "2021-08-06 04:01:00",
-      "album": {
-        "name": "Lookin' Up",
-        "url": "https://open.spotify.com/album/4RbIzwLIasB2M2l5cmPmdk"
-      },
-      "artists": [
-        {
-          "name": "Tom Braxton",
-          "url": "https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK"
-        }
-      ],
-      "duration_ms": 251142,
-      "name": "Sharon's Groove",
-      "url": "https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Nightfall",
@@ -1587,6 +1571,22 @@
       "duration_ms": 187818,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
+    },
+    {
+      "added_at": "2021-08-06 04:01:00",
+      "album": {
+        "name": "Lookin' Up",
+        "url": "https://open.spotify.com/album/4RbIzwLIasB2M2l5cmPmdk"
+      },
+      "artists": [
+        {
+          "name": "Tom Braxton",
+          "url": "https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK"
+        }
+      ],
+      "duration_ms": 251142,
+      "name": "Sharon's Groove",
+      "url": "https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ"
     },
     {
       "added_at": "2021-07-12 18:09:21",

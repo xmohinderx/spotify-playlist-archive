@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,785 likes - 503 songs - 19 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,917 likes - 503 songs - 19 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 64 | [It Feels Right](https://open.spotify.com/track/1nRWpQ6hdE7lgGOJg5rnSt) | [Taste Of Purple](https://open.spotify.com/artist/29ulLEQloQJrmKG4HHBmBa) | [Hip Hope](https://open.spotify.com/album/5obALIk6zsK0gYEiM0YwkU) | 1:42 |
 | 65 | [9 2 5](https://open.spotify.com/track/3lmgbvnKKErNuuJG7bGeKA) | [sumishii](https://open.spotify.com/artist/7eXNSXnJu1Az7K9PxADwwq) | [9 2 5](https://open.spotify.com/album/3cYyRSmYjQg3bhoayzdMxk) | 2:56 |
 | 66 | [measure](https://open.spotify.com/track/6Xgh67TMWtXrKfeAVSDYBA) | [Mo Rana](https://open.spotify.com/artist/5ZQEuLlGt1sfPoZIqFyKG9) | [measure](https://open.spotify.com/album/0gQG0fIyasBTSdPCC9yQuO) | 2:27 |
-| 67 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Oscar](https://open.spotify.com/artist/5ezLUfvnIzXoZIIVGHaReU) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 |
+| 67 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Discant Of Venus](https://open.spotify.com/artist/3GqXOi7G86eK1uMNOiuTTn) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 |
 | 68 | [All Nighters](https://open.spotify.com/track/6v0zG2kOkkaNOW48Sj2eAV) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [All Nighters](https://open.spotify.com/album/5H6hBDELfcPZK3eS3vTcpt) | 2:31 |
 | 69 | [Central Park](https://open.spotify.com/track/2yhNUWknbCHdmsOITr67Ul) | [Aerow](https://open.spotify.com/artist/5BiHAcaswpfTQ4CQLQnGI5), [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ) | [Central Park](https://open.spotify.com/album/6mrWTyVNnVFfEJfFl2Tm5H) | 2:15 |
 | 70 | [Sun\-Rainy](https://open.spotify.com/track/1hZEKLB9Xwgla0rkleh7sh) | [Phat Dizzy Dean](https://open.spotify.com/artist/1o0M8dJPrG2xg5u3gv9D6g) | [Sun\-Rainy](https://open.spotify.com/album/005AxaCubpQkVCI4cyiNOq) | 2:43 |
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 184 | [Hidden](https://open.spotify.com/track/6qPWbkVpGoYpR4M2AemsnZ) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Hidden](https://open.spotify.com/album/2kdTXfpyFxQfqORc8NK7hg) | 1:52 |
 | 185 | [Shining starr](https://open.spotify.com/track/37uYqqerQzZN0ySqYzbUXP) | [JeMeNeZ](https://open.spotify.com/artist/6VKOJ18yv76jy2D3Kjw4nG) | [Shining starr](https://open.spotify.com/album/1HS18NxMpEwVXMokdl6QdU) | 2:15 |
 | 186 | [dough](https://open.spotify.com/track/6l1kRdkEN1HELF9Bbr70Lg) | [$imba](https://open.spotify.com/artist/6ZPRXOOs0K9EipFamTz2YP) | [dough](https://open.spotify.com/album/7zhCN4pgxufcFHJgIZSOWT) | 2:27 |
-| 187 | [Commuter](https://open.spotify.com/track/4Rf27qELU6XDQx8DtFHU4Q) | [CLOCC](https://open.spotify.com/artist/1QNQOpFcbLjmKPiCDKSiGG) | [Commuter](https://open.spotify.com/album/73ddBbDKMzEiLWqA3VDXi0) | 2:00 |
+| 187 | [Commuter](https://open.spotify.com/track/4Rf27qELU6XDQx8DtFHU4Q) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Commuter](https://open.spotify.com/album/73ddBbDKMzEiLWqA3VDXi0) | 2:00 |
 | 188 | [eyes closed, flying](https://open.spotify.com/track/4YphuuHWU3xM2rNlXEk3yC) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [Dreamscapes](https://open.spotify.com/album/1grSb4dJHXQDo6AMkkkjk8) | 1:58 |
 | 189 | [rainous](https://open.spotify.com/track/50qKgUB2GYvQ7JJfcxtMaD) | [Apple Thief](https://open.spotify.com/artist/68ax86IGwQYZ8y45VdkryS) | [rainous](https://open.spotify.com/album/4LExbxnWwf8RqRzUbkuSFV) | 2:20 |
 | 190 | [Cuddled Up](https://open.spotify.com/track/1yr1qVgsKHTTun43AbOu41) | [Etzuko.](https://open.spotify.com/artist/2UnLJpotwiOvhCz8LXdVXb) | [Cuddled Up](https://open.spotify.com/album/7rlT4bVRYvmTTU5kEmOJRs) | 2:14 |
@@ -465,7 +465,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 455 | [refresh](https://open.spotify.com/track/1Wkraab5rp2U8OHH6DOboY) | [Curly Tree](https://open.spotify.com/artist/4YjWmgjadiQn7HLwkb9UbQ) | [refresh](https://open.spotify.com/album/1pbvOK2xz9kWM5ZsCJeGYi) | 2:04 |
 | 456 | [Blossom](https://open.spotify.com/track/3HSulWqe4jfbXxfGzC0toF) | [Esoterak](https://open.spotify.com/artist/1GCwB469xHamTI5nnHjD8F) | [Blossom](https://open.spotify.com/album/78JlQLKwFrVgJ386stGMnP) | 2:00 |
 | 457 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 |
-| 458 | [Dirty Ensemble](https://open.spotify.com/track/0pGDCfVjkHuQRNnthF5ur5) | [Azetz](https://open.spotify.com/artist/0rCTujNdCAGjAHKOmG6hsQ) | [Emo Nemo](https://open.spotify.com/album/0X4jSnVgS8g6MWKdXhcwwh) | 2:08 |
+| 458 | [Dirty Ensemble](https://open.spotify.com/track/0pGDCfVjkHuQRNnthF5ur5) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Emo Nemo](https://open.spotify.com/album/0X4jSnVgS8g6MWKdXhcwwh) | 2:08 |
 | 459 | [Sketchy Dreamers](https://open.spotify.com/track/5nxEHnue5hDtbbubvyZRUe) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Sketchy Dreamers](https://open.spotify.com/album/5CWACW6EISOrtIaNFZxJkN) | 2:40 |
 | 460 | [the golden hour](https://open.spotify.com/track/3mwgB2wh1FNe1xIwH7Trxp) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [the golden hour](https://open.spotify.com/album/27UoLU4BkoAsHmwLkYZodY) | 1:39 |
 | 461 | [Lost in the Woods](https://open.spotify.com/track/1EcB1d4312bZha775c7woO) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Solsken](https://open.spotify.com/album/2JzhBFTPswo8Xzv48mSn6G) | 2:30 |

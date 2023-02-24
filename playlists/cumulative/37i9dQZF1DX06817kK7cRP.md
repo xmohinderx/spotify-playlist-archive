@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-105 songs - 4 hr 48 min
+106 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Gemstone](https://open.spotify.com/track/2peUYTOZ5tOHSl6opQ8955) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Gemstone](https://open.spotify.com/album/00k8alj8IzblCKTeCDvUNQ) | 3:07 | 2023-01-12 |  |
 | [get up and go](https://open.spotify.com/track/0AmxMNsfzteEOvlMx3r5JU) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D) | [get up and go](https://open.spotify.com/album/2x09XHdln0ntQcYKxb4KNM) | 2:27 | 2023-01-12 |  |
 | [Glass](https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Glass](https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ) | 3:22 | 2023-01-13 |  |
-| [Golden Age](https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:22 | 2023-01-12 |  |
+| [Golden Age](https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:22 | 2023-01-12 | 2023-02-24 |
 | [Harvest Time](https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 3:00 | 2023-01-12 |  |
 | [Heatwave](https://open.spotify.com/track/03gunYpOFHu4swpyry4QKX) | [Danny James](https://open.spotify.com/artist/2v04CAaxpr6sSELBPMOkoQ), [Es\-K](https://open.spotify.com/artist/0Ece4RFAFNTEpYaTHZWuhe), [John Culbreth](https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN) | [Heatwave](https://open.spotify.com/album/5ifo18NW9f8DwVhvpTNJLg) | 3:11 | 2023-01-12 |  |
 | [Hidden Paradise](https://open.spotify.com/track/3d3Jq8vwoJOrELUtlUhVjp) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Hidden Paradise](https://open.spotify.com/album/0GZnU5oouUt1kK02dzWrwt) | 2:27 | 2023-01-12 |  |
@@ -72,6 +72,7 @@
 | [No Worries](https://open.spotify.com/track/1UKn8bOlQO1gakfDhyu1FN) | [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [No Worries](https://open.spotify.com/album/1mJMKjZhjvbqj1vsLq5OHT) | 3:01 | 2023-01-12 |  |
 | [Nostalgia](https://open.spotify.com/track/21huKjQlBFcumcRIwhFWG1) | [Teau](https://open.spotify.com/artist/6arVgorLsaKvsc3UfABGID), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Nostalgia](https://open.spotify.com/album/4HFk3XAwn2CwQb0i8Dw3xg) | 2:25 | 2023-01-12 |  |
 | [November Mist](https://open.spotify.com/track/1EbeTYCIUUApmpeDMwrqUD) | [LeVirya](https://open.spotify.com/artist/2ZTkcW4qIScKWuYhZlzopf), [gHSTS & gUITARS](https://open.spotify.com/artist/34DHE51D7CmCNvHp9nFTJy) | [November Mist](https://open.spotify.com/album/6wj3M8lH58h6ggzPvMjy7b) | 2:36 | 2023-01-12 | 2023-01-18 |
+| [Obrigado](https://open.spotify.com/track/5TgSbnEEKjhHBNcpMNXsiE) | [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF), [Jonah Brooks](https://open.spotify.com/artist/38Zp3DIfdT9K3kd65Unxfl) | [Obrigado](https://open.spotify.com/album/6iaonLGSDcCXwz4pv7BhXl) | 2:28 | 2023-02-23 |  |
 | [Offshore](https://open.spotify.com/track/4PzbSfedeciLUTHQ4e2xNo) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Offshore](https://open.spotify.com/album/6EbvFpsiICmHXYTHlHslke) | 2:57 | 2023-01-12 |  |
 | [Orange Dawn](https://open.spotify.com/track/5h849dbRZVoyMM4hwKG2Om) | [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Orange Dawn](https://open.spotify.com/album/32XqONQww8kzR6E6Of9xXe) | 2:01 | 2023-01-12 |  |
 | [Orilla Del Mar](https://open.spotify.com/track/4sshFtDRFl9ZxlxnJg2IWk) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Orilla Del Mar](https://open.spotify.com/album/6qjFjgMpi6nHlYAWx80XRl) | 2:38 | 2023-01-12 |  |

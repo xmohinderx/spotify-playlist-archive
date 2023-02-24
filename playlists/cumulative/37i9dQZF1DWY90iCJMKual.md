@@ -2,9 +2,9 @@
 
 ### [Pinas Vibes](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> Groove to the rhythm of OPM's R&B tunes\. Cover: Jason Dhakal
+> Groove to the rhythm of OPM's R&B tunes\. Cover: Alisson Shore
 
-90 songs - 5 hr 31 min
+94 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [alaskwatro y medya](https://open.spotify.com/track/280toQx99v54QvDxDGTAa6) | [Quatro](https://open.spotify.com/artist/0xLtaDZVH44ecTvHSUV7bX) | [alaskwatro y medya](https://open.spotify.com/album/3CGCSa2mqJoKiIJpULmFgf) | 3:16 | 2022-10-12 |  |
 | [All For You](https://open.spotify.com/track/4sJwP1KX1nLmGjIZjKWgSL) | [CJt](https://open.spotify.com/artist/5wMe42YSVxyFt6amGFPCbS) | [All For You](https://open.spotify.com/album/5malgaYrcA1cf4q6EoaP4G) | 3:33 | 2022-10-12 |  |
 | [Araw2x Gabi2x](https://open.spotify.com/track/5LrsVk1IzDBXkaUDL6PoDC) | [Zo zo](https://open.spotify.com/artist/0xyijUZwKlIH8yjj0OuDf6) | [Araw2x Gabi2x](https://open.spotify.com/album/5tCSAhDhtQZlvFXywZu7PZ) | 3:43 | 2022-10-12 |  |
+| [bb girl](https://open.spotify.com/track/4JkPVqYsg83oHC4VhSW37n) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c) | [bb girl](https://open.spotify.com/album/0WGdprszHqeEuOIu8F6t5D) | 3:13 | 2023-02-23 |  |
 | [BE KIND](https://open.spotify.com/track/49DQxYQV8e7HFzDLXJGTyf) | [Adjeng](https://open.spotify.com/artist/6YceEbx95WDXZNT8fKpKyi) | [BE KIND](https://open.spotify.com/album/0yaYlzdd5cRPPvX7xgajxm) | 3:24 | 2022-10-12 |  |
 | [Before You Leave My Heart](https://open.spotify.com/track/4SGJXiT5oEXsLCusmpS849) | [ANNA](https://open.spotify.com/artist/0kdRq6M9xM5QIw0NIfyEHN) | [Before You Leave My Heart](https://open.spotify.com/album/0eEAS5alAozUiNulHgx5bm) | 4:06 | 2022-10-12 |  |
 | [BETTERMAN](https://open.spotify.com/track/60jYOyxr1FHGFnofoIXPCq) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [GARUDA](https://open.spotify.com/album/4xyf45M38hJVUA0esmu7ks) | 4:50 | 2022-10-12 |  |
@@ -57,12 +58,14 @@
 | [Love Or Lust](https://open.spotify.com/track/4Nmo5m5ZBiPWDGqLuCTk23) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Love Or Lust](https://open.spotify.com/album/2YycMpmAokC9s0drh9tcnQ) | 2:57 | 2022-10-12 |  |
 | [lutang](https://open.spotify.com/track/6jB7cmxRuvf5QUxYl73q0o) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lutang](https://open.spotify.com/album/18ylPFUz9HeneeXkbcvoYv) | 4:32 | 2022-10-12 |  |
 | [Maikee's Letters](https://open.spotify.com/track/21XjtaAEZxurElfPGSKrv9) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF) | [Maikee's Letters](https://open.spotify.com/album/6Hd66jTMfgXgaItso2FfzJ) | 5:00 | 2022-10-12 |  |
+| [MANATILI](https://open.spotify.com/track/1Zfwa2mECtqzy3fd97kNm5) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [MANATILI](https://open.spotify.com/album/0RMKf66jtbEHpk5tskbfws) | 2:42 | 2023-02-23 |  |
 | [manila](https://open.spotify.com/track/3rEzXExcWwGTYJJhDBQBzn) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [manila](https://open.spotify.com/album/1mCWSwOaJOmHKyt3FAMyyJ) | 5:24 | 2022-12-14 |  |
 | [MRPK](https://open.spotify.com/track/0UdYNs08ZTqibIfnymqYPp) | [RAINA](https://open.spotify.com/artist/0TMW4pEBWFz1GZa0cGua0l), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [MRPK](https://open.spotify.com/album/3e6VpHi5NMjiBCGDdadyqd) | 3:38 | 2022-10-12 |  |
 | [Nakilala](https://open.spotify.com/track/5Qx8sgxnDQgMxJ3y2vStcU) | [KAISAI](https://open.spotify.com/artist/4EOmdPzt09dPEFC7IKz1Ei), [JC Torio](https://open.spotify.com/artist/0uoJZ8fHMx64axPxbkpCt7) | [Nakilala](https://open.spotify.com/album/50TXRjAq3Tcwi85343gOvG) | 3:45 | 2022-10-12 |  |
 | [Need It](https://open.spotify.com/track/3H1rKz5VQjsxHB8xUXAuDi) | [daze](https://open.spotify.com/artist/3mNnPqsHVbJSTxQtD74z4Z) | [Need It](https://open.spotify.com/album/01wGo5NysXJJyAnVIxykCL) | 3:53 | 2022-10-12 |  |
 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 | 2022-10-12 |  |
 | [O Luna](https://open.spotify.com/track/788LOVoDxwsB0OkdbQvTHd) | [JMKO](https://open.spotify.com/artist/1onz2fxn4zwyarm9FPVuyp) | [O Luna](https://open.spotify.com/album/0gkuV2JkdAnUUeipnd4BkC) | 3:42 | 2022-12-14 |  |
+| [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 | 2023-02-23 |  |
 | [On It](https://open.spotify.com/track/4Oa7hB0TLwbBOotG2Br45k) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9), [NER](https://open.spotify.com/artist/6QS2Yudp5FJMMVvrji5Rvs) | [On It](https://open.spotify.com/album/1Czy7pcqUGAfvtFYUIOnYt) | 3:32 | 2022-10-12 |  |
 | [PABORITO](https://open.spotify.com/track/3IXhldrCfWEMBu11FLPRZa) | [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr) | [PABORITO](https://open.spotify.com/album/2OHKhNRixy8JrMDJCHiLuI) | 3:36 | 2022-10-12 |  |
 | [Pahalik](https://open.spotify.com/track/7ibgKml0Zy5M4kU9zBdsvY) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [Curse One](https://open.spotify.com/artist/6TUcd6yXFC0qQ1xbaycJT4), [Vlync](https://open.spotify.com/artist/46QyyIgyd2KywJPeWAASA2) | [Pahalik](https://open.spotify.com/album/4DTQWoQA46pswKmobyuNd6) | 8:03 | 2022-10-12 |  |
@@ -82,6 +85,7 @@
 | [Runnin' Around](https://open.spotify.com/track/70kWaRixZM83Nh5zazGZHq) | [Austin Reine](https://open.spotify.com/artist/2jVVFmvJih0Myvu6FxQkvp), [LTD](https://open.spotify.com/artist/5sqYnMZWGPsvTH8pqzZ4SD), [CM Rosal](https://open.spotify.com/artist/4cTNBFExS8XBaznA30LRqr) | [Runnin' Around](https://open.spotify.com/album/6TVpWDZWHYVn0DSlW0T5V2) | 2:30 | 2022-10-12 |  |
 | [Sa Iyo \- Diwata](https://open.spotify.com/track/4jqKGlGuRDxV1Eyah6Brw3) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF) | [Sa Iyo \(Diwata\)](https://open.spotify.com/album/0AsdvGRMxu6mbVzGHgb7jy) | 4:12 | 2022-10-12 |  |
 | [Sabik](https://open.spotify.com/track/0NCkmYgdIkUd3iimgMHtfB) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Liwanag](https://open.spotify.com/album/3TvO2eqaYYjgzackJSY5rX) | 3:29 | 2022-10-12 |  |
+| [SABLAY](https://open.spotify.com/track/2ch6UhuJXbSTIpFBZgsU66) | [No Boys Please](https://open.spotify.com/artist/457xF0tijqFkLW4d4hxqrC) | [SABLAY](https://open.spotify.com/album/7cKaus2PC0X7Rp1zY3p83M) | 3:49 | 2023-02-23 |  |
 | [self talk](https://open.spotify.com/track/3h83G3DtJTNxYZrnvrEK2z) | [Annie Lux](https://open.spotify.com/artist/54vSGePBrdJojNSXh13DwN) | [self talk](https://open.spotify.com/album/0pXuT6nfO7jEPaG90OjBht) | 2:01 | 2022-10-12 |  |
 | [Silent Treatment](https://open.spotify.com/track/0BgSx63sdmzqSsP4zEW9WI) | [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [Silent Treatment](https://open.spotify.com/album/3OhiO7r9vLYMnFLaITRSCb) | 3:41 | 2022-10-12 |  |
 | [Simula](https://open.spotify.com/track/4ItjaAW8vi55Ne4Jrw0qJk) | [Emman](https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG), [Awi Columna](https://open.spotify.com/artist/1xWBSa1TYo94akyvwYs45r), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Simula](https://open.spotify.com/album/35BXvmX3MeFe1iUM1yKiOD) | 5:35 | 2022-10-12 |  |

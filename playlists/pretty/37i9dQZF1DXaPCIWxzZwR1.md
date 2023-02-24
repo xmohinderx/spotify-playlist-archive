@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop cover: Lauren Spencer Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,143 likes - 104 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,470 likes - 104 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

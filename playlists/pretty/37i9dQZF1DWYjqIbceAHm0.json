@@ -1,15 +1,127 @@
 {
   "description": "Meet the soundtrack and exclusive unreleased videos of JTBC's global idol audition 'Peak Time'! (JTBC\uc758 \uae00\ub85c\ubc8c \uc544\uc774\ub3cc \uc624\ub514\uc158 '\ud53c\ud06c\ud0c0\uc784'\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\uacfc \ub3c5\uc810 \ubbf8\uacf5\uac1c \uc601\uc0c1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 4505,
+  "num_followers": 5004,
   "original_name": "PEAK TIME (\ud53c\ud06c\ud0c0\uc784)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjUxOTgyMCwwMDAwMDAwMDZlZDYyOWFhNjIzOTQ0NjU3NmFkNTc5NzUzMzdhZjM2",
+  "snapshot_id": "MTY3NzEzMTUzNiwwMDAwMDAwMGZlMjc5M2Y5MmY0ZjdiZDEzYjQ2NTg0ODExNjBkYmM3",
   "tracks": [
     {
-      "added_at": "2023-02-16 03:57:00",
+      "added_at": "2023-02-23 05:52:16",
+      "album": {
+        "name": "PEAK TIME - 1Round <Rival match>Pt.1",
+        "url": "https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB"
+      },
+      "artists": [
+        {
+          "name": "TEAM 13:00",
+          "url": "https://open.spotify.com/artist/0MqblgPfwzTJ4xLiHdERfR"
+        }
+      ],
+      "duration_ms": 169506,
+      "name": "La Song",
+      "url": "https://open.spotify.com/track/5Sgu2I18iq4Ubva69D8uz4"
+    },
+    {
+      "added_at": "2023-02-23 05:52:16",
+      "album": {
+        "name": "PEAK TIME - 1Round <Rival match>Pt.1",
+        "url": "https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB"
+      },
+      "artists": [
+        {
+          "name": "TEAM 1:00",
+          "url": "https://open.spotify.com/artist/3kvzKuX7plRFwpdq5uTNGx"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "MAVERICK",
+      "url": "https://open.spotify.com/track/4Nzq4HQhbvTq5sC5ooBF2k"
+    },
+    {
+      "added_at": "2023-02-23 05:52:16",
+      "album": {
+        "name": "PEAK TIME - 1Round <Rival match>Pt.1",
+        "url": "https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB"
+      },
+      "artists": [
+        {
+          "name": "TEAM 4:00",
+          "url": "https://open.spotify.com/artist/43IAe1WtPCxgYCaRSmuP3U"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "Victory Song",
+      "url": "https://open.spotify.com/track/4ljZRhdhJhAMLCS2BNuakN"
+    },
+    {
+      "added_at": "2023-02-23 05:52:16",
+      "album": {
+        "name": "PEAK TIME - 1Round <Rival match>Pt.1",
+        "url": "https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB"
+      },
+      "artists": [
+        {
+          "name": "TEAM 11:00",
+          "url": "https://open.spotify.com/artist/2XUF60AnnDlkWIMybExYsc"
+        }
+      ],
+      "duration_ms": 166360,
+      "name": "Love Killa",
+      "url": "https://open.spotify.com/track/0mOyMG1lzvVoWFaUFtSfsH"
+    },
+    {
+      "added_at": "2023-02-23 05:52:16",
+      "album": {
+        "name": "PEAK TIME - 1Round <Rival match>Pt.1",
+        "url": "https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB"
+      },
+      "artists": [
+        {
+          "name": "TEAM 20:00",
+          "url": "https://open.spotify.com/artist/27N5dZt4aw2s3RDCaV5XWf"
+        }
+      ],
+      "duration_ms": 155386,
+      "name": "GO CRAZY!",
+      "url": "https://open.spotify.com/track/5sTmNrQOtnMTNlne4izk8z"
+    },
+    {
+      "added_at": "2023-02-23 05:52:16",
+      "album": {
+        "name": "PEAK TIME - 1Round <Rival match>Pt.1",
+        "url": "https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB"
+      },
+      "artists": [
+        {
+          "name": "TEAM 21:00",
+          "url": "https://open.spotify.com/artist/6QyGUa0TOtPvRpgXZl3kj5"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Very Good",
+      "url": "https://open.spotify.com/track/7JczxlJf6JYDQ8I0W02M0X"
+    },
+    {
+      "added_at": "2023-02-23 05:52:16",
+      "album": {
+        "name": "PEAK TIME - 1Round <Rival match>Pt.1",
+        "url": "https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB"
+      },
+      "artists": [
+        {
+          "name": "TEAM 23:00",
+          "url": "https://open.spotify.com/artist/3MkfOOCUo4pqJzdZv6YzrN"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/6LA7jsaedQXehK60jarEuu"
+    },
+    {
+      "added_at": "2023-02-23 05:52:16",
       "album": {
         "name": "PEAK TIME - Survival Round",
         "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
@@ -25,7 +137,7 @@
       "url": "https://open.spotify.com/track/0UMtPtJ6SSKbbiYmc8XwKa"
     },
     {
-      "added_at": "2023-02-16 03:57:00",
+      "added_at": "2023-02-23 05:52:16",
       "album": {
         "name": "PEAK TIME - Survival Round",
         "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
@@ -41,7 +153,7 @@
       "url": "https://open.spotify.com/track/38UMVwxbkrn2rD9f06d4ws"
     },
     {
-      "added_at": "2023-02-16 03:57:00",
+      "added_at": "2023-02-23 05:52:16",
       "album": {
         "name": "PEAK TIME - Survival Round",
         "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
@@ -57,7 +169,7 @@
       "url": "https://open.spotify.com/track/7tdDHP7ZyOjbTQuizyHI1c"
     },
     {
-      "added_at": "2023-02-16 03:57:00",
+      "added_at": "2023-02-23 05:52:16",
       "album": {
         "name": "PEAK TIME - Survival Round",
         "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
@@ -73,7 +185,7 @@
       "url": "https://open.spotify.com/track/3hTZba78tfUUkLmqznISeP"
     },
     {
-      "added_at": "2023-02-16 03:57:00",
+      "added_at": "2023-02-23 05:52:16",
       "album": {
         "name": "PEAK TIME - Survival Round",
         "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
@@ -89,7 +201,7 @@
       "url": "https://open.spotify.com/track/2RzArAk9SebsfvGsDYqIbH"
     },
     {
-      "added_at": "2023-02-16 03:57:00",
+      "added_at": "2023-02-23 05:52:16",
       "album": {
         "name": "PEAK TIME - Survival Round",
         "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
@@ -105,7 +217,7 @@
       "url": "https://open.spotify.com/track/3ne82NJ7MhkoxtbjDGhsnS"
     },
     {
-      "added_at": "2023-02-16 03:57:00",
+      "added_at": "2023-02-23 05:52:16",
       "album": {
         "name": "PEAK TIME - Survival Round",
         "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
@@ -121,7 +233,7 @@
       "url": "https://open.spotify.com/track/4eGfwECVEMiEJYlLwAQzzu"
     },
     {
-      "added_at": "2023-02-16 03:57:00",
+      "added_at": "2023-02-23 05:52:16",
       "album": {
         "name": "PEAK TIME - Survival Round",
         "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
@@ -137,7 +249,7 @@
       "url": "https://open.spotify.com/track/54yalx0ONuGj0mMyBNZxhm"
     },
     {
-      "added_at": "2023-02-16 03:57:00",
+      "added_at": "2023-02-23 05:52:16",
       "album": {
         "name": "PEAK TIME - Survival Round",
         "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"

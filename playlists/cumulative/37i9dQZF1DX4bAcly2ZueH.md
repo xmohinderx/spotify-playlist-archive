@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-114 songs - 6 hr 5 min
+115 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [wait a second](https://open.spotify.com/track/2ikAkH39VoCr9X1Xuf10CZ) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [wait a second](https://open.spotify.com/album/5lMUo3dIPTSojGJfgyOQZv) | 3:22 | 2022-10-11 |  |
 | [Walk \(Interlude\)](https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Scenery](https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2) | 2:47 | 2022-10-11 |  |
 | [when i think of you](https://open.spotify.com/track/68hcUgRL0STb26FmTyRSP9) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [when i think of you](https://open.spotify.com/album/7L2pJQGdQH14JCACTRaf0x) | 2:49 | 2022-10-11 |  |
-| [Wind](https://open.spotify.com/track/3LjGELUWmmnJErN3FeQPZL) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Before We Begin](https://open.spotify.com/album/4K7wiPGhUtsuqsSwi01cvG) | 2:43 | 2022-10-11 |  |
+| [Wind](https://open.spotify.com/track/3LjGELUWmmnJErN3FeQPZL) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Before We Begin](https://open.spotify.com/album/4K7wiPGhUtsuqsSwi01cvG) | 2:43 | 2022-10-11 | 2023-02-24 |
+| [Wind](https://open.spotify.com/track/3lcbXj3b9lMzfuGvQlznmN) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Before We Begin](https://open.spotify.com/album/01BChai4qQGpbKQeDXRi7K) | 2:43 | 2023-02-21 |  |
 | [Yokaze](https://open.spotify.com/track/7AxTszt3bSsWC81Qei0ODL) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Yokaze](https://open.spotify.com/album/1roXpyZ4hZzZBSL2Uw6q6L) | 2:32 | 2022-10-11 |  |
 | [yomichi](https://open.spotify.com/track/1LuJwCQCgT6qZSxRIeSkYj) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [yomichi](https://open.spotify.com/album/3oQXB5jYqCVUI5kmPQSidj) | 2:00 | 2022-10-11 |  |
 | [Yura Yura](https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yura Yura](https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd) | 2:18 | 2022-10-11 |  |

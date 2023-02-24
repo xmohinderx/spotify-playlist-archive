@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PP Krit",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: bamm",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -856,7 +856,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 207127,
       "name": "R U OK?",
       "url": "https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij"
@@ -958,6 +958,28 @@
       "duration_ms": 257877,
       "name": "SPARE \u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e01\u0e47\u0e21\u0e32\u0e19\u0e30",
       "url": "https://open.spotify.com/track/5jVORmIjCd1TtTKARCDmKC"
+    },
+    {
+      "album": {
+        "name": "SPIDERMAN",
+        "url": "https://open.spotify.com/album/2YzrYq11rFiivZ7jKck6Pk"
+      },
+      "artists": [
+        {
+          "name": "Timethai",
+          "url": "https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2"
+        },
+        {
+          "name": "Maiyarap",
+          "url": "https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "SPIDERMAN",
+      "url": "https://open.spotify.com/track/36ZiiKPdshTuQ1tj6eO92J"
     },
     {
       "album": {
@@ -1995,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "\u0e0a\u0e2d\u0e1a\u0e43\u0e2a\u0e48\u0e43\u0e08 (Just Curious)",
+        "url": "https://open.spotify.com/album/38OWVUcsVAJjPXUdgGUpNd"
+      },
+      "artists": [
+        {
+          "name": "bamm",
+          "url": "https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205185,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e43\u0e2a\u0e48\u0e43\u0e08 (Just Curious)",
+      "url": "https://open.spotify.com/track/4vfWaUic7KKrOUR7kWy6RO"
+    },
+    {
+      "album": {
         "name": "\u0e0a\u0e48\u0e27\u0e22\u0e44\u0e1b\u0e23\u0e31\u0e01\u0e04\u0e19\u0e19\u0e31\u0e49\u0e19\u0e17\u0e35",
         "url": "https://open.spotify.com/album/3DMY1Mw0COtkmRF70gOgnQ"
       },
@@ -2173,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "\u0e15\u0e31\u0e27\u0e15\u0e36\u0e07 (No.1) Feat.1Life",
+        "url": "https://open.spotify.com/album/6qCGUEFcpi4tz6So90xDFy"
+      },
+      "artists": [
+        {
+          "name": "bonnadol",
+          "url": "https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "\u0e15\u0e31\u0e27\u0e15\u0e36\u0e07 (No.1) Feat.1Life",
+      "url": "https://open.spotify.com/track/6nVi2WZlOE1XYhtYF4iAiQ"
+    },
+    {
+      "album": {
         "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
         "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
       },
@@ -2246,6 +2304,24 @@
       "duration_ms": 210060,
       "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e44\u0e1b\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23 - Even If",
       "url": "https://open.spotify.com/track/4op6zNw2RRdnNyXMNZ5i8g"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e01\u0e25 (Moon to Mars)",
+        "url": "https://open.spotify.com/album/6xglF99e8jnj5hfzpV2IQW"
+      },
+      "artists": [
+        {
+          "name": "OABNITHI",
+          "url": "https://open.spotify.com/artist/0POiRdWHPEPL1bhVAyLpAv"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204774,
+      "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e01\u0e25 (Moon to Mars)",
+      "url": "https://open.spotify.com/track/5GFLKQNrG9WULCp3AxDXyo"
     },
     {
       "album": {
@@ -2434,6 +2510,24 @@
       "duration_ms": 226696,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e42\u0e0a\u0e04\u0e23\u0e49\u0e32\u0e22\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01 - Let Me Love You",
       "url": "https://open.spotify.com/track/6ah5ZmdllIdUK0VAhkCLkN"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
+        "url": "https://open.spotify.com/album/0ZhtsjHqydKCTjeGt1SO1S"
+      },
+      "artists": [
+        {
+          "name": "Satang Kittiphop",
+          "url": "https://open.spotify.com/artist/6UfGTKUkDy6P5RhU1MNocv"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200259,
+      "name": "\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48 (No One Else Like Me) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
+      "url": "https://open.spotify.com/track/6zonXTdfQREJpP8ZdBrRhg"
     },
     {
       "album": {
@@ -2786,6 +2880,24 @@
       "duration_ms": 208421,
       "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e08\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/0PYR1D4eAi0k2fTDQZ019S"
+    },
+    {
+      "album": {
+        "name": "\u0e1b\u0e35\u0e19\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (From Future \u0e27\u0e34\u0e28\u0e27\u0e30\u0e2a\u0e38\u0e14\u0e2b\u0e25\u0e48\u0e2d\u0e01\u0e31\u0e1a\u0e04\u0e38\u0e13\u0e2b\u0e21\u0e2d\u0e02\u0e2d\u0e07\u0e1c\u0e21)",
+        "url": "https://open.spotify.com/album/4vOVnGAxp6ml513x1Ee4p0"
+      },
+      "artists": [
+        {
+          "name": "Bever Patsapon",
+          "url": "https://open.spotify.com/artist/4OV6Ord5kzWXZC2agBXlXK"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216610,
+      "name": "\u0e1b\u0e35\u0e19\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 - From Future \u0e27\u0e34\u0e28\u0e27\u0e30\u0e2a\u0e38\u0e14\u0e2b\u0e25\u0e48\u0e2d\u0e01\u0e31\u0e1a\u0e04\u0e38\u0e13\u0e2b\u0e21\u0e2d\u0e02\u0e2d\u0e07\u0e1c\u0e21",
+      "url": "https://open.spotify.com/track/4afl2R8ZC6lk3CUKkhD6dm"
     },
     {
       "album": {
@@ -3692,7 +3804,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 228270,
       "name": "\u0e2a\u0e34\u0e48\u0e07\u0e21\u0e2b\u0e31\u0e28\u0e08\u0e23\u0e23\u0e22\u0e4c\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e23\u0e39\u0e1b\u0e41\u0e1a\u0e1a (Unidentified Wonder)",
       "url": "https://open.spotify.com/track/6Y0JFB2V1spM9fKRsXWn07"
@@ -4132,7 +4244,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 199115,
       "name": "\u0e2d\u0e38\u0e4a\u0e22 \u0e04\u0e38\u0e13\u0e1e\u0e23\u0e30! (OMG) - \u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23 \u0e52\u0e54\u0e51\u0e50",
       "url": "https://open.spotify.com/track/7lot4QSMg4UH0xXRwAov6S"
@@ -4496,6 +4608,42 @@
       "duration_ms": 239333,
       "name": "\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49\u0e0a\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e40\u0e18\u0e2d (From KinnPorsche The Series)",
       "url": "https://open.spotify.com/track/0qKYQGK62HSNiSih00ySjL"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
+        "url": "https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS"
+      },
+      "artists": [
+        {
+          "name": "Gemini Norawit",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255957,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
+      "url": "https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e14\u0e35\u0e40\u0e14\u0e48\u0e19 (BEST FRIEND 4EVER)",
+        "url": "https://open.spotify.com/album/6ZmUUmhdfsGDdd1nUG0v7P"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207525,
+      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e14\u0e35\u0e40\u0e14\u0e48\u0e19 (BEST FRIEND 4EVER)",
+      "url": "https://open.spotify.com/track/0dB8mLoawZ04XoJRewGiqj"
     },
     {
       "album": {
@@ -4930,7 +5078,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 208666,
       "name": "\u0e41\u0e1f\u0e19\u0e41\u0e1f\u0e23\u0e4c - Dreamy",
       "url": "https://open.spotify.com/track/5SI3nhdadhXRWdPJ3S120A"
@@ -5032,7 +5180,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 200092,
       "name": "\u0e42\u0e04\u0e15\u0e23\u0e44\u0e21\u0e48\u0e41\u0e1f\u0e23\u0e4c (just friend)",
       "url": "https://open.spotify.com/track/14ka5GWsuyhdFk4X83YRij"
@@ -5162,6 +5310,28 @@
       "duration_ms": 228600,
       "name": "\u0e43\u0e08\u0e40\u0e01\u0e40\u0e23",
       "url": "https://open.spotify.com/track/0rDzLlocH57yvez6q3fSWK"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e08\u0e40\u0e1b\u0e34\u0e14\u0e43\u0e08 (LOVE MODE)",
+        "url": "https://open.spotify.com/album/4An6kyA574d2mmvDTkUhqx"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        },
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248372,
+      "name": "\u0e43\u0e08\u0e40\u0e1b\u0e34\u0e14\u0e43\u0e08 (LOVE MODE)",
+      "url": "https://open.spotify.com/track/4jXtIU0Bp44DDqeKapCQMP"
     },
     {
       "album": {
@@ -5566,6 +5736,36 @@
       "duration_ms": 240500,
       "name": "\u0e44\u0e2b\u0e19\u0e27\u0e30",
       "url": "https://open.spotify.com/track/59yg0a52VmCOWwEvRv191r"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
+        "url": "https://open.spotify.com/album/5sg51NEe1ZVhYZDGcqWUd9"
+      },
+      "artists": [
+        {
+          "name": "Fourth Nattawat",
+          "url": "https://open.spotify.com/artist/1O48F7zasjWhc5GodGPJEO"
+        },
+        {
+          "name": "Ford Arun",
+          "url": "https://open.spotify.com/artist/5JpHIeQ1qqASVEv1OJiMCe"
+        },
+        {
+          "name": "Satang Kittiphop",
+          "url": "https://open.spotify.com/artist/6UfGTKUkDy6P5RhU1MNocv"
+        },
+        {
+          "name": "Winny Thanawin",
+          "url": "https://open.spotify.com/artist/1TTINBa1uQSwPxqYpbBK43"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199130,
+      "name": "\u0e44\u0e2b\u0e25\u0e48\u0e40\u0e18\u0e2d (You\u2019ve Got Ma Back) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
+      "url": "https://open.spotify.com/track/55tvHtkqTwGaQtN44CFLV6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H"

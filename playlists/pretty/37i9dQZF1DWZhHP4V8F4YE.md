@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,392 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,417 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 34 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 |
 | 35 | [Cinderella](https://open.spotify.com/track/3S8DdOVdItdxl8wiSJbxqG) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Cityboy](https://open.spotify.com/artist/7nvcEfeWUdqDgE0SDvaULw), [Thomas the Great](https://open.spotify.com/artist/4DaWXLEMSsQWHrkshW0IDc), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [O’Kenneth](https://open.spotify.com/artist/2IlZ9ELZSszoF3eDvj0uKe) | [Cinderella](https://open.spotify.com/album/1XUuE6jXikxH60jgtQPLt1) | 3:52 |
 | 36 | [Look what you've done](https://open.spotify.com/track/7KuXYbVO5fi6Re3q0iJTEN) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Look what you've done](https://open.spotify.com/album/1VwL7Cjd9Bs7gDIKAQPbv9) | 8:48 |
-| 37 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/2lujnKdLiRVjcueFs648AW) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5qfhVKlZEaGiHFCZ86oKts) | 2:42 |
+| 37 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5y16jXfwpM8ZrZ2nnNRVlP) | 2:42 |
 | 38 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 |
 | 39 | [Puuh](https://open.spotify.com/track/4qMofi2HvTzvLEQ6EqywPP) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Puuh](https://open.spotify.com/album/6Y1kRLTcchAfHbb1XYgNWt) | 3:56 |
 | 40 | [Angela](https://open.spotify.com/track/6YBG1RnrZfdEH5EvcWP4YF) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Juicee Mann](https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ) | [Mawingu](https://open.spotify.com/album/67yuWyHBKoIcTlQLT72KQN) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Chitaki](https://open.spotify.com/track/5jCOopYA0S9mw18va3dRgU) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Chitaki](https://open.spotify.com/album/1pTjbJK5jXQ458VW7GAqFs) | 3:15 |
 | 50 | [As'Buyi](https://open.spotify.com/track/664758AecJTVoRYG9WtMMm) | [Sundé](https://open.spotify.com/artist/60kr2EOKIQC7t0KaK5KXvc), [ColKaze](https://open.spotify.com/artist/6BwaUlIzPKTS7LBXYBUub0) | [As'Buyi](https://open.spotify.com/album/3YXyhlW4X9nAUcqxHtsAXW) | 7:48 |
 
-Snapshot ID: `MTY3NjM4ODgxMCwwMDAwMDAwMDg4ZGNkOTFjMmZlZGE2OWU5ZTJjOWMzMDgzZDY5YjIw`
+Snapshot ID: `MTY3NjM4ODgxMCwwMDAwMDAwMDZlZDYzMTg4MDUxZjA0YzlmNTMzM2JmNmFjODRmZmU0`

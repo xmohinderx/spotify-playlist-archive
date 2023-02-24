@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
@@ -2730,7 +2730,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -3784,7 +3784,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -6920,7 +6920,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 180000,
       "name": "\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1, \u05d0\u05e0\u05d9 \u05de\u05db\u05d5\u05e8, \u05d0\u05e0\u05d9 \u05e9\u05e8\u05d5\u05e3",
       "url": "https://open.spotify.com/track/0SmY5bTuls1ccput6QhHSA"
@@ -7094,7 +7094,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 169846,
       "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9",
       "url": "https://open.spotify.com/track/3RBpmZJ0YG9abVBXI2U1UO"
@@ -7203,6 +7203,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d9\u05e8\u05d6",
+        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160531,
+      "name": "\u05d1\u05d5\u05dc \u05d1\u05d0\u05de\u05e6\u05e2",
+      "url": "https://open.spotify.com/track/3hT0G8V63sDpSYjkyJJJac"
+    },
+    {
+      "album": {
         "name": "\u05d1\u05d5\u05e7\u05e8 \u05d8\u05d5\u05d1 \u05e2\u05d5\u05dc\u05dd",
         "url": "https://open.spotify.com/album/0Xm7R9K1ITfGfdDlYICwXK"
       },
@@ -7280,7 +7298,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 151968,
       "name": "\u05d1\u05d9\u05d7\u05d3",
       "url": "https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M"
@@ -7360,6 +7378,24 @@
       "duration_ms": 198130,
       "name": "\u05d1\u05dc\u05d9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/5gZHvM9bgp1bZP7bnatmXd"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d9\u05e8\u05d6",
+        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140222,
+      "name": "\u05d1\u05dc\u05e0\u05e1\u05d9\u05d0\u05d2\u05d4",
+      "url": "https://open.spotify.com/track/3XWS8fmwWb5Nfs8vDcGz84"
     },
     {
       "album": {
@@ -7911,6 +7947,28 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d9\u05e8\u05d6",
+        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        },
+        {
+          "name": "Eden Ben Zaken",
+          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138805,
+      "name": "\u05d4\u05e4\u05e9\u05e2 \u05d4\u05de\u05d5\u05e9\u05dc\u05dd",
+      "url": "https://open.spotify.com/track/6kVmhOoBlMEH3WdxrLhjFB"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05e9\u05de\u05d9\u05d9\u05dd \u05e0\u05e2\u05d5\u05dc\u05d9\u05dd",
         "url": "https://open.spotify.com/album/4F6TTNzobqHLmu4FWrTr8M"
       },
@@ -8214,7 +8272,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 212661,
       "name": "\u05d7\u05d5\u05e8\u05e3 \u05d1\u05d7\u05dc\u05d5\u05df",
       "url": "https://open.spotify.com/track/4b5dVRUzTCy0ngxobUX2DG"
@@ -8466,6 +8524,28 @@
       "duration_ms": 203048,
       "name": "\u05d8\u05e8\u05d9\u05dc\u05d9\u05dc\u05d9 \u05d8\u05e8\u05dc\u05dc\u05d4",
       "url": "https://open.spotify.com/track/7hYZJ0COHvJxMx6tBSJ1T6"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d9\u05e8\u05d6",
+        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        },
+        {
+          "name": "Agam Buhbut",
+          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130692,
+      "name": "\u05d8\u05e8\u05e0\u05d8\u05d5\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/4py8ddBPFRTYqL3vbh2FXq"
     },
     {
       "album": {
@@ -9105,6 +9185,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d9\u05e8\u05d6",
+        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150874,
+      "name": "\u05dc\u05d4\u05d9\u05d8 \u05e9\u05dc \u05e9\u05d9\u05e8 \u05d0\u05d7\u05d3",
+      "url": "https://open.spotify.com/track/52Do4VrXDPuXZ1KH2TZcqw"
+    },
+    {
+      "album": {
         "name": "\u05d9\u05e6\u05d7\u05e7, \u05dc\u05d1\u05d3, \u05de\u05d7\u05d6\u05d9\u05e7 \u05de\u05e2\u05de\u05d3 - \u05d0\u05d5\u05e1\u05e3",
         "url": "https://open.spotify.com/album/37xgSs35rC7QczEFl8O9c7"
       },
@@ -9232,6 +9330,24 @@
       "duration_ms": 56720,
       "name": "\u05dc\u05d9\u05e6\u05df \u05e7\u05d8\u05df \u05e0\u05d7\u05de\u05d3",
       "url": "https://open.spotify.com/track/4IFQD1thQ2rgSgt5rXXqqp"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d9\u05e8\u05d6",
+        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195163,
+      "name": "\u05dc\u05d9\u05e8\u05d6",
+      "url": "https://open.spotify.com/track/50uspwzqbMxkpyHzMLwUVy"
     },
     {
       "album": {
@@ -9380,6 +9496,28 @@
       "duration_ms": 197481,
       "name": "\u05dc\u05e9\u05d5\u05d1 \u05d4\u05d1\u05d9\u05ea\u05d4",
       "url": "https://open.spotify.com/track/52n4gF126eIllrGuc9Zus6"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d9\u05e8\u05d6",
+        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        },
+        {
+          "name": "Itay Levi",
+          "url": "https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144701,
+      "name": "\u05dc\u05e9\u05d8\u05d5\u05e3 \u05d0\u05ea \u05d4\u05e2\u05d9\u05e0\u05d9\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/17vUXWH5DrZi961ZobcElf"
     },
     {
       "album": {
@@ -9608,7 +9746,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 153969,
       "name": "\u05de\u05d4 \u05e2\u05d5\u05d1\u05e8 \u05dc\u05da \u05d1\u05e8\u05d0\u05e9",
       "url": "https://open.spotify.com/track/6d8ZHsSyTg6ABLkWNCZdSy"
@@ -9746,6 +9884,24 @@
       "duration_ms": 268550,
       "name": "\u05de\u05d6\u05e8\u05d7 \u05e4\u05e8\u05d5\u05e2",
       "url": "https://open.spotify.com/track/7LqUeDojg7eFCqwMSsbEzF"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d9\u05e8\u05d6",
+        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140933,
+      "name": "\u05de\u05d7\u05d5\u05dc",
+      "url": "https://open.spotify.com/track/7FLWyTcWqdRXgfdfetlkGq"
     },
     {
       "album": {
@@ -10398,7 +10554,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 244939,
       "name": "\u05e1\u05d4\u05e8\u05d4",
       "url": "https://open.spotify.com/track/3uidHx3If1PWAOCMcCdkNH"
@@ -10442,6 +10598,24 @@
       "duration_ms": 197234,
       "name": "\u05e1\u05d5\u05e3 \u05e9\u05dc \u05db\u05dc \u05e1\u05d9\u05e4\u05d5\u05e8",
       "url": "https://open.spotify.com/track/52IzyboDKO3vFCWebuDd7e"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d9\u05e8\u05d6",
+        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142061,
+      "name": "\u05e1\u05d5\u05e4\u05e8\u05e1\u05d8\u05d0\u05e8\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/2IqNTJPqS8hbB4PUSDtxTF"
     },
     {
       "album": {
@@ -10905,6 +11079,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d9\u05e8\u05d6",
+        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154419,
+      "name": "\u05e2\u05dc \u05d4\u05e8\u05d0\u05e1\u05d9",
+      "url": "https://open.spotify.com/track/6F2z1AOAQaD7KiPc4PmtZL"
+    },
+    {
+      "album": {
         "name": "\u05e2\u05dc \u05de\u05d4 \u05d1\u05e0\u05d5\u05ea \u05d7\u05d5\u05e9\u05d1\u05d5\u05ea \u05d1\u05dc\u05d9\u05dc\u05d4",
         "url": "https://open.spotify.com/album/462wpJ2OhZmO2cdcgcwpyq"
       },
@@ -11220,7 +11412,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 163355,
       "name": "\u05e7\u05d5\u05e4\u05d9\u05d3\u05d5\u05df (Prod. By Triangle)",
       "url": "https://open.spotify.com/track/4W1G1xlxcirdtXosgsR0m0"
@@ -11369,6 +11561,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d9\u05e8\u05d6",
+        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114625,
+      "name": "\u05e8\u05d5\u05e0\u05d3\u05dc\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3"
+    },
+    {
+      "album": {
         "name": "\u05e8\u05d5\u05e6\u05d4 \u05e9\u05dc\u05d5\u05dd",
         "url": "https://open.spotify.com/album/3TsFkrLXnknyMa3GegwMOR"
       },
@@ -11474,7 +11684,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 190835,
       "name": "\u05e9\u05d5\u05d1",
       "url": "https://open.spotify.com/track/4D5BAc9GN5Q8r5LVO7mxBI"
@@ -11882,7 +12092,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 212963,
       "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
       "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"
@@ -11922,6 +12132,24 @@
       "duration_ms": 196824,
       "name": "\u05e9\u05e8\u05e7 \u05ea\u05d7\u05d9\u05d9\u05da",
       "url": "https://open.spotify.com/track/7vn9SIc4NraLuIMzUeCK2o"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d9\u05e8\u05d6",
+        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222343,
+      "name": "\u05ea\u05d7\u05e0\u05d5\u05e0\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/4FgSWdbZCkJwQ10XWJzH3X"
     },
     {
       "album": {

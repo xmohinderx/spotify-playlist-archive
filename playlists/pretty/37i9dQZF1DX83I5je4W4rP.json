@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1032835,
+  "num_followers": 1032879,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxNTAxOSwwMDAwMDAwMGUwZWVlNDVjMTVjZTgxMjZiNGJlN2FmZWFjMzc5NTcw",
+  "snapshot_id": "MTY2ODcxNTAxOSwwMDAwMDAwMDkzOTk2ZDhiMmRiNDUxZjQwMGJkMzg2OTI3YmNmYWI1",
   "tracks": [
     {
       "added_at": "2022-11-17 19:56:59",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-11-17 19:56:59",
       "album": {
-        "name": "The Clarence Greenwood Recordings",
-        "url": "https://open.spotify.com/album/4cmqFKgpFzSa6FDR1I3VFr"
-      },
-      "artists": [
-        {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Bullet and a Target",
-      "url": "https://open.spotify.com/track/3r7gP3kGBkldTrOO6ebMGy"
-    },
-    {
-      "added_at": "2022-11-17 19:56:59",
-      "album": {
         "name": "A Seafarer and the Infinite Dream",
         "url": "https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 196973,
       "name": "We'll Be Alright",
       "url": "https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r"
+    },
+    {
+      "added_at": "2022-11-17 19:56:59",
+      "album": {
+        "name": "The Clarence Greenwood Recordings",
+        "url": "https://open.spotify.com/album/4cmqFKgpFzSa6FDR1I3VFr"
+      },
+      "artists": [
+        {
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Bullet and a Target",
+      "url": "https://open.spotify.com/track/3r7gP3kGBkldTrOO6ebMGy"
     },
     {
       "added_at": "2022-11-17 19:56:59",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2022-11-17 19:56:59",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
+        "name": "Early Prayers",
+        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
       },
       "artists": [
         {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+          "name": "Tomorrows Bad Seeds",
+          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
         }
       ],
-      "duration_ms": 250397,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
+      "duration_ms": 166400,
+      "name": "Bad Seeds",
+      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
     },
     {
       "added_at": "2022-11-17 19:56:59",
@@ -1155,54 +1155,18 @@
     {
       "added_at": "2022-11-17 19:56:59",
       "album": {
-        "name": "Early Prayers",
-        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
-      },
-      "artists": [
-        {
-          "name": "Tomorrows Bad Seeds",
-          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Bad Seeds",
-      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
-    },
-    {
-      "added_at": "2022-11-17 19:56:59",
-      "album": {
-        "name": "If That's Ok",
-        "url": "https://open.spotify.com/album/72axqPlcPenA4cydmu4teu"
-      },
-      "artists": [
-        {
-          "name": "Bo Napoleon",
-          "url": "https://open.spotify.com/artist/2Iso1Lq3OVNEsZNjV20inO"
-        }
-      ],
-      "duration_ms": 196197,
-      "name": "If That's Ok",
-      "url": "https://open.spotify.com/track/7wQ9DeZTB7OJ8rnrxeUHSl"
-    },
-    {
-      "added_at": "2022-11-17 19:56:59",
-      "album": {
-        "name": "Way of Life (with Slightly Stoopid)",
-        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
       },
       "artists": [
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 253794,
-      "name": "Way of Life (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
+      "duration_ms": 250397,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
     },
     {
       "added_at": "2022-11-17 19:56:59",
@@ -1223,6 +1187,22 @@
       "duration_ms": 199506,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/3v5OftOHxaVpaaJ8NArHos"
+    },
+    {
+      "added_at": "2022-11-17 19:56:59",
+      "album": {
+        "name": "If That's Ok",
+        "url": "https://open.spotify.com/album/72axqPlcPenA4cydmu4teu"
+      },
+      "artists": [
+        {
+          "name": "Bo Napoleon",
+          "url": "https://open.spotify.com/artist/2Iso1Lq3OVNEsZNjV20inO"
+        }
+      ],
+      "duration_ms": 196197,
+      "name": "If That's Ok",
+      "url": "https://open.spotify.com/track/7wQ9DeZTB7OJ8rnrxeUHSl"
     },
     {
       "added_at": "2022-11-17 19:56:59",
@@ -1275,6 +1255,26 @@
       "duration_ms": 157084,
       "name": "Too Late (with Jared Watson of Dirty Heads)",
       "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
+    },
+    {
+      "added_at": "2022-11-17 19:56:59",
+      "album": {
+        "name": "Way of Life (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
     },
     {
       "added_at": "2022-11-17 19:56:59",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2022-11-17 19:56:59",
       "album": {
+        "name": "Born In Babylon",
+        "url": "https://open.spotify.com/album/4XylolsNO125zA2WtvpoXl"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+        }
+      ],
+      "duration_ms": 288863,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/1YerDWS5vQE35RjTe53CDR"
+    },
+    {
+      "added_at": "2022-11-17 19:56:59",
+      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/5Vbzak4krkKEs6ECqfKaTl"
       },
@@ -1679,26 +1699,6 @@
     {
       "added_at": "2022-11-17 19:56:59",
       "album": {
-        "name": "Kingdom (with The Movement)",
-        "url": "https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cosmic",
-          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
-        },
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        }
-      ],
-      "duration_ms": 282323,
-      "name": "Kingdom (with The Movement)",
-      "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
-    },
-    {
-      "added_at": "2022-11-17 19:56:59",
-      "album": {
         "name": "All The Colors",
         "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
       },
@@ -1719,22 +1719,22 @@
     {
       "added_at": "2022-11-17 19:56:59",
       "album": {
-        "name": "Beauty In The Silence",
-        "url": "https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9"
+        "name": "Kingdom (with The Movement)",
+        "url": "https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL"
       },
       "artists": [
         {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
         },
         {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
         }
       ],
-      "duration_ms": 304322,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY"
+      "duration_ms": 282323,
+      "name": "Kingdom (with The Movement)",
+      "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
     }
   ],
   "unique_name": "Beach Vibes",

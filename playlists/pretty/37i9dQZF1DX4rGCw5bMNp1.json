@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 122686,
+  "num_followers": 122733,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGFmZjg4Yzc4YjFkMDhmYzAyZGE5MzBkNjA1N2NiYWI0",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGJiZTY2MTBhYjFmYmI4YjBiNTc0ZDExNjc3NmYxNTgy",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -459,22 +459,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Ice Cream Man",
-      "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Blues Burnin' In My Soul",
         "url": "https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 233333,
       "name": "Driving Wheel",
       "url": "https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Ice Cream Man",
+      "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
     },
     {
       "added_at": "2018-02-27 18:08:29",

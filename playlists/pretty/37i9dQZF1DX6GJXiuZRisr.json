@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1448401,
+  "num_followers": 1448786,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGE2NTEzNDE0YjUzNzMxYzFjOWY1NTZiYTFiNWQ4Y2Ez",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGY3OTk5YTA1MGJlYTcwMDAxZTczNzZjYWU0OGY5ZWE5",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -921,6 +921,26 @@
       "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Turning Away",
+        "url": "https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 244543,
+      "name": "Turning Away",
+      "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
+    },
+    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Skyscrapers (Hi-Lo Remix)",
@@ -943,26 +963,6 @@
       "duration_ms": 296368,
       "name": "Skyscrapers - Hi-Lo Remix",
       "url": "https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Turning Away",
-        "url": "https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 244543,
-      "name": "Turning Away",
-      "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -989,6 +989,26 @@
       "url": "https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN"
     },
     {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz"
+      },
+      "artists": [
+        {
+          "name": "Super8 & Tab",
+          "url": "https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC"
+        },
+        {
+          "name": "Nazzereene",
+          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+        }
+      ],
+      "duration_ms": 234960,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ"
+    },
+    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "Unlovable",
@@ -1011,22 +1031,42 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz"
+        "name": "Out Of Reach",
+        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
       },
       "artists": [
         {
-          "name": "Super8 & Tab",
-          "url": "https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC"
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
         },
         {
-          "name": "Nazzereene",
-          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Sansa",
+          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
         }
       ],
-      "duration_ms": 234960,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ"
+      "duration_ms": 255991,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Fibonacci",
+        "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 188483,
+      "name": "Fibonacci",
+      "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1055,38 +1095,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Fibonacci",
-        "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 188483,
-      "name": "Fibonacci",
-      "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "To The Ground",
-        "url": "https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL"
-      },
-      "artists": [
-        {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
-        }
-      ],
-      "duration_ms": 233440,
-      "name": "To The Ground",
-      "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Offshore",
         "url": "https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6"
       },
@@ -1111,26 +1119,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Out Of Reach",
-        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
+        "name": "To The Ground",
+        "url": "https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL"
       },
       "artists": [
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Sansa",
-          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
         }
       ],
-      "duration_ms": 255991,
-      "name": "Out Of Reach",
-      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
+      "duration_ms": 233440,
+      "name": "To The Ground",
+      "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1199,6 +1199,30 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "The World You See",
+        "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Artche",
+          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
+        }
+      ],
+      "duration_ms": 217515,
+      "name": "The World You See",
+      "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Say Hello EP",
         "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
       },
@@ -1239,30 +1263,6 @@
       "duration_ms": 452000,
       "name": "To the Sea - Einmusik Remix",
       "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "The World You See",
-        "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Artche",
-          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
-        }
-      ],
-      "duration_ms": 217515,
-      "name": "The World You See",
-      "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Risky Business",
+        "url": "https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        }
+      ],
+      "duration_ms": 320853,
+      "name": "Risky Business",
+      "url": "https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "I / Y",
         "url": "https://open.spotify.com/album/0g0YKewBtW9livkmiAnCOH"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 354098,
       "name": "I / Y",
       "url": "https://open.spotify.com/track/4kZgxNJrexSsATXK1lQrQS"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Risky Business",
-        "url": "https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        }
-      ],
-      "duration_ms": 320853,
-      "name": "Risky Business",
-      "url": "https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Elamy",
+        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Elamy",
+      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "You Take My Hand",
         "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Elamy",
-        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
+        "name": "Tantrum",
+        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 278400,
-      "name": "Elamy",
-      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
+      "duration_ms": 229512,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Tantrum",
-        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 229512,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Should Have Seen It Coming",
         "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
       },
@@ -1487,6 +1487,30 @@
       "duration_ms": 238072,
       "name": "Should Have Seen It Coming",
       "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Strangers (with Mansionair) [Tinlicker Remix]",
+        "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        },
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 329349,
+      "name": "Strangers (with Mansionair) - Tinlicker Remix",
+      "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1515,26 +1539,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Strangers (with Mansionair) [Tinlicker Remix]",
-        "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        },
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
         }
       ],
-      "duration_ms": 329349,
-      "name": "Strangers (with Mansionair) - Tinlicker Remix",
-      "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
+      "duration_ms": 311280,
+      "name": "False Reactions",
+      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1551,22 +1567,6 @@
       "duration_ms": 245881,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "False Reactions",
-      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1633,22 +1633,6 @@
       "url": "https://open.spotify.com/track/1he0nibCzlDvB96EoJbbIZ"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Deep State",
-        "url": "https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo"
-      },
-      "artists": [
-        {
-          "name": "Grum",
-          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
-        }
-      ],
-      "duration_ms": 337500,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Club Vibes Part 02",
@@ -1663,6 +1647,22 @@
       "duration_ms": 470400,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Deep State",
+        "url": "https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo"
+      },
+      "artists": [
+        {
+          "name": "Grum",
+          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
+        }
+      ],
+      "duration_ms": 337500,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Spectacle",
-        "url": "https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1"
-      },
-      "artists": [
-        {
-          "name": "Estiva",
-          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
-        },
-        {
-          "name": "Dezza",
-          "url": "https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik"
-        }
-      ],
-      "duration_ms": 193563,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Rush (Miss Monique Remix)",
         "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 291840,
       "name": "Rush - Miss Monique Remix",
       "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Spectacle",
+        "url": "https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        },
+        {
+          "name": "Dezza",
+          "url": "https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik"
+        }
+      ],
+      "duration_ms": 193563,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1949,26 +1949,6 @@
       "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP"
-      },
-      "artists": [
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v"
-    },
-    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Gold",
@@ -1987,6 +1967,26 @@
       "duration_ms": 220644,
       "name": "Gold",
       "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP"
+      },
+      "artists": [
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v"
     },
     {
       "added_at": "2022-07-01 11:37:35",

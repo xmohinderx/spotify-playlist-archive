@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6926,
+  "num_followers": 6927,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMGZmZmY4ZTg3MTY5MzZlMTVkNjhhNjM5NzU0YjM2ZmY2",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDBiMmY3ZmVhOWM3MTI4MmMyMjZlNGNhNmE4M2E4NzRk",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -259,22 +259,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "That's A Plenty",
-        "url": "https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx"
-      },
-      "artists": [
-        {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Frankie & Johnny",
-      "url": "https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "New Orleans Preservation, Vol. 1",
         "url": "https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 266866,
       "name": "I Wish I Could Shimmy Like My Sister Kate",
       "url": "https://open.spotify.com/track/7Mk3l9pfGuMdEe0joNtAMH"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "That's A Plenty",
+        "url": "https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx"
+      },
+      "artists": [
+        {
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Frankie & Johnny",
+      "url": "https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -387,18 +387,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Triple Best Of",
-        "url": "https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY"
+        "name": "The Best Of The Dukes Of Dixieland (Formerly Titled : The Dukes Of Disneyland)",
+        "url": "https://open.spotify.com/album/22YuEc5U4KScFU7RiXDuCg"
       },
       "artists": [
         {
-          "name": "Sidney Bechet's Blue Note Jazzmen",
-          "url": "https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt"
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
         }
       ],
-      "duration_ms": 173133,
-      "name": "Weary Blues",
-      "url": "https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ"
+      "duration_ms": 389960,
+      "name": "Wolverine Blues",
+      "url": "https://open.spotify.com/track/37VAo2JMwa5ZC1S8ePWt76"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -419,34 +419,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Best Of The Dukes Of Dixieland (Formerly Titled : The Dukes Of Disneyland)",
-        "url": "https://open.spotify.com/album/22YuEc5U4KScFU7RiXDuCg"
+        "name": "Triple Best Of",
+        "url": "https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY"
       },
       "artists": [
         {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+          "name": "Sidney Bechet's Blue Note Jazzmen",
+          "url": "https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt"
         }
       ],
-      "duration_ms": 389960,
-      "name": "Wolverine Blues",
-      "url": "https://open.spotify.com/track/37VAo2JMwa5ZC1S8ePWt76"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Goes South!",
-        "url": "https://open.spotify.com/album/4e7OZWSm43uGotnZ4Js8lc"
-      },
-      "artists": [
-        {
-          "name": "Firehouse Five Plus Two",
-          "url": "https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg"
-        }
-      ],
-      "duration_ms": 220540,
-      "name": "Milenberg Joys",
-      "url": "https://open.spotify.com/track/0XVHUN98T5As7UgtEM4bQG"
+      "duration_ms": 173133,
+      "name": "Weary Blues",
+      "url": "https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -463,6 +447,22 @@
       "duration_ms": 285139,
       "name": "While We Danced at Mardi Gras",
       "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Goes South!",
+        "url": "https://open.spotify.com/album/4e7OZWSm43uGotnZ4Js8lc"
+      },
+      "artists": [
+        {
+          "name": "Firehouse Five Plus Two",
+          "url": "https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg"
+        }
+      ],
+      "duration_ms": 220540,
+      "name": "Milenberg Joys",
+      "url": "https://open.spotify.com/track/0XVHUN98T5As7UgtEM4bQG"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -567,8 +567,8 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Dukes At Disneyland",
-        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
+        "name": "More Best of the Dukes of Dixieland, Vol. 2",
+        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
         }
       ],
-      "duration_ms": 362973,
-      "name": "Royal Garden Blues",
-      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
+      "duration_ms": 135274,
+      "name": "Thunder & Blazes",
+      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -739,8 +739,8 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "More Best of the Dukes of Dixieland, Vol. 2",
-        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+        "name": "The Dukes At Disneyland",
+        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
         }
       ],
-      "duration_ms": 135274,
-      "name": "Thunder & Blazes",
-      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
+      "duration_ms": 362973,
+      "name": "Royal Garden Blues",
+      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -931,6 +931,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "The Best Of Dixieland Volume 1",
+        "url": "https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4"
+      },
+      "artists": [
+        {
+          "name": "Pete Fountain and The Kings Of Dixieland",
+          "url": "https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So"
+        }
+      ],
+      "duration_ms": 192783,
+      "name": "Washington Post March",
+      "url": "https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Jazz Chronicles: Frank Teschemacher, Vol. 1",
         "url": "https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 182906,
       "name": "Nobody's Sweetheart",
       "url": "https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Best Of Dixieland Volume 1",
-        "url": "https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4"
-      },
-      "artists": [
-        {
-          "name": "Pete Fountain and The Kings Of Dixieland",
-          "url": "https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So"
-        }
-      ],
-      "duration_ms": 192783,
-      "name": "Washington Post March",
-      "url": "https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q"
     },
     {
       "added_at": "2020-08-19 17:19:14",

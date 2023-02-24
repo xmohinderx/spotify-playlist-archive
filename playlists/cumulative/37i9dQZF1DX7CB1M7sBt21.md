@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-166 songs - 8 hr 5 min
+167 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,9 @@
 | [Bittersweet Symphony](https://open.spotify.com/track/6GnNvwJA1VTkoZoyTy6s3L) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony](https://open.spotify.com/album/7pUaNZP0gMjGRCrceqjLWh) | 3:14 | 2022-07-28 | 2022-11-01 |
 | [Bittersweet Symphony \(feat\. Emily Roberts\)](https://open.spotify.com/track/6sYJuVcEu4gFHmeTLdHzRz) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony \(feat\. Emily Roberts\)](https://open.spotify.com/album/4kFCmKMq1c6gl8eema7wkg) | 3:14 | 2021-11-19 | 2022-07-28 |
 | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF) | 3:34 | 2022-07-28 |  |
+| [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 | 2023-02-23 |  |
 | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC) | 3:25 | 2022-07-28 |  |
-| [Boom Boom Boom Boom](https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Amfree](https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE), [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2) | [Boom Boom Boom Boom](https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj) | 2:08 | 2021-11-19 |  |
+| [Boom Boom Boom Boom](https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Amfree](https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE), [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2) | [Boom Boom Boom Boom](https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj) | 2:08 | 2021-11-19 | 2023-02-24 |
 | [Brave](https://open.spotify.com/track/0GRoERSBBky3YgdKW2w2Vc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Brave](https://open.spotify.com/album/1vlt3ZZeHbtRWKOFu45TEJ) | 3:04 | 2021-11-19 |  |
 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 | 2021-11-19 |  |
 | [Close Your Eyes](https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Close Your Eyes](https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE) | 2:40 | 2021-11-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Insite en portada.",
-  "num_followers": 140692,
+  "num_followers": 140747,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5Nzk2MywwMDAwMDAwMDNlNDNkNjQ0MDBmYzg0NjMyYWMzZjUwZjIyMTk2N2Qy",
+  "snapshot_id": "MTY3Njk5Nzk2MywwMDAwMDAwMDFkYmY1MTdjODdjZjgyOWFjN2UwYWVhMzhlNzMwYjgx",
   "tracks": [
     {
       "added_at": "2023-02-10 06:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6LZH2ZMcWga84SGDCI5vKk"
     },
     {
-      "added_at": "2023-02-23 01:12:26",
+      "added_at": "2023-02-24 01:01:17",
       "album": {
         "name": "Amantes - Su Majestad La Eternidad",
         "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
@@ -941,20 +941,20 @@
       "url": "https://open.spotify.com/track/1yfUatJAVvmmZh5sJyW3Re"
     },
     {
-      "added_at": "2022-08-09 02:12:39",
+      "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Demasiado Bien",
-        "url": "https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR"
+        "name": "Descending To Nowhere",
+        "url": "https://open.spotify.com/album/40x1FfDLWrqgts1sZq6xyt"
       },
       "artists": [
         {
-          "name": "Los Blenders",
-          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
         }
       ],
-      "duration_ms": 219707,
-      "name": "Demasiado Bien",
-      "url": "https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B"
+      "duration_ms": 209480,
+      "name": "Descending To Nowhere",
+      "url": "https://open.spotify.com/track/2VekSimbB6RVkb1Der7qXG"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -973,6 +973,22 @@
       "url": "https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW"
     },
     {
+      "added_at": "2022-08-09 02:12:39",
+      "album": {
+        "name": "Demasiado Bien",
+        "url": "https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        }
+      ],
+      "duration_ms": 219707,
+      "name": "Demasiado Bien",
+      "url": "https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B"
+    },
+    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "La Tregua",
@@ -987,22 +1003,6 @@
       "duration_ms": 232605,
       "name": "La Tregua",
       "url": "https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx"
-    },
-    {
-      "added_at": "2022-08-13 00:31:24",
-      "album": {
-        "name": "Amygdalae / IQ Test",
-        "url": "https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf"
-      },
-      "artists": [
-        {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
-        }
-      ],
-      "duration_ms": 140117,
-      "name": "Amygdalae",
-      "url": "https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -1021,20 +1021,20 @@
       "url": "https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ"
     },
     {
-      "added_at": "2023-02-17 06:00:00",
+      "added_at": "2022-08-13 00:31:24",
       "album": {
-        "name": "Descending To Nowhere",
-        "url": "https://open.spotify.com/album/40x1FfDLWrqgts1sZq6xyt"
+        "name": "Amygdalae / IQ Test",
+        "url": "https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf"
       },
       "artists": [
         {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
         }
       ],
-      "duration_ms": 209480,
-      "name": "Descending To Nowhere",
-      "url": "https://open.spotify.com/track/2VekSimbB6RVkb1Der7qXG"
+      "duration_ms": 140117,
+      "name": "Amygdalae",
+      "url": "https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
+        "name": "Fierrro",
+        "url": "https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 234199,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3oA2dvG9iNJY865qSHWekF"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
         "name": "Tu Tiempo",
         "url": "https://open.spotify.com/album/6wGQJhl5Dvm0vgwGvJTsKp"
       },
@@ -1089,20 +1105,20 @@
       "url": "https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR"
     },
     {
-      "added_at": "2022-07-22 17:47:39",
+      "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Fierrro",
-        "url": "https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i"
+        "name": "SKI MASK",
+        "url": "https://open.spotify.com/album/6vAusNXjnthnTkdhiUmZJ1"
       },
       "artists": [
         {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+          "name": "Los Dynamite",
+          "url": "https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9"
         }
       ],
-      "duration_ms": 234199,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3oA2dvG9iNJY865qSHWekF"
+      "duration_ms": 152500,
+      "name": "SKI MASK",
+      "url": "https://open.spotify.com/track/4aIzM6AfjTQ5OFglIB5b5a"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -1121,22 +1137,6 @@
       "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
     },
     {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
-        "name": "Muerte en el Jard\u00edn Bot\u00e1nico",
-        "url": "https://open.spotify.com/album/1xtbJb0nDQuoex12w7yILl"
-      },
-      "artists": [
-        {
-          "name": "Los Blenders",
-          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
-        }
-      ],
-      "duration_ms": 266347,
-      "name": "Muerte en el Jard\u00edn Bot\u00e1nico",
-      "url": "https://open.spotify.com/track/4HJtmS8JXnrR521Szn3RUE"
-    },
-    {
       "added_at": "2022-11-25 06:00:00",
       "album": {
         "name": "Hasta Las Hifas, Un Micelio",
@@ -1153,6 +1153,22 @@
       "url": "https://open.spotify.com/track/0uffqqc4l1AUbtD2RZRftb"
     },
     {
+      "added_at": "2022-12-16 06:00:00",
+      "album": {
+        "name": "Muerte en el Jard\u00edn Bot\u00e1nico",
+        "url": "https://open.spotify.com/album/1xtbJb0nDQuoex12w7yILl"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        }
+      ],
+      "duration_ms": 266347,
+      "name": "Muerte en el Jard\u00edn Bot\u00e1nico",
+      "url": "https://open.spotify.com/track/4HJtmS8JXnrR521Szn3RUE"
+    },
+    {
       "added_at": "2022-08-19 01:13:45",
       "album": {
         "name": "Instinto Felino",
@@ -1167,22 +1183,6 @@
       "duration_ms": 187658,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "SKI MASK",
-        "url": "https://open.spotify.com/album/6vAusNXjnthnTkdhiUmZJ1"
-      },
-      "artists": [
-        {
-          "name": "Los Dynamite",
-          "url": "https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "SKI MASK",
-      "url": "https://open.spotify.com/track/4aIzM6AfjTQ5OFglIB5b5a"
     },
     {
       "added_at": "2023-02-08 02:52:30",
@@ -1233,20 +1233,20 @@
       "url": "https://open.spotify.com/track/2v1Oi3AGWynVMJJLqUYte8"
     },
     {
-      "added_at": "2022-07-22 17:47:39",
+      "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "Lluvia de Fuego",
-        "url": "https://open.spotify.com/album/1Wp3tH8FxE60ofdJWAP106"
+        "name": "1990",
+        "url": "https://open.spotify.com/album/6y8BQ6Ba9N4FArTZOY1Kcq"
       },
       "artists": [
         {
-          "name": "Leonardo de Lozanne",
-          "url": "https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N"
+          "name": "Los Dynamite",
+          "url": "https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9"
         }
       ],
-      "duration_ms": 207573,
-      "name": "Lluvia de Fuego",
-      "url": "https://open.spotify.com/track/0xcGGpruM3gbxMtZjyWp1E"
+      "duration_ms": 200500,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/2U3iVgnEYikbslI2pZEEHp"
     }
   ],
   "unique_name": "EL ROCK NO HA MUERTO",

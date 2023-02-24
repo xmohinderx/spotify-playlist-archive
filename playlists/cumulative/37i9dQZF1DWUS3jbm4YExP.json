@@ -2033,6 +2033,24 @@
     },
     {
       "album": {
+        "name": "Descending To Nowhere",
+        "url": "https://open.spotify.com/album/40x1FfDLWrqgts1sZq6xyt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209480,
+      "name": "Descending To Nowhere",
+      "url": "https://open.spotify.com/track/2VekSimbB6RVkb1Der7qXG"
+    },
+    {
+      "album": {
         "name": "\u2026dreaming in lions\u2026",
         "url": "https://open.spotify.com/album/0pkU2fBus3YM1SgsaXcpj3"
       },
@@ -2926,6 +2944,24 @@
       "duration_ms": 350600,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/60lRT01X553ode0LvndRf0"
+    },
+    {
+      "album": {
+        "name": "Existe Uma Voz",
+        "url": "https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "Existe Uma Voz",
+      "url": "https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt"
     },
     {
       "album": {
@@ -4020,7 +4056,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 256490,
       "name": "How It Goes",
       "url": "https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4"
@@ -5164,7 +5200,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 232946,
       "name": "Las Panteras",
       "url": "https://open.spotify.com/track/78wov1rtJdf7ZnPNNXBDWY"

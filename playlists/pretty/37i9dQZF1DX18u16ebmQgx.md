@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 
 > ¡Brillando baldosa! Foto: Juan Carlos Ensamble
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,518 likes - 65 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,557 likes - 65 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 | 23 | [Negrita](https://open.spotify.com/track/3Jo2SW9CXnKN5HKm8l1kaP) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Si Tú Quieres Salsa Lado B](https://open.spotify.com/album/7CcqaYJ0cit9w1z66pXcbn) | 4:00 |
 | 24 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:57 |
 | 25 | [Devórame Otra Vez](https://open.spotify.com/track/1JOaoxY1MAPUg41HvDW2vu) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Tributo 7 / 80](https://open.spotify.com/album/0BOyJjTxR09DlNQxIV292R) | 4:16 |
-| 26 | [Manyoma](https://open.spotify.com/track/3TA9nq749Dfq7VwirwPuiJ) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 4:08 |
+| 26 | [Manyoma](https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:08 |
 | 27 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Auténtico](https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD) | 4:39 |
 | 28 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
 | 29 | [La Semilla](https://open.spotify.com/track/2AiboEBJGdThK0EiQwmvT7) | [Manteca Blue & the Latin Corner](https://open.spotify.com/artist/1lMoNvClPMQzDJ0vZK8Fys), [Marcial Istúriz](https://open.spotify.com/artist/3g4HfF9u5onPeMymTTPUNx) | [La Semilla](https://open.spotify.com/album/1nUMlgzPbxhdjGXOnm4r7K) | 4:53 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 | 64 | [Maria Canela](https://open.spotify.com/track/2AzJDIs4hDFvARTcTRGj0a) | [Cesar Mora](https://open.spotify.com/artist/0xR68AyQA5b3scD6PB8RPS) | [Hacerlo Bien](https://open.spotify.com/album/2hBVT5RuHoYHdfBAhxhPdd) | 5:02 |
 | 65 | [Barranquillero Arrebatao](https://open.spotify.com/track/1sRY0Zez8RbxqsxzEWjNLg) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Grandes Exitos de Salsa, Vol\. 2](https://open.spotify.com/album/2htqg9e6AGwnIoVc0kceDU) | 4:20 |
 
-Snapshot ID: `MTY2OTk1NzkyMCwwMDAwMDAwMGFjMDM1MDY0MDZiZWU3OTBmMGFhOWQ3ZDc2MzRhZTJh`
+Snapshot ID: `MTY2OTk1NzkyMCwwMDAwMDAwMDdmOTA0ZmU1M2U0ODRiODllYTgxZDkwYzA2NTkzYWNh`

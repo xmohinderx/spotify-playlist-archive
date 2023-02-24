@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: Janelle Monae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,770,480 likes - 105 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,770,600 likes - 105 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

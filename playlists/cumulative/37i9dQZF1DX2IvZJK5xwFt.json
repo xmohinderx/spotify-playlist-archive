@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Only the best rock in the world. Cover: Linkin Park",
+  "description": "Only the best rock in the world. Cover: <a href=\"spotify:artist:6XyY86QOPPrYVGvF9ch6wz\">Linkin Park</a>",
   "name": "Just Rock!",
   "tracks": [
     {
@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 144676,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/1v0PrbGuumgytx0OTUbE06"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 123033,
       "name": "Darkness Turns to Light (Opening Theme Song) [From \"Beyblade Burst QuadStrike\"]",
       "url": "https://open.spotify.com/track/6J9DuvcPLzivD98KsXSJHu"
@@ -1952,20 +1952,12 @@
         {
           "name": "100 gecs",
           "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
         }
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 187944,
+      "duration_ms": 187373,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
     },
@@ -2501,6 +2493,24 @@
     },
     {
       "album": {
+        "name": "Light and Darkness",
+        "url": "https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o"
+    },
+    {
+      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/0uAuIWSSbAmIxK4omHsljd"
       },
@@ -2664,6 +2674,24 @@
       "duration_ms": 205679,
       "name": "Lux \u00c6terna",
       "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
+    },
+    {
+      "album": {
+        "name": "Made for This",
+        "url": "https://open.spotify.com/album/40YpVheniI00eule8IJybn"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Made for This",
+      "url": "https://open.spotify.com/track/7treOsBGFjH7NI7xGAA6OW"
     },
     {
       "album": {
@@ -3234,7 +3262,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 216374,
       "name": "One - Songs Of Surrender",
       "url": "https://open.spotify.com/track/75afCBeMaRgeOZDe2Eyxrd"
@@ -3426,6 +3454,24 @@
       "duration_ms": 265013,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/14wSiOY3ZjskXuFj4xiEAD"
+    },
+    {
+      "album": {
+        "name": "POS",
+        "url": "https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133882,
+      "name": "POS",
+      "url": "https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL"
     },
     {
       "album": {
@@ -4011,6 +4057,24 @@
     },
     {
       "album": {
+        "name": "Lighting Up The Sky",
+        "url": "https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245099,
+      "name": "Soul On Fire",
+      "url": "https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf"
+    },
+    {
+      "album": {
         "name": "Spillways [Feat. Joe Elliott]",
         "url": "https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91"
       },
@@ -4510,7 +4574,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 395716,
       "name": "The Summoning",
       "url": "https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ"

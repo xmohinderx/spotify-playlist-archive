@@ -4,7 +4,7 @@
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Latto
 
-195 songs - 9 hr 33 min
+196 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 | 2023-01-13 |  |
 | [Rhapsody In Pink](https://open.spotify.com/track/4joYxRhYy1p4w4OQbDaMpj) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Rhapsody In Pink](https://open.spotify.com/album/2ziKz4DZVVLhJhzT6kOHD3) | 2:59 | 2022-07-29 |  |
 | [RICKY BOBBY](https://open.spotify.com/track/5LkGZGwO6m7j08SNTEXmpA) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [RICKY BOBBY](https://open.spotify.com/album/7IKiLi3SFxIzaIWECNGIe2) | 2:37 | 2022-06-03 | 2023-02-05 |
+| [Ridgemont Baby](https://open.spotify.com/track/24auUYE1W2wQmHiOqJSBhy) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Ridgemont Baby](https://open.spotify.com/album/0v8C3sUbtUgFKBBuQc3nBD) | 2:41 | 2023-02-10 |  |
 | [Right Now](https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Right Now](https://open.spotify.com/album/3Lk51jNfQewZIGuTvvE8uk) | 3:12 | 2022-06-03 | 2022-11-05 |
 | [Roaring 20s](https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Roaring 20s](https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af) | 2:09 | 2022-06-03 | 2022-11-05 |
 | [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 | 2023-02-10 |  |

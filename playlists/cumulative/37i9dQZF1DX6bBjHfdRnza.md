@@ -4,7 +4,7 @@
 
 > The best new dance & electronic by independent artists and labels\. Cover: Surusinghe\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-1,039 songs - 3 day 1 hr 1 min
+1,041 songs - 3 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Dolphins](https://open.spotify.com/track/5iCdrQeErNBesburqgqhbe) | [Of Norway](https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz) | [Dolphins](https://open.spotify.com/album/65jccYezjPhiuloRAKjE5P) | 6:19 | 2022-06-29 | 2022-08-25 |
 | [Don't Go \- Edit](https://open.spotify.com/track/16op1pIObrpe67455ckG8d) | [Amy Dabbs](https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl) | [Don't Go \(Edit\)](https://open.spotify.com/album/4uiJCOfsEzb5mkSiQQ2spi) | 4:20 | 2022-08-31 | 2022-10-13 |
 | [Don't Let](https://open.spotify.com/track/6YXztvAY2tFco3cQa3Gqc9) | [Daniele Cognata](https://open.spotify.com/artist/3282tyUgTCt96bPWp8fw3X) | [Don't Let](https://open.spotify.com/album/3nuB5wV9BbV87tcAPrzVZ0) | 2:48 | 2022-03-23 | 2022-06-09 |
+| [Don't Stop](https://open.spotify.com/track/0JGNqV7wG1Jqww28laD43l) | [Ben Tov](https://open.spotify.com/artist/5YXYUBkgA0rDRZ0qwX1hF3) | [Don't Stop](https://open.spotify.com/album/1jfz87kwoYYsNVKZQmJHiF) | 6:26 | 2023-02-22 |  |
 | [Don't Stop](https://open.spotify.com/track/2AweUWqpmHHFgXDPGPiB95) | [Brocofski](https://open.spotify.com/artist/0ZDmmQEgQZ0AVY2OQ1f0LV) | [Don't Stop](https://open.spotify.com/album/5h8falyV4Z3YB590oaCSNV) | 2:54 | 2022-07-27 | 2022-10-06 |
 | [Don't Wanna Hear It \- Radio Edit](https://open.spotify.com/track/5KUsaLMIpvXUlgvsEgOGJg) | [Tilman](https://open.spotify.com/artist/7aFxKbiPGJHNrcrGuKW5X9) | [Don't Wanna Hear It](https://open.spotify.com/album/2Xysmi7PeQWbOMzrCuZ7Zt) | 3:53 | 2022-02-23 | 2022-04-28 |
 | [DoNe WIth U](https://open.spotify.com/track/0eLSVeBu5fdxT4W0k316OK) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [DoNe WIth U](https://open.spotify.com/album/2KBV2mmv8BboYNMIm2H6nl) | 3:19 | 2022-06-29 | 2022-07-21 |
@@ -460,7 +461,7 @@
 | [Hydraulic Temperature](https://open.spotify.com/track/5FSKhkVTYtKoE8WztnWIK1) | [Frankel & Harper](https://open.spotify.com/artist/02G23wiVWJ9W9DRNL2plup) | [Tortilla Flex](https://open.spotify.com/album/1b13231Wc1yCzMLgc3EqcQ) | 5:47 | 2021-10-27 | 2022-01-27 |
 | [Hymn](https://open.spotify.com/track/1v2jFLpXe18CqSMhoCTwzN) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg) | [Hymn EP](https://open.spotify.com/album/7zm4nHUqUFvw1ELqgzUKIc) | 4:01 | 2022-07-06 | 2022-08-04 |
 | [Hyperreal](https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [It's All Fiction](https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7) | 4:16 | 2022-11-30 | 2023-01-19 |
-| [Hypnotic](https://open.spotify.com/track/1NAUnoSJv0bDHC8wyQ8J8Q) | [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Hypnotic](https://open.spotify.com/album/4Qp1yUWzjj0J9Lm6FxjxaI) | 4:45 | 2023-02-22 |  |
+| [Hypnotic](https://open.spotify.com/track/1NAUnoSJv0bDHC8wyQ8J8Q) | [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Hypnotic](https://open.spotify.com/album/4Qp1yUWzjj0J9Lm6FxjxaI) | 4:45 | 2023-02-22 | 2023-02-24 |
 | [hypnotize me \(MAC Hypnotizing Holiday\)](https://open.spotify.com/track/4RYcN3G71xtFR2XnUqKjWR) | [staysie atoms](https://open.spotify.com/artist/6q6WHn4XUvFiS5sx3dFHHd) | [hypnotize me \(MAC Hypnotizing Holiday\)](https://open.spotify.com/album/5UCF2hkqBluvTFxcR29OPq) | 1:37 | 2022-03-04 | 2022-04-14 |
 | [I Ain't A Freak](https://open.spotify.com/track/0wzUOwnyjy838JD1GYOnT4) | [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1), [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [I Ain't A Freak](https://open.spotify.com/album/6LLmWZnxxeilK2ZCjyDhqf) | 3:24 | 2022-08-10 | 2022-10-06 |
 | [I AM DRUGS](https://open.spotify.com/track/1pUDoHG6GWmMtGCcBdlWED) | [Fei\-Fei](https://open.spotify.com/artist/5JXS13q07rUqMWcgQeQXCM) | [I AM DRUGS](https://open.spotify.com/album/7f70nMbwk1rgT68P5Olcde) | 6:34 | 2023-02-02 |  |
@@ -524,6 +525,7 @@
 | [Katsu](https://open.spotify.com/track/3CXeZhnzVnDUkIX1VZd217) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v), [James Dexter](https://open.spotify.com/artist/7GwCNTWgIGOdOX5vXRsht4) | [Katsu](https://open.spotify.com/album/4Ele6mco1jusejMe1kKSmW) | 6:12 | 2022-05-18 | 2022-07-28 |
 | [Keep It Up](https://open.spotify.com/track/5Jul5AvR2cTOjYSpgfzG0c) | [DJ Crisps](https://open.spotify.com/artist/0rgmU5SJvHMWARMPDL6b80) | [Keep It Up](https://open.spotify.com/album/4l8hjfPNhj7CKnpWJBHInq) | 5:58 | 2022-04-13 | 2022-05-19 |
 | [KEEP ON](https://open.spotify.com/track/1oDKZDNdLMnxJk9DVFalDc) | [FRASER](https://open.spotify.com/artist/5BflqluOfNQb1hofbNsySr) | [KEEP ON](https://open.spotify.com/album/4Hf8VNUHfVlBZxoolXuCLk) | 3:34 | 2023-02-15 |  |
+| [Keep Steppin' \- Edit](https://open.spotify.com/track/1W0zwnsYEQ32g4fUKFLRmP) | [Yesca](https://open.spotify.com/artist/0ZZlysmyFhg3yT6Pupdsff) | [Keep Steppin' \(Edit\)](https://open.spotify.com/album/6NmIhGRXp8bULIvhdhvd03) | 3:57 | 2023-02-22 |  |
 | [Keep You As A Memory](https://open.spotify.com/track/0xDXJKshFXRGTNCJcnj9rP) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [Keep You As A Memory](https://open.spotify.com/album/0hIcGSIF4DiYLeQpSyQnxL) | 3:02 | 2022-10-12 | 2022-12-01 |
 | [Kenja](https://open.spotify.com/track/3BQvBDejWb1on79eeB9jEp) | [Kakura](https://open.spotify.com/artist/7xtxaYQdbT8wE2d5ZYoqMz) | [Kenja](https://open.spotify.com/album/09gPgKnfRzsHEa4FI6rJ4i) | 7:29 | 2023-01-11 | 2023-02-16 |
 | [Kenja \- Original Mix](https://open.spotify.com/track/120z5rJl6YbN2dWgvfYpoj) | [Kakura](https://open.spotify.com/artist/7xtxaYQdbT8wE2d5ZYoqMz), [M\-Sol DEEP](https://open.spotify.com/artist/2j1S4kLH9gewTyJiGYbDCm) | [Kenja](https://open.spotify.com/album/0NAGnOpKnVcTO1ZwRcdTpQ) | 7:29 | 2023-01-11 | 2023-01-27 |
@@ -762,7 +764,7 @@
 | [Pressurized](https://open.spotify.com/track/1SmlpzSJLpt3puZ9Zv3zTo) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Pressurized](https://open.spotify.com/album/1PiYQn2LWd1S5EFZhCNqOe) | 2:16 | 2022-01-12 | 2022-02-24 |
 | [Prismatic](https://open.spotify.com/track/2rg5tXAdAKWHLycDsVkDE9) | [Gibson Parker](https://open.spotify.com/artist/7pmS98qub9BnSfqTHvogQD) | [Prismatic](https://open.spotify.com/album/4qpTDZzBL3IqAPRt7qJyAh) | 4:04 | 2022-05-11 | 2022-07-07 |
 | [Promise To Keep](https://open.spotify.com/track/3J8CjJWVaDbM9oE2XDyncj) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Promise To Keep](https://open.spotify.com/album/4tSNagHpiYip5XqF3SZzAa) | 4:48 | 2022-05-04 | 2023-01-19 |
-| [Promises](https://open.spotify.com/track/2BGJxNcnotlRYkpbYyOZd0) | [Boogie Vice](https://open.spotify.com/artist/0UGYVDVkyoa44bvIjJdRh7), [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [Promises](https://open.spotify.com/album/5XAqV96PmuOyuTo3D79Zfu) | 3:42 | 2023-02-22 |  |
+| [Promises](https://open.spotify.com/track/2BGJxNcnotlRYkpbYyOZd0) | [Boogie Vice](https://open.spotify.com/artist/0UGYVDVkyoa44bvIjJdRh7), [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [Promises](https://open.spotify.com/album/5XAqV96PmuOyuTo3D79Zfu) | 3:42 | 2023-02-22 | 2023-02-24 |
 | [Psilocybin](https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:17 | 2022-11-30 | 2023-02-09 |
 | [Psychodrama](https://open.spotify.com/track/33rVbMjOCqguZo1JR3rc6c) | [Carolin Cole](https://open.spotify.com/artist/6JPYHrr1jSPLKuOCrPMG9e), [Valmar](https://open.spotify.com/artist/5nAdHVO9exu6HiiHCSUgSG) | [Psychodrama](https://open.spotify.com/album/6BnYZpzgqJQNvMKTU7Lywj) | 3:02 | 2022-04-13 | 2022-04-28 |
 | [Pulses of Light](https://open.spotify.com/track/3Pb9BgklV5BiAeOSSRklHh) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Pulses of Light](https://open.spotify.com/album/4T0CTWKVRiKGjBs10feLYp) | 4:46 | 2022-02-23 | 2022-04-14 |

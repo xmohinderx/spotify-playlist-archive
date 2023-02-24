@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee
 
-121 songs - 8 hr 49 min
+123 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Dub 002](https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Dub 002](https://open.spotify.com/album/1izE0AfZaQbrXmcDRrpcw6) | 6:10 | 2022-09-15 |  |
 | [Eladio](https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Eladio](https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM) | 2:18 | 2022-12-15 |  |
 | [Endurance](https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d) | [Road Kahan](https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs) | [Endurance / Heart](https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW) | 3:20 | 2022-09-15 |  |
+| [Eyes on You](https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Eyes on You](https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl) | 3:27 | 2023-02-23 |  |
 | [Fading Memories](https://open.spotify.com/track/2gCzNuIjZQnKj9lMqHjk7X) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Fading Memories](https://open.spotify.com/album/1DrA0ZU45wJOm46XoAO2Sd) | 8:03 | 2023-02-16 |  |
 | [Falling](https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I) | [Road Kahan](https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs) | [Falling](https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL) | 3:02 | 2022-09-15 |  |
 | [Falling Upwards](https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Falling Upwards](https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj) | 5:43 | 2022-09-15 |  |
@@ -97,6 +98,7 @@
 | [Resilience](https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE) | [Swann Decamme](https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA), [Oktave](https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM) | [Resilience](https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg) | 6:55 | 2022-09-15 |  |
 | [Riptide \- Edit](https://open.spotify.com/track/542iecX5VYzhAbqJgbHFQ1) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q), [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ) | [Riptide](https://open.spotify.com/album/3E7TWzpSvp0tGEUd6UNbJR) | 2:43 | 2022-09-15 |  |
 | [Riviera](https://open.spotify.com/track/2OahtOhFTTHkq7111ZmGYi) | [Monte La Rue](https://open.spotify.com/artist/7AF2BEHVjcCM6NxMul09ak) | [Riviera](https://open.spotify.com/album/0DZPjAnDdj8V0kejYNfxTv) | 3:41 | 2022-09-15 | 2022-11-08 |
+| [Running](https://open.spotify.com/track/3RUH0HeITf0oN5jyV9cduz) | [DJ Style](https://open.spotify.com/artist/3dpTkLisXZEZNvQqLHgJb9), [Lee Avril](https://open.spotify.com/artist/6LH7SUgERTDqDlpc2APvZu) | [Running](https://open.spotify.com/album/7yxVfuMQqLo8Ev3hgMfZNo) | 2:10 | 2023-02-23 |  |
 | [Schijn](https://open.spotify.com/track/0BqIlgXl5N353o0wXseQkp) | [Tijn Driessen](https://open.spotify.com/artist/72rUaMyAbakKV2eF1K8Bbc) | [Schijn EP](https://open.spotify.com/album/1n2xeiiI5Xg5QIF4L8TJj8) | 7:19 | 2022-09-15 | 2022-11-08 |
 | [Serenity](https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Serenity](https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev) | 3:02 | 2022-09-15 |  |
 | [Shallow Breathing](https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Shallow Breathing](https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1) | 2:43 | 2022-09-15 |  |

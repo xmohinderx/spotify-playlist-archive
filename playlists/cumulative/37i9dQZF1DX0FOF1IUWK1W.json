@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Z\u00e9 Felipe e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Treyce e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -796,7 +796,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 164383,
       "name": "Basiquinho - Ao Vivo",
       "url": "https://open.spotify.com/track/2HMbGPbGiqGaHXzFkQAmZI"
@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Chega Mais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72ubm2vqYUYmYOjEUl687c"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237798,
+      "name": "Cria Da Ivete - Ao Vivo",
+      "url": "https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu"
+    },
+    {
+      "album": {
         "name": "C\u00ea T\u00e1 Preparada (Ao Vivo)",
         "url": "https://open.spotify.com/album/0SKpoFXvWGulci9ZGmWKCy"
       },
@@ -1405,6 +1423,32 @@
     },
     {
       "album": {
+        "name": "Duas Tr\u00eas",
+        "url": "https://open.spotify.com/album/3wqvUHnPBKg34UfjlGouEr"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Adriano Rhod",
+          "url": "https://open.spotify.com/artist/1rzgK16tw9LTPmu6eMFyMF"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156942,
+      "name": "Duas Tr\u00eas",
+      "url": "https://open.spotify.com/track/0redQHBfejmPUhonR5ppGC"
+    },
+    {
+      "album": {
         "name": "Chaaama",
         "url": "https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU"
       },
@@ -1468,6 +1512,24 @@
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "album": {
+        "name": "Cintilante (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178811,
+      "name": "Erro Gostoso - Ao Vivo",
+      "url": "https://open.spotify.com/track/51pxwIxDVCbFHW8oyJFQXD"
     },
     {
       "album": {
@@ -1972,7 +2034,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 138000,
       "name": "Gostosinha \u00e9 Ela",
       "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
@@ -3172,7 +3234,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 194022,
       "name": "Pipoco",
       "url": "https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk"

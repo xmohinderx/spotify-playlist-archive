@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 
 > This is Paramore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,974 likes - 44 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,231 likes - 44 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 43 | [For a Pessimist, I'm Pretty Optimistic](https://open.spotify.com/track/2PDLmgDWiwjUTxl1pPyDQA) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:48 |
 | 44 | [In the Mourning](https://open.spotify.com/track/2NSjoft78kEQSUgpOXeMDg) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:05 |
 
-Snapshot ID: `Mjc5NTExODMsMDAwMDAwMDA3OTUwMTlhYTFjNjY0MTE1Mjg5ZWQzYmFmMDllMWU2Yg==`
+Snapshot ID: `Mjc5NTI2MTEsMDAwMDAwMDAxZDY0ZmNiNTA3YmM5YzYzZTk3YjcxNzYwYjI0MTFkOQ==`

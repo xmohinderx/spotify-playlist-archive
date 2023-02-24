@@ -1,13 +1,65 @@
 {
-  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=tPKTmHNTQa2S1MpSDge2Wg\" > Jay Bahd </a> ",
-  "num_followers": 15993,
+  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/4gP93834jVbocef9R42gQz?si=E9SyvXp9Rs2fj13j9vm27w\" > Kwaku DMC</a> ",
+  "num_followers": 16008,
   "original_name": "Asakaa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAyNjQwOCwwMDAwMDAwMDY5OTM1ZGI1NGViMjJlZmFlNmNhN2I5NGU1NTE0ZDM1",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDkxY2E3MzBjZjNiZGM2Y2YxN2Y5N2Y3YjQ0MjU2ZTg5",
   "tracks": [
+    {
+      "added_at": "2023-01-13 08:27:55",
+      "album": {
+        "name": "Obaa Hemaa",
+        "url": "https://open.spotify.com/album/0FhtqISRyEGe6YVxjySqN9"
+      },
+      "artists": [
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "duration_ms": 184555,
+      "name": "Obaa Hemaa",
+      "url": "https://open.spotify.com/track/5ngy0dLyezwaO15C51TrMB"
+    },
+    {
+      "added_at": "2023-01-13 08:27:55",
+      "album": {
+        "name": "Anadwo",
+        "url": "https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "duration_ms": 170295,
+      "name": "Anadwo",
+      "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
+    },
     {
       "added_at": "2023-02-10 10:46:42",
       "album": {
@@ -53,40 +105,56 @@
       "url": "https://open.spotify.com/track/3S8DdOVdItdxl8wiSJbxqG"
     },
     {
-      "added_at": "2023-01-13 08:27:55",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Obaa Hemaa",
-        "url": "https://open.spotify.com/album/0FhtqISRyEGe6YVxjySqN9"
+        "name": "ON TEN",
+        "url": "https://open.spotify.com/album/3PmvDqSRCk9UkW94hFFvr4"
       },
       "artists": [
         {
-          "name": "Skyface SDW",
-          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "Hkmk",
+          "url": "https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg"
+        },
+        {
+          "name": "DRILL SZN",
+          "url": "https://open.spotify.com/artist/5XFxkRmijQ1JmSHmGSBSzj"
+        }
+      ],
+      "duration_ms": 107260,
+      "name": "ON TEN",
+      "url": "https://open.spotify.com/track/4Sbtvgkqpay8iMF6xDKZzF"
+    },
+    {
+      "added_at": "2023-01-13 08:27:55",
+      "album": {
+        "name": "Distance Relationship",
+        "url": "https://open.spotify.com/album/3HVhY4icGBNGqWxhSJbBro"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1"
         },
         {
           "name": "O'Kenneth",
           "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         },
         {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
-        },
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
-        },
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        },
-        {
           "name": "Jay Bahd",
           "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
         }
       ],
-      "duration_ms": 184555,
-      "name": "Obaa Hemaa",
-      "url": "https://open.spotify.com/track/5ngy0dLyezwaO15C51TrMB"
+      "duration_ms": 209188,
+      "name": "Distance Relationship",
+      "url": "https://open.spotify.com/track/3Z3SiQSFuLfK1HmJ2N8eqS"
     },
     {
       "added_at": "2023-01-13 08:27:55",
@@ -149,48 +217,28 @@
       "url": "https://open.spotify.com/track/0YcxvwO8PUGQgxUER2C2bM"
     },
     {
-      "added_at": "2023-01-13 08:27:55",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Anadwo",
-        "url": "https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh"
+        "name": "Floor Shake",
+        "url": "https://open.spotify.com/album/29SzNH7V2r3h1oZG3MHemE"
       },
       "artists": [
         {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+          "name": "DJ Semtex",
+          "url": "https://open.spotify.com/artist/3xhX0nrkThoOaGZZoFnCAt"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 170295,
-      "name": "Anadwo",
-      "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
-    },
-    {
-      "added_at": "2023-01-13 08:27:55",
-      "album": {
-        "name": "Distance Relationship",
-        "url": "https://open.spotify.com/album/3HVhY4icGBNGqWxhSJbBro"
-      },
-      "artists": [
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        },
-        {
-          "name": "Reggie",
-          "url": "https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        }
-      ],
-      "duration_ms": 209188,
-      "name": "Distance Relationship",
-      "url": "https://open.spotify.com/track/3Z3SiQSFuLfK1HmJ2N8eqS"
+      "duration_ms": 152000,
+      "name": "Floor Shake",
+      "url": "https://open.spotify.com/track/75CW2Y65bqjxTQx3z3V53X"
     },
     {
       "added_at": "2023-01-13 08:27:55",
@@ -269,24 +317,48 @@
       "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
     },
     {
-      "added_at": "2023-02-10 10:46:42",
+      "added_at": "2023-01-13 08:27:55",
       "album": {
-        "name": "AFRO & THE WAVE",
-        "url": "https://open.spotify.com/album/3UDzB8UHBv9XYA2BOz7E70"
+        "name": "Masherita (feat. Skyface SDW, CHICOGOD & City Boy)",
+        "url": "https://open.spotify.com/album/2cng5y9rfb7QCbcjakftV5"
       },
       "artists": [
         {
-          "name": "AfroSelecta-BBK",
-          "url": "https://open.spotify.com/artist/7BZSGajmAz3pSRG2l7LPnk"
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
         },
         {
-          "name": "Tobii WTW",
-          "url": "https://open.spotify.com/artist/5fEMNb155Xe1loklzFmAKG"
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "Chicogod",
+          "url": "https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E"
+        },
+        {
+          "name": "City Boy",
+          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
         }
       ],
-      "duration_ms": 137134,
-      "name": "GINGER",
-      "url": "https://open.spotify.com/track/48hyQaRHMGzvzOgvOG915E"
+      "duration_ms": 188731,
+      "name": "Masherita (feat. Skyface SDW, CHICOGOD & City Boy)",
+      "url": "https://open.spotify.com/track/1SR6dJwu1Feh0RlAqS0HvK"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/1tgrAAKHEmj8SyPeiR8dp0"
+      },
+      "artists": [
+        {
+          "name": "G-Migos",
+          "url": "https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN"
+        }
+      ],
+      "duration_ms": 150360,
+      "name": "Overload",
+      "url": "https://open.spotify.com/track/7hjVQjTJJzU4zGwzmkr1RH"
     },
     {
       "added_at": "2023-01-13 08:27:55",
@@ -337,20 +409,68 @@
       "url": "https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR"
     },
     {
-      "added_at": "2023-02-10 10:46:42",
+      "added_at": "2023-01-13 08:27:55",
       "album": {
-        "name": "Ma ba",
-        "url": "https://open.spotify.com/album/7oayvyYgb9kd0dWOjFQ2sF"
+        "name": "Condemn (feat. City Boy, O'Kenneth, reggie & Kwaku DMC)",
+        "url": "https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d"
       },
       "artists": [
         {
-          "name": "Nkay",
-          "url": "https://open.spotify.com/artist/1PQcG2ep2nohJCMyRFyWlv"
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "City Boy",
+          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
         }
       ],
-      "duration_ms": 204956,
-      "name": "Ma ba",
-      "url": "https://open.spotify.com/track/3uPW36bY5zszIY9yuB0me7"
+      "duration_ms": 180625,
+      "name": "Condemn (feat. City Boy, O'Kenneth, reggie & Kwaku DMC)",
+      "url": "https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP"
+    },
+    {
+      "added_at": "2023-01-13 08:27:55",
+      "album": {
+        "name": "Connecting the Dots",
+        "url": "https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Ivorian Doll",
+          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "duration_ms": 195482,
+      "name": "Holy F4k",
+      "url": "https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ"
     },
     {
       "added_at": "2023-01-13 08:27:55",
@@ -375,6 +495,22 @@
       "duration_ms": 211875,
       "name": "AGYEIWAA",
       "url": "https://open.spotify.com/track/6jiUTqGMy6CeiQtCxIjKKa"
+    },
+    {
+      "added_at": "2023-01-13 08:27:55",
+      "album": {
+        "name": "Straight Outta Kumerica",
+        "url": "https://open.spotify.com/album/54JOkOQwRCI799ZdqP3EyA"
+      },
+      "artists": [
+        {
+          "name": "O'kenneth,reggie",
+          "url": "https://open.spotify.com/artist/132awLu7WliKxvElyC2Qgu"
+        }
+      ],
+      "duration_ms": 191660,
+      "name": "M.O.B",
+      "url": "https://open.spotify.com/track/5ZjMbsuc7hzTyMlauaJUbt"
     },
     {
       "added_at": "2023-02-10 10:46:42",
@@ -583,38 +719,6 @@
       "duration_ms": 154957,
       "name": "Always (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
-    },
-    {
-      "added_at": "2023-01-13 08:27:55",
-      "album": {
-        "name": "Condemn (feat. City Boy, O'Kenneth, reggie & Kwaku DMC)",
-        "url": "https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "City Boy",
-          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
-        }
-      ],
-      "duration_ms": 180625,
-      "name": "Condemn (feat. City Boy, O'Kenneth, reggie & Kwaku DMC)",
-      "url": "https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP"
     },
     {
       "added_at": "2023-01-13 08:27:55",
@@ -843,34 +947,6 @@
     {
       "added_at": "2023-01-13 08:27:55",
       "album": {
-        "name": "Masherita (feat. Skyface SDW, CHICOGOD & City Boy)",
-        "url": "https://open.spotify.com/album/2cng5y9rfb7QCbcjakftV5"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "Skyface SDW",
-          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
-        },
-        {
-          "name": "Chicogod",
-          "url": "https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E"
-        },
-        {
-          "name": "City Boy",
-          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Masherita (feat. Skyface SDW, CHICOGOD & City Boy)",
-      "url": "https://open.spotify.com/track/1SR6dJwu1Feh0RlAqS0HvK"
-    },
-    {
-      "added_at": "2023-01-13 08:27:55",
-      "album": {
         "name": "U CAN'T SHOW ME NATTIN",
         "url": "https://open.spotify.com/album/52ozyyffNnSxshBttmll8o"
       },
@@ -911,38 +987,6 @@
     {
       "added_at": "2023-01-13 08:27:55",
       "album": {
-        "name": "Connecting the Dots",
-        "url": "https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ"
-      },
-      "artists": [
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Ivorian Doll",
-          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
-        }
-      ],
-      "duration_ms": 195482,
-      "name": "Holy F4k",
-      "url": "https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ"
-    },
-    {
-      "added_at": "2023-01-13 08:27:55",
-      "album": {
         "name": "Benzo",
         "url": "https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1"
       },
@@ -975,30 +1019,6 @@
       "duration_ms": 127769,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/04qKXcYDIIWVLdCTZCdUQm"
-    },
-    {
-      "added_at": "2023-01-13 08:27:55",
-      "album": {
-        "name": "Go German",
-        "url": "https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Go German",
-      "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
     },
     {
       "added_at": "2023-01-13 08:27:55",
@@ -1107,22 +1127,6 @@
       "duration_ms": 189166,
       "name": "AKOBAM",
       "url": "https://open.spotify.com/track/0swMLKHRsRTnt9Nd5WwxFa"
-    },
-    {
-      "added_at": "2023-01-13 08:27:55",
-      "album": {
-        "name": "Straight Outta Kumerica",
-        "url": "https://open.spotify.com/album/54JOkOQwRCI799ZdqP3EyA"
-      },
-      "artists": [
-        {
-          "name": "O'kenneth,reggie",
-          "url": "https://open.spotify.com/artist/132awLu7WliKxvElyC2Qgu"
-        }
-      ],
-      "duration_ms": 191660,
-      "name": "M.O.B",
-      "url": "https://open.spotify.com/track/5ZjMbsuc7hzTyMlauaJUbt"
     },
     {
       "added_at": "2023-01-13 08:27:55",

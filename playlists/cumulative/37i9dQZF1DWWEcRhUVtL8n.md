@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,481 songs - 3 day 5 hr 58 min
+1,482 songs - 3 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [BUICK](https://open.spotify.com/track/5NmNSlW4RAHx2adyk8SKeI) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [BUICK](https://open.spotify.com/album/0rBLNve0W9Lh7PTgeHWIYY) | 3:30 | 2022-06-17 | 2022-07-28 |
 | [Bullshit on the Internet](https://open.spotify.com/track/2CeXJdvqhKyewp74pU674J) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 2:47 | 2022-05-06 | 2022-05-21 |
 | [BULLYING BOYS](https://open.spotify.com/track/7GGrpWD9evnHjnk2oCeRZk) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [BULLYING BOYS](https://open.spotify.com/album/0pu1qrkfI32iz5MrVaxV4n) | 3:45 | 2020-10-20 | 2021-05-27 |
-| [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 | 2023-01-23 |  |
+| [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 | 2023-01-23 | 2023-02-24 |
 | [Bummerland](https://open.spotify.com/track/3QCMUnmMaqokrfNZes4D6S) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Bummerland](https://open.spotify.com/album/5XIgmuIwLIkDr5mO4tEFpP) | 3:09 | 2020-10-13\* | 2021-05-24 |
 | [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 | 2021-11-12 | 2022-06-30 |
 | [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 | 2022-09-30 | 2023-02-18 |
@@ -1032,6 +1032,7 @@
 | [Peppermint](https://open.spotify.com/track/3ctqg4MEmlXWYFmVOS3scN) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Peppermint](https://open.spotify.com/album/60pOtoZi07EpHXeae4G9tp) | 3:18 | 2022-04-29 | 2022-07-01 |
 | [Perfect Timing](https://open.spotify.com/track/2OwLOjsJ7HTWQtnkInjHdL) | [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Perfect Timing](https://open.spotify.com/album/0xYhsSyXjDVBw2NtxkDYfu) | 2:13 | 2022-06-17 | 2022-07-29 |
 | [Perfume](https://open.spotify.com/track/3wJAk2rKEEoYlXSLpLVrkU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Perfume](https://open.spotify.com/album/1vDtewM5wjw6WzUHS3aZqz) | 3:52 | 2021-08-27 | 2022-07-23 |
+| [Petals on the Moon](https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Petals on the Moon](https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs) | 4:16 | 2023-02-17 |  |
 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-04-08 |  |
 | [PFC](https://open.spotify.com/track/0UHe6dSc0GrbuB6BlNXZZF) | [CRITTER](https://open.spotify.com/artist/7arvE5qBEbW7UgwoaJhpOM) | [PFC](https://open.spotify.com/album/0ECVeURUW3ZFLSMLErSs1V) | 3:06 | 2021-02-28 | 2021-05-27 |
 | [Pick Me Up](https://open.spotify.com/track/77d7t7SYR0YAXgXePYo8t5) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [Pick Me Up](https://open.spotify.com/album/5V5x9zEi6XCVnn15qjpDRP) | 2:44 | 2020-11-13 | 2021-01-15 |

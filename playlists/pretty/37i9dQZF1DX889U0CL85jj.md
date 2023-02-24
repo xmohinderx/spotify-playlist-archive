@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,411,882 likes - 150 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,412,211 likes - 150 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 55 | [Happen](https://open.spotify.com/track/3x5GkihYMx1wdoXVFAwRyZ) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 4:13 |
 | 56 | [waves](https://open.spotify.com/track/05ohEiCZLo3IFITyHJ2liE) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [waves](https://open.spotify.com/album/3JXSGI5O9Li35NYBMfgeJm) | 3:03 |
 | 57 | [Dandelions](https://open.spotify.com/track/5Ah7CDmFosZEwcQHkVXzxq) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [Dandelions](https://open.spotify.com/album/0XvAu6HRgd6Tg5Srbr4Va3) | 2:27 |
-| 58 | [I’ll Keep You Safe](https://open.spotify.com/track/5zTfajUv1lgrDydB7XLNRM) | [lmaopay](https://open.spotify.com/artist/5Lr6vtfzxLavw70fdoex8K), [starrstain](https://open.spotify.com/artist/2hcYnsObiMj0BPiXsGFPyX) | [take a sip](https://open.spotify.com/album/4pPeFDhY8E0H1bxCk3gHf7) | 2:20 |
+| 58 | [I’ll Keep You Safe](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 2:20 |
 | 59 | [I Should Be Alone Right Now](https://open.spotify.com/track/0h05w1cUux37nKKZX66vNZ) | [Refs](https://open.spotify.com/artist/7yxpGyw5CZPsrTPpkERpc4), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ), [Dessauer](https://open.spotify.com/artist/13bGI7bd5hv6Rj41L6sqLT), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [New Religion](https://open.spotify.com/album/7ws0ViqrDgUcZA4zrGnDud) | 3:40 |
 | 60 | [trustfall](https://open.spotify.com/track/2i5prz1qSaqSoZbzFFftG9) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS), [eli filosov \[ p h i l o \]](https://open.spotify.com/artist/69C7agUvyZMUv0P58MvBwc) | [sleepover](https://open.spotify.com/album/4CGcPFpcJ3Shfvh4lf0Mms) | 3:29 |
 | 61 | [Blackphemy](https://open.spotify.com/track/5rYBgw7CHL5G4S6UJKOZ5H) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Blackphemy](https://open.spotify.com/album/4PDdJvVN3LysSlGBoJKzCW) | 3:24 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 149 | [Tell Me](https://open.spotify.com/track/0ndV1KbJuiFxPuZ4cJZZi8) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy), [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [Tell Me](https://open.spotify.com/album/1irZ1TS0B9d4Imzn6SSg1J) | 3:06 |
 | 150 | [either side](https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:47 |
 
-Snapshot ID: `MTY3NzA5MjI3MCwwMDAwMDAwMDJkY2FkY2FlOTUxZTQxOTk4NjE3ZDVjZmU2NmRiN2M0`
+Snapshot ID: `MTY3NzA5MjI3MCwwMDAwMDAwMGNmNWFmZjZjZWVlNDdmYjEzMDY2MWUwZTJhMzAyY2M4`

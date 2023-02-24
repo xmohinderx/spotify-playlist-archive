@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Oscar Pettiford",
+        "url": "https://open.spotify.com/album/140tK9eP8UUecyEOT26GgH"
+      },
+      "artists": [
+        {
+          "name": "Oscar Pettiford",
+          "url": "https://open.spotify.com/artist/3DuKJapiJ2AUvoIJq1ZJFb"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335173,
+      "name": "Bohemia After Dark",
+      "url": "https://open.spotify.com/track/3TcD9Hcy9DpU58J4IXagMA"
+    },
+    {
+      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -562,7 +580,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 160133,
       "name": "Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/521qezMfJ71NGibQanQvvN"
@@ -852,7 +870,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 351826,
       "name": "Fran-Dance - alternate take",
       "url": "https://open.spotify.com/track/4lcVPIWSWPB7F1emLGz1Tm"
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 575173,
       "name": "I Guess I'll Have To Change My Plan",
       "url": "https://open.spotify.com/track/5w2gihx0xSbmWIxauR35nK"
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 512266,
       "name": "Salute To Benny",
       "url": "https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu"
@@ -2732,7 +2750,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 511093,
       "name": "Soul-Lo Blues - Remastered 1997",
       "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"

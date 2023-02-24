@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-311 songs - 19 hr 29 min
+314 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Hymn](https://open.spotify.com/track/5PXYOVPrnkj6HIdKvEMiwJ) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [A Hymn](https://open.spotify.com/album/4tZqfOZ16FqkgFwQ4syP0z) | 5:18 | 2021-12-06 | 2022-07-28 |
 | [A Little Ditty](https://open.spotify.com/track/42VMpSBAi6OYLoxdxPqVF5) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Divide and Exit](https://open.spotify.com/album/0lYixJVrfRzhc5REZwBUgg) | 2:33 | 2021-12-06 | 2022-06-10 |
 | [A Thing You Call Joy](https://open.spotify.com/track/6BVMPM8cIdCcuIzE9eaQlm) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [A Thing You Call Joy](https://open.spotify.com/album/3Sk4sce4BbWf39FqTG1ANk) | 3:29 | 2021-12-06 | 2022-07-29 |
+| [Adderall](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 | 2023-02-24 |  |
 | [Adore](https://open.spotify.com/track/3z9sAf9ptrSLpyRWR4jRiX) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Adore Life](https://open.spotify.com/album/2UutOV48eYbIPB6keWOqoP) | 5:03 | 2022-06-16 |  |
 | [Adore](https://open.spotify.com/track/43v9n2WUgrDi4Z4wiEEV8h) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Adore Life](https://open.spotify.com/album/6c3UkztmOmW2GtunSNN3NZ) | 5:03 | 2022-03-11 | 2022-04-02 |
 | [Akinesia \- She Past Away Remix](https://open.spotify.com/track/4jW4rvf9e4BebkHQxrBsPT) | [Deathsomnia](https://open.spotify.com/artist/3EcmhzfSBJJDtEVCdmVg9N), [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Akinesia \(She Past Away Remix\)](https://open.spotify.com/album/5zujKFULRSNCEtjSbHysUp) | 4:08 | 2022-03-11 | 2022-04-17 |
@@ -72,7 +73,7 @@
 | [Cruising](https://open.spotify.com/track/42FoHPbDOZM1qCCCKmEvf2) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Cruising](https://open.spotify.com/album/55fNVmdLsjVNTEE7TQcbGF) | 6:27 | 2021-12-06 | 2022-07-29 |
 | [Daily Routine](https://open.spotify.com/track/3w6YBy7b80Q5pjZKBmy3dP) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [Daily Routine](https://open.spotify.com/album/7uzRTehZfg7fKNguCFrsZN) | 4:24 | 2021-12-06 | 2022-07-24 |
 | [Danny Nedelko](https://open.spotify.com/track/731BpBsbqtNLC5RREuOJrv) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Danny Nedelko](https://open.spotify.com/album/3M6u7iw0PxYsDGZM3LvOyG) | 3:24 | 2021-12-06 | 2022-07-29 |
-| [Dark Days](https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/6JXI3CvEjelCxeKZW3zndN) | 3:05 | 2021-12-06 |  |
+| [Dark Days](https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/6JXI3CvEjelCxeKZW3zndN) | 3:05 | 2021-12-06 | 2023-02-24 |
 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 | 2022-12-13 | 2023-02-11 |
 | [Delusion Spree](https://open.spotify.com/track/0d4YnSZpQZQszNHz3hfx3a) | [Eades](https://open.spotify.com/artist/6GVy4NToodaTHYxlO6xuXX) | [Delusion Spree](https://open.spotify.com/album/2sqyfzGM5IQvupbRe7hr3X) | 3:49 | 2022-03-11 | 2022-05-06 |
 | [Delusions Of Grandeur](https://open.spotify.com/track/52jHGLECyJck03wSgSktQv) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [Delusions Of Grandeur](https://open.spotify.com/album/677N0k17KVgKOVLfjIlM9o) | 3:24 | 2022-02-11 | 2022-06-29 |
@@ -123,6 +124,7 @@
 | [Gotta Do More Gotta Be More](https://open.spotify.com/track/6Ai1aNmJ2hMMcx7QQyNIom) | [Trampolene](https://open.spotify.com/artist/28KtnfdwBHptsGPPWjeovU) | [Gotta Do More Gotta Be More](https://open.spotify.com/album/2OtLneHnXrZ3vjRMHJhjgL) | 2:37 | 2021-12-06 | 2022-07-28 |
 | [Guinness \- Edit](https://open.spotify.com/track/2wp24J3OWiDAw1I6wYJeLz) | [Good Health Good Wealth](https://open.spotify.com/artist/6oaEXmqVM7eQnzva7kHudo) | [Guinness](https://open.spotify.com/album/6pXZApwEcHeN6atzsVz4vg) | 3:28 | 2022-01-20 | 2022-04-18 |
 | [Half Full](https://open.spotify.com/track/6u10BK0FWxt58u6lMobxi5) | [Heavy Lungs](https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo) | [Measure](https://open.spotify.com/album/3zOosGBkqCzJTmC6W2brtt) | 4:19 | 2021-12-06 | 2022-07-26 |
+| [Happy Feet](https://open.spotify.com/track/3rIii6N9TMUWA4ObdkfJvw) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Happy Feet](https://open.spotify.com/album/6pjU8QXWzeuCed73NlF5er) | 4:11 | 2023-02-24 |  |
 | [Head Sport Full Face](https://open.spotify.com/track/5vdG7m9JvJIulc1JoRSQtl) | [No Age](https://open.spotify.com/artist/72acCeElLYGL9nBHcZzX1h) | [Head Sport Full Face](https://open.spotify.com/album/4mXRHk1KqfH2ixQzL2G1CU) | 3:55 | 2021-12-06 | 2022-07-22 |
 | [Headroom](https://open.spotify.com/track/3vs2MlII33TgC5hAPZiUiu) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Headroom](https://open.spotify.com/album/0A7myLtAtp9gMhpoI2Zha7) | 3:06 | 2021-12-06 | 2022-07-28 |
 | [Heartbeat](https://open.spotify.com/track/3UtV7WLZvRZCH0oypoI402) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Heartbeat](https://open.spotify.com/album/5e9ByDXq4Q6XaPSbmyq2c0) | 3:27 | 2022-03-11 | 2022-04-13 |
@@ -210,7 +212,7 @@
 | [Paddling](https://open.spotify.com/track/4bk6zQvr1tEokVjLJ7xZfz) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/4z44Wir05QzQYSCs0KwsKX) | 6:15 | 2022-06-16 | 2022-12-17 |
 | [Pain Killer](https://open.spotify.com/track/2V4U5hZOUnY1jzhNZpcrAD) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU), [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Beyondless](https://open.spotify.com/album/5H8wFFblf7YvGc7LbBzuR9) | 3:39 | 2021-12-06 | 2022-07-29 |
 | [Pamphlets](https://open.spotify.com/track/09fQwACfFYN1mZJHCoIo9u) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Pamphlets](https://open.spotify.com/album/1VQ9pHT4jfJXrfFuh1Fbyv) | 8:03 | 2021-12-06 | 2022-07-28 |
-| [Pamphlets](https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 8:03 | 2023-01-19 |  |
+| [Pamphlets](https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 8:03 | 2023-01-19 | 2023-02-24 |
 | [Parfois](https://open.spotify.com/track/5SkYdzJvAshnjL8yqJuDi6) | [Rip Pop Mutant](https://open.spotify.com/artist/0Fkytt8xfwUxXZztw9UD58) | [Parfois](https://open.spotify.com/album/2jird3M7HyN657TgrhbNc6) | 3:18 | 2022-03-11 | 2022-07-14 |
 | [Paul](https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Holding Hands with Jamie](https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9) | 6:53 | 2022-06-16 |  |
 | [Paul](https://open.spotify.com/track/1ulRN20ts4efc3DHKABsVu) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Holding Hands With Jamie](https://open.spotify.com/album/3rVfXtGiIeKX1nkHXhiN1D) | 6:53 | 2021-12-06 | 2022-07-27 |
@@ -267,6 +269,7 @@
 | [Sunglasses \- Edit](https://open.spotify.com/track/449tx8bd5PFEw5dT0KPpLz) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Sunglasses](https://open.spotify.com/album/5mfH9Qe9rtjrLBpLE6zL2P) | 4:36 | 2021-12-06 | 2022-07-27 |
 | [Suntan](https://open.spotify.com/track/3dX7k03fCG9VANcuLDiomu) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Suntan](https://open.spotify.com/album/4kaozidUUVbgoyxIEge7qm) | 4:59 | 2021-12-06 | 2022-10-29 |
 | [Suntan](https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Suntan / Damocles](https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC) | 4:59 | 2022-08-25 |  |
+| [Swampy](https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Swampy & Sombre Two](https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5) | 3:33 | 2023-02-24 |  |
 | [Sweet](https://open.spotify.com/track/1RESyaoEkLAUmX0NEjMfUS) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad](https://open.spotify.com/album/4DN3XbB33kHTJA7HhI0RFI) | 3:42 | 2021-12-06 | 2022-07-29 |
 | [Sweet](https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA) | 3:42 | 2022-06-16 |  |
 | [Swing \(In A Dream\)](https://open.spotify.com/track/1IEulXF7S08dapSxx8L0z2) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Swing \(In A Dream\)](https://open.spotify.com/album/1uSQuGB8cvILkiYZzrH3IT) | 4:29 | 2023-02-08 |  |
@@ -307,7 +310,7 @@
 | [Unseasonable Warmth](https://open.spotify.com/track/1Dsnj6bO73NfWMl6r17jF1) | [EXEK](https://open.spotify.com/artist/7ldGIajEfZUsa38eyvJ04V) | [Unseasonable Warmth](https://open.spotify.com/album/70UnxCJDTOaAa62lfQGAjA) | 6:30 | 2022-01-20 | 2022-07-20 |
 | [Unsmart Lady](https://open.spotify.com/track/1D9OstlmYwAZx1PwJaxEkD) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Unsmart Lady](https://open.spotify.com/album/7n7PakgHzZGYxBLdB05cTw) | 3:02 | 2021-12-06 | 2022-07-29 |
 | [Want it all](https://open.spotify.com/track/0j1TaIDLSu00bl6itDnIYB) | [Girl Afraid](https://open.spotify.com/artist/0hDKwYmYwPx5rq9R24bZ3n) | [Want it all](https://open.spotify.com/album/01k7lnQgRL6ui2F9kb3NSN) | 3:54 | 2022-03-11 | 2022-04-17 |
-| [Water in the Well](https://open.spotify.com/track/0gaecBSDgVDjHs3JrWgr5e) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 3:07 | 2022-06-16 |  |
+| [Water in the Well](https://open.spotify.com/track/0gaecBSDgVDjHs3JrWgr5e) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 3:07 | 2022-06-16 | 2023-02-24 |
 | [Water in the Well](https://open.spotify.com/track/38UnguvFOM6pfME9l9zig4) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Water in the Well](https://open.spotify.com/album/45XUyqaviQvi5IepoRcMhc) | 3:07 | 2021-12-06 | 2022-07-26 |
 | [Wharf \(ii\)](https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO) | [Debonair](https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn) | 4:25 | 2021-12-06 |  |
 | [What Do You Stand For](https://open.spotify.com/track/0C2BL4ZwEl2iQmQ55aIhU7) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again](https://open.spotify.com/album/3RSVfuDghNNc8LKgqnw7h2) | 3:45 | 2021-12-06 | 2022-07-11 |

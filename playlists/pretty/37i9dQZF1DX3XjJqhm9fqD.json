@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Micha\u00ebl Brun",
-  "num_followers": 74658,
+  "num_followers": 74686,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY3MzYwOCwwMDAwMDAwMGQwN2UyODBiMjEzYTVhODQ3NDFjMzUwMjQzMzBhNjcx",
+  "snapshot_id": "MTY3NjY3MzYwOCwwMDAwMDAwMDc4OTU3MzQ3Y2RlMzhlYTRkNzI4YmQ4NzA3Mjk0Njk1",
   "tracks": [
     {
       "added_at": "2023-02-17 22:40:08",
@@ -511,30 +511,6 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Akouna",
-        "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
-      },
-      "artists": [
-        {
-          "name": "Manno Beats",
-          "url": "https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj"
-        },
-        {
-          "name": "Afrotronix",
-          "url": "https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr"
-        },
-        {
-          "name": "Vox Sambou",
-          "url": "https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b"
-        }
-      ],
-      "duration_ms": 230679,
-      "name": "Akouna",
-      "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
         "name": "Rap ap rete Rap",
         "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
       },
@@ -559,6 +535,30 @@
       "duration_ms": 236923,
       "name": "Si Yo Vle",
       "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
+        "name": "Akouna",
+        "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
+      },
+      "artists": [
+        {
+          "name": "Manno Beats",
+          "url": "https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj"
+        },
+        {
+          "name": "Afrotronix",
+          "url": "https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr"
+        },
+        {
+          "name": "Vox Sambou",
+          "url": "https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b"
+        }
+      ],
+      "duration_ms": 230679,
+      "name": "Akouna",
+      "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
+        "name": "Chante ap ret chante",
+        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
+      },
+      "artists": [
+        {
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 253208,
+      "name": "Bay Vag",
+      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
         "name": "Premye Fwa",
         "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 270315,
       "name": "Sal Vle",
       "url": "https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
-        "name": "Chante ap ret chante",
-        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
-      },
-      "artists": [
-        {
-          "name": "Baky",
-          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
-        },
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
-        }
-      ],
-      "duration_ms": 253208,
-      "name": "Bay Vag",
-      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
     },
     {
       "added_at": "2023-02-17 22:40:08",

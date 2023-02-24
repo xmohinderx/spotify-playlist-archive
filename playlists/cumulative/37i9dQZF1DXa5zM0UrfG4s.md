@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du kan spelle i kjerra! Cover: Hagle
 
-276 songs - 12 hr 55 min
+277 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bare så du vett det](https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Stavangerkameratene](https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk) | 3:30 | 2022-07-28 |  |
 | [Bare så du vett det](https://open.spotify.com/track/0MPznfQfw2r2XWJlhPoyWN) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Bare så du vett det](https://open.spotify.com/album/6vutuz8BvdPdSq7gy2xWgw) | 3:31 | 2021-12-16 | 2022-07-29 |
 | [Berre i natt](https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Berre i natt](https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj) | 3:49 | 2021-12-16 |  |
-| [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 | 2021-12-16 |  |
+| [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 | 2021-12-16 | 2023-02-24 |
 | [Bjudar på](https://open.spotify.com/track/0gfP3em97H6T2ZhsLSMp2S) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Bjudar på](https://open.spotify.com/album/28kSTlOsS6yDQLpkXrDhFw) | 2:43 | 2021-12-16 | 2022-06-18 |
 | [Bli Med Meg Hjem](https://open.spotify.com/track/57bTCtZZib1OkelyBl10a1) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Bli Med Meg Hjem](https://open.spotify.com/album/3B0F6c5gFEgcUElAnr03pR) | 2:10 | 2022-05-05 | 2022-07-29 |
 | [BLINKAR INTE NÄR JAG BYTER FIL](https://open.spotify.com/track/0aQ2hgNRUwoICgQ1tvBnYs) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [BLINKAR INTE NÄR JAG BYTER FIL](https://open.spotify.com/album/01ayc4U9jmmjlrmQYoRYfe) | 2:21 | 2023-02-16 |  |
@@ -258,6 +258,7 @@
 | [Tills du faller](https://open.spotify.com/track/2jzH9ivtR3H9SLunmu3ww5) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [Tills du faller](https://open.spotify.com/album/0W38WekBGzT3yWmoMNiTZ0) | 1:55 | 2022-07-07 | 2022-07-15 |
 | [Timeglass](https://open.spotify.com/track/5CTqiFruufp6pd8mQKDFdv) | [Picazzo](https://open.spotify.com/artist/2LBQeuC7ETT53nrim3NGfb) | [Timeglass](https://open.spotify.com/album/4UCIp1reVL4sege6dDoSHz) | 4:35 | 2022-03-24 | 2022-04-21 |
 | [To steg fram og attende tri](https://open.spotify.com/track/69SFfLMl6pnZRJn3gevXi2) | [Lothepus](https://open.spotify.com/artist/2HEAdsUVqQO9KqF1wKmHOO) | [Cowboyhjarta](https://open.spotify.com/album/53F5EooenK4mtYHnmFC2PK) | 3:02 | 2022-03-24 | 2022-04-17 |
+| [TOP GUN](https://open.spotify.com/track/4gobB2WY2C6HNFITwj5IPE) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [TOP GUN](https://open.spotify.com/album/3RgXPQL8B8CoOnXTXSQk8c) | 2:20 | 2023-02-23 |  |
 | [TRAKTEN TILL EPAN \(feat 1.Cuz & FRÖKEN SNUSK\)](https://open.spotify.com/track/0u8AMrMBM6S3YBDfPYwMfe) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [TRAKTEN TILL EPAN \(feat 1.Cuz & FRÖKEN SNUSK\)](https://open.spotify.com/album/0oYqqPkucziudAvLm4tyfa) | 2:04 | 2023-01-26 |  |
 | [Två Tölver](https://open.spotify.com/track/2UpB2xTnTenWwxTVg87msr) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [Två Tölver](https://open.spotify.com/album/4X7kcwcsUFzrIxtYuWZlEp) | 2:18 | 2022-10-15 | 2022-11-16 |
 | [Ung full och dum](https://open.spotify.com/track/6kh3aDbjz2VzP0hPYXw9Ty) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Ung full och dum](https://open.spotify.com/album/0btUOD4njBKXk157NpWBpH) | 2:20 | 2022-02-03 | 2022-07-26 |

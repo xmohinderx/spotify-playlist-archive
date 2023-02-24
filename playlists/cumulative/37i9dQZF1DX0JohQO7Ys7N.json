@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC?si=g-chrsjWQBW251fkSrIVGA\">Karun</a> ",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf?si=BtUw_V2qRrGdMnuxhMw6og\">mau from nowhere </a> ",
   "name": "NairoBae",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 211764,
       "name": "Catch Me Later",
       "url": "https://open.spotify.com/track/23ccG0YrcOB1ZiEMRfkNVq"
@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF"
+    },
+    {
+      "album": {
         "name": "I Love the Way You",
         "url": "https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5"
       },
@@ -1184,6 +1202,24 @@
       "duration_ms": 222000,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/5J4SDAQfgnAE90ErS4dO4u"
+    },
+    {
+      "album": {
+        "name": "Mbali (Stripped Version)",
+        "url": "https://open.spotify.com/album/6rVwUsa69ADOMkAH6ZOPx8"
+      },
+      "artists": [
+        {
+          "name": "Ethan Muziki",
+          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200863,
+      "name": "Mbali - Stripped Version",
+      "url": "https://open.spotify.com/track/1XCI64DmbFXhxXKTWqILgG"
     },
     {
       "album": {
@@ -1874,7 +1910,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 227431,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh"
@@ -1928,7 +1964,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 272926,
       "name": "Switch It Up",
       "url": "https://open.spotify.com/track/4SWMtMtaLoC2jpi5NWHr0y"
@@ -1950,6 +1986,28 @@
       "duration_ms": 212210,
       "name": "Tender",
       "url": "https://open.spotify.com/track/4VGdRiXSYdL44YCz84jpG5"
+    },
+    {
+      "album": {
+        "name": "Three Little Birds",
+        "url": "https://open.spotify.com/album/22uuw7dC7oXrWHITQ2DHjh"
+      },
+      "artists": [
+        {
+          "name": "Jason Sibi-Okumu",
+          "url": "https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06"
+        },
+        {
+          "name": "Lullaby Club",
+          "url": "https://open.spotify.com/artist/4NRmTiCjbKDTSJmwhOjDnq"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7vGO9525GQZMGfc6qEY6BZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Ten Tonnes",
-  "num_followers": 110942,
+  "num_followers": 110935,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4NzIwMCwwMDAwMDAwMDNjZTI2ZmJhMzM2MTAzYmI4MjYzNDA2ZGNiMTU5OWM3",
+  "snapshot_id": "MTY3NTk4NzIwMCwwMDAwMDAwMDdhMGVlNmQ5ODZjYTllZDVkMjM5OTNhMGJhZWIyOWQ2",
   "tracks": [
     {
       "added_at": "2023-02-10 00:00:00",
@@ -587,8 +587,8 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "My Very Best",
-        "url": "https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6"
+        "name": "Sitting Pretty",
+        "url": "https://open.spotify.com/album/7zMPk5h5WVOP2lr7vhlQPu"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
         }
       ],
-      "duration_ms": 197333,
-      "name": "My Very Best",
-      "url": "https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN"
+      "duration_ms": 202786,
+      "name": "What\u2019s Wrong With Me",
+      "url": "https://open.spotify.com/track/4T7MuEyOso6rFFp3Ouvpse"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -747,8 +747,8 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Sitting Pretty",
-        "url": "https://open.spotify.com/album/7zMPk5h5WVOP2lr7vhlQPu"
+        "name": "My Very Best",
+        "url": "https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
         }
       ],
-      "duration_ms": 202786,
-      "name": "What\u2019s Wrong With Me",
-      "url": "https://open.spotify.com/track/4T7MuEyOso6rFFp3Ouvpse"
+      "duration_ms": 197333,
+      "name": "My Very Best",
+      "url": "https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Wayfinding",
-        "url": "https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl"
-      },
-      "artists": [
-        {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Wayfinding",
-      "url": "https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Risk to my Reward",
         "url": "https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 171415,
       "name": "Risk to my Reward",
       "url": "https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Wayfinding",
+        "url": "https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Wayfinding",
+      "url": "https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Lain (phone clone)",
-        "url": "https://open.spotify.com/album/6kVkofYbaUHoPO1YKObr3k"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 241003,
-      "name": "Lain (phone clone)",
-      "url": "https://open.spotify.com/track/3aq2HJqPhVH3D8jcbAQJvT"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Nosebleed",
         "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 140543,
       "name": "Eight Fivers",
       "url": "https://open.spotify.com/track/5qEck6ZfHkjlkEKcHOxubq"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Lain (phone clone)",
+        "url": "https://open.spotify.com/album/6kVkofYbaUHoPO1YKObr3k"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 241003,
+      "name": "Lain (phone clone)",
+      "url": "https://open.spotify.com/track/3aq2HJqPhVH3D8jcbAQJvT"
     },
     {
       "added_at": "2023-02-10 00:00:00",

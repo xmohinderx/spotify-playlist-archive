@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.",
-  "num_followers": 243370,
+  "num_followers": 243871,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYyNDY2NCwwMDAwMDAwMDUwOWY3ZDJmNmM0NTdjZTJmNWY3NjAyYmQ1OWExMTFh",
+  "snapshot_id": "MTY3NjYyNDY2NCwwMDAwMDAwMDRhNzIyMmYxN2QyNjFlMmQ3YTY1YWViZjA3ZGNlYzQ4",
   "tracks": [
     {
       "added_at": "2023-02-10 12:23:26",
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/2fvwEBdCFhFD7IO3IX3bIw"
     },
     {
-      "added_at": "2023-02-23 00:03:39",
+      "added_at": "2023-02-24 00:38:53",
       "album": {
         "name": "Santo Pra Sempre (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-02-10 12:23:26",
       "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Trust in You",
+      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
+    },
+    {
+      "added_at": "2023-02-10 12:23:26",
+      "album": {
         "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us (Ao Vivo)",
         "url": "https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 454133,
       "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us - Ao Vivo",
       "url": "https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl"
-    },
-    {
-      "added_at": "2023-02-10 12:23:26",
-      "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Trust in You",
-      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
     },
     {
       "added_at": "2023-02-10 12:23:26",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-02-10 12:23:26",
       "album": {
+        "name": "N\u00e3o Me Deixes Desistir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6"
+      },
+      "artists": [
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        }
+      ],
+      "duration_ms": 495026,
+      "name": "Oceanos (Onde Meus P\u00e9s Podem Falhar) [Oceans Where Feet May Fail] - Ao Vivo",
+      "url": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt"
+    },
+    {
+      "added_at": "2023-02-10 12:23:26",
+      "album": {
         "name": "Tudo \u00e9 Poss\u00edvel",
         "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
       },
@@ -1267,18 +1283,22 @@
     {
       "added_at": "2023-02-10 12:23:26",
       "album": {
-        "name": "N\u00e3o Me Deixes Desistir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6"
+        "name": "Momentos (Vol.1)",
+        "url": "https://open.spotify.com/album/5OBBURED8xXfMnTSeraLrY"
       },
       "artists": [
         {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+          "name": "AM\u00c9M",
+          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
+        },
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
         }
       ],
-      "duration_ms": 495026,
-      "name": "Oceanos (Onde Meus P\u00e9s Podem Falhar) [Oceans Where Feet May Fail] - Ao Vivo",
-      "url": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt"
+      "duration_ms": 522461,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/2EMy05KEE6JLDUSvnklzk6"
     },
     {
       "added_at": "2023-02-10 12:23:26",
@@ -1315,26 +1335,6 @@
       "duration_ms": 241881,
       "name": "Escolho Deus",
       "url": "https://open.spotify.com/track/4DlUWz3HnEoQrwKN0fFfwO"
-    },
-    {
-      "added_at": "2023-02-10 12:23:26",
-      "album": {
-        "name": "Momentos (Vol.1)",
-        "url": "https://open.spotify.com/album/5OBBURED8xXfMnTSeraLrY"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M",
-          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
-        },
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        }
-      ],
-      "duration_ms": 522461,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/2EMy05KEE6JLDUSvnklzk6"
     },
     {
       "added_at": "2023-02-10 12:23:26",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2023-02-10 12:23:26",
       "album": {
-        "name": "Entre Amigos",
-        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3o L\u00e1zaro",
-          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
-        },
-        {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
-      "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
-    },
-    {
-      "added_at": "2023-02-10 12:23:26",
-      "album": {
         "name": "Pra Onde Eu Irei? (Live Church)",
         "url": "https://open.spotify.com/album/0ZnX9cZRCa0CBfgPVgzB9Q"
       },
@@ -1459,6 +1439,26 @@
     {
       "added_at": "2023-02-10 12:23:26",
       "album": {
+        "name": "Entre Amigos",
+        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3o L\u00e1zaro",
+          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
+        },
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
+      "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
+    },
+    {
+      "added_at": "2023-02-10 12:23:26",
+      "album": {
         "name": "Ess\u00eancia",
         "url": "https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm"
       },
@@ -1471,22 +1471,6 @@
       "duration_ms": 398986,
       "name": "A Resposta",
       "url": "https://open.spotify.com/track/5QiHzqXsMhaDNuBGgSjtSO"
-    },
-    {
-      "added_at": "2023-02-10 12:23:26",
-      "album": {
-        "name": "Esconderijo",
-        "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
-      },
-      "artists": [
-        {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        }
-      ],
-      "duration_ms": 296147,
-      "name": "Deus de Detalhes",
-      "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
     },
     {
       "added_at": "2023-02-10 12:23:26",
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2023-02-10 12:23:26",
       "album": {
-        "name": "Deus Cuida de Mim",
-        "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
+        "name": "Esconderijo",
+        "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
       },
       "artists": [
         {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
         }
       ],
-      "duration_ms": 245063,
-      "name": "Deus Cuida de Mim",
-      "url": "https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h"
+      "duration_ms": 296147,
+      "name": "Deus de Detalhes",
+      "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
     },
     {
       "added_at": "2023-02-10 12:23:26",
@@ -1539,6 +1523,22 @@
       "duration_ms": 239000,
       "name": "Deus e Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/1Uan5GD1uZ1b6ivgt7ODsp"
+    },
+    {
+      "added_at": "2023-02-10 12:23:26",
+      "album": {
+        "name": "Deus Cuida de Mim",
+        "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "duration_ms": 245063,
+      "name": "Deus Cuida de Mim",
+      "url": "https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h"
     },
     {
       "added_at": "2023-02-10 12:23:26",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-02-10 12:23:26",
       "album": {
-        "name": "No Other Name (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 401760,
-      "name": "This I Believe (The Creed) - Live",
-      "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
-    },
-    {
-      "added_at": "2023-02-10 12:23:26",
-      "album": {
         "name": "N\u00e3o Acabou (Ao Vivo)",
         "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 315556,
       "name": "N\u00e3o Acabou (Ao Vivo)",
       "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
+    },
+    {
+      "added_at": "2023-02-10 12:23:26",
+      "album": {
+        "name": "No Other Name (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 401760,
+      "name": "This I Believe (The Creed) - Live",
+      "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
     },
     {
       "added_at": "2023-02-10 12:23:26",
@@ -1667,22 +1667,18 @@
     {
       "added_at": "2023-02-10 12:23:26",
       "album": {
-        "name": "Let There Be Light (Deluxe)",
-        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 341080,
-      "name": "What A Beautiful Name - Live",
-      "url": "https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f"
+      "duration_ms": 260620,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
     },
     {
       "added_at": "2023-02-10 12:23:26",
@@ -1739,18 +1735,22 @@
     {
       "added_at": "2023-02-10 12:23:26",
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+        "name": "Let There Be Light (Deluxe)",
+        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 260620,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
+      "duration_ms": 341080,
+      "name": "What A Beautiful Name - Live",
+      "url": "https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f"
     },
     {
       "added_at": "2023-02-10 12:23:26",

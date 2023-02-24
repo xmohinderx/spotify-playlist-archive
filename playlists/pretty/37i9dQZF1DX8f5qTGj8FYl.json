@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 325395,
+  "num_followers": 325547,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDg2NzRkMTUyNTFiNzdmZDczNGJlN2NhODQ1NGFlNTk5",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDM1MThkZjJhY2FlNzgyNGZkOWUyOGY0YTlmZGUzMWQ3",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
     },
     {
+      "added_at": "2021-01-15 21:11:37",
+      "album": {
+        "name": "The Duke",
+        "url": "https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "The Duke",
+      "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
+    },
+    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "The Fox",
@@ -927,22 +943,6 @@
       "duration_ms": 302288,
       "name": "Bunny Hop",
       "url": "https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp"
-    },
-    {
-      "added_at": "2021-01-15 21:11:37",
-      "album": {
-        "name": "The Duke",
-        "url": "https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "The Duke",
-      "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1025,38 +1025,6 @@
       "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Groove Cubed",
-        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
-      },
-      "artists": [
-        {
-          "name": "Rock Candy Funk Party",
-          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
-        }
-      ],
-      "duration_ms": 412733,
-      "name": "In the Groove",
-      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Prospect Park West",
-        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
-      },
-      "artists": [
-        {
-          "name": "Jerry McHoy",
-          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
-        }
-      ],
-      "duration_ms": 176184,
-      "name": "Prospect Park West",
-      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
-    },
-    {
       "added_at": "2021-07-09 04:01:00",
       "album": {
         "name": "Praise Me Now",
@@ -1075,6 +1043,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "The Groove Cubed",
+        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
+      },
+      "artists": [
+        {
+          "name": "Rock Candy Funk Party",
+          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
+        }
+      ],
+      "duration_ms": 412733,
+      "name": "In the Groove",
+      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Stay Awhile",
         "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 255093,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Prospect Park West",
+        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
+      },
+      "artists": [
+        {
+          "name": "Jerry McHoy",
+          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
+        }
+      ],
+      "duration_ms": 176184,
+      "name": "Prospect Park West",
+      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Greasin The Wheels",
-        "url": "https://open.spotify.com/album/4sXHD4MaPHwTdjivbWMmtO"
-      },
-      "artists": [
-        {
-          "name": "The Sound Stylistics",
-          "url": "https://open.spotify.com/artist/104foQZN65b6NnTR40dwOO"
-        }
-      ],
-      "duration_ms": 293880,
-      "name": "THE CRISIS GENERATOR",
-      "url": "https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "The Basement Beat",
         "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
       },
@@ -1273,20 +1257,20 @@
       "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Songs from the House of Grease",
-        "url": "https://open.spotify.com/album/2qqpahdgQM6RLq8qyEmmGH"
+        "name": "Greasin The Wheels",
+        "url": "https://open.spotify.com/album/4sXHD4MaPHwTdjivbWMmtO"
       },
       "artists": [
         {
-          "name": "J.D. Simo",
-          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
+          "name": "The Sound Stylistics",
+          "url": "https://open.spotify.com/artist/104foQZN65b6NnTR40dwOO"
         }
       ],
-      "duration_ms": 235360,
-      "name": "Missy's Strut",
-      "url": "https://open.spotify.com/track/2oChEoxQkpXyJEBpzt3PMA"
+      "duration_ms": 293880,
+      "name": "THE CRISIS GENERATOR",
+      "url": "https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1305,22 +1289,6 @@
       "url": "https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ"
     },
     {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Cloud Vibes",
-        "url": "https://open.spotify.com/album/2wHAj2b9Bv32JbqeRlNbJB"
-      },
-      "artists": [
-        {
-          "name": "E. Live",
-          "url": "https://open.spotify.com/artist/0HB3DYw6dUNqE9wFm6edkT"
-        }
-      ],
-      "duration_ms": 240037,
-      "name": "Float On",
-      "url": "https://open.spotify.com/track/68vr9Tp7AuN4CdVXHZBLyE"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Lost Knights",
@@ -1337,20 +1305,36 @@
       "url": "https://open.spotify.com/track/6d2O45piXdSJ1ieRFuYYXn"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
+        "name": "Cloud Vibes",
+        "url": "https://open.spotify.com/album/2wHAj2b9Bv32JbqeRlNbJB"
       },
       "artists": [
         {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+          "name": "E. Live",
+          "url": "https://open.spotify.com/artist/0HB3DYw6dUNqE9wFm6edkT"
         }
       ],
-      "duration_ms": 324078,
-      "name": "Royal Highness",
-      "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
+      "duration_ms": 240037,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/68vr9Tp7AuN4CdVXHZBLyE"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Songs from the House of Grease",
+        "url": "https://open.spotify.com/album/2qqpahdgQM6RLq8qyEmmGH"
+      },
+      "artists": [
+        {
+          "name": "J.D. Simo",
+          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "Missy's Strut",
+      "url": "https://open.spotify.com/track/2oChEoxQkpXyJEBpzt3PMA"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1383,6 +1367,22 @@
       "duration_ms": 198966,
       "name": "Everybody's Inn",
       "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 324078,
+      "name": "Royal Highness",
+      "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
     }
   ],
   "unique_name": "Instrumental Funk",

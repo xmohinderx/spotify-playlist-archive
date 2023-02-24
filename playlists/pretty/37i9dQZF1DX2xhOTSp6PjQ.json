@@ -1,13 +1,29 @@
 {
-  "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs?si=fl5dBqaUSQmDLXMOXNYbIQ\">Khuzani</a>",
-  "num_followers": 21177,
+  "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9?si=i7uGfhIiQqSACQVc0TcL0w\">Imithente</a>",
+  "num_followers": 21232,
   "original_name": "Bhinca Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4NDc0MCwwMDAwMDAwMDEyOWIyOGVhMmE5MmEwNDcyNDg3ZDU5MGM2OTM4ODQz",
+  "snapshot_id": "MTY3NzE4OTU0MCwwMDAwMDAwMDVlNDE0ZjNlODJjYmYyZTQ5OTE0YmMwNTM1MzI3OWVj",
   "tracks": [
+    {
+      "added_at": "2023-02-16 21:59:00",
+      "album": {
+        "name": "Ngiyeza",
+        "url": "https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR"
+      },
+      "artists": [
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        }
+      ],
+      "duration_ms": 281240,
+      "name": "Ngiyeza",
+      "url": "https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu"
+    },
     {
       "added_at": "2023-02-16 21:59:00",
       "album": {
@@ -31,22 +47,6 @@
     {
       "added_at": "2023-02-16 21:59:00",
       "album": {
-        "name": "Ngiyeza",
-        "url": "https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR"
-      },
-      "artists": [
-        {
-          "name": "Lwah Ndlunkulu",
-          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
-        }
-      ],
-      "duration_ms": 281240,
-      "name": "Ngiyeza",
-      "url": "https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
         "name": "Phakathi Komhlane Nembeleko",
         "url": "https://open.spotify.com/album/3LJ39cJZE7hPwG2j6RXc5s"
       },
@@ -59,6 +59,22 @@
       "duration_ms": 260230,
       "name": "Asifani siyafanelana",
       "url": "https://open.spotify.com/track/61rcqq5Z6GSjVyhuFAMbiw"
+    },
+    {
+      "added_at": "2023-02-23 21:59:00",
+      "album": {
+        "name": "S'kushaya Isdakwa",
+        "url": "https://open.spotify.com/album/3W662ml4nC71f2QUTMKeLy"
+      },
+      "artists": [
+        {
+          "name": "Imithente",
+          "url": "https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9"
+        }
+      ],
+      "duration_ms": 243693,
+      "name": "S'kushaya Isdakwa",
+      "url": "https://open.spotify.com/track/2PJ6NP1np4QGGJpnl6MGwx"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -921,6 +937,26 @@
       "url": "https://open.spotify.com/track/6UFkLF40TBGfVFry7LXSxJ"
     },
     {
+      "added_at": "2023-02-23 21:59:00",
+      "album": {
+        "name": "Kuyabongwa",
+        "url": "https://open.spotify.com/album/5ZEowNb3KsMZfmMCnOW8b8"
+      },
+      "artists": [
+        {
+          "name": "Mr Vee Sholo",
+          "url": "https://open.spotify.com/artist/3Qb0EgeDtnCKvw9HzE4x9U"
+        },
+        {
+          "name": "Sihle Kona",
+          "url": "https://open.spotify.com/artist/0UJaLaZkvRM9B91fxW4GDa"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Masiyembo",
+      "url": "https://open.spotify.com/track/0G4iC2UTqq0dE65KRqqhC9"
+    },
+    {
       "added_at": "2023-02-16 21:59:00",
       "album": {
         "name": "Phakathi Komhlane Nembeleko",
@@ -1095,38 +1131,6 @@
       "duration_ms": 289991,
       "name": "Ekhenana",
       "url": "https://open.spotify.com/track/4VqeQHfo2ubS5tqq5wmaOE"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Angiseyona Itype Yakho",
-        "url": "https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ"
-      },
-      "artists": [
-        {
-          "name": "Bobo Mfana Wepiki",
-          "url": "https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt"
-        }
-      ],
-      "duration_ms": 340976,
-      "name": "Ukuthanda Izinto",
-      "url": "https://open.spotify.com/track/2DqL1bQTQVvVDnT16iQq7z"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Isingqazu Sami",
-        "url": "https://open.spotify.com/album/4pGIADaXRBnuRRWBs7QAdG"
-      },
-      "artists": [
-        {
-          "name": "Inxakanxaka",
-          "url": "https://open.spotify.com/artist/43DNa0M6aCPjeWTVIL7x80"
-        }
-      ],
-      "duration_ms": 309813,
-      "name": "Isingqazu Sami",
-      "url": "https://open.spotify.com/track/0wg9dKX6zfOVy3A53osxIS"
     },
     {
       "added_at": "2023-02-16 21:59:00",

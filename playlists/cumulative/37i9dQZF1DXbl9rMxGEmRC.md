@@ -2,9 +2,9 @@
 
 ### [Extreme Metal](https://open.spotify.com/playlist/37i9dQZF1DXbl9rMxGEmRC)
 
-> Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Dimmu Borgir
+> Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-338 songs - 1 day 5 hr 27 min
+342 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Acclamation of Bonds](https://open.spotify.com/track/1KKcGv11n6RVa2l7Edi5ZY) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [Acclamation of Bonds](https://open.spotify.com/album/0BBiyOZILxrh1WvVp0TfGb) | 6:00 | 2022-06-10 | 2022-07-19 |
 | [Age Of The Ordeal Of Iron](https://open.spotify.com/track/6PpdiS1ITIfNn2CN2dGVfM) | [Wormwitch](https://open.spotify.com/artist/5eTTS3YDf54li8yguyoP14) | [Age Of The Ordeal Of Iron](https://open.spotify.com/album/2f59CKxRPx3HOc96WcCL4q) | 5:53 | 2022-05-13 | 2022-07-28 |
 | [Agnus Dei](https://open.spotify.com/track/0fGhJvH67AJzNbdmDI0VDc) | [Funeral Mist](https://open.spotify.com/artist/2HDKz66BGq7RI2wEoMgPcv) | [Salvation](https://open.spotify.com/album/4aa0c088fBY0PYvrhKVEp2) | 4:33 | 2022-07-13 | 2022-07-27 |
-| [Am Rande der Dunkelheit](https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F) | [Der Weg einer Freiheit](https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD) | [Noktvrn](https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A) | 8:17 | 2021-12-17 |  |
+| [Am Rande der Dunkelheit](https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F) | [Der Weg einer Freiheit](https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD) | [Noktvrn](https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A) | 8:17 | 2021-12-17 | 2023-02-24 |
 | [Among the Unseen Ones](https://open.spotify.com/track/23h8JMaMMLe414X17cJaWF) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [While the Gods Are Sleeping](https://open.spotify.com/album/7qVN7yi6GFqfsItbmaqWbJ) | 5:39 | 2022-05-06 | 2022-06-11 |
 | [Anadem Gyre](https://open.spotify.com/track/1eBUzrOlsY9OMmiaSolhox) | [Antiqva](https://open.spotify.com/artist/6ahZhWLiImspvawPYn6FVd) | [Anadem Gyre](https://open.spotify.com/album/7ykuG0RJkSqhPWCi6kplm5) | 4:04 | 2021-12-17 | 2022-05-07 |
 | [Ancient Death](https://open.spotify.com/track/08k0tIpeDbMWUR3iI6e8Co) | [Asagrimmr](https://open.spotify.com/artist/41V31Mbn9X3RX7GyWrKSQj) | [Ancient Death](https://open.spotify.com/album/0OS5vfWnkTqYz1dBnktFbW) | 6:56 | 2021-12-17 | 2022-01-08 |
@@ -22,7 +22,7 @@
 | [Anguish](https://open.spotify.com/track/63GKWmCfC9dIOOxP16AwZn) | [Progeny of Sun](https://open.spotify.com/artist/2IOwkQMglFyNgyhjnG2Bpl) | [Anguish](https://open.spotify.com/album/1X9jlZ1B56LU3RpTQOSiaJ) | 3:07 | 2022-05-13 | 2022-07-28 |
 | [Annihilation Phenomena](https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Annihilation Phenomena](https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO) | 3:51 | 2022-10-27 |  |
 | [Apostle](https://open.spotify.com/track/1HI10LWV2JuIhTrl1WUVeu) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Apostle](https://open.spotify.com/album/2zuqFATCXyRlhU50M1uYvA) | 4:16 | 2021-12-17 | 2022-07-29 |
-| [Apostle](https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 4:16 | 2022-11-25 |  |
+| [Apostle](https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 4:16 | 2022-11-25 | 2023-02-24 |
 | [As Above So Below](https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN) | 4:59 | 2022-07-13 |  |
 | [As Above So Below](https://open.spotify.com/track/5T6FioXGDdd5kw4I3HpHH1) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/7FKHNF62tKyP6ejTQ1qo2m) | 5:01 | 2022-07-13 | 2022-07-29 |
 | [Atomic Chapel](https://open.spotify.com/track/5Ie3VqOrOkiBGy3jXmTUxC) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Demonoir](https://open.spotify.com/album/6oJJJgHeX9b90lz7Vvkzu4) | 6:24 | 2022-07-13 | 2022-07-25 |
@@ -37,7 +37,7 @@
 | [Bergtatt\-Ind I Fjeldkamrene](https://open.spotify.com/track/0i1xhn4lNnR2G3hUwybhW7) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Bergtatt](https://open.spotify.com/album/0IzZybUYqSYhCnt1FI5SWz) | 8:06 | 2022-07-13 | 2022-07-28 |
 | [Bergtatt\-Ind I Fjeldkamrene](https://open.spotify.com/track/54gobTrNsykhJzLP2hL1ju) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Bergtatt](https://open.spotify.com/album/5OEz7YwAQyYvaSl1pmkPCI) | 8:06 | 2022-07-13 | 2022-08-02 |
 | [Black Crow on a Tombstone](https://open.spotify.com/track/0ceibOL5IiWDOeBv2PYUGS) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/6aRs27tvkatPTAIE7gaj1j) | 3:50 | 2022-07-13 | 2022-07-29 |
-| [Black Crow On A Tombstone](https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/4Yzl4aZZ6Qs9LvKuOIRHJw) | 3:56 | 2022-07-13 |  |
+| [Black Crow On A Tombstone](https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/4Yzl4aZZ6Qs9LvKuOIRHJw) | 3:56 | 2022-07-13 | 2023-02-24 |
 | [Black Dragon](https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [Reinkaos](https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw) | 4:48 | 2022-07-13 |  |
 | [Black Flames March](https://open.spotify.com/track/67NmAcOBbppWwqory0sYir) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The Wild Hunt](https://open.spotify.com/album/3BEfG3ZXFY0xjjvIXRwqOj) | 6:20 | 2022-07-13 | 2023-02-19 |
 | [Black Fog and Poison Wind](https://open.spotify.com/track/6cS2AAZePp2lSwYy1HrrRG) | [Darkwoods My Betrothed](https://open.spotify.com/artist/63f4uHAHuzSuzgd8SnoFwn) | [Black Fog and Poison Wind](https://open.spotify.com/album/7L9L2M4znx70n1qBBBvtKl) | 4:42 | 2021-12-17 | 2022-07-21 |
@@ -107,6 +107,7 @@
 | [Ethnogenese](https://open.spotify.com/track/71Y8PGb5uicatooZb7Yot1) | [Obscurity](https://open.spotify.com/artist/1O6WsZT2io58x15CXAQVBO) | [Ethnogenese](https://open.spotify.com/album/2TOEbYty0peTaPXBw6EicO) | 4:10 | 2021-12-17 | 2022-01-29 |
 | [Event Horizon](https://open.spotify.com/track/6OH0OWVVHryjQxQfEnv4Fc) | [Dawn Of Solace](https://open.spotify.com/artist/7anjHetVbdSelRpDsZzWY7) | [Event Horizon](https://open.spotify.com/album/42gPwQ8a9gO5C2pSQpXrPm) | 3:51 | 2021-12-17 | 2022-07-29 |
 | [Exalted Traitors](https://open.spotify.com/track/4CBJvSuoaeetDRZ72G4HjH) | [AMONGST THE ASHES](https://open.spotify.com/artist/7zqcHo6jbneyrYZkp7fgBJ) | [Exalted Traitors](https://open.spotify.com/album/4Q8o683g7mYbEeJzcaqcQ5) | 5:09 | 2022-05-13 | 2022-07-14 |
+| [Existence of Awe](https://open.spotify.com/track/5kICTvuUW9hrDpEktp78fL) | [Downfall Of Gaia](https://open.spotify.com/artist/2ZBAmlpAv7mVb9ZqUuHLSg) | [Existence of Awe](https://open.spotify.com/album/2tcsisxp6rKvWppxliNwp1) | 5:30 | 2023-02-23 |  |
 | [Faces From Beyond](https://open.spotify.com/track/5pMGhbV6EDt9kxxzGZm086) | [Atrocity](https://open.spotify.com/artist/050NpEYZ5xFUS1BOAZjVmX) | [Faces From Beyond](https://open.spotify.com/album/07tI8UIDXurBgET99kFZmk) | 5:02 | 2022-12-02 | 2023-01-27 |
 | [Fandens Trall](https://open.spotify.com/track/03UIzw1IUBXjTEOqx3oh1f) | [Kampfar](https://open.spotify.com/artist/35nZyw3d7OIbhGeqBEPIYQ) | [Fandens Trall](https://open.spotify.com/album/5qTYxrGgEKprOaz4js9b0m) | 5:24 | 2022-05-06 | 2022-07-28 |
 | [FANTASY](https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FANTASY](https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn) | 2:10 | 2022-04-08 | 2022-04-15 |
@@ -139,6 +140,7 @@
 | [Hades](https://open.spotify.com/track/1acx35894eJWiwnjN7faXD) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Bathory](https://open.spotify.com/album/7DMuOFuYQbzoVgw4Cawf6L) | 2:50 | 2022-07-13 |  |
 | [Hamartia](https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hamartia](https://open.spotify.com/album/35IemOnFQjg24kRfqGxsFS) | 6:03 | 2022-09-16 |  |
 | [Harvest Pyre](https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Outstrider](https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ) | 4:12 | 2022-07-13 |  |
+| [Haunted by Guilt](https://open.spotify.com/track/6vt2sAnAVzN0fPAa9hvFYU) | [Kalmah](https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF) | [Haunted by Guilt](https://open.spotify.com/album/7KTsCcLQtB09OhpulYMTmB) | 3:45 | 2023-02-23 |  |
 | [Hautavajo](https://open.spotify.com/track/67CJMg5WR3wuzfekNNWxj8) | [Vermilia](https://open.spotify.com/artist/7lNaiNaI2CNeEhFg7iSPRm) | [Hautavajo](https://open.spotify.com/album/5EREwAR0GtdmWrBc5Fgfad) | 5:32 | 2022-06-10 | 2022-07-23 |
 | [Havenless](https://open.spotify.com/track/5XsxbIQeESqlp2BwHyZ8x7) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Below The Lights](https://open.spotify.com/album/3uei5LFX4boIwVER1zdLD8) | 5:35 | 2022-07-13 |  |
 | [Hearts Turn To Stone](https://open.spotify.com/track/3wIOB1z2Vxse4W6fulRqJg) | [Trna](https://open.spotify.com/artist/6X78UG1TKS2NTAJ9bovuqp) | [Istok](https://open.spotify.com/album/6ZjiERTM8gvDyJFc49g4P9) | 6:45 | 2021-12-17 | 2022-04-29 |
@@ -204,6 +206,7 @@
 | [Mother North](https://open.spotify.com/track/79iREiH6mrODItQGLaidt8) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Nemesis Divina](https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb) | 6:25 | 2022-07-13 |  |
 | [Mother North \- Remastered 2016](https://open.spotify.com/track/2kBBRk0vuVdQjA1LH494Qz) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Nemesis Divina](https://open.spotify.com/album/6K0rkORxLaVvOC72xW9ZgB) | 6:25 | 2022-07-13 | 2022-07-29 |
 | [Mountain Magick](https://open.spotify.com/track/0BgrdFSWYIM4DiWFdaOOyX) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Primordial Arcana](https://open.spotify.com/album/6F3UlS1JBlGkzeTrYuJMiB) | 5:55 | 2023-02-15 |  |
+| [Mournful Glow](https://open.spotify.com/track/4dWlYMm90NXNyRBe8duLXv) | [Mithridatum](https://open.spotify.com/artist/2ukVC6m4tSCgaCXqWuEwNQ) | [Harrowing](https://open.spotify.com/album/4u6tkLpzgHn5IBJRRHL0XB) | 7:48 | 2023-02-23 |  |
 | [Mourning Palace](https://open.spotify.com/track/4UNTWZ8xNGgHOWXixIt5UP) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/6EZbLDXHjeW5LHGmEqChmQ) | 5:10 | 2022-07-13 | 2022-07-29 |
 | [Mourning Palace](https://open.spotify.com/track/2t0DnOIEpkbJqDc6h1IKnw) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9) | 5:13 | 2022-07-13 |  |
 | [My Darkest Years](https://open.spotify.com/track/2iyYwiQrbo6aYnGjzaf1J3) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [My Darkest Years](https://open.spotify.com/album/1zoIzsHNfakAikbXHIMpMD) | 4:56 | 2023-02-10 |  |
@@ -236,7 +239,7 @@
 | [Pillars Of Mercy](https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8) | [Absu](https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP) | [Tara](https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke) | 4:21 | 2022-07-13 | 2023-01-05 |
 | [Pipe Dreams](https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Pipe Dreams](https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl) | 4:05 | 2022-02-11 | 2022-07-29 |
 | [Popecrusher](https://open.spotify.com/track/112ODhA6Xh9999jyqpYAmO) | [Witchery](https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10) | [Popecrusher](https://open.spotify.com/album/5lp8Fhsz1D6kZypBMGUDn8) | 3:08 | 2022-05-20 | 2022-08-18 |
-| [Prism](https://open.spotify.com/track/21Atks7bDN6e7RYQe7Ctax) | [Anachronism](https://open.spotify.com/artist/6PEBIPKi5TvTrCoyDsRDTh) | [Meanders](https://open.spotify.com/album/5uZNpFKELGKlq5iJkVlIuF) | 4:04 | 2023-02-15 |  |
+| [Prism](https://open.spotify.com/track/21Atks7bDN6e7RYQe7Ctax) | [Anachronism](https://open.spotify.com/artist/6PEBIPKi5TvTrCoyDsRDTh) | [Meanders](https://open.spotify.com/album/5uZNpFKELGKlq5iJkVlIuF) | 4:04 | 2023-02-15 | 2023-02-24 |
 | [Profetens Åpenbaring](https://open.spotify.com/track/1pNqnj1ympoWWNR1qEpHKo) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3GBpagKDLL4cRseF5yxKVV) | 5:20 | 2022-07-13 | 2022-07-29 |
 | [Profetens Åpenbaring](https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3km1rY5IuethseXC3jvMGY) | 5:20 | 2022-07-13 |  |
 | [Puritania](https://open.spotify.com/track/0bKs1y9PTFBddM9qj0JGvb) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritanical Euphoric Misanthropia](https://open.spotify.com/album/6sDdbLoIOzGwR61lL2jGN2) | 3:06 | 2022-07-13 |  |
@@ -249,6 +252,7 @@
 | [Resurgence](https://open.spotify.com/track/00KhJRzikpiLzCXMQMvF22) | [Hate](https://open.spotify.com/artist/13XggX75z0Hk0VNvOuTJoB) | [Resurgence](https://open.spotify.com/album/7JIec3VUIGOhcZnyffsgXE) | 3:40 | 2021-12-17 | 2022-04-29 |
 | [Riitti](https://open.spotify.com/track/4Hd6i2Gsz8oteMoaz1NJ9u) | [Verikalpa](https://open.spotify.com/artist/5tqZo146ewkPULPWNGPdq3) | [Riitti](https://open.spotify.com/album/59VTx7tGkZgqWFqyK9HQDK) | 4:53 | 2022-01-07 | 2022-07-23 |
 | [Ring of Gold](https://open.spotify.com/track/35yrWddjHkq0FqDBitYZZT) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Nordland I](https://open.spotify.com/album/7831vQlOH3NIwwC15R7oog) | 5:34 | 2022-07-13 |  |
+| [Rise](https://open.spotify.com/track/65FGIRbPo764N0mSAyJF4F) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Goatlord \(Original\)](https://open.spotify.com/album/62vwGVGlQ68PK61VHamXmp) | 3:55 | 2023-02-23 |  |
 | [Ruhelos](https://open.spotify.com/track/55oD5DLx3Mus347CqyBsJ1) | [Ellende](https://open.spotify.com/artist/1iLdVM2KFAHUbpaC5wpMbO) | [Ruhelos](https://open.spotify.com/album/1wJvcZgUQRKE3VzL15N7tH) | 7:20 | 2022-09-01 | 2022-11-03 |
 | [Ruun II \- The Epitaph](https://open.spotify.com/track/2MSPBBEgmtqE7bUu8Kos6T) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Caravans to the Outer Worlds](https://open.spotify.com/album/4SQD8QqIgZKYEGraVPzxgo) | 5:37 | 2021-12-17 | 2022-05-14 |
 | [Sadist](https://open.spotify.com/track/3Ne8ghFiincs3REg5M2Ygf) | [Portrayal of Guilt](https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp) | [Sadist](https://open.spotify.com/album/5ckNNJmh051xpFqHzPstQM) | 2:58 | 2021-12-17 | 2022-07-28 |

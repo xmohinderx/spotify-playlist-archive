@@ -4,7 +4,7 @@
 
 > jonatan leandoer96 makes anti pop.
 
-1,261 songs - 2 day 12 hr 55 min
+1,262 songs - 2 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Get Up \(feat\. Vince Staples\)](https://open.spotify.com/track/6PbU0URiPBpH4UD9CfCgF7) | [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Get Up \(feat\. Vince Staples\)](https://open.spotify.com/album/2XOgYO8CiY86X9XK3wbqbs) | 2:47 | 2020-10-13\* | 2021-05-29 |
 | [get yo bread](https://open.spotify.com/track/1CbRf2PzsxscJKbzlngTyr) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [get yo bread](https://open.spotify.com/album/4gV0AqHdzOwBuykylnF0lf) | 3:44 | 2022-07-15 | 2022-08-06 |
 | [get yo bread](https://open.spotify.com/track/7L5W4IMeAwM0jYTCmS6AjA) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine](https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq) | 3:44 | 2022-10-25 | 2022-10-29 |
+| [GHOST\*](https://open.spotify.com/track/7mfGLdrBIlR7o6s6YFpjwi) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [GHOST\*](https://open.spotify.com/album/4UmCXtYrA5Bodd4HGKCQzM) | 2:20 | 2023-02-17 |  |
 | [Gimme Love](https://open.spotify.com/track/0HItcI6qN6Dr4MC3CZryQh) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:34 | 2022-02-28 | 2022-04-11 |
 | [Gimme Love](https://open.spotify.com/track/2hfoyc7ve6xM4ZEiNIiU1B) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Gimme Love](https://open.spotify.com/album/3NhYseiC5dmIJMAOfaFeIU) | 3:34 | 2020-10-13\* | 2022-10-26 |
 | [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2022-08-05 | 2022-11-10 |
@@ -1126,7 +1127,7 @@
 | [Thinking About You](https://open.spotify.com/track/0iCLx43SpsVplbYGWJlYU2) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Wyoming](https://open.spotify.com/album/4h9sWVwjvC9z7Kv6c4ilXa) | 3:41 | 2022-11-11 | 2022-12-01 |
 | [This Thing Of Ours](https://open.spotify.com/track/5fasR6LRfES4uLsS0xgKu5) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Universal Credit \(Deluxe\)](https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl) | 2:50 | 2022-11-26 | 2023-01-28 |
 | [Thoughts](https://open.spotify.com/track/117md6XUEAEck2F0DV2nDY) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Thoughts](https://open.spotify.com/album/2P6n385JAr3vtrGRr6zhgr) | 2:44 | 2020-12-18 | 2021-02-13 |
-| [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 |  |
+| [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 | 2023-02-24 |
 | [Three Man Weave](https://open.spotify.com/track/7L4AtavGZEEDkVw1E0mDYn) | [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Injury Reserve](https://open.spotify.com/album/5UWKsRDw3O4BsobmeyRpB9) | 3:26 | 2022-05-09 | 2022-07-19 |
 | [thrill of it](https://open.spotify.com/track/6OJzRNbm6qQim9keNrpVL5) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [thrill of it](https://open.spotify.com/album/5GMpcwo54JVtOV2tIDSbmw) | 2:08 | 2021-07-14 | 2021-12-22 |
 | [throwing leaves, casting stones](https://open.spotify.com/track/4MkVYJyLDIS7gaa0IuSlSF) | [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [throwing leaves, casting stones](https://open.spotify.com/album/4mHCekwLgmu3SHJWaQfKV5) | 3:38 | 2021-04-03 | 2021-06-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,724 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,735 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,18 +24,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 14 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
 | 15 | [Tipitina \- Mono](https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:38 |
 | 16 | [I Got a Woman](https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 3:13 |
-| 17 | [I'm A Lover Not A Fighter](https://open.spotify.com/track/1vSRhDHRI1jVa6BQURJtRO) | [Lazy Lester](https://open.spotify.com/artist/72D581Szg2z107f9qlLvjV) | [I Hear You Knockin'!](https://open.spotify.com/album/5Ch6Uc0OTpBUI9LvPrQDsk) | 2:45 |
+| 17 | [Junco Partner](https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Junco Partner](https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV) | 5:10 |
 | 18 | [Creole Moon](https://open.spotify.com/track/7uf7sRGi0DkGgTOTSjrBUG) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Creole Moon](https://open.spotify.com/album/0Jzf95x1LjqhTda3HMH5ZU) | 8:34 |
 | 19 | [This Time I'm Gone For Good](https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Man Of My Word](https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5) | 4:40 |
-| 20 | [Junco Partner](https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Junco Partner](https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV) | 5:10 |
+| 20 | [I'm A Lover Not A Fighter](https://open.spotify.com/track/1vSRhDHRI1jVa6BQURJtRO) | [Lazy Lester](https://open.spotify.com/artist/72D581Szg2z107f9qlLvjV) | [I Hear You Knockin'!](https://open.spotify.com/album/5Ch6Uc0OTpBUI9LvPrQDsk) | 2:45 |
 | 21 | [I'm Coming Home \(To See My Mother\)](https://open.spotify.com/track/75E2RVwx6dncaH51QTFAeU) | [Clifton Chenier](https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY) | [The Best of Clifton Chenier: The King of Zydeco & Louisiana Blues](https://open.spotify.com/album/2hwL2KfeYCpeMHeve8Y3QF) | 3:19 |
 | 22 | [Mother's Love](https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA) | [Earl King](https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn) | [New Orleans Blues](https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli) | 2:43 |
-| 23 | [Well I Done Got Over It](https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl) | [Guitar Slim](https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s) | [Sufferin' Mind](https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5) | 2:27 |
+| 23 | [One For The Highway](https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Classified \(Remixed & Expanded Edition\)](https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo) | 2:34 |
 | 24 | [Hey Now Baby](https://open.spotify.com/track/66fgQCgrVrzuGwgOygTh5w) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Alligator](https://open.spotify.com/album/7bWzWGdmK5QepRg00IoKDV) | 3:00 |
 | 25 | [By the Water](https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:39 |
-| 26 | [Reconsider Me](https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb) | 3:55 |
-| 27 | [Boppin' The Rock](https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R) | [Clifton Chenier](https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY) | [Zodico Blues & Boogie](https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC) | 2:21 |
-| 28 | [One For The Highway](https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Classified \(Remixed & Expanded Edition\)](https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo) | 2:34 |
+| 26 | [Boppin' The Rock](https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R) | [Clifton Chenier](https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY) | [Zodico Blues & Boogie](https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC) | 2:21 |
+| 27 | [Reconsider Me](https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb) | 3:55 |
+| 28 | [Well I Done Got Over It](https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl) | [Guitar Slim](https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s) | [Sufferin' Mind](https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5) | 2:27 |
 | 29 | [Trick Bag](https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu) | [Earl King](https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn), [Sam Charters](https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP) | [The Sonet Blues Story](https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx) | 3:08 |
 | 30 | [Accentuate The Positive](https://open.spotify.com/track/0ObsP7kGu8zGZHKbQh6xal) | [John Boutté](https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo) | [Good Neighbor](https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU) | 2:24 |
 | 31 | [The Party's Still Going On](https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Roadside Attractions](https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj) | 3:25 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 39 | [Let's Get High](https://open.spotify.com/track/2uYbT9w61amgpdsxN9Ozx3) | [Henry Gray](https://open.spotify.com/artist/08zDtD8xQDP3tDApCnxrvY), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Bob Stroger](https://open.spotify.com/artist/1JjFeW5yiXLb18bozbG1pe), [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng) | [Vol\. 1: Blues Won't Let Me Take My Rest](https://open.spotify.com/album/6G2BuAE28vxLRAGJPgPBOb) | 3:52 |
 | 40 | [Gonna Stick To You Baby](https://open.spotify.com/track/5rTs9t774oyGMOlEgAOgz6) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [I'm A Mojo Man: The Best Of The Excello Singles](https://open.spotify.com/album/6ubAM1dJPDqNTDjgIssTha) | 2:06 |
 
-Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDAwMDJmOWNkMDgxODBmZjQ5NTk0ZWMyZTg1N2FlNmUwZTdm`
+Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDAwMDcyNTFmODk2NWZhMWZhMDBmNzc2NjUzOWExMzNmN2Q0`

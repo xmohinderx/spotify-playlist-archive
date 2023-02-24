@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Johnson\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Aini Mazalan\. Artwork: Isu Kim.
 
-364 songs - 19 hr 58 min
+368 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [coffee at midnight](https://open.spotify.com/track/16FGUMyTeEdhWnWG8i8lBA) | [JENE](https://open.spotify.com/artist/31feOFDWzpOFbZvZjh8D7o) | [coffee at midnight](https://open.spotify.com/album/2crYIvE0ZXhSnNkhZ3ejpS) | 3:34 | 2021-12-01 | 2022-01-14 |
 | [coincidental tragedy](https://open.spotify.com/track/2AnhXrCnDFeltysEskXd7s) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [coincidental tragedy](https://open.spotify.com/album/0UOTJ1MPOtjb8rCA0iQhES) | 3:50 | 2023-01-12 |  |
 | [Come Back Home](https://open.spotify.com/track/2qVjhQ54bUpzpj20GWvCJr) | [Sam Driscoll](https://open.spotify.com/artist/1abQmYI0m4hTORKTjXuanx) | [Come Back Home](https://open.spotify.com/album/7hKMoH9JnquekAWPm9eB2z) | 4:33 | 2022-01-13 | 2022-06-17 |
+| [COMPANY](https://open.spotify.com/track/0mQRWrVbY2dp1RgPUjpFyt) | [Istifarah](https://open.spotify.com/artist/6RlOPeRGZkaYKZMzLHXK0n) | [COMPANY](https://open.spotify.com/album/6zj1I6mw3QoImrZZftTo8S) | 3:30 | 2023-02-23 |  |
 | [confetti](https://open.spotify.com/track/0gH7FwKIMs6v9sM3s6RA3K) | [Stephanie Tay](https://open.spotify.com/artist/4CpuhhOxqqit4PIKng15m0), [Jodi Tan](https://open.spotify.com/artist/6YhrHJxtfv9Bv6oNt27tv3) | [confetti](https://open.spotify.com/album/3m9Q8vL6UxYx1RtIgDc3Kp) | 3:11 | 2022-01-20 | 2022-03-11 |
 | [Constantly \(Falling in Love\)](https://open.spotify.com/track/3AUBmGDppUI1BKbbAVl13F) | [Michael Noah](https://open.spotify.com/artist/2ojD8pNHaaxw4dJJ0ab38g) | [Constantly \(Falling in Love\)](https://open.spotify.com/album/5aH9sixHiydlT3NjCMPIpl) | 4:18 | 2022-01-13 | 2022-06-17 |
 | [Crimson Lies](https://open.spotify.com/track/6aSD3CBRKoUlQhnkAJhrzd) | [We the Villains](https://open.spotify.com/artist/07DdTSeIau4SVJGWuILaE1) | [From Ashes, We Rise](https://open.spotify.com/album/3X3WJCf04YHwnkusSn7OCi) | 3:22 | 2022-01-13 | 2022-06-17 |
@@ -227,6 +228,7 @@
 | [nobody else](https://open.spotify.com/track/0aHNMjGs5KkQw6UJuWaYfV) | [fahmy.](https://open.spotify.com/artist/1B9PxfeSIjOHvfr0jVidlG), [BDK NIP](https://open.spotify.com/artist/7eugoeLuyxuWEUDD46UHZa) | [nobody else](https://open.spotify.com/album/1DmEV4KrXrnHDOEtpNWcHf) | 2:34 | 2022-07-14 | 2022-09-16 |
 | [NOT A CRIMINAL](https://open.spotify.com/track/1FSmBKiaGkfIKG0SYbUVAU) | [TIMUR](https://open.spotify.com/artist/47OYA8Nbxh00qRELoAbKD4) | [NOT A CRIMINAL](https://open.spotify.com/album/0q6EVqPENcE3wMo4zwWvuH) | 2:50 | 2022-03-31 | 2023-01-13 |
 | [NOT OKAY](https://open.spotify.com/track/6bD5U0SPX9AzQg4hqEjyUI) | [JENE](https://open.spotify.com/artist/31feOFDWzpOFbZvZjh8D7o) | [NOT OKAY](https://open.spotify.com/album/1BQL4EiQqKdjDJB1INNYcz) | 3:22 | 2022-11-10 |  |
+| [Not Your Fault](https://open.spotify.com/track/3Hwm9GAnK0KUzyOBLeHNhn) | [Aini Mazalan](https://open.spotify.com/artist/3mfDuM7MO7MWAfFID5ecai) | [Not Your Fault](https://open.spotify.com/album/3fd79xgpeU9pjRgulODIAc) | 4:04 | 2023-02-23 |  |
 | [Novacane](https://open.spotify.com/track/4dpB2DGhRfxbsbqCyxsKi1) | [Alysha Ridwan](https://open.spotify.com/artist/2divqL5ztMYdbU8PguBHxC) | [Novacane](https://open.spotify.com/album/0N4lMcPnDAgXEXF0yVTdJ4) | 2:56 | 2022-01-27 | 2023-01-13 |
 | [Now](https://open.spotify.com/track/5Yw87BrKuMvoborbwxAagF) | [Huzkee](https://open.spotify.com/artist/1tfpoJkjawQMKzlybghU5P) | [Now](https://open.spotify.com/album/4BDimkoIT1WGP183LVQNII) | 2:52 | 2022-04-28 |  |
 | [Oh It's You](https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Summertime](https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a) | 3:25 | 2021-12-01 | 2023-01-13 |
@@ -284,6 +286,7 @@
 | [SNOW](https://open.spotify.com/track/0C6BcGOiT8IMezEPAW5sOq) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [SNOW](https://open.spotify.com/album/3R8UalrmNYbLDw6Gd3X2nd) | 2:52 | 2022-02-24 | 2022-07-01 |
 | [Social Disaster](https://open.spotify.com/track/4HH0dKxiIjkrVzhB8Tcc6M) | [Vixstarr](https://open.spotify.com/artist/5HQreCRekmI6kVhNoSw8xu), [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S) | [Social Disaster](https://open.spotify.com/album/7aQPg1LjYF6s9sEN2GPBVu) | 3:28 | 2022-09-01 | 2023-02-10 |
 | [Solace](https://open.spotify.com/track/0RUfi1QfMXMnGQGcX3FgOJ) | [Afee](https://open.spotify.com/artist/3UgXt5RJMgngGdKXJAFoOD) | [Solace](https://open.spotify.com/album/4HQhioGsFrghbRy8ajT6Sj) | 3:11 | 2023-02-17 |  |
+| [someone else](https://open.spotify.com/track/0bFgNQ99Oxl4AyXlXH0INj) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x) | [someone else](https://open.spotify.com/album/5lJT7yRymAReE9YS31AhqE) | 4:36 | 2023-02-23 |  |
 | [Speak Up \(feat\. Elsa Mickayla\)](https://open.spotify.com/track/6TBDnGtHJn6nZtpYr3PotS) | [Good Luck Chuck](https://open.spotify.com/artist/6zgQqfZ8mYlQOhpsGjok96), [Perk Pietrek](https://open.spotify.com/artist/7gVaS1q03Q8Dliy2lDXLx3), [Direwulf](https://open.spotify.com/artist/77xnTyfSeDkHZ2tufyeAIP), [Elsa Mickayla](https://open.spotify.com/artist/7HA7Xpc6jxV0orcFXWJDe7) | [Speak Up \(feat\. Elsa Mickayla\)](https://open.spotify.com/album/6cVuY3mB3GEqrHY3p7Eys3) | 2:42 | 2021-12-01 | 2022-01-14 |
 | [Spiralling](https://open.spotify.com/track/6LIWJCM7pmkeE5XwbWYcWa) | [benjamin](https://open.spotify.com/artist/2Dpw5rzcRedRcJLH9eyVRc), [DSML](https://open.spotify.com/artist/7kZ5xFtlC9bPMPjWGYBpIu) | [Spiralling](https://open.spotify.com/album/1dqfbFIMErhYlhZJKukVGW) | 2:41 | 2022-03-24 | 2022-06-17 |
 | [Srsly.](https://open.spotify.com/track/1qBhF0rIXtnzfiEl3HqCFs) | [Sio Lubis](https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26) | [Srsly.](https://open.spotify.com/album/0Td0IjuYDcVAmTebQLzvHK) | 3:21 | 2021-12-01 | 2022-01-14 |
@@ -333,6 +336,7 @@
 | [Understand](https://open.spotify.com/track/1R3S9HZQP9jJjodyD4BtMe) | [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n) | [Understand](https://open.spotify.com/album/4YUBwu5YknZvRrBqhYCT1J) | 3:37 | 2022-06-30 | 2022-09-23 |
 | [ur the only one](https://open.spotify.com/track/3qXakyAA5H3pdnL0z3ExpR) | [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [ur the only one](https://open.spotify.com/album/2pinoPrSIr05ASlksdwoOy) | 3:07 | 2022-09-22 |  |
 | [Utopia](https://open.spotify.com/track/60hiLsYGpC5RnyKZQ6aaY4) | [Pokok](https://open.spotify.com/artist/4MoiOz6WZwMyW1RXR0wHW9) | [Utopia](https://open.spotify.com/album/7xKHffhGr9fRADalZdKkjg) | 5:02 | 2022-01-13 | 2022-06-17 |
+| [Utopia Reimagined: These Corners](https://open.spotify.com/track/26dUYggoH8t7nv8qNMbFHy) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Utopia Reimagined: These Corners](https://open.spotify.com/album/6YB9B98Kmum6oN6jqoIlxv) | 5:09 | 2023-02-23 |  |
 | [WAGMI](https://open.spotify.com/track/4ZC9FJH7b9MsmQR9DowTjM) | [jaye](https://open.spotify.com/artist/2j5sAQNpwROkQyQFiBHEZ5) | [WAGMI](https://open.spotify.com/album/2eq1IdDsUQy6QU7RpbnsMx) | 2:22 | 2022-01-13 | 2022-01-21 |
 | [wait.](https://open.spotify.com/track/78Th4cT1tR277M7iiQmv7b) | [Icebox](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [nateli](https://open.spotify.com/artist/1DCZyNPLSPO7adhzk388oS) | [wait.](https://open.spotify.com/album/5CxHl5N0JJsYazJAc7MDAq) | 3:20 | 2023-01-12 |  |
 | [Wanna Talk](https://open.spotify.com/track/0RA9MuqRHxpjYibbH9sJ1h) | [St\. Humain](https://open.spotify.com/artist/1TzaWm5TbNb62mWSvoTW2Y) | [METADRAMATIC](https://open.spotify.com/album/2hwcTP5vjAZJfULKrRWGv8) | 3:20 | 2023-02-09 |  |

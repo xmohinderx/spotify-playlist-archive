@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,293 likes - 1,172 songs - 3 day 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,354 likes - 1,172 songs - 3 day 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -281,7 +281,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 271 | [Dans La Vie](https://open.spotify.com/track/6bssjzalhYCM4cFgnk8YjX) | [Les Shleu Shleu](https://open.spotify.com/artist/3lxLm6XdYOTwQcv5mS5V5T) | [Ace Frape](https://open.spotify.com/album/7nJnMc5zoDpYg8XqyTmOEo) | 8:12 |
 | 272 | [Nisyan](https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Compilation](https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5) | 4:17 |
 | 273 | [Descripcion](https://open.spotify.com/track/5W4GXjPP9PEEnAJQYulvG5) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [Elia Y Elizabeth](https://open.spotify.com/album/45nLucXUnWdmEMbACW2FH0) | 2:55 |
-| 274 | [Yo Por Ti](https://open.spotify.com/track/5XEtVK54D9tenCXln7hfG4) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [23 Exitos Para Cumbiar](https://open.spotify.com/album/0SvFkzozkha01lEYIk439z) | 2:53 |
+| 274 | [Yo Por Ti](https://open.spotify.com/track/0UttGQy60z2NFQMrl5al2F) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [23 Exitos Para Cumbiar](https://open.spotify.com/album/7Ev2rRjhJEvEJrl0ViLX18) | 2:53 |
 | 275 | [Mekeyershene Salawke](https://open.spotify.com/track/7c1OIQVdoncCIdjpd7t9Bo) | [Alemayehu Eshete](https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9) | [Ernesto Chahoud Presents Taitu – Soul\-Fuelled Stompers from 1960s – 1970s Ethiopia](https://open.spotify.com/album/4v94zw6nkbjRpRzGMb0X7y) | 1:48 |
 | 276 | [Beautiful Baby](https://open.spotify.com/track/0YjaCe8mY3u2vmpBe3tY4e) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [Atomic Bomb](https://open.spotify.com/album/7dpwVWiLiTDzmIOALg2QPS) | 8:25 |
 | 277 | [Kivelenge](https://open.spotify.com/track/5cTvI3bsIFVj39emCt8WhY) | [Kalambya Boys](https://open.spotify.com/artist/5aV369AHwkAPC58roE38hz) | [Kenya Special \(Selected East African Recordings From The 1970s & '80s\)](https://open.spotify.com/album/3RX07gHtGTYR7pQsFL6FKO) | 5:39 |
@@ -527,7 +527,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 517 | [Djal Bai Si Camin](https://open.spotify.com/track/3TZR0qntM2Lis7p1HeWxco) | [António dos Santos](https://open.spotify.com/artist/2o2ADjRCEAkByBSrzncXXc) | [Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/2EsNUbAePfQi6qNBjVLtfi) | 7:20 |
 | 518 | [Que Bandeira](https://open.spotify.com/track/2aQ8NyRJcsQFgb8jwUil90) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Cartão Postal](https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN) | 2:29 |
 | 519 | [Mal Élevé](https://open.spotify.com/track/79jn9hQP9u1uobtxIWDw43) | [Raoul Guillaume Et Son Groupe](https://open.spotify.com/artist/5oNgVj96yALgbbdNXgz7df) | [Haiti Direct \- Big Band, Mini Jazz & Twoubadou Sounds, 1960\-1978](https://open.spotify.com/album/3JIX1Ua9b5UPPsk5ovVg6m) | 3:30 |
-| 520 | [El abanico](https://open.spotify.com/track/3tcti84ksNL3qUJddVNucQ) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 3:23 |
+| 520 | [El Abanico](https://open.spotify.com/track/6DCCDO9m760k1QufsMvFcI) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka), [Loui](https://open.spotify.com/artist/4BAorgjAySLENBd4lfqkw8) | [Homenaje a los Embajadores](https://open.spotify.com/album/2vosFMIMYD6j8NGAddQ8Pf) | 3:20 |
 | 521 | [A You Momma](https://open.spotify.com/track/74RS7k3IPbb5feLDC22uhs) | [Ginger Johnson and His African Messengers](https://open.spotify.com/artist/1SLN4cejaprVtC9CO4tRcx) | [African Party](https://open.spotify.com/album/7q7r0MrHX5ALifshTF5P7O) | 3:39 |
 | 522 | [Se O Mundo Acabasse Em Mel](https://open.spotify.com/track/24IrgYEz7EkvDap8lYyQaZ) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Sol de Verão 2021](https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH) | 3:06 |
 | 523 | [Leki Santchi](https://open.spotify.com/track/5y0la7N0Zgm7TolHMLrlet) | [Napo De Mi Amor et Ses Black Devils](https://open.spotify.com/artist/3QgTWfOeIYn1pl92aWFjTG) | [African Scream Contest: Raw & Psychedelic Afro Sounds From Benin & Togo '70s \(Analog Africa No\. 3\)](https://open.spotify.com/album/2wW5Xu007zO47SHJMIOUvO) | 3:25 |
@@ -1181,4 +1181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1171 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1172 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3NTg0NjgwMCwwMDAwMDAwMDdiOWNkMDQxNWUxMDdjMGEzNDE1YzMyMDBlZmZkMTYx`
+Snapshot ID: `MTY3NTg0NjgwMCwwMDAwMDAwMDc3NDFiYzg5ZDdhMDU0NTYzZGQ3OGExNmY4OTIzMmI2`

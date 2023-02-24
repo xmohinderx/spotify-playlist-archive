@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,216 songs - 2 day 15 hr 27 min
+1,217 songs - 2 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Bella ciao \- HUGEL Remix](https://open.spotify.com/track/1MFSD0AkPk8Yq7TDEhrHcb) | [El Profesor](https://open.spotify.com/artist/2gTcdmBwgyh3EORKIXCzlw), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Bella ciao \(HUGEL Remix\)](https://open.spotify.com/album/7iB6JnZ1JD8r8e9BCvZuUY) | 2:45 | 2022-01-01 | 2023-01-03 |
 | [Belly, The Weeknd \- Die For It \(ft\. Nas\)](https://open.spotify.com/track/2Nc1v8I86FUGorwjXKo0in) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [See You Next Wednesday](https://open.spotify.com/album/7jJsNB4u538DpyZckBEKsB) | 3:19 | 2021-08-29 | 2021-08-30 |
 | [Benjamins](https://open.spotify.com/track/1nSGLD3pn1udC0kn4aQwEj) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [PRICELESS](https://open.spotify.com/album/6PxUXGR120hMiXAozmB29G) | 2:59 | 2021-03-27\* | 2021-04-02 |
-| [Beroendeframkallande](https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Beroendeframkallande](https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4) | 3:02 | 2023-02-15 |  |
+| [Beroendeframkallande](https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Beroendeframkallande](https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4) | 3:02 | 2023-02-15 | 2023-02-24 |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-10 |
 | [Best to Come](https://open.spotify.com/track/4CneloPDIuhnOyHJBdh3Ii) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Best to Come](https://open.spotify.com/album/0VXg7veba1x8FYZfV08meA) | 3:00 | 2022-02-21 | 2022-03-18 |
 | [Better Day \(feat\. Jireel, Jelassi, Ricky Rich, Mona Masrour, A36\)](https://open.spotify.com/track/2OSc0qlU6hf6G08tvUcVgV) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ), [Mona Masrour](https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt) | [Better Day \(feat\. Jireel, Jelassi, Ricky Rich, Mona Masrour, A36\)](https://open.spotify.com/album/0VaDL5661g6QmDaOMbDUJJ) | 2:50 | 2021-12-05 | 2021-12-06 |
@@ -780,6 +780,7 @@
 | [När jag blundar](https://open.spotify.com/track/0rdA602uLSpPZpwuc5Zujx) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [När jag blundar](https://open.spotify.com/album/2UGIBJF3nSMbJMNRoyMdRj) | 3:34 | 2022-06-18 | 2022-06-20 |
 | [När jag ser dig](https://open.spotify.com/track/5WBaMuA6gMy90SZXyS4Yz0) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [När jag ser dig](https://open.spotify.com/album/6FC5YIMWbpLUDMF6tJyMZ9) | 3:47 | 2021-03-27\* | 2021-05-16 |
 | [NÄR RADION DÅNAR](https://open.spotify.com/track/0c0Zlpn6fXtnz1XuASZdw1) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [NÄR RADION DÅNAR](https://open.spotify.com/album/3iNQ1aeeaDLNfZTqvtmnIO) | 2:10 | 2022-10-29 | 2023-01-24 |
+| [När solen går ner](https://open.spotify.com/track/68GdZAAowWDac3SkdNWOwo) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [När solen går ner](https://open.spotify.com/album/6lR1cT9wfoS6mg8rQ9WazU) | 3:23 | 2023-02-23 |  |
 | [När vi gräver guld i USA](https://open.spotify.com/track/3iAJRvvn8pywXZtvBNNP71) | [Glenmark Eriksson Strömstedt](https://open.spotify.com/artist/18zO6eeR1PG505akCHt9yB) | [Glenmark Eriksson Strömstedt](https://open.spotify.com/album/6SVY7GMw6KZxOSduyXSeoi) | 4:07 | 2021-06-27 | 2022-06-27 |
 | [När vi två blir en](https://open.spotify.com/track/2EKzS2s2VKnbQ7jxyk2WHi) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [Moderna Tider](https://open.spotify.com/album/7lbMjjnuHPSgU4wZolWdQ1) | 3:08 | 2021-06-27 | 2022-06-27 |
 | [Nätterna](https://open.spotify.com/track/0sO9OAIoecb2YxmCQohWGq) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Nätterna](https://open.spotify.com/album/30F33A6kVzeBE6qKcBLTz7) | 2:58 | 2021-06-06 | 2021-06-07 |

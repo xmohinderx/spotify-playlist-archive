@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,542 likes - 384 songs - 14 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,921 likes - 384 songs - 14 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 11 | [Wake up early](https://open.spotify.com/track/70ILhZLYGwOdy89qcgukNt) | [MC](https://open.spotify.com/artist/0DyoPw1p8N3GheQzvjt7x5) | [Wake up early](https://open.spotify.com/album/6cuwMMluBEGhHasOPbWl7k) | 2:20 |
 | 12 | [Luscious](https://open.spotify.com/track/1Ab68vQtCoAu7KKcqTaE6G) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo), [No Catch](https://open.spotify.com/artist/73wiYU4PA3rTJ6Bu9clbfS) | [Luscious](https://open.spotify.com/album/0SKdzfxXvINsaKXNpGn83J) | 1:57 |
 | 13 | [Enthalpy](https://open.spotify.com/track/4DLFDmqoAEPAhxjagmRfJq) | [Transparent Man](https://open.spotify.com/artist/5BzOhiTZdq869mBfPYOKST), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Enthalpy](https://open.spotify.com/album/5g95vyYNbRJebBo4O1ACyP) | 2:32 |
-| 14 | [Voluptus](https://open.spotify.com/track/5qK78cZFZkgLhJLs8sEnO9) | [Flash Dry](https://open.spotify.com/artist/1zmoasbVWHtHxY22AoyBCs) | [Week Line](https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror) | 1:49 |
+| 14 | [Voluptus](https://open.spotify.com/track/5qK78cZFZkgLhJLs8sEnO9) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Week Line](https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror) | 1:49 |
 | 15 | [dreamality](https://open.spotify.com/track/7kFaQ5hj8WtCHB4fSNnmF8) | [Nine x Nine](https://open.spotify.com/artist/5kAm2IyAJ8qwIv9VK6l98E) | [dreamality](https://open.spotify.com/album/6mpxv0APWBfaOn2PMUedfB) | 2:23 |
 | 16 | [touring](https://open.spotify.com/track/5oMoDylmKjg2dEv00OmP6V) | [ted traver](https://open.spotify.com/artist/08j9BSeKARV01FHZ9FwbpZ) | [touring](https://open.spotify.com/album/684fYtehLjITRbiCEk2E1I) | 2:53 |
 | 17 | [Chanterelle](https://open.spotify.com/track/3JSg9IUjqze3mySqLn4HmT) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:45 |
@@ -300,7 +300,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 290 | [The Way](https://open.spotify.com/track/7op5NFvJzRLffdGkYzJpUX) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Sensei](https://open.spotify.com/album/76s8dxo8JFBoyLmVOu6esq) | 2:19 |
 | 291 | [Raw Takes](https://open.spotify.com/track/04DVUpEzu58MzRgtDwkMbj) | [Nova Calma](https://open.spotify.com/artist/732aFMojr4rC3Q2DAstddk) | [Raw Takes](https://open.spotify.com/album/6BE59ToxBekXRmNmIFj35W) | 2:01 |
 | 292 | [Really Get Going](https://open.spotify.com/track/69Go42QZw7dC2Ehl0pZhCi) | [Steefann](https://open.spotify.com/artist/6bQY0OdvrUz4BUlajKcLfF) | [Really Get Going](https://open.spotify.com/album/4MACdcvjpSigHwHLxWDhyx) | 2:35 |
-| 293 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Oscar](https://open.spotify.com/artist/5ezLUfvnIzXoZIIVGHaReU) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 |
+| 293 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Discant Of Venus](https://open.spotify.com/artist/3GqXOi7G86eK1uMNOiuTTn) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 |
 | 294 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 |
 | 295 | [Lakeview Hotel](https://open.spotify.com/track/64KLZ6ghwEzRH6yAoNfEj2) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Charlie Young](https://open.spotify.com/artist/5HPpufL8VIMnpG7423YMmH) | [Lakeview Hotel](https://open.spotify.com/album/0e5iO95x8kua0wwFU0H3qe) | 2:33 |
 | 296 | [Breathe](https://open.spotify.com/track/4IRM3iTIInBJ7oYkYP61F6) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/2Rfn3GAAWwaewH4cmG9OC7) | 2:14 |

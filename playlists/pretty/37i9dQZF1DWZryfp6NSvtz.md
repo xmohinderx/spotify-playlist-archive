@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Nessa Barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,055 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,321 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 8 | [Together in Pieces](https://open.spotify.com/track/46HbKy8kOawanjz1Ofh5Bp) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [Together in Pieces](https://open.spotify.com/album/6fvX8DbXDo5alyS4yoE98o) | 3:55 |
 | 9 | [King B](https://open.spotify.com/track/5i4bf9vuP235Qhjgqo78nM) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [King B](https://open.spotify.com/album/5ZzynEKb0pettc13vWULTE) | 3:20 |
 | 10 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 |
-| 11 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 |
+| 11 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 |
 | 12 | [cynical](https://open.spotify.com/track/0D5le1perOPiaFYmNak8Kp) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [cynical](https://open.spotify.com/album/5RhMHM5RP7gyhkEtUIJeWD) | 2:53 |
 | 13 | [Friends with Benefits](https://open.spotify.com/track/08kgoxE3SVFiHQvyWez4Kl) | [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv) | [Friends with Benefits](https://open.spotify.com/album/2aMlE5iRsUMFrwg4mxCPyU) | 3:54 |
 | 14 | [GHOST\*](https://open.spotify.com/track/7mfGLdrBIlR7o6s6YFpjwi) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [GHOST\*](https://open.spotify.com/album/4UmCXtYrA5Bodd4HGKCQzM) | 2:20 |

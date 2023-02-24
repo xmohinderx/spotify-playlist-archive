@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-555 songs - 1 day 0 hr 48 min
+556 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1664](https://open.spotify.com/track/5gzGeAaYa6uTsJPpD4hFg9) | [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [Nations](https://open.spotify.com/album/7FlNrwZl4kdRCN2RaXu9Ur) | 1:17 | 2021-12-23 | 2022-05-12 |
 | [16:18](https://open.spotify.com/track/7kU0jsS0V9gEXjMWzcXWfv) | [Osamu Fukuzawa](https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F) | [16:18](https://open.spotify.com/album/7zdPFHvktQKpNw0J1Aq95Z) | 3:17 | 2021-12-23 | 2023-01-20 |
 | [2GI NO NA2](https://open.spotify.com/track/0rPEJjMxTD7oB3YZgc0Zbw) | [M%O](https://open.spotify.com/artist/0eH8CnTyhcebjiCNUVC3kT), [MURO](https://open.spotify.com/artist/29PJtOTZvqWkikYC5Lvpej), [Olive Oil](https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH) | [M%O](https://open.spotify.com/album/3w87AShsAbRv6SyIWJf2uG) | 2:19 | 2021-12-23 | 2022-07-28 |
-| [4 Ever](https://open.spotify.com/track/2F5KcNhhlUtXAALrC3AFx1) | [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa), [Kent](https://open.spotify.com/artist/1iELyiHmInYvRAXC502Vv7) | [Resynthesis \(Yellow\)](https://open.spotify.com/album/48U2Q7Ryld3vPrNHWWq7CD) | 4:09 | 2022-02-17 |  |
+| [4 Ever](https://open.spotify.com/track/2F5KcNhhlUtXAALrC3AFx1) | [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa), [Kent](https://open.spotify.com/artist/1iELyiHmInYvRAXC502Vv7) | [Resynthesis \(Yellow\)](https://open.spotify.com/album/48U2Q7Ryld3vPrNHWWq7CD) | 4:09 | 2022-02-17 | 2023-02-24 |
 | [5PM](https://open.spotify.com/track/43HwFhXF20tD1jmiH9kqCp) | [SafariBeats](https://open.spotify.com/artist/0BkqSOzw5HPgEBUcmm9abz), [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [HOLIDAY](https://open.spotify.com/album/5bLJYISuekegqKkcVT79Jk) | 3:19 | 2022-01-13 | 2022-01-28 |
 | [7days](https://open.spotify.com/track/3xFnFUqCOqRv8pPwks2NRa) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76), [LostFace](https://open.spotify.com/artist/2z79fSNzwdE7Ed17BwtxnO) | [THE CAVE Vol.2](https://open.spotify.com/album/4yMNHLuAo5yhwETc9ADXzu) | 3:28 | 2021-12-23 | 2022-07-27 |
 | [@luv](https://open.spotify.com/track/2IWyVklezbxtz7TohI2ZRt) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [@luv](https://open.spotify.com/album/6KZ1AstbhLGt7Lmn4e7KQz) | 2:03 | 2022-12-17 |  |
@@ -210,6 +210,7 @@
 | [Home](https://open.spotify.com/track/4sSfjd21b8ipFXaJfM5mV0) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 3:44 | 2022-10-06 |  |
 | [Home \- Rain Ver.](https://open.spotify.com/track/0mWOdDrz7awswEe7ppzVpO) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Nostalgic Rain](https://open.spotify.com/album/2Npx9E4iJAg08fHM5sIZf5) | 2:15 | 2022-08-11 | 2023-01-25 |
 | [Home Is Home](https://open.spotify.com/track/1D1IDEaFX3RnA99wUnWrJv) | [PURE](https://open.spotify.com/artist/2u8Sm9jSnMvbZNUjsbeZIM) | [Home Is Home](https://open.spotify.com/album/4xyxg9DxzajDy72lw8kcIG) | 2:34 | 2022-03-31 | 2022-04-21 |
+| [HOPE](https://open.spotify.com/track/4c5X7uzhORgUGrBbLL4wLA) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [HOPE](https://open.spotify.com/album/1O9MGXC5fmZ96vWS1WIaFS) | 2:30 | 2023-02-23 |  |
 | [Hot Chocolate](https://open.spotify.com/track/2GvqwmeGmbWHPnyYF7nQ7O) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's Penny Candy Store \#1](https://open.spotify.com/album/65zDuJRom3CMxP56XSPAM9) | 2:11 | 2022-02-03 | 2022-04-11 |
 | [HYDRANGEA](https://open.spotify.com/track/2Sv8cR8tKnqr8LpyavcFeK) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [HYDRANGEA](https://open.spotify.com/album/4F4tkDJKGcQT9vIwAROUGC) | 1:54 | 2022-06-23 | 2022-08-11 |
 | [I did them Pianos](https://open.spotify.com/track/4jpaj2fxYXnTz8aWUORyqf) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [I did them Pianos](https://open.spotify.com/album/4v8qdQpFWvFNzIA8GG4zkn) | 1:37 | 2022-01-13 | 2022-04-26 |

@@ -12332,7 +12332,7 @@
     {
       "album": {
         "name": "Love Song",
-        "url": "https://open.spotify.com/album/3lWowPEw7IgHz4UXhumHYw"
+        "url": "https://open.spotify.com/album/2EVjxedFSqwKeDbQGDp5pJ"
       },
       "artists": [
         {
@@ -12343,6 +12343,24 @@
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 262369,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2S3nwkJOnoNGGL40EWCBWW"
+    },
+    {
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3lWowPEw7IgHz4UXhumHYw"
+      },
+      "artists": [
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
       "duration_ms": 262369,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3w8bLR0i4JxPYgj1oiWHST"

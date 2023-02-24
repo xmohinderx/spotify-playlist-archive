@@ -1347,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "For the Pain",
+        "url": "https://open.spotify.com/album/62lgMNaKQtizxmRYQSQu4I"
+      },
+      "artists": [
+        {
+          "name": "Hawema",
+          "url": "https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241214,
+      "name": "For the Pain",
+      "url": "https://open.spotify.com/track/2PQ7EO8J48fdluJVXHCcBi"
+    },
+    {
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/3gsHYTOr6ItG0LhHhj6S4J"
       },
@@ -3010,7 +3028,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 196875,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1pc4xCCi7VhemQGSk8eQyz"

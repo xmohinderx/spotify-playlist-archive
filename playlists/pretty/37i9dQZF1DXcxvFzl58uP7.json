@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: Joji",
-  "num_followers": 1055829,
+  "num_followers": 1056002,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA2NDc0MSwwMDAwMDAwMDk2MWMzMWM5NWE2NzQ3Zjc0ZmY2YWQzYjBiNjlhYmQ5",
+  "snapshot_id": "MTY3NjA2NDc0MSwwMDAwMDAwMDEzZTI1MjE4ZWM2YmY2YWMyMTVhNWZlMTRjMzNiY2Q5",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 219286,
-      "name": "Seeds",
-      "url": "https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh"
-    },
-    {
-      "added_at": "2022-12-21 18:39:33",
-      "album": {
         "name": "Six Speed",
         "url": "https://open.spotify.com/album/2DkQzt5cmb3Jy8ZQH4tBo9"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 120000,
       "name": "Six Speed",
       "url": "https://open.spotify.com/track/38loOBAgDgCW4pFWyH9cey"
+    },
+    {
+      "added_at": "2022-12-21 18:39:33",
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 219286,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
-        "name": "Over the Hill",
-        "url": "https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 167771,
-      "name": "Over the Hill",
-      "url": "https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt"
-    },
-    {
-      "added_at": "2022-12-21 18:39:33",
-      "album": {
         "name": "Cat Heaven",
         "url": "https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 313663,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY"
+    },
+    {
+      "added_at": "2022-12-21 18:39:33",
+      "album": {
+        "name": "Over the Hill",
+        "url": "https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 167771,
+      "name": "Over the Hill",
+      "url": "https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt"
     },
     {
       "added_at": "2022-12-21 18:39:33",

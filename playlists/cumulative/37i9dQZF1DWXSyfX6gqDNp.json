@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 308187,
       "name": "A Time For Love",
       "url": "https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 251594,
       "name": "Beneath The Pale Moonlight",
       "url": "https://open.spotify.com/track/0Cw4AgG0dPKJKO0oT6xOr9"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 269500,
       "name": "Black Forest Rose",
       "url": "https://open.spotify.com/track/46KhjnbImVzXTidxnZeqzH"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 228628,
       "name": "Black Ice",
       "url": "https://open.spotify.com/track/2vLmNEKsbw9sjl7PFzmar3"
@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Once Knowing",
+        "url": "https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW"
+      },
+      "artists": [
+        {
+          "name": "The Levon Trio",
+          "url": "https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171558,
+      "name": "Follow Slowly",
+      "url": "https://open.spotify.com/track/1eF3VkcOnhmZleDhrIOYfk"
+    },
+    {
+      "album": {
         "name": "For Heavens Sake",
         "url": "https://open.spotify.com/album/2hfGoUNu7M0B1bTs35GJou"
       },
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 236937,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx"
@@ -1298,6 +1316,24 @@
       "duration_ms": 177261,
       "name": "I Loves You, Porgy",
       "url": "https://open.spotify.com/track/1p6wxI8LwDcO67o5kS3X2v"
+    },
+    {
+      "album": {
+        "name": "I Mean Us",
+        "url": "https://open.spotify.com/album/3x88xyYdEyoYbMD7lUICBi"
+      },
+      "artists": [
+        {
+          "name": "Wonder Eve",
+          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264079,
+      "name": "I Mean Us",
+      "url": "https://open.spotify.com/track/1GZ1VUbgXYwIcdNhw2faso"
     },
     {
       "album": {
@@ -2043,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "Mindful in Solitude",
+        "url": "https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d"
+      },
+      "artists": [
+        {
+          "name": "Ryder Quartet",
+          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233274,
+      "name": "Mindful in Solitude",
+      "url": "https://open.spotify.com/track/6Wckn6BnejHCIgIAzre1kc"
+    },
+    {
+      "album": {
         "name": "Moment To Moment",
         "url": "https://open.spotify.com/album/3KeFD62A0IEmCOfn2CaC0K"
       },
@@ -2396,7 +2450,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 193213,
       "name": "Pretty Are Your Eyes",
       "url": "https://open.spotify.com/track/0QXIct82DEE5RmlpeVHE4Y"
@@ -3261,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Mindful in Solitude",
+        "url": "https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d"
+      },
+      "artists": [
+        {
+          "name": "Ryder Quartet",
+          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233323,
+      "name": "The Way of the Winds",
+      "url": "https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq"
+    },
+    {
+      "album": {
         "name": "There Will Never Be Another You",
         "url": "https://open.spotify.com/album/4o8598qWSxGgvPIlyKD6ns"
       },
@@ -3785,6 +3857,24 @@
     },
     {
       "album": {
+        "name": "You really had me going",
+        "url": "https://open.spotify.com/album/5CFJtlj4PGWpgZV0hUijrV"
+      },
+      "artists": [
+        {
+          "name": "Lia Riggs Trio",
+          "url": "https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202289,
+      "name": "You really had me going",
+      "url": "https://open.spotify.com/track/7C9UvNUcHTiKYCU2XneGeo"
+    },
+    {
+      "album": {
         "name": "Stan Getz Plays (Clef Records LPR)",
         "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
       },
@@ -3868,7 +3958,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 202374,
       "name": "\u00c4lvan",
       "url": "https://open.spotify.com/track/2hgywy8NJicnetQ0IQBeaE"

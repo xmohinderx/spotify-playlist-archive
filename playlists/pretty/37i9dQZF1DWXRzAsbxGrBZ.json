@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 7141,
+  "num_followers": 7263,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMGZhZjk3NDc1ZWY2NjBmMTY2N2FhYTFjOWU3MmU0M2Rh",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDA1NzQ4YmM3NDY5NjcxZjZiM2JlNTkwMTY1ODQ0MzRm",
   "tracks": [
     {
       "added_at": "2022-09-14 09:57:38",
@@ -207,18 +207,30 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "False Facade",
-        "url": "https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs"
+        "name": "Xelela Abazali",
+        "url": "https://open.spotify.com/album/3Ud3F9eyj8if4o7TSbtZHA"
       },
       "artists": [
         {
-          "name": "DRMZ",
-          "url": "https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ"
+          "name": "Deep Sen",
+          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
+        },
+        {
+          "name": "KingTalkzin",
+          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
+        },
+        {
+          "name": "KnightSA",
+          "url": "https://open.spotify.com/artist/0Zn2gTUEoVSwXsuZ3v2aoq"
+        },
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
         }
       ],
-      "duration_ms": 416688,
-      "name": "False Facade",
-      "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
+      "duration_ms": 394401,
+      "name": "Xelela Abazali",
+      "url": "https://open.spotify.com/track/2URYteekU6AYCIuEYxHJXk"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -247,30 +259,18 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Xelela Abazali",
-        "url": "https://open.spotify.com/album/3Ud3F9eyj8if4o7TSbtZHA"
+        "name": "False Facade",
+        "url": "https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs"
       },
       "artists": [
         {
-          "name": "Deep Sen",
-          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
-        },
-        {
-          "name": "KingTalkzin",
-          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
-        },
-        {
-          "name": "KnightSA",
-          "url": "https://open.spotify.com/artist/0Zn2gTUEoVSwXsuZ3v2aoq"
-        },
-        {
-          "name": "Russell Zuma",
-          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+          "name": "DRMZ",
+          "url": "https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ"
         }
       ],
-      "duration_ms": 394401,
-      "name": "Xelela Abazali",
-      "url": "https://open.spotify.com/track/2URYteekU6AYCIuEYxHJXk"
+      "duration_ms": 416688,
+      "name": "False Facade",
+      "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -485,26 +485,6 @@
       "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Confindent",
-        "url": "https://open.spotify.com/album/7JrsF96D0q5Zm9tEoqMG0u"
-      },
-      "artists": [
-        {
-          "name": "China Charmeleon",
-          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
-        },
-        {
-          "name": "Kali Mija",
-          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
-        }
-      ],
-      "duration_ms": 463348,
-      "name": "Confident - China The Charmeleon The Animal Remix",
-      "url": "https://open.spotify.com/track/4ZMAP1fr4QvcIfF0B440MZ"
-    },
-    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Ed-Ward, Intr0beatz & Jonny Miller Remixes",
@@ -527,6 +507,26 @@
       "duration_ms": 370887,
       "name": "Sarhalel - Ed-Ward Remix",
       "url": "https://open.spotify.com/track/0RAXgMtZEM2KFwbsVqFCYU"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Confindent",
+        "url": "https://open.spotify.com/album/7JrsF96D0q5Zm9tEoqMG0u"
+      },
+      "artists": [
+        {
+          "name": "China Charmeleon",
+          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "duration_ms": 463348,
+      "name": "Confident - China The Charmeleon The Animal Remix",
+      "url": "https://open.spotify.com/track/4ZMAP1fr4QvcIfF0B440MZ"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "3 By 3",
+        "url": "https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV"
+      },
+      "artists": [
+        {
+          "name": "Chymamusique",
+          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
+        }
+      ],
+      "duration_ms": 392304,
+      "name": "Day And Night (Mmawe) - Original Mix",
+      "url": "https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "Passage of Time",
         "url": "https://open.spotify.com/album/7xojzMFeBooCCD0dxKx6OU"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 456430,
       "name": "I Don't Wanna Feel This",
       "url": "https://open.spotify.com/track/6BlBVZ4OfkGogpvknlLXNE"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "3 By 3",
-        "url": "https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV"
-      },
-      "artists": [
-        {
-          "name": "Chymamusique",
-          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
-        }
-      ],
-      "duration_ms": 392304,
-      "name": "Day And Night (Mmawe) - Original Mix",
-      "url": "https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -799,22 +799,18 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Multiverse Theory",
-        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
+        "name": "New Beginning EP",
+        "url": "https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4"
       },
       "artists": [
         {
-          "name": "Devine Maestro",
-          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
-        },
-        {
-          "name": "Ottis Blake",
-          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
         }
       ],
-      "duration_ms": 374257,
-      "name": "Multiverse Theory",
-      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
+      "duration_ms": 402788,
+      "name": "Eternal Existence - Original Mix",
+      "url": "https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -839,18 +835,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "New Beginning EP",
-        "url": "https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4"
+        "name": "Multiverse Theory",
+        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
       },
       "artists": [
         {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+          "name": "Devine Maestro",
+          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
+        },
+        {
+          "name": "Ottis Blake",
+          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
         }
       ],
-      "duration_ms": 402788,
-      "name": "Eternal Existence - Original Mix",
-      "url": "https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU"
+      "duration_ms": 374257,
+      "name": "Multiverse Theory",
+      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/01GL8puSkU5QHyf8pLdiyj"
     },
     {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+      },
+      "artists": [
+        {
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+        }
+      ],
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+    },
+    {
       "added_at": "2022-11-10 21:59:00",
       "album": {
         "name": "Necessary",
@@ -931,22 +947,6 @@
       "duration_ms": 395709,
       "name": "Love I Know",
       "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
-      },
-      "artists": [
-        {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
-        }
-      ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -989,20 +989,28 @@
       "url": "https://open.spotify.com/track/5C2yySU4ikyeeqkD3ULcBf"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
+      "added_at": "2022-09-29 21:59:00",
       "album": {
-        "name": "Dusty Streets",
-        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
+        "name": "Joyful Music, Vol. 1 (Compiled)",
+        "url": "https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV"
       },
       "artists": [
         {
-          "name": "Eddvin",
-          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
+          "name": "Craving Souls",
+          "url": "https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe"
+        },
+        {
+          "name": "Da Tee SA",
+          "url": "https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
         }
       ],
-      "duration_ms": 386525,
-      "name": "Dusty Streets",
-      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
+      "duration_ms": 413910,
+      "name": "Nelisiwe",
+      "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
     }
   ],
   "unique_name": "Deep House Session",

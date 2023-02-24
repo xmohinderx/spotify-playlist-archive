@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Cottonwood Firing Squad",
-  "num_followers": 280605,
+  "num_followers": 280657,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDY2MTQzOGRiMmE3NTdlNWJjNTFhNDE2MDVlYmYwOGMz",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDFmMzI3ZDIzMTlhOGYwYzk1N2M0ZWY2NjRlNTFmMjYz",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
     },
     {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Holly",
+        "url": "https://open.spotify.com/album/1vUcIP9rKpbAnouzD7UCXW"
+      },
+      "artists": [
+        {
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+        }
+      ],
+      "duration_ms": 167829,
+      "name": "Holly",
+      "url": "https://open.spotify.com/track/2JUvDYr4aKfI1Qg1dIefxZ"
+    },
+    {
       "added_at": "2023-01-17 19:42:49",
       "album": {
         "name": "Expert In A Dying Field",
@@ -183,22 +199,6 @@
       "duration_ms": 117850,
       "name": "Veronica Mars",
       "url": "https://open.spotify.com/track/1D8gAw88OF911utrFnVQdM"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Holly",
-        "url": "https://open.spotify.com/album/1vUcIP9rKpbAnouzD7UCXW"
-      },
-      "artists": [
-        {
-          "name": "Anna Shoemaker",
-          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
-        }
-      ],
-      "duration_ms": 167829,
-      "name": "Holly",
-      "url": "https://open.spotify.com/track/2JUvDYr4aKfI1Qg1dIefxZ"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Myself in the Way",
-        "url": "https://open.spotify.com/album/3hnuFFEOHQ4X1KGNx1HlLh"
-      },
-      "artists": [
-        {
-          "name": "Turnover",
-          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
-        }
-      ],
-      "duration_ms": 249543,
-      "name": "Tears of Change",
-      "url": "https://open.spotify.com/track/0T1CmhCAJb8biFVLOSu4iS"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "We're Here, My Dear",
         "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 221720,
       "name": "We're Here, My Dear",
       "url": "https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Myself in the Way",
+        "url": "https://open.spotify.com/album/3hnuFFEOHQ4X1KGNx1HlLh"
+      },
+      "artists": [
+        {
+          "name": "Turnover",
+          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
+        }
+      ],
+      "duration_ms": 249543,
+      "name": "Tears of Change",
+      "url": "https://open.spotify.com/track/0T1CmhCAJb8biFVLOSu4iS"
     },
     {
       "added_at": "2023-01-17 19:42:49",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
     },
     {
-      "added_at": "2022-11-17 17:47:18",
-      "album": {
-        "name": "Good Old",
-        "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 262346,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "no way out",
@@ -407,6 +391,22 @@
       "duration_ms": 113624,
       "name": "no way out",
       "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
+    },
+    {
+      "added_at": "2022-11-17 17:47:18",
+      "album": {
+        "name": "Good Old",
+        "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "duration_ms": 262346,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
     },
     {
       "added_at": "2022-12-12 18:13:35",
@@ -473,6 +473,22 @@
       "url": "https://open.spotify.com/track/7KCqSmpnDXwuhHgaMZ5wli"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "burning love letters",
+        "url": "https://open.spotify.com/album/3JJQviIafzIDT9KKGu2End"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 154621,
+      "name": "burning love letters",
+      "url": "https://open.spotify.com/track/5s3AtbTWwXzd2x5hLnNm6I"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "i love you",
@@ -503,22 +519,6 @@
       "duration_ms": 241271,
       "name": "Pieces of Gold",
       "url": "https://open.spotify.com/track/5TtOVNkBiVYxs4MRgwOTqy"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "burning love letters",
-        "url": "https://open.spotify.com/album/3JJQviIafzIDT9KKGu2End"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 154621,
-      "name": "burning love letters",
-      "url": "https://open.spotify.com/track/5s3AtbTWwXzd2x5hLnNm6I"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/0fMtFak025bkGYL8GHQ2UE"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "I Shimmer",
-        "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 265278,
-      "name": "I Shimmer",
-      "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Hayday",
@@ -735,6 +719,22 @@
       "duration_ms": 130606,
       "name": "Dog Song 2",
       "url": "https://open.spotify.com/track/38o4QGAJgtqmhQw3SE0gZR"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "I Shimmer",
+        "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 265278,
+      "name": "I Shimmer",
+      "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
     },
     {
       "added_at": "2023-01-17 19:42:49",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/1INfhBjuHFTkxRVIB2NMSC"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/42R0x8BUI7OPVA7iN3az1r"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 255422,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/1d9NEfD71ZmPWEVy2AwmHD"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Bitter",
@@ -995,6 +979,22 @@
       "duration_ms": 199861,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/0fgULj9VZdizE6MMuy9rnf"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/42R0x8BUI7OPVA7iN3az1r"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "duration_ms": 255422,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1d9NEfD71ZmPWEVy2AwmHD"
     },
     {
       "added_at": "2023-01-06 10:38:00",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/3039eQZmZy2PVsHyyOf78m"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Forgetting Delaney",
-        "url": "https://open.spotify.com/album/74cN9ID7E3WIQoc6MFS6PI"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 152226,
-      "name": "Forgetting Delaney",
-      "url": "https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt"
-    },
-    {
       "added_at": "2022-12-16 04:00:00",
       "album": {
         "name": "Utah",
@@ -1059,6 +1043,22 @@
       "duration_ms": 169180,
       "name": "Utah",
       "url": "https://open.spotify.com/track/3HEBe9g9vNZ6AaAnRtsjvh"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Forgetting Delaney",
+        "url": "https://open.spotify.com/album/74cN9ID7E3WIQoc6MFS6PI"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 152226,
+      "name": "Forgetting Delaney",
+      "url": "https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt"
     },
     {
       "added_at": "2023-01-17 19:42:49",
@@ -1091,6 +1091,22 @@
       "duration_ms": 201333,
       "name": "Motorbike",
       "url": "https://open.spotify.com/track/2JMB5piiHlzUWqvnPfuVCO"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Take Care",
+        "url": "https://open.spotify.com/album/55c7EDosAWRRQgSr2oeuCZ"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/18aiK0KLCZjHME5ILdgJqK"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1157,22 +1173,6 @@
       "url": "https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Take Care",
-        "url": "https://open.spotify.com/album/55c7EDosAWRRQgSr2oeuCZ"
-      },
-      "artists": [
-        {
-          "name": "Tanukichan",
-          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "Take Care",
-      "url": "https://open.spotify.com/track/18aiK0KLCZjHME5ILdgJqK"
-    },
-    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "Bull Believer",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/6wYlN6ikOUsS0PQEI4XJMl"
     },
     {
-      "added_at": "2022-12-22 06:08:00",
-      "album": {
-        "name": "I'm Not Ok",
-        "url": "https://open.spotify.com/album/00vDBfnMWFibWlxn8tnaBy"
-      },
-      "artists": [
-        {
-          "name": "Elliott Fullam",
-          "url": "https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw"
-        }
-      ],
-      "duration_ms": 292142,
-      "name": "I'm Not Ok",
-      "url": "https://open.spotify.com/track/3IlIMC0YPARZVADNcP2wwn"
-    },
-    {
       "added_at": "2023-01-06 10:38:00",
       "album": {
         "name": "Hot and Clumsy",
@@ -1219,6 +1203,22 @@
       "duration_ms": 271600,
       "name": "Hot and Clumsy",
       "url": "https://open.spotify.com/track/50aFetaKwC3pKTLyUWh7UZ"
+    },
+    {
+      "added_at": "2022-12-22 06:08:00",
+      "album": {
+        "name": "I'm Not Ok",
+        "url": "https://open.spotify.com/album/00vDBfnMWFibWlxn8tnaBy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Fullam",
+          "url": "https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw"
+        }
+      ],
+      "duration_ms": 292142,
+      "name": "I'm Not Ok",
+      "url": "https://open.spotify.com/track/3IlIMC0YPARZVADNcP2wwn"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "how would you know",
-        "url": "https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr"
-      },
-      "artists": [
-        {
-          "name": "second thoughts",
-          "url": "https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX"
-        }
-      ],
-      "duration_ms": 177173,
-      "name": "how would you know",
-      "url": "https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy"
-    },
-    {
       "added_at": "2022-12-16 04:00:00",
       "album": {
         "name": "Abalone",
@@ -1299,6 +1283,22 @@
       "duration_ms": 126524,
       "name": "Abalone",
       "url": "https://open.spotify.com/track/4OGBU3agg96CA483Q280FP"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "how would you know",
+        "url": "https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr"
+      },
+      "artists": [
+        {
+          "name": "second thoughts",
+          "url": "https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX"
+        }
+      ],
+      "duration_ms": 177173,
+      "name": "how would you know",
+      "url": "https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1365,22 +1365,6 @@
       "url": "https://open.spotify.com/track/6dKxNezVre0MtpWtvrQnLS"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Eventide",
-        "url": "https://open.spotify.com/album/5n4twzXZkAwdZFAJFCI5jj"
-      },
-      "artists": [
-        {
-          "name": "EVNTYD",
-          "url": "https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh"
-        }
-      ],
-      "duration_ms": 272453,
-      "name": "Quotidian",
-      "url": "https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O"
-    },
-    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "How It Ends",
@@ -1397,6 +1381,22 @@
       "url": "https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Eventide",
+        "url": "https://open.spotify.com/album/5n4twzXZkAwdZFAJFCI5jj"
+      },
+      "artists": [
+        {
+          "name": "EVNTYD",
+          "url": "https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh"
+        }
+      ],
+      "duration_ms": 272453,
+      "name": "Quotidian",
+      "url": "https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "emptyhouse",
@@ -1411,6 +1411,22 @@
       "duration_ms": 201958,
       "name": "emptyhouse",
       "url": "https://open.spotify.com/track/7wzxbP9Z9CEIYmEuMXjcHr"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Breaking Up",
+        "url": "https://open.spotify.com/album/0gqcb4OgybbuBbbhrhbj3b"
+      },
+      "artists": [
+        {
+          "name": "Bnny",
+          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Breaking Up",
+      "url": "https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25"
     },
     {
       "added_at": "2022-12-20 17:28:48",
@@ -1431,38 +1447,6 @@
       "duration_ms": 193112,
       "name": "Another Devil (feat. Shinra Knives)",
       "url": "https://open.spotify.com/track/3q616lz9fcp3n9siMPQQlM"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Breaking Up",
-        "url": "https://open.spotify.com/album/0gqcb4OgybbuBbbhrhbj3b"
-      },
-      "artists": [
-        {
-          "name": "Bnny",
-          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Breaking Up",
-      "url": "https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Nothing In Particular",
-        "url": "https://open.spotify.com/album/5SP2mGvUdoMwgTit6Nd3wY"
-      },
-      "artists": [
-        {
-          "name": "Afternoon Bike Ride",
-          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
-        }
-      ],
-      "duration_ms": 207371,
-      "name": "Nothing In Particular",
-      "url": "https://open.spotify.com/track/6IAN7qpuVuvnA9T0S7yM2u"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1495,6 +1479,22 @@
       "duration_ms": 142031,
       "name": "Waking Up 2 A Heartbreak",
       "url": "https://open.spotify.com/track/7CrP18CRBQjKIfr6R68zAJ"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Nothing In Particular",
+        "url": "https://open.spotify.com/album/5SP2mGvUdoMwgTit6Nd3wY"
+      },
+      "artists": [
+        {
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        }
+      ],
+      "duration_ms": 207371,
+      "name": "Nothing In Particular",
+      "url": "https://open.spotify.com/track/6IAN7qpuVuvnA9T0S7yM2u"
     },
     {
       "added_at": "2022-10-21 14:21:02",

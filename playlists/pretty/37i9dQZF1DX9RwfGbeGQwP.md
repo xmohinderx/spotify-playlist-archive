@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,468 likes - 521 songs - 19 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,691 likes - 521 songs - 19 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,7 +220,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 210 | [Tendenzies](https://open.spotify.com/track/0dSDD52DBAuu7lNvej0WG8) | [$affie](https://open.spotify.com/artist/3m63AiBD7p1QAVi95d03te), [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Tendenzies](https://open.spotify.com/album/5ALwxXL1ZL5W9KiGrR8hVi) | 2:08 |
 | 211 | [Let It Out](https://open.spotify.com/track/0JEU96lgzuk1xe5OOdK0H8) | [Mist Ant](https://open.spotify.com/artist/1pX5motd4PjXsK6A7mk3uC) | [Let It Out](https://open.spotify.com/album/5u538MJifK76tpNupA01jk) | 3:06 |
 | 212 | [You Look Pretty](https://open.spotify.com/track/1Fq0VPFph4hIF4971B8and) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Mornings with Oscar](https://open.spotify.com/album/137kXQBQ6M2x1Xaj48aFvB) | 2:51 |
-| 213 | [Syphone](https://open.spotify.com/track/6ZPMtkVR8cyVCy8vKDxyFM) | [beosound](https://open.spotify.com/artist/5PxwgwToqzdaFKSQhYVDre) | [Syphone](https://open.spotify.com/album/4dkFK5szg05kgVOwPECKmL) | 1:36 |
+| 213 | [Syphone](https://open.spotify.com/track/6ZPMtkVR8cyVCy8vKDxyFM) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Syphone](https://open.spotify.com/album/4dkFK5szg05kgVOwPECKmL) | 1:36 |
 | 214 | [Connection](https://open.spotify.com/track/06AbUUsnDWJ6W4m6sEYnZI) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Connection](https://open.spotify.com/album/5rz7xkg4wnZMQg4IN9EDyD) | 2:46 |
 | 215 | [Can anybody fly this thing?](https://open.spotify.com/track/2X5eVG0yxSPtaW5FDsETgh) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [Can anybody fly this thing?](https://open.spotify.com/album/2Jigw8ifpnHXEsFtgb3fGc) | 2:03 |
 | 216 | [visions](https://open.spotify.com/track/0AXavmNLkcAphlTGQ8ryS5) | [Stacy Bridge](https://open.spotify.com/artist/0l9jUDI4PJdVxQGNof28SD) | [visions](https://open.spotify.com/album/51ksQiSeWO0c4j6SNSZBZ5) | 2:20 |
@@ -378,7 +378,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 368 | [Jump Street](https://open.spotify.com/track/17fOJI0gHFFvxsSvUaVUPZ) | [Ayaakaa](https://open.spotify.com/artist/01ilwgX5nHOi7vOkBuTuCU) | [Jump Street](https://open.spotify.com/album/64oFecAuAIGnWVpzyiWYWt) | 2:16 |
 | 369 | [Sentimental Sauce](https://open.spotify.com/track/7pdaoW0kjLzxIF3hSl9e0D) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Mysa](https://open.spotify.com/album/3m66dPCeb4wYIJq3fwUwIO) | 2:44 |
 | 370 | [Psilocin Attace](https://open.spotify.com/track/7quzfRo0T2UDxabGmYy1Ly) | [Comforta](https://open.spotify.com/artist/0tpE2aiOKCByBx0ZeHNFhP) | [Psilocin Attace](https://open.spotify.com/album/3G3AH2Ih76zJJL2uSkp0ZD) | 2:07 |
-| 371 | [Hepcats lounge](https://open.spotify.com/track/7zJUjkME1Z1Mtf3CHCcizs) | [Rezet](https://open.spotify.com/artist/2ZaazietfBEh1vS7xRvZS0) | [Hepcats Lounge](https://open.spotify.com/album/3VHYpZIkgFLgPufzLq3wvE) | 2:29 |
+| 371 | [Hepcats lounge](https://open.spotify.com/track/7zJUjkME1Z1Mtf3CHCcizs) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Hepcats Lounge](https://open.spotify.com/album/3VHYpZIkgFLgPufzLq3wvE) | 2:29 |
 | 372 | [Waves](https://open.spotify.com/track/1cGVlkqnGEI1G5YrkNDput) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [Waves](https://open.spotify.com/album/67mCWi7kNXVMnHuL1vHRPW) | 2:03 |
 | 373 | [lighthouse](https://open.spotify.com/track/6GaYn3Z1Eyz4xjA0Nuw98k) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [lighthouse](https://open.spotify.com/album/7hJQ6X9HRM1tq0xISbWYVZ) | 1:58 |
 | 374 | [Into The Deep](https://open.spotify.com/track/48XQa6SedIMMrLgaayGF1P) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Into The Deep](https://open.spotify.com/album/5aiWXOc1LV3K8r0mLyw5Fy) | 2:16 |

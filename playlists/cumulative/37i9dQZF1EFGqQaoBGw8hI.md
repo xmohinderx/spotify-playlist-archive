@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-501 songs - 1 day 12 hr 37 min
+502 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,8 @@
 | [Something About The Way You Look Tonight \- Edit Version](https://open.spotify.com/track/5LjSxAIKwyZvQqJ04ZQ0Da) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Candle In The Wind 1997 / Something About ...](https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ) | 4:00 | 2022-09-08 |  |
 | [Son Of Your Father](https://open.spotify.com/track/0LiczY4DOe2qDlTw6KgcJg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 3:48 | 2022-09-08 |  |
 | [Song For Guy](https://open.spotify.com/track/71zJRiAG1f817v9R9tYMvg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 6:53 | 2022-09-08 |  |
-| [Sorry Seems To Be The Hardest Word](https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 3:48 | 2022-09-08 |  |
+| [Sorry Seems To Be The Hardest Word](https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 3:48 | 2022-09-08 | 2023-02-24 |
+| [Sorry Seems To Be The Hardest Word \- Radio Edit](https://open.spotify.com/track/3fPHdvqv44BY06urgU1KYn) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Royal: The First Twenty Years](https://open.spotify.com/album/0GuZ4HveknFIUyDBWJf7i7) | 3:30 | 2023-02-23 |  |
 | [Soul Glove](https://open.spotify.com/track/38sTwkSHVBMnbijbygSmSM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:31 | 2022-09-08 |  |
 | [Spiteful Child \- Remastered 2003](https://open.spotify.com/track/6JthALIr8UuPMqw8COEHOh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:15 | 2022-09-08 |  |
 | [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2022-09-08 |  |

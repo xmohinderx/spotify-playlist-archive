@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-264 songs - 14 hr 54 min
+269 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,11 +65,13 @@
 | [Do You Mind If I Smoke](https://open.spotify.com/track/4kFDH0KwaJVLz9UrYd3tPG) | [Wayne Buckley](https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg) | [Do You Mind If I Smoke](https://open.spotify.com/album/4B9At7kBfjAyyNLg1SpG0R) | 4:05 | 2023-01-26 |  |
 | [Doin Nothing](https://open.spotify.com/track/7uQGl7eCMmeb7yuKwkEmaO) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Doin Nothing](https://open.spotify.com/album/2I8JDTsc8gRIcZYFBwElyW) | 3:53 | 2022-12-08 |  |
 | [Dolphin Dance](https://open.spotify.com/track/54qJkfXVHmgJhYpbMgVjM4) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Dolphin Dance](https://open.spotify.com/album/3ImIn4IPL59kQU1B0lrQRG) | 2:18 | 2023-02-16 |  |
+| [Don't Be That Way](https://open.spotify.com/track/5dim4yMUDWM0c5g7sdereZ) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Early Autumn](https://open.spotify.com/album/59fAHLXGySE1TJ9HeVCTl7) | 2:48 | 2023-02-23 |  |
 | [Don't Blame Me](https://open.spotify.com/track/5RuKvZoJv8uDrMcVECOcIZ) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Don't Blame Me](https://open.spotify.com/album/0RWlDYTkb9pdpOqw08se8R) | 3:32 | 2023-02-16 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 | 2022-11-24 |  |
 | [Don't Know Why](https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 2:20 | 2021-12-07 | 2022-02-12 |
 | [Dreams](https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Dreams](https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6) | 2:27 | 2022-10-13 |  |
 | [Dreams](https://open.spotify.com/track/1d1lfPt3kdB2DInFt1mhVe) | [Darius Briley](https://open.spotify.com/artist/0SlMXLjZNuSRZJ3VvpbQit) | [Dreams](https://open.spotify.com/album/17nFGc4cZJcr61JbeWFTLk) | 2:23 | 2023-01-19 |  |
+| [Early Autumn](https://open.spotify.com/track/3VztHPAF4NNh2QXdQ5M6XP) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Early Autumn](https://open.spotify.com/album/59fAHLXGySE1TJ9HeVCTl7) | 2:53 | 2023-02-23 |  |
 | [Easy Living](https://open.spotify.com/track/5o2QRKZqtdKMeZ47Im0wgg) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Easy Living](https://open.spotify.com/album/4G08VuIeQLEvP0ieLg7kIB) | 3:37 | 2022-02-15 |  |
 | [Elise](https://open.spotify.com/track/696BDrz9nIEdXTmLxTjm6Q) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Elise](https://open.spotify.com/album/08S5BBeRD6SNzKATObz1Hm) | 2:49 | 2022-10-27 |  |
 | [Embraceable You](https://open.spotify.com/track/4M83WIzH5cqPFqjnYwcji9) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Embraceable You](https://open.spotify.com/album/0wnfgpSxtv8UzL4n1f055H) | 3:22 | 2022-06-14 |  |
@@ -83,6 +85,7 @@
 | [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 | 2022-12-01 |  |
 | [For All We Know](https://open.spotify.com/track/46YHnrTI0ZmXBOclUDsbI3) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:14 | 2023-01-05 |  |
 | [For Heaven's Sake](https://open.spotify.com/track/1Awk77fTG0Vf17KlekKECz) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [For Heaven's Sake](https://open.spotify.com/album/1QBGjJQnNFwrGxdyUuFsml) | 4:32 | 2021-12-07 | 2022-05-10 |
+| [Forest Flower](https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Forest Flower](https://open.spotify.com/album/1xEwOzWSVhygukb5WJYXnZ) | 4:13 | 2023-02-23 |  |
 | [Forever in your arms](https://open.spotify.com/track/5dbsWC1EVqbhHcRbJr4vjF) | [Sophie Nichols](https://open.spotify.com/artist/2Vud9HNRfM5SLNkqdmPUa3) | [Forever in your arms](https://open.spotify.com/album/55HHyCZLRi0RCo1qoBoJZV) | 2:46 | 2021-12-07 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/6KGqqJais6l3hxsn0D0U5d) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Georgia On My Mind](https://open.spotify.com/album/28eTmi4KQYJ3iu3pRqT27u) | 3:30 | 2021-12-07 |  |
 | [Giant Steps](https://open.spotify.com/track/0DZTgBMJcZhfGi5WAhlaLM) | [Cato Connor](https://open.spotify.com/artist/0ScVxBaBLUG41oCsXpyhwJ) | [Giant Steps](https://open.spotify.com/album/3rfsMsMmXGie8emynmy2XA) | 2:50 | 2021-12-07 | 2022-04-12 |
@@ -92,6 +95,7 @@
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/4pwfhJMOpGRd3hABNPd1n2) | [Joshua Ware](https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT) | [Midnight Solo Sessions](https://open.spotify.com/album/5G2e2LCTC6MFixt6amtciV) | 2:20 | 2022-02-01 |  |
 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 | 2021-12-07 |  |
 | [Grace \#7](https://open.spotify.com/track/3B8IRT01MVf7v1iKBT6nv7) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Grace](https://open.spotify.com/album/1WwlmTdtSfNTS3ZmUeMCRq) | 3:02 | 2021-12-07 | 2022-08-30 |
+| [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-02-23 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/08zG2Lrqlfp3ldWVzEbnjc) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Here's That Rainy Day](https://open.spotify.com/album/2BLTJotFjrXROaxkzPgqnh) | 4:19 | 2021-12-07 | 2022-12-02 |
 | [Here's That Rainy Day](https://open.spotify.com/track/6RSuiDuF8X8eNjXVFttxyT) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:20 | 2023-01-05 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/5N1CLBoASSxd0IP3aOXeIA) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [How Long Has This Been Going On?](https://open.spotify.com/album/4enSlE24XGXXLkrGW7lxZ1) | 2:51 | 2022-06-21 |  |
@@ -136,6 +140,7 @@
 | [Lament](https://open.spotify.com/track/7psqOiW2f8t6rJO8DNyeCm) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Lament](https://open.spotify.com/album/6aerbGECcBi4QOcILX5koS) | 4:27 | 2021-12-07 |  |
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2021-12-07 |  |
 | [Leave The Bottle](https://open.spotify.com/track/4wzA7y3rVCFI5N65LIm1ie) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [Leave The Bottle](https://open.spotify.com/album/4Wn4TtWxzxIVlhteYhGqrl) | 3:38 | 2023-01-12 |  |
+| [Lenox Hill](https://open.spotify.com/track/3rtDk5D3VmzvZn2ywGg0bq) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Lenox Hill](https://open.spotify.com/album/27cTJGvI2eXXMNy94uBwv7) | 2:31 | 2023-02-23 |  |
 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/7E1eNodaXumIQKrnzv2kzb) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [A Foggy Day](https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1) | 3:52 | 2021-12-07 | 2022-10-14 |
 | [Let's Fall in Love](https://open.spotify.com/track/61Wv9rlpZz27NHul5O6XN7) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Jazz Piano Before Midnight](https://open.spotify.com/album/6tC4AiQ7S9tz8bCrOmzfKo) | 2:03 | 2022-05-24 |  |
 | [Like Someone in Love](https://open.spotify.com/track/7HfS1TFqIaAO044jhCmNAl) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Like Someone in Love](https://open.spotify.com/album/55LGBLAN5hoiDD4hGF0l0r) | 3:32 | 2021-12-07 |  |
@@ -170,7 +175,7 @@
 | [Night Mood](https://open.spotify.com/track/1zQJVpcXpaXJRETpADpD5f) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Night Mood](https://open.spotify.com/album/1Xsdw8DS23e5QULFLFqfRF) | 2:51 | 2022-08-09 |  |
 | [Nightmood](https://open.spotify.com/track/4ditrMy34cshzgGWwTc7bH) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Nightmood](https://open.spotify.com/album/36gnW9zzfAOMX61z76ey9b) | 3:44 | 2021-12-07 |  |
 | [Old Folks](https://open.spotify.com/track/6HK5l5TOiSUfkOt57hiOwf) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Old Folks](https://open.spotify.com/album/268BPTmcyOh0uSDFxYWYZ4) | 3:27 | 2022-05-02 |  |
-| [Old Memories](https://open.spotify.com/track/014RmdPtVLhsjML1WkskCi) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Old Memories](https://open.spotify.com/album/40VeupKnBHgPNTEs3SRhMM) | 3:20 | 2022-08-09 |  |
+| [Old Memories](https://open.spotify.com/track/014RmdPtVLhsjML1WkskCi) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Old Memories](https://open.spotify.com/album/40VeupKnBHgPNTEs3SRhMM) | 3:20 | 2022-08-09 | 2023-02-24 |
 | [On A Clear Day](https://open.spotify.com/track/2rIuYJ81BdL5pukyDjhxj7) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [On A Clear Day](https://open.spotify.com/album/5tc4yM14HsMvbLUErYQ4MH) | 3:16 | 2022-04-01 |  |
 | [On The Street Where You Live](https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [On The Street Where You Live](https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp) | 3:51 | 2022-05-17 |  |
 | [Out Of Nowhere](https://open.spotify.com/track/6CPmUmMMXvGombRcl8p5Iw) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Out Of Nowhere](https://open.spotify.com/album/0cu8JtZHQDqNPT0zmnDh2w) | 2:39 | 2022-11-17 |  |

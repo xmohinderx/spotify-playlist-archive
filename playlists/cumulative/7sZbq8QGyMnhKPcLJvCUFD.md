@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-203 songs - 10 hr 26 min
+204 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Ego](https://open.spotify.com/track/5p6r0N9T6Z9dhjKYklLLqY) | [Syntact](https://open.spotify.com/artist/07Wf444cHLc9Qju8MhHD2f) | [Ego](https://open.spotify.com/album/4KAX3VjLEYw48Z2zIoAj0Z) | 4:07 | 2022-11-17 |  |
 | [Electric \- jeonghyeon Remix](https://open.spotify.com/track/78yNJ5AiK2UkM8gDuSmRPB) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Deerock](https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Electric \(jeonghyeon Remix\)](https://open.spotify.com/album/47U0y4WrOv38gtxJcgZhm8) | 3:00 | 2022-09-22 |  |
 | [Emotions](https://open.spotify.com/track/220ruturt9KcBkc4DCYAN4) | [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Emotions](https://open.spotify.com/album/4PqX0mPwf8NC5I9qnLdcBZ) | 3:44 | 2022-05-26 |  |
+| [Enemies](https://open.spotify.com/track/5OkJvUvwFbbiejQ2Tsv2pE) | [ATSMXN](https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW), [XTOM](https://open.spotify.com/artist/4zB6ahEJIuTVI5AgzqYrH5) | [Enemies](https://open.spotify.com/album/1FGSlHg8ZaXHBVVH4pBQad) | 1:54 | 2023-02-23 |  |
 | [Escape](https://open.spotify.com/track/6JgwctY56HApwUulKv7S1I) | [Keerthin](https://open.spotify.com/artist/1Oz7qUi3GFmZiwAaMmyNjt) | [Escape](https://open.spotify.com/album/2IfWnh5Z3PvgwHxX20qCE8) | 2:38 | 2022-05-10 |  |
 | [Escape](https://open.spotify.com/track/3pr8PMLXqvDWVIB0pAP1Kq) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [AKIAL](https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv) | [Escape](https://open.spotify.com/album/2pWEZNtbgw1OriZClqaNLD) | 2:22 | 2022-04-16 |  |
 | [Escape \- Juan Dileju & Sam Ourt VIP Mix](https://open.spotify.com/track/1JfPvINntzaONpjJ9sEHPT) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [AKIAL](https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0) | [Escape \(Juan Dileju & Sam Ourt VIP Mix\)](https://open.spotify.com/album/7g07T8MA5I4JYLieH80XkQ) | 2:17 | 2022-12-12 |  |

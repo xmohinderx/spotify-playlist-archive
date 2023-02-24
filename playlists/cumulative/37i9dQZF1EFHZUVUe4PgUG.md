@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HEOMXFtAAadlud1rklphC">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-90 songs - 4 hr 47 min
+91 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Me Enamora](https://open.spotify.com/track/2hdhH9YsYQInj4NYU75XZZ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Me Enamora](https://open.spotify.com/album/1dig8YSzW8UrxJ89D1iSC2) | 2:48 | 2022-06-04 |  |
 | [Medicina](https://open.spotify.com/track/4R5xvs5X0phd0EYWyGigju) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Medicina](https://open.spotify.com/album/3zk4ryXCq1a4NwC4WYxfHW) | 2:21 | 2022-06-04 |  |
 | [Mi Mala \(feat\. Becky G, Leslie Grace & Lali\) \- Remix](https://open.spotify.com/track/27xFMBWh15wyYGGAVrEMuK) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 4:15 | 2022-06-04 |  |
+| [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 | 2023-02-23 |  |
 | [Na' de Ti](https://open.spotify.com/track/6I7kybtYA6uWdWPyiZgyhK) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Trap Cake, Vol\. 1](https://open.spotify.com/album/37rUi63O4koMFvrSC1EMam) | 3:07 | 2022-06-04 |  |
 | [Ni Me Enteré](https://open.spotify.com/track/4riV4eAt1AKaFZShAWAMPB) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Alejandro Santamaria](https://open.spotify.com/album/7ltaTBhRZPxG2MFAW4h9by) | 2:47 | 2022-06-04 |  |
 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 | 2022-06-04 |  |

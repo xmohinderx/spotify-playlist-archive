@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: BABYMETAL
 
-255 songs - 16 hr 41 min
+256 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Colossvs](https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7) | 3:37 | 2020-12-07\* | 2022-11-20 |
 | [Colossvs](https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN) | 3:37 | 2022-10-28 |  |
 | [Come For Me](https://open.spotify.com/track/3kgx7Hw9C0cMPOYUdtIrXI) | [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [Come For Me](https://open.spotify.com/album/3Ts7i90oOwxtYNzZqKfM7l) | 3:34 | 2020-12-07\* | 2021-05-15 |
-| [Constance](https://open.spotify.com/track/0Zlx1KWGu52inBW23CUukE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Constance](https://open.spotify.com/album/7nQLzgir5udDRYcLIpmlyx) | 4:30 | 2020-12-07\* | 2023-02-21 |
+| [Constance](https://open.spotify.com/track/0Zlx1KWGu52inBW23CUukE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Constance](https://open.spotify.com/album/7nQLzgir5udDRYcLIpmlyx) | 4:30 | 2020-12-07\* |  |
 | [Corrode](https://open.spotify.com/track/3HVPJrmpJvwYSmrGS21af1) | [Devilskin](https://open.spotify.com/artist/3TIlROeJjCAhax6c000Pcd) | [Corrode](https://open.spotify.com/album/20gYg8xLqeRhmj2nhAyRU1) | 4:14 | 2020-12-07\* | 2021-10-16 |
 | [Cover You](https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Cover You](https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3) | 3:01 | 2022-11-18 |  |
 | [Crave](https://open.spotify.com/track/7ykAoOUwjYSzqinw4Sk7vc) | [Fate DeStroyed](https://open.spotify.com/artist/0SLTP7xRXkIReIAaUpg7WA) | [Crave](https://open.spotify.com/album/1oht8Pr8e0nBYfkSfbcd47) | 3:36 | 2020-12-07\* | 2022-10-04 |
@@ -110,7 +110,8 @@
 | [Human](https://open.spotify.com/track/1ojotvJWLsbEsmLV6gl0cM) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Hørizøns](https://open.spotify.com/album/0thD1dOyYRoUBK3gzj2TOp) | 5:09 | 2022-03-11 | 2023-02-03 |
 | [Human](https://open.spotify.com/track/55oKgX5jQ5dKoDaFgdKKWj) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Hørizøns \(Japan Edition\)](https://open.spotify.com/album/0VwikXNNIS52z30sDyuMBK) | 5:09 | 2020-12-07\* | 2022-07-29 |
 | [Human](https://open.spotify.com/track/3NEALaGbrMY1N1fwAlpCoy) | [Skarlett Riot](https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z) | [Human](https://open.spotify.com/album/0rqFVF08OKc6ChJMWEtn2f) | 4:11 | 2020-12-07\* | 2020-12-11 |
-| [Hurt You](https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Hurt You](https://open.spotify.com/album/6pvV3ZiuvBDakRK8TOztgW) | 3:46 | 2021-08-24 |  |
+| [Hurt You](https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:46 | 2022-11-18 |  |
+| [Hurt You](https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Hurt You](https://open.spotify.com/album/6pvV3ZiuvBDakRK8TOztgW) | 3:46 | 2021-08-24 | 2023-02-24 |
 | [I Disagree](https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN) | 3:13 | 2022-10-28 |  |
 | [I Disagree](https://open.spotify.com/track/61ypvgEm3ovCFbSIq2PsRX) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree \(more\)](https://open.spotify.com/album/0jTjzLGg15C48CJEfZ9pFJ) | 3:13 | 2020-12-07\* | 2022-11-05 |
 | [I Don't Know You](https://open.spotify.com/track/0038p5duwZ3euoTDxmizmF) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [I Don't Know You](https://open.spotify.com/album/3psICZrRJ4DyfrMhzXSStd) | 3:41 | 2020-12-07\* | 2022-07-29 |
@@ -130,7 +131,7 @@
 | [Kids with Guns](https://open.spotify.com/track/1epNIM4w2WQJ9aBdBdbIqb) | [Nemesea](https://open.spotify.com/artist/0KV2B2b0q24rEawMkFmQvD) | [Kids with Guns](https://open.spotify.com/album/3xZx4a4AcbVMF3t1H7x88I) | 2:42 | 2020-12-07\* | 2020-12-11 |
 | [kill\[h\]er](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [kill\[h\]er](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 | 2023-02-03 |  |
 | [Last Dance](https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Last Dance](https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt) | 3:31 | 2021-04-10 |  |
-| [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 | 2020-12-11 |  |
+| [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 | 2020-12-11 | 2023-02-24 |
 | [Lay All Your Love on Me](https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Looking for You](https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9) | 3:53 | 2022-03-11 |  |
 | [Lay All Your Love on Me](https://open.spotify.com/track/7pQkSNKRQgaN9HdlMvf2NP) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Lay All Your Love on Me](https://open.spotify.com/album/5vNkP3tfQItCM7PLz52ZAm) | 3:53 | 2020-12-07\* | 2022-07-29 |
 | [Layers of Time](https://open.spotify.com/track/29EAXbPh9fZdJEfl57TuqG) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Layers of Time](https://open.spotify.com/album/0AdzpqRGrWAkP8XcphMTW5) | 4:07 | 2020-12-07\* | 2021-02-19 |

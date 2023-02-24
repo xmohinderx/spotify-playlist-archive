@@ -4,13 +4,14 @@
 
 > Piano music to accompany and inspire your writing.
 
-298 songs - 12 hr 55 min
+299 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1944](https://open.spotify.com/track/6MXhtfWjnKHwWB9PqVs8Po) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [1944](https://open.spotify.com/album/0HrjY80TfLk68dxuqBpBJp) | 2:16 | 2022-09-13 |  |
 | [2017](https://open.spotify.com/track/1omqxrkMVNo4SOJ1b3KEmi) | [Pranit Khedekar](https://open.spotify.com/artist/0oFU5xoASWO97hFES9qbkT) | [2017](https://open.spotify.com/album/3r9NQVsjX9DpHVE6xyOarC) | 2:45 | 2022-04-14 |  |
-| [22](https://open.spotify.com/track/6mz8JRgQtisMv1x65BIrQg) | [Barabás Lőrinc](https://open.spotify.com/artist/0v55iDyhmDRG129So8PjZ2) | [22](https://open.spotify.com/album/7EHxGA5N2Mnm0crgbST5qU) | 3:27 | 2022-12-22 |  |
+| [22](https://open.spotify.com/track/5S1bPj1rsbiUScS5kxdQfB) | [Barabás Lőrinc](https://open.spotify.com/artist/0v55iDyhmDRG129So8PjZ2) | [22](https://open.spotify.com/album/1zen2IxXy7OYgH8EWKKCbC) | 3:27 | 2023-02-21 |  |
+| [22](https://open.spotify.com/track/6mz8JRgQtisMv1x65BIrQg) | [Barabás Lőrinc](https://open.spotify.com/artist/0v55iDyhmDRG129So8PjZ2) | [22](https://open.spotify.com/album/7EHxGA5N2Mnm0crgbST5qU) | 3:27 | 2022-12-22 | 2023-02-24 |
 | [A Breath / A Pause](https://open.spotify.com/track/6gX8Q0RJqwTAB8QEQpdYMq) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [A Breath / A Pause](https://open.spotify.com/album/6DLkkeKQ1e3dKsIWUvzblY) | 2:00 | 2022-04-14 | 2022-05-27 |
 | [A Doubtful Certainty](https://open.spotify.com/track/1bCcKaGOJn18gVkbCSjoxY) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [A Doubtful Certainty](https://open.spotify.com/album/73dfjyA1yfmiSvfSpWx43J) | 2:40 | 2022-04-14 | 2022-05-05 |
 | [A Fraction Of Time](https://open.spotify.com/track/2Jo7Yt5gcwtnBXMuylLH3c) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A Fraction Of Time](https://open.spotify.com/album/2kBh0yDsnb1cUsX6835lgz) | 2:43 | 2022-05-13 |  |

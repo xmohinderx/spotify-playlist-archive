@@ -1943,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Terpikat Senyummu (Live)",
+        "url": "https://open.spotify.com/album/1rAF2vh0XuqxQQAM7UQ7ou"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Terpikat Senyummu - Live",
+      "url": "https://open.spotify.com/track/17iLvv3Vgnk7yLK9KDaqSx"
+    },
+    {
+      "album": {
         "name": "The Stupid Song",
         "url": "https://open.spotify.com/album/5vqqd9xADRv7Sq5ewjv5nx"
       },

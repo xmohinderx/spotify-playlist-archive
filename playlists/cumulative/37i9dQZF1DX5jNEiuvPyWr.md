@@ -2,13 +2,13 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : DTF
+> Le meilleur du rap français version cloud\. Photo : Captaine Roshi
 
-150 songs - 7 hr 46 min
+153 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [.BOURBIER.](https://open.spotify.com/track/3D9nVQV2jg6hkXqCzVgtWT) | [Kobo](https://open.spotify.com/artist/5O5o8ORa6JnUInvOUmmvft) | [.BOURBIER.](https://open.spotify.com/album/1nOcwKfTHvZ3rbj3MsjHpr) | 2:38 | 2022-12-15 |  |
+| [.BOURBIER.](https://open.spotify.com/track/3D9nVQV2jg6hkXqCzVgtWT) | [Kobo](https://open.spotify.com/artist/5O5o8ORa6JnUInvOUmmvft) | [.BOURBIER.](https://open.spotify.com/album/1nOcwKfTHvZ3rbj3MsjHpr) | 2:38 | 2022-12-15 | 2023-02-24 |
 | [.QUI.TU.VEUX.](https://open.spotify.com/track/04t1VtWunMLp3CvPFk0Axf) | [Kobo](https://open.spotify.com/artist/5O5o8ORa6JnUInvOUmmvft) | [.QUI.TU.VEUX.](https://open.spotify.com/album/4WKVTE8FvoBIfvI29lHRGF) | 3:32 | 2022-10-27 | 2022-12-09 |
 | [0 Lucidité](https://open.spotify.com/track/0DYBFNc6mWge6UhpjRtMH0) | [Solal](https://open.spotify.com/artist/40hwssvpT91rZpFofKyKLz) | [0 Lucidité](https://open.spotify.com/album/60IIkHsD79aILJ4pnkOO25) | 3:29 | 2022-07-28 | 2022-08-26 |
 | [100 ans](https://open.spotify.com/track/2guJAJFWNnaujR0iVYM1pB) | [Diddi Trix](https://open.spotify.com/artist/52h6A1y99QgoEf5FzKEHs1) | [100 ans](https://open.spotify.com/album/55IJ9CgUSLuU72XAs7N0al) | 2:01 | 2022-12-15 | 2023-01-27 |
@@ -53,11 +53,13 @@
 | [Exit \#04 \- Stamina](https://open.spotify.com/track/12ToBtXfEzb2rynwmEF7qF) | [Max DLG](https://open.spotify.com/artist/7sI6IzovX4PHV7Lqw9SsCw) | [Exit \#04 \- Stamina](https://open.spotify.com/album/6gvFCctC0yznRQk1EJGMbk) | 3:23 | 2022-09-08 | 2022-11-11 |
 | [Fascinant](https://open.spotify.com/track/0dth6miXmg495OA7IAhQSZ) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Fascinant](https://open.spotify.com/album/5PNZdbRpC6mzLSHy2rgjBC) | 2:42 | 2022-11-17 | 2023-01-20 |
 | [Fauves](https://open.spotify.com/track/5lyKwmMB1nuU3jUrrIFI3Q) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL) | [Couleur de ma peine](https://open.spotify.com/album/2N9IozZraUsmwNPd4k69YB) | 3:30 | 2022-07-14 | 2022-11-18 |
+| [FENÊTRE](https://open.spotify.com/track/68bIdxaAgmJDdFBfhj9LiX) | [Gatchete](https://open.spotify.com/artist/5a2rrj294lEVKNCLQqTlOk) | [FENÊTRE](https://open.spotify.com/album/0t29DQagdu2t3o8e7sjZu2) | 2:24 | 2023-02-23 |  |
 | [Fin heureuse](https://open.spotify.com/track/2xIaxSN4uWp84jqXmk9DYn) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Fin heureuse](https://open.spotify.com/album/5KcQvszp8wKRp1k9fHXR12) | 2:43 | 2022-07-14 | 2022-12-02 |
 | [FLOKI \- Dysphoria](https://open.spotify.com/track/3vnQXpeuOqmRmYGqX7coFy) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [FLOKI \(Dysphoria\)](https://open.spotify.com/album/0vy4bHNPlmpab87j9X5v2C) | 3:16 | 2022-12-15 |  |
 | [FLOWERS](https://open.spotify.com/track/6tTDh7lYRhLKR7ICg0uzuf) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [FLOWERS](https://open.spotify.com/album/0nCjlr4JE2J1joj6D1S37w) | 2:20 | 2022-10-06 | 2022-12-24 |
 | [Follow me](https://open.spotify.com/track/4e31rlOaeBSQ4lHj3kFzeM) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Follow me](https://open.spotify.com/album/3xR9aS1Ofxxjvm4iNGT1s4) | 2:48 | 2022-10-13 | 2022-12-02 |
 | [G.A.G](https://open.spotify.com/track/3ZWw9cswGcI33ckwAje8zC) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [G.A.G](https://open.spotify.com/album/7pm92hIaWeEYJPm67Xv1mC) | 2:42 | 2023-01-12 |  |
+| [Gamberge](https://open.spotify.com/track/1tm1nLYzyWdre4tca2tWy8) | [Pins & Dimeh](https://open.spotify.com/artist/4Ahw76UVS2GoBsByIdRjQt) | [Gamberge](https://open.spotify.com/album/64k2c7Wbcqc9HxNKivHYg5) | 2:51 | 2023-02-23 |  |
 | [GRENADE](https://open.spotify.com/track/0WZ7TQn8MJnzRxKdxWlpdN) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [GRENADE](https://open.spotify.com/album/2CW4ULev9mQurLEpFHdovg) | 2:56 | 2022-07-14 | 2022-12-30 |
 | [Gris](https://open.spotify.com/track/3g7084K6EoChR796wdRo0i) | [Efef](https://open.spotify.com/artist/0WkzVE8cmwZsoX60nRJfVc) | [Gris](https://open.spotify.com/album/2NTfLcNxztzpilWFqdTqFh) | 3:03 | 2022-11-17 | 2023-01-13 |
 | [Gros mega](https://open.spotify.com/track/1z1kLrnuYTLdXoSKWYE9Fy) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Clairobscur 2](https://open.spotify.com/album/2JlgRagGV3G37C4Db5bPH1) | 2:34 | 2022-07-14 | 2022-12-02 |
@@ -71,6 +73,7 @@
 | [Ici\-bas](https://open.spotify.com/track/6AwuAiYCqeSWzbk4Vzcr3J) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc), [FRAMAL](https://open.spotify.com/artist/392Bnlp5PrDQZgtr3OSG9T) | [SZR 2001](https://open.spotify.com/album/0rk3WWubPvymeQeb3R8n7s) | 2:47 | 2022-07-14 | 2022-10-28 |
 | [IDÉALEMENT](https://open.spotify.com/track/5fAfsSObe2skdyhzbX7hjJ) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 3:01 | 2022-07-14 | 2022-09-23 |
 | [Infecté](https://open.spotify.com/track/07mCQ6sRZzT5XoSqnA2fOW) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [Nephtys](https://open.spotify.com/album/2jplcSiO6721Ep6E9usYyq) | 2:30 | 2022-08-25 |  |
+| [J'arrête](https://open.spotify.com/track/4DBqYAG3eXWFulEs7FR8WN) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Stratos](https://open.spotify.com/album/5YyOGFt8KINACLGIzXRfdL) | 2:47 | 2023-02-23 |  |
 | [J'la connais, Pt\. 1](https://open.spotify.com/track/7qTRcNu0nqDyjM7cWofXqT) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [J'la connais, Pt\. 1](https://open.spotify.com/album/6CodUHcAHp1KsNY2zPyDKA) | 3:34 | 2022-07-14 | 2023-01-20 |
 | [J'rentre pas chez moi](https://open.spotify.com/track/1kqrfPAEFaOx33YHlYqQLa) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [J'rentre pas chez moi](https://open.spotify.com/album/5MaykxZo8kzq0uYHgQXjqD) | 2:43 | 2022-07-14 | 2022-09-30 |
 | [J'y pense encore](https://open.spotify.com/track/1dMDYQjrnhee5nmyKEydJd) | [Lil Purpx](https://open.spotify.com/artist/45gUSG3z1KARI7RfS1Bj28) | [J'y pense encore](https://open.spotify.com/album/0UzFkYv4X5yskUaB2QbjRz) | 3:29 | 2022-10-06 | 2022-12-02 |
@@ -115,7 +118,7 @@
 | [Paraît\-il](https://open.spotify.com/track/5VJerGXFJYqUsV63tvUYlb) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma](https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF) | 2:50 | 2023-02-09 |  |
 | [Perdu](https://open.spotify.com/track/2YPxuRn3QTh4vQ6Qfh2EpG) | [GOYA](https://open.spotify.com/artist/2qq8zPVsSnIZqvmG09oFRr) | [Perdu](https://open.spotify.com/album/0TPzjKqIXdyoxIeSlmXA1y) | 3:32 | 2022-07-14 | 2022-07-22 |
 | [Perdu d'avance](https://open.spotify.com/track/1kXMucU97he5tcBgCR5o4v) | [Ramses](https://open.spotify.com/artist/5v2PdLR4Jcs31CC1GJIA78) | [Perdu d'avance](https://open.spotify.com/album/5gQLcjIumwemTPdbTv79ik) | 2:54 | 2022-09-08 | 2022-11-18 |
-| [Personally](https://open.spotify.com/track/2Tb1mxu6uMSRp0dEg4bRXq) | [Yams](https://open.spotify.com/artist/0wEDL8w6Yy6ti1IGW2Yy40) | [Personally](https://open.spotify.com/album/7mPSdLufQXnjcH3PjqYs47) | 3:13 | 2023-02-09 |  |
+| [Personally](https://open.spotify.com/track/2Tb1mxu6uMSRp0dEg4bRXq) | [Yams](https://open.spotify.com/artist/0wEDL8w6Yy6ti1IGW2Yy40) | [Personally](https://open.spotify.com/album/7mPSdLufQXnjcH3PjqYs47) | 3:13 | 2023-02-09 | 2023-02-24 |
 | [Piano Black](https://open.spotify.com/track/0MRPmZVCxKAf5HSaglBoDV) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 4:04 | 2022-07-14 | 2022-07-29 |
 | [Piano Black](https://open.spotify.com/track/5HUjQGeA8sTTCmmWC3hAg7) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs) | 4:05 | 2022-07-28 | 2022-11-04 |
 | [Plus jeune](https://open.spotify.com/track/1mWoxD27fEJ4scLSlBHEs3) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 3:23 | 2022-07-14 | 2022-07-29 |
@@ -136,7 +139,7 @@
 | [SANS TOI](https://open.spotify.com/track/447ZZY0MMCZcYcDVxWKwgn) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 3:08 | 2022-07-14 | 2023-02-03 |
 | [Sans ça](https://open.spotify.com/track/1VZr0fGotyAn61HlsUpk4R) | [Willyod](https://open.spotify.com/artist/58JTHHzGDeGIXUjUtbRvyO) | [Sans ça](https://open.spotify.com/album/7GpYNcQFtVQQfQ7wGyO3SF) | 2:35 | 2022-12-01 | 2023-02-17 |
 | [Schémas Monotones](https://open.spotify.com/track/6cQrLizVUnTNQz5hNdnmIV) | [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Schémas Monotones](https://open.spotify.com/album/6YZxi7O8YpLl1VIPZRS3zJ) | 2:26 | 2022-07-14 | 2022-10-14 |
-| [Seul au monde](https://open.spotify.com/track/4luvWLKyAZbCMqltYuD9Dc) | [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [Seul au monde](https://open.spotify.com/album/1xyOjLlsdrQkcRg3dDpDig) | 2:53 | 2023-01-26 |  |
+| [Seul au monde](https://open.spotify.com/track/4luvWLKyAZbCMqltYuD9Dc) | [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [Seul au monde](https://open.spotify.com/album/1xyOjLlsdrQkcRg3dDpDig) | 2:53 | 2023-01-26 | 2023-02-24 |
 | [Si ça compte](https://open.spotify.com/track/2KGyvpsnb8PXovZx4ecfUF) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [Kenna](https://open.spotify.com/album/76pipx8axggIWa1sXWV7K4) | 3:05 | 2022-10-27 |  |
 | [Silver Haze](https://open.spotify.com/track/03cm8VgdEvDM0rC7txjmpY) | [Bakari](https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33) | [Silver Haze](https://open.spotify.com/album/12CHUcB1WTZPeB2KHGyRoq) | 3:53 | 2022-10-27 | 2022-12-09 |
 | [SKYLER](https://open.spotify.com/track/7eDBP5VI6Ouv7J39dHQo8V) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [SKYLER](https://open.spotify.com/album/2TDnaEceIVGmQ0pVCQUo2u) | 3:17 | 2022-12-01 |  |

@@ -1049,6 +1049,28 @@
     },
     {
       "album": {
+        "name": "\u30af\u30a6\u30d5\u30af (starring VALSHE)",
+        "url": "https://open.spotify.com/album/6ggasRuWfhDyzfDCu0aWQn"
+      },
+      "artists": [
+        {
+          "name": "\u4eca\u591c\u3001\u3042\u306e\u8857\u304b\u3089",
+          "url": "https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y"
+        },
+        {
+          "name": "VALSHE",
+          "url": "https://open.spotify.com/artist/3RbqLuOD3CrWxEpXeyMbS3"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170633,
+      "name": "\u30af\u30a6\u30d5\u30af (starring VALSHE)",
+      "url": "https://open.spotify.com/track/3nM0q6UoSaxxfeU81Sb8s5"
+    },
+    {
+      "album": {
         "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
         "url": "https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6"
       },

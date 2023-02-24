@@ -1,12 +1,12 @@
 {
   "description": "Inizia la giornata con la tua dose di caff\u00e8 e carica musicale! ",
-  "num_followers": 307021,
+  "num_followers": 307015,
   "original_name": "Caff\u00e8 del Buongiorno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg4NTkxMiwwMDAwMDAwMDRmZWUwYmJiMTRiN2U1M2ViYzY0M2NlMzcwOGUyYjY4",
+  "snapshot_id": "MTY3NTg4NTkxMiwwMDAwMDAwMDJhMzA2Y2I0ODJlNGVkYWY2OGJhZTMzMjFkMzYwMmNm",
   "tracks": [
     {
       "added_at": "2023-01-18 14:28:29",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-01-18 14:28:29",
       "album": {
-        "name": "Vieni nel mio cuore",
-        "url": "https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 172761,
-      "name": "Vieni nel mio cuore",
-      "url": "https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG"
-    },
-    {
-      "added_at": "2023-01-18 14:28:29",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 172692,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
+    },
+    {
+      "added_at": "2023-01-18 14:28:29",
+      "album": {
+        "name": "Vieni nel mio cuore",
+        "url": "https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 172761,
+      "name": "Vieni nel mio cuore",
+      "url": "https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG"
     },
     {
       "added_at": "2023-01-18 14:28:29",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-01-18 14:28:29",
       "album": {
-        "name": "Giovani Wannabe",
-        "url": "https://open.spotify.com/album/4Z93gEHbpIBqeNbIK337oA"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 212966,
-      "name": "Giovani Wannabe",
-      "url": "https://open.spotify.com/track/7iLuBTHJSXM2HalKHFqEEy"
-    },
-    {
-      "added_at": "2023-01-18 14:28:29",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/35c9iadFgrCWLY0tuJH23H"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 156910,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny"
+    },
+    {
+      "added_at": "2023-01-18 14:28:29",
+      "album": {
+        "name": "Giovani Wannabe",
+        "url": "https://open.spotify.com/album/4Z93gEHbpIBqeNbIK337oA"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 212966,
+      "name": "Giovani Wannabe",
+      "url": "https://open.spotify.com/track/7iLuBTHJSXM2HalKHFqEEy"
     },
     {
       "added_at": "2023-01-18 14:28:29",

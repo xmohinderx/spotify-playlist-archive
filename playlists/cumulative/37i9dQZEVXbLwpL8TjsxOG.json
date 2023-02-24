@@ -3491,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "MONEY",
+        "url": "https://open.spotify.com/album/2orrREvtatwHRERaqcrMg8"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202538,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/4bzylGLMAjkb8AYCcsu96R"
+    },
+    {
+      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -4210,7 +4228,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
@@ -7367,6 +7385,24 @@
     },
     {
       "album": {
+        "name": "\u5c0f\u6797\u4e0d\u52d5\u7522",
+        "url": "https://open.spotify.com/album/2ECDGQbU9ra2jYK7ZbqwKb"
+      },
+      "artists": [
+        {
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185742,
+      "name": "\u5c0f\u6797\u4e0d\u52d5\u7522",
+      "url": "https://open.spotify.com/track/4Mt3D6I02Pu2iv2KWW0hO6"
+    },
+    {
+      "album": {
         "name": "\u5c0f\u8ae7\u661f",
         "url": "https://open.spotify.com/album/19F3jFJst7yhZ7U5ziGuaj"
       },
@@ -9540,7 +9576,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 213969,
       "name": "\u9084\u539f\u6dda",
       "url": "https://open.spotify.com/track/4knMu3Cbg277Di6oEkpeRA"

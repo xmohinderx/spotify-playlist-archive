@@ -1601,6 +1601,32 @@
     },
     {
       "album": {
+        "name": "#aparttogether (The Remixes Part 3)",
+        "url": "https://open.spotify.com/album/79jofxveyaNOe26JvtDp2X"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Sutorius",
+          "url": "https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq"
+        },
+        {
+          "name": "Krimsonn",
+          "url": "https://open.spotify.com/artist/5AmxhPl99r1cBm9WqrIuyU"
+        },
+        {
+          "name": "CHRNS",
+          "url": "https://open.spotify.com/artist/0UO2eme5GrM4O3neniq7Ql"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200624,
+      "name": "Nostalgia - CHRNS Remix",
+      "url": "https://open.spotify.com/track/2PJynaBgZkI5GDKgiw7c0z"
+    },
+    {
+      "album": {
         "name": "Ocean Apart",
         "url": "https://open.spotify.com/album/1RA2TEaEQMT49mvltgbISD"
       },

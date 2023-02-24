@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-436 songs - 1 day 4 hr 53 min
+437 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [134](https://open.spotify.com/track/0PvkPaT5WXWNpByL1m49E8) | [Haruna](https://open.spotify.com/artist/1ovNHIntzPk4hzzKQtrOof) | [134](https://open.spotify.com/album/2AVZl6XdrykIp31Q3RV4Cn) | 4:03 | 2022-07-26 | 2022-08-03 |
 | [1989's](https://open.spotify.com/track/1maEK0VKEFEGpP1QXmZb1R) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [1989's](https://open.spotify.com/album/14984DgT52EAK32llFN3w6) | 4:37 | 2022-05-24 | 2022-07-28 |
 | [33歳のエンディングノート](https://open.spotify.com/track/73qhEfQwAu558SHaGcnjyX) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Little Woman](https://open.spotify.com/album/4MOwIbt4OSBrLRGw4Bmhu6) | 4:17 | 2022-05-24 | 2023-02-15 |
-| [3号線](https://open.spotify.com/track/300DoYpld1TAIHrAodgpnX) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM), [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [3号線 \(feat\. 堀込泰行\)](https://open.spotify.com/album/4k1iWmDoy7ivu3kOUs3Lyo) | 5:50 | 2022-05-24 |  |
+| [3号線](https://open.spotify.com/track/300DoYpld1TAIHrAodgpnX) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM), [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [3号線 \(feat\. 堀込泰行\)](https://open.spotify.com/album/4k1iWmDoy7ivu3kOUs3Lyo) | 5:50 | 2022-05-24 | 2023-02-24 |
 | [4:00A.M.](https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [MIGNONNE \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6) | 5:36 | 2022-07-27 |  |
 | [A Rainy Friday In June](https://open.spotify.com/track/3UXy5gTZLOYb5AIFcwNd5m) | [The Lamb](https://open.spotify.com/artist/6Df2pJCe7Ud1Q7kWvf68cx) | [A Rainy Friday In June](https://open.spotify.com/album/3xiFLn8OFUoqgi4mdZrSgn) | 3:48 | 2023-01-10 | 2023-02-01 |
 | [A Rainy Night in NY](https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [A Rainy Night in NY](https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH) | 2:58 | 2022-05-24 |  |
@@ -310,6 +310,7 @@
 | [うそつき](https://open.spotify.com/track/6tKhV1RnmuzL3rdjBEVMcO) | [Sakura Motoyama](https://open.spotify.com/artist/0paAjezDbecmF7vgAVS0hC) | [うそつき](https://open.spotify.com/album/6QghdFGpV6RT0yu63fwy2G) | 4:30 | 2022-08-30 | 2022-09-07 |
 | [うらめしや](https://open.spotify.com/track/4BH0ewgz8IF3RqSEMM4xoa) | [ポニーのヒサミツ](https://open.spotify.com/artist/5Jgmn1ZKXTKLR1uxbu0lSg) | [うらめしや](https://open.spotify.com/album/5y6VarJO0wRMLUERYjo0Fu) | 2:56 | 2022-05-31 | 2022-06-08 |
 | [お茶](https://open.spotify.com/track/3jpE1IiRxKi25R05n0YIZo) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Are U Romantic?](https://open.spotify.com/album/7mDjC27mmAVS3mnrPUjgZS) | 4:18 | 2022-05-24 | 2022-07-24 |
+| [きっと愛](https://open.spotify.com/track/6fK6tauA3ezRp7Xs2vqCJp) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [きっと愛](https://open.spotify.com/album/2H95SH82s3jXWt6XOAByC3) | 3:19 | 2023-02-23 |  |
 | [くちぶえ](https://open.spotify.com/track/5pLJN1059GYVb8RxONcG4f) | [OSTRIP](https://open.spotify.com/artist/7sRCMTc2ZLX4HcWGQngam3) | [くちぶえ](https://open.spotify.com/album/6kFP9IBA9Lj5gMdg9k1nKK) | 4:19 | 2022-06-21 | 2022-07-21 |
 | [このまま夢で feat\. AAAMYYY](https://open.spotify.com/track/7mYt61pj41CSwSiOovNzk0) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [NOTE](https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa) | 3:54 | 2022-08-02 |  |
 | [この街はパレード](https://open.spotify.com/track/2bNXK6Ln7DfEdVlHlVpW8w) | [sty](https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z) | [この街はパレード](https://open.spotify.com/album/2W84t0fIocPZhoMOkaLDiY) | 3:08 | 2022-09-06 | 2022-09-09 |

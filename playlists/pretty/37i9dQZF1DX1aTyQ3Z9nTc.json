@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 114536,
+  "num_followers": 114600,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDZiZDUxN2JmMDJmZDQyNGEyZTBiZTM0ZDhkMDQ0MTg1",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGZkYWQxNmZjYWJhMjg5MjM2YmIzZGYxMjkzZDhmMmRi",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -957,20 +957,28 @@
       "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "Ease Up",
-        "url": "https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW"
+        "name": "Wake Up, Get Down",
+        "url": "https://open.spotify.com/album/5GHIjfV0FiuXa2cvqovHg6"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        },
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
         }
       ],
-      "duration_ms": 214080,
-      "name": "Ease Up",
-      "url": "https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg"
+      "duration_ms": 259816,
+      "name": "Wake Up, Get Down",
+      "url": "https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54"
     }
   ],
   "unique_name": "Choice Edit",

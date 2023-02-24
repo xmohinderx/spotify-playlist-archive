@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Mayberg
 
-171 songs - 9 hr 19 min
+173 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,11 +18,12 @@
 | [A$AP & Rihanna](https://open.spotify.com/track/1wT0IaBnco8m5XIViG7HfE) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [A$AP & Rihanna](https://open.spotify.com/album/7mwRWlmAOQEWnEOgV3NEt2) | 1:52 | 2022-07-28 | 2022-11-20 |
 | [Abendkleider und Nadelstreifen](https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:47 | 2022-05-19 |  |
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-05-05 | 2023-01-27 |
-| [All We Are](https://open.spotify.com/track/0RuQVn5JcxuDBSNxo1sxau) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:38 | 2021-12-16 |  |
+| [All We Are](https://open.spotify.com/track/0RuQVn5JcxuDBSNxo1sxau) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:38 | 2021-12-16 | 2023-02-24 |
 | [an all diesen Tagen](https://open.spotify.com/track/129TLJVbwR9oS1pVn20FAb) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [an all diesen Tagen](https://open.spotify.com/album/2HDPnK1ZmhJXm0rcPNYXTs) | 2:44 | 2022-04-07 | 2022-09-16 |
 | [Another year like that and we'd all be dead](https://open.spotify.com/track/7ytFo4I2OsaiGRhYdFGoQW) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ROMANIAC](https://open.spotify.com/album/6DqP8rOL3mQrK1av1L3AbT) | 4:36 | 2021-12-16 | 2022-02-11 |
 | [Anymore](https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Anymore](https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL) | 2:34 | 2022-01-27 |  |
 | [Backyard Body](https://open.spotify.com/track/1LdlloAKsamceZO7qDSfQS) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [RISE OF THE ROMANIAC](https://open.spotify.com/album/4fXKTHlYNHgc6RLGe4cSrg) | 2:12 | 2022-05-26 | 2022-10-28 |
+| [Bedroom Exile](https://open.spotify.com/track/1n7mpf8v5OZL6DKf6a0TD1) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/4lmPBBBCnBl6uHdFMIjCmZ) | 3:18 | 2023-02-23 |  |
 | [besoffen in den spiegel schauen](https://open.spotify.com/track/4xEfMKxaESmdTTAuu2GHK1) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [2022 war film gewesen](https://open.spotify.com/album/7lOlLrkcD0F2SXIqyVxL43) | 2:38 | 2022-12-01 | 2023-02-10 |
 | [besonders](https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [besonders](https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg) | 3:00 | 2022-01-13 | 2022-07-15 |
 | [Blood In The Water](https://open.spotify.com/track/7aIAOHBLDuh2IKJPM97VBb) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Blood In The Water](https://open.spotify.com/album/1IbRlTLil2YwX2M0eCo9BU) | 3:27 | 2022-12-01 |  |
@@ -66,7 +67,7 @@
 | [Fuji](https://open.spotify.com/track/7wXakijrSKkpvrdPYwJr7t) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Fuji](https://open.spotify.com/album/29spAqjN7v2hmQHoHMU7z1) | 2:28 | 2021-12-16 | 2022-03-25 |
 | [Funke, Flächenbrand](https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Funke, Flächenbrand](https://open.spotify.com/album/6OTvVeDS7GlTqKf2qVU86o) | 2:36 | 2022-03-03 |  |
 | [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 | 2023-01-05 |  |
-| [Gib Gib](https://open.spotify.com/track/1RUZl4jYcStuNxkwib8wBk) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Gib Gib](https://open.spotify.com/album/557EOriY4Y0nOixN726p9C) | 2:59 | 2022-05-12 |  |
+| [Gib Gib](https://open.spotify.com/track/1RUZl4jYcStuNxkwib8wBk) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Gib Gib](https://open.spotify.com/album/557EOriY4Y0nOixN726p9C) | 2:59 | 2022-05-12 | 2023-02-24 |
 | [Glücklich](https://open.spotify.com/track/0PoorhuDSZ7hgvFT7C6fgf) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Altbau](https://open.spotify.com/album/2auKjXyzl5jD6heDu160dA) | 2:23 | 2022-03-24 | 2022-11-24 |
 | [Glücklich](https://open.spotify.com/track/3z3thFt7kVIkfY9PRdIOcJ) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Altbau](https://open.spotify.com/album/2qwFhDKCrCy5sYU6lqGC77) | 2:23 | 2022-11-17 |  |
 | [Gone](https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Gone](https://open.spotify.com/album/651CcYUL1asuZzRClUinai) | 2:35 | 2021-12-16 |  |
@@ -112,6 +113,7 @@
 | [Mom&Dad](https://open.spotify.com/track/7nk2rwASLMnPTGMTrW0tqa) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Mom&Dad](https://open.spotify.com/album/4XOL1wYfQ0bku2DDaoYMqn) | 3:01 | 2021-12-16 | 2022-07-29 |
 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 | 2022-07-14 |  |
 | [My Wife The Depression](https://open.spotify.com/track/4Izo6qdh1ypa33xz2Ez4Lf) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [My Wife The Depression](https://open.spotify.com/album/6vhpoAT5KHbsE5pxv7Mp9O) | 3:02 | 2021-12-16 | 2022-04-15 |
+| [Nero](https://open.spotify.com/track/1ySWFxPIPHpjA5EsRx39Q7) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Nero](https://open.spotify.com/album/3cBbmX6ACg8NdpVyr2QACS) | 3:02 | 2023-02-23 |  |
 | [Neues Geld](https://open.spotify.com/track/0ohdHACL1eACasCxA1UXa8) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Neues Geld](https://open.spotify.com/album/7tqHzLMSERvb6cs6aOzLPz) | 2:28 | 2022-05-12 | 2022-09-09 |
 | [New 68](https://open.spotify.com/track/5hMIBsn64hajBIKbFJAsf6) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [New 68](https://open.spotify.com/album/0R1JPqXUR7sXSq67zGMRqO) | 3:30 | 2021-12-16 | 2022-05-20 |
 | [New Era](https://open.spotify.com/track/3qhW02v4Yo6d5lPhxE6iZb) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [New Era EP](https://open.spotify.com/album/49LqNtUITrajPTnpwyC8tA) | 3:41 | 2021-12-16 | 2022-04-08 |

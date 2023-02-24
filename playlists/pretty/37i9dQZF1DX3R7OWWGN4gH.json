@@ -1,12 +1,12 @@
 {
   "description": "Lately I've been dressing for revenge",
-  "num_followers": 884615,
+  "num_followers": 885857,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ1OTEyNCwwMDAwMDAwMDM1ZDY0NjE5MjYwODU2YmM1N2I2MmFmZDVmMGE2YjM5",
+  "snapshot_id": "MTY3NTQ1OTEyNCwwMDAwMDAwMDA3NGYyODU4Zjg0NzhmYzE2Zjk2MjVkYTU5ODQ3ZThj",
   "tracks": [
     {
       "added_at": "2023-02-03 21:18:44",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-02-03 21:18:44",
       "album": {
-        "name": "O My Heart",
-        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 262173,
-      "name": "Burning Pile",
-      "url": "https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 193143,
       "name": "bury a friend",
       "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
+    },
+    {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
+        "name": "O My Heart",
+        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 262173,
+      "name": "Burning Pile",
+      "url": "https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn"
     },
     {
       "added_at": "2023-02-03 21:18:44",
@@ -847,6 +847,38 @@
     {
       "added_at": "2023-02-03 21:18:44",
       "album": {
+        "name": "K-12",
+        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 241893,
+      "name": "Teacher's Pet",
+      "url": "https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9"
+    },
+    {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 168839,
+      "name": "all the good girls go to hell",
+      "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
+    },
+    {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
         "name": "Build a Bitch",
         "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
       },
@@ -875,22 +907,6 @@
       "duration_ms": 175493,
       "name": "Ain't No Rest for the Wicked",
       "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
-        "name": "K-12",
-        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 241893,
-      "name": "Teacher's Pet",
-      "url": "https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9"
     },
     {
       "added_at": "2023-02-03 21:18:44",
@@ -927,22 +943,6 @@
       "duration_ms": 211013,
       "name": "Tia Tamera (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 168839,
-      "name": "all the good girls go to hell",
-      "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
     },
     {
       "added_at": "2023-02-03 21:18:44",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-02-03 21:18:44",
       "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 194711,
-      "name": "COPYCAT",
-      "url": "https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 232146,
       "name": "Something In The Way",
       "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
+    },
+    {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 194711,
+      "name": "COPYCAT",
+      "url": "https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK"
     },
     {
       "added_at": "2023-02-03 21:18:44",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-02-03 21:18:44",
       "album": {
-        "name": "engravings",
-        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "engravings",
-      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 257053,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
+    },
+    {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
+        "name": "engravings",
+        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "engravings",
+      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
     },
     {
       "added_at": "2023-02-03 21:18:44",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-02-03 21:18:44",
       "album": {
-        "name": "Bad Idea",
-        "url": "https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 155681,
-      "name": "Bad Idea",
-      "url": "https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
         "name": "Broke with Expensive Taste",
         "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 168096,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/7IzN1BfaQ8fmTHYPRPhNws"
+    },
+    {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
+        "name": "Bad Idea",
+        "url": "https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 155681,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC"
     },
     {
       "added_at": "2023-02-03 21:18:44",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-02-03 21:18:44",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/0WCiI0ddWiu5F2kSHgfw5S"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
         "name": "K-12",
         "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 161064,
       "name": "Class Fight",
       "url": "https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X"
+    },
+    {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/0WCiI0ddWiu5F2kSHgfw5S"
     },
     {
       "added_at": "2023-02-03 21:18:44",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-02-03 21:18:44",
       "album": {
-        "name": "Overwhelmed",
-        "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
-      },
-      "artists": [
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 159293,
-      "name": "overwhelmed",
-      "url": "https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 235946,
       "name": "Dangerous Woman",
       "url": "https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN"
+    },
+    {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
+        "name": "Overwhelmed",
+        "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 159293,
+      "name": "overwhelmed",
+      "url": "https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y"
     },
     {
       "added_at": "2023-02-03 21:18:44",

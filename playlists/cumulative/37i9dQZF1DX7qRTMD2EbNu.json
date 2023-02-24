@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Agatha",
+        "url": "https://open.spotify.com/album/39etPLAXCXpsXNbUBJpJ3E"
+      },
+      "artists": [
+        {
+          "name": "D3MI",
+          "url": "https://open.spotify.com/artist/7uh8LdpyMZ8SeMZfD2ZaRs"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135831,
+      "name": "Agatha",
+      "url": "https://open.spotify.com/track/29j1Nc7uQj1LxeYjiszTGb"
+    },
+    {
+      "album": {
         "name": "ROAD TO THE JUNGLE",
         "url": "https://open.spotify.com/album/5s7pSKaTNmf40gOn7tGodS"
       },
@@ -314,6 +332,24 @@
       "duration_ms": 181350,
       "name": "B.B.B.B",
       "url": "https://open.spotify.com/track/55NYmEvxkb7ipIGieXPsNv"
+    },
+    {
+      "album": {
+        "name": "Bad Bih Mariah",
+        "url": "https://open.spotify.com/album/4GDdRGU6KzInDaeQ7cvlKe"
+      },
+      "artists": [
+        {
+          "name": "Cheqmatic",
+          "url": "https://open.spotify.com/artist/0HSnJIvwjrwUKDx2kZ8cuy"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140804,
+      "name": "Bad Bih Mariah",
+      "url": "https://open.spotify.com/track/2MTGWrnJRpIhFFyg6Jgy71"
     },
     {
       "album": {
@@ -952,7 +988,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 202736,
       "name": "Don't Mind Them",
       "url": "https://open.spotify.com/track/7wv3O2Mc4XX1vHWkJfFej0"
@@ -1068,7 +1104,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 191055,
       "name": "Dup\u0117",
       "url": "https://open.spotify.com/track/5zJYfys6I9qA2WrXserMUm"
@@ -1240,6 +1276,32 @@
       "duration_ms": 189022,
       "name": "Flex",
       "url": "https://open.spotify.com/track/7miZbXoKKtyj1Zh4rpVjAb"
+    },
+    {
+      "album": {
+        "name": "Floor Shake",
+        "url": "https://open.spotify.com/album/29SzNH7V2r3h1oZG3MHemE"
+      },
+      "artists": [
+        {
+          "name": "DJ Semtex",
+          "url": "https://open.spotify.com/artist/3xhX0nrkThoOaGZZoFnCAt"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Floor Shake",
+      "url": "https://open.spotify.com/track/75CW2Y65bqjxTQx3z3V53X"
     },
     {
       "album": {
@@ -2220,10 +2282,62 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 213343,
       "name": "Ohemaa",
       "url": "https://open.spotify.com/track/1u2K82uk2yeeWhYUieIa5b"
+    },
+    {
+      "album": {
+        "name": "ON TEN",
+        "url": "https://open.spotify.com/album/3PmvDqSRCk9UkW94hFFvr4"
+      },
+      "artists": [
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "Hkmk",
+          "url": "https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg"
+        },
+        {
+          "name": "DRILL SZN",
+          "url": "https://open.spotify.com/artist/5XFxkRmijQ1JmSHmGSBSzj"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107260,
+      "name": "ON TEN",
+      "url": "https://open.spotify.com/track/4Sbtvgkqpay8iMF6xDKZzF"
+    },
+    {
+      "album": {
+        "name": "On The Road (Far Gone)",
+        "url": "https://open.spotify.com/album/3SFMW05OvSnfgHGnP8Bf1U"
+      },
+      "artists": [
+        {
+          "name": "Ground Up Chale",
+          "url": "https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh"
+        },
+        {
+          "name": "Alba Bwoy",
+          "url": "https://open.spotify.com/artist/7BOVmXzFENgxghmIEucyzh"
+        },
+        {
+          "name": "Kimati",
+          "url": "https://open.spotify.com/artist/0C7w64wIrv459eGHwq6hPn"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169912,
+      "name": "On The Road (Far Gone)",
+      "url": "https://open.spotify.com/track/67JXu4tkRwa2IOIMKucwva"
     },
     {
       "album": {
@@ -2246,7 +2360,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 133333,
       "name": "On The Road (Navigating)",
       "url": "https://open.spotify.com/track/4Iiha3otqci5DaCOiepGIU"
@@ -2268,6 +2382,24 @@
       "duration_ms": 146500,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj"
+    },
+    {
+      "album": {
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/1tgrAAKHEmj8SyPeiR8dp0"
+      },
+      "artists": [
+        {
+          "name": "G-Migos",
+          "url": "https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "Overload",
+      "url": "https://open.spotify.com/track/7hjVQjTJJzU4zGwzmkr1RH"
     },
     {
       "album": {
@@ -2472,7 +2604,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 192405,
       "name": "Ronaldo",
       "url": "https://open.spotify.com/track/0I6ER7x4d31zvJBd2DhyB3"
@@ -2918,7 +3050,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 174500,
       "name": "SWAG (feat. O'Kenneth, Reggie, Jay Bahd & Kawabanga)",
       "url": "https://open.spotify.com/track/1Gn3pwGB9TLj56eElRY2a2"
@@ -3112,7 +3244,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 146677,
       "name": "War with Us",
       "url": "https://open.spotify.com/track/55D4ykonla5u5gz8pmvwBx"
@@ -3138,6 +3270,28 @@
       "duration_ms": 152076,
       "name": "We Dey",
       "url": "https://open.spotify.com/track/5KryeTvG0C02vF9cpgZrYA"
+    },
+    {
+      "album": {
+        "name": "Win",
+        "url": "https://open.spotify.com/album/6ovQUMpjUj1ZzLaCU2PVLB"
+      },
+      "artists": [
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157760,
+      "name": "Win",
+      "url": "https://open.spotify.com/track/3Zcdo6A7uBR6FVecNON4SB"
     },
     {
       "album": {

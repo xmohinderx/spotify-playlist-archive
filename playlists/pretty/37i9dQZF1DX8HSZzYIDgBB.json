@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Mula en portada.",
-  "num_followers": 29170,
+  "num_followers": 29182,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk0NDA1NywwMDAwMDAwMDEzMjdmODc4YjJiOTkzMGU3NzJmZjk2YmU0ZjJkZGZk",
+  "snapshot_id": "MTY3Njk0NDA1NywwMDAwMDAwMDBiNDc2NjVhMWZkMmQxNTYyMTIxZDY5Zjg5NTFjYzE3",
   "tracks": [
     {
       "added_at": "2023-01-02 21:45:00",
@@ -397,6 +397,22 @@
       "url": "https://open.spotify.com/track/76H5ZwmUfmQAXwelxMWtbf"
     },
     {
+      "added_at": "2022-08-19 02:11:47",
+      "album": {
+        "name": "Last Spa on Earth",
+        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        }
+      ],
+      "duration_ms": 185350,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+    },
+    {
       "added_at": "2022-09-29 00:14:11",
       "album": {
         "name": "Todo Se Mantiene en Su Lugar",
@@ -415,22 +431,6 @@
       "duration_ms": 168215,
       "name": "Todo Se Mantiene en Su Lugar",
       "url": "https://open.spotify.com/track/1heE3OvlSL96SdP1RfaSaR"
-    },
-    {
-      "added_at": "2022-08-19 02:11:47",
-      "album": {
-        "name": "Last Spa on Earth",
-        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
-      },
-      "artists": [
-        {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
-        }
-      ],
-      "duration_ms": 185350,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
     },
     {
       "added_at": "2022-02-15 02:17:36",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/3b8WAuWj0MCKig7e5KV0YL"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Madremonte",
-        "url": "https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 263096,
-      "name": "Contra la Corriente",
-      "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
-    },
-    {
       "added_at": "2022-04-09 05:01:42",
       "album": {
         "name": "Diablo",
@@ -531,6 +515,22 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Madremonte",
+        "url": "https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 263096,
+      "name": "Contra la Corriente",
+      "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
     },
     {
       "added_at": "2022-01-17 15:56:36",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
     },
     {
-      "added_at": "2022-09-07 01:11:32",
-      "album": {
-        "name": "Manifest Tone EP",
-        "url": "https://open.spotify.com/album/71r1Tt7DmwZejC8ONXC1k5"
-      },
-      "artists": [
-        {
-          "name": "Chico Mann",
-          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
-        }
-      ],
-      "duration_ms": 255435,
-      "name": "Dilo Como Yo (Te Est\u00e1n Llamando)",
-      "url": "https://open.spotify.com/track/3tz4X9gO0l6lOoh4ZvK7xg"
-    },
-    {
       "added_at": "2022-11-17 22:53:43",
       "album": {
         "name": "Starry Nights",
@@ -689,20 +673,36 @@
       "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
+      "added_at": "2022-09-07 01:11:32",
       "album": {
-        "name": "Bailando Lento",
-        "url": "https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq"
+        "name": "Manifest Tone EP",
+        "url": "https://open.spotify.com/album/71r1Tt7DmwZejC8ONXC1k5"
       },
       "artists": [
         {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+          "name": "Chico Mann",
+          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Bailando Lento",
-      "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
+      "duration_ms": 255435,
+      "name": "Dilo Como Yo (Te Est\u00e1n Llamando)",
+      "url": "https://open.spotify.com/track/3tz4X9gO0l6lOoh4ZvK7xg"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Sabe a Tu Nombre",
+        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 228793,
+      "name": "Sabe a Tu Nombre",
+      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
     },
     {
       "added_at": "2022-02-25 03:53:48",
@@ -721,20 +721,20 @@
       "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "Sabe a Tu Nombre",
-        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
+        "name": "Bailando Lento",
+        "url": "https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq"
       },
       "artists": [
         {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
         }
       ],
-      "duration_ms": 228793,
-      "name": "Sabe a Tu Nombre",
-      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
+      "duration_ms": 197333,
+      "name": "Bailando Lento",
+      "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
     },
     {
       "added_at": "2022-07-25 03:37:28",
@@ -1325,22 +1325,6 @@
       "url": "https://open.spotify.com/track/2KwvFhXURAAxJZ9OSfjVxO"
     },
     {
-      "added_at": "2022-07-25 03:37:28",
-      "album": {
-        "name": "Contenta",
-        "url": "https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ"
-      },
-      "artists": [
-        {
-          "name": "Malamala",
-          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
-        }
-      ],
-      "duration_ms": 215347,
-      "name": "Contenta",
-      "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Ild\u00e9 Pa\u2019 Beberte",
@@ -1355,6 +1339,22 @@
       "duration_ms": 208064,
       "name": "Ild\u00e9 Pa\u2019 Beberte",
       "url": "https://open.spotify.com/track/5oKi2idPWZmWbpmIkYgvDc"
+    },
+    {
+      "added_at": "2022-07-25 03:37:28",
+      "album": {
+        "name": "Contenta",
+        "url": "https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ"
+      },
+      "artists": [
+        {
+          "name": "Malamala",
+          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
+        }
+      ],
+      "duration_ms": 215347,
+      "name": "Contenta",
+      "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
     },
     {
       "added_at": "2022-03-04 03:54:51",
@@ -1497,6 +1497,22 @@
       "url": "https://open.spotify.com/track/4FG5aqW3ii8uwi6ghYkhUQ"
     },
     {
+      "added_at": "2022-01-21 16:05:39",
+      "album": {
+        "name": "Plata y Coral",
+        "url": "https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        }
+      ],
+      "duration_ms": 240491,
+      "name": "Plata y Coral",
+      "url": "https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR"
+    },
+    {
       "added_at": "2022-08-13 02:49:48",
       "album": {
         "name": "No la Controles",
@@ -1515,22 +1531,6 @@
       "duration_ms": 205114,
       "name": "No la Controles",
       "url": "https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE"
-    },
-    {
-      "added_at": "2022-01-21 16:05:39",
-      "album": {
-        "name": "Plata y Coral",
-        "url": "https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        }
-      ],
-      "duration_ms": 240491,
-      "name": "Plata y Coral",
-      "url": "https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1681,22 +1681,6 @@
       "url": "https://open.spotify.com/track/0G2lWPAEC9FQcd7qe8RLHi"
     },
     {
-      "added_at": "2022-09-30 04:06:25",
-      "album": {
-        "name": "Valkenburg",
-        "url": "https://open.spotify.com/album/6DAcewxTM6M7oFpYpaK7h1"
-      },
-      "artists": [
-        {
-          "name": "La Villana",
-          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
-        }
-      ],
-      "duration_ms": 234338,
-      "name": "La Peregrina",
-      "url": "https://open.spotify.com/track/0cbwnTw4LllpOZC5GMpxKL"
-    },
-    {
       "added_at": "2022-07-15 04:48:04",
       "album": {
         "name": "Ultramar",
@@ -1715,6 +1699,22 @@
       "duration_ms": 264837,
       "name": "Ultramar",
       "url": "https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj"
+    },
+    {
+      "added_at": "2022-09-30 04:06:25",
+      "album": {
+        "name": "Valkenburg",
+        "url": "https://open.spotify.com/album/6DAcewxTM6M7oFpYpaK7h1"
+      },
+      "artists": [
+        {
+          "name": "La Villana",
+          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
+        }
+      ],
+      "duration_ms": 234338,
+      "name": "La Peregrina",
+      "url": "https://open.spotify.com/track/0cbwnTw4LllpOZC5GMpxKL"
     },
     {
       "added_at": "2022-08-16 23:33:30",

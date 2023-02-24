@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,959 likes - 99 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,179 likes - 99 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 19 | [Luz do Luar](https://open.spotify.com/track/6eNRGL6Nkdg7RhJtmbcl0j) | [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea) | [Luz do Luar](https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4) | 3:04 |
 | 20 | [Novinha do Onlyfans \(Tchan Ran Tchan Tchan\)](https://open.spotify.com/track/0oB3IBEhbmgTrL7mV0VnFq) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Novinha do Onlyfans \(Tchan Ran Tchan Tchan\)](https://open.spotify.com/album/7vcEsYmKQdxArrMI7euRGw) | 2:17 |
 | 21 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 |
-| 22 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/2lujnKdLiRVjcueFs648AW) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5qfhVKlZEaGiHFCZ86oKts) | 2:42 |
+| 22 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5y16jXfwpM8ZrZ2nnNRVlP) | 2:42 |
 | 23 | [Bandido Não Dança](https://open.spotify.com/track/5WGTBzRLbjj0Sm3Br8X1rI) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bandido Não Dança](https://open.spotify.com/album/6pGEl2UutstK1XclQQgFz0) | 2:06 |
 | 24 | [Maloqueiro](https://open.spotify.com/track/2YShSMbfqvkqzvHRDtSHUU) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Maloqueiro](https://open.spotify.com/album/7GyE4rLSIVuvEUzYBUlGZJ) | 3:52 |
 | 25 | [Olha Se Você Não Me Ama](https://open.spotify.com/track/2oT3ecoWW6LaEfL4t9JjCP) | [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Olha Se Você Não Me Ama](https://open.spotify.com/album/6osqEvjiTzb4tTfiEljaUs) | 4:30 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 98 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 99 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 
-Snapshot ID: `MTY3NjY0NzE1OSwwMDAwMDAwMDliYjAwNjE5MDk2NGM0N2FmMTdiNWM2OWQ5ZGVhZTAy`
+Snapshot ID: `MTY3NjY0NzE1OSwwMDAwMDAwMDk3ZDgwMWRjYzZlMGJhYTRiMDYzN2M5MmNlYjk5YTQz`

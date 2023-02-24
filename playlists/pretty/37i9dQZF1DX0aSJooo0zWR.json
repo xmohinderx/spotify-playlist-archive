@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 174198,
+  "num_followers": 174293,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGNkOGFjOWU5NWZjYjgyNDg3ZjdkNTcxNzQ3ZWVjOGM2",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDQ1MGNhYjMxMjNiYjA4MTQ0ZjY2YmE4MmRmYjczZmQ2",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Wired",
-        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 354053,
-      "name": "Blue Wind",
-      "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Asian Dreamer",
         "url": "https://open.spotify.com/album/2brs79CBxiApvCNRM880RA"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 278240,
       "name": "Midnight Rendezvous",
       "url": "https://open.spotify.com/track/5dxRmXw3CeUEvWeALoJ1b2"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 354053,
+      "name": "Blue Wind",
+      "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -261,22 +261,6 @@
       "url": "https://open.spotify.com/track/07BUBegoXmSQcokCOMAWwt"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA"
-      },
-      "artists": [
-        {
-          "name": "Billy Cobham",
-          "url": "https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j"
-        }
-      ],
-      "duration_ms": 589786,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/1BYVhbLZ6PAsv36Gc8iPuK"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Walk Cycle",
@@ -291,6 +275,22 @@
       "duration_ms": 192013,
       "name": "Walk Cycle",
       "url": "https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA"
+      },
+      "artists": [
+        {
+          "name": "Billy Cobham",
+          "url": "https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j"
+        }
+      ],
+      "duration_ms": 589786,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/1BYVhbLZ6PAsv36Gc8iPuK"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Empire Central",
-        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 292314,
-      "name": "Fuel City",
-      "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Hard-Wired",
@@ -575,6 +559,22 @@
       "duration_ms": 371617,
       "name": "Riding Giants",
       "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Empire Central",
+        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 292314,
+      "name": "Fuel City",
+      "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 474309,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Forward Motion",
@@ -671,6 +655,22 @@
       "duration_ms": 285533,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 474309,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1013,26 +1013,6 @@
       "url": "https://open.spotify.com/track/4XUR0xfOMphdT9qnTb1iG3"
     },
     {
-      "added_at": "2022-02-11 19:11:35",
-      "album": {
-        "name": "Pursuit of Ends",
-        "url": "https://open.spotify.com/album/5Q0Kom2EPm69MaXhUfizN2"
-      },
-      "artists": [
-        {
-          "name": "High Pulp",
-          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
-        },
-        {
-          "name": "Jaleel Shaw",
-          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "All Roads Lead To Los Angeles",
-      "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Jackets XL",
@@ -1051,6 +1031,26 @@
       "duration_ms": 503213,
       "name": "Even Song",
       "url": "https://open.spotify.com/track/32gXohJoHWMrYnU9oj8GVU"
+    },
+    {
+      "added_at": "2022-02-11 19:11:35",
+      "album": {
+        "name": "Pursuit of Ends",
+        "url": "https://open.spotify.com/album/5Q0Kom2EPm69MaXhUfizN2"
+      },
+      "artists": [
+        {
+          "name": "High Pulp",
+          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
+        },
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "All Roads Lead To Los Angeles",
+      "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Never Ending",
-        "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Big Fun (2022 Remaster)",
         "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 1707435,
       "name": "Go Ahead John (2022 Remaster)",
       "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Never Ending",
+        "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
     },
     {
       "added_at": "2021-07-02 04:01:00",
@@ -1163,6 +1163,22 @@
       "duration_ms": 275480,
       "name": "Truth",
       "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "duration_ms": 288909,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
     },
     {
       "added_at": "2022-04-08 04:02:00",
@@ -1185,22 +1201,6 @@
       "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
     },
     {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        }
-      ],
-      "duration_ms": 288909,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "A Present For The Future",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
-      },
-      "artists": [
-        {
-          "name": "Cameron Graves",
-          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
-        }
-      ],
-      "duration_ms": 261506,
-      "name": "Sons of Creation",
-      "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Gimme 5",
         "url": "https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 235106,
       "name": "Gimme 5",
       "url": "https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
+      },
+      "artists": [
+        {
+          "name": "Cameron Graves",
+          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
+        }
+      ],
+      "duration_ms": 261506,
+      "name": "Sons of Creation",
+      "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1469,20 +1469,20 @@
       "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
+      "added_at": "2022-02-11 19:09:35",
       "album": {
-        "name": "Level One",
-        "url": "https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi"
+        "name": "The Description Is Not The Described",
+        "url": "https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc"
       },
       "artists": [
         {
-          "name": "The Eleventh House",
-          "url": "https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi"
+          "name": "Nathaniel Cross",
+          "url": "https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t"
         }
       ],
-      "duration_ms": 182040,
-      "name": "Level One",
-      "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
+      "duration_ms": 433160,
+      "name": "Goodbye for Now",
+      "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
     }
   ],
   "unique_name": "Fusion Fest",

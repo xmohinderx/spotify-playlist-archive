@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Romeo Santos.",
-  "num_followers": 537537,
+  "num_followers": 537656,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwMzgxMiwwMDAwMDAwMGQ3OGQxYTQ5MzRlOTY1ZjhmZWVjMzU3YjQxOGQzNDAz",
+  "snapshot_id": "MTY3NjYwMzgxMiwwMDAwMDAwMGJkM2E2ZGVjZGZkY2JiOWQ1MTU3NGM2ZmFiZDRkOTVl",
   "tracks": [
     {
       "added_at": "2023-02-17 03:16:52",
@@ -675,22 +675,18 @@
     {
       "added_at": "2023-02-17 03:16:52",
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/2mqDkPwBQZe7dMydgXEbtT"
+        "name": "Mi Mundo Entero",
+        "url": "https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
         }
       ],
-      "duration_ms": 170106,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D"
+      "duration_ms": 158067,
+      "name": "Mi Mundo Entero",
+      "url": "https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ"
     },
     {
       "added_at": "2023-02-17 03:16:52",
@@ -711,18 +707,22 @@
     {
       "added_at": "2023-02-17 03:16:52",
       "album": {
-        "name": "Mi Mundo Entero",
-        "url": "https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw"
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/2mqDkPwBQZe7dMydgXEbtT"
       },
       "artists": [
         {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 158067,
-      "name": "Mi Mundo Entero",
-      "url": "https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ"
+      "duration_ms": 170106,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D"
     },
     {
       "added_at": "2023-02-17 03:16:52",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-02-17 03:16:52",
       "album": {
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86"
+      },
+      "artists": [
+        {
+          "name": "You Salsa",
+          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
+        }
+      ],
+      "duration_ms": 276433,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl"
+    },
+    {
+      "added_at": "2023-02-17 03:16:52",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
-    },
-    {
-      "added_at": "2023-02-17 03:16:52",
-      "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86"
-      },
-      "artists": [
-        {
-          "name": "You Salsa",
-          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
-        }
-      ],
-      "duration_ms": 276433,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl"
     },
     {
       "added_at": "2023-02-17 03:16:52",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-02-17 03:16:52",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/71WrR2qgwisH0tJZnI5xiQ"
+    },
+    {
+      "added_at": "2023-02-17 03:16:52",
+      "album": {
         "name": "H\u00e1blame de Miami",
         "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 158773,
       "name": "H\u00e1blame de Miami",
       "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
-    },
-    {
-      "added_at": "2023-02-17 03:16:52",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/71WrR2qgwisH0tJZnI5xiQ"
     },
     {
       "added_at": "2023-02-17 03:16:52",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-02-17 03:16:52",
       "album": {
-        "name": "Ag\u00fcita e Coco",
-        "url": "https://open.spotify.com/album/7tmpf27P7FaqCfHVk7YkDk"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 176759,
-      "name": "Ag\u00fcita e Coco",
-      "url": "https://open.spotify.com/track/34T7iPVVZcOoIThh32RJDi"
-    },
-    {
-      "added_at": "2023-02-17 03:16:52",
-      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 213316,
       "name": "Dios Asi Lo Quiso",
       "url": "https://open.spotify.com/track/48WszbQrrjEnouJmKzNDba"
+    },
+    {
+      "added_at": "2023-02-17 03:16:52",
+      "album": {
+        "name": "Ag\u00fcita e Coco",
+        "url": "https://open.spotify.com/album/7tmpf27P7FaqCfHVk7YkDk"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 176759,
+      "name": "Ag\u00fcita e Coco",
+      "url": "https://open.spotify.com/track/34T7iPVVZcOoIThh32RJDi"
     },
     {
       "added_at": "2023-02-17 03:16:52",
@@ -1795,18 +1795,22 @@
     {
       "added_at": "2023-02-17 03:16:52",
       "album": {
-        "name": "Comienzos",
-        "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
+        "name": "Y Le Dije No",
+        "url": "https://open.spotify.com/album/3LRxWGnjdFcxjRjO01s7sG"
       },
       "artists": [
         {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+          "name": "Yahaira Plasencia",
+          "url": "https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
         }
       ],
-      "duration_ms": 212045,
-      "name": "Me Tienes Mal",
-      "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
+      "duration_ms": 184333,
+      "name": "Y Le Dije No - Salsa",
+      "url": "https://open.spotify.com/track/2NcuCrsWUKklKE0glhndJD"
     },
     {
       "added_at": "2023-02-17 03:16:52",
@@ -1827,22 +1831,18 @@
     {
       "added_at": "2023-02-17 03:16:52",
       "album": {
-        "name": "Y Le Dije No",
-        "url": "https://open.spotify.com/album/3LRxWGnjdFcxjRjO01s7sG"
+        "name": "Comienzos",
+        "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
       },
       "artists": [
         {
-          "name": "Yahaira Plasencia",
-          "url": "https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E"
-        },
-        {
-          "name": "Sergio George",
-          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
         }
       ],
-      "duration_ms": 184333,
-      "name": "Y Le Dije No - Salsa",
-      "url": "https://open.spotify.com/track/2NcuCrsWUKklKE0glhndJD"
+      "duration_ms": 212045,
+      "name": "Me Tienes Mal",
+      "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
     },
     {
       "added_at": "2023-02-17 03:16:52",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, overdrive, feedBack\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,150 likes - 66 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,236 likes - 66 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 |
+| 1 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 |
 | 2 | [truth hurts](https://open.spotify.com/track/5CAvQkgGDGOyicH7e0Z6jN) | [chriad](https://open.spotify.com/artist/7deQ6Y3VQYqHzRrVia18Bl), [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [truth hurts](https://open.spotify.com/album/3HLoC6h0fWZrceTxnrk1cy) | 3:34 |
 | 3 | [Butterfly](https://open.spotify.com/track/3isB66Bn1418EHQ2Z9aLUp) | [nomu.](https://open.spotify.com/artist/2NSBzBPu05xNzAUv10mdTc) | [Butterfly](https://open.spotify.com/album/0slkV34l718fubBPy4GzOB) | 2:28 |
 | 4 | [You Make Me Sick!](https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [You Make Me Sick!](https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ) | 2:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,088 likes - 185 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,111 likes - 185 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

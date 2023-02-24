@@ -4,7 +4,7 @@
 
 > it's scary hours...⛈️  cover: Ms\. Lauryn Hill
 
-231 songs - 15 hr 30 min
+233 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/2yb5Ao7Yk2nl9YFnNwKi5F) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/153lLZKTVw25BTcLuXB8ME) | 3:03 | 2022-05-06 | 2023-01-01 |
 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/759KqKQyDmTWJape4odo21) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:03 | 2022-12-30 |  |
 | [Big Poppa \- 2007 Remaster](https://open.spotify.com/track/63BcfK6YAzJYeISaTPr6IO) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:09 | 2022-10-14 |  |
+| [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 | 2023-02-23 |  |
 | [Boo'd Up](https://open.spotify.com/track/4squZv12LD9M8ooJfoVgZS) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:59 | 2022-05-13 |  |
 | [Bout Your Love](https://open.spotify.com/track/0ayhuUaQaJ4dT3PyIrw42k) | [2rude](https://open.spotify.com/artist/4Iidg3Dx7YDYjhsScQWr50), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [2Rude \(Rudimental 2K Remastered\)](https://open.spotify.com/album/1EVrrsLa9ZezXXhJ5kXrZD) | 3:56 | 2022-11-16 |  |
 | [Break from Toronto](https://open.spotify.com/track/79MSEdtXuudhGhC5AtG07g) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH) | 1:39 | 2022-05-06 | 2022-11-11 |
@@ -132,7 +133,7 @@
 | [I'm Gonna Be \(feat\. Jhené Aiko\)](https://open.spotify.com/track/16C6yAxcA3GCtoXbq3dUYl) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Detroit](https://open.spotify.com/album/4XXX0W3F9QNxtkofgUbxaj) | 3:07 | 2022-09-16 | 2022-10-01 |
 | [Ice Box](https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [21](https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE) | 4:16 | 2022-06-17 |  |
 | [In The Morning](https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:54 | 2022-05-06 |  |
-| [In Those Jeans](https://open.spotify.com/track/5ojJNnX5ND2gMGojPd3NiO) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Senior](https://open.spotify.com/album/3t4OgAvvOzvXw8D2NHUeDR) | 4:03 | 2023-01-14 |  |
+| [In Those Jeans](https://open.spotify.com/track/5ojJNnX5ND2gMGojPd3NiO) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Senior](https://open.spotify.com/album/3t4OgAvvOzvXw8D2NHUeDR) | 4:03 | 2023-01-14 | 2023-02-24 |
 | [Into You \(feat\. Fabolous\)](https://open.spotify.com/track/0ceeRNqbOzRiGE42KWSrRa) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:54 | 2022-05-06 |  |
 | [It's Over Now](https://open.spotify.com/track/769geiA8btidGHda4BBDOJ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 4:24 | 2022-06-03 |  |
 | [Keep Me Around](https://open.spotify.com/track/7kQ5eCSvLropJUPuEYaUbX) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Keep Me Around](https://open.spotify.com/album/3MPbBDFqY66cvdC68ddmpx) | 2:22 | 2022-05-06 | 2022-05-20 |
@@ -194,7 +195,7 @@
 | [So Gone](https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [After The Storm](https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v) | 4:02 | 2022-05-06 |  |
 | [So Good](https://open.spotify.com/track/6IitCjxg3AQvuQEdN3gzl6) | [Davina](https://open.spotify.com/artist/13gLWDdUjHWnK0XWn3gZMP) | [Best Of Both Worlds](https://open.spotify.com/album/7xapjTJctomHjCQI8bNSXP) | 4:34 | 2022-07-22 | 2022-11-11 |
 | [So Good](https://open.spotify.com/track/5O0wmooPtCi3E9F1O8J7KR) | [Davina](https://open.spotify.com/artist/13gLWDdUjHWnK0XWn3gZMP) | [Best of Both Worlds](https://open.spotify.com/album/0Mvp6WwdGESYuYUD2MRzk6) | 4:34 | 2022-05-06 | 2022-07-29 |
-| [So Good](https://open.spotify.com/track/1pLJSpfeHXsIyJS1BmKrrr) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:13 | 2022-08-19 |  |
+| [So Good](https://open.spotify.com/track/1pLJSpfeHXsIyJS1BmKrrr) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:13 | 2022-08-19 | 2023-02-24 |
 | [Something Special](https://open.spotify.com/track/5kkaSMcf4BFlhRRICCKZb6) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:38 | 2022-05-20 | 2022-08-20 |
 | [Song Cry](https://open.spotify.com/track/19ELgyBdMcEjGcbFHcY1ba) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint](https://open.spotify.com/album/54I5tDCMjnNVWSENHg8EDH) | 5:02 | 2022-07-22 | 2022-10-29 |
 | [SOUL URGE](https://open.spotify.com/track/5TdVWmbpkl5Ii18GQuOioF) | [Modlee](https://open.spotify.com/artist/1vJ2skBECCSXeUdgbQadBW) | [SOUL URGE](https://open.spotify.com/album/1DfBrXghMA9GswZIyrlKJU) | 3:20 | 2022-06-10 | 2022-08-20 |
@@ -224,6 +225,7 @@
 | [Unfoolish](https://open.spotify.com/track/6dZ6qWl1e9GsMndBG7vqB9) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:14 | 2022-05-06 |  |
 | [Unpredictable](https://open.spotify.com/track/1TMoF9LBoN1FJ5VJUnDAcv) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Keshia Chanté](https://open.spotify.com/album/5DX2VIiIzs2YOxIwu5ladI) | 3:35 | 2023-02-07 |  |
 | [Up From The Ashes](https://open.spotify.com/track/6MTtOV150uwitRZz4anI2h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda \(Deluxe\)](https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ) | 2:42 | 2022-05-06 | 2022-05-14 |
+| [Vivrant Thing](https://open.spotify.com/track/31KK3pcPclmIt087tPuwMr) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Violator: The Album](https://open.spotify.com/album/0SMuCLCvkgY9pcoJPVwJwn) | 3:10 | 2023-02-23 |  |
 | [Wait a Minute \(feat\. Lil' Kim\)](https://open.spotify.com/track/7xwFOVYwBuLvFquLyfooRp) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [This Ain't A Game](https://open.spotify.com/album/4cmmca5HU2WP9yIvErhnf6) | 3:47 | 2022-07-01 |  |
 | [Walkin](https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Walkin](https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO) | 4:40 | 2022-05-06 | 2022-05-20 |
 | [Wanna Get To Know You](https://open.spotify.com/track/1dHJETCn2X1R1YwVlMvSza) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 4:25 | 2022-11-10 |  |

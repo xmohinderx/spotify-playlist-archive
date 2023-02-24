@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> dj solta aquela....essa é pra vc xu...........\*\-\* Foto: Treyce
+> qual lugar do seu corpo vc encontrou glitter hje?
 
 223 songs - 10 hr 15 min
 

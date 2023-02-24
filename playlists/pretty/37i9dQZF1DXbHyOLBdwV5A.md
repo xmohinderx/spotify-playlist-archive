@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: Kennto, YoungJhow, JoyFull
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,250 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,336 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 44 | [Rei da Glória](https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj) | [Dj Roony Moura](https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL), [Fabio Martin](https://open.spotify.com/artist/1t9PgXlq6ngWDDjSjB1m7E) | [Rei da Glória](https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9) | 4:26 |
 | 45 | [Já Não Vivo Eu \- Michaell D Remix](https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Diego Albuquerque](https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Já Não Vivo Eu: Remixes](https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl) | 3:35 |
 | 46 | [Peregrino](https://open.spotify.com/track/3gkNnS1ANFvOKhji7QEGoa) | [Jacobnew](https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Peregrino](https://open.spotify.com/album/3MChRzTGZ69uEyDa76Qusl) | 2:45 |
-| 47 | [Tudo Vai Ficar Bem](https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [Higor Rosa](https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP) | [Tudo Vai Ficar Bem](https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN) | 3:29 |
-| 48 | [Eu Vou](https://open.spotify.com/track/2YgeBn80B7K2RGgeVdsJbX) | [DJ Alan Nunes](https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo), [Tau](https://open.spotify.com/artist/40fjdEnFbsUttaYODZDk3f), [Fernanda Reis](https://open.spotify.com/artist/3pvntESKhMEdfQcC3wj88N) | [Eu Vou](https://open.spotify.com/album/2l0kfJQDmsBIaomiLBgpN8) | 3:21 |
+| 47 | [Eu Vou](https://open.spotify.com/track/2YgeBn80B7K2RGgeVdsJbX) | [DJ Alan Nunes](https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo), [Tau](https://open.spotify.com/artist/40fjdEnFbsUttaYODZDk3f), [Fernanda Reis](https://open.spotify.com/artist/3pvntESKhMEdfQcC3wj88N) | [Eu Vou](https://open.spotify.com/album/2l0kfJQDmsBIaomiLBgpN8) | 3:21 |
+| 48 | [Tudo Vai Ficar Bem](https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [Higor Rosa](https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP) | [Tudo Vai Ficar Bem](https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN) | 3:29 |
 | 49 | [Você Me Amou](https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ) | [Débora Ulhoa](https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [Você Me Amou](https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK) | 2:59 |
 | 50 | [Alvo Mais Que a Neve](https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Alvo Mais Que a Neve](https://open.spotify.com/album/6wQNtx1uUcjWfXl1oIZCAp) | 3:37 |
 | 51 | [O Leão \- Dj Del Mag Remix](https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Victor Rodrigues](https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ) | [O Leão \(Dj Del Mag Remix\)](https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp) | 3:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 69 | [Direção](https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Patrick Felix](https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf), [BR7](https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv) | [Direção](https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25) | 2:32 |
 | 70 | [Preso a Ti \- Remix](https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao) | [Preso a Ti \(Remix\)](https://open.spotify.com/album/0rFkK4UCEHCq5l4bqn3jCC) | 3:44 |
 
-Snapshot ID: `MTY3NTQzMzg1NiwwMDAwMDAwMDk3MzBiZDM4NGFhMGM5MTYwYTUyZDQwMzE0YzQ0ZTI2`
+Snapshot ID: `MTY3NTQzMzg1NiwwMDAwMDAwMDMzYTQ1NDcyZGRhNTdlZGEyYzU5NGQxNjA2ODQ2MWQ3`

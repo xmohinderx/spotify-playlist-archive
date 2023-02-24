@@ -4,12 +4,13 @@
 
 > Classic tunes to soundtrack your weekend\. Cover: The Tragically Hip
 
-296 songs - 19 hr 33 min
+297 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11: 11](https://open.spotify.com/track/44knIcu8J6lhqM1elwRggd) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [High Noon](https://open.spotify.com/album/5eQZPL2dLics2x2ux0OBuF) | 3:40 | 2022-09-10 | 2022-09-15 |
 | [5 Days in May \- 2012 Remaster](https://open.spotify.com/track/5AIcpQ7JFM3DZju7bPqb8t) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 7:14 | 2022-05-02 | 2022-09-15 |
+| [A Case of You](https://open.spotify.com/track/47puzbYTZ8BDKrD2GnMQXi) | [Leopanforte](https://open.spotify.com/artist/72ptKrXdQG9VlKwtwzwpi7), [cody06](https://open.spotify.com/artist/2UTGurWdxcnfsCAK0FopWO) | [A Case Of You](https://open.spotify.com/album/4GFyRjzWrfAFtj2fX6ebf6) | 4:24 | 2022-09-13 |  |
 | [Ahead By A Century](https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse](https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn) | 3:43 | 2022-05-02 |  |
 | [Albatross](https://open.spotify.com/track/4wFVYrjDT0rpEC1yjjs5hb) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Albatross](https://open.spotify.com/album/3x66IuQoDTrZnBrIYgXzQu) | 4:14 | 2022-05-02 | 2022-07-29 |
 | [All Hell For A Basement](https://open.spotify.com/track/221OWzoN7cDlxo5fenxawk) | [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Brothers And Sisters, Are You Ready?](https://open.spotify.com/album/3frowGksCCfhu5gdxQI7J2) | 4:00 | 2022-05-02 | 2022-07-29 |
@@ -208,7 +209,7 @@
 | [Seasons in the Sun](https://open.spotify.com/track/6AhUX0ObPgTnS5GGFrRidN) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:25 | 2022-09-13 | 2022-11-13 |
 | [Seasons in the Sun](https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Seasons In The Sun \(Expanded Edition\)](https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J) | 3:28 | 2022-05-02 |  |
 | [Share the Land](https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Share The Land](https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV) | 3:55 | 2022-05-02 |  |
-| [She Ain't Pretty](https://open.spotify.com/track/3lQl6N5vnASpox2hdHpH2w) | [The Northern Pikes](https://open.spotify.com/artist/2BLAzgwe8OzvLOPTZDBCtw) | [Snow In June](https://open.spotify.com/album/51UDRztqnNOkq3WLIDKGAa) | 2:43 | 2022-05-02 |  |
+| [She Ain't Pretty](https://open.spotify.com/track/3lQl6N5vnASpox2hdHpH2w) | [The Northern Pikes](https://open.spotify.com/artist/2BLAzgwe8OzvLOPTZDBCtw) | [Snow In June](https://open.spotify.com/album/51UDRztqnNOkq3WLIDKGAa) | 2:43 | 2022-05-02 | 2023-02-24 |
 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 | 2022-05-02 |  |
 | [She\-La](https://open.spotify.com/track/3DiLy3nFyiVLoh7weZ6EhR) | [54\-40](https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N) | [Dear Dear](https://open.spotify.com/album/6zSYXgdNgNWn96POROoV3s) | 4:08 | 2022-05-02 | 2022-07-29 |
 | [Shine](https://open.spotify.com/track/36PBE4YpFVdSsHxBqntXs9) | [Junkhouse](https://open.spotify.com/artist/7HTWYaZzuODnDc5dJN4EM3) | [Fuzz](https://open.spotify.com/album/6V9x9IgN7BDPsnuF3uhgXX) | 5:06 | 2022-05-02 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 595017,
+  "num_followers": 595771,
   "original_name": "Energy Booster: Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI4NzcwNSwwMDAwMDAwMDY4ZTAzMmY3ZDM2YWYyOTI1MDJkZjM3Njc5ZDg0Y2Qx",
+  "snapshot_id": "MTY3NjI4NzcwNSwwMDAwMDAwMGI4OWRkZmY2NTlhZDRjZGJhOWNjMmNiZjRhMDhkOTdm",
   "tracks": [
     {
       "added_at": "2022-12-23 11:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -639,22 +639,18 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
+        "name": "The Spectre",
+        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
       },
       "artists": [
         {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 174794,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
+      "duration_ms": 193787,
+      "name": "The Spectre",
+      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -679,18 +675,22 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "The Spectre",
-        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 193787,
-      "name": "The Spectre",
-      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
+      "duration_ms": 174794,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Before the Storm, Special Edition",
-        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
-      },
-      "artists": [
-        {
-          "name": "Darude",
-          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Sandstorm",
-      "url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "High On Life (feat. Bonn)",
         "url": "https://open.spotify.com/album/1GUfof1gHsqYjoHFym3aim"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 230761,
       "name": "High On Life (feat. Bonn)",
       "url": "https://open.spotify.com/track/4ut5G4rgB1ClpMTMfjoIuy"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "Before the Storm, Special Edition",
+        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
+      },
+      "artists": [
+        {
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Sandstorm",
+      "url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "You Little Beauty",
-        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 206587,
-      "name": "You Little Beauty",
-      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "Off Of My Mind",
         "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 164739,
       "name": "Off Of My Mind",
       "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "You Little Beauty",
+        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 206587,
+      "name": "You Little Beauty",
+      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -1597,22 +1597,6 @@
       "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
     },
     {
-      "added_at": "2023-02-23 00:51:20",
-      "album": {
-        "name": "Boyz N Da Club (Radio Edit)",
-        "url": "https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 141395,
-      "name": "Boyz N Da Club - Radio Edit",
-      "url": "https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV"
-    },
-    {
       "added_at": "2022-12-23 11:00:00",
       "album": {
         "name": "Don't You Hold Me Down",
@@ -1631,6 +1615,22 @@
       "duration_ms": 132597,
       "name": "Don't You Hold Me Down",
       "url": "https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim"
+    },
+    {
+      "added_at": "2023-02-24 00:39:07",
+      "album": {
+        "name": "Boyz N Da Club (Radio Edit)",
+        "url": "https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 141395,
+      "name": "Boyz N Da Club - Radio Edit",
+      "url": "https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Only Want You (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/7c9f6egxXKmO7tb0Hrhgrt"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 179150,
-      "name": "Only Want You - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/2wOVXsIRIoniqipE9I5ZVx"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "Dance Fruits Music",
         "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 128500,
       "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis)",
       "url": "https://open.spotify.com/track/6MKuYvesr8p8csU9jt5Roa"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "Only Want You (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/7c9f6egxXKmO7tb0Hrhgrt"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 179150,
+      "name": "Only Want You - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/2wOVXsIRIoniqipE9I5ZVx"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Feel Again, Pt. 2",
-        "url": "https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 148095,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/1UktZnwuS1reRmRtli8QS9"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "Say It Right (ILURO Remix)",
         "url": "https://open.spotify.com/album/6ZEaJiDo55GwRWxtkbG00a"
       },
@@ -2127,6 +2107,26 @@
       "duration_ms": 133724,
       "name": "Say It Right - ILURO Remix",
       "url": "https://open.spotify.com/track/5ofHoV0ywhsZUOArK1Oa1h"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "Feel Again, Pt. 2",
+        "url": "https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 148095,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/1UktZnwuS1reRmRtli8QS9"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2211,26 +2211,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "I'm Just Feelin' (Du Du Du)",
-        "url": "https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 164884,
-      "name": "I'm Just Feelin' (Du Du Du)",
-      "url": "https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "Neon Future I",
         "url": "https://open.spotify.com/album/3KYFjFzw34AhmlxQC8r5W6"
       },
@@ -2255,6 +2235,26 @@
       "duration_ms": 223413,
       "name": "Delirious (Boneless) (feat. Kid Ink)",
       "url": "https://open.spotify.com/track/2SSFvQBwsxeazzo7z5l9gD"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "I'm Just Feelin' (Du Du Du)",
+        "url": "https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "duration_ms": 164884,
+      "name": "I'm Just Feelin' (Du Du Du)",
+      "url": "https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2411,26 +2411,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Insomnia (King Topher Remix)",
-        "url": "https://open.spotify.com/album/50HIbfbrQemacUUAD9UfNX"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        },
-        {
-          "name": "King Topher",
-          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Insomnia - King Topher Remix",
-      "url": "https://open.spotify.com/track/52Y5nYBQgqawttJxxtUv1e"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "Another Level (ft. Lovespeake)",
         "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
       },
@@ -2447,6 +2427,26 @@
       "duration_ms": 145941,
       "name": "Another Level (ft. Lovespeake)",
       "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "Insomnia (King Topher Remix)",
+        "url": "https://open.spotify.com/album/50HIbfbrQemacUUAD9UfNX"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        },
+        {
+          "name": "King Topher",
+          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Insomnia - King Topher Remix",
+      "url": "https://open.spotify.com/track/52Y5nYBQgqawttJxxtUv1e"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2891,6 +2891,30 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
+        "name": "Can't Come To The Phone",
+        "url": "https://open.spotify.com/album/1ABAfouWvWYsUinSXR2B6H"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Amber Van Day",
+          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
+        },
+        {
+          "name": "N.F.I",
+          "url": "https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd"
+        }
+      ],
+      "duration_ms": 175305,
+      "name": "Can't Come To The Phone",
+      "url": "https://open.spotify.com/track/0I5pVidtNjNXeaqHnwhrva"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
         "name": "Astronaut In The Ocean",
         "url": "https://open.spotify.com/album/6AR7qwFFcW7UIAvunTIgMg"
       },
@@ -2915,30 +2939,6 @@
       "duration_ms": 133920,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/1xOgDZRSKEHZXAdVkT0GJE"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
-        "name": "Can't Come To The Phone",
-        "url": "https://open.spotify.com/album/1ABAfouWvWYsUinSXR2B6H"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Amber Van Day",
-          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
-        },
-        {
-          "name": "N.F.I",
-          "url": "https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd"
-        }
-      ],
-      "duration_ms": 175305,
-      "name": "Can't Come To The Phone",
-      "url": "https://open.spotify.com/track/0I5pVidtNjNXeaqHnwhrva"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2975,26 +2975,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Seek Bromance",
-        "url": "https://open.spotify.com/album/45LS90ZFHzPbUECiK1JdtZ"
-      },
-      "artists": [
-        {
-          "name": "Tim Berg",
-          "url": "https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1"
-        },
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 200991,
-      "name": "Seek Bromance - Avicii Vocal Edit",
-      "url": "https://open.spotify.com/track/7tSO7DrrYpiMXX3zM4b3oM"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "New Rules (Remixes)",
         "url": "https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v"
       },
@@ -3011,6 +2991,26 @@
       "duration_ms": 280853,
       "name": "New Rules - KREAM Remix",
       "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "Seek Bromance",
+        "url": "https://open.spotify.com/album/45LS90ZFHzPbUECiK1JdtZ"
+      },
+      "artists": [
+        {
+          "name": "Tim Berg",
+          "url": "https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1"
+        },
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 200991,
+      "name": "Seek Bromance - Avicii Vocal Edit",
+      "url": "https://open.spotify.com/track/7tSO7DrrYpiMXX3zM4b3oM"
     },
     {
       "added_at": "2022-12-23 11:00:00",

@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Wet Terrain",
+        "url": "https://open.spotify.com/album/3HUBias9HKd0fxmDMZX9lD"
+      },
+      "artists": [
+        {
+          "name": "Unhappy Campers",
+          "url": "https://open.spotify.com/artist/6fjsKLQve6XDhg870LDNo2"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Damp Camping",
+      "url": "https://open.spotify.com/track/0a0ikMrb22bYbPyOoLvjNo"
+    },
+    {
+      "album": {
         "name": "Gentle Rainfall",
         "url": "https://open.spotify.com/album/7t3EAck5pBqcys8naib91U"
       },
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 181000,
       "name": "Revitalize (Rain)",
       "url": "https://open.spotify.com/track/6MFRZu5jUhJZeUJVl2kcri"

@@ -4,7 +4,7 @@
 
 > ¡Picositos y con mucho sabor!
 
-178 songs - 11 hr 0 min
+179 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Liquido Elemento](https://open.spotify.com/track/67GqMaPik3GKMcRW1xI1T6) | [La Retreta Mayor](https://open.spotify.com/artist/1BXE8Bsv9QWu1vrgyocOTF) | [Color de Trópico Vol 2 \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/1HL8rE8xoQy5tC73730bZP) | 2:45 | 2021-10-20 | 2022-07-28 |
 | [Llorar](https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Llorar](https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88) | 3:43 | 2022-10-28 |  |
 | [Loca](https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Chico de Oro](https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr) | 3:07 | 2021-10-20 |  |
-| [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 | 2022-04-20 |  |
+| [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 | 2022-04-20 | 2023-02-24 |
+| [Los Sabanales](https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Estrellas Corraleras \- Fundadores de la Cumbia Colombiana](https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99) | 2:42 | 2022-10-28 |  |
 | [Luces](https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Valzzi](https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD) | [Luces](https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o) | 3:02 | 2021-10-20 | 2022-07-29 |
 | [Macondo](https://open.spotify.com/track/151FMh0PA7VYmDXB6zjnoP) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p) | [1000 Watts](https://open.spotify.com/album/1MJPr8WRsmKslDood4yJIS) | 2:41 | 2021-10-20 | 2022-07-29 |
 | [Mamá](https://open.spotify.com/track/0rvRelbKllejypy8PGSAHR) | [Son de Aquí](https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ) | [Mamá](https://open.spotify.com/album/7BwXwHltlavtSymrUeug1V) | 3:50 | 2021-10-20 | 2022-07-29 |

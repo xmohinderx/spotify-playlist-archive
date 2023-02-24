@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "La Suelita Roja",
+        "url": "https://open.spotify.com/album/5OWvgA1WF2DcBj0sQYQFlh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Rocket",
+          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "El Capit\u00e1n",
+      "url": "https://open.spotify.com/track/4NoPDzvT4pNmi04UAUd4bW"
+    },
+    {
+      "album": {
         "name": "El Carrito",
         "url": "https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98"
       },
@@ -3172,7 +3190,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 220457,
       "name": "Placas De Papel",
       "url": "https://open.spotify.com/track/1uUKCuNemiNcROEVAEn5Qj"

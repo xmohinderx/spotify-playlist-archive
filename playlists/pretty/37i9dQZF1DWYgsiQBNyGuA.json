@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 50182,
+  "num_followers": 50227,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MjQwNywwMDAwMDAwMGEzNDczMTk2ZDIxNzMxY2EwMzNkYjFlYTE2MDY0NGJl",
+  "snapshot_id": "MTY3Njk5MjQwNywwMDAwMDAwMDFkYThjN2M1Y2FiMTZhNTkxOTIyYjk0MzZiNjIyNjQz",
   "tracks": [
     {
       "added_at": "2023-02-17 12:29:49",
@@ -79,6 +79,22 @@
     {
       "added_at": "2023-02-17 12:29:49",
       "album": {
+        "name": "Mahogany Soul",
+        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
+    },
+    {
+      "added_at": "2023-02-17 12:29:49",
+      "album": {
         "name": "Where I Wanna Be",
         "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 243733,
       "name": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
       "url": "https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2"
-    },
-    {
-      "added_at": "2023-02-17 12:29:49",
-      "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 270893,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
       "added_at": "2023-02-17 12:29:49",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-02-17 12:29:49",
       "album": {
+        "name": "The Crossing",
+        "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Every Day a Dream",
+      "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
+    },
+    {
+      "added_at": "2023-02-17 12:29:49",
+      "album": {
         "name": "Comin' From Where I'm From",
         "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 236546,
       "name": "Stay Together",
       "url": "https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf"
-    },
-    {
-      "added_at": "2023-02-17 12:29:49",
-      "album": {
-        "name": "The Crossing",
-        "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Every Day a Dream",
-      "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
     },
     {
       "added_at": "2023-02-17 12:29:49",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-02-17 12:29:49",
       "album": {
-        "name": "Honest Man",
-        "url": "https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2"
-      },
-      "artists": [
-        {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
-        }
-      ],
-      "duration_ms": 325145,
-      "name": "Honest Man",
-      "url": "https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX"
-    },
-    {
-      "added_at": "2023-02-17 12:29:49",
-      "album": {
         "name": "Run Home Slow",
         "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 249693,
       "name": "Man of the Universe",
       "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
+    },
+    {
+      "added_at": "2023-02-17 12:29:49",
+      "album": {
+        "name": "Honest Man",
+        "url": "https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2"
+      },
+      "artists": [
+        {
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+        }
+      ],
+      "duration_ms": 325145,
+      "name": "Honest Man",
+      "url": "https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX"
     },
     {
       "added_at": "2023-02-17 12:29:49",
@@ -1217,7 +1217,7 @@
       "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
     },
     {
-      "added_at": "2023-02-23 00:15:18",
+      "added_at": "2023-02-24 00:13:08",
       "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn"
@@ -1339,18 +1339,22 @@
     {
       "added_at": "2023-02-17 12:29:49",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/37yEdQQfpnEDpFHmCRj1AA"
+        "name": "Take From Me",
+        "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
       "artists": [
         {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        },
+        {
+          "name": "Roxie Ray",
+          "url": "https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG"
         }
       ],
-      "duration_ms": 266386,
-      "name": "Can't Hardly Wait",
-      "url": "https://open.spotify.com/track/2rKurn6l70BBOZnkCRgkaX"
+      "duration_ms": 269706,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
     }
   ],
   "unique_name": "Soulful Day",

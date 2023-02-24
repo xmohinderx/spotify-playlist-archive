@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-258 songs - 19 hr 22 min
+259 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Oh My Love](https://open.spotify.com/track/4k5cfX3AIWAHvl0cpCT7XA) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Saint Valentin jazz](https://open.spotify.com/album/3AXIQlRug6iCuHVNlumj9y) | 4:47 | 2022-07-28 | 2022-09-15 |
 | [Ojos Cariñosos](https://open.spotify.com/track/0MJP086n8wHT0rrMNt9ag8) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 7:44 | 2023-01-17 |  |
 | [Ojos Cariñosos](https://open.spotify.com/track/4Fb1S8u90wKz2GYfrz1xIA) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Ojos Cariñosos](https://open.spotify.com/album/6ktn3I6uQQEkBhs1xQhlk3) | 7:44 | 2021-12-17 | 2023-01-13 |
-| [One For My Baby](https://open.spotify.com/track/3tH1hpTg9fBtuvX1ghzNON) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 5:11 | 2021-12-17 |  |
+| [One For My Baby](https://open.spotify.com/track/3tH1hpTg9fBtuvX1ghzNON) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 5:11 | 2021-12-17 | 2023-02-24 |
 | [Only the Lonely](https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Only the Lonely](https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p) | 3:12 | 2023-01-25 |  |
 | [Over The Rainbow](https://open.spotify.com/track/3TotnIhZuLlxAZY22hUw6k) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [So In Love](https://open.spotify.com/album/3XXHWtBulLdFVGD8zW0oO2) | 3:55 | 2021-12-17 | 2022-07-29 |
 | [Perhaps You'll Wonder Why](https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Perhaps You’ll Wonder Why](https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr) | 4:45 | 2022-05-05 |  |
@@ -237,6 +237,7 @@
 | [Till There Was You](https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Something Nice](https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq) | 2:06 | 2022-01-13 | 2022-11-30 |
 | [Time After Time](https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Great Ladies Of Song / Spotlight On Margaret Whiting](https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO) | 2:56 | 2021-12-17 | 2022-03-18 |
 | [Triste](https://open.spotify.com/track/1N9e1myOWV26evyObwnkoM) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 2:09 | 2021-12-17 |  |
+| [Try Your Wings](https://open.spotify.com/track/0aa0phSxPErvXk0drKFBOM) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/29vC4zQ1mb9V3YylUigQGA) | 2:54 | 2023-02-23 |  |
 | [Try Your Wings](https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5) | 2:54 | 2022-11-15 | 2023-02-19 |
 | [Undefined](https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Undefined](https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu) | 5:35 | 2022-02-18 |  |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-02-17 | 2022-04-21 |

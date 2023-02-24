@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-347 songs - 20 hr 51 min
+348 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6) | 2:52 | 2023-01-12 |  |
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2021-12-23 | 2022-07-28 |
 | [Glasses](https://open.spotify.com/track/2V8qppJZZP2E41Gp3o4UvF) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [ANGLE](https://open.spotify.com/album/0uIkLtmXLsNluUtpKszbr6) | 3:59 | 2022-03-31 | 2022-04-18 |
+| [Go back](https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF) | 3:52 | 2023-02-23 |  |
 | [Gone Baby, Don't Be Long](https://open.spotify.com/track/3mw4zCiy6cRqFieD7L4IDp) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [Gone Baby, Don't Be Long](https://open.spotify.com/album/0amr9WM6hmjOA09JwSV2si) | 7:53 | 2023-01-06 | 2023-01-13 |
 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 | 2023-02-02 |  |
 | [Grab Your Guts](https://open.spotify.com/track/4CmhofthdXpRM1M2R9C2ce) | [Maylee Todd](https://open.spotify.com/artist/1fJYXB9ZFQbNduuZX4jyFl) | [Maloo](https://open.spotify.com/album/3yEjOZEqS72I0ykBEQ5YcO) | 3:02 | 2022-03-24 | 2022-04-12 |
@@ -236,7 +237,7 @@
 | [Self Voodoo](https://open.spotify.com/track/3bzXiqsNRSLNBpFNRM4l0a) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [Self Voodoo](https://open.spotify.com/album/2etUfe2zN46ky5EFNY4j6T) | 2:49 | 2022-10-27 | 2022-11-21 |
 | [Self Voodoo](https://open.spotify.com/track/7BlWbTMkXIFiIgewaTQqf1) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [All Rivers](https://open.spotify.com/album/4sE9YpuUHkoVFQrsN7NTTx) | 2:49 | 2022-11-17 | 2022-12-09 |
 | [Send My Love](https://open.spotify.com/track/7C9Az8GQN1KC8UB3SVh2qr) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Send My Love](https://open.spotify.com/album/4gmsZ9xHzrC5Xxto8DjySB) | 4:04 | 2021-12-23 | 2022-07-27 |
-| [Sentiment](https://open.spotify.com/track/5F7shYRRh82Ikcjija4wqd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Sentiment / Your Song](https://open.spotify.com/album/6F8hynSC3oLBpTqcdSjK8a) | 3:53 | 2022-07-28 |  |
+| [Sentiment](https://open.spotify.com/track/5F7shYRRh82Ikcjija4wqd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Sentiment / Your Song](https://open.spotify.com/album/6F8hynSC3oLBpTqcdSjK8a) | 3:53 | 2022-07-28 | 2023-02-24 |
 | [Sentiment](https://open.spotify.com/track/6nxO1eTD64Dodjy04YMJCF) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Sentiment / Your Song](https://open.spotify.com/album/0iKRPPeWPnsP6Ft48G10P9) | 3:53 | 2022-02-24 | 2022-07-29 |
 | [Separation](https://open.spotify.com/track/1x2TnGBqJPTmDy3gAjJ05h) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Separation](https://open.spotify.com/album/7F7T36RnF5k6eJGYjtT4Iz) | 3:10 | 2022-07-21 | 2022-10-13 |
 | [Separation](https://open.spotify.com/track/4V5aNcb4CBVou9uWTodMYB) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Separation](https://open.spotify.com/album/1bNyD1b6LuqQUTR8yJvKmI) | 3:10 | 2022-10-06 | 2022-11-18 |

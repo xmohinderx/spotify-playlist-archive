@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-246 songs - 13 hr 38 min
+247 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Home for Christmas](https://open.spotify.com/track/0cdUyb2LUwHjJCVv9O52ae) | [May Wells](https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM) | [Home for Christmas](https://open.spotify.com/album/6bw6B7PtOrrBRumjxAd0Ug) | 3:24 | 2021-12-24 | 2022-07-29 |
 | [Home for the Holidays](https://open.spotify.com/track/0uvywHmSjlt2F2Bg9jvMzq) | [Paul Brandt](https://open.spotify.com/artist/11Rb0Ax3Q2dZJ7jNlOvxxP) | [Home for the Holidays](https://open.spotify.com/album/1XTPWying1WOIHqt4khUc0) | 2:22 | 2021-12-24 | 2022-12-08 |
 | [How Can It Be Christmas](https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [How Can It Be Christmas](https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f) | 3:15 | 2021-12-24 |  |
-| [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/track/0AFOsHOLzZvUY8IqnhfRvA) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/album/1U04rSEjf2f4tMvOpvKacK) | 3:51 | 2022-10-29 |  |
+| [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/track/0AFOsHOLzZvUY8IqnhfRvA) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/album/1U04rSEjf2f4tMvOpvKacK) | 3:51 | 2022-10-29 | 2023-02-24 |
 | [I Hope It Snows](https://open.spotify.com/track/1Tu2vqQl3Oo7HaQP1AS38G) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Naughty List](https://open.spotify.com/album/0BXmUn9V11LhVai6Ac6vb1) | 3:59 | 2021-12-24 |  |
 | [I Really Don't Want Much For Christmas](https://open.spotify.com/track/7EGUqJ63q9WH8HmFTpeaTY) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [I Really Don't Want Much For Christmas](https://open.spotify.com/album/5x26z9k6QpAjxmU478OXCg) | 3:47 | 2021-12-24 | 2022-12-04 |
 | [I Saw Three Ships](https://open.spotify.com/track/556WbQbFI94lJCiPY8981h) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Christmas](https://open.spotify.com/album/65ubsfvf66iJTF0jTKQqgX) | 4:20 | 2021-12-24 | 2022-07-29 |
@@ -219,6 +219,7 @@
 | [The Banister Bough](https://open.spotify.com/track/5kPfxp5TqffVKM6iVeS1xb) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [A very chilly christmas](https://open.spotify.com/album/02UKO5a8LFQ5DLmyozpQBc) | 4:09 | 2022-12-02 |  |
 | [The Banister Bough](https://open.spotify.com/track/6AlGiqQMmOKEhUAopzUwFm) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [A very chilly christmas](https://open.spotify.com/album/4VmSYtqSfucZcMF2u5eDZK) | 4:09 | 2021-12-24 | 2022-11-24 |
 | [The Bells Are Ringing](https://open.spotify.com/track/3XFi8n3O6QSERa7XgQHMvr) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [The Bells Are Ringing](https://open.spotify.com/album/3y1sleegQriGphZgglsih2) | 3:18 | 2021-12-24 | 2022-11-07 |
+| [The Bells Are Ringing](https://open.spotify.com/track/61czg3UxRqmcoCNe7frNlC) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [The Bells Are Ringing](https://open.spotify.com/album/7jCgZ8XltO9qaIBckSpQqZ) | 3:18 | 2022-12-16 |  |
 | [The Christmas Song](https://open.spotify.com/track/2EowIji0K5nyZv3PLt2q3F) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Together For The Holidays](https://open.spotify.com/album/0aWP95Ex1gAuaoN9T9S6p5) | 3:16 | 2021-12-24 | 2022-07-28 |
 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/66VenHDtrQAw7FCjyF2J56) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Holiday Deluxe\)](https://open.spotify.com/album/01haNCctw4EUPl8xUHVhdl) | 3:16 | 2021-12-24 |  |
 | [The Christmas Sweater](https://open.spotify.com/track/30QRKfHBopZn6UNqqSJQ9O) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:43 | 2021-12-24 |  |

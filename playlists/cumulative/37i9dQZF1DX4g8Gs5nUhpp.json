@@ -345,6 +345,28 @@
     },
     {
       "album": {
+        "name": "B\u1eadt T\u00ecnh Y\u00eau L\u00ean",
+        "url": "https://open.spotify.com/album/6jOJUucuzH32n2BdTJ9lOB"
+      },
+      "artists": [
+        {
+          "name": "T\u0103ng Duy T\u00e2n",
+          "url": "https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ"
+        },
+        {
+          "name": "Ho\u00e0 Minzy",
+          "url": "https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203826,
+      "name": "B\u1eadt T\u00ecnh Y\u00eau L\u00ean",
+      "url": "https://open.spotify.com/track/62SFLTN7txImu8pQwBMP6A"
+    },
+    {
+      "album": {
         "name": "B\u1eaft C\u00f3c Con Tim",
         "url": "https://open.spotify.com/album/538vBy7c27uatest2Eu58q"
       },

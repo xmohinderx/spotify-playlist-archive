@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,893 songs - 5 day 7 hr 25 min
+1,894 songs - 5 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,7 +577,8 @@
 | [Egyptian Reggae](https://open.spotify.com/track/10vcBTcaaLTjXZuFCQaY3Z) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Top 2000 \- Sub Top](https://open.spotify.com/album/0XBUyh0tnr0VLJSi1T8kge) | 2:35 | 2022-06-09 | 2022-07-29 |
 | [Egyptian Reggae](https://open.spotify.com/track/6luyViGYiEnCerudBySTcz) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Rock 'n' Roll With the Modern Lovers \(Bonus Track Edition\)](https://open.spotify.com/album/1GS9e5DqsnGJ8qYlr4eYxm) | 2:37 | 2022-07-27 |  |
 | [Egyptian Reggae](https://open.spotify.com/track/1iCL5mwsMPqaqieYpCKTra) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Ultimate 70s](https://open.spotify.com/album/5XKPbZbMKf1kyGNLqYtf9I) | 2:37 | 2022-10-31 | 2022-11-13 |
-| [El abanico](https://open.spotify.com/track/3tcti84ksNL3qUJddVNucQ) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 3:23 | 2022-06-09 |  |
+| [El abanico](https://open.spotify.com/track/3tcti84ksNL3qUJddVNucQ) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 3:23 | 2022-06-09 | 2023-02-24 |
+| [El Abanico](https://open.spotify.com/track/6DCCDO9m760k1QufsMvFcI) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka), [Loui](https://open.spotify.com/artist/4BAorgjAySLENBd4lfqkw8) | [Homenaje a los Embajadores](https://open.spotify.com/album/2vosFMIMYD6j8NGAddQ8Pf) | 3:20 | 2023-02-08 |  |
 | [El Aguajal](https://open.spotify.com/track/7nOD24bJ7hchHuwVpT9y9z) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [Los Auténticos](https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B) | 3:50 | 2022-07-12 |  |
 | [El Bahr Azra](https://open.spotify.com/track/59EeGCSYCV8HjxBkAkC7Pz) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 5:58 | 2022-07-12 | 2022-11-20 |
 | [El Bahr Azra](https://open.spotify.com/track/5qVUVHTb3sUpCaE8UTKJ6s) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 5:58 | 2022-10-31 | 2022-12-17 |
@@ -1842,8 +1843,8 @@
 | [Yekfini Nesma' Sotak](https://open.spotify.com/track/5J7ySnOHIqXK7lg3hTb5N9) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/59wUhuFXv88Cov9DMjGGI3) | 4:10 | 2022-07-12 | 2022-09-30 |
 | [Yemamaya](https://open.spotify.com/track/1EbJ9DlPVZ6146nt7DhuRw) | [LUIZGA](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f), [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r) | [Yemamaya](https://open.spotify.com/album/1XMqzOsgdbyCbsSsfNTUnX) | 4:02 | 2022-09-14 |  |
 | [Yo No Tengo Pena](https://open.spotify.com/track/77Ef4ZdJQtRCztVOdpcL50) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Más Sabor](https://open.spotify.com/album/1HBA0puMnLVoLFAgg2DPX8) | 6:10 | 2022-06-09 |  |
-| [Yo Por Ti](https://open.spotify.com/track/0UttGQy60z2NFQMrl5al2F) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [23 Exitos Para Cumbiar](https://open.spotify.com/album/7Ev2rRjhJEvEJrl0ViLX18) | 2:53 | 2022-06-09 | 2022-07-29 |
-| [Yo Por Ti](https://open.spotify.com/track/5XEtVK54D9tenCXln7hfG4) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [23 Exitos Para Cumbiar](https://open.spotify.com/album/0SvFkzozkha01lEYIk439z) | 2:53 | 2022-07-27 |  |
+| [Yo Por Ti](https://open.spotify.com/track/0UttGQy60z2NFQMrl5al2F) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [23 Exitos Para Cumbiar](https://open.spotify.com/album/7Ev2rRjhJEvEJrl0ViLX18) | 2:53 | 2022-06-09 |  |
+| [Yo Por Ti](https://open.spotify.com/track/5XEtVK54D9tenCXln7hfG4) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [23 Exitos Para Cumbiar](https://open.spotify.com/album/0SvFkzozkha01lEYIk439z) | 2:53 | 2022-07-27 | 2023-02-24 |
 | [Yoro](https://open.spotify.com/track/3vbwvhup0GSiYcwnRDvFYG) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/1gXeomyVC17Y26UmWP5ugy) | 3:44 | 2022-07-27 |  |
 | [Yoro](https://open.spotify.com/track/4Bj8H0FOENkwb6Pou3k3gY) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975 \- 91](https://open.spotify.com/album/3nnDp17ONStMm4LY6D64Mq) | 3:44 | 2022-07-12 | 2022-07-29 |
 | [You Are My Heart](https://open.spotify.com/track/0Ky98GMSlZQdctbAhU3I0Z) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/3oMy0b5i9EbBUR02bYIKZv) | 3:13 | 2022-06-09 | 2022-07-29 |

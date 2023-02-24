@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/3Py3J9giIR9rYKWKquKFMO"
+      },
+      "artists": [
+        {
+          "name": "Alexx Mack",
+          "url": "https://open.spotify.com/artist/56SybfJx38GvQ7nM4ezPnZ"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227649,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/0LaE4KQ25jQBuprmhXeWjp"
+    },
+    {
+      "album": {
         "name": "'LIKE A WOMAN, LIKE A DRUNKARD, LIKE AN ANIMAL'",
         "url": "https://open.spotify.com/album/5u9NVAXUZsT7wl5Vqj3gmv"
       },

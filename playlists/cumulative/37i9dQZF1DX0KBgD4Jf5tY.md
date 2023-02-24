@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:64IcDilEU6X8Caozoixn0V">Bordeaux</a>
+> Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:1HHQ5Lz44duNiQmpzKU0jd">Soap</a>
 
 582 songs - 1 day 5 hr 14 min
 
@@ -174,7 +174,7 @@
 | [EFFETTO](https://open.spotify.com/track/55WufXi1fJ3NAwvHCeOukk) | [JUCK](https://open.spotify.com/artist/76TFkKyjZt64sNPdTqJwqS) | [EFFETTO](https://open.spotify.com/album/4AfWq8Hk7q5xEmlT8Z4ci0) | 2:53 | 2022-09-29 | 2022-10-28 |
 | [Eleven](https://open.spotify.com/track/43kunJHghKGr4PDeTi86Gr) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x) | 5:38 | 2022-06-09 | 2022-07-28 |
 | [erasmus](https://open.spotify.com/track/5rm5BSRzvB22JIzYohX8ag) | [polare](https://open.spotify.com/artist/6U6S3xGYUwp8garTHJiYcJ) | [erasmus](https://open.spotify.com/album/7BILEEBYoTNGYgFc0xiu8K) | 2:57 | 2022-09-11 | 2022-10-15 |
-| [ERRORI](https://open.spotify.com/track/1tz8tATjdVNvwvkPOl0U4K) | [PARIDE](https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv) | [ERRORI](https://open.spotify.com/album/64j02x8T8B3F7d0rs87jMZ) | 3:02 | 2023-01-26 |  |
+| [ERRORI](https://open.spotify.com/track/1tz8tATjdVNvwvkPOl0U4K) | [PARIDE](https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv) | [ERRORI](https://open.spotify.com/album/64j02x8T8B3F7d0rs87jMZ) | 3:02 | 2023-01-26 | 2023-02-24 |
 | [ESAGERO EMOZIONI](https://open.spotify.com/track/4LwFRgfMW5LCStueaVtGh8) | [FDP](https://open.spotify.com/artist/5vX1tbFG6NuGSbwWO420JO), [Zerbo](https://open.spotify.com/artist/3cxzA1W08BBDKlAtVG09Zg) | [ESAGERO EMOZIONI](https://open.spotify.com/album/5PPlMx6qAuRLiIm8IEYpqJ) | 3:30 | 2022-05-19 | 2022-06-03 |
 | [Eschimesi](https://open.spotify.com/track/5G3T5ETovffghUBQJPptEr) | [Serepocaiontas](https://open.spotify.com/artist/1E0z4tZ543qWy0oe9Xe4u2) | [Eschimesi](https://open.spotify.com/album/30gRbR1k9vGXG83zoNYBQD) | 3:45 | 2022-11-08 | 2022-12-01 |
 | [Essenza blu](https://open.spotify.com/track/0x9XvxqYX6fE9AX7lFLH9J) | [Giulia Malavasi](https://open.spotify.com/artist/0Hx96SC5Ez0TKdTJy5WT5L) | [Essenza blu](https://open.spotify.com/album/1NEuRvZyIBEf1A39CDe0GX) | 2:35 | 2023-01-26 |  |
@@ -281,7 +281,7 @@
 | [Lucido](https://open.spotify.com/track/0wWHA2fRW21xXpPprVWxdc) | [ZANNA](https://open.spotify.com/artist/0F9jANZdmAJKEXyha9ELv2) | [Lucido](https://open.spotify.com/album/4Nr8JYO6KoWqJ7ylP1vYIZ) | 3:07 | 2022-05-05 | 2022-06-03 |
 | [LUNA](https://open.spotify.com/track/2ofbzIEV9PxrPh6Xfgr0No) | [Tamara](https://open.spotify.com/artist/0EyurrrSNYs9RHlcmWOjVM) | [LUNA](https://open.spotify.com/album/6gm4oM45qqRFipAUV5Nf5O) | 3:06 | 2023-02-16 |  |
 | [Luna Park \- Extended Version](https://open.spotify.com/track/26bRiFPeWj5FJvuNRjfLjH) | [fear](https://open.spotify.com/artist/7uYz8KI7EFdecCYUPADrVF), [tommi](https://open.spotify.com/artist/4KFl2C3e3YmJnIGt0MBBQd) | [Luna Park \(Extended Version\)](https://open.spotify.com/album/18rKku8UVZb7Le2GFCw51Z) | 2:09 | 2022-03-03 | 2022-04-20 |
-| [Luna Piena](https://open.spotify.com/track/5gGPuaAJmNi6DYK2LvRUyO) | [Ofelia](https://open.spotify.com/artist/4AMX8kNDeM0GF5X9IK7ENV), [Blue Jeans](https://open.spotify.com/artist/1s7cfaISyGC1cPTzkT0HD1) | [Luna Piena](https://open.spotify.com/album/3Py6PZrjmoMBC1GNBCy0bY) | 2:33 | 2023-02-16 |  |
+| [Luna Piena](https://open.spotify.com/track/5gGPuaAJmNi6DYK2LvRUyO) | [Ofelia](https://open.spotify.com/artist/4AMX8kNDeM0GF5X9IK7ENV), [Blue Jeans](https://open.spotify.com/artist/1s7cfaISyGC1cPTzkT0HD1) | [Luna Piena](https://open.spotify.com/album/3Py6PZrjmoMBC1GNBCy0bY) | 2:33 | 2023-02-16 | 2023-02-24 |
 | [luna rossa](https://open.spotify.com/track/5dwVc13MCj15LIUso2HHzL) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [b.estye](https://open.spotify.com/artist/2YaXROXiWeqPA4fG5od6bU) | [Pseudotape vol\. 1](https://open.spotify.com/album/49S2vrecAR7bV0Vf6CWrW9) | 4:05 | 2022-01-06 | 2022-02-18 |
 | [Luna tropicale](https://open.spotify.com/track/0MBWY9sUc6QlZM81WrMltN) | [NIMSAY](https://open.spotify.com/artist/5jicTWnmYwpBo4TNpw5yre) | [Luna tropicale](https://open.spotify.com/album/2zGXGuySAqcOUiSBugYtMt) | 3:03 | 2023-01-19 | 2023-02-17 |
 | [LUNa!](https://open.spotify.com/track/5qTtF6151q9YE9LWNOIpQE) | [pikkoloATTIKO !! !](https://open.spotify.com/artist/3XClM6ocC58yvHFylO94Wy), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [LUNa!](https://open.spotify.com/album/2LAasDRBMXkgieRneqsqSF) | 2:34 | 2022-08-11 | 2022-09-30 |

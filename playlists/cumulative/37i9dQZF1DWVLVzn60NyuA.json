@@ -3995,6 +3995,24 @@
     },
     {
       "album": {
+        "name": "AFROBOY",
+        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191827,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
+    },
+    {
+      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -4376,7 +4394,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 206685,
       "name": "Magic",
       "url": "https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5"
@@ -5844,7 +5862,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 270315,
       "name": "Risky",
       "url": "https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7"
@@ -6168,6 +6186,24 @@
       "duration_ms": 170103,
       "name": "She Got It (with Rafa Pab\u00f6n)",
       "url": "https://open.spotify.com/track/59MMi0CiK66DVzFo1aRRby"
+    },
+    {
+      "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/0MqznZG1JtYF7hhLUWfNU9"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Short up Shorts",
+      "url": "https://open.spotify.com/track/15DxGcmXWDZhaFUyz1Kh1y"
     },
     {
       "album": {

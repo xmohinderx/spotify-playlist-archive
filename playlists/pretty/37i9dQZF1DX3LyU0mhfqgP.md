@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: MOONGA K.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,566 likes - 82 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,136 likes - 82 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

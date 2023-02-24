@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-209 songs - 11 hr 28 min
+210 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Lumi](https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY) | [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Lumi](https://open.spotify.com/album/0wx0yTWfXM641rHK9rFSr6) | 2:11 | 2022-11-11 | 2022-12-02 |
 | [Lá Fora](https://open.spotify.com/track/2tcqz3Az2AEB3ui0yAvdWr) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Lá Fora](https://open.spotify.com/album/4RBovD9AuQkPGJ8Tpz9Bpg) | 3:06 | 2022-10-06 | 2022-12-02 |
 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 | 2022-11-11 |  |
-| [Mais Uma Vez](https://open.spotify.com/track/6G1qfNxVKAjxaVInNwj2aK) | [B.E.R.A](https://open.spotify.com/artist/69N3zTGQ7lPJURlJCklOSk) | [Mais Uma Vez](https://open.spotify.com/album/2Cy2WpJjRQ4ZMxqEcK4srx) | 3:57 | 2023-02-10 |  |
+| [Mais Uma Vez](https://open.spotify.com/track/6G1qfNxVKAjxaVInNwj2aK) | [B.E.R.A](https://open.spotify.com/artist/69N3zTGQ7lPJURlJCklOSk) | [Mais Uma Vez](https://open.spotify.com/album/2Cy2WpJjRQ4ZMxqEcK4srx) | 3:57 | 2023-02-10 | 2023-02-24 |
 | [mal\-me\-quer](https://open.spotify.com/track/6r1oBhMARlpEotia4lbhqo) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i) | [mal\-me\-quer](https://open.spotify.com/album/3ByBw1099rBcfs0QPqE1M8) | 1:47 | 2023-01-06 | 2023-01-21 |
 | [Mal\-Me\-Queres Amarelos](https://open.spotify.com/track/0vpZYmZBBGvtgw6jCCnb1q) | [BlvckPunch](https://open.spotify.com/artist/0gECWTBjkZ3EUpW6Ww0mUJ), [Pimp Nilo](https://open.spotify.com/artist/2rWBakgQaaMaYtvzgQbV6w) | [Hat\-Trick de Love](https://open.spotify.com/album/5FTbZYQKPFebxVXe3qgPfq) | 3:52 | 2022-09-29 | 2022-10-14 |
 | [María♡](https://open.spotify.com/track/737sa9JwA5YmswwNYcJXAE) | [Arthyy](https://open.spotify.com/artist/78W2GovFrkUXeFlIkmEHhs) | [María♡](https://open.spotify.com/album/28moMVQvQVXvCCrBCDH3cK) | 3:20 | 2022-12-02 | 2022-12-04 |
@@ -209,6 +209,7 @@
 | [Vai Dar](https://open.spotify.com/track/0YMXAPod9hwWwtDDejqI0C) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Vai Dar](https://open.spotify.com/album/4OE14bnybnjUzvgT2tjQ2j) | 3:05 | 2022-07-07 | 2022-10-14 |
 | [Verão Azul \- Encore Sessions](https://open.spotify.com/track/1l8AOv2r3qTaBcQz6EW6XL) | [D'ZRT](https://open.spotify.com/artist/2Td4hZ8FWidGoeKhu7c73I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Verão Azul](https://open.spotify.com/album/3mDUg1qAUPoEEKJRh1FPMs) | 4:42 | 2023-01-06 |  |
 | [Viciado](https://open.spotify.com/track/2utfCVxSXEWN711XL58Ci7) | [Nova Wave](https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv) | [Viciado](https://open.spotify.com/album/19PSSc9iyYbYaal7ePUG6W) | 3:23 | 2022-12-02 | 2022-12-24 |
+| [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 | 2023-02-10 |  |
 | [Vivenda](https://open.spotify.com/track/5vnzyBc5JZ1Z7VZJcf4ap6) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Vivenda](https://open.spotify.com/album/2aA6KxWFPth5qoD1AHNflH) | 3:11 | 2022-12-23 | 2023-01-21 |
 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 | 2022-07-07 |  |
 | [Water \(feat\. Slow J\) \- Single Version](https://open.spotify.com/track/58dElABzeDBwfhttWGf6n1) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Lisboa](https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh) | 5:13 | 2022-07-07 | 2022-10-07 |

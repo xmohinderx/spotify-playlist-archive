@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-657 songs - 1 day 11 hr 28 min
+659 songs - 1 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Dance](https://open.spotify.com/track/0MP2SUdqSFDl9tcytBpF8h) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Dance](https://open.spotify.com/album/0ka6ChDCJFiNeA4UW9OLW7) | 2:59 | 2020-11-03 |  |
 | [Dance Alone](https://open.spotify.com/track/6l8ai4INZVibQ212THNkDo) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Dance Alone](https://open.spotify.com/album/7BsJGPd1VYmeGasENuW2PE) | 2:33 | 2020-05-29 | 2021-05-12 |
 | [Daze Inn](https://open.spotify.com/track/20L6erw0ny2hiwQg8c1Dj4) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Daze Inn](https://open.spotify.com/album/3BFa8OzNBHwnCWEOKts7r8) | 2:38 | 2020-03-27 | 2021-05-12 |
+| [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 | 2023-02-24 |  |
 | [Deal](https://open.spotify.com/track/0EbYN3Un6UtnzL4LOd1mlF) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Deal](https://open.spotify.com/album/3QT5iWD6k2tSeMJGkzE3ys) | 2:41 | 2019-08-27\* | 2021-05-12 |
 | [Delete Forever](https://open.spotify.com/track/71J2rawCGulCAyTMtNY3Ej) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 3:57 | 2022-10-21 | 2022-11-14 |
 | [Demons](https://open.spotify.com/track/0KW2JqqbzkzlebDjXI62OB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Demons](https://open.spotify.com/album/0Y1lSBX381MOjxt5n72vN0) | 2:45 | 2020-01-17 | 2021-05-12 |
@@ -422,6 +423,7 @@
 | [Oh Brother](https://open.spotify.com/track/5buUWMp8lKM3FlbZXArhFa) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [Oh Brother](https://open.spotify.com/album/6EVhzUL0qQ5OgsD2eeUrtZ) | 2:56 | 2020-04-29 | 2021-05-12 |
 | [Oh My God](https://open.spotify.com/track/2U12JbtnFSYa5Av5wEcEDX) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Oh My God](https://open.spotify.com/album/4luKvo6ahaj8ZG9fAzQ6YO) | 3:07 | 2020-02-14 |  |
 | [OH! Not Again](https://open.spotify.com/track/5RtmIaz3UUmpdtpFJkfYT5) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [OH! Not Again](https://open.spotify.com/album/4o7f1qgkeQfwuKM5AAMnWl) | 2:58 | 2022-12-09 |  |
+| [Oil \(feat\. Stevie Nicks\)](https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:50 | 2023-02-23 |  |
 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 | 2022-06-09 |  |
 | [Older](https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Older](https://open.spotify.com/album/7Hz2GKXQniSyGHdNjRs7PP) | 2:44 | 2021-09-18 |  |
 | [On My Mind](https://open.spotify.com/track/482KdzCNETTbzfF11pykgd) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [On My Mind](https://open.spotify.com/album/4nUef0dAHHKC4lSDciXVuN) | 3:26 | 2020-10-15 |  |

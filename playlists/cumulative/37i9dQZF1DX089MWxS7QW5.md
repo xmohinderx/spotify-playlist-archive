@@ -2,9 +2,9 @@
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: LEEBADA\(이바다\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Milena\(밀레나\)\)
 
-168 songs - 9 hr 36 min
+169 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 | 2022-07-04 | 2022-11-15 |
 | [Riddle \(feat\. Khundi Panda\)](https://open.spotify.com/track/0CfaShWRNwAS86m7gzbehv) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:47 | 2022-05-28 | 2022-08-03 |
 | [Rust \(feat\. Rico\)](https://open.spotify.com/track/2jYtKXsb2RblcLMhUMD3Fx) | [404](https://open.spotify.com/artist/6hJaJkkFyYCBaYr2THZvvH), [Rico](https://open.spotify.com/artist/3E0YTYEh08ccPtREHUCeDk) | [Rust \(feat\. Rico\)](https://open.spotify.com/album/6IifE3wcI8uxFaOrU21Hvr) | 4:21 | 2022-09-05 | 2023-01-21 |
+| [Saturn](https://open.spotify.com/track/4pFWcq6v0hEYY65VaxpJiY) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Saturn](https://open.spotify.com/album/6xt9QesnTMEOm78vIXCTPA) | 3:05 | 2023-02-23 |  |
 | [Scent](https://open.spotify.com/track/1neROuQxafANebAEXLRFWf) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Scent](https://open.spotify.com/album/3xgGdTJNMCDOb2KpqL5ul0) | 2:08 | 2023-01-18 |  |
 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 | 2022-07-04 | 2022-10-08 |
 | [Siren](https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 2:47 | 2023-02-10 | 2023-02-15 |

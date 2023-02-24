@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,393 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,446 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [アキバ20XX](https://open.spotify.com/track/1Ez0wnfGnuJKP5vNk6ZKRT) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [LindaAI\-CUE \[BNSI\]](https://open.spotify.com/artist/1L9M0K0MtxupTFkuhdvcgu), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz), [東雲和音 \(CV: 天音みほ\)](https://open.spotify.com/artist/3986rXZPVr6K7P0JrNzqvV), [茅野ふたば \(CV: 堀越せな\)](https://open.spotify.com/artist/2t6UP0EFODfJPxn1nsADpD) | [アキバ20XX](https://open.spotify.com/album/5uDQtaKfJgJZZgwHTB0NiW) | 4:20 |
+| 1 | [AKIBA 20XX](https://open.spotify.com/track/7K7SRrTcVS2JEVWgHlFEJr) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [LindaAI\-CUE \[BNSI\]](https://open.spotify.com/artist/1L9M0K0MtxupTFkuhdvcgu), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz), [東雲和音 \(CV: 天音みほ\)](https://open.spotify.com/artist/3986rXZPVr6K7P0JrNzqvV), [茅野ふたば \(CV: 堀越せな\)](https://open.spotify.com/artist/2t6UP0EFODfJPxn1nsADpD) | [AKIBA 20XX](https://open.spotify.com/album/0mAeUV8x6FRanPOMnvmvyf) | 4:20 |
 | 2 | [Crush](https://open.spotify.com/track/5H7FLE6suGxFGiJnAb8N6m) | [真新宿GR学園](https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [SHOW](https://open.spotify.com/artist/3BcTkiYAa3pTebxQrCNhOA) | [Crush](https://open.spotify.com/album/0K7lC8wFMvBVyfHtbenEn9) | 3:49 |
 | 3 | [YAKEZAKE](https://open.spotify.com/track/2B0YWVqh1pDMOvS48tYxvq) | [真新宿GR学園](https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [KOERU](https://open.spotify.com/artist/4g5NpVqyhR9fU1gmLyP6VK), [りむる \(CV: をとは\)](https://open.spotify.com/artist/5trPMTBMzwq4ZCACvjAl77), [ポメモリ\(CV.くいしんぼあかちゃん\)](https://open.spotify.com/artist/6wzN8b7AVehsQjoTnjYig8) | [YAKEZAKE](https://open.spotify.com/album/2hJ8cHwFBwoV5z4omc84v8) | 3:39 |
 | 4 | [Prayer](https://open.spotify.com/track/0e3J9w5XeUq7zLICM7VKjY) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [犬吠埼紫杏 \(CV: 長谷川玲奈\)](https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf) | [Prayer](https://open.spotify.com/album/4RkyRGUSz9b3Biwl0fNjZB) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 | 99 | [NANAIRO STAGE \- gu^2 REMIX](https://open.spotify.com/track/5oZC9VXHkiJr24qoLqqtho) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [gu^2](https://open.spotify.com/artist/43TU7U6al7Qt8VCwtgnXZX), [大賀ルキア \(CV: 星川サラ\)](https://open.spotify.com/artist/3IFOQg0N8gQooK5duWNRq4) | [DENONBU \(SHIBUYA New Year REMIX\)](https://open.spotify.com/album/2wsCiA3HAaYG8Du98pBmyc) | 2:44 |
 | 100 | [Inverted Pyramid \- kors k REMIX](https://open.spotify.com/track/2rqO7JgyULb1YuK86fTfyB) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5), [大賀ルキア \(CV: 星川サラ\)](https://open.spotify.com/artist/3IFOQg0N8gQooK5duWNRq4) | [DENONBU \(SHIBUYA New Year REMIX\)](https://open.spotify.com/album/2wsCiA3HAaYG8Du98pBmyc) | 4:25 |
 
-Snapshot ID: `MTY3NzA3ODAwMCwwMDAwMDAwMGJhNDBkM2U1OTY3NzI4NjA3ZDIwNmU1ZTJlNGZjZTc1`
+Snapshot ID: `MTY3NzA3ODAwMCwwMDAwMDAwMGM3OWNlZjc4ZTcxZDBjNzM5OTVmYjg5M2RjZDI5Y2Mw`

@@ -4,7 +4,7 @@
 
 > Escucha la selección que Señoras Punk hicieron para Mamá Cool\. 🤘🏼🖤
 
-281 songs - 16 hr 55 min
+282 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 | 2022-06-24 | 2023-02-21 |
 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 | 2022-04-18 | 2023-02-21 |
 | [Star Guitar](https://open.spotify.com/track/19mC6xktT1JyyycK6cQaXA) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Come With Us](https://open.spotify.com/album/56nVadPbdCs1yGB0AtXSGp) | 6:27 | 2022-04-18 | 2022-09-10 |
-| [Sueños de Amor](https://open.spotify.com/track/0IHWITC8b1u4edMKWZaJ2K) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Silver Rose](https://open.spotify.com/album/7MtrCHFK57syVaitrSwSAY) | 3:09 | 2023-02-20 |  |
+| [Sueños de Amor](https://open.spotify.com/track/0IHWITC8b1u4edMKWZaJ2K) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Silver Rose](https://open.spotify.com/album/7MtrCHFK57syVaitrSwSAY) | 3:09 | 2023-02-20 | 2023-02-24 |
 | [tdbn](https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:14 | 2023-02-20 |  |
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2022-05-16 | 2022-06-25 |
 | [Tell The World](https://open.spotify.com/track/69Sd4fE8pU2R3YyJ5oa7Ny) | [Vivian Girls](https://open.spotify.com/artist/0WkO9Px6qQCM7so8lYvaCv) | [Vivian Girls](https://open.spotify.com/album/1wMo0mB7JqxzTCERNk0uMP) | 3:36 | 2023-02-20 |  |
@@ -247,6 +247,7 @@
 | [Tiemblo de Ti](https://open.spotify.com/track/5achexKBlppYyu1NSIUlk8) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tiemblo de Ti](https://open.spotify.com/album/1sNaxcCHQYCteAlmzYmHwa) | 3:36 | 2022-04-18 | 2022-07-29 |
 | [Time is Running Out](https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:57 | 2022-07-19 | 2022-09-10 |
 | [Todo el mundo miente](https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Todo el mundo miente](https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T) | 3:27 | 2023-02-20 |  |
+| [Todos Mis Amigos Tienen Covid](https://open.spotify.com/track/67n0eh73NUPu8X3y042g4m) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Lo Que Te Pide el Cuerpo](https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m) | 2:43 | 2023-02-20 |  |
 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 | 2022-09-09 | 2023-02-21 |
 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 | 2023-02-20 |  |
 | [Trash](https://open.spotify.com/track/4OKLCt7rTQnpgiOm8HmZ7n) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Feels Like](https://open.spotify.com/album/76CR7xZkAElmSDZF5NF3Bo) | 3:58 | 2023-02-20 |  |

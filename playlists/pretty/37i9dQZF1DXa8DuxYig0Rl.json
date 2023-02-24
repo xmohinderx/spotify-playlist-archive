@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 15573,
+  "num_followers": 15602,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDUxMzc3MCwwMDAwMDAwMDEyNTE2ODU3NmFmMWIyMGE1MTBmMjFjZTk4NWExMmVl",
+  "snapshot_id": "MTY3NDUxMzc3MCwwMDAwMDAwMGRjODQxYWQ2MjdlNjlhYWI2OTRiNjBlYjhhZGMxNTI0",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Exitos De Billo's Caracas Boys",
-        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
+        "name": "Edixion Platino",
+        "url": "https://open.spotify.com/album/0I03z93hlF5NpbQHqj07ak"
       },
       "artists": [
         {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+          "name": "Los Rehenes",
+          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
         }
       ],
-      "duration_ms": 183228,
-      "name": "Cumbia Caletera",
-      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
+      "duration_ms": 167933,
+      "name": "Necesito Que Regreses",
+      "url": "https://open.spotify.com/track/5PD0sX9q4ILqtifyQSHqf6"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Edixion Platino",
-        "url": "https://open.spotify.com/album/0I03z93hlF5NpbQHqj07ak"
-      },
-      "artists": [
-        {
-          "name": "Los Rehenes",
-          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Necesito Que Regreses",
-      "url": "https://open.spotify.com/track/5PD0sX9q4ILqtifyQSHqf6"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "De Quen Chon",
         "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 168803,
       "name": "De Quen Chon",
       "url": "https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Exitos De Billo's Caracas Boys",
+        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
+      },
+      "artists": [
+        {
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 183228,
+      "name": "Cumbia Caletera",
+      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "15 EXITOS",
-        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 139626,
-      "name": "El Mudo",
-      "url": "https://open.spotify.com/track/43iaHz5dLnKRovc3DLQApU"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Lamento Borincano",
         "url": "https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 287320,
       "name": "Lamento Borincano",
       "url": "https://open.spotify.com/track/23mmokvWXS4aUpZmUODFBY"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "15 EXITOS",
+        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 139626,
+      "name": "El Mudo",
+      "url": "https://open.spotify.com/track/43iaHz5dLnKRovc3DLQApU"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -503,18 +503,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "A Gozar!",
-        "url": "https://open.spotify.com/album/7EwEfGJqixrkf9Rx95h04K"
+        "name": "40 Temas Originales",
+        "url": "https://open.spotify.com/album/6G9XJm8YJ4oO265SWCqmk5"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+        },
+        {
+          "name": "Orquesta Pedro Flores",
+          "url": "https://open.spotify.com/artist/35ePrAW1vdWYsrYywU6Mps"
         }
       ],
-      "duration_ms": 159520,
-      "name": "El Sonsonete",
-      "url": "https://open.spotify.com/track/5q8ZE4m9qxJFfJG2mlimIc"
+      "duration_ms": 191200,
+      "name": "Despedida",
+      "url": "https://open.spotify.com/track/6r6bcAHYlO0bAC5q7mSJYw"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -567,22 +571,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "40 Temas Originales",
-        "url": "https://open.spotify.com/album/6G9XJm8YJ4oO265SWCqmk5"
+        "name": "A Gozar!",
+        "url": "https://open.spotify.com/album/7EwEfGJqixrkf9Rx95h04K"
       },
       "artists": [
         {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
-        },
-        {
-          "name": "Orquesta Pedro Flores",
-          "url": "https://open.spotify.com/artist/35ePrAW1vdWYsrYywU6Mps"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 191200,
-      "name": "Despedida",
-      "url": "https://open.spotify.com/track/6r6bcAHYlO0bAC5q7mSJYw"
+      "duration_ms": 159520,
+      "name": "El Sonsonete",
+      "url": "https://open.spotify.com/track/5q8ZE4m9qxJFfJG2mlimIc"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Que Bueno Baila Usted",
-      "url": "https://open.spotify.com/track/0KeLEFyRObe9rVWUxWmkPM"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Vamos A La Fiesta",
         "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 165301,
       "name": "Zacazonapan",
       "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 192746,
+      "name": "Que Bueno Baila Usted",
+      "url": "https://open.spotify.com/track/0KeLEFyRObe9rVWUxWmkPM"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "That Cuban Cha Cha",
-        "url": "https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Arag\u00f3n",
-          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "El Bodeguero",
-      "url": "https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Pachito E\u00b4che",
         "url": "https://open.spotify.com/album/0Cxh8n8EkCGsrM5v7xrFnA"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 188290,
       "name": "La Culebra",
       "url": "https://open.spotify.com/track/28NfNMIx60WE9757qHI2J1"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "That Cuban Cha Cha",
+        "url": "https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Arag\u00f3n",
+          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "El Bodeguero",
+      "url": "https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX"
     },
     {
       "added_at": "2023-01-23 22:42:50",

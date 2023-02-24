@@ -4,10 +4,11 @@
 
 > Sarapan sesuap semangat bersama lagu\-lagu dari Spotify.
 
-73 songs - 4 hr 35 min
+76 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [20something](https://open.spotify.com/track/6YhMlj1ZyjYOC3bD7OZP1Q) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [20something](https://open.spotify.com/album/3oNpunZbbJ85TMqLrxlrck) | 2:41 | 2023-02-23 |  |
 | [Adu Rayu](https://open.spotify.com/track/0mOLyv1GL4sIuzVR1I92Fb) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Adu Rayu](https://open.spotify.com/album/7MQvEjN92cqRdNUCMOKCPA) | 3:27 | 2022-12-13 |  |
 | [All Good](https://open.spotify.com/track/3s8ik4CUIZXXGDBgD0EAZ5) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [All Good](https://open.spotify.com/album/5b5nv0yq43oHzu1HcuY3ZI) | 3:13 | 2022-12-13 |  |
 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 | 2022-12-13 |  |
@@ -23,9 +24,10 @@
 | [Breakfast in Bed](https://open.spotify.com/track/3c5sWNPKG69X0JcGUgbBOj) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Breakfast in Bed](https://open.spotify.com/album/24aSDb1blluKkN02Wy4Tl4) | 2:43 | 2022-12-13 |  |
 | [Cintaku](https://open.spotify.com/track/4hykertmVe1gPtNB2atBNJ) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Everlasting Hits](https://open.spotify.com/album/4X9jiWC7TjqziUu92g4KgU) | 4:42 | 2022-12-13 |  |
 | [Dari Mata](https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Dari Mata](https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh) | 3:43 | 2022-12-13 |  |
+| [Dewi Pelita](https://open.spotify.com/track/0xD8XcL3Z655ohuMf8AYED) | [Fiko Nainggolan](https://open.spotify.com/artist/0fOEDOEkZobdwo8jksF98r), [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Dewi Pelita](https://open.spotify.com/album/4ERCJb48c2k4aOtPz7U7tK) | 3:45 | 2023-02-23 |  |
 | [Evaluasi](https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:14 | 2022-12-13 |  |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2022-12-13 |  |
-| [Fake Friends](https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Fake Friends](https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu) | 2:34 | 2022-12-13 |  |
+| [Fake Friends](https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Fake Friends](https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu) | 2:34 | 2022-12-13 | 2023-02-24 |
 | [Fly Me To The Sun](https://open.spotify.com/track/6UsNGfDVuoMhbgkmdWRvnz) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [Fly Me To The Sun](https://open.spotify.com/album/3rA2enTCB87keTrwFKcncI) | 4:34 | 2022-12-13 |  |
 | [Flying High](https://open.spotify.com/track/4haBSzLuFrT1hWqH5ErIWw) | [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Flying High](https://open.spotify.com/album/2l3g3RedySQT8z2Gsc2T78) | 3:49 | 2022-12-13 |  |
 | [Friends \(with Pamungkas\)](https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Friends \(with Pamungkas\)](https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm) | 3:19 | 2022-12-13 |  |
@@ -37,6 +39,7 @@
 | [Hoolala](https://open.spotify.com/track/7misIHyXm0bSSXQTVoeKAD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:15 | 2022-12-13 |  |
 | [IN MY BAG \(with tobi lou\)](https://open.spotify.com/track/3Vdu1sTIUi45NZvguJDmhk) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [BOY OF THE YEAR](https://open.spotify.com/album/7jKfffXc64aO4CubnAI1UJ) | 3:39 | 2022-12-13 |  |
 | [Inikah Cinta](https://open.spotify.com/track/7r5qxtubYpPXYNSLX8CoGr) | [Soundwave](https://open.spotify.com/artist/2KMR8kfHQCPYJ2SatjkIEu) | [Inikah Cinta](https://open.spotify.com/album/77q9eYQmTvAbuAWRLM1eof) | 3:45 | 2022-12-13 |  |
+| [Jakarta Hari Ini](https://open.spotify.com/track/5hkQFKFRrr5gKdbbxsg6Lj) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Jakarta Hari Ini](https://open.spotify.com/album/1Kw6W5Pj7gvROUJJRqBMzq) | 3:44 | 2023-02-23 |  |
 | [johnny forever](https://open.spotify.com/track/4l7TIfpqpWwQXHAkugf03E) | [jubilee marisa](https://open.spotify.com/artist/3JBkqdMx65CIglkijIKn4f) | [johnny forever](https://open.spotify.com/album/6ontGIRczEhO0Tgsdf5cpi) | 3:12 | 2022-12-13 |  |
 | [Just a Crush Thing](https://open.spotify.com/track/2VirB9Zej4MbwC1x8WcfWx) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Just a Crush Thing](https://open.spotify.com/album/3l2H3rjDgNCX4dizR3izOY) | 3:08 | 2022-12-13 |  |
 | [Just For You](https://open.spotify.com/track/4pNSeZ3zFtBH0vmlCuhGyd) | [Stefaldo](https://open.spotify.com/artist/3Tc2unuhdKex8NKaXdFrni), [Gess Gerald](https://open.spotify.com/artist/63UF0ZF1mHyyRINKgFPRCF) | [Just For You](https://open.spotify.com/album/1ae8gFk03PTdu3HQsGHITe) | 3:27 | 2022-12-13 |  |
@@ -59,7 +62,7 @@
 | [PERCAYA](https://open.spotify.com/track/5hpqeU5uQwDF1Umn60FqRr) | [Damero.](https://open.spotify.com/artist/5VOoDwt06adOAXAGIORMnW), [Tuantigabelas](https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn) | [PERCAYA](https://open.spotify.com/album/5jw1zR0t4Z1Wb5JixdloYU) | 3:25 | 2022-12-13 |  |
 | [Persimpangan](https://open.spotify.com/track/6GLYOdMJ5UCIIE6Ohc9v5C) | [Alsa](https://open.spotify.com/artist/79ZuAKAPvlGaPMRXR8KwPU) | [Persimpangan](https://open.spotify.com/album/5tW5YhIjNY0X6Ep6vNO7n4) | 3:40 | 2022-12-13 |  |
 | [Pesona \- Remastered](https://open.spotify.com/track/5iUrGfRTWwjm3eoNeblllJ) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Pesona \(Remastered 2022\)](https://open.spotify.com/album/56jtzPwaP66jzVleH9uGaP) | 3:37 | 2022-12-13 |  |
-| [Precious](https://open.spotify.com/track/6ikaNm8tnqvSB8XxRV4nog) | [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [Precious](https://open.spotify.com/album/0blGPLYWpPAIViPMRfuQnT) | 2:40 | 2022-12-13 |  |
+| [Precious](https://open.spotify.com/track/6ikaNm8tnqvSB8XxRV4nog) | [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [Precious](https://open.spotify.com/album/0blGPLYWpPAIViPMRfuQnT) | 2:40 | 2022-12-13 | 2023-02-24 |
 | [Remaja](https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:38 | 2022-12-13 |  |
 | [Samba Di Kota](https://open.spotify.com/track/1Sj8vwRdJRDgOws3XRmyCM) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Samba Di Kota](https://open.spotify.com/album/7plglO6ToXm07DcGE6IW6k) | 4:30 | 2022-12-13 |  |
 | [Sampai Kapan](https://open.spotify.com/track/2yhr89m0E7V16xOB3fRdF1) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Magnolya](https://open.spotify.com/album/3yUBpUAsQeuAu9R86wiukG) | 3:58 | 2022-12-13 |  |

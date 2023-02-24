@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-368 songs - 19 hr 19 min
+369 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [Merry Christmas, Happy New Year](https://open.spotify.com/track/1d3swnmFMH2dhIFiFmkkB6) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx) | [Merry Christmas, Happy New Year](https://open.spotify.com/album/7BiCKuzauJs1gntzEhjkzf) | 3:39 | 2021-12-24 | 2022-07-29 |
 | [merry merry](https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [merry merry](https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q) | 2:45 | 2021-12-24 | 2022-09-28 |
 | [Messed Up On Christmas](https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [XMAS 01](https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc) | 2:21 | 2021-12-24 | 2022-09-28 |
-| [Might As Well Have Coal \(with Baby Tate\)](https://open.spotify.com/track/7JbdnRGVDw8eJimk6jtdOh) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Home For The Holidays Vol\. 2](https://open.spotify.com/album/2Izcmsu37OSeXzSQE9C0ev) | 3:57 | 2022-12-02 |  |
+| [Might As Well Have Coal \(with Baby Tate\)](https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Home For The Holidays Vol\. 2](https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382) | 3:57 | 2022-12-02 |  |
+| [Might As Well Have Coal \(with Baby Tate\)](https://open.spotify.com/track/7JbdnRGVDw8eJimk6jtdOh) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Home For The Holidays Vol\. 2](https://open.spotify.com/album/2Izcmsu37OSeXzSQE9C0ev) | 3:57 | 2022-12-02 | 2023-02-24 |
 | [Miracle on 34th Street](https://open.spotify.com/track/77URKQTezVhULgWmAI8tJe) | [Olivia King](https://open.spotify.com/artist/1ueZy4kOgGzs9qRwTziSoL) | [Miracle on 34th Street](https://open.spotify.com/album/6dWj19j0tvaebfW7UHii6X) | 2:22 | 2022-11-18 |  |
 | [Miss You At Christmas](https://open.spotify.com/track/4scGEPn9eR5VrjWOglAOLl) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Miss You At Christmas](https://open.spotify.com/album/14b7hHDNYherVgWPEE5RzO) | 2:59 | 2022-11-18 |  |
 | [Mister Misfit](https://open.spotify.com/track/3X0CvsWVTVouuZuEjhRZEk) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Madilyn](https://open.spotify.com/artist/07r7OPIALkj6Icaoj4Kf5l) | [The Magic of Christmas](https://open.spotify.com/album/6dpQEXMy5ZsyXWzufePvLW) | 3:02 | 2022-11-11 |  |

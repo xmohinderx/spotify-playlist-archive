@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,331 likes - 60 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,446 likes - 60 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 16 | [Nebghiha Fort](https://open.spotify.com/track/2wo2GyiPDb0cL9UdQN6DzD) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/0BsMS6fQ7FIgGDuHWUvLIU) | 3:04 |
 | 17 | [Matebkich & Madanit Netfarko](https://open.spotify.com/track/4dTKDe11H4a3yZrcZvnjWI) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Matebkich & Madanit Netfarko](https://open.spotify.com/album/14JGq86bpnMJ0i7fkYqWsy) | 3:42 |
 | 18 | [Cha3ra Wendir Avc](https://open.spotify.com/track/4212sW8gzoojsEClN5LI8L) | [Amine Matlo](https://open.spotify.com/artist/2aFfUpawrHEPOQHzCXMUMZ) | [Cha3ra Wendir Avc](https://open.spotify.com/album/3OY3BSh6ltSis4Q2AT7dD7) | 6:32 |
-| 19 | [3inehom Mesawsa](https://open.spotify.com/track/2z23EvZj7MNw02iE0neRgx) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [3inehom Mesawsa](https://open.spotify.com/album/6NPGIRvX3VViWqisaCEs07) | 3:50 |
+| 19 | [3inehom Mesawsa](https://open.spotify.com/track/4XskIx5sYsCbfpC1AQeHv9) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/3cjlTzZoHAlpC7VsWJBv8F) | 3:50 |
 | 20 | [Khada3a Spécialiste](https://open.spotify.com/track/2jD3erMPrQVxnVXRRGLutg) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Khada3a Spécialiste](https://open.spotify.com/album/51DtZ6PI6AjWTx6N8L6EYH) | 5:08 |
 | 21 | [Nti Daout El Kheir](https://open.spotify.com/track/0w9SfiXXJsC8sXPocUatO6) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Nti Daout El Kheir](https://open.spotify.com/album/6vSuWq4upKblZk9JPISsrX) | 4:25 |
 | 22 | [Amour éternel](https://open.spotify.com/track/4Sea9Lf0PINpNxhZi1N0eK) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Amour éternel](https://open.spotify.com/album/0rnOYqNe9BKgJw9VS12Zp0) | 5:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 |
 | 60 | [Mimti Khali Bab Mahloul](https://open.spotify.com/track/6vzwnkS56YV0JbqQuZFnXj) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Mimti Khali Bab Mahloul](https://open.spotify.com/album/7BMI1KVKuODfFt4wnNhuuD) | 4:32 |
 
-Snapshot ID: `MTY3Njg5MTkwNiwwMDAwMDAwMDlkM2FjNGU1MmFkYzdhOThjMmFlMTYyNThiMzZhNmVj`
+Snapshot ID: `MTY3Njg5MTkwNiwwMDAwMDAwMGRjNDM5NWRmMGE0ZTUxYzE0NDU5YzJiMDgzNGZiY2Yw`

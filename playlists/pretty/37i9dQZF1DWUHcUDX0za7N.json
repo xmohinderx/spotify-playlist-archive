@@ -1,61 +1,13 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=ZjgNEgYXSzqquSyDO8Ak7g\" > Rema </a> ",
-  "num_followers": 15849,
+  "num_followers": 15875,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMGM2ODYyZTYyZjZlMmQ2OTExZTE4NmFkNjM0YmRmZTdj",
+  "snapshot_id": "MTY3NzE5MDY5MCwwMDAwMDAwMGE4Y2U2ZGU3MGUwMjIxY2ZkMTM2MmJhNzhjYzhjOTY0",
   "tracks": [
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Won Da Mo",
-        "url": "https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC"
-      },
-      "artists": [
-        {
-          "name": "Mavins",
-          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        },
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 247680,
-      "name": "Won Da Mo",
-      "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"
-    },
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
@@ -97,22 +49,6 @@
       "url": "https://open.spotify.com/track/6WavyUNdnJk9SRW7ko9ack"
     },
     {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Holiday / Reason You",
-        "url": "https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "Reason You",
-      "url": "https://open.spotify.com/track/6FPXNqKGnd7l61nYZz8EFu"
-    },
-    {
       "added_at": "2023-02-03 09:07:56",
       "album": {
         "name": "Kpe Paso",
@@ -131,6 +67,42 @@
       "duration_ms": 176988,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Holiday / Reason You",
+        "url": "https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 206750,
+      "name": "Reason You",
+      "url": "https://open.spotify.com/track/6FPXNqKGnd7l61nYZz8EFu"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -183,22 +155,22 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+      "duration_ms": 224000,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -225,24 +197,20 @@
       "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
     },
     {
-      "added_at": "2023-01-27 09:16:17",
+      "added_at": "2023-02-10 09:35:13",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -285,20 +253,24 @@
       "url": "https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl"
     },
     {
-      "added_at": "2023-02-10 09:35:13",
+      "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Earth Song",
-        "url": "https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         }
       ],
-      "duration_ms": 183536,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy"
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
     },
     {
       "added_at": "2023-02-03 09:07:56",
@@ -411,26 +383,6 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        }
-      ],
-      "duration_ms": 211050,
-      "name": "Cloak & Dagger (feat. J Hus)",
-      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
       },
@@ -447,26 +399,6 @@
       "duration_ms": 214615,
       "name": "Running",
       "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "PARA",
-        "url": "https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc"
-      },
-      "artists": [
-        {
-          "name": "Kid MARLEY",
-          "url": "https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg"
-        },
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "PARA",
-      "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -487,6 +419,26 @@
       "duration_ms": 207473,
       "name": "FYN",
       "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "PARA",
+        "url": "https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc"
+      },
+      "artists": [
+        {
+          "name": "Kid MARLEY",
+          "url": "https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "PARA",
+      "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -527,22 +479,6 @@
       "duration_ms": 138243,
       "name": "Letter From Overseas (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -591,26 +527,6 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Shakara",
-        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Shakara",
-      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
         "name": "BACK IN UNI",
         "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
       },
@@ -649,20 +565,20 @@
       "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
     },
     {
-      "added_at": "2023-02-10 09:35:13",
+      "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/3TMjXAxHbM7NTuo1mSNVDa"
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
       },
       "artists": [
         {
-          "name": "Obmrumi",
-          "url": "https://open.spotify.com/artist/2tT51ZEbpFZ9ah71Ma9XEW"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         }
       ],
-      "duration_ms": 165459,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/2yrZPZp445bFHivx2WZYEq"
+      "duration_ms": 185000,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -755,82 +671,6 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Hate Me",
-        "url": "https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 199322,
-      "name": "Hate Me",
-      "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Commander",
-        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Commander",
-      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Providence",
-        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "Afro Jigga",
-      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Palmwine Music 3",
-        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 195873,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
         "name": "BILLION DOLLAR DREAM (Deluxe Version)",
         "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
       },
@@ -867,6 +707,22 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
+        "name": "Commander",
+        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Commander",
+      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
         "name": "BBO (Bad Bxtches Only)",
         "url": "https://open.spotify.com/album/4yaDvxGKIlvdoZh4OzPpOY"
       },
@@ -879,6 +735,26 @@
       "duration_ms": 163976,
       "name": "BBO (Bad Bxtches Only)",
       "url": "https://open.spotify.com/track/5SYbZNSUDKugdnsVAutBUf"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Providence",
+        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "Afro Jigga",
+      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -939,22 +815,18 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+        "name": "LITTLE & LEGENDARY",
+        "url": "https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
         }
       ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+      "duration_ms": 147428,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -979,42 +851,6 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "The Lost Boy",
-        "url": "https://open.spotify.com/album/2HPDq4nWDFz0rwW3Il34Ek"
-      },
-      "artists": [
-        {
-          "name": "Erigga",
-          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 208572,
-      "name": "Perfect Timing",
-      "url": "https://open.spotify.com/track/02p4zzOLuPuJwFK4jDMLpA"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "LITTLE & LEGENDARY",
-        "url": "https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
         "name": "High Tension 2.0",
         "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
       },
@@ -1031,6 +867,26 @@
       "duration_ms": 163813,
       "name": "Out There",
       "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -1055,70 +911,6 @@
       "duration_ms": 168247,
       "name": "Awolowo",
       "url": "https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "E No Fit Be Me",
-        "url": "https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE"
-      },
-      "artists": [
-        {
-          "name": "Ejoya",
-          "url": "https://open.spotify.com/artist/6YiY30jVEsLhQfvla09lwi"
-        },
-        {
-          "name": "Oladapo",
-          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
-        },
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Noah Air\u00e9",
-          "url": "https://open.spotify.com/artist/6jOqT8eFLJJBFlnSVoMoqL"
-        }
-      ],
-      "duration_ms": 175013,
-      "name": "E No Fit Be Me",
-      "url": "https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Naira to Pounds",
-        "url": "https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr"
-      },
-      "artists": [
-        {
-          "name": "Zoro",
-          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
-        },
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 171535,
-      "name": "Naira to Pounds",
-      "url": "https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -1171,42 +963,6 @@
       "duration_ms": 175000,
       "name": "Mama Maradona",
       "url": "https://open.spotify.com/track/11bQsRKQ9z0acI4klPQoQr"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Alaye Toh Se Gogo",
-        "url": "https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a"
-      },
-      "artists": [
-        {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Alaye Toh Se Gogo",
-      "url": "https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -1291,46 +1047,18 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Your Waist",
-        "url": "https://open.spotify.com/album/6hnoe77FhbYGe73vGOvBVo"
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
       },
       "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        },
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
         {
           "name": "PsychoYP",
           "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         }
       ],
-      "duration_ms": 205794,
-      "name": "Your Waist",
-      "url": "https://open.spotify.com/track/2QKkkwmfTUA71dfLnMES9P"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Ice Cream",
-        "url": "https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 135889,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/0k1iGWN9cX5SzXE6dGn4to"
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -1351,22 +1079,6 @@
       "duration_ms": 249286,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Cram",
-        "url": "https://open.spotify.com/album/4rKlC12uweXzFArqQDvyyi"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 174658,
-      "name": "Cram",
-      "url": "https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -1407,6 +1119,198 @@
       "duration_ms": 131500,
       "name": "Suliya",
       "url": "https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Crown Of Clay",
+        "url": "https://open.spotify.com/album/1BNLf5GAPux7uFO3bP5TGL"
+      },
+      "artists": [
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "Crown Of Clay",
+      "url": "https://open.spotify.com/track/6utkMJG6xivCFBFdGG5qXO"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Vigilante Bop",
+        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
+      },
+      "artists": [
+        {
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 180950,
+      "name": "Vigilante Bop",
+      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "World Citizens",
+        "url": "https://open.spotify.com/album/7rQGIVZH1sptr2Hq3Lqcy4"
+      },
+      "artists": [
+        {
+          "name": "Mr. Dutch",
+          "url": "https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN"
+        },
+        {
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+        },
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "duration_ms": 186435,
+      "name": "Never stopping",
+      "url": "https://open.spotify.com/track/7bsexASUxrALdLNClTjjvJ"
+    },
+    {
+      "added_at": "2023-02-24 00:18:10",
+      "album": {
+        "name": "Owa",
+        "url": "https://open.spotify.com/album/00OQvNVhBS2IxUIOmPMEj0"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 173569,
+      "name": "Owa",
+      "url": "https://open.spotify.com/track/0QJGhiYMgf22RoRjYFmx3H"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Barawo",
+        "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 229250,
+      "name": "Barawo",
+      "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "All I Please",
+        "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
+      },
+      "artists": [
+        {
+          "name": "Wale Turner",
+          "url": "https://open.spotify.com/artist/65m9PcY3LaHyX12IpUrWaX"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "All I Please",
+      "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
+    },
+    {
+      "added_at": "2023-02-10 09:35:13",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/3TMjXAxHbM7NTuo1mSNVDa"
+      },
+      "artists": [
+        {
+          "name": "Obmrumi",
+          "url": "https://open.spotify.com/artist/2tT51ZEbpFZ9ah71Ma9XEW"
+        }
+      ],
+      "duration_ms": 165459,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/2yrZPZp445bFHivx2WZYEq"
+    },
+    {
+      "added_at": "2023-02-24 00:18:10",
+      "album": {
+        "name": "Bitter Sweet",
+        "url": "https://open.spotify.com/album/6ya5x6gzZDVwVD0rxh8DZO"
+      },
+      "artists": [
+        {
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        }
+      ],
+      "duration_ms": 135256,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/54Bvt0UE6yMPQBWb2TYSKc"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Go Home",
+        "url": "https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "Go Home",
+      "url": "https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV"
     }
   ],
   "unique_name": "Naija Bars ",

@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 169600,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q"
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 170285,
       "name": "Error Sound",
       "url": "https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1"
@@ -2356,7 +2356,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-23",
+      "date_removed": null,
       "duration_ms": 207539,
       "name": "Friends with the Rain",
       "url": "https://open.spotify.com/track/4LZmqD0ImQzd6nkHWL9Y8k"
@@ -3974,6 +3974,28 @@
       "duration_ms": 145920,
       "name": "Moon",
       "url": "https://open.spotify.com/track/1LMQs29W9GOBtpR7sNRBNz"
+    },
+    {
+      "album": {
+        "name": "Moonlight (feat. Gianni Taylor)",
+        "url": "https://open.spotify.com/album/1faudGW99AwyzM2vIZxYzt"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        {
+          "name": "GIANNI TAYLOR",
+          "url": "https://open.spotify.com/artist/3fNJYQvnucBeI9BfNwMC5i"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173061,
+      "name": "Moonlight (feat. Gianni Taylor)",
+      "url": "https://open.spotify.com/track/6u2XCvRMgI7kQZ32RbiAbk"
     },
     {
       "album": {

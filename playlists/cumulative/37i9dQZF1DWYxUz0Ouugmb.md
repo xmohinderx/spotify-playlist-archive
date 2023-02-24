@@ -4,7 +4,7 @@
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Idgitaf
 
-119 songs - 7 hr 26 min
+120 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Takut](https://open.spotify.com/track/3ciZ0IbqYoFV7R20D0TBgA) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Semoga Sembuh](https://open.spotify.com/album/6x67lQpaX0KyEpmso8bfqh) | 5:19 | 2022-03-24 |  |
 | [Tarik Ulur](https://open.spotify.com/track/7HBnW7E26egSo7p7DWs9XH) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Tarik Ulur](https://open.spotify.com/album/3nOtvP5lymtIrN6UT4M3kC) | 3:41 | 2022-03-24 |  |
 | [Terlalu Sayang](https://open.spotify.com/track/4shyP6S00jyjHZZz9oRs7b) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Terlalu Sayang](https://open.spotify.com/album/4BvjQGyatE1Y4jmNgwAn3A) | 4:04 | 2022-03-24 |  |
+| [Terpikat Senyummu \- Live](https://open.spotify.com/track/17iLvv3Vgnk7yLK9KDaqSx) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Terpikat Senyummu \(Live\)](https://open.spotify.com/album/1rAF2vh0XuqxQQAM7UQ7ou) | 3:12 | 2023-02-23 |  |
 | [The Stupid Song](https://open.spotify.com/track/4lfLg684A5uRL9gfNxQ1xx) | [Abraham Edo](https://open.spotify.com/artist/62iByAWLMcsNrR9aGr9gwB), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [The Stupid Song](https://open.spotify.com/album/5vqqd9xADRv7Sq5ewjv5nx) | 2:45 | 2022-01-27 | 2022-03-25 |
 | [This Love Will Never End](https://open.spotify.com/track/2TqXDSUrc8zgMMI8KOHjCK) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 3:45 | 2021-11-25 | 2022-03-25 |
 | [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 | 2022-03-24 | 2022-09-16 |

@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-73 songs - 3 hr 55 min
+76 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Day and Age](https://open.spotify.com/track/6dYMhDVzfJYxlP3Hoa7ipt) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [World's Fair](https://open.spotify.com/album/1YlIUjf2RiZfLzvK7Db7mi) | 2:41 | 2022-10-13 |  |
 | [Days of Wine and Roses](https://open.spotify.com/track/0A7ZVOJgVkNzMyGGzuB2Sb) | [Jim Stolar](https://open.spotify.com/artist/5hWUYUBGBKYhVolIy0DC5O) | [Just Friends](https://open.spotify.com/album/7HTSR4JClDS0r16RrLpmKE) | 3:25 | 2022-10-13 |  |
 | [Don't Know Why](https://open.spotify.com/track/6KE4QXE06QDEn7zRFkpxdk) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [One Quiet Night](https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK) | 3:07 | 2022-10-13 |  |
+| [Embrace](https://open.spotify.com/track/1gfNQ4y447h6OM7yIJWOd3) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [Embrace](https://open.spotify.com/album/0gRl4YwIyEXtG8wo40Fm7G) | 2:30 | 2023-02-23 |  |
 | [Etude](https://open.spotify.com/track/4qIluUXW2uoi0tafnAtQUb) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 2:27 | 2022-10-13 |  |
 | [Fading Dreams](https://open.spotify.com/track/7xCCrULuI3kbxF5bzYo80f) | [Carl Antaine](https://open.spotify.com/artist/5KXf7KzCn3CFeB3hRvHvqc) | [The Insider](https://open.spotify.com/album/791J5RIlG4Eptun25ffYtX) | 2:04 | 2022-10-13 |  |
 | [Father Time](https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Slava Grigoryan](https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG) | [Travel Guide](https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua) | 4:37 | 2022-10-13 |  |
@@ -33,6 +34,7 @@
 | [Fly Me To The Moon](https://open.spotify.com/track/5Q8mTbdEvMmVQYzTOOLm5j) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Fly Me To The Moon](https://open.spotify.com/album/0bb1f6yG83IWRTtyKRsDxZ) | 2:23 | 2022-10-13 | 2022-11-18 |
 | [From Now On](https://open.spotify.com/track/1Qu7rDnLl6yAIQy4c9cJoO) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [This Is Jazz \#9](https://open.spotify.com/album/2D2myh79CK6dKYUEIfMVsB) | 2:20 | 2022-10-13 |  |
 | [Golden Slumbers](https://open.spotify.com/track/553aXMKRk0Kh41QpvbuuFt) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6) | [Plays McCartney](https://open.spotify.com/album/7Fo8n4zfC54z0Yjgv8qVKY) | 2:43 | 2022-10-13 |  |
+| [Have You Met Miss Jones?](https://open.spotify.com/track/0FzscnPl4utP0vONzitk5J) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [Have You Met Miss Jones?](https://open.spotify.com/album/6xpcssp9Q6hcgyC7upWVFo) | 2:24 | 2023-02-23 |  |
 | [Hazy](https://open.spotify.com/track/687knmd9df9s6TRLzRVEOZ) | [Gina Wahler](https://open.spotify.com/artist/2qYWM0svFgRslCfVj36xcC) | [Hazy](https://open.spotify.com/album/45XVtdfgbmjIOEl3lLZhc2) | 3:04 | 2022-10-13 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/2DNS7kGX6HZY4L64nStAld) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or) | [Cabin Fever](https://open.spotify.com/album/4OFna3RHjT4D2xgsrQBbXe) | 6:30 | 2022-10-13 |  |
 | [How High The Moon](https://open.spotify.com/track/62feEPkgAS1dAVN6EB06PQ) | [Erik Faelt](https://open.spotify.com/artist/1ML8LCQGl0s8S4IECHztk1) | [My Romance](https://open.spotify.com/album/08n5jSurl6yZPKmPlwr5Ru) | 3:02 | 2022-10-13 |  |
@@ -73,6 +75,7 @@
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2022-10-13 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/1fpRIAQoMjwO9VPCc5LP8d) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Unforgettable](https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi) | 4:09 | 2022-10-13 | 2023-01-20 |
 | [The Way You Look Tonight](https://open.spotify.com/track/4QzkLSRHaqdAj9MYdyzf5Z) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Love Songs](https://open.spotify.com/album/1mP0H6sPc8lEHpaBlsUw0i) | 5:35 | 2022-10-13 |  |
+| [This World](https://open.spotify.com/track/2hUILUOnp0zo8II8TcawL0) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [This World](https://open.spotify.com/album/17liHgNayApFU9mD9uLKyX) | 4:19 | 2023-02-23 |  |
 | [Traveling Back](https://open.spotify.com/track/3MnJEpFl6B4PsyUcE1tstN) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 3:02 | 2022-10-13 |  |
 | [Waltz for Debbie](https://open.spotify.com/track/51Nyi9QizVyl5W9WViPPBp) | [CJ Smalls](https://open.spotify.com/artist/1kU7znDIPF92VLFCg7VAq1) | [Waltz for Debbie](https://open.spotify.com/album/11Ejo3kH23ajb1h4PFsXga) | 3:04 | 2022-10-13 |  |
 | [When I Fall In Love](https://open.spotify.com/track/1hsPTRZmb8mf0wZQfMAdhG) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [When I Fall In Love](https://open.spotify.com/album/1Mw304xtAcLXdPpxkcuDXF) | 2:12 | 2022-11-17 |  |

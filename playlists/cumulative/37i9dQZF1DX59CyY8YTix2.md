@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: BiSH
 
-801 songs - 2 day 3 hr 23 min
+803 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [FREEDOM!](https://open.spotify.com/track/5YThJeUxwNPrWMCmiZZrIQ) | [Bed In](https://open.spotify.com/artist/6rLwi93jMT5dbvht2sWAUR) | [FREEDOM!](https://open.spotify.com/album/2MOk0vG38H1M133hRGIkK3) | 3:57 | 2022-06-07 | 2022-07-06 |
 | [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 | 2022-12-13 | 2023-01-13 |
 | [Game Over](https://open.spotify.com/track/3RTPhsEAhEOTcw4y7cAnbC) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Game Over](https://open.spotify.com/album/2l28sfvxclSXQOMHgm1fe3) | 3:19 | 2022-11-01 | 2022-12-16 |
-| [Genius Made by Publishers](https://open.spotify.com/track/41aT4rpRoWE5iZ2CmbW3qe) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l), [Zen\(ego apartment\)](https://open.spotify.com/artist/4AySGpV1qQ9Ut7fAaHAYAu) | [Fight for Innocence](https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u) | 4:19 | 2023-02-21 |  |
+| [Genius Made by Publishers](https://open.spotify.com/track/41aT4rpRoWE5iZ2CmbW3qe) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l), [Zen\(ego apartment\)](https://open.spotify.com/artist/4AySGpV1qQ9Ut7fAaHAYAu) | [Fight for Innocence](https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u) | 4:19 | 2023-02-21 | 2023-02-24 |
 | [Girl](https://open.spotify.com/track/1M5x3ztSHcQM0OGNc10CAq) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [Girl](https://open.spotify.com/album/2BXNNQa9tBXq6ZGvdGNdHo) | 3:40 | 2022-08-17 | 2022-09-10 |
 | [Girl](https://open.spotify.com/track/4UxuBBgV1wsv6GIMrYVpTW) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [INNER JOURNEY](https://open.spotify.com/album/01dlkun9ZeuPK7jcTX9Y9v) | 3:40 | 2022-09-08 | 2022-09-15 |
 | [girl](https://open.spotify.com/track/3mqeR1acQPMzeX9n3zPoh6) | [suya suya junction](https://open.spotify.com/artist/1yXOe73eSiTukW4jCKpgMh) | [girl](https://open.spotify.com/album/1sug5oEX1Zf92dHGoUY9e5) | 4:12 | 2022-06-21 | 2022-06-29 |
@@ -165,6 +165,7 @@
 | [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 | 2022-06-02 | 2023-01-18 |
 | [Leon](https://open.spotify.com/track/0ctWWj9EtgPRx61Z6nw06r) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Reveal](https://open.spotify.com/album/0hK64US1J7Tt2F07xNsxsS) | 3:33 | 2022-06-16 | 2022-07-29 |
 | [LiE LiE LiE](https://open.spotify.com/track/6XH4XZRcMAKfCE3fjyM6vI) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [LiE LiE LiE](https://open.spotify.com/album/3LgdW4j5F11p7tfDPfGjaD) | 2:55 | 2022-07-12 | 2022-07-15 |
+| [Light and Darkness](https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Light and Darkness](https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL) | 4:04 | 2023-02-23 |  |
 | [like like](https://open.spotify.com/track/3ITJU5IAi49tuu7ROVWMSt) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [like like](https://open.spotify.com/album/0UFQXjTiyoyJiB9axeHYd2) | 4:36 | 2022-10-18 | 2023-01-18 |
 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 | 2022-05-26 | 2022-07-27 |
 | [LITMUS](https://open.spotify.com/track/4SKkKCv06oN15DHpyKUnJk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [LITMUS](https://open.spotify.com/album/3xZrKf9hGGyU6GPEmEJ2q7) | 4:14 | 2022-06-07 | 2022-11-14 |
@@ -191,6 +192,7 @@
 | [MIRROR](https://open.spotify.com/track/5xOFVZJzWHWYxfEfx5nohs) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [MIRROR](https://open.spotify.com/album/0wI2QMhhTC96nq0q2XrFtM) | 3:45 | 2022-05-26 | 2022-07-21 |
 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 | 2022-10-12 |  |
 | [Missing Milk](https://open.spotify.com/track/02WV0uoSdL9udejmMbKJsP) | [Kidder Friendly Club](https://open.spotify.com/artist/6weiyle8glz1DmsCMPNKlG) | [Missing Milk](https://open.spotify.com/album/06PZOJT3DhOGKnTRXLqiWt) | 3:15 | 2022-06-21 | 2022-07-21 |
+| [Modorenaifutari](https://open.spotify.com/track/1Ztoy45Aq1nXhaC00CpHcS) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [Modorenaifutari](https://open.spotify.com/album/4FaEMhk9xVY2P3NZNy0CS3) | 3:42 | 2023-02-23 |  |
 | [Moment26](https://open.spotify.com/track/4rKwARdCQDbSw9HvlUKFWX) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [Moment26](https://open.spotify.com/album/7x9A7ULjlINeydeWZa0jgW) | 2:45 | 2022-07-14 | 2022-07-17 |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2022-11-17 |  |
 | [Monster](https://open.spotify.com/track/3jM553xjXFg4d5WZjszanB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Monster](https://open.spotify.com/album/1HwjBIF2sVIWuiLuH8EsEc) | 3:08 | 2022-05-31 | 2022-07-29 |
@@ -593,7 +595,7 @@
 | [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 | 2022-07-28 | 2022-12-14 |
 | [予測不能の一秒先も濁流みたいに愛してる](https://open.spotify.com/track/657As4T0b2jCoQdFemM0rs) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [予測不能の1秒先も濁流みたいに愛してる](https://open.spotify.com/album/4O6a6o4144MXUXETY2Rp08) | 3:28 | 2022-06-16 | 2022-06-27 |
 | [二人](https://open.spotify.com/track/2CTQoSqM12EmpsGehHtwl0) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [二人](https://open.spotify.com/album/0gJ3CcBtRCLuYtQW4I90cx) | 4:14 | 2022-06-14 | 2022-07-23 |
-| [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 | 2022-11-08 |  |
+| [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 | 2022-11-08 | 2023-02-24 |
 | [交差点](https://open.spotify.com/track/2OSlif0ZfiSjEWpDMFE5PA) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [交差点](https://open.spotify.com/album/61dC5V6eLuvLGpJKZqLSWO) | 4:29 | 2022-06-07 | 2022-07-26 |
 | [今日の歌](https://open.spotify.com/track/53h744IVUMFPmYW38sdxUr) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [今日の歌](https://open.spotify.com/album/42NaaOoNPj8UAuhlNfLS0w) | 3:54 | 2022-06-02 | 2022-07-17 |
 | [仏だけ徒歩](https://open.spotify.com/track/7MEMAyebsx7YiRYN4EOlpQ) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [仏だけ徒歩](https://open.spotify.com/album/4bs0xtr8DorVBNUHeQ2Kvp) | 3:33 | 2022-06-02 | 2022-07-12 |

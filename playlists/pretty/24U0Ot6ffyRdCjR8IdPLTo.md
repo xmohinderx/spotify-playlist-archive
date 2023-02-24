@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain](/playlists/plain/24U0Ot6ffyRdCjR8IdPLTo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/24U0Ot6ffyRdCjR8IdPLTo)
 
-### [Study Music 2022](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
+### [Study Music 2023](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
 
 > Get in the zone with this fresh mix of chill music to study to.
 
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 | 53 | [Shimmer](https://open.spotify.com/track/5GCBU0qNaeKvZBhoGDgxXR) | [JFDR](https://open.spotify.com/artist/5Lg2eWJA2ZmMnZszOYPMCJ) | [Shimmer](https://open.spotify.com/album/485OiS4kRsIiO0EjwXotsB) | 3:21 |
 | 54 | [Chlorine \- Alternative Mix](https://open.spotify.com/track/3ZQgFtjJtmvUZZ8K5OBqIN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Chlorine \(Alternative Mix\)](https://open.spotify.com/album/5gPTivcCK6JfPNZqoAzP2O) | 3:11 |
 
-Snapshot ID: `MTA0OCw1NDc1ODUyNzc5MjJhZmNkYzI1MTE0NzNkNDVjMzI4YmY2Y2M4Y2Zm`
+Snapshot ID: `MTA0OSxkYjg4NGNkYjIwMDA3YzEzYjkyNmNhNGY0ODQ2NjZjY2EzYzBiMDI1`

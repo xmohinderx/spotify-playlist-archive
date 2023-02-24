@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Kaylee Bell",
+  "description": "The cream of today's Country crop. Cover: Brad Cox",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 189560,
       "name": "AA",
       "url": "https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e"
+    },
+    {
+      "album": {
+        "name": "Acres",
+        "url": "https://open.spotify.com/album/59ZMKvAyxlAYf6IioYgSi0"
+      },
+      "artists": [
+        {
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232224,
+      "name": "Acres",
+      "url": "https://open.spotify.com/track/4JIWCqW9WFHYD7Snwxji7m"
     },
     {
       "album": {
@@ -3445,6 +3463,28 @@
     },
     {
       "album": {
+        "name": "Our Church",
+        "url": "https://open.spotify.com/album/4B4LxUhDgy2eBRaT3UQFxX"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        },
+        {
+          "name": "Matt Cornell",
+          "url": "https://open.spotify.com/artist/01eCwGI76wbxMepuNTetLg"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Our Church",
+      "url": "https://open.spotify.com/track/1Y4dvnpSu7lLWnM571HWJV"
+    },
+    {
+      "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
       },
@@ -4370,7 +4410,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 203000,
       "name": "Stick Around",
       "url": "https://open.spotify.com/track/4KJmdT3lIvG64yEIAo9mIP"
@@ -4476,7 +4516,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 429651,
       "name": "Stubborn Pride",
       "url": "https://open.spotify.com/track/49ExSGKErkQHeqxPnanEcO"
@@ -5066,6 +5106,24 @@
       "duration_ms": 219640,
       "name": "Try Losing One",
       "url": "https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7"
+    },
+    {
+      "album": {
+        "name": "Try To Forget You",
+        "url": "https://open.spotify.com/album/1SrKEKh22rvCW04I33xlHb"
+      },
+      "artists": [
+        {
+          "name": "Emmagen Rain",
+          "url": "https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186183,
+      "name": "Try To Forget You",
+      "url": "https://open.spotify.com/track/1lYZtEEGD1UtpSiT9J8Dtc"
     },
     {
       "album": {

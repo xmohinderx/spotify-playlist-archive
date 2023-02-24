@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The freshest indie music from South African and beyond. Cover: <a href=\"https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i?si=r1YW2lj9SmOSIsqkiKvdbw\">strongboi",
+  "description": "The freshest indie music from South African and beyond. Cover: <a href=\"https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE?si=3syqe78ET_S4gz5VVwa4wQ\">Yum Yuck",
   "name": "SAlt",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 191733,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 212195,
       "name": "All These Lights",
       "url": "https://open.spotify.com/track/4MPwDMHQgTrOAYvtzZxQyP"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 199066,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm"
@@ -700,6 +700,24 @@
       "duration_ms": 217829,
       "name": "Countryside",
       "url": "https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM"
+    },
+    {
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/72k6MNNkcVaiJSE68LDgZz"
+      },
+      "artists": [
+        {
+          "name": "Anke Richards",
+          "url": "https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143928,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4y4Bz6mOA0FMuOWJaXMpkX"
     },
     {
       "album": {
@@ -909,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Everything Must Die",
+        "url": "https://open.spotify.com/album/0jGs6UE55UuP5Rm6GQLM4l"
+      },
+      "artists": [
+        {
+          "name": "Kileza",
+          "url": "https://open.spotify.com/artist/12ypK1yfRvOPCvB8qpCIAg"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359262,
+      "name": "Everything Must Die",
+      "url": "https://open.spotify.com/track/3bhxNf9wOTld9oHQ59DSEN"
+    },
+    {
+      "album": {
         "name": "F.B.A.",
         "url": "https://open.spotify.com/album/4MObRnQQsWhHcUTzfqRdIz"
       },
@@ -1032,6 +1068,24 @@
       "duration_ms": 126302,
       "name": "Flawed Guy",
       "url": "https://open.spotify.com/track/38L0QwyBMuqWlpC4oBl4UV"
+    },
+    {
+      "album": {
+        "name": "Funeral for the World",
+        "url": "https://open.spotify.com/album/6WyntCOurB6GZLIRdEQPye"
+      },
+      "artists": [
+        {
+          "name": "Cece Vee",
+          "url": "https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167777,
+      "name": "Funeral for the World",
+      "url": "https://open.spotify.com/track/01HxG3OBY1KPK0sgYSHkym"
     },
     {
       "album": {
@@ -1795,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Million Miles",
+        "url": "https://open.spotify.com/album/4gcpeWIcQDeumEz2pskRpA"
+      },
+      "artists": [
+        {
+          "name": "Static Space",
+          "url": "https://open.spotify.com/artist/4vpeMLAwnp29ZkfTLKcEaq"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231733,
+      "name": "Million Miles",
+      "url": "https://open.spotify.com/track/3Afigq8jGjc0lKV8vyWsEO"
+    },
+    {
+      "album": {
         "name": "An Inner Monologue",
         "url": "https://open.spotify.com/album/04hEMZWgBEWxf0fzBeugFd"
       },
@@ -2026,7 +2098,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 256920,
       "name": "Outside",
       "url": "https://open.spotify.com/track/4vnWq7kLc1RSUNJzcNDyE1"
@@ -2228,7 +2300,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 300441,
       "name": "Royalties",
       "url": "https://open.spotify.com/track/2SsLNG25UUof2uiGLn0xlu"
@@ -2665,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/2ICkFGFVJph7qkwqaGeNPR"
+      },
+      "artists": [
+        {
+          "name": "Yum Yuck",
+          "url": "https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/1PP9T1txg5vSHHemsLNd38"
+    },
+    {
+      "album": {
         "name": "Through The Misty With You (From \u201cThe Score\u201d)",
         "url": "https://open.spotify.com/album/5HDG7vBlkkzyLAAJVq0Fxk"
       },
@@ -2742,6 +2832,24 @@
       "duration_ms": 289895,
       "name": "Triomf",
       "url": "https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a"
+    },
+    {
+      "album": {
+        "name": "Trouble (Radio Remix)",
+        "url": "https://open.spotify.com/album/1ZbJRgqfXY6Ydu28mX7DIn"
+      },
+      "artists": [
+        {
+          "name": "Tuelo",
+          "url": "https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160728,
+      "name": "Trouble - Radio Remix",
+      "url": "https://open.spotify.com/track/3b1CgbC7s0TQ07ew2c2aaX"
     },
     {
       "album": {
@@ -2918,7 +3026,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 136032,
       "name": "Warned You",
       "url": "https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF"
@@ -2994,7 +3102,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 248500,
       "name": "White Shadow",
       "url": "https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov"
@@ -3164,6 +3272,24 @@
       "duration_ms": 210013,
       "name": "You've Got Me (Living Again)",
       "url": "https://open.spotify.com/track/4uVE2VIHgbIzFVMVpDMk30"
+    },
+    {
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/0mVteX1LwzpotZkCNMnakg"
+      },
+      "artists": [
+        {
+          "name": "Ross Learmonth",
+          "url": "https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168173,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/3iO4pnQA5FQdRr7jSYxWU9"
     },
     {
       "album": {

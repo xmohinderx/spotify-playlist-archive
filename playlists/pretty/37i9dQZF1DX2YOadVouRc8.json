@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 10976,
+  "num_followers": 10984,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzMDAxNCwwMDAwMDAwMGJmNTkyNzNjYjc0NmVlMTllZjEyMzczYjFkNzYzMjUw",
+  "snapshot_id": "MTY3NjAzMDAxNCwwMDAwMDAwMDVhNDUzM2YwN2U3ZWY3YzIyY2Y3OWM5NmViYzI3NzEw",
   "tracks": [
     {
       "added_at": "2022-06-09 23:00:00",
@@ -513,6 +513,22 @@
       "url": "https://open.spotify.com/track/5ydzXyCRG9AUq9w8pIf0Uc"
     },
     {
+      "added_at": "2023-02-10 09:27:43",
+      "album": {
+        "name": "Weep, No More",
+        "url": "https://open.spotify.com/album/2nw55c24zEeo0RAhQhkWxB"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 141933,
+      "name": "Weep, No More",
+      "url": "https://open.spotify.com/track/6dzICV2gDRl8SjPeqLnOQv"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Rosemary",
@@ -533,22 +549,6 @@
       "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 208692,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
-    },
-    {
       "added_at": "2023-01-20 00:00:00",
       "album": {
         "name": "Prezz Play",
@@ -565,20 +565,20 @@
       "url": "https://open.spotify.com/track/1ieYfbaettY1CCT4uu28Sx"
     },
     {
-      "added_at": "2023-02-10 09:27:43",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Weep, No More",
-        "url": "https://open.spotify.com/album/2nw55c24zEeo0RAhQhkWxB"
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
       },
       "artists": [
         {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 141933,
-      "name": "Weep, No More",
-      "url": "https://open.spotify.com/track/6dzICV2gDRl8SjPeqLnOQv"
+      "duration_ms": 208692,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 187206,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Confident",
         "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 185619,
       "name": "Confident",
       "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 187206,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
     },
     {
       "added_at": "2022-06-09 23:00:00",

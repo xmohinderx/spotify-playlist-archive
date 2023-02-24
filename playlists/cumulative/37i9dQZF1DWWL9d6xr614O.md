@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-86 songs - 6 hr 39 min
+88 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,10 +54,12 @@
 | [Malaya Na](https://open.spotify.com/track/1BKuNBuBTkBNHvda2vvUve) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [Tahanan](https://open.spotify.com/album/7ADkYzRHMGejbX9NmYlsa4) | 4:20 | 2022-04-15 |  |
 | [MAPAYAPA \- Feat\. Hazel Faith](https://open.spotify.com/track/1vTSTbQT9iJbggG47gEwwU) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk), [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [MAPAYAPA \(Feat\. Hazel Faith\)](https://open.spotify.com/album/2SOcTm4yqQLNPUQeTTa8sW) | 4:22 | 2022-04-15 |  |
 | [MAPAYAPA \- WATERWALK Sessions Version](https://open.spotify.com/track/2HPehVMri8sxetneSsiI3J) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk), [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [MAPAYAPA \(WATERWALK Sessions Version\)](https://open.spotify.com/album/6rlAgI26tV91JNQZdWcZXp) | 4:25 | 2022-11-03 |  |
+| [Masdan](https://open.spotify.com/track/0QOIZMsc6tV1UsNEk6Ao9x) | [KDR Music House](https://open.spotify.com/artist/6sdMyHTsU32ShOuGFUUnO0), [Jan Casey](https://open.spotify.com/artist/6U8rP1tvE8lxPJ2jtnAmoE) | [Masdan](https://open.spotify.com/album/0C4oPwJehejJaLwXwwMOz5) | 3:15 | 2023-02-23 |  |
 | [More of You](https://open.spotify.com/track/2FBg070EGrNodMbX3sWIVE) | [Zack Sympson](https://open.spotify.com/artist/416D28zAVhFTjDuC6JqSdA), [Rachel Mills](https://open.spotify.com/artist/4CFJDpfKLzcK4HPTM1b17g) | [More of You](https://open.spotify.com/album/1ZuRlofCPYnkEWpq8DPWf9) | 4:45 | 2022-04-15 |  |
 | [Nasaan Kaya Ako](https://open.spotify.com/track/1ylLUQy3WwGEUJ5p5PAyuJ) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Nasaan Kaya Ako](https://open.spotify.com/album/0rVyPpwmXgnvk7Z7bKYs7B) | 4:04 | 2022-04-15 |  |
 | [Never Wanna Go Back](https://open.spotify.com/track/6CUop28tecrP4AEsnKNpZ3) | [May Angeles](https://open.spotify.com/artist/3QnnsnDjUGYX8cYQuub0eh), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Never Wanna Go Back](https://open.spotify.com/album/5ZuLfsc8PRhiJj84sC2idX) | 3:35 | 2022-04-15 |  |
 | [New Generation](https://open.spotify.com/track/2yFze3Tul0hCB0eBOkz324) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Jeng Belen](https://open.spotify.com/artist/0l1E52m5uF5Ah2wQr8HAlw) | [New Generation](https://open.spotify.com/album/7ehgv9ZB0HgxtcxBmCeQsG) | 3:29 | 2022-04-15 |  |
+| [O AMING DAKILA](https://open.spotify.com/track/2vunLy3AxDewz0SQpyuRiq) | [James Reyes](https://open.spotify.com/artist/1x5NByuqtFtNUrl5vlE2Up) | [O AMING DAKILA](https://open.spotify.com/album/6YaULX1ApjUcL2Otl6wsqo) | 4:47 | 2023-02-23 |  |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/2PDlIgTWeNkVwx3QIAQT0i) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Zion](https://open.spotify.com/album/4rbOCwVhFYT2yYBmmUsekd) | 8:56 | 2022-04-15 | 2022-07-29 |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 | 2022-04-15 |  |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/6ax2Ggo7GekdiKS8rnaQFP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Essential Christian Mix](https://open.spotify.com/album/3u318s3bi0JWwEH3p5zmaJ) | 8:55 | 2022-11-03 | 2022-11-13 |

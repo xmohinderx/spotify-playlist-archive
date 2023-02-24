@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,684 likes - 166 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,651 likes - 166 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 40 | [Santa](https://open.spotify.com/track/6tApaHH8Tp58OQZIU9lFch) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Santa](https://open.spotify.com/album/5GVLfhHDPRPpHrUCMEY3vI) | 3:00 |
 | 41 | [Cry Christmas](https://open.spotify.com/track/0Dfts9Zl952vjQqdX8b3ez) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp) | 3:17 |
 | 42 | [Breaking up for Christmas](https://open.spotify.com/track/0Ymg8uQRy7ZRSolNHWmTb2) | [Bonnie Stewart](https://open.spotify.com/artist/6TSBE8yAeu3DmFrFiNsTzf), [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [Breaking up for Christmas](https://open.spotify.com/album/01I1O4IZXn5gzziLzD1VRA) | 2:38 |
-| 43 | [Might As Well Have Coal \(with Baby Tate\)](https://open.spotify.com/track/7JbdnRGVDw8eJimk6jtdOh) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Home For The Holidays Vol\. 2](https://open.spotify.com/album/2Izcmsu37OSeXzSQE9C0ev) | 3:57 |
+| 43 | [Might As Well Have Coal \(with Baby Tate\)](https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Home For The Holidays Vol\. 2](https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382) | 3:57 |
 | 44 | [Daddy's Kissing Santa Claus](https://open.spotify.com/track/5pagGK3C5ZXWii8jNadpf7) | [Havanna Winter](https://open.spotify.com/artist/3QWgcNcKtobgBgbhGoQXDC) | [Daddy's Kissing Santa Claus](https://open.spotify.com/album/0QQ1coSdVAAy67iH1gS7CQ) | 2:06 |
 | 45 | [Sleigh Ride](https://open.spotify.com/track/4s0tYJnBSApvZ2qfBZbbVP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Sleigh Ride](https://open.spotify.com/album/5mbIWRgO06zmSPPi9PL4Km) | 2:11 |
 | 46 | [It's Almost Christmas](https://open.spotify.com/track/4KZcqAcWleiOuz5y6cOdNE) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [It's Almost Christmas](https://open.spotify.com/album/2wxHZ6ht0voWVM2kb8nCiY) | 3:51 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 165 | [Last Christmas](https://open.spotify.com/track/2ADlV7RigsZc3Lo6kzGczk) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Last Christmas](https://open.spotify.com/album/6gWCpXtACkNTSchRJtD3oo) | 2:48 |
 | 166 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 |
 
-Snapshot ID: `MTY3MTYzODUxMCwwMDAwMDAwMDExZmFjODgxZTdhNjdlMTczZTg3ZmUyYzM0ZWE4MDE1`
+Snapshot ID: `MTY3MTYzODUxMCwwMDAwMDAwMDEyYTQyOWIwNGM2OTExODc5N2VkOWUzNTVjNThmMTBl`

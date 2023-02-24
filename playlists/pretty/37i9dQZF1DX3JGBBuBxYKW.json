@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 79755,
+  "num_followers": 79774,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDk0NzJiM2U1N2YxYWVkODEyMjk4YmI1YWRmYjEwM2I1",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGVjNTA4MzAxOGU2MDJkNjBjMDFhN2FkNzBkOWYxYjIx",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "La Voz de los Barrios",
-        "url": "https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo Quiroz",
-          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Poco Asado, Mucho Humo",
-      "url": "https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "La Chismeadera",
         "url": "https://open.spotify.com/album/5FdBKEn8oKz2ujvM7xmAZ2"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 219282,
       "name": "La Chismeadera",
       "url": "https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "La Voz de los Barrios",
+        "url": "https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Poco Asado, Mucho Humo",
+      "url": "https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Ya No Cabes en Mi Vida",
+        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "duration_ms": 211489,
+      "name": "Ya No Cabes en Mi Vida",
+      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Lo Que Tenias Conmigo",
         "url": "https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 233973,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/0cDY6YWjTuodhVZbMce478"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Ya No Cabes en Mi Vida",
-        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 211489,
-      "name": "Ya No Cabes en Mi Vida",
-      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Pecados Tropicales",
+        "url": "https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn"
+      },
+      "artists": [
+        {
+          "name": "Kumbia Queers",
+          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
+        }
+      ],
+      "duration_ms": 182338,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL"
       },
@@ -1039,6 +1055,22 @@
       "duration_ms": 212946,
       "name": "Cag\u00f3n",
       "url": "https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 222361,
+      "name": "No Te Ir\u00e1s",
+      "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1091,38 +1123,6 @@
       "duration_ms": 240091,
       "name": "Yo Tonta, No",
       "url": "https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 222361,
-      "name": "No Te Ir\u00e1s",
-      "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Pobre perro",
-        "url": "https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc"
-      },
-      "artists": [
-        {
-          "name": "Natalia Corbal\u00e1n",
-          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
-        }
-      ],
-      "duration_ms": 262480,
-      "name": "Si se fue, se fue",
-      "url": "https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy"
     }
   ],
   "unique_name": "Cumbieras",

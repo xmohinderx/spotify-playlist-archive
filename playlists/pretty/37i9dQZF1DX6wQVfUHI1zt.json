@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 186120,
+  "num_followers": 186208,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NjIwMiwwMDAwMDAwMDk4MmVkOWY4YTA4ZDY1MWQ1ZTNmYmQyODJjNzU2NWE3",
+  "snapshot_id": "MTY3MzI0NjIwMiwwMDAwMDAwMGUzZDNhYTUzMTUwOTk0OGJhYzMzOTY5ZTg4ZGRiNzM3",
   "tracks": [
     {
       "added_at": "2023-01-09 06:36:42",
@@ -1006,15 +1006,11 @@
         {
           "name": "David Lee Garza",
           "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
-        },
-        {
-          "name": "Los Musicales",
-          "url": "https://open.spotify.com/artist/71Vi0mhi8ZgBczjBNJlLah"
         }
       ],
-      "duration_ms": 206200,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy"
+      "duration_ms": 194013,
+      "name": "Al Partir",
+      "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -1126,11 +1122,15 @@
         {
           "name": "David Lee Garza",
           "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+        },
+        {
+          "name": "Los Musicales",
+          "url": "https://open.spotify.com/artist/71Vi0mhi8ZgBczjBNJlLah"
         }
       ],
-      "duration_ms": 194013,
-      "name": "Al Partir",
-      "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
+      "duration_ms": 206200,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy"
     },
     {
       "added_at": "2023-01-09 06:36:42",

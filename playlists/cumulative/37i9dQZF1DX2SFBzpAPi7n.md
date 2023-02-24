@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Dvwn\(다운\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LUCY\) \(핫한 국내 록 음악을 만나보세요!\)
 
-456 songs - 1 day 4 hr 6 min
+458 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Because it’ll be faster for you to forget me than me loving you](https://open.spotify.com/track/7veL3B4K9oQB9VnyLtuPJW) | [from20](https://open.spotify.com/artist/16ODiemwC9iXaQQ7AQBVnt) | [Because it’ll be faster for you to forget me than me loving you](https://open.spotify.com/album/1w0r5U0Sl7YqvdKrtzXROQ) | 3:11 | 2022-04-22 | 2022-07-22 |
 | [BICCOY \(Baby I Can′t Concentrate On You\)](https://open.spotify.com/track/39ujFBADdM2S4XyFF48mzc) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [\[LIFE AFTER\]](https://open.spotify.com/album/3bAEQ8KYhz99OWFLGWE2Oy) | 3:11 | 2022-06-13 | 2022-06-16 |
 | [Bichulae \(feat\. Luli Lee\)](https://open.spotify.com/track/0Ygqbr8k7lp9VQpmRWVkzY) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL), [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Bichulae](https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof) | 3:09 | 2022-06-23 | 2022-07-19 |
-| [Blessed \(Punk Tech\-XI Remix\)](https://open.spotify.com/track/2Waqgry98Xo11k2LdArGL0) | [D'scoTech\-XI](https://open.spotify.com/artist/3FWym5aKInnu807CBuJhGA), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [DTX 1st : Blessed ride](https://open.spotify.com/album/6qHCN2r5Y8smeXRDhkT5eS) | 3:03 | 2023-02-14 |  |
+| [Blessed \(Punk Tech\-XI Remix\)](https://open.spotify.com/track/2Waqgry98Xo11k2LdArGL0) | [D'scoTech\-XI](https://open.spotify.com/artist/3FWym5aKInnu807CBuJhGA), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [DTX 1st : Blessed ride](https://open.spotify.com/album/6qHCN2r5Y8smeXRDhkT5eS) | 3:03 | 2023-02-14 | 2023-02-24 |
 | [Bloomer](https://open.spotify.com/track/53J8QLyMIkwMwRVLKDkiFM) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Bloomer](https://open.spotify.com/album/14g0sNqOr1UXqvXCSpdmkL) | 4:24 | 2022-07-04 | 2022-07-23 |
 | [Blue Voyage](https://open.spotify.com/track/6s1vHqyxFQKPqAhMwHVZyT) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Trip:Tape \#03](https://open.spotify.com/album/2nX3XXhjp9ME34rATFEWk9) | 3:09 | 2022-06-03 | 2022-07-28 |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2022-04-12 |  |
@@ -340,7 +340,7 @@
 | [Slainte!](https://open.spotify.com/track/5OvS0h5GTsVkyovheeb6g8) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [PLAYLIST SEASON2 \(Original Soundtrack\)](https://open.spotify.com/album/1LCTXXqbcyoffo0HpBA7co) | 3:38 | 2022-12-22 | 2023-01-11 |
 | [sleep walking](https://open.spotify.com/track/03WwZjnTBrw9Vohm16So6Q) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [sleep walking](https://open.spotify.com/album/05YBRBySSq1YJfBhc1Lk4M) | 3:47 | 2023-01-16 | 2023-01-27 |
 | [sleeplessness](https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [sleeplessness](https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC) | 4:53 | 2022-04-22 | 2022-07-24 |
-| [Smokenshot \(feat\. Jang il hyun\)](https://open.spotify.com/track/4M6bgUTUp2JxLdZMLtoTBr) | [SAMUK](https://open.spotify.com/artist/7oXwjmqKXdkQDs6HP2k77H), [Moonshot](https://open.spotify.com/artist/6RJHpycsLTaI6lAtDmVzQ6), [장일현](https://open.spotify.com/artist/256o8MkuNTMMFG2CwJ89Er) | [29:30](https://open.spotify.com/album/74ThytV3fLNHlu6byyAedJ) | 3:29 | 2023-02-14 |  |
+| [Smokenshot \(feat\. Jang il hyun\)](https://open.spotify.com/track/4M6bgUTUp2JxLdZMLtoTBr) | [SAMUK](https://open.spotify.com/artist/7oXwjmqKXdkQDs6HP2k77H), [Moonshot](https://open.spotify.com/artist/6RJHpycsLTaI6lAtDmVzQ6), [장일현](https://open.spotify.com/artist/256o8MkuNTMMFG2CwJ89Er) | [29:30](https://open.spotify.com/album/74ThytV3fLNHlu6byyAedJ) | 3:29 | 2023-02-14 | 2023-02-24 |
 | [Snooze](https://open.spotify.com/track/46gDDSAfLO6u6bJZokt5ka) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Snooze](https://open.spotify.com/album/3VUJRB3DuYAdrubSXwzH7e) | 4:52 | 2022-04-12 | 2022-07-28 |
 | [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 | 2022-04-21 | 2023-01-08 |
 | [sorry](https://open.spotify.com/track/54SuHqxVjZVNDyIUVpSgpJ) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/0HIDsIWC43WiecL3qO7IUP) | 3:35 | 2022-04-12 | 2022-07-22 |
@@ -397,6 +397,7 @@
 | [Tremolo](https://open.spotify.com/track/1TndoyXL6C0Mio69RAQLhR) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [Tremolo](https://open.spotify.com/album/7g0jhiGnJvAMBQ6vRQFAPp) | 4:54 | 2022-07-22 | 2022-07-24 |
 | [TROUBLE MAKER](https://open.spotify.com/track/05p6Ez6LMSZm6Quhb0QhLj) | [901DCOLA](https://open.spotify.com/artist/0OvaIuuU6DY7SRh0Gq9MUv) | [TROUBLE MAKER](https://open.spotify.com/album/53gExAk44UuhdZLKIc3q7l) | 3:30 | 2022-05-11 | 2022-07-02 |
 | [Twilight](https://open.spotify.com/track/6cVJX9UtgpKipNUCjpPJG8) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Twilight](https://open.spotify.com/album/4JMRCWEQ9RGYs1ta3YWU5c) | 4:43 | 2022-05-24 | 2022-06-14 |
+| [Unbelievable](https://open.spotify.com/track/6q4L77QLqOzilFDrLCWc5a) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSERT COIN](https://open.spotify.com/album/1IcPMPH0AAF4WKoXlMAhod) | 3:57 | 2023-02-23 |  |
 | [Uncertainty Principle \(Feat\. Dawon\)](https://open.spotify.com/track/0qEt2Iw9yurShrf7fEjSut) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 31](https://open.spotify.com/album/6XqtegrzV6dqdPu35TBDtJ) | 2:49 | 2022-04-21 | 2022-07-28 |
 | [Ungodly Hour](https://open.spotify.com/track/3mB2Avm1nBMtxpZumvmdVy) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Ungodly Hour](https://open.spotify.com/album/1HEcdNKpssVwc7L25PTiul) | 2:59 | 2022-07-08 | 2022-07-29 |
 | [Unhappiness](https://open.spotify.com/track/3o1Myd7WTxfeK49bRjRmPh) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [Unhappiness](https://open.spotify.com/album/3eC4GHAWS2In8EyyNphHus) | 4:12 | 2023-01-26 | 2023-02-11 |
@@ -406,6 +407,7 @@
 | [Violet](https://open.spotify.com/track/3vwtmExA3wwbr4GI5KvLkC) | [Minhye J](https://open.spotify.com/artist/2E2b8xg4MmesEDv6QKZRiy) | [Violet](https://open.spotify.com/album/5sVqYLGmHA96l13kAUEVYv) | 4:20 | 2022-04-22 | 2022-06-08 |
 | [VOID](https://open.spotify.com/track/0keNzrJRUOBzewGHOrtSH7) | [RECORDBELL](https://open.spotify.com/artist/4PW6o9Gy6TZqrxpY6rHo8L) | [VOID](https://open.spotify.com/album/6ZIJNzoZIXjogl8iOinq3g) | 3:38 | 2022-04-22 | 2022-05-10 |
 | [Waiting For Your Calling Back](https://open.spotify.com/track/6GpyKE5T9si1V5QJMR6ra7) | [Sultan of the Disco](https://open.spotify.com/artist/2OlCSUqTMqHguyNtdE0mdv) | [Waiting For Your Calling Back](https://open.spotify.com/album/61E8qZbwN805gq18noEjFZ) | 3:58 | 2022-07-08 | 2022-07-10 |
+| [walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/track/3jXJmRPGuCkkq3P6D9apMT) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB), [kim seungyoon](https://open.spotify.com/artist/4JLS2R4A5ob8Fra7UpUtBI) | [walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/album/1iLbD5VKkdQPEYBcygEokK) | 3:18 | 2023-02-23 |  |
 | [War](https://open.spotify.com/track/5TV2bxWF3YZsjMQk2vaULt) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [War](https://open.spotify.com/album/02JAq1LeSVB6WMqgctzmWB) | 4:46 | 2022-04-12 | 2022-07-28 |
 | [WatchOut](https://open.spotify.com/track/5KbCS44g1kvV6zVXe29NzQ) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Chil](https://open.spotify.com/album/2RTfaQzsiBOgVb1WlUXlwM) | 2:57 | 2022-10-01 | 2022-10-19 |
 | [We are](https://open.spotify.com/track/7urVxZOTjXnk41uyX7kFOo) | [Kim Ki Tae](https://open.spotify.com/artist/2DT5Ql0hYDhX2PUF6q15US) | [Brain Cooperation \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/7kzPYujOxWaZhNnlKIS5LP) | 3:19 | 2023-01-14 | 2023-01-26 |

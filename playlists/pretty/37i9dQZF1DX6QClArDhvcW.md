@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,370 likes - 206 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,438 likes - 206 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,7 +177,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 167 | [Essence](https://open.spotify.com/track/6TsfMWf0hyOq0ReOC1tPo2) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Essence](https://open.spotify.com/album/0ufT8iY30Fvqvr5DAU8LOw) | 2:36 |
 | 168 | [Mojo Verde](https://open.spotify.com/track/7C5rBLWSf3LGhzdDRtc6N0) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4) | [Mojo Verde](https://open.spotify.com/album/2bNT9ISI6uvOBtJfCvPyqi) | 2:07 |
 | 169 | [i moved yesterday](https://open.spotify.com/track/3tfgAy6ByGnENx1ioCvY8N) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [chio](https://open.spotify.com/artist/62yapIXWEg0Wx5zvYM4jLU) | [i moved yesterday](https://open.spotify.com/album/0apurRD8BbhrffPPGRDqjo) | 2:08 |
-| 170 | [Vanilla Envelopes](https://open.spotify.com/track/6M9evzQ2VJWR9LQgRqQ0GH) | [Xsist](https://open.spotify.com/artist/5UXNo7yX1QsF9VkPVCNKxW) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:43 |
+| 170 | [Vanilla Envelopes](https://open.spotify.com/track/6M9evzQ2VJWR9LQgRqQ0GH) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:43 |
 | 171 | [play me](https://open.spotify.com/track/20iCDmodyMCKSpNpoCus35) | [yumiyumi](https://open.spotify.com/artist/7Cp3qOemuJmuqdD7qnL780) | [play me](https://open.spotify.com/album/0jFczI9RFaTMEkgF6wJGnc) | 2:17 |
 | 172 | [15Volt](https://open.spotify.com/track/16vvKBmLAsBmimGSBXNSO0) | [Konstante](https://open.spotify.com/artist/77ihcXsqFYCp6FPsQgTJes), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [15Volt](https://open.spotify.com/album/3JH0cmd5wwuUS2iK48zk5Q) | 1:53 |
 | 173 | [Lycium](https://open.spotify.com/track/6UN9NdeZ6xoVrTeXOcgj8t) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz), [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [Lycium](https://open.spotify.com/album/5auTxR0jOmqgaeEhNC368p) | 2:15 |

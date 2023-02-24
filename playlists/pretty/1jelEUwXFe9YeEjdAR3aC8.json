@@ -1,12 +1,12 @@
 {
   "description": "Chill indie music. Cover: Rene\u00e9 Rapp",
-  "num_followers": 114594,
+  "num_followers": 114596,
   "original_name": "Indie Chill",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "Nzc5OCxlMjdiOWYzOWU3ZTgwOTVjNmQ1NjAwNTU5OWI4ODRhMDZkOWE5ZDMw",
+  "snapshot_id": "Nzc5OSxlNWEyYWM3NzU0ZTlkM2Y2MDgzMzMwMjQ1MWM1YTQ2ODc1ZDMyNjdm",
   "tracks": [
     {
       "added_at": "2023-02-22 17:37:48",
@@ -399,6 +399,26 @@
       "duration_ms": 152437,
       "name": "Venting to Strangers",
       "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
+    },
+    {
+      "added_at": "2023-02-23 10:30:38",
+      "album": {
+        "name": "labyrinth",
+        "url": "https://open.spotify.com/album/5QaITPB0fRNwrTGQkqzNzF"
+      },
+      "artists": [
+        {
+          "name": "heimlich",
+          "url": "https://open.spotify.com/artist/1kMXJQzp4rZtPvmRbIgKIZ"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "labyrinth",
+      "url": "https://open.spotify.com/track/3qbzROYNqCrv7hAPjFKzHP"
     },
     {
       "added_at": "2023-02-22 17:37:48",

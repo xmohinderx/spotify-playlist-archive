@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,461 likes - 100 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,682 likes - 100 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 27 | [Little B's Poem \- Remastered 1994](https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 5:11 |
 | 28 | [Gato's Gift](https://open.spotify.com/track/4askDmHBmHLiKnd96n13FZ) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Who Are You?](https://open.spotify.com/album/4xq8VBZYwExP31yuSidyZg) | 6:08 |
 | 29 | [Peace](https://open.spotify.com/track/3yPmDN2p5QxPOn1UVwISLv) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 5:15 |
-| 30 | [It Never Entered My Mind \- Remastered](https://open.spotify.com/track/47zglRNpxJfxadAe3C6xQe) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Miles Davis \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 4:03 |
+| 30 | [It Never Entered My Mind \- Remastered](https://open.spotify.com/track/47zglRNpxJfxadAe3C6xQe) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Volume 2 \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 4:03 |
 | 31 | [Autumn Leaves](https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 10:59 |
 | 32 | [Body And Soul](https://open.spotify.com/track/3u2Y2K3dlBY5QRIwdTnCHu) | [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [Modernistic](https://open.spotify.com/album/7rPdZr6OPrShZWy3aob80V) | 3:46 |
 | 33 | [Cristo Redentor \- Remastered](https://open.spotify.com/track/0Xfq6BeOHdzf16gk9y8a1P) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [A New Perspective \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/3LG1c3DYgaEtCxea2z7ZSa) | 5:43 |

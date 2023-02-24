@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni da gridare e in cover i paramore \u2764\ufe0f\u200d\ud83e\ude79 ",
+  "description": "\ud83c\udfb8 canzoni da gridare e in cover simone panetti \ud83c\udfb8 ",
   "name": "sanguegiovane",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 149629,
       "name": "0 SENTIMENTO",
       "url": "https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 122827,
       "name": "</3",
       "url": "https://open.spotify.com/track/2r5szHBfQFSHRREVvL0XrJ"
@@ -796,6 +796,24 @@
       "duration_ms": 178000,
       "name": "BAMBINI VECCHI (Fantasy)",
       "url": "https://open.spotify.com/track/4Yy7MgDF6Zz32x0AE4dy2Q"
+    },
+    {
+      "album": {
+        "name": "Bambino",
+        "url": "https://open.spotify.com/album/7Dg9xWHAxs8XbGmSCOIhfd"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Yung",
+          "url": "https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Bambino",
+      "url": "https://open.spotify.com/track/5PN45xdNO9aTq1zhMaSS1H"
     },
     {
       "album": {
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 186357,
       "name": "fmk (with blackbear) - messier",
       "url": "https://open.spotify.com/track/5CO8EbwcxnvA28O7NCDKfJ"
@@ -2594,6 +2612,24 @@
       "duration_ms": 171000,
       "name": "Fuori Testa",
       "url": "https://open.spotify.com/track/431N2fIwIwVovUXwdRdRjG"
+    },
+    {
+      "album": {
+        "name": "FUORIDIME",
+        "url": "https://open.spotify.com/album/0adWUYu4glGE02GByMewcd"
+      },
+      "artists": [
+        {
+          "name": "TRXGEDY",
+          "url": "https://open.spotify.com/artist/3mGyYTyj35j8NaKCQ5qHoH"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155138,
+      "name": "FUORIDIME",
+      "url": "https://open.spotify.com/track/6ZC2Sv5co4loN56vNCu6P3"
     },
     {
       "album": {
@@ -3032,20 +3068,12 @@
         {
           "name": "100 gecs",
           "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
         }
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 187944,
+      "duration_ms": 187373,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
     },
@@ -3458,7 +3486,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 128181,
       "name": "Kiss Me (Berlin)",
       "url": "https://open.spotify.com/track/2umITcvfySi6ZgPZl7KlZl"
@@ -4001,6 +4029,32 @@
     },
     {
       "album": {
+        "name": "CRESCENDO",
+        "url": "https://open.spotify.com/album/3C0SlEBi0H4vRB9Ed5nbr8"
+      },
+      "artists": [
+        {
+          "name": "Lil Kvneki",
+          "url": "https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn"
+        },
+        {
+          "name": "The American Boyfriends",
+          "url": "https://open.spotify.com/artist/3jmCi2B1XY7vTC1fRtbEzS"
+        },
+        {
+          "name": "Drast",
+          "url": "https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184253,
+      "name": "Luned\u00ec (feat. Drast)",
+      "url": "https://open.spotify.com/track/0T64e7lVwIVavM829e0PPZ"
+    },
+    {
+      "album": {
         "name": "Ma non erano te",
         "url": "https://open.spotify.com/album/2XaVVwShBDQsoF20aHYGFM"
       },
@@ -4345,6 +4399,24 @@
     },
     {
       "album": {
+        "name": "Musica dal Morto - MARTINI",
+        "url": "https://open.spotify.com/album/1uLOH4euRLrajyAufWleGE"
+      },
+      "artists": [
+        {
+          "name": "Vipra",
+          "url": "https://open.spotify.com/artist/6RubjTZ123VH3iDaGbi7hM"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "Musica dal Morto - MARTINI",
+      "url": "https://open.spotify.com/track/2SQcvLt16hYW43FkxKHorC"
+    },
+    {
+      "album": {
         "name": "Mutande",
         "url": "https://open.spotify.com/album/0Df1BnTZBxAVNaG4cEvKIs"
       },
@@ -4604,6 +4676,24 @@
       "duration_ms": 184172,
       "name": "Non mi fa pi\u00f9 effetto",
       "url": "https://open.spotify.com/track/6pThYLxwNWJqHwxDLaBoWw"
+    },
+    {
+      "album": {
+        "name": "non mi va",
+        "url": "https://open.spotify.com/album/0oWBWQu75EwhxAnyN7AQoC"
+      },
+      "artists": [
+        {
+          "name": "Dreno",
+          "url": "https://open.spotify.com/artist/2fUb7chMl4K5DQ3NwX2GgW"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168105,
+      "name": "non mi va",
+      "url": "https://open.spotify.com/track/3et88aHFd0OwIR3vfzvGaB"
     },
     {
       "album": {
@@ -5134,7 +5224,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 167388,
       "name": "Poche chiacchiere",
       "url": "https://open.spotify.com/track/3RFFb5SmfDj33BQ5ANfB2B"
@@ -5736,7 +5826,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 192440,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
@@ -5915,6 +6005,24 @@
     },
     {
       "album": {
+        "name": "SE PIANGI TROPPO",
+        "url": "https://open.spotify.com/album/1SWbWNLMs8v0sJ0qrRQcif"
+      },
+      "artists": [
+        {
+          "name": "3FECTA",
+          "url": "https://open.spotify.com/artist/39hxE9XVuYREbhZuwoo4l4"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173566,
+      "name": "SE PIANGI TROPPO",
+      "url": "https://open.spotify.com/track/0uWnenWV9nTaMxqTs8vDbw"
+    },
+    {
+      "album": {
         "name": "SEI UNA BAMBINA",
         "url": "https://open.spotify.com/album/6jbws4e3lWW3yTolMwMrjG"
       },
@@ -5948,6 +6056,28 @@
       "duration_ms": 155003,
       "name": "seiore",
       "url": "https://open.spotify.com/track/2OWZDqOr4NgKGAMItCUAt0"
+    },
+    {
+      "album": {
+        "name": "Sempre Pi\u00f9 Sad",
+        "url": "https://open.spotify.com/album/12ZdOJivQx0sWX47pibeKB"
+      },
+      "artists": [
+        {
+          "name": "Jack Out",
+          "url": "https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI"
+        },
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179948,
+      "name": "Sempre Pi\u00f9 Sad",
+      "url": "https://open.spotify.com/track/5MmRzShl2D8yjNFKzqtQK4"
     },
     {
       "album": {
@@ -6141,6 +6271,28 @@
     },
     {
       "album": {
+        "name": "Siamo Droga",
+        "url": "https://open.spotify.com/album/3mQjLB6dDPms4MuYqF6ZWP"
+      },
+      "artists": [
+        {
+          "name": "NEW OCEAN",
+          "url": "https://open.spotify.com/artist/7q1cmwcWRyoXFRqgiYiAYi"
+        },
+        {
+          "name": "ALBE.x",
+          "url": "https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139607,
+      "name": "SIAMO DROGA - Remix",
+      "url": "https://open.spotify.com/track/5WslM26ntpzasnzDtO0WuT"
+    },
+    {
+      "album": {
         "name": "Silvia (Sally)",
         "url": "https://open.spotify.com/album/69HThb2uUU7lraTA78Ksug"
       },
@@ -6152,7 +6304,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 167062,
       "name": "Silvia (Sally)",
       "url": "https://open.spotify.com/track/6sPqXjGIOkWvHG7rnkMHvh"
@@ -6304,7 +6456,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 203507,
       "name": "Solo come un cane",
       "url": "https://open.spotify.com/track/7uqxz5qUAtgugvxlpQ0EA2"
@@ -6936,7 +7088,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 137625,
       "name": "TAGLIA",
       "url": "https://open.spotify.com/track/2z6SfAnqlt26KUiuxF0LLL"
@@ -7094,9 +7246,27 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "date_added": "2023-02-16",
+      "date_added": "2023-02-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"
+    },
+    {
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
       "duration_ms": 206700,
       "name": "This Is Why",
       "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
@@ -7450,6 +7620,24 @@
       "duration_ms": 147535,
       "name": "u turn me on (but u give me depression)",
       "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
+    },
+    {
+      "album": {
+        "name": "Uccidere Uccidere Uccidere",
+        "url": "https://open.spotify.com/album/4lv3tHyPqdMVVSiOEmnp6k"
+      },
+      "artists": [
+        {
+          "name": "Simone Panetti",
+          "url": "https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148352,
+      "name": "Uccidere Uccidere Uccidere",
+      "url": "https://open.spotify.com/track/6T1D8AUcXBxkX9hkNvMvly"
     },
     {
       "album": {

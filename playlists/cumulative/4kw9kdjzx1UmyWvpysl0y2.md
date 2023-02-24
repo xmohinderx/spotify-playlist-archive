@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-415 songs - 1 day 0 hr 20 min
+416 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Arcus](https://open.spotify.com/track/4R7b39fZnotCrzV2CTQTvC) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX) | [Nimbus](https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx) | 3:59 | 2022-11-14 | 2022-11-16 |
 | [Arise](https://open.spotify.com/track/5sYFhAc4iVN7qEXgEK0Bhf) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [Arise](https://open.spotify.com/album/27XE3ZqaYVHk90dFLDJMLv) | 3:16 | 2022-08-03 | 2022-10-19 |
 | [Arms Race](https://open.spotify.com/track/7eHBCHw9oLRYv2zlSDdY9Q) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Arms Race](https://open.spotify.com/album/08McMk6ovWxi4Ww51wARoZ) | 3:59 | 2022-01-18 | 2022-03-26 |
-| [Around You](https://open.spotify.com/track/54EKXaigl9tDnVZINeLKtO) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA) | [Around You](https://open.spotify.com/album/4ywO9E6gyjRuFUBa2FenKj) | 3:09 | 2022-11-29 |  |
+| [Around You](https://open.spotify.com/track/54EKXaigl9tDnVZINeLKtO) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA) | [Around You](https://open.spotify.com/album/4ywO9E6gyjRuFUBa2FenKj) | 3:09 | 2022-11-29 | 2023-02-24 |
 | [As I Wander](https://open.spotify.com/track/4z9xtib1MazaujgJmSBxUB) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [As I Wander](https://open.spotify.com/album/4vimkzGnMvAaGc1eqtzx2u) | 2:48 | 2022-03-16 | 2022-05-28 |
 | [Aurora](https://open.spotify.com/track/0D2DNDEPGRTyCMtY5bS8Fr) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Aurora](https://open.spotify.com/album/3lURphuvwepjcCT8Dtqwwg) | 3:10 | 2022-06-22 | 2022-09-07 |
 | [Austrumi](https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Austrumi](https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si) | 3:41 | 2022-02-25 | 2022-05-07 |
@@ -131,6 +131,7 @@
 | [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 | 2023-01-31 |  |
 | [Faded](https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Faded](https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K) | 4:24 | 2022-03-30 | 2022-06-11 |
 | [Fall](https://open.spotify.com/track/4zh4Xvbh2FXYbWgY3eYm5C) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo), [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM) | [Fall](https://open.spotify.com/album/3rK8FMzL3ggRX8e8AaQSXE) | 3:00 | 2021-11-25 | 2022-03-02 |
+| [Fall Apart](https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Fall Apart](https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal) | 5:20 | 2023-02-23 |  |
 | [fallen](https://open.spotify.com/track/7aiv9KI14BSQ1syfHIvmdF) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu) | [fallen](https://open.spotify.com/album/0lV2fwEZ74jxwquxMxwWUc) | 2:36 | 2022-09-20 | 2022-11-15 |
 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 | 2022-01-21 | 2022-03-31 |
 | [Falling Apart \- Acoustic](https://open.spotify.com/track/5hdxWJkiBKH6STOH7na5zB) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart \(Acoustic\)](https://open.spotify.com/album/5uWAbKZAgeBkT8bHqJZHJV) | 2:56 | 2022-06-14 | 2022-08-26 |

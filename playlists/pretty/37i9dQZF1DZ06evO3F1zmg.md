@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,521 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,544 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 40 | [Bussin 2.0 \(with Saweetie\)](https://open.spotify.com/track/6xkbKc532RwCOQzcYlu7y4) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Bussin 2.0 \(with Saweetie\)](https://open.spotify.com/album/5IugVRf3MX2fKszvy4Eyt5) | 2:16 |
 | 41 | [Seesaw \(feat\. Saweetie\)](https://open.spotify.com/track/1rlASnWYQsgGz9g2YVCl6I) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Seesaw](https://open.spotify.com/album/0fR9mr0fEAvAlLl0Ks5E0B) | 3:44 |
 | 42 | [IDGAF \(feat\. Saweetie\)](https://open.spotify.com/track/2ry53n0NXbB4ZUJM1SP8Vc) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [IDGAF \(Remixes II\)](https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq) | 3:58 |
-| 43 | [One Night Ting \(feat\. Saweetie\)](https://open.spotify.com/track/0v3WvQ010FCs5IT1VvvHCr) | [Tai'Aysha](https://open.spotify.com/artist/2RY3ihP6cPwsuGv97SGWg2), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [One Night Ting \(feat\. Saweetie\)](https://open.spotify.com/album/5dzapwbVC7KYnvUB5zZlTB) | 2:24 |
-| 44 | [Risky \(feat\. Drakeo the Ruler\)](https://open.spotify.com/track/4Y0E52nss2ZybjhMpMHTT5) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 2:39 |
+| 43 | [Risky \(feat\. Drakeo the Ruler\)](https://open.spotify.com/track/4Y0E52nss2ZybjhMpMHTT5) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 2:39 |
+| 44 | [One Night Ting \(feat\. Saweetie\)](https://open.spotify.com/track/0v3WvQ010FCs5IT1VvvHCr) | [Tai'Aysha](https://open.spotify.com/artist/2RY3ihP6cPwsuGv97SGWg2), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [One Night Ting \(feat\. Saweetie\)](https://open.spotify.com/album/5dzapwbVC7KYnvUB5zZlTB) | 2:24 |
 | 45 | [GIVE IT TO EM \(feat\. Saweetie\)](https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:02 |
 | 46 | [HANDLE MY TRUTH](https://open.spotify.com/track/3zgBnJtjDRgGmkHjgUslEu) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE SINGLE LIFE](https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8) | 3:08 |
 | 47 | [Icy Chain](https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Icy Chain](https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5) | 1:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 49 | [Closer \- Remix](https://open.spotify.com/track/68BKZi6RpZ8DDq8nBZCFCJ) | [Museekal](https://open.spotify.com/artist/4gt6bXbC0BlAvjc46zBpMS), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(Remix\)](https://open.spotify.com/album/1FmGhe79Csw8lfBMa0QBag) | 2:58 |
 | 50 | [Pretty & Rich](https://open.spotify.com/track/41z1jdRoERVUz1MPtfSl14) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 1:46 |
 
-Snapshot ID: `Mjc5NTExODMsMDAwMDAwMDA4YjRjNTQ0OWE5YjYxZThhMGI4MmJiYzQ3MjFhY2I2NQ==`
+Snapshot ID: `Mjc5NTI2MTEsMDAwMDAwMDBjYzNhZTk3ZTZmMGUxZTAwYzJmNTFlOTA2Yjk4YjQxZg==`

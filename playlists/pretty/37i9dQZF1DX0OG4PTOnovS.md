@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 
 > The whole family can worship together with these upbeat, inspirational songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,830 likes - 64 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,851 likes - 64 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 少年ナイフ \(Shonen Knife \)
 
-514 songs - 1 day 4 hr 8 min
+515 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Carry on](https://open.spotify.com/track/5sIiN8iqkOF1PMkoyoXRtT) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [Carry on](https://open.spotify.com/album/3MrbnGTLDYhI4hSgs4SP5d) | 2:32 | 2022-05-12 | 2022-07-29 |
 | [Carry On](https://open.spotify.com/track/70gtaFoNImbXqKe3WKJdUV) | [Local Sound Style](https://open.spotify.com/artist/5pSklCda6nOLySukqnp886) | [All That Remains](https://open.spotify.com/album/6gWmIrKhTOmUbv5NLLnXp7) | 3:48 | 2022-05-19 | 2022-07-27 |
 | [CELEBRATION](https://open.spotify.com/track/1eHB8BTIR5OcrMb62Z1bkq) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CELEBRATION](https://open.spotify.com/album/5grADPBkuCUGm8U55EwOCY) | 3:58 | 2022-05-12 | 2022-07-28 |
-| [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 | 2022-05-12 |  |
+| [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 | 2022-05-12 | 2023-02-24 |
 | [Chain Reaction](https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:23 | 2022-05-12 | 2023-02-14 |
 | [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 | 2022-05-12 | 2022-11-13 |
 | [Chopped Grill Chicken](https://open.spotify.com/track/0KgDHXpxRbjpJVDzBbScCu) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Chopped Grill Chicken](https://open.spotify.com/album/5zXUaK0xAXkUJt6yqk2B5Y) | 1:46 | 2022-05-12 | 2022-07-25 |
@@ -339,6 +339,7 @@
 | [Tropical Days](https://open.spotify.com/track/3wIQFCAQ3oWx8ggPBGlvi4) | [See You Smile](https://open.spotify.com/artist/4ll5mBYeHlhg0R2fjwspPv) | [HYPE](https://open.spotify.com/album/3OP8h5RjyE4v2hazWAmaLa) | 3:05 | 2022-05-24 | 2022-07-18 |
 | [Tsunagari SUNSET](https://open.spotify.com/track/0T6XPgGcNJ6WwTnX7k70t9) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:51 | 2023-02-21 |  |
 | [turning point](https://open.spotify.com/track/3zSBhkgMc4H4wFvEKRb2AW) | [stack44](https://open.spotify.com/artist/4EOraZF0akqvGDt131ALIJ) | [clockwork](https://open.spotify.com/album/7Avr8T0Wu5GFpTVgb0AgHd) | 3:36 | 2022-05-17 | 2022-07-14 |
+| [UMA WITH A MISSION](https://open.spotify.com/track/76Kpt955dzeNTVpyIveNBO) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [UMA WITH A MISSION](https://open.spotify.com/album/3uWTEqofNs8cZ04WqdyQUF) | 3:34 | 2023-02-24 |  |
 | [UNITY](https://open.spotify.com/track/1FpsMVvNfyQyaJSbTIQ8ax) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [UNITY](https://open.spotify.com/album/4EWEV9iA8vxu53go2vt2kl) | 1:33 | 2022-06-28 | 2022-07-28 |
 | [Untitled](https://open.spotify.com/track/7HOFDidN6ny6236kuHJfaI) | [KICKASSRAY](https://open.spotify.com/artist/3kDn7aNNfO1sfrK5oCeI36) | [Hold Water EP](https://open.spotify.com/album/2tyiEdraFvdGSigC1dD0ZE) | 2:41 | 2022-05-19 | 2022-07-11 |
 | [Urakan.rana](https://open.spotify.com/track/0JlCdu2HaoYgHT7UyUnMFI) | [OVER LIMIT](https://open.spotify.com/artist/7sU3eIs2Sx9bz3afmehCmg) | [Urakan.rana](https://open.spotify.com/album/5hJ0MgDtFocwjJjinGlvxT) | 1:05 | 2022-11-01 | 2022-11-14 |

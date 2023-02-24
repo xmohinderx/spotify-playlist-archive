@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Deseando ver la luz",
+        "url": "https://open.spotify.com/album/40OhE5LijpvgkRcJFvD5tx"
+      },
+      "artists": [
+        {
+          "name": "Corizonas",
+          "url": "https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284034,
+      "name": "Deseando ver la luz",
+      "url": "https://open.spotify.com/track/2fX6lNgkU7QkQF86s2x8OJ"
+    },
+    {
+      "album": {
         "name": "Devil Came to Me",
         "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
       },
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 262626,
       "name": "Flojos de pantal\u00f3n",
       "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"

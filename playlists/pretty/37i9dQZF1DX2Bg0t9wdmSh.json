@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 2749,
+  "num_followers": 2764,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMDQ2YTJmNWZmN2QxMjI2Njk2ZDkzMjEwYWFjNjAyYWIw",
+  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMDBkNTM3NGYzNGU5ZWZlNjc1MzQ3MzgyM2ExYWU0YmM5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -607,30 +607,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Stay Down (with 6LACK & Young Thug)",
-        "url": "https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 169330,
-      "name": "Stay Down (with 6LACK & Young Thug)",
-      "url": "https://open.spotify.com/track/5PrUgp50eMSlL8oCF1tkQX"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Beat Box",
         "url": "https://open.spotify.com/album/3ZrmqgaJ6LzRstwWe3k9si"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 177158,
       "name": "Hit Bout It",
       "url": "https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Stay Down (with 6LACK & Young Thug)",
+        "url": "https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 169330,
+      "name": "Stay Down (with 6LACK & Young Thug)",
+      "url": "https://open.spotify.com/track/5PrUgp50eMSlL8oCF1tkQX"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -763,18 +763,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Just Cause Y'all Waited 2",
-        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
+        "name": "The Plugs I Met 2",
+        "url": "https://open.spotify.com/album/20XfOL0gmcOQhupwC2bMDj"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
         }
       ],
-      "duration_ms": 149066,
-      "name": "Broke Up In Miami",
-      "url": "https://open.spotify.com/track/4L1YERExL7737mCRSCuQxq"
+      "duration_ms": 141176,
+      "name": "When Tony Met Sosa",
+      "url": "https://open.spotify.com/track/4ahc42KacGWjE3j0DPNSK5"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -799,22 +803,18 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "The Plugs I Met 2",
-        "url": "https://open.spotify.com/album/20XfOL0gmcOQhupwC2bMDj"
+        "name": "Just Cause Y'all Waited 2",
+        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
       },
       "artists": [
         {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 141176,
-      "name": "When Tony Met Sosa",
-      "url": "https://open.spotify.com/track/4ahc42KacGWjE3j0DPNSK5"
+      "duration_ms": 149066,
+      "name": "Broke Up In Miami",
+      "url": "https://open.spotify.com/track/4L1YERExL7737mCRSCuQxq"
     },
     {
       "added_at": "2022-10-01 16:09:56",

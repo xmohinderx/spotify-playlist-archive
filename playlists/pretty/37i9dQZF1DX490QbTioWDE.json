@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra, Ke Personajes & La K'onga.",
-  "num_followers": 576397,
+  "num_followers": 576793,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0NzA3OSwwMDAwMDAwMDA3NTQ4ZTdhN2VlNzAwMjY5ZTNhZTg2YjljODExNTZh",
+  "snapshot_id": "MTY3NjY0NzA3OSwwMDAwMDAwMDQyMmZkNjYyMGM2ZjQzOTQ5YWUyOGEwNDhmYmQzN2I5",
   "tracks": [
     {
       "added_at": "2023-02-17 15:17:59",
@@ -919,26 +919,6 @@
     {
       "added_at": "2023-02-17 15:17:59",
       "album": {
-        "name": "No Seas Cruel",
-        "url": "https://open.spotify.com/album/3gWJonwG7QvCtRR7hjD2Fg"
-      },
-      "artists": [
-        {
-          "name": "Alberto Plaza",
-          "url": "https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 236165,
-      "name": "No Seas Cruel",
-      "url": "https://open.spotify.com/track/3lZivt5mGd2zxX1nXanxIU"
-    },
-    {
-      "added_at": "2023-02-17 15:17:59",
-      "album": {
         "name": "B\u00e9same Bonito (Cover) [En Vivo]",
         "url": "https://open.spotify.com/album/3pjmbJtNGm5Hkk1nvkhQZd"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 232032,
       "name": "B\u00e9same Bonito (Cover) - En Vivo",
       "url": "https://open.spotify.com/track/59Pu5MCWIYRfF2LSHmtOAc"
+    },
+    {
+      "added_at": "2023-02-17 15:17:59",
+      "album": {
+        "name": "No Seas Cruel",
+        "url": "https://open.spotify.com/album/3gWJonwG7QvCtRR7hjD2Fg"
+      },
+      "artists": [
+        {
+          "name": "Alberto Plaza",
+          "url": "https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 236165,
+      "name": "No Seas Cruel",
+      "url": "https://open.spotify.com/track/3lZivt5mGd2zxX1nXanxIU"
     },
     {
       "added_at": "2023-02-17 15:17:59",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-02-17 15:17:59",
       "album": {
+        "name": "Sigan Bailando",
+        "url": "https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 387552,
+      "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
+      "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"
+    },
+    {
+      "added_at": "2023-02-17 15:17:59",
+      "album": {
         "name": "Qui\u00e9reme (Cuarteto)",
         "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 336000,
       "name": "Qui\u00e9reme - Cuarteto",
       "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
-    },
-    {
-      "added_at": "2023-02-17 15:17:59",
-      "album": {
-        "name": "Sigan Bailando",
-        "url": "https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 387552,
-      "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
-      "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"
     },
     {
       "added_at": "2023-02-17 15:17:59",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-02-17 15:17:59",
       "album": {
-        "name": "Arriba las Palmas (En Vivo)",
-        "url": "https://open.spotify.com/album/0VpKJA0JWIwIReM53ay6hs"
-      },
-      "artists": [
-        {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
-        }
-      ],
-      "duration_ms": 68300,
-      "name": "Violeta - En Vivo",
-      "url": "https://open.spotify.com/track/7p2AoA6h2D8Cfgzau5DDTo"
-    },
-    {
-      "added_at": "2023-02-17 15:17:59",
-      "album": {
         "name": "Todo de T\u00ed",
         "url": "https://open.spotify.com/album/1vKjLZv22Uvl7CHtgLfGK4"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2023-02-17 15:17:59",
       "album": {
+        "name": "Arriba las Palmas (En Vivo)",
+        "url": "https://open.spotify.com/album/0VpKJA0JWIwIReM53ay6hs"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "duration_ms": 68300,
+      "name": "Violeta - En Vivo",
+      "url": "https://open.spotify.com/track/7p2AoA6h2D8Cfgzau5DDTo"
+    },
+    {
+      "added_at": "2023-02-17 15:17:59",
+      "album": {
         "name": "Eran dos locos de amor",
         "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
       },
@@ -1507,22 +1507,6 @@
       "duration_ms": 169496,
       "name": "Eran dos locos de amor",
       "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
-    },
-    {
-      "added_at": "2023-02-17 15:17:59",
-      "album": {
-        "name": "Para Rato!",
-        "url": "https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ"
-      },
-      "artists": [
-        {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
-        }
-      ],
-      "duration_ms": 227306,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz"
     },
     {
       "added_at": "2023-02-17 15:17:59",
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2023-02-17 15:17:59",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
+        "name": "Para Rato!",
+        "url": "https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ"
       },
       "artists": [
         {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
         }
       ],
-      "duration_ms": 168757,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
+      "duration_ms": 227306,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz"
     },
     {
       "added_at": "2023-02-17 15:17:59",
@@ -1591,34 +1575,18 @@
     {
       "added_at": "2023-02-17 15:17:59",
       "album": {
-        "name": "Tiburona",
-        "url": "https://open.spotify.com/album/7EKTg91qlDQ6kctAx4vRVw"
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
       },
       "artists": [
         {
-          "name": "Sabroso",
-          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
         }
       ],
-      "duration_ms": 213697,
-      "name": "Tiburona",
-      "url": "https://open.spotify.com/track/5vvVGXpdev0tp8fFP5uCj1"
-    },
-    {
-      "added_at": "2023-02-17 15:17:59",
-      "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Fina",
-      "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
+      "duration_ms": 168757,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
     },
     {
       "added_at": "2023-02-17 15:17:59",
@@ -1655,54 +1623,34 @@
     {
       "added_at": "2023-02-17 15:17:59",
       "album": {
-        "name": "A Cu\u00e1nto Me Qued\u00e9",
-        "url": "https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g"
+        "name": "Tiburona",
+        "url": "https://open.spotify.com/album/7EKTg91qlDQ6kctAx4vRVw"
       },
       "artists": [
         {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
         }
       ],
-      "duration_ms": 196970,
-      "name": "A Cu\u00e1nto Me Qued\u00e9",
-      "url": "https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR"
+      "duration_ms": 213697,
+      "name": "Tiburona",
+      "url": "https://open.spotify.com/track/5vvVGXpdev0tp8fFP5uCj1"
     },
     {
       "added_at": "2023-02-17 15:17:59",
       "album": {
-        "name": "Cuarteto del Bueno",
-        "url": "https://open.spotify.com/album/67RyrSXnNtDANyw4j6yK07"
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg"
       },
       "artists": [
         {
-          "name": "Cuarteto del Bueno",
-          "url": "https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor"
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
         }
       ],
-      "duration_ms": 229564,
-      "name": "Intento",
-      "url": "https://open.spotify.com/track/4wN40IP16eyq2csEJhQ8SE"
-    },
-    {
-      "added_at": "2023-02-17 15:17:59",
-      "album": {
-        "name": "CHANGA CHANGA",
-        "url": "https://open.spotify.com/album/4WzDDha7t7nCAOuhVrCCOo"
-      },
-      "artists": [
-        {
-          "name": "Nolberto Al k la",
-          "url": "https://open.spotify.com/artist/0y2UIyqXN4KctxsMLgSMhm"
-        },
-        {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        }
-      ],
-      "duration_ms": 172183,
-      "name": "CHANGA CHANGA",
-      "url": "https://open.spotify.com/track/1PXGxJyHj8mGqnoOOh3Qy6"
+      "duration_ms": 162253,
+      "name": "Fina",
+      "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
     },
     {
       "added_at": "2023-02-17 15:17:59",
@@ -1723,6 +1671,22 @@
       "duration_ms": 213920,
       "name": "No Dire Que Si",
       "url": "https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV"
+    },
+    {
+      "added_at": "2023-02-17 15:17:59",
+      "album": {
+        "name": "Cuarteto del Bueno",
+        "url": "https://open.spotify.com/album/67RyrSXnNtDANyw4j6yK07"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto del Bueno",
+          "url": "https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor"
+        }
+      ],
+      "duration_ms": 229564,
+      "name": "Intento",
+      "url": "https://open.spotify.com/track/4wN40IP16eyq2csEJhQ8SE"
     },
     {
       "added_at": "2023-02-17 15:17:59",
@@ -1759,18 +1723,38 @@
     {
       "added_at": "2023-02-17 15:17:59",
       "album": {
-        "name": "Que No Le Hago Falta",
-        "url": "https://open.spotify.com/album/2vHCWKaLfUxtlVU35XHo7H"
+        "name": "CHANGA CHANGA",
+        "url": "https://open.spotify.com/album/4WzDDha7t7nCAOuhVrCCOo"
       },
       "artists": [
         {
-          "name": "El Rejunte",
-          "url": "https://open.spotify.com/artist/72tGvtaVlYb6MDEc486udG"
+          "name": "Nolberto Al k la",
+          "url": "https://open.spotify.com/artist/0y2UIyqXN4KctxsMLgSMhm"
+        },
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
         }
       ],
-      "duration_ms": 256914,
-      "name": "Que No Le Hago Falta",
-      "url": "https://open.spotify.com/track/0Loq4vKgTxRdQqT4fJIk8I"
+      "duration_ms": 172183,
+      "name": "CHANGA CHANGA",
+      "url": "https://open.spotify.com/track/1PXGxJyHj8mGqnoOOh3Qy6"
+    },
+    {
+      "added_at": "2023-02-17 15:17:59",
+      "album": {
+        "name": "A Cu\u00e1nto Me Qued\u00e9",
+        "url": "https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 196970,
+      "name": "A Cu\u00e1nto Me Qued\u00e9",
+      "url": "https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR"
     },
     {
       "added_at": "2023-02-17 15:17:59",
@@ -1787,6 +1771,22 @@
       "duration_ms": 227866,
       "name": "Dame un Poco Mas",
       "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
+    },
+    {
+      "added_at": "2023-02-17 15:17:59",
+      "album": {
+        "name": "Que No Le Hago Falta",
+        "url": "https://open.spotify.com/album/2vHCWKaLfUxtlVU35XHo7H"
+      },
+      "artists": [
+        {
+          "name": "El Rejunte",
+          "url": "https://open.spotify.com/artist/72tGvtaVlYb6MDEc486udG"
+        }
+      ],
+      "duration_ms": 256914,
+      "name": "Que No Le Hago Falta",
+      "url": "https://open.spotify.com/track/0Loq4vKgTxRdQqT4fJIk8I"
     }
   ],
   "unique_name": "100% Cuarteto",

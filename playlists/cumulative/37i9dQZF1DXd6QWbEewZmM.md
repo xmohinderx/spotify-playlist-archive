@@ -4,7 +4,7 @@
 
 > IYKYK 💔🥀
 
-306 songs - 17 hr 33 min
+308 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 | 2022-09-23 |  |
 | [24 Horas](https://open.spotify.com/track/0T8lt51Lvj1OAj750PH6X9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 5:17 | 2022-02-11 | 2022-07-29 |
 | [2:26am](https://open.spotify.com/track/17FDxgsz6jzkAwIs2cULWO) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [2:26am](https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF) | 3:21 | 2022-07-22 | 2023-01-26 |
-| [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 | 2023-01-27 | 2023-02-21 |
+| [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 | 2023-01-27 |  |
 | [772 Love \- Remix](https://open.spotify.com/track/2LfiTqcOuH5o4TfIOCuGX3) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Vanesita](https://open.spotify.com/artist/35VZmpEAaX3Z8UP8Mps5sm) | [772 Love \(Remix\)](https://open.spotify.com/album/3JtQYgtu4EWsuFk3tCbQOY) | 3:12 | 2022-01-01 |  |
 | [A Lo Mejor](https://open.spotify.com/track/2IKqLawv6gYOhhunhgjWCl) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz) | [Triste Realidad](https://open.spotify.com/album/0Mvrm2RYURHAVzT5C81v48) | 4:41 | 2022-02-04 | 2022-07-23 |
 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 | 2022-01-01 |  |
@@ -68,7 +68,7 @@
 | [Dulcito e Coco](https://open.spotify.com/track/3tD4abUOGHZHeL1eOl0gyy) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU), [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Dulcito e Coco](https://open.spotify.com/album/74yUD8QPWPKOFsyLS93g92) | 3:18 | 2022-07-22 | 2022-10-30 |
 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 | 2023-02-10 |  |
 | [El Amor de Mi Vida](https://open.spotify.com/track/2xxq5LXFBFyawPChsOOWVu) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [El Amor de Mi Vida](https://open.spotify.com/album/4T4LzOrGQAAvs4CjQ4ZrXv) | 3:32 | 2022-01-01 | 2022-03-22 |
-| [El Dueño De Tu Amor](https://open.spotify.com/track/3sgf3LgcrNoqOB1jm7PIP0) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7) | 3:45 | 2022-01-01 |  |
+| [El Dueño De Tu Amor](https://open.spotify.com/track/3sgf3LgcrNoqOB1jm7PIP0) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7) | 3:45 | 2022-01-01 | 2023-02-24 |
 | [El Humillado](https://open.spotify.com/track/5zLsSLY0cwfX80nf9R0BhA) | [Clave 51](https://open.spotify.com/artist/4iY2MxD3WzbpgyX1uCs4Yf) | [El Humillado](https://open.spotify.com/album/1RmJvwO5RQYDv4FNRPYMxt) | 2:29 | 2022-01-01 | 2023-01-26 |
 | [El Mundo a Tus Pies](https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Mundo a Tus Pies](https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM) | 2:56 | 2022-01-01 | 2022-03-22 |
 | [El Tiempo](https://open.spotify.com/track/3RtyUOjnLXJVdp7ooRUIMa) | [Letra Versatil](https://open.spotify.com/artist/2GIh9WFaVNpgfFJ4CSgQV1) | [El Tiempo](https://open.spotify.com/album/67bFSrbLEMlsUPZsyN8AKo) | 3:59 | 2022-03-21 | 2022-07-22 |
@@ -161,7 +161,8 @@
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 6:38 | 2022-01-01 | 2022-07-29 |
 | [Mi Mariposa](https://open.spotify.com/track/2yNYLIzkmsWEaa9Qyo1FYS) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Mi Mariposa](https://open.spotify.com/album/7iaBYTdxStB3mA1GvhRbKg) | 2:22 | 2022-02-25 | 2022-07-25 |
 | [Mi Nena](https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww) | [Nueva Conducta](https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5) | [Mi Nena](https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF) | 2:29 | 2022-01-01 |  |
-| [Mi Otra Mitad](https://open.spotify.com/track/2GWbiQolZqxJhuq4ScqrCY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 2:51 | 2022-01-01 |  |
+| [Mi Otra Mitad](https://open.spotify.com/track/2GWbiQolZqxJhuq4ScqrCY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 2:51 | 2022-01-01 | 2023-02-24 |
+| [Mi Otra Mitad](https://open.spotify.com/track/5JQNO0rhJUdOevWVvSWjro) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 2:51 | 2023-02-10 |  |
 | [Mi Soledad](https://open.spotify.com/track/77sMV8IQQb8azd7v3ZAtvC) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:40 | 2022-11-11 | 2023-01-28 |
 | [Mi Tesoro](https://open.spotify.com/track/2EX21QDCNORCqScO5l0YfB) | [Esteban Guerrero](https://open.spotify.com/artist/0MAF0AzaLzdYJmaOl8IQYl) | [Mi Tesoro](https://open.spotify.com/album/15cwX5OlZbafn6Pluoajf2) | 3:47 | 2023-01-20 | 2023-01-26 |
 | [Mi Último Adiós](https://open.spotify.com/track/1RrXAK6MWeXtiunKhKHky9) | [Jayceee](https://open.spotify.com/artist/6AXGyJf6E8sUdWnyGxHsKt) | [Mi Último Adiós](https://open.spotify.com/album/6O1L0u1bhDy2duwIcVwdhH) | 4:41 | 2023-01-20 | 2023-01-26 |
@@ -282,7 +283,8 @@
 | [TRAICIONADO](https://open.spotify.com/track/4rTd6t7bTU3UvdLdw9XIyy) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [TRAICIONADO](https://open.spotify.com/album/1lgzeshYy11QmjANXcU94N) | 2:11 | 2023-01-05 | 2023-01-26 |
 | [Trato de Olvidarte](https://open.spotify.com/track/1oWchNhYm1gbwt2sjh5yAP) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [B.A.S](https://open.spotify.com/album/52LCfcij1vNamKkTXFAn7y) | 4:08 | 2022-01-01 | 2023-01-26 |
 | [Triste](https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Triste](https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8) | 2:46 | 2022-02-25 | 2022-07-29 |
-| [Tristeza Y Traicion](https://open.spotify.com/track/6dRAEG6dmMfP5SS9Vh1s56) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 3:39 | 2022-01-01 |  |
+| [Tristeza Y Traicion](https://open.spotify.com/track/3otr23EypFovRCjnPODejZ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:39 | 2023-02-10 |  |
+| [Tristeza Y Traicion](https://open.spotify.com/track/6dRAEG6dmMfP5SS9Vh1s56) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 3:39 | 2022-01-01 | 2023-02-24 |
 | [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 | 2022-07-22 |  |
 | [Tu Mirada](https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Tu Mirada](https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd) | 2:29 | 2022-06-10 |  |
 | [Tu y La Luna](https://open.spotify.com/track/51BNLmU6HnsVKnJSczJ5Ha) | [Vagancia Indicada](https://open.spotify.com/artist/1W0J2ZsvhXV7OsI7twK1jf) | [Tu y La Luna](https://open.spotify.com/album/3X5syPwNkhU14TB55lmnsv) | 4:27 | 2022-01-01 | 2022-07-25 |

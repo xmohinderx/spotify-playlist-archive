@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. La Receta en portada.",
-  "num_followers": 49869,
+  "num_followers": 49950,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMDg2ZWY3MDNiMzk1YmU2MWRhOTc4NmY4ZjExY2I4OWRl",
+  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMDgzYzUxYTE5NzVjNWQ1ZDM1MzNkMjgzZDlmYWVjZTYx",
   "tracks": [
     {
       "added_at": "2023-01-27 06:00:00",
@@ -325,6 +325,22 @@
       "url": "https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD"
     },
     {
+      "added_at": "2022-10-07 15:36:37",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+        }
+      ],
+      "duration_ms": 188778,
+      "name": "365",
+      "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
+    },
+    {
       "added_at": "2023-01-13 06:00:00",
       "album": {
         "name": "En Vivo De Culiacan",
@@ -341,20 +357,20 @@
       "url": "https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1"
     },
     {
-      "added_at": "2022-12-02 06:00:00",
+      "added_at": "2022-12-23 06:00:00",
       "album": {
-        "name": "De Botas O Gabanas (En Vivo)",
-        "url": "https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
       },
       "artists": [
         {
-          "name": "Los Nuevos Originales Del Bajio",
-          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "duration_ms": 154338,
-      "name": "De Botas O Gabanas - En Vivo",
-      "url": "https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7"
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -373,20 +389,20 @@
       "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
     },
     {
-      "added_at": "2022-10-07 15:36:37",
+      "added_at": "2022-12-02 06:00:00",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
+        "name": "De Botas O Gabanas (En Vivo)",
+        "url": "https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww"
       },
       "artists": [
         {
-          "name": "Los Reales Del Rio",
-          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+          "name": "Los Nuevos Originales Del Bajio",
+          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
         }
       ],
-      "duration_ms": 188778,
-      "name": "365",
-      "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
+      "duration_ms": 154338,
+      "name": "De Botas O Gabanas - En Vivo",
+      "url": "https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -407,22 +423,6 @@
       "duration_ms": 171749,
       "name": "EL KARMA",
       "url": "https://open.spotify.com/track/3bG4hVhR7fUF3Cn38nOEsf"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/2ioxOvyD2OAB1FvuE6Whef"
     },
     {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
-        "name": "No Se Olvida",
-        "url": "https://open.spotify.com/album/4tdUTR78ErKcQcXPownp9v"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 151853,
-      "name": "No Se Olvida",
-      "url": "https://open.spotify.com/track/7xgF8ki6syas9lOkszRPQY"
-    },
-    {
       "added_at": "2023-01-13 06:00:00",
       "album": {
         "name": "Este Sentimiento",
@@ -595,6 +579,22 @@
       "duration_ms": 196693,
       "name": "Este Sentimiento",
       "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
+    },
+    {
+      "added_at": "2022-12-02 06:00:00",
+      "album": {
+        "name": "No Se Olvida",
+        "url": "https://open.spotify.com/album/4tdUTR78ErKcQcXPownp9v"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 151853,
+      "name": "No Se Olvida",
+      "url": "https://open.spotify.com/track/7xgF8ki6syas9lOkszRPQY"
     },
     {
       "added_at": "2022-10-07 15:36:37",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "A Ti S\u00ed Te Quer\u00eda",
-        "url": "https://open.spotify.com/album/6B9uZMSCy8qxMLNuTRqyQk"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 179875,
-      "name": "A Ti S\u00ed Te Quer\u00eda",
-      "url": "https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt"
-    },
-    {
       "added_at": "2023-01-27 06:00:00",
       "album": {
         "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
@@ -759,6 +743,22 @@
       "duration_ms": 212004,
       "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
       "url": "https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "A Ti S\u00ed Te Quer\u00eda",
+        "url": "https://open.spotify.com/album/6B9uZMSCy8qxMLNuTRqyQk"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 179875,
+      "name": "A Ti S\u00ed Te Quer\u00eda",
+      "url": "https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt"
     },
     {
       "added_at": "2022-11-11 06:00:00",
@@ -829,38 +829,6 @@
       "url": "https://open.spotify.com/track/2kOmfljLl2uz74gGpeZKBM"
     },
     {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "Solo En Navidad",
-        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 191117,
-      "name": "Solo En Navidad",
-      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
-    },
-    {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "C\u00f3mo Poder Olvidar (Spotify Sad Sierre\u00f1o Holiday Singles)",
-        "url": "https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 216208,
-      "name": "C\u00f3mo Poder Olvidar - Spotify Sad Sierre\u00f1o Holiday Singles",
-      "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
-    },
-    {
       "added_at": "2022-11-11 06:00:00",
       "album": {
         "name": "Ni\u00f1o De Oro (Deluxe Version)",
@@ -879,6 +847,38 @@
       "duration_ms": 197653,
       "name": "2A",
       "url": "https://open.spotify.com/track/1edM1dwb4vTMefLpgLX3mj"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "C\u00f3mo Poder Olvidar (Spotify Sad Sierre\u00f1o Holiday Singles)",
+        "url": "https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 216208,
+      "name": "C\u00f3mo Poder Olvidar - Spotify Sad Sierre\u00f1o Holiday Singles",
+      "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "Solo En Navidad",
+        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 191117,
+      "name": "Solo En Navidad",
+      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
       "added_at": "2022-11-18 06:00:00",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 287135,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
-    },
-    {
       "added_at": "2022-11-11 06:00:00",
       "album": {
         "name": "Tiempos de Guerra 2",
@@ -967,6 +951,22 @@
       "duration_ms": 171053,
       "name": "Tiempos de Guerra 2",
       "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 287135,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
     },
     {
       "added_at": "2023-01-27 06:00:00",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1"
     },
     {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "Peque\u00f1a y Frag\u00edl",
-        "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        }
-      ],
-      "duration_ms": 173837,
-      "name": "Peque\u00f1a y Frag\u00edl",
-      "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
-    },
-    {
       "added_at": "2022-11-11 06:00:00",
       "album": {
         "name": "Sigo De Pie (En Vivo)",
@@ -1071,6 +1055,22 @@
       "duration_ms": 186186,
       "name": "El Beso De Judas",
       "url": "https://open.spotify.com/track/3ikFRM3ekAaqnoe9JwW0fP"
+    },
+    {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "Peque\u00f1a y Frag\u00edl",
+        "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "duration_ms": 173837,
+      "name": "Peque\u00f1a y Frag\u00edl",
+      "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
     },
     {
       "added_at": "2022-10-14 05:00:00",

@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256026,
+      "name": "Bills, Bills, Bills",
+      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
+    },
+    {
+      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -2556,7 +2574,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 243306,
       "name": "In Those Jeans",
       "url": "https://open.spotify.com/track/5ojJNnX5ND2gMGojPd3NiO"
@@ -3788,7 +3806,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 193933,
       "name": "So Good",
       "url": "https://open.spotify.com/track/1pLJSpfeHXsIyJS1BmKrrr"
@@ -4354,6 +4372,24 @@
       "duration_ms": 162364,
       "name": "Up From The Ashes",
       "url": "https://open.spotify.com/track/6MTtOV150uwitRZz4anI2h"
+    },
+    {
+      "album": {
+        "name": "Violator: The Album",
+        "url": "https://open.spotify.com/album/0SMuCLCvkgY9pcoJPVwJwn"
+      },
+      "artists": [
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190826,
+      "name": "Vivrant Thing",
+      "url": "https://open.spotify.com/track/31KK3pcPclmIt087tPuwMr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Molchat Doma on cover.
 
-141 songs - 9 hr 24 min
+142 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 | 2023-02-09 |  |
 | [Darkness](https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702) | 4:17 | 2020-12-21 |  |
 | [Death and Ashes](https://open.spotify.com/track/1IyPd065NkGaOL5Qe7XI9c) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mandy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60f6ypxsKLEemkp4216Ood) | 4:38 | 2020-12-21 | 2023-02-10 |
-| [Diamonds](https://open.spotify.com/track/76arnVYjWjOAHDyRCunKrI) | [Pixel Grip](https://open.spotify.com/artist/4NmxBuCBL7Y5nqxDawpYKW) | [Heavy Handed](https://open.spotify.com/album/3melhf7QbTrTpJgzOrhbgQ) | 5:06 | 2023-02-09 |  |
+| [Diamonds](https://open.spotify.com/track/76arnVYjWjOAHDyRCunKrI) | [Pixel Grip](https://open.spotify.com/artist/4NmxBuCBL7Y5nqxDawpYKW) | [Heavy Handed](https://open.spotify.com/album/3melhf7QbTrTpJgzOrhbgQ) | 5:06 | 2023-02-09 | 2023-02-24 |
 | [Disorder \- 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:29 | 2023-02-09 |  |
 | [Dot in the Sky](https://open.spotify.com/track/2JDYNDcTJVpkuqKiJrIghn) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Demonstration](https://open.spotify.com/album/57h5IDkgYnV5AZV5PU97xN) | 5:26 | 2023-02-09 |  |
 | [Durdu Dünya](https://open.spotify.com/track/0rXcRGePzt2vuBjTQnshsL) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Disko Anksiyete](https://open.spotify.com/album/7J40uU1PnZuZrna7q8SNcs) | 4:51 | 2023-01-06 |  |
@@ -108,6 +108,7 @@
 | [Space Amplitude](https://open.spotify.com/track/1i1SfCWBq5xqNG4m5WtQKv) | [IcoS](https://open.spotify.com/artist/41GQStG7yqyPqbOKvouab8) | [Space Amplitude](https://open.spotify.com/album/0wel2m8VmYeR7ZnZZEZzu8) | 2:48 | 2020-12-21 | 2023-02-10 |
 | [Space Echo](https://open.spotify.com/track/545WpZctvOyaIPJBhenv3Z) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Space Station](https://open.spotify.com/album/0S0y4THoNccPD2F5BWoS09) | 3:35 | 2020-12-21 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2023-01-07 |  |
+| [Strange Harvest](https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV) | [Tempers](https://open.spotify.com/artist/0yIDrFWDGrnVk3FPLJmsX2) | [Services](https://open.spotify.com/album/4uj1BNKsrRaeis2VjnVfvU) | 4:10 | 2023-02-09 |  |
 | [Temple of Eternity](https://open.spotify.com/track/0rPjceGXpvTxoe2sy3eGiX) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Temple of Eternity](https://open.spotify.com/album/3MDuQ1x6xYgPrW0x70ifl2) | 3:03 | 2020-12-21 | 2023-02-10 |
 | [That House](https://open.spotify.com/track/6lUyyCRoT2wvtGlQQEpk3U) | [Dance With the Dead](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm) | [B\-Sides: Vol\. 1](https://open.spotify.com/album/1NhAWLxOl4dD4WMs56VvsI) | 4:46 | 2020-12-21 |  |
 | [The Last Stand](https://open.spotify.com/track/2orZvn8uqomZTJAdP77Kt2) | [Carbon Killer](https://open.spotify.com/artist/73CHtFYTjplBsprAdBl0cQ) | [Carbon Inc](https://open.spotify.com/album/4ShwBGVlQwhPccxql4Cdh0) | 5:09 | 2020-12-21 | 2023-02-10 |

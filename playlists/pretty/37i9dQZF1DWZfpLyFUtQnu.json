@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 43891,
+  "num_followers": 43992,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEwMzU1NywwMDAwMDAwMGMwYTkzYWJhMDcyNzE1Yzg2ZDJlZWQzZDdiYzhjOGIw",
+  "snapshot_id": "MTY3NzEwMzU1NywwMDAwMDAwMDhjNjIyY2JkMjdhNDU3NzZmZWM1OTdkYmMyZGQ3NTVi",
   "tracks": [
     {
       "added_at": "2022-12-06 14:58:14",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
     },
     {
-      "added_at": "2023-02-23 00:16:47",
+      "added_at": "2023-02-24 00:19:51",
       "album": {
         "name": "Et Bam",
         "url": "https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8"
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Effet miroir",
-        "url": "https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a"
-      },
-      "artists": [
-        {
-          "name": "Zaz",
-          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Demain c'est toi",
-      "url": "https://open.spotify.com/track/1gyeYL3RaqMaJK23IJH7QA"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
+        "name": "Effet miroir",
+        "url": "https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a"
+      },
+      "artists": [
+        {
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Demain c'est toi",
+      "url": "https://open.spotify.com/track/1gyeYL3RaqMaJK23IJH7QA"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
         "name": "Rose",
         "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 191039,
       "name": "La Liste",
       "url": "https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Sommeil levant",
+        "url": "https://open.spotify.com/album/0NzIv6MIwJiG1FfqxGky7H"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 231426,
+      "name": "Fais-moi signe",
+      "url": "https://open.spotify.com/track/7mSzjc45pJeC1UyX7ry3co"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -559,22 +575,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Sommeil levant",
-        "url": "https://open.spotify.com/album/0NzIv6MIwJiG1FfqxGky7H"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 231426,
-      "name": "Fais-moi signe",
-      "url": "https://open.spotify.com/track/7mSzjc45pJeC1UyX7ry3co"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Un autre monde (Remastered)",
         "url": "https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 258189,
       "name": "La vie ne m'apprend rien",
       "url": "https://open.spotify.com/track/6qdFHfgUPmngzK7oTeflgs"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
-        "name": "Toi + Moi",
-        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e9goire",
-          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Ta main",
-      "url": "https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -621,7 +605,23 @@
       "url": "https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1"
     },
     {
-      "added_at": "2023-02-23 00:16:47",
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Toi + Moi",
+        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e9goire",
+          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Ta main",
+      "url": "https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo"
+    },
+    {
+      "added_at": "2023-02-24 00:19:51",
       "album": {
         "name": "Popcorn Sal\u00e9",
         "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Erza Muqoli",
-        "url": "https://open.spotify.com/album/4MYZ8sm7algdZmjef4Bp4g"
-      },
-      "artists": [
-        {
-          "name": "Erza Muqoli",
-          "url": "https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt"
-        }
-      ],
-      "duration_ms": 287037,
-      "name": "Dommage",
-      "url": "https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Les femmes id\u00e9ales",
         "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 171480,
       "name": "Nous deux contre le reste du monde - Version Acoustique",
       "url": "https://open.spotify.com/track/7hwdkcVXdn0NjMJHWFtVl8"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Erza Muqoli",
+        "url": "https://open.spotify.com/album/4MYZ8sm7algdZmjef4Bp4g"
+      },
+      "artists": [
+        {
+          "name": "Erza Muqoli",
+          "url": "https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt"
+        }
+      ],
+      "duration_ms": 287037,
+      "name": "Dommage",
+      "url": "https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
+        "name": "Donne-moi ton c\u0153ur (acoustique)",
+        "url": "https://open.spotify.com/album/27CDkeLN57bqdMvrkwm9wU"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 177902,
+      "name": "Donne-moi ton c\u0153ur - acoustique",
+      "url": "https://open.spotify.com/track/4C4wO1Lob3kTxvqXtPJice"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
         "name": "Loin des yeux",
         "url": "https://open.spotify.com/album/5u3mERrsCPzvwICP88yNil"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 167933,
       "name": "Allez reste (feat. Vianney)",
       "url": "https://open.spotify.com/track/3heHzzI6Grlj4xTeoLOO56"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
-        "name": "Donne-moi ton c\u0153ur (acoustique)",
-        "url": "https://open.spotify.com/album/27CDkeLN57bqdMvrkwm9wU"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 177902,
-      "name": "Donne-moi ton c\u0153ur - acoustique",
-      "url": "https://open.spotify.com/track/4C4wO1Lob3kTxvqXtPJice"
     },
     {
       "added_at": "2022-12-06 14:58:14",

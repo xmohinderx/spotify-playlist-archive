@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : DTF",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Captaine Roshi",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 158313,
       "name": ".BOURBIER.",
       "url": "https://open.spotify.com/track/3D9nVQV2jg6hkXqCzVgtWT"
@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "FEN\u00caTRE",
+        "url": "https://open.spotify.com/album/0t29DQagdu2t3o8e7sjZu2"
+      },
+      "artists": [
+        {
+          "name": "Gatchete",
+          "url": "https://open.spotify.com/artist/5a2rrj294lEVKNCLQqTlOk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "FEN\u00caTRE",
+      "url": "https://open.spotify.com/track/68bIdxaAgmJDdFBfhj9LiX"
+    },
+    {
+      "album": {
         "name": "Fin heureuse",
         "url": "https://open.spotify.com/album/5KcQvszp8wKRp1k9fHXR12"
       },
@@ -978,6 +996,24 @@
       "duration_ms": 162481,
       "name": "G.A.G",
       "url": "https://open.spotify.com/track/3ZWw9cswGcI33ckwAje8zC"
+    },
+    {
+      "album": {
+        "name": "Gamberge",
+        "url": "https://open.spotify.com/album/64k2c7Wbcqc9HxNKivHYg5"
+      },
+      "artists": [
+        {
+          "name": "Pins & Dimeh",
+          "url": "https://open.spotify.com/artist/4Ahw76UVS2GoBsByIdRjQt"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171136,
+      "name": "Gamberge",
+      "url": "https://open.spotify.com/track/1tm1nLYzyWdre4tca2tWy8"
     },
     {
       "album": {
@@ -1236,6 +1272,28 @@
       "duration_ms": 150000,
       "name": "Infect\u00e9",
       "url": "https://open.spotify.com/track/07mCQ6sRZzT5XoSqnA2fOW"
+    },
+    {
+      "album": {
+        "name": "Stratos",
+        "url": "https://open.spotify.com/album/5YyOGFt8KINACLGIzXRfdL"
+      },
+      "artists": [
+        {
+          "name": "Kekra",
+          "url": "https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS"
+        },
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "J'arr\u00eate",
+      "url": "https://open.spotify.com/track/4DBqYAG3eXWFulEs7FR8WN"
     },
     {
       "album": {
@@ -2082,7 +2140,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 193000,
       "name": "Personally",
       "url": "https://open.spotify.com/track/2Tb1mxu6uMSRp0dEg4bRXq"
@@ -2476,7 +2534,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 173142,
       "name": "Seul au monde",
       "url": "https://open.spotify.com/track/4luvWLKyAZbCMqltYuD9Dc"

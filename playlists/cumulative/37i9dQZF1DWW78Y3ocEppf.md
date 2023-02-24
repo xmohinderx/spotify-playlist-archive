@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: Mario
 
-423 songs - 22 hr 35 min
+424 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Bling Up](https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [Bling Up](https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ) | 2:57 | 2021-12-15 | 2022-07-18 |
 | [Blue Mercedes](https://open.spotify.com/track/017Eh4VHT4kkOu65GuSg1H) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Blue Mercedes](https://open.spotify.com/album/1LitlkT715pr7BolzIvrf7) | 3:07 | 2022-02-04 | 2022-04-21 |
 | [Bout Mine](https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Bout Mine](https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK) | 2:27 | 2022-10-28 |  |
+| [Bow Down](https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:03 | 2023-02-17 |  |
 | [Boyz II Men](https://open.spotify.com/track/5buGEKUWGl3pZYQ9sh3392) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Boyz II Men](https://open.spotify.com/album/3bKK60lMqzufedJRQGO6lt) | 2:10 | 2021-12-15 | 2022-07-19 |
 | [Brag \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6FsVDZWQk6QBBrmZKvFxvW) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Brag \(feat\. Fivio Foreign\)](https://open.spotify.com/album/2SxvstE24VIYBAy8jQRswO) | 3:13 | 2022-02-04 | 2022-07-29 |
 | [Brave Face](https://open.spotify.com/track/0Fx6PkOC2Nm0eqXKiqiaF6) | [Benjamin A.D](https://open.spotify.com/artist/4UWmplYALfjUhWM6jZ8ftN), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [Brave Face](https://open.spotify.com/album/3TKQ9H8OVnCiLpgzU9g1cp) | 3:13 | 2022-09-02 | 2022-11-12 |
@@ -373,7 +374,7 @@
 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Tell Me It's Over](https://open.spotify.com/album/2VgQZ6hNhTXWaZdNbuULe3) | 4:41 | 2022-12-16 |  |
 | [Temptations](https://open.spotify.com/track/4QokysYZE2otPdhq5L4EM0) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Didn't Start With You](https://open.spotify.com/album/27RhvUoZNhFtggwX1pVSgr) | 2:59 | 2022-10-07 |  |
 | [Tension](https://open.spotify.com/track/4JDsi2ZxNDoMWlzWpr3dZj) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [My Way](https://open.spotify.com/album/3psW8SjqD6GFta8wCoBTes) | 2:26 | 2021-12-15 | 2022-02-03 |
-| [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 | 2021-12-15 |  |
+| [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 | 2021-12-15 | 2023-02-24 |
 | [The Distance](https://open.spotify.com/track/3wEiJMQozHw9KOGeLbkhKK) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [The Distance](https://open.spotify.com/album/1XXshy7NZW44R2EM2akB7d) | 3:22 | 2022-02-04 | 2022-04-20 |
 | [The Homie](https://open.spotify.com/track/40s9fTqos9irqz2kmNRbCq) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Soulquarius](https://open.spotify.com/album/762U5ToU14EyGscZC1iwzg) | 2:40 | 2021-12-15 | 2022-07-29 |
 | [The One](https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Not a Statistic](https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh) | 2:16 | 2022-12-02 |  |

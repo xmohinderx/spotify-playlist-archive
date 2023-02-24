@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,970 likes - 199 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,138 likes - 199 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,12 +161,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 151 | [Sunny Side](https://open.spotify.com/track/2J8gE4IMrJhOpKad0UgM25) | [Hawk Town](https://open.spotify.com/artist/4kr96RAgKYYkht9GMqFKY1) | [Sunny Side](https://open.spotify.com/album/0JjSuWZ8awn89gBUKP4urE) | 2:37 |
 | 152 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [Hazeeman](https://open.spotify.com/artist/5mLnKXD8YyMwMI7dCBpFkP) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 |
 | 153 | [Winter Keys](https://open.spotify.com/track/6NT3drJc597TCEIK8LMFka) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Winter Keys](https://open.spotify.com/album/1PFHDWjFCyXHVI867KFcoy) | 2:36 |
-| 154 | [Papillon](https://open.spotify.com/track/6S1uhrWCT8WFV6z8f5P8Va) | [Xsist](https://open.spotify.com/artist/5UXNo7yX1QsF9VkPVCNKxW) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:50 |
+| 154 | [Papillon](https://open.spotify.com/track/6S1uhrWCT8WFV6z8f5P8Va) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:50 |
 | 155 | [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 2:31 |
 | 156 | [Trip Vibe](https://open.spotify.com/track/7K6XMQzUNiLQ3NIhCqBwU4) | [Monzzune](https://open.spotify.com/artist/1RWZV3rPwdheATWccxhAbp) | [Go To Kaua'i](https://open.spotify.com/album/25da3jJUKkKnkkWPL7Ozb8) | 2:14 |
 | 157 | [Montego](https://open.spotify.com/track/3t3KBPlKEIxUtk3h0DNQJn) | [Toshdy](https://open.spotify.com/artist/55bwDdaEDVEycXFNC9Xl1D) | [Montego](https://open.spotify.com/album/12WymcJPB9GXeBsMq94NUz) | 2:27 |
 | 158 | [Where the Sun Lives](https://open.spotify.com/track/1Q6Yq87dBVj1BYaiOsjKph) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Chillin In Cabo](https://open.spotify.com/album/0R3G448YpmWiCpGRGfGgbo) | 2:21 |
-| 159 | [Voxter](https://open.spotify.com/track/7aoKOVATErohs5ebJmeIlt) | [Alex Dumpty](https://open.spotify.com/artist/6U5fHzqa2qiHqlYPzGTB7I) | [Morning Yolk](https://open.spotify.com/album/2Rj4kUv2XhpAko0Ckirg2X) | 1:56 |
+| 159 | [Voxter](https://open.spotify.com/track/7aoKOVATErohs5ebJmeIlt) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Morning Yolk](https://open.spotify.com/album/2Rj4kUv2XhpAko0Ckirg2X) | 1:56 |
 | 160 | [carefree](https://open.spotify.com/track/0bPfSzjE7X5LUuvdJkv481) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [carefree](https://open.spotify.com/album/50IPTdTpfzN5xRncShypO9) | 3:07 |
 | 161 | [Flow Downstream](https://open.spotify.com/track/493ggrfPQoWAiW3ewJBGRt) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Currents](https://open.spotify.com/album/5VlRaGpdL2hRWCsWQWIHlk) | 2:40 |
 | 162 | [High Coast Beat](https://open.spotify.com/track/1uqbepnCPGf5eZZFKDKvQG) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Rhythmic Flows](https://open.spotify.com/album/5hRbJOC7CcZwjL6xhcFkNE) | 2:46 |
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 177 | [Carombola](https://open.spotify.com/track/3KSfR7RFxDzpXXgVZTpvB2) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/0KAVgCqz8YH4FcpRY5v2mH) | 2:32 |
 | 178 | [Desert Mustang](https://open.spotify.com/track/3DBNG6S3TzIqzuBul1n9jd) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Pomegranate Beaches](https://open.spotify.com/album/5GFcwOXqDCLv73W91FVogB) | 2:24 |
 | 179 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 |
-| 180 | [keyless](https://open.spotify.com/track/4b7vbNg9x0cgHjquvvhhZC) | [artoban](https://open.spotify.com/artist/3sQE7gxylG2AydTX4UutZT) | [dry&high](https://open.spotify.com/album/1mVUu7fnWB58ld4PTUd8dQ) | 1:41 |
+| 180 | [keyless](https://open.spotify.com/track/4b7vbNg9x0cgHjquvvhhZC) | [88\-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj) | [dry&high](https://open.spotify.com/album/1mVUu7fnWB58ld4PTUd8dQ) | 1:41 |
 | 181 | [meeting the dawn](https://open.spotify.com/track/0bnRhmmGCWZAqwGHvjL5TA) | [RenBoz](https://open.spotify.com/artist/4EtruNo3qv5ML5tiXQopqT) | [Meeting the Dawn](https://open.spotify.com/album/6mc6HieAYfKA1ybnAnqGog) | 1:44 |
 | 182 | [A New Life](https://open.spotify.com/track/11MUQKaRB8LwM5kB5SPGjT) | [Taloha Beats](https://open.spotify.com/artist/18QVRutrl0pcjLKv6yYleC) | [A New Life](https://open.spotify.com/album/7K7sAzmHrPeHNdeklNTCA2) | 2:54 |
 | 183 | [Faith Basket](https://open.spotify.com/track/7bjJRSF3xts6D99aJ5DN1X) | [Jack Dean](https://open.spotify.com/artist/0bCEZwHpCgEfOd5M2ye5mw) | [Faith Basket](https://open.spotify.com/album/2kSlxWw2YAZqwp69iSHy9s) | 1:15 |

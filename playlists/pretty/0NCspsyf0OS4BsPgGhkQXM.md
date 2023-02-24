@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,580 likes - 104 songs - 6 hr 4 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,855 likes - 104 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 10 | [Overthinker](https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/1eCYiLDLT6ZLzCeThN90UF) | 4:28 |
 | 11 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
 | 12 | [UCLA](https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:12 |
-| 13 | [Thoughts](https://open.spotify.com/track/1eHPz3Ccu5UIMAXWYDCjaj) | [Loud](https://open.spotify.com/artist/2nhTi1cXehDDk7kRCRyBkR) | [Thoughts](https://open.spotify.com/album/0IFzlLKympHYoZUQBYwFZ3) | 2:43 |
+| 13 | [Devil Eyes](https://open.spotify.com/track/7MiZjKawmXTsTNePyTfPyL) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Providence](https://open.spotify.com/album/1RVXVo1puacM8aQ6hgQahi) | 2:11 |
 | 14 | [Scared to Be Lonely](https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Scared to Be Lonely](https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF) | 3:40 |
 | 15 | [Meet Me](https://open.spotify.com/track/1DBra8wN9Gh9emkHot3FXk) | [Mickey Valen](https://open.spotify.com/artist/2tLI4kPsmsxQQv6zr2jbgt), [Noé](https://open.spotify.com/artist/6ATGuATiaPOyjNIc5AjP3R) | [Meet Me](https://open.spotify.com/album/4iQgnWSI3MKHBphIefqqL2) | 3:13 |
 | 16 | [Borderline \- Vanic Remix](https://open.spotify.com/track/3lO38SiB2WAQRqTAHN7WTC) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9), [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T) | [Borderline \(Vanic Remix\)](https://open.spotify.com/album/6ZjNI6my7T7lPW6Ch7zaWS) | 4:16 |
-| 17 | [Devil Eyes](https://open.spotify.com/track/7MiZjKawmXTsTNePyTfPyL) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Providence](https://open.spotify.com/album/1RVXVo1puacM8aQ6hgQahi) | 2:11 |
-| 18 | [High You Are \(Branchez Remix\)](https://open.spotify.com/track/4YIoQqE50AdyG4BQafCi3u) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf) | [High You Are \(Remixes\)](https://open.spotify.com/album/0h2G6kf2j9OoqdvS2fcwr8) | 3:33 |
+| 17 | [High You Are \(Branchez Remix\)](https://open.spotify.com/track/4YIoQqE50AdyG4BQafCi3u) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf) | [High You Are \(Remixes\)](https://open.spotify.com/album/0h2G6kf2j9OoqdvS2fcwr8) | 3:33 |
+| 18 | [Thoughts](https://open.spotify.com/track/1eHPz3Ccu5UIMAXWYDCjaj) | [Loud](https://open.spotify.com/artist/2nhTi1cXehDDk7kRCRyBkR) | [Thoughts](https://open.spotify.com/album/0IFzlLKympHYoZUQBYwFZ3) | 2:43 |
 | 19 | [No Scrubs](https://open.spotify.com/track/5diufoHZPKvTBMut2NLzbf) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga), [Joanna Jones](https://open.spotify.com/artist/6mRK3kM9VcjgnwtUAE1vNx) | [No Scrubs](https://open.spotify.com/album/0QwNGfGTQ9SOTOgGQXbDM5) | 3:21 |
 | 20 | [Circles](https://open.spotify.com/track/4OyNDHdIbTavrdQ7mhmDYN) | [machineheart](https://open.spotify.com/artist/4uethVhVpoyO3OhT40JH1o), [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T) | [Circles](https://open.spotify.com/album/4vSsGfJ4fwDkipMDYO5FSa) | 4:43 |
 | 21 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 103 | [Matangi](https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Matangi](https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG) | 3:18 |
 | 104 | [Lost](https://open.spotify.com/track/3fH6sfaWJ9Ji6sqbcqdPmf) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Lost](https://open.spotify.com/album/4718f8p5I2EHop2LwcPHah) | 3:08 |
 
-Snapshot ID: `MTMxMjMsOGU1YTc4NDJmMjViNGM1MTEzOGNhYmM5MTdmZmFhODg0YjU4YTI1OQ==`
+Snapshot ID: `MTMxMjUsMmJiMzQ3ZDJkMDY0MGJiOWZjMzE0ZTJiZDI2MmM3ZWYxMzA4Nzk1OA==`

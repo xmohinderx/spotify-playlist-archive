@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jake Shears
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,994 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,103 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 61 | [Queen \- Cool Company Remix](https://open.spotify.com/track/0AgZmFOM3Yq0Zok6OlvHve) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Queen \(Cool Company Remix\)](https://open.spotify.com/album/1UOeukefSXVZIOA4s8qt3O) | 2:36 |
 | 62 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |
 | 63 | [Under the Light](https://open.spotify.com/track/26nQDOgXY2mZ6xAlHIdymY) | [LeMarquis](https://open.spotify.com/artist/6w9iqkoyGAs9PRssKIvq9G) | [Origin](https://open.spotify.com/album/6sCftII6Jd2YAU3Yxs9Cw8) | 2:48 |
-| 64 | [Juiceboy](https://open.spotify.com/track/6IKtPHIDG6a26oRcNxJq8f) | [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB), [Mondgomery](https://open.spotify.com/artist/05eMmbSBU5u0L6XIAU0esH) | [Girls](https://open.spotify.com/album/33FgsjVBCwStpk8cnzooPr) | 2:51 |
+| 64 | [JuiceBoy](https://open.spotify.com/track/6IKtPHIDG6a26oRcNxJq8f) | [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB), [Mondgomery](https://open.spotify.com/artist/05eMmbSBU5u0L6XIAU0esH) | [Girls](https://open.spotify.com/album/33FgsjVBCwStpk8cnzooPr) | 2:51 |
 | 65 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 |
 | 66 | [Blutooth](https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Blutooth / enough 4 u](https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN) | 2:58 |
 | 67 | [Free Yourself \(Again\) \[Extended Vocal Mix\]](https://open.spotify.com/track/60FOtCEqN449Xtpyb2QkgW) | [Birdee](https://open.spotify.com/artist/3bSjUrJcV80nkkypJHElmv), [Nick Reach Up](https://open.spotify.com/artist/5yd1f7VGZpZ6aKRkr5iWAw), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Free Yourself \(Again\) \(Remixes\)](https://open.spotify.com/album/5IGVPpol8exxGRy7GjDFAI) | 7:05 |

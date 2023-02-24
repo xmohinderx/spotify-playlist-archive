@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-214 songs - 12 hr 57 min
+215 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 | 2021-12-10 |  |
 | [Headline](https://open.spotify.com/track/3FnBOGtgQCqTbS5lyfNGmW) | [Unified Highway](https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI) | [Headline](https://open.spotify.com/album/48BSZ9gRwOzUVi6gvkERDb) | 3:23 | 2021-12-10 | 2022-07-24 |
 | [Heavy as Lead](https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Heavy as Lead](https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m) | 2:56 | 2021-12-10 | 2022-07-29 |
+| [Here I Am](https://open.spotify.com/track/1YerDWS5vQE35RjTe53CDR) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Born In Babylon](https://open.spotify.com/album/4XylolsNO125zA2WtvpoXl) | 4:48 | 2022-11-17 |  |
 | [Here I Am](https://open.spotify.com/track/2yVhdgjCt0T2keTR1YlKEp) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Born In Babylon](https://open.spotify.com/album/0iWAzOU9mbH3m6b07F90G1) | 4:48 | 2022-07-06 | 2022-11-12 |
 | [Here I Am](https://open.spotify.com/track/7JXVnZsBrFLRwVk9ZqRciI) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Born In Babylon](https://open.spotify.com/album/5k8fY83ZJYChXpFVZBSUbe) | 4:48 | 2022-09-30 | 2023-02-19 |
 | [Hero](https://open.spotify.com/track/05rxJmgQwyYb0asCN6zOhq) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Hero](https://open.spotify.com/album/5ZimltcH4HJiRmNnjzxRpv) | 3:33 | 2021-12-10 | 2022-07-29 |
@@ -107,7 +108,7 @@
 | [Indestructible](https://open.spotify.com/track/0z420hy7N9l3zV0TVGvCiO) | [Nattali Rize](https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv), [Kumar](https://open.spotify.com/artist/28jXFl0uqcUwqYU9V6f0Wc) | [Indestructible](https://open.spotify.com/album/3vpVrRe5l4BFHaBSQc0k8K) | 3:03 | 2021-12-10 | 2022-06-22 |
 | [Island Time](https://open.spotify.com/track/7EIHl1xmO7UEtTEPczPj8i) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Island Time](https://open.spotify.com/album/6ezqqvurD2ZP7axmZQnfUh) | 4:18 | 2021-12-10 |  |
 | [Jump](https://open.spotify.com/track/4IIxGyabRyqXOnnBa99cKT) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 5:04 | 2021-12-10 | 2022-07-29 |
-| [Jump](https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 5:04 | 2022-07-06 |  |
+| [Jump](https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 5:04 | 2022-07-06 | 2023-02-24 |
 | [Kingdom \(with The Movement\)](https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ) | [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Kingdom \(with The Movement\)](https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL) | 4:42 | 2021-12-10 |  |
 | [Knocking at Your Door](https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:36 | 2021-12-10 | 2022-12-08 |
 | [Lay Me Down \(feat\. Sublime With Rome\)](https://open.spotify.com/track/4L0nc0tHfDjr3HlAm1EFeu) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Rome](https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa) | [Any Port in a Storm \(Special Edition\)](https://open.spotify.com/album/5EOxxqbniQ3CMCCoDfezWh) | 3:35 | 2022-02-04 |  |

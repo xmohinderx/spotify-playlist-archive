@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-494 songs - 1 day 12 hr 20 min
+496 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Ddoje Facce](https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:21 | 2021-10-06 |  |
 | [Declare Independence \- Spotify Singles](https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Spotify Singles](https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8) | 3:48 | 2021-10-06 | 2022-04-18 |
 | [Deep Cumbia](https://open.spotify.com/track/6dfFxwfNJhe1A1vNGioiyL) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Deep Cumbia](https://open.spotify.com/album/4bIjpYcmePHJU30xuxMQCC) | 9:02 | 2022-09-12 | 2022-12-06 |
+| [Descending To Nowhere](https://open.spotify.com/track/2VekSimbB6RVkb1Der7qXG) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Descending To Nowhere](https://open.spotify.com/album/40x1FfDLWrqgts1sZq6xyt) | 3:29 | 2023-02-23 |  |
 | [Despedida: Ensayo Silencio](https://open.spotify.com/track/6OSiOuTNk6XkfaLuvcnWN9) | [Arturo O'Farrill](https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV), [The Afro Latin Jazz Ensemble](https://open.spotify.com/artist/2K3sn0NdY2mQcrkzMoVCsn) | […dreaming in lions…](https://open.spotify.com/album/0pkU2fBus3YM1SgsaXcpj3) | 5:21 | 2021-10-06 | 2022-07-28 |
 | [Despierta \(feat\. Noel GC\) \- Main Mix](https://open.spotify.com/track/1LoCHLNw862XmsQNDPqH4i) | [Randomized Coffee](https://open.spotify.com/artist/7KzNtHVcFbaZoGufsX1Jj0), [Noel GC](https://open.spotify.com/artist/0Lh1YzhAgTeHmXP7BFox6g) | [Despierta \(feat\. Noel GC\) \[Main Mix\]](https://open.spotify.com/album/2DkW8upSVCkkD0j9176hhC) | 4:14 | 2022-03-29 | 2022-04-20 |
 | [Destroy The Empire](https://open.spotify.com/track/1yLiawLcVNGjEFz8NFxOmY) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Destroy The Empire](https://open.spotify.com/album/7xrCykN0UTFWE2yD8zu2Is) | 3:24 | 2021-10-06 | 2022-07-28 |
@@ -156,6 +157,7 @@
 | [Every Trick in the Book](https://open.spotify.com/track/3SZ0veqxOxbVZrZxtHzSG0) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Every Trick in the Book](https://open.spotify.com/album/6jrEt6AdBe2mGDLg8iI4Dl) | 3:10 | 2021-10-06 | 2022-07-29 |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/1r2ZYOuhyyMDDCEMkYZV4U) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Awakening](https://open.spotify.com/album/76gQRKAN8Hs5lSjts05FpV) | 6:32 | 2021-10-06 | 2022-04-21 |
 | [Evolution](https://open.spotify.com/track/60lRT01X553ode0LvndRf0) | [Magnum](https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP) | [Fully Loaded](https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV) | 5:50 | 2021-10-06 | 2022-06-01 |
+| [Existe Uma Voz](https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Existe Uma Voz](https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer) | 3:45 | 2023-02-23 |  |
 | [Faux savage](https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Miniatures de auto rhythm](https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn) | 2:23 | 2022-09-23 |  |
 | [Feira Jacobina](https://open.spotify.com/track/78UVMDmyok0Ah1wCO29b3B) | [Bando À Flor da Pele](https://open.spotify.com/artist/5n4I6U8npI8W21YgOlHG7u) | [Feira Jacobina](https://open.spotify.com/album/5VvaMDbGcgThJFFP47oXwg) | 5:14 | 2021-10-06 | 2022-04-17 |
 | [Felony](https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Felony / Rile 'Em Up](https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0) | 3:17 | 2021-10-06 |  |
@@ -210,7 +212,7 @@
 | [House of Cards](https://open.spotify.com/track/4lmzz09uUKtHnh740nyu37) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Chaos Theories](https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA) | 5:11 | 2021-10-06 |  |
 | [House of Cards](https://open.spotify.com/track/5R8MrBzJ2c5Kr4WhRbrKT4) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [House of Cards](https://open.spotify.com/album/6FCaQxWWj9bKLyL7dycP8j) | 5:11 | 2021-10-06 | 2022-07-29 |
 | [House of Lett](https://open.spotify.com/track/0t43FxUgWcEMRqKAykWn0k) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [House of Lett](https://open.spotify.com/album/5qT4xMAIC4PAaGFjq2WfN6) | 5:45 | 2021-10-06 | 2022-07-20 |
-| [How It Goes](https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Music Save Me \(One More Time\)](https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU) | 4:16 | 2021-10-06 |  |
+| [How It Goes](https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Music Save Me \(One More Time\)](https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU) | 4:16 | 2021-10-06 | 2023-02-24 |
 | [Hummingbird](https://open.spotify.com/track/5WMTkgZIDJ9s6s2OBS3RsE) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/0y7GV4jRQOaWiN4sH0SPW5) | 4:31 | 2021-10-06 | 2022-07-28 |
 | [Hummingbird](https://open.spotify.com/track/6K48CHl2KAbKniFKaJzoV3) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 4:31 | 2021-10-06 | 2023-02-15 |
 | [Hustle](https://open.spotify.com/track/5YR9LQu1dLJtSc7hgS0inh) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Hustle](https://open.spotify.com/album/0iciGKIP2q1Dip0uuVZ7cq) | 5:18 | 2021-10-06 | 2022-07-10 |
@@ -266,7 +268,7 @@
 | [La vie c'est bon](https://open.spotify.com/track/4FTKlJ3fxAKrBxHAni5IIo) | [Vaudou Game](https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz) | [Kidayu](https://open.spotify.com/album/76PW5sf4kKQR5jCZ05gilM) | 3:32 | 2021-10-06 | 2022-04-21 |
 | [La Ñapa](https://open.spotify.com/track/15A7KFrf9RKpCDUWGGuImI) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [La Ñapa](https://open.spotify.com/album/3irpaaj5nCOgJSZe56PNWt) | 4:45 | 2022-04-26 | 2022-07-29 |
 | [Lambada de Oceania, Africa y America \(eran un solo continente\)](https://open.spotify.com/track/3FiCLbJj5E7jBDo87OAElh) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Infame Golpazo En Keroxen](https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4) | 5:22 | 2021-10-06 | 2022-07-14 |
-| [Las Panteras](https://open.spotify.com/track/78wov1rtJdf7ZnPNNXBDWY) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:52 | 2022-04-26 |  |
+| [Las Panteras](https://open.spotify.com/track/78wov1rtJdf7ZnPNNXBDWY) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:52 | 2022-04-26 | 2023-02-24 |
 | [Law Laffeina El Ard \- Habibi Funk 020](https://open.spotify.com/track/7aYyF8mi6LYqms6JdcREDS) | [Maha](https://open.spotify.com/artist/18LWSRqUjdqlSaAD79HS4H) | [Law Laffeina El Ard \(Habibi Funk 020\)](https://open.spotify.com/album/7vtL88JlUZ72Q5ekJ4MLsx) | 6:16 | 2022-09-03 | 2022-11-20 |
 | [Layla, Pt\. 1](https://open.spotify.com/track/1fJWdk2kxrtkdlPFyVRqIc) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [Layla](https://open.spotify.com/album/33jRRJHoKl6Fes91vgdXAz) | 3:14 | 2021-10-06 | 2022-05-29 |
 | [Lazalypso](https://open.spotify.com/track/4mtYQUCB0AuUriy4Sv1nri) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/0y7GV4jRQOaWiN4sH0SPW5) | 3:33 | 2021-10-06 | 2022-04-14 |

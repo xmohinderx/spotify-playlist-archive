@@ -1,12 +1,12 @@
 {
   "description": "Pop Ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2015454,
+  "num_followers": 2015465,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDYyYTNmZmU0Y2YzNGYyOGU4ZjI2YzYyYTczZGNlMjNk",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDAzYzYzZmZjY2Q4ZDhlMTc1ZjA0MzJkNmFjMGZjNjc0",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "El Color de Tus Ojos (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/0oPqmNycT3rm72Qp6KcvLU"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "El Color de Tus Ojos - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/5vqKT1wBUAxlFq57ymoOeJ"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 282733,
       "name": "Eres para M\u00ed (with La Mala Rodr\u00edguez) - Unplugged (En Vivo)",
       "url": "https://open.spotify.com/track/1gL4YEW5qp6mv2aku06a06"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "El Color de Tus Ojos (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0oPqmNycT3rm72Qp6KcvLU"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "El Color de Tus Ojos - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5vqKT1wBUAxlFq57ymoOeJ"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Chiste",
-        "url": "https://open.spotify.com/album/0LwOkOMLlcs3NPs0fcrVKA"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Chiste",
-      "url": "https://open.spotify.com/track/78vnwvT5WLm31MSXULO48p"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
       },
@@ -499,22 +483,34 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Julieta Venegas - MTV Unplugged",
-        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
+        "name": "Chiste",
+        "url": "https://open.spotify.com/album/0LwOkOMLlcs3NPs0fcrVKA"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
-      "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
+      "duration_ms": 171034,
+      "name": "Chiste",
+      "url": "https://open.spotify.com/track/78vnwvT5WLm31MSXULO48p"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Planeando Madrid",
+        "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 252736,
+      "name": "Planeando Madrid",
+      "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -535,18 +531,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Planeando Madrid",
-        "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
       "artists": [
         {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 252736,
-      "name": "Planeando Madrid",
-      "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
+      "duration_ms": 226373,
+      "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
+      "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "desde que estas en mi vida",
+        "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "desde que estas en mi vida",
+      "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Tr3s Presents Juanes MTV Unplugged",
         "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 177807,
       "name": "el buf\u00f3n",
       "url": "https://open.spotify.com/track/21BSvkIPRTD4noWUoXrjGd"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "desde que estas en mi vida",
-        "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "desde que estas en mi vida",
-      "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "no vuelvas a mirar atr\u00e1s",
-        "url": "https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 245945,
-      "name": "no vuelvas a mirar atr\u00e1s",
-      "url": "https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Flotando (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 256708,
       "name": "Flotando (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "no vuelvas a mirar atr\u00e1s",
+        "url": "https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 245945,
+      "name": "no vuelvas a mirar atr\u00e1s",
+      "url": "https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "De Rodillas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1vjl5MYuhrEKd9leIUnADp"
-      },
-      "artists": [
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 268257,
-      "name": "De Rodillas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2iMb7HAmOcdnZzAOa4yNAq"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Am\u00e1",
         "url": "https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 176256,
       "name": "Am\u00e1",
       "url": "https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "De Rodillas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1vjl5MYuhrEKd9leIUnADp"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 268257,
+      "name": "De Rodillas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2iMb7HAmOcdnZzAOa4yNAq"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "creo que todo estar\u00e1 bien",
-        "url": "https://open.spotify.com/album/6vSBWbTdWml9R4Tr6mSoBR"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 220073,
-      "name": "creo que todo estar\u00e1 bien",
-      "url": "https://open.spotify.com/track/1s85LXbICacrdeMlFAG8st"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Voy Cantando",
         "url": "https://open.spotify.com/album/27rvAk3yuyxiv5cdKihsXY"
       },
@@ -2007,6 +1991,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "creo que todo estar\u00e1 bien",
+        "url": "https://open.spotify.com/album/6vSBWbTdWml9R4Tr6mSoBR"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 220073,
+      "name": "creo que todo estar\u00e1 bien",
+      "url": "https://open.spotify.com/track/1s85LXbICacrdeMlFAG8st"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "En Medio De Este Ruido",
         "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
       },
@@ -2019,22 +2019,6 @@
       "duration_ms": 247213,
       "name": "En Medio De Este Ruido",
       "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Beirut",
-        "url": "https://open.spotify.com/album/48b70fp1rG47WNeWJevAqH"
-      },
-      "artists": [
-        {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        }
-      ],
-      "duration_ms": 151142,
-      "name": "Beirut",
-      "url": "https://open.spotify.com/track/53rAqXVFlcXLquCLQBmo6J"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -2067,6 +2051,22 @@
       "duration_ms": 225041,
       "name": "Soy capaz - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/0EeZEQ51vHrG569kZocOKe"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Beirut",
+        "url": "https://open.spotify.com/album/48b70fp1rG47WNeWJevAqH"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "duration_ms": 151142,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/53rAqXVFlcXLquCLQBmo6J"
     }
   ],
   "unique_name": "Mediod\u00eda Ac\u00fastico",

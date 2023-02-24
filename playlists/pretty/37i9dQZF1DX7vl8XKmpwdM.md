@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vl8XKmpwdM.md) - [plain]
 
 > Dance Machi Dance<br/>Cover : Thunivu
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,836 likes - 67 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,969 likes - 67 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

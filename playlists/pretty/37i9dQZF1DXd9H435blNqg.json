@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 33685,
+  "num_followers": 33756,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDM0YTNjMjg4ODA1NGVhZWY1ZThlNmNjNGUyMDMwMzkx",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDlmYTk1NjBhYWFhNDMyYzI5ZTVhMjM3MTFjODM2MzQ5",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Up and Rolling",
-        "url": "https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Bump that Mother",
-      "url": "https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "In the Middle",
         "url": "https://open.spotify.com/album/1fUWSMrv1jZ7AxOsslJhQX"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 214818,
       "name": "In the Middle",
       "url": "https://open.spotify.com/track/2QSeOYAeexi7ZxVqlEFGE8"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Up and Rolling",
+        "url": "https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Bump that Mother",
+      "url": "https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -511,18 +511,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Don't Say Goodbye",
-        "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
+        "name": "Eric Tessmer 2",
+        "url": "https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD"
       },
       "artists": [
         {
-          "name": "Swamp",
-          "url": "https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS"
+          "name": "Eric Tessmer",
+          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
         }
       ],
-      "duration_ms": 185597,
-      "name": "Get Gone",
-      "url": "https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L"
+      "duration_ms": 249826,
+      "name": "Good So Bad",
+      "url": "https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Eric Tessmer 2",
-        "url": "https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD"
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
       },
       "artists": [
         {
-          "name": "Eric Tessmer",
-          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
+          "name": "Swamp",
+          "url": "https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS"
         }
       ],
-      "duration_ms": 249826,
-      "name": "Good So Bad",
-      "url": "https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs"
+      "duration_ms": 185597,
+      "name": "Get Gone",
+      "url": "https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Homemade Disaster",
-        "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 194564,
-      "name": "Homemade Disaster",
-      "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Kill Or Be Kind",
         "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Don't Tell Me No Lies",
-        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
+        "name": "Homemade Disaster",
+        "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
       },
       "artists": [
         {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
         }
       ],
-      "duration_ms": 147423,
-      "name": "Don't Tell Me No Lies",
-      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
+      "duration_ms": 194564,
+      "name": "Homemade Disaster",
+      "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -791,18 +775,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+        "name": "Don't Tell Me No Lies",
+        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Fix Your Face",
-      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
+      "duration_ms": 147423,
+      "name": "Don't Tell Me No Lies",
+      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -819,6 +803,22 @@
       "duration_ms": 145513,
       "name": "29 Gold Stars",
       "url": "https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Fix Your Face",
+      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
     },
     {
       "added_at": "2022-08-31 19:45:43",

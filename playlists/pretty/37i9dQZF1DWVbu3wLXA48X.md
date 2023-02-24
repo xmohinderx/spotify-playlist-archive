@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Feist
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,860 likes - 74 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,861 likes - 74 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

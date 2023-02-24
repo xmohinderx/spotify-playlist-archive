@@ -1,12 +1,12 @@
 {
   "description": "Escuch\u00e1 a Yami Safdie y a m\u00e1s mujeres a todo volumen. \nDales PLAY, dales POWER.",
-  "num_followers": 25649,
+  "num_followers": 25660,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMGY2MmQyMzQyODZkMjFmNTFkMWY3YTg5ZDE0NzY5MjJj",
+  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDg2YzYwNWNjMzllM2U5NmE3NDE3MzVhNWE2ZTVmYTQx",
   "tracks": [
     {
       "added_at": "2023-02-01 03:00:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
+        "name": "Bellaca",
+        "url": "https://open.spotify.com/album/2Ff3G9rBwSjr5D2C4hxDEl"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "Bellaca",
+      "url": "https://open.spotify.com/track/4ete7zWr70bdvUBhq8CEZt"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
         "name": "Fresh Prince (Remix)",
         "url": "https://open.spotify.com/album/7fP6eFdFHyneo1Ez8tku5X"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 212363,
       "name": "Fresh Prince - Remix",
       "url": "https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
-        "name": "Bellaca",
-        "url": "https://open.spotify.com/album/2Ff3G9rBwSjr5D2C4hxDEl"
-      },
-      "artists": [
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "Bellaca",
-      "url": "https://open.spotify.com/track/4ete7zWr70bdvUBhq8CEZt"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Que Me Duela",
-        "url": "https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh"
-      },
-      "artists": [
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "\u00daltimo Intento",
-      "url": "https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "Xoxo",
         "url": "https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "No Es Tan F\u00e1cil",
-        "url": "https://open.spotify.com/album/0zgNHTHmjDhupCz27J5YXn"
+        "name": "Que Me Duela",
+        "url": "https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh"
       },
       "artists": [
         {
-          "name": "Meri Deal",
-          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
         }
       ],
-      "duration_ms": 169745,
-      "name": "No Es Tan F\u00e1cil",
-      "url": "https://open.spotify.com/track/5GAVXj9KKGXa3TcmU6KcnI"
+      "duration_ms": 184613,
+      "name": "\u00daltimo Intento",
+      "url": "https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -623,6 +607,22 @@
       "duration_ms": 152750,
       "name": "Barquinho",
       "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "No Es Tan F\u00e1cil",
+        "url": "https://open.spotify.com/album/0zgNHTHmjDhupCz27J5YXn"
+      },
+      "artists": [
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        }
+      ],
+      "duration_ms": 169745,
+      "name": "No Es Tan F\u00e1cil",
+      "url": "https://open.spotify.com/track/5GAVXj9KKGXa3TcmU6KcnI"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Mi Coraz\u00f3n y Yo",
-        "url": "https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 178665,
-      "name": "Mi Coraz\u00f3n y Yo",
-      "url": "https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "Spm (Se Pronuncia Maguaier)",
         "url": "https://open.spotify.com/album/6yDOQhDAnwt9Bh2KN5Volt"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 164999,
       "name": "Pedazos",
       "url": "https://open.spotify.com/track/7pe9YKf899xuL7ZSS9V3Hz"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Mi Coraz\u00f3n y Yo",
+        "url": "https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5"
+      },
+      "artists": [
+        {
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+        }
+      ],
+      "duration_ms": 178665,
+      "name": "Mi Coraz\u00f3n y Yo",
+      "url": "https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV"
     },
     {
       "added_at": "2023-02-01 03:00:00",

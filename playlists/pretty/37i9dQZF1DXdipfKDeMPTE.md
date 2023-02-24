@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,191 likes - 190 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,198 likes - 190 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 22 | [Serene](https://open.spotify.com/track/7c5AVhL9bDKTrSsaYDHNpW) | [Saltyyyy V](https://open.spotify.com/artist/4EDHI70lFl3T53KI0uEqUG) | [Serene](https://open.spotify.com/album/1jgDDthw4uOqZRxNwYkZ4o) | 1:58 |
 | 23 | [Yarrow](https://open.spotify.com/track/5uX19CUKo8Yz77Scwx6KZV) | [Rooey](https://open.spotify.com/artist/5y2hfguiOBZAN1WUEyi2cv) | [Yarrow](https://open.spotify.com/album/15MhsVuhpY0BjoUowYVUcZ) | 2:25 |
 | 24 | [Tone it Down A Little](https://open.spotify.com/track/1A1AIK26gc1C4becMyALgt) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Tone it Down A Little](https://open.spotify.com/album/4E1zvGg5wCya4DDac1mPlY) | 2:12 |
-| 25 | [cozed up](https://open.spotify.com/track/0Vc5lqLOGTrnDUQWsp2fhh) | [longstar](https://open.spotify.com/artist/4v7r7XxcGpcuwcSJM9r2aG) | [cozed up](https://open.spotify.com/album/2A31tqc7gJrxb2cMbdxbff) | 2:49 |
+| 25 | [cozed up](https://open.spotify.com/track/0Vc5lqLOGTrnDUQWsp2fhh) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [cozed up](https://open.spotify.com/album/2A31tqc7gJrxb2cMbdxbff) | 2:49 |
 | 26 | [Triangles](https://open.spotify.com/track/12f4ZvWlgShTp0Qbfxow4Y) | [Wizard Art](https://open.spotify.com/artist/5HcBOSrRqpqtGaDQkICYzY) | [Triangles](https://open.spotify.com/album/4bKMJN3wazmlZ5GzICQJPN) | 2:17 |
 | 27 | [Sunset Valley](https://open.spotify.com/track/1zIUzXcK4qTOykkoAeyE6L) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Sunset Valley](https://open.spotify.com/album/2uofibwmMXSV7rdlh5mpuJ) | 1:44 |
 | 28 | [what if you fly](https://open.spotify.com/track/3aLbLjbcXA7TXbeJrLS4zi) | [lostoutside](https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [what if you fly](https://open.spotify.com/album/6ClOqKfpK2cZsVnMgpzg4N) | 1:29 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 96 | [I WISH I WAS LIKE YOU](https://open.spotify.com/track/2uvuagXuHwY0WQuUsWJUuM) | [Leevs](https://open.spotify.com/artist/3HHCa5TohONStbWCA2rhEo) | [I WISH I WAS LIKE YOU](https://open.spotify.com/album/3X8qt90fk0vDclaPxem7Nt) | 2:08 |
 | 97 | [Entangled](https://open.spotify.com/track/5YjyRNNS28iHVbrwrSyO0P) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Entangled](https://open.spotify.com/album/0T0rIb0FY0FMnrL6TDXw1K) | 1:47 |
 | 98 | [Tailwind](https://open.spotify.com/track/4fwDAHzAXT7r55nGJ5JZKj) | [arithmetic underflow](https://open.spotify.com/artist/6uk5o7O5Wz3xVIUv3zG9Gr) | [Tailwind](https://open.spotify.com/album/2zjpDSio3watKNOwNcykwy) | 2:21 |
-| 99 | [gots to chill](https://open.spotify.com/track/2N0EsmVXjS2Fc3FFR2BouU) | [Dream Events](https://open.spotify.com/artist/0gaqCjCjnoxwDePjAZ9277) | [gots to chill](https://open.spotify.com/album/7IVMjmiejiglBlUzBugk5K) | 2:08 |
+| 99 | [gots to chill](https://open.spotify.com/track/2N0EsmVXjS2Fc3FFR2BouU) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [gots to chill](https://open.spotify.com/album/7IVMjmiejiglBlUzBugk5K) | 2:08 |
 | 100 | [Norwood Gardens](https://open.spotify.com/track/6wluXwFG3GkUNhrsdPv7EO) | [Gael Rico](https://open.spotify.com/artist/7792K7G74q2ZpczQiXdvlX) | [Lofi Play](https://open.spotify.com/album/5NkSjgzWJxjhQjTSjdwvw0) | 1:37 |
 | 101 | [Tamashii](https://open.spotify.com/track/68WweGwTEA2lH1NXw0i7O1) | [Eastern Sage](https://open.spotify.com/artist/0uabB9eq1pesTNA7wrt7Pm) | [Tamashii](https://open.spotify.com/album/54D2ljgioG4JOyEzGS7Myz) | 3:22 |
 | 102 | [Ravenous](https://open.spotify.com/track/71yvwZY4a0GqV8tHX5rydu) | [Autumn Orange](https://open.spotify.com/artist/0qxYe3bUK07HdZ2VLQ7Cwg) | [Nightfall // Ravenous](https://open.spotify.com/album/1xLN1gdeSrGzv6x4FelN6f) | 2:06 |

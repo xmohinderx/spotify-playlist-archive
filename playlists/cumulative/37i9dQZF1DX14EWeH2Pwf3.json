@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Madame",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Gu\u00e8, ANNA, Sfera Ebbasta",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 208323,
       "name": "CENERE",
       "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-23",
+      "date_removed": null,
       "duration_ms": 208323,
       "name": "CENERE",
       "url": "https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK"
@@ -1873,6 +1873,36 @@
     },
     {
       "album": {
+        "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
+        "url": "https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi"
+      },
+      "artists": [
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181611,
+      "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu"
+    },
+    {
+      "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
       },
@@ -1998,7 +2028,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 200080,
       "name": "Guasto D'Amore",
       "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"

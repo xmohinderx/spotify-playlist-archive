@@ -1339,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Girls Like You",
+        "url": "https://open.spotify.com/album/0m8do2sQQ59xwjG6sLkOmT"
+      },
+      "artists": [
+        {
+          "name": "Scottie",
+          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217772,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/6J2gTwqgxuYnIU5yJt64Id"
+    },
+    {
+      "album": {
         "name": "Glycerine",
         "url": "https://open.spotify.com/album/26RqcmCTKtxEo3W0ADbuSY"
       },

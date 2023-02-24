@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,810 likes - 306 songs - 11 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,438 likes - 306 songs - 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 100 | [Grain of Pepper](https://open.spotify.com/track/77YoUIwGlotxAqeWo6SLMs) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [Grain of Pepper](https://open.spotify.com/album/0QUGWCpsVE6BnoAaGffFwS) | 2:52 |
 | 101 | [lazy nap](https://open.spotify.com/track/7ceWC1unY3ull9IafRchhV) | [redknobs](https://open.spotify.com/artist/69cokHbMaS4QTveywGMSUN) | [lazy nap](https://open.spotify.com/album/6hFOb4dQj9LiJbhbtr0NFc) | 2:30 |
 | 102 | [Trees](https://open.spotify.com/track/2LvypmMQvgfv2kPQdzCkFt) | [Mr Zakky](https://open.spotify.com/artist/7JHrK8hjsA4ndEFOU8hN9O) | [Trees](https://open.spotify.com/album/7BTqBPe9AWLXBCMR23zCOo) | 2:11 |
-| 103 | [Silent Path](https://open.spotify.com/track/010GNDJHKUgs9j2npP13iI) | [matseruba](https://open.spotify.com/artist/0efY8bFD7Mf46WG8jYZJ7u) | [Silent Path](https://open.spotify.com/album/3Bhy7SpHRkt9Ak5NHb5gU8) | 2:16 |
+| 103 | [Silent Path](https://open.spotify.com/track/010GNDJHKUgs9j2npP13iI) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Silent Path](https://open.spotify.com/album/3Bhy7SpHRkt9Ak5NHb5gU8) | 2:16 |
 | 104 | [Celery Man](https://open.spotify.com/track/2JhgBqqhrDvRRctgGGY20z) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [Celery man](https://open.spotify.com/album/6aSh8zLkDwCDe29qUmK8pP) | 2:36 |
 | 105 | [it was meant to be](https://open.spotify.com/track/5mHlTUyCELZpAij3EvZFFN) | [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [it was meant to be](https://open.spotify.com/album/1Q1Y0vfcdKcnXFhM7SqYAC) | 2:40 |
 | 106 | [Soothing Sense](https://open.spotify.com/track/4NRrzS3heq2vqVq4cxi81o) | [Bill Snoozer](https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo) | [Soothing Sense](https://open.spotify.com/album/5O1gdEODC0sptUe1FdeqgZ) | 1:48 |

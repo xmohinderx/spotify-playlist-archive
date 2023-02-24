@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Anthems from a new generation of party starters\. Cover: piri & tommy
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,219 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,241 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 16 | [Don’t Walk Away](https://open.spotify.com/track/2TNkWEQkEj1ksOydBwurwF) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Don’t Walk Away](https://open.spotify.com/album/3YnMECirAZJqx2e40IiEC2) | 2:33 |
 | 17 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 |
 | 18 | [It's Just This Thing](https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Feel So Free Mixtape](https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB) | 3:39 |
-| 19 | [He Goes Down](https://open.spotify.com/track/05QxhgU8foggzTp9EhOvdv) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Krafttraining 2023](https://open.spotify.com/album/0KGRd0yjrjkykgpuGW8083) | 2:38 |
+| 19 | [He Goes Down](https://open.spotify.com/track/4Jxqo3meY7nbbnqa7cQY7p) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [He Goes Down](https://open.spotify.com/album/2fD8NBqB9lxwJpTdZuZhSr) | 2:38 |
 | 20 | [Only You](https://open.spotify.com/track/2gcgwomqMF4Z92EZAPv3Ic) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Only You](https://open.spotify.com/album/4IdRKmgd3lPeH5NuwDpi6i) | 3:29 |
 | 21 | [Stick Around](https://open.spotify.com/track/5uM8bC7dVn5v59zwQybe9d) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Everything Falls Into Place](https://open.spotify.com/album/2R9HgibWqmnLNBlKSxxtiJ) | 2:19 |
 | 22 | [Never Gonna Stop](https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 49 | [Feel Like That](https://open.spotify.com/track/2GlzL3MAoqg6sKFEC3tKFQ) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Feel Like That](https://open.spotify.com/album/3VrM26Y9zVHzAVHov5uzWE) | 2:39 |
 | 50 | [Vibes](https://open.spotify.com/track/2S1qVuKPYZM2uhKn0lpncg) | [Mango X MathMan](https://open.spotify.com/artist/4DNzWICHEOAYjJjJhn1dJh), [MC Creed](https://open.spotify.com/artist/6abMSOfq8xfhJXV9WRblCd) | [Vibes](https://open.spotify.com/album/64U3N5GzsXigu5GL8QTLBL) | 3:20 |
 
-Snapshot ID: `MTY2OTk5MTUzNywwMDAwMDAwMDFmZThkNmZlZGMxMzZjYTk1Yzc4YjQ3YjljNzc4ODY3`
+Snapshot ID: `MTY2OTk5MTUzNywwMDAwMDAwMGI1MzIzYzAwY2FjMWFhYzExNmI1NjA3ZWJmYjJmZTE4`

@@ -4,7 +4,7 @@
 
 > ¡Brillando baldosa! Foto: Juan Carlos Ensamble
 
-89 songs - 6 hr 39 min
+90 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Lindo Yambú](https://open.spotify.com/track/1SRtV0s5iBamG2CQcNGvV1) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Una Voz Mil Recuerdos](https://open.spotify.com/album/6vBTlt4cTdscknR1BOQmRx) | 4:34 | 2022-06-24 |  |
 | [Logré Olvidar](https://open.spotify.com/track/6jH9HbI5VQAhHT9Srddivo) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [Soy la Generación](https://open.spotify.com/album/68OC8H6MlIrTIrOdTqO2tt) | 4:27 | 2022-11-29 |  |
 | [Majadera](https://open.spotify.com/track/1sqc4IHx9fN0kmgh9HuSt4) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Si Tú Quieres Salsa](https://open.spotify.com/album/5IwIMVTYxRrwAm5cUW0GoY) | 4:36 | 2022-06-24 |  |
-| [Manyoma](https://open.spotify.com/track/3TA9nq749Dfq7VwirwPuiJ) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 4:08 | 2022-06-24 |  |
+| [Manyoma](https://open.spotify.com/track/3TA9nq749Dfq7VwirwPuiJ) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 4:08 | 2022-06-24 | 2023-02-24 |
+| [Manyoma](https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:08 | 2022-12-02 |  |
 | [Maria Canela](https://open.spotify.com/track/2AzJDIs4hDFvARTcTRGj0a) | [Cesar Mora](https://open.spotify.com/artist/0xR68AyQA5b3scD6PB8RPS) | [Hacerlo Bien](https://open.spotify.com/album/2hBVT5RuHoYHdfBAhxhPdd) | 5:02 | 2022-06-24 |  |
 | [Micaela](https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 4:44 | 2022-06-24 |  |
 | [Micaela](https://open.spotify.com/track/4fMzopYZnezYVCOADldvq7) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [Boogaloo Is Here](https://open.spotify.com/album/1SemOW7b7Wz8yEyQTmZ6p6) | 4:44 | 2022-06-24 | 2022-11-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182,604 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,607 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 9 | [Teenage Dream \- Sped Up](https://open.spotify.com/track/2V2tFg96o8qj7hUPLhSF6F) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:23 |
 | 10 | [One Kiss \- Sped Up](https://open.spotify.com/track/0GAiKtdJPxIZBMooHqLsuN) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [One Kiss \- Sped Up](https://open.spotify.com/album/7rpvJbNeNjGPE1yjFhu5cM) | 2:43 |
 | 11 | [Her Way \- Sped Up](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 |
-| 12 | [Judas \- Sped Up](https://open.spotify.com/track/5qn1Dz4GFUdRNgKtO40LmY) | [ethereal](https://open.spotify.com/artist/44K92k9CFKrAefHRMs0chG), [Lofis](https://open.spotify.com/artist/7iFODSQxtV2tDxZBYtyFgt) | [Judas](https://open.spotify.com/album/5sPMLLr9CwQZPEd67PbJUr) | 3:26 |
+| 12 | [Judas \- Sped Up](https://open.spotify.com/track/4XPtTtlrsrIzFiMlOrX3TK) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Judas \- Sped Up](https://open.spotify.com/album/2UMCWd8fmH5HcBnguXciGp) | 3:26 |
 | 13 | [Shut up My Moms Calling \- \(Sped Up\)](https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling \(Sped up\)](https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A) | 2:15 |
 | 14 | [Give It To Me](https://open.spotify.com/track/04SSxcKDNjAkTvPeT0UUMN) | [Henrik](https://open.spotify.com/artist/5h726j6J9LwwSoINEX4dLx) | [Give It To Me](https://open.spotify.com/album/73DfRZAOvXTeJKyd0pWs3v) | 2:56 |
 | 15 | [Gilded Lily \- Sped Up](https://open.spotify.com/track/0M6urYKXizSJgtuipqmctu) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [Can I Call You Tonight? \- sped\-up](https://open.spotify.com/track/24RbayMQzBnvvoYutYnryg) | [DJ Nightshade](https://open.spotify.com/artist/48ETWZKdDpQYa5OgNnNjHq) | [Fuzzybrain \(sped\-up\)](https://open.spotify.com/album/3DDSJ8PNqvNpRF0aFo7rxl) | 3:30 |
 | 100 | [Shame \- Sped Up](https://open.spotify.com/track/0h9GRF6sk6ryhOmqp5V3yh) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer \(Sped Up\)](https://open.spotify.com/album/2vIAupx3DY7BXPCG2WeQHw) | 2:20 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGI2ODI2OWZhYmUxMGVjOGYwZTZhZDkyZmZiMGE5OWQ3`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGZhMzhkMDY5NjcxYjE3MTFmYTI3MWQ0Zjc1NjA5OGNi`

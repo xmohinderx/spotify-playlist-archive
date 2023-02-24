@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 123894,
+  "num_followers": 123924,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMDBkNWVhNTNkMzRiYzM4ZDI3ZDg2ZjZmMjNjYjk5YzNj",
+  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMDQzNGY3NTM5ODJmNzA1MjkwZWZhODgwNTg5ZTIzOTYy",
   "tracks": [
     {
       "added_at": "2022-08-31 15:41:18",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Las Canciones de Cuco S\u00e1nchez",
-        "url": "https://open.spotify.com/album/5bcN9n6B7PbfLxdCxH3XEl"
-      },
-      "artists": [
-        {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
-        }
-      ],
-      "duration_ms": 123453,
-      "name": "La Valentina",
-      "url": "https://open.spotify.com/track/7AEK6B5oWFgH5Du9nzINgr"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "El Tilingo Lingo",
         "url": "https://open.spotify.com/album/2CI0buQUSqmtm4a5SccEaD"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 175972,
       "name": "El Tilingo Lingo",
       "url": "https://open.spotify.com/track/1wuWRVyQmOMocqvdKkB2J1"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Las Canciones de Cuco S\u00e1nchez",
+        "url": "https://open.spotify.com/album/5bcN9n6B7PbfLxdCxH3XEl"
+      },
+      "artists": [
+        {
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+        }
+      ],
+      "duration_ms": 123453,
+      "name": "La Valentina",
+      "url": "https://open.spotify.com/track/7AEK6B5oWFgH5Du9nzINgr"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "La Ruta del Son Mexicano",
-        "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
-      },
-      "artists": [
-        {
-          "name": "Son Itsme\u00f1o",
-          "url": "https://open.spotify.com/artist/1GtAdYtIZLOHrTCJUTNkFl"
-        }
-      ],
-      "duration_ms": 271040,
-      "name": "La Martiniana",
-      "url": "https://open.spotify.com/track/1m5A6GfEnXDex5rRCgZMWT"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Sembrando Flores",
         "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 321000,
       "name": "Camotal",
       "url": "https://open.spotify.com/track/4s7qx83G1CKhSHCcnHV0lC"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "La Ruta del Son Mexicano",
+        "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
+      },
+      "artists": [
+        {
+          "name": "Son Itsme\u00f1o",
+          "url": "https://open.spotify.com/artist/1GtAdYtIZLOHrTCJUTNkFl"
+        }
+      ],
+      "duration_ms": 271040,
+      "name": "La Martiniana",
+      "url": "https://open.spotify.com/track/1m5A6GfEnXDex5rRCgZMWT"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "M\u00e9xico 2010 El Salterio",
-        "url": "https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX"
-      },
-      "artists": [
-        {
-          "name": "Daniel Armas",
-          "url": "https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi"
-        }
-      ],
-      "duration_ms": 161866,
-      "name": "Ay Jalisco No Te Rajes",
-      "url": "https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "The Best of Mexico",
         "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
       },
@@ -1331,22 +1315,6 @@
       "duration_ms": 163400,
       "name": "La bikina (arr. R. Jonas)",
       "url": "https://open.spotify.com/track/51asKtaV6doDVdR1WLeE6A"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
-        "name": "En Tonos Muy Diferentes",
-        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
-      },
-      "artists": [
-        {
-          "name": "Los Vega",
-          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1395,6 +1363,38 @@
       "duration_ms": 192200,
       "name": "M\u00e9xico Lindo y Querido",
       "url": "https://open.spotify.com/track/0OOdn5YA4H5oqNpar9hxFm"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "En Tonos Muy Diferentes",
+        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
+      },
+      "artists": [
+        {
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "M\u00e9xico 2010 El Salterio",
+        "url": "https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Armas",
+          "url": "https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi"
+        }
+      ],
+      "duration_ms": 161866,
+      "name": "Ay Jalisco No Te Rajes",
+      "url": "https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH"
     },
     {
       "added_at": "2022-08-31 15:41:18",

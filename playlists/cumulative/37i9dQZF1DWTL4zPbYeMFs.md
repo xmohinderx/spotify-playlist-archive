@@ -2,13 +2,14 @@
 
 ### [Mehendi](https://open.spotify.com/playlist/37i9dQZF1DWTL4zPbYeMFs)
 
-> A perfect mix for your Mehendi evening.
+> A perfect mix for your Mehendi ceremony.
 
-48 songs - 3 hr 56 min
+49 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/5sleet26J1GCHLL42Dn6OV) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nankana](https://open.spotify.com/album/1t6NDICI2JD505CLOLT0WV) | 0:00 | 2022-03-14 |  |
+| [](https://open.spotify.com/track/5sleet26J1GCHLL42Dn6OV) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nankana](https://open.spotify.com/album/1t6NDICI2JD505CLOLT0WV) | 0:00 | 2022-03-14 | 2023-02-24 |
+| [Aaj Sajeya](https://open.spotify.com/track/1Oyfarj5ipZwEup8DUM7hA) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Aaj Sajeya \- Single](https://open.spotify.com/album/5K07SMgR7RxfpsgDcNmD2o) | 3:49 | 2023-02-23 |  |
 | [Ambarsariya](https://open.spotify.com/track/4qRcjFkFqSpLBzcbLDt7HL) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Fukrey](https://open.spotify.com/album/5PWhrKKFYTMnutQ4x5DqHd) | 4:08 | 2022-03-14 |  |
 | [Baari Barsi](https://open.spotify.com/track/16168M9xvIA5FqGlurQfsv) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Labh Janjua](https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Band Baaja Baaraat](https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU) | 4:42 | 2022-03-14 |  |
 | [Bajre Da Sitta](https://open.spotify.com/track/7xC3WCYXbpCGuTsjGswxjB) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Bajre Da Sitta \- Single](https://open.spotify.com/album/0l6n0qKap0pqC3NJROpB7z) | 2:58 | 2022-03-14 |  |
@@ -37,7 +38,7 @@
 | [Mahiya](https://open.spotify.com/track/5f6v7J2ifXZZijn0AGd0Bz) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mahiya](https://open.spotify.com/album/7DvAu6vwzu1iZEe5kHszLz) | 5:02 | 2022-03-14 |  |
 | [Mehendi Lagi](https://open.spotify.com/track/6nh7VYmtwkzXK1Ua85ronc) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Nilesh Ahuja](https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Mehendi Lagi](https://open.spotify.com/album/11CstMSjuNTXYm3my0HmGE) | 3:30 | 2022-03-14 |  |
 | [Mehendi Wale Haath](https://open.spotify.com/track/3H4H5AuUK3t28rJNo1Pbfl) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjana Sanghi](https://open.spotify.com/artist/0nFIPa2qOn5ODHEWi3Ywan) | [Mehendi Wale Haath](https://open.spotify.com/album/27tWgZZCTAUBHTS7h2sBhQ) | 3:30 | 2022-03-14 |  |
-| [Mehndi](https://open.spotify.com/track/7GnO1WjNfc0BjHwwbkmsAn) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [DJ KSR](https://open.spotify.com/artist/5Vo22DmP2xVFg9dwnAZapU) | [Mehndi](https://open.spotify.com/album/5GbJKpHQ3UIKqZLSUZlj0x) | 2:52 | 2022-03-14 |  |
+| [Mehndi](https://open.spotify.com/track/7GnO1WjNfc0BjHwwbkmsAn) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [DJ KSR](https://open.spotify.com/artist/5Vo22DmP2xVFg9dwnAZapU) | [Mehndi](https://open.spotify.com/album/5GbJKpHQ3UIKqZLSUZlj0x) | 2:52 | 2022-03-14 | 2023-02-24 |
 | [Mehndi Hai Rachnewali](https://open.spotify.com/track/0lCdndc8chDOcAQqfLvCyE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Zubeidaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5t0wkaiJ86D3MtdBhUevkd) | 4:26 | 2022-03-14 |  |
 | [Mehndi Ki Raat](https://open.spotify.com/track/6yyC676TchwgOyhVfOykxA) | [Models](https://open.spotify.com/artist/7rH3S7xMKRVSr0JrpqTUIZ) | [Jaana Hai Bollywood](https://open.spotify.com/album/1ZhKxioBc0HF6CDGYHXMpx) | 4:23 | 2022-03-14 |  |
 | [Mehndi Ki Raat](https://open.spotify.com/track/7y6GHj9Jc5ZT0pMNwkw95x) | [Shree Lekha](https://open.spotify.com/artist/1pjbVA2ocNjqiOaFbFvabI), [Sonali Das](https://open.spotify.com/artist/4D6r0qWAWcU9gzfTi6uinn), [Dipali](https://open.spotify.com/artist/2hbLXaqzGVQ2YLXuDMja39), [Anuja](https://open.spotify.com/artist/5V8DocXmZeYm3zZ3dYS8IF), [Bhushan Dua](https://open.spotify.com/artist/4PhJv48oy3YJMQ5hDt9BFu) | [Mehndi Ki Raat](https://open.spotify.com/album/3ZiZ9EigOAvzrAe24eE9sJ) | 45:51 | 2022-03-14 |  |

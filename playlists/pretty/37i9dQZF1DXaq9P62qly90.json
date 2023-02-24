@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12157,
+  "num_followers": 12160,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGNjNjE4MWE3MjVhNjdjMDk4MzNlYjc5MWQ5MmE2Zjcw",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDgyY2ZiNmZkMGEzMzE2YmJlOWUwMmE2MDlhYThhOGFh",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -139,26 +139,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Sacred Sound",
-        "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
-      },
-      "artists": [
-        {
-          "name": "Iya Terra",
-          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 216476,
-      "name": "Give Thanks (feat. Stick Figure)",
-      "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 443379,
       "name": "Weight of Sound",
       "url": "https://open.spotify.com/track/3W4x7fZhMHw2pE6wyBzzF8"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Sacred Sound",
+        "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
+      },
+      "artists": [
+        {
+          "name": "Iya Terra",
+          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "Give Thanks (feat. Stick Figure)",
+      "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
     },
     {
       "added_at": "2023-01-03 17:09:40",

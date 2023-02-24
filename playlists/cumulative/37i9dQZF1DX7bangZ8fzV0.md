@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj?si=ihlY0VQuSsKfL1qc4UnEfQ">Ilán van Staden</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=LYDMnwDcQpKIGaSI1hvkeA">Brendan Peyper</a>
 
-97 songs - 5 hr 28 min
+99 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Bietjie Benoni](https://open.spotify.com/track/5JGkomhAMrzfikSR4BGuYh) | [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Bietjie Benoni](https://open.spotify.com/album/2ulADrlXBpiPp6fTeI9pl4) | 3:23 | 2022-04-28 |  |
 | [Bokswyn](https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Bokswyn](https://open.spotify.com/album/0AUEv3KyWp0AGzlxq0sjud) | 3:09 | 2022-08-18 |  |
 | [Bosveld Vakansie](https://open.spotify.com/track/6LHiWLGfFYRV9iUCrcC2Gf) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sing Hoop Weerklink](https://open.spotify.com/album/38dU50ugb1c3kWmrdJqUg8) | 3:32 | 2022-11-10 | 2022-12-09 |
-| [Braaf Soos 'n Boerboel](https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Braaf Soos 'n Boerboel](https://open.spotify.com/album/02mJIfPUPEHgkOJCshmvvC) | 3:12 | 2023-01-26 |  |
+| [Braaf Soos 'n Boerboel](https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Braaf Soos 'n Boerboel](https://open.spotify.com/album/02mJIfPUPEHgkOJCshmvvC) | 3:12 | 2023-01-26 | 2023-02-24 |
 | [Braaibroodjies](https://open.spotify.com/track/2vpifO1DPguAHOEpXiy7AX) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/3R0El0a7RNd4vlKa3Cqsx6) | 3:23 | 2022-09-22 | 2022-11-26 |
 | [Braaibroodjies](https://open.spotify.com/track/34lszvPii4Yz3O5ieuPXuz) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/4YoNjsXDZjPPlo4WqaNKT2) | 3:23 | 2022-09-22 | 2022-12-02 |
 | [Brannewynlippe](https://open.spotify.com/track/1gdBisAst3pplEuOS4xUhP) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Brannewynlippe](https://open.spotify.com/album/68c0WhoFBICaOlNDVh3pvk) | 3:06 | 2021-10-14 | 2023-01-21 |
@@ -66,6 +66,7 @@
 | [My Nannas](https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [My Nannas](https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc) | 3:17 | 2022-10-13 |  |
 | [My Persoon](https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc) | [Die Campbells](https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H), [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [My Persoon](https://open.spotify.com/album/0x2D2KYd5jIzeffnnRgynF) | 3:32 | 2022-11-24 | 2022-12-24 |
 | [My Volgende Fout](https://open.spotify.com/track/1kHQzqhGImGF9kPlgq7Yzh) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj), [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [My Volgende Fout](https://open.spotify.com/album/1FUttDOfsKL1aZw7fcsqAc) | 3:33 | 2021-11-08 |  |
+| [Nee of Ja](https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Nee of Ja](https://open.spotify.com/album/1ISXpP9dS92U0oqGCWjVjb) | 3:19 | 2023-02-23 |  |
 | [Nes Ons Kan](https://open.spotify.com/track/552ct0DgK65AjtFjXwnakh) | [Corné Louw](https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ) | [Nes Ons Kan](https://open.spotify.com/album/0HqO7AZMzelaMrtdKCNhOB) | 3:44 | 2022-10-13 | 2022-10-21 |
 | [Net Een Keer](https://open.spotify.com/track/71tkxqyBp1FnQYMI9R2NQY) | [Samantha Leonard](https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw) | [Net Een Keer](https://open.spotify.com/album/1NPoFcEaJg6MkRsHVPeN0M) | 2:53 | 2022-10-28 |  |
 | [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 | 2022-09-22 | 2022-10-21 |
@@ -82,7 +83,7 @@
 | [Ploeg Jy?](https://open.spotify.com/track/769iPvJtZt4nkdV7FKqvHS) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:37 | 2021-09-23 | 2022-11-13 |
 | [Rowwe Bliksem](https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Rowwe Bliksem](https://open.spotify.com/album/3aqGXXhEPT35aGsxTWrHBS) | 3:03 | 2022-01-27 |  |
 | [Sal Jy Vir My Wag](https://open.spotify.com/track/0iNTHA6vIhJN671nqIFISV) | [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Sal Jy Vir My Wag](https://open.spotify.com/album/670sMqYDZMP8arGh5jH5mJ) | 3:07 | 2022-09-01 | 2022-11-11 |
-| [Sandkasteel](https://open.spotify.com/track/7KSQOT6KtogmJawfS8cmhZ) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Sandkasteel](https://open.spotify.com/album/5Pj0DylpJ3P0KvtDhX1b8y) | 4:24 | 2022-12-01 |  |
+| [Sandkasteel](https://open.spotify.com/track/7KSQOT6KtogmJawfS8cmhZ) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Sandkasteel](https://open.spotify.com/album/5Pj0DylpJ3P0KvtDhX1b8y) | 4:24 | 2022-12-01 | 2023-02-24 |
 | [Skattie](https://open.spotify.com/track/1VJKNRIZ1LYNAOxIN01iNd) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Skattie](https://open.spotify.com/album/36cu3ZQxgHuLvIj3BUEynA) | 3:30 | 2022-09-29 | 2022-12-02 |
 | [Skildery \(Remix\)](https://open.spotify.com/track/4Sy3SykXit0psixwPq0KtO) | [Zandri](https://open.spotify.com/artist/2d4saNK84qEsfaPw26tjPq), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M) | [Skildery \(Remix\)](https://open.spotify.com/album/4kHqoFMstt9NCU6WJfejDn) | 4:52 | 2022-09-29 | 2022-10-14 |
 | [Skobbejak](https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc) | [Reën](https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB), [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Weer](https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz) | 3:32 | 2022-08-25 |  |
@@ -92,6 +93,7 @@
 | [Stoute Boude](https://open.spotify.com/track/6kBte7otKF6WvMdeP20rEg) | [Kevboii](https://open.spotify.com/artist/4Mp36UE9keQ7vXLcVLWzmN), [Charlie Beeskraal](https://open.spotify.com/artist/7Dp09kdCJoVzLPynMH0TMz) | [Stoute Boude](https://open.spotify.com/album/7hBAyrqbYZ9zesTt6t69t2) | 2:59 | 2021-09-27 | 2022-10-14 |
 | [Suikerbos](https://open.spotify.com/track/5xw1XMX2FkhfMDxJkImMEy) | [Stefan Jansen](https://open.spotify.com/artist/1wemQwgdM4yTWWkxjlFFyD) | [Suikerbos](https://open.spotify.com/album/64pO3zEBukMDwyZ8bUSBqU) | 4:17 | 2022-12-01 | 2022-12-16 |
 | [Sweef](https://open.spotify.com/track/5OdKyaUItAU0bJZbeopN8d) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic) | [Sweef](https://open.spotify.com/album/6HXf7BiE38LR73n1f8QDMk) | 2:52 | 2022-11-03 | 2022-12-09 |
+| [Swipe Regs](https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:40 | 2023-02-23 |  |
 | [Tekkies Brand](https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Tekkies Brand](https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD) | 3:28 | 2021-07-01 |  |
 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 | 2022-10-28 |  |
 | [Vat 'n Bietjie](https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 3:12 | 2021-04-19 |  |

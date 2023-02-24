@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 175609,
       "name": "Fammi sapere",
       "url": "https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ"
@@ -1994,7 +1994,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 233920,
       "name": "Honey - Original mix",
       "url": "https://open.spotify.com/track/5AGGlWNS6to8ccEt4goFd8"
@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 231774,
       "name": "LANCIA DELTA INTEGRALE",
       "url": "https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI"
@@ -2565,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "Ma che Hit",
+        "url": "https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA"
+      },
+      "artists": [
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "Ma che Hit",
+      "url": "https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH"
+    },
+    {
+      "album": {
         "name": "Magari Vivi",
         "url": "https://open.spotify.com/album/6oTqwvC6XLtQCcGqpqhdKK"
       },
@@ -2602,6 +2620,24 @@
       "duration_ms": 150834,
       "name": "Mami Daddy",
       "url": "https://open.spotify.com/track/5VHcNSkMpkjiw245BovVm2"
+    },
+    {
+      "album": {
+        "name": "MARE DI GUAI",
+        "url": "https://open.spotify.com/album/1nypi8w7X4rrXVJPSVghj0"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204486,
+      "name": "MARE DI GUAI",
+      "url": "https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu"
     },
     {
       "album": {
@@ -2664,6 +2700,24 @@
       "duration_ms": 337080,
       "name": "Menergy",
       "url": "https://open.spotify.com/track/7G0jq4sJ8oFfpfRzjFqeND"
+    },
+    {
+      "album": {
+        "name": "mi ami davvero?",
+        "url": "https://open.spotify.com/album/6rdzzMFUBmZRgraYqE2NrI"
+      },
+      "artists": [
+        {
+          "name": "cmqmartina",
+          "url": "https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205159,
+      "name": "mi ami davvero?",
+      "url": "https://open.spotify.com/track/0zfY0EORigBVMK5Y8VXbbp"
     },
     {
       "album": {
@@ -3550,10 +3604,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 178000,
       "name": "Repito - Populous Remix",
       "url": "https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw"
+    },
+    {
+      "album": {
+        "name": "Dormi",
+        "url": "https://open.spotify.com/album/0o43FP6kzT5GH7opmU9dCo"
+      },
+      "artists": [
+        {
+          "name": "Emma Nolde",
+          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213950,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/0AwjnkfYhpjZOO6eDSFFxx"
     },
     {
       "album": {
@@ -3896,6 +3968,24 @@
       "duration_ms": 178404,
       "name": "Slumber Party (feat. Princess Nokia)",
       "url": "https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ"
+    },
+    {
+      "album": {
+        "name": "SOLO PER TE",
+        "url": "https://open.spotify.com/album/4u8rILA5sJgKIJidTObCpV"
+      },
+      "artists": [
+        {
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199771,
+      "name": "SOLO PER TE",
+      "url": "https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5"
     },
     {
       "album": {
@@ -4610,7 +4700,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 254186,
       "name": "We're So Lovely - Hard Ton Remix",
       "url": "https://open.spotify.com/track/6qxn9Wge4mHwcDhr8R6R0p"

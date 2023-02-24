@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Carol Biazin e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,680 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,712 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 27 | [Eles nos Chamam de Amigos](https://open.spotify.com/track/1zIdr8OSTa8nY3SpJ7XKZd) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Eles nos Chamam de Amigos](https://open.spotify.com/album/4GPRFkoDZvVE1AJjAO5mmG) | 3:08 |
 | 28 | [burburinho](https://open.spotify.com/track/1Mem9DQYCKtukH5DOrbmdV) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [BURBURINHO](https://open.spotify.com/album/0goBQUbALZYYBfvctrogEP) | 3:34 |
 | 29 | [QUANDO EU TE OLHEI \- A COLORS SHOW](https://open.spotify.com/track/0enyOQLhOZz4DjK3TZ7UX3) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [QUANDO EU TE OLHEI \- A COLORS SHOW](https://open.spotify.com/album/1TSgZiq063sQKhMft5tpeF) | 2:33 |
-| 30 | [Sei Lá](https://open.spotify.com/track/0Jr1f3iDAZkmdyzjxQyMTk) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Sei Lá](https://open.spotify.com/album/4sefq8JCoswaBqteH6foqq) | 4:20 |
-| 31 | [ODEIO GENTE CHATA](https://open.spotify.com/track/3F2Q5uwDQ3qjNZB7a10rn6) | [Julia Joia](https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ) | [ODEIO GENTE CHATA](https://open.spotify.com/album/5pn5YgQZRFjTkHeK9zyrbr) | 2:10 |
+| 30 | [ODEIO GENTE CHATA](https://open.spotify.com/track/3F2Q5uwDQ3qjNZB7a10rn6) | [Julia Joia](https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ) | [ODEIO GENTE CHATA](https://open.spotify.com/album/5pn5YgQZRFjTkHeK9zyrbr) | 2:10 |
+| 31 | [Sei Lá](https://open.spotify.com/track/0Jr1f3iDAZkmdyzjxQyMTk) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Sei Lá](https://open.spotify.com/album/4sefq8JCoswaBqteH6foqq) | 4:20 |
 | 32 | [tchau, baby!](https://open.spotify.com/track/526I73YCefYU1i3bVJZuns) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [tchau, baby!](https://open.spotify.com/album/3s09GrsSUoAuBNEVtdVfi4) | 3:15 |
 | 33 | [Girassol](https://open.spotify.com/track/2J4QmmrkFsNb8kHsyo6Gma) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Girassol](https://open.spotify.com/album/6aF1epL8UEzy40OCdEaBWQ) | 3:01 |
 | 34 | [Cabeça erguida](https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Nós](https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep) | 3:36 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 39 | [Viciado em Mentir](https://open.spotify.com/track/6e2aPJbVJw9L8QDd421zNY) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [Viciado em Mentir](https://open.spotify.com/album/2TJ1ZwEFlLzhDPXmfCligh) | 2:25 |
 | 40 | [eu me derreto](https://open.spotify.com/track/3EQWVZKgqIjvIQii6BEMUg) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [eu me derreto](https://open.spotify.com/album/4yAdm4VdUGAD8RZwYMW2lL) | 2:45 |
 | 41 | [Conto de Falhas](https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Conto de Falhas](https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl) | 2:36 |
-| 42 | [pantera](https://open.spotify.com/track/6SgwJ1u5mkWWCG3Cvw11x8) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [Pantera](https://open.spotify.com/album/5QStCkR4isxn3C9HPJXGe0) | 2:07 |
-| 43 | [Magnetizar](https://open.spotify.com/track/7vPzZiHSVYeJH09mBTgaES) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Magnéticah](https://open.spotify.com/album/0U9w4cLY0S13Y3gi24x75w) | 3:14 |
+| 42 | [Magnetizar](https://open.spotify.com/track/7vPzZiHSVYeJH09mBTgaES) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Magnéticah](https://open.spotify.com/album/0U9w4cLY0S13Y3gi24x75w) | 3:14 |
+| 43 | [pantera](https://open.spotify.com/track/6SgwJ1u5mkWWCG3Cvw11x8) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [Pantera](https://open.spotify.com/album/5QStCkR4isxn3C9HPJXGe0) | 2:07 |
 | 44 | [Dona de Mim](https://open.spotify.com/track/1Uoy9jGX9JcYnMQk15HYvT) | [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns) | [Dona de Mim](https://open.spotify.com/album/0Zx3yoffLuua8XnnuBYyEq) | 2:51 |
 | 45 | [Desamor](https://open.spotify.com/track/77ylP1AFdw0i0T435Sm20F) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Desamor](https://open.spotify.com/album/2AATRFcL1HPWlx4P6bT9kr) | 1:58 |
-| 46 | [Meu Vício](https://open.spotify.com/track/1L7DbG2y4TzoMqSoTaotG0) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p) | [Meu Vício](https://open.spotify.com/album/78XUWj8lXWNfT5QZsKIzV2) | 2:13 |
+| 46 | [Sorte ou Azar](https://open.spotify.com/track/38eUhDp3Q5BxmEczil8VAJ) | [ALVA](https://open.spotify.com/artist/5H48mmfpWMyzWSqFd4qy5s), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Sorte ou Azar](https://open.spotify.com/album/6Nq7EtHA1PBTpRsGpvELWf) | 2:40 |
 | 47 | [Ainda É Verão](https://open.spotify.com/track/3aW8hApguw9MG56v8jrz6F) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 3:04 |
-| 48 | [Sorte ou Azar](https://open.spotify.com/track/38eUhDp3Q5BxmEczil8VAJ) | [ALVA](https://open.spotify.com/artist/5H48mmfpWMyzWSqFd4qy5s), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Sorte ou Azar](https://open.spotify.com/album/6Nq7EtHA1PBTpRsGpvELWf) | 2:40 |
+| 48 | [Meu Vício](https://open.spotify.com/track/1L7DbG2y4TzoMqSoTaotG0) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p) | [Meu Vício](https://open.spotify.com/album/78XUWj8lXWNfT5QZsKIzV2) | 2:13 |
 | 49 | [Número 1](https://open.spotify.com/track/2socHRYT8zT7noGhOKeztH) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [CARA](https://open.spotify.com/album/5gHeIIHjKzEIlHJchlobxJ) | 2:03 |
 | 50 | [Amor Indefinido](https://open.spotify.com/track/1rSdYMsc9Ct1AMtvRgNBvv) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Amor Indefinido](https://open.spotify.com/album/4S3iDE7Uwtm8uR9acKqHiz) | 2:27 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMGUxYzc0YjFjMTliMjFmNWUwZmRiMmQyYWZiNTAxYjkw`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDRmMDYxYjU5OGRhMTQzODhkOGNjNmJhOThmODAwNzEy`

@@ -10678,10 +10678,32 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 203573,
       "name": "El abanico",
       "url": "https://open.spotify.com/track/3tcti84ksNL3qUJddVNucQ"
+    },
+    {
+      "album": {
+        "name": "Homenaje a los Embajadores",
+        "url": "https://open.spotify.com/album/2vosFMIMYD6j8NGAddQ8Pf"
+      },
+      "artists": [
+        {
+          "name": "Wganda Kenya",
+          "url": "https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka"
+        },
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/4BAorgjAySLENBd4lfqkw8"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200481,
+      "name": "El Abanico",
+      "url": "https://open.spotify.com/track/6DCCDO9m760k1QufsMvFcI"
     },
     {
       "album": {
@@ -34412,7 +34434,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173106,
       "name": "Yo Por Ti",
       "url": "https://open.spotify.com/track/0UttGQy60z2NFQMrl5al2F"
@@ -34430,7 +34452,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 173106,
       "name": "Yo Por Ti",
       "url": "https://open.spotify.com/track/5XEtVK54D9tenCXln7hfG4"

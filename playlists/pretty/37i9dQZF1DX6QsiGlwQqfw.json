@@ -1,68 +1,60 @@
 {
   "description": "Instrumentals from the North Indian school of music.",
-  "num_followers": 39763,
+  "num_followers": 39785,
   "original_name": "Hindustani Instrumental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTMyMDQzMCwwMDAwMDAwMDJkNTdjYmM1NWQ2MzViMjQ1YTA5YjBjODVhM2VhOGZk",
+  "snapshot_id": "MTY3NzE0ODU5NiwwMDAwMDAwMDEzZmI1MWU3YzdiNmFkYmVkYmFiOTQ0MDZiZTYyZDNm",
   "tracks": [
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "Alhaiya in France",
-        "url": "https://open.spotify.com/album/24vBQ354C7Lm4y9vqLRX9O"
+        "name": "Maestro's Choice - Vilayet Khan",
+        "url": "https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef"
       },
       "artists": [
         {
-          "name": "Niladri Kumar",
-          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+          "name": "Vilayat Khan",
+          "url": "https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS"
         }
       ],
-      "duration_ms": 369000,
-      "name": "Alhaiya in France",
-      "url": "https://open.spotify.com/track/283RBHJGcWoGJGZS883BLM"
+      "duration_ms": 655373,
+      "name": "Raga Gauti",
+      "url": "https://open.spotify.com/track/3ZH2BZZ4x3vt3gSz7w96tZ"
     },
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "Hari Dhwani - Raga Lalit",
-        "url": "https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S"
+        "name": "Tilak trance",
+        "url": "https://open.spotify.com/album/1yTrlL1nwaX0K5y9oegtIK"
       },
       "artists": [
         {
-          "name": "Hariprasad Chaurasia",
-          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
-        },
-        {
-          "name": "Rakesh Chaurasia",
-          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
-        },
-        {
-          "name": "Rupak Kulkarni",
-          "url": "https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff"
+          "name": "Ronu Majumdar",
+          "url": "https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P"
         }
       ],
-      "duration_ms": 595500,
-      "name": "Hari Dhwani - Raga Lalit - Alap (Sthai)",
-      "url": "https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp"
+      "duration_ms": 314226,
+      "name": "Tilak trance",
+      "url": "https://open.spotify.com/track/0aTqK5U3bUrttp8Btpv9sI"
     },
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "Indian Classical Instrumental - Pandit Shiv Kumar Sharma Special",
-        "url": "https://open.spotify.com/album/63P7cBmEFfK72zbWGZJFtQ"
+        "name": "How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933-1952",
+        "url": "https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10"
       },
       "artists": [
         {
-          "name": "Shivkumar Sharma",
-          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
+          "name": "Gajanan Madhav Karnad",
+          "url": "https://open.spotify.com/artist/6ATI0pyCp6Oso19MTG0PvL"
         }
       ],
-      "duration_ms": 381733,
-      "name": "Rachna Mishra Khamaj (From \"A Sublime Trance\")",
-      "url": "https://open.spotify.com/track/0qvkFBUyu1Ze5vCI5UJSSG"
+      "duration_ms": 195640,
+      "name": "Raga Tilak Kamod",
+      "url": "https://open.spotify.com/track/0XZL66ITXbLl9CmXUb3Tw7"
     },
     {
       "added_at": "2023-02-02 06:47:10",
@@ -87,58 +79,6 @@
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "Classical Instrumental - Pt. Shivkumar Sharma",
-        "url": "https://open.spotify.com/album/4bPvlIsznjSGNfFsVByrEF"
-      },
-      "artists": [
-        {
-          "name": "Shivkumar Sharma",
-          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
-        }
-      ],
-      "duration_ms": 345990,
-      "name": "Gat Drut",
-      "url": "https://open.spotify.com/track/1tNhPY0R3XT6ShwSgpwZJX"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Tilak trance",
-        "url": "https://open.spotify.com/album/1yTrlL1nwaX0K5y9oegtIK"
-      },
-      "artists": [
-        {
-          "name": "Ronu Majumdar",
-          "url": "https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P"
-        }
-      ],
-      "duration_ms": 314226,
-      "name": "Tilak trance",
-      "url": "https://open.spotify.com/track/0aTqK5U3bUrttp8Btpv9sI"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Timeless Tabla",
-        "url": "https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL"
-      },
-      "artists": [
-        {
-          "name": "Bickram Ghosh",
-          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
-        },
-        {
-          "name": "Shivkumar Sharma",
-          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
-        }
-      ],
-      "duration_ms": 1000724,
-      "name": "The Beauty of Sangat (feat. Pt. Shivkumar Sharma)",
-      "url": "https://open.spotify.com/track/4hX5EPwNbF2a3hdasPewqc"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
         "name": "Ekla Chalo Re",
         "url": "https://open.spotify.com/album/4blV0d19pUiWfAjKWg6MGr"
       },
@@ -159,72 +99,8 @@
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "AMMP Signature Series Volume 4 - Rag Manj Khammaj / Rag Misra Mand",
-        "url": "https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2"
-      },
-      "artists": [
-        {
-          "name": "Ustad Ali Akbar Khan / Pandit Nikhil Banerjee",
-          "url": "https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns"
-        },
-        {
-          "name": "Mahapurush Misra",
-          "url": "https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B"
-        }
-      ],
-      "duration_ms": 1287946,
-      "name": "Rag Manj Khammaj",
-      "url": "https://open.spotify.com/track/6wkuzkjsWM1Gk9zmRXiS7g"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Raga Darbari Kannada & Dhun in Rag Mishra Pilu",
-        "url": "https://open.spotify.com/album/2tIWCH1Sx2Lxk6C8Rk1qS9"
-      },
-      "artists": [
-        {
-          "name": "Hariprasad Chaurasia",
-          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
-        },
-        {
-          "name": "Fazal Qureshi",
-          "url": "https://open.spotify.com/artist/4pM7882XwZYuY67tfYztMS"
-        },
-        {
-          "name": "Rajiv Chaurasia",
-          "url": "https://open.spotify.com/artist/2EqW2WtNgugbWtlMqyphd3"
-        },
-        {
-          "name": "Nandu Kamat",
-          "url": "https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO"
-        }
-      ],
-      "duration_ms": 909000,
-      "name": "Dhun in Raga Mishra Pilu",
-      "url": "https://open.spotify.com/track/0Ft7ehrvzxaSx4Z7TYz9CU"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Rare Masterpiece - Raga Bhinna Kauns",
-        "url": "https://open.spotify.com/album/04PWTDjCdiePmllR2VEXEn"
-      },
-      "artists": [
-        {
-          "name": "Shivkumar Sharma",
-          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
-        }
-      ],
-      "duration_ms": 588000,
-      "name": "Raga Bhinna Kauns - Alap",
-      "url": "https://open.spotify.com/track/3uKf2XtbIOvwKAj0QF9xoK"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Source Code",
-        "url": "https://open.spotify.com/album/1SrVH7RjPaypnRRtihURmo"
+        "name": "Desire (Raag Manj Khamaj) [Radio Edit]",
+        "url": "https://open.spotify.com/album/0KXZo5FFkXQyKzyU0uUjSW"
       },
       "artists": [
         {
@@ -232,9 +108,25 @@
           "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
         }
       ],
-      "duration_ms": 1121500,
-      "name": "Destiny (Raag Hameer)",
-      "url": "https://open.spotify.com/track/5U6GvipM7SHVBBwuwquVAk"
+      "duration_ms": 428571,
+      "name": "Desire (Raag Manj Khamaj) [Radio Edit]",
+      "url": "https://open.spotify.com/track/7t1FTB00MydjF7EJD0KhRa"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933-1952",
+        "url": "https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10"
+      },
+      "artists": [
+        {
+          "name": "Paritosh Seal",
+          "url": "https://open.spotify.com/artist/6KIhLoUJnoRfom1hguUXgk"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Raga Ahir Bhairi",
+      "url": "https://open.spotify.com/track/3DBmWeg0kH6tbRj0gkWwY8"
     },
     {
       "added_at": "2023-02-02 06:47:10",
@@ -275,18 +167,78 @@
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "The Ravi Shankar Collection: A Morning Raga / An Evening Raga (Remastered)",
-        "url": "https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx"
+        "name": "Rare Masterpiece - Raga Bhinna Kauns",
+        "url": "https://open.spotify.com/album/04PWTDjCdiePmllR2VEXEn"
       },
       "artists": [
         {
-          "name": "Ravi Shankar",
-          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
+          "name": "Shivkumar Sharma",
+          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
         }
       ],
-      "duration_ms": 1398866,
-      "name": "Raga Nata Bhairav - Remastered",
-      "url": "https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU"
+      "duration_ms": 588000,
+      "name": "Raga Bhinna Kauns - Alap",
+      "url": "https://open.spotify.com/track/3uKf2XtbIOvwKAj0QF9xoK"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Raga Darbari Kannada & Dhun in Rag Mishra Pilu",
+        "url": "https://open.spotify.com/album/2tIWCH1Sx2Lxk6C8Rk1qS9"
+      },
+      "artists": [
+        {
+          "name": "Hariprasad Chaurasia",
+          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
+        },
+        {
+          "name": "Fazal Qureshi",
+          "url": "https://open.spotify.com/artist/4pM7882XwZYuY67tfYztMS"
+        },
+        {
+          "name": "Rajiv Chaurasia",
+          "url": "https://open.spotify.com/artist/2EqW2WtNgugbWtlMqyphd3"
+        },
+        {
+          "name": "Nandu Kamat",
+          "url": "https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO"
+        }
+      ],
+      "duration_ms": 909000,
+      "name": "Dhun in Raga Mishra Pilu",
+      "url": "https://open.spotify.com/track/0Ft7ehrvzxaSx4Z7TYz9CU"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Classical Instrumental - Pt. Shivkumar Sharma",
+        "url": "https://open.spotify.com/album/4bPvlIsznjSGNfFsVByrEF"
+      },
+      "artists": [
+        {
+          "name": "Shivkumar Sharma",
+          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
+        }
+      ],
+      "duration_ms": 345990,
+      "name": "Gat Drut",
+      "url": "https://open.spotify.com/track/1tNhPY0R3XT6ShwSgpwZJX"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Indian Classical Instrumental - Pandit Shiv Kumar Sharma Special",
+        "url": "https://open.spotify.com/album/63P7cBmEFfK72zbWGZJFtQ"
+      },
+      "artists": [
+        {
+          "name": "Shivkumar Sharma",
+          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
+        }
+      ],
+      "duration_ms": 381733,
+      "name": "Rachna Mishra Khamaj (From \"A Sublime Trance\")",
+      "url": "https://open.spotify.com/track/0qvkFBUyu1Ze5vCI5UJSSG"
     },
     {
       "added_at": "2023-02-02 06:47:10",
@@ -307,322 +259,18 @@
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933-1952",
-        "url": "https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10"
+        "name": "A Light From The East",
+        "url": "https://open.spotify.com/album/3NnlAQ33rxqM41oeizmnsp"
       },
       "artists": [
         {
-          "name": "Paritosh Seal",
-          "url": "https://open.spotify.com/artist/6KIhLoUJnoRfom1hguUXgk"
+          "name": "Tejendra Majumdar",
+          "url": "https://open.spotify.com/artist/1448391H4g8M6h6vtFiwfp"
         }
       ],
-      "duration_ms": 200880,
-      "name": "Raga Ahir Bhairi",
-      "url": "https://open.spotify.com/track/3DBmWeg0kH6tbRj0gkWwY8"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Chandrakaush Khamaj 1967",
-        "url": "https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7"
-      },
-      "artists": [
-        {
-          "name": "Nikhil Banerjee",
-          "url": "https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1"
-        }
-      ],
-      "duration_ms": 1224466,
-      "name": "Chandrakaush Alap",
-      "url": "https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Desire (Raag Manj Khamaj) [Radio Edit]",
-        "url": "https://open.spotify.com/album/0KXZo5FFkXQyKzyU0uUjSW"
-      },
-      "artists": [
-        {
-          "name": "Niladri Kumar",
-          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
-        }
-      ],
-      "duration_ms": 428571,
-      "name": "Desire (Raag Manj Khamaj) [Radio Edit]",
-      "url": "https://open.spotify.com/track/7t1FTB00MydjF7EJD0KhRa"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Maestro's Choice - Vilayet Khan",
-        "url": "https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef"
-      },
-      "artists": [
-        {
-          "name": "Vilayat Khan",
-          "url": "https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS"
-        }
-      ],
-      "duration_ms": 655373,
-      "name": "Raga Gauti",
-      "url": "https://open.spotify.com/track/3ZH2BZZ4x3vt3gSz7w96tZ"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Saptrang",
-        "url": "https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ"
-      },
-      "artists": [
-        {
-          "name": "Sultan Khan",
-          "url": "https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY"
-        },
-        {
-          "name": "Zakir Hussain",
-          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
-        }
-      ],
-      "duration_ms": 714360,
-      "name": "Rag Bhairavi",
-      "url": "https://open.spotify.com/track/4kEx4J2we86jjCUWIQRI7E"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Signature Series, Vol. 3",
-        "url": "https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH"
-      },
-      "artists": [
-        {
-          "name": "Ali Akbar Khan",
-          "url": "https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u"
-        }
-      ],
-      "duration_ms": 1273906,
-      "name": "Rag Marwa, Part 2",
-      "url": "https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Signature Series, Vol. 3",
-        "url": "https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH"
-      },
-      "artists": [
-        {
-          "name": "Ali Akbar Khan",
-          "url": "https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u"
-        }
-      ],
-      "duration_ms": 1285360,
-      "name": "Rag Marwa, Part 1",
-      "url": "https://open.spotify.com/track/5oVsZLthQbDaAeWWyLfDhB"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7yzxuIjdVvqj6xbT9N7G8X"
-      },
-      "artists": [
-        {
-          "name": "Anoushka Shankar",
-          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
-        },
-        {
-          "name": "Tanmoy Bose",
-          "url": "https://open.spotify.com/artist/3WQoD0L9z8eoD8b0m74dPl"
-        },
-        {
-          "name": "Kenji Ota",
-          "url": "https://open.spotify.com/artist/040krAnKe0UWfJkm7NBMyT"
-        }
-      ],
-      "duration_ms": 1105906,
-      "name": "Celebration: Raga manj khamaj",
-      "url": "https://open.spotify.com/track/4eJ8C6nGTK7G8GtlgXpfW9"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Rag Miya Ki Todi & Rag Bilaskhani Todi",
-        "url": "https://open.spotify.com/album/0mWUzMcScanLQDYIEKGMIu"
-      },
-      "artists": [
-        {
-          "name": "Imrat Khan",
-          "url": "https://open.spotify.com/artist/6htMUYjAgIpH7DRgN2I3yg"
-        },
-        {
-          "name": "Shafaatullah Khan",
-          "url": "https://open.spotify.com/artist/1JrHhcIQYFXGvjITblw4Mp"
-        }
-      ],
-      "duration_ms": 2294000,
-      "name": "Rag Miya Ki Todi",
-      "url": "https://open.spotify.com/track/1swbYA2tiIOZTRpqCfsQLv"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Jugalbandi II",
-        "url": "https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40"
-      },
-      "artists": [
-        {
-          "name": "Hariprasad Chaurasia",
-          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
-        },
-        {
-          "name": "Aashish Khan",
-          "url": "https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq"
-        },
-        {
-          "name": "Swapan Chaudhuri",
-          "url": "https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT"
-        }
-      ],
-      "duration_ms": 1309209,
-      "name": "Raag Mishra Shirvranjani Taal Deepchandi",
-      "url": "https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933-1952",
-        "url": "https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10"
-      },
-      "artists": [
-        {
-          "name": "Gajanan Madhav Karnad",
-          "url": "https://open.spotify.com/artist/6ATI0pyCp6Oso19MTG0PvL"
-        }
-      ],
-      "duration_ms": 195640,
-      "name": "Raga Tilak Kamod",
-      "url": "https://open.spotify.com/track/0XZL66ITXbLl9CmXUb3Tw7"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Timeless Tabla",
-        "url": "https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL"
-      },
-      "artists": [
-        {
-          "name": "Bickram Ghosh",
-          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
-        }
-      ],
-      "duration_ms": 260780,
-      "name": "Dynamic Tabla Solo - Excerpts From Live Solo in 11 Beats",
-      "url": "https://open.spotify.com/track/64aLobbdqbUORxgYEZLssW"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0Gjp6bjN1furRn7bHAIsdi"
-      },
-      "artists": [
-        {
-          "name": "Alla Rakha",
-          "url": "https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj"
-        },
-        {
-          "name": "Zakir Hussain",
-          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
-        }
-      ],
-      "duration_ms": 947906,
-      "name": "Jugalbandi in Teen Taal",
-      "url": "https://open.spotify.com/track/6KsPQBR6qHXn60g6VDP6Oi"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Guitar A La Hindustan",
-        "url": "https://open.spotify.com/album/0p2uVASndftECemYMJM80y"
-      },
-      "artists": [
-        {
-          "name": "Vishwa Mohan Bhatt",
-          "url": "https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl"
-        }
-      ],
-      "duration_ms": 1027786,
-      "name": "Raga Tilak Kamodi",
-      "url": "https://open.spotify.com/track/1Mc58bywNOJT8vrMYunODv"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Zarin Daruwala",
-        "url": "https://open.spotify.com/album/5jdzlSnMHnc9QasQimxhGb"
-      },
-      "artists": [
-        {
-          "name": "Pandit Vibhav Nageshkar",
-          "url": "https://open.spotify.com/artist/4wIohauC6Hl22Kt2F2bD1m"
-        },
-        {
-          "name": "Zarin Daruwala",
-          "url": "https://open.spotify.com/artist/3xXsIF0r4I6TRbRdY1SS78"
-        }
-      ],
-      "duration_ms": 418466,
-      "name": "Raga Jansanmohini - Alap Jod Zala - Gat Vilambit Roopak Taal - Gat Drut Teentaal",
-      "url": "https://open.spotify.com/track/0UPhauX8iJHJAzHMEN7ULN"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Golden Raaga Collection II - Pandit Shiv Kumar Sharma",
-        "url": "https://open.spotify.com/album/1BI4juHcCUet9XCpTKZCJV"
-      },
-      "artists": [
-        {
-          "name": "Shivkumar Sharma",
-          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
-        }
-      ],
-      "duration_ms": 1070484,
-      "name": "Alaap Jor Jhala - Raga Basant Mukhari",
-      "url": "https://open.spotify.com/track/5SFyfC5KvyCzRzYwfVrMnt"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Maestro's Choice",
-        "url": "https://open.spotify.com/album/39jlxBdhC0zrBvh8WjSo8Y"
-      },
-      "artists": [
-        {
-          "name": "Shahid Parvez",
-          "url": "https://open.spotify.com/artist/4UzSI1MLxlF0T0QryIfgoh"
-        }
-      ],
-      "duration_ms": 880293,
-      "name": "Raga Hansadhwani",
-      "url": "https://open.spotify.com/track/2w0uDN6Md0sDw3Tt44d1PY"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Over the Moon",
-        "url": "https://open.spotify.com/album/1mmiBzkLYgjoyX8O9U8moV"
-      },
-      "artists": [
-        {
-          "name": "Rajeev Taranath",
-          "url": "https://open.spotify.com/artist/14Bg6ooADk8tSstCJfnJc6"
-        }
-      ],
-      "duration_ms": 1331461,
-      "name": "Raga Chandranandan - Alap, Jor",
-      "url": "https://open.spotify.com/track/3a9XtNboaANi0w3fZGhnKK"
+      "duration_ms": 539947,
+      "name": "Misra Mand",
+      "url": "https://open.spotify.com/track/2enZB7URwFPcfqHN1cny8h"
     },
     {
       "added_at": "2023-02-02 06:47:10",
@@ -643,74 +291,22 @@
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "Rag Bhimpalasi",
-        "url": "https://open.spotify.com/album/2jfrFg8TijCLBRF2X7zziH"
+        "name": "Timeless Tabla",
+        "url": "https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL"
       },
       "artists": [
         {
-          "name": "Hariprasad Chaurasia",
-          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
+          "name": "Bickram Ghosh",
+          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
         },
         {
-          "name": "Fazal Qureshi",
-          "url": "https://open.spotify.com/artist/4pM7882XwZYuY67tfYztMS"
+          "name": "Shivkumar Sharma",
+          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
         }
       ],
-      "duration_ms": 2464493,
-      "name": "Rag Bhimpalasi: Alap, Jod, Jhala",
-      "url": "https://open.spotify.com/track/6pABGyScqkMTvMYJGNj8TH"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Sweet Melodies",
-        "url": "https://open.spotify.com/album/1a70UazMSgoClPn3Ee2KfJ"
-      },
-      "artists": [
-        {
-          "name": "Shujaat Khan",
-          "url": "https://open.spotify.com/artist/4SY41gazmsCCMk9OYB9ep0"
-        }
-      ],
-      "duration_ms": 494996,
-      "name": "Raga: Pahari",
-      "url": "https://open.spotify.com/track/1rj7pkUmfcB7fFirFRGU4s"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Rough Guide to Indian Classical Music",
-        "url": "https://open.spotify.com/album/3hqdUUtLEQmxorRMI5hE0l"
-      },
-      "artists": [
-        {
-          "name": "Pandit Brij Bhushan Kabra, Pandit Hariprasad Chaurasia & Pandit Shivkumar Sharma",
-          "url": "https://open.spotify.com/artist/6MqnhMsiafcPAePqc1e22r"
-        }
-      ],
-      "duration_ms": 374173,
-      "name": "Ahir Bhairav",
-      "url": "https://open.spotify.com/track/3JLewKQMn2Xo9MPTFOTyFC"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Live at the Royal Festival Hall, London 1994",
-        "url": "https://open.spotify.com/album/6pFcgD0tnbn1m2kfBpEvb3"
-      },
-      "artists": [
-        {
-          "name": "Aashish Khan",
-          "url": "https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq"
-        },
-        {
-          "name": "Pandit Indranil Bhattacharya",
-          "url": "https://open.spotify.com/artist/49TezlyR1n2SMfvwa7riTd"
-        }
-      ],
-      "duration_ms": 2632600,
-      "name": "Hem Bihag - A Creation Of Acharya Allanddin Khan - Alap & Jor",
-      "url": "https://open.spotify.com/track/6PbwTf3bXyyQD53mlQGsQ3"
+      "duration_ms": 1000724,
+      "name": "The Beauty of Sangat (feat. Pt. Shivkumar Sharma)",
+      "url": "https://open.spotify.com/track/4hX5EPwNbF2a3hdasPewqc"
     },
     {
       "added_at": "2023-02-02 06:47:10",
@@ -759,8 +355,132 @@
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival",
-        "url": "https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0"
+        "name": "Zarin Daruwala",
+        "url": "https://open.spotify.com/album/5jdzlSnMHnc9QasQimxhGb"
+      },
+      "artists": [
+        {
+          "name": "Pandit Vibhav Nageshkar",
+          "url": "https://open.spotify.com/artist/4wIohauC6Hl22Kt2F2bD1m"
+        },
+        {
+          "name": "Zarin Daruwala",
+          "url": "https://open.spotify.com/artist/3xXsIF0r4I6TRbRdY1SS78"
+        }
+      ],
+      "duration_ms": 418466,
+      "name": "Raga Jansanmohini - Alap Jod Zala - Gat Vilambit Roopak Taal - Gat Drut Teentaal",
+      "url": "https://open.spotify.com/track/0UPhauX8iJHJAzHMEN7ULN"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Signature Series, Vol. 3",
+        "url": "https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH"
+      },
+      "artists": [
+        {
+          "name": "Ali Akbar Khan",
+          "url": "https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u"
+        }
+      ],
+      "duration_ms": 1285360,
+      "name": "Rag Marwa, Part 1",
+      "url": "https://open.spotify.com/track/5oVsZLthQbDaAeWWyLfDhB"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Guitar A La Hindustan",
+        "url": "https://open.spotify.com/album/0p2uVASndftECemYMJM80y"
+      },
+      "artists": [
+        {
+          "name": "Vishwa Mohan Bhatt",
+          "url": "https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl"
+        }
+      ],
+      "duration_ms": 1027786,
+      "name": "Raga Tilak Kamodi",
+      "url": "https://open.spotify.com/track/1Mc58bywNOJT8vrMYunODv"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Melodies at Dusk",
+        "url": "https://open.spotify.com/album/4w3dYv2g2MWQxNjaHXs69S"
+      },
+      "artists": [
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        },
+        {
+          "name": "Aditya Kalyanpur",
+          "url": "https://open.spotify.com/artist/0dtEnezEiqvUrVCYxoniSZ"
+        }
+      ],
+      "duration_ms": 834466,
+      "name": "Raga Bhimpalasi - Gat in Rupak Tala",
+      "url": "https://open.spotify.com/track/4q5mY8KfJJNhJMIHzrPQd2"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "AMMP Signature Series Volume 4 - Rag Manj Khammaj / Rag Misra Mand",
+        "url": "https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2"
+      },
+      "artists": [
+        {
+          "name": "Ustad Ali Akbar Khan / Pandit Nikhil Banerjee",
+          "url": "https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns"
+        },
+        {
+          "name": "Mahapurush Misra",
+          "url": "https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B"
+        }
+      ],
+      "duration_ms": 1287946,
+      "name": "Rag Manj Khammaj",
+      "url": "https://open.spotify.com/track/6wkuzkjsWM1Gk9zmRXiS7g"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Source Code",
+        "url": "https://open.spotify.com/album/1SrVH7RjPaypnRRtihURmo"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "duration_ms": 1121500,
+      "name": "Destiny (Raag Hameer)",
+      "url": "https://open.spotify.com/track/5U6GvipM7SHVBBwuwquVAk"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Timeless Tabla",
+        "url": "https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL"
+      },
+      "artists": [
+        {
+          "name": "Bickram Ghosh",
+          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
+        }
+      ],
+      "duration_ms": 260780,
+      "name": "Dynamic Tabla Solo - Excerpts From Live Solo in 11 Beats",
+      "url": "https://open.spotify.com/track/64aLobbdqbUORxgYEZLssW"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "The Ravi Shankar Collection: A Morning Raga / An Evening Raga (Remastered)",
+        "url": "https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx"
       },
       "artists": [
         {
@@ -768,65 +488,45 @@
           "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
         }
       ],
-      "duration_ms": 1637889,
-      "name": "Raga Bhimpalasi - Live",
-      "url": "https://open.spotify.com/track/2NAJP1wqoaxbSJLiv2X8tL"
+      "duration_ms": 1398866,
+      "name": "Raga Nata Bhairav - Remastered",
+      "url": "https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU"
     },
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "Indian Architexture",
-        "url": "https://open.spotify.com/album/4XLInOcNNNzsE6AzZ1coHI"
+        "name": "Saptrang",
+        "url": "https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ"
       },
       "artists": [
         {
-          "name": "Ali Akbar Khan",
-          "url": "https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u"
+          "name": "Sultan Khan",
+          "url": "https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY"
         },
         {
-          "name": "Swapan Chaudhuri",
-          "url": "https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT"
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
         }
       ],
-      "duration_ms": 1731333,
-      "name": "Rag Hemant",
-      "url": "https://open.spotify.com/track/4pC7qAyC6kcW1JDswFrgNd"
+      "duration_ms": 714360,
+      "name": "Rag Bhairavi",
+      "url": "https://open.spotify.com/track/4kEx4J2we86jjCUWIQRI7E"
     },
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "Samwad",
-        "url": "https://open.spotify.com/album/6A9DrDLZ91CaWxpW55YvKV"
+        "name": "Golden Raaga Collection II - Pandit Shiv Kumar Sharma",
+        "url": "https://open.spotify.com/album/1BI4juHcCUet9XCpTKZCJV"
       },
       "artists": [
         {
-          "name": "Purbayan Chatterjee",
-          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+          "name": "Shivkumar Sharma",
+          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
         }
       ],
-      "duration_ms": 1193120,
-      "name": "Composition in Vilambit Jhaptaal",
-      "url": "https://open.spotify.com/track/4XV2bfxSunV3kZuy476Rhw"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Immersion",
-        "url": "https://open.spotify.com/album/5QjIPDt3eApiZ2elAmiJ8i"
-      },
-      "artists": [
-        {
-          "name": "Alam Khan",
-          "url": "https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG"
-        },
-        {
-          "name": "Indranil Mallick",
-          "url": "https://open.spotify.com/artist/0KL6Nzq5FePQByCl3mG8X1"
-        }
-      ],
-      "duration_ms": 830066,
-      "name": "Pilu Ragmala in Rupak",
-      "url": "https://open.spotify.com/track/2KQVqgVWDSThJqcQniIson"
+      "duration_ms": 1070484,
+      "name": "Alaap Jor Jhala - Raga Basant Mukhari",
+      "url": "https://open.spotify.com/track/5SFyfC5KvyCzRzYwfVrMnt"
     },
     {
       "added_at": "2023-02-02 06:47:10",
@@ -851,18 +551,114 @@
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "Live At Washington Square Church 1981",
-        "url": "https://open.spotify.com/album/4WP2uHgYTDFCFOCEIfCNVE"
+        "name": "Indian Architexture",
+        "url": "https://open.spotify.com/album/4XLInOcNNNzsE6AzZ1coHI"
       },
       "artists": [
         {
-          "name": "Vasant Rai",
-          "url": "https://open.spotify.com/artist/0weh3Q47P9QCdXInoUNXxt"
+          "name": "Ali Akbar Khan",
+          "url": "https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u"
+        },
+        {
+          "name": "Swapan Chaudhuri",
+          "url": "https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT"
         }
       ],
-      "duration_ms": 1573306,
-      "name": "Darbari Kanada, Alap",
-      "url": "https://open.spotify.com/track/4VXkCcN0Rk0sIOrotrNsnD"
+      "duration_ms": 1731333,
+      "name": "Rag Hemant",
+      "url": "https://open.spotify.com/track/4pC7qAyC6kcW1JDswFrgNd"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Celebrating the Legend - Amjad Ali Khan",
+        "url": "https://open.spotify.com/album/7x2PlNq4pjCvCtD3Q78yIL"
+      },
+      "artists": [
+        {
+          "name": "Amjad Ali Khan",
+          "url": "https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr"
+        },
+        {
+          "name": "Sabri Khan",
+          "url": "https://open.spotify.com/artist/4jJPc9HPkYDNJxvloWDTqx"
+        }
+      ],
+      "duration_ms": 574280,
+      "name": "Raga Darbari - Drut Gat - Teentaal - Instrumental",
+      "url": "https://open.spotify.com/track/6XX6lVVxCdyFkwwiPUl72b"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Jugalbandi II",
+        "url": "https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40"
+      },
+      "artists": [
+        {
+          "name": "Hariprasad Chaurasia",
+          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
+        },
+        {
+          "name": "Aashish Khan",
+          "url": "https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq"
+        },
+        {
+          "name": "Swapan Chaudhuri",
+          "url": "https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT"
+        }
+      ],
+      "duration_ms": 1309209,
+      "name": "Raag Mishra Shirvranjani Taal Deepchandi",
+      "url": "https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Rag-Rang",
+        "url": "https://open.spotify.com/album/4i2Oqn8s2LlKdGnsPmzsHk"
+      },
+      "artists": [
+        {
+          "name": "Rais Khan",
+          "url": "https://open.spotify.com/artist/2Trh3HyOwLDl8pg6C264xK"
+        }
+      ],
+      "duration_ms": 1385000,
+      "name": "Ragmala",
+      "url": "https://open.spotify.com/track/4W2QrZuT0QE9QmZPkDsIQG"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Samwad",
+        "url": "https://open.spotify.com/album/6A9DrDLZ91CaWxpW55YvKV"
+      },
+      "artists": [
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        }
+      ],
+      "duration_ms": 1193120,
+      "name": "Composition in Vilambit Jhaptaal",
+      "url": "https://open.spotify.com/track/4XV2bfxSunV3kZuy476Rhw"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Signature Series, Vol. 3",
+        "url": "https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH"
+      },
+      "artists": [
+        {
+          "name": "Ali Akbar Khan",
+          "url": "https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u"
+        }
+      ],
+      "duration_ms": 1273906,
+      "name": "Rag Marwa, Part 2",
+      "url": "https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm"
     },
     {
       "added_at": "2023-02-02 06:47:10",
@@ -891,6 +687,182 @@
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
+        "name": "Sweet Melodies",
+        "url": "https://open.spotify.com/album/1a70UazMSgoClPn3Ee2KfJ"
+      },
+      "artists": [
+        {
+          "name": "Shujaat Khan",
+          "url": "https://open.spotify.com/artist/4SY41gazmsCCMk9OYB9ep0"
+        }
+      ],
+      "duration_ms": 494996,
+      "name": "Raga: Pahari",
+      "url": "https://open.spotify.com/track/1rj7pkUmfcB7fFirFRGU4s"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Rough Guide to Indian Classical Music",
+        "url": "https://open.spotify.com/album/3hqdUUtLEQmxorRMI5hE0l"
+      },
+      "artists": [
+        {
+          "name": "Pandit Brij Bhushan Kabra, Pandit Hariprasad Chaurasia & Pandit Shivkumar Sharma",
+          "url": "https://open.spotify.com/artist/6MqnhMsiafcPAePqc1e22r"
+        }
+      ],
+      "duration_ms": 374173,
+      "name": "Ahir Bhairav",
+      "url": "https://open.spotify.com/track/3JLewKQMn2Xo9MPTFOTyFC"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7yzxuIjdVvqj6xbT9N7G8X"
+      },
+      "artists": [
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        },
+        {
+          "name": "Tanmoy Bose",
+          "url": "https://open.spotify.com/artist/3WQoD0L9z8eoD8b0m74dPl"
+        },
+        {
+          "name": "Kenji Ota",
+          "url": "https://open.spotify.com/artist/040krAnKe0UWfJkm7NBMyT"
+        }
+      ],
+      "duration_ms": 1105906,
+      "name": "Celebration: Raga manj khamaj",
+      "url": "https://open.spotify.com/track/4eJ8C6nGTK7G8GtlgXpfW9"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Maestro's Choice",
+        "url": "https://open.spotify.com/album/39jlxBdhC0zrBvh8WjSo8Y"
+      },
+      "artists": [
+        {
+          "name": "Shahid Parvez",
+          "url": "https://open.spotify.com/artist/4UzSI1MLxlF0T0QryIfgoh"
+        }
+      ],
+      "duration_ms": 880293,
+      "name": "Raga Hansadhwani",
+      "url": "https://open.spotify.com/track/2w0uDN6Md0sDw3Tt44d1PY"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Chandrakaush Khamaj 1967",
+        "url": "https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Banerjee",
+          "url": "https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1"
+        }
+      ],
+      "duration_ms": 1224466,
+      "name": "Chandrakaush Alap",
+      "url": "https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Hari Dhwani - Raga Lalit",
+        "url": "https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S"
+      },
+      "artists": [
+        {
+          "name": "Hariprasad Chaurasia",
+          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
+        },
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        },
+        {
+          "name": "Rupak Kulkarni",
+          "url": "https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff"
+        }
+      ],
+      "duration_ms": 595500,
+      "name": "Hari Dhwani - Raga Lalit - Alap (Sthai)",
+      "url": "https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Live At Washington Square Church 1981",
+        "url": "https://open.spotify.com/album/4WP2uHgYTDFCFOCEIfCNVE"
+      },
+      "artists": [
+        {
+          "name": "Vasant Rai",
+          "url": "https://open.spotify.com/artist/0weh3Q47P9QCdXInoUNXxt"
+        }
+      ],
+      "duration_ms": 1573306,
+      "name": "Darbari Kanada, Alap",
+      "url": "https://open.spotify.com/track/4VXkCcN0Rk0sIOrotrNsnD"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Over the Moon",
+        "url": "https://open.spotify.com/album/1mmiBzkLYgjoyX8O9U8moV"
+      },
+      "artists": [
+        {
+          "name": "Rajeev Taranath",
+          "url": "https://open.spotify.com/artist/14Bg6ooADk8tSstCJfnJc6"
+        }
+      ],
+      "duration_ms": 1331461,
+      "name": "Raga Chandranandan - Alap, Jor",
+      "url": "https://open.spotify.com/track/3a9XtNboaANi0w3fZGhnKK"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Inde Du Nord - North India : Raga Marwa Surbahar",
+        "url": "https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP"
+      },
+      "artists": [
+        {
+          "name": "Kushal Das",
+          "url": "https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli"
+        }
+      ],
+      "duration_ms": 1234906,
+      "name": "Raga Marwa - Alap",
+      "url": "https://open.spotify.com/track/4gNLtfZf390GJoNeO8T1Fl"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival",
+        "url": "https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0"
+      },
+      "artists": [
+        {
+          "name": "Ravi Shankar",
+          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
+        }
+      ],
+      "duration_ms": 1637889,
+      "name": "Raga Bhimpalasi - Live",
+      "url": "https://open.spotify.com/track/2NAJP1wqoaxbSJLiv2X8tL"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
         "name": "Rag Ramkali & Rag Jhinjoti",
         "url": "https://open.spotify.com/album/13jFkhhVmkQuvGYoXdxW1i"
       },
@@ -915,110 +887,82 @@
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "Celebrating the Legend - Amjad Ali Khan",
-        "url": "https://open.spotify.com/album/7x2PlNq4pjCvCtD3Q78yIL"
+        "name": "Rag Miya Ki Todi & Rag Bilaskhani Todi",
+        "url": "https://open.spotify.com/album/0mWUzMcScanLQDYIEKGMIu"
       },
       "artists": [
         {
-          "name": "Amjad Ali Khan",
-          "url": "https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr"
+          "name": "Imrat Khan",
+          "url": "https://open.spotify.com/artist/6htMUYjAgIpH7DRgN2I3yg"
         },
         {
-          "name": "Sabri Khan",
-          "url": "https://open.spotify.com/artist/4jJPc9HPkYDNJxvloWDTqx"
+          "name": "Shafaatullah Khan",
+          "url": "https://open.spotify.com/artist/1JrHhcIQYFXGvjITblw4Mp"
         }
       ],
-      "duration_ms": 574280,
-      "name": "Raga Darbari - Drut Gat - Teentaal - Instrumental",
-      "url": "https://open.spotify.com/track/6XX6lVVxCdyFkwwiPUl72b"
+      "duration_ms": 2294000,
+      "name": "Rag Miya Ki Todi",
+      "url": "https://open.spotify.com/track/1swbYA2tiIOZTRpqCfsQLv"
     },
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "Melodies at Dusk",
-        "url": "https://open.spotify.com/album/4w3dYv2g2MWQxNjaHXs69S"
+        "name": "Rag Bhimpalasi",
+        "url": "https://open.spotify.com/album/2jfrFg8TijCLBRF2X7zziH"
       },
       "artists": [
         {
-          "name": "Rakesh Chaurasia",
-          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+          "name": "Hariprasad Chaurasia",
+          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
         },
         {
-          "name": "Aditya Kalyanpur",
-          "url": "https://open.spotify.com/artist/0dtEnezEiqvUrVCYxoniSZ"
+          "name": "Fazal Qureshi",
+          "url": "https://open.spotify.com/artist/4pM7882XwZYuY67tfYztMS"
         }
       ],
-      "duration_ms": 834466,
-      "name": "Raga Bhimpalasi - Gat in Rupak Tala",
-      "url": "https://open.spotify.com/track/4q5mY8KfJJNhJMIHzrPQd2"
+      "duration_ms": 2464493,
+      "name": "Rag Bhimpalasi: Alap, Jod, Jhala",
+      "url": "https://open.spotify.com/track/6pABGyScqkMTvMYJGNj8TH"
     },
     {
       "added_at": "2023-02-02 06:47:10",
       "album": {
-        "name": "Inde Du Nord - North India : Raga Marwa Surbahar",
-        "url": "https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0Gjp6bjN1furRn7bHAIsdi"
       },
       "artists": [
         {
-          "name": "Kushal Das",
-          "url": "https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli"
-        }
-      ],
-      "duration_ms": 1234906,
-      "name": "Raga Marwa - Alap",
-      "url": "https://open.spotify.com/track/4gNLtfZf390GJoNeO8T1Fl"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "A Light From The East",
-        "url": "https://open.spotify.com/album/3NnlAQ33rxqM41oeizmnsp"
-      },
-      "artists": [
-        {
-          "name": "Tejendra Majumdar",
-          "url": "https://open.spotify.com/artist/1448391H4g8M6h6vtFiwfp"
-        }
-      ],
-      "duration_ms": 539947,
-      "name": "Misra Mand",
-      "url": "https://open.spotify.com/track/2enZB7URwFPcfqHN1cny8h"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "Rag-Rang",
-        "url": "https://open.spotify.com/album/4i2Oqn8s2LlKdGnsPmzsHk"
-      },
-      "artists": [
-        {
-          "name": "Rais Khan",
-          "url": "https://open.spotify.com/artist/2Trh3HyOwLDl8pg6C264xK"
-        }
-      ],
-      "duration_ms": 1385000,
-      "name": "Ragmala",
-      "url": "https://open.spotify.com/track/4W2QrZuT0QE9QmZPkDsIQG"
-    },
-    {
-      "added_at": "2023-02-02 06:47:10",
-      "album": {
-        "name": "AMMP Signature Series Volume 4 - Rag Manj Khammaj / Rag Misra Mand",
-        "url": "https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2"
-      },
-      "artists": [
-        {
-          "name": "Ustad Ali Akbar Khan / Pandit Nikhil Banerjee",
-          "url": "https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns"
+          "name": "Alla Rakha",
+          "url": "https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj"
         },
         {
-          "name": "Mahapurush Misra",
-          "url": "https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B"
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
         }
       ],
-      "duration_ms": 1290800,
-      "name": "Rag Misra Mand",
-      "url": "https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw"
+      "duration_ms": 947906,
+      "name": "Jugalbandi in Teen Taal",
+      "url": "https://open.spotify.com/track/6KsPQBR6qHXn60g6VDP6Oi"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Live at the Royal Festival Hall, London 1994",
+        "url": "https://open.spotify.com/album/6pFcgD0tnbn1m2kfBpEvb3"
+      },
+      "artists": [
+        {
+          "name": "Aashish Khan",
+          "url": "https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq"
+        },
+        {
+          "name": "Pandit Indranil Bhattacharya",
+          "url": "https://open.spotify.com/artist/49TezlyR1n2SMfvwa7riTd"
+        }
+      ],
+      "duration_ms": 2632600,
+      "name": "Hem Bihag - A Creation Of Acharya Allanddin Khan - Alap & Jor",
+      "url": "https://open.spotify.com/track/6PbwTf3bXyyQD53mlQGsQ3"
     },
     {
       "added_at": "2023-02-02 06:47:10",
@@ -1043,6 +987,62 @@
       "duration_ms": 2061000,
       "name": "Raga Shuddha Todi: Alap",
       "url": "https://open.spotify.com/track/28p3AUitPD7fiJP56kFIZY"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "AMMP Signature Series Volume 4 - Rag Manj Khammaj / Rag Misra Mand",
+        "url": "https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2"
+      },
+      "artists": [
+        {
+          "name": "Ustad Ali Akbar Khan / Pandit Nikhil Banerjee",
+          "url": "https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns"
+        },
+        {
+          "name": "Mahapurush Misra",
+          "url": "https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B"
+        }
+      ],
+      "duration_ms": 1290800,
+      "name": "Rag Misra Mand",
+      "url": "https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Alhaiya in France",
+        "url": "https://open.spotify.com/album/24vBQ354C7Lm4y9vqLRX9O"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "duration_ms": 369000,
+      "name": "Alhaiya in France",
+      "url": "https://open.spotify.com/track/283RBHJGcWoGJGZS883BLM"
+    },
+    {
+      "added_at": "2023-02-02 06:47:10",
+      "album": {
+        "name": "Immersion",
+        "url": "https://open.spotify.com/album/5QjIPDt3eApiZ2elAmiJ8i"
+      },
+      "artists": [
+        {
+          "name": "Alam Khan",
+          "url": "https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG"
+        },
+        {
+          "name": "Indranil Mallick",
+          "url": "https://open.spotify.com/artist/0KL6Nzq5FePQByCl3mG8X1"
+        }
+      ],
+      "duration_ms": 830066,
+      "name": "Pilu Ragmala in Rupak",
+      "url": "https://open.spotify.com/track/2KQVqgVWDSThJqcQniIson"
     }
   ],
   "unique_name": "Hindustani Instrumental",

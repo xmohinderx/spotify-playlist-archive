@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004,019 likes - 533 songs - 20 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004,146 likes - 533 songs - 20 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,7 +204,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 194 | [Hidden Village](https://open.spotify.com/track/1XlLmcGawSaHSysOg5YPbq) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [Hidden Village](https://open.spotify.com/album/3vr5I9Jb9vgRuFsRfTfhnQ) | 2:37 |
 | 195 | [Summerheat](https://open.spotify.com/track/5u6VZLh8SRuyuCRm6QAaDE) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [Youth](https://open.spotify.com/album/6EsM3MnrEP0kcCf73zoHlF) | 2:03 |
 | 196 | [holibay](https://open.spotify.com/track/59bssvn3WWvm7n8HlVDOuJ) | [breeze inn](https://open.spotify.com/artist/24KZ9h5aLXhkyzn90D7rVd) | [holibay](https://open.spotify.com/album/0w3CVjCoDg5bKMN80fFQCU) | 1:56 |
-| 197 | [Random Girl](https://open.spotify.com/track/4Gd2D4u0EJvg6FZfyuCLmv) | [Akihiko Loft](https://open.spotify.com/artist/0FZgzlv7Kpb5HpW8Z2m3k5) | [True Story](https://open.spotify.com/album/2TOM5h9ZYdaVsKLIhQ3zsf) | 1:46 |
+| 197 | [Random Girl](https://open.spotify.com/track/4Gd2D4u0EJvg6FZfyuCLmv) | [88\-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj) | [True Story](https://open.spotify.com/album/2TOM5h9ZYdaVsKLIhQ3zsf) | 1:46 |
 | 198 | [Midnight Heart](https://open.spotify.com/track/1MbYPlwWJJ5xYeBt3Yv186) | [Syzygy X](https://open.spotify.com/artist/5bQ0VyBeExuR0VDhSMIuii) | [Midnight Heart](https://open.spotify.com/album/3509Yhr3a8aW3PnrmA0RVo) | 2:21 |
 | 199 | [Shimmer](https://open.spotify.com/track/79FvTJvLURJtsgbaD0JbEx) | [Chimes & Diamonds](https://open.spotify.com/artist/22hToWuWyog4NvZLmuZKND) | [Shimmer](https://open.spotify.com/album/2EdLiIm0Gr8wkimnQJwtvX) | 2:48 |
 | 200 | [raw paper](https://open.spotify.com/track/09NBdMpEm7J661F6XVo1SD) | [lazy ai](https://open.spotify.com/artist/73R6uk8C0NukBY2L756yAI) | [perplexia](https://open.spotify.com/album/0V0tjYfGhwsNCVxBdFPMVy) | 2:03 |
@@ -386,7 +386,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 376 | [Simulated Dreams](https://open.spotify.com/track/6wVZttXiGvLabOLuMrK5cE) | [Restl3ss](https://open.spotify.com/artist/01ycQSPdw38BZhDhjOdZNt) | [Simulated Dreams](https://open.spotify.com/album/1I0wWUfPg3Bwb3ujGucFS4) | 1:46 |
 | 377 | [Vibes at Night](https://open.spotify.com/track/5UnkLNbAFGJFp3CAtqVm0L) | [Low Flanders](https://open.spotify.com/artist/3vU1rh15w9e9id0XWk3hX0) | [Vibes at Night](https://open.spotify.com/album/5MjY9yoW4Ny0NHos52mSha) | 2:11 |
 | 378 | [galaxy](https://open.spotify.com/track/1o3ICKADlgDR7HzkvOZVP4) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [galaxy](https://open.spotify.com/album/5Gg4NNgSAZ4tLKxGlgzYig) | 2:19 |
-| 379 | [Confident strut](https://open.spotify.com/track/3Ck5Jt3L0UxacmAT5iqndF) | [Anima](https://open.spotify.com/artist/53aEqZJgTm47vAYN2bJW3u) | [Confident strut](https://open.spotify.com/album/6fEKV9ocCQdawVJNj8wTkQ) | 2:11 |
+| 379 | [Confident strut](https://open.spotify.com/track/3Ck5Jt3L0UxacmAT5iqndF) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Confident strut](https://open.spotify.com/album/6fEKV9ocCQdawVJNj8wTkQ) | 2:11 |
 | 380 | [Oxygen](https://open.spotify.com/track/3bDCUHr8qaergwjn3jGKfu) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Oxygen](https://open.spotify.com/album/5laVyV6X8ZCnOC5jRmM6rh) | 2:54 |
 | 381 | [Reel Feelings](https://open.spotify.com/track/1AL8CEWwVRkDSfY9EKSTQF) | [Clique Epique](https://open.spotify.com/artist/42s4wWqRaDFw25sMxt0FsT) | [Reel Feelings](https://open.spotify.com/album/4EI38sWBJMU7bmEamMbmP9) | 2:07 |
 | 382 | [Aviato](https://open.spotify.com/track/1cEdLUmlJNXQoazp48jxVg) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [Aviato](https://open.spotify.com/album/4DBH0MPVET1AFcds7LSVcu) | 2:08 |

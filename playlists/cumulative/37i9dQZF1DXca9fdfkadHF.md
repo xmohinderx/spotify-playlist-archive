@@ -4,7 +4,7 @@
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-86 songs - 5 hr 31 min
+88 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Las Torres](https://open.spotify.com/track/3sC6meZ0JVduBUG2DDhbHk) | [NSQNSC](https://open.spotify.com/artist/2Ov6O6PFkYV4xjgSW6b9ht) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 3:20 | 2022-04-01 | 2022-10-05 |
 | [Las Torres](https://open.spotify.com/track/5QX7YdxL6LtpWyfbNzaIPC) | [NSQNSC](https://open.spotify.com/artist/2Ov6O6PFkYV4xjgSW6b9ht) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/5uxCbEVfLhM7P1UoSrBrT0) | 3:20 | 2022-04-01 | 2022-10-06 |
 | [Lo Peor de Todo](https://open.spotify.com/track/7cnUsQVdrZFNdtIBKZBMb5) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 4:03 | 2022-04-01 |  |
-| [Los Buenos Tiempos](https://open.spotify.com/track/01HnBtxksndufRZ0G4P78H) | [Imágenes](https://open.spotify.com/artist/21FhK40xTF3XpUPXZgdV7Q) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0sKdSlr1ui53Ar4hX71Ntd) | 4:32 | 2022-04-01 |  |
+| [Los Buenos Tiempos](https://open.spotify.com/track/01HnBtxksndufRZ0G4P78H) | [Imágenes](https://open.spotify.com/artist/21FhK40xTF3XpUPXZgdV7Q) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0sKdSlr1ui53Ar4hX71Ntd) | 4:32 | 2022-04-01 | 2023-02-24 |
+| [Los Buenos Tiempos](https://open.spotify.com/track/7CIkH5bColvkIiHdo0cQVd) | [Imágenes](https://open.spotify.com/artist/21FhK40xTF3XpUPXZgdV7Q) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0MFkglbEJAh1dT5D6Q9Rd7) | 4:32 | 2022-04-01 |  |
 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 | 2022-04-01 |  |
 | [Los Patos y las Patas](https://open.spotify.com/track/0KzcD5rBOrAKPvvbGnvTZ7) | [Nosequien y los Nosecuantos](https://open.spotify.com/artist/53NElDuSIPdjifOGOcvqqe) | [XX Larga Duración](https://open.spotify.com/album/1EGY0YnV5576fW6v8mw9pK) | 3:06 | 2022-04-01 |  |
 | [Me Resfrié en Brasil](https://open.spotify.com/track/47CKeoZNpSKa2yITniKslT) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993\-2001\)](https://open.spotify.com/album/7Dkdt9Ye5pj5qvgD1Fczxj) | 3:47 | 2022-04-01 | 2022-07-29 |
@@ -67,7 +68,8 @@
 | [Personalidad](https://open.spotify.com/track/3eTcUTGJD3WO3UsM0av2OY) | [Jas](https://open.spotify.com/artist/47nHIKTmZwcDtIOaSflgPZ) | [Mueres en tu ley](https://open.spotify.com/album/1EHLAJJHaXr3A8Aw0QaDQp) | 3:10 | 2022-04-01 | 2022-07-29 |
 | [Personalidad](https://open.spotify.com/track/2UO1BZ44RhM74qv13PCixW) | [Jas](https://open.spotify.com/artist/47nHIKTmZwcDtIOaSflgPZ) | [Mueres en Tu Ley](https://open.spotify.com/album/16m1xehdAu0dlKIrWeXuEw) | 3:12 | 2022-04-01 |  |
 | [Por Tu Amor](https://open.spotify.com/track/2IvOjXrJCmttHX8cSKFKbs) | [Autocontrol](https://open.spotify.com/artist/0th5G3uzu7mi4Co4BEMLLZ) | [Sueños](https://open.spotify.com/album/43Py5L7PwKFmNnouXrdpk6) | 4:29 | 2022-04-01 |  |
-| [Pronóstico Reservado](https://open.spotify.com/track/0r3r6idica0ZQMUPOzO6w0) | [La Banda Azul](https://open.spotify.com/artist/6egHTp2ACHZXellZBMPXGS) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0sKdSlr1ui53Ar4hX71Ntd) | 2:50 | 2022-04-01 |  |
+| [Pronóstico Reservado](https://open.spotify.com/track/0r3r6idica0ZQMUPOzO6w0) | [La Banda Azul](https://open.spotify.com/artist/6egHTp2ACHZXellZBMPXGS) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0sKdSlr1ui53Ar4hX71Ntd) | 2:50 | 2022-04-01 | 2023-02-24 |
+| [Pronóstico Reservado](https://open.spotify.com/track/7GQX7wuSBQcQfkMcWFeblQ) | [La Banda Azul](https://open.spotify.com/artist/6egHTp2ACHZXellZBMPXGS) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0MFkglbEJAh1dT5D6Q9Rd7) | 2:50 | 2022-04-01 |  |
 | [Quién Me Entiende](https://open.spotify.com/track/2jHCuQ38CWKqSMUAH5jlp1) | [Calle Sexta](https://open.spotify.com/artist/1hVQbWUjkv6qGzQQ59Dvui) | [Más Peruanos Que el Rock, Vol\. 2](https://open.spotify.com/album/7nFEFppkVpb6SYDDnBFqjJ) | 3:20 | 2022-04-01 |  |
 | [Quién Me Entiende](https://open.spotify.com/track/1w2xzpR1rJiwpla80cwTP3) | [Calle Sexta](https://open.spotify.com/artist/1hVQbWUjkv6qGzQQ59Dvui) | [Más Peruanos Que el Rock, Vol\. 2](https://open.spotify.com/album/7iEEgIff9HCNt7LkweBlMj) | 3:22 | 2022-04-01 | 2022-11-03 |
 | [Quédate](https://open.spotify.com/track/5WbgDeqVRo5C6mzJYIxlHn) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Aquí y Ahora](https://open.spotify.com/album/0xvLmAbqSOxIbRLJmWaIiQ) | 3:37 | 2022-04-01 |  |

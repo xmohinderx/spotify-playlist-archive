@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. The Revivalists
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,479 likes - 103 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,510 likes - 103 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

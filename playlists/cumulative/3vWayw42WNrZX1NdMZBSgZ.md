@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: GALE
 
-424 songs - 23 hr 2 min
+427 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Apreton](https://open.spotify.com/track/3bUhvt1PcJVZdliG1XtpXW) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Apreton](https://open.spotify.com/album/3Li9ZLoAyR7PSnJ1YojaFH) | 4:18 | 2022-12-09 |  |
 | [Aquí Estoy](https://open.spotify.com/track/0AjWPhrgNzEAO7FTnQIlEf) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Aquí Estoy](https://open.spotify.com/album/3BdctQrrNWKKazV67UXzGK) | 2:08 | 2022-02-02 |  |
 | [ARENA Y MAR](https://open.spotify.com/track/5j42bMuCeQHfQHC61QZEDO) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [ARENA Y MAR](https://open.spotify.com/album/10wlt2vpWYDy6XKDGvFYO4) | 2:33 | 2022-04-21 | 2022-08-06 |
+| [Arte](https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Arte](https://open.spotify.com/album/531LZb17gcTf6iu8wIc7kt) | 3:12 | 2023-02-24 |  |
 | [Aurora \- Remix](https://open.spotify.com/track/7nHtmtk2wtQoRTBA8tEMWy) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Aurora \(Remix\)](https://open.spotify.com/album/3dgoNFp7Rdw1KBH3n5YIAO) | 4:02 | 2022-09-30 |  |
 | [Babel](https://open.spotify.com/track/20G5CFb10eulCPFSLTIpt8) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Babel](https://open.spotify.com/album/07i1aBWmIFnWK5yRQDu3Gk) | 4:18 | 2022-05-04 |  |
 | [Baila Así \(feat\. Chiquis\)](https://open.spotify.com/track/4uZA7hxe5WZiQpOAu9lerj) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Baila Así \(feat\. Chiquis\)](https://open.spotify.com/album/0SXbEP6U9u9JLzuPVYRIGQ) | 2:51 | 2022-02-02 |  |
@@ -62,6 +63,7 @@
 | [Cama y Mesa](https://open.spotify.com/track/5GHoJnSyADkQJsDeULt38x) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Cama y Mesa](https://open.spotify.com/album/1QdE5GPykczEIPIQh3nvHK) | 2:45 | 2022-10-07 |  |
 | [Cambia el Paso](https://open.spotify.com/track/6w0hTf98ZNQm5GpfWeuoAk) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cambia el Paso](https://open.spotify.com/album/5qSmLWlPnrhF2rgt54Y7GC) | 4:05 | 2022-02-02 |  |
 | [CANALLA](https://open.spotify.com/track/4D2JnOG7VMleYTkrRO0F76) | [Pinto “Wahin”](https://open.spotify.com/artist/3h3AWIF6JCWTRB5cr5wp55) | [CANALLA](https://open.spotify.com/album/48TxVSQAxEuTWrMu0LiojP) | 2:58 | 2022-02-04 |  |
+| [Cantando](https://open.spotify.com/track/1WJob97sAaeo6t7yo8BJor) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Elenco de El club de los Graves](https://open.spotify.com/artist/2jnXHPCEsDhTBvkbOdlO1e) | [El club de los Graves \(Banda Sonora Original\)](https://open.spotify.com/album/2Xt8CZKfe5y991heNDB53J) | 2:21 | 2023-02-24 |  |
 | [CAPRICHOSO](https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [CAPRICHOSO](https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah) | 2:47 | 2022-02-07 |  |
 | [Cargando Piedras](https://open.spotify.com/track/2UjPnCrGVhtnLGVfZ27jgc) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Cargando Piedras](https://open.spotify.com/album/2Z7e1CJ88hnq2tu47vK207) | 2:55 | 2022-12-02 |  |
 | [Carne y Hueso](https://open.spotify.com/track/3yeFTYLMz4nOtyPXWEMKsW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Carne y Hueso](https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9) | 2:58 | 2022-05-19 |  |
@@ -100,6 +102,7 @@
 | [Delincuente](https://open.spotify.com/track/16xxTZHVPcKi9R3hwY6k0y) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Delincuente](https://open.spotify.com/album/10Abca73iOgyBWR0EsZoDU) | 2:52 | 2022-12-02 |  |
 | [Deprimida](https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Deprimida](https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3) | 3:37 | 2022-02-17 |  |
 | [Desesperados](https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Desesperados](https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H) | 3:44 | 2022-02-02 |  |
+| [Devuélveme un Te Amo](https://open.spotify.com/track/7675g48jV60eUhEjpLelB9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 3:45 | 2023-02-23 |  |
 | [DIME QUIÉN????](https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DIME QUIÉN????](https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV) | 2:44 | 2022-10-28 |  |
 | [Dinero, Fama y Poder](https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Dinero, Fama y Poder](https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL) | 2:34 | 2022-08-26 |  |
 | [Distancia](https://open.spotify.com/track/078SF4DC2Jf6qalzlFIi2J) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Distancia](https://open.spotify.com/album/2gqjUsHgffcCdtkAy44PWE) | 2:43 | 2022-10-27 |  |

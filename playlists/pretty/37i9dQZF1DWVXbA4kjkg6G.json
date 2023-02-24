@@ -1,12 +1,12 @@
 {
   "description": "Psychedelic beat science.",
-  "num_followers": 370557,
+  "num_followers": 371002,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMGRhMjc2MzllMWUwMmVjNDQwMmU1ZGFhOWI4NjM0MmNj",
+  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDY0MzBiZTgwMTAxM2Y3OTUyNWZlNGIzNTIxZmFmZGVj",
   "tracks": [
     {
       "added_at": "2021-06-25 10:16:08",
@@ -259,22 +259,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 386266,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Smokers Delight",
         "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 280266,
       "name": "Nights Introlude",
       "url": "https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 386266,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "USSR Repertoire / The Theory Of Verticality",
-        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
-      },
-      "artists": [
-        {
-          "name": "DJ Vadim",
-          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
-        }
-      ],
-      "duration_ms": 129400,
-      "name": "The Next Shit",
-      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Ninja Cuts - Funkjazztical Tricknology",
         "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 245946,
       "name": "Dark Lady",
       "url": "https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "USSR Repertoire / The Theory Of Verticality",
+        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
+      },
+      "artists": [
+        {
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+        }
+      ],
+      "duration_ms": 129400,
+      "name": "The Next Shit",
+      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -867,6 +867,38 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 831400,
+      "name": "What Does Your Soul Look Like, Pt. 2",
+      "url": "https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 419426,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Trip Hop Classics",
         "url": "https://open.spotify.com/album/0SatpsNu81KdWzit0pmCb3"
       },
@@ -899,38 +931,6 @@
       "duration_ms": 232160,
       "name": "Christiansands",
       "url": "https://open.spotify.com/track/413DSZdM15Uz3oHHLycuKK"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 419426,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 831400,
-      "name": "What Does Your Soul Look Like, Pt. 2",
-      "url": "https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -999,26 +999,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Lifestyle2 - Chill Lounge Vol 1",
-        "url": "https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9"
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
       "artists": [
         {
-          "name": "Bomb The Bass",
-          "url": "https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6"
-        },
-        {
-          "name": "Peter Kruder",
-          "url": "https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC"
-        },
-        {
-          "name": "Richard Dorfmeister",
-          "url": "https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h"
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
         }
       ],
-      "duration_ms": 374480,
-      "name": "Bug Powder Dust - Kruder & Dorfmeister Dub",
-      "url": "https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx"
+      "duration_ms": 734333,
+      "name": "In / Flux",
+      "url": "https://open.spotify.com/track/6lkAoFkfbG18GSOqxW50Ar"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1039,22 +1031,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 734333,
-      "name": "In / Flux",
-      "url": "https://open.spotify.com/track/6lkAoFkfbG18GSOqxW50Ar"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Ninja Cuts - Funkjazztical Tricknology",
         "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 245493,
       "name": "Black Jesus",
       "url": "https://open.spotify.com/track/6JKFK3xmbsemZvLA40R7KH"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Lifestyle2 - Chill Lounge Vol 1",
+        "url": "https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9"
+      },
+      "artists": [
+        {
+          "name": "Bomb The Bass",
+          "url": "https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6"
+        },
+        {
+          "name": "Peter Kruder",
+          "url": "https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC"
+        },
+        {
+          "name": "Richard Dorfmeister",
+          "url": "https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h"
+        }
+      ],
+      "duration_ms": 374480,
+      "name": "Bug Powder Dust - Kruder & Dorfmeister Dub",
+      "url": "https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx"
     },
     {
       "added_at": "2021-06-25 10:16:08",

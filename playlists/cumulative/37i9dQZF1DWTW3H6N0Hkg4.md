@@ -4,7 +4,7 @@
 
 > Cumbias de antaño para bailar.
 
-251 songs - 15 hr 6 min
+252 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Muñeca Esquiva](https://open.spotify.com/track/0cSV5FFD9zgq5ugN30vCOW) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [24 Cumbias Pa' bailar: Al Calor De La Cumbia](https://open.spotify.com/album/6XjNCf40oumpbTuR7TByox) | 3:03 | 2021-10-19 | 2022-07-29 |
 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 | 2022-07-19 |  |
 | [No Mientas Mas](https://open.spotify.com/track/18VNH7qlbge0PSmu5Rdr0t) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/5JsU1OR6DYloLGe7rC8Wt3) | 3:54 | 2022-06-07 | 2022-07-29 |
-| [No Mientas Mas](https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 3:54 | 2022-07-19 |  |
+| [No Mientas Mas](https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 3:54 | 2022-07-19 | 2023-02-24 |
 | [No Te Vayas, Corazón](https://open.spotify.com/track/6ZHOAF8cCGLXsSvNAFADMi) | [Los Wawanco](https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6), [Hernán Rojas](https://open.spotify.com/artist/3dkjB35iFamrfo9flhThs7) | [20 Superéxitos Originales](https://open.spotify.com/album/4f7zlhcg4b7kuEZhPlKX6f) | 2:27 | 2022-06-07 | 2022-07-20 |
 | [No Te Voy a Perdonar](https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Te Voy A Perdonar, Vol\. 4](https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW) | 3:52 | 2022-07-19 |  |
 | [No Te Voy A Perdonar](https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Te Voy A Perdonar, Volumen 4](https://open.spotify.com/album/24V99ibPcTjI906jV1io1D) | 3:52 | 2021-10-19 | 2022-07-29 |
@@ -224,6 +224,7 @@
 | [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 | 2022-07-19 |  |
 | [Suavemente Amor](https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:54 | 2022-07-19 |  |
 | [Tabaco y Ron](https://open.spotify.com/track/5kyyzquBdNuJis2kVC4GmT) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us) | 4:02 | 2022-06-07 | 2022-12-24 |
+| [Tabajo y Ron](https://open.spotify.com/track/7tTwwjaTdFMLUsrPM9jIZs) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 4:02 | 2022-12-07 |  |
 | [Tambalea](https://open.spotify.com/track/2Wd53oIqGVC5Vyd5R96l4J) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [17 Aniversario](https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77) | 2:26 | 2022-06-07 | 2022-11-13 |
 | [Tan Bella Y Tan Presumida](https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP) | [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [Eva María](https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y) | 3:05 | 2022-06-07 |  |
 | [Te Amo](https://open.spotify.com/track/70UUg4Z7nS5SJzMWc2W32U) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [3 De Colección...Los Mier](https://open.spotify.com/album/62NFPbyHBnsb2G1tyPUB8d) | 2:55 | 2021-10-19 | 2022-06-08 |

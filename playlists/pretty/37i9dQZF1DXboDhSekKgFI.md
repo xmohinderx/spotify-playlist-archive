@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 
 > Los niños se volverán locos por estas canciones de fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,338 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,353 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 | 52 | [A Divertirse](https://open.spotify.com/track/1URPFeH9U75h8hCjyZylEA) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [¡Viva Mi Planeta 2!](https://open.spotify.com/album/75DqI2Vyklgc4fDTzISbWb) | 1:54 |
 | 53 | [Mi Gente](https://open.spotify.com/track/5ztaePc76dP2m4hUvbI1Gt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 37](https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj) | 3:06 |
 | 54 | [Vamos a Jugar](https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:55 |
-| 55 | [Speedy Gonzalez](https://open.spotify.com/track/11dG2Slr6F3a3UB7MHztvd) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 3:25 |
+| 55 | [Piñata Attack! \(Spanish Version\)](https://open.spotify.com/track/6vB7wGPBsUbF68x2oP49lY) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 2:11 |
 | 56 | [Será un Día Fenomenal \(De "Phineas & Ferb"\)](https://open.spotify.com/track/2yKwySjvnUXeIQ4eqwBmFj) | [Super Banda Infantil](https://open.spotify.com/artist/7mtajIQbgVMoKTabPTzXVU) | [Canciones Infantiles](https://open.spotify.com/album/4yu4Wj0D2Jz2FNWuJplHIB) | 3:06 |
 | 57 | [La Canciòn](https://open.spotify.com/track/58Ezud7EmDJTWdN5enfRpM) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [La Canciòn](https://open.spotify.com/album/7p3hSlLxQtEZ3OWinN1TF8) | 3:09 |
-| 58 | [Piñata Attack! \(Spanish Version\)](https://open.spotify.com/track/6vB7wGPBsUbF68x2oP49lY) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 2:11 |
+| 58 | [Speedy Gonzalez](https://open.spotify.com/track/11dG2Slr6F3a3UB7MHztvd) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 3:25 |
 | 59 | [Desconocidos](https://open.spotify.com/track/18K0QPs7G0yPaDlz1W47bG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:26 |
 | 60 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 
-Snapshot ID: `MTY1NzU3NjkyOCwwMDAwMDAwMGMxOThiNTlmNDBjYmM0MWNlMGFlYzdjZTAxMDZmMWNk`
+Snapshot ID: `MTY1NzU3NjkyOCwwMDAwMDAwMDViNGZiODIwM2IyMWZjZWY4YTQ1YzIzMGQyZjU5YjU1`

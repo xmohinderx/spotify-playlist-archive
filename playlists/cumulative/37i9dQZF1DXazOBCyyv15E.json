@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Caroline Polachek",
+  "description": "The home of the best new alternative music. Cover: CHVRCHES",
   "name": "The Other List",
   "tracks": [
     {
@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Adderall",
+        "url": "https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265183,
+      "name": "Adderall",
+      "url": "https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1"
+    },
+    {
+      "album": {
         "name": "WTF is even going on?",
         "url": "https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H"
       },
@@ -882,7 +900,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 210447,
       "name": "All I Need To Hear",
       "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
@@ -2546,7 +2564,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 199861,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/0fgULj9VZdizE6MMuy9rnf"
@@ -5512,7 +5530,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 174888,
       "name": "del mar county fair 2008",
       "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
@@ -5754,7 +5772,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 202754,
       "name": "Divebomb",
       "url": "https://open.spotify.com/track/0Q0ePAA7KOrodVfDpwDvDY"
@@ -5913,6 +5931,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Hate Me",
+        "url": "https://open.spotify.com/album/5onmM2jMU1bod6ybbehqAq"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162156,
+      "name": "Don't Hate Me",
+      "url": "https://open.spotify.com/track/740fSe2KremXUF2V6e4KnG"
+    },
+    {
+      "album": {
         "name": "don't jump the gun",
         "url": "https://open.spotify.com/album/3GrECJ07gyegeBtv5ZMG7T"
       },
@@ -6044,6 +6080,24 @@
       "duration_ms": 231773,
       "name": "Don't You Go Falling In Love (feat. Biig Piig & Lord Apex)",
       "url": "https://open.spotify.com/track/3BHU5jiJoVTTR0zzhhCxSH"
+    },
+    {
+      "album": {
+        "name": "Done (Let's Get It)",
+        "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172613,
+      "name": "Done (Let\u2019s Get It)",
+      "url": "https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD"
     },
     {
       "album": {
@@ -6730,7 +6784,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 162935,
       "name": "Everything I'm Not",
       "url": "https://open.spotify.com/track/6zJKS2ThHSC5kcQ9uXDcnU"
@@ -8376,7 +8430,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 211200,
       "name": "Girl",
       "url": "https://open.spotify.com/track/1wQBI2DEYltF2XlKs07D7G"
@@ -8430,7 +8484,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 353272,
       "name": "Give Me A Reason",
       "url": "https://open.spotify.com/track/2ZCZc1R6mUTDKpy1O0rmTz"
@@ -9348,6 +9402,24 @@
       "duration_ms": 206793,
       "name": "Hang My Head",
       "url": "https://open.spotify.com/track/2Qm5gg9NZIrtURqpIalMyy"
+    },
+    {
+      "album": {
+        "name": "Happy Feet",
+        "url": "https://open.spotify.com/album/6pjU8QXWzeuCed73NlF5er"
+      },
+      "artists": [
+        {
+          "name": "Do Nothing",
+          "url": "https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251204,
+      "name": "Happy Feet",
+      "url": "https://open.spotify.com/track/3rIii6N9TMUWA4ObdkfJvw"
     },
     {
       "album": {
@@ -10682,7 +10754,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 265278,
       "name": "I Shimmer",
       "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
@@ -11502,6 +11574,24 @@
       "duration_ms": 203480,
       "name": "iScream",
       "url": "https://open.spotify.com/track/1mGtSulwCCpDQoXHrrZ4Ur"
+    },
+    {
+      "album": {
+        "name": "It Holds And It Holds",
+        "url": "https://open.spotify.com/album/7jcyaVtnsr2xNUx8CDzTWq"
+      },
+      "artists": [
+        {
+          "name": "Low Island",
+          "url": "https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220493,
+      "name": "It Holds And It Holds",
+      "url": "https://open.spotify.com/track/5M7iggZ96oQFV6SVorUcFn"
     },
     {
       "album": {
@@ -13132,7 +13222,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 319777,
       "name": "Love Factory",
       "url": "https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95"
@@ -14250,7 +14340,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 199437,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/4udzswZRcVdh8Kn945krEK"
@@ -15869,6 +15959,24 @@
     },
     {
       "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217125,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+    },
+    {
+      "album": {
         "name": "Overstayed",
         "url": "https://open.spotify.com/album/4mfuviXdL3Y8TcGG1qO6BK"
       },
@@ -16158,7 +16266,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 156203,
       "name": "Path To Satisfaction",
       "url": "https://open.spotify.com/track/1YlyisbwvzWI4Z8miR8ZNX"
@@ -17327,6 +17435,28 @@
     },
     {
       "album": {
+        "name": "Red Hook (feat. Junior Varsity)",
+        "url": "https://open.spotify.com/album/0oxdFvVtoRkycmeEjSwYm0"
+      },
+      "artists": [
+        {
+          "name": "Mac Wetha",
+          "url": "https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP"
+        },
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140133,
+      "name": "Red Hook (feat. Junior Varsity)",
+      "url": "https://open.spotify.com/track/4z6C2sskSGRqjvkir8UofZ"
+    },
+    {
+      "album": {
         "name": "Red Skies",
         "url": "https://open.spotify.com/album/6Sd3aCrziICCU1VYeSfUnB"
       },
@@ -17854,6 +17984,24 @@
       "duration_ms": 171568,
       "name": "RUBBER BANDS",
       "url": "https://open.spotify.com/track/4Ui0mQgS3pDEjFXmDnBo24"
+    },
+    {
+      "album": {
+        "name": "Rubiks Cube",
+        "url": "https://open.spotify.com/album/6uMXsg31HVhkXgdBl6YwJY"
+      },
+      "artists": [
+        {
+          "name": "whenyoung",
+          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190880,
+      "name": "Rubiks Cube",
+      "url": "https://open.spotify.com/track/1B2F3ItQzXPpa02K74JLBY"
     },
     {
       "album": {
@@ -18710,7 +18858,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 266338,
       "name": "Silent Running (feat. Adeleye Omotayo)",
       "url": "https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg"
@@ -19050,6 +19198,24 @@
       "duration_ms": 207627,
       "name": "Small Ghosts",
       "url": "https://open.spotify.com/track/6zFqu6VWpbpO36qr9QkH4G"
+    },
+    {
+      "album": {
+        "name": "Smashed Up My Fender",
+        "url": "https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174040,
+      "name": "Smashed Up My Fender",
+      "url": "https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3"
     },
     {
       "album": {
@@ -19833,6 +19999,24 @@
     },
     {
       "album": {
+        "name": "star",
+        "url": "https://open.spotify.com/album/4iAtPukcN2ergkdoZlXSvB"
+      },
+      "artists": [
+        {
+          "name": "sophie meiers",
+          "url": "https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119660,
+      "name": "star",
+      "url": "https://open.spotify.com/track/3APRtJ612KjQ0GfU7b8ZqG"
+    },
+    {
+      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/5hD8NbrodaAAEVN9jlBVOK"
       },
@@ -20558,7 +20742,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 272000,
       "name": "Surfing in Iceland",
       "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
@@ -21070,6 +21254,24 @@
       "duration_ms": 195000,
       "name": "TELL THE TRUTH!",
       "url": "https://open.spotify.com/track/4LhT7z9ZhGViUJY9sp6j3x"
+    },
+    {
+      "album": {
+        "name": "TEMPTRESS",
+        "url": "https://open.spotify.com/album/0OGPnuAwWyhqxjhAvs4RSr"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "TEMPTRESS",
+      "url": "https://open.spotify.com/track/7yxTNloroHZe3rD6kxJed2"
     },
     {
       "album": {
@@ -22252,6 +22454,28 @@
       "duration_ms": 209720,
       "name": "Top Steppa",
       "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
+    },
+    {
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193463,
+      "name": "Tormenta (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     },
     {
       "album": {
@@ -23582,7 +23806,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 192391,
       "name": "What's Your Poison?",
       "url": "https://open.spotify.com/track/2AVcklGvXjvGZu6blTLOr0"
@@ -23694,6 +23918,24 @@
       "duration_ms": 193015,
       "name": "when the party\u2019s over",
       "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
+    },
+    {
+      "album": {
+        "name": "When You Dress Up",
+        "url": "https://open.spotify.com/album/1Biiva2Mm2d6U0EgRXojx0"
+      },
+      "artists": [
+        {
+          "name": "Lucia & The Best Boys",
+          "url": "https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206734,
+      "name": "When You Dress Up",
+      "url": "https://open.spotify.com/track/1dy0yjSUuYOqirPLWm2sXy"
     },
     {
       "album": {
@@ -23950,7 +24192,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 253026,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"

@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
+> African dance party music from Paris to Abidjan\. Photo : DOUPI PAPILLON
 
-111 songs - 6 hr 38 min
+113 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Kong](https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Kong](https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6) | 3:08 | 2021-12-20 | 2022-08-12 |
 | [Kpokpokpouho Soualélé](https://open.spotify.com/track/0rn8Umfi4msYkNOEApR8im) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Kpokpokpouho Soualélé](https://open.spotify.com/album/2Z8wMFlRBNREO4swQV3w0p) | 3:00 | 2021-12-20 | 2022-03-23 |
 | [Kulumba](https://open.spotify.com/track/2uOe8oN4r5gcNp7mQ75JHH) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Kulumba](https://open.spotify.com/album/1haafvY6Ua0ukUI5RFUw1s) | 3:27 | 2022-01-21 | 2022-08-26 |
+| [L'ARGENT](https://open.spotify.com/track/7scxQF1Vtekl1t8ZEQP8Rp) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'ARGENT](https://open.spotify.com/album/1ddf374lK7mJLNirc8dvOS) | 3:52 | 2023-02-23 |  |
 | [L'oracle](https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'oracle](https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc) | 3:47 | 2022-06-16 |  |
 | [L'ÉLU](https://open.spotify.com/track/0uBeyUIhQz9VMFhusb4amm) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [L'ÉLU](https://open.spotify.com/album/7z6dxGFKND8D4HVJ4jXcSW) | 3:40 | 2021-12-20 | 2022-01-22 |
 | [La colère du lion](https://open.spotify.com/track/2cuMpuKGpoZ9VgZ3gJf7dC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [La colère du lion](https://open.spotify.com/album/53bfY2vHTLpeasGMw8BS7p) | 7:01 | 2021-12-20 | 2022-08-26 |
@@ -107,7 +108,7 @@
 | [Tala N'dile](https://open.spotify.com/track/15yN7E99wB5yo12CCr2G8F) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Dj Arafat](https://open.spotify.com/artist/2DWtnLOf0zcPrZWSmeShVT) | [Tala N'dile](https://open.spotify.com/album/47FvCt5Faqv33pjUi9omrW) | 3:54 | 2021-12-20 | 2022-07-29 |
 | [Tala n'dilé](https://open.spotify.com/track/71OGTXMcbDSajFHTEv7RNC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Dj Arafat](https://open.spotify.com/artist/1N7LMMxLFkvp58rh2X9PFa) | [Tala n'dilé](https://open.spotify.com/album/1Z8uKJAU7A0kwrVTuhtzKS) | 3:53 | 2022-07-28 | 2023-01-06 |
 | [TCHÔKÔRÔBA](https://open.spotify.com/track/3sUcopiGb0rdBfKNprd2Pa) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [TCHÔKÔRÔBA](https://open.spotify.com/album/1NUTQf3AsMDfcCdshXx2gL) | 3:06 | 2023-02-02 |  |
-| [Tia Lokolo](https://open.spotify.com/track/2HF3vfhadGD8031QYEi9UK) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Extra Musica Nouvel Horizon](https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98) | [Tia Lokolo](https://open.spotify.com/album/1ztxb2s1GFytG2MiUhNJge) | 4:12 | 2022-05-26 |  |
+| [Tia Lokolo](https://open.spotify.com/track/2HF3vfhadGD8031QYEi9UK) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Extra Musica Nouvel Horizon](https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98) | [Tia Lokolo](https://open.spotify.com/album/1ztxb2s1GFytG2MiUhNJge) | 4:12 | 2022-05-26 | 2023-02-24 |
 | [Toffolè \(feat\. Koffi Olomidé\)](https://open.spotify.com/track/5SDXcxvvxGoLbfRKg8cX9x) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Toffolè \(feat\. Koffi Olomidé\)](https://open.spotify.com/album/6pFvsYQ82OZLx1t5dtIxlQ) | 3:54 | 2022-07-21 |  |
 | [Touche ici](https://open.spotify.com/track/7KNBqiP45FqWEpI4Gh91NU) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Touche ici](https://open.spotify.com/album/6whze3CYPWp0Wt797GKV0y) | 3:35 | 2021-12-20 | 2022-12-09 |
 | [Tous des traîtres](https://open.spotify.com/track/0MMDVLU6OYcTs6xCRng6XE) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Ali le code](https://open.spotify.com/artist/518yrkCaPdKEvMi8vK3H9d), [Abomé léléfant](https://open.spotify.com/artist/7AUVEvmiJ2N8xH2ECTylBg) | [Tous des traîtres](https://open.spotify.com/album/3bhE5PPsIznSHjka6Di4cY) | 3:01 | 2022-08-04 | 2022-09-30 |
@@ -117,7 +118,8 @@
 | [Yo Pe \- Remix](https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Yo Pe \(Remix\)](https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV) | 4:32 | 2021-12-20 | 2022-02-19 |
 | [Zambeleman](https://open.spotify.com/track/5QqYi2I1W5qWs492jukBhc) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq), [Bonigo](https://open.spotify.com/artist/6haKYR8zgWMWv4VK8TYBME) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 4:29 | 2021-12-20 |  |
 | [Zendaka](https://open.spotify.com/track/7BlelZjPQgRSTPhKAEkauM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Zendaka](https://open.spotify.com/album/0NppZsF445DiWFxVq7ezcP) | 3:03 | 2021-12-20 | 2022-07-22 |
-| [Ça me fait](https://open.spotify.com/track/621YkVNvsCKXHh45xfsewd) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Ça me fait](https://open.spotify.com/album/44cCWmdLfoYuYLmWfhPfzE) | 3:42 | 2022-08-25 |  |
+| [Zozo](https://open.spotify.com/track/1Syhx5tRxvICLuxeDVwHIp) | [Les Patrons](https://open.spotify.com/artist/1nsZMNRP1vmtIat8hD4bHg), [Revolution](https://open.spotify.com/artist/0psAr2Os4y9mRbgas7mHpk) | [Tresor](https://open.spotify.com/album/70u6kE9EXGjpNdjtPiqRJ6) | 3:56 | 2023-02-23 |  |
+| [Ça me fait](https://open.spotify.com/track/621YkVNvsCKXHh45xfsewd) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Ça me fait](https://open.spotify.com/album/44cCWmdLfoYuYLmWfhPfzE) | 3:42 | 2022-08-25 | 2023-02-24 |
 | [Échauffement \- Remix](https://open.spotify.com/track/7FrQ65IHw0NCJOPsm2mAML) | [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j), [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Échauffement \(Remix\)](https://open.spotify.com/album/5oBjhFTdm6JAMsJfCxY1dR) | 2:08 | 2022-06-02 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

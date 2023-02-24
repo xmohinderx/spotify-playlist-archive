@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 875616,
+  "num_followers": 875694,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDNiZTAyMDI5MTA1NWVhMWM5ZjU5MjhiODAyY2QwZjBm",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDVhNjBhYzIwZDI2Njk2YmM2NTY1YjBhYTlkMzZjOWQ0",
   "tracks": [
     {
       "added_at": "2022-12-02 15:49:35",
@@ -543,6 +543,26 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        }
+      ],
+      "duration_ms": 121849,
+      "name": "Spirits Pt. 2",
+      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/4CoLHunP23dUcORSP1Nfzb"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 192941,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Lil Gnar",
-          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
-        }
-      ],
-      "duration_ms": 121849,
-      "name": "Spirits Pt. 2",
-      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -751,26 +751,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
-      },
-      "artists": [
-        {
-          "name": "Champagne Drip",
-          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
-        },
-        {
-          "name": "Luci",
-          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "We Are Deadbeats (Vol. 4)",
         "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
       },
@@ -791,6 +771,26 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
+      },
+      "artists": [
+        {
+          "name": "Champagne Drip",
+          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
         "name": "Birdz (with Smokepurpp)",
         "url": "https://open.spotify.com/album/4bhd6PgiyB6Ba2scrbS7ai"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 162375,
       "name": "Birdz (with Smokepurpp)",
       "url": "https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
-        "name": "Shiawase",
-        "url": "https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d"
-      },
-      "artists": [
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        }
-      ],
-      "duration_ms": 217787,
-      "name": "Shiawase",
-      "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -851,6 +835,22 @@
       "duration_ms": 168641,
       "name": "In My Room (feat. Ty Dolla $ign & Tyga)",
       "url": "https://open.spotify.com/track/4lqEFIB9YZl8BwR99L5H3b"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Shiawase",
+        "url": "https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "duration_ms": 217787,
+      "name": "Shiawase",
+      "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -907,26 +907,6 @@
       "duration_ms": 158961,
       "name": "Spanish Moss",
       "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
-        "name": "Starman",
-        "url": "https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z"
-      },
-      "artists": [
-        {
-          "name": "Champagne Drip",
-          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
-        },
-        {
-          "name": "Crystalline",
-          "url": "https://open.spotify.com/artist/4NRLMX0IRHkm2qI1WFLxHZ"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Kaleidoscope (Feat. Crystalline)",
-      "url": "https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -991,6 +971,26 @@
       "duration_ms": 214929,
       "name": "Came Up",
       "url": "https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Starman",
+        "url": "https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z"
+      },
+      "artists": [
+        {
+          "name": "Champagne Drip",
+          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        {
+          "name": "Crystalline",
+          "url": "https://open.spotify.com/artist/4NRLMX0IRHkm2qI1WFLxHZ"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Kaleidoscope (Feat. Crystalline)",
+      "url": "https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Cartel II",
-        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Reese LAFLARE",
-          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Fatal Attraction (feat. Reese LAFLARE)",
-      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Wobble",
         "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 273600,
       "name": "Lions - Doctor P Remix",
       "url": "https://open.spotify.com/track/6exH1RP0wkEQgfHJ3rd2mP"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Cartel II",
+        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Reese LAFLARE",
+          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Fatal Attraction (feat. Reese LAFLARE)",
+      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
+        "name": "HOMETOWN HEROES",
+        "url": "https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carmack",
+          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
+        },
+        {
+          "name": "Dilip",
+          "url": "https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2"
+        }
+      ],
+      "duration_ms": 270422,
+      "name": "GOD (MUSIC)",
+      "url": "https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
         "name": "Twitter",
         "url": "https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 183816,
       "name": "STAY STRONG",
       "url": "https://open.spotify.com/track/0zQEGtey6NFC8f8rKUAAf9"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
-        "name": "HOMETOWN HEROES",
-        "url": "https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4"
-      },
-      "artists": [
-        {
-          "name": "Mr. Carmack",
-          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
-        },
-        {
-          "name": "Dilip",
-          "url": "https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2"
-        }
-      ],
-      "duration_ms": 270422,
-      "name": "GOD (MUSIC)",
-      "url": "https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm"
     },
     {
       "added_at": "2022-12-02 15:49:35",

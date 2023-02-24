@@ -3473,6 +3473,24 @@
     },
     {
       "album": {
+        "name": "L'Mdina",
+        "url": "https://open.spotify.com/album/4yfsWZwP2S19rizMlxjcxW"
+      },
+      "artists": [
+        {
+          "name": "Milfaya",
+          "url": "https://open.spotify.com/artist/04AJQXlTk4IiSxESsmYDvp"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245434,
+      "name": "SARA",
+      "url": "https://open.spotify.com/track/1pI3VzxUIrXmgxc9tmhwHC"
+    },
+    {
+      "album": {
         "name": "Sasasa",
         "url": "https://open.spotify.com/album/5NF5qAN61aw3UbZR2RM41x"
       },
@@ -3502,7 +3520,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 253783,
       "name": "SBABO NTI",
       "url": "https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi"

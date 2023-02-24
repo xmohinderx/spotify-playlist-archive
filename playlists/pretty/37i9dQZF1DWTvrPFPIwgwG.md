@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kemilly Santos, Damares
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,185 likes - 85 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,377 likes - 85 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 6 | [Eu Sou Uma Pérola \(Ao Vivo\)](https://open.spotify.com/track/04j8b2mVmbwomOrMmOWOt7) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Eu Sou Uma Pérola \(Ao Vivo\)](https://open.spotify.com/album/3i87r0dIqP3MDmDuVyRWnf) | 5:24 |
 | 7 | [Escritor](https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Escritor](https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd) | 4:49 |
 | 8 | [Dias de Guerra](https://open.spotify.com/track/3p82xqXALhgwEc7Jt84nE1) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Dias de Guerra](https://open.spotify.com/album/2wqbreN7kz4c9tgI6ERntq) | 4:54 |
-| 9 | [Há um Tempo](https://open.spotify.com/track/4RRhPzBkN2rLr1jz3Da1NK) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Há um Tempo](https://open.spotify.com/album/4N0OsVr0l5lTjkxCeqGHbp) | 4:44 |
+| 9 | [No Silêncio \- Ao vivo](https://open.spotify.com/track/0NgRrEnBuuUyfBptNRyxdP) | [Jefferson & Suellen](https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28) | [No Silêncio \(Ao vivo\)](https://open.spotify.com/album/7bPcheoTQfzLaVqO8Iw3GK) | 4:25 |
 | 10 | [Logo Eu](https://open.spotify.com/track/2OjumT4ZsBo16OglQftYSh) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Logo Eu](https://open.spotify.com/album/4s7hyXfQYCxPM4T5P9LQbj) | 4:49 |
 | 11 | [Vou Deixar na Cruz](https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Vou Deixar na Cruz](https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC) | 5:34 |
-| 12 | [No Silêncio \- Ao vivo](https://open.spotify.com/track/0NgRrEnBuuUyfBptNRyxdP) | [Jefferson & Suellen](https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28) | [No Silêncio \(Ao vivo\)](https://open.spotify.com/album/7bPcheoTQfzLaVqO8Iw3GK) | 4:25 |
+| 12 | [Há um Tempo](https://open.spotify.com/track/4RRhPzBkN2rLr1jz3Da1NK) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Há um Tempo](https://open.spotify.com/album/4N0OsVr0l5lTjkxCeqGHbp) | 4:44 |
 | 13 | [Foi a Mão de Deus](https://open.spotify.com/track/575A4uzmh4OIHn34wRD6Gy) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Foi a Mão de Deus](https://open.spotify.com/album/4NP7tJqXXSFWZDYdy9ZKUU) | 6:48 |
 | 14 | [O Leão](https://open.spotify.com/track/2XzfX9mvl3eg8UM5VhYAJX) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [O Leão](https://open.spotify.com/album/64Nuz4DuJpracX5ddk9PqD) | 4:27 |
 | 15 | [Volte a Sonhar](https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 3:53 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Senhor do Tempo](https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Senhor do Tempo](https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE) | 4:34 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MTY3NjAzMTg2NCwwMDAwMDAwMDRhMTQ3ZDMwOTMzMDdiMzc1ZjkzYmU0ZjNkN2JjNjhh`
+Snapshot ID: `MTY3NjAzMTg2NCwwMDAwMDAwMDE4NDZmZGNiMDI0ZjE1ZGNiMmZmNzE0Y2I5MGI4M2Ez`

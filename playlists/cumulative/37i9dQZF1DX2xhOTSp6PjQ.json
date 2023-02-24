@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs?si=fl5dBqaUSQmDLXMOXNYbIQ\">Khuzani</a>",
+  "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9?si=i7uGfhIiQqSACQVc0TcL0w\">Imithente</a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2019-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 309813,
       "name": "Isingqazu Sami",
       "url": "https://open.spotify.com/track/0wg9dKX6zfOVy3A53osxIS"
@@ -1614,6 +1614,28 @@
       "duration_ms": 261452,
       "name": "Masiyeke",
       "url": "https://open.spotify.com/track/01fXzOTgIyzNwWTBahteZB"
+    },
+    {
+      "album": {
+        "name": "Kuyabongwa",
+        "url": "https://open.spotify.com/album/5ZEowNb3KsMZfmMCnOW8b8"
+      },
+      "artists": [
+        {
+          "name": "Mr Vee Sholo",
+          "url": "https://open.spotify.com/artist/3Qb0EgeDtnCKvw9HzE4x9U"
+        },
+        {
+          "name": "Sihle Kona",
+          "url": "https://open.spotify.com/artist/0UJaLaZkvRM9B91fxW4GDa"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "Masiyembo",
+      "url": "https://open.spotify.com/track/0G4iC2UTqq0dE65KRqqhC9"
     },
     {
       "album": {
@@ -2005,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "S'kushaya Isdakwa",
+        "url": "https://open.spotify.com/album/3W662ml4nC71f2QUTMKeLy"
+      },
+      "artists": [
+        {
+          "name": "Imithente",
+          "url": "https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243693,
+      "name": "S'kushaya Isdakwa",
+      "url": "https://open.spotify.com/track/2PJ6NP1np4QGGJpnl6MGwx"
+    },
+    {
+      "album": {
         "name": "I Magic",
         "url": "https://open.spotify.com/album/4DR2LkB4JWkcT5ZBaqRgSN"
       },
@@ -2356,7 +2396,7 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 340976,
       "name": "Ukuthanda Izinto",
       "url": "https://open.spotify.com/track/2DqL1bQTQVvVDnT16iQq7z"

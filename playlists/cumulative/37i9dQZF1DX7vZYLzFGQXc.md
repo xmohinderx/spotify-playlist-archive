@@ -4,7 +4,7 @@
 
 > Fresh new Korean independent talents are here\. \(Cover: Itzel\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-887 songs - 2 day 2 hr 28 min
+888 songs - 2 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,7 +556,7 @@
 | [Once Again](https://open.spotify.com/track/4shzLSlIHhyKmTY7xRQRwU) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z) | [Once Again](https://open.spotify.com/album/05ptYQOuOL5bMv2IVEr3lP) | 3:28 | 2023-01-30 |  |
 | [One For The Old School \(feat\. twlv\)](https://open.spotify.com/track/0kTPtHLqy09LxqYwiSsqRV) | [James An](https://open.spotify.com/artist/4BACFCf6Y0aEdjtk9gutvC), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [One For The Old School \(feat\. twlv\)](https://open.spotify.com/album/4rs3oxnLGxXGFmDVdootNr) | 2:17 | 2022-02-23 | 2022-03-18 |
 | [only child \(feat\. CHE\)](https://open.spotify.com/track/1gzhqif2jx3Qng9FJBAxmo) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [only child \(feat\. CHE\)](https://open.spotify.com/album/4MJ5qX1lnHkgBFwysDXhvv) | 2:19 | 2022-01-27 | 2022-03-03 |
-| [Only you](https://open.spotify.com/track/5P5SiijkNtOhUXRIPNmchq) | [CANDO](https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV) | [Love In Eyes \(Original Soundtrack\), Pt.18](https://open.spotify.com/album/45w71cj09quElxzzHdJtSq) | 3:25 | 2023-02-08 |  |
+| [Only you](https://open.spotify.com/track/5P5SiijkNtOhUXRIPNmchq) | [CANDO](https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV) | [Love In Eyes OST Part.18 \(Soundtrack\)](https://open.spotify.com/album/45w71cj09quElxzzHdJtSq) | 3:25 | 2023-02-08 |  |
 | [ONLY YOU \(Feat\. BooHyunSeok\) \(Prod\. DDungbo\)](https://open.spotify.com/track/61V8MEakjXl9qoMbbJm6ZT) | [Max Kim](https://open.spotify.com/artist/0DFdiCbtDcq6S8oYvbRakL), [부현석](https://open.spotify.com/artist/3EtpzYysoQlyIBaxpbgTp4) | [MAX VICE](https://open.spotify.com/album/6tH6IJOJlFrhsbcZJAu1Ri) | 2:37 | 2022-05-11 | 2022-06-19 |
 | [OnO \(Over n Over\)](https://open.spotify.com/track/2iuwAv4D8rGF0ORLwZWwik) | [th!nk](https://open.spotify.com/artist/6wkbcJFYb6g2k5nUsyu7t3) | [OnO \(Over n Over\)](https://open.spotify.com/album/7sxRrsaA6fBHWtyH0pToNC) | 3:40 | 2022-09-29 | 2022-12-01 |
 | [ooo oo](https://open.spotify.com/track/5oLtxIp8CLLHbihYOhCJzh) | [KDH](https://open.spotify.com/artist/0z6EiagML6AZJuLzRJRRFG) | [ooo oo](https://open.spotify.com/album/0mzvYvTCr7bYDajVaoRpZc) | 3:01 | 2022-01-10 | 2022-02-05 |
@@ -647,6 +647,7 @@
 | [SESAME](https://open.spotify.com/track/3pUzXCDNb9Zt2W6WOqGEm2) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0), [Bell the blu](https://open.spotify.com/artist/4OHNwCbAI5UPSb2gMZljAO) | [SESAME](https://open.spotify.com/album/4RBVQrJucNKAx0LkutK7Vv) | 3:24 | 2022-08-12 | 2022-09-30 |
 | [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [조은세](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 | 2023-01-30 | 2023-02-09 |
 | [Shame On You](https://open.spotify.com/track/48bL0ze0DotIcUS2rQuEyS) | [DOCHI](https://open.spotify.com/artist/71fBNalGQfpvEttt414EIV) | [Shame On You](https://open.spotify.com/album/2SGMfisblO95lG7rMywqz0) | 3:09 | 2022-08-12 | 2022-09-30 |
+| [She](https://open.spotify.com/track/4WSxdk1KNxjnW9YHuWUup1) | [Park Eun\-Ji](https://open.spotify.com/artist/3EIdZQQaoafWRwK749m3Af) | [She](https://open.spotify.com/album/3l0rGpxUv3tbnYQ3qOaWji) | 3:58 | 2023-02-21 |  |
 | [Silent Light](https://open.spotify.com/track/4Rj96EFwU5VnyOIeaCu1g9) | [Festy Wxs](https://open.spotify.com/artist/21HMWviztlB3LNqP0nE4nu) | [Silent Light](https://open.spotify.com/album/3A7laEZAyw9X9Ime5oHh3t) | 3:07 | 2022-07-14 | 2022-09-06 |
 | [sinner in the end](https://open.spotify.com/track/1MfnMrduKw5tyIsgy5Rg2U) | [KOREAN](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [angel](https://open.spotify.com/album/5DxGRsBdRlbyWoEWvrYQ5P) | 2:49 | 2022-09-29 | 2022-12-01 |
 | [SLEEP](https://open.spotify.com/track/4eyetKkmP14NC6Rr8NyUBO) | [RUDALS](https://open.spotify.com/artist/2gmDfDbae0ZWIws0bvsCn8) | [SLEEP](https://open.spotify.com/album/3lG9l4O28wyd6JYp8jMwrG) | 3:14 | 2022-08-19 | 2022-10-15 |

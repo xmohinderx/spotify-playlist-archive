@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,307 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,359 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 8 | [Don't Touch Me Tomato](https://open.spotify.com/track/4T0vtk187B4c75WSc71jeq) | [Calypso Mama](https://open.spotify.com/artist/2t2wB82iIBJwcj0kVkgupy) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:14 |
 | 9 | [Me Ting Is Mine](https://open.spotify.com/track/1OVkqIMN1QkVbSDpSOU0yt) | [Small Island Pride](https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL) | [Calypso Atrocities](https://open.spotify.com/album/4wxZvFup77TmfeOsY0spI2) | 3:07 |
 | 10 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
-| 11 | [The Rumba Dance](https://open.spotify.com/track/1JRVPBbouJbwli9SNoZkzx) | [Roaring Lion](https://open.spotify.com/artist/5hSF1JVkIaxGR4a3Ft5F9V), [Gerald Clark and his Caribbean Serenaders](https://open.spotify.com/artist/3cAPjGaYEFZwtgtzpcvmMh) | [A Guide to Calypso \(1912 \- 1940\), Vol.1](https://open.spotify.com/album/38slaOgROCHiVUk1kaS1zK) | 3:12 |
-| 12 | [Sausage](https://open.spotify.com/track/7KAvmiHCXGTcy0yl0ASOpD) | [Baldhead Growler](https://open.spotify.com/artist/7eeTpMfXaP4GgXU0NGkZK6) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:38 |
+| 11 | [Sausage](https://open.spotify.com/track/7KAvmiHCXGTcy0yl0ASOpD) | [Baldhead Growler](https://open.spotify.com/artist/7eeTpMfXaP4GgXU0NGkZK6) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:38 |
+| 12 | [The Rumba Dance](https://open.spotify.com/track/1JRVPBbouJbwli9SNoZkzx) | [Roaring Lion](https://open.spotify.com/artist/5hSF1JVkIaxGR4a3Ft5F9V), [Gerald Clark and his Caribbean Serenaders](https://open.spotify.com/artist/3cAPjGaYEFZwtgtzpcvmMh) | [A Guide to Calypso \(1912 \- 1940\), Vol.1](https://open.spotify.com/album/38slaOgROCHiVUk1kaS1zK) | 3:12 |
 | 13 | [Never Ever Worry](https://open.spotify.com/track/6GdYfhHRFRLYLIflNuzCX7) | [The Great Honourable Lord Pretender](https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD) | [The Man Who Never Ever Worried](https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp) | 5:36 |
 | 14 | [Brown Skin Girl](https://open.spotify.com/track/5IM2g33UlqKoLjjvgnP0Rp) | [Lord Invader](https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl) | [Calypso](https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l) | 2:51 |
 | 15 | [London is the Place for Me](https://open.spotify.com/track/1pETAnznla509bUKb34xnS) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [8](https://open.spotify.com/album/5myiV8PzZ56eKshMLoTvVH) | 2:47 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 39 | [Blow Wind Blow](https://open.spotify.com/track/42FHEJKS0K5eEbY5hQLaAj) | [Lionel Belasco](https://open.spotify.com/artist/4cPFaFsaRAuAdh5qhZHCXf) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 3:07 |
 | 40 | [Woman Is Not the Weaker Sex](https://open.spotify.com/track/3TdWiZMMN9oTToEi51e8ji) | [Atilla the Hun](https://open.spotify.com/artist/3XgijVGUbtWr7rTQxd2uEh) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 2:56 |
 
-Snapshot ID: `MTYxOTE5MDM1MCwwMDAwMDAwMGJmZjU2MDA4MDBkY2M1ZmY0NDExZjVlNzY5NWVjOTRh`
+Snapshot ID: `MTYxOTE5MDM1MCwwMDAwMDAwMDk1NGVkYmIxZDA4NzdhMmU5NTk1ZGUzZjgwMDY4NDIy`

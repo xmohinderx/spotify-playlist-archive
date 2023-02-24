@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Against The Current",
-  "num_followers": 442487,
+  "num_followers": 442497,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQzNjcyOCwwMDAwMDAwMDg0MWQzZTkxNmNlOGYzZGMzY2FjMDYyZTA4MjhhYWIw",
+  "snapshot_id": "MTY3MDQzNjcyOCwwMDAwMDAwMGUwYzE4YTllMjk3NDNlYTk3OTlhNGE5M2U2YmI3OTU2",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "curious/furious",
-        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 184905,
-      "name": "curious/furious",
-      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Drink Milk and Run",
         "url": "https://open.spotify.com/album/5DCxVycZRkODZCbWyGBZFG"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 170390,
       "name": "Drink Milk and Run",
       "url": "https://open.spotify.com/track/3ZKGPsRTyFBnZETepLrDVl"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "curious/furious",
+        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 184905,
+      "name": "curious/furious",
+      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 160380,
-      "name": "hair out",
-      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/6vWyte1vaXXpZA8TRZzjkF"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 219363,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2q9og3lbX4cdRaZMKVmlSY"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 160380,
+      "name": "hair out",
+      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Life In Your Glass World",
-        "url": "https://open.spotify.com/album/07Pv7j17v7JX1NEbZidg84"
-      },
-      "artists": [
-        {
-          "name": "Citizen",
-          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "I Want to Kill You",
-      "url": "https://open.spotify.com/track/57XHBbh5lCsIdgStesXI4k"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 163492,
       "name": "One Night",
       "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Life In Your Glass World",
+        "url": "https://open.spotify.com/album/07Pv7j17v7JX1NEbZidg84"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "I Want to Kill You",
+      "url": "https://open.spotify.com/track/57XHBbh5lCsIdgStesXI4k"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "I WENT TO HELL AND BACK",
+        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "1000 gecs and The Tree of Clues",
         "url": "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
       },
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "I WENT TO HELL AND BACK",
-        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
+        "name": "Amazing Things",
+        "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
       },
       "artists": [
         {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
         }
       ],
-      "duration_ms": 178560,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv"
+      "duration_ms": 238783,
+      "name": "One True Prince",
+      "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Amazing Things",
-        "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
-      },
-      "artists": [
-        {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
-        }
-      ],
-      "duration_ms": 238783,
-      "name": "One True Prince",
-      "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "SUBSTANCE",
         "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
       },
@@ -1615,22 +1615,6 @@
       "duration_ms": 160441,
       "name": "SUBSTANCE",
       "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Untitled Vol. 1",
-        "url": "https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a"
-      },
-      "artists": [
-        {
-          "name": "Caspr",
-          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "Coke Nose",
-      "url": "https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1655,6 +1639,38 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Untitled Vol. 1",
+        "url": "https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a"
+      },
+      "artists": [
+        {
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Coke Nose",
+      "url": "https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "I WENT TO HELL AND BACK",
         "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 222617,
       "name": "I MISS 2003",
       "url": "https://open.spotify.com/track/0KvlvootDUnrXPdZLq57tn"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "28 (Songs for Cooper)",
-        "url": "https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 158656,
-      "name": "Beautiful Boy",
-      "url": "https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1707,34 +1707,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "hover like a GODDESS",
-        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
+        "name": "28 (Songs for Cooper)",
+        "url": "https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 143357,
-      "name": "hover like a GODDESS",
-      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt"
+      "duration_ms": 158656,
+      "name": "Beautiful Boy",
+      "url": "https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1759,6 +1743,22 @@
       "duration_ms": 184111,
       "name": "M1SERY_SYNDROME (feat. BUDDY NIELSEN)",
       "url": "https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "hover like a GODDESS",
+        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 143357,
+      "name": "hover like a GODDESS",
+      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2419,6 +2419,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Children of The Dark",
+        "url": "https://open.spotify.com/album/78MIA5qaj5wiJgE9pTA9py"
+      },
+      "artists": [
+        {
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+        }
+      ],
+      "duration_ms": 152389,
+      "name": "Children of The Dark",
+      "url": "https://open.spotify.com/track/17bqduRY9LL8WWXtsSE1Kp"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "MY BRAIN AFTER THERAPY",
         "url": "https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag"
       },
@@ -2443,22 +2459,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Children of The Dark",
-        "url": "https://open.spotify.com/album/78MIA5qaj5wiJgE9pTA9py"
-      },
-      "artists": [
-        {
-          "name": "POORSTACY",
-          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
-        }
-      ],
-      "duration_ms": 152389,
-      "name": "Children of The Dark",
-      "url": "https://open.spotify.com/track/17bqduRY9LL8WWXtsSE1Kp"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "When You're Around",
         "url": "https://open.spotify.com/album/403m6rdMFJpSaY4gL0aXY1"
       },
@@ -2471,22 +2471,6 @@
       "duration_ms": 188891,
       "name": "When You're Around",
       "url": "https://open.spotify.com/track/4C3vAnXJmFR2McECc1du5l"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Happiness is an Inside Job",
-        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
-      },
-      "artists": [
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 187460,
-      "name": "Love Abuser (Save Me)",
-      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2507,6 +2491,22 @@
       "duration_ms": 182253,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/5rAJ3juCRPOL3xiKjnQHWO"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Happiness is an Inside Job",
+        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 187460,
+      "name": "Love Abuser (Save Me)",
+      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Bot Lobby",
-        "url": "https://open.spotify.com/album/3g7lpyviHEw5x17KwHw1WN"
-      },
-      "artists": [
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 176187,
-      "name": "Bot Lobby",
-      "url": "https://open.spotify.com/track/3x6D6Va2TevX1lv6HIjhh1"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "October Forever",
         "url": "https://open.spotify.com/album/0gI8bB60XLjJWKPC2bWtcS"
       },
@@ -2587,6 +2571,22 @@
       "duration_ms": 251468,
       "name": "October Forever",
       "url": "https://open.spotify.com/track/0jXWHgBV8o9XJjBqTAOLal"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Bot Lobby",
+        "url": "https://open.spotify.com/album/3g7lpyviHEw5x17KwHw1WN"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 176187,
+      "name": "Bot Lobby",
+      "url": "https://open.spotify.com/track/3x6D6Va2TevX1lv6HIjhh1"
     },
     {
       "added_at": "2022-12-02 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,238 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,269 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 67 | [Les joailliers \(piano, voix\)](https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Les joailliers \(piano, voix\)](https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o) | 3:17 |
 | 68 | [Pleure pas pour moi](https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:17 |
 | 69 | [L'été indien de ta vie](https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM) | 3:58 |
-| 70 | [J'aurai les cheveux longs](https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 3:55 |
-| 71 | [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 |
+| 70 | [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 |
+| 71 | [J'aurai les cheveux longs](https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 3:55 |
 | 72 | [Nous sommes](https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Encounter](https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75) | 2:47 |
 | 73 | [Sailors](https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Sailors](https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7) | 4:01 |
 | 74 | [Moi, Elsie](https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [There Will Be Stars](https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9) | 5:18 |
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 84 | [Qtv](https://open.spotify.com/track/0j8nyLW1JwaDtvO6sOobbO) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP) | 4:59 |
 | 85 | [1000 Times](https://open.spotify.com/track/6VhrEDlP5O5zFTrvA7KoXh) | [Metò](https://open.spotify.com/artist/4wp0ECrVP1QOBZNo9JxMY2) | [1000 Times](https://open.spotify.com/album/1uxoj9PkFEBpxrdZay2b9s) | 3:57 |
 | 86 | [Insensible](https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:27 |
-| 87 | [Tes yeux à Barcelone](https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Mille ouvrages mon coeur](https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr) | 3:20 |
-| 88 | [Espoir](https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Espoir](https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2) | 3:30 |
+| 87 | [Des histoires qui ne seront jamais finies](https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Ce que je te donne ne disparaît pas](https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ) | 3:46 |
+| 88 | [Tes yeux à Barcelone](https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Mille ouvrages mon coeur](https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr) | 3:20 |
 | 89 | [Le Tour](https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP) | 3:20 |
-| 90 | [Des histoires qui ne seront jamais finies](https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Ce que je te donne ne disparaît pas](https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ) | 3:46 |
+| 90 | [Espoir](https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Espoir](https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2) | 3:30 |
 | 91 | [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3), [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO) | 3:07 |
 | 92 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 |
 | 93 | [Girouette](https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 3:19 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 97 | [Prendre soin du beau](https://open.spotify.com/track/6cqT1guXExDBibebscbGqg) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY) | 3:15 |
 | 98 | [Mille et un](https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Pourchasser l'aube](https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR) | 3:34 |
 | 99 | [J'espère](https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [J'espère](https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK) | 2:30 |
-| 100 | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/0U09K98D8jyU0izVJlxOlH) | 4:07 |
+| 100 | [Grande ivresse](https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:15 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGFhNzNmOGQ4ZGZhMzQ2NjE4YzY1ZTEyYWU2OTI2ZmNm`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDY0NDMwMDU1ZjQyYTA0OWMzMmM1MDJiZGVlMTI0Mjg5`

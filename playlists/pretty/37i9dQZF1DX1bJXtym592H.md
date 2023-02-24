@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 
 > n3xt l3v3l gaming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,034 likes - 135 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,078 likes - 135 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 44 | [No New Friends](https://open.spotify.com/track/7DZdYHRUXHDfabjkHKoLpf) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [No New Friends](https://open.spotify.com/album/5mzHrv24KXDI1ZYuOm5kNg) | 2:52 |
 | 45 | [Dryer](https://open.spotify.com/track/3qHPIeckBEFVGEaYdKXbTJ) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Dryer](https://open.spotify.com/album/3dkqT9bcNiPXM0gzcAjfgV) | 2:33 |
 | 46 | [Retrospective](https://open.spotify.com/track/5BYOPUidJX9Hx0T6tv3lWA) | [Zach Jordan](https://open.spotify.com/artist/7wI6FVPuBFU5KcTSddrzK2) | [Retrospective](https://open.spotify.com/album/1hdYL4Gu453c6Ve4lGsUH1) | 2:11 |
-| 47 | [Voluptus](https://open.spotify.com/track/5qK78cZFZkgLhJLs8sEnO9) | [Flash Dry](https://open.spotify.com/artist/1zmoasbVWHtHxY22AoyBCs) | [Week Line](https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror) | 1:49 |
+| 47 | [Voluptus](https://open.spotify.com/track/5qK78cZFZkgLhJLs8sEnO9) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Week Line](https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror) | 1:49 |
 | 48 | [Evening Ride](https://open.spotify.com/track/5mVuwhsslkuuClVIekKA97) | [Ky\-Fo\-Beatz](https://open.spotify.com/artist/3d8VyDVDObHeXnvYUzFDfA) | [Evening Ride](https://open.spotify.com/album/50jJrDF3VTx4CnZemd3ku3) | 2:19 |
 | 49 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 |
 | 50 | [Tasty Bites](https://open.spotify.com/track/5istmkXN6fiucHQtaF1xV4) | [Blue and White](https://open.spotify.com/artist/3D7Q3FCSjGuFl5UNN3X4Ow) | [Tasty Bites](https://open.spotify.com/album/6Y0zEucjiXtyVXtxu0JgZi) | 2:19 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 70 | [Collage Jazz](https://open.spotify.com/track/0ui7QVgNmYDNUcOSiXYtqH) | [Akkva](https://open.spotify.com/artist/1sqDQoGriTTDMBABo2XbVb) | [dicy](https://open.spotify.com/album/1IgNbjh2eivcU7LRQJkqTY) | 2:18 |
 | 71 | [behind the hill](https://open.spotify.com/track/4ymiPIQcRZgppsh4ocLfps) | [kenshin kai](https://open.spotify.com/artist/62UDyIYUmhoCAVbC8huIyS) | [behind the hill](https://open.spotify.com/album/5xQO5k3msz12al8SmyxZQv) | 2:12 |
 | 72 | [Motion](https://open.spotify.com/track/1i7pXVXPz6pxrHbJPlUVwp) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Motion](https://open.spotify.com/album/669olmt16llkZlgDbnKGXp) | 2:47 |
-| 73 | [LA Play](https://open.spotify.com/track/7uoP2fntlQ2QoZw5xzd5c7) | [Elkisen](https://open.spotify.com/artist/0WATboTSfypHxtbxPNNu7G) | [Sweet Love](https://open.spotify.com/album/1hdWxEs5MiHnFKVVU12hqg) | 2:14 |
-| 74 | [The Obsidian](https://open.spotify.com/track/6txq59sHEmYV0AQ44WMz5X) | [Peter Bunnd](https://open.spotify.com/artist/2HDnhS2WhniwHOCQdGX60C) | [Take Me Anywhere](https://open.spotify.com/album/07NkbnWE7rwiykelukepYY) | 1:50 |
+| 73 | [LA Play](https://open.spotify.com/track/7uoP2fntlQ2QoZw5xzd5c7) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Sweet Love](https://open.spotify.com/album/1hdWxEs5MiHnFKVVU12hqg) | 2:14 |
+| 74 | [The Obsidian](https://open.spotify.com/track/6txq59sHEmYV0AQ44WMz5X) | [Bored Mango](https://open.spotify.com/artist/5eo18c4KyYfalNC4LuCX7g) | [Take Me Anywhere](https://open.spotify.com/album/07NkbnWE7rwiykelukepYY) | 1:50 |
 | 75 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Moodula](https://open.spotify.com/artist/6e76Meb8yRDdpn42QfFeOh) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
 | 76 | [Never Wing](https://open.spotify.com/track/6Ex7cCiMaj2mML0BCOG26H) | [DHN Missile](https://open.spotify.com/artist/188QXbK4VlrMgI7jleq5XF) | [Never Wing](https://open.spotify.com/album/1eRT425XrXde5hqIgQgkZ9) | 2:16 |
 | 77 | [Sometime](https://open.spotify.com/track/5wlLF3893tOtvLR6pSkodi) | [Natural Yoghurt](https://open.spotify.com/artist/4TeR99t1Oz0dXu0xTFAt5J) | [Can't make it without U](https://open.spotify.com/album/6oGnAtyHgkZdXYfHl6LzDf) | 1:58 |
@@ -123,10 +123,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 113 | [Skyfall](https://open.spotify.com/track/7bvthrahaEbDTFfEkbJfJN) | [My New Shoes](https://open.spotify.com/artist/2c8AdYtlyPwumj2LwhpJUk) | [Spanish Rain](https://open.spotify.com/album/0nAZp33uhWAsRQ3OIp04ye) | 3:16 |
 | 114 | [Small Steps](https://open.spotify.com/track/3hsZTBrM7nqAF81K4XiR7A) | [Kato Mili](https://open.spotify.com/artist/19DmVqt3GkVScKwII02jlr) | [Small Steps](https://open.spotify.com/album/00Ce43IgXDRPKSyJndsvFE) | 2:55 |
 | 115 | [mushroom](https://open.spotify.com/track/13d1pGkOt6G92tE2INMDkJ) | [zakori](https://open.spotify.com/artist/1yw7x5O6btobGfIvuNiXms) | [mushroom](https://open.spotify.com/album/0YT5cKKU45aDRcy79OWGFs) | 1:12 |
-| 116 | [50 Spokes](https://open.spotify.com/track/4ntUXTJulGoWLTvKmWGtee) | [Elenja](https://open.spotify.com/artist/3BdWZWn9zFZxBgamS91DJ8) | [Above And Under](https://open.spotify.com/album/6MhDonImkRWQrCvpYb3EHa) | 2:00 |
+| 116 | [50 Spokes](https://open.spotify.com/track/4ntUXTJulGoWLTvKmWGtee) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Above And Under](https://open.spotify.com/album/6MhDonImkRWQrCvpYb3EHa) | 2:00 |
 | 117 | [Is It Summer Yet?](https://open.spotify.com/track/5Ay3j13L32nercEHUNTQCd) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Is It Summer Yet?](https://open.spotify.com/album/6YeBEcDch5a4xAVgCi4VHR) | 1:31 |
 | 118 | [Space Shuttle](https://open.spotify.com/track/1T7QuMX3ALsqyrRciKYK0b) | [S M O L K](https://open.spotify.com/artist/6iP8ENSWlZujR7OZcnKEoQ) | [Space Shuttle](https://open.spotify.com/album/6Xe1OAoHzRUj7ezbqsjOA7) | 3:02 |
-| 119 | [petite java sip](https://open.spotify.com/track/2CilDammNAvbTU1SJISPje) | [matseruba](https://open.spotify.com/artist/0efY8bFD7Mf46WG8jYZJ7u) | [aloe vera chill](https://open.spotify.com/album/53roAMrIhrSM8A5mbTTcGw) | 2:08 |
+| 119 | [petite java sip](https://open.spotify.com/track/2CilDammNAvbTU1SJISPje) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [aloe vera chill](https://open.spotify.com/album/53roAMrIhrSM8A5mbTTcGw) | 2:08 |
 | 120 | [Abba](https://open.spotify.com/track/3rrcWNb8zdObzj3W7Mz2Ws) | [Suz Tain](https://open.spotify.com/artist/5B57n0v18MD9SHsENLABP8) | [Abba](https://open.spotify.com/album/0kx4sIkgz3fSLtWmUXMLKX) | 2:10 |
 | 121 | [a higher power!](https://open.spotify.com/track/6AIc2FJCa0HxADaRLrYOK9) | [Eluzai](https://open.spotify.com/artist/2N0c1H0QXGAfZQHASg7ir4) | [u need a light?](https://open.spotify.com/album/6LROFFR1pIhCt2DLcGzw8P) | 2:56 |
 | 122 | [Ghosts](https://open.spotify.com/track/15968lAfJgoIt0nYPBZTfc) | [sword](https://open.spotify.com/artist/7aVAHmMUBvA8a8yKFv8NkC), [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Ghosts](https://open.spotify.com/album/5Lki7frY0xFmTvsVoCn4qy) | 2:56 |
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 124 | [Ginger and Lime](https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 2:21 |
 | 125 | [minnen](https://open.spotify.com/track/09EA7muQkLpLQRFUcEBtK1) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [minnen](https://open.spotify.com/album/66Hlh8PrfWYt81ZZsZoL3N) | 2:38 |
 | 126 | [Force For Good](https://open.spotify.com/track/1hsjVfesh0OmNUVR22FoSW) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Force For Good](https://open.spotify.com/album/6a8iGSnoU0xLvNEiFRbmAe) | 2:48 |
-| 127 | [Inspector Fidget](https://open.spotify.com/track/6qXTQx6WNF4bL8OUqltK5T) | [Monster Guy](https://open.spotify.com/artist/6Aizv6tVH9fFMbEbS4baLY) | [Dangerous Eyes](https://open.spotify.com/album/6fNRme6o5ByiWKfVFIERFz) | 2:07 |
+| 127 | [Inspector Fidget](https://open.spotify.com/track/6qXTQx6WNF4bL8OUqltK5T) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Dangerous Eyes](https://open.spotify.com/album/6fNRme6o5ByiWKfVFIERFz) | 2:07 |
 | 128 | [Kids](https://open.spotify.com/track/50b0kt9UF5zu9WDiaIjAxL) | [Quality Blues](https://open.spotify.com/artist/3kU1BwnXjcIGhJxeZfqPy9) | [Kids](https://open.spotify.com/album/640L11zarEqJbXHV0gVLbG) | 3:56 |
 | 129 | [Look After Yourself](https://open.spotify.com/track/1SL75FDChNKsexXzKgDb5P) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [Look After Yourself](https://open.spotify.com/album/4ZhHQLB6hZCFU3k3qzx6wL) | 3:07 |
 | 130 | [Westminster](https://open.spotify.com/track/4xJIJavUzBatJRvs8v48dF) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [Westminster](https://open.spotify.com/album/2QC94ST7Lx4VaHNarIk6zc) | 2:44 |

@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-125 songs - 7 hr 17 min
+127 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,13 +36,14 @@
 | [Dope Sh!t](https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Eclipse](https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8) | 3:41 | 2022-12-08 |  |
 | [Double D](https://open.spotify.com/track/7izn5XTRDSyaari83OE4XM) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Double D](https://open.spotify.com/album/1Es6YZUlA57Wq9qu6YkCsK) | 3:28 | 2022-12-08 |  |
 | [Drifting Away](https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Drifting Away](https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi) | 3:03 | 2023-01-19 |  |
-| [DROP IT \- Better With Condom Remix](https://open.spotify.com/track/3yTdymL1rPChfLBzoyXqFG) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Better With Condom](https://open.spotify.com/artist/3Yqrqs7Yrt8pdHP8yeLDJc) | [DROP IT \(Better With Condom Remix\)](https://open.spotify.com/album/0zxr64RdCk9YN6AIbNLpad) | 3:23 | 2023-02-16 |  |
+| [DROP IT \- Better With Condom Remix](https://open.spotify.com/track/3yTdymL1rPChfLBzoyXqFG) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Better With Condom](https://open.spotify.com/artist/3Yqrqs7Yrt8pdHP8yeLDJc) | [DROP IT \(Better With Condom Remix\)](https://open.spotify.com/album/0zxr64RdCk9YN6AIbNLpad) | 3:23 | 2023-02-16 | 2023-02-24 |
 | [Endemic](https://open.spotify.com/track/2DKjuZbjeIQezwYNSZXQZX) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [Endemic](https://open.spotify.com/album/7MKxiJfjNuA6iB4SVErluc) | 4:00 | 2022-12-08 |  |
 | [Energy 1996](https://open.spotify.com/track/3ngAQDc6SRdDaM9RbaSZ2H) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [Downtempo EP II](https://open.spotify.com/album/1TMyUd1APaQ3RCO2jWmCAE) | 4:18 | 2022-12-08 |  |
 | [Enter The Dome \- Official Thunderdome 2022 Anthem](https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Enter The Dome \(Official Thunderdome 2022 Anthem\)](https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM) | 3:51 | 2022-12-08 |  |
 | [F\#ck The Haters](https://open.spotify.com/track/2MkEOJ1yZ1wBk1Sx022OTo) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [F\#ck The Haters](https://open.spotify.com/album/3EgcPoSBiZCFK8QhKU6buM) | 2:27 | 2022-12-08 |  |
 | [Fake Shit](https://open.spotify.com/track/2YV9sAhCtOC0ybKcFjHErO) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Fake Shit](https://open.spotify.com/album/6e0Et3Pidz5fELr3QgH7Te) | 3:03 | 2022-12-08 |  |
 | [Fat Beat](https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Fat Beat](https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl) | 3:51 | 2023-02-09 |  |
+| [Fight Them All](https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Fight Them All](https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS) | 2:51 | 2023-02-23 |  |
 | [Force Of Salvation \- Official Masters of Hardcore Austria 2023 Anthem](https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu) | [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Force Of Salvation \(Official Masters of Hardcore Austria 2023 Anthem\)](https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY) | 5:22 | 2023-01-12 |  |
 | [Forged In Fury](https://open.spotify.com/track/74QKmn0vjBHL4SJ2WXPnhJ) | [Neroz](https://open.spotify.com/artist/76WqyxPmL1KmO2up8jbYOC), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Forged In Fury](https://open.spotify.com/album/1QVTiTTs4oZvU4lL7qLAnv) | 3:58 | 2022-12-08 |  |
 | [Franse Beuker](https://open.spotify.com/track/5ViJfFeCmWETxaW29QLMgr) | [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN) | [Franse Beuker](https://open.spotify.com/album/2vnG9faqmtBUruIewFguvc) | 2:33 | 2022-12-08 |  |
@@ -78,6 +79,7 @@
 | [Loco](https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Loco](https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g) | 3:33 | 2022-12-08 | 2022-12-16 |
 | [LOSE STRESS](https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [LOSE STRESS](https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ) | 2:48 | 2022-12-08 |  |
 | [M.D.E.](https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [M.D.E.](https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM) | 2:32 | 2022-12-08 |  |
+| [Mad Masquerade](https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Mad Masquerade](https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud) | 3:47 | 2023-02-23 |  |
 | [MAKE IT POP](https://open.spotify.com/track/15aTM8pzywQEBV73CrlAO3) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [MAKE IT POP](https://open.spotify.com/album/13JOW0aLJacGieAZhtH3HL) | 3:14 | 2022-12-08 |  |
 | [Medication Time](https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Medication Time](https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T) | 4:17 | 2022-12-08 |  |
 | [Mi Madre](https://open.spotify.com/track/7sy5W4vCjRAifgy14muCpP) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Mi Madre](https://open.spotify.com/album/3jpDofUQPIy8xx7lLigl3Q) | 2:40 | 2022-12-08 |  |
@@ -131,7 +133,7 @@
 | [Vida Loca](https://open.spotify.com/track/7gVm5cBMqXahUkz3Dvlwrv) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Vida Loca](https://open.spotify.com/album/0vMsQ7wShHQP57T33VmuCn) | 2:59 | 2022-12-08 |  |
 | [Warriors](https://open.spotify.com/track/3CcUsyvCZbEzisnQItM7XX) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Warriors](https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl) | 3:20 | 2022-12-08 |  |
 | [Warriors \(2022 Refix\)](https://open.spotify.com/track/7rSv6TtMaamxdoG3fzhKQ8) | [Tyfon](https://open.spotify.com/artist/2BD8kvs6Ti7uGecILeVgqs), [The Fuze](https://open.spotify.com/artist/0DNLQ8dkmODxzWGL83rPtY) | [Runes of Retribution](https://open.spotify.com/album/6lsiqiLTNIBZwha12kaqM5) | 4:12 | 2022-12-08 |  |
-| [You Ain't Telling Me Shit](https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [You Ain't Telling Me Shit](https://open.spotify.com/album/1kWRE5YZW0onMi01j5M2da) | 2:54 | 2022-12-08 |  |
+| [You Ain't Telling Me Shit](https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [You Ain't Telling Me Shit](https://open.spotify.com/album/1kWRE5YZW0onMi01j5M2da) | 2:54 | 2022-12-08 | 2023-02-24 |
 | [You Can't Stop Me](https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [You Can't Stop Me](https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ) | 3:19 | 2022-12-08 |  |
 
 \*This playlist was first scraped on 2022-12-10. Prior content cannot be recovered.

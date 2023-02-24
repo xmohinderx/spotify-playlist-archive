@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "O Novo Natal",
+        "url": "https://open.spotify.com/album/5fva3ZEne4UOuOtXo5CSdq"
+      },
+      "artists": [
+        {
+          "name": "Matheus Rizzo",
+          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230658,
+      "name": "O Primeiro Natal",
+      "url": "https://open.spotify.com/track/6dN0kIqTHthn6kdt4YaNXA"
+    },
+    {
+      "album": {
         "name": "Ra\u00edzes, Vol. 2",
         "url": "https://open.spotify.com/album/7uYZsVg4IutCgA8jHRjpq7"
       },
@@ -912,7 +930,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 171571,
       "name": "Surgem Anjos Proclamando",
       "url": "https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL"

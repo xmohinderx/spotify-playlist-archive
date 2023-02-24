@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 169235,
+  "num_followers": 169352,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxODA5MCwwMDAwMDAwMGFkMzU4N2FkN2ZjZWNlYWRlOTI5YjNkMGQ5MTUzNTlk",
+  "snapshot_id": "MTY2NTcxODA5MCwwMDAwMDAwMDQwZWVkZjEwOTU4ZjMxMDE1ZDEwZjRiNDM1YmNkMDU5",
   "tracks": [
     {
       "added_at": "2022-10-14 03:28:10",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-10-14 03:28:10",
       "album": {
-        "name": "Inso\u0302nia",
-        "url": "https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ"
-      },
-      "artists": [
-        {
-          "name": "Davide Sosa",
-          "url": "https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4"
-        }
-      ],
-      "duration_ms": 196179,
-      "name": "Bela Moc\u0327a",
-      "url": "https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6"
-    },
-    {
-      "added_at": "2022-10-14 03:28:10",
-      "album": {
         "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
         "url": "https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 238310,
       "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
       "url": "https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806"
+    },
+    {
+      "added_at": "2022-10-14 03:28:10",
+      "album": {
+        "name": "Inso\u0302nia",
+        "url": "https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ"
+      },
+      "artists": [
+        {
+          "name": "Davide Sosa",
+          "url": "https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4"
+        }
+      ],
+      "duration_ms": 196179,
+      "name": "Bela Moc\u0327a",
+      "url": "https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6"
     },
     {
       "added_at": "2022-10-14 03:28:10",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-10-14 03:28:10",
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
-      },
-      "artists": [
-        {
-          "name": "Adriana Arias",
-          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
-        }
-      ],
-      "duration_ms": 167764,
-      "name": "Doralice",
-      "url": "https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no"
-    },
-    {
-      "added_at": "2022-10-14 03:28:10",
-      "album": {
         "name": "Rosa Morena EP",
         "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 246079,
       "name": "Rosa Morena",
       "url": "https://open.spotify.com/track/2675EULE58FJDcOiEbyy2P"
+    },
+    {
+      "added_at": "2022-10-14 03:28:10",
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
+      },
+      "artists": [
+        {
+          "name": "Adriana Arias",
+          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
+        }
+      ],
+      "duration_ms": 167764,
+      "name": "Doralice",
+      "url": "https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no"
     },
     {
       "added_at": "2022-10-14 03:28:10",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2022-10-14 03:28:10",
       "album": {
-        "name": "Al\u00e9m da Bossa",
-        "url": "https://open.spotify.com/album/19GvUGWM0Nxpeu9tAT3fnq"
-      },
-      "artists": [
-        {
-          "name": "Carlos Lyra",
-          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
-        },
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Al\u00e9m da Bossa",
-      "url": "https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ"
-    },
-    {
-      "added_at": "2022-10-14 03:28:10",
-      "album": {
         "name": "Bossa Got the Blues",
         "url": "https://open.spotify.com/album/5dEp2QTwiqkTJGMPR4IK0i"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 180665,
       "name": "Bossa Got The Blues",
       "url": "https://open.spotify.com/track/5vMu1L01Bc437QjNdC1Ezp"
+    },
+    {
+      "added_at": "2022-10-14 03:28:10",
+      "album": {
+        "name": "Al\u00e9m da Bossa",
+        "url": "https://open.spotify.com/album/19GvUGWM0Nxpeu9tAT3fnq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Lyra",
+          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Al\u00e9m da Bossa",
+      "url": "https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ"
     },
     {
       "added_at": "2022-10-14 03:28:10",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-14 03:28:10",
       "album": {
-        "name": "100% Jo\u00e3o Donato, Vol. 1",
-        "url": "https://open.spotify.com/album/3UL46vZZmblSru32OvgrlA"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 156493,
-      "name": "Muito a Vontade",
-      "url": "https://open.spotify.com/track/0BSWuRqJLmv4EwN75FVWib"
-    },
-    {
-      "added_at": "2022-10-14 03:28:10",
-      "album": {
         "name": "Saudades de Amanh\u00e3",
         "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2022-10-14 03:28:10",
       "album": {
+        "name": "100% Jo\u00e3o Donato, Vol. 1",
+        "url": "https://open.spotify.com/album/3UL46vZZmblSru32OvgrlA"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "Muito a Vontade",
+      "url": "https://open.spotify.com/track/0BSWuRqJLmv4EwN75FVWib"
+    },
+    {
+      "added_at": "2022-10-14 03:28:10",
+      "album": {
         "name": "Bachianas Brasileiras No.2: O Trenzinho do Caipira",
         "url": "https://open.spotify.com/album/550yBsaBetEVsKvQkVH2Xn"
       },
@@ -1191,22 +1191,6 @@
       "duration_ms": 161233,
       "name": "Bachianas Brasileiras No.2: O Trenzinho do Caipira",
       "url": "https://open.spotify.com/track/2EJVC0ARkDDHxTkFQe4hhW"
-    },
-    {
-      "added_at": "2022-10-14 03:28:10",
-      "album": {
-        "name": "\u00cdndia",
-        "url": "https://open.spotify.com/album/0jKrhKSGwTc4ZJ1cBvtRpI"
-      },
-      "artists": [
-        {
-          "name": "Last Aliens in Rio",
-          "url": "https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8"
-        }
-      ],
-      "duration_ms": 188597,
-      "name": "\u00cdndia - Tarde de Sol",
-      "url": "https://open.spotify.com/track/78wqr91hQ7oX3H5FEOE6zF"
     },
     {
       "added_at": "2022-10-14 03:28:10",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2022-10-14 03:28:10",
       "album": {
+        "name": "\u00cdndia",
+        "url": "https://open.spotify.com/album/0jKrhKSGwTc4ZJ1cBvtRpI"
+      },
+      "artists": [
+        {
+          "name": "Last Aliens in Rio",
+          "url": "https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8"
+        }
+      ],
+      "duration_ms": 188597,
+      "name": "\u00cdndia - Tarde de Sol",
+      "url": "https://open.spotify.com/track/78wqr91hQ7oX3H5FEOE6zF"
+    },
+    {
+      "added_at": "2022-10-14 03:28:10",
+      "album": {
         "name": "O Estrangeiro",
         "url": "https://open.spotify.com/album/2RlEZzMaHe520j2LtRj08d"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 171600,
       "name": "Por A\u00ed",
       "url": "https://open.spotify.com/track/1YbIcj0uulunkhqFn2uJww"
+    },
+    {
+      "added_at": "2022-10-14 03:28:10",
+      "album": {
+        "name": "D\u00e1jazz",
+        "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
+      },
+      "artists": [
+        {
+          "name": "Lili Araujo",
+          "url": "https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs"
+        }
+      ],
+      "duration_ms": 303346,
+      "name": "A Voz do Brasil",
+      "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
     },
     {
       "added_at": "2022-10-14 03:28:10",
@@ -1283,38 +1299,6 @@
       "duration_ms": 193324,
       "name": "O Melhor Carinho",
       "url": "https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw"
-    },
-    {
-      "added_at": "2022-10-14 03:28:10",
-      "album": {
-        "name": "D\u00e1jazz",
-        "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
-      },
-      "artists": [
-        {
-          "name": "Lili Araujo",
-          "url": "https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs"
-        }
-      ],
-      "duration_ms": 303346,
-      "name": "A Voz do Brasil",
-      "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
-    },
-    {
-      "added_at": "2022-10-14 03:28:10",
-      "album": {
-        "name": "O Samba, a Roseira e o Vento",
-        "url": "https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg"
-      },
-      "artists": [
-        {
-          "name": "Eliza Meireles",
-          "url": "https://open.spotify.com/artist/7jfxSuNVObDzGcmTO9keuV"
-        }
-      ],
-      "duration_ms": 173178,
-      "name": "Compro o Vento",
-      "url": "https://open.spotify.com/track/1Ihq48VjNlON6ZbAlOderq"
     },
     {
       "added_at": "2022-10-14 03:28:10",
@@ -1359,6 +1343,22 @@
       "duration_ms": 279456,
       "name": "Bossa de Maio",
       "url": "https://open.spotify.com/track/2ID1RkSkuOYvnJCn0X2ljv"
+    },
+    {
+      "added_at": "2022-10-14 03:28:10",
+      "album": {
+        "name": "O Samba, a Roseira e o Vento",
+        "url": "https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg"
+      },
+      "artists": [
+        {
+          "name": "Eliza Meireles",
+          "url": "https://open.spotify.com/artist/7jfxSuNVObDzGcmTO9keuV"
+        }
+      ],
+      "duration_ms": 173178,
+      "name": "Compro o Vento",
+      "url": "https://open.spotify.com/track/1Ihq48VjNlON6ZbAlOderq"
     },
     {
       "added_at": "2022-10-14 03:28:10",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-10-14 03:28:10",
       "album": {
-        "name": "Media\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
-      },
-      "artists": [
-        {
-          "name": "Bossa Brothers",
-          "url": "https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc"
-        }
-      ],
-      "duration_ms": 151109,
-      "name": "Media\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
-    },
-    {
-      "added_at": "2022-10-14 03:28:10",
-      "album": {
         "name": "Liberta\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6menATFqidzRjusVl0INqK"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 176065,
       "name": "Liberta\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY"
+    },
+    {
+      "added_at": "2022-10-14 03:28:10",
+      "album": {
+        "name": "Media\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
+      },
+      "artists": [
+        {
+          "name": "Bossa Brothers",
+          "url": "https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc"
+        }
+      ],
+      "duration_ms": 151109,
+      "name": "Media\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
     },
     {
       "added_at": "2022-10-14 03:28:10",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-10-14 03:28:10",
       "album": {
+        "name": "Parti Capuri",
+        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
+      },
+      "artists": [
+        {
+          "name": "Billynho Blanco",
+          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Parti Capuri",
+      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
+    },
+    {
+      "added_at": "2022-10-14 03:28:10",
+      "album": {
         "name": "Quase Mem\u00f3ria",
         "url": "https://open.spotify.com/album/2uOXIfvOEPPvSdCqoKAiu6"
       },
@@ -1655,22 +1671,6 @@
     {
       "added_at": "2022-10-14 03:28:10",
       "album": {
-        "name": "Parti Capuri",
-        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
-      },
-      "artists": [
-        {
-          "name": "Billynho Blanco",
-          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Parti Capuri",
-      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
-    },
-    {
-      "added_at": "2022-10-14 03:28:10",
-      "album": {
         "name": "Terra Papagali Coffee Shop",
         "url": "https://open.spotify.com/album/3q60h8km0is6TAC3w4hncb"
       },
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-10-14 03:28:10",
       "album": {
-        "name": "Selfie",
-        "url": "https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz"
-      },
-      "artists": [
-        {
-          "name": "Jair Oliveira",
-          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
-        }
-      ],
-      "duration_ms": 187905,
-      "name": "Seres Incriveis",
-      "url": "https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW"
-    },
-    {
-      "added_at": "2022-10-14 03:28:10",
-      "album": {
         "name": "Navegante - Dudu Sperb Recebe Guinga",
         "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 285613,
       "name": "Choro Pro Z\u00e9",
       "url": "https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG"
+    },
+    {
+      "added_at": "2022-10-14 03:28:10",
+      "album": {
+        "name": "Selfie",
+        "url": "https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz"
+      },
+      "artists": [
+        {
+          "name": "Jair Oliveira",
+          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
+        }
+      ],
+      "duration_ms": 187905,
+      "name": "Seres Incriveis",
+      "url": "https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW"
     },
     {
       "added_at": "2022-10-14 03:28:10",

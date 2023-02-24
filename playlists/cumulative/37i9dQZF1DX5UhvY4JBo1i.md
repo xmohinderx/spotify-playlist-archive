@@ -4,7 +4,7 @@
 
 > Enjoy music from "Case Closed"! アニメ「名探偵コナン」の世界を彩る音楽をプレイリストで。©2020 青山剛昌／名探偵コナン製作委員会
 
-111 songs - 7 hr 44 min
+112 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [オーバーライト](https://open.spotify.com/track/4QcMpnYU4koOLhhyk80nUR) | [BREAKERZ](https://open.spotify.com/artist/1U1oKFcjwl8Tb3b3APG9lE) | [BREAKERZ×名探偵コナン COLLABORATION BEST](https://open.spotify.com/album/04Ym0xEthdAQepiCKzrYrw) | 4:40 | 2022-10-01 |  |
 | [キミがいれば \- 十字路ヴァージョン](https://open.spotify.com/track/0SOFfTJMGdeyb4HZaE1dDP) | [Reiko](https://open.spotify.com/artist/2gNfmIDlKDgwqbilGU5i94) | [名探偵コナン 迷宮の十字路 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4USo0BCeycCmbYn8Z2peAv) | 3:03 | 2022-10-01 |  |
 | [ギリギリchop](https://open.spotify.com/track/6UUmbqYhL4p8W70bCzfOpx) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ギリギリchop](https://open.spotify.com/album/2xvUnnVWLk2tEPlbtOBpOd) | 3:57 | 2022-10-01 |  |
+| [クウフク \(starring VALSHE\)](https://open.spotify.com/track/3nM0q6UoSaxxfeU81Sb8s5) | [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y), [VALSHE](https://open.spotify.com/artist/3RbqLuOD3CrWxEpXeyMbS3) | [クウフク \(starring VALSHE\)](https://open.spotify.com/album/6ggasRuWfhDyzfDCu0aWQn) | 2:50 | 2023-02-23 |  |
 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 | 2022-10-01 |  |
 | [グロリアス マインド](https://open.spotify.com/track/2lswHSoclUEk4jGm3k05Oe) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [グロリアス マインド](https://open.spotify.com/album/3vXmyVTOeRbhYxHX7EAwA5) | 4:39 | 2022-10-01 |  |
 | [タイムライン](https://open.spotify.com/track/64KCVJJcQ7Ck2ZsbDE5W4S) | [dps](https://open.spotify.com/artist/6YjKpgpgqBNeaqWstN14ox) | [タイムライン](https://open.spotify.com/album/357GKCQcOWLXu47lJ2QxZE) | 4:00 | 2022-10-01 |  |

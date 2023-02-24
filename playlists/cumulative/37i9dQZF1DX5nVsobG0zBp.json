@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 203812,
       "name": "2020 (feat. Slow J)",
       "url": "https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 151972,
       "name": "AZTECA",
       "url": "https://open.spotify.com/track/6l8p2VaXEt2oNnzBl2GqIx"
@@ -194,6 +194,28 @@
       "duration_ms": 258590,
       "name": "Bairro",
       "url": "https://open.spotify.com/track/1ai9FDnFQDv18WAtFhMTIz"
+    },
+    {
+      "album": {
+        "name": "BAL4DA 2UM CAR0XO",
+        "url": "https://open.spotify.com/album/0Y2hXrh13HOLu6lh30chRo"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Dave Wolf Rodriguez",
+          "url": "https://open.spotify.com/artist/3Zg1i5VdkGHFtEi8xHP0tB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282267,
+      "name": "BAL4DA 2UM CAR0XO",
+      "url": "https://open.spotify.com/track/0uQU529W8MgYYElqJCMdph"
     },
     {
       "album": {
@@ -750,7 +772,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 192232,
       "name": "Go",
       "url": "https://open.spotify.com/track/0K5qOmqrJa7tk2RxE0sZxw"
@@ -1408,7 +1430,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 226622,
       "name": "NR5",
       "url": "https://open.spotify.com/track/6IAVU9psKD2kJ2bGg4Vemp"
@@ -1750,6 +1772,24 @@
       "duration_ms": 186000,
       "name": "Sabi na Sabura",
       "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
+    },
+    {
+      "album": {
+        "name": "SACA L\u00c1",
+        "url": "https://open.spotify.com/album/2hI0hN3tuadLZ95pr8hAEC"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222009,
+      "name": "SACA L\u00c1",
+      "url": "https://open.spotify.com/track/2LtF00zFSSWzsYtoVYy28k"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Pip Millett
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,346 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,402 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,21 +52,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 42 | [Eighteen](https://open.spotify.com/track/6SCSFTRB2ueJIhYQ2VJK68) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Eighteen](https://open.spotify.com/album/29DLEk1PoZBbEDBgjPAj6Y) | 2:35 |
 | 43 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 |
 | 44 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/6jeP9JMozdxrVzvVXp6FKj) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:25 |
-| 45 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 |
-| 46 | [Mandy](https://open.spotify.com/track/3PO4o0z1ao5ItW7C4HNd72) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Mandy](https://open.spotify.com/album/11TgzkZn6xP5E2jYkQJIga) | 3:05 |
-| 47 | [OPTION](https://open.spotify.com/track/1zgSO8kt39pgiC47IdSvzD) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [OPTION](https://open.spotify.com/album/2WqZJHTnXKXTVqiF4Ki0jv) | 3:00 |
+| 45 | [OPTION](https://open.spotify.com/track/1zgSO8kt39pgiC47IdSvzD) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [OPTION](https://open.spotify.com/album/2WqZJHTnXKXTVqiF4Ki0jv) | 3:00 |
+| 46 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 |
+| 47 | [Mandy](https://open.spotify.com/track/3PO4o0z1ao5ItW7C4HNd72) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Mandy](https://open.spotify.com/album/11TgzkZn6xP5E2jYkQJIga) | 3:05 |
 | 48 | [Seven Nights](https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 2:50 |
 | 49 | [We Need You](https://open.spotify.com/track/68yUHwnNiuhltk2HQoIu9l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 7:21 |
 | 50 | [No Regrets](https://open.spotify.com/track/2RC3TbzlpR5lpzODqOUQfL) | [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [No Regrets](https://open.spotify.com/album/4aRr37KCSr88qfFrnJYCZx) | 2:59 |
 | 51 | [Miss U](https://open.spotify.com/track/2kCizKXvF27rJLPVvgIIvm) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Miss U](https://open.spotify.com/album/6EInKwjhMtF3zGFE04NpKL) | 3:53 |
 | 52 | [Free My People \(feat\. Simmy & Kid Cruise\)](https://open.spotify.com/track/4T4YHAdlrEzL5Jsb1XnbGA) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw) | [Free My People \(feat\. Simmy & Kid Cruise\)](https://open.spotify.com/album/5fE5bSpNQpqVPJ8k5RvAUP) | 3:37 |
 | 53 | [Galaxy Swim \(Deeper\)](https://open.spotify.com/track/2WTeqcbUUS1Ox5fH3IeOvj) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [ON THE ROCKS](https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz) | 2:27 |
-| 54 | [Closer](https://open.spotify.com/track/0gZkwRjMYBtyWzo6Kx7Efn) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Tunnel Vision](https://open.spotify.com/album/5a5AWTfvxSSezaBEHng2ms) | 3:34 |
-| 55 | [Motions](https://open.spotify.com/track/5rdBZkZw3kkkZxCUym3E9j) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Motions](https://open.spotify.com/album/4VDVfTgQlwL828aEPK6lIe) | 3:33 |
+| 54 | [Motions](https://open.spotify.com/track/5rdBZkZw3kkkZxCUym3E9j) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Motions](https://open.spotify.com/album/4VDVfTgQlwL828aEPK6lIe) | 3:33 |
+| 55 | [Closer](https://open.spotify.com/track/0gZkwRjMYBtyWzo6Kx7Efn) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Tunnel Vision](https://open.spotify.com/album/5a5AWTfvxSSezaBEHng2ms) | 3:34 |
 | 56 | [Over You](https://open.spotify.com/track/1Ndba1dqYEiS2KvIG9M2Fr) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Access Denied](https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv) | 3:12 |
 | 57 | [Let Me Know \- The Cypher](https://open.spotify.com/track/3yra5xBw7oHIU1hqDisA7j) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Geovarn](https://open.spotify.com/artist/1et4HAt8HCJJWuqW6hGWhk) | [Let Me Know \(The Cypher\)](https://open.spotify.com/album/3txhzSqd1Lc9Nig7CF5eH0) | 4:01 |
 | 58 | [Pressure](https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Pressure](https://open.spotify.com/album/0rs6VQv68DHwRGCkN1DlPO) | 2:38 |
 | 59 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 |
 | 60 | [Serial](https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2) | 3:47 |
 
-Snapshot ID: `MTY2NjU1Njc4MywwMDAwMDAwMGE1YWI3MjViNGY5YTQ2MGFkNjE0YTMyZDhmNjAyMWEz`
+Snapshot ID: `MTY2NjU1Njc4MywwMDAwMDAwMDY4YmZkYTA0NzRhMTA5MjA5NzQ0NWViMDExZGMxNGZl`

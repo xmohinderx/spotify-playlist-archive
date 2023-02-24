@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/2lYXh1nkiBVSAloZw2YQqD?si=a352fb1bc4b74e04&nd=1">DAMOYEE</a> and <a href="https://open.spotify.com/artist/00HR7TZT9GZx2syCaWkeZq?si=fe7b538330f14d0e&nd=1">Annie Elise.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,057 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,069 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

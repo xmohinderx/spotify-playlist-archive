@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,300 likes - 254 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,401 likes - 254 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 18 | [Squared](https://open.spotify.com/track/64X7j3lsLdVnh8wkBCuW3E) | [Calvio](https://open.spotify.com/artist/0ERiQMnG5wKxqgyUtJjcM8) | [Squared](https://open.spotify.com/album/37e0iLccpQTmnDVjcjDc9R) | 2:19 |
 | 19 | [NYC Springtime](https://open.spotify.com/track/7cxy4O5Ya6lc1hRSey4kiy) | [High Tip](https://open.spotify.com/artist/1GmHbj4LThdp2urHblLSWC) | [NYC Springtime](https://open.spotify.com/album/1gjrInZoxANNKBBnXq3YWi) | 4:01 |
 | 20 | [Number\#](https://open.spotify.com/track/48db71uT5mlzqtkBG5BOtJ) | [Azurenity](https://open.spotify.com/artist/670tCQfj3LeVsUqb2SY4Rs) | [Number\#](https://open.spotify.com/album/0vCDjbfYpMvookIZDrLXvl) | 2:15 |
-| 21 | [swervin](https://open.spotify.com/track/0kemLSRDkuaj7gHjnZZEZg) | [longstar](https://open.spotify.com/artist/4v7r7XxcGpcuwcSJM9r2aG) | [ejak](https://open.spotify.com/album/6PCNOgXSMMJzsF4VqRDPFB) | 1:55 |
+| 21 | [swervin](https://open.spotify.com/track/0kemLSRDkuaj7gHjnZZEZg) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [ejak](https://open.spotify.com/album/6PCNOgXSMMJzsF4VqRDPFB) | 1:55 |
 | 22 | [Serene Flame](https://open.spotify.com/track/7afR9AuuXPIG2UPpyV1S9j) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [The Cat's Meow](https://open.spotify.com/album/6S5Saal4XqDxBcTXQd1EoT) | 1:23 |
 | 23 | [Only Through Enlightenment](https://open.spotify.com/track/4YK0viVtLMNg58qQs10rF1) | [Spinning Eye](https://open.spotify.com/artist/1bBb8bJslH6Z4JUr2DgaCU) | [Old School Beats](https://open.spotify.com/album/2ImM3in9ITJOxD3euym4tN) | 1:41 |
 | 24 | [Suns & Buns](https://open.spotify.com/track/5NKuzuEMGxcdHjv2ChWqsQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Suns & Buns](https://open.spotify.com/album/3ZHgVS86TX9Dp3e0I7LpNL) | 2:17 |

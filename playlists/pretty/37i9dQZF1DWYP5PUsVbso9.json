@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 230203,
+  "num_followers": 230468,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTEwMzI5NywwMDAwMDAwMDQ5ODE2MjlkNTkyNjIyYmEyNmM0YjI2ZWQ1NWMxYWVi",
+  "snapshot_id": "MTY3NTEwMzI5NywwMDAwMDAwMGZkYmJhZjFkNDkzNTFmMTU0ZmM1N2Q5ODhjODg2ODVi",
   "tracks": [
     {
       "added_at": "2022-07-25 21:35:55",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
-      "added_at": "2023-02-23 00:19:08",
+      "added_at": "2023-02-24 00:23:36",
       "album": {
         "name": "Silk Purse",
         "url": "https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G"
@@ -995,18 +995,22 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "The Best Of Billy Swan",
-        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
+        "name": "Honky Tonk Girl: The Loretta Lynn Collection",
+        "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
       },
       "artists": [
         {
-          "name": "Billy Swan",
-          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 238333,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
+      "duration_ms": 154560,
+      "name": "You're The Reason Our Kids Are Ugly",
+      "url": "https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Honky Tonk Girl: The Loretta Lynn Collection",
-        "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
+        "name": "The Best Of Billy Swan",
+        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Billy Swan",
+          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
         }
       ],
-      "duration_ms": 154560,
-      "name": "You're The Reason Our Kids Are Ugly",
-      "url": "https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI"
+      "duration_ms": 238333,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "added_at": "2022-07-25 21:35:55",

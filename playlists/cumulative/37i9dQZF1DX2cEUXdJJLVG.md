@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-221 songs - 13 hr 19 min
+224 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Mesmerised](https://open.spotify.com/track/4lMtKkkqdMCYDxas6mhIiT) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Side B](https://open.spotify.com/album/3QdmdNXgpy0GScerOTwvkg) | 4:12 | 2022-10-30 | 2022-11-13 |
 | [Mesmerised](https://open.spotify.com/track/7qfnAR8gVQZG1cSsRIoKnG) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 4:12 | 2022-09-09 |  |
 | [Money](https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 3:18 | 2022-10-27 |  |
+| [Money Issues](https://open.spotify.com/track/2q1zLeupdzKqYIB2e8MNVt) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Money Issues](https://open.spotify.com/album/2oBMyUdLTSihgNlSkExIux) | 2:57 | 2023-02-23 |  |
 | [Most Days](https://open.spotify.com/track/0yUXPVWzRNvUesDT4p6LgB) | [Rezar](https://open.spotify.com/artist/0KwVGVN1bZfDNQVOySxjsk) | [Most Days](https://open.spotify.com/album/2Y385XdjJB2JhQYUNsaXY2) | 3:02 | 2022-09-09 |  |
 | [Motions](https://open.spotify.com/track/5rdBZkZw3kkkZxCUym3E9j) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Motions](https://open.spotify.com/album/4VDVfTgQlwL828aEPK6lIe) | 3:33 | 2022-09-09 |  |
 | [Music Saved My LIfe](https://open.spotify.com/track/15JkkJANNuG0EoGCWEo85q) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Music Saved My Life](https://open.spotify.com/album/5QUt722cDFZ1ZGDesI5Kam) | 4:04 | 2022-09-09 |  |
@@ -156,6 +157,7 @@
 | [Paradise \- Remix](https://open.spotify.com/track/0tvQweVX5PIzspqVZdyB7b) | [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Hmlss](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq), [Travis Allen](https://open.spotify.com/artist/0l0pHgoBrCcr7wQTrBwbCp), [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Paradise \(Remix\)](https://open.spotify.com/album/5byhhtBBucKX4zNAyRVbbu) | 3:16 | 2022-09-09 |  |
 | [Pelota \(Cut a Rug Mix\)](https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Mordechai Remixes](https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG) | 5:01 | 2022-09-09 |  |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-09-09 |  |
+| [Phases \(feat\. dreamcastmoe\)](https://open.spotify.com/track/7DTA0Xwy0pEL75tur4XKXt) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Phases \(feat\. dreamcastmoe\)](https://open.spotify.com/album/7LPIzGmvdtNgLdGPlxHjKn) | 3:32 | 2023-02-23 |  |
 | [philadelphia](https://open.spotify.com/track/7n1SLI92zzCUvAdBx6flyU) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [philadelphia](https://open.spotify.com/album/5P19jHuYj8fcWH9sc8HqPH) | 3:20 | 2022-09-09 |  |
 | [Pills \- Single Version](https://open.spotify.com/track/0At9wPLrtJ7se2RGYgY0ZM) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Pills](https://open.spotify.com/album/0FwllEhG0MxkSUpS8HVTqw) | 2:58 | 2022-09-09 |  |
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2022-10-12 |  |
@@ -186,6 +188,7 @@
 | [So I Lie](https://open.spotify.com/track/1erZEUKhZ03cHHD0vOr8aQ) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Art Dealer Chic 4](https://open.spotify.com/album/0HjWJuW1StzouaOWndsxt9) | 3:57 | 2022-09-09 |  |
 | [Softly \- Cuppy Remix](https://open.spotify.com/track/2APuTWMAHD8Co32wiLciyL) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Cuppy](https://open.spotify.com/artist/12BjfR9LIzpDecdcMGvu7f) | [Softly \(Cuppy Remix\)](https://open.spotify.com/album/4QJjnkrmYwQ3YypwLENCUQ) | 2:31 | 2022-09-09 |  |
 | [Someone Special](https://open.spotify.com/track/4idEjqHVBPG2y2nTukwUys) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Someone Special](https://open.spotify.com/album/4u3seoESGmhG7etMrgrdaL) | 3:18 | 2022-09-22 |  |
+| [Something New \- Kraak & Smaak Remix Edit](https://open.spotify.com/track/279sQU1hHoEwLleB1dTmS2) | [Reel People](https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X), [Muhsinah](https://open.spotify.com/artist/2xMBRdUYQjgJezQ8lNGQq5), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Something New \(Kraak & Smaak Remixes\)](https://open.spotify.com/album/3IZIsNJS0sdV30Sp1Xj1YC) | 4:14 | 2023-02-23 |  |
 | [Soul Caliber \(Remix\)](https://open.spotify.com/track/455v0kWFW362VlD22VJFvz) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [h0wdy](https://open.spotify.com/artist/2Cub16XBwQ5vWVzVveNLH1), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Quintin Gulledge](https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf) | [Soul Caliber \(Remix\)](https://open.spotify.com/album/6hEiPo9qf1SegYq6l6f3tF) | 3:44 | 2022-12-05 |  |
 | [Soul Liberator \- Kerem Akdağ Remix](https://open.spotify.com/track/3T0wb0HTqKGhEMdTCn3gUt) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Sanguita Akkrum](https://open.spotify.com/artist/2InEuUF9oBtn5E8IstCrIs), [Kerem Akdağ](https://open.spotify.com/artist/5DxrSUpHixL1t8os9E7xOz) | [Pleasure Centre Remixed](https://open.spotify.com/album/5ica5FqEeFkG3vOmhj8Ey7) | 3:08 | 2022-09-09 | 2022-09-16 |
 | [Spare Me](https://open.spotify.com/track/2cH0clQUvBwo77M8W2YQ3D) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Spare Me](https://open.spotify.com/album/0MQaaH4YZEapRhhaJOVDG9) | 3:20 | 2022-09-09 | 2022-10-15 |

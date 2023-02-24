@@ -1,13 +1,29 @@
 {
   "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=A77LtOw8ScqPlHwiVxtb5A\"> Black Sherif </a> ",
-  "num_followers": 10463,
+  "num_followers": 10497,
   "original_name": "+233 Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMDQ3NjMzZWU1M2UzNDAxMDdlNDRlNjgwNDJkYTZiMmEx",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDkwN2U0Njk3ZjJlYjhlNWY0YWE0NzRlNDE2NjNlYzhm",
   "tracks": [
+    {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "45",
+      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
+    },
     {
       "added_at": "2023-01-20 00:00:00",
       "album": {
@@ -27,6 +43,46 @@
       "duration_ms": 152283,
       "name": "Run",
       "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
+    },
+    {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "duration_ms": 194606,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Win",
+        "url": "https://open.spotify.com/album/6ovQUMpjUj1ZzLaCU2PVLB"
+      },
+      "artists": [
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 157760,
+      "name": "Win",
+      "url": "https://open.spotify.com/track/3Zcdo6A7uBR6FVecNON4SB"
     },
     {
       "added_at": "2023-02-10 09:37:47",
@@ -73,24 +129,28 @@
       "url": "https://open.spotify.com/track/3S8DdOVdItdxl8wiSJbxqG"
     },
     {
-      "added_at": "2023-01-20 00:00:00",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "JAMZ",
-        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+        "name": "ON TEN",
+        "url": "https://open.spotify.com/album/3PmvDqSRCk9UkW94hFFvr4"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Hkmk",
+          "url": "https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg"
+        },
+        {
+          "name": "DRILL SZN",
+          "url": "https://open.spotify.com/artist/5XFxkRmijQ1JmSHmGSBSzj"
         }
       ],
-      "duration_ms": 220952,
-      "name": "Country Side (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
+      "duration_ms": 107260,
+      "name": "ON TEN",
+      "url": "https://open.spotify.com/track/4Sbtvgkqpay8iMF6xDKZzF"
     },
     {
       "added_at": "2023-01-20 00:00:00",
@@ -111,102 +171,6 @@
       "duration_ms": 179580,
       "name": "Come & Go - Black Sherif Remix",
       "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
-    },
-    {
-      "added_at": "2023-01-20 00:00:00",
-      "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "45",
-      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Dime Piece",
-        "url": "https://open.spotify.com/album/2EkyJfTgda1FKQUdSl7Y1Y"
-      },
-      "artists": [
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "Brudda Nay",
-          "url": "https://open.spotify.com/artist/3NMrMxQ07cD29ZJfgwolzV"
-        }
-      ],
-      "duration_ms": 221624,
-      "name": "Dime Piece",
-      "url": "https://open.spotify.com/track/6bgjMZChZYKtzs8XphG5it"
-    },
-    {
-      "added_at": "2023-01-20 00:00:00",
-      "album": {
-        "name": "Stir It Up",
-        "url": "https://open.spotify.com/album/6MNUKupGTXg7Znmqx0BGB0"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 221611,
-      "name": "Stir It Up",
-      "url": "https://open.spotify.com/track/5A6mHdKHowaitCRTSEHriS"
-    },
-    {
-      "added_at": "2023-01-20 00:00:00",
-      "album": {
-        "name": "Coachella",
-        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
-    },
-    {
-      "added_at": "2023-01-20 00:00:00",
-      "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        }
-      ],
-      "duration_ms": 194606,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk"
     },
     {
       "added_at": "2023-01-20 00:00:00",
@@ -247,22 +211,6 @@
     {
       "added_at": "2023-01-20 00:00:00",
       "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 161699,
-      "name": "Konongo Zongo",
-      "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
-    },
-    {
-      "added_at": "2023-01-20 00:00:00",
-      "album": {
         "name": "Anadwo",
         "url": "https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh"
       },
@@ -277,20 +225,24 @@
       "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
     },
     {
-      "added_at": "2023-01-27 09:26:35",
+      "added_at": "2023-01-20 00:00:00",
       "album": {
-        "name": "Ronaldo",
-        "url": "https://open.spotify.com/album/22hGagxw0hzduRyJsLK2nM"
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
       },
       "artists": [
         {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 192405,
-      "name": "Ronaldo",
-      "url": "https://open.spotify.com/track/0I6ER7x4d31zvJBd2DhyB3"
+      "duration_ms": 220952,
+      "name": "Country Side (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
     },
     {
       "added_at": "2023-01-20 00:00:00",
@@ -309,24 +261,92 @@
       "url": "https://open.spotify.com/track/3L2kpYSJnXqqz9vKnpQ6Xw"
     },
     {
-      "added_at": "2023-02-10 09:37:47",
+      "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Ohemaa",
-        "url": "https://open.spotify.com/album/6GSPOyYbPYTkR74gQMPus0"
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/1tgrAAKHEmj8SyPeiR8dp0"
       },
       "artists": [
         {
-          "name": "Bosom P-Yung",
-          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
-        },
-        {
-          "name": "Lord Paper",
-          "url": "https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb"
+          "name": "G-Migos",
+          "url": "https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN"
         }
       ],
-      "duration_ms": 213343,
-      "name": "Ohemaa",
-      "url": "https://open.spotify.com/track/1u2K82uk2yeeWhYUieIa5b"
+      "duration_ms": 150360,
+      "name": "Overload",
+      "url": "https://open.spotify.com/track/7hjVQjTJJzU4zGwzmkr1RH"
+    },
+    {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
+    },
+    {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 161699,
+      "name": "Konongo Zongo",
+      "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
+    },
+    {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "Stir It Up",
+        "url": "https://open.spotify.com/album/6MNUKupGTXg7Znmqx0BGB0"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 221611,
+      "name": "Stir It Up",
+      "url": "https://open.spotify.com/track/5A6mHdKHowaitCRTSEHriS"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Agatha",
+        "url": "https://open.spotify.com/album/39etPLAXCXpsXNbUBJpJ3E"
+      },
+      "artists": [
+        {
+          "name": "D3MI",
+          "url": "https://open.spotify.com/artist/7uh8LdpyMZ8SeMZfD2ZaRs"
+        }
+      ],
+      "duration_ms": 135831,
+      "name": "Agatha",
+      "url": "https://open.spotify.com/track/29j1Nc7uQj1LxeYjiszTGb"
     },
     {
       "added_at": "2023-01-20 00:00:00",
@@ -343,6 +363,58 @@
       "duration_ms": 163224,
       "name": "Landlord",
       "url": "https://open.spotify.com/track/4MhUaa1qw60tPhurSEe75b"
+    },
+    {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "Straight Outta Kumerica 2",
+        "url": "https://open.spotify.com/album/6C628yJ57EmOF3m06i0dQv"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Thywill",
+          "url": "https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV"
+        },
+        {
+          "name": "City Boy",
+          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "Pa! (feat. Thywill & City Boy)",
+      "url": "https://open.spotify.com/track/3ikS8sT02F9Tiyi8S1AwmI"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Floor Shake",
+        "url": "https://open.spotify.com/album/29SzNH7V2r3h1oZG3MHemE"
+      },
+      "artists": [
+        {
+          "name": "DJ Semtex",
+          "url": "https://open.spotify.com/artist/3xhX0nrkThoOaGZZoFnCAt"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Floor Shake",
+      "url": "https://open.spotify.com/track/75CW2Y65bqjxTQx3z3V53X"
     },
     {
       "added_at": "2023-01-20 00:00:00",
@@ -401,6 +473,26 @@
       "url": "https://open.spotify.com/track/5ghsreJSSNB8uqgs67QdFt"
     },
     {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Dime Piece",
+        "url": "https://open.spotify.com/album/2EkyJfTgda1FKQUdSl7Y1Y"
+      },
+      "artists": [
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Brudda Nay",
+          "url": "https://open.spotify.com/artist/3NMrMxQ07cD29ZJfgwolzV"
+        }
+      ],
+      "duration_ms": 221624,
+      "name": "Dime Piece",
+      "url": "https://open.spotify.com/track/6bgjMZChZYKtzs8XphG5it"
+    },
+    {
       "added_at": "2023-01-20 00:00:00",
       "album": {
         "name": "Logos II",
@@ -423,26 +515,6 @@
       "duration_ms": 160000,
       "name": "Green Means Go",
       "url": "https://open.spotify.com/track/3GSr6iTdh5lLjVyC67qCMk"
-    },
-    {
-      "added_at": "2023-02-10 09:37:47",
-      "album": {
-        "name": "War with Us",
-        "url": "https://open.spotify.com/album/2VZEGAa6Ayif90T8d5K88G"
-      },
-      "artists": [
-        {
-          "name": "BornBhad",
-          "url": "https://open.spotify.com/artist/0YpGY5k114UOgKcxBVDjlX"
-        },
-        {
-          "name": "Larruso",
-          "url": "https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS"
-        }
-      ],
-      "duration_ms": 146677,
-      "name": "War with Us",
-      "url": "https://open.spotify.com/track/55D4ykonla5u5gz8pmvwBx"
     },
     {
       "added_at": "2023-01-20 00:00:00",
@@ -501,6 +573,30 @@
       "url": "https://open.spotify.com/track/6tihOaexrFJpNs1WfhN7Dg"
     },
     {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "On The Road (Far Gone)",
+        "url": "https://open.spotify.com/album/3SFMW05OvSnfgHGnP8Bf1U"
+      },
+      "artists": [
+        {
+          "name": "Ground Up Chale",
+          "url": "https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh"
+        },
+        {
+          "name": "Alba Bwoy",
+          "url": "https://open.spotify.com/artist/7BOVmXzFENgxghmIEucyzh"
+        },
+        {
+          "name": "Kimati",
+          "url": "https://open.spotify.com/artist/0C7w64wIrv459eGHwq6hPn"
+        }
+      ],
+      "duration_ms": 169912,
+      "name": "On The Road (Far Gone)",
+      "url": "https://open.spotify.com/track/67JXu4tkRwa2IOIMKucwva"
+    },
+    {
       "added_at": "2023-01-20 00:00:00",
       "album": {
         "name": "Nirvana",
@@ -519,6 +615,22 @@
       "duration_ms": 144168,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Bad Bih Mariah",
+        "url": "https://open.spotify.com/album/4GDdRGU6KzInDaeQ7cvlKe"
+      },
+      "artists": [
+        {
+          "name": "Cheqmatic",
+          "url": "https://open.spotify.com/artist/0HSnJIvwjrwUKDx2kZ8cuy"
+        }
+      ],
+      "duration_ms": 140804,
+      "name": "Bad Bih Mariah",
+      "url": "https://open.spotify.com/track/2MTGWrnJRpIhFFyg6Jgy71"
     },
     {
       "added_at": "2023-01-20 00:00:00",
@@ -625,30 +737,6 @@
       "url": "https://open.spotify.com/track/5EZi91trcrpvQz7gxQPZDa"
     },
     {
-      "added_at": "2023-02-10 09:37:47",
-      "album": {
-        "name": "On The Road (Navigating)",
-        "url": "https://open.spotify.com/album/6p4AL7KE86FERbj9lsMqML"
-      },
-      "artists": [
-        {
-          "name": "Ground Up Chale",
-          "url": "https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh"
-        },
-        {
-          "name": "Gonaboy",
-          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
-        },
-        {
-          "name": "Kimati",
-          "url": "https://open.spotify.com/artist/0C7w64wIrv459eGHwq6hPn"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "On The Road (Navigating)",
-      "url": "https://open.spotify.com/track/4Iiha3otqci5DaCOiepGIU"
-    },
-    {
       "added_at": "2023-01-20 00:00:00",
       "album": {
         "name": "Balance",
@@ -735,30 +823,6 @@
       "duration_ms": 130000,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/43H88ZoZoU4jt9jIIjxe4b"
-    },
-    {
-      "added_at": "2023-02-10 09:37:47",
-      "album": {
-        "name": "Don't Mind Them",
-        "url": "https://open.spotify.com/album/6OHVWyWyeeTqj641UjwpdS"
-      },
-      "artists": [
-        {
-          "name": "A-swxg",
-          "url": "https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg"
-        },
-        {
-          "name": "Dayonthetrack",
-          "url": "https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc"
-        },
-        {
-          "name": "Delis",
-          "url": "https://open.spotify.com/artist/4edwjN1rPYHiAbkPNihGWP"
-        }
-      ],
-      "duration_ms": 202736,
-      "name": "Don't Mind Them",
-      "url": "https://open.spotify.com/track/7wv3O2Mc4XX1vHWkJfFej0"
     },
     {
       "added_at": "2023-01-20 00:00:00",
@@ -855,38 +919,6 @@
     {
       "added_at": "2023-01-20 00:00:00",
       "album": {
-        "name": "SWAG (feat. O'Kenneth, Reggie, Jay Bahd & Kawabanga)",
-        "url": "https://open.spotify.com/album/4jVT3IHYxo6EFIMpaMRrsp"
-      },
-      "artists": [
-        {
-          "name": "City Boy",
-          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
-        },
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "Kawabanga",
-          "url": "https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "SWAG (feat. O'Kenneth, Reggie, Jay Bahd & Kawabanga)",
-      "url": "https://open.spotify.com/track/1Gn3pwGB9TLj56eElRY2a2"
-    },
-    {
-      "added_at": "2023-01-20 00:00:00",
-      "album": {
         "name": "GORILLA",
         "url": "https://open.spotify.com/album/3EkSa2Y7VEt9XU5hgMS6d9"
       },
@@ -955,26 +987,6 @@
       "duration_ms": 195482,
       "name": "Holy F4k",
       "url": "https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ"
-    },
-    {
-      "added_at": "2023-01-20 00:00:00",
-      "album": {
-        "name": "Dup\u0117",
-        "url": "https://open.spotify.com/album/6hqyFPUXzElJTaIlsIcXP1"
-      },
-      "artists": [
-        {
-          "name": "Azekel",
-          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 191055,
-      "name": "Dup\u0117",
-      "url": "https://open.spotify.com/track/5zJYfys6I9qA2WrXserMUm"
     },
     {
       "added_at": "2023-01-20 00:00:00",
@@ -1119,34 +1131,6 @@
       "duration_ms": 224744,
       "name": "Ekorso",
       "url": "https://open.spotify.com/track/04qEuAt4TR3p2KQlJecNsu"
-    },
-    {
-      "added_at": "2023-01-20 00:00:00",
-      "album": {
-        "name": "Straight Outta Kumerica 2",
-        "url": "https://open.spotify.com/album/6C628yJ57EmOF3m06i0dQv"
-      },
-      "artists": [
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
-          "name": "Thywill",
-          "url": "https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV"
-        },
-        {
-          "name": "City Boy",
-          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "Pa! (feat. Thywill & City Boy)",
-      "url": "https://open.spotify.com/track/3ikS8sT02F9Tiyi8S1AwmI"
     },
     {
       "added_at": "2023-01-20 00:00:00",

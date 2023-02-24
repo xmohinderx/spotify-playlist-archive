@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 96250,
+  "num_followers": 96336,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQzMzg1NiwwMDAwMDAwMDk3MzBiZDM4NGFhMGM5MTYwYTUyZDQwMzE0YzQ0ZTI2",
+  "snapshot_id": "MTY3NTQzMzg1NiwwMDAwMDAwMDMzYTQ1NDcyZGRhNTdlZGEyYzU5NGQxNjA2ODQ2MWQ3",
   "tracks": [
     {
       "added_at": "2023-02-03 14:17:36",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-02-03 14:17:36",
       "album": {
-        "name": "Tudo Vai Ficar Bem",
-        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        },
-        {
-          "name": "Higor Rosa",
-          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
-        }
-      ],
-      "duration_ms": 209998,
-      "name": "Tudo Vai Ficar Bem",
-      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
-    },
-    {
-      "added_at": "2023-02-03 14:17:36",
-      "album": {
         "name": "Eu Vou",
         "url": "https://open.spotify.com/album/2l0kfJQDmsBIaomiLBgpN8"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 201600,
       "name": "Eu Vou",
       "url": "https://open.spotify.com/track/2YgeBn80B7K2RGgeVdsJbX"
+    },
+    {
+      "added_at": "2023-02-03 14:17:36",
+      "album": {
+        "name": "Tudo Vai Ficar Bem",
+        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        },
+        {
+          "name": "Higor Rosa",
+          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
+        }
+      ],
+      "duration_ms": 209998,
+      "name": "Tudo Vai Ficar Bem",
+      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
     },
     {
       "added_at": "2023-02-03 14:17:36",

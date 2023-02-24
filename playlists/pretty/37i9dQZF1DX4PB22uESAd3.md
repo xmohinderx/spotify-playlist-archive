@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,162 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,269 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 54 | [She Knocks Me Out \(Master\)](https://open.spotify.com/track/20FacjwdyVBtI7AuKgov5R) | [Harold Burrage](https://open.spotify.com/artist/21XSS3GkVX88nFHdTIpuGa) | [Messed Up! The Cobra Recordings 1956\-1958](https://open.spotify.com/album/3kVFweslzBULC6Do0cJ2kp) | 2:16 |
 | 55 | [Rip It Up](https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:21 |
 | 56 | [Strange Things Happening Every Day](https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe Vol\. 2 1942\-1944](https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f) | 2:47 |
-| 57 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:03 |
+| 57 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 |
 | 58 | [Bump Miss Susie](https://open.spotify.com/track/5vehIzA4sq72gr5GTg1W7K) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7), [Van 'Piano Man' Walls Orchestra](https://open.spotify.com/artist/3LhM28i6lmR4TTc9yZJD6O) | [The Atlantic Albums](https://open.spotify.com/album/4O6HOxKZ77w7dvnje0JM3k) | 2:22 |
 | 59 | [96 Tears](https://open.spotify.com/track/7eotSbuPkqE4DkvsSZLUM6) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | ["America's Queen Mother Of Soul" Got A Brand New Bag](https://open.spotify.com/album/1DN50uhOQLKfCzTeDPaTn3) | 2:23 |
 | 60 | [Good Rocking Tonight](https://open.spotify.com/track/4KkPswolFJD095NNLNP2AX) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Good Rocking Tonight](https://open.spotify.com/album/6UmN9wphbYK7NdCVpRi8lw) | 2:49 |

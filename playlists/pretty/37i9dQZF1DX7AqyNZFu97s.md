@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Sophie DeMasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,369 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,371 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Emmeline Gracie](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 |
 | 80 | [Way That You Are](https://open.spotify.com/track/39qxp1ZO3GdRZ7gbM99UFc) | [Daire Patel](https://open.spotify.com/artist/0qEjllyc5VRbiwOINKPR0G) | [Pretty Sweet](https://open.spotify.com/album/2X5m5sYF7GnxP5phSYCiR0) | 3:21 |
 
-Snapshot ID: `MTY3NzA4OTU1NCwwMDAwMDAwMDYxZjFiM2UwZjE2ZWYyMDc4MGFmZmRlMDMxOTY1MjNj`
+Snapshot ID: `MTY3NzE4NDM1NCwwMDAwMDAwMGRlZTQ2NjU5ZGVkOTJlNjJlNjY1NDY2NzM3MTkxYjI5`

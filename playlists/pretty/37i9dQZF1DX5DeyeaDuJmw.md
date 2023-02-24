@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: Anuel AA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,739 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,905 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 54 | [Sola & Vacía](https://open.spotify.com/track/46V4kseB66GjFGklCgynGX) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Sola & Vacía](https://open.spotify.com/album/4J8ZqzL9bOmjkcmxVqqouk) | 3:02 |
 | 55 | [Bandolera](https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bandolera](https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8) | 3:21 |
 | 56 | [Skyline](https://open.spotify.com/track/3ymRYcYHxXMmyvCaKcJ46k) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Skyline](https://open.spotify.com/album/2oLEG1I4AcvA630m0wSuZH) | 2:53 |
-| 57 | [Farandulera](https://open.spotify.com/track/0rUyfQzaE8CF6xyAu1OkS3) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Farandulera](https://open.spotify.com/album/2tHguZJHyNpd3I9ejgDNlp) | 4:14 |
-| 58 | [Cu4tro](https://open.spotify.com/track/68V31zQa7VOH4P99PMeBna) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Cu4tro](https://open.spotify.com/album/20Eimnv9BdL7PQ1WGnbQX3) | 4:09 |
+| 57 | [Cu4tro](https://open.spotify.com/track/68V31zQa7VOH4P99PMeBna) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Cu4tro](https://open.spotify.com/album/20Eimnv9BdL7PQ1WGnbQX3) | 4:09 |
+| 58 | [Farandulera](https://open.spotify.com/track/0rUyfQzaE8CF6xyAu1OkS3) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Farandulera](https://open.spotify.com/album/2tHguZJHyNpd3I9ejgDNlp) | 4:14 |
 | 59 | [La Jeepeta](https://open.spotify.com/track/4RaWbMItxVbuUExNkFsITP) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [La Jeepeta](https://open.spotify.com/album/0pUFniwv3FndU1FlNN3apc) | 3:24 |
 | 60 | [Ácido](https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [Ácido](https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt) | 2:29 |
 | 61 | [Taxi](https://open.spotify.com/track/3U73C3VYVAeMjvxOizh5Ad) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Normal](https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 99 | [Corazón Egoísta](https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Cerrando Capítulo](https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR) | 2:52 |
 | 100 | [Royal Medellin](https://open.spotify.com/track/3x9TgnIE1EbkKXJeIeBxYp) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Amaro](https://open.spotify.com/artist/029uS2pMvwk0TsIUTHkyyw), [Dani y Magneto](https://open.spotify.com/artist/7im3qrPSEoYCVWVThJnzgj) | [Royal Medellin](https://open.spotify.com/album/1BFSWOnfll1HP2s5Ot1pYU) | 3:18 |
 
-Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMGY5NjRlMTg1ZTFkZDQ0MGYxODgwYTg2ZGYwYzM0ZmJj`
+Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMDQ2MjY2NmM0NTNlMWFkNTI1MjdmY2Q0YzdmOTJjMjI1`

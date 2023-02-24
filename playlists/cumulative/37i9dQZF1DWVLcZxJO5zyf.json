@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: Pabllo Vittar",
+  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: Marina Sena",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "REVERSA",
+        "url": "https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144961,
+      "name": "GLITTER",
+      "url": "https://open.spotify.com/track/3yfjvYImiSdypyIeYUknyy"
+    },
+    {
+      "album": {
         "name": "Gueto",
         "url": "https://open.spotify.com/album/3LdpXPZAvjcjVg3Iy4CoyB"
       },
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 182500,
       "name": "Me d\u00f3i, boy",
       "url": "https://open.spotify.com/track/4uCFdG7R68kRkddT2KYc29"
@@ -3304,7 +3322,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 132000,
       "name": "Soltinha",
       "url": "https://open.spotify.com/track/3aeKrdLhpOXYqEM6pjcO7g"
@@ -3742,6 +3760,24 @@
       "duration_ms": 146142,
       "name": "TROPA DAS SOLTINHAS",
       "url": "https://open.spotify.com/track/7k82WCRSzfByzGXVYRgAvb"
+    },
+    {
+      "album": {
+        "name": "Tudo Pra Amar Voc\u00ea",
+        "url": "https://open.spotify.com/album/1neVMQB6q1Roh1Voz9dfDA"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Tudo Pra Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/2lDhKzEXHU14HRRAKja3ba"
     },
     {
       "album": {

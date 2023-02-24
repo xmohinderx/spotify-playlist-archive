@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37BQGs.md) - [plain]
 
 > This is Hundred Reasons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 36 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 421 likes - 35 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,6 +43,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37BQGs.md) - [plain]
 | 33 | [How Soon Is Now?](https://open.spotify.com/track/7uTonF04lKwInBrzr2Bfpj) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [How Soon Is Now? the Songs of the Smiths](https://open.spotify.com/album/3p01b3ewF4WNRjE7uBXycI) | 4:16 |
 | 34 | [Clear \(Flawed\)](https://open.spotify.com/track/0xsYs6ADG0myf8s6K4Hhpc) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [One](https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS) | 3:12 |
 | 35 | [Remmus \(Live\)](https://open.spotify.com/track/2RT9TJVahSuoOsYBnmsyuB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Live at the Lemon Grove](https://open.spotify.com/album/5nykFp8cx7wIad1R4rlFc2) | 3:22 |
-| 36 | [Introduction to Pop \(Live\)](https://open.spotify.com/track/6nH9suYXFEaXE8sFyCW6Yy) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Live at the Lemon Grove](https://open.spotify.com/album/5nykFp8cx7wIad1R4rlFc2) | 2:57 |
 
-Snapshot ID: `Mjc5NTExODMsMDAwMDAwMDA2N2YzYTkwN2FmMDY3Y2QxNmU0OTNhNTMzMzNmNzE3Zg==`
+Snapshot ID: `Mjc5NTI2MTEsMDAwMDAwMDBlYzI0YmFlZTI0YjdlOGU1NzMyYzY5YjhhMmM1N2U2OA==`

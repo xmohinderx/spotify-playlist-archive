@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 33376,
+  "num_followers": 33382,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDEwMDk2NywwMDAwMDAwMDg3ZTM1ZWM1MmM3ZTliN2FmZWU1YWIyYzlhZjMwY2Yz",
+  "snapshot_id": "MTY3NDEwMDk2NywwMDAwMDAwMDEzZWMxOGIyODJkYjljMmQ4YzcwYjg4NDE3ODY1YmU3",
   "tracks": [
     {
       "added_at": "2023-01-19 04:02:47",
@@ -823,6 +823,26 @@
     {
       "added_at": "2023-01-19 04:02:47",
       "album": {
+        "name": "\u0110am m\u00ea - Tuy\u1ec7t Ph\u1ea9m song ca - Phi Nhung M\u1ea1nh Qu\u1ef3nh",
+        "url": "https://open.spotify.com/album/4t5fjzVYhATmyirOztHScw"
+      },
+      "artists": [
+        {
+          "name": "M\u1ea1nh Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
+        },
+        {
+          "name": "Phi Nhung",
+          "url": "https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "\u0110\u1eebng n\u00f3i xa nhau",
+      "url": "https://open.spotify.com/track/1REpQma5LaPQrWAStGy1Hk"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
         "name": "Hoa Su Nha Nang",
         "url": "https://open.spotify.com/album/13L8sDBXx11AKJDMYV194J"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 329800,
       "name": "Hoa Trinh N\u1eef",
       "url": "https://open.spotify.com/track/2w7ozeoqAPTB0CPsMu4fPp"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
-        "name": "\u0110am m\u00ea - Tuy\u1ec7t Ph\u1ea9m song ca - Phi Nhung M\u1ea1nh Qu\u1ef3nh",
-        "url": "https://open.spotify.com/album/4t5fjzVYhATmyirOztHScw"
-      },
-      "artists": [
-        {
-          "name": "M\u1ea1nh Qu\u1ef3nh",
-          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
-        },
-        {
-          "name": "Phi Nhung",
-          "url": "https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "\u0110\u1eebng n\u00f3i xa nhau",
-      "url": "https://open.spotify.com/track/1REpQma5LaPQrWAStGy1Hk"
     },
     {
       "added_at": "2023-01-19 04:02:47",

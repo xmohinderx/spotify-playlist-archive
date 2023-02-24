@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Baby One More Time",
+        "url": "https://open.spotify.com/album/2L1zanjl6Dp1Q0z1y6cmrv"
+      },
+      "artists": [
+        {
+          "name": "Vidar Arvidsson",
+          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234469,
+      "name": "As Long As You Love Me",
+      "url": "https://open.spotify.com/track/2RJi3pWg858aWyv0h9WFIC"
+    },
+    {
+      "album": {
         "name": "As Tears Go By",
         "url": "https://open.spotify.com/album/08b8NRRkOuQwjgDiq2yUn4"
       },
@@ -1895,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "From Both Sides Now",
+        "url": "https://open.spotify.com/album/7leRuOJAVfQIAPkVFBhEKz"
+      },
+      "artists": [
+        {
+          "name": "Mats T\u00e4rnfors",
+          "url": "https://open.spotify.com/artist/5PkNELD0DuzkqW2I7X0ND1"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252874,
+      "name": "From Both Sides Now",
+      "url": "https://open.spotify.com/track/0y1QJXvmb5iRXd11JJf9Hi"
+    },
+    {
+      "album": {
         "name": "F\u00f6r K\u00e4rlekens Skull",
         "url": "https://open.spotify.com/album/5SjcOhVGjH8apOCeajW8Yf"
       },
@@ -1910,6 +1946,24 @@
       "duration_ms": 254953,
       "name": "F\u00f6r K\u00e4rlekens Skull",
       "url": "https://open.spotify.com/track/4rCJlK3Uw8Cv80AZWaWQBO"
+    },
+    {
+      "album": {
+        "name": "Get Lucky",
+        "url": "https://open.spotify.com/album/4WEgJcuTLcG5JlcvWA4OJC"
+      },
+      "artists": [
+        {
+          "name": "Troy Mair",
+          "url": "https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167202,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/4CvzxUEgqlN2aHUQHDRnls"
     },
     {
       "album": {
@@ -2302,7 +2356,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 203096,
       "name": "Hello",
       "url": "https://open.spotify.com/track/1d34TcAqhMCMCsS2KEZ22E"
@@ -2543,6 +2597,42 @@
     },
     {
       "album": {
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/5j6RnmqRKSK5UgCFkTc5WD"
+      },
+      "artists": [
+        {
+          "name": "Diego Dumas",
+          "url": "https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/7pAnGyZ2j1BImyrTkUMmzQ"
+    },
+    {
+      "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/5tZJNmEUhVKBSyCeKL2JGi"
+      },
+      "artists": [
+        {
+          "name": "Dan Goten",
+          "url": "https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159473,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/0s1BJMXmcKWJXsEYGdakBt"
+    },
+    {
+      "album": {
         "name": "Numb & I Ain't Worried (Piano)",
         "url": "https://open.spotify.com/album/2H6UhZkk0YaZ5lr8Vt15O5"
       },
@@ -2723,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Be Yours",
+        "url": "https://open.spotify.com/album/0wwXoEiDEyHMwS6etJwYbR"
+      },
+      "artists": [
+        {
+          "name": "Trevor Potts",
+          "url": "https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156643,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/6huxjr8XKFnhtXQD02LIJ7"
+    },
+    {
+      "album": {
         "name": "Famous Songs on Piano 1",
         "url": "https://open.spotify.com/album/2v5hcKlCisxBRszKsSUzOe"
       },
@@ -2810,6 +2918,24 @@
       "duration_ms": 228920,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/55qulwZF586SHaW888nGtG"
+    },
+    {
+      "album": {
+        "name": "If I Never Knew You",
+        "url": "https://open.spotify.com/album/4l9AMQB6NZ2XLC6i5TyEe5"
+      },
+      "artists": [
+        {
+          "name": "Floritatura",
+          "url": "https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190408,
+      "name": "If I Never Knew You",
+      "url": "https://open.spotify.com/track/7KjwgAyH10OnTHJODNtnns"
     },
     {
       "album": {
@@ -3011,6 +3137,24 @@
     },
     {
       "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/0esnlD3DW1GeM6321mL68H"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Pirlo",
+          "url": "https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/3Qy8L9VXIGqV51ZMqgqy8y"
+    },
+    {
+      "album": {
         "name": "Just Give Me A Reason",
         "url": "https://open.spotify.com/album/0FMrgE3K1VoA8Wv7p16xsM"
       },
@@ -3191,6 +3335,24 @@
     },
     {
       "album": {
+        "name": "Leaving On A Jet Plane",
+        "url": "https://open.spotify.com/album/2ujKiDw5nk58E74QnodUYT"
+      },
+      "artists": [
+        {
+          "name": "Lana Jax",
+          "url": "https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172285,
+      "name": "Leaving On A Jet Plane",
+      "url": "https://open.spotify.com/track/2vt0uVbNi6ZVpTXIo1tISR"
+    },
+    {
+      "album": {
         "name": "Let Her Go",
         "url": "https://open.spotify.com/album/2uKx68XJqHRTLWjPKq6qhw"
       },
@@ -3263,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/0duEcNc0FM3PqWauFPKvQX"
+      },
+      "artists": [
+        {
+          "name": "Melvin Gale",
+          "url": "https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115533,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/1kB5w3Oyp36ADW0ApGoHAE"
+    },
+    {
+      "album": {
         "name": "Piano Favorites 3",
         "url": "https://open.spotify.com/album/03oFXdELtbbLIPkr2FHpHq"
       },
@@ -3274,7 +3454,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 173644,
       "name": "Let It Be - Piano Version",
       "url": "https://open.spotify.com/track/6WTikw3wYizU78xt0ahfKv"
@@ -3364,7 +3544,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 175714,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/7cKAjHhKnrewhzSxk26C18"
@@ -3875,6 +4055,24 @@
     },
     {
       "album": {
+        "name": "Mystery Of Love",
+        "url": "https://open.spotify.com/album/4tmM2JSI4iIYn7r1Kdse8M"
+      },
+      "artists": [
+        {
+          "name": "Peque\u00f1o Casero",
+          "url": "https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Mystery Of Love",
+      "url": "https://open.spotify.com/track/5iAtsXItE1NUh8SbDaEzSQ"
+    },
+    {
+      "album": {
         "name": "Nothing Compares 2 U",
         "url": "https://open.spotify.com/album/2DNhkwLs1DMGYrQjBbamuF"
       },
@@ -4250,6 +4448,24 @@
       "duration_ms": 184137,
       "name": "Rocket Man",
       "url": "https://open.spotify.com/track/6ff2TinoXWHCn0JnfUAp2b"
+    },
+    {
+      "album": {
+        "name": "Rolling in the Deep",
+        "url": "https://open.spotify.com/album/687CxhjRYd6Ht42XUACOIJ"
+      },
+      "artists": [
+        {
+          "name": "Dalton Webster",
+          "url": "https://open.spotify.com/artist/7JPYRAXuQJ80B5CTpoRkkR"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129147,
+      "name": "Rolling in the Deep",
+      "url": "https://open.spotify.com/track/1crMg4ZtH1YqtHt0NJtiW2"
     },
     {
       "album": {
@@ -4876,7 +5092,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 205333,
       "name": "Svag",
       "url": "https://open.spotify.com/track/3pzJXr8awfVqc6QoQbFm3o"
@@ -5751,6 +5967,24 @@
     },
     {
       "album": {
+        "name": "When You Were Young",
+        "url": "https://open.spotify.com/album/50vdHsYMxbea4YadMnLA2I"
+      },
+      "artists": [
+        {
+          "name": "Harris Barron",
+          "url": "https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102754,
+      "name": "When You Were Young",
+      "url": "https://open.spotify.com/track/7zvMrz8rXUXpAkE2uhBIbJ"
+    },
+    {
+      "album": {
         "name": "When You\u00b4re Gone",
         "url": "https://open.spotify.com/album/7DpMvQz3HxBdJMMaGvZtsf"
       },
@@ -6176,7 +6410,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-24",
       "duration_ms": 256811,
       "name": "You're The Inspiration",
       "url": "https://open.spotify.com/track/0EzDeUITUHCBNdaYn8w90u"

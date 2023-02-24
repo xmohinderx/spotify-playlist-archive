@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Luke Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,062 likes - 140 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,151 likes - 140 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

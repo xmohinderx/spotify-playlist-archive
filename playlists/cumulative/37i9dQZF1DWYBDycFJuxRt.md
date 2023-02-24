@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Ado \*👉<a href="https://spice.eplus.jp/articles/314965?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-362 songs - 22 hr 3 min
+363 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Nervous \- Piano Version](https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND \(Solo Piano Version\)](https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo) | 3:14 | 2023-02-07 | 2023-02-15 |
 | [Neverland](https://open.spotify.com/track/1BxnL3aEItRwwdclyksOpQ) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Neverland](https://open.spotify.com/album/0yJdJurfPk87zYjirjJvRx) | 3:10 | 2023-02-21 |  |
 | [New Day](https://open.spotify.com/track/0CJqC1AVP0HLlE2rSNsU5f) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [New Day](https://open.spotify.com/album/1CrDfbG61qVlLt3LcKY8Vu) | 3:04 | 2023-01-31 | 2023-02-08 |
+| [New Order T\-Shirt](https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [New Order T\-Shirt](https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw) | 4:56 | 2023-02-22 |  |
 | [NEW WORLD](https://open.spotify.com/track/2NV1QtANnDa9daeiPvgtLz) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [NEW WORLD](https://open.spotify.com/album/6t0gVbvHburczRTE7QZHHA) | 3:41 | 2023-02-14 | 2023-02-22 |
 | [Nice Day](https://open.spotify.com/track/24PyTTd3CiplNPpmYpJifN) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [Our Best Place](https://open.spotify.com/album/0YD5rzXGLNjCslvo8x6igD) | 3:30 | 2023-02-15 | 2023-02-22 |
 | [Nice Day](https://open.spotify.com/track/3lSCuTCdb50NAe94qW53LK) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [OUR BEST PLACE](https://open.spotify.com/album/2YAqErK82W8AmlMOFqEOrK) | 3:32 | 2023-02-14 | 2023-02-16 |

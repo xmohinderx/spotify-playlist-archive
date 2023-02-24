@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 15885,
+  "num_followers": 15925,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5NDc4NCwwMDAwMDAwMGE0OTY1Y2VkNDFjY2EyNTliMGVlM2JjY2ZiMDliNjRm",
+  "snapshot_id": "MTY3NTk5NDc4NCwwMDAwMDAwMDA1YWQzYmQwMzhiN2JjOTVkMGU2ZmE4YTVkNzkwODhi",
   "tracks": [
     {
       "added_at": "2023-02-10 02:06:24",
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 295333,
-      "name": "Todo Empezo",
-      "url": "https://open.spotify.com/track/3cL9ePuG6NGlmUmXEbOfpG"
+      "duration_ms": 281653,
+      "name": "T\u00fa Me Haces Falta",
+      "url": "https://open.spotify.com/track/6ekixEa22KrZuSynAfxQ8i"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "Bueno y M\u00e1s",
-        "url": "https://open.spotify.com/album/2L8Z97iqrz7OMo4OpbCFEg"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 270863,
-      "name": "Carro de Fuego",
-      "url": "https://open.spotify.com/track/6vXGxfr6aYO3Nq2jKXkdC5"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
         "name": "Que Bueno",
         "url": "https://open.spotify.com/album/03402zoYuwCwfeQ2MLg6St"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
+        "name": "Bueno y M\u00e1s",
+        "url": "https://open.spotify.com/album/2L8Z97iqrz7OMo4OpbCFEg"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 270863,
+      "name": "Carro de Fuego",
+      "url": "https://open.spotify.com/track/6vXGxfr6aYO3Nq2jKXkdC5"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
         "name": "De Verdad (15 Super Exitos)",
         "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
       },
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 281653,
-      "name": "T\u00fa Me Haces Falta",
-      "url": "https://open.spotify.com/track/6ekixEa22KrZuSynAfxQ8i"
+      "duration_ms": 295333,
+      "name": "Todo Empezo",
+      "url": "https://open.spotify.com/track/3cL9ePuG6NGlmUmXEbOfpG"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 299093,
-      "name": "Yo Me Quedo",
-      "url": "https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
         "name": "Salsa Sensual, Vol. 1",
         "url": "https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 292853,
       "name": "Qui\u00e9reme Tal Como Soy",
       "url": "https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 299093,
+      "name": "Yo Me Quedo",
+      "url": "https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf"
     },
     {
       "added_at": "2023-02-10 02:06:24",

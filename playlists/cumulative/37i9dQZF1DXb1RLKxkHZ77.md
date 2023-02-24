@@ -2,7 +2,7 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Mahalini
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Masdo
 
 175 songs - 11 hr 7 min
 

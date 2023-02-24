@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Garden of Tranquility",
+        "url": "https://open.spotify.com/album/08Ii4bNT3RExNzWsmzr3Tr"
+      },
+      "artists": [
+        {
+          "name": "SARAB",
+          "url": "https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "Garden of Tranquility - Studio Edit",
+      "url": "https://open.spotify.com/track/3kqiXiHTpo3P8DHVT2tzhY"
+    },
+    {
+      "album": {
         "name": "Garden State",
         "url": "https://open.spotify.com/album/2rQMnPvRvBxACgYQ2Pd79S"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 142847,
+  "num_followers": 142953,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA5ODY2MCwwMDAwMDAwMGU1ZDI3MGIxNTUyNzA3M2VmYWEyZWE5OTE1ZTBjYTgz",
+  "snapshot_id": "MTY3NzA5ODY2MCwwMDAwMDAwMGNkMTVkZmVlZDk3OTEwZjY1YWQ3YmFhZTJlMWE0MTJh",
   "tracks": [
     {
       "added_at": "2023-02-22 20:44:20",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-02-22 20:44:20",
       "album": {
-        "name": "Eish Besho'ak",
-        "url": "https://open.spotify.com/album/59Behg6SoGd5d4U4ljmZDg"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 253895,
-      "name": "Kefayak Aazar",
-      "url": "https://open.spotify.com/track/25HgTWTcPXoEF0mjSYrIpy"
-    },
-    {
-      "added_at": "2023-02-22 20:44:20",
-      "album": {
         "name": "Shahrazad (Live)",
         "url": "https://open.spotify.com/album/7Bp5hg6TqzX9wcxBn3WEfR"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 152293,
       "name": "Ya Ana Ya Ana - Live",
       "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg"
+    },
+    {
+      "added_at": "2023-02-22 20:44:20",
+      "album": {
+        "name": "Eish Besho'ak",
+        "url": "https://open.spotify.com/album/59Behg6SoGd5d4U4ljmZDg"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 253895,
+      "name": "Kefayak Aazar",
+      "url": "https://open.spotify.com/track/25HgTWTcPXoEF0mjSYrIpy"
     },
     {
       "added_at": "2023-02-22 20:44:20",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-02-22 20:44:20",
       "album": {
+        "name": "Fairouz World, Pt. 1",
+        "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 326739,
+      "name": "Saaltak Habiby",
+      "url": "https://open.spotify.com/track/2tTifBkEXqJ039o3jKcej7"
+    },
+    {
+      "added_at": "2023-02-22 20:44:20",
+      "album": {
         "name": "\u0631\u062c\u0639\u0646\u0627 \u0627\u0644\u062a\u0642\u064a\u0646\u0627",
         "url": "https://open.spotify.com/album/5FoaHEDPP43MWTLXBWCfEl"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": "2023-02-22 20:44:20",
       "album": {
-        "name": "Fairouz World, Pt. 1",
-        "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 326739,
-      "name": "Saaltak Habiby",
-      "url": "https://open.spotify.com/track/2tTifBkEXqJ039o3jKcej7"
-    },
-    {
-      "added_at": "2023-02-22 20:44:20",
-      "album": {
         "name": "Nancy 9 (Hassa Beek)",
         "url": "https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 263717,
       "name": "El Hob Zay El Watar",
       "url": "https://open.spotify.com/track/2md803CYlkw5ALEyeypWIP"
+    },
+    {
+      "added_at": "2023-02-22 20:44:20",
+      "album": {
+        "name": "Shahrazad (Live)",
+        "url": "https://open.spotify.com/album/7Bp5hg6TqzX9wcxBn3WEfR"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 211617,
+      "name": "Habbaitak Be El Saif - Live",
+      "url": "https://open.spotify.com/track/1QJ2l3k2BFJypRUT5M4mLg"
     },
     {
       "added_at": "2023-02-22 20:44:20",
@@ -591,6 +607,22 @@
     {
       "added_at": "2023-02-22 20:44:20",
       "album": {
+        "name": "Yawman Ma",
+        "url": "https://open.spotify.com/album/7gRVnSkXghsBft2P4K8Ycy"
+      },
+      "artists": [
+        {
+          "name": "Julia Boutros",
+          "url": "https://open.spotify.com/artist/1MBqKgaBet9mU8vI0hqj6c"
+        }
+      ],
+      "duration_ms": 202422,
+      "name": "Yawman Ma",
+      "url": "https://open.spotify.com/track/3gucBOpDuQQkemmVE2NtEQ"
+    },
+    {
+      "added_at": "2023-02-22 20:44:20",
+      "album": {
         "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
         "url": "https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm"
       },
@@ -611,22 +643,6 @@
     {
       "added_at": "2023-02-22 20:44:20",
       "album": {
-        "name": "Yawman Ma",
-        "url": "https://open.spotify.com/album/7gRVnSkXghsBft2P4K8Ycy"
-      },
-      "artists": [
-        {
-          "name": "Julia Boutros",
-          "url": "https://open.spotify.com/artist/1MBqKgaBet9mU8vI0hqj6c"
-        }
-      ],
-      "duration_ms": 202422,
-      "name": "Yawman Ma",
-      "url": "https://open.spotify.com/track/3gucBOpDuQQkemmVE2NtEQ"
-    },
-    {
-      "added_at": "2023-02-22 20:44:20",
-      "album": {
         "name": "El Album",
         "url": "https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 231177,
       "name": "Fakra",
       "url": "https://open.spotify.com/track/0fVLZtZn8gp3KLtDhXDIRq"
-    },
-    {
-      "added_at": "2023-02-22 20:44:20",
-      "album": {
-        "name": "Weino",
-        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
-      },
-      "artists": [
-        {
-          "name": "Dana Salah",
-          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
-        }
-      ],
-      "duration_ms": 145871,
-      "name": "Weino",
-      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
     },
     {
       "added_at": "2023-02-22 20:44:20",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-02-22 20:44:20",
       "album": {
+        "name": "Weino",
+        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "duration_ms": 145871,
+      "name": "Weino",
+      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
+    },
+    {
+      "added_at": "2023-02-22 20:44:20",
+      "album": {
         "name": "\u0646\u0633\u0627\u0649",
         "url": "https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 301191,
       "name": "\u0628\u062d\u0628\u0643 \u0645\u0646 \u0632\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/3ZSch1osGSHoo0QnVFOqhg"
-    },
-    {
-      "added_at": "2023-02-22 20:44:20",
-      "album": {
-        "name": "Shahrazad (Live)",
-        "url": "https://open.spotify.com/album/7Bp5hg6TqzX9wcxBn3WEfR"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 211617,
-      "name": "Habbaitak Be El Saif - Live",
-      "url": "https://open.spotify.com/track/1QJ2l3k2BFJypRUT5M4mLg"
     },
     {
       "added_at": "2023-02-22 20:44:20",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-02-22 20:44:20",
       "album": {
-        "name": "Hobb W Mkattar",
-        "url": "https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0"
-      },
-      "artists": [
-        {
-          "name": "Joseph Attieh",
-          "url": "https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo"
-        }
-      ],
-      "duration_ms": 212767,
-      "name": "Weilak Acoustik",
-      "url": "https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0"
-    },
-    {
-      "added_at": "2023-02-22 20:44:20",
-      "album": {
         "name": "A Sea Between Us",
         "url": "https://open.spotify.com/album/6noo6zD7yYBk2tF9fzWrce"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 237127,
       "name": "Fi Al Tariki Ilaik",
       "url": "https://open.spotify.com/track/55syUs2h389vqBFEVL2kMM"
+    },
+    {
+      "added_at": "2023-02-22 20:44:20",
+      "album": {
+        "name": "Hobb W Mkattar",
+        "url": "https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0"
+      },
+      "artists": [
+        {
+          "name": "Joseph Attieh",
+          "url": "https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo"
+        }
+      ],
+      "duration_ms": 212767,
+      "name": "Weilak Acoustik",
+      "url": "https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0"
     },
     {
       "added_at": "2023-02-22 20:44:20",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-02-22 20:44:20",
       "album": {
-        "name": "Adaysh Kan Fe Nas (Lo-fi remix)",
-        "url": "https://open.spotify.com/album/7G1AD6m0P2vgNl22TAj3D4"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 169820,
-      "name": "Adaysh Kan Fe Nas - Lo-fi remix",
-      "url": "https://open.spotify.com/track/2iuis9F4yWYYxVGwkPLV7c"
-    },
-    {
-      "added_at": "2023-02-22 20:44:20",
-      "album": {
         "name": "HANNET LEKLOUB",
         "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 235026,
       "name": "Sucre",
       "url": "https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq"
+    },
+    {
+      "added_at": "2023-02-22 20:44:20",
+      "album": {
+        "name": "Adaysh Kan Fe Nas (Lo-fi remix)",
+        "url": "https://open.spotify.com/album/7G1AD6m0P2vgNl22TAj3D4"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 169820,
+      "name": "Adaysh Kan Fe Nas - Lo-fi remix",
+      "url": "https://open.spotify.com/track/2iuis9F4yWYYxVGwkPLV7c"
     },
     {
       "added_at": "2023-02-22 20:44:20",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-02-22 20:44:20",
       "album": {
-        "name": "Ll Abad",
-        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
-      },
-      "artists": [
-        {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
-        }
-      ],
-      "duration_ms": 212476,
-      "name": "Ll Abad",
-      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
-    },
-    {
-      "added_at": "2023-02-22 20:44:20",
-      "album": {
         "name": "\u062f\u0628\u0631\u0647\u0627",
         "url": "https://open.spotify.com/album/3xNm30FkT7VJxtAgqtMUfs"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 289320,
       "name": "\u062f\u0628\u0631\u0647\u0627",
       "url": "https://open.spotify.com/track/4kAxcZDaVmVNgEAsTRfL8l"
+    },
+    {
+      "added_at": "2023-02-22 20:44:20",
+      "album": {
+        "name": "Ll Abad",
+        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
+      },
+      "artists": [
+        {
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+        }
+      ],
+      "duration_ms": 212476,
+      "name": "Ll Abad",
+      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
     },
     {
       "added_at": "2023-02-22 20:44:20",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-02-22 20:44:20",
       "album": {
-        "name": "Mustaheel",
-        "url": "https://open.spotify.com/album/43KCM5CLKO7V6kgLYpUP65"
+        "name": "Ana Moush Kafer",
+        "url": "https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N"
       },
       "artists": [
         {
-          "name": "Dana Salah",
-          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+          "name": "Ziad Rahbani",
+          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
         }
       ],
-      "duration_ms": 189332,
-      "name": "Mustaheel",
-      "url": "https://open.spotify.com/track/2ycSFamPmfqPFFr10kYkX0"
+      "duration_ms": 346800,
+      "name": "Shou Hal Ayyam - 2008 Remastered",
+      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
       "added_at": "2023-02-22 20:44:20",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-02-22 20:44:20",
       "album": {
+        "name": "Mustaheel",
+        "url": "https://open.spotify.com/album/43KCM5CLKO7V6kgLYpUP65"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "duration_ms": 189332,
+      "name": "Mustaheel",
+      "url": "https://open.spotify.com/track/2ycSFamPmfqPFFr10kYkX0"
+    },
+    {
+      "added_at": "2023-02-22 20:44:20",
+      "album": {
         "name": "Denia Dour",
         "url": "https://open.spotify.com/album/7i0pjCbQ3amgxYoawJCx5o"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 330152,
       "name": "Denia Dour",
       "url": "https://open.spotify.com/track/6BLSn19vlhGLwoQWmPaDUc"
-    },
-    {
-      "added_at": "2023-02-22 20:44:20",
-      "album": {
-        "name": "Ana Moush Kafer",
-        "url": "https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N"
-      },
-      "artists": [
-        {
-          "name": "Ziad Rahbani",
-          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Shou Hal Ayyam - 2008 Remastered",
-      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
       "added_at": "2023-02-22 20:44:20",
@@ -1643,22 +1643,18 @@
     {
       "added_at": "2023-02-22 20:44:20",
       "album": {
-        "name": "Morabeza",
-        "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
+        "name": "Caf\u00e9 Sessions",
+        "url": "https://open.spotify.com/album/5SSTPqEYSx9SlO8AFx3nwg"
       },
       "artists": [
         {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
-        },
-        {
-          "name": "Lotfi Bouchnak",
-          "url": "https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z"
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
         }
       ],
-      "duration_ms": 217973,
-      "name": "Ahwak (feat. Lotfi Bouchnak)",
-      "url": "https://open.spotify.com/track/2ChYfZwRqh3Es64zijiaM1"
+      "duration_ms": 232456,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4Uag89IBUeSUvugURZaLnl"
     },
     {
       "added_at": "2023-02-22 20:44:20",
@@ -1695,18 +1691,22 @@
     {
       "added_at": "2023-02-22 20:44:20",
       "album": {
-        "name": "Caf\u00e9 Sessions",
-        "url": "https://open.spotify.com/album/5SSTPqEYSx9SlO8AFx3nwg"
+        "name": "Morabeza",
+        "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
       },
       "artists": [
         {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
+        },
+        {
+          "name": "Lotfi Bouchnak",
+          "url": "https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z"
         }
       ],
-      "duration_ms": 232456,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4Uag89IBUeSUvugURZaLnl"
+      "duration_ms": 217973,
+      "name": "Ahwak (feat. Lotfi Bouchnak)",
+      "url": "https://open.spotify.com/track/2ChYfZwRqh3Es64zijiaM1"
     }
   ],
   "unique_name": "Arabic Coffee",

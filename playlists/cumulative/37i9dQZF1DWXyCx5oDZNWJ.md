@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-70 songs - 5 hr 49 min
+71 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Lemon](https://open.spotify.com/track/1PnlvZaeW7B3gWOpIoQDfd) | [Bachar Mar\-Khalifé](https://open.spotify.com/artist/76ses8Vy3hRpmyHgWl8lQm) | [Ya Balad](https://open.spotify.com/album/7e1nm4faKBUWnf7aeOwWnB) | 4:07 | 2022-05-30 |  |
 | [Let The Sunshine In](https://open.spotify.com/track/2QK3MvIBtg6ofQXzx71soX) | [Galt MacDermot](https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr) | [Up From The Basement \- Unreleased Tracks \- Volumes 1 & 2](https://open.spotify.com/album/2l6jlkSuortxDkuCnEay4s) | 2:39 | 2022-09-26 |  |
 | [Letters \- Live Album](https://open.spotify.com/track/4BaVbqCcgeFhjdRLaSatHr) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 7:23 | 2022-05-30 |  |
-| [Leyla](https://open.spotify.com/track/4eFpbqTU7dxZbgoPM0IK2u) | [TAXI KEBAB](https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy) | [Visions al 2ard](https://open.spotify.com/album/4BPq6ZWRjjISqrotjbQ3ZN) | 5:50 | 2022-10-04 |  |
+| [Leyla](https://open.spotify.com/track/4eFpbqTU7dxZbgoPM0IK2u) | [TAXI KEBAB](https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy) | [Visions al 2ard](https://open.spotify.com/album/4BPq6ZWRjjISqrotjbQ3ZN) | 5:50 | 2022-10-04 | 2023-02-24 |
+| [Leyla](https://open.spotify.com/track/7Dgz9NnvhfvRg1KPNXHv76) | [TAXI KEBAB](https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy) | [Visions al 2ard](https://open.spotify.com/album/5s7h3f2ogMTfXPRZy1wace) | 5:50 | 2022-10-04 |  |
 | [Lmchi w Rjou3](https://open.spotify.com/track/25NuCWQ4cIxmwxRHMZ0C4L) | [TAXI KEBAB](https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy) | [Lmchi w Rjou3](https://open.spotify.com/album/6T5BcuQisJcN2E4O6BmRDk) | 6:25 | 2022-05-30 |  |
 | [Lungern](https://open.spotify.com/track/1YcVNVNfVhLM9hUVlQegcq) | [Metatext](https://open.spotify.com/artist/5GAi17x2CbRYk9666aI8AE), [Karhua](https://open.spotify.com/artist/4WpXpjCzWK85EDjlB06Qq2) | [Lungern](https://open.spotify.com/album/2UiXPLfMYMEBAVlct1ao5y) | 8:42 | 2022-05-30 |  |
 | [Madlen \- Shkoon Live Album Remix](https://open.spotify.com/track/0s0MWdn38b6KNkRd28PSQE) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv), [Detmolt](https://open.spotify.com/artist/1pvZ8oYPlgarVqgt3YT04D) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 6:35 | 2022-05-30 |  |

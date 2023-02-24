@@ -4,7 +4,7 @@
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS?si=LsiXeXHtRJKZdTacWbURoA">Gevoel van Veiligheid</a>
 
-198 songs - 11 hr 49 min
+199 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Fight For Me](https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Fight For Me](https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta) | 3:46 | 2022-11-24 |  |
 | [Fight Song for a Funeral](https://open.spotify.com/track/1RDxGpz9HVRfhc966hUCa2) | [Jake Bennett](https://open.spotify.com/artist/3chSPsmCBrOXJXD4o86p5Y) | [Fight Songs for a Funeral](https://open.spotify.com/album/7z250E9LHwElD5B7DmbZNN) | 2:41 | 2021-11-25 | 2022-05-27 |
 | [Flashlight](https://open.spotify.com/track/4Wyp39FezkRqfmm1m862ve) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Flashlight](https://open.spotify.com/album/6GfNLxzDAHsoYuVBylzslj) | 2:37 | 2021-07-01 | 2022-11-18 |
+| [For the Pain](https://open.spotify.com/track/2PQ7EO8J48fdluJVXHCcBi) | [Hawema](https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK) | [For the Pain](https://open.spotify.com/album/62lgMNaKQtizxmRYQSQu4I) | 4:01 | 2023-02-23 |  |
 | [For You](https://open.spotify.com/track/4MVv8yUbBY2ISaZnCXSp1c) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [For You](https://open.spotify.com/album/3gsHYTOr6ItG0LhHhj6S4J) | 3:34 | 2021-06-10 | 2022-03-04 |
 | [Get Over Here](https://open.spotify.com/track/4hOMIOJ0aQCFDv14JMFNva) | [Aimee deBeer](https://open.spotify.com/artist/3c3FUUJYZOv8Le1htg2Gl6) | [Get Over Here](https://open.spotify.com/album/26wwYmk7xmAl7YaTNZjhQ8) | 3:16 | 2022-05-26 | 2023-02-03 |
 | [Get Over Here](https://open.spotify.com/track/6DuZOFGc4LBr0HSbbd03q3) | [Aimee deBeer](https://open.spotify.com/artist/3c3FUUJYZOv8Le1htg2Gl6) | [Get Over Here](https://open.spotify.com/album/23aiLlsImhhiuCfYGcBpfC) | 3:16 | 2022-05-26 | 2023-01-28 |
@@ -169,7 +170,7 @@
 | [Soul Parasite](https://open.spotify.com/track/3iRDYHlQZqw3B4SQJqAREz) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Shelter Of Bones](https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr) | 3:31 | 2022-02-25 | 2022-11-25 |
 | [Stars](https://open.spotify.com/track/2FWNe8tTLt0bCJBOY9nPWc) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Stars](https://open.spotify.com/album/7gx4tHQGiQWj7JP0McroDJ) | 5:16 | 2023-01-12 |  |
 | [State of Emergency](https://open.spotify.com/track/14DeZipuC3gNdBBrKXnoSN) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [State of Emergency](https://open.spotify.com/album/307UnF5MmOp0ilqPRPqGIj) | 3:12 | 2021-10-14 | 2022-03-25 |
-| [Stay](https://open.spotify.com/track/1pc4xCCi7VhemQGSk8eQyz) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Stay](https://open.spotify.com/album/41bORE1k7ez2pWNJDXz0Ls) | 3:16 | 2022-09-22 |  |
+| [Stay](https://open.spotify.com/track/1pc4xCCi7VhemQGSk8eQyz) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Stay](https://open.spotify.com/album/41bORE1k7ez2pWNJDXz0Ls) | 3:16 | 2022-09-22 | 2023-02-24 |
 | [Suburban Casualty](https://open.spotify.com/track/0dfdQeAFmqYU73QISETk7K) | [Julian Place](https://open.spotify.com/artist/0l5bLIu2lwaoE2Jp15kVcr) | [Suburban Casualty](https://open.spotify.com/album/7tUR8nLZ32a4UoimsM3hmI) | 3:54 | 2022-12-08 |  |
 | [Sugar](https://open.spotify.com/track/2zFcrZtmrvIftt0ZDcm6BI) | [Hellcats](https://open.spotify.com/artist/2AowMnfwcOgR3RuSuM8Hu8) | [Sugar](https://open.spotify.com/album/1OOERXBgIWpe4b2G0I6bpJ) | 2:57 | 2022-07-28 | 2022-09-16 |
 | [Sugar Tits](https://open.spotify.com/track/4zvgJZD3bm6V4axDHFErc3) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Sugar Tits](https://open.spotify.com/album/7pc2tW0f3iIfBeBjDmGQzv) | 3:27 | 2022-12-15 |  |

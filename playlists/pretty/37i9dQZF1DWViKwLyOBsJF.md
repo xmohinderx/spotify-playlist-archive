@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,569 likes - 58 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,562 likes - 58 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 6 | [Candlelight Carol](https://open.spotify.com/track/79iIraI9M4e0zWht6rE50N) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [Candlelight Carol](https://open.spotify.com/album/1Dttw1GpfmxFcz48e46STq) | 2:47 |
 | 7 | [Hark! the Herald Angels Sing](https://open.spotify.com/track/6UJEo8y9mfG7oymaDrsVXM) | [Sarah Brooks](https://open.spotify.com/artist/7d0kRVs5S78oKXf98cUDaN) | [Simply Christmas: Instrumental Hymns](https://open.spotify.com/album/0E4NGHzqWYQjxT26ldESgq) | 1:57 |
 | 8 | [Star of Bethlehem](https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa) | [Emma Shynes](https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd) | [Star of Bethlehem](https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8) | 3:07 |
-| 9 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2Er9oTJkPruq8pao8aZY8s) | [J.L\. Marshall](https://open.spotify.com/artist/2hNdUwIbMMpMPG2jWfE6ZB) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/5xRd9gJJ47uB3cXtMqw741) | 1:28 |
+| 9 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2Er9oTJkPruq8pao8aZY8s) | [J\. L\. Marshall](https://open.spotify.com/artist/05f0QRzwQpjLRJwTdQgDZw) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/5xRd9gJJ47uB3cXtMqw741) | 1:28 |
 | 10 | [What Sweeter Music](https://open.spotify.com/track/0vm7QUQN5oSsgCpTaktYvm) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [What Sweeter Music](https://open.spotify.com/album/5VYwzFtbdFy2k6RfpmWsM7) | 4:17 |
 | 11 | [Do You Hear What I Hear](https://open.spotify.com/track/4cchwOn0AJBffk0mlB8wmU) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA) | 3:20 |
 | 12 | [O Tannenbaum](https://open.spotify.com/track/6x3dy83g7vEmzd6z8wCVhK) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas](https://open.spotify.com/album/4dZqm3SWryHNPXOPJ39AyP) | 2:30 |

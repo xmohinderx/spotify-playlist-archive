@@ -4,7 +4,7 @@
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-397 songs - 1 day 0 hr 34 min
+398 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Eternal War](https://open.spotify.com/track/4GbKhGW7d0Ws0i5kxku93w) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:51 | 2021-03-04 | 2022-07-17 |
 | [Eternal Wind](https://open.spotify.com/track/0h3d5omX65lyQYIvJBSeIi) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY III Original Soundtrack](https://open.spotify.com/album/0iprVXbUq6snKAsA8rs9Nd) | 2:07 | 2021-03-04 | 2022-07-25 |
 | [Eternal Wind](https://open.spotify.com/track/2jQ20WnfWVj9RpHByx2PxU) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Before the Fall: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/49PRWA2vUs2zT6jlq8RC4Q) | 2:39 | 2021-03-04 | 2022-05-04 |
+| [Eternal Wind \(Shadowbringers\)](https://open.spotify.com/track/5R2gM423aLbziPUQbi7Yp4) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [DEATH UNTO DAWN: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/0hGoHb95AIckR7hpOdCW3B) | 4:13 | 2023-02-16 |  |
 | [Etro's Champion](https://open.spotify.com/track/0UnLSoBCuWmXispMXLORUk) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 2:16 | 2021-03-04 | 2022-07-24 |
 | [Etro's Gate](https://open.spotify.com/track/5rAVJFR4N8Vdl3GzVkEKnN) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 2:11 | 2021-03-04 | 2022-06-27 |
 | [Exponential Entropy](https://open.spotify.com/track/3F4cqD06f83w9d2Rhxrl0e) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [THE FAR EDGE OF FATE:FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/73mih5aIcuQ4OaQLI7O0X9) | 6:25 | 2021-03-04 | 2022-07-28 |
@@ -312,7 +313,7 @@
 | [The Darkness of Eternity](https://open.spotify.com/track/0eTWA3vVsiklykNrFq1Odx) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 4:43 | 2021-03-04 | 2022-06-28 |
 | [The Decisive Battle](https://open.spotify.com/track/459meHLoi2qIoAAamGCc0x) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VI Original Soundtrack](https://open.spotify.com/album/76XVjMzhQNv2pOQF3WVmeY) | 2:01 | 2021-03-04 | 2022-07-26 |
 | [The Extreme](https://open.spotify.com/track/575HenEhvSLhjbBLYFDp3D) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn) | 6:44 | 2021-03-04 | 2022-07-15 |
-| [The Extreme \(Shadowbringers\)](https://open.spotify.com/track/1FdzlzRBHKHpKRtdoxCYSs) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [DEATH UNTO DAWN: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/0hGoHb95AIckR7hpOdCW3B) | 6:40 | 2023-02-16 |  |
+| [The Extreme \(Shadowbringers\)](https://open.spotify.com/track/1FdzlzRBHKHpKRtdoxCYSs) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [DEATH UNTO DAWN: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/0hGoHb95AIckR7hpOdCW3B) | 6:40 | 2023-02-16 | 2023-02-24 |
 | [The Fight Is On!](https://open.spotify.com/track/7nanrejhuahFvGDWnySlWc) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 2:48 | 2021-03-04 | 2022-07-18 |
 | [The Final Battle](https://open.spotify.com/track/59JShbQbDMfDTVWsLEj7HX) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY IV Original Soundtrack](https://open.spotify.com/album/55779J248b7xDIJd3iExEn) | 1:55 | 2021-03-04 | 2022-07-26 |
 | [The Fire Within](https://open.spotify.com/track/08Hkeo2DqsmYWuY9QOg3e9) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 4:56 | 2021-03-04 |  |

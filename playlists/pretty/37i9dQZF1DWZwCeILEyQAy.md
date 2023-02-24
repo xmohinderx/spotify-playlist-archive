@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Gloss Up
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,347 likes - 65 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,333 likes - 65 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 5 | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/3eYKjONrNl5fAsOTGogSNL) | 2:26 |
 | 6 | [Juju](https://open.spotify.com/track/7xuESPkxcB2GjA4uCRabC8) | [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Juju](https://open.spotify.com/album/6iLM2134dGaPKx3eWCyNC0) | 3:07 |
 | 7 | [Pretty Vibes](https://open.spotify.com/track/59bRbYnpBFLoX7b3RSMqbq) | [Destinee Lynn](https://open.spotify.com/artist/7JSfvsQiJjdbYMRDMv1q17) | [Pretty Vibes](https://open.spotify.com/album/0JJyVE0TOhxn96dp1YgsOY) | 2:19 |
-| 8 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 |
+| 8 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 |
 | 9 | [Texture](https://open.spotify.com/track/6PVRA5iRJrIEMTGwx45yoA) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Texture](https://open.spotify.com/album/25wwmPMZFuMCFYdholXIIL) | 3:32 |
 | 10 | [Anxiety](https://open.spotify.com/track/6Ve9MNsl8OFg6rHd227bYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:15 |
 | 11 | [What Else](https://open.spotify.com/track/5k6stJRSOD9F1jYivysx9d) | [Siya](https://open.spotify.com/artist/7vtukebvL7Is8L5JvgTLDR) | [Mixed Emotions](https://open.spotify.com/album/6GDawZmfq01NBqwK2eQHul) | 3:05 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 64 | [Glass Slipper Flows](https://open.spotify.com/track/3vErHLskgUGG6CRu07Aggn) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX) | [Glass Slipper Flows](https://open.spotify.com/album/0o4eULaAwjLBMR2Ut7oiRq) | 4:43 |
 | 65 | [Mel Gibson](https://open.spotify.com/track/7zMJKI6mD8IaThzNTNXNeY) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f) | [THE LIZ 2](https://open.spotify.com/album/1dqLryXYQroTAyTfGfb6F0) | 2:11 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDg5YzY4NjAwYjA2ZmNkZWViYTdkMTRjMDUyZGFjMmNh`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDQ3OGU3OTc3NTc0ODU0Mzk4MTZiNjY1M2Y0YTQ5MWYx`
