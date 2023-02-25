@@ -4,7 +4,7 @@
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-88 songs - 5 hr 38 min
+89 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,8 +70,9 @@
 | [Por Tu Amor](https://open.spotify.com/track/2IvOjXrJCmttHX8cSKFKbs) | [Autocontrol](https://open.spotify.com/artist/0th5G3uzu7mi4Co4BEMLLZ) | [Sueños](https://open.spotify.com/album/43Py5L7PwKFmNnouXrdpk6) | 4:29 | 2022-04-01 |  |
 | [Pronóstico Reservado](https://open.spotify.com/track/0r3r6idica0ZQMUPOzO6w0) | [La Banda Azul](https://open.spotify.com/artist/6egHTp2ACHZXellZBMPXGS) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0sKdSlr1ui53Ar4hX71Ntd) | 2:50 | 2022-04-01 | 2023-02-24 |
 | [Pronóstico Reservado](https://open.spotify.com/track/7GQX7wuSBQcQfkMcWFeblQ) | [La Banda Azul](https://open.spotify.com/artist/6egHTp2ACHZXellZBMPXGS) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0MFkglbEJAh1dT5D6Q9Rd7) | 2:50 | 2022-04-01 |  |
-| [Quién Me Entiende](https://open.spotify.com/track/2jHCuQ38CWKqSMUAH5jlp1) | [Calle Sexta](https://open.spotify.com/artist/1hVQbWUjkv6qGzQQ59Dvui) | [Más Peruanos Que el Rock, Vol\. 2](https://open.spotify.com/album/7nFEFppkVpb6SYDDnBFqjJ) | 3:20 | 2022-04-01 |  |
+| [Quién Me Entiende](https://open.spotify.com/track/2jHCuQ38CWKqSMUAH5jlp1) | [Calle Sexta](https://open.spotify.com/artist/1hVQbWUjkv6qGzQQ59Dvui) | [Más Peruanos Que el Rock, Vol\. 2](https://open.spotify.com/album/7nFEFppkVpb6SYDDnBFqjJ) | 3:20 | 2022-04-01 | 2023-02-25 |
 | [Quién Me Entiende](https://open.spotify.com/track/1w2xzpR1rJiwpla80cwTP3) | [Calle Sexta](https://open.spotify.com/artist/1hVQbWUjkv6qGzQQ59Dvui) | [Más Peruanos Que el Rock, Vol\. 2](https://open.spotify.com/album/7iEEgIff9HCNt7LkweBlMj) | 3:22 | 2022-04-01 | 2022-11-03 |
+| [Quién Me Entiende](https://open.spotify.com/track/3DTSKEFDbHZQHJOL3NoaaB) | [Calle Sexta](https://open.spotify.com/artist/1hVQbWUjkv6qGzQQ59Dvui) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0MFkglbEJAh1dT5D6Q9Rd7) | 3:22 | 2022-04-01 |  |
 | [Quédate](https://open.spotify.com/track/5WbgDeqVRo5C6mzJYIxlHn) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Aquí y Ahora](https://open.spotify.com/album/0xvLmAbqSOxIbRLJmWaIiQ) | 3:37 | 2022-04-01 |  |
 | [Si Me Dejas Ahora](https://open.spotify.com/track/0Bbk8jjpxm9XllmcLAeLaH) | [Los Trece Baladas](https://open.spotify.com/artist/4GLu0ai9hvNL68OEgIj6KX) | [Lo Que un Día Fue..\. No Será](https://open.spotify.com/album/1sh7DEeT2lk832ABzr0EWN) | 3:36 | 2022-04-01 |  |
 | [Si Me Dejas Ahora](https://open.spotify.com/track/4URtkZSGiMU34Xlb5SLEu9) | [Manolo Barrios](https://open.spotify.com/artist/3tFoSmy4nON03zy1haFag0), [Toto Leverone](https://open.spotify.com/artist/7aBKFX3XH8ScdsrFRGOS4U) | [Los Trece Baladas: Lo Que un Día Fue..\. No Será](https://open.spotify.com/album/79iqkpHLegArgR3PEwGwax) | 3:36 | 2022-04-01 | 2022-07-29 |

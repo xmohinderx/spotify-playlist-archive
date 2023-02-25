@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/03SZu9HWFflNolfOPvGBZh"
+      },
+      "artists": [
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93455,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/05pNbOo1JceQ07WWGXcyPg"
+    },
+    {
+      "album": {
         "name": "16CHOPPA (feat. Nardo Wick)",
         "url": "https://open.spotify.com/album/3oRxb1TVeDnj7XdvPa7eZk"
       },
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 111599,
       "name": "Back In Action",
       "url": "https://open.spotify.com/track/08iGIK9Nw2gHeVdFsnsquc"
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 184900,
       "name": "Can't Change For You (feat. charlieonnafriday & Arden Jones)",
       "url": "https://open.spotify.com/track/103iTEPJwc4MththlvRakh"
@@ -3494,7 +3512,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 242800,
       "name": "Da Rant",
       "url": "https://open.spotify.com/track/6N8OxmReKE2Qg0SY2x6gDD"
@@ -5052,6 +5070,24 @@
       "duration_ms": 202783,
       "name": "Fantasy (feat. Offset)",
       "url": "https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM"
+    },
+    {
+      "album": {
+        "name": "Favorite Song",
+        "url": "https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208630,
+      "name": "Favorite Song",
+      "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
     },
     {
       "album": {
@@ -7736,6 +7772,10 @@
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
         }
       ],
       "date_added": "2023-02-03",
@@ -8056,6 +8096,28 @@
       "duration_ms": 117000,
       "name": "KAPITOL DENIM",
       "url": "https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ"
+    },
+    {
+      "album": {
+        "name": "GAULTIER (Bonus Version)",
+        "url": "https://open.spotify.com/album/2vPzsbsJmgu7HmexuicDHM"
+      },
+      "artists": [
+        {
+          "name": "tana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106262,
+      "name": "katch me outside (with Trippie Redd)",
+      "url": "https://open.spotify.com/track/28wDfcOW8mrowkI5JfMWZO"
     },
     {
       "album": {
@@ -8443,6 +8505,24 @@
     },
     {
       "album": {
+        "name": "Leather Belt",
+        "url": "https://open.spotify.com/album/6JLSLzNZlo1TOVorgew4c0"
+      },
+      "artists": [
+        {
+          "name": "DCG BROTHERS",
+          "url": "https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189113,
+      "name": "Leather Belt",
+      "url": "https://open.spotify.com/track/1uEzrWbDQqZJKMC1yUuNq4"
+    },
+    {
+      "album": {
         "name": "PRESCRIBED OVERDOSE",
         "url": "https://open.spotify.com/album/6Z6nRjRrfbP1RwzI730m7i"
       },
@@ -8668,7 +8748,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 127397,
       "name": "Letter 2 Notti",
       "url": "https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0"
@@ -8762,7 +8842,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 154000,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/6k0uXMxdOgkz4w3fCKB2iX"
@@ -9542,7 +9622,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 122718,
       "name": "MIA",
       "url": "https://open.spotify.com/track/66BoIQExCIsSmJ6H5zZTZg"
@@ -9968,7 +10048,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 142846,
       "name": "Mr. Hanky",
       "url": "https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l"
@@ -11913,6 +11993,24 @@
     },
     {
       "album": {
+        "name": "Out of State",
+        "url": "https://open.spotify.com/album/0Cy2QYq6hBh1Y5R21xmlpm"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Out of State",
+      "url": "https://open.spotify.com/track/5xsr3QA0kvK4VFADzbUhUt"
+    },
+    {
+      "album": {
         "name": "Out of Time",
         "url": "https://open.spotify.com/album/72SRRaSf8OEru4ewgAK0UM"
       },
@@ -11928,6 +12026,24 @@
       "duration_ms": 117543,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/27feJmQBpvsnW4tC4M7pw4"
+    },
+    {
+      "album": {
+        "name": "Out On Bond",
+        "url": "https://open.spotify.com/album/1rM3JOw6PilCUL4GXU0WCi"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80352,
+      "name": "Out On Bond",
+      "url": "https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt"
     },
     {
       "album": {
@@ -12238,7 +12354,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 145688,
       "name": "Paraphernalia 2.0 (feat. G Herbo)",
       "url": "https://open.spotify.com/track/5vGKgOsISQNVqAjIRwdry5"
@@ -12603,6 +12719,24 @@
     },
     {
       "album": {
+        "name": "Pop Ya Shit (Freestyle)",
+        "url": "https://open.spotify.com/album/2Z8qn8JdWL7AWdwvwLIGhc"
+      },
+      "artists": [
+        {
+          "name": "Lady London",
+          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98533,
+      "name": "Pop Ya Shit (Freestyle)",
+      "url": "https://open.spotify.com/track/26JsQSJmZPZb0XpNqaGUht"
+    },
+    {
+      "album": {
         "name": "2 Aliv\u00eb",
         "url": "https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u"
       },
@@ -12618,6 +12752,28 @@
       "duration_ms": 167186,
       "name": "Poppin",
       "url": "https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW"
+    },
+    {
+      "album": {
+        "name": "Poppin (feat. Lil Tecca)",
+        "url": "https://open.spotify.com/album/2cUwAy0kZRzyfqgki1Z74B"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173806,
+      "name": "Poppin (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/2QFkYE7FjOYVTWhLrB9GwH"
     },
     {
       "album": {
@@ -13647,6 +13803,24 @@
     },
     {
       "album": {
+        "name": "Ridgemont Baby",
+        "url": "https://open.spotify.com/album/0v8C3sUbtUgFKBBuQc3nBD"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Ridgemont Baby",
+      "url": "https://open.spotify.com/track/24auUYE1W2wQmHiOqJSBhy"
+    },
+    {
+      "album": {
         "name": "Ridin",
         "url": "https://open.spotify.com/album/30eonPnNXrSWy4BLnPZktk"
       },
@@ -13873,6 +14047,28 @@
     },
     {
       "album": {
+        "name": "Rodeo (Remix)",
+        "url": "https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq"
+      },
+      "artists": [
+        {
+          "name": "Lah Pat",
+          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245959,
+      "name": "Rodeo (Remix)",
+      "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
+    },
+    {
+      "album": {
         "name": "ROKU",
         "url": "https://open.spotify.com/album/5LQ2K1eNWz1zkdl0KVSofQ"
       },
@@ -14084,7 +14280,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 179240,
       "name": "RuleBook",
       "url": "https://open.spotify.com/track/34wuoBWblZ4uwNSO5eTagY"
@@ -14310,6 +14506,24 @@
       "duration_ms": 198454,
       "name": "Schizo",
       "url": "https://open.spotify.com/track/054r8OGdFn2avWEawNnAdL"
+    },
+    {
+      "album": {
+        "name": "Score Or Die",
+        "url": "https://open.spotify.com/album/181lAFIxJUTVwxU244eJs8"
+      },
+      "artists": [
+        {
+          "name": "Rundown Choppaboy",
+          "url": "https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163872,
+      "name": "Score Or Die",
+      "url": "https://open.spotify.com/track/6VLv4EhaNR5SRfVEpleoWs"
     },
     {
       "album": {
@@ -14930,7 +15144,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 150588,
       "name": "Sko",
       "url": "https://open.spotify.com/track/7Atyu3gAjkdmxYt0kZawgX"
@@ -16140,7 +16354,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 137115,
       "name": "Tell Me (feat. ATL Jacob)",
       "url": "https://open.spotify.com/track/0v4se3cJ1ol7zihw1sOXEB"
@@ -16252,7 +16466,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 109435,
       "name": "Temper",
       "url": "https://open.spotify.com/track/6fXhozDwpdQEUKhq5Ak0mz"
@@ -16584,6 +16798,42 @@
       "duration_ms": 201420,
       "name": "Throw'd As It Gets (Remix)[Feat. Maxo Kream]",
       "url": "https://open.spotify.com/track/7zSSH0SSoU3jOUT6gbd1uA"
+    },
+    {
+      "album": {
+        "name": "Thug Baby",
+        "url": "https://open.spotify.com/album/7tCNeY4GFxcqThtHuiq6nq"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129024,
+      "name": "Thug Baby",
+      "url": "https://open.spotify.com/track/2nEyZM4iSPuee4dYpedJ4t"
+    },
+    {
+      "album": {
+        "name": "Thug Like Me",
+        "url": "https://open.spotify.com/album/2vx6gCFc96sgM3to951iuc"
+      },
+      "artists": [
+        {
+          "name": "Soldier Kidd",
+          "url": "https://open.spotify.com/artist/7BA072InWOjB1X7MZGOloy"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137007,
+      "name": "Thug Like Me",
+      "url": "https://open.spotify.com/track/2nbxCY07NE3meTIUEBv8ZH"
     },
     {
       "album": {
@@ -18070,7 +18320,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 177222,
       "name": "Whippin It",
       "url": "https://open.spotify.com/track/1FukL3J30psHixQeIdN0ed"
@@ -18318,7 +18568,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 116250,
       "name": "Win For Losin",
       "url": "https://open.spotify.com/track/5FwOCUkCwiglj4MwGn04tB"

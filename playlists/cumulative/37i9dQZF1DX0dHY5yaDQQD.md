@@ -4,7 +4,7 @@
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-170 songs - 12 hr 41 min
+171 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [The Future is Female](https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Diavoli](https://open.spotify.com/album/5bGud6uErdBVZbwUqBlIvc) | 5:24 | 2022-02-18 |  |
 | [The need to avoid](https://open.spotify.com/track/25PIpJMhgUa85Yaz7nvUxV) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Projections](https://open.spotify.com/album/1jLpg42UwBnazMOIgAZtRQ) | 3:08 | 2022-02-18 | 2022-07-30 |
 | [The Witness](https://open.spotify.com/track/5dna0ShfmtsCcgZfi8pEjl) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [The Witness](https://open.spotify.com/album/2agQCuwawKF5udp9i3wD9t) | 7:03 | 2022-02-18 | 2022-07-30 |
-| [There U'Go Boi](https://open.spotify.com/track/4g3E15psqGmFo7DtCcar3i) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Legacy](https://open.spotify.com/album/7aiZNOEqeeN6muKostcqJC) | 4:19 | 2022-08-11 |  |
+| [There U'Go Boi](https://open.spotify.com/track/4g3E15psqGmFo7DtCcar3i) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Legacy](https://open.spotify.com/album/7aiZNOEqeeN6muKostcqJC) | 4:19 | 2022-08-11 | 2023-02-25 |
+| [There U'go Boi](https://open.spotify.com/track/5jeJMqYK9OionveErndSBa) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Legacy](https://open.spotify.com/album/22G89plPWhZKj8fa87IiZl) | 4:19 | 2022-09-16 |  |
 | [Tinsel Teeth](https://open.spotify.com/track/0uFX5UEW0EZfuIvyWWsbLk) | [Kilbourne](https://open.spotify.com/artist/2puJJyoBDCIvN9N7M4yRh3) | [Tinsel Teeth](https://open.spotify.com/album/15JsxKquneMjlzZGL0rfrn) | 4:56 | 2022-02-18 |  |
 | [Trust me](https://open.spotify.com/track/7pZLO4oJ38FKtBt9yfOMkO) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Trust me](https://open.spotify.com/album/6Qv0SHKHK3U6jZfYo7ALcK) | 1:49 | 2022-02-18 | 2022-07-30 |
 | [Tutti Rutti](https://open.spotify.com/track/1p1oRgpvthwtOAtt48r1Dy) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Hungry Beats](https://open.spotify.com/artist/4120OK88Qq7ipIhxGHpHEY) | [Tutti Rutti](https://open.spotify.com/album/4lJQbfLroaRc6EK8cXxE02) | 2:13 | 2022-02-18 | 2022-07-30 |

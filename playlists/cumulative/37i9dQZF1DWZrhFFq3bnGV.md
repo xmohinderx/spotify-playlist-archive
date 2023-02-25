@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Ivan Tangkulung, Gerald Situmorang
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Bintang Indrianto
 
-87 songs - 5 hr 59 min
+89 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 | 2022-09-02 | 2023-01-27 |
 | [Freedom](https://open.spotify.com/track/5ylKg6kcyKk0m6QeEpVDvG) | [Daniel Dyonisius](https://open.spotify.com/artist/3rFQcgQRZYIe2VOuY5XlLV), [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Miles to Go](https://open.spotify.com/album/6lkLDekAYpvRIlph4rOGEX) | 8:07 | 2022-09-02 |  |
 | [Funjam](https://open.spotify.com/track/5gigOxZ701Ezong2ua23Ab) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Funjam](https://open.spotify.com/album/0NoJTZ74E8d1P85bvwzxm7) | 4:26 | 2022-09-02 |  |
+| [Gandrung Sewu](https://open.spotify.com/track/6Q1TzwYURf4BlagM63vekn) | [Bintang Indrianto](https://open.spotify.com/artist/0iy4a8OhW1qCOG2uBlzmJC) | [Bintang Indrianto's Blue Fire Project](https://open.spotify.com/album/1Zz4IFEQmDFAqn3ThEWKCy) | 3:21 | 2023-02-24 |  |
 | [Gratitude](https://open.spotify.com/track/68sQC8sj18Ty36mbreDHot) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN) | [Gratitude](https://open.spotify.com/album/5d1ORdMsk0WXPZkViftyNs) | 5:03 | 2022-09-02 |  |
 | [Happy Guy](https://open.spotify.com/track/4mkrBtAdIWJ6xTwZJod13f) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Love & Imagination](https://open.spotify.com/album/2i7qwVx6d5KWNPu0MLbGsx) | 5:18 | 2022-09-02 |  |
 | [Healing Wounds](https://open.spotify.com/track/7GviZb5p791rcED8MaGnWI) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Adhika "Coki" Himawan](https://open.spotify.com/artist/33KNou9zac9O5y2J1wuJXa) | [Healing Wounds](https://open.spotify.com/album/3ksrMamlDbwNTEyj82r6Re) | 3:28 | 2022-09-02 |  |
@@ -81,6 +82,7 @@
 | [Social Abstract](https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Felix Buliks](https://open.spotify.com/artist/5HDeolVBVWUabGnIap2sho), [Ankadiov Subran](https://open.spotify.com/artist/2u0Msra1dmkHl0rRI1bigH), [Denis Junio](https://open.spotify.com/artist/42LqHOacC0AaCbAH9S3B1E) | [Social Abstract](https://open.spotify.com/album/42WoRZI4APMWNomQ7k5bPF) | 3:49 | 2022-09-02 |  |
 | [Stay](https://open.spotify.com/track/2v2RXHwpOZXgPhgtqreHbv) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG) | [Kurun Waktu](https://open.spotify.com/album/3bcdLrLC5hkVxT0TIFDgu6) | 3:55 | 2022-09-02 |  |
 | [Sugar Crush](https://open.spotify.com/track/2XXNCwDytfdMITKw6a9jir) | [newbloodfusion](https://open.spotify.com/artist/6OYpsgVFA2EBkd7H5j4JCk) | [Sugar Crush](https://open.spotify.com/album/2MTjLTwiDDX5FSo8jitJxU) | 5:40 | 2022-09-02 | 2023-02-04 |
+| [Suntatonic](https://open.spotify.com/track/4DswJxoBlUV0nWLvA16x0o) | [Yonathan Godjali](https://open.spotify.com/artist/6hHVsNtWJ9ox5bOkL02UyX) | [Suntatonic](https://open.spotify.com/album/7DLzTbD9cEldnceLy7JFjn) | 3:35 | 2023-02-24 |  |
 | [Swarna Jingga](https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Naurora](https://open.spotify.com/album/4WJmpMeNY0dKGGxbt5ovox) | 6:51 | 2022-09-02 |  |
 | [Swarna Jingga](https://open.spotify.com/track/4wLAbniSEi6S0SFn1bNo7l) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Swarna Jingga](https://open.spotify.com/album/3ROsWUDFyKPhZi3C06s219) | 6:51 | 2022-09-22 | 2022-11-13 |
 | [Talking to Myself](https://open.spotify.com/track/72hbDZ7MMYjweTu3ItXysl) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn) | [Talking to Myself](https://open.spotify.com/album/181Fo4Z0LGLGVTjy2VPm2n) | 3:23 | 2022-09-02 |  |

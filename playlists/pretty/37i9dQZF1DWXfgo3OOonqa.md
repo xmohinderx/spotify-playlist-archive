@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 ### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
-> fuck it, jag e back online
+> kvar på samma plats vi starta
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,166 likes - 70 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,489 likes - 70 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 69 | [Ögon \(Drillswitch, Pt\. 3\)](https://open.spotify.com/track/19tfm52X38ezYiFKaFHmfg) | [3qip](https://open.spotify.com/artist/0TXoplJ9nnY6ERSAwYEuRI) | [Ögon \(Drillswitch, Pt\. 3\)](https://open.spotify.com/album/7MrW0fbY2lVY7TCBErBIBy) | 2:04 |
 | 70 | [OTF](https://open.spotify.com/track/123cBfNyUiDLcJTjleiI2C) | [Aybe](https://open.spotify.com/artist/3yG6CR4mQZD2clhwnyr778) | [OTF](https://open.spotify.com/album/5PsgInuH6p0Oagv5RQZ1pT) | 2:07 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDU4MWYxYTZkOThjZWFkMzMzODA5OWMzNjQxYzllODdj`
+Snapshot ID: `MTY3NzIzMDE3NCwwMDAwMDAwMGU3MGM0NGI3ODk0Yjg4ODYwNjBiOWQ0ZmJhMTFhMTk5`

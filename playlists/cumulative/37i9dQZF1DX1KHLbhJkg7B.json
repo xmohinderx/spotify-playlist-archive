@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/6p0DLh5SXE1bXBwf22QKdH"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228053,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/0sBwJpFob6KmGmbu0Yln3a"
+    },
+    {
+      "album": {
         "name": "Big Love",
         "url": "https://open.spotify.com/album/67bDcxrb2epJ9ZFDhN9KKQ"
       },
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 247765,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb"
@@ -3955,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/7oYeYzP4kGMUxJJwqCNylk"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155786,
+      "name": "Shotgun Willie",
+      "url": "https://open.spotify.com/track/5eFPPAsdBF57JnZIQw92K3"
+    },
+    {
+      "album": {
         "name": "Should've Been A Cowboy",
         "url": "https://open.spotify.com/album/4qU7lxvipvrDnPVfydiiaH"
       },
@@ -5256,7 +5292,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 371448,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"

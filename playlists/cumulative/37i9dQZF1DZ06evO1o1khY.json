@@ -50,6 +50,32 @@
     {
       "album": {
         "name": "Better Thangs (Remix)",
+        "url": "https://open.spotify.com/album/5Ekjip2Vx87beFHsrKDCWt"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215060,
+      "name": "Better Thangs (with Summer Walker & GloRilla) - Remix",
+      "url": "https://open.spotify.com/track/0xUZ8H6dtWmXRTyqgRkkTO"
+    },
+    {
+      "album": {
+        "name": "Better Thangs (Remix)",
         "url": "https://open.spotify.com/album/3atBxuFcUVkdnXTsMehmHT"
       },
       "artists": [
@@ -68,7 +94,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 215060,
       "name": "Better Thangs (with Summer Walker & GloRilla) - Remix",
       "url": "https://open.spotify.com/track/12dDT2AnpscZ1zL72RvPGR"
@@ -232,6 +258,10 @@
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
         }
       ],
       "date_added": "2023-02-04",

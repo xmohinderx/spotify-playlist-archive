@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Moses
 
-381 songs - 18 hr 6 min
+382 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [What We Saying?](https://open.spotify.com/track/4MkcARWzqjSsoLe7vUBoZt) | [Imperial Collective](https://open.spotify.com/artist/0d2VYzQHpvclvMtj0iPjNf), [Steez Malase](https://open.spotify.com/artist/4TPrFPcmonEoLJse8dS8Eo), [Kei Leeza](https://open.spotify.com/artist/5JRhaOlZVpXZfB6yx6YOe0), [Billz 90](https://open.spotify.com/artist/2GAkIQ6pAg0O22r0KlVOh7) | [What We Saying?](https://open.spotify.com/album/0aioFhC4M28NB1QYsQEsU2) | 2:37 | 2022-07-14 | 2022-08-26 |
 | [When It Rains](https://open.spotify.com/track/3nUnPMNtuyOzgIgrF067SZ) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [When It Rains](https://open.spotify.com/album/2Jok9H8f6HamTvZ8cGwA93) | 2:21 | 2022-09-29 |  |
 | [Where I'm At](https://open.spotify.com/track/2g6AzEuWeAcYePtoGaq6SV) | [Exl](https://open.spotify.com/artist/6j5lxsz5UsEHXTgkwVC4ie) | [Where I'm At](https://open.spotify.com/album/3uBRvGyCCCSh8gMi5PRFsO) | 1:53 | 2023-01-05 |  |
+| [Where's the Mop](https://open.spotify.com/track/59FS2KVqnHKRmavGPLajRX) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [Where's the Mop](https://open.spotify.com/album/60yPoCJMuIf9y9fLUZtv1Y) | 2:16 | 2023-02-23 |  |
 | [WHO](https://open.spotify.com/track/5UpbNdHBHsWWespVWRBicM) | [Swish Music](https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI), [TMB The Driver](https://open.spotify.com/artist/1kUBxtJ8z3wybn5wGAu0H2), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1), [Perry P](https://open.spotify.com/artist/1hGnXrS3sPLcOmjJ8TtkIQ) | [WHO](https://open.spotify.com/album/3arCfti8W6CPLlmn23nrgq) | 2:40 | 2022-05-12 | 2022-09-23 |
 | [Who You Foolin](https://open.spotify.com/track/0pyDwHz8zCjYxMaXRUfY4q) | [RED Honcho](https://open.spotify.com/artist/2pIfm9a2rMaHkdarjTM5o5), [LDP68](https://open.spotify.com/artist/7mumML0dR6NB5uMSzS8lAN) | [Who You Foolin](https://open.spotify.com/album/3zUhWiR8jNBFmCh68KGgLq) | 3:02 | 2022-08-01 | 2022-11-25 |
 | [Whoever](https://open.spotify.com/track/4IWt8KJhg6sIoLcjy8LHm5) | [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U) | [Whoever](https://open.spotify.com/album/5qgNkLb4H6QctvrT7E9O5Z) | 2:38 | 2022-03-21 | 2022-03-25 |

@@ -627,6 +627,24 @@
     },
     {
       "album": {
+        "name": "Earth to Nigel",
+        "url": "https://open.spotify.com/album/5o9gLXrUXPFt3W89qEsitn"
+      },
+      "artists": [
+        {
+          "name": "The Sticker Club",
+          "url": "https://open.spotify.com/artist/1Zn205TqWmfazNWJ65nGrs"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132826,
+      "name": "Earth to Nigel",
+      "url": "https://open.spotify.com/track/4exsZFcEo4idhJN0AFWZbF"
+    },
+    {
+      "album": {
         "name": "Here Comes Science",
         "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
       },
@@ -1872,6 +1890,24 @@
       "duration_ms": 143080,
       "name": "Long as I Got You",
       "url": "https://open.spotify.com/track/5mk8u1etFH79BfcNVuCPOx"
+    },
+    {
+      "album": {
+        "name": "Love's a Game",
+        "url": "https://open.spotify.com/album/0kd5w8gTdUzxuwyIAIVgjh"
+      },
+      "artists": [
+        {
+          "name": "The New Fangles",
+          "url": "https://open.spotify.com/artist/6oZcoOXMpv9ubyQIxAwoWB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178032,
+      "name": "Love's a Game",
+      "url": "https://open.spotify.com/track/3t87ehri6fGJu8aSlxYqEO"
     },
     {
       "album": {

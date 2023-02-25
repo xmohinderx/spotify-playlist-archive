@@ -4699,6 +4699,24 @@
     },
     {
       "album": {
+        "name": "Querido",
+        "url": "https://open.spotify.com/album/3X25A4Wln0BapqgiEWjy3E"
+      },
+      "artists": [
+        {
+          "name": "THAIS",
+          "url": "https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196623,
+      "name": "Querido",
+      "url": "https://open.spotify.com/track/0PwSwGyOUT0HqCOOgY2ny3"
+    },
+    {
+      "album": {
         "name": "Instinto",
         "url": "https://open.spotify.com/album/2LbTR9Dz0YpMrrBAoGJEIl"
       },

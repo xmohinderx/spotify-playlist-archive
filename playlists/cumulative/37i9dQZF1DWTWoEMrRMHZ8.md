@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Adriana Calcanhotto
 
-392 songs - 23 hr 43 min
+393 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,8 @@
 | [O Amor Em Tempos de Cólera](https://open.spotify.com/track/0lza7kmyA644A8tcbL1ZTs) | [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE), [Virginie Boutaud](https://open.spotify.com/artist/3lWgqQkjOSmD4T0btnkzQj) | [Será Que Você Vai Acreditar?](https://open.spotify.com/album/3CS4E5hgs9Rd1EViJ3yYy5) | 3:48 | 2021-12-24 | 2022-08-12 |
 | [O Caderno](https://open.spotify.com/track/6AWFzXFFWd29Juiz3oOtzb) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [O Caderno](https://open.spotify.com/album/4AsIrrva7npJe26M3wNPDH) | 2:42 | 2022-10-14 |  |
 | [O Calor Tá De Matar](https://open.spotify.com/track/0X86qJq8DTShGcsTgUnK5w) | [Bernardo Valença](https://open.spotify.com/artist/2b7OB2l6CqyJtmCmj4FgdC) | [O Calor Tá De Matar](https://open.spotify.com/album/0vsZ9pFRetnUSoOZq5C0lm) | 2:36 | 2022-06-17 | 2022-06-25 |
-| [O futuro é mais bonito](https://open.spotify.com/track/10iqODY9yNkOwwHMhZPLL9) | [Anna Setton](https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L) | [O futuro é mais bonito](https://open.spotify.com/album/2plCYji1S7EECkKDwlRO8J) | 2:47 | 2023-02-22 |  |
+| [O futuro é mais bonito](https://open.spotify.com/track/10iqODY9yNkOwwHMhZPLL9) | [Anna Setton](https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L) | [O futuro é mais bonito](https://open.spotify.com/album/2plCYji1S7EECkKDwlRO8J) | 2:47 | 2023-02-22 | 2023-02-25 |
+| [O futuro é mais bonito](https://open.spotify.com/track/78rQDtMIMwMT9KGxGX4CmS) | [Anna Setton](https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L) | [O Futuro é Mais Bonito](https://open.spotify.com/album/37jrPNa128mZXr7XpnY7Lo) | 2:47 | 2023-02-22 |  |
 | [O Homem do Leme \- Deluxe Edition](https://open.spotify.com/track/6pg3mVH6MY7GMoykTuytyl) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Canções D' Além Mar \(Deluxe Edition\)](https://open.spotify.com/album/1oudSNjaKN20uDDQa28jnI) | 4:21 | 2022-06-03 | 2022-07-16 |
 | [o mesmo dia](https://open.spotify.com/track/0zCv49QKlB6qzqSpc3FA7F) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [o mesmo dia](https://open.spotify.com/album/6rNYmmx6Jd5McewaZiyKjN) | 4:07 | 2022-09-02 | 2022-11-05 |
 | [O Santo](https://open.spotify.com/track/1zxm61HerdbLuLS0vYC1rB) | [Tuia](https://open.spotify.com/artist/615dqZYNvr6ZImSbS7e1wk), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Semente Que o Amor Dará](https://open.spotify.com/album/36zbE3XAgAy3nocVJ2CUJb) | 4:17 | 2022-04-15 | 2022-04-21 |

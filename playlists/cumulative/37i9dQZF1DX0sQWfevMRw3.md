@@ -4,7 +4,7 @@
 
 > Ingen kamera på iPhone 2!!
 
-526 songs - 23 hr 11 min
+527 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [EN TJEI I MITT LIV](https://open.spotify.com/track/5RKaSx9Erfsvr0MlJTKy8f) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [EN TJEI I MITT LIV](https://open.spotify.com/album/7hjwZD6afyTszl8MQIkCr6) | 1:58 | 2022-11-10 | 2022-12-24 |
 | [EPA\-traktor](https://open.spotify.com/track/2NAcY56gJIBsSWXNr8vAyH) | [Kitok](https://open.spotify.com/artist/1PcWAfzz0pTRP7GxaBDvo4), [Radloff](https://open.spotify.com/artist/2V5uS5LxgZH3ZZzTiJsItM) | [EPA\-traktor](https://open.spotify.com/album/0tAvxjf2k9ZKB00pTsA5SJ) | 3:40 | 2022-09-29 | 2022-11-11 |
 | [F\*CKED UP!](https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP!](https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji) | 2:47 | 2022-09-22 | 2023-02-24 |
-| [F\*CKED UP! \- SJUK REMIX!](https://open.spotify.com/track/107182OBau60C8og7ws7C9) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP! \(SJUK REMIX!\)](https://open.spotify.com/album/0JJH5ylTQrJRfsSXrc7Lr6) | 3:13 | 2022-12-01 |  |
+| [F\*CKED UP! \- SJUK REMIX!](https://open.spotify.com/track/107182OBau60C8og7ws7C9) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP! \(SJUK REMIX!\)](https://open.spotify.com/album/0JJH5ylTQrJRfsSXrc7Lr6) | 3:13 | 2022-12-01 | 2023-02-25 |
+| [F\*CKED UP! \- SJUK REMIX!](https://open.spotify.com/track/1VcviCNAPM1uzajsIVxtkH) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP! \(SJUK REMIX!\)](https://open.spotify.com/album/7B75RXIeDKmyt2igFSoPpK) | 3:13 | 2023-02-23 |  |
 | [Fakk Min X](https://open.spotify.com/track/0lJCvh6IJQ7vedN2zgW9ws) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Fakk Min X](https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ) | 1:51 | 2022-08-25 | 2022-10-21 |
 | [FAKKA UR](https://open.spotify.com/track/2NnO7FJonRjGvAjm3LwKvl) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 2:12 | 2022-08-25 | 2023-02-03 |
 | [FALCON PÅ BALKONGEN](https://open.spotify.com/track/09JIhXdFMnu6xh70L7u8vm) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [FALCON PÅ BALKONGEN](https://open.spotify.com/album/2u6cTSzd8JZd4aMTR8mTkK) | 1:52 | 2022-11-10 | 2022-11-12 |

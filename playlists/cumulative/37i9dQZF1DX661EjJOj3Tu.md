@@ -4,7 +4,7 @@
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-292 songs - 1 day 0 hr 28 min
+293 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [El Tiempo](https://open.spotify.com/track/1cXRddfIbQvMe9IhQRLJJi) | [Guillermo Klein](https://open.spotify.com/artist/6TV13Hya75hVUbLTvX1Jh3) | [Los Guachos III](https://open.spotify.com/album/7pzhXFaHYtEigX9DioO4Uu) | 2:53 | 2021-12-09 | 2022-07-17 |
 | [El Watusi](https://open.spotify.com/track/0GhWjjPsJ5xyDeu5ZAuHmu) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Anthology](https://open.spotify.com/album/2luJt11G0LhifoFxAwNIra) | 2:38 | 2021-12-09 | 2022-07-29 |
 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 | 2022-07-26 |  |
-| [En Esta Tarde Gris](https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Raúl Rodríguez](https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [Flor De Piel](https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6) | 5:11 | 2021-12-09 |  |
+| [En Esta Tarde Gris](https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Raúl Rodríguez](https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [Flor De Piel](https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6) | 5:11 | 2021-12-09 | 2023-02-25 |
 | [Enchantment](https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 7:12 | 2021-12-09 | 2022-11-13 |
 | [Encontros E Despedidas](https://open.spotify.com/track/1fFSzpBvEwJ8G9lbyMlGlZ) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Bruma: Celebrating Milton Nascimento](https://open.spotify.com/album/5SN0MQBy1iyHIjbYyl7J0e) | 5:28 | 2021-12-09 | 2022-07-20 |
 | [Estrada Real](https://open.spotify.com/track/4biVllhsCT8OGoRB42BlWx) | [Chico Pinheiro](https://open.spotify.com/artist/5YfW24O2P3ljTAZjBRr4jy) | [City of Dreams](https://open.spotify.com/album/15kazQHHvIeFD1WYYjlFXG) | 4:13 | 2021-12-09 | 2022-05-31 |
@@ -217,6 +217,7 @@
 | [Que Tristeza](https://open.spotify.com/track/2hLADzCEa13ep3z40UtpqE) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Plays The Contemporary Music Of Mexico And Brazil](https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo) | 2:50 | 2022-07-26 |  |
 | [Que Tristeza](https://open.spotify.com/track/4XOYfjUT8oKKuDAE1UrUPE) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Sauce](https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas) | 2:51 | 2021-12-09 | 2022-07-29 |
 | [Quimbara](https://open.spotify.com/track/7mqqWVpuUHekEdlVOSQjmy) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Ultimate Duets](https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A) | 4:25 | 2021-12-09 |  |
+| [Quédate](https://open.spotify.com/track/6tulqYEcEWv8qXJrQzXZZG) | [Aymée Nuviola](https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY), [Kemuel Roig](https://open.spotify.com/artist/1ZJJTYGhxNqzqUqCLJoBbQ) | [Havana Nocturne \(Latin Jazz Vocal\)](https://open.spotify.com/album/7610lSB81OET6JFHaahIp7) | 4:31 | 2023-02-24 |  |
 | [Quítate de la Vía, Perico](https://open.spotify.com/track/6VlqmHJ356t7kvTGWbDQQk) | [Miguel Zenón](https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj) | [Sonero: The Music of Ismael Rivera](https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP) | 7:07 | 2021-12-09 | 2022-02-10 |
 | [Rareza de siglo](https://open.spotify.com/track/20GpkyaDZAit5Ty7zP2vqz) | [Cucurucho Valdés](https://open.spotify.com/artist/43sGBi6byj2qxsR90hy38Y) | [Rareza de Siglo \(En Vivo\)](https://open.spotify.com/album/0PaJvLUbDjC72tmSXkxzQm) | 8:38 | 2021-12-09 | 2022-07-25 |
 | [Resemblance](https://open.spotify.com/track/1OlWRZBHestlAr0dLv5LBn) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Salsa\-Jazz\-Descarga](https://open.spotify.com/album/4DRLWQNSmZ1rnoddSFwPG3) | 4:51 | 2021-12-09 | 2022-07-27 |

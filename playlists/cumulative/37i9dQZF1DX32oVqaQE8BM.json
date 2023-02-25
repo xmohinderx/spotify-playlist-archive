@@ -1801,6 +1801,24 @@
     },
     {
       "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/1dx8RWnHxRTuTa9LE3vROE"
+      },
+      "artists": [
+        {
+          "name": "whiteglass",
+          "url": "https://open.spotify.com/artist/6FrISpMCXqXSsCsqhTxnL2"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/4N7vzUz5kg4emuU8py5PvZ"
+    },
+    {
+      "album": {
         "name": "Deep Meaning",
         "url": "https://open.spotify.com/album/2dGnQPpPb7gn4qyawD9CU5"
       },
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 152445,
       "name": "desert days",
       "url": "https://open.spotify.com/track/59PI1yLKqsJKTrTbW2st4H"
@@ -2962,8 +2980,8 @@
       },
       "artists": [
         {
-          "name": "slightly wounded",
-          "url": "https://open.spotify.com/artist/08WY7ZImEiZl4QgHPFM1MR"
+          "name": "feline empire",
+          "url": "https://open.spotify.com/artist/7pNrcc1Bgzb1i88M8TnIVX"
         }
       ],
       "date_added": "2022-01-21",
@@ -6350,15 +6368,15 @@
       },
       "artists": [
         {
-          "name": "Sphinxa",
-          "url": "https://open.spotify.com/artist/6iTEnXh4upG3YW3yRfoiCj"
+          "name": "Jarhed",
+          "url": "https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF"
         }
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 144000,
-      "name": "recession",
+      "name": "Recession",
       "url": "https://open.spotify.com/track/7cayqs4BnxtUMuPfrj3if8"
     },
     {
@@ -8260,8 +8278,8 @@
       },
       "artists": [
         {
-          "name": "Inovalin Trem",
-          "url": "https://open.spotify.com/artist/7EflRmV80Cnj9PmQZvpiUg"
+          "name": "Hall of Lofi",
+          "url": "https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt"
         }
       ],
       "date_added": "2022-06-17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 
 > Experimental electronic beyond the borders of tradition.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,413 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,444 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 37 | [Old Wives Tale](https://open.spotify.com/track/6P5mzQQddhBUa4EE3n6Zlu) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Old Wives Tale](https://open.spotify.com/album/1rM2WHjFo4m9P3McADxcC8) | 5:17 |
 | 38 | [Shafted](https://open.spotify.com/track/3S9qbZmAsQS1wAwafAV5mT) | [Cleyra](https://open.spotify.com/artist/6M4BbcSta78oGBZu6TtGyE) | [Shafted](https://open.spotify.com/album/0Ck52zaGqJB1cUUBs1O5E0) | 5:18 |
 | 39 | [Obstacle 3](https://open.spotify.com/track/1yXREWH3oLHvLksoVRhdjc) | [Rian Treanor](https://open.spotify.com/artist/6un6trkuuP46AZM0kkY8Yx) | [Obstacle Scattering](https://open.spotify.com/album/6githYTrl857l9544L4Us9) | 5:12 |
-| 40 | [Vixen](https://open.spotify.com/track/2pb6ojnggCASqe3AWA1Ty2) | [r o s so](https://open.spotify.com/artist/1gpMfVmjQR8tj5k0LWZ6Qx) | [Vixen](https://open.spotify.com/album/3EQfecdYQko209sbSGCN8O) | 3:48 |
+| 40 | [Vixen](https://open.spotify.com/track/2JcLrnnCJ93x7sFAZFl5Zb) | [r o s so](https://open.spotify.com/artist/1gpMfVmjQR8tj5k0LWZ6Qx) | [Vixen](https://open.spotify.com/album/72uE8v9IEr0Nv4IAY8FVo8) | 3:48 |
 | 41 | [froth sipping](https://open.spotify.com/track/0SKe7Wfpo8a2QKozSernPR) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 3:14 |
 | 42 | [Hyperpassive](https://open.spotify.com/track/4xDFHb4CBzCqYCRnADRouJ) | [Lee Gamble](https://open.spotify.com/artist/7rAD9Ws0ihREeDmgPS2ZL8) | [Flush Real Pharynx 2019\-2021](https://open.spotify.com/album/15Hcvh4wrSAief3Vsx5o3N) | 4:01 |
 | 43 | [Sistine \(Plucks\)](https://open.spotify.com/track/1cU2mzy2qMALRP53VJszzx) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Sistine \(Plucks\)](https://open.spotify.com/album/2q6v3ilegZlsSg04Hoc4Gg) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 74 | [I'll be 20 when I'm 40](https://open.spotify.com/track/4x47gRjGYRRiDGhbdtpnCs) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Patrimony](https://open.spotify.com/album/7olQu6AkixLOum1nfMkZvf) | 5:13 |
 | 75 | [Those Tears of Hutton](https://open.spotify.com/track/49WbV4XtJ5QWJd2m5UrwSg) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [This Moment of Silence](https://open.spotify.com/album/6Zj6qfpTfQCmlyajevOM8z) | 6:15 |
 
-Snapshot ID: `MTY1NTIwNzU2OSwwMDAwMDAwMDQyMTBkNWFjOWE2NzJkNjIyY2IxODRlYzBlNGFiNzY0`
+Snapshot ID: `MTY1NTIwNzU2OSwwMDAwMDAwMDM0NTM0OGI0YzUwNzVlNzgwN2U3MzFiZjJlNGVhM2Vm`

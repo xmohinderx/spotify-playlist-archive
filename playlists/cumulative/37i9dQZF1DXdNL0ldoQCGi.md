@@ -4,7 +4,7 @@
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-305 songs - 15 hr 59 min
+306 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [La Ele](https://open.spotify.com/track/36e9tQXmpCsaqaesQcOWwS) | [Caneta Azul](https://open.spotify.com/artist/3Naf9sMkKUzO64ozAkbVXi) | [La Ele](https://open.spotify.com/album/5TxzHKyJGK4Eo2I9tsY3Ci) | 2:24 | 2023-01-09 | 2023-01-12 |
 | [La Ele](https://open.spotify.com/track/3dYJkG4c9r2uWsFJvBGiK8) | [Caneta Azul](https://open.spotify.com/artist/3Naf9sMkKUzO64ozAkbVXi), [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [La Ele](https://open.spotify.com/album/4J0lnVrFVZ81puaTpYHdLT) | 2:24 | 2023-01-06 | 2023-01-10 |
 | [Lado Nerd](https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Lado Nerd](https://open.spotify.com/album/4X0qPgz8rtgBfxSsTY3L5N) | 1:45 | 2022-08-19 | 2022-10-18 |
+| [Lapada Dela \- Ao Vivo](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 2:39 | 2023-02-24 |  |
 | [Let's Go 3 \(feat\. MC Marks, Mc Don Juan, MC PH, Mc Luki, Mc Paiva ZS, MC GP & Makalo\)](https://open.spotify.com/track/6kNZdlmjH4BQnSUfHeJIuc) | [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Makalo](https://open.spotify.com/artist/3UN5sCtgFEyrkxMQ7oFUKk) | [Let's Go 3 \(feat\. MC Marks, Mc Don Juan, MC PH, Mc Luki, Mc Paiva ZS, MC GP & Makalo\)](https://open.spotify.com/album/5fsKZ4LG33vaIiw5Ura5Hd) | 8:28 | 2022-11-01 | 2022-12-07 |
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2022-05-25 | 2022-09-22 |
 | [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 | 2022-12-23 | 2023-01-10 |

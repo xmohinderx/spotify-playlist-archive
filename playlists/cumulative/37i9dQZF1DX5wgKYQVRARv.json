@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Atropos",
+        "url": "https://open.spotify.com/album/3B1hA33fuFZKtet8TbZg9M"
+      },
+      "artists": [
+        {
+          "name": "Periphery",
+          "url": "https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503893,
+      "name": "Atropos",
+      "url": "https://open.spotify.com/track/5LmeXeJ8McsxWZXgPkyhxs"
+    },
+    {
+      "album": {
         "name": "Ascension Codes",
         "url": "https://open.spotify.com/album/3X6Y48lW0sNxNrLLfDdLP3"
       },
@@ -5359,6 +5377,24 @@
     },
     {
       "album": {
+        "name": "Lovebite",
+        "url": "https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX"
+      },
+      "artists": [
+        {
+          "name": "Haken",
+          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229440,
+      "name": "Lovebite",
+      "url": "https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n"
+    },
+    {
+      "album": {
         "name": "The Arcadian Parallel",
         "url": "https://open.spotify.com/album/7ja3OhYK0rI9jO9N1rnc6r"
       },
@@ -8392,7 +8428,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 253024,
       "name": "Such a Shame",
       "url": "https://open.spotify.com/track/31ecPwecmstplaiMrDUpPs"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Jonathan McReynolds",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  The Walls Group",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Four Walls",
+        "url": "https://open.spotify.com/album/2vzCyDyMFuc7p46Tuv2E69"
+      },
+      "artists": [
+        {
+          "name": "The Walls Group",
+          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251520,
+      "name": "Come In",
+      "url": "https://open.spotify.com/track/7gXPEZH5f13ER9tYujntDa"
+    },
+    {
+      "album": {
         "name": "Come See (Radio Edit)",
         "url": "https://open.spotify.com/album/4OIALfqFh2SlSz7nJWDcvq"
       },
@@ -800,7 +818,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 472891,
       "name": "Cry Out (feat. Naomi Raine)",
       "url": "https://open.spotify.com/track/66PfXpuPoNJ7fhvyAq7qlW"
@@ -1513,6 +1531,28 @@
     },
     {
       "album": {
+        "name": "He'll Come Through",
+        "url": "https://open.spotify.com/album/64ISKqGFgAkCiFcVNla9SJ"
+      },
+      "artists": [
+        {
+          "name": "Freddy Washington Jr.",
+          "url": "https://open.spotify.com/artist/7kGuR5CJOPkQ1wt1TiVWNE"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214930,
+      "name": "He'll Come Through",
+      "url": "https://open.spotify.com/track/4FzbIFoZZ4l6BlMfYuCuLm"
+    },
+    {
+      "album": {
         "name": "He'll Do It Again / Hezekiah Walker (Live)",
         "url": "https://open.spotify.com/album/6tgyj5biSbdyQqT7jjzt2d"
       },
@@ -1672,7 +1712,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 391384,
       "name": "Heaven On Earth",
       "url": "https://open.spotify.com/track/46AXfrIN6Z5qDJGpMmaFZz"
@@ -1965,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "I Just Wanna Praise You",
+        "url": "https://open.spotify.com/album/4g2dnJgSZSFfop8qckkpse"
+      },
+      "artists": [
+        {
+          "name": "Maurette Brown Clark",
+          "url": "https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284506,
+      "name": "I Just Wanna Praise You",
+      "url": "https://open.spotify.com/track/47Twm6RDa3kFdckvBDtNeR"
+    },
+    {
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/67VweLMDRCf6PzSFFxUMoz"
       },
@@ -2012,7 +2070,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 252501,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/2nzLEPs6k0gE8uofYbsQzi"
@@ -3045,6 +3103,28 @@
     },
     {
       "album": {
+        "name": "Making A Way (feat. Adia)",
+        "url": "https://open.spotify.com/album/4qx5I6vvqoQgssHapDeMEq"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335816,
+      "name": "Making A Way (feat. Adia)",
+      "url": "https://open.spotify.com/track/4GUsJS1Y63xlv8w1C3Y4wq"
+    },
+    {
+      "album": {
         "name": "Making A Way (Radio Edit)",
         "url": "https://open.spotify.com/album/0Jl0raxQMaTow2s9S4YOSd"
       },
@@ -3166,6 +3246,28 @@
       "duration_ms": 754005,
       "name": "Mighty God",
       "url": "https://open.spotify.com/track/0i3gYcDvPo71gcVpwozRo3"
+    },
+    {
+      "album": {
+        "name": "On Another Note",
+        "url": "https://open.spotify.com/album/24mXjJq9bh8SKUCnzo9JZd"
+      },
+      "artists": [
+        {
+          "name": "Tolan Morgan",
+          "url": "https://open.spotify.com/artist/6lHXQV8u1vnqlXL3c9z1bl"
+        },
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283880,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/1ENIf5c9CHhbvQAXduAPvQ"
     },
     {
       "album": {
@@ -3534,7 +3636,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 342500,
       "name": "Now Unto Him",
       "url": "https://open.spotify.com/track/1kFckAJTZbToUgkQjEuFty"
@@ -3712,7 +3814,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 225882,
       "name": "Praise His Holy Name - Steppers Remix",
       "url": "https://open.spotify.com/track/2COIYESSMOjSNbm0X0nQK6"
@@ -3730,7 +3832,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 443729,
       "name": "Praise Through",
       "url": "https://open.spotify.com/track/3qh8F96Y1HVLlOdOY3k1em"
@@ -3752,6 +3854,24 @@
       "duration_ms": 257789,
       "name": "Promise Keeper",
       "url": "https://open.spotify.com/track/1bMjLziHSeLBZ4wuAsCfcx"
+    },
+    {
+      "album": {
+        "name": "Straight From The Heart",
+        "url": "https://open.spotify.com/album/40AYOEkeglfYhit20I5Ciu"
+      },
+      "artists": [
+        {
+          "name": "The Rance Allen Group",
+          "url": "https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152040,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/5NpO74mTdysHPmCgkh5us4"
     },
     {
       "album": {
@@ -4078,6 +4198,40 @@
       "duration_ms": 240433,
       "name": "So Good to Me",
       "url": "https://open.spotify.com/track/7lsHTcbrV6XkSIbTmBCoeN"
+    },
+    {
+      "album": {
+        "name": "Something About The Name Jesus (feat. Lewis Sky & Rance Allen)",
+        "url": "https://open.spotify.com/album/0eY86V1qRQIaCdlOi3c7Xt"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        },
+        {
+          "name": "Lewis Sky",
+          "url": "https://open.spotify.com/artist/3ezlkOpuXn3BcU4ScwfM5o"
+        },
+        {
+          "name": "Rance Allen",
+          "url": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275751,
+      "name": "Something About The Name Jesus (feat. Lewis Sky & Rance Allen)",
+      "url": "https://open.spotify.com/track/5rpLS9LTrQNjhTFhMYQVkD"
     },
     {
       "album": {
@@ -4796,7 +4950,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 364693,
       "name": "Victory Remix",
       "url": "https://open.spotify.com/track/33725qjUklLUs5uZhN7Vtt"

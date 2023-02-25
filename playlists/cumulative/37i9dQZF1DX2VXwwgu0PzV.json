@@ -541,6 +541,32 @@
     },
     {
       "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/5jWugmkSCklHSRpgfrCFKH"
+      },
+      "artists": [
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/2K3BQ53NtS55rBCnHO2LPC"
+    },
+    {
+      "album": {
         "name": "Give Him Praise",
         "url": "https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy"
       },
@@ -1010,7 +1036,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 182080,
       "name": "Let Me Down",
       "url": "https://open.spotify.com/track/0cSj8GJCbx1DWpsusmcO0K"
@@ -1262,7 +1288,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 171129,
       "name": "Nazarene",
       "url": "https://open.spotify.com/track/5DAi3gOoRMUU2Jn6QkyU1e"
@@ -1538,6 +1564,10 @@
         {
           "name": "Oba Reengy",
           "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Jil Nation",
+          "url": "https://open.spotify.com/artist/6K4Uf5CdzDinopn1LWVNkp"
         }
       ],
       "date_added": "2023-02-02",

@@ -1989,6 +1989,28 @@
     },
     {
       "album": {
+        "name": "Euphoric Escape",
+        "url": "https://open.spotify.com/album/6gMqQPVrchyoXtf1aKVnCw"
+      },
+      "artists": [
+        {
+          "name": "samayuzame",
+          "url": "https://open.spotify.com/artist/35rpDiXIsvLFJx0KaGvxK2"
+        },
+        {
+          "name": "SOMBRA",
+          "url": "https://open.spotify.com/artist/4FsJdqeI2pBKVDyhGm19Dw"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203765,
+      "name": "Euphoric Escape",
+      "url": "https://open.spotify.com/track/3J50EjeL59ZYfJAYmWdLdW"
+    },
+    {
+      "album": {
         "name": "Even if the world hates me",
         "url": "https://open.spotify.com/album/3Giq65QDe2WwZXf7MKWfnR"
       },
@@ -5876,7 +5898,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 279928,
       "name": "Shin'ya 6-ji",
       "url": "https://open.spotify.com/track/4OCIpuigIlufkPyZ9uRlcY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,637 likes - 162 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,912 likes - 162 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 17 | [Silent Haters](https://open.spotify.com/track/7JfxL8fwpZqFcOn7Y4FeJ2) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Blood in the Night](https://open.spotify.com/album/5F85byRYuprIUfpXnLDCD0) | 2:43 |
 | 18 | [Fam](https://open.spotify.com/track/47LWif6s3Lu4xv3dBb78Lu) | [Cyber Soul](https://open.spotify.com/artist/5fgkrGRJJ2FcosHfzHeXOu) | [Fam](https://open.spotify.com/album/7CIp8scELgVBXUgxfe9HBa) | 3:06 |
 | 19 | [Locked On](https://open.spotify.com/track/5HwN0NUNhHstan9XrltELy) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Lost Dreams](https://open.spotify.com/album/0amb3h42QL9goRS9hm7j7l) | 2:39 |
-| 20 | [the simmer down](https://open.spotify.com/track/54FEr0qrTnmTsXoYsVwlJf) | [deep priority](https://open.spotify.com/artist/6WuTGuEcw8UuQfKSmH1R6J) | [innercity beatloops](https://open.spotify.com/album/5on8BGb50hANx3oVg8zGHO) | 1:51 |
+| 20 | [the simmer down](https://open.spotify.com/track/54FEr0qrTnmTsXoYsVwlJf) | [Farmor](https://open.spotify.com/artist/6PSXPlcJRWbnLFb5XZRK63) | [innercity beatloops](https://open.spotify.com/album/5on8BGb50hANx3oVg8zGHO) | 1:51 |
 | 21 | [2](https://open.spotify.com/track/6NSnzxpvIvORdC3EsTIdd2) | [squeezy X](https://open.spotify.com/artist/6H015tYdaj2rRNR9YOX5b9) | [Aphro Deezy](https://open.spotify.com/album/6ODZgjrMDeXErOdsmhgYPG) | 3:14 |
 | 22 | [STREET TALK](https://open.spotify.com/track/0iwPNg7PCrsJ98tA3asgt1) | [Bloostar](https://open.spotify.com/artist/3Abv7gPn3kAVIYhWtMX00o) | [Bloostar](https://open.spotify.com/album/3Ya6OArBJ5tYV7vtJTHLxe) | 1:49 |
 | 23 | [Yoko](https://open.spotify.com/track/2idiYkZiNtzFm8hwsY7lfT) | [Neon Lighthouse](https://open.spotify.com/artist/3EwvgZOFqqGPO7Xfgw4wcg) | [Brandy & Apple Juice](https://open.spotify.com/album/42YfWVfh7I3fuUvvlQGN99) | 3:20 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 44 | [Rocio](https://open.spotify.com/track/4XSfKPQjnyDIysE98WfDEB) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Rocio](https://open.spotify.com/album/1aLbXKsbNs3ZIlN0ekPV92) | 3:06 |
 | 45 | [Back the Line](https://open.spotify.com/track/6VmLAZAbbDoqPAm8OHFbPs) | [IZY REALLY](https://open.spotify.com/artist/2QpnXxnib6tVD5Vy4Hlvar) | [Power](https://open.spotify.com/album/0ygj6ZCtEMvOHL2835FW3k) | 2:54 |
 | 46 | [Hunter](https://open.spotify.com/track/4DjwdB1x3jgUk1alcouL3g) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Hunter](https://open.spotify.com/album/3lkCHgz92YIYwDVLkVGlQw) | 2:27 |
-| 47 | [Tratoria](https://open.spotify.com/track/3IX30GXLumSoisqM3qUHAZ) | [DunE](https://open.spotify.com/artist/4MWcljkqkBsrfiZu2CA88k) | [Tratoria](https://open.spotify.com/album/45xdMa03XY6auauofA1ESG) | 1:49 |
+| 47 | [Tratoria](https://open.spotify.com/track/3IX30GXLumSoisqM3qUHAZ) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Tratoria](https://open.spotify.com/album/45xdMa03XY6auauofA1ESG) | 1:49 |
 | 48 | [Iacta](https://open.spotify.com/track/13Ko7UiTNt5B8NfXcRLcVQ) | [palence](https://open.spotify.com/artist/2hP9ky7jNcqy6F3nYKSGt8) | [Telophase](https://open.spotify.com/album/0cIOvhDeIbCLAVOLZaToIY) | 2:45 |
 | 49 | [Double Agent](https://open.spotify.com/track/5BcrWV0sc7dN0bQwIAx8SB) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Double Agent](https://open.spotify.com/album/5qS6evH7F4mdTccmQ3yjB6) | 2:24 |
 | 50 | [I'm Here](https://open.spotify.com/track/1aHAXehB7uQ044J4QVOXkb) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [I'm Here](https://open.spotify.com/album/3WdjV92wxOwTjwmALXKdj0) | 3:42 |
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 104 | [Haute](https://open.spotify.com/track/3lvxTsa881E4gc6GHEOKGL) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Haute](https://open.spotify.com/album/0Y5EmDx0BdNzVkZxyGGy5i) | 2:05 |
 | 105 | [B.O.H](https://open.spotify.com/track/59Rk6nuKbwujYHiHQhOkV9) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Ayo](https://open.spotify.com/album/3JbCidRahlQ5zLvYN2lVe4) | 4:09 |
 | 106 | [Nuttin](https://open.spotify.com/track/5U0yfmhalBtJN5gs25JGDG) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Nuttin](https://open.spotify.com/album/7MxGgLhLqVfFgOmAOcCEMn) | 2:15 |
-| 107 | [White Dunes](https://open.spotify.com/track/1jJl0ktn8NMZyFPxsvYegs) | [Silvana](https://open.spotify.com/artist/6DZ0eHndSzs3pEznIu5OXi) | [White Dunes](https://open.spotify.com/album/3w6V1qsear1D59Enm5TeAZ) | 1:43 |
+| 107 | [White Dunes](https://open.spotify.com/track/1jJl0ktn8NMZyFPxsvYegs) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [White Dunes](https://open.spotify.com/album/3w6V1qsear1D59Enm5TeAZ) | 1:43 |
 | 108 | [AnimEl](https://open.spotify.com/track/1mXWDNhr5fBS38wnXqsh8A) | [Lazy Lovers](https://open.spotify.com/artist/1HMmdYdBAElZlWljQBAoCq) | [AnimEl](https://open.spotify.com/album/4jSNKcvNrswodMWYtZkL50) | 2:57 |
 | 109 | [Joker](https://open.spotify.com/track/7CAwp6JcKR1aIZc6unYpOV) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Joker](https://open.spotify.com/album/2VoCKMm05uZR0Rxu7Pk28P) | 3:28 |
 | 110 | [Fruitpunch](https://open.spotify.com/track/5JFsFwrrCb5tM9qQBRxHUD) | [Salmon Says](https://open.spotify.com/artist/0YeNo7aSvFyaMdqxzM55UD) | [ALC](https://open.spotify.com/album/2puyA8AignmOqBnQkhzPXz) | 3:50 |

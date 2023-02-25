@@ -3869,6 +3869,36 @@
     },
     {
       "album": {
+        "name": "Verdi",
+        "url": "https://open.spotify.com/album/1iY9IQB9avls47I3shc9s7"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Rigoletto, Act III: La donna \u00e8 mobile",
+      "url": "https://open.spotify.com/track/5cR6xfzyicyDyAr52zB48k"
+    },
+    {
+      "album": {
         "name": "King of the High Cs (60th Anniversary: 1961-2021)",
         "url": "https://open.spotify.com/album/3QFV786DZyl7rzr912UFCF"
       },
@@ -3896,36 +3926,6 @@
       "duration_ms": 141600,
       "name": "Rigoletto: \"La donna \u00e8 mobile\"",
       "url": "https://open.spotify.com/track/5JHa1niLMM5SqLUEiO8Fyt"
-    },
-    {
-      "album": {
-        "name": "Verdi",
-        "url": "https://open.spotify.com/album/1iY9IQB9avls47I3shc9s7"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "date_added": "2022-06-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 141600,
-      "name": "Rigoletto: \"La donna \u00e8 mobile\"",
-      "url": "https://open.spotify.com/track/5cR6xfzyicyDyAr52zB48k"
     },
     {
       "album": {

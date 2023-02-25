@@ -621,6 +621,32 @@
     },
     {
       "album": {
+        "name": "Diamond Rings and Old Barstools",
+        "url": "https://open.spotify.com/album/4hjM7kfH0SloPU8Qdhxui6"
+      },
+      "artists": [
+        {
+          "name": "Luke Laird",
+          "url": "https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI"
+        },
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        },
+        {
+          "name": "Barry Dean",
+          "url": "https://open.spotify.com/artist/2W5Gkx39A9UfkcBydnjqd7"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165557,
+      "name": "Diamond Rings and Old Barstools",
+      "url": "https://open.spotify.com/track/14ZolByRHEVshRFROsU83q"
+    },
+    {
+      "album": {
         "name": "2017 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp"
       },

@@ -665,6 +665,28 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/7yJVBYtkeQ6nHmQ8V0mGff"
+      },
+      "artists": [
+        {
+          "name": "Luisa Rinc\u00f3n",
+          "url": "https://open.spotify.com/artist/0lBqLIj9upSXEjJ83N92O0"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0rmIJMlqROo3rOp9fqipIs"
+    },
+    {
+      "album": {
         "name": "Rabiograf\u00eda",
         "url": "https://open.spotify.com/album/2DtGzCXMVIPkKdzbB4h0Gx"
       },
@@ -2602,6 +2624,24 @@
       "duration_ms": 194823,
       "name": "Thug Love",
       "url": "https://open.spotify.com/track/3UzvM5oPrOJXshAJOSUUar"
+    },
+    {
+      "album": {
+        "name": "Toda La Noche",
+        "url": "https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH"
+      },
+      "artists": [
+        {
+          "name": "Hispana",
+          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162040,
+      "name": "Toda La Noche",
+      "url": "https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO"
     },
     {
       "album": {

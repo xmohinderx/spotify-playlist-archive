@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Branches",
+        "url": "https://open.spotify.com/album/4yU8TPNB2El1nZW23uU1LH"
+      },
+      "artists": [
+        {
+          "name": "Lazy Driver",
+          "url": "https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Branches",
+      "url": "https://open.spotify.com/track/1sI1OCmoBg5Ty1xN1PRAHs"
+    },
+    {
+      "album": {
         "name": "Brill",
         "url": "https://open.spotify.com/album/5USoIoP9r7gFjm2cgle1tZ"
       },
@@ -600,6 +618,24 @@
       "duration_ms": 245107,
       "name": "Drifted",
       "url": "https://open.spotify.com/track/57H1bcqbsyrGHfTebZddzy"
+    },
+    {
+      "album": {
+        "name": "Easy Does It",
+        "url": "https://open.spotify.com/album/5jckvLu33ajLOIqWioAPFb"
+      },
+      "artists": [
+        {
+          "name": "Sam Lush",
+          "url": "https://open.spotify.com/artist/0d1sO3dP7qs2UAq2T9enWL"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135762,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/3kIK2WpKgc9iDP4er2n4Nn"
     },
     {
       "album": {

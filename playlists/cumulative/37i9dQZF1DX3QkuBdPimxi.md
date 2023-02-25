@@ -4,7 +4,7 @@
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-118 songs - 5 hr 16 min
+119 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Spaceship](https://open.spotify.com/track/4VD8eHssqyo3hDPnnYan7Z) | [Splash'N Boots](https://open.spotify.com/artist/1XVWPwiCysDYBWGhnjQPUP) | [Happy Times](https://open.spotify.com/album/73eiapXRxd1tVG3SBn1WQf) | 2:59 | 2021-12-06 |  |
 | [Spaceship Adventure](https://open.spotify.com/track/2iq4lWFcgzzAie7b6X52CM) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:46 | 2021-12-06 |  |
 | [Spaceship Adventure](https://open.spotify.com/track/6xAgcxc90mTqb5MY2iUNL5) | [The Killers](https://open.spotify.com/artist/3WLolGsOHygEsKbhMgAqML) | [Fantastic Voyages](https://open.spotify.com/album/3o504GqMg5CAtjYbEWWzQq) | 1:46 | 2021-12-06 | 2022-07-29 |
+| [Star Trek Prodigy \- Main Theme](https://open.spotify.com/track/6MgwW6xRxd3eDROUAH3XIT) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr), [Star Trek Prodigy](https://open.spotify.com/artist/5xBSDl8pzdxe3qTNxXrez7), [Nami Melumad](https://open.spotify.com/artist/7icx86YKqzAozjY6xf0KNF) | [Star Trek Prodigy \(Original Music from the Series\)](https://open.spotify.com/album/7k7ARrPvKAc6SzXA0DojGx) | 2:52 | 2023-02-24 |  |
 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 | 2021-12-06 |  |
 | [The Ballad of Davy Crockett \(in Outer Space\)](https://open.spotify.com/track/55EQ8G6yRRK23iPHRL6g7A) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:17 | 2021-12-06 |  |
 | [The International Space Station Band](https://open.spotify.com/track/5BJiBZRtXgs18dSNbGJIfQ) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Universe](https://open.spotify.com/album/5YloE8LbD6eVwtyzKTGRAp) | 4:01 | 2021-12-06 |  |

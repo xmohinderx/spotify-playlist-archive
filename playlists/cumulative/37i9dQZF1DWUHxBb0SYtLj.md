@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Paola & Chiara
 
-485 songs - 1 day 0 hr 41 min
+486 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,7 +465,8 @@
 | [Tribale](https://open.spotify.com/track/6dMvLEipqRW6vh8Bt5PbOg) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Tribale](https://open.spotify.com/album/4riFp09J5vcQZbTHDwQ48D) | 2:42 | 2022-06-09 | 2022-10-07 |
 | [Trust Nobody](https://open.spotify.com/track/6ZK1PbmlUBMDtv774We27h) | [Doll Kill](https://open.spotify.com/artist/0JOadOTQ5hTC6EYCmKDAsX) | [Amore Odio](https://open.spotify.com/album/4I1dXR2vPbyFgSZJKV0NqQ) | 2:34 | 2022-11-01 | 2022-12-01 |
 | [TSO](https://open.spotify.com/track/361XEjtQol1QjvRNNKZisL) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [TSO](https://open.spotify.com/album/2DPY9Y2HcDleJW1LuAlkan) | 3:09 | 2022-02-02 | 2022-04-06 |
-| [tu.](https://open.spotify.com/track/63oeo2wq00LdQNIGCUqEJy) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM), [Noia](https://open.spotify.com/artist/2juG6RJqgbhPLJvHWOjEMM) | [tu.](https://open.spotify.com/album/3fqmpVZwl8zv9pMUrk7CVI) | 3:27 | 2021-12-07 |  |
+| [tu.](https://open.spotify.com/track/4onStwuP849eGEa8SY5ebV) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM), [NOIA](https://open.spotify.com/artist/6kMHzKCOo8xS59JVOIHkmd) | [tu.](https://open.spotify.com/album/2pPP9UcdAcHwqHXkJ6XljT) | 3:27 | 2023-02-09 |  |
+| [tu.](https://open.spotify.com/track/63oeo2wq00LdQNIGCUqEJy) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM), [Noia](https://open.spotify.com/artist/2juG6RJqgbhPLJvHWOjEMM) | [tu.](https://open.spotify.com/album/3fqmpVZwl8zv9pMUrk7CVI) | 3:27 | 2021-12-07 | 2023-02-25 |
 | [Tutt\* stran\*](https://open.spotify.com/track/4sg1ORbMIL2t8afAHsG7xw) | [Chadia Rodriguez](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Tutt\* stran\*](https://open.spotify.com/album/04ubGS2v1n2zI8E91p24Yt) | 2:55 | 2022-01-04 | 2022-02-03 |
 | [TUTTO \(con te\)](https://open.spotify.com/track/08Hacl2rWl6GD6TKUyaKIy) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TUTTO \(con te\)](https://open.spotify.com/album/0w7mfTvGuKCG7XQvLuyCda) | 2:58 | 2022-07-05 | 2022-10-07 |
 | [Tutto cambia](https://open.spotify.com/track/12MsDKDc6ENRKFl5k2VM4I) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Cinetica](https://open.spotify.com/album/1Zu8B8E3OypRTNnLlzXNE1) | 3:26 | 2023-01-03 | 2023-02-09 |

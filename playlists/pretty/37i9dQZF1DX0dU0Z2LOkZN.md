@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,369 likes - 207 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,490 likes - 207 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 4 | [I'll Treat You Right](https://open.spotify.com/track/1gpe134VSNqCFAqCxN0e7g) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Next Year in Rio](https://open.spotify.com/album/5DMrA7hp0yLp0rG11RNRe0) | 2:46 |
 | 5 | [Wax Poetry](https://open.spotify.com/track/2CEKenDIPepmr8rdOhfilr) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Wax Poetry](https://open.spotify.com/album/0iepUkNqUGDPxkKcC2Uwo8) | 1:57 |
 | 6 | [D\-Bounce](https://open.spotify.com/track/3ZQzuwNNLstDqee25SQzCp) | [Bus Topp](https://open.spotify.com/artist/6iWgfTsyBsH03H2XDrveyR) | [D\-Bounce](https://open.spotify.com/album/1fYMSkZu4OweUq1yyj8038) | 2:19 |
-| 7 | [Second Flat](https://open.spotify.com/track/7EXuUIbqpxoeEnH0D2cvBw) | [Green Balloon](https://open.spotify.com/artist/2GGLsAPwyfEvtUyKYvELDy) | [Epic Love](https://open.spotify.com/album/5C1vgrBe5b4SeyS2Beap3c) | 1:27 |
+| 7 | [Second Flat](https://open.spotify.com/track/7EXuUIbqpxoeEnH0D2cvBw) | [Gradient Island](https://open.spotify.com/artist/2L6LmEsTHaUiSr1cxjbT0U) | [Epic Love](https://open.spotify.com/album/5C1vgrBe5b4SeyS2Beap3c) | 1:27 |
 | 8 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 |
 | 9 | [Do Understand](https://open.spotify.com/track/4EM29o6NRkqkcGYZsVUdx5) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Morning Yolk](https://open.spotify.com/album/2Rj4kUv2XhpAko0Ckirg2X) | 2:14 |
 | 10 | [Highly Blessed](https://open.spotify.com/track/6JdfFM5WBrLpLDJ6p5aiEi) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Highly Blessed](https://open.spotify.com/album/1Rv4B8EwsTM4a1cYqfVv6r) | 1:38 |
 | 11 | [Fixed Emotions](https://open.spotify.com/track/7zqjFQqv1FEAv8nlEYLVoR) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [Fixed Emotions](https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu) | 2:38 |
 | 12 | [A Few Days Ahead](https://open.spotify.com/track/29Piig79HQpigQuUtxshPv) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [A Few Days Ahead](https://open.spotify.com/album/5mtJbn2mK0qS0iInJ9tmIt) | 2:22 |
-| 13 | [Gold Plated](https://open.spotify.com/track/1p0vYiUriWNU5mKQnOFJWI) | [Stratotune](https://open.spotify.com/artist/4jj5GyEzbV9KzXTu5nXyi0) | [Gold Plated](https://open.spotify.com/album/1rOtwbR2qwBhi8k5OSXLVd) | 2:13 |
+| 13 | [Gold Plated](https://open.spotify.com/track/1p0vYiUriWNU5mKQnOFJWI) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Gold Plated](https://open.spotify.com/album/1rOtwbR2qwBhi8k5OSXLVd) | 2:13 |
 | 14 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 |
 | 15 | [Immersive](https://open.spotify.com/track/5eqdjCfqFcbX4F6GBISrHm) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Immersive](https://open.spotify.com/album/7JEyelqrTWVdYq5jhH2a22) | 3:04 |
 | 16 | [Deeper \(You & Me\)](https://open.spotify.com/track/5RYaxKQYstksG8rNw8GPw9) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Deeper \(You & Me\)](https://open.spotify.com/album/55rAOu6q5xC3tqadSOUq0h) | 2:02 |
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 136 | [To You](https://open.spotify.com/track/1TOJ1T3qXhFQ5DDxU0TkNP) | [Dezi\-Belle](https://open.spotify.com/artist/7kiiO7qyA1Qe3WXJnc4eCy), [Baskito](https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v) | [To You](https://open.spotify.com/album/0ntsMtl3ksTux5OebMQpdH) | 2:23 |
 | 137 | [Charleston](https://open.spotify.com/track/4EZiv5t5MR1nck4tFpKPPZ) | [Grizzly Beatz](https://open.spotify.com/artist/2TzIeWirsf62rqqqQMrXY2) | [Charleston](https://open.spotify.com/album/1bjQK0oxLpUvkmVbvzaHls) | 2:09 |
 | 138 | [That Luv](https://open.spotify.com/track/6WKB629pzVQhLOuhO9ANLy) | [St\. Boi](https://open.spotify.com/artist/20zd3GJesUrI72DheayUcj) | [That Luv](https://open.spotify.com/album/3VGewfHQr2eLZDbdz1b3vr) | 1:55 |
-| 139 | [Jazzy Girl](https://open.spotify.com/track/3XoXEYaBCRdasiRNHywjWI) | [Z.LIMACO](https://open.spotify.com/artist/3z48GwjAb6HT7eQaougOYg) | [Aries](https://open.spotify.com/album/2yWlRhxxy4q9vNso6XwzcS) | 1:47 |
+| 139 | [Jazzy Girl](https://open.spotify.com/track/3XoXEYaBCRdasiRNHywjWI) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Aries](https://open.spotify.com/album/2yWlRhxxy4q9vNso6XwzcS) | 1:47 |
 | 140 | [It Just Is](https://open.spotify.com/track/0PPEr4f4M5TJlpSDyTRLXs) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [It Just Is](https://open.spotify.com/album/5MpzdUemANr85NiuElGJeB) | 3:12 |
 | 141 | [Time Ticks On](https://open.spotify.com/track/0M0NOfHNnXKOcFdrYkh0Te) | [Dusty Milk](https://open.spotify.com/artist/3fkcH05xZueDPnK5OBVDF1), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Time Ticks On](https://open.spotify.com/album/5ejUkax5ouTkt0cvIGpuoq) | 2:12 |
 | 142 | [Cotton Candy](https://open.spotify.com/track/5pDR1Z9j4FCTK0EbVQLH5z) | [U\-WARRIOR](https://open.spotify.com/artist/0VaCOtKG226cWSr9GQVeeN), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Cotton Candy](https://open.spotify.com/album/2C3TpTptiDdkNIqp0iZXGV) | 2:00 |
@@ -179,12 +179,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 169 | [Main Stage](https://open.spotify.com/track/3FGPjaDyaVXSpubOPwFV0Q) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Fake Business](https://open.spotify.com/album/79VlsORhx2r88yW7TRmDWW) | 2:18 |
 | 170 | [Dirty Streets](https://open.spotify.com/track/0x3XY7kRyWc2V42noCB2x3) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Beats In The Streets](https://open.spotify.com/album/3k2KcTV0MVcdSBRirdK4HU) | 1:11 |
 | 171 | [Slow Down](https://open.spotify.com/track/7m9L3LHhO1ALNXUJ7m9K04) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [Slow Down](https://open.spotify.com/album/2srbrMZXmGQskURfzFl3zx) | 3:07 |
-| 172 | [Beach Cruizer](https://open.spotify.com/track/7oXoDdKmi5HInxlcAkBHGr) | [Derivata](https://open.spotify.com/artist/2AiZiIawzbASzaIiG3M1bJ) | [Fatbike Ride](https://open.spotify.com/album/5R5IB0LdQ6XnXymZpoB2y3) | 2:08 |
+| 172 | [Beach Cruizer](https://open.spotify.com/track/7oXoDdKmi5HInxlcAkBHGr) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Fatbike Ride](https://open.spotify.com/album/5R5IB0LdQ6XnXymZpoB2y3) | 2:08 |
 | 173 | [Playful](https://open.spotify.com/track/2MVpsdNyF4sBUFZ3LuP592) | [Miss Sangria](https://open.spotify.com/artist/7qFNxNfrKpdnnDIaQkh4Ou) | [Floweristic](https://open.spotify.com/album/2K069mIX5P0ad1wZTtpOE7) | 1:57 |
 | 174 | [Happy Hours](https://open.spotify.com/track/2E3sQrE7A1yT7bbN5lQfT7) | [Dre Dilla](https://open.spotify.com/artist/3iEZGJz6uRmSbCbtxR4Zde) | [Happy Hours](https://open.spotify.com/album/7bhVGjoaVsXVwkHt9rUkst) | 2:26 |
 | 175 | [DID U TAKE IT ALL?](https://open.spotify.com/track/5yk4X1mRYvE92mVV3Rxs6E) | [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR) | [EAT MY SOUL](https://open.spotify.com/album/3J6pK48PU2p8TuJBpFBlGh) | 1:22 |
 | 176 | [Downtown Blizz](https://open.spotify.com/track/3kOGZX0wgaeSeB5UDOg9j2) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Downtown Blizz](https://open.spotify.com/album/4FHFwHU57wxdfgNLAe068e) | 2:04 |
-| 177 | [Belorá](https://open.spotify.com/track/0TjZORJlPmVEbJSmxmsqgm) | [Papir Chaser](https://open.spotify.com/artist/64jtTdqJ8iLVkpbiQvBfy2) | [Belorá](https://open.spotify.com/album/7cUx2Ie3a8B95wQSoW8oki) | 2:08 |
+| 177 | [Belorá](https://open.spotify.com/track/0TjZORJlPmVEbJSmxmsqgm) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Belorá](https://open.spotify.com/album/7cUx2Ie3a8B95wQSoW8oki) | 2:08 |
 | 178 | [Key Credit](https://open.spotify.com/track/0dcNLhcMbcFd1eduLDNuNT) | [xJ\-Will](https://open.spotify.com/artist/14QbOxlbZBCybkcI60L96Z) | [Key Credit](https://open.spotify.com/album/3bcGQiLUIxSIWno3N42rMh) | 2:08 |
 | 179 | [Harm's Way](https://open.spotify.com/track/3bgX4bSODZ1ccFP9eNnZAw) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [Harm's Way](https://open.spotify.com/album/7rkIUoh4KcdAXEH4zPfz7k) | 3:12 |
 | 180 | [Fleeting Time](https://open.spotify.com/track/4iyT7YRZtAfwb9MSTf3mTR) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e), [Emanuele Triglia](https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp) | [The Greenhouse Dream](https://open.spotify.com/album/6nqbLXaaG9MslP0Q7RamB3) | 2:16 |

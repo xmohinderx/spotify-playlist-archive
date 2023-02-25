@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,949 likes - 235 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,114 likes - 235 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 16 | [milky moon](https://open.spotify.com/track/5Ro7Zhxns5rtyleQsffnkb) | [Tween City](https://open.spotify.com/artist/0tVWLGanEa906nosw2Uu9p) | [milky moon](https://open.spotify.com/album/4D2PsPJFSQwH63YitxHYNy) | 2:09 |
 | 17 | [At The Hoffman's](https://open.spotify.com/track/2rTCp6VfOIqzzOJ2cvV16o) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [At The Hoffman's](https://open.spotify.com/album/4qSGLzKVXWdATYMG2T8HfM) | 2:20 |
 | 18 | [Rosso](https://open.spotify.com/track/3pscNS95UxbGBl9JY0SsFP) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Rosso](https://open.spotify.com/album/0VBXpCv2RP6ekq7rtGpX7w) | 2:01 |
-| 19 | [Autmn lights](https://open.spotify.com/track/6UHeYAousZpsl9P0G5mBmw) | [uncles](https://open.spotify.com/artist/1CKD1SbQGvHtuNmlIWC31B) | [Autumn Lights](https://open.spotify.com/album/2P4CR4bln2MHor1TL2uFKn) | 2:00 |
+| 19 | [Autumn Lights](https://open.spotify.com/track/6UHeYAousZpsl9P0G5mBmw) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [Autumn Lights](https://open.spotify.com/album/2P4CR4bln2MHor1TL2uFKn) | 2:00 |
 | 20 | [Imperfections](https://open.spotify.com/track/0i5AubRVwPsaOboen5f8qy) | [Ricki Wu](https://open.spotify.com/artist/1SafsbkYsfYnne8Rd7yRO5) | [Imperfections](https://open.spotify.com/album/2btvRw0NOs0iXNyiuwqDNI) | 2:20 |
 | 21 | [luna](https://open.spotify.com/track/2fUDoqxCoidsxEgck0EIgn) | [Callin Ill](https://open.spotify.com/artist/544MVBcCmeEFwvi18FXSgA) | [luna](https://open.spotify.com/album/1VK1itVCRFHqlU5q1Mp7VA) | 2:30 |
 | 22 | [Slumber](https://open.spotify.com/track/3uZ8bVDfsQhoBQ5IsIwBvd) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Slumber](https://open.spotify.com/album/1sArYbWbNRXCbZLRYfVa8J) | 2:07 |
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 155 | [clear blue atmosphere](https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [clear blue atmosphere](https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ) | 2:20 |
 | 156 | [Midnight Heart](https://open.spotify.com/track/1MbYPlwWJJ5xYeBt3Yv186) | [Syzygy X](https://open.spotify.com/artist/5bQ0VyBeExuR0VDhSMIuii) | [Midnight Heart](https://open.spotify.com/album/3509Yhr3a8aW3PnrmA0RVo) | 2:21 |
 | 157 | [Night Light](https://open.spotify.com/track/2U6vFampiXQZtmOhNXz7dp) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Night Light](https://open.spotify.com/album/2JEp433mqNZaTYe6R0D1AY) | 2:09 |
-| 158 | [Through The Wildness](https://open.spotify.com/track/2qRlg2aj8lFiN01eh4PABi) | [Inovalin Trem](https://open.spotify.com/artist/7EflRmV80Cnj9PmQZvpiUg) | [Through The Wildness](https://open.spotify.com/album/3gmXVJ5KvgK2DpMJo0yFRs) | 1:50 |
+| 158 | [Through The Wildness](https://open.spotify.com/track/2qRlg2aj8lFiN01eh4PABi) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Through The Wildness](https://open.spotify.com/album/3gmXVJ5KvgK2DpMJo0yFRs) | 1:50 |
 | 159 | [nightly adventures](https://open.spotify.com/track/45d5IT2ToIWAkoVTi5EoDi) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [nightly adventures](https://open.spotify.com/album/4iv0I4ZzBFoFPGLjR0QLEM) | 2:05 |
 | 160 | [vandusen](https://open.spotify.com/track/3fnkUmoQT7s9lnM2hSjkHy) | [Yaoan](https://open.spotify.com/artist/4rsiMqNHdFx2xmk376Xudv) | [vandusen](https://open.spotify.com/album/3OucxxWP81SLbCP3xiPZZ8) | 1:53 |
 | 161 | [among the trees](https://open.spotify.com/track/1kze18Zwl4jO9aA2cdUMRC) | [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy) | [among the trees](https://open.spotify.com/album/26ZrsWBB0KUEWcGJ3qIVhV) | 2:38 |

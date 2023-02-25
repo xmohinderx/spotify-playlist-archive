@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-05",
-  "description": "Stripped-down versions of all your favorite pop hits. Cover: Dean Lewis",
+  "description": "Stripped-down versions of all your favorite pop hits. Cover: Maisie Peters",
   "name": "Unplugged",
   "tracks": [
     {
@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Body Better (Acoustic)",
+        "url": "https://open.spotify.com/album/510JGc0LpOJbhiB0uOM9m9"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195391,
+      "name": "Body Better - Acoustic",
+      "url": "https://open.spotify.com/track/4e3QW9GKxYi3fx7RjjZh58"
+    },
+    {
+      "album": {
         "name": "Brave (Acoustic)",
         "url": "https://open.spotify.com/album/0moObTfsJiVZCaZsAwP3wK"
       },
@@ -418,7 +436,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 168538,
       "name": "Burning Bridges - up close, acoustic",
       "url": "https://open.spotify.com/track/2bOCRFFm14IAFAxpL7KKao"
@@ -1989,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Nicer (Acoustic)",
+        "url": "https://open.spotify.com/album/78SoTgcb3GmcIqa46vl28P"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167880,
+      "name": "Nicer - Acoustic",
+      "url": "https://open.spotify.com/track/5MfFCOVMkXkDC9NWklqPZ9"
+    },
+    {
+      "album": {
         "name": "Numb Little Bug (Piano Version)",
         "url": "https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv"
       },
@@ -2528,7 +2564,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 164606,
       "name": "There's No Way - Live from Box Fresh, London, 2018",
       "url": "https://open.spotify.com/track/0hDM5uXQEUB7KAneZr5KqQ"

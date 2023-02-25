@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-175 songs - 11 hr 10 min
+176 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs \(Live\)](https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV) | 5:09 | 2022-02-17 |  |
 | [Ain't Nobody \- Radio Version](https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Ain't Nobody](https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2) | 3:33 | 2022-09-02 |  |
 | [Alive](https://open.spotify.com/track/4xG2EUEUnmSfAIMt5xdQoa) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [ALIVE \(VERSIONS\)](https://open.spotify.com/album/3fjEBRJZDBChnCdRpGyMDa) | 2:40 | 2022-04-01 |  |
+| [All About You \- Live From Passion 2023](https://open.spotify.com/track/3N0aOVY4xR4sOP3hUCKiWN) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5KvkvQqiXctKJJPUPTUUtV) | 6:21 | 2023-02-24 |  |
 | [All I Ever Need](https://open.spotify.com/track/7sQ3XZD56ACwxkPstd0Mbg) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [All I Ever Need](https://open.spotify.com/album/05QEZYQlfpjn0Y8dXnImv5) | 4:15 | 2022-02-17 | 2022-08-27 |
 | [All I See](https://open.spotify.com/track/1OIhubEHsc9JJskFkqa1h3) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 2:58 | 2022-02-17 | 2022-08-27 |
 | [ALL THINGS](https://open.spotify.com/track/63mcCKVqiSKY16HS1IpC7Y) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace: The Album](https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s) | 3:06 | 2022-02-17 | 2022-08-27 |

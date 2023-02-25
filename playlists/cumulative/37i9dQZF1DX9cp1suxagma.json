@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "19y33",
+        "url": "https://open.spotify.com/album/79ZQwqhGfSCX32muM7GVAr"
+      },
+      "artists": [
+        {
+          "name": "Antonia Jones",
+          "url": "https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "19y33",
+      "url": "https://open.spotify.com/track/37QRr3OCmTEFobKk7m7Rft"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
       },
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 156666,
       "name": "\u00bfQu\u00e9 Hubiera Pasado?",
       "url": "https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk"

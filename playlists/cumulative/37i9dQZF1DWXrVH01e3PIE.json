@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Bhavi en la casa del Trap de Argentino.",
+  "description": "Tiago PZK en la casa del Trap de Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -2221,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "MVP'",
+        "url": "https://open.spotify.com/album/5GKvvVEt9IIWMjsJYOF382"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138080,
+      "name": "MVP'",
+      "url": "https://open.spotify.com/track/2sBKyxTecZFK1IA3HKqi69"
+    },
+    {
+      "album": {
         "name": "Nat Geo (Remix)",
         "url": "https://open.spotify.com/album/4mQCYm9dzempb87XCrQCCC"
       },
@@ -2486,7 +2504,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 193960,
       "name": "Otro De Esos D\u00edas",
       "url": "https://open.spotify.com/track/4KeX3jUuwS0Lr9RGFicu4V"
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 167743,
       "name": "P\u00e1lpitos",
       "url": "https://open.spotify.com/track/1C80yOmk8Ub5bhZHvvnir3"
@@ -3144,6 +3162,24 @@
       "duration_ms": 192052,
       "name": "Sin Dudar",
       "url": "https://open.spotify.com/track/0Ngq1ZDzAZERsiBfmbacgL"
+    },
+    {
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/63Evq6spRulb51uVevqui3"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135463,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN"
     },
     {
       "album": {

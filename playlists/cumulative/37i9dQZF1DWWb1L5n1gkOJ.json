@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/5MX9x3uO3SdV7RZrRucphr"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Haugen",
+          "url": "https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134444,
+      "name": "From Within",
+      "url": "https://open.spotify.com/track/7bHRDcc88QugeXmnxm3bRM"
+    },
+    {
+      "album": {
         "name": "Gentle Mind",
         "url": "https://open.spotify.com/album/61yKHUvPl3KNxKdZ8CytN4"
       },
@@ -1486,6 +1504,24 @@
       "duration_ms": 109017,
       "name": "Places Beyond",
       "url": "https://open.spotify.com/track/4kh3Hjy1RPkAbKZpHi5k17"
+    },
+    {
+      "album": {
+        "name": "Talking Souls",
+        "url": "https://open.spotify.com/album/5P7CUCHWkRwhFQT2iJ4e2B"
+      },
+      "artists": [
+        {
+          "name": "Rebootist",
+          "url": "https://open.spotify.com/artist/6kwfEowXeDA4ixlHvGmZpb"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Planet Calm",
+      "url": "https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx"
     },
     {
       "album": {

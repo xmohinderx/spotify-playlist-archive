@@ -437,6 +437,28 @@
     },
     {
       "album": {
+        "name": "Akita",
+        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "hartts",
+          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224293,
+      "name": "Akita (Feat. hartts) (Prod. OBSN)",
+      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
+    },
+    {
+      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/7HC4ncEdIrm0z8Ju33G97h"
       },
@@ -1160,7 +1182,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 192250,
       "name": "Black Raspberry",
       "url": "https://open.spotify.com/track/7qCvgdH5SUiPFAEQAEDfYb"
@@ -3490,7 +3512,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 151999,
       "name": "Fine and Free (Feat. Kim Seungmin)",
       "url": "https://open.spotify.com/track/7wmmTDVMibo4CRkafcUOQc"
@@ -3636,7 +3658,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 164480,
       "name": "Fragile (Prod. Dayrick)",
       "url": "https://open.spotify.com/track/4OsYZcgIDKPWoezA1sBeUF"
@@ -4812,7 +4834,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 148402,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6TxxgPdGN3NFYcFELXjeGD"
@@ -4878,7 +4900,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 172250,
       "name": "HOW U FEEL? (feat. Woo)",
       "url": "https://open.spotify.com/track/2c3D51aioWeAIjdoj90it3"
@@ -6416,7 +6438,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 179733,
       "name": "Loop (Feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/1QO3rNfh9Zu5r14aDzYjO7"
@@ -6676,7 +6698,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 154173,
       "name": "Make Love (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG"
@@ -10778,7 +10800,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 169717,
       "name": "Tasty x Tasty",
       "url": "https://open.spotify.com/track/6ubzgznl4lqaCYV2kd7ewv"
@@ -11366,7 +11388,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 135962,
       "name": "TRIP",
       "url": "https://open.spotify.com/track/3MsAfJBAE8fmEUyuywAv7A"
@@ -11550,7 +11572,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 226499,
       "name": "U",
       "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
@@ -11744,6 +11766,28 @@
       "duration_ms": 195500,
       "name": "vicious circle (Feat. Rei, Lil Kintexx)",
       "url": "https://open.spotify.com/track/6AnMuoMXMsaNq6TiWuwip4"
+    },
+    {
+      "album": {
+        "name": "Pressure Makes Diamonds",
+        "url": "https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182144,
+      "name": "Waiting For You (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/0nC94WBww2j23UVqWCIq12"
     },
     {
       "album": {

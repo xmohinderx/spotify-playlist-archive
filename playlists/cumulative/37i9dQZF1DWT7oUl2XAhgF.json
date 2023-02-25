@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Beat the Same",
+        "url": "https://open.spotify.com/album/3nXMNTGJIbUY9ytMUUEVGc"
+      },
+      "artists": [
+        {
+          "name": "Joey Dosik",
+          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226605,
+      "name": "Beat the Same",
+      "url": "https://open.spotify.com/track/4YNS5X205ZvDvRIl1SLAKS"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
       },
@@ -424,7 +442,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 274026,
       "name": "Brooklyn to Brooklin",
       "url": "https://open.spotify.com/track/6gn7j9XgdEQgaaJeGm6uTp"
@@ -692,7 +710,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 215204,
       "name": "Cruisin' to the Parque",
       "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
@@ -2537,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "Lord Have Mercy",
+        "url": "https://open.spotify.com/album/3Y46rN3HnsxoTa6AQWPYQF"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241216,
+      "name": "Lord Have Mercy",
+      "url": "https://open.spotify.com/track/4YhkOJonZ9OOeAmBWmbRj7"
+    },
+    {
+      "album": {
         "name": "Matters of the Heart",
         "url": "https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa"
       },
@@ -2780,7 +2816,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 189917,
       "name": "Make a Wish",
       "url": "https://open.spotify.com/track/6rHLPqcyk7ggv0PvTjt5yd"
@@ -4362,6 +4398,28 @@
       "duration_ms": 260706,
       "name": "The Light of the Sun",
       "url": "https://open.spotify.com/track/5o6klEdkcOSbzw9E3iHUYy"
+    },
+    {
+      "album": {
+        "name": "The Makings of you",
+        "url": "https://open.spotify.com/album/2HNuWHhCYirWiUWjkaJ8km"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        },
+        {
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172440,
+      "name": "The Makings of you",
+      "url": "https://open.spotify.com/track/5mdBYpo07zvlOTuSjooegw"
     },
     {
       "album": {

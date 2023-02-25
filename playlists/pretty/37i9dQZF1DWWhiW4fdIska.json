@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 17136,
+  "num_followers": 17171,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwNTIwOSwwMDAwMDAwMGVjZjI5MjA0N2JiZTZlMDZkMTQzZjExZjM0ZTVkNjM3",
+  "snapshot_id": "MTYzODkwNTIwOSwwMDAwMDAwMDkzYzM5MDYwOTdlYTc2Nzg0YmFkYjY2MWNjMzQ4M2Fk",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -611,22 +611,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 280773,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/7ELwHVSWfMNy4zEq1IIbWu"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Blue Guitar",
         "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 161479,
       "name": "Blue Guitar",
       "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 280773,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/7ELwHVSWfMNy4zEq1IIbWu"
     },
     {
       "added_at": "2020-10-21 20:41:20",

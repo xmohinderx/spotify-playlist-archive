@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Elji
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,750 likes - 40 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,849 likes - 40 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 15 | [Shatta Twist](https://open.spotify.com/track/290QMvxXhz9mPiOIqFiuTh) | [HURRICAN X](https://open.spotify.com/artist/3IBHfYxRgEQl6m8StAGjgZ), [Lupin](https://open.spotify.com/artist/7EC9ZWCZa08CJ9QLCJNfrU), [70 SHIINE](https://open.spotify.com/artist/2zXSoBiBJMdV1XjYbVI0op) | [Shatta Twist](https://open.spotify.com/album/6CqrWIfIYv8gI8aGLlBTP8) | 2:38 |
 | 16 | [KIMPEMBE](https://open.spotify.com/track/6qNqMw6bXD4Y8zNMe4epob) | [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg) | [KIMPEMBE](https://open.spotify.com/album/5EBbXZDMWTfSBCGZL5ETAW) | 2:26 |
 | 17 | [Asé](https://open.spotify.com/track/3im7T2q63a1razKvpV8pao) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Lucidity](https://open.spotify.com/album/4kGAKJMjCxOR17Q9Cd4O3h) | 3:43 |
-| 18 | [Whine it up](https://open.spotify.com/track/0r6CB4zVdoH4ejbtRV61yS) | [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Whine it up](https://open.spotify.com/album/6OJiOlpsFDPX74ZAgtmBSK) | 2:18 |
+| 18 | [Whine it up](https://open.spotify.com/track/0r6CB4zVdoH4ejbtRV61yS) | [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT), [Maureen](https://open.spotify.com/artist/7hQVPlRjmjFUAdWweGMWQp), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Whine it up](https://open.spotify.com/album/6OJiOlpsFDPX74ZAgtmBSK) | 2:18 |
 | 19 | [HoneyComb](https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [HoneyComb](https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM) | 2:19 |
 | 20 | [Mek She](https://open.spotify.com/track/4z94T1JRS8ZjmmGoGNtIhv) | [The Plugz Europe](https://open.spotify.com/artist/63qgmJRhJ07e8O9ez4IYql), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u) | [Mek She](https://open.spotify.com/album/4iEqnccSWaeo5qiTdSI04B) | 2:05 |
 | 21 | [MIROIR](https://open.spotify.com/track/307zhb6ICsQKBmpL48sFhh) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [MIROIR](https://open.spotify.com/album/4ayag4LJC9EJEmxdybgFp1) | 2:40 |

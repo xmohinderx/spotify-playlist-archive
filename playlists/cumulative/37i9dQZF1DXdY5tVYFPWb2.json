@@ -3119,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "Must Be Love",
+        "url": "https://open.spotify.com/album/3zjf043R7hfhOWybjg3btf"
+      },
+      "artists": [
+        {
+          "name": "Roomies",
+          "url": "https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199907,
+      "name": "Must Be Love",
+      "url": "https://open.spotify.com/track/3aRb0l183NvGHFxrCJSuJ5"
+    },
+    {
+      "album": {
         "name": "My Plan",
         "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
       },
@@ -5812,7 +5830,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 199907,
       "name": "\u304d\u3063\u3068\u611b",
       "url": "https://open.spotify.com/track/6fK6tauA3ezRp7Xs2vqCJp"

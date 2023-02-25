@@ -4,7 +4,7 @@
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-201 songs - 12 hr 13 min
+202 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [The Gunslinger](https://open.spotify.com/track/5K5qfjarVrpR1bpqFc2fer) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [No Mans Land](https://open.spotify.com/album/6mv6jWzf1Z3NsOEAHrh2ze) | 2:59 | 2021-10-26 |  |
 | [The Medium](https://open.spotify.com/track/3LtlQb74pLqC5KsllxIXoV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:07 | 2023-02-23 |  |
 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 | 2021-10-26 |  |
+| [The Royal Merchant \(Outer Banks Main Theme\)](https://open.spotify.com/track/3fYIKQt3TeJznTQxAeqEvj) | [Fil Eisler](https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj) | [Outer Banks: Season 3 \(Score from the Netflix Series\)](https://open.spotify.com/album/3Mp9GxRTMloesS1rHr6WAK) | 3:45 | 2023-02-24 |  |
 | [The Stranger](https://open.spotify.com/track/2CrMDlMhdLEPTPlTpALGHu) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [No Mans Land](https://open.spotify.com/album/6mv6jWzf1Z3NsOEAHrh2ze) | 3:08 | 2021-10-26 |  |
 | [The Tide Is High](https://open.spotify.com/track/6sCkLCSXMMf9q3ArEAsWnQ) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On The Beach With The Paragons](https://open.spotify.com/album/5rPWGUQEG3OfeT65tRqcf9) | 2:44 | 2023-02-23 |  |
 | [The Unknown \(feat\. Fmlybnd\)](https://open.spotify.com/track/1RXEj1Rbc1lCsMVLj5lVU2) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB), [FMLYBND](https://open.spotify.com/artist/6PwZP9O9dvJCMALhgjygnh) | [With You](https://open.spotify.com/album/4YvfWKiDjagZHCgzDLfoCu) | 5:11 | 2023-02-23 |  |

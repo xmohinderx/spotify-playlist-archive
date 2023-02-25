@@ -1,12 +1,12 @@
 {
   "description": "you could have anybody EENY \ud83d\udc48 MINY \u261d\ufe0f MOE \ud83d\udc49",
-  "num_followers": 170385,
+  "num_followers": 170963,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDM2YjcyMGEzMDg2NDVhMzNlMWYxOGQ5ZDIzNGE4Mzlh",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMGI4MWFmMmI1OTQ0YTZhYTJkMmUxYzY4OWZlODkyYTU4",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -79,18 +79,38 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Music Is a Part of the Soul.",
-        "url": "https://open.spotify.com/album/5FbZHzL3JLJdHhO0GVYJ7j"
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/73DfRZAOvXTeJKyd0pWs3v"
       },
       "artists": [
         {
-          "name": "Fantom",
-          "url": "https://open.spotify.com/artist/42N61ygUyJF7ooVCcmOhIO"
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/5h726j6J9LwwSoINEX4dLx"
         }
       ],
-      "duration_ms": 172116,
-      "name": "Give It to Me",
-      "url": "https://open.spotify.com/track/0uYRup7G0zdLWWGLf52ACH"
+      "duration_ms": 176286,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/04SSxcKDNjAkTvPeT0UUMN"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Die For You (Remix)",
+        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 232857,
+      "name": "Die For You - Remix",
+      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
     },
     {
       "added_at": "2023-02-23 23:00:00",

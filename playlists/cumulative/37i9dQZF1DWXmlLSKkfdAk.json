@@ -2025,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "Here Comes the Sun (Acoustic)",
+        "url": "https://open.spotify.com/album/431eyjZ99xg2q86X3aQA7h"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188226,
+      "name": "Here Comes the Sun - Acoustic",
+      "url": "https://open.spotify.com/track/41cpdd5Hvy577Ta7HV8FuV"
+    },
+    {
+      "album": {
         "name": "The Tip Jar Volume One",
         "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
       },

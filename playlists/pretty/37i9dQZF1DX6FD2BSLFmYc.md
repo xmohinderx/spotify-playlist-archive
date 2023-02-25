@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,265 likes - 82 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,310 likes - 82 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 27 | [In the Hidden Chambers of Caracol](https://open.spotify.com/track/3UhZCLlkRcJB1rl8UTQLYH) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [In the Hidden Chambers of Caracol](https://open.spotify.com/album/0oA7WnF8V6pOfpwbLrdvVi) | 2:55 |
 | 28 | [Tranquil Meditation](https://open.spotify.com/track/2lxg9bg6tLnomcsffKgcfv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:26 |
 | 29 | [Happiness](https://open.spotify.com/track/0lJ5rRcxyYDFddnKptuyXQ) | [Nambara Nim](https://open.spotify.com/artist/3At7zeaoPY1lvcdRNioifv) | [Happiness](https://open.spotify.com/album/4yfV7rBQ4zDMOV5cOh9PBd) | 3:20 |
-| 30 | [Spiritual Reinforcement](https://open.spotify.com/track/48tPeqcyGPRv8WgRMQucpU) | [Souloner](https://open.spotify.com/artist/1mCbX209L3vGpGgVDJVM6R) | [4 the 3 of us 2](https://open.spotify.com/album/3IHe1DrH3nAMf15eVuuRvM) | 2:55 |
+| 30 | [Spiritual Reinforcement \- 432 Hz](https://open.spotify.com/track/48tPeqcyGPRv8WgRMQucpU) | [Souloner](https://open.spotify.com/artist/1mCbX209L3vGpGgVDJVM6R) | [4 the 3 of us 2](https://open.spotify.com/album/3IHe1DrH3nAMf15eVuuRvM) | 2:55 |
 | 31 | [Vollmond Im Herbst](https://open.spotify.com/track/5MCnFtr9vx94kq0bxuK00r) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 5:42 |
 | 32 | [Somewhere In Goa](https://open.spotify.com/track/1IlzZ5wI1Jrbvhzi0huE8u) | [Mandala Ohm](https://open.spotify.com/artist/7DxNYkd18YNFvJnVJ8tSPu) | [Mandala Ohm](https://open.spotify.com/album/4DZVk0fgKgSEVvhM2Ks40D) | 3:28 |
 | 33 | [Spiritual Power](https://open.spotify.com/track/6EHx08pPJzvOD5xv9K3VQv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:25 |

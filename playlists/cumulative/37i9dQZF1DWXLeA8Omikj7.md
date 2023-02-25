@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-783 songs - 2 day 8 hr 2 min
+784 songs - 2 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,7 +489,7 @@
 | [On Deck](https://open.spotify.com/track/7hNWjvl7amThfh2uiZjoOa) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:35 | 2021-04-27 | 2022-04-19 |
 | [Once Around](https://open.spotify.com/track/17C3EXdU2eFGKnesQTkEJr) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 3:42 | 2020-04-23 |  |
 | [One Step Forward](https://open.spotify.com/track/0rIzxXL4cQzPBFtF2NsOSI) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Trust in Me \- EP](https://open.spotify.com/album/0f8vVaVqgqyVnzeB4m67R0) | 3:19 | 2019-06-19\* | 2022-04-21 |
-| [One Step Forward](https://open.spotify.com/track/5Xo1kp4UljShBuvV5PZfLj) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Trust In Me](https://open.spotify.com/album/1PXbhHNw3nz8hhYXyICbpA) | 3:19 | 2022-09-09 |  |
+| [One Step Forward](https://open.spotify.com/track/5Xo1kp4UljShBuvV5PZfLj) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Trust In Me](https://open.spotify.com/album/1PXbhHNw3nz8hhYXyICbpA) | 3:19 | 2022-09-09 | 2023-02-25 |
 | [Only In My Dreams](https://open.spotify.com/track/3ob0c8nlB7C6HdfEQLhdV4) | [Notaker](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En) | [PATH.FINDER](https://open.spotify.com/album/5wUNp46OQcNgYbjXSNYjYy) | 4:42 | 2019-06-19\* | 2020-10-22 |
 | [Open](https://open.spotify.com/track/2rExrHfNjFgSuAZnrcuCqL) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF), [Sam Brookes](https://open.spotify.com/artist/2QfiISy54lQqFOiZV5f1Zh) | [Café del Mar ChillWave 3](https://open.spotify.com/album/1DdsNCQ32Zoc8RtYB3sdPq) | 4:24 | 2019-06-19 | 2020-10-22 |
 | [Open Doors](https://open.spotify.com/track/7q42RrxgVbwqHrFUIj6w4E) | [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y) | [Inhibited LP](https://open.spotify.com/album/0WXEIsq4MYVxkK7Ap3YIfM) | 3:23 | 2020-08-26 | 2022-04-20 |
@@ -626,6 +626,7 @@
 | [Some Other Day](https://open.spotify.com/track/7G1xf2FMsWfbXH5TlUn2Ap) | [Solcal](https://open.spotify.com/artist/747NrOqEVashBfjHGkwfhn) | [Some Other Day](https://open.spotify.com/album/33o265ZYYvht3tsO7TvbTh) | 3:06 | 2021-03-17 | 2022-07-28 |
 | [Someone](https://open.spotify.com/track/5q3v3zNrPnuXG0AmqqMB4I) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff) | [Misplaced I](https://open.spotify.com/album/4MTswGkYNVTqOrt9AKPhkp) | 4:29 | 2019-06-19\* | 2020-10-22 |
 | [Sorry I'm Late](https://open.spotify.com/track/2RyguUkAyXZCy9fPm9t287) | [nosy beats](https://open.spotify.com/artist/328lSlbMXsTeL5WrodhZw7) | [Sorry I'm Late](https://open.spotify.com/album/219BiIPQaDt3HHndaDQX5w) | 1:42 | 2020-01-29 | 2020-10-22 |
+| [Soul's Matter](https://open.spotify.com/track/1Xvy3NhRnObNYxuKVsabDL) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Our Language](https://open.spotify.com/album/5MsxvhXIJxpiXJI2MNF3VE) | 3:42 | 2023-02-17 |  |
 | [Soul's Matter](https://open.spotify.com/track/21eK9EjODeTWhC81a8GVfe) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Soul's Matter](https://open.spotify.com/album/7enFY8U4qxBRPJj2V92Wqd) | 3:42 | 2020-11-13 | 2022-06-29 |
 | [Sound In A Dark Room \- Bassnectar Remix](https://open.spotify.com/track/3MJVyTcumDVSCv4Gurv4Eg) | [Telefon Tel Aviv](https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Reflective \(Part 4\)](https://open.spotify.com/album/59irM4SBxc5pxP7gur7rfw) | 3:55 | 2019-06-19\* | 2020-10-19 |
 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 | 2021-09-03 | 2023-02-02 |

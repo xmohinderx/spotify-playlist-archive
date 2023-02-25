@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Eric Bibb
 
-183 songs - 10 hr 50 min
+185 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Love One Another](https://open.spotify.com/track/64eBuqWRATkq4dtgMtzGq0) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi), [Marlon Jackson](https://open.spotify.com/artist/5DG9htBpiEo5W6jUmYgbKF) | [Under Your Spell](https://open.spotify.com/album/18U447Ip4CM4yoQc26DJ1i) | 3:03 | 2021-07-09 | 2022-08-27 |
 | [Make a Move](https://open.spotify.com/track/4GOm5E75Wqq3e3SzlbsGvr) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Make a Move](https://open.spotify.com/album/2xx4wUH6WUi7JqAZORwSQZ) | 2:26 | 2021-07-26 | 2022-08-27 |
 | [Man in the Ground](https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf) | [Jack Barksdale](https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt) | [Man in the Ground](https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF) | 3:06 | 2022-02-18 |  |
+| [Mansplaining](https://open.spotify.com/track/5Tm0VqSqqqNwZUVQuwVbkG) | [Suzy Jones](https://open.spotify.com/artist/09LV3PoRCBuphbxYFEx8eh) | [Mansplaining](https://open.spotify.com/album/3yLVnS35HeOSWjOvpeIGci) | 4:01 | 2023-02-24 |  |
 | [Marinate \(feat\. Eric Debonair McNair\)](https://open.spotify.com/track/0ZQFl5jbiOlMVd9LJ1hOjB) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm), [Eric Debonair McNair](https://open.spotify.com/artist/1eXugyduNLx3cD5MVHWzkz) | [Wings and Blue Cheese](https://open.spotify.com/album/6SVJvFoVij5TG39JhWkoBA) | 2:49 | 2021-02-05 | 2022-03-26 |
 | [Mermentau Bridge](https://open.spotify.com/track/0fYkNpOMsXzSARMvUN2QdC) | [Rod Gator](https://open.spotify.com/artist/2ujFQDji7S3dy974xmgQoM) | [For Louisiana](https://open.spotify.com/album/3U5PnRc797Sof0LD6NgWkC) | 3:36 | 2021-09-17 |  |
 | [Mississippi \(feat\. Alvin Youngblood Hart, R.L\. Boyce & Speech\)](https://open.spotify.com/track/4QmpGQH2Iv6u9wxAdZn18l) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG), [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2), [Speech](https://open.spotify.com/artist/0ATg66209dS5nFsvobJlRt) | [Mississippi \(feat\. Alvin Youngblood Hart, R.L\. Boyce & Speech\)](https://open.spotify.com/album/08FKzpmSLAl1KUu5MdmaSW) | 4:01 | 2022-06-10 | 2022-06-25 |
@@ -159,6 +160,7 @@
 | [Talk To You](https://open.spotify.com/track/61PCdbwmjg5LwyIBvcuQGe) | [Dennis Johnson](https://open.spotify.com/artist/4q4GIOKuoGbaa9nkroBWjF) | [Talk To You](https://open.spotify.com/album/0koP38sKFmgO6GNRXM87MT) | 3:23 | 2022-05-20 |  |
 | [Tell It Like It Is](https://open.spotify.com/track/78E7JIkQwkUjjX8nWN1pga) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Neither Here Nor There](https://open.spotify.com/album/71RpBQJxPUyMXJETnpDFiy) | 2:55 | 2022-04-29 |  |
 | [Ten Toes Down](https://open.spotify.com/track/2oqOVs5FVAyMWQhT5Bpdsa) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Ten Toes Down](https://open.spotify.com/album/3quqmLko0E0EbZR9s3JDzf) | 4:21 | 2021-02-05 | 2022-03-26 |
+| [Texas Louisiana \(feat\. Buddy Guy\)](https://open.spotify.com/track/3DZ5bcFFhOvKMNxR6Pp4vD) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Texas Louisiana \(feat\. Buddy Guy\)](https://open.spotify.com/album/5LMd10PTBVkd9a16l1LDVd) | 2:55 | 2023-02-24 |  |
 | [That's The Way I Feel About You](https://open.spotify.com/track/4SrcZBjrz1mTrjFfwuGG06) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [That's The Way I Feel About You](https://open.spotify.com/album/01nRgsi6ofoo1HBxFwg6Ha) | 4:53 | 2021-07-02 | 2022-06-19 |
 | [The Anima](https://open.spotify.com/track/1zDPvPPoKIXqfwYR5eYkeE) | [Cullah](https://open.spotify.com/artist/5Emm04qPI9mTCoRI9XkHUz) | [The Anima](https://open.spotify.com/album/5gX48dDCJxNwgH80UPM7mD) | 3:03 | 2023-01-27 |  |
 | [The City Streets \(Ps.23\)](https://open.spotify.com/track/3Evbh7zMfQ9thUxYjsvfAG) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Hard Time Blues](https://open.spotify.com/album/4LqKWtUn78Qaj7Jwo7dK0h) | 4:32 | 2021-09-10 |  |

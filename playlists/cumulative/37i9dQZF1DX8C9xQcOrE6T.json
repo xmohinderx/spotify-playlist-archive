@@ -1731,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Walt Disney Records The Legacy Collection: Robin Hood",
+        "url": "https://open.spotify.com/album/56ewU1ti6LTUjDQzsI9QZD"
+      },
+      "artists": [
+        {
+          "name": "Nancy Adams",
+          "url": "https://open.spotify.com/artist/69ktA9CYo2KzvtMrP7An91"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116946,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3M6YfoPwvvTHK1mnCQmqHI"
+    },
+    {
+      "album": {
         "name": "Love Is an Open Door",
         "url": "https://open.spotify.com/album/6slcWjDG8l1CKq02C8u2gQ"
       },

@@ -639,6 +639,28 @@
     },
     {
       "album": {
+        "name": "First Light (Live)",
+        "url": "https://open.spotify.com/album/2RsWDwGFxarODRFW73hA3V"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        },
+        {
+          "name": "Billy Childs",
+          "url": "https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498000,
+      "name": "First Light - Live",
+      "url": "https://open.spotify.com/track/3uXFvzREIaJ4vupIMyIaOx"
+    },
+    {
+      "album": {
         "name": "Footprints - Live",
         "url": "https://open.spotify.com/album/77hBFKuRXGV6kgHsG2c034"
       },

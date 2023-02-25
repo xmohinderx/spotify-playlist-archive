@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte?si=OlbIxFqRTP2qPo6MdJzfdA">Josiah De Disciple</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,723 likes - 50 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,638 likes - 50 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 18 | [Point at Them](https://open.spotify.com/track/1oOEbAS0F7ztS9zQhDCU9q) | [Ezase Thupa](https://open.spotify.com/artist/30XSITmzOH1DuyxCpk6v3H), [Z2A](https://open.spotify.com/artist/0q6WvSRwzKthUTPIR5LrpY), [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Djy Vino](https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8), [MANZO](https://open.spotify.com/artist/0bdD9etXM49q5mph7En4On) | [Class of 2023, Term 1.](https://open.spotify.com/album/3vZRUokTed6kH530YzzG7p) | 5:41 |
 | 19 | [Kwenzenjani](https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Stakev](https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw) | [REKERE](https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD) | 7:45 |
 | 20 | [Buya](https://open.spotify.com/track/1gZ9sXMHzIfqOdQsYKUYoc) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Story To Tell: Vol 2](https://open.spotify.com/album/5oTL4CPQO4To71EcqI6a4I) | 6:42 |
-| 21 | [Aw'ufani Nabanye](https://open.spotify.com/track/2iR0mXh8lpo3TK3ot8MBua) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Ben Da Prince](https://open.spotify.com/artist/0Ci6FRYVax5ZNIUdZzpiLv), [Nkosazana\_Daughter](https://open.spotify.com/artist/2KFBgdGWpDd7guvNqILGoE) | [Aw'ufani Nabanye](https://open.spotify.com/album/7AL2HQOR0b6E7GMONp2m6P) | 7:51 |
+| 21 | [Aw'ufani Nabanye](https://open.spotify.com/track/2iR0mXh8lpo3TK3ot8MBua) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Ben Da Prince](https://open.spotify.com/artist/0Ci6FRYVax5ZNIUdZzpiLv), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) | [Aw'ufani Nabanye](https://open.spotify.com/album/7AL2HQOR0b6E7GMONp2m6P) | 7:51 |
 | 22 | [Sengizwile \(feat\. Aymos & Young Stunna\)](https://open.spotify.com/track/3PdO57q0KLWkfWXsXQJlV6) | [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Young Stunna](https://open.spotify.com/artist/5EFltv565Wfat1X84qESVr) | [Auti 'eSharp](https://open.spotify.com/album/6J12Gv5rBMymYJlCM4hXPu) | 7:00 |
 | 23 | [Waga Bietjie](https://open.spotify.com/track/6Zt8YY9f4rr7gMJcCPkxbr) | [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Waga Bietjie](https://open.spotify.com/album/2TyOzlPqEocMb1YFTMxF48) | 4:51 |
 | 24 | [Ncebeleka](https://open.spotify.com/track/5OLFMjFMyg7P88mOt9ytT0) | [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV) | [Ncebeleka](https://open.spotify.com/album/2xbGRjaYioSA0qrur8sHb0) | 5:44 |

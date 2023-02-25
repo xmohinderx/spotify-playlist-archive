@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jake Shears",
-  "num_followers": 77103,
+  "num_followers": 77295,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGMyZjk5ZjY1YTQ0NjRhMGViZDhiOGRiNjA5ZjgxYWFk",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGI1MmQ4NWM5MGFlMDFhNDkyMThlMWFlOTI1NTZjOGQ5",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 243106,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Tux (Your Body Fills Me, Boo)",
+        "url": "https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd"
+      },
+      "artists": [
+        {
+          "name": "U.S. Girls",
+          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
+        }
+      ],
+      "duration_ms": 386020,
+      "name": "Tux (Your Body Fills Me, Boo)",
+      "url": "https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -79,6 +95,22 @@
       "duration_ms": 182314,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/0DYZUV1290HJrt0MM9yKa0"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Happy Feet",
+        "url": "https://open.spotify.com/album/6hzOYxTPevulNU4sihTakC"
+      },
+      "artists": [
+        {
+          "name": "David Blazer",
+          "url": "https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "Happy Feet",
+      "url": "https://open.spotify.com/track/5vIjRSQN0qOzNA8yD62nS5"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1731,46 +1763,6 @@
       "duration_ms": 224640,
       "name": "Cry (Just A Little)",
       "url": "https://open.spotify.com/track/4DtxGurCuuY1yZLoAXLxFp"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor] [Harvey Sutherland Remix]",
-        "url": "https://open.spotify.com/album/1F8boVPj0u2N926VIyVZfX"
-      },
-      "artists": [
-        {
-          "name": "DJ Spiller",
-          "url": "https://open.spotify.com/artist/6Ai7Oi56rJwoPAG8N2jsv6"
-        },
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
-        }
-      ],
-      "duration_ms": 247179,
-      "name": "Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor] - Harvey Sutherland Remix",
-      "url": "https://open.spotify.com/track/7m02XUSTZiS3NlLmmNpbCP"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Club Paradise",
-        "url": "https://open.spotify.com/album/7bgC1AI5uhgpFGOIcXGwoA"
-      },
-      "artists": [
-        {
-          "name": "Cab'Ral",
-          "url": "https://open.spotify.com/artist/2CIdibKYdqFN9ivfLFA7hj"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "Club Paradise",
-      "url": "https://open.spotify.com/track/36shm7XEr7Uzug8gQ02Kpn"
     },
     {
       "added_at": "2022-03-04 05:01:00",

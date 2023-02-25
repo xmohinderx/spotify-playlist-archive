@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Karen Jonz, CSS
 
-328 songs - 18 hr 42 min
+329 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Quem Me Dera](https://open.spotify.com/track/4Wbupcobm9ryFXY5M3Hwoa) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Quem Me Dera](https://open.spotify.com/album/6xyftajgJC0tmzaKgyLINz) | 2:26 | 2022-11-18 | 2023-01-14 |
 | [Quem somos nós](https://open.spotify.com/track/1GqXsiusqMiPmZtjnBfL6t) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Ressaca](https://open.spotify.com/album/3rkkLKfD5NpXDnwxQU79y3) | 3:41 | 2022-01-14 | 2022-08-06 |
 | [Querer Nunca Fez Planos](https://open.spotify.com/track/2XEuJHY9Ak80QwI1BVhmMa) | [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb), [Boogarins](https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s) | [Querer Nunca Fez Planos](https://open.spotify.com/album/6JrS5ydirAAPoXipEYqD6I) | 3:37 | 2022-05-27 | 2022-07-02 |
+| [Querido](https://open.spotify.com/track/0PwSwGyOUT0HqCOOgY2ny3) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29) | [Querido](https://open.spotify.com/album/3X25A4Wln0BapqgiEWjy3E) | 3:16 | 2023-02-24 |  |
 | [Raio](https://open.spotify.com/track/2PcjavAsBsTlpX3TuLndpK) | [Nathan Dies](https://open.spotify.com/artist/1JcsUiXXY016XtwaKpIAuh) | [Instinto](https://open.spotify.com/album/2LbTR9Dz0YpMrrBAoGJEIl) | 3:28 | 2022-01-14 | 2022-02-26 |
 | [Resquício](https://open.spotify.com/track/5rsTzSbUgJjnWjN30UUnVZ) | [Prado and the Wolf](https://open.spotify.com/artist/4ikOpFJhvVX13BYuRiL2dx) | [Mil Versões de Mim](https://open.spotify.com/album/1DivR2ZFmaDCjrPGZCaZjN) | 2:54 | 2022-01-14 | 2022-06-04 |
 | [Reticências \(...\)](https://open.spotify.com/track/4XSgzlOaOEpBp6ZbM4xC8r) | [Mateus Ribeiro](https://open.spotify.com/artist/5VFgZ3wnBSjOj8YSKbRvis) | [Reticências \(...\)](https://open.spotify.com/album/2kMSjh8jymILdApWx5e7oE) | 3:14 | 2022-08-19 |  |

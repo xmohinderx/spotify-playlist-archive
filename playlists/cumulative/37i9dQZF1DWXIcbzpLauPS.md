@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: The Amity Affliction
 
-645 songs - 1 day 16 hr 46 min
+650 songs - 1 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Deathtouch](https://open.spotify.com/track/4ihxHSh37giw8ANfu8PqlP) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Deathtouch](https://open.spotify.com/album/4lK1lZBV3S2o8XhMvSbvHH) | 3:45 | 2022-07-13 | 2022-07-23 |
 | [Deathtouch](https://open.spotify.com/track/1wT1jaAjqwigxsRu6ooBbt) | [Paleface](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Deathtouch](https://open.spotify.com/album/0XwFiP0w8btY009yWB2GhQ) | 3:21 | 2022-07-13 | 2022-07-23 |
 | [Deathwish](https://open.spotify.com/track/1Qdz2l8hr4mNwGj43AyVIR) | [In Dying Arms](https://open.spotify.com/artist/5m3RbDfOQ3RHxrebIytwSW) | [Deathwish](https://open.spotify.com/album/4HJfPe3SlTU1qoT2qHGLCh) | 3:47 | 2022-07-13 | 2022-07-23 |
+| [Decay](https://open.spotify.com/track/188VxGLFQF56eO5o7bOwiC) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Decay](https://open.spotify.com/album/5wYZPVMaVGyrfy8xeJdswt) | 3:26 | 2023-02-24 |  |
 | [Dedication To Flesh](https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Dedication To Flesh](https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67) | 3:26 | 2022-08-19 | 2022-12-17 |
 | [Defeating Gravity](https://open.spotify.com/track/2tWY9liu4YQs4WM3hOLdnP) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Defeating Gravity](https://open.spotify.com/album/3ScSXOlja6qwDv2Knrkd2c) | 3:06 | 2022-04-22 | 2022-07-08 |
 | [Defiance](https://open.spotify.com/track/3ABwHp5CgD7lIbLYuVbCUY) | [ENOX](https://open.spotify.com/artist/29giH6njkq3yqb6lIf4dou) | [Euphoria](https://open.spotify.com/album/5YEVvBgnmWsTbzxtLjSBNM) | 3:57 | 2022-01-14 | 2022-04-29 |
@@ -434,8 +435,10 @@
 | [Pain Remains III: In a Sea of Fire](https://open.spotify.com/track/6wgKN7mUq1CvQBnQKzjeKt) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains](https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI) | 9:12 | 2022-10-28 | 2022-12-17 |
 | [Pale Tongue](https://open.spotify.com/track/0gZ3mkOOapnWMkmwefrDzc) | [The Oklahoma Kid](https://open.spotify.com/artist/02Y9YvfIFsX1nG4qPuBbW6) | [Pale Tongue](https://open.spotify.com/album/6pgxhNnusTdUnOOuhiJKEK) | 3:36 | 2021-12-17 | 2022-03-18 |
 | [Pandora](https://open.spotify.com/track/4d9LsaHESzctVq4PcfZh24) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Pandora](https://open.spotify.com/album/2OiGgonTvEC5CHNZg5R0xW) | 4:36 | 2022-07-13 | 2022-07-23 |
+| [Panic Waves](https://open.spotify.com/track/2UE48m09FyDdc6Ot1sGKqS) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Panic Waves](https://open.spotify.com/album/5aNJN4zGJTPKvie47D56aE) | 4:07 | 2023-02-24 |  |
 | [Paradigm](https://open.spotify.com/track/5dEyjGoDvm4anASD9kAXEZ) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [Hell Will Come for Us All](https://open.spotify.com/album/5u6SV78mDidg0AKa7u3M70) | 3:56 | 2022-07-13 | 2022-07-15 |
 | [Parasite](https://open.spotify.com/track/4V004qkJIj2kvRUvA28LI3) | [Abyss Walker](https://open.spotify.com/artist/0gJ0dOw0r6daBMmJr6ROvQ), [Sammy SlamDance](https://open.spotify.com/artist/64LYfCjQQZTG2ygTRfFzk1), [Nick Cross](https://open.spotify.com/artist/0YSnq2dV2heq3fiu5kacmH), [Divisive](https://open.spotify.com/artist/7J0ZwYG57Ruw6ExLKls9PC) | [Parasite](https://open.spotify.com/album/0Tr8yRpp0crtdCltwINpYP) | 3:51 | 2022-07-13 | 2022-07-22 |
+| [Parasite](https://open.spotify.com/track/0sBXPxWJpMlQBnVF2y78Rg) | [Archetypes Collide](https://open.spotify.com/artist/6Gnk08ItppARKX1z1EW3Vn) | [Parasite](https://open.spotify.com/album/0sx2ImaWkigyLHH45jdIo1) | 3:32 | 2023-02-24 |  |
 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 | 2022-02-11 | 2022-07-23 |
 | [Pernicious](https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Pernicious](https://open.spotify.com/album/41B7Vg1Vsc0W4bIFswKKOk) | 5:15 | 2022-07-13 | 2022-07-23 |
 | [PIGS EAR](https://open.spotify.com/track/4ZJduIHjMVQ3RIxFOR7sHz) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [PIGS EAR](https://open.spotify.com/album/58CBeC9b0zQuOiFb0JniJT) | 2:11 | 2022-07-13 | 2022-07-17 |
@@ -481,6 +484,7 @@
 | [Rōnin](https://open.spotify.com/track/11ArWSwCKdG9P0ZAzDlS2G) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Rōnin](https://open.spotify.com/album/6QxmiqZTHh35bUPiYtgXgc) | 9:13 | 2022-03-25 | 2022-05-21 |
 | [SACRiFiCE](https://open.spotify.com/track/4LGOYMMj4ksSVaR28vX7zq) | [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA), [Billy Martin](https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE) | [bioMACHiNA](https://open.spotify.com/album/4azxoq5UXg4huDqHWo9SL1) | 3:30 | 2022-04-22 | 2022-07-08 |
 | [Sadness Rains](https://open.spotify.com/track/1N5soNoyhRJkvXXZz6QQ9o) | [Violent Life Violent Death](https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ) | [Sadness Rains](https://open.spotify.com/album/6WproHvfs67n2KljIg5Tgx) | 2:40 | 2022-07-13 | 2022-07-23 |
+| [Safe And Sound](https://open.spotify.com/track/1LtXoOrqBYS8kcheVUt5Pr) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Safe And Sound](https://open.spotify.com/album/3QUEnfQoenkZIyLZDMSegH) | 3:21 | 2023-02-24 |  |
 | [Salt](https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Salt](https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0) | 3:27 | 2022-06-10 |  |
 | [Samsara](https://open.spotify.com/track/75hUTjvvI6X6CQJ0HvmmX8) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Samsara](https://open.spotify.com/album/1aJPBAfywf1Vsi5vkvSMMV) | 3:44 | 2021-12-17 | 2022-02-18 |
 | [Sapiens](https://open.spotify.com/track/5EgV8FKEaHyIItt0swNjhO) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Sapiens](https://open.spotify.com/album/2DuGroRwamTPVVIWZxJNWz) | 3:43 | 2021-12-17 | 2022-02-18 |
@@ -543,6 +547,7 @@
 | [System Failure](https://open.spotify.com/track/04DSKHIgp10PuSCHDKsef2) | [If I Were You](https://open.spotify.com/artist/64eAZjkDzPIGbBuiANH78Y) | [A Decade Gone By](https://open.spotify.com/album/0N93vn1mrctly0i2LdABYE) | 3:55 | 2021-12-17 | 2022-02-18 |
 | [Tailspin](https://open.spotify.com/track/20LvFcZE98jHaKkXn08GHe) | [The Wise Man's Fear](https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44) | [Tailspin](https://open.spotify.com/album/4HoG0k0I5c6ENALVZ7cGJw) | 3:16 | 2022-01-14 | 2022-04-29 |
 | [Take Me To Hell](https://open.spotify.com/track/0nEiGzZ4KvcrAkibCNeFKF) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Take Me To Hell](https://open.spotify.com/album/2dK4X6T1BIPHzwaiUBkXGJ) | 3:30 | 2022-07-13 | 2022-07-21 |
+| [Take Off](https://open.spotify.com/track/0TSz9TsaZXc6I6yKAa4xCD) | [Gideon](https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ) | [Take Off](https://open.spotify.com/album/4Am9KEEleButgBfQ9rq6Gh) | 3:28 | 2023-02-24 |  |
 | [Take Your Love and Leave](https://open.spotify.com/track/6S0KonuMvq99QR0Rh03pz4) | [Noija](https://open.spotify.com/artist/2h5GVPMC3JJQHOnnhkBr5E) | [Take Your Love and Leave](https://open.spotify.com/album/29c2FSkTeIJAyPZN0TCnaY) | 3:35 | 2021-12-17 | 2022-04-02 |
 | [Talk to Me](https://open.spotify.com/track/4QOuEQBmCJJJhYTkrE5Zy2) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [Talk to Me](https://open.spotify.com/album/78jDD0o4blFWZTpo9tHWoh) | 3:16 | 2023-01-20 |  |
 | [Tea Leaves](https://open.spotify.com/track/71rABdFG3LvphzqmMxDF2c) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Tea Leaves](https://open.spotify.com/album/6lcDSJnPRtRwPmNVVQc0Tt) | 3:34 | 2022-04-01 | 2022-04-15 |

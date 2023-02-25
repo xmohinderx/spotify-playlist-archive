@@ -1435,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Pure Compassion",
+        "url": "https://open.spotify.com/album/3PATLSMzIxGyO16NM4X44Y"
+      },
+      "artists": [
+        {
+          "name": "Trancistique",
+          "url": "https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Pure Compassion",
+      "url": "https://open.spotify.com/track/2lfF19uOXezWdCisdAtQJh"
+    },
+    {
+      "album": {
         "name": "Rejuvenation",
         "url": "https://open.spotify.com/album/7atqe3Cp2ezHLqBL8mo0OQ"
       },

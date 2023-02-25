@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,925 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,934 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 | 13 | [Subroutines](https://open.spotify.com/track/63mxkfFKoOlZclXgs7IbMs) | [Ctrls](https://open.spotify.com/artist/5PM5HE3CFA2qdDnVucPMRc) | [Your Data](https://open.spotify.com/album/6zZxNXfiYxofTYciOsGbYD) | 5:03 |
 | 14 | [Kekuasaan \(Prontaxan Remix\)](https://open.spotify.com/track/5ZCUAO9sJoRi6t9g8k91Mg) | [Senyawa](https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ) | [Alkisah Dikisahkan](https://open.spotify.com/album/2vWMINv5ZtiZsfiG2chFKI) | 6:34 |
 | 15 | [Gazelles](https://open.spotify.com/track/5NXtSlE0fIxHedvt8bMlQd) | [Safa](https://open.spotify.com/artist/24Szdb46cXuW37aog0aosQ) | [Ibtihalat](https://open.spotify.com/album/3UYnjb0u2MQPEwkanjQzdr) | 3:35 |
-| 16 | [There U'Go Boi](https://open.spotify.com/track/4g3E15psqGmFo7DtCcar3i) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Legacy](https://open.spotify.com/album/7aiZNOEqeeN6muKostcqJC) | 4:19 |
+| 16 | [There U'go Boi](https://open.spotify.com/track/5jeJMqYK9OionveErndSBa) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Legacy](https://open.spotify.com/album/22G89plPWhZKj8fa87IiZl) | 4:19 |
 | 17 | [Crazy Beat Music Umeme 1](https://open.spotify.com/track/7n18K8yKvsNAajjOraGwWy) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Mr Mixondo](https://open.spotify.com/album/0xrUheYqInXx39HHCw4Uc7) | 3:39 |
 | 18 | [Gunjula \- Metrist Remix](https://open.spotify.com/track/45QvvNFHcZpIYTRGdbWp4s) | [Nihiloxica](https://open.spotify.com/artist/5jh8Bu4TjUGzixND0q0mGL), [Metrist](https://open.spotify.com/artist/2EaMCfkZ07OvRk0w2UOEwg) | [Kaloli Recycled](https://open.spotify.com/album/27T0AEWnQ6RD554Qg40kLI) | 3:52 |
 | 19 | [Connect the Dots](https://open.spotify.com/track/44Xk7oWSZ7tg42OIfuceNb) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Embryo](https://open.spotify.com/album/1ryxYY4AE47xKcTo5X1gxw) | 3:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 | 59 | [The Future is Female](https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Diavoli](https://open.spotify.com/album/5bGud6uErdBVZbwUqBlIvc) | 5:24 |
 | 60 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDlkYjc5NTczOWFhYjJjMWFmYWE1NGY5NDkwMzMwMDFl`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDZhODJlOWY2MjIxYWExZDBlMTJiMzNlMmU0NjhmNmY2`

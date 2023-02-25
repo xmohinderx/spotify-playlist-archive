@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > 🎸 canzoni da gridare e in cover simone panetti 🎸
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,450 likes - 74 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,457 likes - 74 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 63 | [E\-Girl](https://open.spotify.com/track/7gfFSQzNcuJzck1XejZ1o9) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I), [ERRE](https://open.spotify.com/artist/5qsqKIWFc0atXDqx4yZAJF) | [E\-Girl](https://open.spotify.com/album/5hyrDYJfXPgBr4fblJL1II) | 2:15 |
 | 64 | [Horror](https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 3:39 |
 | 65 | [Questa tua fottuta negatività](https://open.spotify.com/track/4qaoYHNEeEEFNcYnjSPCCy) | [Redd](https://open.spotify.com/artist/7I5vEYDtuS7TwfVAhBWeLk) | [Questa tua fottuta negatività](https://open.spotify.com/album/31zbrJQzG2tEzwaNrV6kDr) | 2:36 |
-| 66 | [SOTTONE DANNATO](https://open.spotify.com/track/2hFvWFjEe67dgSYsHr4TNv) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq), [MdN](https://open.spotify.com/artist/5yaVqVjGwm9X6ECl7Rhnpt), [Quello](https://open.spotify.com/artist/7GdkzNtMzNUCOMxqBYacF7), [Zzama](https://open.spotify.com/artist/3d9yGJbbSuMUQ1wzNmGISp), [Oreste](https://open.spotify.com/artist/1iEAHd4i99ehWHsruWZ6FL), [Lele](https://open.spotify.com/artist/3SnnCylpFBT2CY1UmvBIxd) | [SOTTONE DANNATO](https://open.spotify.com/album/19nsl3rgHoUVzLGzxZKVBv) | 3:12 |
+| 66 | [SOTTONE DANNATO](https://open.spotify.com/track/6tUwIQtOtnr3ETob6dl1Kz) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq), [MdN](https://open.spotify.com/artist/5yaVqVjGwm9X6ECl7Rhnpt), [Quello](https://open.spotify.com/artist/7GdkzNtMzNUCOMxqBYacF7), [Zzama](https://open.spotify.com/artist/3d9yGJbbSuMUQ1wzNmGISp), [Oreste](https://open.spotify.com/artist/1iEAHd4i99ehWHsruWZ6FL), [Lele](https://open.spotify.com/artist/3SnnCylpFBT2CY1UmvBIxd) | [SOTTONE DANNATO](https://open.spotify.com/album/7mpH2Yd0j1Y7LnSAy15T0t) | 3:12 |
 | 67 | [Memory card](https://open.spotify.com/track/0aEn53Ylvg9hqBrh3DcvYx) | [Morganorarity](https://open.spotify.com/artist/1PZQrQESNQJPWZKXPC43nS), [CarciofinoLesso](https://open.spotify.com/artist/3d81H4qtyNPCScsnG54cUP) | [LORE FM + Memory Card \(slot 1\)](https://open.spotify.com/album/2l3ptPuZVll09MATXBl3sX) | 2:39 |
 | 68 | [Fottuta Metà](https://open.spotify.com/track/2DEKLuq7DbIF74ZfHauwhI) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb), [DANDY TURNER](https://open.spotify.com/artist/3PEzbnNp2kOuNcL0Z19o0w) | [Punk Rock Boy](https://open.spotify.com/album/2ZOFYmi9h3R7T0tupX4iKh) | 3:02 |
 | 69 | [Salsa di soia](https://open.spotify.com/track/4lGlRTOUL3qCQuS02VqCYr) | [CITRIESTE](https://open.spotify.com/artist/2xOa0F2TZGjX9uOZ60TCI2), [G Ferrari](https://open.spotify.com/artist/02i5S2ZvFZTFVSlhO7umae) | [Salsa di soia](https://open.spotify.com/album/2lQSPpNeL7jXPj4Ze5XZOy) | 2:47 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 73 | [Ma non erano te](https://open.spotify.com/track/0B1LI7BXzvtxDVdpyxCWKb) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Ma non erano te](https://open.spotify.com/album/2XaVVwShBDQsoF20aHYGFM) | 2:33 |
 | 74 | [BENE DA SOLA](https://open.spotify.com/track/1awWd0CV6H0cm5NnZ0FAI0) | [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [BENE DA SOLA](https://open.spotify.com/album/4Fo2F1PyIvtB0E03gu0uAX) | 2:33 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMGM4YTI2NjJjOGQ0ZDE5MjdhYTRiNmYwY2M2NTkyYzZl`
+Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDJkOTJlNDRjZjUxNDIxMDdhYjY0NDA5MGVjZjI2ZGE2`

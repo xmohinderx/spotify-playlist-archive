@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "abril y mayo",
+        "url": "https://open.spotify.com/album/6TJb3LPI6maq3gsRpdwNWa"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120542,
+      "name": "abril y mayo",
+      "url": "https://open.spotify.com/track/2fuskS7S2Bmz2hmR7dxPQK"
+    },
+    {
+      "album": {
         "name": "Acepto",
         "url": "https://open.spotify.com/album/7uX4XUwFWuvbOY3Tb73ZvK"
       },
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 227093,
       "name": "Cielo - Anhelo br\u00fajula del destino",
       "url": "https://open.spotify.com/track/2BfqQCKiA6F7l294f64IOY"
@@ -3737,6 +3755,24 @@
     },
     {
       "album": {
+        "name": "Mi otra mitad",
+        "url": "https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229524,
+      "name": "Mi otra mitad",
+      "url": "https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g"
+    },
+    {
+      "album": {
         "name": "Mi Propio Lago",
         "url": "https://open.spotify.com/album/4asixMg1KsVDnmYPoDZ7MG"
       },
@@ -4960,7 +4996,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 156383,
       "name": "Quiero y duelo",
       "url": "https://open.spotify.com/track/4zGE9bLIHl1LpnaLpi6RUp"

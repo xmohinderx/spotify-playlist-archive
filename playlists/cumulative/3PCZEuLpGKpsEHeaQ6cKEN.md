@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: D.O.D
 
-442 songs - 23 hr 39 min
+443 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Oumuamua](https://open.spotify.com/track/5Jzmp4VSCccJVsLTyjADYQ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 5:25 | 2022-06-09 | 2022-07-22 |
 | [Our Power](https://open.spotify.com/track/6kzb5xFIVQloGO2utSH55O) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Our Power](https://open.spotify.com/album/684NGswNZ4FIRNkga7eRKF) | 3:40 | 2023-02-16 |  |
 | [Outta Control Again](https://open.spotify.com/track/7qBrxl5C9G2z6L57tuaqHq) | [Maurice West](https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk) | [Outta Control Again](https://open.spotify.com/album/21DT13hsLykKMH67UZRjOc) | 2:42 | 2022-06-09 | 2022-10-14 |
+| [Overdrive](https://open.spotify.com/track/0Ahobc1CvObnmqpnUx0Jrx) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Overdrive](https://open.spotify.com/album/3T1UpcLsI5HgB74XrwFwe7) | 2:05 | 2023-02-24 |  |
 | [Para Mi](https://open.spotify.com/track/3RFESPIpvob2mdNyHyNcWY) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Para Mi](https://open.spotify.com/album/5NiICKMH7RL1DwaF9vrbR6) | 2:38 | 2022-09-01 | 2022-09-23 |
 | [Paradise](https://open.spotify.com/track/5s7fSXfFEnmlyCQQaNJ5CV) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Paradise](https://open.spotify.com/album/4c1BRuiJdkhUqF9PT2KoGD) | 3:48 | 2022-06-09 | 2022-06-24 |
 | [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 | 2022-06-09 | 2022-07-22 |

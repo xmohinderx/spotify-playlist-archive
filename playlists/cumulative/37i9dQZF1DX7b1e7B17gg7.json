@@ -529,6 +529,28 @@
     },
     {
       "album": {
+        "name": "The Spiekeroog Sessions",
+        "url": "https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Muschalle",
+          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
+        },
+        {
+          "name": "Stephan Holstein",
+          "url": "https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265159,
+      "name": "Ferry Crossing Blues",
+      "url": "https://open.spotify.com/track/47QhhDihrVeoFbUum7r7NY"
+    },
+    {
+      "album": {
         "name": "All Blues",
         "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
       },
@@ -659,6 +681,24 @@
     },
     {
       "album": {
+        "name": "You Never Were Much of a Dancer",
+        "url": "https://open.spotify.com/album/00hAIOxKP2p7ZIesC5oz2M"
+      },
+      "artists": [
+        {
+          "name": "Gwenifer Raymond",
+          "url": "https://open.spotify.com/artist/2scavaz2jGMWRFULHoe5je"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Laika's Song",
+      "url": "https://open.spotify.com/track/4t32sZg7Cz1yTrIxHqV7Hy"
+    },
+    {
+      "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
@@ -786,6 +826,46 @@
       "duration_ms": 192957,
       "name": "Mojo Blues",
       "url": "https://open.spotify.com/track/1QdEiSoPTpZv5oktIRAbSZ"
+    },
+    {
+      "album": {
+        "name": "Mr. B.",
+        "url": "https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs"
+      },
+      "artists": [
+        {
+          "name": "Tomislav Goluban",
+          "url": "https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN"
+        },
+        {
+          "name": "Bo\u0161ko Petrovi\u0107",
+          "url": "https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405346,
+      "name": "Mr. B.",
+      "url": "https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE"
+    },
+    {
+      "album": {
+        "name": "No Entry",
+        "url": "https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD"
+      },
+      "artists": [
+        {
+          "name": "Errol Linton",
+          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254475,
+      "name": "No Entry Blues",
+      "url": "https://open.spotify.com/track/7hxz3zPoriVdciNiWA6QDY"
     },
     {
       "album": {

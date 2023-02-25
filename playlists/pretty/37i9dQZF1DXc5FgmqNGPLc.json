@@ -1,13 +1,33 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 5009,
+  "num_followers": 5022,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDdiYzViMGE0NDFjMGE4YWU3Nzk3ODAzNjMwMWU5ZjQw",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDA3YzQ3ZWJkYmFkMTc3OGRhMjk2ZDc1ZDA4ODkwZjdi",
   "tracks": [
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "First Light (Live)",
+        "url": "https://open.spotify.com/album/2RsWDwGFxarODRFW73hA3V"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        },
+        {
+          "name": "Billy Childs",
+          "url": "https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR"
+        }
+      ],
+      "duration_ms": 498000,
+      "name": "First Light - Live",
+      "url": "https://open.spotify.com/track/3uXFvzREIaJ4vupIMyIaOx"
+    },
     {
       "added_at": "2023-02-17 05:01:00",
       "album": {

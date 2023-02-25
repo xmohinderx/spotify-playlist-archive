@@ -1,13 +1,33 @@
 {
   "description": "Lush, shimmery guitars. Cover: Tom Misch",
-  "num_followers": 17465,
+  "num_followers": 17499,
   "original_name": "Shimmer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDUxMzEyMjVjYmQ5ZWZhZjA4ODZhMmNmMDlmOGJkOTBl",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGJiZTE4NzUxMDYxZTk4NzNjZTFkMjM1OWE2MWU0ZjIw",
   "tracks": [
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "kaikou",
+        "url": "https://open.spotify.com/album/0PE0VFv0hw4mOR2YzWtLvQ"
+      },
+      "artists": [
+        {
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+        },
+        {
+          "name": "Yusuke Kurahara",
+          "url": "https://open.spotify.com/artist/4xKBOSQPNQJGUgDF8JBpSp"
+        }
+      ],
+      "duration_ms": 249795,
+      "name": "kaikou",
+      "url": "https://open.spotify.com/track/1AesTrOgTs32vdG8qTnKMq"
+    },
     {
       "added_at": "2022-07-15 04:02:00",
       "album": {
@@ -1131,26 +1151,6 @@
       "duration_ms": 267000,
       "name": "This World",
       "url": "https://open.spotify.com/track/5UrRSpJaU8sCp1C8OeurgV"
-    },
-    {
-      "added_at": "2021-09-08 16:21:45",
-      "album": {
-        "name": "work_1",
-        "url": "https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs"
-      },
-      "artists": [
-        {
-          "name": "Kazuki Isogai",
-          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
-        },
-        {
-          "name": "yuhei miura",
-          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
-        }
-      ],
-      "duration_ms": 87216,
-      "name": "Kazuki_2",
-      "url": "https://open.spotify.com/track/4Q9XEpUEHOmhP0ThwFhgSo"
     }
   ],
   "unique_name": "Shimmer",

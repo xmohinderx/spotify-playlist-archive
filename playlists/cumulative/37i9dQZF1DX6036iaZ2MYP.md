@@ -2,9 +2,9 @@
 
 ### [Peppeh](https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP)
 
-> Tracks popping off in the Afro scene\. Cover: Ayra Starr
+> Tracks popping off in the Afro scene\. Cover: Aya Nakamura
 
-127 songs - 6 hr 27 min
+128 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,10 +87,11 @@
 | [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 | 2022-10-27 |  |
 | [My Man](https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [My Man](https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA) | 3:38 | 2022-07-13 | 2022-12-15 |
 | [Mysterious](https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Mysterious](https://open.spotify.com/album/0wCfJvi08X1dBz01JbFEIY) | 2:44 | 2022-10-13 |  |
+| [Nakupenda](https://open.spotify.com/track/2hNHmy4JZqx5eWUYsNB9lt) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [Nakupenda](https://open.spotify.com/album/4gSUv6jfjDJXL8to2ep6Hj) | 3:30 | 2023-02-24 |  |
 | [Never Let Go \- Remix](https://open.spotify.com/track/7LOZ9ogL9heo1JiA7Va175) | [DJ FiiFii](https://open.spotify.com/artist/3OnR9rQurffV6EPVk46fwU), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu), [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [Never Let Go Remix](https://open.spotify.com/album/4fV1WkpgkI1eeisnKQjohB) | 4:17 | 2022-10-06 |  |
 | [NISHALEWA](https://open.spotify.com/track/7BYBqKKbJclOWJXUwZINle) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [NISHALEWA](https://open.spotify.com/album/4YtJE09qGavW9e84Hst1qS) | 1:50 | 2022-07-13 | 2022-08-26 |
 | [No Dey Form](https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [No Dey Form](https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV) | 2:20 | 2022-07-13 |  |
-| [NO PLASTIC](https://open.spotify.com/track/6EogXiW8jsO38lWb7fZLF1) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [NO PLASTIC](https://open.spotify.com/album/0N9BQ259WqvW6ZX0aEY9q3) | 2:38 | 2023-01-27 |  |
+| [NO PLASTIC](https://open.spotify.com/track/6EogXiW8jsO38lWb7fZLF1) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [NO PLASTIC](https://open.spotify.com/album/0N9BQ259WqvW6ZX0aEY9q3) | 2:38 | 2023-01-27 | 2023-02-25 |
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2022-07-13 | 2022-08-26 |
 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2022-07-13 | 2022-09-15 |
 | [ODG](https://open.spotify.com/track/27ftIsCnZyS5l4NfvqALLS) | [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT) | [Body of Work](https://open.spotify.com/album/5OnyqL9XksyqPRkthm0DtL) | 3:13 | 2022-07-28 | 2022-09-20 |
@@ -129,7 +130,7 @@
 | [Ubuntu](https://open.spotify.com/track/56V2TjCLIuLwlvs490eYuD) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Hmlss](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq) | [Ubuntu](https://open.spotify.com/album/6zeICp9olJFKLS3wEaijme) | 2:52 | 2022-12-01 | 2022-12-09 |
 | [Venom](https://open.spotify.com/track/3bSlZwO8QKTF9eBkTtYJzb) | [KC](https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv), [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91) | [Venom](https://open.spotify.com/album/0yGkAoeBAUNYLb5Z86mqM9) | 2:37 | 2022-07-13 | 2022-08-26 |
 | [Want You](https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Want You](https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX) | 3:25 | 2022-07-13 | 2023-01-13 |
-| [Wat Het Is](https://open.spotify.com/track/3PAPCLyMceCymHkAUbrDMi) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf) | [Wat Het Is](https://open.spotify.com/album/4avor6SsbPKVaxlq9JKset) | 2:39 | 2022-10-27 |  |
+| [Wat Het Is](https://open.spotify.com/track/3PAPCLyMceCymHkAUbrDMi) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf) | [Wat Het Is](https://open.spotify.com/album/4avor6SsbPKVaxlq9JKset) | 2:39 | 2022-10-27 | 2023-02-25 |
 | [When I See You](https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [When I See You](https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0) | 2:39 | 2022-09-08 |  |
 | [WITH YOU](https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [WITH YOU](https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u) | 3:12 | 2022-07-13 | 2023-01-13 |
 | [Won Da Mo](https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Won Da Mo](https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC) | 4:07 | 2022-12-01 |  |

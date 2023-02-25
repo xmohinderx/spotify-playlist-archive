@@ -4,7 +4,7 @@
 
 > Today's biggest Dance hits! Cover: Dom Dolla & MK
 
-149 songs - 7 hr 50 min
+150 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Reason](https://open.spotify.com/track/2X5x1sFaOFQ38h0kvnmsAS) | [2RISKY](https://open.spotify.com/artist/3O1XjJOqWsWhnaPS3jRCru), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Reason](https://open.spotify.com/album/3YFcwzG2Cdf4jEDZQ7z2kM) | 3:28 | 2023-01-05 |  |
 | [Rely On Me](https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Rely On Me](https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2) | 2:54 | 2022-12-08 | 2023-01-27 |
 | [Revolution](https://open.spotify.com/track/1vlnbR9iKNLCAlEDNSBrxj) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Revolution](https://open.spotify.com/album/6A1uNJqYuAhldH89hy70od) | 4:07 | 2022-12-29 | 2023-02-10 |
-| [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 | 2023-02-23 |  |
+| [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 | 2023-02-23 | 2023-02-25 |
+| [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 | 2023-02-23 |  |
 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 | 2022-12-08 |  |
 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 | 2023-01-05 |  |
 | [Run To Paradise \(Partiboi69 vs\. Choirboys\)](https://open.spotify.com/track/4Kfd6EaxEsiKq0qe3vx1qw) | [Choirboys](https://open.spotify.com/artist/2u6qHMpQaE48aowjWKJeCM), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [Run To Paradise \(Partiboi69 vs\. Choirboys\)](https://open.spotify.com/album/4SHpY8m2QUlPlZsM2QAPab) | 3:21 | 2022-12-08 |  |

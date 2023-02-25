@@ -7694,7 +7694,7 @@
     {
       "album": {
         "name": "The Edge",
-        "url": "https://open.spotify.com/album/2HnbfPdTfU6ALbVGxE7xID"
+        "url": "https://open.spotify.com/album/38tSiz1dWutOylg4K0b1WF"
       },
       "artists": [
         {
@@ -7705,6 +7705,24 @@
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163790,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/1YQ6997r5wOIYmYBkDer2i"
+    },
+    {
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/2HnbfPdTfU6ALbVGxE7xID"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
       "duration_ms": 163790,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/7ErnaYalt2rUa9TZbq5fwU"

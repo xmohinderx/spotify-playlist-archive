@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Oruam, Borges, Chefin",
-  "num_followers": 87354,
+  "num_followers": 87616,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI5NTYzNiwwMDAwMDAwMDhlZmYzM2Y5OTljZjNhNWE4MDRhOWE2MTkyYjAyNzRh",
+  "snapshot_id": "MTY3NjI5NTYzNiwwMDAwMDAwMGYxZWI5OWZmMDE2NzVlOWM4YTI2MWE4ZDZhMzQ0MDYx",
   "tracks": [
     {
       "added_at": "2023-02-13 13:40:36",
@@ -947,6 +947,26 @@
     {
       "added_at": "2023-02-13 13:40:36",
       "album": {
+        "name": "Nasci Pra Vencer / Sou M\u00e1",
+        "url": "https://open.spotify.com/album/7ad7erETGKaJg6q5i4bIXb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 148479,
+      "name": "Nasci Pra Vencer",
+      "url": "https://open.spotify.com/track/1XO1fmOVCn0vtZTEocpG42"
+    },
+    {
+      "added_at": "2023-02-13 13:40:36",
+      "album": {
         "name": "SUV PRATA",
         "url": "https://open.spotify.com/album/6PJMkptGy0mgvP0exF9CUy"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 149647,
       "name": "SUV PRATA",
       "url": "https://open.spotify.com/track/0pMpTL5FukBIuPQiUZJVom"
-    },
-    {
-      "added_at": "2023-02-13 13:40:36",
-      "album": {
-        "name": "Nasci Pra Vencer / Sou M\u00e1",
-        "url": "https://open.spotify.com/album/7ad7erETGKaJg6q5i4bIXb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 148479,
-      "name": "Nasci Pra Vencer",
-      "url": "https://open.spotify.com/track/1XO1fmOVCn0vtZTEocpG42"
     },
     {
       "added_at": "2023-02-13 13:40:36",

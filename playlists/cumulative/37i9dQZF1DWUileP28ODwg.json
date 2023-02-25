@@ -4318,7 +4318,7 @@
     {
       "album": {
         "name": "This I Know (Jesus Loves Me)",
-        "url": "https://open.spotify.com/album/7cYdBWyaoE8UCUW3cHlZhU"
+        "url": "https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP"
       },
       "artists": [
         {
@@ -4329,6 +4329,24 @@
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 222428,
+      "name": "This I Know (Jesus Loves Me)",
+      "url": "https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L"
+    },
+    {
+      "album": {
+        "name": "This I Know (Jesus Loves Me)",
+        "url": "https://open.spotify.com/album/7cYdBWyaoE8UCUW3cHlZhU"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
       "duration_ms": 222428,
       "name": "This I Know (Jesus Loves Me)",
       "url": "https://open.spotify.com/track/71gmThHplhegRGnswUTD2O"

@@ -4,7 +4,7 @@
 
 > ¡Arelys Henao y más mujeres, a todo volumen!
 
-157 songs - 8 hr 53 min
+158 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [No Fui Solo Yo](https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [No Fui Solo Yo](https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio) | 3:22 | 2022-05-04 |  |
 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 | 2022-09-07 | 2023-01-05 |
 | [No Hay una Vida Que No Nos Duela](https://open.spotify.com/track/1p0wuVjISHjF45zzjvVBJ5) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [No Hay una Vida Que No Nos Duela](https://open.spotify.com/album/6In5wZ5nybOTglfJc5740c) | 3:37 | 2022-01-05 | 2022-09-10 |
+| [No Me Hablen de Él](https://open.spotify.com/track/0evFiUFMG6KNXTnXlthNRT) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [No Me Hablen de Él](https://open.spotify.com/album/70RI4gxiCzSrYmWsnChiIz) | 3:11 | 2023-02-24 |  |
 | [No Se Me Ve Tan Mal \(NSMVTM\)](https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [No Se Me Ve Tan Mal \(NSMVTM\)](https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ) | 2:45 | 2022-09-23 | 2023-01-05 |
 | [No Soy de Callar](https://open.spotify.com/track/47U6WT9IaozynJQQn4cfHb) | [Ana María Vahos](https://open.spotify.com/artist/0JOEaSFcfKMWv91hwVTdf7) | [Amor Profundo](https://open.spotify.com/album/785Bp0IlD9sB1WrXXqI1Jf) | 3:04 | 2022-01-05 | 2022-11-03 |
 | [No Te Pido Más](https://open.spotify.com/track/71tVAHlntYm49TTYwhe8uG) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [No Te Pido Más](https://open.spotify.com/album/0yE1wk2NYPTO47P1Tozbz1) | 3:19 | 2022-01-05 | 2022-02-03 |
@@ -148,7 +149,7 @@
 | [Totó Remix: la Candela Viva / Adiós Fulana / Mapalé / Goza Plinio Sierra \- Radio Edit](https://open.spotify.com/track/6UP4uC5iRIOmGb7ewISYIT) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Gaitas y Tambores](https://open.spotify.com/album/7pxMkfeW9yqXvKbvmd0Srx) | 4:53 | 2022-07-06 | 2023-01-05 |
 | [Tu](https://open.spotify.com/track/5bQdprOeiheK9CqIYgUfPD) | [Antombo](https://open.spotify.com/artist/0Gw0yTDnb8VNDKg70YUnvM) | [Natural](https://open.spotify.com/album/4I7jRaamLwR0blv9qzGiW7) | 3:45 | 2022-07-06 |  |
 | [TÉ](https://open.spotify.com/track/3qXG5PejI9Z8ZFdfjrtZOQ) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:34 | 2023-01-04 |  |
-| [Tío Guachupesito](https://open.spotify.com/track/7AzIWxOIJOqOt6GXZKhDUD) | [Canalón de Timbiquí](https://open.spotify.com/artist/49qnSNt8EO6ppsKVddyInS) | [De Mar y Río](https://open.spotify.com/album/3AjG16gUxVdNEIv09vKTZE) | 6:00 | 2022-01-05 |  |
+| [Tío Guachupesito](https://open.spotify.com/track/7AzIWxOIJOqOt6GXZKhDUD) | [Canalón de Timbiquí](https://open.spotify.com/artist/49qnSNt8EO6ppsKVddyInS) | [De Mar y Río](https://open.spotify.com/album/3AjG16gUxVdNEIv09vKTZE) | 6:00 | 2022-01-05 | 2023-02-25 |
 | [Tóxico](https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:18 | 2022-03-04 |  |
 | [Tú](https://open.spotify.com/track/0hyKDphP6TYK39ULPxy3vw) | [Antombo](https://open.spotify.com/artist/0Gw0yTDnb8VNDKg70YUnvM) | [Natural](https://open.spotify.com/album/6t3NeikS5j2aSxWYDFFi7m) | 3:45 | 2022-01-05 | 2022-07-29 |
 | [Ubalauka](https://open.spotify.com/track/0BjB9sSJtvQdmoMGieswNw) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Ubalauka](https://open.spotify.com/album/4fMI5YS8cD4aDJGoKx0xZI) | 2:51 | 2022-01-05 |  |

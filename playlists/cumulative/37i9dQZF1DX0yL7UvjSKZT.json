@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
+      },
+      "artists": [
+        {
+          "name": "Ethan Setiawan",
+          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372746,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
+    },
+    {
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/6RSSNjlOMArkHjtgMU0YFb"
       },
@@ -3662,6 +3680,32 @@
       "duration_ms": 144567,
       "name": "The Horn",
       "url": "https://open.spotify.com/track/5mJ54mjLUJ7OSexRIVRmR4"
+    },
+    {
+      "album": {
+        "name": "The House on Wisteria",
+        "url": "https://open.spotify.com/album/5GmaughK5b5a2W4F7DwDiM"
+      },
+      "artists": [
+        {
+          "name": "Ben Garnett",
+          "url": "https://open.spotify.com/artist/1vMW79N05EBwxt889CvYFO"
+        },
+        {
+          "name": "Brittany Haas",
+          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
+        },
+        {
+          "name": "Paul Kowert",
+          "url": "https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298043,
+      "name": "The House on Wisteria",
+      "url": "https://open.spotify.com/track/2T9Cki45v1Cdtim8t4IOzC"
     },
     {
       "album": {

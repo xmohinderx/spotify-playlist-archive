@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-300 songs - 17 hr 8 min
+301 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Drum](https://open.spotify.com/track/759Qc9P8jWrRw4huLXWGQS) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:34 | 2023-02-23 |  |
 | [EASY ON ME](https://open.spotify.com/track/5PvDkxIW9DoKLEJu0F1upY) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:22 | 2022-11-16 |  |
 | [EASY ON ME](https://open.spotify.com/track/5Wjf1uUhP6Y2MKe1pJ8Ohe) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO?](https://open.spotify.com/album/4sih9lWIIKldL1n5kcotjI) | 3:22 | 2022-09-08 | 2022-11-17 |
-| [Eat You Up](https://open.spotify.com/track/5EfC8dEGT6hRMpvBkVoMiX) | [NASHE](https://open.spotify.com/artist/2GUJqSGRk1wqqvcbELRMAC) | [With Love \(Deluxe\)](https://open.spotify.com/album/5Dv1bxV6dqdgmzUZnnJITh) | 3:36 | 2022-09-08 |  |
+| [Eat You Up](https://open.spotify.com/track/535GtRsCDLp9H6x8Hff5D0) | [NASHE](https://open.spotify.com/artist/2GUJqSGRk1wqqvcbELRMAC) | [All Yours, Vol\. 1](https://open.spotify.com/album/1XJU5A9j0HQnxa7qxaOI3O) | 3:36 | 2023-02-24 |  |
+| [Eat You Up](https://open.spotify.com/track/5EfC8dEGT6hRMpvBkVoMiX) | [NASHE](https://open.spotify.com/artist/2GUJqSGRk1wqqvcbELRMAC) | [With Love \(Deluxe\)](https://open.spotify.com/album/5Dv1bxV6dqdgmzUZnnJITh) | 3:36 | 2022-09-08 | 2023-02-25 |
 | [Entirety](https://open.spotify.com/track/7Cu9VJOK9A0gJtTTLbJ9GU) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Entirety](https://open.spotify.com/album/32LE97oCqz8Nw0DvJOK1PT) | 3:08 | 2022-09-08 |  |
 | [Everything](https://open.spotify.com/track/7urCyCOzhOLrzgMzgfhluA) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Everybody's Talking About Jamie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3UqKCHOpXqyypagS12l4ns) | 3:48 | 2022-12-15 |  |
 | [Feel Good \(It's Alright\) \(feat\. Karen Harding\)](https://open.spotify.com/track/46VKKXfpbJDi9aqhomNFrZ) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Feel Good \(It's Alright\) \[feat\. Karen Harding\]](https://open.spotify.com/album/0NQhCyUDNtZvd7pVBiHP4I) | 3:11 | 2022-09-08 |  |

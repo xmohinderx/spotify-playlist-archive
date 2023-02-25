@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,126 likes - 502 songs - 19 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,329 likes - 502 songs - 19 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 35 | [It Feels Right](https://open.spotify.com/track/1nRWpQ6hdE7lgGOJg5rnSt) | [Taste Of Purple](https://open.spotify.com/artist/29ulLEQloQJrmKG4HHBmBa) | [Hip Hope](https://open.spotify.com/album/5obALIk6zsK0gYEiM0YwkU) | 1:42 |
 | 36 | [measure](https://open.spotify.com/track/6Xgh67TMWtXrKfeAVSDYBA) | [Mo Rana](https://open.spotify.com/artist/5ZQEuLlGt1sfPoZIqFyKG9) | [measure](https://open.spotify.com/album/0gQG0fIyasBTSdPCC9yQuO) | 2:27 |
 | 37 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Discant Of Venus](https://open.spotify.com/artist/3GqXOi7G86eK1uMNOiuTTn) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 |
-| 38 | [Ewreka](https://open.spotify.com/track/6OplxekMb8dbnH3ZbLVJvo) | [Papir Chaser](https://open.spotify.com/artist/64jtTdqJ8iLVkpbiQvBfy2) | [Ewreka](https://open.spotify.com/album/34BU4llTcSkoRilnkdDBBl) | 2:08 |
+| 38 | [Ewreka](https://open.spotify.com/track/6OplxekMb8dbnH3ZbLVJvo) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Ewreka](https://open.spotify.com/album/34BU4llTcSkoRilnkdDBBl) | 2:08 |
 | 39 | [Sun\-Rainy](https://open.spotify.com/track/1hZEKLB9Xwgla0rkleh7sh) | [Phat Dizzy Dean](https://open.spotify.com/artist/1o0M8dJPrG2xg5u3gv9D6g) | [Sun\-Rainy](https://open.spotify.com/album/005AxaCubpQkVCI4cyiNOq) | 2:43 |
 | 40 | [Curious](https://open.spotify.com/track/5vJwUYGqvf3OON93oEvwQq) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Curious](https://open.spotify.com/album/0iU0c2qWBI0NFcTLurQP7B) | 2:25 |
 | 41 | [Santino](https://open.spotify.com/track/5QKDIzfyW02WRcA3Ag9kDe) | [Oops 123](https://open.spotify.com/artist/617zYYWCbL7eE07lP9O8rH) | [Santino](https://open.spotify.com/album/5HYlvWpJTGR9s4LobjeleM) | 3:11 |
@@ -189,7 +189,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 179 | [Where Is Umha?](https://open.spotify.com/track/3fYnz85wqb89SKrdrElgXw) | [Umha](https://open.spotify.com/artist/4nCoGJfSn0GQZJ1GKawE14) | [Where Is Umha?](https://open.spotify.com/album/7kN8thNA1SucK1nT6T4fhm) | 2:43 |
 | 180 | [Hatching a Dragon](https://open.spotify.com/track/4l6cRJ99ytW8NUqelWn5IL) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Hatching a Dragon](https://open.spotify.com/album/4ZaPUMuADwnfJLZKEXbPix) | 2:46 |
 | 181 | [Digital Dice](https://open.spotify.com/track/77Sk0jBgzhrBN4aRRTMhv3) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [Digital Dice](https://open.spotify.com/album/0xktBYxr9jLA1bDQdUM5tb) | 2:14 |
-| 182 | [apollo](https://open.spotify.com/track/0uy2NMV7ALGlp1vAh2PRAj) | [uncles](https://open.spotify.com/artist/1CKD1SbQGvHtuNmlIWC31B) | [apollo](https://open.spotify.com/album/77iZVGlibX0x7e6VH7wJCJ) | 2:00 |
+| 182 | [apollo](https://open.spotify.com/track/0uy2NMV7ALGlp1vAh2PRAj) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [apollo](https://open.spotify.com/album/77iZVGlibX0x7e6VH7wJCJ) | 2:00 |
 | 183 | [before dawn](https://open.spotify.com/track/1M40Bxzt6dn8KO86DZYEme) | [Iddy P](https://open.spotify.com/artist/0JZwamLi5bDuUwYybNnFoF) | [before dawn](https://open.spotify.com/album/1sRhJcsZFbkn2e5x6GQN3E) | 3:12 |
 | 184 | [Lungo Start](https://open.spotify.com/track/1isTKmXhobWZShYmsSmc9X) | [White Noise Clarity](https://open.spotify.com/artist/0J1noINVBJiSL51wHiTvkg) | [Lungo Start](https://open.spotify.com/album/6F9DQYe3s8uKBjhr1Mfd5R) | 2:03 |
 | 185 | [Tea And Biscuits](https://open.spotify.com/track/65KEdlvKpXnXWawKjBXD0e) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [Tea And Biscuits](https://open.spotify.com/album/2vktq1AHeKr4vsF6hng96t) | 1:58 |
@@ -436,7 +436,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 426 | [New day](https://open.spotify.com/track/4qH6CKbSXk5iiy1jXZLbTp) | [SAKIRAN](https://open.spotify.com/artist/5MkPq0kcEmaG1F8vqtSO3z) | [New day](https://open.spotify.com/album/6CUomVqIbLdCcGh9njgvpS) | 2:07 |
 | 427 | [Of Lions and Wolves](https://open.spotify.com/track/5lpR2l6AecBAOrWiiAuuZh) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [The Bouquet \- EP](https://open.spotify.com/album/24YmhnJOgTnd9lYbKNnxwZ) | 2:36 |
 | 428 | [Winter Keys](https://open.spotify.com/track/6NT3drJc597TCEIK8LMFka) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Winter Keys](https://open.spotify.com/album/1PFHDWjFCyXHVI867KFcoy) | 2:36 |
-| 429 | [Friday Underground](https://open.spotify.com/track/6tUGEKjPjyo76vEROoRdcO) | [Lack Sho](https://open.spotify.com/artist/5MpqGukBLHUlsEb996s3m1) | [Friday Underground](https://open.spotify.com/album/5qD8izfLeybQjPlJ8vlF6C) | 1:56 |
+| 429 | [Friday Underground](https://open.spotify.com/track/6tUGEKjPjyo76vEROoRdcO) | [Leandi](https://open.spotify.com/artist/6s4kY85iUHP3nFjmuMbxUH) | [Friday Underground](https://open.spotify.com/album/5qD8izfLeybQjPlJ8vlF6C) | 1:56 |
 | 430 | [a single butterfly floating in the breeze](https://open.spotify.com/track/4uRBoLMKUMzpbY8uqxn73a) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ), [homieunculus](https://open.spotify.com/artist/2NCbESF6hLETOpmvwwiaqz) | [a single butterfly floating in the breeze](https://open.spotify.com/album/7dZbPztaaasraH6mKHgI6j) | 3:00 |
 | 431 | [Shades Of Groove](https://open.spotify.com/track/0rxKoqUnlNePLIP6lzeBxE) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Shades Of Groove](https://open.spotify.com/album/1q86UDMbp2LLSLa7aSC5al) | 2:44 |
 | 432 | [Hamster Wheel](https://open.spotify.com/track/5Jgn7qUKZCDgXycSdckgWD) | [Finera](https://open.spotify.com/artist/4qSQK3nJNme4sjc8r4qp4g) | [Untold Desires](https://open.spotify.com/album/1mfum6OJjEW0zuy7FYyIu1) | 3:19 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,584 songs - 3 day 6 hr 9 min
+1,585 songs - 3 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -795,6 +795,7 @@
 | [Laufen](https://open.spotify.com/track/5brSOIKVEo9A4vl4AKYgMN) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Laufen](https://open.spotify.com/album/4iOlXAOMlTwRGAbNS7Uqy2) | 3:45 | 2023-02-18 |  |
 | [Lautlos](https://open.spotify.com/track/3wyLJfkbukEpP3oMp6Typx) | [Mario Novembre](https://open.spotify.com/artist/6QkidrPNY7AuI1V4xcKiqo) | [Lautlos](https://open.spotify.com/album/33GgPqf8uIxLxKc5MICRLd) | 2:09 | 2021-11-14 | 2021-12-05 |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-22 | 2022-11-06 |
+| [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-02-24 |  |
 | [Layla](https://open.spotify.com/track/3QY5JrK6MU3ebwlvQ0iniO) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Layla](https://open.spotify.com/album/6UWMCDLupfBDXi7jx7qVIe) | 3:05 | 2022-05-15 | 2022-06-05 |
 | [Layla](https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Layla](https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4) | 3:05 | 2022-06-04 | 2022-07-24 |
 | [Layla](https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Layla \(Dutch Version\)](https://open.spotify.com/album/0FzJ3c7iD03TfPeRnsrgwu) | 3:05 | 2022-07-23 | 2023-02-24 |
@@ -1491,7 +1492,7 @@
 | [Was Besseres](https://open.spotify.com/track/1s968vbStkzOXKDIejXeXg) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Mudi](https://open.spotify.com/artist/1tnX93BHWyMdBSLhwAzo1j) | [Was Besseres](https://open.spotify.com/album/4WU7JmSvMq6Ie0raYndk5k) | 2:43 | 2022-06-18 | 2022-06-23 |
 | [Was ist los](https://open.spotify.com/track/1SAGz419Uj4dfJGZQbS7cE) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05), [Outerspass](https://open.spotify.com/artist/22e5ZWv7ghjmwQglwZ2I7i) | [Rap über Hass](https://open.spotify.com/album/12MOBAZ9tzCaJpJbFYhqiy) | 3:04 | 2021-05-30 | 2021-05-31 |
 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B) | 2:19 | 2021-03-27\* | 2021-08-20 |
-| [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 | 2023-02-23 |  |
+| [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 | 2023-02-23 | 2023-02-25 |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2021-09-05 | 2021-09-26 |
 | [Wazabi Gang](https://open.spotify.com/track/3gyTiHJjHACw97nwhWx4fn) | [LX](https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU) | [Wazabi Gang](https://open.spotify.com/album/57aLakEOAQuMRpj0yFnBzB) | 2:30 | 2022-03-12 | 2022-03-18 |
 | [We don't play](https://open.spotify.com/track/4npSW154qGPC9uIbAraomn) | [Data Luv](https://open.spotify.com/artist/2gtmbs0Uas9TBSMqkA4zjE), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [We don't play](https://open.spotify.com/album/3sK3GcGbK4uq3EUuNzjMLY) | 2:34 | 2021-07-18 | 2021-07-19 |

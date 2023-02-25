@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Ambient Air",
+        "url": "https://open.spotify.com/album/0EF9y5hb4YtG17AEQeVzj5"
+      },
+      "artists": [
+        {
+          "name": "Hania Norman",
+          "url": "https://open.spotify.com/artist/3xN9C3YIF6wMBViCxLTVIZ"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150934,
+      "name": "Ambient Air",
+      "url": "https://open.spotify.com/track/4XHaA4QqMFvVtXIBWnG2oo"
+    },
+    {
+      "album": {
         "name": "Annashuwa",
         "url": "https://open.spotify.com/album/0nJZwim2ChJLwgnr6xo4PR"
       },
@@ -1140,6 +1158,24 @@
       "duration_ms": 233383,
       "name": "Emerald Isles",
       "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/5MX9x3uO3SdV7RZrRucphr"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Haugen",
+          "url": "https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161888,
+      "name": "Endless Hope",
+      "url": "https://open.spotify.com/track/76ph3BPshzbP1Ph4BLTSHU"
     },
     {
       "album": {

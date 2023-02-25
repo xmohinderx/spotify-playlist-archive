@@ -4,7 +4,7 @@
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-168 songs - 11 hr 29 min
+169 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Waiting Game](https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 3:27 | 2021-10-08 |  |
 | [Walk Through the Fire](https://open.spotify.com/track/7isJy30YmISuhHwgz5dRDa) | [Zayde Wølf](https://open.spotify.com/artist/7LIy7KinYq7a83dUH6kvxT), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Golden Age](https://open.spotify.com/album/7FMlFMWvVuAtEVmKNbh1Uh) | 3:36 | 2021-10-08 |  |
 | [Walk Through the Fire \(feat\. Ruelle\)](https://open.spotify.com/track/5ZpXdzws0fmicxw0MUbm1m) | [Zayde Wølf](https://open.spotify.com/artist/7LIy7KinYq7a83dUH6kvxT), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Walk Through the Fire \(feat\. Ruelle\)](https://open.spotify.com/album/1xQYmmiFvotolgvYDmASKY) | 3:36 | 2021-10-08 | 2022-07-29 |
+| [Walking Through Morning Dew](https://open.spotify.com/track/3raWXOgKflgg36aHQHprjC) | [Shana Cleveland](https://open.spotify.com/artist/5E6dR5oDjhT39zr1YuXRq0) | [Walking Through Morning Dew](https://open.spotify.com/album/27XINFxRhPQDl13ASfltFr) | 4:06 | 2023-02-24 |  |
 | [Washed Away](https://open.spotify.com/track/00p6D4NaakmWGNR3EUtxtS) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [Washed Away](https://open.spotify.com/album/5W4I4AE67xrN2SlOxSkVWT) | 3:56 | 2021-10-08 |  |
 | [Wasted Time](https://open.spotify.com/track/0l1BpftQspErgqlSzzmIEm) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Wasted Time](https://open.spotify.com/album/1lnRIjfttgDEWNEUovxp2Y) | 4:03 | 2021-10-08 | 2022-07-29 |
 | [Wasted Time](https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [One Big Nothing](https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm) | 4:04 | 2021-10-08 |  |

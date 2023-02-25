@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,982 likes - 667 songs - 1 day 20 hr 57 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,983 likes - 667 songs - 1 day 20 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,7 +242,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 232 | [Steady, As She Goes](https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb) | 3:35 |
 | 233 | [Once in a Lifetime \- Live](https://open.spotify.com/track/019KRrap2TW8ASDAWbe6OU) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 5:25 |
 | 234 | [Before Your Very Eyes...](https://open.spotify.com/track/4wmSIyL4v3td5czmaaTyuR) | [Atoms For Peace](https://open.spotify.com/artist/7tA9Eeeb68kkiG9Nrvuzmi) | [AMOK](https://open.spotify.com/album/6dJZDZMNdBPZrJcNv57bEq) | 5:47 |
-| 235 | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/track/5zZWKugaE2ZmnZN77HVfUH) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Slaves](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/album/1QwJwcvJ9wiYfGxwk6YZOy) | 3:41 |
+| 235 | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/track/5zZWKugaE2ZmnZN77HVfUH) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/album/1QwJwcvJ9wiYfGxwk6YZOy) | 3:41 |
 | 236 | [Sick Again \- 1993 Remaster](https://open.spotify.com/track/49u4hT2jJx1l4u5UeUFMZs) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(1994 Remaster\)](https://open.spotify.com/album/1lZahjeu4AhPkg9JARZr5F) | 4:42 |
 | 237 | [I Have Not Been to Oxford Town](https://open.spotify.com/track/1tpsjUnkj8ESAwLY9rlkVY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [1\. Outside \(The Nathan Adler Diaries: A Hyper Cycle\) \[Expanded Edition\]](https://open.spotify.com/album/0pUursvGUAgcDiEqYlnZ0q) | 3:49 |
 | 238 | [Same Old Thing](https://open.spotify.com/track/0bv2nYRVSkDJlFFgP1RDKR) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:09 |

@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Healing Forest",
+        "url": "https://open.spotify.com/album/6f6O581b2i2giL3jRJ8sVb"
+      },
+      "artists": [
+        {
+          "name": "Percussion As Medicine",
+          "url": "https://open.spotify.com/artist/3FRJVDCXmMrOEnjzr24ful"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188061,
+      "name": "Healing Forest",
+      "url": "https://open.spotify.com/track/3IHG0LxWiwcRQRDJZBYmPB"
+    },
+    {
+      "album": {
         "name": "Mystical Spiritual Journey: Shamanic World, Sacral Dance, Native Flute & Drums, Discovery of New Senses, Deep Meditation, Shamanic Chants",
         "url": "https://open.spotify.com/album/25wFtxwlz5Dx0DGl0NFFHP"
       },
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 203000,
       "name": "Sacred Experience",
       "url": "https://open.spotify.com/track/3MrasYrJku7i1nteS1tJaD"

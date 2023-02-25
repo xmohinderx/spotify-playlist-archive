@@ -439,6 +439,32 @@
     },
     {
       "album": {
+        "name": "Atabakada",
+        "url": "https://open.spotify.com/album/53sASosAsHd6YyTvckRr9B"
+      },
+      "artists": [
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        },
+        {
+          "name": "Dj Tio Rico",
+          "url": "https://open.spotify.com/artist/28u2ywM8BSNlqw74LL0qy1"
+        },
+        {
+          "name": "Mc Nando Dk",
+          "url": "https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Atabakada",
+      "url": "https://open.spotify.com/track/6sq1sgi6rumm0heVFSfXEe"
+    },
+    {
+      "album": {
         "name": "Aulas e Palestras",
         "url": "https://open.spotify.com/album/6QAqavCD8F6lCF4eiNM8B0"
       },
@@ -1128,7 +1154,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 178005,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
@@ -2944,10 +2970,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 278888,
       "name": "Real Drill",
       "url": "https://open.spotify.com/track/3gpSCMnVZELrg4b5oMmRIN"
+    },
+    {
+      "album": {
+        "name": "Realces",
+        "url": "https://open.spotify.com/album/424KapKIbAM78Sgr7QvhzR"
+      },
+      "artists": [
+        {
+          "name": "LONNMAR",
+          "url": "https://open.spotify.com/artist/7pHh0Fkpf9Fsa6znXNWyrW"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139163,
+      "name": "Realces",
+      "url": "https://open.spotify.com/track/6nZYAJX9BAdHp9ssqRPAOe"
     },
     {
       "album": {

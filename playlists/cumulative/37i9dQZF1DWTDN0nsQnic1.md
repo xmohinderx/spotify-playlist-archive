@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-77 songs - 4 hr 11 min
+78 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [It's a Moot Point](https://open.spotify.com/track/6SpF83K9p93tAK4Su3IFmg) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Melanie Faye EP](https://open.spotify.com/album/3kehonQztenD0u318m715k) | 4:02 | 2021-09-08 | 2022-11-14 |
 | [Jump](https://open.spotify.com/track/6C80rHHynL0EvgTHzzCZUq) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Melanie Faye EP](https://open.spotify.com/album/0uYv4UurbEDyLsKe5O5dzJ) | 2:26 | 2021-09-08 | 2022-10-13 |
 | [Jump](https://open.spotify.com/track/6bENTPZbrycDApVVQAkzEO) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Melanie Faye EP](https://open.spotify.com/album/3kehonQztenD0u318m715k) | 2:26 | 2021-09-08 |  |
-| [Kazuki\_2](https://open.spotify.com/track/4Q9XEpUEHOmhP0ThwFhgSo) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [work\_1](https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs) | 1:27 | 2021-09-08 |  |
+| [kaikou](https://open.spotify.com/track/1AesTrOgTs32vdG8qTnKMq) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ), [Yusuke Kurahara](https://open.spotify.com/artist/4xKBOSQPNQJGUgDF8JBpSp) | [kaikou](https://open.spotify.com/album/0PE0VFv0hw4mOR2YzWtLvQ) | 4:09 | 2023-02-24 |  |
+| [Kazuki\_2](https://open.spotify.com/track/4Q9XEpUEHOmhP0ThwFhgSo) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [work\_1](https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs) | 1:27 | 2021-09-08 | 2023-02-25 |
 | [Lemon Squeezy](https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Lemon Squeezy / Afrique](https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp) | 3:32 | 2022-04-01 |  |
 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 | 2021-09-08 | 2022-11-17 |
 | [Lost in Paris](https://open.spotify.com/track/6LxuNFEU3oIZ5ybBdWbZNT) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 3:14 | 2021-09-08 |  |

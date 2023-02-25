@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to in 2023\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-332 songs - 18 hr 50 min
+333 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Haunted](https://open.spotify.com/track/7qX8Vl5H5IxQiXGWXHa0kD) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Haunted](https://open.spotify.com/album/1OQQ2G0sQQd3pJa5cubSxz) | 3:25 | 2021-10-01 |  |
 | [Heal My Love](https://open.spotify.com/track/5E0gUkTKnFgJ7KmMMFEQrB) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa), [Dante](https://open.spotify.com/artist/1C7uc1Nw5y6ZHNhnuMpK5u) | [Heal My Love](https://open.spotify.com/album/3uR3QpSQvpwPqfm74gsigh) | 2:21 | 2021-07-02 |  |
 | [HEART ATTACK \(feat\. lau.ra\)](https://open.spotify.com/track/3xrSAFB6cXBHwLylbCP4sr) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [HEART ATTACK / VAULTS](https://open.spotify.com/album/0SrZP210qeRNZd2G3ciNVt) | 3:29 | 2020-09-13\* | 2022-06-25 |
+| [Heart Back](https://open.spotify.com/track/0OSgkdebxTRNXLwwzD2b8s) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Heart Back](https://open.spotify.com/album/1hPoZ0YpV7J1w1jmvF5vxg) | 2:44 | 2023-02-24 |  |
 | [Heartbeat \- Radio Edit](https://open.spotify.com/track/3OopyAH3nk4VTFmnwSfjDu) | [Nick Talos](https://open.spotify.com/artist/5pCzC0BOLY2MpqYr1qksg2) | [Heartbeat](https://open.spotify.com/album/13jdZ2XoM5twyRGqmN0h16) | 2:52 | 2021-12-11 | 2021-12-18 |
 | [Heaven](https://open.spotify.com/track/5gvEyl4OLhD6kJ3aZ43sd3) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Heaven](https://open.spotify.com/album/20hpXtqd02hIOkQ8Xoj4dM) | 2:04 | 2021-10-16 |  |
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-08-05 |  |
@@ -298,7 +299,7 @@
 | [Touch](https://open.spotify.com/track/397W12CqjA788iknS81yMB) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Touch](https://open.spotify.com/album/2nS3OjhmMCgYYeZfWy6Bga) | 2:47 | 2022-05-13 | 2022-07-23 |
 | [Toxic](https://open.spotify.com/track/6UU327DS6QSo0zv1HkWFdq) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Marco Foster](https://open.spotify.com/artist/4xjQzxyvWiHRDXxJv9ORb2) | [Toxic](https://open.spotify.com/album/0bAAQZcKoSxWeFaUiZe78H) | 2:54 | 2021-05-15 | 2021-06-19 |
 | [Treat You Better](https://open.spotify.com/track/3B8Tx2eKzZ1u6bPnozOL1h) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 4:33 | 2021-03-06 | 2021-04-30 |
-| [Troubles](https://open.spotify.com/track/4OdfUasq027O3IY5r0Q1ZB) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Troubles](https://open.spotify.com/album/6zvB4VFpel42dIHT7t8q5J) | 2:45 | 2021-07-23 |  |
+| [Troubles](https://open.spotify.com/track/4OdfUasq027O3IY5r0Q1ZB) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Troubles](https://open.spotify.com/album/6zvB4VFpel42dIHT7t8q5J) | 2:45 | 2021-07-23 | 2023-02-25 |
 | [True](https://open.spotify.com/track/5085LKg8JgPGzx7dpCn4g3) | [STRANGR](https://open.spotify.com/artist/4tyvCBRpuyj6nlLw1v1jeb) | [True](https://open.spotify.com/album/4G4G1bXvlJFHiEYERoSuqD) | 2:36 | 2020-09-13\* | 2020-11-07 |
 | [Trust in You](https://open.spotify.com/track/0NscRynuHjhgdU9X1SxH7k) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Patterns](https://open.spotify.com/album/0HMgy3SUYx1pqKyoFbhZjM) | 5:57 | 2020-09-13\* | 2020-09-19 |
 | [U.](https://open.spotify.com/track/64NGjHW1w5Kl42xEKdqi6o) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [U.](https://open.spotify.com/album/2LNOZyp2FX1ARZXc5gf3hB) | 2:37 | 2021-03-06 | 2021-05-11 |

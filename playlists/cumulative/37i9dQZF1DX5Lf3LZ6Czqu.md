@@ -2,9 +2,9 @@
 
 ### [String Theory](https://open.spotify.com/playlist/37i9dQZF1DX5Lf3LZ6Czqu)
 
-> Instrumental guitar shreddery\. Cover: Polyphia
+> Instrumental guitar shreddery\. Cover: Covet
 
-113 songs - 8 hr 33 min
+115 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Every Piece Matters](https://open.spotify.com/track/25RDHbzKzGSUefENv5uz9M) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Handmade Cities](https://open.spotify.com/album/36vGWMFViWBpBB4npwmusv) | 3:40 | 2021-05-04 | 2022-07-29 |
 | [Falling Up](https://open.spotify.com/track/76u0xybJDLKrKS8TOnIE40) | [Allen Hinds](https://open.spotify.com/artist/3GxEPmRiVDifXYi0mswBAK) | [Falling Up](https://open.spotify.com/album/4j7MhzKAEAEzCSD9dXC4uK) | 4:45 | 2021-05-04 |  |
 | [Fat Hair](https://open.spotify.com/track/7xtnntJ25E0IGT9fQny0IP) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Bird of Passage](https://open.spotify.com/album/1nrKhiNrFuverJiIo1zliu) | 3:42 | 2022-04-08 |  |
+| [firebird](https://open.spotify.com/track/4aVjtxZglv9VpHiOvb2F6m) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [firebird](https://open.spotify.com/album/16p01UoGeKCDn0r4E9zrok) | 4:40 | 2023-02-24 |  |
 | [Five Fourths Will Get You Six](https://open.spotify.com/track/59Arv6QbBfhA5RenhE9kpT) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Still](https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw) | 6:30 | 2021-05-04 |  |
 | [Flight Mode](https://open.spotify.com/track/4X7Jsy8kRkRz7LHrrtFunn) | [Mr\. Fastfinger](https://open.spotify.com/artist/2EwvEoMSkP2QHZfLoN7AVd), [Mika Tyyskä](https://open.spotify.com/artist/7I3GNszuWihe6wYylLTuie) | [Flight Mode](https://open.spotify.com/album/4hAUsySEtN8LtIyC3hzeTC) | 4:14 | 2022-10-28 |  |
 | [Four Day Weekend](https://open.spotify.com/track/2Lv1k8ZSaC8XbjRvLPXqgM) | [Moray Pringle](https://open.spotify.com/artist/2XxpV0Zg0H0BZWCxgZQZKW) | [Four Day Weekend](https://open.spotify.com/album/4BJ2bEGlgs2EMv6GoDLLLt) | 4:25 | 2021-05-04 |  |
@@ -98,6 +99,7 @@
 | [Soundtrack Life](https://open.spotify.com/track/7E6VxeL3kzU330AA11FhqE) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Soundtrack Life / Yesterday Meets Today](https://open.spotify.com/album/2kipIDLTDxSHWM7MC6MqUx) | 4:19 | 2022-07-29 |  |
 | [Spare Tire](https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Spare Tire](https://open.spotify.com/album/2YUPATCVtrrTMw5kFRqdhk) | 2:48 | 2021-07-30 |  |
 | [Star Catchers \(feat\. Steve Lukather, Jason “JT” Thomas, Wes Stephenson, Philip Lassiter & The Philthy Hornz\)](https://open.spotify.com/track/0jLeYaIIEyCkZSW3gxgAeL) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Jason "JT" Thomas](https://open.spotify.com/artist/5sN8E3sVIXfIgkW8rvOutw), [Wes Stephenson](https://open.spotify.com/artist/0su3WUFcvO40NtFuDiaT88), [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Philthy Hornz](https://open.spotify.com/artist/0d2ebWZLrHX5Wzaekd1lZM) | [Star Catchers \(feat\. Steve Lukather, Jason "JT" Thomas, Wes Stephenson, Philip Lassiter & The Philthy Hornz\)](https://open.spotify.com/album/4Ji2GH0mZW6q7kGFjMAqiK) | 5:37 | 2021-05-04 |  |
+| [Stay High \[Feat\. Cory Henry\]](https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Stay High \[Feat\. Cory Henry\]](https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X) | 3:13 | 2023-02-24 |  |
 | [Stratagem](https://open.spotify.com/track/4DqUMex7TPQoDv6E1NNIG5) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Collage](https://open.spotify.com/album/70KEOoFGZwVHmLfMO38bcX) | 3:17 | 2021-05-04 |  |
 | [Sunny Days](https://open.spotify.com/track/0ieb7z4ZUYsPiVBs8up3MF) | [Lari Basilio](https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0) | [Sunny Days](https://open.spotify.com/album/1i9dFFnIrKKjeb8Hs3jUgq) | 2:59 | 2021-05-04 |  |
 | [Teeth of the Hydra](https://open.spotify.com/track/4mGigKCuAXQot4xkmhate9) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Inviolate](https://open.spotify.com/album/084PBfKRx4oXa6xQyPAold) | 5:12 | 2022-10-11 |  |

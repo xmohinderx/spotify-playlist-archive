@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 990 likes - 95 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 996 likes - 95 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,6 +102,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 92 | [Gesture](https://open.spotify.com/track/2WuI2QRQ1DguTteAPQC4MP) | [Overland](https://open.spotify.com/artist/4tmWwEfUUqNoq9j76OEdKL) | [Gesture](https://open.spotify.com/album/7ms8bkcdhDXOhi9P6YNTj0) | 5:35 |
 | 93 | [Voironizer](https://open.spotify.com/track/189yNofMA6F0Dc1u9czYje) | [VOIRON](https://open.spotify.com/artist/4U0BYR0t5YsRswcsyQKYWs) | [Voironizer](https://open.spotify.com/album/4DX8L1Ba2L2B5Xk8nKwHOk) | 3:18 |
 | 94 | [U Ask I Tell](https://open.spotify.com/track/0AqkJlav1su5474Hv9yQXE) | [RIGSON](https://open.spotify.com/artist/2KbsGZotcK7CVzk1ZtGy4m) | [Wormholes, Pt\. 1](https://open.spotify.com/album/3X76M5V375yvvqBKEiKyj6) | 6:22 |
-| 95 | [To Nights \- KI/KI Remix](https://open.spotify.com/track/68KweGBSQfD2jrUvKMuASE) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Slash 001](https://open.spotify.com/album/7mwCXIc5XkgaISn5UBQTwn) | 6:03 |
+| 95 | [To Nights \- KI/KI Remix](https://open.spotify.com/track/68KweGBSQfD2jrUvKMuASE) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 001](https://open.spotify.com/album/7mwCXIc5XkgaISn5UBQTwn) | 6:03 |
 
 Snapshot ID: `MTY3NTE3ODQ1OSwwMDAwMDAwMDVjNDhlZGRiY2QzZTM3MzA2OTFhODQ1MTQwMjc2YjM3`

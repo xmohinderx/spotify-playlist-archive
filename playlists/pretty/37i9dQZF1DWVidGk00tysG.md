@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 
 > Dive into Chopin's greatest works for the piano, from solo études to full\-blown concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,566 likes - 90 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,665 likes - 90 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 | 15 | [12 Études, Op\. 10: No\. 2 in A Minor](https://open.spotify.com/track/3EEfOzF1ia1ioqw2oIczpP) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Études](https://open.spotify.com/album/1eXQ6JbICpv9STKnfdDKqN) | 1:30 |
 | 16 | [Waltz No\. 1 in E Flat, Op\. 18 \-"Grande valse brillante"](https://open.spotify.com/track/1vWAWChbVffjnpl6PPzUA4) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Waltzes; 4 Scherzos; 26 Preludes](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) | 4:50 |
 | 17 | [Chopin: Waltz No\. 9 in A\-Flat Major, Op\. 69 No\. 1, "The Farewell Waltz "](https://open.spotify.com/track/2zfitTxt9KPU0XroKQT0ND) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [David Fray](https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR) | [Chopin: Piano Works](https://open.spotify.com/album/5eThYMo8mVyZqA9ygT333u) | 4:28 |
-| 18 | [Waltz in E Minor, Op\. Posth.](https://open.spotify.com/track/2YJgIsU0vreWfKytQelclt) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jean\-Paul Gasparian](https://open.spotify.com/artist/1KAYt5PzgkE6W3ExmqoNPn) | [Chopin: 4 Ballades, Polonaise Héroïque, Polonaise Fantaisie, Nocturnes, Waltzes](https://open.spotify.com/album/5fcuS3R2juppzqsUULK4DP) | 2:52 |
+| 18 | [Valse in E Minor, Op\. posth.](https://open.spotify.com/track/5hCGNc0Dtr20NoZ6gXGXw1) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jean\-Paul Gasparian](https://open.spotify.com/artist/1KAYt5PzgkE6W3ExmqoNPn) | [Chopin: 4 Ballades, Polonaise Héroïque, Polonaise Fantaisie, Nocturnes, Waltzes](https://open.spotify.com/album/7HEVPr4OUtCfuBW0A1IrY6) | 2:52 |
 | 19 | [12 Études, Op\. 10: No\. 6 in E\-Flat Minor](https://open.spotify.com/track/1agUvChcIwZPgdopLc4fD6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Études](https://open.spotify.com/album/1eXQ6JbICpv9STKnfdDKqN) | 3:16 |
 | 20 | [Mazurka No\. 16 in A\-Flat Major, Op\. 24, No\. 3](https://open.spotify.com/track/5oncCymvZwEs7rWz53fVeF) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Mazurkas, Vol\. 1](https://open.spotify.com/album/4kN7aLWISt6TVQcsv5s4gx) | 2:34 |
 | 21 | [Piano Sonata No\. 3 in B Minor, Op\. 58: III\. Largo](https://open.spotify.com/track/0pAZ0HPtTfaqlHP5rk6G3p) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Chopin: Piano Sonatas Nos\. 2 & 3](https://open.spotify.com/album/011uevuqb2lEFDvgEMV2E0) | 9:35 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 | 89 | [Fantasia on Polish National Airs Op\. 13](https://open.spotify.com/track/4XCmNP6ZrjKxCg5Hmj2cml) | [Polish National Radio Symphony Orchestra](https://open.spotify.com/artist/62QURushyB5wug2XPwajwK), [Garrick Ohlsson](https://open.spotify.com/artist/6OZmjtuzO1FCcPQ6kdPF5x), [Jerzy Maksymiuk](https://open.spotify.com/artist/2EGK18Dwe9ylcNRgGr56mX) | [Chopin: Piano Concertos etc](https://open.spotify.com/album/5wytXYxCQidUtaXTzpAgqe) | 14:20 |
 | 90 | [24 Preludes, Op\. 28: Prelude No\. 1 in C Major, Op\. 28, No\. 1](https://open.spotify.com/track/6Pz4ZJ0zxXZbhgjKvwnTU3) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Preludes](https://open.spotify.com/album/0MmVW48OnJ7IRXiH5VicBg) | 0:41 |
 
-Snapshot ID: `MTY2MDkwMjk4NSwwMDAwMDAwMDUwMmRmNTU3OTJjNTcwMTU3MWMwMmRiZTRmYjJjOGM3`
+Snapshot ID: `MTY2MDkwMjk4NSwwMDAwMDAwMDJlZmYwNmU0MTU1YWYxNjllZTA4MTRjNWM2YWI4ODYy`

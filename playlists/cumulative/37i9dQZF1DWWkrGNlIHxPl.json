@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Global crossovers by/with Arab artists. Cover: Saint Levant",
+  "description": "Global crossovers by/with Arab artists. Cover: Zeina",
   "name": "Arab X",
   "tracks": [
     {
@@ -514,7 +514,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 202285,
       "name": "BET ON ME",
       "url": "https://open.spotify.com/track/0HM405OG4w321E8gfbEQvR"
@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 190830,
       "name": "ISMAK",
       "url": "https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ"
@@ -2752,6 +2752,24 @@
       "duration_ms": 168062,
       "name": "Neighborhood",
       "url": "https://open.spotify.com/track/1MqxAzd8MOFxrMlu5Ixw4l"
+    },
+    {
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/1KkYvkaccUSlh19UBjfkRJ"
+      },
+      "artists": [
+        {
+          "name": "Nadine El Roubi",
+          "url": "https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163137,
+      "name": "New Era",
+      "url": "https://open.spotify.com/track/0V5wxdRtOGkvTDV8r6aUnq"
     },
     {
       "album": {
@@ -4330,7 +4348,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 169142,
       "name": "What I Mean",
       "url": "https://open.spotify.com/track/1mCI8PLlOgAIIJ9gSPj84v"

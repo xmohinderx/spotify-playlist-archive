@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Ingen kamera på iPhone 2!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,862 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,380 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 36 | [DIT ÄLVEN GÅR](https://open.spotify.com/track/1ngA3uuYGhKy42xrYEPnwQ) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DIT ÄLVEN GÅR](https://open.spotify.com/album/5NBLT9QoetVX0TuVnW2j85) | 2:34 |
 | 37 | [För Alla Gånger \- Greta Tuborg Remix](https://open.spotify.com/track/79zn3PsF63Gh48h996i1c9) | [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ) | [För Alla Gånger \(Greta Tuborg Remix\)](https://open.spotify.com/album/42mn2pqWoJ1dGdI1fNOIw5) | 1:49 |
 | 38 | [ALICE PÅ EFTERFEST](https://open.spotify.com/track/0x5yiFvnq40yzSsyau58an) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [ALICE PÅ EFTERFEST](https://open.spotify.com/album/6Ju6Hsiuu6bmGRLvpVT3nu) | 1:47 |
-| 39 | [F\*CKED UP! \- SJUK REMIX!](https://open.spotify.com/track/107182OBau60C8og7ws7C9) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP! \(SJUK REMIX!\)](https://open.spotify.com/album/0JJH5ylTQrJRfsSXrc7Lr6) | 3:13 |
+| 39 | [F\*CKED UP! \- SJUK REMIX!](https://open.spotify.com/track/1VcviCNAPM1uzajsIVxtkH) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP! \(SJUK REMIX!\)](https://open.spotify.com/album/7B75RXIeDKmyt2igFSoPpK) | 3:13 |
 | 40 | [99 FLASKOR SPRIT](https://open.spotify.com/track/0UtSMvMsg5RXuJ98VLyinR) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z) | [99 FLASKOR SPRIT](https://open.spotify.com/album/3kRZ4ywZCJDIfFHkiDoumP) | 2:18 |
 | 41 | [SPELAR LITE DOTA](https://open.spotify.com/track/2iZ0lth0LzIqzwre0SzQUW) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [SPELAR LITE DOTA](https://open.spotify.com/album/0uQTp2MfSKiAXiFv9LwAXD) | 2:10 |
 | 42 | [BLINKAR INTE NÄR JAG BYTER FIL](https://open.spotify.com/track/0aQ2hgNRUwoICgQ1tvBnYs) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [BLINKAR INTE NÄR JAG BYTER FIL](https://open.spotify.com/album/01ayc4U9jmmjlrmQYoRYfe) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Fingrarna i halsen](https://open.spotify.com/track/4JWfHH5DlQ1qVKXmGyxOMY) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Fingrarna i halsen](https://open.spotify.com/album/7L3fBDH0doYXgV8UafoxgA) | 3:00 |
 | 100 | [Block Party](https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Block Party](https://open.spotify.com/album/6zkX0G2P3biWJLOCTf0KIj) | 2:05 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMGExNGM2OGZiZmQ4YzMwZDQ2YTY2ZDYxNzMzNDM5N2Zi`
+Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDA1YTg2NTU2MzI0Mzc0NjEzMzE3Y2UxMDBiMTJlNzc5`

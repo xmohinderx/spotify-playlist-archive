@@ -9885,6 +9885,28 @@
     },
     {
       "album": {
+        "name": "KATOSTARI",
+        "url": "https://open.spotify.com/album/6ZCwshLuqtR1UE1iAVgPEu"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154594,
+      "name": "KATOSTARI",
+      "url": "https://open.spotify.com/track/6BD0v9IBfEGUkEDutrD9sF"
+    },
+    {
+      "album": {
         "name": "Kavatza / K\u03b1\u03b2\u03b1\u03c4\u03b6\u03b1",
         "url": "https://open.spotify.com/album/1QyP0narfe0LkA0kDizYg8"
       },
@@ -14968,7 +14990,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 150000,
       "name": "OXI",
       "url": "https://open.spotify.com/track/5PQ9WamrmmWxnftASffcu9"
@@ -17932,7 +17954,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
@@ -20676,7 +20698,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 195692,
       "name": "Tutorial",
       "url": "https://open.spotify.com/track/1AlJGJhgkT252pec9YcSSy"

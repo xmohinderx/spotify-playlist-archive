@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Smallz 732",
+  "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Cookiee Kawaii",
   "name": "Jersey Club Heat",
   "tracks": [
     {
@@ -634,7 +634,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 225175,
       "name": "Beat it Up 2k23",
       "url": "https://open.spotify.com/track/7dW44unUq1kL0Hku6wq7uj"
@@ -2830,7 +2830,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 88302,
       "name": "Luhh Galore",
       "url": "https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu"
@@ -3382,7 +3382,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 111304,
       "name": "Orange Soda - Jersey Club Remix",
       "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
@@ -3586,6 +3586,24 @@
       "duration_ms": 124444,
       "name": "Press Play (Gamer Girl)",
       "url": "https://open.spotify.com/track/2FOGZ8TbM6XSYSl9GV6x6o"
+    },
+    {
+      "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135831,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x"
     },
     {
       "album": {

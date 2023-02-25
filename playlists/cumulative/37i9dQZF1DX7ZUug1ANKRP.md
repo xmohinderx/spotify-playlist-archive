@@ -2,9 +2,9 @@
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Max + Johann
+> The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Tiësto
 
-308 songs - 14 hr 36 min
+309 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Bloody Mary](https://open.spotify.com/track/4JUFBTJy1vQSGyXEV0PLbz) | [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V), [BE.TH](https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF) | [Bloody Mary](https://open.spotify.com/album/1NQrHje8ePDgOJNbEFxh9e) | 2:35 | 2023-01-05 |  |
 | [Blow It Up](https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb) | [Blow It Up](https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9) | 3:01 | 2022-11-02 |  |
 | [Blow Ur Mind](https://open.spotify.com/track/47ZtMQwbGGL5A3sqwSBj81) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Blow Ur Mind](https://open.spotify.com/album/2HGo8LkjznUCqzPiXdVicR) | 2:49 | 2023-01-05 |  |
-| [Bongo Bong](https://open.spotify.com/track/0buvr23Xkpe54fGb0Xqsc6) | [Max + Johann](https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow) | [Bongo Bong](https://open.spotify.com/album/4XFLyCczpHejrOtlkB2APk) | 2:40 | 2023-02-01 |  |
+| [Bongo Bong](https://open.spotify.com/track/0buvr23Xkpe54fGb0Xqsc6) | [Max + Johann](https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow) | [Bongo Bong](https://open.spotify.com/album/4XFLyCczpHejrOtlkB2APk) | 2:40 | 2023-02-01 | 2023-02-25 |
 | [Boom Boom Boom](https://open.spotify.com/track/3shD8tyqoWeW3iw3g8dHcd) | [Empyre One](https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22), [Sary](https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW) | [Boom Boom Boom](https://open.spotify.com/album/13lAXu2PY7A5AQ71LdnsSX) | 2:36 | 2022-05-11 | 2022-06-23 |
 | [Break the Silence](https://open.spotify.com/track/3J731DK3zEufsb4xaTbvrL) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Break the Silence](https://open.spotify.com/album/23Rl1kQPUyymnjNwDmIqcF) | 2:32 | 2022-10-05 |  |
 | [Bring It Back To Me](https://open.spotify.com/track/5pqm3ulg0pXHgJ53dHpP23) | [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM) | [Bring It Back To Me](https://open.spotify.com/album/1MFcZzdhLf5W9gxjLhtECA) | 2:42 | 2021-12-15 | 2022-01-06 |
@@ -130,6 +130,7 @@
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-04-20 | 2022-10-20 |
 | [Heavy Metal Love](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Heavy Metal Love](https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH) | 2:12 | 2022-07-13 | 2022-09-29 |
 | [Herz an Herz](https://open.spotify.com/track/3JfKaDVt5I1egdhm2V5GRG) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx) | [Herz an Herz](https://open.spotify.com/album/2ErXScnw552ExYN83eloZw) | 2:23 | 2023-01-25 |  |
+| [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-02-24 |  |
 | [High sein](https://open.spotify.com/track/5fQllnHCmwjhmhnpFAcknW) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [High sein](https://open.spotify.com/album/76UbTO36WLsNpyaGQ54JV0) | 2:13 | 2022-09-28 |  |
 | [Hopeless Heart](https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Hopeless Heart](https://open.spotify.com/album/5lvVTFSjzf72tpVCyiIALc) | 2:31 | 2022-01-26 | 2022-04-21 |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-08-10 | 2022-11-24 |

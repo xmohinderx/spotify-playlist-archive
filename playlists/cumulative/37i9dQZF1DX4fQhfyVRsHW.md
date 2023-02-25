@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-127 songs - 6 hr 44 min
+129 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Birdsong in Rain](https://open.spotify.com/track/7wF5Bahy07QdgmC12uWLzb) | [Dominic Moreau](https://open.spotify.com/artist/3zj0FV0H02AdCcjPY9yIwF) | [Watching the World](https://open.spotify.com/album/746JxOYr9id2Ati7LwL1la) | 4:02 | 2022-05-25 |  |
 | [Blue Lagoon](https://open.spotify.com/track/0LH00hv3INJ0z0STsmR1mB) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Blue Lagoon](https://open.spotify.com/album/7eJ4LCFtQiBgMY3dQrSU6O) | 4:06 | 2022-05-25 |  |
 | [Bow of Life](https://open.spotify.com/track/6x2tKZt7RJuBCWMkRPPBFP) | [Arnold Sage](https://open.spotify.com/artist/2oULmlR47myvfLqZSD2f4R) | [Bow of Life](https://open.spotify.com/album/1BkLVDy0SyRFfkN8CQNkyL) | 2:44 | 2022-05-25 |  |
+| [Breath](https://open.spotify.com/track/3ynjx5qNqunqg3x9HxW01h) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-02-24 |  |
 | [Breath Of The Wilderness](https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Breath Of The Wilderness](https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK) | 3:15 | 2022-05-25 |  |
 | [Breathe Underwater](https://open.spotify.com/track/0ItZjGoIojBcreM3vSNeLq) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [Breathe Underwater](https://open.spotify.com/album/64NlX9C7nzKNLIa3Zw2eB5) | 2:16 | 2022-05-25 |  |
 | [Calming Seashore](https://open.spotify.com/track/4msQl50RTvdYVaak2Z99Fc) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:42 | 2022-05-25 | 2022-09-03 |
@@ -126,6 +127,7 @@
 | [The Lonely Ride](https://open.spotify.com/track/2sYuq6n08j87xIi7FnKw5q) | [Aran Belle](https://open.spotify.com/artist/7vBevoeKoG6b09kZzUWdpN) | [The Lonely Ride](https://open.spotify.com/album/2jkZVUzPGxsvgGymz20jVq) | 2:07 | 2022-05-25 |  |
 | [The Mystic](https://open.spotify.com/track/4VRUjbRwcIcYgzQFneOyft) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [The Mystic](https://open.spotify.com/album/4gVE8JNTygjutVCrGgTEPp) | 2:55 | 2022-05-25 |  |
 | [The Wonder of Nature](https://open.spotify.com/track/5Ib96cyGrJO5UCHepKSwge) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Bridge of Life](https://open.spotify.com/album/4nJofJQsYmbn5Hr4VYhKCU) | 2:54 | 2022-12-30 |  |
+| [Translucent \- Sound Bath](https://open.spotify.com/track/5tEpSsjhDM1YUYDweyDifC) | [Flowing Motion](https://open.spotify.com/artist/0QbsULUz7uLr6JGXyAMIot) | [Translucent \- Sound Bath](https://open.spotify.com/album/2uTOIGnrD5GLz8ejPYdLJC) | 2:39 | 2023-02-24 |  |
 | [Uferlos](https://open.spotify.com/track/1f2o75H7I9RgWzf076ZVzQ) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Uferlos](https://open.spotify.com/album/1zJ3zOQa4YXNn2yf89D0rN) | 3:26 | 2022-05-25 |  |
 | [Underwater Dreams](https://open.spotify.com/track/5hXdhKr9aa6O9tJbXJXphA) | [Silver Blue Moon](https://open.spotify.com/artist/0Nhbspw23XX6i6EsnkP0pX) | [Underwater Dreams](https://open.spotify.com/album/1fqf2kxSls8sPND15hCgsH) | 3:33 | 2022-05-25 |  |
 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 | 2022-05-25 |  |

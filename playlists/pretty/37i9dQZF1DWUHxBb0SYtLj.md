@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Paola & Chiara
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,404 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,424 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 15 | [26 modi](https://open.spotify.com/track/3E7QmXDtooIiTwERTy9mQU) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [26 modi](https://open.spotify.com/album/5cwb5WacM5mr8mASyaTe4Y) | 3:06 |
 | 16 | [Arrivederci](https://open.spotify.com/track/107abW6uOuMYJI8mI3yjaQ) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb) | [Arrivederci](https://open.spotify.com/album/7jm8bJjhobRnP8EMVZgxco) | 3:00 |
 | 17 | [Nero](https://open.spotify.com/track/57T6newTF2vmq1Zz48KAkV) | [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Nero](https://open.spotify.com/album/2BAJKwLBjZzPxRiL2sUJ5t) | 2:22 |
-| 18 | [tu.](https://open.spotify.com/track/63oeo2wq00LdQNIGCUqEJy) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM), [Noia](https://open.spotify.com/artist/2juG6RJqgbhPLJvHWOjEMM) | [tu.](https://open.spotify.com/album/3fqmpVZwl8zv9pMUrk7CVI) | 3:27 |
+| 18 | [tu.](https://open.spotify.com/track/4onStwuP849eGEa8SY5ebV) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM), [NOIA](https://open.spotify.com/artist/6kMHzKCOo8xS59JVOIHkmd) | [tu.](https://open.spotify.com/album/2pPP9UcdAcHwqHXkJ6XljT) | 3:27 |
 | 19 | [Pretty Girls](https://open.spotify.com/track/6sBOgjocWXDfpfJAdabUqm) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Shattered but Still Cool](https://open.spotify.com/album/40XMMV5EaE9RSVhNS1HXGw) | 2:56 |
 | 20 | [Altalene](https://open.spotify.com/track/4YkPqYmsEwKoLGmEtxE5cR) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe) | [Altalene](https://open.spotify.com/album/35hPuOluggIkzML91CWZwv) | 2:51 |
 | 21 | [VADO DI MATTO](https://open.spotify.com/track/6ENWZUAwZJBazFJqMu2wWq) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [VADO DI MATTO](https://open.spotify.com/album/0kUAowt4UlLQK2NSYZ9wXf) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [funerale](https://open.spotify.com/track/28UumwxkxTXaLyRvzKkMrh) | [MVR](https://open.spotify.com/artist/76UyJVzkGi3b124vOPrD0u) | [funerale](https://open.spotify.com/album/7ymG4hAhzTfc2RV866KuCP) | 2:22 |
 | 50 | [Scappa da me](https://open.spotify.com/track/7sMe3toUFxmHvDpwmuVQJH) | [EOS](https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV), [Lady The Murder](https://open.spotify.com/artist/4vh7hHYOwPxPPtrypN38Tl) | [Scappa da me](https://open.spotify.com/album/2BrL8EOdnTqqpzlfuGJSsz) | 3:17 |
 
-Snapshot ID: `MTY3NTkwNDQ2MCwwMDAwMDAwMDkyMzdmNWM4NTI1ZmYxNTkwMTdhNDk4OTQzMmJlOTJh`
+Snapshot ID: `MTY3NzIzNDkwMCwwMDAwMDAwMDljNjQ1YTI0MWJjNTA5MDJiN2YwNTE2NWY2YWY2ZTk4`

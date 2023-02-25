@@ -4,7 +4,7 @@
 
 > Focus with deep techno and tech house.
 
-340 songs - 1 day 13 hr 53 min
+341 songs - 1 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [After Dark](https://open.spotify.com/track/2ROhi2EHKwlBcHWyylPJa4) | [Hraach](https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO) | [After Dark](https://open.spotify.com/album/2Z4AECuC9nl6nA3V5XMWDm) | 7:25 | 2021-09-08 | 2022-07-18 |
 | [Again Again](https://open.spotify.com/track/2iJww1ziO2P9wlKr45sEaf) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Again Again](https://open.spotify.com/album/5UX16Ig01bMquNNRmVY6xZ) | 7:12 | 2019-05-26\* | 2020-05-28 |
 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2023-01-13 |  |
-| [Alive](https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp) | [Mainterm](https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI) | [Alive](https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y) | 5:58 | 2022-05-26 |  |
+| [Alive](https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp) | [Mainterm](https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI) | [Alive](https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y) | 5:58 | 2022-05-26 | 2023-02-25 |
 | [All Equal](https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [All Equal](https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS) | 3:42 | 2020-04-02 |  |
 | [Allegri](https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Allegri](https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh) | 5:22 | 2020-08-08 |  |
 | [Amantes Amentes](https://open.spotify.com/track/2NEMWTplDgFl5yZ5mgpsEd) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Amantes Amentes](https://open.spotify.com/album/7vzZqY07k2ZTeCMYQ2DDFf) | 7:28 | 2022-06-24 |  |
@@ -179,7 +179,7 @@
 | [Love Letters From Sicily](https://open.spotify.com/track/0AROOP6Ee5j65jP34ekMyW) | [Matthias Meyer](https://open.spotify.com/artist/6bWakzaLHaNewLTdhJHPQb), [Ryan Davis](https://open.spotify.com/artist/0AHClmU8AZuj9naaENhVrP) | [Love Letters From Sicily](https://open.spotify.com/album/0vucQ6KVbtW7jn9tucIgmy) | 9:32 | 2019-05-26\* | 2021-05-08 |
 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 | 2021-12-17 |  |
 | [Luna](https://open.spotify.com/track/1AgUrCsgXQZ9IRmT1lEoH8) | [Lake Avalon](https://open.spotify.com/artist/2GgwB2XT8sTzoBVddjJ2Vd) | [Silver Goat](https://open.spotify.com/album/1Y903pCu66Txu6e1iOiudi) | 7:51 | 2020-03-02 | 2022-07-29 |
-| [Lunar](https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Lunar](https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w) | 3:12 | 2021-01-30 | 2023-02-18 |
+| [Lunar](https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Lunar](https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w) | 3:12 | 2021-01-30 |  |
 | [Luscious Rain](https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Luscious Rain](https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv) | 3:09 | 2021-11-27 | 2022-10-01 |
 | [Macropsia](https://open.spotify.com/track/0fTd7ycFi894Z5SMfV7Dp0) | [Huminal](https://open.spotify.com/artist/0ifJHiwqO4YcVAd3vy8CEQ) | [Macropsia](https://open.spotify.com/album/6LZFKsEDU4PL832W0qGQoQ) | 7:56 | 2019-05-26\* | 2022-05-06 |
 | [Mango](https://open.spotify.com/track/6vi0raG5wVvth39ytUWjFA) | [Sascha Funke](https://open.spotify.com/artist/1dDTkRz9WVOQr63enjJ1Yd) | [Mango](https://open.spotify.com/album/0bKEaeURWDDVAbJCI9kLeH) | 7:00 | 2019-06-24 | 2019-08-13 |
@@ -274,6 +274,7 @@
 | [Second Chance](https://open.spotify.com/track/71y1XeA2RIcAfYOht1CxGa) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Leave You](https://open.spotify.com/album/6vEHURkEouRIhVI5cZRWtd) | 7:45 | 2021-05-09 | 2022-05-07 |
 | [Second Sun](https://open.spotify.com/track/0vgIkHFK8wpogVc1XCi18F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Second Sun](https://open.spotify.com/album/4J8Pj9kUO58eoafjZlHiLf) | 3:44 | 2022-09-30 | 2023-02-19 |
 | [Second Sun](https://open.spotify.com/track/1CyFbvzMACv6su5ys5wbYg) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Second Sun](https://open.spotify.com/album/0cHW1NaoS8qqe3aceCN22Z) | 3:44 | 2020-01-12 | 2022-10-18 |
+| [Second Sun](https://open.spotify.com/track/1hchcXyOsDcLOM6AA0nFsx) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Once in a Blue Moon](https://open.spotify.com/album/72jY4vupYe66p1lOeKwEpk) | 3:44 | 2023-01-13 |  |
 | [Seige](https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Seige](https://open.spotify.com/album/1KuP6R5M7dVYNJWbkhuo7M) | 7:13 | 2021-07-10 |  |
 | [Sense of Wonder](https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Sense of Wonder](https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3) | 4:01 | 2021-12-17 |  |
 | [Serenade](https://open.spotify.com/track/6JGDoTtGLaaikBdyLExPZ8) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Serenade](https://open.spotify.com/album/5iRJm5uxTDkkEu0EmQf1jR) | 6:51 | 2019-05-26\* | 2022-05-06 |
@@ -288,7 +289,7 @@
 | [Solitary Daze](https://open.spotify.com/track/5nbttXsM0PYqyASw0IQ1ux) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX) | [Solitary Daze](https://open.spotify.com/album/6hNSBxIuFK9LB0rdXAln6s) | 7:43 | 2019-06-22 | 2019-06-28 |
 | [Someone Else](https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW) | 6:18 | 2020-06-29 | 2022-10-18 |
 | [Someone Else](https://open.spotify.com/track/4CiVKhMTI6767xO40Tas0c) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/0Id2ImUT5LaJT29DLnX9qE) | 6:18 | 2022-09-30 |  |
-| [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 | 2020-02-19 |  |
+| [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 | 2020-02-19 | 2023-02-25 |
 | [Space Chants](https://open.spotify.com/track/0ZykKpfjw56pAQnkvRIFZS) | [Spieltape](https://open.spotify.com/artist/6Et53z8rREv56kKxJi0an6), [Dave Pad](https://open.spotify.com/artist/4wTXdJW4CabMRwP9aGXO42) | [Space Chants](https://open.spotify.com/album/0XQ8IM2Rye1ODNPJ93AepE) | 6:57 | 2019-10-25 | 2022-04-20 |
 | [Spacemodulation](https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Spacemodulation](https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D) | 7:08 | 2022-06-24 |  |
 | [Spacemodulation](https://open.spotify.com/track/6g8QDiZ1zAwucNXgKnVIrW) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Spacemodulation](https://open.spotify.com/album/56DI79LnAjbuiwP9GgGc6u) | 7:08 | 2019-12-07 | 2022-07-26 |

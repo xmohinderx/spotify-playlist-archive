@@ -4,13 +4,14 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-90 songs - 6 hr 41 min
+92 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 O'Clock In The Morning Blues](https://open.spotify.com/track/7HbnGDwIxqv4AQ64QuLljx) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Bold Soul Sister: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/3o9NHT9ox7Is7ZzQXm2OE9) | 2:39 | 2022-07-13 |  |
 | [A Fool No More](https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 7:44 | 2022-07-13 |  |
 | [A Man and the Blues](https://open.spotify.com/track/6fT85JDHqhkQv26CW7apxG) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Slow Blues \- 25 Rare Blues Tracks](https://open.spotify.com/album/5IQlmcuc8I8RlY4h9ELihB) | 6:21 | 2022-07-13 |  |
+| [A New Leaf](https://open.spotify.com/track/6EdBagK4kqITdw34mBzTof) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 2:30 | 2023-02-24 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/1ebftgRZcnctL8GpBu0nu8) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 3:20 | 2022-07-13 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/474v7dAYMQ922017Y8ZgZ9) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Blues for Breakfast](https://open.spotify.com/album/53U7Q4ep8kXfTcwOISAKah) | 3:20 | 2022-10-14 | 2022-11-13 |
 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 | 2022-07-13 |  |
@@ -37,6 +38,7 @@
 | [Don't You Leave Me Here](https://open.spotify.com/track/5IJffuRk0JHYELKPiMUg6j) | [Larry Johnson](https://open.spotify.com/artist/4QSzvmywSXYxbs7jn4xjFt) | [Blues for Harlem](https://open.spotify.com/album/63voCNAcgApZx4SQO24FLo) | 3:37 | 2022-07-13 |  |
 | [Easy Listening Blues](https://open.spotify.com/track/71OWPiscExYZZ04fFsZus3) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [With Respect To Nat](https://open.spotify.com/album/1MS5ICC5f8SkA5YHt9cuWH) | 3:23 | 2022-07-13 |  |
 | [Evil Hearted Me](https://open.spotify.com/track/4YpsqcXicw9ZoUrkZJX6Pm) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Broad Casting](https://open.spotify.com/album/5qoPJywLuI4keJSUFvQVuo) | 2:19 | 2022-07-13 |  |
+| [Ferry Crossing Blues](https://open.spotify.com/track/47QhhDihrVeoFbUum7r7NY) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:25 | 2023-02-24 |  |
 | [Fine Fat Daddy](https://open.spotify.com/track/5Rr8ikDdsamSpjUu9uUabY) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah Washington Sings Bessie Smith](https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR) | 3:20 | 2022-07-13 |  |
 | [Fine Little Angel \(Take 2\)](https://open.spotify.com/track/5EP7cCsnijchK08uL6lINe) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 4:15 | 2022-07-13 |  |
 | [Glory Be](https://open.spotify.com/track/25H4Ux5UrzQz2LEqtGq5C6) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Mojo Hand](https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo) | 4:26 | 2022-07-13 |  |

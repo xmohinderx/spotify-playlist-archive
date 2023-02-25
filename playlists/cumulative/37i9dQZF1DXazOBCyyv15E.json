@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "sick to my stomach",
+        "url": "https://open.spotify.com/album/24jDeh08le3LGpOAb6SXXu"
+      },
+      "artists": [
+        {
+          "name": "emily jeffri",
+          "url": "https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "am i being followed...?",
+      "url": "https://open.spotify.com/track/1PZkbVuUhcQssLceCG7lLD"
+    },
+    {
+      "album": {
         "name": "Amateur",
         "url": "https://open.spotify.com/album/2ZSTag8VupMhvtzBg2R4aP"
       },

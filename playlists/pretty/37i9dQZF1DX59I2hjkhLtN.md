@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: PNG.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,863 likes - 111 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,867 likes - 111 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 18 | [Mira](https://open.spotify.com/track/4P8halZmD87IBnWNXLgWfO) | [Lilbeyes](https://open.spotify.com/artist/1nM0klS9gLVqNJLlxZwZX3) | [Mira](https://open.spotify.com/album/0jAKUz2aAe7zzs5pK0IC3o) | 2:43 |
 | 19 | [KOALA FREESTYLE](https://open.spotify.com/track/7LqsTVQgXBVR9zaqVtfvJh) | [el Amukinado](https://open.spotify.com/artist/0OMqwt5uyjQqbh7KL1Wlg2), [EVAS BABY](https://open.spotify.com/artist/33OpKOqdE4pty4ZlCUvv1b) | [KOALA FREESTYLE](https://open.spotify.com/album/7kDPICavBWnPqwQDkvRMWM) | 1:51 |
 | 20 | [Props](https://open.spotify.com/track/6sjcNE994V0OxAgaLOg8Kd) | [bengashit](https://open.spotify.com/artist/7xYocbA9547Y4xv4JoVr25) | [Props](https://open.spotify.com/album/1FGXLqzbD8V6xFlLqDghxm) | 3:32 |
-| 21 | [19!](https://open.spotify.com/track/1cvBR491tb8zqA1IwWWpsV) | [Gabriel.](https://open.spotify.com/artist/4qjIWAWR3QX57zisdqc2i8) | [19!](https://open.spotify.com/album/5hL5E6DcDSlfTPy88AeucD) | 3:13 |
+| 21 | [19!](https://open.spotify.com/track/2yeeaXUNeoyWZgWP7V1rJM) | [Gabriel.](https://open.spotify.com/artist/4qjIWAWR3QX57zisdqc2i8) | [19!](https://open.spotify.com/album/4ffU8X0I3UygCQdiYciIZQ) | 3:13 |
 | 22 | [SANTOS Freestyle](https://open.spotify.com/track/2el36MQD7IyDHAXq7NhKYV) | [PNG](https://open.spotify.com/artist/4NxktUavjn7CoMmpDZOZwq), [CVOS](https://open.spotify.com/artist/6GSuGpvSrKOVNMnNJCoOQO) | [SANTOS Freestyle](https://open.spotify.com/album/0VwEGBNvPv4owwO71pG2xd) | 2:38 |
 | 23 | [VEM CÁ](https://open.spotify.com/track/1g7U6zOh8csoqUabagx8lM) | [Divi](https://open.spotify.com/artist/5cSJHazvd6mT7yHlyeSrQ2), [TRINNI](https://open.spotify.com/artist/0wIqiATQ9OB7qeDvNb8Mtr), [ROBZI](https://open.spotify.com/artist/1rrQ8W9iGjjJJAQ6SA4Csc), [Slim G](https://open.spotify.com/artist/4NVuMgEqblB7LLKd6nY2bm) | [VEM CÁ](https://open.spotify.com/album/6t9UfbA738W8EZJknNWksT) | 3:15 |
 | 24 | [Sassutown](https://open.spotify.com/track/2MG4lz33Awo3Bt0jUyBRnH) | [Tiwi](https://open.spotify.com/artist/0XQ4RowSt9nDM7SXpTCqNU) | [Sassutown](https://open.spotify.com/album/5AUWHwqbzPTRweQXA4lYqI) | 2:13 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 110 | [No Auge](https://open.spotify.com/track/3x5GJdAjrriDjpiXBgirwA) | [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB), [Ver$al Mauro](https://open.spotify.com/artist/71E8IvfUhz76okrGG7zvjR) | [No Auge](https://open.spotify.com/album/5NNrm6BeGorpUpELB27Wyi) | 1:50 |
 | 111 | [Anonymous](https://open.spotify.com/track/3K27rwWRxMEKCUmbnb9xXn) | [Hebecz](https://open.spotify.com/artist/6cxNecG2Z0Z4IKrgPLV49W), [O NÚCLEO 360](https://open.spotify.com/artist/2an0HLAQrLuRmr2z4OAl7O) | [Anonymous](https://open.spotify.com/album/3IsEzzDit3f383Jee4Y0jA) | 3:19 |
 
-Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMDRjOTI1NTdkNzk5N2E3NmYyYzVkNWM5MGZlZTk5Njc5`
+Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMDkwNDJhYWY4MTE1YmI0NDdhYTAwNDMyZmIyY2MzNTY1`

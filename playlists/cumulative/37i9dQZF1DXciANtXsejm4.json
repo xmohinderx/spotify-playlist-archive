@@ -402,7 +402,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 229280,
       "name": "Como Tu Enemigo",
       "url": "https://open.spotify.com/track/03IoH7NmNDEXW7SSGj0ISS"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 189629,
       "name": "Dos Hombres y un Destino",
       "url": "https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT"
@@ -2137,6 +2137,32 @@
     },
     {
       "album": {
+        "name": "El Rey De Los Trenches",
+        "url": "https://open.spotify.com/album/0XnkIuet2kdHwNFMdKA9RX"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "No Quiero Atraso",
+      "url": "https://open.spotify.com/track/105O8vW1px3oc5Di2EC4Yd"
+    },
+    {
+      "album": {
         "name": "No se va",
         "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
       },
@@ -2152,6 +2178,24 @@
       "duration_ms": 258937,
       "name": "No se va",
       "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
+    },
+    {
+      "album": {
+        "name": "No Vuelvas Mas",
+        "url": "https://open.spotify.com/album/7pUN6IwdxaF2GLn8i5vLY4"
+      },
+      "artists": [
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195812,
+      "name": "No Vuelvas M\u00e1s",
+      "url": "https://open.spotify.com/track/3gySsvwe1rsl3pLj1eEbh9"
     },
     {
       "album": {

@@ -1,13 +1,49 @@
 {
-  "description": "Instrumental guitar shreddery. Cover: Polyphia",
-  "num_followers": 114537,
+  "description": "Instrumental guitar shreddery. Cover: Covet",
+  "num_followers": 114680,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDkyMTE3NjYxZjIzYzNjMWRhZTAxZGUwMzEwYzczMThh",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDQ3N2M5MWIzOWY4YzFhMzQ5NjI5M2VhOGZjM2M2NGQ0",
   "tracks": [
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "firebird",
+        "url": "https://open.spotify.com/album/16p01UoGeKCDn0r4E9zrok"
+      },
+      "artists": [
+        {
+          "name": "Covet",
+          "url": "https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV"
+        }
+      ],
+      "duration_ms": 280235,
+      "name": "firebird",
+      "url": "https://open.spotify.com/track/4aVjtxZglv9VpHiOvb2F6m"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Ego Death (feat. Steve Vai)",
+        "url": "https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "duration_ms": 350085,
+      "name": "Ego Death (feat. Steve Vai)",
+      "url": "https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r"
+    },
     {
       "added_at": "2023-02-17 05:01:00",
       "album": {
@@ -33,24 +69,28 @@
       "url": "https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Ego Death (feat. Steve Vai)",
-        "url": "https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv"
+        "name": "Stay High [Feat. Cory Henry]",
+        "url": "https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X"
       },
       "artists": [
         {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
         },
         {
-          "name": "Steve Vai",
-          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+          "name": "Stanton Moore",
+          "url": "https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         }
       ],
-      "duration_ms": 350085,
-      "name": "Ego Death (feat. Steve Vai)",
-      "url": "https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r"
+      "duration_ms": 193551,
+      "name": "Stay High [Feat. Cory Henry]",
+      "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
     },
     {
       "added_at": "2022-11-11 05:01:00",

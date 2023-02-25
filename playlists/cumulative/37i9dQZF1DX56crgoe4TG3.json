@@ -1331,6 +1331,28 @@
     },
     {
       "album": {
+        "name": "Guess I'm Doing Fine",
+        "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280441,
+      "name": "Guess I'm Doing Fine",
+      "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
+    },
+    {
+      "album": {
         "name": "Keepin' it Beefy",
         "url": "https://open.spotify.com/album/4IQn9XpweytNX2cUe2NBUH"
       },
@@ -3044,6 +3066,24 @@
       "duration_ms": 310853,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/4q7wdKi7TnNdx4zA9MVLP7"
+    },
+    {
+      "album": {
+        "name": "The Power of Love",
+        "url": "https://open.spotify.com/album/6anxI2bsv3bpYpWX7eC0Xy"
+      },
+      "artists": [
+        {
+          "name": "Rick Faris",
+          "url": "https://open.spotify.com/artist/6VNJpZ2LKFFRPksNJsDFqJ"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172151,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/09PGZSbPdDDg1K1wbltwm5"
     },
     {
       "album": {

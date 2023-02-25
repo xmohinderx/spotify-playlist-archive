@@ -4,7 +4,7 @@
 
 > Experimental electronic beyond the borders of tradition.
 
-111 songs - 8 hr 41 min
+112 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Unit 18](https://open.spotify.com/track/4QRHWbbFJhPqTFs6RPS1TV) | [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN) | [Unit 18](https://open.spotify.com/album/1uv2fpE0D6tI9hB7Uq0nJe) | 4:11 | 2022-06-14 |  |
 | [Variation 1](https://open.spotify.com/track/0y34zcPDmNB5fIptbUNOc8) | [Locked Groove](https://open.spotify.com/artist/0Dc7CbTE5mcvrprttS6GDs), [Gacha Bakradze](https://open.spotify.com/artist/6dZmlzI1H5SGdkQ8dWRY76) | [Variation 1](https://open.spotify.com/album/64EMT2XiXfy8OFs3CTHfsp) | 5:02 | 2022-05-06 |  |
 | [Verbosa](https://open.spotify.com/track/6ybeIUtQkVEs0hxVXqWIS1) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Everything U Need](https://open.spotify.com/album/7zCEWeGOc8Ac9UKgLM0mKq) | 5:44 | 2021-10-15 | 2022-06-15 |
-| [Vixen](https://open.spotify.com/track/2pb6ojnggCASqe3AWA1Ty2) | [r o s so](https://open.spotify.com/artist/1gpMfVmjQR8tj5k0LWZ6Qx) | [Vixen](https://open.spotify.com/album/3EQfecdYQko209sbSGCN8O) | 3:48 | 2022-05-06 |  |
+| [Vixen](https://open.spotify.com/track/2JcLrnnCJ93x7sFAZFl5Zb) | [r o s so](https://open.spotify.com/artist/1gpMfVmjQR8tj5k0LWZ6Qx) | [Vixen](https://open.spotify.com/album/72uE8v9IEr0Nv4IAY8FVo8) | 3:48 | 2022-06-14 |  |
+| [Vixen](https://open.spotify.com/track/2pb6ojnggCASqe3AWA1Ty2) | [r o s so](https://open.spotify.com/artist/1gpMfVmjQR8tj5k0LWZ6Qx) | [Vixen](https://open.spotify.com/album/3EQfecdYQko209sbSGCN8O) | 3:48 | 2022-05-06 | 2023-02-25 |
 | [w/ dad & frankie](https://open.spotify.com/track/6A7qrH7MKZaNZ9AUST0MQp) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 2:34 | 2021-10-15 |  |
 | [White Picket Fence](https://open.spotify.com/track/3Jl1wfkdpzqlX9HdIgrOSM) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 2:58 | 2021-10-15 |  |
 | [Woah](https://open.spotify.com/track/44UJiD8fCGMThu9po83lQr) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Woah](https://open.spotify.com/album/4O7A8PZimfssTEUOM7nxvE) | 5:03 | 2021-10-15 |  |

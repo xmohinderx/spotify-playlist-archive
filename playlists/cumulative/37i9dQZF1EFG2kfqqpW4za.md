@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/30ynYqxh9XyqxQgvUHjYBG">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-60 songs - 4 hr 15 min
+61 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [O Que Eu Vejo](https://open.spotify.com/track/50XJtud3nYzfPcXblqtvXo) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 6:16 | 2022-06-04 |  |
 | [Peleja](https://open.spotify.com/track/4Neb2puA95voedjmiOjFax) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 4:10 | 2022-06-04 |  |
 | [Ponto de Equilíbrio](https://open.spotify.com/track/7tUfJp5VuYgrp8dsJvPet1) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 6:39 | 2022-06-04 |  |
-| [Pra Minha Gente \- Ao Vivo](https://open.spotify.com/track/1vnPHCB31rXkIgSinhWPKk) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Blessed Sessions \(Ao Vivo\)](https://open.spotify.com/album/3SZpPJ4BclnxE9xsquF8O5) | 3:19 | 2022-06-04 |  |
+| [Pra Minha Gente](https://open.spotify.com/track/7oxAoeLVwKwm6TfEOM40qJ) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Pra Minha Gente](https://open.spotify.com/album/0bhN1xHWCtB4eYus8Z4iMl) | 2:57 | 2023-02-24 |  |
+| [Pra Minha Gente \- Ao Vivo](https://open.spotify.com/track/1vnPHCB31rXkIgSinhWPKk) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Blessed Sessions \(Ao Vivo\)](https://open.spotify.com/album/3SZpPJ4BclnxE9xsquF8O5) | 3:19 | 2022-06-04 | 2023-02-25 |
 | [Profeta Rei](https://open.spotify.com/track/301wtMedruaqRQELl0MKa2) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 8:51 | 2022-06-04 |  |
 | [Rasta Souljah](https://open.spotify.com/track/5q4E9o6Ub84UMkOLZ5wt7M) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Paz, Amor e Grave](https://open.spotify.com/album/6ZhFba7CkCVfbeRjLGpFrq) | 2:45 | 2022-06-04 |  |
 | [Rastafará](https://open.spotify.com/track/48bFWkHuuedYpZVdYHNQjd) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 6:51 | 2022-06-04 |  |

@@ -535,28 +535,6 @@
     },
     {
       "album": {
-        "name": "SuperBlue: Manic Panic Epiphanic (Live)",
-        "url": "https://open.spotify.com/album/0K2ivbkmwxapmIkFzMWkDA"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        }
-      ],
-      "date_added": "2022-04-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 530336,
-      "name": "Manic Panic Epiphanic - Live",
-      "url": "https://open.spotify.com/track/1EOJiUpdqskM1kcZu1xwZi"
-    },
-    {
-      "album": {
         "name": "Street Songs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
@@ -882,6 +860,28 @@
       "duration_ms": 500120,
       "name": "Steal Away (Version 2)",
       "url": "https://open.spotify.com/track/3rvJsbKBvL8zpX1pTgzzJU"
+    },
+    {
+      "album": {
+        "name": "SuperBlue: Manic Panic Epiphanic (Live)",
+        "url": "https://open.spotify.com/album/0K2ivbkmwxapmIkFzMWkDA"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530336,
+      "name": "SuperBlue: Manic Panic Epiphanic - Live",
+      "url": "https://open.spotify.com/track/1EOJiUpdqskM1kcZu1xwZi"
     },
     {
       "album": {

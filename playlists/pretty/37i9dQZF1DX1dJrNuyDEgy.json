@@ -1,12 +1,12 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 198978,
+  "num_followers": 199076,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA4MzYzNSwwMDAwMDAwMDgzMmYyZWZmMDMxZTNmYTk0OWQ4ZWUzM2MzY2MxYTg5",
+  "snapshot_id": "MTY3NzA4MzYzNSwwMDAwMDAwMDEyOTk2ODJiM2Y2OWUyZTkzNjNmYTZiZmRlZGY1ZTNl",
   "tracks": [
     {
       "added_at": "2022-11-19 17:26:23",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
-      },
-      "artists": [
-        {
-          "name": "Luis Aguilar",
-          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
-        }
-      ],
-      "duration_ms": 105293,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "Uniendo Fronteras",
         "url": "https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 205746,
       "name": "Somos Mas Americanos",
       "url": "https://open.spotify.com/track/1grsm6TpzFbgxXEVa2PmmS"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
+      },
+      "artists": [
+        {
+          "name": "Luis Aguilar",
+          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+        }
+      ],
+      "duration_ms": 105293,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "No Que No",
-        "url": "https://open.spotify.com/album/0GuwpNGXt3Kfl0H8lI5wQP"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "El Mariachi Loco",
-      "url": "https://open.spotify.com/track/2InG1WrLizDf1KUKYLnmIw"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
         "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 216133,
       "name": "Colas",
       "url": "https://open.spotify.com/track/00ZarAVrDz8P9UxuLbdFTu"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "No Que No",
+        "url": "https://open.spotify.com/album/0GuwpNGXt3Kfl0H8lI5wQP"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "El Mariachi Loco",
+      "url": "https://open.spotify.com/track/2InG1WrLizDf1KUKYLnmIw"
     },
     {
       "added_at": "2022-11-19 17:26:23",

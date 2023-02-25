@@ -4,10 +4,11 @@
 
 > Chill house beats for hanging out in the sun.
 
-354 songs - 18 hr 8 min
+356 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10pm](https://open.spotify.com/track/2eKgDX8dvexRVHjQ9uq4KV) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [10pm](https://open.spotify.com/album/7MJsQ6xb1pxzQxwyjM3FbU) | 2:48 | 2023-02-24 |  |
 | [3 ways of summer](https://open.spotify.com/track/5YHH105qftz7WPDE6wkSwJ) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [3 ways of summer](https://open.spotify.com/album/0jFOGkyXQ5VpCzfJ6vr55C) | 3:07 | 2022-11-25 |  |
 | [a little extra brightness](https://open.spotify.com/track/15Ag3lDl7FaSC5vMS1PPV8) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [a little extra brightness](https://open.spotify.com/album/3F80QKlBhIsTywVpl6ZFtH) | 3:13 | 2022-10-28 |  |
 | [A long beat](https://open.spotify.com/track/6o8YW9donm5wXrwtOzLnTE) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [A long beat](https://open.spotify.com/album/2plRSqTfwrO8q5jS9UTS4B) | 3:05 | 2023-01-20 |  |
@@ -122,6 +123,7 @@
 | [Follow you to the end](https://open.spotify.com/track/66xzgxNgDBbVnQ42XzsHbU) | [KaeL Juno](https://open.spotify.com/artist/3C2WXVThyB23oE9HICCnux) | [Follow you to the end](https://open.spotify.com/album/0UvFH1NKo6HOnZSZNopxUF) | 2:33 | 2022-06-17 |  |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2022-04-05 |  |
 | [Forest Spirit](https://open.spotify.com/track/3Y0InfIgRhpHbxFiAmPtkm) | [Koke Ki](https://open.spotify.com/artist/1PPu0ysYNA8rWJKXwQ0cGP) | [Cabana Boy](https://open.spotify.com/album/6LxrC3VnSgTtwuMl01LesL) | 4:12 | 2022-04-05 |  |
+| [Forwards](https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Forwards](https://open.spotify.com/album/58ZW1Ll7XhQ7vTcZGPsvlr) | 2:58 | 2023-02-24 |  |
 | [Foundation](https://open.spotify.com/track/0n5EQPSY4Gm8ckMKuprHzy) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Foundation](https://open.spotify.com/album/54rJNwktOmmRTnukRyMxTL) | 2:27 | 2022-04-05 |  |
 | [From the Heart](https://open.spotify.com/track/0EdgohABs9avmcSSI71aBh) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [From the Heart](https://open.spotify.com/album/1JH584zwgeLYauEmsPRt2f) | 3:32 | 2022-07-29 |  |
 | [Get Down](https://open.spotify.com/track/15kngPpHArrpT8PSdKVSud) | [Pafka](https://open.spotify.com/artist/0JUvxzz5fMMYFMCoBP9NU2) | [Get Down](https://open.spotify.com/album/3PcVhPxZ7f1x6eAznLGgoj) | 2:55 | 2022-04-05 |  |

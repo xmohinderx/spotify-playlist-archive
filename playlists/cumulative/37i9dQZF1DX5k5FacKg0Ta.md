@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-97 songs - 8 hr 36 min
+98 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Thing With Feathers](https://open.spotify.com/track/25patDyUz6247RVEzsEOpx) | [Aleksi Kinnunen](https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU), [Aki Himanen](https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [A Thing With Feathers](https://open.spotify.com/album/3Rsf8oDjs8aR2yI6G5lUGH) | 7:45 | 2022-09-02 |  |
 | [Aava](https://open.spotify.com/track/0ujS9nCJPQaGjzsvaIK7Fx) | [Sami Jaakkola Quartet](https://open.spotify.com/artist/0cmKg90nLDc7vf2fPngnnr) | [Aava](https://open.spotify.com/album/06WNFAzaNDrz4Hrv4sd5iH) | 4:20 | 2022-09-02 |  |
 | [Abyss](https://open.spotify.com/track/70DGWD6Cyl1iuKoEF0e0Sp) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Abyss](https://open.spotify.com/album/5AWHqcIYnZh5uI56sL81Um) | 5:25 | 2022-09-02 |  |
-| [Ajasta eksyneet](https://open.spotify.com/track/6Ufl4p4Oz7F42LTYr5Z2zu) | [Pihlanne](https://open.spotify.com/artist/7revWXsvgsJUnhB81hawi9) | [Lähellä, kaukana](https://open.spotify.com/album/4tmVTqWdEUSA8MEocoXC9v) | 5:28 | 2022-09-02 |  |
+| [Ajasta eksyneet](https://open.spotify.com/track/6Ufl4p4Oz7F42LTYr5Z2zu) | [Pihlanne](https://open.spotify.com/artist/7revWXsvgsJUnhB81hawi9) | [Lähellä, kaukana](https://open.spotify.com/album/4tmVTqWdEUSA8MEocoXC9v) | 5:28 | 2022-09-02 | 2023-02-25 |
 | [Amen](https://open.spotify.com/track/4Ai79FbgReT6KXHCsorAfS) | [RinneRadio](https://open.spotify.com/artist/4qjNgDN11K9KIhXSNbMQPt) | [Dior in Nera](https://open.spotify.com/album/3CfN0fU9XaC41kb2aYXPly) | 7:54 | 2022-09-02 |  |
 | [Arcade](https://open.spotify.com/track/1uT3YSj2okGX3oYOiROe2z) | [Kalevi Hämäläinen Group](https://open.spotify.com/artist/4Kc8F50zSN0op8lEcKm6c2) | [Arcade](https://open.spotify.com/album/5viGCnQLCBvMYEdAaxkM54) | 6:28 | 2022-09-02 |  |
 | [Ask Me Now](https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre) | [Teemu Viinikainen](https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR) | [Ask Me Now](https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf) | 2:30 | 2022-10-13 |  |
@@ -48,6 +48,7 @@
 | [Hover](https://open.spotify.com/track/4L8MDfYP5EF61dDjkEtcat) | [Tapani Rinne](https://open.spotify.com/artist/3444FAqjOpZGe7qdyshHg1), [Juha Mäki\-Patola](https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK) | [Open](https://open.spotify.com/album/5W92tmMDBBOg4d30rMLPWu) | 3:51 | 2022-09-02 |  |
 | [Hustoi](https://open.spotify.com/track/5DIox0mCNo1bzbCWrOwZ8f) | [Halme Prospekt](https://open.spotify.com/artist/1se0dh7TJmCMgQo4nEpI3B) | [Hustoi](https://open.spotify.com/album/3cKJHD8OgLeYnQJpW355SO) | 4:17 | 2023-01-27 |  |
 | [In Place](https://open.spotify.com/track/3U7QS0oySVgb5vL3ZJsD3P) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ) | 5:08 | 2022-09-02 |  |
+| [It Goes On.](https://open.spotify.com/track/0klGXE46DplZMqL8gD3z96) | [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Mikko Innanen](https://open.spotify.com/artist/4HWtSGcRzJwM9qj21ODsIj), [Jussi Kannaste](https://open.spotify.com/artist/5MrinOzalbDrw6L1AvPmbV), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Joonas Riippa](https://open.spotify.com/artist/21QtF2eJhE5KpCFib3zfqO) | [Circus/Citadel](https://open.spotify.com/album/1b0W2gMVRQEFW5ITFt25EZ) | 6:51 | 2023-02-24 |  |
 | [I´ll Be Seeing You](https://open.spotify.com/track/5vPBcZIGc4sttgZR9kM3VR) | [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc) | [Diamond Back](https://open.spotify.com/album/2IUmbx57mCwSRRO522EJ9A) | 5:15 | 2022-09-02 |  |
 | [Jasmiinin kukka](https://open.spotify.com/track/2t6JgAAry6wez10HnkJWvP) | [Ilkka Arola Sound Tagine](https://open.spotify.com/artist/5sb3EcTfz8Kkx1Zs8Vt429) | [Blue & Golden](https://open.spotify.com/album/07uM6sL7Usdi3pHcwQunsc) | 7:05 | 2022-09-02 |  |
 | [Just Make It Fast](https://open.spotify.com/track/4xxgPpHKtihNz7yr4FutXd) | [Markus Holkko](https://open.spotify.com/artist/6l1wgkfbI4ICpgO0Spqmed) | [East Side Up!](https://open.spotify.com/album/1HQSyUWkSc5PrsCMnLMTDz) | 3:46 | 2022-09-02 |  |

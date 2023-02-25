@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-127 songs - 5 hr 44 min
+128 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [AFTERLIFE](https://open.spotify.com/track/5PfNKiRk4pyJWxle5cU0ba) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [AFTERLIFE](https://open.spotify.com/album/3G5QIHz6XSKOUISBBbP28B) | 3:16 | 2022-10-10 |  |
 | [Andromeda](https://open.spotify.com/track/3T9ouQ0YeXLayMQ9eWPAda) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [Andromeda](https://open.spotify.com/album/6x9oS9r0yMvUk0tnUBCFOQ) | 3:36 | 2022-10-10 |  |
 | [Angel](https://open.spotify.com/track/0OIJbFfZfNoAA8oATXh0xr) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Angel](https://open.spotify.com/album/6PwehYyShfSDzzJPZyoZWq) | 3:18 | 2022-10-10 |  |
-| [Angel of Death](https://open.spotify.com/track/7MtVdKpPuufNUOQrJB31uI) | [DarkTerror](https://open.spotify.com/artist/2o4YQX4hxBZaZKA6KbUtWo) | [Angel of Death](https://open.spotify.com/album/3Mi42mgHpgZKtJuU0x3sJ3) | 2:48 | 2022-10-10 |  |
+| [Angel of Death](https://open.spotify.com/track/7MtVdKpPuufNUOQrJB31uI) | [DarkTerror](https://open.spotify.com/artist/2o4YQX4hxBZaZKA6KbUtWo) | [Angel of Death](https://open.spotify.com/album/3Mi42mgHpgZKtJuU0x3sJ3) | 2:48 | 2022-10-10 | 2023-02-25 |
 | [Antarctica](https://open.spotify.com/track/70vSSq0cTXUQzJD9fgtiCb) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Antarctica](https://open.spotify.com/album/1oWEYEC46CHtNyWkhayjtz) | 3:51 | 2023-01-06 |  |
 | [Aria Math](https://open.spotify.com/track/0QeYTfxC3BchP1Hzn5HGPd) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW), [HARDX](https://open.spotify.com/artist/6goAg9k3zJ2edlE7OtIkTn) | [Aria Math](https://open.spotify.com/album/4hIpj10UfZXzkhbocSxDXh) | 4:05 | 2022-12-16 |  |
 | [Ascension](https://open.spotify.com/track/655HUrteca32fCVbWCHe0b) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627), [Cowbell Christ](https://open.spotify.com/artist/1U1JvyVp0OJeyQowx6HOlm) | [Ascension](https://open.spotify.com/album/1sQ5onguS8iW0SfZb6WSoZ) | 2:00 | 2022-10-10 |  |
@@ -81,6 +81,7 @@
 | [MUSEUM OF THE VOID](https://open.spotify.com/track/6rDjt5uh8wte2GzZHQxVzT) | [ETERNVL SVDNESS](https://open.spotify.com/artist/0FNnibWWGPh1bSwBkcUrMg) | [CULTURE OF FUTURITY](https://open.spotify.com/album/38f0sIVlHZbIhEBlKeb0OF) | 2:49 | 2022-10-10 | 2022-12-17 |
 | [My Toy](https://open.spotify.com/track/47C0kcP46CKw8DX69aXmRK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [My Toy](https://open.spotify.com/album/6ai1YGBCS8Y83QWtJrRJz8) | 3:18 | 2022-10-10 | 2023-01-21 |
 | [Next Day Was Yesterday](https://open.spotify.com/track/2TaFenxaQaYmeSpq4EaPNl) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Next Day Was Yesterday](https://open.spotify.com/album/3zzx0LzD0pqX9BUPUZzacZ) | 2:52 | 2022-10-10 |  |
+| [Night Drive](https://open.spotify.com/track/0zUaZGWTnuU9eAvYIAOCet) | [Digma](https://open.spotify.com/artist/4yoc4oFXtddeMUM0IPPr4a), [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2) | [Night Drive](https://open.spotify.com/album/4KfiISrF4UYPIhPLvJsIjI) | 2:47 | 2023-02-24 |  |
 | [Night Drive](https://open.spotify.com/track/4TixrVMeVgwh6VuIc7WjMr) | [DVXRK](https://open.spotify.com/artist/76ajlfoI4iJ83Ngcqod5Xv), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [Night Drive](https://open.spotify.com/album/1WAQ6fdYFjJuSjs0rKDx31) | 2:51 | 2022-10-10 |  |
 | [Night Drive \(Slowed + Reverb\)](https://open.spotify.com/track/331H6137RMXrWPqdoinXfA) | [Wilee](https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r) | [Night Drive \(Slowed + Reverb\)](https://open.spotify.com/album/6im4iD0gt2vezgk3xhyrhh) | 2:17 | 2022-10-10 |  |
 | [Night Finding](https://open.spotify.com/track/6e8aObTgP8Jb4eZt5mAAk1) | [yellow pixie](https://open.spotify.com/artist/0OeJ57WX4JoCw1FdTM8Uwe) | [Night Finding](https://open.spotify.com/album/29JbcmWxHt4KNqMCM4TRME) | 1:54 | 2022-10-10 |  |

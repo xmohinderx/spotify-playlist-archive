@@ -60,7 +60,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 292306,
       "name": "(Why You So) Green With Envy",
       "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 144626,
       "name": "Baby, I'm Shining and Free",
       "url": "https://open.spotify.com/track/6Pua9XVHra6m0uP8DPqpOe"
@@ -3307,6 +3307,28 @@
     },
     {
       "album": {
+        "name": "Jazz Futon",
+        "url": "https://open.spotify.com/album/6immvU3yDIO7RCtT0wjiPY"
+      },
+      "artists": [
+        {
+          "name": "Valaire",
+          "url": "https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj"
+        },
+        {
+          "name": "Ciscero",
+          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237642,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/0KB5FH5bzrcus310dpPo6a"
+    },
+    {
+      "album": {
         "name": "Greener",
         "url": "https://open.spotify.com/album/4qvcbIXO49k3UQIKXRpomK"
       },
@@ -5339,6 +5361,28 @@
     },
     {
       "album": {
+        "name": "On the Run",
+        "url": "https://open.spotify.com/album/17L5JLhFSSaLuhYg10u8U8"
+      },
+      "artists": [
+        {
+          "name": "Farah Audhali",
+          "url": "https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "On the Run",
+      "url": "https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN"
+    },
+    {
+      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/1JJ835bjpHpJIt5QdZEmd5"
       },
@@ -6602,7 +6646,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 174600,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/277g8X8E2Fc2gaSx73FWNs"
@@ -8724,6 +8768,28 @@
       "duration_ms": 190333,
       "name": "You Make Me Feel So Good",
       "url": "https://open.spotify.com/track/52ZUwYOfSHJB2aJ4nfz9ic"
+    },
+    {
+      "album": {
+        "name": "You've Grown",
+        "url": "https://open.spotify.com/album/4IyM1usiviJxx2zwdyZj4l"
+      },
+      "artists": [
+        {
+          "name": "Substantial",
+          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+        },
+        {
+          "name": "MLLN",
+          "url": "https://open.spotify.com/artist/6cm9fsI3WSMNSJkJp74L1e"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "You've Grown",
+      "url": "https://open.spotify.com/track/7ytRHQTDDIKZLZsAIsE7x7"
     },
     {
       "album": {

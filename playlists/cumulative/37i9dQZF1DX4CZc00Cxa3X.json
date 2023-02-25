@@ -72,7 +72,7 @@
           "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
         }
       ],
-      "date_added": "2023-02-20",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 82674,
@@ -2451,6 +2451,28 @@
     },
     {
       "album": {
+        "name": "Ray",
+        "url": "https://open.spotify.com/album/0RFSLWfMPONtCdhxIRvCPL"
+      },
+      "artists": [
+        {
+          "name": "Blurstem",
+          "url": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
+        },
+        {
+          "name": "Andrew Tasselmyer",
+          "url": "https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/4DZZQbBwmrheEeiVqvkpEx"
+    },
+    {
+      "album": {
         "name": "Sleep Better",
         "url": "https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG"
       },
@@ -2642,7 +2664,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 547056,
       "name": "Severance",
       "url": "https://open.spotify.com/track/1Xb23c8l5v0syXyCcUmpPH"
@@ -3768,7 +3790,7 @@
           "url": "https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b"
         }
       ],
-      "date_added": "2023-02-18",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 264352,

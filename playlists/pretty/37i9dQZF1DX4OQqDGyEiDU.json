@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 58668,
+  "num_followers": 58785,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE2NDQwMCwwMDAwMDAwMDdiYzIzMjg0MTBkZjExMTUyZGE5ZjliY2VkNzRkYTQ4",
+  "snapshot_id": "MTY3NzE2NDQwMCwwMDAwMDAwMGZlOTVmNjM0MDFiZjgxMDRmYzEwMjAwNDM5MDQ1YzI0",
   "tracks": [
     {
       "added_at": "2023-02-23 15:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
-        "name": "MACHINEGUN POEM DOLL",
-        "url": "https://open.spotify.com/album/5PH0dNztK2UMLj8lLwmLqH"
-      },
-      "artists": [
-        {
-          "name": "cosMo@Bousou-P",
-          "url": "https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6"
-        }
-      ],
-      "duration_ms": 140527,
-      "name": "MACHINEGUN POEM DOLL",
-      "url": "https://open.spotify.com/track/0xly7rh0DZqVxI8Jmn7sid"
-    },
-    {
-      "added_at": "2023-02-23 15:00:00",
-      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 208991,
       "name": "Non-breath oblige",
       "url": "https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H"
+    },
+    {
+      "added_at": "2023-02-23 15:00:00",
+      "album": {
+        "name": "MACHINEGUN POEM DOLL",
+        "url": "https://open.spotify.com/album/5PH0dNztK2UMLj8lLwmLqH"
+      },
+      "artists": [
+        {
+          "name": "cosMo@Bousou-P",
+          "url": "https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6"
+        }
+      ],
+      "duration_ms": 140527,
+      "name": "MACHINEGUN POEM DOLL",
+      "url": "https://open.spotify.com/track/0xly7rh0DZqVxI8Jmn7sid"
     },
     {
       "added_at": "2023-02-23 15:00:00",

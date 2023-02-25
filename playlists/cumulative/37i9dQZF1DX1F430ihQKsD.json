@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Les Louanges",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Robert Robert",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -104,6 +104,24 @@
       "duration_ms": 276425,
       "name": "Airplanes",
       "url": "https://open.spotify.com/track/62ZyZBJDJmvwBjKOFvAaDt"
+    },
+    {
+      "album": {
+        "name": "Alex",
+        "url": "https://open.spotify.com/album/3OcCtQyK3oWNJhsr4A3ZX4"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196746,
+      "name": "Alex",
+      "url": "https://open.spotify.com/track/26zBcpftrIo8tskR6tgB4d"
     },
     {
       "album": {
@@ -706,7 +724,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 239183,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4N0usfFMf97wkIGUF9rlKx"
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 230587,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/7BjZD4TVbmqNAJpEbvS6By"
@@ -2670,7 +2688,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 143650,
       "name": "Laurence",
       "url": "https://open.spotify.com/track/4ittp8FlfefXuOMx8sWofb"
@@ -4010,6 +4028,24 @@
       "duration_ms": 207128,
       "name": "Prends \u00e7a doux",
       "url": "https://open.spotify.com/track/6MAyFXAiCZPmEMrW90M5CS"
+    },
+    {
+      "album": {
+        "name": "Prettier Things",
+        "url": "https://open.spotify.com/album/6gmX0VR24fi5eVPf2fg7sW"
+      },
+      "artists": [
+        {
+          "name": "Sorry Girls",
+          "url": "https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232115,
+      "name": "Prettier Things",
+      "url": "https://open.spotify.com/track/1jFAREzr20dvAfkegfEbTV"
     },
     {
       "album": {

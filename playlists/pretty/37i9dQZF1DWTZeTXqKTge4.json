@@ -1,15 +1,15 @@
 {
   "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: FouKi",
-  "num_followers": 75500,
+  "num_followers": 75515,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDc5YzNkMzhkNGNmOWZmMDMyNzk1Yzc3MzhkMTRiMjFk",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGJmMTVhOGQ0N2FhMDZiNzBlMmMwNjg0NmI5NjgxNWM5",
   "tracks": [
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Zayon",
         "url": "https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY"
@@ -29,43 +29,7 @@
       "url": "https://open.spotify.com/track/1d15a5d3w0JBIslTS9N8Ex"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Malsain et sauf",
-        "url": "https://open.spotify.com/album/32GEpdgSryJ1QSRsvN4EiN"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        }
-      ],
-      "duration_ms": 194443,
-      "name": "Malsain et sauf",
-      "url": "https://open.spotify.com/track/7j3la4hrPWrfAfnbPitoGI"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "M\u00e9rit\u00e9",
-        "url": "https://open.spotify.com/album/32kQLDgEXAfljcw3wgOQxk"
-      },
-      "artists": [
-        {
-          "name": "Izzy-S",
-          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
-        },
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        }
-      ],
-      "duration_ms": 162943,
-      "name": "M\u00e9rit\u00e9",
-      "url": "https://open.spotify.com/track/5wd8lk4IpsqJomwYuzpCCy"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Le calme avant la temp\u00eate",
         "url": "https://open.spotify.com/album/4ITWZzzEkduCXSaIHb4Llp"
@@ -85,7 +49,63 @@
       "url": "https://open.spotify.com/track/0lV7WglmHuWvFMid5KlRPI"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Tout ou rien (De l'autre c\u00f4t\u00e9)",
+        "url": "https://open.spotify.com/album/6TMqENMy33MdWMGJ3ZgApt"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Negrito",
+          "url": "https://open.spotify.com/artist/1i8gGjDzv2FNoy6dHcr25K"
+        }
+      ],
+      "duration_ms": 192853,
+      "name": "Tout ou rien - De l'autre c\u00f4t\u00e9",
+      "url": "https://open.spotify.com/track/4Gzv5t4RddodRoc5rR3Vuz"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "M\u00e9rit\u00e9",
+        "url": "https://open.spotify.com/album/32kQLDgEXAfljcw3wgOQxk"
+      },
+      "artists": [
+        {
+          "name": "Izzy-S",
+          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
+        },
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        }
+      ],
+      "duration_ms": 162943,
+      "name": "M\u00e9rit\u00e9",
+      "url": "https://open.spotify.com/track/5wd8lk4IpsqJomwYuzpCCy"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Donne-moi tout",
+        "url": "https://open.spotify.com/album/7qvR4RsNKAzIX4c0C4IBOz"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "duration_ms": 261176,
+      "name": "Donne-moi tout",
+      "url": "https://open.spotify.com/track/3p2F9SRs390U4dOp3siAcF"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "C-17",
         "url": "https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "1942",
         "url": "https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm"
@@ -121,7 +141,23 @@
       "url": "https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "RS3",
+        "url": "https://open.spotify.com/album/3HXwfpnhD26UWEWESoz4iY"
+      },
+      "artists": [
+        {
+          "name": "Izuku",
+          "url": "https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8"
+        }
+      ],
+      "duration_ms": 174638,
+      "name": "RS3",
+      "url": "https://open.spotify.com/track/7ewyfiBDhVBojXtyK26rfA"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Froid",
         "url": "https://open.spotify.com/album/5jKAgilOampSvGsOpYHRhG"
@@ -137,7 +173,7 @@
       "url": "https://open.spotify.com/track/7xdBeATvkJWIEsh60xc2GZ"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Zayon",
         "url": "https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY"
@@ -153,7 +189,7 @@
       "url": "https://open.spotify.com/track/4eBIBc2kWpJfBUiww6OLZ8"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Bulletproof",
         "url": "https://open.spotify.com/album/0aDr8UBbaSXDFziZvCrRpo"
@@ -185,7 +221,7 @@
       "url": "https://open.spotify.com/track/7bHdCsoQTOn7Hd5r5wKTKm"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Valid\u00e9",
         "url": "https://open.spotify.com/album/2EwEMw0rf3hmoyI4ztCkzD"
@@ -205,7 +241,7 @@
       "url": "https://open.spotify.com/track/7qABSVRa8kvEdgeMuI5Oaa"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Un jour de plus au paradis",
         "url": "https://open.spotify.com/album/3rz0HsjWhOAom7JaSRziWd"
@@ -225,7 +261,23 @@
       "url": "https://open.spotify.com/track/4c5hY1uAZGRFWrcwb3ZSjO"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Malsain et sauf",
+        "url": "https://open.spotify.com/album/32GEpdgSryJ1QSRsvN4EiN"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "duration_ms": 194443,
+      "name": "Malsain et sauf",
+      "url": "https://open.spotify.com/track/7j3la4hrPWrfAfnbPitoGI"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Soleil",
         "url": "https://open.spotify.com/album/0A49z1LkvPN2TIbqWDbJzz"
@@ -245,7 +297,7 @@
       "url": "https://open.spotify.com/track/4vxCBbwpMyrcbzAe4uO2oO"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Billie",
         "url": "https://open.spotify.com/album/2sorTEePV03yWplyfjgs8e"
@@ -265,23 +317,7 @@
       "url": "https://open.spotify.com/track/0AKpIDr4aCRTQY8ebSlbes"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Fruit d\u00e9fendu",
-        "url": "https://open.spotify.com/album/46hTeni6rzDZApaurPprXj"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Fruit d\u00e9fendu",
-      "url": "https://open.spotify.com/track/4dS3ZuMB8PBN0y5nOdQRKN"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Dehors",
         "url": "https://open.spotify.com/album/1V1ZmrSeSYHRJhYt2S1B2h"
@@ -297,7 +333,7 @@
       "url": "https://open.spotify.com/track/1GsemtxnOpIyhbqCUZ8INy"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Zayon",
         "url": "https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY"
@@ -321,7 +357,7 @@
       "url": "https://open.spotify.com/track/5DKGxw5dGLk92vicX5WbBb"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Abri de fortune (pour fin du monde)",
         "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
@@ -337,7 +373,7 @@
       "url": "https://open.spotify.com/track/1jWLU6SUdSUKZbpK0Zvdg3"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "FIYAH",
         "url": "https://open.spotify.com/album/7LhkTAJ8NTMhMbynv8RQav"
@@ -353,7 +389,7 @@
       "url": "https://open.spotify.com/track/0u4Q7fpXtrTAHTPYCKcoIA"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Toute La Night",
         "url": "https://open.spotify.com/album/1bk4syGySEg4a2nqFM5YWc"
@@ -369,7 +405,7 @@
       "url": "https://open.spotify.com/track/2akJNXtqHPa2UCYt1k20LV"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Tiamat, Mon Amour",
         "url": "https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq"
@@ -389,7 +425,7 @@
       "url": "https://open.spotify.com/track/4Sif8gDOINGLQ6gDP8yZjP"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/6XlTKcnoHUtoZ2yQUra9zf"
@@ -409,7 +445,7 @@
       "url": "https://open.spotify.com/track/3HJKrwiplwM14ZN9RowsIc"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Mort Pour Moi",
         "url": "https://open.spotify.com/album/3PXJLrqBJwJt834HuaqBpP"
@@ -429,7 +465,7 @@
       "url": "https://open.spotify.com/track/7fOSy5JIRzf3VFMtReUxSW"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Titulaire",
         "url": "https://open.spotify.com/album/0M3hYvMSfsp0Bopt8xODgH"
@@ -445,7 +481,7 @@
       "url": "https://open.spotify.com/track/1t3g4YEWcJXuau9ZuCCkwB"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Bulletproof",
         "url": "https://open.spotify.com/album/6At8VogWxotaF0CEc9hHX4"
@@ -465,7 +501,7 @@
       "url": "https://open.spotify.com/track/7zjnbWmrYenEq0RH00JDeU"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Mauvais Ange",
         "url": "https://open.spotify.com/album/1dUgspOSlYWQT0WSJBdvYU"
@@ -489,7 +525,7 @@
       "url": "https://open.spotify.com/track/2RUJJtbGdliDKtsQpw6zDW"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "CC",
         "url": "https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc"
@@ -505,7 +541,7 @@
       "url": "https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Je Suis Canicule",
         "url": "https://open.spotify.com/album/4hWU5w4QTHAkB2mXM5PRgn"
@@ -521,7 +557,7 @@
       "url": "https://open.spotify.com/track/2yA4AFOcgm7GoBrqzZuFEv"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0UlPdvDUpDNBxcN8l5u3Iw"
@@ -541,7 +577,7 @@
       "url": "https://open.spotify.com/track/312JgU2zABk8VkjSdkjonp"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Magique",
         "url": "https://open.spotify.com/album/7Ju4HUvlakPvIsibpoZ4Wu"
@@ -557,7 +593,7 @@
       "url": "https://open.spotify.com/track/0FzN7tnPh3epsX38zFgvV1"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Dans Le Futur",
         "url": "https://open.spotify.com/album/4EvjCGOF7KhSbYhO99H3qG"
@@ -573,7 +609,7 @@
       "url": "https://open.spotify.com/track/6XTgW6NZDwECU4ZMgEyoto"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Sans II",
         "url": "https://open.spotify.com/album/3hoKvPaEu9R4wk0VJ3OsWE"
@@ -589,7 +625,7 @@
       "url": "https://open.spotify.com/track/4loGA6wgIHMxgQyHlqyE5U"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Drogue maison (Deluxe)",
         "url": "https://open.spotify.com/album/5H8QMJraO6RBXz0SrNDJJH"
@@ -605,7 +641,7 @@
       "url": "https://open.spotify.com/track/0cp6fmWmUJTEBdwJFhHN3a"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Allumette",
         "url": "https://open.spotify.com/album/23b8mvJqyDE82TTWTa5dHA"
@@ -633,7 +669,7 @@
       "url": "https://open.spotify.com/track/7BJ4JuN9t3TNfb43KFgC41"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "No Bap",
         "url": "https://open.spotify.com/album/20wZbBu2CTnHuakNixVf1H"
@@ -657,7 +693,7 @@
       "url": "https://open.spotify.com/track/6INVu5L6ciTAFVR64nIF4w"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Allo c\u2019est qui?",
         "url": "https://open.spotify.com/album/4QBGKhrngSOqtwohuYVHgz"
@@ -673,7 +709,7 @@
       "url": "https://open.spotify.com/track/7JvS9AEXvNPsouhhVECNeZ"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "MMS 2.0",
         "url": "https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA"
@@ -689,7 +725,7 @@
       "url": "https://open.spotify.com/track/4VHJDnAK9d9XjhIHuGjib6"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Uptown",
         "url": "https://open.spotify.com/album/7EAieD2FqluiHc3eeTDkCC"
@@ -709,23 +745,7 @@
       "url": "https://open.spotify.com/track/1AwELajjX7wPD87c5TfYc6"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Bisou L\u00e9tal",
-        "url": "https://open.spotify.com/album/58RPzzvZJu8GS6FKyrkvNm"
-      },
-      "artists": [
-        {
-          "name": "LaF",
-          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
-        }
-      ],
-      "duration_ms": 243204,
-      "name": "Bisou L\u00e9tal",
-      "url": "https://open.spotify.com/track/6BEh9v8ZJlJKynsT79FWhP"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Little Bro",
         "url": "https://open.spotify.com/album/69GbVidiLTfUezF80QTcff"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/5sJr70b05dLwOamB3s7o8L"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Voleur d'esprit",
         "url": "https://open.spotify.com/album/6bQOhjFmY4mPuX7S9X0hvy"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/0joPetCA1uEmgBzkBjRVDQ"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "REALLIONAIRE",
         "url": "https://open.spotify.com/album/1MKsUiNuDOBqPZtIYpOPEX"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/4fyHka6VfWq6UQ61p8xjC5"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Hold it down",
         "url": "https://open.spotify.com/album/1W30EfvKo5lbKhBcsooDD8"
@@ -801,7 +821,7 @@
       "url": "https://open.spotify.com/track/31CvdrRgCvWY3QpgJW7h9F"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "JOLIE",
         "url": "https://open.spotify.com/album/5Qd20porNImdqUen8N5z6x"
@@ -821,7 +841,7 @@
       "url": "https://open.spotify.com/track/3k12fBG7wbMpAvDgOdoDll"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Pour de Vrai",
         "url": "https://open.spotify.com/album/5JcvPcv2DJ51OEdOKrfZrw"
@@ -837,7 +857,7 @@
       "url": "https://open.spotify.com/track/1XkvgJQShm0CpIWe6UbTHH"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "OUVERT 24H",
         "url": "https://open.spotify.com/album/7EqcDXSFsZso51h1g7cBAM"
@@ -857,7 +877,7 @@
       "url": "https://open.spotify.com/track/0nDa5VqZjVS6a5z8S5UZOJ"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Trap & Winnin",
         "url": "https://open.spotify.com/album/4thUBlf9InqxV9EkZ01gBt"
@@ -873,7 +893,7 @@
       "url": "https://open.spotify.com/track/6mbnhgVJXbX1qHbqqXuBk7"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/4lOidpIuRkvmFRDPiCXcMy"
@@ -889,7 +909,7 @@
       "url": "https://open.spotify.com/track/2FYr6FPlyM0vl8gk562gnj"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "\u00d4 CANADA CASH MONEY GAS OIL",
         "url": "https://open.spotify.com/album/1s6iknRE2vRWB91XnmaUnm"
@@ -905,7 +925,7 @@
       "url": "https://open.spotify.com/track/1H0M4RGGYBF5pOViL9UdPB"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "WHAP",
         "url": "https://open.spotify.com/album/1HpV0b6wVhRgJ0MLbBoqqE"
@@ -921,7 +941,7 @@
       "url": "https://open.spotify.com/track/7pNJNSyIM9uHW5GeJQha6F"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "P\u00e9tale",
         "url": "https://open.spotify.com/album/0qmrfShgngmmWA8cPcrXAA"
@@ -937,7 +957,7 @@
       "url": "https://open.spotify.com/track/5MT66MAa0tPKBM0jV5aqq8"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Cercle Vicieux",
         "url": "https://open.spotify.com/album/4uKG6vs1F0Y84CZOyP2CZm"
@@ -957,23 +977,7 @@
       "url": "https://open.spotify.com/track/2Wsp91MjyvE6fypPKmW3U4"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Ce Soir",
-        "url": "https://open.spotify.com/album/5wp0Zwk1GtcUhZUVUCb5xE"
-      },
-      "artists": [
-        {
-          "name": "Izuku",
-          "url": "https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Ce Soir",
-      "url": "https://open.spotify.com/track/7cjZwi0ZIiotcjPKl0ymLU"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "400",
         "url": "https://open.spotify.com/album/1QLh17mGCqestAzRo8VcC0"
@@ -989,7 +993,7 @@
       "url": "https://open.spotify.com/track/2S4GE0dXH8F0G4HZwviRSQ"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Attrape-moi si tu peux",
         "url": "https://open.spotify.com/album/7loflFAMtP4zW5gGTYXZAd"
@@ -1009,7 +1013,7 @@
       "url": "https://open.spotify.com/track/57ixH2CoJSG4vPPFHuWJhr"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "CAM\u00c9L\u00c9ON",
         "url": "https://open.spotify.com/album/1wC9LZFmdvqfeqFtKOOcYE"
@@ -1029,7 +1033,7 @@
       "url": "https://open.spotify.com/track/4eGyyIrOWWGlBbdt0xZTMI"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Andale",
         "url": "https://open.spotify.com/album/3ADUouvgyG92CLvC8rzua5"
@@ -1045,7 +1049,7 @@
       "url": "https://open.spotify.com/track/1bOqJaCP7MMxJJ2oGRX0jS"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/5nAFBraM51Rcfs8HkYos4I"
@@ -1061,7 +1065,7 @@
       "url": "https://open.spotify.com/track/05owzjR8t0M3Y2BIFArgLr"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Love d'un voyou",
         "url": "https://open.spotify.com/album/6ehJBKCLlIMQrBpT6hwbP9"
@@ -1077,7 +1081,7 @@
       "url": "https://open.spotify.com/track/5AxnOc77Zl6gA4UQWqhFVA"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "\u00c9vapor\u00e9",
         "url": "https://open.spotify.com/album/3o3N3TegvhjoTfZmsTxnZo"
@@ -1097,7 +1101,7 @@
       "url": "https://open.spotify.com/track/32XFaa4LwJrdI7R4Z8dDZD"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Sans trembler",
         "url": "https://open.spotify.com/album/0PEec1NvTPyeSEhP5hchWn"
@@ -1113,7 +1117,7 @@
       "url": "https://open.spotify.com/track/3HEdgzJeMkuX2MdVGqPRNK"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Dandan",
         "url": "https://open.spotify.com/album/1kNR3dBuxP2A8WFI25dBXL"
@@ -1133,7 +1137,7 @@
       "url": "https://open.spotify.com/track/7L2iNYWkQ6zy9ZloDdJnHr"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Camping",
         "url": "https://open.spotify.com/album/0TKxbWXUfFAdInNrf6WzrQ"
@@ -1149,7 +1153,7 @@
       "url": "https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Barri\u00e8res",
         "url": "https://open.spotify.com/album/2qgaxwFqAEolIIln26xxTF"
@@ -1173,7 +1177,7 @@
       "url": "https://open.spotify.com/track/3C4wnKdUcRx0grFcZtuB0K"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Black Card",
         "url": "https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc"
@@ -1189,7 +1193,7 @@
       "url": "https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "C\u00e9sar",
         "url": "https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28"
@@ -1205,7 +1209,7 @@
       "url": "https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "NHN",
         "url": "https://open.spotify.com/album/7s2LzVU7OEMJbKW4DUYsBJ"
@@ -1225,7 +1229,7 @@
       "url": "https://open.spotify.com/track/0DfrSA7A8vdk8rDCUlBNac"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "TronelDiablo",
         "url": "https://open.spotify.com/album/1kRKwfoDM7hFBH9YrBGlyb"
@@ -1241,7 +1245,7 @@
       "url": "https://open.spotify.com/track/4mzNeemSeYcTJSPlQWudN7"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Ice",
         "url": "https://open.spotify.com/album/3hEqMe7QYkSZlUPrk5LrUs"
@@ -1261,7 +1265,7 @@
       "url": "https://open.spotify.com/track/5tGZXgLK1nPDF6U8Velfl3"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/38m4T8X8yQJJ788BM2yJVx"
@@ -1281,7 +1285,7 @@
       "url": "https://open.spotify.com/track/5uy3QzTHO9TRh97CDhQ9Jm"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Connexion",
         "url": "https://open.spotify.com/album/1CFVRutfTbatxCw3C1sWYC"
@@ -1301,7 +1305,7 @@
       "url": "https://open.spotify.com/track/1KUEsdNuweedvo3Lb9LjlR"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Abri de fortune (pour fin du monde)",
         "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
@@ -1321,7 +1325,7 @@
       "url": "https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "SNAKEYEZ",
         "url": "https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC"
@@ -1337,7 +1341,7 @@
       "url": "https://open.spotify.com/track/5i3geg5F4TESsafrZe66tv"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Vertige",
         "url": "https://open.spotify.com/album/2yoSmS2boP6CbLhUlZPciN"
@@ -1353,7 +1357,7 @@
       "url": "https://open.spotify.com/track/1ImplX8y9L2iv53JX2NkCy"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Astronaute",
         "url": "https://open.spotify.com/album/2A41RCTjlR4P888t6OfM89"
@@ -1373,7 +1377,7 @@
       "url": "https://open.spotify.com/track/7elFP749giV9I0f1LQHeFM"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Aucune promesse",
         "url": "https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP"

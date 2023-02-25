@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,138 likes - 199 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,354 likes - 199 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 26 | [One Two Tree](https://open.spotify.com/track/1tNwm7phOIMzGC1VO9Dggr) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [One Two Tree](https://open.spotify.com/album/6HxpoPkpORExzoxwu4QVXZ) | 2:01 |
 | 27 | [safety match](https://open.spotify.com/track/1QNezn0xbaGoNsMiSNNJeO) | [arithmetic underflow](https://open.spotify.com/artist/6uk5o7O5Wz3xVIUv3zG9Gr) | [safety match](https://open.spotify.com/album/0rUBTL4CTReuG3tx7HFjwh) | 2:54 |
 | 28 | [Brooklyn](https://open.spotify.com/track/6dtGKLkb3KjWffRKNDfrYu) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Brooklyn](https://open.spotify.com/album/7CWgOASiOuI951TPGGzbWX) | 1:53 |
-| 29 | [Sorbets](https://open.spotify.com/track/0myyZ5la6POCla0TiQAlJI) | [StuntBoy](https://open.spotify.com/artist/4Of78o29P758Xa4ZluzsS1) | [Reach Out](https://open.spotify.com/album/75Scz9V5C2kpPIWAQyJT26) | 2:00 |
+| 29 | [Sorbets](https://open.spotify.com/track/0myyZ5la6POCla0TiQAlJI) | [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [Reach Out](https://open.spotify.com/album/75Scz9V5C2kpPIWAQyJT26) | 2:00 |
 | 30 | [Birch Sap](https://open.spotify.com/track/5tiP9vXHi7Z12WkGyup8zV) | [ULMÄR](https://open.spotify.com/artist/7BJ1Z3VaSzoX2z4p6OtwFU) | [Beatology Vol\. 1](https://open.spotify.com/album/3PyZ6vA8aoyhW0nskqCZlj) | 2:37 |
 | 31 | [Can We Just Vibe?](https://open.spotify.com/track/0wmr45zDNsSMy9cRgddm4E) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Can We Just Vibe?](https://open.spotify.com/album/5WsSwxseHP6HV4DVWl0CVn) | 2:44 |
 | 32 | [Streetlife](https://open.spotify.com/track/68kgY2W1t6P0UcRcwZH0OP) | [Dot One](https://open.spotify.com/artist/5L0oApIYGNFApK98EL4dD8) | [Streetlife](https://open.spotify.com/album/1J5xvCi8fKUTrjMVNwSRw5) | 1:31 |

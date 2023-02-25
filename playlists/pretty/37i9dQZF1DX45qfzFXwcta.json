@@ -1,12 +1,12 @@
 {
   "description": "Instrumental beats from (and influenced by) Hip-Hop's hey day; to help you study, work and vibe. ",
-  "num_followers": 8376,
+  "num_followers": 8518,
   "original_name": "Golden Era Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA2MzgyMSwwMDAwMDAwMDQ2ZjllMmIxNGMzMmExZTZhMzRiMDUyYWQzOWNlMWM1",
+  "snapshot_id": "MTY3NzI1NjgxMCwwMDAwMDAwMDg5NWY2OTNlYmEyNmZkYjdiMGJlNzNkMzkxYWVmZGZi",
   "tracks": [
     {
       "added_at": "2022-12-09 13:00:46",
@@ -880,8 +880,8 @@
       },
       "artists": [
         {
-          "name": "Derivata",
-          "url": "https://open.spotify.com/artist/2AiZiIawzbASzaIiG3M1bJ"
+          "name": "Kelly Kane",
+          "url": "https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD"
         }
       ],
       "duration_ms": 128798,
@@ -1056,8 +1056,8 @@
       },
       "artists": [
         {
-          "name": "Stratotune",
-          "url": "https://open.spotify.com/artist/4jj5GyEzbV9KzXTu5nXyi0"
+          "name": "Redmoo",
+          "url": "https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu"
         }
       ],
       "duration_ms": 133333,
@@ -1111,6 +1111,58 @@
       "duration_ms": 318020,
       "name": "Dylan",
       "url": "https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je"
+    },
+    {
+      "added_at": "2023-02-24 16:35:38",
+      "album": {
+        "name": "Summerwind",
+        "url": "https://open.spotify.com/album/3uhMWZk6MPkw6Amk2zonai"
+      },
+      "artists": [
+        {
+          "name": "Slipp",
+          "url": "https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Summerwind",
+      "url": "https://open.spotify.com/track/1YBb5s7JxiFQV9E7e4QThO"
+    },
+    {
+      "added_at": "2023-02-24 16:40:10",
+      "album": {
+        "name": "RIDING AROUND",
+        "url": "https://open.spotify.com/album/4uzGpc26ZtByWohlYtm5GK"
+      },
+      "artists": [
+        {
+          "name": "Sarah, the Illstrumentalist",
+          "url": "https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6"
+        }
+      ],
+      "duration_ms": 128869,
+      "name": "Look How Pretty Today Is",
+      "url": "https://open.spotify.com/track/1r06SNlcN9DeAxngjsSUWt"
+    },
+    {
+      "added_at": "2023-02-24 16:35:38",
+      "album": {
+        "name": "Geek Out",
+        "url": "https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631"
+      },
+      "artists": [
+        {
+          "name": "Gotharoo",
+          "url": "https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ"
+        }
+      ],
+      "duration_ms": 107579,
+      "name": "Geek Out",
+      "url": "https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW"
     }
   ],
   "unique_name": "Golden Era Focus",

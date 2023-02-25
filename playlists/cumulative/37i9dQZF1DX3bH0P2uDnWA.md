@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-251 songs - 14 hr 46 min
+252 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Button Up](https://open.spotify.com/track/0yFu8XNnKr0ium4NrmWCtB) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Vintage Jukebox EP](https://open.spotify.com/album/7rA6iTmGOEzJNtKGjh41Hl) | 3:23 | 2020-10-30 | 2022-07-25 |
 | [Candy Girl](https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Vallemarie](https://open.spotify.com/artist/7IEexZoQUGuysrjOv20v0g) | [Candy Girl](https://open.spotify.com/album/3uBxUOlXsW91M7dy5BnIw1) | 2:42 | 2022-01-21 |  |
 | [Cheek to Cheek \- Swing Hop Mix](https://open.spotify.com/track/3IJRPnVHSO7G20e2BGZbCN) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [Marty & his Rockin' Comets](https://open.spotify.com/artist/3uYgC6oS9WEa6caMgGr5yN) | [Cheek to Cheek \(Swing Hop Mix\)](https://open.spotify.com/album/3psreUEAHDnhtvgJRVFtk1) | 3:00 | 2020-10-30 | 2022-07-29 |
-| [Chicago](https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Chicago](https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi) | 2:44 | 2021-05-28 |  |
+| [Chicago](https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Chicago](https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi) | 2:44 | 2021-05-28 | 2023-02-25 |
 | [Cinnamon Girl](https://open.spotify.com/track/58x6LBD5b6Tu7IPsYL99oG) | [\[dunkelbunt\]](https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3), [Boban i Marko Marcovic Orkestar](https://open.spotify.com/artist/2rInuyXccSp12zFAmKZBH1) | [Cinnamon Girl](https://open.spotify.com/album/3lH4gaKdQ12d4OewBkaVWl) | 4:00 | 2020-10-30 | 2023-02-08 |
 | [Cinnamon Girl \- Sun Dub Edit](https://open.spotify.com/track/5nT35ED3QmCiSzzMl78BaT) | [\[dunkelbunt\]](https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3), [Boban i Marko Marcovic Orkestar](https://open.spotify.com/artist/2rInuyXccSp12zFAmKZBH1) | [Cinnamon Girl \(Sun Dub Edit\)](https://open.spotify.com/album/2nvoVE0fEZC5bwJ81tbvTE) | 5:36 | 2020-10-30 | 2022-07-29 |
 | [Circus Maximus \- Aerophon Remix](https://open.spotify.com/track/6voOIfO1GsbLI5pRh9qwrY) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko), [Aerophon](https://open.spotify.com/artist/2p2lCC6MKMS64MvN4N0bzU) | [Circus Maximus \(Remixes\)](https://open.spotify.com/album/33KRs9X2BB82sW9m2J9hzl) | 3:34 | 2020-10-30 | 2022-06-11 |
@@ -67,6 +67,7 @@
 | [Feels a Little Strange](https://open.spotify.com/track/4pxZcUXm76mDNZhhjxcNau) | [Madam Misfit](https://open.spotify.com/artist/42rQYQExEIwKEsPwkREvIM) | [Roaring Halloween \(Electro Swing 1\)](https://open.spotify.com/album/3YMODnnzf1E98gGRxuB7tn) | 2:58 | 2022-10-12 | 2022-11-08 |
 | [Fever](https://open.spotify.com/track/0NypPbYGParnlEFdriJzHq) | [Dutty Moonshine Big Band](https://open.spotify.com/artist/2aRD3jAqJXXE6luSkvLp3W), [Crash Party](https://open.spotify.com/artist/7l8PUcu0rjjEFSDppWolQz) | [Fever](https://open.spotify.com/album/4xoZXHKNhxrlM68yWELAU0) | 3:03 | 2020-10-30 | 2022-05-14 |
 | [Fever \- Radio edit](https://open.spotify.com/track/2wAfJqzEXakJyDJeR8hYnW) | [Varrick Frost](https://open.spotify.com/artist/294JUMftLLs3Ezkc77s9WV), [Lawrence Lea](https://open.spotify.com/artist/7HY2ElxV3XKvuodmsERq8S) | [Fever \(Electro Swing\)](https://open.spotify.com/album/3Fx01GHJyoQt1cC6Yu1qL0) | 3:09 | 2020-10-30 | 2022-07-14 |
+| [Friend Like Me \- Electro Swing Mix](https://open.spotify.com/track/1O3RcayIzF1Ng6H9XMGwNq) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Friend Like Me \(Electro Swing Mix\)](https://open.spotify.com/album/3JAdcQ8GFH43mvbfkISLpK) | 2:58 | 2023-02-24 |  |
 | [Get A Move On!](https://open.spotify.com/track/3AgEOAo3dvkjtsBmeTGRjg) | [Mr\. Scruff](https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip), [Sneaky](https://open.spotify.com/artist/7Diblz3UML0a0ArC3OgLxG) | [Keep It Unreal \(10th Anniversary Analogue Remaster Edition\)](https://open.spotify.com/album/39lUJE0esEoBZpcYiEvede) | 7:34 | 2020-10-30 |  |
 | [Get This \(Bang Bang\)](https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Get This \(Bang Bang\)](https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW) | 3:45 | 2021-04-02 |  |
 | [Ghost \(Radio Edit\)](https://open.spotify.com/track/0AT362ge2dIyCYm7soFow4) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Alanna Lyes](https://open.spotify.com/artist/7BljoID3up8yhSHHNKhSBy) | [Ghost \(Electro Swing\)](https://open.spotify.com/album/3HGg38lIZgz0v4v8LKeIzN) | 2:47 | 2022-10-12 | 2022-11-08 |

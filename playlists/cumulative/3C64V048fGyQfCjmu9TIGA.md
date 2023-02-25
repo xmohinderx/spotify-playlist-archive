@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3C64V048fGyQfCjmu9TIGA.md) - cumulative - [plain](/playlists/plain/3C64V048fGyQfCjmu9TIGA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3C64V048fGyQfCjmu9TIGA)
 
-### [90s Hits \| Top 100 Songs](https://open.spotify.com/playlist/3C64V048fGyQfCjmu9TIGA)
+### [90s HITS \| TOP 100 SONGS](https://open.spotify.com/playlist/3C64V048fGyQfCjmu9TIGA)
 
 > The best of the 1990s from TLC, Backstreet Boys, Destiny's Child, \*NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more.
 

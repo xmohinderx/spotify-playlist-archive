@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 146135,
       "name": "7th Grade",
       "url": "https://open.spotify.com/track/2FMo7qMVZuzkTC0RNvetqU"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 151978,
       "name": "Always Loud",
       "url": "https://open.spotify.com/track/0vy2uWJXuA2mpDGsyk6j3g"
@@ -855,6 +855,28 @@
     },
     {
       "album": {
+        "name": "Bitch Again",
+        "url": "https://open.spotify.com/album/3a2nWZdcivOmcvfnp7HQ2Y"
+      },
+      "artists": [
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199731,
+      "name": "Bitch Again",
+      "url": "https://open.spotify.com/track/0sm3gJGMnyY22jt0UokKTx"
+    },
+    {
+      "album": {
         "name": "GHETTO GODS",
         "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
       },
@@ -910,6 +932,28 @@
       "duration_ms": 169691,
       "name": "Blatant Localism",
       "url": "https://open.spotify.com/track/4OIvs0sM8hmMhaVKDdOhhw"
+    },
+    {
+      "album": {
+        "name": "Abhi Vs. Kato II: Gold Standard",
+        "url": "https://open.spotify.com/album/0ysfcaZlzhgNqeu7UHtBAZ"
+      },
+      "artists": [
+        {
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+        },
+        {
+          "name": "Kato On The Track",
+          "url": "https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114619,
+      "name": "Boba Tea",
+      "url": "https://open.spotify.com/track/2RwdRl0lzQz5sHsSgNwdIs"
     },
     {
       "album": {
@@ -1212,7 +1256,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 162222,
       "name": "Ce Soir",
       "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
@@ -1500,7 +1544,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 134116,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
@@ -2022,7 +2066,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 152475,
       "name": "Don't Like U",
       "url": "https://open.spotify.com/track/15GwtGQXPJYqGzpiSGygsz"
@@ -2389,6 +2433,28 @@
     },
     {
       "album": {
+        "name": "Freddie's Inferno (Deluxe)",
+        "url": "https://open.spotify.com/album/07YX7oCO5D6zr1NVDEeSAd"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146989,
+      "name": "Five Nights (feat. Danny Brown)",
+      "url": "https://open.spotify.com/track/345lVnvY38p44UbPC20f2U"
+    },
+    {
+      "album": {
         "name": "flings",
         "url": "https://open.spotify.com/album/2iYUrF3ijiA4aPhh5wPgcm"
       },
@@ -2571,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "Gentleman's Sweep",
+        "url": "https://open.spotify.com/album/1WIvyIEkE7X2J5W6RN9Ri5"
+      },
+      "artists": [
+        {
+          "name": "Akintoye",
+          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140626,
+      "name": "Gentleman's Sweep",
+      "url": "https://open.spotify.com/track/3e6PTJYRmgMBASVVl2l9Gd"
+    },
+    {
+      "album": {
         "name": "Get Paid",
         "url": "https://open.spotify.com/album/5IlwJIWswcDznugc8wdT2K"
       },
@@ -2582,7 +2666,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 151698,
       "name": "Get Paid",
       "url": "https://open.spotify.com/track/5hhvK8Png04nKtNZalWK8s"
@@ -3027,6 +3111,24 @@
     },
     {
       "album": {
+        "name": "Opaque",
+        "url": "https://open.spotify.com/album/3RGMoRSl9kU5Vg1GqqIxFP"
+      },
+      "artists": [
+        {
+          "name": "Black Smurf",
+          "url": "https://open.spotify.com/artist/0roRnStSzF1uet2JvSM6U3"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Hunger & Desire",
+      "url": "https://open.spotify.com/track/3NLm2qCAlt116GzcwzG2E8"
+    },
+    {
+      "album": {
         "name": "DIRTIESTNASTIEST$UICIDE",
         "url": "https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz"
       },
@@ -3042,7 +3144,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 145842,
       "name": "I Dream of Chrome",
       "url": "https://open.spotify.com/track/3QQXpvZd9qmzHZ02wDf2im"
@@ -3510,6 +3612,28 @@
       "duration_ms": 129505,
       "name": "Link",
       "url": "https://open.spotify.com/track/11Yft9qfxqdK9sURatUNZ1"
+    },
+    {
+      "album": {
+        "name": "Abhi Vs. Kato II: Gold Standard",
+        "url": "https://open.spotify.com/album/0ysfcaZlzhgNqeu7UHtBAZ"
+      },
+      "artists": [
+        {
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+        },
+        {
+          "name": "Kato On The Track",
+          "url": "https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99929,
+      "name": "Liu Kang",
+      "url": "https://open.spotify.com/track/6VAf9bOL9WyDRH6mP6OgBo"
     },
     {
       "album": {
@@ -4192,7 +4316,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 149973,
       "name": "My Band",
       "url": "https://open.spotify.com/track/7kjL2AZTuJCXTaOeFvHT1v"
@@ -4240,7 +4364,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 226932,
       "name": "My Swisher Sweet, But My Sig Sauer",
       "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
@@ -4497,6 +4621,28 @@
     },
     {
       "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Luh geeky",
+          "url": "https://open.spotify.com/artist/5HkVNXsvk9Nvt0eoWF9v4C"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272306,
+      "name": "Now (feat. Luh geeky)",
+      "url": "https://open.spotify.com/track/4j3sLMVOMeJKnW7dhSBbJZ"
+    },
+    {
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/5N1d7SP9lbgv0JScfgQc33"
       },
@@ -4726,6 +4872,32 @@
       "duration_ms": 187527,
       "name": "Paper",
       "url": "https://open.spotify.com/track/58njyEW0iRoGKUy9xyPukJ"
+    },
+    {
+      "album": {
+        "name": "Pay It No Mind",
+        "url": "https://open.spotify.com/album/6mFhdt0e4DjyQ9U7lLqvGV"
+      },
+      "artists": [
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227360,
+      "name": "Pay It No Mind",
+      "url": "https://open.spotify.com/track/4sV3lFXdxg0xDtmt3IwRYr"
     },
     {
       "album": {
@@ -5276,7 +5448,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 123649,
       "name": "RIDE THE WAVE!",
       "url": "https://open.spotify.com/track/5W8s7MrKDEk1j9gtD0TeQm"
@@ -5324,6 +5496,24 @@
       "duration_ms": 243773,
       "name": "Rollin Wit The Homies (feat. Buddy)",
       "url": "https://open.spotify.com/track/2X1WUhn4giE70wOXg6BTcR"
+    },
+    {
+      "album": {
+        "name": "Rolls Royce Top",
+        "url": "https://open.spotify.com/album/4m060v556tkRvlBdGNuB0L"
+      },
+      "artists": [
+        {
+          "name": "Kembe X",
+          "url": "https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184376,
+      "name": "Rolls Royce Top",
+      "url": "https://open.spotify.com/track/4WZKna5ckN3986AHInNedA"
     },
     {
       "album": {
@@ -5458,6 +5648,28 @@
       "duration_ms": 130813,
       "name": "Sex Symbol",
       "url": "https://open.spotify.com/track/5jDx8OLmJpnLKiDStY8US7"
+    },
+    {
+      "album": {
+        "name": "SHAMELESS $UICIDE",
+        "url": "https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "SHAMELESS $UICIDE",
+      "url": "https://open.spotify.com/track/1vjon7jtpF5usLV2CVxtsw"
     },
     {
       "album": {
@@ -6096,7 +6308,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 193138,
       "name": "Swish",
       "url": "https://open.spotify.com/track/536R5L9YMmxAMvIrBleqZ9"
@@ -6583,6 +6795,32 @@
     },
     {
       "album": {
+        "name": "Tru Tru",
+        "url": "https://open.spotify.com/album/3dxKl7mGJbsjhpHoiFl2ha"
+      },
+      "artists": [
+        {
+          "name": "MVW",
+          "url": "https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq"
+        },
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        },
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167466,
+      "name": "Tru Tru",
+      "url": "https://open.spotify.com/track/5INKRQu8tEdsrogxlFpHUW"
+    },
+    {
+      "album": {
         "name": "Truffles",
         "url": "https://open.spotify.com/album/5UwoNjOPVBSOlAQU8AfvGE"
       },
@@ -6872,7 +7110,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 155000,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/2ErgvH9khsrh4Jgj1h9Fq7"
@@ -6898,6 +7136,28 @@
       "duration_ms": 154666,
       "name": "WE MADE IT (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/1aUmwzrSA7kQYdwI5bQsSc"
+    },
+    {
+      "album": {
+        "name": "SHAMELESS $UICIDE",
+        "url": "https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Went to Rehab and All I Got Was This Lousy T-Shirt",
+      "url": "https://open.spotify.com/track/5YgVfM7ScWReWeX8l0OU7i"
     },
     {
       "album": {

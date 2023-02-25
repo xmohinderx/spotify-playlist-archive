@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alex Ferreira.
 
-346 songs - 21 hr 17 min
+348 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Medio Camino](https://open.spotify.com/track/2vC9Mj3hcLo6gpLSKWONvR) | [Averías](https://open.spotify.com/artist/1IyoBgQQHhhmXKQBTbzpA8) | [A Medio Camino](https://open.spotify.com/album/3033huz0Hl5KYYPH0LXkQS) | 2:50 | 2021-12-24 | 2022-01-01 |
 | [A Mi Manera](https://open.spotify.com/track/5tFCHPbtz4plGwDnH2b1QV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [A Mi Manera](https://open.spotify.com/album/2LCxdI17sy3zG5FG7RwXHs) | 4:00 | 2022-04-25 |  |
 | [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO) | 3:37 | 2021-12-24 |  |
+| [abril y mayo](https://open.spotify.com/track/2fuskS7S2Bmz2hmR7dxPQK) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [abril y mayo](https://open.spotify.com/album/6TJb3LPI6maq3gsRpdwNWa) | 2:00 | 2023-02-24 |  |
 | [Acepto](https://open.spotify.com/track/0zqNBJ162qCK8oupuvzPt2) | [Paula Grande](https://open.spotify.com/artist/6NRB0LxYAAYKtbSOTB7m8M) | [Acepto](https://open.spotify.com/album/7uX4XUwFWuvbOY3Tb73ZvK) | 3:19 | 2022-04-01 | 2022-04-20 |
 | [Activíctima](https://open.spotify.com/track/22mdJjwKLG0LkavrkLEj0H) | [Antílopez](https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK) | [Activíctima](https://open.spotify.com/album/1PX5yQZZZMtKU27Xc7Mc21) | 3:29 | 2021-12-24 | 2022-07-27 |
 | [Agradecer](https://open.spotify.com/track/67za0SMGWgdmDmjJc23Lr6) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Reciente](https://open.spotify.com/album/7LopfkbXZGR9wt2ciYgFiz) | 3:31 | 2021-12-24 | 2022-03-07 |
@@ -64,7 +65,7 @@
 | [Chau, Ya Casi Me Voy](https://open.spotify.com/track/3Ijp0tONaWQgpt1mrfoAZp) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Chau, Ya Casi Me Voy](https://open.spotify.com/album/45Itcv6UAvHKMsecg6EKDd) | 3:30 | 2022-06-03 | 2022-06-05 |
 | [Chavela](https://open.spotify.com/track/0rZrzVHDc6k3EYnAnIhUel) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [Rúbrica X](https://open.spotify.com/album/1NOmwE4eto86tiCnzwoWEq) | 3:05 | 2022-07-22 | 2022-11-12 |
 | [Chiquero](https://open.spotify.com/track/21zM9ws5MnmhXd0YObWzKf) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Chiquero](https://open.spotify.com/album/4d5ehZJs19ElinrhzQfcPY) | 2:46 | 2022-09-23 | 2022-12-13 |
-| [Cielo \- Anhelo brújula del destino](https://open.spotify.com/track/2BfqQCKiA6F7l294f64IOY) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [La Sagrada](https://open.spotify.com/album/1xu99byFIkzbPmPDWxYTMc) | 3:47 | 2023-02-03 |  |
+| [Cielo \- Anhelo brújula del destino](https://open.spotify.com/track/2BfqQCKiA6F7l294f64IOY) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [La Sagrada](https://open.spotify.com/album/1xu99byFIkzbPmPDWxYTMc) | 3:47 | 2023-02-03 | 2023-02-25 |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-25 | 2022-05-24 |
 | [Claroscuro](https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Claroscuro](https://open.spotify.com/album/4RLLGLmJOwqsrq2H4DLUfo) | 4:30 | 2021-12-24 | 2022-12-06 |
 | [Codo Con Codo](https://open.spotify.com/track/4DLl7PmnqhrYN6hDRO9Whu) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Codo Con Codo](https://open.spotify.com/album/0FmPdyJmPThdz0NBUnZalj) | 1:45 | 2021-12-24 | 2022-07-29 |
@@ -200,6 +201,7 @@
 | [Mensajes en el Mar](https://open.spotify.com/track/4vgtji8ryyG6poEdMhSvE7) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/3uTW9z4Yhk9XnGwy6C7qiW) | 4:07 | 2021-12-24 | 2022-12-24 |
 | [Mensajes en el Mar](https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre) | 4:07 | 2022-12-23 |  |
 | [Mesa Para Dos](https://open.spotify.com/track/2KFvKwbWqJKtjHq3Cblrtf) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS), [Fredi Leis](https://open.spotify.com/artist/74JhFJgvnRd6yB9uVbtvLW) | [Mesa para dos](https://open.spotify.com/album/40NPpKJy5gaL9j9mKk1Lhn) | 2:27 | 2022-12-02 | 2022-12-24 |
+| [Mi otra mitad](https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi otra mitad](https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB) | 3:49 | 2023-02-24 |  |
 | [Mi Propio Lago](https://open.spotify.com/track/4Xktlj4EcbwmjdrTKmrlWu) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Mi Propio Lago](https://open.spotify.com/album/4asixMg1KsVDnmYPoDZ7MG) | 3:28 | 2022-05-27 | 2022-11-12 |
 | [Mi Vida](https://open.spotify.com/track/1Lx4D0ktuebDP7NG5l6RLc) | [Ona Mae](https://open.spotify.com/artist/1ejRCkLEViEiClmKLL1hpk) | [Mi Vida](https://open.spotify.com/album/2NAp7j38y6ktMr6IhhPjvi) | 4:22 | 2022-05-13 | 2022-05-25 |
 | [Migajas de azul](https://open.spotify.com/track/2sOe8ukL8pEq7OwOHQgzuV) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Migajas de azul](https://open.spotify.com/album/6YM5sqV1DI8tAJDbjjJkMA) | 3:21 | 2022-05-27 | 2022-06-03 |
@@ -262,7 +264,7 @@
 | [Que entre el frío](https://open.spotify.com/track/12OU5vEQio4792IRVMr2B6) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/0RAoYFdwdNtRG19pGJK8Be) | 4:27 | 2021-12-24 | 2022-01-28 |
 | [Quien lo diría](https://open.spotify.com/track/6baaaCha2pprxQv6GmZvXv) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/10dIiIjAArMNO3PCLtex1H) | 4:35 | 2021-12-24 | 2022-07-29 |
 | [Quien lo diría](https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp) | 4:35 | 2022-07-22 |  |
-| [Quiero y duelo](https://open.spotify.com/track/4zGE9bLIHl1LpnaLpi6RUp) | [Karmento](https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF) | [Quiero y duelo](https://open.spotify.com/album/1gWUpDkJV4XIrd5Xm0FvjW) | 2:36 | 2022-12-23 |  |
+| [Quiero y duelo](https://open.spotify.com/track/4zGE9bLIHl1LpnaLpi6RUp) | [Karmento](https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF) | [Quiero y duelo](https://open.spotify.com/album/1gWUpDkJV4XIrd5Xm0FvjW) | 2:36 | 2022-12-23 | 2023-02-25 |
 | [Quién Podrá Saberlo](https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tempo](https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6) | 2:43 | 2021-12-24 |  |
 | [Qué No Daría](https://open.spotify.com/track/5fm1c7CIUStSiYlvvCuShh) | [Inés Manzano](https://open.spotify.com/artist/0s8H7Mk8puRPuQ2t4nNbHZ) | [Qué No Daría](https://open.spotify.com/album/333NXErtJaPn6bfj7mVMQs) | 4:13 | 2022-04-01 | 2022-04-09 |
 | [Rara Bien](https://open.spotify.com/track/4lSs7nqYqxXjWiiNehh3Ji) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei) | [Directo en Sdma](https://open.spotify.com/album/3ijnQ2WzCxPQoj0fPUHsaZ) | 5:36 | 2021-12-24 | 2022-03-22 |

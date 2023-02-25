@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 
 > Tune in, resonate and manifest at 432 hertz..\. <br/>A positive solfeggio frequency to meditate to
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,843 likes - 86 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,503 likes - 86 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 | 66 | [A Day In The Forest \(432 Hz\)](https://open.spotify.com/track/6OmujPajr8gGl5sJGsW49b) | [Aristides Okoro](https://open.spotify.com/artist/3R5bzljb2FdRwr7yo3W0nm) | [A Day In The Forest \(432 Hz\)](https://open.spotify.com/album/2I50UMRDcFmJt7wJAkK0tQ) | 3:29 |
 | 67 | [The Water Within 432 Hz](https://open.spotify.com/track/3Hdrqxfv4EThgKzWpnEXHY) | [Zen Babek](https://open.spotify.com/artist/4on1grmmQteDoPIymEVw0H) | [The Water Within 432 Hz](https://open.spotify.com/album/0h9qRft8RCdcOUQC3cQ9jt) | 4:48 |
 | 68 | [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 |
-| 69 | [Spiritual Reinforcement](https://open.spotify.com/track/48tPeqcyGPRv8WgRMQucpU) | [Souloner](https://open.spotify.com/artist/1mCbX209L3vGpGgVDJVM6R) | [4 the 3 of us 2](https://open.spotify.com/album/3IHe1DrH3nAMf15eVuuRvM) | 2:55 |
+| 69 | [Spiritual Reinforcement \- 432 Hz](https://open.spotify.com/track/48tPeqcyGPRv8WgRMQucpU) | [Souloner](https://open.spotify.com/artist/1mCbX209L3vGpGgVDJVM6R) | [4 the 3 of us 2](https://open.spotify.com/album/3IHe1DrH3nAMf15eVuuRvM) | 2:55 |
 | 70 | [432 Hz Ease the Mind](https://open.spotify.com/track/58nJonxZj5nRH54oLF5Wuu) | [Sleep Fruits Music](https://open.spotify.com/artist/4XbcXL8SaLFZ30wfRM5tbB), [Healing Frequencies](https://open.spotify.com/artist/0DHoxmgulqWRvMI8uO0Eri), [Ambient Fruits Music](https://open.spotify.com/artist/7bYFA0NlCuL55EJRgNpOZE) | [432 Hz Deep Healing Frequency](https://open.spotify.com/album/6Hv2DAYTAhbGdW0Dnm8bz2) | 2:03 |
 | 71 | [432 Hz Vibrations](https://open.spotify.com/track/6EjoUbefyKGOmcMSfdx4g6) | [Elnas](https://open.spotify.com/artist/55WeSuvEkyLLgJjDU2zAO0) | [432 Hz Slow Motions](https://open.spotify.com/album/1v7ta07aS2LQGJhtb04p8L) | 2:55 |
 | 72 | [432 Hz Binaural Frequencies](https://open.spotify.com/track/0aEyBnsbChVDTGM6qdgUHI) | [Boreal Embla](https://open.spotify.com/artist/2R9ql7GBVBCwpvtYCREfgB), [Dj Steven Mix](https://open.spotify.com/artist/3ML8Is1xzJ08A98Vznm83g), [Jirou Soller](https://open.spotify.com/artist/19HkzgJBevbcKzCjcADdlU), [Cameron Sinosa](https://open.spotify.com/artist/7825ZsA7M9rR01kcikvdba) | [432 Hz Binaurales The Frecuencias Alpha To Calm Anxiety](https://open.spotify.com/album/6kRn4fq2GTGP1XrCVs22JB) | 1:54 |

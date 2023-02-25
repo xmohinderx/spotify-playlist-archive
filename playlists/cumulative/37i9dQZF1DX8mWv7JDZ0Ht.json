@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Manu Gavassi, Liniker",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Agnes Nunes",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -409,6 +409,28 @@
     },
     {
       "album": {
+        "name": "Amor das Minhas Vidas",
+        "url": "https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177343,
+      "name": "Amor das Minhas Vidas",
+      "url": "https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix"
+    },
+    {
+      "album": {
         "name": "Amor de Liquidificador",
         "url": "https://open.spotify.com/album/59m9JgIeX1Fa3mmxqTrV04"
       },
@@ -490,7 +512,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 177493,
       "name": "Amor Sem Pausa",
       "url": "https://open.spotify.com/track/78zJu5FmCBkPGhbHnmAL1t"
@@ -766,6 +788,24 @@
       "duration_ms": 210773,
       "name": "Bora Se Pegar - Ao Vivo",
       "url": "https://open.spotify.com/track/6ijwpIpePgnwSAON00jDpf"
+    },
+    {
+      "album": {
+        "name": "Brisa Boa",
+        "url": "https://open.spotify.com/album/53cd6HI4HCXmHxpcXQhtNq"
+      },
+      "artists": [
+        {
+          "name": "Biollo",
+          "url": "https://open.spotify.com/artist/2fkazGgn5K5YNPRztNR4pF"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162037,
+      "name": "Brisa Boa",
+      "url": "https://open.spotify.com/track/7N2Rw3NC0GhH4AlyZS7xJw"
     },
     {
       "album": {
@@ -1731,6 +1771,32 @@
     },
     {
       "album": {
+        "name": "Eu e Voc\u00ea",
+        "url": "https://open.spotify.com/album/0R8hpT9SvreIeMmXLJHh5R"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        },
+        {
+          "name": "Ricky Ndombashi",
+          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160031,
+      "name": "Eu e Voc\u00ea",
+      "url": "https://open.spotify.com/track/3151w9snyt1Hvsm14whS4p"
+    },
+    {
+      "album": {
         "name": "eu e voc\u00ea",
         "url": "https://open.spotify.com/album/23wxiAL2q423z0IdsK1h3D"
       },
@@ -2646,7 +2712,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 184914,
       "name": "Louca - Ao Vivo",
       "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
@@ -2668,7 +2734,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 188235,
       "name": "Louco de Amor",
       "url": "https://open.spotify.com/track/615qyOqm6qXrgVCVBDYCRX"
@@ -2816,7 +2882,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 168346,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL"
@@ -3843,6 +3909,24 @@
     },
     {
       "album": {
+        "name": "Por Voc\u00ea",
+        "url": "https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191769,
+      "name": "Por Voc\u00ea",
+      "url": "https://open.spotify.com/track/5TfAXQ7sgpqVlG8ZfT2wPf"
+    },
+    {
+      "album": {
         "name": "Mundo Novo",
         "url": "https://open.spotify.com/album/3iykO5tq0Q0jEtTgrmpip7"
       },
@@ -4200,6 +4284,28 @@
       "duration_ms": 176173,
       "name": "saudade boa",
       "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
+    },
+    {
+      "album": {
+        "name": "Se Bastasse Amor",
+        "url": "https://open.spotify.com/album/1aUb1yTxUpdGWZSti1olv9"
+      },
+      "artists": [
+        {
+          "name": "Torres",
+          "url": "https://open.spotify.com/artist/454gFLEvbdE3DuF5O0TksU"
+        },
+        {
+          "name": "Ort1",
+          "url": "https://open.spotify.com/artist/2D1TdbqDphUEgFMxV7BcM1"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Se Bastasse Amor",
+      "url": "https://open.spotify.com/track/3K4gyEycEmKCtFowP0QfAq"
     },
     {
       "album": {
@@ -4591,6 +4697,32 @@
     },
     {
       "album": {
+        "name": "Terezinha",
+        "url": "https://open.spotify.com/album/6tk8iJGsL0xKCJ8zXbm20Z"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Serour",
+          "url": "https://open.spotify.com/artist/4L8osYNuWu9ggZONwYGGC8"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Terezinha",
+      "url": "https://open.spotify.com/track/6jZq2kwbo4pLsoREwTveq3"
+    },
+    {
+      "album": {
         "name": "Terminei",
         "url": "https://open.spotify.com/album/32kgvxWFy0tKgXUpxdy77g"
       },
@@ -4728,7 +4860,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 160724,
       "name": "Todo C\u00e9u Azul",
       "url": "https://open.spotify.com/track/5QYRr0xo6GSvVTYivoIXRs"

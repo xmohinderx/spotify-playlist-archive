@@ -4,7 +4,7 @@
 
 > Comforting Blues to warm the soul when there’s no point going outside.
 
-101 songs - 6 hr 45 min
+103 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I Shall Know Him](https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Singing In My Soul](https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw) | 3:44 | 2022-05-25 |  |
 | [I Wonder](https://open.spotify.com/track/6g05jJU74C6NUe1hGrt64l) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:25 | 2022-05-25 |  |
 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 | 2022-05-25 |  |
+| [I'm In A World Of Trouble](https://open.spotify.com/track/3XnRBApjBB3YAzZnXLRAKb) | [Bob Hall](https://open.spotify.com/artist/5CqYiXk35NVbcP7kgvjkwc), [George Green](https://open.spotify.com/artist/51W66yTGrVuRVubWzW6RX9) | [Jammin' The Boogie](https://open.spotify.com/album/4VbMRQKRNu9oAdvnbRBkSB) | 5:33 | 2023-02-24 |  |
 | [I'm Too Far Gone \(To Turn Around\) \- Single Version](https://open.spotify.com/track/1Mg1MdaOkkR5QQz2Ue6T2v) | [Christine Perfect](https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1) | 3:19 | 2022-09-30 |  |
 | [It Keeps Rainin'](https://open.spotify.com/track/18ZgdyWzmvCeCgaaTjYdW1) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2), [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [House Rent Party](https://open.spotify.com/album/3HuL9ZjOuJT9j6XG5rG3DS) | 2:49 | 2022-09-30 |  |
 | [Jailhouse Blues](https://open.spotify.com/track/6zztQp5inrZlmdFNKrbvWt) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah Washington Sings Bessie Smith](https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR) | 3:13 | 2022-05-25 | 2022-07-29 |
@@ -107,6 +108,7 @@
 | [Tupelo Blues](https://open.spotify.com/track/3Qoo65OB1f4mgqSqQGyPbQ) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Country Blues Of John Lee Hooker](https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt) | 3:23 | 2022-11-23 |  |
 | [When The Welfare Turns Its Back On You](https://open.spotify.com/track/0TgqyhREoY6ZXQ1pA6qo5J) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:26 | 2022-05-25 | 2022-07-29 |
 | [Without You \- 2013 Remaster](https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW) | 4:35 | 2022-07-28 |  |
+| [Woman, Woman Blues](https://open.spotify.com/track/7GVDOpRbvMKBluomhfWtPZ) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [Sings Walkin' and Talkin' \(And Other Smash Hits\)](https://open.spotify.com/album/5L5KwMBMUneU6F7ygt7pN3) | 3:36 | 2023-02-24 |  |
 | [You Shook Me](https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 4:15 | 2022-05-25 |  |
 | [Your Mind Is on Vacation](https://open.spotify.com/track/1GEf45ad9tT9njeDYw9WPx) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [I Don't Worry About A Thing](https://open.spotify.com/album/58vFtbiyFPwDKwdhRI5D4V) | 2:37 | 2022-07-01 |  |
 

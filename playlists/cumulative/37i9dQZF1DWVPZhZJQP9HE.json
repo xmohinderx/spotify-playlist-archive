@@ -3577,6 +3577,28 @@
     },
     {
       "album": {
+        "name": "Maiyal",
+        "url": "https://open.spotify.com/album/1O8xGmpRfJs3VAppThcJcE"
+      },
+      "artists": [
+        {
+          "name": "K L Revanth",
+          "url": "https://open.spotify.com/artist/3FGLO2665aCenkZD9vF1eB"
+        },
+        {
+          "name": "Varshini Shankar",
+          "url": "https://open.spotify.com/artist/0ckwDyqphwaCPqdYubBF02"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224727,
+      "name": "Maiyal",
+      "url": "https://open.spotify.com/track/5CDoT9DeBTgLbJP9h7cNNn"
+    },
+    {
+      "album": {
         "name": "Malar",
         "url": "https://open.spotify.com/album/05IECVozPGpijuQFN2a9wI"
       },
@@ -4504,6 +4526,28 @@
       "duration_ms": 317647,
       "name": "Nee Podhum Anbe (Original Soundtrack)",
       "url": "https://open.spotify.com/track/6PoOgECgWgrFTYdjj94igE"
+    },
+    {
+      "album": {
+        "name": "Nee Yaara Molae",
+        "url": "https://open.spotify.com/album/6GPTtTKpa40llzK6TNChgq"
+      },
+      "artists": [
+        {
+          "name": "A R Anandh",
+          "url": "https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y"
+        },
+        {
+          "name": "Prince Bii",
+          "url": "https://open.spotify.com/artist/53fPFYyYxmwkuhQyZE65rF"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Nee Yaara Molae",
+      "url": "https://open.spotify.com/track/1luxy3SaDVnirLgkKg11V5"
     },
     {
       "album": {

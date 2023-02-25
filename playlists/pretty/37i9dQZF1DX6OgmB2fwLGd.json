@@ -1,13 +1,33 @@
 {
   "description": "The soundtrack to the internet. Cover: Ken Carson",
-  "num_followers": 1301320,
+  "num_followers": 1302506,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0Mjc1NSwwMDAwMDAwMDNiZTFjMGZhOTFiNmVlM2RhNWIzZjkxODIyNjJiYWVj",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDljYjgzZTdjOTY3NTVmNDQwZTBlMGQwYmFiMzY5ZGYz",
   "tracks": [
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "Shmunk (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP"
+    },
     {
       "added_at": "2023-02-15 15:48:18",
       "album": {
@@ -41,6 +61,46 @@
       "url": "https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "WALKED IN",
+        "url": "https://open.spotify.com/album/20yPX27SdWr1hc5aZQAOsn"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "duration_ms": 142843,
+      "name": "WALKED IN",
+      "url": "https://open.spotify.com/track/4TtwfNpekE33a0Uo5sIMLF"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Tru Tru",
+        "url": "https://open.spotify.com/album/3dxKl7mGJbsjhpHoiFl2ha"
+      },
+      "artists": [
+        {
+          "name": "MVW",
+          "url": "https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq"
+        },
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        },
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "Tru Tru",
+      "url": "https://open.spotify.com/track/5INKRQu8tEdsrogxlFpHUW"
+    },
+    {
       "added_at": "2023-01-25 05:00:00",
       "album": {
         "name": "Tally (with Denzel Curry)",
@@ -59,42 +119,6 @@
       "duration_ms": 147745,
       "name": "Tally (with Denzel Curry)",
       "url": "https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo"
-    },
-    {
-      "added_at": "2023-02-14 16:35:41",
-      "album": {
-        "name": "5LBS OF PRESSURE",
-        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
-      },
-      "artists": [
-        {
-          "name": "Superstar Pride",
-          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
-        }
-      ],
-      "duration_ms": 122070,
-      "name": "PAINTING PICTURES",
-      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
-    },
-    {
-      "added_at": "2023-02-16 19:58:57",
-      "album": {
-        "name": "She\u2019s A 10 But\u2026 (Remix) (feat. Yung Gravy)",
-        "url": "https://open.spotify.com/album/2u8rAuKa6ExX03BLWWkN77"
-      },
-      "artists": [
-        {
-          "name": "ARTAN",
-          "url": "https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2"
-        },
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        }
-      ],
-      "duration_ms": 169005,
-      "name": "She\u2019s A 10 But\u2026 (Remix) (feat. Yung Gravy)",
-      "url": "https://open.spotify.com/track/0aywJ1yyg6OzgFCxrrUd7R"
     },
     {
       "added_at": "2023-02-14 16:35:41",
@@ -121,6 +145,30 @@
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "friday",
+        "url": "https://open.spotify.com/album/4z5KIWcXYnsXVQm08XnIHr"
+      },
+      "artists": [
+        {
+          "name": "jungle bobby",
+          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
+        },
+        {
+          "name": "ceo@business.net",
+          "url": "https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR"
+        },
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "duration_ms": 145321,
+      "name": "friday",
+      "url": "https://open.spotify.com/track/0pk6N8dYtK9R4O2k5aazfl"
+    },
+    {
       "added_at": "2023-02-09 20:50:09",
       "album": {
         "name": "Let U Go",
@@ -139,18 +187,54 @@
     {
       "added_at": "2023-02-16 19:58:57",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/06ADyz2v8NMndnRUIYbras"
+        "name": "She\u2019s A 10 But\u2026 (Remix) (feat. Yung Gravy)",
+        "url": "https://open.spotify.com/album/2u8rAuKa6ExX03BLWWkN77"
       },
       "artists": [
         {
-          "name": "NDO Dee",
-          "url": "https://open.spotify.com/artist/3GRdBABrc1l7INMwDldBuQ"
+          "name": "ARTAN",
+          "url": "https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2"
+        },
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
         }
       ],
-      "duration_ms": 108007,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3B2bQo24JvhiqrwWI1Q4OW"
+      "duration_ms": 169005,
+      "name": "She\u2019s A 10 But\u2026 (Remix) (feat. Yung Gravy)",
+      "url": "https://open.spotify.com/track/0aywJ1yyg6OzgFCxrrUd7R"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "PERM",
+        "url": "https://open.spotify.com/album/43Yx0i7ZGODCJJaJYL3NiB"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 130026,
+      "name": "PERM",
+      "url": "https://open.spotify.com/track/61dXty0FR61qyVczdM49F4"
+    },
+    {
+      "added_at": "2023-02-14 16:35:41",
+      "album": {
+        "name": "5LBS OF PRESSURE",
+        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "duration_ms": 122070,
+      "name": "PAINTING PICTURES",
+      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
     },
     {
       "added_at": "2023-02-09 20:50:09",
@@ -171,6 +255,22 @@
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+    },
+    {
+      "added_at": "2023-02-16 19:58:57",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/06ADyz2v8NMndnRUIYbras"
+      },
+      "artists": [
+        {
+          "name": "NDO Dee",
+          "url": "https://open.spotify.com/artist/3GRdBABrc1l7INMwDldBuQ"
+        }
+      ],
+      "duration_ms": 108007,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3B2bQo24JvhiqrwWI1Q4OW"
     },
     {
       "added_at": "2023-02-10 18:26:46",
@@ -203,6 +303,26 @@
       "duration_ms": 256052,
       "name": "ascend.mp3",
       "url": "https://open.spotify.com/track/0y0Y3zRApSPsohnnUTrbgl"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Tesla",
+        "url": "https://open.spotify.com/album/0x3JTKHNzSW3WlJNX3MhTR"
+      },
+      "artists": [
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        },
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Tesla",
+      "url": "https://open.spotify.com/track/2WNqeuld3GP1C2RQ9gJiLA"
     },
     {
       "added_at": "2023-02-16 19:58:57",

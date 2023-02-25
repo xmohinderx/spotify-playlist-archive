@@ -1,12 +1,12 @@
 {
   "description": "Carol Biazin e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 132712,
+  "num_followers": 132749,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDRmMDYxYjU5OGRhMTQzODhkOGNjNmJhOThmODAwNzEy",
+  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDMyZjBjZWVjZGUxM2I5YjJmYTFkODBmNTlkYWRhOTAz",
   "tracks": [
     {
       "added_at": "2023-02-01 03:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "QUANDO EU TE OLHEI - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1TSgZiq063sQKhMft5tpeF"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 153614,
-      "name": "QUANDO EU TE OLHEI - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0enyOQLhOZz4DjK3TZ7UX3"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "ODEIO GENTE CHATA",
         "url": "https://open.spotify.com/album/5pn5YgQZRFjTkHeK9zyrbr"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 130104,
       "name": "ODEIO GENTE CHATA",
       "url": "https://open.spotify.com/track/3F2Q5uwDQ3qjNZB7a10rn6"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "QUANDO EU TE OLHEI - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1TSgZiq063sQKhMft5tpeF"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 153614,
+      "name": "QUANDO EU TE OLHEI - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0enyOQLhOZz4DjK3TZ7UX3"
     },
     {
       "added_at": "2023-02-01 03:00:00",

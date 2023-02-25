@@ -1,207 +1,435 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  LUM!X x Gabry Ponte x Alida",
-  "num_followers": 120096,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Alle Farben &amp; Maurice Lessing",
+  "num_followers": 120109,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NjQyOCwyYzcwOTQ0N2FiNTUzN2ZkNDMwNjdjMTNiYTJmY2JiNGY5OThkYmQ4",
+  "snapshot_id": "NjQzMyxmZDAyMTE0ZDNiYjZkM2Y0ZWE1YzY1YjcxMjQxNzk4ZTdkMWUyZDhm",
   "tracks": [
     {
-      "added_at": "2023-02-23 23:56:22",
+      "added_at": "2023-02-24 09:31:20",
       "album": {
-        "name": "The Freaks",
-        "url": "https://open.spotify.com/album/1AZC2QcPfpS3Dn0Fpoodwb"
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/6zZnlDosDGt9icUORfGLkt"
       },
       "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Maurice Lessing",
+          "url": "https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r"
+        }
+      ],
+      "duration_ms": 187619,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4Fgb5m6zWpFLRdfWA1kM0P"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "BT1",
+        "url": "https://open.spotify.com/album/3mrqyJRhizCxGwOn2s7mGq"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "BT1",
+      "url": "https://open.spotify.com/track/59gxVInWEnShtkIrNGUhaE"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "Case Of The Ex (feat. Mya Francis)",
+        "url": "https://open.spotify.com/album/0S5Baqi47D7SIXRlheqPVM"
+      },
+      "artists": [
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        },
+        {
+          "name": "N.F.I",
+          "url": "https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd"
+        },
         {
           "name": "David Guetta",
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "Mya Francis",
+          "url": "https://open.spotify.com/artist/0kfbyRaQxHrJavbstTdvrU"
         }
       ],
-      "duration_ms": 256350,
-      "name": "The Freaks",
-      "url": "https://open.spotify.com/track/1cTHUMdInmZvxVCHnzHOj2"
+      "duration_ms": 127699,
+      "name": "Case Of The Ex (feat. Mya Francis)",
+      "url": "https://open.spotify.com/track/0jwGDGBIyzdsNxYkj7vNUb"
     },
     {
-      "added_at": "2023-02-23 23:56:22",
+      "added_at": "2023-02-24 09:31:20",
       "album": {
-        "name": "Imma Love You",
-        "url": "https://open.spotify.com/album/6OxuyFTWch2iIRisoizBxh"
+        "name": "I Wanna Dance With Somebody",
+        "url": "https://open.spotify.com/album/2bBlKGj0lQkLO4K0b664sS"
       },
       "artists": [
         {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+          "name": "Hi_Tack",
+          "url": "https://open.spotify.com/artist/6N1W9mAlncCKbqBHgBR2bN"
+        }
+      ],
+      "duration_ms": 128244,
+      "name": "I Wanna Dance With Somebody",
+      "url": "https://open.spotify.com/track/0T19Q8NfvxN9XgcTRz16u3"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "IRLY (I Really Love You)",
+        "url": "https://open.spotify.com/album/1ZaGCKsUUEhsfEbzTJeGrk"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 170569,
+      "name": "IRLY (I Really Love You)",
+      "url": "https://open.spotify.com/track/0TZmwiefBLRaNYtkRWH8Uh"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/4I2Z3W2Pfhk267OoVFs9EE"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Steerner",
-          "url": "https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz"
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
         }
       ],
-      "duration_ms": 150015,
-      "name": "Imma Love You",
-      "url": "https://open.spotify.com/track/4I8Bk2MvKpZSaNkCJD2U5k"
+      "duration_ms": 202738,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/10E3RZH3FcO3bC8w7BHDwp"
     },
     {
-      "added_at": "2023-02-23 23:56:22",
+      "added_at": "2023-02-24 09:31:20",
       "album": {
-        "name": "Pa Lante",
-        "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
+        "name": "When We Lose It (feat. Fagin)",
+        "url": "https://open.spotify.com/album/2ywITunUGndA6yRSkgeRXI"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
         },
         {
-          "name": "Ryan Arnold",
-          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
+          "name": "Fagin",
+          "url": "https://open.spotify.com/artist/7rPtQcrQxAA6bdsUwSyYoV"
+        }
+      ],
+      "duration_ms": 211408,
+      "name": "When We Lose It (feat. Fagin)",
+      "url": "https://open.spotify.com/track/0ZTjwnp76LD3ma0PZT9prp"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "Back Again",
+        "url": "https://open.spotify.com/album/7ydU7XmSW78khx5DOIS1yw"
+      },
+      "artists": [
+        {
+          "name": "MUNZUR",
+          "url": "https://open.spotify.com/artist/7L5FIGZZIyvLD4JDDi1Nbc"
+        }
+      ],
+      "duration_ms": 152903,
+      "name": "Back Again",
+      "url": "https://open.spotify.com/track/3tTAsDQynzGDuFbJKv48IW"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "Crazy Over You",
+        "url": "https://open.spotify.com/album/3k4rKSD3C425Tk1aKQekrc"
+      },
+      "artists": [
+        {
+          "name": "BeatFreakz",
+          "url": "https://open.spotify.com/artist/5TloeWiZXG1ttx3qXHxbs0"
+        }
+      ],
+      "duration_ms": 152238,
+      "name": "Crazy Over You",
+      "url": "https://open.spotify.com/track/7cwOZxhbXvzfce86A90deT"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "Distropia",
+        "url": "https://open.spotify.com/album/5f1QO6yJGEkVoA6d6ePiAp"
+      },
+      "artists": [
+        {
+          "name": "ASCO",
+          "url": "https://open.spotify.com/artist/0FpEluMjDj6Lvn1yHpMGIe"
         },
         {
-          "name": "El Chuape",
-          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
+          "name": "FaderX",
+          "url": "https://open.spotify.com/artist/2LlrfyQDYOQrRgySUicv1Y"
         }
       ],
-      "duration_ms": 130123,
-      "name": "Pa Lante",
-      "url": "https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG"
+      "duration_ms": 208302,
+      "name": "Distropia",
+      "url": "https://open.spotify.com/track/39rV0c3XebHCvdxSMisq6d"
     },
     {
-      "added_at": "2023-02-23 23:56:22",
+      "added_at": "2023-02-24 09:31:20",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/2RvelusFjACbKKX6Xh9qEN"
+        "name": "It Doesn't Matter",
+        "url": "https://open.spotify.com/album/60pKd4GWa9RYzVRspilfHg"
       },
       "artists": [
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/1RzpRGOArORD0iwIVLwJQo"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "Get Low",
-        "url": "https://open.spotify.com/album/42T9vOwFLuLmFDqWqBk0Zb"
-      },
-      "artists": [
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
         },
         {
-          "name": "Oomloud",
-          "url": "https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P"
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
         }
       ],
-      "duration_ms": 157617,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/6tj1oCWq8QkShD7Vuy32jA"
+      "duration_ms": 144922,
+      "name": "It Doesn't Matter",
+      "url": "https://open.spotify.com/track/5I9JYEaXmKsrHlXsnvNYjd"
     },
     {
-      "added_at": "2023-02-23 23:56:22",
+      "added_at": "2023-02-24 09:31:20",
       "album": {
-        "name": "Compromise (feat. Adam Jaymes)",
-        "url": "https://open.spotify.com/album/6uJdwdGypR9qRV1twItlJd"
+        "name": "To The Left To The Right",
+        "url": "https://open.spotify.com/album/2Red7qgHIqwJdQcg3CTt0F"
       },
       "artists": [
         {
-          "name": "Thomas Nan",
-          "url": "https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v"
+          "name": "ManyFew",
+          "url": "https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL"
+        }
+      ],
+      "duration_ms": 144651,
+      "name": "To The Left To The Right",
+      "url": "https://open.spotify.com/track/1ukSIcoQr0KbqozkX8MxKH"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "Have It All (feat. Franky) [George Z Remix]",
+        "url": "https://open.spotify.com/album/2g75jykVOuHBfoBJtf80pI"
+      },
+      "artists": [
+        {
+          "name": "Jack Wins",
+          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
         },
         {
-          "name": "Adam Jaymes",
-          "url": "https://open.spotify.com/artist/3ENO8P63x6Nm5o6JgV7qKN"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "Compromise (feat. Adam Jaymes)",
-      "url": "https://open.spotify.com/track/3InAbQ6GdxU5stWC0elsKm"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "Come Into My Life",
-        "url": "https://open.spotify.com/album/7MorSR7OH1HB22t6wc9r1l"
-      },
-      "artists": [
-        {
-          "name": "Kim Kaey",
-          "url": "https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy"
-        }
-      ],
-      "duration_ms": 124746,
-      "name": "Come Into My Life",
-      "url": "https://open.spotify.com/track/5o7sq4VsnRVZtfMHZsuz6Q"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "Glimpse",
-        "url": "https://open.spotify.com/album/07dEI97wIBVVH9KGpacP0m"
-      },
-      "artists": [
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Glimpse",
-      "url": "https://open.spotify.com/track/5AbJc4S4TOtSKQL6NLzBIm"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "Your Love (feat. BLAME) [VIP Mix]",
-        "url": "https://open.spotify.com/album/4kT6jd6LpvmWjUIjryRuDk"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+          "name": "Franky",
+          "url": "https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW"
         },
         {
-          "name": "BLAME",
-          "url": "https://open.spotify.com/artist/1YigAsKtNYzATFkCe6u0fG"
+          "name": "George Z",
+          "url": "https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Your Love (feat. BLAME) [VIP Mix]",
-      "url": "https://open.spotify.com/track/1SYW0BMtnQhrgH2i8R1OLJ"
+      "duration_ms": 265174,
+      "name": "Have It All (feat. Franky) [George Z Remix]",
+      "url": "https://open.spotify.com/track/6s48NdRORuQvOJ46HeDosT"
     },
     {
-      "added_at": "2023-02-23 23:56:22",
+      "added_at": "2023-02-24 09:31:20",
       "album": {
-        "name": "Dimini",
-        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
+        "name": "WIFI",
+        "url": "https://open.spotify.com/album/1czutGjs585UqxWYDCszTW"
       },
       "artists": [
         {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "Twolate",
-          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
         }
       ],
-      "duration_ms": 142447,
-      "name": "Dimini",
-      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
+      "duration_ms": 159843,
+      "name": "WIFI",
+      "url": "https://open.spotify.com/track/43VqipZReCL4aFRnaKbGub"
     },
     {
-      "added_at": "2023-02-23 23:56:22",
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "Trujillana",
+        "url": "https://open.spotify.com/album/1wR0T66gmIx2bUtPqGRX66"
+      },
+      "artists": [
+        {
+          "name": "Maxx Lyon",
+          "url": "https://open.spotify.com/artist/43CU8m11gF8fr4QLTxQdfW"
+        },
+        {
+          "name": "Andrew Hansel",
+          "url": "https://open.spotify.com/artist/71IPHegMvPMkqmJfNs7A4V"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Trujillana",
+      "url": "https://open.spotify.com/track/47zvDIWnlhZWcWhZEDauTA"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "Wanting More",
+        "url": "https://open.spotify.com/album/08aCCFsGGKxphER7GEUu7M"
+      },
+      "artists": [
+        {
+          "name": "Bastiqe",
+          "url": "https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb"
+        },
+        {
+          "name": "Strange Mike",
+          "url": "https://open.spotify.com/artist/5eX0epLy551uFsC45QUtnQ"
+        },
+        {
+          "name": "Jimmy Rivler",
+          "url": "https://open.spotify.com/artist/2VcGBf5YDWgKpQedSvx58i"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "Wanting More",
+      "url": "https://open.spotify.com/track/5J0o5PYCHvDQZ10FtJ6bwz"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "Never Again (feat. Lilly Ahlberg)",
+        "url": "https://open.spotify.com/album/1Z46RnNwnYIdB38ECo0YYP"
+      },
+      "artists": [
+        {
+          "name": "GotSome",
+          "url": "https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 183054,
+      "name": "Never Again (feat. Lilly Ahlberg)",
+      "url": "https://open.spotify.com/track/56qcFapBEfXKQkOUpWpXdl"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "Like Me",
+        "url": "https://open.spotify.com/album/3yLOK6z6i1EcqekIxaxaCk"
+      },
+      "artists": [
+        {
+          "name": "Lost Knights",
+          "url": "https://open.spotify.com/artist/0LweWdeXffhLb6uu1F9aVn"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/6fYq0RvfkmvqJDeVVzZLqo"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "Teri Aadat",
+        "url": "https://open.spotify.com/album/7xn3XucSYac4tXQNAHLv95"
+      },
+      "artists": [
+        {
+          "name": "Sandro Silva",
+          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
+        },
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        },
+        {
+          "name": "DJ Shadow Dubai",
+          "url": "https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S"
+        }
+      ],
+      "duration_ms": 237304,
+      "name": "Teri Aadat",
+      "url": "https://open.spotify.com/track/0pvPs6XOenwwNvSPIKHWkP"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "Drop That Low (When I Dip) [Antoine Delvig Remix]",
+        "url": "https://open.spotify.com/album/04iQQ2uT3s01S0LsSD54CC"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "name": "Antoine Delvig",
+          "url": "https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl"
+        }
+      ],
+      "duration_ms": 159761,
+      "name": "Drop That Low (When I Dip) [Antoine Delvig Remix]",
+      "url": "https://open.spotify.com/track/41jehhUx2VKR976vRc7IFn"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
+      "album": {
+        "name": "2 Ph\u00fat H\u01a1n (KAIZ Remix) [Squid Kids Remix]",
+        "url": "https://open.spotify.com/album/6LhhaqVmtsOjsLthPiz02b"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00e1o",
+          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
+        },
+        {
+          "name": "KAIZ",
+          "url": "https://open.spotify.com/artist/5Oy8zRNFImMUeoAxjbT7Bj"
+        },
+        {
+          "name": "Squid Kids",
+          "url": "https://open.spotify.com/artist/0xtNG1XuQ9YaW7aRr4Fog8"
+        }
+      ],
+      "duration_ms": 170317,
+      "name": "2 Ph\u00fat H\u01a1n (KAIZ Remix) [Squid Kids Remix]",
+      "url": "https://open.spotify.com/track/0pEiGqDCUmS10mH11wJuN3"
+    },
+    {
+      "added_at": "2023-02-24 09:31:20",
       "album": {
         "name": "Rock Skeeping",
         "url": "https://open.spotify.com/album/6fwC1uJsiIQEPjd7ewfRgH"
@@ -217,296 +445,32 @@
       "url": "https://open.spotify.com/track/1tL7drK2ROMjipcAyATRa5"
     },
     {
-      "added_at": "2023-02-23 23:56:22",
+      "added_at": "2023-02-24 09:31:20",
       "album": {
-        "name": "Kanpai",
-        "url": "https://open.spotify.com/album/0cnohJmdsFgCYmjgCN8ywB"
+        "name": "After Midnight (feat. Xoro) [VINNE Remix]",
+        "url": "https://open.spotify.com/album/7qLBMzNsEg5xZ6qPzlzxx7"
       },
       "artists": [
         {
-          "name": "Steff da Campo",
-          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
         },
         {
-          "name": "KDH",
-          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
-        }
-      ],
-      "duration_ms": 142790,
-      "name": "Kanpai",
-      "url": "https://open.spotify.com/track/44UxWRfHk1fnB9IaaTwesy"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "Wings (I Won't Let You Down) [Krakota Remix]",
-        "url": "https://open.spotify.com/album/5S1Rj8FfRkLzG7EJO8UGEB"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
         },
         {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
         },
         {
-          "name": "Krakota",
-          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+          "name": "Xoro",
+          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
         }
       ],
-      "duration_ms": 188608,
-      "name": "Wings (I Won't Let You Down) [Krakota Remix]",
-      "url": "https://open.spotify.com/track/4xWzZiZk6NWAO62h5sMm0N"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "Mortal Kombat",
-        "url": "https://open.spotify.com/album/79cAznkuR1rQNTltDA1Exg"
-      },
-      "artists": [
-        {
-          "name": "MXRCVRY",
-          "url": "https://open.spotify.com/artist/7fcxzGqZfSRGOZp2KyCxpf"
-        }
-      ],
-      "duration_ms": 104888,
-      "name": "Mortal Kombat",
-      "url": "https://open.spotify.com/track/43Y71sYfC2zIXdi6ghgOeH"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/3SqPahMunJaCgMcVYJlLTY"
-      },
-      "artists": [
-        {
-          "name": "NightFunk",
-          "url": "https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O"
-        },
-        {
-          "name": "ATTICUS",
-          "url": "https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/5rZicx0JZLZR233YKcA4ok"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "High With Me (feat. HERA)",
-        "url": "https://open.spotify.com/album/2vYlor9aAZFHlumRlKe5xo"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "HERA",
-          "url": "https://open.spotify.com/artist/6PC71Fy1uctNB1xaiNdy5j"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "High With Me (feat. HERA)",
-      "url": "https://open.spotify.com/track/02ZNIX2SvuQCWbs1Vajnzk"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "Devil",
-        "url": "https://open.spotify.com/album/5b7PpzvDyEIwm9ebnf6whH"
-      },
-      "artists": [
-        {
-          "name": "B3nte",
-          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
-        },
-        {
-          "name": "Alex D'Rosso",
-          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
-        },
-        {
-          "name": "B3VA",
-          "url": "https://open.spotify.com/artist/03D4LIjTc757nhPDNmiZ1x"
-        }
-      ],
-      "duration_ms": 138661,
-      "name": "Devil",
-      "url": "https://open.spotify.com/track/0ZrJ5soMgpRi6YcU9U1iCK"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "NYC Baby",
-        "url": "https://open.spotify.com/album/6Ym9zpIrOmmfZmVI1ArSjE"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        }
-      ],
-      "duration_ms": 125585,
-      "name": "NYC Baby",
-      "url": "https://open.spotify.com/track/1d8K4YrRelAi7AuZfxP4Uy"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "Back N Forth",
-        "url": "https://open.spotify.com/album/0DGlrQi4k2PkBTXiZ0Bbre"
-      },
-      "artists": [
-        {
-          "name": "SLVR",
-          "url": "https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU"
-        }
-      ],
-      "duration_ms": 132924,
-      "name": "Back N Forth",
-      "url": "https://open.spotify.com/track/1lu9DGjufsxS6m7CnuL1An"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "Synesthesia 1",
-        "url": "https://open.spotify.com/album/2GsGmxYyZ2ttIcgbBWXQwZ"
-      },
-      "artists": [
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        }
-      ],
-      "duration_ms": 265795,
-      "name": "Ion",
-      "url": "https://open.spotify.com/track/68UEqkHwlYPwI7oU4PQ1j8"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/2BVyfMKLXiWTMMM2ix4z3j"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8RD",
-          "url": "https://open.spotify.com/artist/65cmRE79meWnhTsLcmwHXL"
-        },
-        {
-          "name": "D'Amico & Valax",
-          "url": "https://open.spotify.com/artist/3kSr7WLrGY10p3zTrJcTsc"
-        }
-      ],
-      "duration_ms": 188095,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/012AEpKl546uQEdI8aUNCP"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/03GTeOx1Ko7sZZxQdiaNOq"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        },
-        {
-          "name": "Olly James",
-          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Eternal",
-      "url": "https://open.spotify.com/track/4ywSs3wQa6U85OYS6qzX9A"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "Fine Day (Ninkid Remix)",
-        "url": "https://open.spotify.com/album/1RRLgXkN2UswX5A6wbAcug"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        },
-        {
-          "name": "Ninkid",
-          "url": "https://open.spotify.com/artist/1YpcWKZ6C4hf2Qzj9X3ens"
-        }
-      ],
-      "duration_ms": 133758,
-      "name": "Fine Day (Ninkid Remix)",
-      "url": "https://open.spotify.com/track/3R8ae3SyEdVm4uEq9gnJwd"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "Big Jet Plane (Pharmacist Remix)",
-        "url": "https://open.spotify.com/album/1qjXVjpo68p78MOk0SDrAr"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
-        },
-        {
-          "name": "Pharmacist",
-          "url": "https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0"
-        }
-      ],
-      "duration_ms": 218900,
-      "name": "Big Jet Plane (Pharmacist Remix)",
-      "url": "https://open.spotify.com/track/0lCoghKzK272EvXPwo1aNV"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "We Could Be Together (feat. Gabry Ponte, LUM!X, Daddy DJ) [Slowed Version]",
-        "url": "https://open.spotify.com/album/2yABaRhkLfs02tctHdCUyb"
-      },
-      "artists": [
-        {
-          "name": "Nightcore Slowed Down Tunes",
-          "url": "https://open.spotify.com/artist/6I9v0QaDWnhDW8TYjus5zs"
-        }
-      ],
-      "duration_ms": 188538,
-      "name": "We Could Be Together (feat. Gabry Ponte, LUM!X, Daddy DJ) [Slowed Version]",
-      "url": "https://open.spotify.com/track/0w78MPLqL4TAJ8sWjFbrcc"
-    },
-    {
-      "added_at": "2023-02-23 23:56:22",
-      "album": {
-        "name": "We Could Be Together (feat. Gabry Ponte, LUM!X, Daddy DJ) [Sped Up Version]",
-        "url": "https://open.spotify.com/album/3W2NXmSP5lmi1YgN7mO7Ub"
-      },
-      "artists": [
-        {
-          "name": "Nightcore Sped Up Tunes",
-          "url": "https://open.spotify.com/artist/2ts13g0k5xRvkUV4yGvXYF"
-        }
-      ],
-      "duration_ms": 125834,
-      "name": "We Could Be Together (feat. Gabry Ponte, LUM!X, Daddy DJ) [Sped Up Version]",
-      "url": "https://open.spotify.com/track/4fL5CfiMJwMP8rqaIPmB0R"
+      "duration_ms": 181904,
+      "name": "After Midnight (feat. Xoro) [VINNE Remix]",
+      "url": "https://open.spotify.com/track/6FiyfXilKoVCqZx7ZYSXkY"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

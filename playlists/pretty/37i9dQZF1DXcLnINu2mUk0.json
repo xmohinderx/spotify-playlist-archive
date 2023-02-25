@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro.",
-  "num_followers": 26588,
+  "num_followers": 26648,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMDVjY2IyODc5NjljZjkyNzlmZDFiZTcxOTc5YzU5OWE4",
+  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMDRlNzU1NjJiNWZiNDQxNTQ4NjdkNDRhY2YyOGJiNWNh",
   "tracks": [
     {
       "added_at": "2023-02-10 00:00:00",
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
     },
     {
-      "added_at": "2023-02-24 01:05:46",
+      "added_at": "2023-02-25 10:15:59",
       "album": {
         "name": "Solteiros",
         "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
@@ -985,7 +985,7 @@
       "url": "https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG"
     },
     {
-      "added_at": "2023-02-24 01:05:46",
+      "added_at": "2023-02-25 10:15:59",
       "album": {
         "name": "Tenta\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/06rdIn1DdRecfzKnPrl17m"
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Hot Or Fire",
-        "url": "https://open.spotify.com/album/1tT2yp4Qq9NeikbtoPPPoW"
-      },
-      "artists": [
-        {
-          "name": "DELOSBOY",
-          "url": "https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35"
-        },
-        {
-          "name": "dage",
-          "url": "https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k"
-        }
-      ],
-      "duration_ms": 230490,
-      "name": "Hot Or Fire",
-      "url": "https://open.spotify.com/track/03ufBsWERNppFLwZedOK70"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Vistas",
         "url": "https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 180000,
       "name": "Vistas",
       "url": "https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Hot Or Fire",
+        "url": "https://open.spotify.com/album/1tT2yp4Qq9NeikbtoPPPoW"
+      },
+      "artists": [
+        {
+          "name": "DELOSBOY",
+          "url": "https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35"
+        },
+        {
+          "name": "dage",
+          "url": "https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k"
+        }
+      ],
+      "duration_ms": 230490,
+      "name": "Hot Or Fire",
+      "url": "https://open.spotify.com/track/03ufBsWERNppFLwZedOK70"
     }
   ],
   "unique_name": "Seda",

@@ -1,13 +1,61 @@
 {
   "description": "Rock tranqui para concentrarse.",
-  "num_followers": 39440,
+  "num_followers": 39461,
   "original_name": "Rock en Espa\u00f1ol Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDM1MDE3NCwwMDAwMDAwMDc2ZTNmNDQyYzhhOTRmMDQ5MWYyY2E3MjAxZGM0ZGU0",
+  "snapshot_id": "MTY3NzIxODQwMCwwMDAwMDAwMDZlODE2NjI0NzZiMTE4NmQ0ZWU0NTk5Y2JhZTg3NWJl",
   "tracks": [
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/4lCrBv0SbaUDLIWjpUpdKe"
+      },
+      "artists": [
+        {
+          "name": "Rojoazul",
+          "url": "https://open.spotify.com/artist/0RLx3pe3KWaETFKzbvvtWv"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/0qqaTcKnDSa779ZiauSryr"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Filofobia",
+        "url": "https://open.spotify.com/album/5eRPK0NiYLmAnTGt8X8lvP"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Filofobia",
+      "url": "https://open.spotify.com/track/4AmGJdxDucTNGfqJmIUzno"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Ray Coyote II: Ojos De La Sierra",
+        "url": "https://open.spotify.com/album/50QIvqQyh7MhRxso4qIqIP"
+      },
+      "artists": [
+        {
+          "name": "Ray Coyote",
+          "url": "https://open.spotify.com/artist/37PhbUQE6PD7dg6wnHqFth"
+        }
+      ],
+      "duration_ms": 196716,
+      "name": "Rub\u00e9n Dar\u00edo",
+      "url": "https://open.spotify.com/track/1vskUVln9JuRuFGf3rrDdZ"
+    },
     {
       "added_at": "2021-05-13 14:35:55",
       "album": {

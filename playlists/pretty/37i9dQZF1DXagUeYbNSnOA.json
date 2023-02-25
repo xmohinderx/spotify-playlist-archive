@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Mimi Rose. Updates every Wednesday.",
-  "num_followers": 168987,
+  "num_followers": 169004,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE4Njg1MSwwMDAwMDAwMDgxNGNmZjAzMDA5ZGVlZDgzZTMwZTkxZDQ5ZTU5ZWI4",
+  "snapshot_id": "MTY3NzE4Njg1MSwwMDAwMDAwMDQ1YjBhMWE5OGUxMzVkOTAyNmM1NDczZWY0N2Q5MGMw",
   "tracks": [
     {
       "added_at": "2023-02-23 21:14:11",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-02-23 21:14:11",
       "album": {
-        "name": "Cristales",
-        "url": "https://open.spotify.com/album/3jukn8Clx65sTJMLNWRUJC"
-      },
-      "artists": [
-        {
-          "name": "Le Coco",
-          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
-        }
-      ],
-      "duration_ms": 183852,
-      "name": "Cristales",
-      "url": "https://open.spotify.com/track/6pNAZMDO85s5ZmEzP9Lpo5"
-    },
-    {
-      "added_at": "2023-02-23 21:14:11",
-      "album": {
         "name": "so\u00f1ar contigo",
         "url": "https://open.spotify.com/album/7FoxzhMx1BZlJG4lb1uL9x"
       },
@@ -351,22 +335,6 @@
     {
       "added_at": "2023-02-23 21:14:11",
       "album": {
-        "name": "Amor No Correspondido",
-        "url": "https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph"
-      },
-      "artists": [
-        {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Amor No Correspondido",
-      "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
-    },
-    {
-      "added_at": "2023-02-23 21:14:11",
-      "album": {
         "name": "Quererte Igual",
         "url": "https://open.spotify.com/album/3RxtjXBIiWqCgtE9DE7VHe"
       },
@@ -379,6 +347,38 @@
       "duration_ms": 170000,
       "name": "Quererte Igual",
       "url": "https://open.spotify.com/track/2CSptzE2Sh7l0V5O6e8RFw"
+    },
+    {
+      "added_at": "2023-02-23 21:14:11",
+      "album": {
+        "name": "Cristales",
+        "url": "https://open.spotify.com/album/3jukn8Clx65sTJMLNWRUJC"
+      },
+      "artists": [
+        {
+          "name": "Le Coco",
+          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
+        }
+      ],
+      "duration_ms": 183852,
+      "name": "Cristales",
+      "url": "https://open.spotify.com/track/6pNAZMDO85s5ZmEzP9Lpo5"
+    },
+    {
+      "added_at": "2023-02-23 21:14:11",
+      "album": {
+        "name": "Amor No Correspondido",
+        "url": "https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph"
+      },
+      "artists": [
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Amor No Correspondido",
+      "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
     },
     {
       "added_at": "2023-02-23 21:14:11",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-02-23 21:14:11",
       "album": {
-        "name": "Doble Vida",
-        "url": "https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV"
-      },
-      "artists": [
-        {
-          "name": "Kathy Palma",
-          "url": "https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb"
-        }
-      ],
-      "duration_ms": 214125,
-      "name": "Doble Vida",
-      "url": "https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX"
-    },
-    {
-      "added_at": "2023-02-23 21:14:11",
-      "album": {
         "name": "De un Solo Aliento",
         "url": "https://open.spotify.com/album/2bvzmcBIkNkurpqbRAzgTI"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": "2023-02-23 21:14:11",
       "album": {
+        "name": "Doble Vida",
+        "url": "https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV"
+      },
+      "artists": [
+        {
+          "name": "Kathy Palma",
+          "url": "https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb"
+        }
+      ],
+      "duration_ms": 214125,
+      "name": "Doble Vida",
+      "url": "https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX"
+    },
+    {
+      "added_at": "2023-02-23 21:14:11",
+      "album": {
         "name": "Noche No Te Vayas",
         "url": "https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8"
       },
@@ -527,38 +527,6 @@
       "duration_ms": 170868,
       "name": "Noche No Te Vayas",
       "url": "https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv"
-    },
-    {
-      "added_at": "2023-02-23 21:14:11",
-      "album": {
-        "name": "Mar",
-        "url": "https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid"
-      },
-      "artists": [
-        {
-          "name": "1982 (diecinueve ochenta y dos)",
-          "url": "https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Mar",
-      "url": "https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ"
-    },
-    {
-      "added_at": "2023-02-23 21:14:11",
-      "album": {
-        "name": "LINDA",
-        "url": "https://open.spotify.com/album/7dgG5bAzBXJcG2Q0CmXcf6"
-      },
-      "artists": [
-        {
-          "name": "Dru Flecha",
-          "url": "https://open.spotify.com/artist/7lmfWJUSLCLveumavOrth2"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/2WuyWhsKH1nun0VZyWstjS"
     },
     {
       "added_at": "2023-02-23 21:14:11",
@@ -583,6 +551,38 @@
     {
       "added_at": "2023-02-23 21:14:11",
       "album": {
+        "name": "LINDA",
+        "url": "https://open.spotify.com/album/7dgG5bAzBXJcG2Q0CmXcf6"
+      },
+      "artists": [
+        {
+          "name": "Dru Flecha",
+          "url": "https://open.spotify.com/artist/7lmfWJUSLCLveumavOrth2"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/2WuyWhsKH1nun0VZyWstjS"
+    },
+    {
+      "added_at": "2023-02-23 21:14:11",
+      "album": {
+        "name": "Mar",
+        "url": "https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid"
+      },
+      "artists": [
+        {
+          "name": "1982 (diecinueve ochenta y dos)",
+          "url": "https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ"
+    },
+    {
+      "added_at": "2023-02-23 21:14:11",
+      "album": {
         "name": "Mi Cuerpo Subira",
         "url": "https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 136981,
       "name": "Mi Cuerpo Subira",
       "url": "https://open.spotify.com/track/1YyDgqeagZ4fjjfGcI9c3S"
-    },
-    {
-      "added_at": "2023-02-23 21:14:11",
-      "album": {
-        "name": "Losing My Mind",
-        "url": "https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH"
-      },
-      "artists": [
-        {
-          "name": "Calista Del Toro",
-          "url": "https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc"
-        }
-      ],
-      "duration_ms": 155439,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S"
     },
     {
       "added_at": "2023-02-23 21:14:11",
@@ -631,6 +615,22 @@
       "duration_ms": 183669,
       "name": "Que tal si",
       "url": "https://open.spotify.com/track/6NB6MFsGPrOxPGVqKk2R4I"
+    },
+    {
+      "added_at": "2023-02-23 21:14:11",
+      "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH"
+      },
+      "artists": [
+        {
+          "name": "Calista Del Toro",
+          "url": "https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc"
+        }
+      ],
+      "duration_ms": 155439,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S"
     },
     {
       "added_at": "2023-02-23 21:14:11",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-02-23 21:14:11",
       "album": {
-        "name": "San Menace",
-        "url": "https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW"
-      },
-      "artists": [
-        {
-          "name": "Pao Pestana",
-          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
-        }
-      ],
-      "duration_ms": 193957,
-      "name": "San Menace",
-      "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
-    },
-    {
-      "added_at": "2023-02-23 21:14:11",
-      "album": {
         "name": "Mar\u00eda Indebida",
         "url": "https://open.spotify.com/album/4mmHX5RHEVJ51X1Fq0Ggax"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 194723,
       "name": "Mar\u00eda Indebida",
       "url": "https://open.spotify.com/track/5OiE4KbWfrHnhCAcXdMWlQ"
+    },
+    {
+      "added_at": "2023-02-23 21:14:11",
+      "album": {
+        "name": "San Menace",
+        "url": "https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW"
+      },
+      "artists": [
+        {
+          "name": "Pao Pestana",
+          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
+        }
+      ],
+      "duration_ms": 193957,
+      "name": "San Menace",
+      "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
     },
     {
       "added_at": "2023-02-23 21:14:11",

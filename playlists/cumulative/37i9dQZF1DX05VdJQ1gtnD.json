@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A symptom of love",
+        "url": "https://open.spotify.com/album/72fvxb5dOABnoE2hVI6qi3"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Torres",
+          "url": "https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150094,
+      "name": "A symptom of love",
+      "url": "https://open.spotify.com/track/5txD37iFI1bEZAmYg0vr2R"
+    },
+    {
+      "album": {
         "name": "Abby",
         "url": "https://open.spotify.com/album/7Fc96phdrEEBlOPcTgtADd"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 191600,
       "name": "Alt Evolution",
       "url": "https://open.spotify.com/track/5X3Ghag14o3GUR3F0ljNWU"
@@ -401,6 +419,24 @@
     },
     {
       "album": {
+        "name": "N\u00faria",
+        "url": "https://open.spotify.com/album/35xNbujDkw7WI2064N4L53"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176207,
+      "name": "Bastiments",
+      "url": "https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7"
+    },
+    {
+      "album": {
         "name": "Beautitude",
         "url": "https://open.spotify.com/album/2exVfoLC3vLD8qBdNDPuDY"
       },
@@ -416,6 +452,24 @@
       "duration_ms": 119100,
       "name": "Beautitude",
       "url": "https://open.spotify.com/track/4IWpVVj6c0LhBePxFoAZEe"
+    },
+    {
+      "album": {
+        "name": "Beech Woods",
+        "url": "https://open.spotify.com/album/0s4AKKQuijvlppeRcSj51D"
+      },
+      "artists": [
+        {
+          "name": "Solomon Davis",
+          "url": "https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112193,
+      "name": "Beech Woods",
+      "url": "https://open.spotify.com/track/2LN0TKS8xzsrD3UQ74O7LA"
     },
     {
       "album": {
@@ -448,7 +502,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 204092,
       "name": "Belonging to the Woods",
       "url": "https://open.spotify.com/track/5YGlabRh3sgy2VAtL8Bu3l"
@@ -604,7 +658,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 123581,
       "name": "Brudmarsch efter Larsh\u00f6ga Jonte",
       "url": "https://open.spotify.com/track/3QWBP15zIN6pwEbYOyevEr"
@@ -662,6 +716,24 @@
       "duration_ms": 187428,
       "name": "Candle",
       "url": "https://open.spotify.com/track/5nYu8VUjyA2sqsi0o48VQc"
+    },
+    {
+      "album": {
+        "name": "Catamount Mountain",
+        "url": "https://open.spotify.com/album/4qkR8LyWFPQ2dnnu0VPYxm"
+      },
+      "artists": [
+        {
+          "name": "Jacob Ledger",
+          "url": "https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147627,
+      "name": "Catamount Mountain",
+      "url": "https://open.spotify.com/track/0ESy5EctGe01Ko8Oy2JkIO"
     },
     {
       "album": {
@@ -770,10 +842,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 209000,
       "name": "Come To My Window",
       "url": "https://open.spotify.com/track/2PbBN3RdEoS9EmNcmZzUHh"
+    },
+    {
+      "album": {
+        "name": "Comin' Home",
+        "url": "https://open.spotify.com/album/0hTWpULZAfuqIre5Z8HyL0"
+      },
+      "artists": [
+        {
+          "name": "Michael Blaese",
+          "url": "https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177154,
+      "name": "Comin' Home",
+      "url": "https://open.spotify.com/track/4zRT3cEjUXh715YPOYsf8D"
     },
     {
       "album": {
@@ -986,10 +1076,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 140120,
       "name": "Dunes",
       "url": "https://open.spotify.com/track/2D8rgpm4G1baiUk5nvKbTX"
+    },
+    {
+      "album": {
+        "name": "D\u00e9dalo",
+        "url": "https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122275,
+      "name": "D\u00e9dalo",
+      "url": "https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3"
     },
     {
       "album": {
@@ -1130,7 +1238,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 168362,
       "name": "Empty Heart",
       "url": "https://open.spotify.com/track/631e9TTZsLXYEqXo0nI7RD"
@@ -1242,6 +1350,24 @@
       "duration_ms": 211750,
       "name": "Fall into Comfort",
       "url": "https://open.spotify.com/track/1qxD4Jw9pprF9hLTA01Pp7"
+    },
+    {
+      "album": {
+        "name": "Fallen Apples\u2019 Scent",
+        "url": "https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p"
+      },
+      "artists": [
+        {
+          "name": "Serilda Bell",
+          "url": "https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152127,
+      "name": "Fallen Apples\u2019 Scent",
+      "url": "https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai"
     },
     {
       "album": {
@@ -1411,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "F\u00e1ilte",
+        "url": "https://open.spotify.com/album/1Whcn3o7IpIoJtQXEBq6TZ"
+      },
+      "artists": [
+        {
+          "name": "Ciara Lowry",
+          "url": "https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104816,
+      "name": "F\u00e1ilte",
+      "url": "https://open.spotify.com/track/7g4jqCEvQZGdRKemCNdOxm"
+    },
+    {
+      "album": {
         "name": "Galtymore",
         "url": "https://open.spotify.com/album/52jTyKeU3kMpaUYrOyHaW2"
       },
@@ -1458,7 +1602,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 132000,
       "name": "Graceful Moment",
       "url": "https://open.spotify.com/track/202NHDBh9snqk5bUo1qZmD"
@@ -1476,10 +1620,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 117303,
       "name": "Happy Wanderer",
       "url": "https://open.spotify.com/track/6ydFYQPOnhgzkUemov3BqX"
+    },
+    {
+      "album": {
+        "name": "Harvest Time",
+        "url": "https://open.spotify.com/album/1OxQ8lUawMgaxAxu5oYbJN"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143427,
+      "name": "Harvest Time",
+      "url": "https://open.spotify.com/track/5YdzD8A9GAe51MFscLAfVq"
     },
     {
       "album": {
@@ -1555,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "Hold Back The River",
+        "url": "https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH"
+      },
+      "artists": [
+        {
+          "name": "Lucian Byrne",
+          "url": "https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148510,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5"
+    },
+    {
+      "album": {
         "name": "Hold on",
         "url": "https://open.spotify.com/album/6CnnqRJSFe5N2xWyfTaLip"
       },
@@ -1606,7 +1786,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 159727,
       "name": "homestretch",
       "url": "https://open.spotify.com/track/6X7sxHLt8IMSUeqnw5T8dT"
@@ -1678,7 +1858,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 177741,
       "name": "I dina \u00f6gon",
       "url": "https://open.spotify.com/track/0veSODUSevmOIoJaANbjPj"
@@ -1696,7 +1876,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 324539,
       "name": "I Should Have Known",
       "url": "https://open.spotify.com/track/5WbbKkgOknoPUistDUVjA4"
@@ -2117,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "Longing for Light",
+        "url": "https://open.spotify.com/album/5IGCr7YcKK9ttN3H0qeank"
+      },
+      "artists": [
+        {
+          "name": "Morris Lafleur",
+          "url": "https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125527,
+      "name": "Longing for Light",
+      "url": "https://open.spotify.com/track/45gfOKyt6rXK1jvHUYLAc0"
+    },
+    {
+      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/7fzyPMfrVmud2VlOkzhcmo"
       },
@@ -2153,6 +2351,24 @@
     },
     {
       "album": {
+        "name": "Lucent",
+        "url": "https://open.spotify.com/album/1ND7mdeP1jyfPC3bswQIdn"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124250,
+      "name": "Lucent",
+      "url": "https://open.spotify.com/track/7HvBZicMq8Vb4NGPMaEYnd"
+    },
+    {
+      "album": {
         "name": "Lyrical",
         "url": "https://open.spotify.com/album/6mPcH5Fstf5uLLoSdEf4WA"
       },
@@ -2182,7 +2398,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 163250,
       "name": "Malea\u0301vel",
       "url": "https://open.spotify.com/track/7oEpVZNFL99pAm9im2ddyl"
@@ -2290,7 +2506,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 173793,
       "name": "Morning to Do List",
       "url": "https://open.spotify.com/track/0wlkGWrxewjWnvbbCC8DP1"
@@ -2640,7 +2856,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 181669,
       "name": "Readers",
       "url": "https://open.spotify.com/track/4tkACn8vZjisGUrhTzlmRX"
@@ -3087,6 +3303,24 @@
     },
     {
       "album": {
+        "name": "Tall Flowers",
+        "url": "https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw"
+      },
+      "artists": [
+        {
+          "name": "Helen Wei",
+          "url": "https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126151,
+      "name": "Tall Flowers",
+      "url": "https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA"
+    },
+    {
+      "album": {
         "name": "The Bones (Acoustic Guitar)",
         "url": "https://open.spotify.com/album/7EHVur55Mjkq7HLL1HlxNr"
       },
@@ -3116,7 +3350,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 103132,
       "name": "The Discovery",
       "url": "https://open.spotify.com/track/2SBzLIgiQ7NOrfsdYvudwN"
@@ -3429,6 +3663,24 @@
     },
     {
       "album": {
+        "name": "Wees Hier",
+        "url": "https://open.spotify.com/album/1HhXKa695uXIITpxVLLk5q"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Mercier",
+          "url": "https://open.spotify.com/artist/06urGGaPJJnDlxhUHO0TCn"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114400,
+      "name": "Wees Hier",
+      "url": "https://open.spotify.com/track/3X0udzrbLkU0GHi4zbrMAq"
+    },
+    {
+      "album": {
         "name": "Somewhere Ahead",
         "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
       },
@@ -3573,6 +3825,24 @@
     },
     {
       "album": {
+        "name": "Wonder's Pyre",
+        "url": "https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V"
+      },
+      "artists": [
+        {
+          "name": "Iris Dauphin",
+          "url": "https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169921,
+      "name": "Wonder's Pyre",
+      "url": "https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF"
+    },
+    {
+      "album": {
         "name": "Wood Circles",
         "url": "https://open.spotify.com/album/7xr8qnA4cvLLuHmiUEpGer"
       },
@@ -3620,7 +3890,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 273255,
       "name": "Wordless",
       "url": "https://open.spotify.com/track/5X5sk7uUFqDYQSUXhJP2jg"

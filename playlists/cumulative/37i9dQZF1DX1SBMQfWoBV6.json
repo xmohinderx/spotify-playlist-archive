@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "Static Mind",
+        "url": "https://open.spotify.com/album/71hhZ7on21C40GUYV1CQQ5"
+      },
+      "artists": [
+        {
+          "name": "Hyperix",
+          "url": "https://open.spotify.com/artist/2vlHxzMM3LDROyxBioXC2Q"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Static Mind",
+      "url": "https://open.spotify.com/track/11wGs0bSwN3km6whYMZCiu"
+    },
+    {
+      "album": {
         "name": "Steady Focus",
         "url": "https://open.spotify.com/album/2JzAOAba2GnsDu1Pk719YI"
       },

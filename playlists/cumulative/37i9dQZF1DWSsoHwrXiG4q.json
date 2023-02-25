@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "I've Been Missing You",
+        "url": "https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25"
+      },
+      "artists": [
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284137,
+      "name": "I've Been Missing You",
+      "url": "https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X"
+    },
+    {
+      "album": {
         "name": "Inner Echo/ Thrive Pattern VIP",
         "url": "https://open.spotify.com/album/0X5CFT37lTT3nWkVlJBY37"
       },

@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-528 songs - 2 day 1 hr 43 min
+529 songs - 2 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Ausland](https://open.spotify.com/track/5kvTLh8mq7wvJagpebHWpv) | [Gimmik](https://open.spotify.com/artist/3FJQ5pXR8QMsR9zzzLk09T) | [Rythmus der stadt](https://open.spotify.com/album/0EuEenMR5E3l1XNXjZZEAL) | 4:57 | 2022-04-13 |  |
 | [Auto Pimp](https://open.spotify.com/track/1skSNwcAgE7R2cLWAHhuSH) | [Amorphous Androgynous](https://open.spotify.com/artist/1edIQYI7l4FMeYwq6fNAZQ) | [Tales Of Ephidrina](https://open.spotify.com/album/4SNliyiumphhCLF7mPnAaJ) | 7:20 | 2022-04-13 | 2023-02-11 |
 | [Back Into Time](https://open.spotify.com/track/5ivAHEDlmAzlf8dpP3ahYx) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [A Word Of Science](https://open.spotify.com/album/1EouHA01DrBfKSqQAIWVA9) | 4:39 | 2022-04-13 | 2022-07-29 |
-| [Bad Means Good](https://open.spotify.com/track/3KTvWdWeYYh9S82FJZA0o2) | [Clatterbox](https://open.spotify.com/artist/03Pkv50pMB8ZendhJtTdgH) | [Debut](https://open.spotify.com/album/4rZMoMR4RA5CFWdwAYbDMo) | 2:24 | 2022-04-13 |  |
+| [Bad Means Good](https://open.spotify.com/track/3KTvWdWeYYh9S82FJZA0o2) | [Clatterbox](https://open.spotify.com/artist/03Pkv50pMB8ZendhJtTdgH) | [Debut](https://open.spotify.com/album/4rZMoMR4RA5CFWdwAYbDMo) | 2:24 | 2022-04-13 | 2023-02-25 |
 | [Basscadet](https://open.spotify.com/track/300JzpjKxtRR8oAsnLers1) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 5:23 | 2022-04-13 | 2022-07-29 |
 | [Beep Street](https://open.spotify.com/track/4ogHzwfR0UCxfzGZBYHyV9) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE) | 6:37 | 2022-04-13 |  |
 | [Beep Street](https://open.spotify.com/track/4ygcdmPyBFEaf25SEEsKrz) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/1CPBXIsx6Km7ZvDmvM0gYS) | 6:37 | 2022-04-13 | 2023-02-02 |
@@ -418,6 +418,7 @@
 | [Solanus](https://open.spotify.com/track/26fmZTYJkxfQHZMT02DeRU) | [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Reductions 1995–1997](https://open.spotify.com/album/0dSDOoQ2jDQAjMzkhJQAy9) | 11:44 | 2022-04-13 | 2023-02-04 |
 | [Soufie](https://open.spotify.com/track/4Lt4sGCDSiY7s6t3tKUg1V) | [Banco De Gaia](https://open.spotify.com/artist/5Z8mapYkacgBN46TkH9L3M) | [Now Is Good](https://open.spotify.com/album/1gBesXhMy03YFul1ALFnDc) | 8:23 | 2022-04-13 | 2022-07-27 |
 | [Soufie \- Ambient Dub Version](https://open.spotify.com/track/6yhF5nFmAUbtJdgB6f3OSz) | [Banco De Gaia](https://open.spotify.com/artist/5Z8mapYkacgBN46TkH9L3M) | [Rewritten Histories, Vol\. 1: 1992 \- 1995](https://open.spotify.com/album/3AiIZmdcqfOsKIrkumH5Z7) | 8:22 | 2022-04-13 | 2023-02-04 |
+| [Spangle](https://open.spotify.com/track/5MbpTudGJuCtQHdgY7OBqJ) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [St / Fr / Sp](https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w) | 7:21 | 2022-04-13 |  |
 | [Spangle](https://open.spotify.com/track/1zAIfD1D0huJCDHMl2Rm32) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [St / Fr / Sp](https://open.spotify.com/album/2mc5e0hJxfsVAwzqJWRnBL) | 7:23 | 2022-04-13 | 2022-07-26 |
 | [Sparrow](https://open.spotify.com/track/3MEmYQVHNS861MhgYfvUcq) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [One On One](https://open.spotify.com/album/3ovF1MA8lcK40TCRzlBMG6) | 6:03 | 2022-04-13 | 2023-02-02 |
 | [Sparrow](https://open.spotify.com/track/7s0GJu0UplfX4SXatsDwvs) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [One On One](https://open.spotify.com/album/1qnzgCC7aPL8d7OLFZ4mxG) | 6:03 | 2022-04-13 |  |

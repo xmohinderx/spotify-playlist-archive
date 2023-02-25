@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: CHVRCHES
 
-1,311 songs - 3 day 5 hr 39 min
+1,312 songs - 3 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 | 2022-08-25 | 2022-09-23 |
 | [Alone](https://open.spotify.com/track/4k4mhm30I8pOn2k7O19pms) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Alone](https://open.spotify.com/album/4j8ZiT9TBNTylP578zuJRn) | 2:15 | 2020-11-27 | 2021-03-06 |
 | [Already Falling](https://open.spotify.com/track/2wuY9q7HFYnOYUHy7QHz2d) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Already Falling](https://open.spotify.com/album/0hmQO6qgPmxqL4kzszSl4C) | 4:15 | 2021-02-06 | 2021-04-23 |
+| [am i being followed...?](https://open.spotify.com/track/1PZkbVuUhcQssLceCG7lLD) | [emily jeffri](https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK) | [sick to my stomach](https://open.spotify.com/album/24jDeh08le3LGpOAb6SXXu) | 3:33 | 2023-02-24 |  |
 | [Amateur](https://open.spotify.com/track/39MzfwZjkbGSbnccjf5E5j) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Amateur](https://open.spotify.com/album/2ZSTag8VupMhvtzBg2R4aP) | 4:39 | 2021-03-14 | 2021-05-28 |
 | [American Beauty](https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 2:52 | 2021-05-21 | 2021-07-23 |
 | [Amnesia](https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy \- Chapter 1](https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz) | 4:03 | 2023-02-10 |  |

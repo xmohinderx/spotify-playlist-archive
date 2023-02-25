@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 197500,
       "name": "A Como Yo Lo Veo",
       "url": "https://open.spotify.com/track/2M96oj1hBrNEIz8R1FLuQC"
@@ -1118,6 +1118,24 @@
     {
       "album": {
         "name": "El Plumas",
+        "url": "https://open.spotify.com/album/2m1Z4pRYQopVrLb5jKqNBT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128014,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/0HPVA8D3dB1VvmCKW7epcN"
+    },
+    {
+      "album": {
+        "name": "El Plumas",
         "url": "https://open.spotify.com/album/3PvH8jpApgVnl2ncT68QP4"
       },
       "artists": [
@@ -1128,7 +1146,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 128014,
       "name": "El Plumas",
       "url": "https://open.spotify.com/track/1skEUsWr2u5KfaGsnUix6Y"
@@ -2508,7 +2526,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 171976,
       "name": "No S\u00e9 Qu\u00e9 Hacer",
       "url": "https://open.spotify.com/track/3deqAF6BY2oTiJgylyElNX"
@@ -3827,7 +3845,7 @@
       "artists": [
         {
           "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/7qz5HURh5B91PP9eLJlVYN"
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
         }
       ],
       "date_added": "2023-02-18",

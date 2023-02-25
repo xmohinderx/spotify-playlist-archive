@@ -777,6 +777,28 @@
     },
     {
       "album": {
+        "name": "Jammin' The Boogie",
+        "url": "https://open.spotify.com/album/4VbMRQKRNu9oAdvnbRBkSB"
+      },
+      "artists": [
+        {
+          "name": "Bob Hall",
+          "url": "https://open.spotify.com/artist/5CqYiXk35NVbcP7kgvjkwc"
+        },
+        {
+          "name": "George Green",
+          "url": "https://open.spotify.com/artist/51W66yTGrVuRVubWzW6RX9"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333866,
+      "name": "I'm In A World Of Trouble",
+      "url": "https://open.spotify.com/track/3XnRBApjBB3YAzZnXLRAKb"
+    },
+    {
+      "album": {
         "name": "The Complete Blue Horizon Sessions",
         "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
       },
@@ -1828,6 +1850,24 @@
       "duration_ms": 275201,
       "name": "Without You - 2013 Remaster",
       "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
+    },
+    {
+      "album": {
+        "name": "Sings Walkin' and Talkin' (And Other Smash Hits)",
+        "url": "https://open.spotify.com/album/5L5KwMBMUneU6F7ygt7pN3"
+      },
+      "artists": [
+        {
+          "name": "Eli \"Paperboy\" Reed",
+          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216760,
+      "name": "Woman, Woman Blues",
+      "url": "https://open.spotify.com/track/7GVDOpRbvMKBluomhfWtPZ"
     },
     {
       "album": {

@@ -2975,6 +2975,32 @@
     },
     {
       "album": {
+        "name": "Hosanna",
+        "url": "https://open.spotify.com/album/5g6eDFmLlTk0vyYH1YcKlF"
+      },
+      "artists": [
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+        },
+        {
+          "name": "NEON Worship",
+          "url": "https://open.spotify.com/artist/2j8LVMBgv0dkPvGrkh2k7z"
+        },
+        {
+          "name": "Sajan Nauriyal",
+          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Hosanna",
+      "url": "https://open.spotify.com/track/0PGxqxuMbaCSkwmblGakuR"
+    },
+    {
+      "album": {
         "name": "How You Love",
         "url": "https://open.spotify.com/album/2eFIRZLzXKmFXsck5wNVyO"
       },
@@ -4102,7 +4128,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 254482,
       "name": "Low - dance party",
       "url": "https://open.spotify.com/track/0JqbggEh5R0MnKdPCUdqxC"

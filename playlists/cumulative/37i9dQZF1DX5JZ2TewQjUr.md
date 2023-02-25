@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: ProdiG
 
-431 songs - 1 day 0 hr 30 min
+432 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [Wanna Freek 想曳](https://open.spotify.com/track/2uYY4NzLkqBtFiGDiF5HRj) | [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [Wanna Freek 想曳](https://open.spotify.com/album/3cZQkL0zaWk7wmLv4KbkZO) | 3:01 | 2022-07-07 | 2022-09-09 |
 | [want more](https://open.spotify.com/track/11I4dJxNvPVf3TBqiqHVbz) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [want more](https://open.spotify.com/album/0hKVDrwUxKUpWb90IiWsrM) | 2:41 | 2023-01-19 |  |
 | [Wasting Time](https://open.spotify.com/track/1edSqAJkH2ES1pkOMza8fw) | [Seungrae](https://open.spotify.com/artist/7g5FyggODL4LruwJvqx4yh) | [Wasting Time](https://open.spotify.com/album/6jfzCXWYOsxVQyJgEc9Lol) | 2:33 | 2022-11-24 | 2023-02-03 |
-| [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 | 2023-02-23 |  |
+| [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 | 2023-02-23 |  |
 | [Way Home 回家](https://open.spotify.com/track/5Kpx8pcbQVVJnY5qJECOgJ) | [Sea Island & Ferry 海島小輪](https://open.spotify.com/artist/0B7YKBxPz9JuT9b7azRx55) | [As if \- II\. The Deep End 往深](https://open.spotify.com/album/0YVzlKAxl14t6UNy7KU5Ur) | 5:00 | 2022-09-29 |  |
 | [We Don't Talk 'Bout Love](https://open.spotify.com/track/0f1vhVkouckNqcwQJCpyEv) | [Pabylon](https://open.spotify.com/artist/1Bw6PlMIF1Vm2suJcgyA8E) | [Intoxicated By...](https://open.spotify.com/album/1sAU95jxiDP5pAQXZ02Vnu) | 3:52 | 2022-09-22 | 2023-01-06 |
 | [we'll meet again someday](https://open.spotify.com/track/2MhmZKLUVGIeR5isxJBIqF) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [NIRVANA](https://open.spotify.com/album/14qA3m1Opr9rumuMx6ZJ9x) | 0:53 | 2022-06-16 | 2022-09-09 |
@@ -419,6 +419,7 @@
 | [諗太多 \(feat\. J Jelly\)](https://open.spotify.com/track/6hF82nlk9cWSLoVjFI03Lk) | [Lay\-zG](https://open.spotify.com/artist/4NH6YkxBQW8mfgNLPwnzgE), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [諗太多 \(feat\. J Jelly\)](https://open.spotify.com/album/6fDzgjIEm3ewE7SU8Dy2zd) | 3:08 | 2023-01-05 |  |
 | [蹺蹊](https://open.spotify.com/track/4o3T8OsWSj25ZBujlPapff) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [蹺蹊](https://open.spotify.com/album/3IzhNtnRhc5SbBgLtCpmXJ) | 2:58 | 2022-05-26 | 2022-06-10 |
 | [輕不著地](https://open.spotify.com/track/2mun9hZy8ZOLEHNf0kgJwy) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [輕不著地](https://open.spotify.com/album/2Qp2UULxgZ99HMarRRctbn) | 4:58 | 2022-05-26 | 2022-07-29 |
+| [轉生友誼戰隊](https://open.spotify.com/track/2y0FdmpncYoiJhPXa16ziY) | [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV), [FUNGMADE 卓峰整嘅](https://open.spotify.com/artist/2anUMLZS9l0BCp2edXOz9I), [KRAY](https://open.spotify.com/artist/1Vknqy3noTujdCjbI3xxF1) | [00](https://open.spotify.com/album/1GXxkt7bWKXlCzl6yADbOa) | 2:27 | 2023-02-24 |  |
 | [迷魂大結界](https://open.spotify.com/track/2dPsqF5JKM91BTNBcChMHT) | [HUIJING](https://open.spotify.com/artist/17rS7q68uYpuNcvfWpPVid) | [迷魂大結界](https://open.spotify.com/album/1j6PISUpxdDQK88fcCuVzN) | 2:36 | 2022-12-15 |  |
 | [這晚更壞](https://open.spotify.com/track/11fMLk7ru6mnuMofTf9f4L) | [Higgo Raj](https://open.spotify.com/artist/3YEVEdKje1zmAHh8Hsxgnb) | [這晚更壞](https://open.spotify.com/album/5tqLPLqNgumAMFmD1pZo1X) | 3:01 | 2022-05-26 | 2022-07-29 |
 | [這裡等](https://open.spotify.com/track/0VTnMjE4Z91i4M3s9Wymkb) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [這裡等](https://open.spotify.com/album/1q4NFC4B3Z6fHIaR7Mr1Qv) | 3:30 | 2022-11-17 |  |

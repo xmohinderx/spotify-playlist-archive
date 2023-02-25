@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 지금 국내에서 가장 핫한 노래들을 만나보세요! \(커버: STAYC\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,600 likes - 53 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,616 likes - 53 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

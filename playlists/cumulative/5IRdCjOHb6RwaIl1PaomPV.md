@@ -4,13 +4,14 @@
 
 > The latest tracks from Mad Decent and friends\. New Jam City, plus the latest cuts from Aluna, X\-Coast, Nia Archives and more.
 
-303 songs - 18 hr 16 min
+305 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 | 2022-06-03 | 2022-08-06 |
 | [1471](https://open.spotify.com/track/1BVo3CqGJO3YMNeoK5Ihye) | [Babyfather](https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [1471](https://open.spotify.com/album/6aazGhy1unBHW4nPE6uHlN) | 1:44 | 2022-11-12 | 2023-01-21 |
 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 | 2022-06-03 | 2022-08-06 |
+| [8Ball](https://open.spotify.com/track/6Jb5W71q9RjyAIU3OWfaDe) | [AgonyOST](https://open.spotify.com/artist/1XUDvMVQEJ5HkfG3qzN6yt) | [The Final Nail In The Coffin](https://open.spotify.com/album/4NgnuZTn5V7CucGFB8b1tS) | 6:46 | 2023-02-25 |  |
 | [8th Wonder of the World](https://open.spotify.com/track/6fB2dO7TQ7eBw4nS1IMJgU) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Bin Reaper 3: Old Testament](https://open.spotify.com/album/4TYqv90YfbQPWchJmGt0T8) | 1:38 | 2022-11-12 |  |
 | [96 Degrees](https://open.spotify.com/track/7qaaJBg1kEyUk27KRyoLXv) | [American Dance Ghosts](https://open.spotify.com/artist/5iK0IA5h8WCOKSCfiJGVLT) | [Feel You](https://open.spotify.com/album/1LPHx8hsX7VnMA95PR0njC) | 3:49 | 2022-06-03 | 2022-08-06 |
 | [A Dream I Have](https://open.spotify.com/track/0xSLUiMQHOEMeH9DMROXaE) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [A Dream I Have](https://open.spotify.com/album/4q09Lh1wmtnQQhH6MP5x1o) | 4:33 | 2022-06-03 | 2022-08-06 |
@@ -174,6 +175,7 @@
 | [Look](https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF) | 2:48 | 2022-06-03 | 2022-08-06 |
 | [Look \- All Night Mix](https://open.spotify.com/track/21968f5xcqq01zWyipJ2FV) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Look \(All Night Mix\)](https://open.spotify.com/album/0X7UabUgIpoV9CfQwkCn7o) | 2:42 | 2022-11-12 |  |
 | [Love & War \- Yellow Claw G\-Funk Remix](https://open.spotify.com/track/0ZFB3mtEAVPdxjOAeNPPth) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Love & War \(Yellow Claw G\-Funk Remix\)](https://open.spotify.com/album/4vRMuy6d7KPJ4MGXSMRIbB) | 1:55 | 2022-06-03 | 2022-08-06 |
+| [love him](https://open.spotify.com/track/4cDn73Qv5V3aRcPXIZOAwo) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va) | 3:13 | 2023-02-25 |  |
 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 | 2022-11-12 | 2023-01-21 |
 | [Love Me](https://open.spotify.com/track/6fymekeOPKNAxv2i6OoUkj) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Jay Cue](https://open.spotify.com/artist/4eoXbYuQ5fFSRnqqEFanFh) | [Love Me](https://open.spotify.com/album/5Jp5rcQyjvThIEcfJRVSqV) | 4:05 | 2022-06-03 | 2022-08-06 |
 | [Love Me Better \(with Shift K3Y & Marc E\. Bassy\)](https://open.spotify.com/track/5zHRrkIk98Adfqh25kMZFU) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Love Me Better](https://open.spotify.com/album/1FCqo8PHzNgQsxpFUd7VeZ) | 2:30 | 2022-06-03 | 2022-08-06 |

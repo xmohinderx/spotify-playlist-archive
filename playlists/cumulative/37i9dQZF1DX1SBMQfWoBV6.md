@@ -4,7 +4,7 @@
 
 > Light electronic movements for study, focus and flow.
 
-73 songs - 5 hr 37 min
+74 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Slow Poem \- Wanderwelle Remix](https://open.spotify.com/track/3OP4YAMeW1xKDfPNlfBQlL) | [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f), [Wanderwelle](https://open.spotify.com/artist/2042fteQud87cIM8K6VARW) | [Poems](https://open.spotify.com/album/66IidTi4UcG2eTrTVeQGak) | 6:35 | 2023-01-31 |  |
 | [Sommeraften \- Original Version](https://open.spotify.com/track/6jO16TinSxutKz4QHvwbU2) | [Mike Sheridan](https://open.spotify.com/artist/0qdhFzhTUnvl4DP4rJSGTh) | [Stella Polaris \- The Second Magic Number](https://open.spotify.com/album/6fUjg2z2PnvMpmKRF8lplk) | 4:13 | 2023-01-31 |  |
 | [Song for her](https://open.spotify.com/track/0ezGSiP56OzbGTjLQPYqSg) | [Nacho Sotomayor](https://open.spotify.com/artist/4uRLIC5uQs3CzTq7jEcrzJ) | [Time out](https://open.spotify.com/album/0p60DWfZ8j58uv5XeSZaZn) | 4:48 | 2023-01-31 |  |
+| [Static Mind](https://open.spotify.com/track/11wGs0bSwN3km6whYMZCiu) | [Hyperix](https://open.spotify.com/artist/2vlHxzMM3LDROyxBioXC2Q) | [Static Mind](https://open.spotify.com/album/71hhZ7on21C40GUYV1CQQ5) | 2:24 | 2023-02-24 |  |
 | [Steady Focus](https://open.spotify.com/track/11lLwgMsGuTS8ENsA1Tf35) | [Medicaid](https://open.spotify.com/artist/5KW4ln3Bh5bLkg02GX1vJT) | [Steady Focus](https://open.spotify.com/album/2JzAOAba2GnsDu1Pk719YI) | 2:33 | 2023-01-31 |  |
 | [Strands](https://open.spotify.com/track/0XA6999Nceq9KDYlqC7H06) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Strands](https://open.spotify.com/album/2W0Onu4JKgSYhJAzR19cZ0) | 5:17 | 2023-01-31 |  |
 | [Sylvan Smoke](https://open.spotify.com/track/2Gfs49i4wLusg8WLM8Q3jS) | [Sean McCann](https://open.spotify.com/artist/7c6kXSGmiGhrr8l3CSY0Y2) | [Ten Impressions for Piano and Strings](https://open.spotify.com/album/7DOkAK4tvQ7qtKKlbAAEYK) | 2:36 | 2023-01-31 |  |

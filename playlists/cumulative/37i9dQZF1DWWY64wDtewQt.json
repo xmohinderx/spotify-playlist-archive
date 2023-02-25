@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "ARCHANGEL",
+        "url": "https://open.spotify.com/album/4iLY9g8XHuDqIv5DHneCBo"
+      },
+      "artists": [
+        {
+          "name": "Skorde",
+          "url": "https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168755,
+      "name": "ARCHANGEL",
+      "url": "https://open.spotify.com/track/2C38tr7Qwrum8WJLnFnGVf"
+    },
+    {
+      "album": {
         "name": "ARUMANAKKU MK III",
         "url": "https://open.spotify.com/album/5rTkqyJBPAFENcGeGlqCm6"
       },
@@ -834,7 +852,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 182385,
       "name": "BONEBREAKER",
       "url": "https://open.spotify.com/track/4ZbuQpLG5O8lHmxMkDHRSX"
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 133503,
       "name": "DESTRUCTION",
       "url": "https://open.spotify.com/track/2YiYHqoSQNAwVnRpxLwTJr"
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 124687,
       "name": "God's Revenge",
       "url": "https://open.spotify.com/track/7x3SAQDjvfr7is2O4xZZ4u"
@@ -3172,7 +3190,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 131076,
       "name": "GUS",
       "url": "https://open.spotify.com/track/2DTql5d1eWbJcj5Y9WgJ3h"
@@ -6765,6 +6783,24 @@
     },
     {
       "album": {
+        "name": "Sky Adventure",
+        "url": "https://open.spotify.com/album/60GM5fraoivsXKewH98Mwx"
+      },
+      "artists": [
+        {
+          "name": "DIGITAL REY",
+          "url": "https://open.spotify.com/artist/0anUkBIQnpCcSiTa7vbOaS"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159579,
+      "name": "SKY ADVENTURE",
+      "url": "https://open.spotify.com/track/4Zx1UD86PmcdzGCztafRry"
+    },
+    {
+      "album": {
         "name": "Fast & Furious: Drift Tape (Phonk Vol 1)",
         "url": "https://open.spotify.com/album/1XJGiLPpejKHhzovCVpQUY"
       },
@@ -6865,7 +6901,7 @@
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 120000,
+      "duration_ms": 117528,
       "name": "SMOKE IT OFF!",
       "url": "https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym"
     },
@@ -7027,6 +7063,28 @@
     },
     {
       "album": {
+        "name": "STARFALL",
+        "url": "https://open.spotify.com/album/3zRAqkaL83AmwN3U6YgDKi"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        },
+        {
+          "name": "ARCHEZ",
+          "url": "https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103389,
+      "name": "STARFALL",
+      "url": "https://open.spotify.com/track/2eLIhfMm9cO2zM0TGcBmNp"
+    },
+    {
+      "album": {
         "name": "Step Back!",
         "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
       },
@@ -7064,6 +7122,24 @@
       "duration_ms": 124624,
       "name": "Still to Kill",
       "url": "https://open.spotify.com/track/6AVUgWjGcPvqfJI0Vb8PbY"
+    },
+    {
+      "album": {
+        "name": "Stressed Out",
+        "url": "https://open.spotify.com/album/4cgo0AESe1YYhpQ4K6L9SV"
+      },
+      "artists": [
+        {
+          "name": "SCXLETTE",
+          "url": "https://open.spotify.com/artist/1xQtxq4LgCIjsazgoLSWOE"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103943,
+      "name": "Stressed Out",
+      "url": "https://open.spotify.com/track/4VUxfs0iuo9AN9vRDKfTjl"
     },
     {
       "album": {

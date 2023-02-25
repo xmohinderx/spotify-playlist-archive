@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Salsha
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,532 likes - 66 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,538 likes - 66 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 9 | [Percayalah](https://open.spotify.com/track/4NlSoqgCyRYSORQz51jCT4) | [AyiCOUSTIC](https://open.spotify.com/artist/60ydUHQ42qIuMc2E34HwzX), [Indra Sinaga](https://open.spotify.com/artist/2abJPNlO0AZ5rxcKas2hOw) | [Percayalah](https://open.spotify.com/album/1T7KYsfOvPmpKztcmQRoZX) | 4:20 |
 | 10 | [Strangers](https://open.spotify.com/track/7uHJAXR8s2Mw3An9WeqUM3) | [Irzhal Efadh](https://open.spotify.com/artist/4cok0Kl5xGtjJxTLuRtFsv) | [Medication: Extras](https://open.spotify.com/album/4eRK7FWaeGH3ibiDB0cRv9) | 3:29 |
 | 11 | [Cerita Satu Hari](https://open.spotify.com/track/0czzioto0cyCzC6NGwDONh) | [Fabian Putra](https://open.spotify.com/artist/1IZHkhK3BuKkfhewV25OFK) | [Kota dan Pemikiran](https://open.spotify.com/album/7qzlsB4aOkqFnMl9d0VRos) | 4:42 |
-| 12 | [Bury Me](https://open.spotify.com/track/4FZQbFfSRIwVOj4OSReKK0) | [Bara Nagata](https://open.spotify.com/artist/6HroxxPckeXqSu1seASTTV) | [Bury Me](https://open.spotify.com/album/6XQkmlU3cY68WuK7FSvmgu) | 3:26 |
+| 12 | [Bury Me](https://open.spotify.com/track/4FZQbFfSRIwVOj4OSReKK0) | [Bara Nagata](https://open.spotify.com/artist/0XjsFNkgfvCaTG0Z6Av0oc) | [Bury Me](https://open.spotify.com/album/6XQkmlU3cY68WuK7FSvmgu) | 3:26 |
 | 13 | [Usai](https://open.spotify.com/track/0e9Hjgc4hiYuW66EFgvdPU) | [Ryu](https://open.spotify.com/artist/7u5S1Uyj4kzyQOAEob8zox), [Eizy](https://open.spotify.com/artist/5A3oHVdFlT5kSYAVSYd5W8) | [Usai](https://open.spotify.com/album/3sXISo8R6GEaMRIlzOc7cF) | 3:28 |
 | 14 | [Peace In Your Violence](https://open.spotify.com/track/561o1Zkk6MR5dULG8WQd3m) | [Reverie](https://open.spotify.com/artist/4BATL5Em9sMtjU31n4zcNZ) | [Peace In Your Violence](https://open.spotify.com/album/3JQhPRWzjTtG0Kvq0bqeZc) | 2:33 |
 | 15 | [paperglass](https://open.spotify.com/track/5C9q2W2D3egpmAUZRP1Wvr) | [Reyner](https://open.spotify.com/artist/7Ge22N8jX3JCS46nuqRSYf) | [paperglass](https://open.spotify.com/album/16T5yomC8PB8sal799ET8V) | 3:35 |

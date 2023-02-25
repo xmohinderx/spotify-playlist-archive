@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-358 songs - 19 hr 54 min
+359 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Hold On](https://open.spotify.com/track/4mTSFX7iAk4JN3IHu1qghA) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Hold On](https://open.spotify.com/album/2qJLcPbOmq2x6Cj0vOs9l5) | 3:54 | 2021-10-31 | 2022-05-06 |
 | [Hold You Tight](https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Hold You Tight](https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR) | 2:55 | 2023-02-08 |  |
 | [Holding Me Down](https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Holding Me Down](https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q) | 3:15 | 2021-10-31 | 2023-02-08 |
+| [Hosanna](https://open.spotify.com/track/0PGxqxuMbaCSkwmblGakuR) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [NEON Worship](https://open.spotify.com/artist/2j8LVMBgv0dkPvGrkh2k7z), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Hosanna](https://open.spotify.com/album/5g6eDFmLlTk0vyYH1YcKlF) | 3:28 | 2023-02-25 |  |
 | [How You Love](https://open.spotify.com/track/1I2NEALPO5AC8mhgiXyBuV) | [Marci Coleman](https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs) | [How You Love](https://open.spotify.com/album/2eFIRZLzXKmFXsck5wNVyO) | 3:57 | 2021-10-31 | 2022-03-18 |
 | [Human \(Matthew Parker Remix\)](https://open.spotify.com/track/2NwLHtXx1LDo3wmjDbQVUH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Human \(Matthew Parker Remix\)](https://open.spotify.com/album/6ZIZXM1DADD0cdLNv654k8) | 4:05 | 2021-10-31 | 2022-06-05 |
 | [Human \(Matthew Parker Remix\)](https://open.spotify.com/track/5Vrm9AmA4OabpgwcHdLvFc) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Human \(Deluxe Edition\)](https://open.spotify.com/album/6GVLKFf3wY3iqtSvIRkznK) | 4:05 | 2021-10-31 | 2022-07-17 |
@@ -217,7 +218,7 @@
 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 | 2023-02-08 |  |
 | [Love Me Like You \- TYE Remix](https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Love Me Like You \(TYE Remix\)](https://open.spotify.com/album/7t1QRFDMpYbZPFnirwkU3q) | 3:23 | 2021-10-31 | 2022-11-13 |
 | [Loved By You](https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Loved By You](https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu) | 3:13 | 2023-02-08 |  |
-| [Low \- dance party](https://open.spotify.com/track/0JqbggEh5R0MnKdPCUdqxC) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Low](https://open.spotify.com/album/5Dh3yjnbVzt3FIXBp9oOhe) | 4:14 | 2023-02-08 |  |
+| [Low \- dance party](https://open.spotify.com/track/0JqbggEh5R0MnKdPCUdqxC) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Low](https://open.spotify.com/album/5Dh3yjnbVzt3FIXBp9oOhe) | 4:14 | 2023-02-08 | 2023-02-25 |
 | [Luau \- Juicebangers Remix](https://open.spotify.com/track/5rtgmeK5ssgSN91yqZeUjT) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Juicebangers](https://open.spotify.com/artist/5NJ5H0WVG6JpjTROfISdpE) | [Luau](https://open.spotify.com/album/3TIFgTpdDDPhEbw5s16lUr) | 3:39 | 2021-10-31 | 2022-06-15 |
 | [Luminism](https://open.spotify.com/track/2VmZqe3lhOursqcHWtLeh5) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Luminism](https://open.spotify.com/album/6nV1XOWuVSMh6yCzIe3kh9) | 3:31 | 2021-10-31 | 2022-06-19 |
 | [Majesty](https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Majesty](https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM) | 8:20 | 2023-02-08 |  |

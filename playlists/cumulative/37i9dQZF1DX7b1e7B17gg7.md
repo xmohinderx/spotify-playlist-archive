@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-65 songs - 4 hr 50 min
+69 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Don't Be Late](https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [Don't Be Late](https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P) | 2:46 | 2022-11-30 |  |
 | [Donna](https://open.spotify.com/track/23ozU0cVhWspGJpd84NQHi) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 7:23 | 2022-11-30 |  |
 | [Feelin' Bad Blues \- 2008 Remaster](https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:16 | 2022-11-30 |  |
+| [Ferry Crossing Blues](https://open.spotify.com/track/47QhhDihrVeoFbUum7r7NY) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:25 | 2023-02-24 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/3IXfelfYGAlNhpj2PAOIb7) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:10 | 2022-11-30 |  |
 | [Gospel Groove](https://open.spotify.com/track/5QHdraJnSVp0vnXGMefg3d) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 4:13 | 2022-11-30 |  |
 | [How Long Blues](https://open.spotify.com/track/17DzqYtuUdSSg1HbQ9i5Wd) | [Tor Einar Bekken](https://open.spotify.com/artist/3J30JgVNLzuCA6uaRasNoq), [Richard Gjems](https://open.spotify.com/artist/3NgCfexdR7Or1rhp9GJ5XU) | [Songs from a Forest](https://open.spotify.com/album/5iQVzqrwsj45S7jf6PfqwS) | 4:36 | 2022-11-30 |  |
@@ -43,6 +44,7 @@
 | [In Heaven](https://open.spotify.com/track/4gww3Jsmig4mgKgMKhZtgi) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Love Hurts](https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve) | 4:34 | 2023-01-03 |  |
 | [Inland Empire](https://open.spotify.com/track/0bFDDU8ETywjcjKAHRsWDH) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Winter Is For Lovers](https://open.spotify.com/album/2jRFS663e7VPtA64depQBV) | 3:26 | 2022-11-30 |  |
 | [It's a Rough Ride We're On](https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV) | [Berdon Kirksaether & the Twang Bar Kings](https://open.spotify.com/artist/7kKITC8LNIVa12gLPgEMqR) | [Blues \(Remastered\)](https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX) | 3:30 | 2022-11-30 |  |
+| [Laika's Song](https://open.spotify.com/track/4t32sZg7Cz1yTrIxHqV7Hy) | [Gwenifer Raymond](https://open.spotify.com/artist/2scavaz2jGMWRFULHoe5je) | [You Never Were Much of a Dancer](https://open.spotify.com/album/00hAIOxKP2p7ZIesC5oz2M) | 1:48 | 2023-02-24 |  |
 | [Lenny](https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:57 | 2023-01-03 |  |
 | [Linda](https://open.spotify.com/track/12psIyrsp6DXHqzkkweac1) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 | 2022-11-30 |  |
 | [Little Brother \- Instrumental](https://open.spotify.com/track/5M5Koy1MEDGQ081SivilWW) | [Mr\. B](https://open.spotify.com/artist/0P5frht0A8pd2wsVtc2kMK), [J.C\. Heard](https://open.spotify.com/artist/7kCD8Z9gH6ifP16a5H7H4N) | [Shining The Pearls](https://open.spotify.com/album/3CmrFsbuOW5c8CG1olr1Kc) | 4:23 | 2022-11-30 |  |
@@ -50,6 +52,8 @@
 | [Marlin Blue](https://open.spotify.com/track/7qoMhUsMR9kUJlWCYZQ65C) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Boundless](https://open.spotify.com/album/2FRcVl2T3Hl4dYyJh1VBmJ) | 2:46 | 2022-11-30 |  |
 | [Mellow Blues Pt.1](https://open.spotify.com/track/73cT6WgSDYZ7IH6GM3zV0E) | [Sonny Thompson & Lula Reed](https://open.spotify.com/artist/2fmQwLfdowskywLBhgpqoT) | [The Very Best of Sonny Thompson](https://open.spotify.com/album/6IGo1HrijUDT2vYrrtVAeJ) | 2:43 | 2022-11-30 |  |
 | [Mojo Blues](https://open.spotify.com/track/1QdEiSoPTpZv5oktIRAbSZ) | [Terry Johnson](https://open.spotify.com/artist/7DWOTQc5g2G2zbd6SaXej7) | [Terry Mojo Johnson, Vol\. 2](https://open.spotify.com/album/0dx2z2A8kweCRK3etpg5GK) | 3:12 | 2022-11-30 |  |
+| [Mr\. B.](https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE) | [Tomislav Goluban](https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN), [Boško Petrović](https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA) | [Mr\. B.](https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs) | 6:45 | 2023-02-24 |  |
+| [No Entry Blues](https://open.spotify.com/track/7hxz3zPoriVdciNiWA6QDY) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [No Entry](https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD) | 4:14 | 2023-02-24 |  |
 | [Perilous Times](https://open.spotify.com/track/4fX2NEmYpOlSSrltHqfT8G) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Homebrewed Blues](https://open.spotify.com/album/3rsZuE4zwVFIPqKU3b0Z20) | 2:46 | 2022-11-30 |  |
 | [Purple \- Edited Version](https://open.spotify.com/track/015AFoJQvGJ3nbPbaC65Ml) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 4:48 | 2022-11-30 |  |
 | [Rainbow Bird Blues](https://open.spotify.com/track/2pQzKjn9C68S4bnnXJMOl6) | [Wolf Mail](https://open.spotify.com/artist/2bN1TY9rrW2axotPjQzFV6) | [Blue Fix](https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16) | 5:28 | 2022-11-30 |  |

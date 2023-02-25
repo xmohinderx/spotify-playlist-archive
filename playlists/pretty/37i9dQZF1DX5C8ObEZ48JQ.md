@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b?si=Y7EFW38yR4u9fvaM0NXOyg"> MAUIMØON </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,999 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,010 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 9 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 |
 | 10 | [Hustle Up](https://open.spotify.com/track/7jAwMp9Wy1P9DL27fEke6Q) | [Sydny Dre](https://open.spotify.com/artist/5BAYtd6F7yF4gthwLF7iY3) | [Hustle Up](https://open.spotify.com/album/6dsXotAm8lEoadbdZNb2LC) | 3:10 |
 | 11 | [Higher Mountains](https://open.spotify.com/track/2mvkApHbNkRGy6z33rRMzi) | [Dajon AF](https://open.spotify.com/artist/4yN3RB5NqyHi9cSyllXgeS) | [Higher Mountains](https://open.spotify.com/album/0T2UhpspiNpb9ok07NUjeO) | 3:17 |
-| 12 | [Closure](https://open.spotify.com/track/2AgQh0XQEYKybUvP9QM3Mf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nae](https://open.spotify.com/artist/3ufGNaeuKGZU5myCHob2Ds) | [Closure](https://open.spotify.com/album/71R0HfuCZtkH69OyEyMMU3) | 2:28 |
+| 12 | [Closure](https://open.spotify.com/track/2AgQh0XQEYKybUvP9QM3Mf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nae](https://open.spotify.com/artist/2BlQIEUVv6FAUGMCf5aOCJ) | [Closure](https://open.spotify.com/album/71R0HfuCZtkH69OyEyMMU3) | 2:28 |
 | 13 | [Blues](https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Kold Szn](https://open.spotify.com/album/5wpQuIHSrmQR5OkFSuDf9D) | 3:01 |
 | 14 | [Move](https://open.spotify.com/track/2yrZPZp445bFHivx2WZYEq) | [Obmrumi](https://open.spotify.com/artist/2tT51ZEbpFZ9ah71Ma9XEW) | [Move](https://open.spotify.com/album/3TMjXAxHbM7NTuo1mSNVDa) | 2:45 |
 | 15 | [Runaway](https://open.spotify.com/track/0yk4edOBwpxBADFQq6ROzS) | [Loye](https://open.spotify.com/artist/3jmfHrvYENAqFoXzUyPmeN) | [Runaway](https://open.spotify.com/album/0DjlHEgLu0UN5n4Ko0XZTh) | 2:34 |

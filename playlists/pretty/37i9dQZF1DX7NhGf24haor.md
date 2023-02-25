@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Discover the newest Hardstyle tracks\. Cover: Sound Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,656 likes - 103 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,774 likes - 103 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Path Of The Warrior \(Defqon.1 2023 Anthem\)](https://open.spotify.com/track/7DpG8lVap8vg8mCGuX61i9) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Path Of The Warrior \(Deqon.1 2023 Anthem\)](https://open.spotify.com/album/6TN1PH6C4tBEGELOR9bkLF) | 5:10 |
+| 1 | [Path Of The Warrior \(Defqon.1 2023 Anthem\)](https://open.spotify.com/track/7DpG8lVap8vg8mCGuX61i9) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Path Of The Warrior \(Defqon.1 2023 Anthem\)](https://open.spotify.com/album/6TN1PH6C4tBEGELOR9bkLF) | 5:10 |
 | 2 | [It's All About The Music](https://open.spotify.com/track/0w9Ycu6AN8kuN5LyIskWJD) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [It's All About The Music](https://open.spotify.com/album/3vvCMAOokrJox7Qovt9Vte) | 3:55 |
 | 3 | [NRG OVERLOAD](https://open.spotify.com/track/6e4iELsEdqiRDKZX9EJJ2F) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [NRG OVERLOAD](https://open.spotify.com/album/4xzs97Rgelf8TAec8xvoz5) | 3:24 |
 | 4 | [Never Gonna Stop](https://open.spotify.com/track/4qQeJHebvYHbKghDz8ygEJ) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [Never Gonna Stop](https://open.spotify.com/album/6JUIaBwXyIFYQFF7yODtyv) | 2:23 |
 | 5 | [Kings & Queens](https://open.spotify.com/track/7CPF9woL9CckkpmRITn4ID) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e) | [Kings & Queens](https://open.spotify.com/album/4cNDv8FjY6YqTlbI5JxTpI) | 3:30 |
-| 6 | [Made Of Stars](https://open.spotify.com/track/3kbLfKqT2ul31MOy1scPfX) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Made Of Stars](https://open.spotify.com/album/2GgqhUQScW7gr4DkDj8bBU) | 3:12 |
+| 6 | [Made of Stars](https://open.spotify.com/track/3kbLfKqT2ul31MOy1scPfX) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Made of Stars](https://open.spotify.com/album/2GgqhUQScW7gr4DkDj8bBU) | 3:12 |
 | 7 | [Conquer Your Mind \- APEX 2023 OST](https://open.spotify.com/track/6NA9FCLctIRhJc9723tZje) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Conquer Your Mind \(APEX 2023 OST\)](https://open.spotify.com/album/0paLy0fl9zbTGi81rqupOp) | 4:27 |
 | 8 | [If You Believe](https://open.spotify.com/track/5l5ITeKACEWFijn8n5tpIR) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [If You Believe](https://open.spotify.com/album/0PZhOOg6xYDL7t2rnRzQHx) | 2:54 |
 | 9 | [Stronger Now](https://open.spotify.com/track/7eUJkgq11AkHNicCVqtiSv) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Stronger Now](https://open.spotify.com/album/1sAN460wLoupfyeDQroxCC) | 3:04 |

@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Milena\(밀레나\)\)
 
-169 songs - 9 hr 39 min
+170 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Wash me](https://open.spotify.com/track/11xruTNYBtkgJVuc7ebgvW) | [Boni](https://open.spotify.com/artist/0TeEkMKteI2ncRUrNLSOau) | [Wash me](https://open.spotify.com/album/1eqIFpJ2RxKJilG8j5CNQf) | 3:44 | 2022-07-27 | 2022-12-14 |
 | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59) | 2:43 | 2022-11-06 |  |
 | [We shiver for hug](https://open.spotify.com/track/6yhpLvhCWZ9LeaFnmI3032) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [We shiver for hug](https://open.spotify.com/album/1Bll934di9MUXRpf8fl0WN) | 4:43 | 2022-05-28 | 2022-07-28 |
+| [what is love](https://open.spotify.com/track/5HukOZte1mcNcOgufptAOp) | [Bambiroyalprince](https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa) | [what is love](https://open.spotify.com/album/3OTYp7rdFNh8RQWSbnaKpk) | 3:32 | 2023-02-24 |  |
 | [what we need](https://open.spotify.com/track/70BY7F87mof52vNDrMZ6AP) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [what we need](https://open.spotify.com/album/5anfMMK1UdAekDViVFyFmk) | 3:52 | 2022-06-09 | 2022-09-06 |
 | [When It Rains](https://open.spotify.com/track/47IzvV73meHMGPrEfwZUuT) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [When It Rains](https://open.spotify.com/album/4wrbH5Mw71UDtdUnfJxJPJ) | 3:14 | 2022-08-18 | 2023-01-21 |
 | [white](https://open.spotify.com/track/0wxpTeDCewMoDP7dOajNOZ) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [wintersleep](https://open.spotify.com/album/4C5gO2JIA6lAPuutccSApg) | 3:00 | 2023-01-13 |  |

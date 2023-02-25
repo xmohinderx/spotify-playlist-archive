@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 77852,
+  "num_followers": 78094,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMGNhZDY3YTA3NzQzODg5ZTc4NmI3ZTIwYjExNmNmNTI4",
+  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMGFhOTVhNDUxZDYwYjRhNmNmYjNjMTJlYTk4MTgzM2Ey",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 151826,
-      "name": "My Tears Are Becoming A Sea",
-      "url": "https://open.spotify.com/track/1Fwj0wThn3kTg8D7KgWdsU"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Woodland",
         "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 229626,
       "name": "Featherstone",
       "url": "https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 151826,
+      "name": "My Tears Are Becoming A Sea",
+      "url": "https://open.spotify.com/track/1Fwj0wThn3kTg8D7KgWdsU"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Nine Types of Light",
-        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Will Do",
-      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "What Did You Expect from The Vaccines?",
         "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 174453,
       "name": "Post Break-Up Sex",
       "url": "https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Nine Types of Light",
+        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Will Do",
+      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
-      },
-      "artists": [
-        {
-          "name": "Grouplove",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "On the Water",
         "url": "https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 246426,
       "name": "Balance",
       "url": "https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "Grouplove",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "BTSTU (Edit)",
-        "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "BTSTU - Edit",
-      "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 216604,
       "name": "Montezuma",
       "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "BTSTU (Edit)",
+        "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "BTSTU - Edit",
+      "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "His Young Heart",
-        "url": "https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 293320,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/0c6z0CQLmIAEOCfhNvh3n3"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "ActorCaster",
         "url": "https://open.spotify.com/album/6E431m4hnKJomE4EhddGtB"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 202613,
       "name": "TenTwentyTen",
       "url": "https://open.spotify.com/track/5v6fwkgHeF0N32LmEoQyQB"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "His Young Heart",
+        "url": "https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 293320,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/0c6z0CQLmIAEOCfhNvh3n3"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "We Must Become the Pitiless Censors of Ourselves",
-        "url": "https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof"
+        "name": "Space Is Only Noise",
+        "url": "https://open.spotify.com/album/0tUJcqDuXHNkaPKLN0lQhT"
       },
       "artists": [
         {
-          "name": "John Maus",
-          "url": "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
         }
       ],
-      "duration_ms": 248706,
-      "name": "Hey Moon",
-      "url": "https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq"
+      "duration_ms": 342163,
+      "name": "Space Is Only Noise If You Can See",
+      "url": "https://open.spotify.com/track/7uW6TpsG5sqP5JxTLV7Bf0"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Space Is Only Noise",
-        "url": "https://open.spotify.com/album/0tUJcqDuXHNkaPKLN0lQhT"
+        "name": "We Must Become the Pitiless Censors of Ourselves",
+        "url": "https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof"
       },
       "artists": [
         {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+          "name": "John Maus",
+          "url": "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
         }
       ],
-      "duration_ms": 342163,
-      "name": "Space Is Only Noise If You Can See",
-      "url": "https://open.spotify.com/track/7uW6TpsG5sqP5JxTLV7Bf0"
+      "duration_ms": 248706,
+      "name": "Hey Moon",
+      "url": "https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "His Young Heart",
-        "url": "https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Landfill",
-      "url": "https://open.spotify.com/track/271FGAt4bz1jAIN661Uq2c"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Underneath The Pine",
         "url": "https://open.spotify.com/album/6FtCAAEZUEutbmNfFHzeK0"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 244546,
       "name": "New Beat",
       "url": "https://open.spotify.com/track/6bURo0Mmzg5EymcHwvONaj"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "His Young Heart",
+        "url": "https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Landfill",
+      "url": "https://open.spotify.com/track/271FGAt4bz1jAIN661Uq2c"
     },
     {
       "added_at": "2021-09-02 08:15:11",

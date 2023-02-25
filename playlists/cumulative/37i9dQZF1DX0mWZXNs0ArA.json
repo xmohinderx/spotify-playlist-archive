@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Come Inside Of My Heart",
+        "url": "https://open.spotify.com/album/1vhonIQNvNg0bKRMO9RxUE"
+      },
+      "artists": [
+        {
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173311,
+      "name": "Come Inside Of My Heart (Sped Up)",
+      "url": "https://open.spotify.com/track/1fO083RTFknKJdGUGKE6ZB"
+    },
+    {
+      "album": {
         "name": "Cool for the Summer [Sped Up (Nightcore)]",
         "url": "https://open.spotify.com/album/410MZofhiv240ybaWhUxpc"
       },
@@ -916,6 +938,24 @@
       "duration_ms": 146729,
       "name": "Faster - Sped Up",
       "url": "https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy"
+    },
+    {
+      "album": {
+        "name": "Favorite Song (Versions)",
+        "url": "https://open.spotify.com/album/3Fo8uA7Pf9tbFEpfDoG3O8"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160597,
+      "name": "Favorite Song - Sped Up",
+      "url": "https://open.spotify.com/track/4YtTVZsCukz30wcv9TpXek"
     },
     {
       "album": {
@@ -1747,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "LIMBO (Sped Up Version)",
+        "url": "https://open.spotify.com/album/5gKGT4zR71qZ5ylVvWjzNB"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186544,
+      "name": "LIMBO - Sped Up Version",
+      "url": "https://open.spotify.com/track/1KV4uK3MAneG77PM2bJhqs"
+    },
+    {
+      "album": {
         "name": "Edits",
         "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
@@ -1780,7 +1838,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 134782,
       "name": "Love Grows (Sped up)",
       "url": "https://open.spotify.com/track/2KXnyrYPOqyWWMkE9zUDwT"
@@ -2332,7 +2390,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 112941,
       "name": "psilocybin (sped up)",
       "url": "https://open.spotify.com/track/1CwFuRSP9dB2HvbmXBSEDS"
@@ -2648,7 +2706,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 139524,
       "name": "Stay (Speed)",
       "url": "https://open.spotify.com/track/3YTyhP9JRvG5MvMVk5PJ9I"

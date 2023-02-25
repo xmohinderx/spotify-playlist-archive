@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 98416,
+  "num_followers": 98541,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjUyODcwOSwwMDAwMDAwMDZjMjcwZGY5NGIyN2Y0OGMxNDFkZWQxNGQ4ZWY3ZTM1",
+  "snapshot_id": "MTY3NjUyODcwOSwwMDAwMDAwMGRjMmY2MTM4ZTYwODFkNzU1NzU2YzUwZmVhNmIwOGMx",
   "tracks": [
     {
       "added_at": "2021-08-02 09:30:31",
@@ -635,6 +635,22 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
+        "name": "Marakkavillayae(Jersey)",
+        "url": "https://open.spotify.com/album/4dOzOEIHi3QhtjnafMLrPo"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 237067,
+      "name": "Marakkavillayae",
+      "url": "https://open.spotify.com/track/54lWhyO1mesDCvdQXiafu0"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
         "name": "Naanum Rowdy Dhaan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 301950,
       "name": "Neeyum Naanum",
       "url": "https://open.spotify.com/track/4aoko7oeXhp6ZUvFUQ3VC5"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Marakkavillayae(Jersey)",
-        "url": "https://open.spotify.com/album/4dOzOEIHi3QhtjnafMLrPo"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 237067,
-      "name": "Marakkavillayae",
-      "url": "https://open.spotify.com/track/54lWhyO1mesDCvdQXiafu0"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -879,26 +879,6 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Kaththi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        }
-      ],
-      "duration_ms": 304923,
-      "name": "Aathi (From \"Kaththi\")",
-      "url": "https://open.spotify.com/track/2B2Y1qGComLKdsHLktgCbV"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
         "name": "Vanakkam Chennai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 246066,
       "name": "Ailasa Ailasa",
       "url": "https://open.spotify.com/track/6n8gWl0tiqrjsrytd24prO"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Kaththi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "duration_ms": 304923,
+      "name": "Aathi (From \"Kaththi\")",
+      "url": "https://open.spotify.com/track/2B2Y1qGComLKdsHLktgCbV"
     },
     {
       "added_at": "2021-08-02 09:30:31",

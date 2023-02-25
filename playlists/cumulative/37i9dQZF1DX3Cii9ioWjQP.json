@@ -685,6 +685,24 @@
     },
     {
       "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/5OWnu7q4KDcsotJRkIfqVE"
+      },
+      "artists": [
+        {
+          "name": "40",
+          "url": "https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196421,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/0lOhyaAN0djmwroHqPhApn"
+    },
+    {
+      "album": {
         "name": "Finale",
         "url": "https://open.spotify.com/album/6MdAxE4RRlHKNGzCN2fNLb"
       },
@@ -1686,6 +1704,24 @@
       "duration_ms": 197982,
       "name": "START OVER",
       "url": "https://open.spotify.com/track/4gKHPsGzAZPQzGuuvIm8eX"
+    },
+    {
+      "album": {
+        "name": "Round and Round",
+        "url": "https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc218\uc601 Kim Suyoung",
+          "url": "https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB"
     },
     {
       "album": {

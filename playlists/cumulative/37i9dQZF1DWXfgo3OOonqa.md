@@ -2,7 +2,7 @@
 
 ### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
-> fuck it, jag e back online
+> kvar på samma plats vi starta
 
 838 songs - 1 day 13 hr 5 min
 

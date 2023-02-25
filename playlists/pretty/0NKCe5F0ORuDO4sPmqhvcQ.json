@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21095,
+  "num_followers": 21094,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAyMjgsZTlmZGQwZTc0OWExMzI2YThlODVkNzJmNzZhYmQ5YWZhYjhjYWYxOQ==",
+  "snapshot_id": "MTAyMzQsZjk4YTM4ZjY1NDQ3ZDYxNjM3OGNjMGYxOGQxMjY2OTYxZjAwZGRkZQ==",
   "tracks": [
     {
       "added_at": "2023-02-22 21:57:47",
@@ -29,20 +29,44 @@
       "url": "https://open.spotify.com/track/24fqHAeKYTZAx6gN9kc3DC"
     },
     {
-      "added_at": "2023-02-23 00:25:37",
+      "added_at": "2023-02-24 18:29:20",
       "album": {
-        "name": "In Plain Sight",
-        "url": "https://open.spotify.com/album/39H3aSkk8uCM25VoIx16y7"
+        "name": "Get To You",
+        "url": "https://open.spotify.com/album/68Kb2V3PP0mmHrerQpspM5"
       },
       "artists": [
         {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
         }
       ],
-      "duration_ms": 162406,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv"
+      "duration_ms": 226559,
+      "name": "Get To You",
+      "url": "https://open.spotify.com/track/4jfySsGwhaA7TT4RsYzDvM"
+    },
+    {
+      "added_at": "2023-02-24 21:31:58",
+      "album": {
+        "name": "Without u (feat. Holywatr)",
+        "url": "https://open.spotify.com/album/38zCcpxCUq4CimSwKVAALj"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        {
+          "name": "Holywatr",
+          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
+        }
+      ],
+      "duration_ms": 185161,
+      "name": "Without u (feat. Holywatr)",
+      "url": "https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i"
     },
     {
       "added_at": "2023-02-22 21:58:30",
@@ -107,6 +131,22 @@
       "duration_ms": 180800,
       "name": "ANTHEM",
       "url": "https://open.spotify.com/track/1McvHPGOTNBsMZNY8knzsK"
+    },
+    {
+      "added_at": "2023-02-23 00:25:37",
+      "album": {
+        "name": "In Plain Sight",
+        "url": "https://open.spotify.com/album/39H3aSkk8uCM25VoIx16y7"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv"
     },
     {
       "added_at": "2023-02-23 18:37:32",
@@ -2267,6 +2307,22 @@
       "duration_ms": 210562,
       "name": "Food for the Soul",
       "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
+    },
+    {
+      "added_at": "2023-02-24 16:41:07",
+      "album": {
+        "name": "ambien",
+        "url": "https://open.spotify.com/album/2V1fOgi7qKLPhPdFK9E5Sz"
+      },
+      "artists": [
+        {
+          "name": "JVLY",
+          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "ambien",
+      "url": "https://open.spotify.com/track/21KwCo6dkh83CypNslVwG1"
     }
   ],
   "unique_name": "Moving Castle Monthly",

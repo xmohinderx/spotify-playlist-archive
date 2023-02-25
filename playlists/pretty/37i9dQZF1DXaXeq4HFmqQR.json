@@ -1,12 +1,12 @@
 {
   "description": "Escucha a Loyaltty y a m\u00e1s mujeres a todo volumen. Dales PLAY, dales POWER.",
-  "num_followers": 11359,
+  "num_followers": 11362,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDUwN2YxMjg4N2MwYTc0OTk5MGZkNmVmZDYwYjQ5MmQ1",
+  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDkwYThiMjQ0YWZiNjYyMTcwMzQ5NGQxMWFhM2ViNzMx",
   "tracks": [
     {
       "added_at": "2023-02-01 03:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Desilusi\u00f3n",
-        "url": "https://open.spotify.com/album/3iPBHbQtfW67wIzVdvwHzY"
-      },
-      "artists": [
-        {
-          "name": "Amara Ignacia",
-          "url": "https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa"
-        }
-      ],
-      "duration_ms": 207511,
-      "name": "Desilusi\u00f3n",
-      "url": "https://open.spotify.com/track/2WZClCpIXY4L2k4FfayBbT"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/7t50mP3PTQZkO1O8BeqV4z"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 227769,
       "name": "Mi Cula (Remix)",
       "url": "https://open.spotify.com/track/4mRfyjonZZuRy3iTxKHazl"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Desilusi\u00f3n",
+        "url": "https://open.spotify.com/album/3iPBHbQtfW67wIzVdvwHzY"
+      },
+      "artists": [
+        {
+          "name": "Amara Ignacia",
+          "url": "https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa"
+        }
+      ],
+      "duration_ms": 207511,
+      "name": "Desilusi\u00f3n",
+      "url": "https://open.spotify.com/track/2WZClCpIXY4L2k4FfayBbT"
     },
     {
       "added_at": "2023-02-01 03:00:00",

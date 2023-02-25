@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 182000,
       "name": "Bi\u1ebft L\u00e0m Sao",
       "url": "https://open.spotify.com/track/2dCiHYDk4CBevyQsR8uEtf"
@@ -4030,7 +4030,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 206392,
       "name": "Don't Let Them Know",
       "url": "https://open.spotify.com/track/3qKQB87GUfJ86Q4bvg3LJT"
@@ -4150,6 +4150,28 @@
       "duration_ms": 342839,
       "name": "Duy\u00ean Ta Tr\u1eddi L\u1ea5y",
       "url": "https://open.spotify.com/track/7HopTGfS9Jp2F44PuOTkAk"
+    },
+    {
+      "album": {
+        "name": "D\u00e3 Tr\u00e0ng (feat. Julian.K)",
+        "url": "https://open.spotify.com/album/3mmp9yXaTbfTy3BY8hLYgo"
+      },
+      "artists": [
+        {
+          "name": "Kaisoul",
+          "url": "https://open.spotify.com/artist/1RymY6y1vsyqVIVqBu03ul"
+        },
+        {
+          "name": "Julian.K",
+          "url": "https://open.spotify.com/artist/25yMlp5oeiR8B7ZdZ8Vdph"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277575,
+      "name": "D\u00e3 Tr\u00e0ng (feat. Julian.K)",
+      "url": "https://open.spotify.com/track/5mxEG4WypD37XMuMgVOyDF"
     },
     {
       "album": {
@@ -5256,7 +5278,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 214698,
       "name": "Gi\u1ea5u",
       "url": "https://open.spotify.com/track/2lEZApLYUrSSE5g7DYWgMc"
@@ -12486,6 +12508,24 @@
       "duration_ms": 178285,
       "name": "Tin Nh\u1eafn",
       "url": "https://open.spotify.com/track/0uFBHFPF9un8AQBK7av3Ih"
+    },
+    {
+      "album": {
+        "name": "Tin Y\u00eau",
+        "url": "https://open.spotify.com/album/63tXMYerepJeENGoxRYBQ6"
+      },
+      "artists": [
+        {
+          "name": "Haukong",
+          "url": "https://open.spotify.com/artist/0UyTscBfKB6ILapfawqhFB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205620,
+      "name": "Tin Y\u00eau",
+      "url": "https://open.spotify.com/track/0y225pQphsaBvPTSb4xyJB"
     },
     {
       "album": {

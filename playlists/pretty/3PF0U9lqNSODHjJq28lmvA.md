@@ -4,24 +4,23 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,096 likes - 15 songs - 57 min 49 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,097 likes - 14 songs - 48 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Yo Geet Timilai](https://open.spotify.com/track/6Xofa0BpvABAvJWVFLXwFn) | [DJ Bishow](https://open.spotify.com/artist/3ZQ8eptBSRv3RIFE6tBpNV), [Yabesh Thapa](https://open.spotify.com/artist/1D0B4qrMRfjzDfBlijs3YH), [Bizen](https://open.spotify.com/artist/3lVjPNVSxQxVAp8XPF3nJi) | [Yo Geet Timilai](https://open.spotify.com/album/6uxydYkMtuQG4lRmuvgFl2) | 2:52 |
-| 2 | [Foundation](https://open.spotify.com/track/1R8Ik6IXTizAl4B2jg0rGU) | [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en) | [Foundation](https://open.spotify.com/album/6ahuDx3k8Ts132VRQ3jxI7) | 2:33 |
-| 3 | [Släng bort mobilen](https://open.spotify.com/track/2vZXREMorFrk2hVBfjZI3q) | [Dryhimmarn](https://open.spotify.com/artist/3cytCFNoXv5ttskvMBXzqA) | [Släng bort mobilen](https://open.spotify.com/album/0SmAD1fUVwnh2CMVd0kqpi) | 3:15 |
-| 4 | [Reversion](https://open.spotify.com/track/5j6aO3qwHbx9JKuV0guHws) | [The Machine](https://open.spotify.com/artist/3X86QInWg7yupxaU3fvvjB) | [Reversion](https://open.spotify.com/album/6vri3ap8noqwgdmHiHvBAB) | 6:04 |
-| 5 | [follow](https://open.spotify.com/track/376QMS5IvNxgE9ro38vgNc) | [Pete Santos](https://open.spotify.com/artist/5NmID2FlbgIYi44Q45iaWf) | [follow](https://open.spotify.com/album/3tjfcJB23uBGtHyTuULp5I) | 3:46 |
-| 6 | [Jennifer](https://open.spotify.com/track/5uBNYvs4xMZ0UMqhStkcXz) | [Marques Bovre and The Evil Twins](https://open.spotify.com/artist/2gljPPno0W8McIqiIzMjf0) | [Living and Dying in the Coffee Generation](https://open.spotify.com/album/6Elru72unqSe4Fzl4KHlml) | 3:28 |
-| 7 | [Touching Freedom](https://open.spotify.com/track/41JOLlHxiofzx6RefSDIcC) | [Magnus Jarlbo](https://open.spotify.com/artist/37XZZRAhodZTxPq9IXe4gF), [Pedram Shahlai](https://open.spotify.com/artist/0mOtayobuVpTiNlctCYQjF) | [Touching Freedom](https://open.spotify.com/album/2TUIt74nWuxwa6wQ4HPxeA) | 3:31 |
-| 8 | [Hana Voodoo](https://open.spotify.com/track/7ssAyoOdmNosEuDgx4LMQw) | [Jules Brennan](https://open.spotify.com/artist/7unObIw4zbKUXYKFynXqQC) | [Hana Voodoo](https://open.spotify.com/album/5CgypmrO3NLpAN9WN1GWTG) | 6:43 |
-| 9 | [Endless Summer](https://open.spotify.com/track/0E0jzVYAm3558G6lQWPTeb) | [D203](https://open.spotify.com/artist/01teNQm7eYqYk1PV7vPdFC) | [Endless Summer](https://open.spotify.com/album/5Lp0AtnPcAZYinccG6EYP0) | 3:36 |
-| 10 | [Hej simba](https://open.spotify.com/track/3d9idsjTePekE5SVvbhneE) | [Mojje & Simba](https://open.spotify.com/artist/4HMQYw6YMRqn78xv1I7IDx) | [Hej simba](https://open.spotify.com/album/6l4wetjXGs18EpJ3TBQtwQ) | 3:10 |
-| 11 | [Hurricane](https://open.spotify.com/track/6ymmsttOZYT1SSnDxOjqRZ) | [Alma Revel](https://open.spotify.com/artist/59gWFo18Jb7jYjjZwSWO2u) | [Hurricane](https://open.spotify.com/album/0UMSfzyVsSzpgHFbKwkHJJ) | 4:55 |
-| 12 | [Summer Baby](https://open.spotify.com/track/6tK7xmnkjVLdpupBBgkZIf) | [SASS](https://open.spotify.com/artist/3HKCvaNgdKpPbnku7mYk3A) | [Summer Baby](https://open.spotify.com/album/5PTCfsVDCFYAPgRz1YjslN) | 2:38 |
-| 13 | [Funk](https://open.spotify.com/track/5zBbE86w0wMBWmLl8CP8N3) | [Jesta](https://open.spotify.com/artist/6xIQvrVL9611QGh9mQ7sZl), [Rozay](https://open.spotify.com/artist/3HstqA6AyAFg8s2XFHYq8j) | [Funk](https://open.spotify.com/album/6efVaPKCx0JHzJyyKXibNZ) | 2:40 |
-| 14 | [Bon Voyage](https://open.spotify.com/track/1gikdIy0lER7VkW0FVWL6K) | [Courant](https://open.spotify.com/artist/1ywS9qW2Y66IGkDTM1nIvE) | [Bon Voyage](https://open.spotify.com/album/0cZmjXBwGGE5YMZgQed3Uw) | 5:48 |
-| 15 | [I'll Play You Out](https://open.spotify.com/track/4otrj76FgztNIcwEQ9ypQD) | [Route 500](https://open.spotify.com/artist/7KdLalL74q6v7fQA60osrz), [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [I'll Play You Out](https://open.spotify.com/album/2Tq7qjNqYL6TGkzwXFs3FD) | 2:44 |
+| 1 | [Hippie Yes](https://open.spotify.com/track/4mOxn1AT8cOo74Zm5iH9ws) | [Erk](https://open.spotify.com/artist/5HhJ4EfjcISuAIPnbz9B3c) | [Stugvibb](https://open.spotify.com/album/1Rjtfhkx3I3UtAP6Ijftj2) | 2:40 |
+| 2 | [höst](https://open.spotify.com/track/4gXFN7H0Slt8xvO22QuvCz) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd), [Bella Leonette](https://open.spotify.com/artist/0Qzh6QfLR7zubyDl581ZOt) | [ikväll, inatt, men aldrig imorgon](https://open.spotify.com/album/2iHZ5X0FRetrOOK6A97G9N) | 4:26 |
+| 3 | [No One Left To Fight](https://open.spotify.com/track/37xkZ8JQ1RGCa8pEEyZ67s) | [Jack Moy](https://open.spotify.com/artist/58tNZRHNf5ScIAo7zBZDbU) | [No One Left To Fight](https://open.spotify.com/album/20eLUi3o8toF0vvmfGwNi0) | 3:21 |
+| 4 | [Everything](https://open.spotify.com/track/0MKmnmVNzbDJXbObHCgOKK) | [Duval](https://open.spotify.com/artist/2nzCBklwAxk4TWLUlwjS2i), [Chris Miles](https://open.spotify.com/artist/2m2kx6kzvl75SabOVfkL5i) | [Everything](https://open.spotify.com/album/3O5Ot9NsfJ3HKViTDT9vhH) | 3:11 |
+| 5 | [ACTION MAN](https://open.spotify.com/track/7xmIP39CtageyeY2BPK4vG) | [Joe Lefty](https://open.spotify.com/artist/4Zbjxv6NJcEGkKUkRiLCad) | [ACTION MAN](https://open.spotify.com/album/6rLhk9Kn1w8j8ecAGgBqig) | 2:50 |
+| 6 | [Where It Ends](https://open.spotify.com/track/1vU9Q7JjxZbCtE9qSDNK1b) | [Gottschalk](https://open.spotify.com/artist/3gj8j6CuQRm9b1GcV5iTtO) | [Where It Ends](https://open.spotify.com/album/3RFRNm0RL1DPRwRtyoiOXw) | 3:15 |
+| 7 | [Attitude](https://open.spotify.com/track/4foorcNc2t1o4DAIXpNWmS) | [The Hi\-Cats](https://open.spotify.com/artist/2dF30BaQtzUa3LGYxjlD5Y), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Attitude](https://open.spotify.com/album/0FtUA1LWzr2SBDfzBdKuIT) | 4:07 |
+| 8 | [Incubo](https://open.spotify.com/track/6c93X1d25TRml1gH6lAkF1) | [Daniele](https://open.spotify.com/artist/2v3e8s2maYO9bWUfC8l9Vt) | [Incubo](https://open.spotify.com/album/5M9bVA0aZqJ1QEtDfxuTRu) | 3:42 |
+| 9 | [You Got Me Paranoid](https://open.spotify.com/track/3JiW0tV7GlDQzjgLps6kZ6) | [Zaltaio](https://open.spotify.com/artist/4U7mVttpZoYczRThN4gaT4) | [You Got Me Paranoid](https://open.spotify.com/album/7vvyczJYd1XVpOd7PWWzBQ) | 2:53 |
+| 10 | [Kelp!](https://open.spotify.com/track/57kltV0hwJOGbges48DZtJ) | [Toot Farangi](https://open.spotify.com/artist/1N1tnj10mHH2Lpg7BT7BgA) | [Stingchasers](https://open.spotify.com/album/3uDD5anyriqTpOvjko1y01) | 3:31 |
+| 11 | [Psmash Bros](https://open.spotify.com/track/52fbwCOFmwK5sPqvPLoqX0) | [Quack Daddy](https://open.spotify.com/artist/5pQpmLfmcIePaE57T6Ae8w) | [Reboot Files](https://open.spotify.com/album/6MiaY57qDYIfs18MBDlZhw) | 2:12 |
+| 12 | [Mellow Hollow](https://open.spotify.com/track/53RyDun6INknVIOXfpetJp) | [Alma Revel](https://open.spotify.com/artist/59gWFo18Jb7jYjjZwSWO2u) | [Mellow Hollow](https://open.spotify.com/album/4x35fa1MmeoATpVuKiJH3d) | 4:06 |
+| 13 | [Sakto Na Sakto Ka](https://open.spotify.com/track/3CkBAmnbIVrr54DggyAjZb) | [Sentes](https://open.spotify.com/artist/5aprzKq05HPYoZgB14pUKp) | [Sakto Na Sakto Ka](https://open.spotify.com/album/4a35fEEK5wJHqWMlh5Luww) | 5:36 |
+| 14 | [Vem trodde](https://open.spotify.com/track/19Nacs0nOGa8k5w3Ulb4pY) | [Angelina Pavanelli](https://open.spotify.com/artist/2Q1zoh7mp07ods0rRoqL0i) | [Vem trodde](https://open.spotify.com/album/2LLYLKg61zkWxfnlqw3c5U) | 2:55 |
 
-Snapshot ID: `NzQxLDA2OGUyNjA2MjZlZDIzYmE0ZjUwODBlMzNiYmEwMTExYjAyOGRiYmE=`
+Snapshot ID: `NzQzLDFhNzQ0ZDI3YjkwNjVhMjc3YjAwMDIyNGVhMGRmNzYyZWU1MmNjMzg=`

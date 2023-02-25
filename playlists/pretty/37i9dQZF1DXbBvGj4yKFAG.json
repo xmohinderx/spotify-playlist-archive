@@ -1,12 +1,12 @@
 {
   "description": "may include",
-  "num_followers": 5331,
+  "num_followers": 6090,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE4NTg5MCwwMDAwMDAwMDMwMDE5ZTBiNDJiMzIwNWFjYTFkMTU1NWRhYjZiNDQ5",
+  "snapshot_id": "MTY3NzI1Mjk1MywwMDAwMDAwMDQwOWYwNzlmZDgzOTc1OWU3ZTA1MTM0NGIwNmJhYjIy",
   "tracks": [
     {
       "added_at": "2023-02-09 18:38:29",
@@ -477,6 +477,22 @@
       "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
     },
     {
+      "added_at": "2023-02-24 15:35:53",
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+    },
+    {
       "added_at": "2023-02-09 18:38:29",
       "album": {
         "name": "Sckrpnch",
@@ -595,22 +611,6 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
-      },
-      "artists": [
-        {
-          "name": "Birth Day",
-          "url": "https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt"
-        }
-      ],
-      "duration_ms": 107590,
-      "name": "Fight Club",
-      "url": "https://open.spotify.com/track/7EGFu3hR6VIubhJGr0fSl1"
-    },
-    {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 80966,
       "name": "punch",
       "url": "https://open.spotify.com/track/6WMIBMdrYL293siiQCxCGi"
+    },
+    {
+      "added_at": "2023-02-09 18:38:29",
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
+      },
+      "artists": [
+        {
+          "name": "Birth Day",
+          "url": "https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt"
+        }
+      ],
+      "duration_ms": 107590,
+      "name": "Fight Club",
+      "url": "https://open.spotify.com/track/7EGFu3hR6VIubhJGr0fSl1"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -801,36 +817,20 @@
       "url": "https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm"
     },
     {
-      "added_at": "2023-02-09 18:38:29",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "still bummed",
-        "url": "https://open.spotify.com/album/0TmbsFrbOcvrBXLZkVGRru"
+        "name": "I cant commit to anything",
+        "url": "https://open.spotify.com/album/0rkcrSCvRTjm89O9PfUzvN"
       },
       "artists": [
         {
-          "name": "Nouns",
-          "url": "https://open.spotify.com/artist/54pzZYU7PNFAN1O5H715fk"
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
         }
       ],
-      "duration_ms": 192000,
-      "name": "you're not the one that i want",
-      "url": "https://open.spotify.com/track/4qj1tji798varSboYl713s"
-    },
-    {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
-        "name": "i heard they found you face down inside your living room",
-        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 191548,
-      "name": "i heard they found you face down inside your living room",
-      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
+      "duration_ms": 102545,
+      "name": "I cant commit to anything",
+      "url": "https://open.spotify.com/track/1yrqu7y4N2e3Ov8ZKjdjVY"
     }
   ],
   "unique_name": "side effects",

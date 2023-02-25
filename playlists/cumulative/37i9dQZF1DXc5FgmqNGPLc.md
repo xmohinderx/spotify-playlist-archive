@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-110 songs - 16 hr 27 min
+111 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Exodus](https://open.spotify.com/track/062FRhtHo7W8ZvZUefVIb9) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [In Concert](https://open.spotify.com/album/07fBpu7zIOCeOwCFKoWnu3) | 8:09 | 2023-01-27 |  |
 | [Fair Trade \- Live in Paris](https://open.spotify.com/track/11HEYsb6P91SXnwUHEoQO7) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Live in Paris](https://open.spotify.com/album/6UeVvu9ou7G4ZhZIE5rSRn) | 5:57 | 2022-03-18 |  |
 | [Filthy McNasty \- Live At Village Gate Club, New York, 1961 / Remastered 2006 / Rudy Van Gelder Edition](https://open.spotify.com/track/78DXI2y5wYjNm2W5cDAUSA) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Doin' The Thing: The Horace Silver Quintet At The Village Gate \(Remastered 2006/Rudy Van Gelder Edition\)](https://open.spotify.com/album/6CPk8vCQBxUtcPBQgnVvJv) | 11:02 | 2021-11-12 |  |
+| [First Light \- Live](https://open.spotify.com/track/3uXFvzREIaJ4vupIMyIaOx) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em), [Billy Childs](https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR) | [First Light \(Live\)](https://open.spotify.com/album/2RsWDwGFxarODRFW73hA3V) | 8:18 | 2023-02-24 |  |
 | [Footprints \- Live](https://open.spotify.com/track/5XuhO3gmErT7vls3Jjr6FZ) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Footprints \- Live](https://open.spotify.com/album/77hBFKuRXGV6kgHsG2c034) | 7:53 | 2021-11-12 |  |
 | [Forest Flower \- Sunrise \- Live@Monterey](https://open.spotify.com/track/07pMgVhH3m4TE9QLnki25T) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Forest Flower: Charles Lloyd At Monterey](https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD) | 7:30 | 2021-11-12 |  |
 | [Giant Steps \- Live \(Remastered\)](https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Now's The Time \[Live \(Remastered\)\]](https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL) | 7:11 | 2022-07-29 |  |

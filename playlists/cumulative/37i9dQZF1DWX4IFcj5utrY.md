@@ -4,7 +4,7 @@
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX?si=LWnK5nKhR3i6uUX31JAtNA">Skrillex</a>
 
-734 songs - 2 day 21 hr 23 min
+735 songs - 2 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,7 +518,8 @@
 | [Reminiscing](https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Reminiscing](https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3) | 4:18 | 2022-01-27 | 2022-03-11 |
 | [Respond](https://open.spotify.com/track/6iSja01gi2IzB9UnhTcO0h) | [Miči](https://open.spotify.com/artist/1aJGoykRBEjrMcNWOhV5am), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Respond](https://open.spotify.com/album/7McnmWbjiS1jfTZmMLa3n7) | 4:02 | 2022-02-10 | 2022-07-29 |
 | [Revolution](https://open.spotify.com/track/3QIZwqMH7l3gasPm7w9JR7) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU), [Poetic Leestar](https://open.spotify.com/artist/2sGbpDtrK2N6Ish5EmiVCL) | [Revolution](https://open.spotify.com/album/1W78phzyDhQdi5L12LRSwh) | 6:56 | 2022-03-10 | 2022-04-23 |
-| [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 | 2023-02-23 |  |
+| [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 | 2023-02-23 | 2023-02-25 |
+| [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 | 2023-02-23 |  |
 | [Ride On Brother](https://open.spotify.com/track/6WxTOPP49e9BWWqyKV5ubn) | [Soulfreakah](https://open.spotify.com/artist/33LgECnJ6qzEvBzzp4TNAn) | [Ride On Brother](https://open.spotify.com/album/1Rbx2WjdGxXBem8pAft8qX) | 7:45 | 2022-02-10 | 2022-02-18 |
 | [Rise Up](https://open.spotify.com/track/586o44NmKJ21O7L59CZf7g) | [Supreme Rhythm](https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i), [Nalize](https://open.spotify.com/artist/1BTsLbisYAsQC2exSa74sZ) | [Rise Up](https://open.spotify.com/album/36TPBCoBPeUrlz0kBf39QB) | 6:44 | 2022-09-01 | 2022-09-16 |
 | [Riye Riye](https://open.spotify.com/track/6h2S4HDYSjwFoivILir8ON) | [DJ Edit SA](https://open.spotify.com/artist/1qdAAqaY9mEOjAccgvsOWg) | [Riye Riye](https://open.spotify.com/album/2FwJrhI15xsS1r0deYlU9F) | 5:22 | 2022-05-05 | 2022-05-13 |
@@ -549,7 +550,7 @@
 | [Sete \- Nitefreak Remix](https://open.spotify.com/track/0Evni7gpUVEAJn3qE9PNY4) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Nitefreak Remix\)](https://open.spotify.com/album/3yvWSNvxkbUMUnhOLtXfCG) | 3:44 | 2022-12-31 | 2023-01-20 |
 | [Seven Suns \- Original Mix](https://open.spotify.com/track/5Ir0WddjgZ6dmweOqtew1d) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Amen To Afro \(Vol.1\)](https://open.spotify.com/album/5p7CsmdOId830UlugLDzUP) | 6:07 | 2021-11-18 | 2022-01-07 |
 | [Sfede](https://open.spotify.com/track/6OFb2fIb9MLO9MFalHAv2O) | [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Sfede](https://open.spotify.com/album/73QpLmYkPfXgX5cd2eey93) | 5:57 | 2022-09-29 |  |
-| [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-02-23 |  |
+| [Shades Of Love \(feat\. The Joy\) \- Edit](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-02-23 |  |
 | [Shadows](https://open.spotify.com/track/3y8SX859F6mDaEYrhJZZgH) | [just\_leben](https://open.spotify.com/artist/1goS4gdV9d01XZWHDOXcOe) | [Shadows](https://open.spotify.com/album/3G1GbPAQLAcojCinWh1Yfi) | 2:22 | 2022-08-18 | 2022-09-10 |
 | [Shake Shake](https://open.spotify.com/track/21pzxi96LqTjFKThHJBHN9) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Shake Shake](https://open.spotify.com/album/2wPHQFWVD8qvCrXLmX6tmI) | 6:24 | 2022-02-25 | 2022-08-19 |
 | [Shake Shake](https://open.spotify.com/track/4suUslMNWZIwF1pAwtXCDw) | [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Shake Shake](https://open.spotify.com/album/1QHkkRsh1DFBMZRbNDYx3V) | 5:59 | 2022-03-10 | 2022-04-23 |

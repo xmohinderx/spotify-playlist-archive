@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Nemzzz",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Potter Payper",
   "name": "Rap UK",
   "tracks": [
     {
@@ -698,7 +698,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 207083,
       "name": "4 The Win",
       "url": "https://open.spotify.com/track/78UihSJn90VSGBBES12kFL"
@@ -2575,6 +2575,24 @@
     },
     {
       "album": {
+        "name": "Bad Guys",
+        "url": "https://open.spotify.com/album/2aShAWfWaZrxhvJgpU311j"
+      },
+      "artists": [
+        {
+          "name": "Jimmy",
+          "url": "https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Bad Guys",
+      "url": "https://open.spotify.com/track/2Ddl73EZzsLgh3f88aOLbd"
+    },
+    {
+      "album": {
         "name": "Bad Luck",
         "url": "https://open.spotify.com/album/497LTCtceTdLMUNMFvplyB"
       },
@@ -3218,6 +3236,24 @@
       "duration_ms": 207692,
       "name": "Behave",
       "url": "https://open.spotify.com/track/6yDbOs96pAla0GCvI5ilAk"
+    },
+    {
+      "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/1Mvex53YBzYORFFs8dCF6N"
+      },
+      "artists": [
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104467,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/3iSgrKma1x5hoMrY3HL4bY"
     },
     {
       "album": {
@@ -6286,7 +6322,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 147512,
       "name": "Covering My Ears (feat. Naughty Boy & wewantwraiths)",
       "url": "https://open.spotify.com/track/1M3VBabFRFPZnO3FB0P4JA"
@@ -6745,6 +6781,36 @@
     },
     {
       "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/2IhLU2znWzCRnwUthzjrRe"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191228,
+      "name": "Dancer (feat. Noizy, Rondodasosa & Capo Plaza)",
+      "url": "https://open.spotify.com/track/57ubCgw0giJhVSayXBJ0xH"
+    },
+    {
+      "album": {
         "name": "Dancing On Ice (feat. Nafe Smallz & M Huncho)",
         "url": "https://open.spotify.com/album/7orWO4t6P5iNNB6K5hQ80E"
       },
@@ -7148,6 +7214,28 @@
       "duration_ms": 161682,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/6ELFxOoIfp4A0yK7wFEFsv"
+    },
+    {
+      "album": {
+        "name": "Didn't Know",
+        "url": "https://open.spotify.com/album/3ySrycma1QFvtwpOWApoYd"
+      },
+      "artists": [
+        {
+          "name": "Double Lz",
+          "url": "https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS"
+        },
+        {
+          "name": "OFB",
+          "url": "https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148401,
+      "name": "Didn't Know",
+      "url": "https://open.spotify.com/track/2Ymg4f4myAgaWQMgwjfqA3"
     },
     {
       "album": {
@@ -9090,7 +9178,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 215342,
       "name": "Extra Sleeve",
       "url": "https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB"
@@ -11056,6 +11144,24 @@
       "duration_ms": 156000,
       "name": "Hate You, I Love You",
       "url": "https://open.spotify.com/track/6ZLc2SAYbyqXTH4pZOfYVL"
+    },
+    {
+      "album": {
+        "name": "Heart On Ice",
+        "url": "https://open.spotify.com/album/3apkPEshOw9wZ3mRrsDcOO"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145306,
+      "name": "Heart On Ice",
+      "url": "https://open.spotify.com/track/3EyUyo7yyRXAvkK30ivfkH"
     },
     {
       "album": {
@@ -14150,7 +14256,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 149156,
       "name": "Loose Part 2",
       "url": "https://open.spotify.com/track/060r6Jnv9v1oskexnCDCZj"
@@ -15941,6 +16047,24 @@
     },
     {
       "album": {
+        "name": "Multifaceted",
+        "url": "https://open.spotify.com/album/6g44Y0VIzxPzSSnKtEhQfA"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Multifaceted",
+      "url": "https://open.spotify.com/track/2ZTvseiCli9LgJrlll0Cwf"
+    },
+    {
+      "album": {
         "name": "The Dark Horse",
         "url": "https://open.spotify.com/album/0rlfRFd3FInUqENKdBYind"
       },
@@ -17592,7 +17716,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 144657,
       "name": "One Punch",
       "url": "https://open.spotify.com/track/1XPWc7aJDh9F3F2R9RwzdB"
@@ -18644,7 +18768,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 160000,
       "name": "Pisces",
       "url": "https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP"
@@ -20136,7 +20260,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 177021,
       "name": "Right Dere",
       "url": "https://open.spotify.com/track/43BFBqFmzGhifDFDnXrPmX"
@@ -21324,6 +21448,28 @@
       "duration_ms": 174000,
       "name": "Shadeborough",
       "url": "https://open.spotify.com/track/2YGQyG0aWQJSrh9TMXLNgz"
+    },
+    {
+      "album": {
+        "name": "Sharks 2",
+        "url": "https://open.spotify.com/album/2eim6IgsjGlp66tnJIbXPk"
+      },
+      "artists": [
+        {
+          "name": "Youngs Teflon",
+          "url": "https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv"
+        },
+        {
+          "name": "Tiny Boost",
+          "url": "https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195463,
+      "name": "Sharks 2",
+      "url": "https://open.spotify.com/track/6Yvl6MWCYCanPd9rlovqZw"
     },
     {
       "album": {
@@ -23113,6 +23259,24 @@
     },
     {
       "album": {
+        "name": "Inconspicuous",
+        "url": "https://open.spotify.com/album/4jpYJSFhqRIhuqHd5WVPFO"
+      },
+      "artists": [
+        {
+          "name": "Rv",
+          "url": "https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "Survival Mode",
+      "url": "https://open.spotify.com/track/5kjKORZCeOZcEBhahKrFDi"
+    },
+    {
+      "album": {
         "name": "Murk With A Mouth",
         "url": "https://open.spotify.com/album/1JB6fnwSLrP8YJ10XWWQk6"
       },
@@ -23424,7 +23588,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 181118,
       "name": "Tears In My Amiri's",
       "url": "https://open.spotify.com/track/11jbH68hBKmLTTsGP0YvWG"
@@ -23947,6 +24111,24 @@
     },
     {
       "album": {
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/6rU9sjJKP9Cz3S3pcQDGrA"
+      },
+      "artists": [
+        {
+          "name": "MoStack",
+          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175610,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/0FqkrBEcZaKDOtYjd5iMz7"
+    },
+    {
+      "album": {
         "name": "The Worst",
         "url": "https://open.spotify.com/album/649x6RShwv8rO3BemVsdbs"
       },
@@ -24428,7 +24610,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 199757,
       "name": "Too Many Lies",
       "url": "https://open.spotify.com/track/2C44bXptVuQcbh7KAEI9UN"
@@ -25255,6 +25437,32 @@
     },
     {
       "album": {
+        "name": "VEX (FEAT. GHETTS & BACKROAD GEE)",
+        "url": "https://open.spotify.com/album/74ZPUtGu9yZ0kf7ctOHiDS"
+      },
+      "artists": [
+        {
+          "name": "Avelino",
+          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        },
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223075,
+      "name": "VEX (FEAT. GHETTS & BACKROAD GEE)",
+      "url": "https://open.spotify.com/track/5W3J4sNMvx5H7ZjWobJvls"
+    },
+    {
+      "album": {
         "name": "Villain",
         "url": "https://open.spotify.com/album/2aGFkdt9ic0SfrPrHoHfLb"
       },
@@ -26040,7 +26248,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 154285,
       "name": "Who Else (feat. Unknown T)",
       "url": "https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R"

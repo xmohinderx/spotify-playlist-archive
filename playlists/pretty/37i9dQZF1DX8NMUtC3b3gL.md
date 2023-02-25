@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,911 likes - 189 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,950 likes - 189 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 16 | [peach lemonade](https://open.spotify.com/track/1bxSJhTnmLyZ9QMzJ2szHB) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [lemonade on vacation](https://open.spotify.com/album/2HJhRDwE9vfTx4rRtpKLGQ) | 4:00 |
 | 17 | [grind](https://open.spotify.com/track/54wyyYVcwwBYbJzYBmaQc8) | [Zibi & Bibi](https://open.spotify.com/artist/1Pkve0Wq80BendrhjGGYmo) | [Attitudes Of November](https://open.spotify.com/album/7q69vhnV5YDtI5fQTp1UAE) | 2:05 |
 | 18 | [Essence](https://open.spotify.com/track/6TsfMWf0hyOq0ReOC1tPo2) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Essence](https://open.spotify.com/album/0ufT8iY30Fvqvr5DAU8LOw) | 2:36 |
-| 19 | [haze avenue](https://open.spotify.com/track/12YAU1BzBei8xXoSu10Ae8) | [Kenobi wan](https://open.spotify.com/artist/5HYod5WZrhCiF1AN86T895) | [haze avenue](https://open.spotify.com/album/3LGb9f9WeXASzdKanaiPdu) | 2:08 |
+| 19 | [haze avenue](https://open.spotify.com/track/12YAU1BzBei8xXoSu10Ae8) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [haze avenue](https://open.spotify.com/album/3LGb9f9WeXASzdKanaiPdu) | 2:08 |
 | 20 | [Solitaire](https://open.spotify.com/track/4SBrpMj6oa4keWYoXPklyL) | [Loe Moe](https://open.spotify.com/artist/7wKZzfuAPYrjb3kMCQX6II) | [Solitaire](https://open.spotify.com/album/4wub7J4LP8LsMC1Zj4kuDR) | 2:05 |
 | 21 | [Aerials](https://open.spotify.com/track/5wvxuJbX7HoiLHESWpfYlG) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Framtid](https://open.spotify.com/album/6yBBd3lDDMRtHZLId0cEKw) | 2:07 |
 | 22 | [Soft Break](https://open.spotify.com/track/7wUsYTdSrTZUTkAeu9JXnU) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Soft Break](https://open.spotify.com/album/26e0W4CJZT6KL5BUrLOA8F) | 1:52 |

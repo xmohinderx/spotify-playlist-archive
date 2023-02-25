@@ -4,10 +4,11 @@
 
 > Uma seleção especial do jazz nacional\. Foto: Amaro Freitas
 
-112 songs - 9 hr 23 min
+113 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Thousand Candles](https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [A Thousand Candles](https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa) | 3:35 | 2023-02-24 |  |
 | [Adrian, Ali and Gregory](https://open.spotify.com/track/17wNarAwouBJco5zx1LDKb) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [João Donato JID007](https://open.spotify.com/album/03q6oK9euB25TGC2Jp8uPZ) | 2:23 | 2022-07-08 |  |
 | [Afluente do Futuro](https://open.spotify.com/track/2U6VHc3DqSLhLrtTRNkFCT) | [Edson Natale](https://open.spotify.com/artist/04QptMACnngQNIRS51aUZd), [Nailor "Proveta" Azevedo](https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu), [Ronaldo Gama](https://open.spotify.com/artist/4MmP9KrhoxvjhGQXSeoDON), [Vanessa Moreno](https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4), [Maurício Badé](https://open.spotify.com/artist/0Kc6qEC575UlULLb5g5zFQ), [Saxofonando](https://open.spotify.com/artist/7nwfGsfk4taAdccx5MZSXw) | [Âmbar \- os Afluentes da Música](https://open.spotify.com/album/59N6VBsreoqwUhdqxYfClk) | 5:10 | 2022-07-08 |  |
 | [April Child](https://open.spotify.com/track/2Pr9tkPMbPA7D3E0SoL7Jz) | [Marcelo Mariano](https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk), [Marcos Romera](https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV), [Joao Parahyba](https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW) | [April Child](https://open.spotify.com/album/1DnGzEZtXWhtgBF4rFwlLc) | 7:04 | 2022-07-08 |  |
@@ -116,7 +117,7 @@
 | [Um Dia de Sol](https://open.spotify.com/track/7JLWHxhfQCcKrLp36egd0C) | [Daniel Vissotto](https://open.spotify.com/artist/5huBVfezCplC97aiRoKKTw) | [Um Dia de Sol](https://open.spotify.com/album/7pM76uWwQpiFLtnAnFMTHt) | 3:51 | 2022-07-08 | 2022-12-03 |
 | [Varanda](https://open.spotify.com/track/2PP9G7eHdEKrf0EYWkDlJV) | [Noa Stroeter](https://open.spotify.com/artist/47Dgmd16sHCg8VgX8jpyGg) | [Varanda](https://open.spotify.com/album/2LZJ1jHPIhZS28j6HDXJnT) | 5:45 | 2022-07-08 |  |
 | [Vila Bela](https://open.spotify.com/track/5D3PlAFLpjhT8AHouXJpsR) | [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Sankofa](https://open.spotify.com/album/5cT5wndmYkuba7x4bnvIRf) | 4:44 | 2022-07-08 |  |
-| [Você \- Meet Tetel](https://open.spotify.com/track/2OhheDxsqV86Q6gRXW1PsK) | [Tetel Di Babuya](https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ), [Daniel Grajew](https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t) | [Você \(Meet Tetel\)](https://open.spotify.com/album/6e1SL6mPOLbb5fnlVLUQ2W) | 3:39 | 2022-07-08 |  |
+| [Você \- Meet Tetel](https://open.spotify.com/track/2OhheDxsqV86Q6gRXW1PsK) | [Tetel Di Babuya](https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ), [Daniel Grajew](https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t) | [Você \(Meet Tetel\)](https://open.spotify.com/album/6e1SL6mPOLbb5fnlVLUQ2W) | 3:39 | 2022-07-08 | 2023-02-25 |
 | [When the Answer Is a Question](https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m) | [João Taubkin](https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc), [Rodrigo Bragança](https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce), [Sérgio Reze](https://open.spotify.com/artist/2n7NzG02khB453J56v7q2m), [Zé Godoy](https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg) | [When the Answer Is a Question](https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6) | 7:37 | 2022-07-08 |  |
 | [With Ernesto](https://open.spotify.com/track/3ufrJqihyJzskjw6NVL7RD) | [João Maldonado Quintet](https://open.spotify.com/artist/5UgTMuuGDGG2TOCmMIPzzy) | [Beauty](https://open.spotify.com/album/5v9ejdE6VaWwJ3rlCLC0lo) | 4:30 | 2022-07-08 |  |
 | [¡Ándale!](https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi) | [the flux trio](https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2) | [¡Ándale!](https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu) | 3:22 | 2022-07-08 |  |

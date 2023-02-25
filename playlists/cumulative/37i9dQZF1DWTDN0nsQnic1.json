@@ -629,6 +629,28 @@
     },
     {
       "album": {
+        "name": "kaikou",
+        "url": "https://open.spotify.com/album/0PE0VFv0hw4mOR2YzWtLvQ"
+      },
+      "artists": [
+        {
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+        },
+        {
+          "name": "Yusuke Kurahara",
+          "url": "https://open.spotify.com/artist/4xKBOSQPNQJGUgDF8JBpSp"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249795,
+      "name": "kaikou",
+      "url": "https://open.spotify.com/track/1AesTrOgTs32vdG8qTnKMq"
+    },
+    {
+      "album": {
         "name": "work_1",
         "url": "https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs"
       },
@@ -644,7 +666,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 87216,
       "name": "Kazuki_2",
       "url": "https://open.spotify.com/track/4Q9XEpUEHOmhP0ThwFhgSo"

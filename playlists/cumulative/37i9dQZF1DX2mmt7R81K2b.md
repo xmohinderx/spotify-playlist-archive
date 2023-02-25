@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-82 songs - 7 hr 26 min
+83 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Beethoven's Piano Sonata No\. 8, Pathetique](https://open.spotify.com/track/08kouBwoppDP70MmwiNUPr) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 5:13 | 2022-07-07 |  |
 | [Beethoven's Piano Sonata No\. 8, Pathetique](https://open.spotify.com/track/770ue5LMRBMepzOYRR1w4T) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Full Focus](https://open.spotify.com/album/4E7rG83GDh32JwCzOtwCiV) | 5:13 | 2022-10-14 | 2022-11-13 |
 | [Beltà poi che t'assenti \(Arr\. for 2 Pianos\)](https://open.spotify.com/track/3V0UWSP292tAoj4SeLI5eZ) | [Jenny Lin](https://open.spotify.com/artist/5ltTFQjDQXwqvBo5kmhGOM), [Carlo Gesualdo](https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF), [Uri Caine](https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA) | [The Spirio Sessions](https://open.spotify.com/album/2R7KLL90rj7MQZctiKbRmr) | 2:59 | 2021-12-02 |  |
+| [Cavalleria rusticana : Intermezzo \- Arr\. for Piano and Double Bass](https://open.spotify.com/track/0DxKfiL6ETJvQSXrzRoBYJ) | [Pietro Mascagni](https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8), [PianoBasso](https://open.spotify.com/artist/0lFzJ6s1Rip3L1KbqTDmP7) | [Cavalleria rusticana \- Intermezzo](https://open.spotify.com/album/4rLbWMAkZYchDxnwcfAxtu) | 3:12 | 2023-02-24 |  |
 | [Chopin: Prelude Op\. 28 \#4 \- Live in Paris / 2018](https://open.spotify.com/track/0BLJ7JRKXTRNU5r1OiXNiL) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Plays](https://open.spotify.com/album/0bCQBbSG0KGv9X5pb4IQY0) | 4:14 | 2021-12-02 |  |
 | [Clair de Lune](https://open.spotify.com/track/0kP8p4d5FIkXZicuWzXZNz) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Impromptu](https://open.spotify.com/album/59d7F7J0Ib4e2YEVWS1WQs) | 7:40 | 2022-07-07 |  |
 | [Clair De Lune](https://open.spotify.com/track/5oEUDWZ881K3A2HH82ZIQ4) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Impromptu](https://open.spotify.com/album/1Tvn7vVEQu9RAaLgulrYBe) | 7:40 | 2021-12-02 | 2022-07-29 |

@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Koun",
+        "url": "https://open.spotify.com/album/3VHCM2iQcOgqHgHcHJmwqv"
+      },
+      "artists": [
+        {
+          "name": "Joseph Attieh",
+          "url": "https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Koun",
+      "url": "https://open.spotify.com/track/3mlQfTMo8VmL3l8tXjAX8j"
+    },
+    {
+      "album": {
         "name": "La Ouyounak El Helwin",
         "url": "https://open.spotify.com/album/2ImEgj0cbjbbi5JR3mAsKA"
       },
@@ -1024,6 +1042,24 @@
       "duration_ms": 204533,
       "name": "Nater",
       "url": "https://open.spotify.com/track/3xGfWGr12b6j86gUmhwesD"
+    },
+    {
+      "album": {
+        "name": "Nazele Big Champagne",
+        "url": "https://open.spotify.com/album/4d2GiRstJ8mVIMjtSwTRYb"
+      },
+      "artists": [
+        {
+          "name": "Blu Fiefer",
+          "url": "https://open.spotify.com/artist/2JLEPctdP7utmaEBfRhK6H"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Nazele Big Champagne",
+      "url": "https://open.spotify.com/track/3y6b0RXNW5edjwLxdvojMB"
     },
     {
       "album": {

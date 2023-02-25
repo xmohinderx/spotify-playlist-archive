@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > 2008 \- an iconic year! Can you believe it's 15 years since these bops \#SpotifyTBT  Cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,177,157 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,178,884 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/3D0OJtFqBqjgfbsangQU2L"
+      },
+      "artists": [
+        {
+          "name": "Gaz Mawete",
+          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
+        },
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202767,
+      "name": "500",
+      "url": "https://open.spotify.com/track/1YieXGaS4c81P4x02oUl61"
+    },
+    {
+      "album": {
         "name": "Achour",
         "url": "https://open.spotify.com/album/2UsKaMwVBCtXLRAotSqu0c"
       },
@@ -128,7 +150,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 367507,
       "name": "Afriquoi - Balobi (Zed Bias Dub Mix)",
       "url": "https://open.spotify.com/track/0LhiaTtuCHYLkVA3hJCA8s"
@@ -1016,7 +1038,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 215165,
       "name": "D\u00e9penser",
       "url": "https://open.spotify.com/track/0PaTtFEQVVzknrmkAxpEk9"
@@ -1260,6 +1282,24 @@
       "duration_ms": 266666,
       "name": "Gbadolite",
       "url": "https://open.spotify.com/track/0mLtyubIbBG49c9ZMyJdOD"
+    },
+    {
+      "album": {
+        "name": "General",
+        "url": "https://open.spotify.com/album/7zIogOZFOtJ3zQzB4Obmr3"
+      },
+      "artists": [
+        {
+          "name": "Sepho M",
+          "url": "https://open.spotify.com/artist/4xlvdyNJ8KwXdrmCvParRE"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185719,
+      "name": "General",
+      "url": "https://open.spotify.com/track/0lDx9Br2w3nX5loNu8OSMV"
     },
     {
       "album": {
@@ -1544,7 +1584,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 322773,
       "name": "Lekela Muadi",
       "url": "https://open.spotify.com/track/6PLr81r85eFZMivn5aHrOh"
@@ -1722,7 +1762,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 218280,
       "name": "Lolita",
       "url": "https://open.spotify.com/track/50P2sl58J2SGimBtMAuYmz"
@@ -1805,6 +1845,28 @@
     },
     {
       "album": {
+        "name": "Archeology",
+        "url": "https://open.spotify.com/album/6MGRxSMhxXYkB1yEqb6Z3h"
+      },
+      "artists": [
+        {
+          "name": "Montparnasse Musique",
+          "url": "https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG"
+        },
+        {
+          "name": "Menga Waku",
+          "url": "https://open.spotify.com/artist/2wuuIEeoqLCf3WqKJw2TO3"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236714,
+      "name": "Malele",
+      "url": "https://open.spotify.com/track/0huJouuP2ufEmxbTulhdXF"
+    },
+    {
+      "album": {
         "name": "Malele",
         "url": "https://open.spotify.com/album/0YgwuVtiEGQVpf4V8gJR2G"
       },
@@ -1820,7 +1882,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 236714,
       "name": "Malele",
       "url": "https://open.spotify.com/track/4SiRdXcs6gAfWaaGJwXvnq"
@@ -1926,6 +1988,24 @@
       "duration_ms": 208407,
       "name": "Misu na misu",
       "url": "https://open.spotify.com/track/0rEnLlgpNdxntNU7irVb51"
+    },
+    {
+      "album": {
+        "name": "Mobulu te",
+        "url": "https://open.spotify.com/album/5R3lpXwUrTOTZ3WX2Zx5ZL"
+      },
+      "artists": [
+        {
+          "name": "Jupiter & Okwess",
+          "url": "https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226431,
+      "name": "Mobulu te",
+      "url": "https://open.spotify.com/track/5qd0QJrlKaoGyi4BWXx3Sa"
     },
     {
       "album": {
@@ -2224,6 +2304,24 @@
       "duration_ms": 172427,
       "name": "Nina",
       "url": "https://open.spotify.com/track/1W5DSRAV2v550mvABI4ALR"
+    },
+    {
+      "album": {
+        "name": "No No",
+        "url": "https://open.spotify.com/album/7a0U6MdaIRecUdfwy749GX"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kalume",
+          "url": "https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234090,
+      "name": "No No",
+      "url": "https://open.spotify.com/track/1Frpb7u9lv3F12FoSlCoad"
     },
     {
       "album": {

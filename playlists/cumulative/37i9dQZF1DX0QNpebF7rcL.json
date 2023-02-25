@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 216466,
       "name": "Hey Sweet Mama",
       "url": "https://open.spotify.com/track/1MOMr9SOh60lG2LH2Q6KcR"
@@ -2134,6 +2134,28 @@
       "duration_ms": 245930,
       "name": "In Blood",
       "url": "https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9"
+    },
+    {
+      "album": {
+        "name": "In My Soul",
+        "url": "https://open.spotify.com/album/7K3JyQeEB3L6lmNYTkmQDr"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        },
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287640,
+      "name": "In My Soul",
+      "url": "https://open.spotify.com/track/4DO9pPMq8PFhWFo4IVVveA"
     },
     {
       "album": {

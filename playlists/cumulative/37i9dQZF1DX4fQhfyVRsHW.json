@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Eternals",
+        "url": "https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z"
+      },
+      "artists": [
+        {
+          "name": "Sweep Bliss",
+          "url": "https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134369,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/3ynjx5qNqunqg3x9HxW01h"
+    },
+    {
+      "album": {
         "name": "Breath Of The Wilderness",
         "url": "https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK"
       },
@@ -2126,6 +2144,24 @@
       "duration_ms": 174166,
       "name": "The Wonder of Nature",
       "url": "https://open.spotify.com/track/5Ib96cyGrJO5UCHepKSwge"
+    },
+    {
+      "album": {
+        "name": "Translucent - Sound Bath",
+        "url": "https://open.spotify.com/album/2uTOIGnrD5GLz8ejPYdLJC"
+      },
+      "artists": [
+        {
+          "name": "Flowing Motion",
+          "url": "https://open.spotify.com/artist/0QbsULUz7uLr6JGXyAMIot"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159857,
+      "name": "Translucent - Sound Bath",
+      "url": "https://open.spotify.com/track/5tEpSsjhDM1YUYDweyDifC"
     },
     {
       "album": {

@@ -1795,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Jalwa",
+        "url": "https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279183,
+      "name": "Maharani Jinda'n",
+      "url": "https://open.spotify.com/track/2pZr3Y15OigV717Lgna5o2"
+    },
+    {
+      "album": {
         "name": "Main Kaise Kahoon",
         "url": "https://open.spotify.com/album/6OgN2u5FuqLG2emWjx4IpX"
       },

@@ -341,6 +341,28 @@
     },
     {
       "album": {
+        "name": "Cavalleria rusticana - Intermezzo",
+        "url": "https://open.spotify.com/album/4rLbWMAkZYchDxnwcfAxtu"
+      },
+      "artists": [
+        {
+          "name": "Pietro Mascagni",
+          "url": "https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8"
+        },
+        {
+          "name": "PianoBasso",
+          "url": "https://open.spotify.com/artist/0lFzJ6s1Rip3L1KbqTDmP7"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192946,
+      "name": "Cavalleria rusticana : Intermezzo - Arr. for Piano and Double Bass",
+      "url": "https://open.spotify.com/track/0DxKfiL6ETJvQSXrzRoBYJ"
+    },
+    {
+      "album": {
         "name": "Plays",
         "url": "https://open.spotify.com/album/0bCQBbSG0KGv9X5pb4IQY0"
       },

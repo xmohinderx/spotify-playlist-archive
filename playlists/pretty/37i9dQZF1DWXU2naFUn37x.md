@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Aggiornata ogni venerdì\. Villa, Linch, Andry, Tony, Slings e Mambo in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,581 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,955 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 2 | [Pararara](https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Pararara](https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q) | 2:43 |
 | 3 | [Arai \(feat\. Capo Plaza\)](https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 3:01 |
 | 4 | [Tirana \(feat\. Finem\)](https://open.spotify.com/track/5OSdAnnPdKg2KvsUjL1uXl) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50) | [Salvatore Vive](https://open.spotify.com/album/7H6877riJIFSominCYGZx8) | 2:37 |
-| 5 | [Dancer \(feat\. Noizy, Rondodasosa & Capo Plaza\)](https://open.spotify.com/track/5092WBFsPhz41OsJJL6HRa) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Dancer \(feat\. Noizy, Rondodasosa & Capo Plaza\)](https://open.spotify.com/album/5iYD4DOP1xbIf03042AraN) | 3:11 |
+| 5 | [Dancer \(feat\. Noizy, Rondodasosa & Capo Plaza\)](https://open.spotify.com/track/57ubCgw0giJhVSayXBJ0xH) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [One Of A Kind](https://open.spotify.com/album/2IhLU2znWzCRnwUthzjrRe) | 3:11 |
 | 6 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 |
 | 7 | [BRUTTE COSE \(feat\. MINUR\)](https://open.spotify.com/track/48S401yC1PCMmueiXPuB6F) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [BRUTTE COSE \(feat\. MINUR\)](https://open.spotify.com/album/5JFv3cliyAn44LE6HeYSID) | 1:34 |
 | 8 | [GanGa \(feat\. Baby Gang\)](https://open.spotify.com/track/4lZ87DJUjjAEcOzF6Uhyfj) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [NELLA CASA DI DIO \(feat\. Tony Effe, Paky & J Lord\)](https://open.spotify.com/track/0ZUbfpKnLJrbcySAfFPIcN) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [X2 DELUXE](https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6) | 3:01 |
 | 50 | [Non è un gioco](https://open.spotify.com/track/5ie6qbpqdvq637m91zl4an) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ) | [Non è un gioco](https://open.spotify.com/album/3PbWmisvxgnTLY0ZX094aM) | 2:12 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMGQ2OTdlNWU1MmU2NDA5OThmNjFhZDU0NTAwMGJiNjBj`
+Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDExNDYzZmJjZWU1N2MzYmE0MTQ5OTgyNzg4Y2RlOTQz`

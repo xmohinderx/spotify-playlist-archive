@@ -1,6 +1,6 @@
 {
   "description": "Gentle, relaxing <a href=\"spotify:genre:classical\">classical</a> music.",
-  "num_followers": 267966,
+  "num_followers": 268035,
   "original_name": "Gentle Classical",
   "owner": {
     "name": "Spotify",
@@ -96,12 +96,12 @@
           "url": "https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x"
         },
         {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
           "name": "Berliner Philharmoniker",
           "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
         }
       ],
       "duration_ms": 537426,

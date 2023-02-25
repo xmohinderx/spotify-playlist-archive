@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-74 songs - 4 hr 43 min
+75 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [PUNISH](https://open.spotify.com/track/1fOYFkUgtbPG2oK2j6SRcK) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PUNISH](https://open.spotify.com/album/0Tndqp61XJ31Ht6o7IC5JN) | 2:50 | 2022-04-11 |  |
 | [Push](https://open.spotify.com/track/0gigDzykvM4fOmCmSqVpGo) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Season High](https://open.spotify.com/album/30IYNZBjrCEcRb5MRwUm9b) | 3:06 | 2022-04-11 |  |
 | [RoboCop](https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 4:34 | 2022-04-11 |  |
-| [Rose Quartz](https://open.spotify.com/track/0u1yF7JbPlDjqWUKZk4FaR) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything in Return](https://open.spotify.com/album/6x1wyRPGlqGJ1b8uQ9UQdX) | 4:13 | 2022-04-11 |  |
+| [Rose Quartz](https://open.spotify.com/track/0u1yF7JbPlDjqWUKZk4FaR) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything in Return](https://open.spotify.com/album/6x1wyRPGlqGJ1b8uQ9UQdX) | 4:13 | 2022-04-11 | 2023-02-25 |
+| [Rose Quartz](https://open.spotify.com/track/4zhQpcdgO2OFUMRzcgSJu1) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything in Return](https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq) | 4:13 | 2022-04-11 |  |
 | [Rush \- Lil Silva Remix](https://open.spotify.com/track/6pi4cYFpxWkGxKrj0RmjWW) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [New Me, Same Us Remix EP](https://open.spotify.com/album/6k1Dz3KDGr2XsWJ2qArace) | 3:29 | 2022-04-11 |  |
 | [Scripture](https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Scripture](https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX) | 4:11 | 2022-04-11 |  |
 | [Stevie](https://open.spotify.com/track/2VH9zir3JjJNDEECSKgvFd) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Stevie](https://open.spotify.com/album/4RYXNq7msQqx3CFPGVY0x3) | 4:03 | 2022-04-11 |  |

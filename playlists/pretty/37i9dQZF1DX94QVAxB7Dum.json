@@ -1,12 +1,12 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 665798,
+  "num_followers": 666042,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTcyMDkzNSwwMDAwMDAwMDgwYmExMzNmOGE2OGZkMmUyNDVkM2RmYmU3ZDliMmI1",
+  "snapshot_id": "MTY2OTcyMDkzNSwwMDAwMDAwMDY1NDRhMzhjNjY4ZTFlYTE2OWRlN2Q4OTFmYWYxOWNl",
   "tracks": [
     {
       "added_at": "2021-04-29 10:16:48",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Super Blues, Vol.1",
-        "url": "https://open.spotify.com/album/48MRLdjWTY8ycSSXC5OV67"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 139026,
-      "name": "Wish Someone Would Care",
-      "url": "https://open.spotify.com/track/0EP7T1h041oiEfkNCqbST2"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "At The Close Of A Century",
         "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 313266,
       "name": "Boogie On Reggae Woman",
       "url": "https://open.spotify.com/track/1xTfQiHbhB2Bj2B9dlAojb"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "Super Blues, Vol.1",
+        "url": "https://open.spotify.com/album/48MRLdjWTY8ycSSXC5OV67"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 139026,
+      "name": "Wish Someone Would Care",
+      "url": "https://open.spotify.com/track/0EP7T1h041oiEfkNCqbST2"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "See See Rider",
-        "url": "https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 150426,
-      "name": "See See Rider",
-      "url": "https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "Who's Making Love...",
         "url": "https://open.spotify.com/album/3ZCzcCgiSwoUB2czLBWmGJ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 166066,
       "name": "Who's Making Love",
       "url": "https://open.spotify.com/track/2DxX9x7Cmywikp14l1YUdk"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "See See Rider",
+        "url": "https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 150426,
+      "name": "See See Rider",
+      "url": "https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO"
     },
     {
       "added_at": "2021-04-29 10:16:48",

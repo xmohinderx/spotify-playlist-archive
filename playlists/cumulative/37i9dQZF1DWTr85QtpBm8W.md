@@ -4,7 +4,7 @@
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-110 songs - 9 hr 5 min
+111 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Muim \(Colleen Mix\)](https://open.spotify.com/track/4GN0WoIfo80dMHkN0BaOpT) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd), [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Utopía](https://open.spotify.com/album/13erHC29vAcOrFeLe7cGJ6) | 4:29 | 2022-08-09 |  |
 | [N.L.T.](https://open.spotify.com/track/3OIRQC5qvLCXwJzj9JC1k2) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Altar](https://open.spotify.com/album/0v2IQBEPQqlKFiAa5rj1AC) | 3:49 | 2022-08-09 |  |
 | [New Horizons](https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp) | [Netherworld](https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN) | [Mørketid](https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp) | 9:23 | 2022-08-17 |  |
-| [Night Bus](https://open.spotify.com/track/02M7FV29TMBj8GSxECo5Bm) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/38MtIlsByS3HzNX7FrfEfF) | 2:20 | 2022-08-11 |  |
+| [Night Bus](https://open.spotify.com/track/3dVdnRZ0LGOfNUp6bxfWKI) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/6WNWQa1Is48wF6ggW4TzC4) | 2:13 | 2022-12-30 |  |
+| [Night Bus](https://open.spotify.com/track/02M7FV29TMBj8GSxECo5Bm) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/38MtIlsByS3HzNX7FrfEfF) | 2:20 | 2022-08-11 | 2023-02-25 |
 | [Opalescent](https://open.spotify.com/track/0fZXClbtHvHG0FDWpQy1wg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 2:11 | 2022-08-09 |  |
 | [Oto](https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Cendre](https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe) | 3:49 | 2022-08-09 |  |
 | [Part 1.2](https://open.spotify.com/track/4fo5POX7jgXpz44NsElSBr) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Guðmundur Sigurðsson](https://open.spotify.com/artist/3q7TrFzGVWfKBiUDvvuh9o), [Hörður Bragason](https://open.spotify.com/artist/0whUojBZfM3kiNAY1pjHGC), [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh), [Matthías M.D\. Hemstock](https://open.spotify.com/artist/5zHY2mTNV5DT1WlMxGyHUz), [Caput Ensemble](https://open.spotify.com/artist/48XBOXSqnwaCzpB1wAOaIT), [Guðni Franzson](https://open.spotify.com/artist/4TZBoRGUpsHYhAmnQt5KeV) | [Virðulegu forsetar](https://open.spotify.com/album/4Z1mxIr5W6e6udtQOztJK7) | 1:18 | 2022-08-09 |  |

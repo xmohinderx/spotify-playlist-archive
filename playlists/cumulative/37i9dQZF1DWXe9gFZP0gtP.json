@@ -2065,6 +2065,24 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/5MX9x3uO3SdV7RZrRucphr"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Haugen",
+          "url": "https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134444,
+      "name": "From Within",
+      "url": "https://open.spotify.com/track/7bHRDcc88QugeXmnxm3bRM"
+    },
+    {
+      "album": {
         "name": "Nordic Calmness",
         "url": "https://open.spotify.com/album/0fQT7eDWuxAuw7IxcdHsnk"
       },
@@ -2566,6 +2584,24 @@
       "duration_ms": 176000,
       "name": "In een ander leven",
       "url": "https://open.spotify.com/track/537oPrVMaJChPcHDEP83nR"
+    },
+    {
+      "album": {
+        "name": "In Harmony",
+        "url": "https://open.spotify.com/album/5AgJwLtPzlm07edlDfkhGZ"
+      },
+      "artists": [
+        {
+          "name": "Convallaria",
+          "url": "https://open.spotify.com/artist/2LjyHW2buOSieEi3QG4jM4"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171601,
+      "name": "In Harmony",
+      "url": "https://open.spotify.com/track/2UkDPk3YI2SSpW02FOF7XY"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 713203,
+  "num_followers": 713604,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2MzI1NywwMDAwMDAwMDI3ZWI1ZGVmZmUzMGY1NjdlY2NiYzRjZmUzNmRiNWQ1",
+  "snapshot_id": "MTY3Mjc2MzI1NywwMDAwMDAwMGQ1OTM0MTliZGM2OGE1YjYwMjFmNTgzNDJiOWM3ZmYy",
   "tracks": [
     {
       "added_at": "2023-01-03 16:27:37",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Turn Out the Lights",
-        "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 273466,
-      "name": "Appointments",
-      "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Nocturne EP",
         "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 268626,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Turn Out the Lights",
+        "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 273466,
+      "name": "Appointments",
+      "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "In Darkened Rooms",
-        "url": "https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7"
-      },
-      "artists": [
-        {
-          "name": "Sam Airey",
-          "url": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
-        }
-      ],
-      "duration_ms": 322680,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 277653,
       "name": "It Will Come Back",
       "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "In Darkened Rooms",
+        "url": "https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7"
+      },
+      "artists": [
+        {
+          "name": "Sam Airey",
+          "url": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
+        }
+      ],
+      "duration_ms": 322680,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO"
-      },
-      "artists": [
-        {
-          "name": "Seratones",
-          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
-        }
-      ],
-      "duration_ms": 276488,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Broods",
         "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 180067,
       "name": "Sleep Baby Sleep",
       "url": "https://open.spotify.com/track/3wTtsqa040vqNP1dw12m4K"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO"
+      },
+      "artists": [
+        {
+          "name": "Seratones",
+          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
+        }
+      ],
+      "duration_ms": 276488,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Hollowed out Sea",
-        "url": "https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A"
-      },
-      "artists": [
-        {
-          "name": "Ailbhe Reddy",
-          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
-        }
-      ],
-      "duration_ms": 213350,
-      "name": "Distrust",
-      "url": "https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Stretch Your Eyes (Radio Edit)",
         "url": "https://open.spotify.com/album/7zjJtvfDH72QlMgAfBeuhc"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 247379,
       "name": "Stretch Your Eyes - Radio Edit",
       "url": "https://open.spotify.com/track/2As5LUjQxNyXAcQWBUimY2"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Hollowed out Sea",
+        "url": "https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A"
+      },
+      "artists": [
+        {
+          "name": "Ailbhe Reddy",
+          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
+        }
+      ],
+      "duration_ms": 213350,
+      "name": "Distrust",
+      "url": "https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
+        "name": "Never Want to Be In Love",
+        "url": "https://open.spotify.com/album/6UJegFNaAiOqZBaTSBtEaQ"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 213054,
+      "name": "Never Want to Be In Love",
+      "url": "https://open.spotify.com/track/0KPNkGhDgIpS9wVFi7AiUP"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
         "name": "Speaking With Trees",
         "url": "https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 230379,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/0lTmVz7A8YJM2fI9k1iMcV"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
-        "name": "Never Want to Be In Love",
-        "url": "https://open.spotify.com/album/6UJegFNaAiOqZBaTSBtEaQ"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 213054,
-      "name": "Never Want to Be In Love",
-      "url": "https://open.spotify.com/track/0KPNkGhDgIpS9wVFi7AiUP"
     }
   ],
   "unique_name": "Dark & Stormy",

@@ -1972,6 +1972,24 @@
     {
       "album": {
         "name": "Vixen",
+        "url": "https://open.spotify.com/album/72uE8v9IEr0Nv4IAY8FVo8"
+      },
+      "artists": [
+        {
+          "name": "r o s so",
+          "url": "https://open.spotify.com/artist/1gpMfVmjQR8tj5k0LWZ6Qx"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228428,
+      "name": "Vixen",
+      "url": "https://open.spotify.com/track/2JcLrnnCJ93x7sFAZFl5Zb"
+    },
+    {
+      "album": {
+        "name": "Vixen",
         "url": "https://open.spotify.com/album/3EQfecdYQko209sbSGCN8O"
       },
       "artists": [
@@ -1982,7 +2000,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 228428,
       "name": "Vixen",
       "url": "https://open.spotify.com/track/2pb6ojnggCASqe3AWA1Ty2"

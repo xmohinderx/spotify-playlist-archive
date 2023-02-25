@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "Almas",
+        "url": "https://open.spotify.com/album/4ZwuuEgoDjNmM58S91dA39"
+      },
+      "artists": [
+        {
+          "name": "La Silueta Ska",
+          "url": "https://open.spotify.com/artist/2yZDukL7Vwwai8IGPh3WuL"
+        },
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209620,
+      "name": "Almas",
+      "url": "https://open.spotify.com/track/2ghJikYE3GMJ2VAxmyBcRT"
+    },
+    {
+      "album": {
         "name": "Loco amor",
         "url": "https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL"
       },

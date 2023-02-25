@@ -1030,6 +1030,28 @@
     {
       "album": {
         "name": "Again",
+        "url": "https://open.spotify.com/album/5qLqQX0Kv17Vr9u4agfCZb"
+      },
+      "artists": [
+        {
+          "name": "Jason Johnson (DE)",
+          "url": "https://open.spotify.com/artist/5sCukU3sm3DGmPwAgEZVDc"
+        },
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283636,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5pdUA24PlMN1mpSdt5gboo"
+    },
+    {
+      "album": {
+        "name": "Again",
         "url": "https://open.spotify.com/album/7i8Os31pwDb9aDmGnR8V4t"
       },
       "artists": [
@@ -4782,7 +4804,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 303692,
       "name": "Circle of Life",
       "url": "https://open.spotify.com/track/2emqtCpXJnD55QLlsglJYc"
@@ -7954,6 +7976,24 @@
       "duration_ms": 253242,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
+    },
+    {
+      "album": {
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/6DEH1uKcz7I7VJDqlFh0Re"
+      },
+      "artists": [
+        {
+          "name": "Torsten Kanzler",
+          "url": "https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420597,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/3pYaqs4ocy5Tf4sFqkVLh7"
     },
     {
       "album": {
@@ -28209,6 +28249,24 @@
     },
     {
       "album": {
+        "name": "Running / White Walls",
+        "url": "https://open.spotify.com/album/4uefJDQWx5GQr8havtOMuf"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275922,
+      "name": "White Walls",
+      "url": "https://open.spotify.com/track/3CuCZPForUo8r9Cwl8IuW7"
+    },
+    {
+      "album": {
         "name": "Running/White Walls EP",
         "url": "https://open.spotify.com/album/4H4BjITPy4ySL9EnDrWDlq"
       },
@@ -28220,7 +28278,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 275922,
       "name": "White Walls",
       "url": "https://open.spotify.com/track/4ufmFZIkDvgOKRoVC7CmuK"

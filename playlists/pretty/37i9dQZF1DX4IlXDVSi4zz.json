@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 166674,
+  "num_followers": 167258,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk2MDE3MywwMDAwMDAwMDdhNDNlNmM0ODY3ZDdhODk3MzQ5NzhlNzNjZjI2OTJk",
+  "snapshot_id": "MTY3NTk2MDE3MywwMDAwMDAwMDg0MGE3N2JiN2NkZDY3NTgwNmMwMWY1NGQ5YTU1ZWYy",
   "tracks": [
     {
       "added_at": "2022-10-12 15:41:51",
@@ -891,26 +891,6 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
-        "name": "Sci-Fi",
-        "url": "https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 198540,
-      "name": "Sci-Fi",
-      "url": "https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0"
-    },
-    {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/1p3Tbckk09MaXRz3Tf4dRK"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 216000,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1eV81a6H4xDdpi8r2C4tQT"
+    },
+    {
+      "added_at": "2022-10-12 15:41:51",
+      "album": {
+        "name": "Sci-Fi",
+        "url": "https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 198540,
+      "name": "Sci-Fi",
+      "url": "https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0"
     },
     {
       "added_at": "2022-10-12 15:41:51",

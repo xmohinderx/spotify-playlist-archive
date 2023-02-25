@@ -144,8 +144,8 @@
       },
       "artists": [
         {
-          "name": "Derivata",
-          "url": "https://open.spotify.com/artist/2AiZiIawzbASzaIiG3M1bJ"
+          "name": "Kelly Kane",
+          "url": "https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD"
         }
       ],
       "date_added": "2022-07-22",
@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Geek Out",
+        "url": "https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631"
+      },
+      "artists": [
+        {
+          "name": "Gotharoo",
+          "url": "https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107579,
+      "name": "Geek Out",
+      "url": "https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW"
+    },
+    {
+      "album": {
         "name": "Deadringer: Deluxe",
         "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
       },
@@ -560,8 +578,8 @@
       },
       "artists": [
         {
-          "name": "Stratotune",
-          "url": "https://open.spotify.com/artist/4jj5GyEzbV9KzXTu5nXyi0"
+          "name": "Redmoo",
+          "url": "https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu"
         }
       ],
       "date_added": "2022-07-22",
@@ -754,6 +772,24 @@
       "duration_ms": 196173,
       "name": "Listen to your heart",
       "url": "https://open.spotify.com/track/2ov6f8mXppqPHffDiCKZtZ"
+    },
+    {
+      "album": {
+        "name": "RIDING AROUND",
+        "url": "https://open.spotify.com/album/4uzGpc26ZtByWohlYtm5GK"
+      },
+      "artists": [
+        {
+          "name": "Sarah, the Illstrumentalist",
+          "url": "https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128869,
+      "name": "Look How Pretty Today Is",
+      "url": "https://open.spotify.com/track/1r06SNlcN9DeAxngjsSUWt"
     },
     {
       "album": {
@@ -1068,6 +1104,28 @@
       "duration_ms": 215182,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/79MSVviX2SqqLS6murFaYB"
+    },
+    {
+      "album": {
+        "name": "Summerwind",
+        "url": "https://open.spotify.com/album/3uhMWZk6MPkw6Amk2zonai"
+      },
+      "artists": [
+        {
+          "name": "Slipp",
+          "url": "https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Summerwind",
+      "url": "https://open.spotify.com/track/1YBb5s7JxiFQV9E7e4QThO"
     },
     {
       "album": {

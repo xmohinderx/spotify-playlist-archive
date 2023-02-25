@@ -4,13 +4,14 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: PNG.
 
-340 songs - 17 hr 5 min
+341 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#\#Stu](https://open.spotify.com/track/6NaNEwnwIa9dqKcwLS7mil) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf), [7](https://open.spotify.com/artist/6hoWo77VBtztMZ5tg5Mioo) | [\#\#Stu](https://open.spotify.com/album/63oJ3UVRUxKZAAkyi3dNnV) | 2:15 | 2022-11-25 | 2023-01-17 |
 | ['TÁS A FAZER O QUÊ?](https://open.spotify.com/track/5zzFAHJvoHNdbxyxmSSn0y) | [dazed lex](https://open.spotify.com/artist/3CEB5Fx5pNe5hlLxjEiwpi), [salvxs](https://open.spotify.com/artist/5Dn3CffS4hYxI3yZXkfS4f) | ['TÁS A FAZER O QUÊ?](https://open.spotify.com/album/4vMrwJJCFKWr7zIBYnXe27) | 2:42 | 2022-11-11 |  |
-| [19!](https://open.spotify.com/track/1cvBR491tb8zqA1IwWWpsV) | [Gabriel.](https://open.spotify.com/artist/4qjIWAWR3QX57zisdqc2i8) | [19!](https://open.spotify.com/album/5hL5E6DcDSlfTPy88AeucD) | 3:13 | 2023-02-10 |  |
+| [19!](https://open.spotify.com/track/1cvBR491tb8zqA1IwWWpsV) | [Gabriel.](https://open.spotify.com/artist/4qjIWAWR3QX57zisdqc2i8) | [19!](https://open.spotify.com/album/5hL5E6DcDSlfTPy88AeucD) | 3:13 | 2023-02-10 | 2023-02-25 |
+| [19!](https://open.spotify.com/track/2yeeaXUNeoyWZgWP7V1rJM) | [Gabriel.](https://open.spotify.com/artist/4qjIWAWR3QX57zisdqc2i8) | [19!](https://open.spotify.com/album/4ffU8X0I3UygCQdiYciIZQ) | 3:13 | 2023-02-10 |  |
 | [2 Caras](https://open.spotify.com/track/2896licIi4DqC6nHDGvFhv) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [2 Caras](https://open.spotify.com/album/1bsGPdayiAx0fAV8FWJQyu) | 2:33 | 2023-01-06 |  |
 | [21](https://open.spotify.com/track/3STWflGC4zHY1fxcnIRhkX) | [Gabriel.](https://open.spotify.com/artist/4qjIWAWR3QX57zisdqc2i8) | [Nova Identidade](https://open.spotify.com/album/5pmLFTH7RwVUVAAzmEzH0R) | 3:41 | 2022-08-25 | 2022-10-07 |
 | [25](https://open.spotify.com/track/5WWfgYSsP6RYaV5bzlAAmy) | [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla) | [25](https://open.spotify.com/album/60Dr8Dp5VwH7cgQIGTPJjG) | 2:51 | 2022-12-23 | 2023-01-21 |

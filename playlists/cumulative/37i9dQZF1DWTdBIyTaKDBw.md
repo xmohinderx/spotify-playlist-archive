@@ -4,7 +4,7 @@
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-190 songs - 11 hr 56 min
+191 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [SNOW](https://open.spotify.com/track/6HsPtlz07NgjDlTLAmXt2c) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [SNOW](https://open.spotify.com/album/3viVqPqPnrjrsUqRyg6QC6) | 4:00 | 2022-05-03 | 2022-07-29 |
 | [Snow Sun](https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp) | [아워멜츠 Hourmelts](https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc) | [Twenties = Love](https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN) | 3:33 | 2022-12-09 | 2023-01-28 |
 | [Snow, You, Flower](https://open.spotify.com/track/0r4oRG61m7d5UW0fR04OTm) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [Herz Catalog \- Snow, You, Flower](https://open.spotify.com/album/1gJLgMtAyUNaQuxqDwLBne) | 4:07 | 2022-05-03 | 2022-07-25 |
+| [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 | 2023-02-25 |  |
 | [Song Request 신청곡 \(feat\. SUGA of BTS\)](https://open.spotify.com/track/57jBcQUCJaIUTRbqBmW7D1) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Song Request 신청곡 \(feat\. SUGA of BTS\)](https://open.spotify.com/album/2CV86ZVlL1h8DofUs7kIL3) | 4:41 | 2022-05-03 | 2022-07-29 |
 | [Song Request 신청곡 \(feat\. SUGA of BTS\)](https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Song Request 신청곡 \(feat\. SUGA of BTS\)](https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0) | 4:41 | 2022-07-22 |  |
 | [Sorry But](https://open.spotify.com/track/3RQYc694ID1yZlcb4O9EqV) | [Jayuro Project](https://open.spotify.com/artist/5dqpQh4BPsFk9P7RieTZXa) | [Sorry But](https://open.spotify.com/album/2VghZ8pNL6aml9CSWFP5sB) | 3:39 | 2022-05-03 | 2022-07-27 |
@@ -170,7 +171,7 @@
 | [When I see you](https://open.spotify.com/track/3reYD1dbHpy1G7BpKyBzTK) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [When I see you](https://open.spotify.com/album/64PaZnR3MjSalwK0Y6CDg2) | 4:56 | 2023-01-10 | 2023-02-22 |
 | [When You Come To My Heart](https://open.spotify.com/track/11Qfz94iFMV0CJ8yapbYZN) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Vol.8\] You Hee yul's Sketchbook 10th Anniversary Project : 4th Voice 'Sketchbook X Hwa Sa'](https://open.spotify.com/album/5l820EUqNJRBTvpsJlTp1n) | 4:00 | 2022-05-03 | 2022-07-29 |
 | [Wind](https://open.spotify.com/track/0oPiNXJVKFp3T5wo6S0nUw) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [OUTRO](https://open.spotify.com/album/6GcK8UwZU9cNBlG5pIWwjS) | 3:11 | 2022-05-03 | 2022-12-10 |
-| [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 | 2022-12-24 |  |
+| [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 | 2022-12-24 | 2023-02-25 |
 | [Wish](https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:59 | 2022-07-22 |  |
 | [Wish 바람](https://open.spotify.com/track/6Bp3075Pu73PpyCYRhHQbB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/3vzUq0hnovgWpP6yfgGtXB) | 3:59 | 2022-05-03 | 2022-07-29 |
 | [With all my heart](https://open.spotify.com/track/5zhOr1qGlSEHhv5XEuzi0j) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Greeting](https://open.spotify.com/album/6o6gPj3oOu3ueWm30egKg3) | 3:05 | 2022-09-07 | 2022-12-10 |

@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-524 songs - 1 day 9 hr 36 min
+526 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [For The First Time](https://open.spotify.com/track/3aIv0tjMJqDzONyBFtUa9g) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [For The First Time](https://open.spotify.com/album/4c35XVvKPCr4X0DrRScKQ4) | 3:17 | 2021-07-09 |  |
 | [Forest Run](https://open.spotify.com/track/7IfFGjE55MtQejeXNPSlpD) | [DJ Plaze](https://open.spotify.com/artist/7pv0fydirVojof7Bs78qMj) | [Forest Run](https://open.spotify.com/album/7bqI8NfwJ4xVglMlcqp3V5) | 1:57 | 2021-11-10 |  |
 | [Forest Run](https://open.spotify.com/track/5d0JsydtOb1hnKi9aoYj1w) | [Village](https://open.spotify.com/artist/6D96m0U03CqX1KdjAwZjm6) | [Forest Run](https://open.spotify.com/album/0Av6ekCI4zyLj20Aw0KVS5) | 3:28 | 2020-10-20\* | 2020-10-30 |
+| [Forwards](https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Forwards](https://open.spotify.com/album/58ZW1Ll7XhQ7vTcZGPsvlr) | 2:58 | 2023-02-24 |  |
 | [Fragaria](https://open.spotify.com/track/5SFYmIfbzjnoQuteQ4CuKi) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Fragaria / Deflexus](https://open.spotify.com/album/07f55XYO4bXC7cnaFz2l2C) | 5:45 | 2021-11-10 | 2022-05-11 |
 | [Free](https://open.spotify.com/track/47DcKTZGe8PKTr8B64bgZM) | [DANEGIAN](https://open.spotify.com/artist/2k1h6uRnsiIMNavFowk5hc) | [Free](https://open.spotify.com/album/7uhejgr38JOpUCH43v0hkz) | 2:19 | 2021-08-25 |  |
 | [Garlic Express \- Original](https://open.spotify.com/track/3jWaDnLrXfWr4x8rGYxbwz) | [Pistol Pete](https://open.spotify.com/artist/2D2jiryTMamF09LqDyLAOW) | [Lampuka 002](https://open.spotify.com/album/2ihoDpND1PA5HjpQ05Q16U) | 6:33 | 2021-01-15 | 2021-10-16 |
@@ -364,6 +365,7 @@
 | [ReFeel](https://open.spotify.com/track/3lH3gaST1vIQs4jsggIdcu) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [ReFeel](https://open.spotify.com/album/3sldh7YxXui82hBwlop5NV) | 3:15 | 2021-01-29 | 2021-05-13 |
 | [Reflections](https://open.spotify.com/track/0dDLF2gNpap74lchtclfr2) | [Ilya Orange](https://open.spotify.com/artist/3GWnzwTAnzpZYIbNhRNhtz) | [Sunday Morning Dub](https://open.spotify.com/album/5x3JDVy2WFttHf185igcNj) | 5:56 | 2022-07-29 | 2023-02-10 |
 | [Reflections](https://open.spotify.com/track/4TbcZUOwyywPPC1gbpnLqW) | [Ilya Orange](https://open.spotify.com/artist/3GWnzwTAnzpZYIbNhRNhtz) | [Sunday Morning Dub](https://open.spotify.com/album/0QD0AJntZBIYlwSwpLNNmd) | 5:56 | 2021-08-25 | 2022-07-29 |
+| [Reflections](https://open.spotify.com/track/5xo6KEG3prSLiz4ttr7HEp) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Reflections](https://open.spotify.com/album/5DBhmrndmyze54wIrskTFX) | 2:37 | 2023-02-24 |  |
 | [Regalade](https://open.spotify.com/track/4PpjapmWSSSrRN79N8DHEL) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [Regalade EP](https://open.spotify.com/album/6WL07WzqVF0PyMlZVkYdV6) | 5:09 | 2021-01-29 | 2021-02-20 |
 | [Rest](https://open.spotify.com/track/4EbfTd8HFoAOF6fiSRVsvT) | [Yim](https://open.spotify.com/artist/79EyYkNpcR3MlT972PZoUc) | [Rest](https://open.spotify.com/album/5Y2NdAYpCSwQdFl0Es9ne2) | 4:03 | 2020-10-20\* | 2021-02-20 |
 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 | 2020-10-20\* | 2022-05-20 |

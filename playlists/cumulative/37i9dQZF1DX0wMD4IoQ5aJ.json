@@ -1715,6 +1715,28 @@
     },
     {
       "album": {
+        "name": "Trust & Faith",
+        "url": "https://open.spotify.com/album/0Pgu7FEdMvIsg1TBamBd5M"
+      },
+      "artists": [
+        {
+          "name": "Transpiritual",
+          "url": "https://open.spotify.com/artist/59taaUJx3Bx2oLgYe8EUjN"
+        },
+        {
+          "name": "WX//CLTV",
+          "url": "https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209315,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/2NhCEoTqHhNagtXy7FodXS"
+    },
+    {
+      "album": {
         "name": "Co/ll-nn/ection",
         "url": "https://open.spotify.com/album/626F8sjLoDYXAwwDakwiAd"
       },
@@ -4388,6 +4410,24 @@
       "duration_ms": 284000,
       "name": "Stay Hazy",
       "url": "https://open.spotify.com/track/6kO1RFWTIgletNVPVj9H5S"
+    },
+    {
+      "album": {
+        "name": "Stray Cats",
+        "url": "https://open.spotify.com/album/7cA0SpqvgKDwQJhXxFfCkh"
+      },
+      "artists": [
+        {
+          "name": "Wibbie Slush",
+          "url": "https://open.spotify.com/artist/2f93ehlJ2VtVnE8EahLevj"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169339,
+      "name": "Stray Cats",
+      "url": "https://open.spotify.com/track/2uGT6OrVugq1bp2sngdNQd"
     },
     {
       "album": {

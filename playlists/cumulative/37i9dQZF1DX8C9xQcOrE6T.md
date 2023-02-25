@@ -4,7 +4,7 @@
 
 > All of your favorite Disney hits, including songs from Encanto\. Stream Encanto on Disney+.
 
-154 songs - 7 hr 42 min
+155 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Life is a Highway](https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 4:35 | 2022-05-23 |  |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-11-05 |  |
 | [Lost in the Woods](https://open.spotify.com/track/7namdlOhbtsc8FvoSafOQt) | [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:00 | 2022-04-01 |  |
+| [Love](https://open.spotify.com/track/3M6YfoPwvvTHK1mnCQmqHI) | [Nancy Adams](https://open.spotify.com/artist/69ktA9CYo2KzvtMrP7An91) | [Walt Disney Records The Legacy Collection: Robin Hood](https://open.spotify.com/album/56ewU1ti6LTUjDQzsI9QZD) | 1:56 | 2023-02-24 |  |
 | [Love Is an Open Door](https://open.spotify.com/track/68jg6wseZjKSJ0HUMjNS7C) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Love Is an Open Door](https://open.spotify.com/album/6slcWjDG8l1CKq02C8u2gQ) | 2:05 | 2022-04-01 |  |
 | [Love Is an Open Door \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 2:04 | 2022-04-01 |  |
 | [Love Power \(End Credit Version\)](https://open.spotify.com/track/0EnS2KLYG9ig26yYltoXJf) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Disenchanted \(Original Soundtrack\)](https://open.spotify.com/album/5S0XYRNtdDHNas37W1AhNH) | 2:57 | 2022-11-18 | 2022-12-17 |

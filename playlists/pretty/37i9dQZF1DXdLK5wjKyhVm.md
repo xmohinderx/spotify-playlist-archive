@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,630 likes - 200 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,179 likes - 200 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,11 +116,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 106 | [Maybe Forever?](https://open.spotify.com/track/6TSJh3wkwcQsxXDXUPPIoi) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [Maybe Forever?](https://open.spotify.com/album/5RRUGZqd4QrESVRs79Woug) | 2:09 |
 | 107 | [Low 5](https://open.spotify.com/track/5pEWbaagNCVwabOEPrEy1m) | [Beatnugget](https://open.spotify.com/artist/2B8sGSf7Jr54GidHeizE8E) | [Low 5](https://open.spotify.com/album/6281ZcHkTkK8EfRw7nqlwf) | 2:18 |
 | 108 | [No Requests](https://open.spotify.com/track/5nl0c4J9RxP2hW4R8mzSbG) | [dsntf](https://open.spotify.com/artist/7pGATqxSjgQ7u0YQzeTH9F) | [No Requests](https://open.spotify.com/album/6WrE77WQive8u8DjZocOKC) | 2:25 |
-| 109 | [Flannel Ballad](https://open.spotify.com/track/5ML2EJhOo795DQdu9vlnkA) | [funLabor](https://open.spotify.com/artist/0bzltcLBQqC7wTDefQutkc) | [Flannel Ballad](https://open.spotify.com/album/1ZDYdlP14ukhfHIVGUeDm9) | 1:49 |
+| 109 | [Flannel Ballad](https://open.spotify.com/track/5ML2EJhOo795DQdu9vlnkA) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Flannel Ballad](https://open.spotify.com/album/1ZDYdlP14ukhfHIVGUeDm9) | 1:49 |
 | 110 | [in other forms](https://open.spotify.com/track/1WN8vpPDnYAQWtEJqyenVq) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [in other forms](https://open.spotify.com/album/00UiVyvCrzBo7Hez7BFr1d) | 1:41 |
 | 111 | [Bad Advice](https://open.spotify.com/track/64Y98kPBDetoal6mecQuDh) | [Spiral Groove](https://open.spotify.com/artist/1gWC6rCLFzEeh7k62E1Ah0) | [Bad Advice](https://open.spotify.com/album/7nAp6b785JHPm7RN0Xqo7y) | 1:55 |
 | 112 | [rooibos](https://open.spotify.com/track/3nXix3ekYTh1LAYxmpcMZQ) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [rooibos](https://open.spotify.com/album/4hkW6DiANxyOHha2fCsBZZ) | 2:29 |
-| 113 | [Great Listener](https://open.spotify.com/track/6naWnjaM6tZwt7Mpnv9HQK) | [Yashan](https://open.spotify.com/artist/6qH95hbW1DJeRbsIG1OKFp) | [Great Listener](https://open.spotify.com/album/7eLNVm2V5UdCg2IWMampBB) | 1:46 |
+| 113 | [Great Listener](https://open.spotify.com/track/6naWnjaM6tZwt7Mpnv9HQK) | [pesto tree](https://open.spotify.com/artist/56eBOoNdnXvjDoAZXIaqed) | [Great Listener](https://open.spotify.com/album/7eLNVm2V5UdCg2IWMampBB) | 1:46 |
 | 114 | [late at night](https://open.spotify.com/track/0ml6yjq12mYNMuBgn9KJE0) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [late at night](https://open.spotify.com/album/48qNXV3F112EWWdys7D8ha) | 2:06 |
 | 115 | [Merchant](https://open.spotify.com/track/4IucBScpBN0d9j8Dr67BQn) | [Sloepoke](https://open.spotify.com/artist/4PA0B5xujSlQnGiTiAPb1E) | [Merchant](https://open.spotify.com/album/1I3PubNkqlT5cRkKW58znq) | 1:30 |
 | 116 | [Pockets Full Of](https://open.spotify.com/track/1rqBSlF38nYSLjBbFr4hQf) | [Smoke & Beard](https://open.spotify.com/artist/6bRRD6xRqNwi1rhu6Lbzfn), [Casual Chill](https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq) | [Pockets Full Of](https://open.spotify.com/album/7ux10GEYePmAXNO5MkdtvR) | 2:36 |
@@ -175,7 +175,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 165 | [New leaf](https://open.spotify.com/track/5mSTZFzVkGV3FKvsKq07SH) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [SouthBlue](https://open.spotify.com/artist/0lBqnOP1xrHSAca9aRJdXa), [Tea box records](https://open.spotify.com/artist/0WFElMoec6Fv9lifejuv0r) | [New leaf](https://open.spotify.com/album/2klebWROYDZClvFx0CkpaY) | 2:45 |
 | 166 | [Rainy Forest](https://open.spotify.com/track/5ZOHhsgcOUuj0DMwPoplpu) | [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Rainy Forest](https://open.spotify.com/album/1RdLixmsSVjmUYySoO9OrS) | 2:29 |
 | 167 | [Moscow Mule](https://open.spotify.com/track/3tOzoQvDINw6aPVr3cRXWk) | [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4), [Natty Dub](https://open.spotify.com/artist/7vsFii8Yk8bNY2l3q0fbSu) | [Moscow Mule](https://open.spotify.com/album/705STMxVHJFCfJIdkIHujw) | 2:20 |
-| 168 | [Menina Bina](https://open.spotify.com/track/5IYpVTawGwxXzbqn3q7VN8) | [Sphinxa](https://open.spotify.com/artist/6iTEnXh4upG3YW3yRfoiCj) | [Cross Atlantic](https://open.spotify.com/album/16Qs8BCLSr0BEb6RxUQp62) | 2:20 |
+| 168 | [Menina Bina](https://open.spotify.com/track/5IYpVTawGwxXzbqn3q7VN8) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [Cross Atlantic](https://open.spotify.com/album/16Qs8BCLSr0BEb6RxUQp62) | 2:20 |
 | 169 | [cinderella sundaze](https://open.spotify.com/track/2r4yN8Soj4jiYdDax5d9Ea) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [cinderella sundaze](https://open.spotify.com/album/1bErxDJqGM12UP4vJhA8eD) | 1:59 |
 | 170 | [Queens Blvd](https://open.spotify.com/track/7jcQhWyqa6FibUgGy2GCi1) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Queens Blvd](https://open.spotify.com/album/1f2te5hRaujOJlE5PIicF5) | 2:12 |
 | 171 | [Mouse](https://open.spotify.com/track/0fRDFVXOLTHEehUPzpp88s) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Still Sloppy](https://open.spotify.com/album/0hAwuOO6cx2uTvd5Egx7UA) | 1:30 |

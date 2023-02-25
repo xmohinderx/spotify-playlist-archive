@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: ABY, Artwork: Isu Kim
 
-852 songs - 2 day 3 hr 25 min
+856 songs - 2 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Alitaptap](https://open.spotify.com/track/3M9ZlNsdyW7O5yWYYhkqip) | [Matt Wilson](https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38) | [Alitaptap](https://open.spotify.com/album/63v49wfOqvf4Z0NCMRtV1F) | 3:56 | 2023-01-19 | 2023-02-17 |
 | [All Day](https://open.spotify.com/track/7msEKmRijEFvzURO1xypln) | [Ian](https://open.spotify.com/artist/0cGEajsmUu72utDiZfM9lY) | [All Day](https://open.spotify.com/album/2aoWmpomn6M2X4Xk5KFKYk) | 2:56 | 2022-07-28 | 2022-09-09 |
 | [All I Need](https://open.spotify.com/track/4qaKS6NHca4x5wMeLa4CYG) | [Anton Paras](https://open.spotify.com/artist/1focgoX1VwBCEcZFAInks7) | [All I Need](https://open.spotify.com/album/5qSXV9IVhOArmLNAwyLp5q) | 3:43 | 2022-10-13 | 2022-12-01 |
+| [All I Want](https://open.spotify.com/track/3NJtg1asU3pSoyaKvbu2gs) | [Ellis Young](https://open.spotify.com/artist/4mhfn2tFXmaP1RphiBbw53) | [All I Want](https://open.spotify.com/album/0Imx5g8Eqh3qRmYwgVKzdl) | 3:04 | 2023-02-23 |  |
 | [ALL IN](https://open.spotify.com/track/6K2p000VqJ6ZDDa9TgBKq7) | [Entitled Music](https://open.spotify.com/artist/5SCd96nLdbJXgsOCsQI3VR) | [ALL IN](https://open.spotify.com/album/1mJFi5AcIA6Le6ChMnGlLr) | 6:33 | 2022-10-13 | 2022-12-01 |
 | [All Love, No Hate](https://open.spotify.com/track/7B40Wyl3xMf9FpU6jUkDWT) | [Jiya Noina](https://open.spotify.com/artist/5rmYAIq4ong7rSgH6XKtQs) | [All Love, No Hate](https://open.spotify.com/album/1zdVTiNSTT1tsyDvaqXFxX) | 3:00 | 2022-06-30 | 2022-09-09 |
 | [All My Favorite Songs](https://open.spotify.com/track/6asBJn26N0JlitdgPIqdaD) | [The Geeks](https://open.spotify.com/artist/1SlJgrbJMruDJxj3l6qZVy) | [All My Favorite Songs](https://open.spotify.com/album/3v3bCHT4KgnSfqpUuoczWH) | 4:01 | 2022-02-03 | 2022-02-11 |
@@ -256,6 +257,7 @@
 | [G.S.D.](https://open.spotify.com/track/3sSn8qREV63JiYPOLpSwbR) | [Asoulstic](https://open.spotify.com/artist/04ec600YSVlkc7c2AQWlIR) | [G.S.D.](https://open.spotify.com/album/6LbC2Oj9iuqynDC6vPHcxB) | 5:43 | 2022-05-19 | 2022-06-03 |
 | [Gabay](https://open.spotify.com/track/4oqhDujgfbctx3MjKFaxTe) | [Andrea Badinas](https://open.spotify.com/artist/2gxV8pvMInzaEgEi7riKmV) | [Gabay](https://open.spotify.com/album/7gMJ59IzEOXq7jNPOCKFLI) | 5:11 | 2022-09-08 | 2022-11-25 |
 | [Gabi](https://open.spotify.com/track/38bEXfp86RqpV4JkyQC25W) | [glen cloeny](https://open.spotify.com/artist/59EJmRfDjmbVZC7avONJpJ), [Kenshin Pontillo](https://open.spotify.com/artist/38vQ0wnK9SOzGTTL5cLa6L) | [Gabi](https://open.spotify.com/album/4WC2UEGaGk59ElAojHsUSH) | 4:17 | 2022-09-08 | 2023-01-13 |
+| [Gabi](https://open.spotify.com/track/07uOcwr6m7IsYhqpW7pt8J) | [Patrick Lacambacal](https://open.spotify.com/artist/3wPfc9LxqTDNmgSgEo8lE2) | [Gabi](https://open.spotify.com/album/3vgaURkRJSo3aSt2PZoEmi) | 3:46 | 2023-02-23 |  |
 | [Galaksiya](https://open.spotify.com/track/7FdFhreijVIfrDXzx3TOma) | [Gavv](https://open.spotify.com/artist/4OQhKvvX5GQzYIhkhW5x2M) | [Galaksiya](https://open.spotify.com/album/0rB0h1QmvoSUdouaD49pCq) | 5:57 | 2023-02-09 | 2023-02-24 |
 | [Galing Sa Wala](https://open.spotify.com/track/29PxwORM1SaHLbEJvTEoPg) | [Khael Domaro](https://open.spotify.com/artist/3ULqD3cPAmmDTfLHoPmS0R) | [Galing Sa Wala](https://open.spotify.com/album/0NoQmQeaEgBmwojsuFnHjx) | 3:23 | 2022-05-26 | 2022-06-03 |
 | [Ganado](https://open.spotify.com/track/6VZXWzF7azvl34woacKiKw) | [Freddie Boi](https://open.spotify.com/artist/1yKUtH3rCYmaVF6qUDHja6), [NAM](https://open.spotify.com/artist/7IWjFF0ujgFCepFX56Q5eE) | [Ganado](https://open.spotify.com/album/6ie1qb0OX0nxpVp9BbypPD) | 3:00 | 2023-02-09 | 2023-02-17 |
@@ -600,6 +602,7 @@
 | [Patawad](https://open.spotify.com/track/5U4wo1JiPNaMhurckxVpus) | [Kristina Academia](https://open.spotify.com/artist/5K056ydoaFCoR0zfsr2MD2) | [Patawad](https://open.spotify.com/album/4g2FRMJBDaJ5ww5sQLHrSB) | 3:53 | 2022-07-14 | 2022-08-27 |
 | [Paubaya](https://open.spotify.com/track/5VkPAl0ZJnLQd98abeJUvd) | [KRT](https://open.spotify.com/artist/5VZjChYDtaSkKRkXpymYHF), [Kay Lidasan](https://open.spotify.com/artist/1cTpBAEdluZvSaTSgkt1hX) | [Paubaya](https://open.spotify.com/album/5DpYjEysNlxMUqulWKJ3fb) | 2:55 | 2022-03-31 | 2022-06-17 |
 | [PEACE OF MIND](https://open.spotify.com/track/0JAV00XM5K9ve3pKCkn7QJ) | [WLFTOWN](https://open.spotify.com/artist/65PIGJ98oayXEVcBnzZg9M) | [PEACE OF MIND](https://open.spotify.com/album/6mJOhS9OLDTCZdWTQhRnUA) | 3:46 | 2022-09-08 | 2022-12-01 |
+| [Pelikula](https://open.spotify.com/track/7HzJEqs4AiZSwpi76o1fW3) | [Owl's Night](https://open.spotify.com/artist/0axJHks9xhjDP3augTUAiq) | [Pelikula](https://open.spotify.com/album/76mOe4YK1n6azGp1n1cf1c) | 4:23 | 2023-02-23 |  |
 | [Pera Sa Labas](https://open.spotify.com/track/4IBb5aBvvdY8jNb47TlbhZ) | [Bj Prowel](https://open.spotify.com/artist/1w3W34Os1Wni93bWeUs8XQ), [Kritiko](https://open.spotify.com/artist/3YMD25xZdbAyoezzh29lgm) | [Pera sa Labas](https://open.spotify.com/album/65rQQh4zttXQejdaMwy54M) | 3:24 | 2022-04-07 | 2022-05-06 |
 | [Perseverance](https://open.spotify.com/track/742z3bjfNIEXoyimIlsPM9) | [Stand As One](https://open.spotify.com/artist/14yJ1z4ps3uUZVCKHugzt2) | [Perseverance](https://open.spotify.com/album/10tUhSp8PYksNZrjfE0t3G) | 3:59 | 2023-01-12 | 2023-02-10 |
 | [Persistence](https://open.spotify.com/track/6roKsAPzZPjJVlEZqmJYul) | [Sucketseven](https://open.spotify.com/artist/3yBQJ7crurvce0p35ywM4L) | [Persistence](https://open.spotify.com/album/2D4S4MXrGEKBhTToEOFRL0) | 5:52 | 2023-01-12 | 2023-02-10 |
@@ -741,6 +744,7 @@
 | [tadhana \(feat\. Michael Jean\)](https://open.spotify.com/track/1H5ubnoym1A5KhX3jTnNIn) | [dreamboy mac](https://open.spotify.com/artist/5iglkeBrSbQwMCR62b7oOi), [Michael Jean](https://open.spotify.com/artist/2ufS0vbjWRZgRQh4e3vWW7) | [tadhana \(feat\. Michael Jean\)](https://open.spotify.com/album/356325SFDO4YhU7rRWCDS5) | 3:50 | 2022-05-26 | 2022-08-20 |
 | [Tagsibol](https://open.spotify.com/track/0OXgbz4FzCfeynayDrItu8) | [Jude the Zaint](https://open.spotify.com/artist/1EP9riUdqQcqF24kEoQ5Dl), [Lie$](https://open.spotify.com/artist/06fT1o49zLg2HkVe8jWzWU) | [Tagsibol](https://open.spotify.com/album/5HGUbXEEqMKHlPeT3pz5pq) | 3:16 | 2022-04-07 | 2022-04-22 |
 | [Tahan Na](https://open.spotify.com/track/0m7pOyvve4OIgOUUEQJCVo) | [CARLO](https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY) | [Tahan Na](https://open.spotify.com/album/1eXSXdzyjzdS0bhFur8QOt) | 3:24 | 2022-08-11 | 2022-12-01 |
+| [Tahanan](https://open.spotify.com/track/5NolW01kPky1iTMB1zLZ5Y) | [Steliza](https://open.spotify.com/artist/3incxS3LkZKtTNRoYEszV4) | [Tahanan](https://open.spotify.com/album/6gzB0Z3lmjPJKBfrMyeMG9) | 6:30 | 2023-02-23 |  |
 | [Talon](https://open.spotify.com/track/6v0hPou6LAzBr0KQToB4mX) | [Antipara](https://open.spotify.com/artist/2DV2cN7Cj7rGknQw5YkZO7) | [Talon](https://open.spotify.com/album/5g4PG0gAaN67ksbgtwK5DI) | 4:33 | 2023-02-09 | 2023-02-24 |
 | [Tamachine](https://open.spotify.com/track/4tHzpmo3iYWbo5sgtbCe0Z) | [Letrang Norte](https://open.spotify.com/artist/5iTqe9oNgs5E3Wm4W3hFKq) | [Tamachine](https://open.spotify.com/album/2YxNU91VcUPI1N9wtEFM47) | 3:48 | 2022-02-03 | 2023-01-13 |
 | [Tanging Ikaw](https://open.spotify.com/track/0hTzKx2QWfyVMSyUevmULK) | [Teejay](https://open.spotify.com/artist/6MhlikvuEsNsYJEKUK4QOg), [JBryle](https://open.spotify.com/artist/4od3iaR0GxrNwlOGyH4sV1) | [Tanging Ikaw](https://open.spotify.com/album/62sBvZDSLkc7dgtYpJ8pcQ) | 3:46 | 2022-01-20 | 2022-02-11 |

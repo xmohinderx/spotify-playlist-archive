@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-65 songs - 4 hr 32 min
+66 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Death Note](https://open.spotify.com/track/1K6yxhSJsQuMzDhtmk7W81) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Death Note](https://open.spotify.com/album/3odZS05zGujBVVRLMNEwR5) | 3:51 | 2022-05-27 |  |
 | [Death Note](https://open.spotify.com/track/68ihXI8WnBpdrA8iLOirHw) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Death Note](https://open.spotify.com/album/0VsaLl72TuSij9cxQqBS1t) | 3:51 | 2022-02-22 | 2023-01-28 |
 | [Deidara: Nuke](https://open.spotify.com/track/0m5pkgoPtYqrj2y2j7BNrS) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Deidara: Nuke](https://open.spotify.com/album/78rJ5rijVFOMChNbvzQt5g) | 3:58 | 2022-02-22 |  |
+| [Dragon Ball Gang \- TcheloBeats & Zatto Remix](https://open.spotify.com/track/4pH5wh6Nbmz5gvlRMv4nGm) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87), [PTKZIN](https://open.spotify.com/artist/3eCFudVzz38UzS7s2L0Map), [VMZ](https://open.spotify.com/artist/1WLZ4aZ98cFqryW57bfQkc), [AKASHI](https://open.spotify.com/artist/6vozzZH9GTSlUBXjRJNgYi), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B), [Zatto](https://open.spotify.com/artist/4lkGiellFSP2r9s9oR9qo4) | [Dragon Ball Gang \(TcheloBeats & Zatto Remix\)](https://open.spotify.com/album/2X7cWG1c9Q33PN6AHLIj3p) | 3:55 | 2023-02-24 |  |
 | [Então Eletrifique](https://open.spotify.com/track/58Vs1JCZm1Ozfg3dxRFW4T) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Eletrifique](https://open.spotify.com/album/13xj1xw9CDK8KHcg9810kf) | 5:30 | 2022-05-27 |  |
 | [Então Eletrifique](https://open.spotify.com/track/63UGvxRZSJMHFjYcUs0TdL) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Eletrifique](https://open.spotify.com/album/11WgBAEBpB8NbBx0allLYe) | 5:30 | 2022-02-22 | 2022-11-12 |
 | [Então Se Afogue](https://open.spotify.com/track/1UAoopP5YgFJvpm5s4qJYP) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Se Afogue](https://open.spotify.com/album/2zO12kHYSqn4kuYRryCCXA) | 5:04 | 2022-02-22 | 2022-11-12 |

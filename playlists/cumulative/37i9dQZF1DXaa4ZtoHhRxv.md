@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-132 songs - 7 hr 18 min
+133 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [My Truck \(feat\. Sam Hunt\) \- Remix](https://open.spotify.com/track/1akB0Fn6w8U0j2hrDcj1kZ) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [BRELAND EP](https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt) | 2:39 | 2021-12-10 |  |
 | [Need You Now \- Jason Nevins Rhythmic Single Edit](https://open.spotify.com/track/2Ywfu6Y4aIu1B9txqWE3Ir) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now \(Remix\)](https://open.spotify.com/album/5wRNWrCeVwVetRyShfzz7e) | 3:26 | 2021-12-10 |  |
 | [New York at Night \- Remix](https://open.spotify.com/track/59wIRZMCUccEB0Piht3s2b) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [New York at Night \(Remix\)](https://open.spotify.com/album/3JHR6aJYnspcmiai6MZe7T) | 3:04 | 2021-12-10 |  |
+| [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe) | 2:41 | 2023-02-24 |  |
 | [No Peace \(feat\. RaeLynn\)](https://open.spotify.com/track/0qNROkepgSyjuzGC2TAKkz) | [RoadHouse](https://open.spotify.com/artist/6Nf3jLrIOWnKsvdpJcup2y), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [RoadHouse](https://open.spotify.com/album/3ACmOsG39mP5LfCw3FF1wm) | 3:13 | 2021-12-10 |  |
 | [Nobody \(R3HAB Remix\)](https://open.spotify.com/track/2Z0Ie1NJJLkp14ClmTx5P5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Nobody \(R3HAB Remix\)](https://open.spotify.com/album/3B64IR7UJccjEtcIPQsvDk) | 2:14 | 2021-12-10 |  |
 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 | 2021-12-10 |  |

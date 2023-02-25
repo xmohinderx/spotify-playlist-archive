@@ -4,7 +4,7 @@
 
 > Songs to help your kids learn in English and Spanish!
 
-97 songs - 3 hr 18 min
+98 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Learn Numbers and Colours Song \- Bus, Cars and Trucks](https://open.spotify.com/track/2L8Q1XArhm968SXREBLeMb) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & More Vehicle Songs!](https://open.spotify.com/album/5rMGKINa45CmYXC7y7EQni) | 1:53 | 2020-06-26 |  |
 | [Learn Numbers and Colours Song \- Bus, Cars and Trucks](https://open.spotify.com/track/2qoa06w5d05xfzmlTrz9Ra) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn Spanish \- Aprende Inglés](https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP) | 1:53 | 2020-06-26 | 2022-07-29 |
 | [Learn Numbers and Colours Song \- Bus, Cars and Trucks](https://open.spotify.com/track/669yctsCsIjukbyRlXo7NW) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn Numbers and Colours Song \- Bus, Cars and Trucks](https://open.spotify.com/album/6wN2BEennZBtVma7Z1DDF7) | 1:53 | 2020-06-26 | 2022-11-14 |
+| [Letter B Song](https://open.spotify.com/track/5xL1i0wCQ1kAk5YiaIow1S) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Letter B Song](https://open.spotify.com/album/5q2xQhlLtoUeu2L8CJEpwi) | 1:07 | 2023-02-24 |  |
 | [Little Miss Count Along](https://open.spotify.com/track/1IeCKu6vTiR0gyeoRhpFJK) | [Count Von Count](https://open.spotify.com/artist/1oDbLbJSRUBBOp9SU6NOjI), [Zoe](https://open.spotify.com/artist/4t8Z2cp7ogUDJcmOjDoEpe), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [N Is for Numbers!](https://open.spotify.com/album/2adtSJ5NVSnB3YPNfValJ0) | 2:05 | 2020-04-22 |  |
 | [Los Numeros](https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 2:59 | 2020-04-22 |  |
 | [Los Pollitos Dicen Pio Pio](https://open.spotify.com/track/0Au8V5YJFWPWqDHfhKhHCz) | [La Vaca Lola La Vaca Lola](https://open.spotify.com/artist/1H89yfXllRrOvumojYn7yr) | [La Vaca Lola Y Otras Canciones Infantiles](https://open.spotify.com/album/4h2B0YWCUOVfOO7irnLB17) | 1:18 | 2020-04-22 |  |

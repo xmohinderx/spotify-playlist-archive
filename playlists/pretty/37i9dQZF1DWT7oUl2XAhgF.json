@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Phillip-Michael Scales",
-  "num_followers": 179192,
+  "num_followers": 179298,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDE0YzNlZDU1NDNjYmRlN2QyN2U0YzU2Yzc1N2Y0Zjc1",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDhjZjhiNDNiMTVkMTNjYTcxMmQ3ZTJlYmIxOTAxYjFj",
   "tracks": [
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Lord Have Mercy",
+        "url": "https://open.spotify.com/album/3Y46rN3HnsxoTa6AQWPYQF"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 241216,
+      "name": "Lord Have Mercy",
+      "url": "https://open.spotify.com/track/4YhkOJonZ9OOeAmBWmbRj7"
+    },
     {
       "added_at": "2023-02-17 05:01:00",
       "album": {
@@ -27,6 +43,42 @@
       "duration_ms": 219520,
       "name": "Loving You Is All I Want To Do",
       "url": "https://open.spotify.com/track/1GIf6prhwd6ESjjJ6pmiwV"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "The Makings of you",
+        "url": "https://open.spotify.com/album/2HNuWHhCYirWiUWjkaJ8km"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        },
+        {
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "The Makings of you",
+      "url": "https://open.spotify.com/track/5mdBYpo07zvlOTuSjooegw"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Beat the Same",
+        "url": "https://open.spotify.com/album/3nXMNTGJIbUY9ytMUUEVGc"
+      },
+      "artists": [
+        {
+          "name": "Joey Dosik",
+          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
+        }
+      ],
+      "duration_ms": 226605,
+      "name": "Beat the Same",
+      "url": "https://open.spotify.com/track/4YNS5X205ZvDvRIl1SLAKS"
     },
     {
       "added_at": "2023-02-17 05:01:00",
@@ -775,30 +827,6 @@
     {
       "added_at": "2021-12-07 15:05:42",
       "album": {
-        "name": "Cruisin' To The Parque",
-        "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        },
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 215204,
-      "name": "Cruisin' to the Parque",
-      "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
-    },
-    {
-      "added_at": "2021-12-07 15:05:42",
-      "album": {
         "name": "aloha",
         "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
       },
@@ -1417,22 +1445,6 @@
       "url": "https://open.spotify.com/track/1SSdSN70LK45vWndX3twa9"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Make a Wish",
-        "url": "https://open.spotify.com/album/7zdPOJg2rtxiRYeYaDVwrC"
-      },
-      "artists": [
-        {
-          "name": "Joey Dosik",
-          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
-        }
-      ],
-      "duration_ms": 189917,
-      "name": "Make a Wish",
-      "url": "https://open.spotify.com/track/6rHLPqcyk7ggv0PvTjt5yd"
-    },
-    {
       "added_at": "2022-05-20 14:55:11",
       "album": {
         "name": "Red Balloon",
@@ -1639,22 +1651,6 @@
       "duration_ms": 171297,
       "name": "Reason",
       "url": "https://open.spotify.com/track/5llqfBYCRsB72DQACu5dpC"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Brooklyn to Brooklin",
-        "url": "https://open.spotify.com/album/78cN2KkuMGa8dlBenxWpeR"
-      },
-      "artists": [
-        {
-          "name": "Scone Cash Players",
-          "url": "https://open.spotify.com/artist/3GMruM6YOWc69pzKC74qK5"
-        }
-      ],
-      "duration_ms": 274026,
-      "name": "Brooklyn to Brooklin",
-      "url": "https://open.spotify.com/track/6gn7j9XgdEQgaaJeGm6uTp"
     },
     {
       "added_at": "2022-09-02 04:01:00",

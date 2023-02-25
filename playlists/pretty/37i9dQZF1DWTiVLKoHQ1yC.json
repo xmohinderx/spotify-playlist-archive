@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 137843,
+  "num_followers": 138057,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDkwM2FlOTZiZDY4MmZhYjViMTVlNmRjZGY3M2RmMzVk",
+  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDQ2YWZiNzhjNGE3MDRhNDIxYTMzNDRlZDI2MTgyNWQ4",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Face The Sun",
+        "url": "https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B"
+      },
+      "artists": [
+        {
+          "name": "Yeadon",
+          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
+        }
+      ],
+      "duration_ms": 439437,
+      "name": "Face The Sun",
+      "url": "https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/5b0xNdKy95XcpoGMrRlUto"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 466035,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/5n9si61BkJLFrxyCUABT62"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Face The Sun",
-        "url": "https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B"
-      },
-      "artists": [
-        {
-          "name": "Yeadon",
-          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
-        }
-      ],
-      "duration_ms": 439437,
-      "name": "Face The Sun",
-      "url": "https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI"
     },
     {
       "added_at": "2022-11-25 16:56:36",

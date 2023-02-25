@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,582 likes - 239 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,787 likes - 239 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 9 | [emergence](https://open.spotify.com/track/5pHkzZ1dPE88E0MxGCgP6t) | [Kinissue](https://open.spotify.com/artist/4CSOdm2yCuB71TxCfV105e), [CHASE STEPHEN](https://open.spotify.com/artist/24PuTGiB6ISP3wErX3RzRT) | [emergence](https://open.spotify.com/album/45F1JoyjqJ6EnMJPIRkq7t) | 2:02 |
 | 10 | [early bird](https://open.spotify.com/track/78NgFAN79blAzHQkDAVC8K) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [early bird](https://open.spotify.com/album/0j1TOhsa00KZP3fOafbiwR) | 2:19 |
 | 11 | [Calling](https://open.spotify.com/track/3tAiBkFY38ZBNFX5Muvd3I) | [icey wavs](https://open.spotify.com/artist/5bH4uA7ERJ2A6EIWa7eHwQ), [Calmas Records](https://open.spotify.com/artist/3xHHNJkwyots8LoDMxGD9k) | [Calling](https://open.spotify.com/album/00rulHU7qgndlBm2murpz3) | 1:25 |
-| 12 | [Conspiracy](https://open.spotify.com/track/66I86wuKX4PxvGqiHFxSvK) | [Frank](https://open.spotify.com/artist/4BBtLEdAxkagNdD9lvpP1X) | [Conspiracy](https://open.spotify.com/album/7Espl4AUElcBOlIMwwTIhj) | 2:19 |
+| 12 | [Conspiracy](https://open.spotify.com/track/66I86wuKX4PxvGqiHFxSvK) | [FRANK](https://open.spotify.com/artist/2q1lPSowgmgiCLtnSRMNMD) | [Conspiracy](https://open.spotify.com/album/7Espl4AUElcBOlIMwwTIhj) | 2:19 |
 | 13 | [Duplicity](https://open.spotify.com/track/4b0I2cmytdJBQeE2SvSxOB) | [Alkis Siokis](https://open.spotify.com/artist/4B7RMdxD9keX7PCQIpOs5O) | [Duplicity](https://open.spotify.com/album/7ILFzDVB4XlAepvlXFEVwf) | 2:19 |
 | 14 | [Summery](https://open.spotify.com/track/4dczvNHuR2wDzGzV4HOQhJ) | [Eddie & George](https://open.spotify.com/artist/5aYybCPaexHcWutawAyUvv) | [Summery](https://open.spotify.com/album/4suaMj8EOFYW2vGIYfCq6W) | 2:18 |
 | 15 | [Reflect](https://open.spotify.com/track/2FUIdzhQtFixAuxpcjwhTP) | [Dimmer Signal](https://open.spotify.com/artist/0DnCXK4n3Ug9zpNWKGAD6Y) | [Reflect](https://open.spotify.com/album/0YJKBHgaTNxqTXWUrNZcCt) | 1:32 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 34 | [Artwork](https://open.spotify.com/track/5J5NcN1lGvb3Yo794ohu8f) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Artwork](https://open.spotify.com/album/1S2pNdwEk83jQrPJlPqbmS) | 2:20 |
 | 35 | [hagaparken](https://open.spotify.com/track/5u3rKKdFqAl63VuzbWDZ2P) | [jacob klev](https://open.spotify.com/artist/3XV2xVPuckMYpUbguXZ57D) | [hagaparken](https://open.spotify.com/album/18MAXqnzVBabmMptAeu14h) | 1:59 |
 | 36 | [cracks](https://open.spotify.com/track/239wmTGRuJt2W2Bmwc3QvJ) | [cofibrkz](https://open.spotify.com/artist/7t9qw1nmtiXsFdnNrfBEYM) | [cracks](https://open.spotify.com/album/7kb6IX9WRNJgUHGB2wBhGm) | 1:58 |
-| 37 | [Friday Underground](https://open.spotify.com/track/6tUGEKjPjyo76vEROoRdcO) | [Lack Sho](https://open.spotify.com/artist/5MpqGukBLHUlsEb996s3m1) | [Friday Underground](https://open.spotify.com/album/5qD8izfLeybQjPlJ8vlF6C) | 1:56 |
+| 37 | [Friday Underground](https://open.spotify.com/track/6tUGEKjPjyo76vEROoRdcO) | [Leandi](https://open.spotify.com/artist/6s4kY85iUHP3nFjmuMbxUH) | [Friday Underground](https://open.spotify.com/album/5qD8izfLeybQjPlJ8vlF6C) | 1:56 |
 | 38 | [At Peace](https://open.spotify.com/track/3wqiNJYXsMOF2pn7wDUUE5) | [rjoseph](https://open.spotify.com/artist/2cdb2U5hrSfprEgLTrPDwl) | [At Peace](https://open.spotify.com/album/4v47NkXAulaluWWm8YUyoX) | 2:56 |
 | 39 | [Gobi](https://open.spotify.com/track/0WjuZT8UJwUy6GIqngj2uz) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Gobi](https://open.spotify.com/album/7w46ESq2NU1PwZDKP5yui6) | 2:53 |
 | 40 | [Riverside](https://open.spotify.com/track/747fQx8Q7aVdBjNvAc2fBI) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [Riverside](https://open.spotify.com/album/37vfX4Sxt6zrBmy1CIDsfB) | 2:20 |
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 145 | [Relief](https://open.spotify.com/track/5Rg5XBTCLryJt7WWG0SVte) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl), [Mantrick](https://open.spotify.com/artist/4WfXJIC30dh3ezNzAmVi3m) | [Relief](https://open.spotify.com/album/7b09B1KnppJi7xeEbck2Id) | 2:14 |
 | 146 | [Midmorning](https://open.spotify.com/track/35TggOmZhDSWFzwApphPM8) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Midmorning](https://open.spotify.com/album/1r2hnjBiSaZWjukHPsCgRh) | 2:51 |
 | 147 | [Just Love](https://open.spotify.com/track/0LmonoC34YmrtzPMG01OJt) | [Syzygy X](https://open.spotify.com/artist/5bQ0VyBeExuR0VDhSMIuii) | [Just Love](https://open.spotify.com/album/6CF5JLx8b6PgrzZBVn2FfI) | 2:25 |
-| 148 | [Redeeming](https://open.spotify.com/track/1XHVtIsDvRMI96bYNQ4Sjz) | [Nonolom](https://open.spotify.com/artist/4t8t3rwAENGMRdx6gk0b2O) | [Redeeming](https://open.spotify.com/album/3QcsMRKYhWuVJISzQK9YXE) | 1:52 |
+| 148 | [Redeeming](https://open.spotify.com/track/1XHVtIsDvRMI96bYNQ4Sjz) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Redeeming](https://open.spotify.com/album/3QcsMRKYhWuVJISzQK9YXE) | 1:52 |
 | 149 | [Calm Journey](https://open.spotify.com/track/4LgeEcSRLIwHNHQLbivmIf) | [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Plenitude](https://open.spotify.com/album/5g62q4lcEL127ajXQAUbp4) | 1:52 |
 | 150 | [Natura](https://open.spotify.com/track/7Auf2qCVAHFuIvQ02Hku3H) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Natura](https://open.spotify.com/album/3grr4LWLRWNm609pm7e7F3) | 2:38 |
 | 151 | [Engines](https://open.spotify.com/track/4zj7KEYf0YhhTFbrzK7TkI) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Engines](https://open.spotify.com/album/00GKYTcoOE8YZ7KqVngw48) | 2:20 |
@@ -189,7 +189,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 179 | [Nameless and Forgotten](https://open.spotify.com/track/6QLNxoDZMlUm0aHwgmt6iw) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Nameless](https://open.spotify.com/album/183M1iml8n8Uoq1SLvkBRe) | 2:10 |
 | 180 | [undefined](https://open.spotify.com/track/4RzY9ZLhrqDwsbTl69va0t) | [Twinkz](https://open.spotify.com/artist/1uAbd4UZwniPiJefEpZfm9) | [undefined](https://open.spotify.com/album/3qJIV0suS9ltJYxEXB1dQF) | 1:41 |
 | 181 | [plastic flowers](https://open.spotify.com/track/6i0C20TvKja1NUOmFvkpE2) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [plastic flowers](https://open.spotify.com/album/21hQzh3cGzCmBcf5IL3pN6) | 3:36 |
-| 182 | [Jazzy Girl](https://open.spotify.com/track/3XoXEYaBCRdasiRNHywjWI) | [Z.LIMACO](https://open.spotify.com/artist/3z48GwjAb6HT7eQaougOYg) | [Aries](https://open.spotify.com/album/2yWlRhxxy4q9vNso6XwzcS) | 1:47 |
+| 182 | [Jazzy Girl](https://open.spotify.com/track/3XoXEYaBCRdasiRNHywjWI) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Aries](https://open.spotify.com/album/2yWlRhxxy4q9vNso6XwzcS) | 1:47 |
 | 183 | [Sleep Pwder](https://open.spotify.com/track/0vnhyBAnnSHehDN5ofILZP) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Sleep Pwder](https://open.spotify.com/album/5KuyjzUD8zdccIAaHvUjj1) | 2:26 |
 | 184 | [Astro Chill](https://open.spotify.com/track/0wT5rgH4cWdNJrreXaFeV4) | [The Experience](https://open.spotify.com/artist/2UIQJ7LdWN7Py0eSpUN0IC) | [Astro Chill](https://open.spotify.com/album/5uL83Sc02G0iS1sxcba1zJ) | 1:54 |
 | 185 | [Nightingale](https://open.spotify.com/track/6tQpVsbFEkjg3kEAdO5ASH) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Nightingale](https://open.spotify.com/album/4leEHF6m89G1SStxfVdbyY) | 2:24 |

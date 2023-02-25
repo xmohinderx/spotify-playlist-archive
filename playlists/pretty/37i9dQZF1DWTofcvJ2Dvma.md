@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,415 likes - 174 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,485 likes - 174 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 80 | [polygo](https://open.spotify.com/track/0xoyI2U8jQ4pYtc1uKg6Kw) | [Mauro Itzhak](https://open.spotify.com/artist/4ABZDpqLJ4IKly9Vx8sr9i) | [polygo](https://open.spotify.com/album/5aAmoVTtTnDqkOvnB4pm20) | 1:49 |
 | 81 | [Do you love me back?](https://open.spotify.com/track/52KP1mPnCPEgdJOuWd5qHz) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [Do you love me back?](https://open.spotify.com/album/1VRop59KY7vZ3aqGOFDq2x) | 2:20 |
 | 82 | [Forestfire](https://open.spotify.com/track/63WlzhPsPJZbUoQkNYPC0r) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Forestfire](https://open.spotify.com/album/0Q8h75JOwbfoyCXD9axYbj) | 2:06 |
-| 83 | [happy valley](https://open.spotify.com/track/4diBqnT3w2ScFWTOes4q54) | [skytram](https://open.spotify.com/artist/0AFZ68pqEGtbvsm1BvFum8) | [tetsu method](https://open.spotify.com/album/6Jk1dC9MdQrmQxJNnFCnI2) | 2:03 |
+| 83 | [happy valley](https://open.spotify.com/track/4diBqnT3w2ScFWTOes4q54) | [feline empire](https://open.spotify.com/artist/7pNrcc1Bgzb1i88M8TnIVX) | [tetsu method](https://open.spotify.com/album/6Jk1dC9MdQrmQxJNnFCnI2) | 2:03 |
 | 84 | [floaty](https://open.spotify.com/track/6K250yvOotlfeDRzUyFdIK) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [floaty](https://open.spotify.com/album/6u13flQo08XtfdftYWNjY7) | 2:18 |
 | 85 | [Ubbadd](https://open.spotify.com/track/7FmNnWZUXiqXLngbAmh1X9) | [Kokta beats](https://open.spotify.com/artist/2ETiol5Kw5v2LFEjGLnlbS) | [Ubbadd](https://open.spotify.com/album/1arYRdx6nIYgn7tALBNar5) | 2:06 |
 | 86 | [Early Bird](https://open.spotify.com/track/2V8arCg99hy14snVEtZNoR) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [Early Bird](https://open.spotify.com/album/0AmDeNtx6ksfIj0vzFdw6I) | 2:38 |
 | 87 | [gracious king](https://open.spotify.com/track/30RPxp0eKzgN3rD8ceQfkP) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [little hawk & gracious king](https://open.spotify.com/album/1s9LG1dP9bNq6El908hpzS) | 2:08 |
 | 88 | [Inner Circle](https://open.spotify.com/track/2PHONNW4Knw22LQ9o3EvIo) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Inner Circle](https://open.spotify.com/album/6Oa5m0iCnUyBGue9WmeBcA) | 2:26 |
-| 89 | [amuse or lose](https://open.spotify.com/track/1NL0EdraCNLtTkpNIqi5te) | [DunE](https://open.spotify.com/artist/4MWcljkqkBsrfiZu2CA88k) | [amuse or lose](https://open.spotify.com/album/6yrLul2c3ENpLe2vawKVPk) | 2:00 |
+| 89 | [amuse or lose](https://open.spotify.com/track/1NL0EdraCNLtTkpNIqi5te) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [amuse or lose](https://open.spotify.com/album/6yrLul2c3ENpLe2vawKVPk) | 2:00 |
 | 90 | [u shine](https://open.spotify.com/track/3MzNoKBTU7YDse4ffTVDfd) | [shapure](https://open.spotify.com/artist/34grM2pbi7LfEpQTrwURpL) | [u shine](https://open.spotify.com/album/2Z6b3szOnc0srhttso8uIq) | 2:12 |
 | 91 | [dogebonk icon](https://open.spotify.com/track/7wxOaLL2guWc7worIbaTcv) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [dogebonk icon](https://open.spotify.com/album/10BxdOuEecyFaELkUKPTCu) | 2:15 |
 | 92 | [picnic blanket](https://open.spotify.com/track/3gcHdJFeWqf8xXjlwxbatl) | [feathered friend](https://open.spotify.com/artist/2UKCPn2w6i8etI4ZyIcAwu) | [picnic blanket](https://open.spotify.com/album/5Lt3o5YQ5PfF6bqtwSV0Pw) | 2:30 |
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 119 | [Gentle](https://open.spotify.com/track/6SCNLaxZas2Hqalh4zeAGr) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Gentle](https://open.spotify.com/album/5lx736CiAjCBRgrqgqF5dt) | 3:30 |
 | 120 | [skystream](https://open.spotify.com/track/3cpH965slVAktKRqw8yjGI) | [carl cheny](https://open.spotify.com/artist/2KdAwsOoRrvsK5eCKv275Y) | [skystream](https://open.spotify.com/album/1oXZlNt0pfCix13i9LRQDZ) | 2:29 |
 | 121 | [Coming Back](https://open.spotify.com/track/2bd4DXfUSO4W8PnHq4hcZN) | [August Sky](https://open.spotify.com/artist/6hm8yEY43m6Q5aq1O8oLwI) | [Coming Back](https://open.spotify.com/album/0RZtebJU73sTyieZXfxaop) | 3:27 |
-| 122 | [recession](https://open.spotify.com/track/7cayqs4BnxtUMuPfrj3if8) | [Sphinxa](https://open.spotify.com/artist/6iTEnXh4upG3YW3yRfoiCj) | [Recession](https://open.spotify.com/album/1tBpP6NT0HmFqqOTTQ5cNT) | 2:24 |
+| 122 | [Recession](https://open.spotify.com/track/7cayqs4BnxtUMuPfrj3if8) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [Recession](https://open.spotify.com/album/1tBpP6NT0HmFqqOTTQ5cNT) | 2:24 |
 | 123 | [Steek](https://open.spotify.com/track/0tmfkSrjCbV7fOUPEDznhP) | [Movistar](https://open.spotify.com/artist/0QJCy3yneN39i7ZSdoqcrP) | [Aquarelle](https://open.spotify.com/album/6cCkiXerbNIJNbbGJuvsPA) | 1:52 |
 | 124 | [Despertar al Sol](https://open.spotify.com/track/3NFL1h0KgrVb67DtM8dKFv) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Despertar al Sol](https://open.spotify.com/album/1X499n1XH8hjUAN4L7H7cm) | 1:55 |
 | 125 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 |
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 138 | [mosaic maker](https://open.spotify.com/track/3oOFrBFkh8vvEOhBgzB9PR) | [Rollin Hand](https://open.spotify.com/artist/7oKCQiTL5z1a63V76WyDtw) | [mosaic maker](https://open.spotify.com/album/3vGv2KrRg2QRh8vLbhgggR) | 2:31 |
 | 139 | [eternallife](https://open.spotify.com/track/5VBBhsFui4voNhwcBS7QEm) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [eternallife](https://open.spotify.com/album/5VWP0cfp4IGajOpLt9YVfl) | 1:45 |
 | 140 | [clavia](https://open.spotify.com/track/1btRTBBwpv0ISGB0LScgz2) | [modecontrol](https://open.spotify.com/artist/5ONC1q1sMKkNGf8k0OoF7h) | [clavia](https://open.spotify.com/album/3RkuJvoRdaCnk3IB89mgri) | 1:36 |
-| 141 | [She´s fly](https://open.spotify.com/track/3WyBZ7gGHCNKkzL9j8HNVB) | [Sangri](https://open.spotify.com/artist/4skJuoz124HZj4oIRJi8s1) | [She´s fly](https://open.spotify.com/album/2EyfCQBUEYnfmBAJoUVKcT) | 1:53 |
+| 141 | [She´s fly](https://open.spotify.com/track/3WyBZ7gGHCNKkzL9j8HNVB) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [She´s fly](https://open.spotify.com/album/2EyfCQBUEYnfmBAJoUVKcT) | 1:53 |
 | 142 | [Engines](https://open.spotify.com/track/4zj7KEYf0YhhTFbrzK7TkI) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Engines](https://open.spotify.com/album/00GKYTcoOE8YZ7KqVngw48) | 2:20 |
 | 143 | [This Heartbeat](https://open.spotify.com/track/1whP2B0zOAoboIhN2BZtiU) | [Oliver Arnegie](https://open.spotify.com/artist/4EYXiVEDHrBofH6O2WUIQf) | [This Heartbeat](https://open.spotify.com/album/7M2QuLb0I1yhEHDyeOZYIS) | 1:50 |
 | 144 | [Turnin'](https://open.spotify.com/track/1FPITXegY60iam6bYx4p5w) | [Chill Collusion](https://open.spotify.com/artist/1TtW6tuwl4p3aUWydX2kMj) | [Turnin'](https://open.spotify.com/album/2gceX5SfUJzI3bjS4BjzGo) | 2:20 |

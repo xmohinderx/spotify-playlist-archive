@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA.
 
-110 songs - 6 hr 34 min
+111 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Perfect Rose](https://open.spotify.com/track/0Yuw1szR25KD6tmO1KSs9x) | [Jade Palace](https://open.spotify.com/artist/52FzcYdR52cgukrg4A3Tyv) | [Perfect Rose](https://open.spotify.com/album/2E8dJJLDCiKqWMVXuWetCq) | 3:06 | 2022-09-02 |  |
 | [Pipers](https://open.spotify.com/track/7wDZOZiMJxjOH8R9Xv6yvw) | [Yakamora](https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp) | [Pipers](https://open.spotify.com/album/6wh12iQPshA8QQq7Xtunc3) | 4:06 | 2022-09-02 |  |
 | [Pure And Calm](https://open.spotify.com/track/663LF9heB9sWluligQWpG8) | [Golga Nesh](https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg) | [Pure And Calm](https://open.spotify.com/album/6Js79WFhXHyBSaPnM81l0j) | 2:45 | 2022-09-02 |  |
+| [Pure Compassion](https://open.spotify.com/track/2lfF19uOXezWdCisdAtQJh) | [Trancistique](https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I) | [Pure Compassion](https://open.spotify.com/album/3PATLSMzIxGyO16NM4X44Y) | 2:44 | 2023-02-24 |  |
 | [Rejuvenation](https://open.spotify.com/track/3fAV0eFLbmNgCjS3fMhqf6) | [Amela Clouds](https://open.spotify.com/artist/62UW4G3lvlmjFMTy5CUQ6l) | [Rejuvenation](https://open.spotify.com/album/7atqe3Cp2ezHLqBL8mo0OQ) | 3:20 | 2022-09-02 |  |
 | [Rivers Of Flutes](https://open.spotify.com/track/6DewZxWwJwOTWeyIXsntrH) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Rivers Of Flutes](https://open.spotify.com/album/2b62YJsJ8REP4fGZKh9Qv7) | 7:25 | 2022-09-02 |  |
 | [Sachchaee](https://open.spotify.com/track/6nR8ci27qzCAnPqSViqWGr) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [Sachchaee](https://open.spotify.com/album/3qEz8M7AXECCl6vqA2ZKay) | 3:13 | 2022-09-02 |  |

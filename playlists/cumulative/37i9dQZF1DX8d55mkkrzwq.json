@@ -243,6 +243,28 @@
     },
     {
       "album": {
+        "name": "The BeeeeeOOP Walk",
+        "url": "https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118893,
+      "name": "Dance Mode",
+      "url": "https://open.spotify.com/track/6jy21QZaTpS9UgXnWW0ADd"
+    },
+    {
+      "album": {
         "name": "Dance Silly",
         "url": "https://open.spotify.com/album/4Kd1PKvFJR37T0PL7fTn84"
       },
@@ -774,6 +796,46 @@
       "duration_ms": 193213,
       "name": "Single Ladies (Put a Ring on It)",
       "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
+    },
+    {
+      "album": {
+        "name": "Stomp & Clap Dance",
+        "url": "https://open.spotify.com/album/0jeMm22JOSNZl6l2UYHuFd"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150620,
+      "name": "Stomp & Clap Dance",
+      "url": "https://open.spotify.com/track/2MqNNuzgYmoTBMbylhF2Wm"
+    },
+    {
+      "album": {
+        "name": "The BeeeeeOOP Walk",
+        "url": "https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138971,
+      "name": "The BeeeeeOOP Walk",
+      "url": "https://open.spotify.com/track/0FEeadvRW7DD4s7RvfPuFs"
     },
     {
       "album": {

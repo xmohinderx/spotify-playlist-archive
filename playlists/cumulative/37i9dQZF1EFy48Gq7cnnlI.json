@@ -1599,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "WALK YOU HOME",
+        "url": "https://open.spotify.com/album/1aN3aTc9eYkZ7GCchdsodb"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171606,
+      "name": "WALK YOU HOME",
+      "url": "https://open.spotify.com/track/470Vf9SalOKWfNddiqdEPY"
+    },
+    {
+      "album": {
         "name": "Hey, I'm Just like You",
         "url": "https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX"
       },

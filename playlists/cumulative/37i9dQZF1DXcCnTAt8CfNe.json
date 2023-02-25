@@ -2789,6 +2789,24 @@
     },
     {
       "album": {
+        "name": "Hypnotic Energy",
+        "url": "https://open.spotify.com/album/7tB3dez6h6ijKqKlSm1RWH"
+      },
+      "artists": [
+        {
+          "name": "Charmayanne Heart",
+          "url": "https://open.spotify.com/artist/13nuvqJex4tgWPY8Rb8H9H"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Quirky Mood",
+      "url": "https://open.spotify.com/track/30pP0rmYhIjch0vOe1ozDO"
+    },
+    {
+      "album": {
         "name": "Rearview Mirror",
         "url": "https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr"
       },
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 229714,
       "name": "Somewhere In Between",
       "url": "https://open.spotify.com/track/1F10yAIn8aqtAwZoMMffFq"

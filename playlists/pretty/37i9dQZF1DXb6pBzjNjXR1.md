@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,975 likes - 60 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,056 likes - 60 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 34 | [Misava](https://open.spotify.com/track/6BmD8tRPWDgGD2Y0pQY1Ll) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [MISAVA](https://open.spotify.com/album/6Qs01I9CWfP5gitMZrOQPd) | 4:08 |
 | 35 | [Reasons \- Andrea Oliva Remix](https://open.spotify.com/track/7zwmPye7GEgHouNGGFOG8R) | [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M), [Bobbi Fallon](https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Reasons \(Andrea Oliva Remix\)](https://open.spotify.com/album/0ZVMnMR0dTUWHk8BtDFFPc) | 3:17 |
 | 36 | [iVolovolo](https://open.spotify.com/track/1JLoqwDcNStb1HgHAyxWsM) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Michael King](https://open.spotify.com/artist/4QXIwYRu5HTQiTFYWl7Yri) | [iVolovolo](https://open.spotify.com/album/5EHqm4YXBZ0kQLObE0c7WR) | 7:30 |
-| 37 | [Abalaleli](https://open.spotify.com/track/2HfjIixRwnaOd6m3BFxl2V) | [DJ LESOUL](https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm), [NayB](https://open.spotify.com/artist/5ZVZt7lQUWeCxCcrJNByr1) | [Soul Awakening](https://open.spotify.com/album/6xGXv8qccrPr6GSKt6q7wG) | 6:06 |
+| 37 | [Abalaleli](https://open.spotify.com/track/2HfjIixRwnaOd6m3BFxl2V) | [DJ LESOUL](https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm), [NayB](https://open.spotify.com/artist/5ZVZt7lQUWeCxCcrJNByr1), [FunkTone](https://open.spotify.com/artist/5e20FnH1vyHXZId8SMW4H8) | [Soul Awakening](https://open.spotify.com/album/6xGXv8qccrPr6GSKt6q7wG) | 6:06 |
 | 38 | [As'buyeli](https://open.spotify.com/track/3fpoN7kl6ZtOqqbk0enwpq) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [Drumetic Boyz](https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB), [MalumNator](https://open.spotify.com/artist/25IVkspnS4ZKKxGVyOgVnK) | [Respect The Drumboss 2021, Pt\. 1 \(10 Years Of Heavy\-K Edition\)](https://open.spotify.com/album/5CSL70ug8HGlHcYGbD79eA) | 7:06 |
 | 39 | [Smoking Monkey](https://open.spotify.com/track/2oFkuIr1gVgrjvsHUX5p8R) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Smoking Monkey](https://open.spotify.com/album/5wBX45jvEXrOPI0sObjUAr) | 6:59 |
 | 40 | [Figo](https://open.spotify.com/track/6UjeI3QRwqOwSUQXkTnsdk) | [Eyama](https://open.spotify.com/artist/1eWJoMYZJZHfPhXTxodWbd) | [Figo](https://open.spotify.com/album/2BvgYRixw4oWlFJ75fe2Zh) | 6:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,917 likes - 503 songs - 19 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,121 likes - 503 songs - 19 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 22 | [Long Story Short](https://open.spotify.com/track/3TXsvG6SPvXFGyAPs6ZTbS) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Long Story Short](https://open.spotify.com/album/7ov9vbUqrWogXtJIF9EEQC) | 2:07 |
 | 23 | [Orbit](https://open.spotify.com/track/3lqM4y2iiFCSpCqyCQt0nc) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Orbit](https://open.spotify.com/album/4pdPOBvGdqY7FbaG1S7gDB) | 3:00 |
 | 24 | [Ham On Rye](https://open.spotify.com/track/1YHe10629RcHU4qusWR9b1) | [Worn Tape](https://open.spotify.com/artist/6BohbICG26xpKvK0bXezmx) | [Ham On Rye](https://open.spotify.com/album/3kmS2l0JQwzlbcnR0S1hEV) | 2:04 |
-| 25 | [Forgotten Notes](https://open.spotify.com/track/7s9D30tidyLGaPCRMnTPCs) | [Derivata](https://open.spotify.com/artist/2AiZiIawzbASzaIiG3M1bJ) | [Forgotten Notes](https://open.spotify.com/album/6vGfj5wUI07Va1Nh3uO3zd) | 2:18 |
+| 25 | [Forgotten Notes](https://open.spotify.com/track/7s9D30tidyLGaPCRMnTPCs) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Forgotten Notes](https://open.spotify.com/album/6vGfj5wUI07Va1Nh3uO3zd) | 2:18 |
 | 26 | [Take 1](https://open.spotify.com/track/66VJH8lLyazNqJgqSh8tBB) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Take 1](https://open.spotify.com/album/4W7qHwZIGrtWnYQatIv1ek) | 1:46 |
 | 27 | [Nylon](https://open.spotify.com/track/3J6vxmrUjd12Lfdq9UOJVn) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Nylon](https://open.spotify.com/album/4hkOQue9O8fVariqAdrAyY) | 2:30 |
 | 28 | [Final Destination](https://open.spotify.com/track/5uaIokPB63EyNp2e0nbRpN) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh) | [Final Destination](https://open.spotify.com/album/0CFOKN17H7EWQ7dmtA5dpy) | 2:07 |
@@ -295,7 +295,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 285 | [Where Is Umha?](https://open.spotify.com/track/3fYnz85wqb89SKrdrElgXw) | [Umha](https://open.spotify.com/artist/4nCoGJfSn0GQZJ1GKawE14) | [Where Is Umha?](https://open.spotify.com/album/7kN8thNA1SucK1nT6T4fhm) | 2:43 |
 | 286 | [Hatching a Dragon](https://open.spotify.com/track/4l6cRJ99ytW8NUqelWn5IL) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Hatching a Dragon](https://open.spotify.com/album/4ZaPUMuADwnfJLZKEXbPix) | 2:46 |
 | 287 | [Digital Dice](https://open.spotify.com/track/77Sk0jBgzhrBN4aRRTMhv3) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [Digital Dice](https://open.spotify.com/album/0xktBYxr9jLA1bDQdUM5tb) | 2:14 |
-| 288 | [apollo](https://open.spotify.com/track/0uy2NMV7ALGlp1vAh2PRAj) | [uncles](https://open.spotify.com/artist/1CKD1SbQGvHtuNmlIWC31B) | [apollo](https://open.spotify.com/album/77iZVGlibX0x7e6VH7wJCJ) | 2:00 |
+| 288 | [apollo](https://open.spotify.com/track/0uy2NMV7ALGlp1vAh2PRAj) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [apollo](https://open.spotify.com/album/77iZVGlibX0x7e6VH7wJCJ) | 2:00 |
 | 289 | [vibrant minds](https://open.spotify.com/track/7w87QbZsKuCE10ZRDc25XM) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [wonderful gift & vibrant minds](https://open.spotify.com/album/4l7CABNk2vOmtIC8xgHGbT) | 3:02 |
 | 290 | [Drizzle 小雨](https://open.spotify.com/track/4kv4IpxjlFmxk5h9y2ilYx) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Drizzle 小雨](https://open.spotify.com/album/7KhnukWatS70YEr9xPa2iK) | 2:27 |
 | 291 | [Latitude](https://open.spotify.com/track/49XxhyusEUdhDyXcbHKbvQ) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Latitude](https://open.spotify.com/album/3FwNv1Qym9ygcIyuyjbcJi) | 2:54 |
@@ -455,13 +455,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 445 | [Minda](https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer) | [Arakanz](https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ) | [Lofi Music](https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn) | 1:40 |
 | 446 | [Nordic Noir](https://open.spotify.com/track/2WNBXRh0PiCUoFVQNVAPXs) | [Ullis](https://open.spotify.com/artist/3GGTIeWyoM9LCS27Mo2UH2) | [Nordic Noir](https://open.spotify.com/album/5IGLvQzRwTAkKuC8XT5us4) | 2:13 |
 | 447 | [Melon Madness](https://open.spotify.com/track/7pUcVgQVYJuCBUDJOZUjZs) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Melon Madness](https://open.spotify.com/album/4d3SCKEx0V4p1kEPFXoxfu) | 2:18 |
-| 448 | [Vortex.](https://open.spotify.com/track/3l7UqpS6fuxwkzAyhQPRro) | [Akira Kakari](https://open.spotify.com/artist/2Ala9UhXNVYKzfyyLceP2Y) | [Vortex.](https://open.spotify.com/album/3Pk7tN2fVNO9w4GtxqwqZC) | 1:41 |
+| 448 | [Vortex.](https://open.spotify.com/track/3l7UqpS6fuxwkzAyhQPRro) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Vortex.](https://open.spotify.com/album/3Pk7tN2fVNO9w4GtxqwqZC) | 1:41 |
 | 449 | [undefined](https://open.spotify.com/track/4RzY9ZLhrqDwsbTl69va0t) | [Twinkz](https://open.spotify.com/artist/1uAbd4UZwniPiJefEpZfm9) | [undefined](https://open.spotify.com/album/3qJIV0suS9ltJYxEXB1dQF) | 1:41 |
 | 450 | [plastic flowers](https://open.spotify.com/track/6i0C20TvKja1NUOmFvkpE2) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [plastic flowers](https://open.spotify.com/album/21hQzh3cGzCmBcf5IL3pN6) | 3:36 |
 | 451 | [Swimming with You](https://open.spotify.com/track/0heL4m1abtT1Srd0cKT5JM) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Dance Closer](https://open.spotify.com/album/1QskRHXavrB690pfv3hg5L) | 2:55 |
 | 452 | [Feelin' No Pain](https://open.spotify.com/track/7M9jfgEnrrm8ccatvNMlol) | [Keanu Zono](https://open.spotify.com/artist/42bOEF7IsFizQJdzkyDrHp) | [Breaks](https://open.spotify.com/album/1u63gfGDXw5j1etexzVpF7) | 1:47 |
 | 453 | [Monstera](https://open.spotify.com/track/66RNv89kzel0rASLTJBEMr) | [Olivia Bree](https://open.spotify.com/artist/5NhOlx5kRUSoXTwC01W6kl) | [Monstera](https://open.spotify.com/album/0Mt6UMiO30Ayt1kgc5dIMp) | 1:50 |
-| 454 | [Jazzy Girl](https://open.spotify.com/track/3XoXEYaBCRdasiRNHywjWI) | [Z.LIMACO](https://open.spotify.com/artist/3z48GwjAb6HT7eQaougOYg) | [Aries](https://open.spotify.com/album/2yWlRhxxy4q9vNso6XwzcS) | 1:47 |
+| 454 | [Jazzy Girl](https://open.spotify.com/track/3XoXEYaBCRdasiRNHywjWI) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Aries](https://open.spotify.com/album/2yWlRhxxy4q9vNso6XwzcS) | 1:47 |
 | 455 | [refresh](https://open.spotify.com/track/1Wkraab5rp2U8OHH6DOboY) | [Curly Tree](https://open.spotify.com/artist/4YjWmgjadiQn7HLwkb9UbQ) | [refresh](https://open.spotify.com/album/1pbvOK2xz9kWM5ZsCJeGYi) | 2:04 |
 | 456 | [Blossom](https://open.spotify.com/track/3HSulWqe4jfbXxfGzC0toF) | [Esoterak](https://open.spotify.com/artist/1GCwB469xHamTI5nnHjD8F) | [Blossom](https://open.spotify.com/album/78JlQLKwFrVgJ386stGMnP) | 2:00 |
 | 457 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 |

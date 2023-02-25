@@ -276,7 +276,7 @@
 | [空蒼いまま](https://open.spotify.com/track/67dcfh84CB6AoYHMJbmraB) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [空蒼いまま](https://open.spotify.com/album/07MGDYIEIH5d7lPWuUyHmR) | 4:41 | 2023-01-29 | 2023-02-13 |
 | [美しい生き物](https://open.spotify.com/track/3t46ulIN8TXM4LKrx7URtV) | [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [美しい生き物](https://open.spotify.com/album/6K4YYBVED4df0KYVl6NBw2) | 5:28 | 2023-02-19 |  |
 | [脱・借りてきた猫症候群](https://open.spotify.com/track/2TvslvlCJ0YVwQoAeMstDb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [コントラスト\(Special Edition\)](https://open.spotify.com/album/5M8td2xvD7Vg9FNAhEFJj1) | 3:49 | 2023-02-05 | 2023-02-20 |
-| [透明色](https://open.spotify.com/track/4cnjQRgF8sEQzjvBhR5iXD) | [笹川美和](https://open.spotify.com/artist/5WNp2mVlvZrupWTT8PEuAY) | [透明色](https://open.spotify.com/album/3prKWTJabmb8BF2YOiYELu) | 5:20 | 2023-02-12 |  |
+| [透明色](https://open.spotify.com/track/4cnjQRgF8sEQzjvBhR5iXD) | [Miwa Sasagawa](https://open.spotify.com/artist/4luR2xOhou26Hmooyo2cnd) | [透明色](https://open.spotify.com/album/3prKWTJabmb8BF2YOiYELu) | 5:20 | 2023-02-12 |  |
 | [金パンパンのジーンズ](https://open.spotify.com/track/31qVxllzSev7Ap1ASoU0no) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [King Of Everything](https://open.spotify.com/album/6STIGUizJUhGprqXZBJL04) | 3:01 | 2023-02-05 | 2023-02-13 |
 
 \*This playlist was first scraped on 2023-02-01. Prior content cannot be recovered.

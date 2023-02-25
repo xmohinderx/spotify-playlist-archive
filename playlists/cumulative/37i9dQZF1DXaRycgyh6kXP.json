@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 267250,
       "name": "Nobody New Around You",
       "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
@@ -2348,7 +2348,7 @@
     {
       "album": {
         "name": "Anything in Return",
-        "url": "https://open.spotify.com/album/6x1wyRPGlqGJ1b8uQ9UQdX"
+        "url": "https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq"
       },
       "artists": [
         {
@@ -2359,6 +2359,24 @@
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 285973,
+      "name": "So Many Details",
+      "url": "https://open.spotify.com/track/1YpRBLuUWsdahTFhZr9pwK"
+    },
+    {
+      "album": {
+        "name": "Anything in Return",
+        "url": "https://open.spotify.com/album/6x1wyRPGlqGJ1b8uQ9UQdX"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
       "duration_ms": 285986,
       "name": "So Many Details",
       "url": "https://open.spotify.com/track/2ws855WTXvwqRtHyvkFJSy"
@@ -2610,7 +2628,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 242000,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"

@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "ambien",
+        "url": "https://open.spotify.com/album/2V1fOgi7qKLPhPdFK9E5Sz"
+      },
+      "artists": [
+        {
+          "name": "JVLY",
+          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180400,
+      "name": "ambien",
+      "url": "https://open.spotify.com/track/21KwCo6dkh83CypNslVwG1"
+    },
+    {
+      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ"
       },
@@ -2870,6 +2888,28 @@
       "duration_ms": 177637,
       "name": "Forget About Me",
       "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
+    },
+    {
+      "album": {
+        "name": "Get To You",
+        "url": "https://open.spotify.com/album/68Kb2V3PP0mmHrerQpspM5"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226559,
+      "name": "Get To You",
+      "url": "https://open.spotify.com/track/4jfySsGwhaA7TT4RsYzDvM"
     },
     {
       "album": {
@@ -8044,6 +8084,28 @@
       "duration_ms": 213941,
       "name": "With You",
       "url": "https://open.spotify.com/track/7xbO9ZKSXeos37wSnKPfSZ"
+    },
+    {
+      "album": {
+        "name": "Without u (feat. Holywatr)",
+        "url": "https://open.spotify.com/album/38zCcpxCUq4CimSwKVAALj"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        {
+          "name": "Holywatr",
+          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185161,
+      "name": "Without u (feat. Holywatr)",
+      "url": "https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i"
     },
     {
       "album": {

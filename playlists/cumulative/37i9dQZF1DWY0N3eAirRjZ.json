@@ -261,6 +261,28 @@
     },
     {
       "album": {
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1"
+      },
+      "artists": [
+        {
+          "name": "Kolohe Kai",
+          "url": "https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8"
+        },
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Feel the Sunshine",
+      "url": "https://open.spotify.com/track/6ExZ4vG23GsUgAATjdPxwg"
+    },
+    {
+      "album": {
         "name": "Elua",
         "url": "https://open.spotify.com/album/2E0mlWGm6bgO8AHGuVVYDf"
       },

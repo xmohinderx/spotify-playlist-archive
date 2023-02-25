@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 518753,
+  "num_followers": 518870,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYyMTczMiwwMDAwMDAwMGQzNDY0MzQwMzdlMGNkZWVjZjZlZWEzMjcwMWE0NDU0",
+  "snapshot_id": "MTY3NjYyMTczMiwwMDAwMDAwMDA4NDNmMTY1MDA1ZTAwMTlmNTM1MTcwYTk1OTI4Y2Nh",
   "tracks": [
     {
       "added_at": "2022-12-16 09:22:17",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-12-16 09:22:17",
       "album": {
-        "name": "Rock In Threes!",
-        "url": "https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD"
-      },
-      "artists": [
-        {
-          "name": "Black Raven",
-          "url": "https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784"
-        }
-      ],
-      "duration_ms": 185986,
-      "name": "Red Light (Spells Danger)",
-      "url": "https://open.spotify.com/track/0Ujsx46cUBEIgt1rwLl6Wc"
-    },
-    {
-      "added_at": "2022-12-16 09:22:17",
-      "album": {
         "name": "That'll Be The Day",
         "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 138066,
       "name": "Rock Around With Ollie Vee - Alternate Version",
       "url": "https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv"
+    },
+    {
+      "added_at": "2022-12-16 09:22:17",
+      "album": {
+        "name": "Rock In Threes!",
+        "url": "https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD"
+      },
+      "artists": [
+        {
+          "name": "Black Raven",
+          "url": "https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Red Light (Spells Danger)",
+      "url": "https://open.spotify.com/track/0Ujsx46cUBEIgt1rwLl6Wc"
     },
     {
       "added_at": "2022-12-16 09:22:17",
@@ -803,22 +803,18 @@
     {
       "added_at": "2022-12-16 09:22:17",
       "album": {
-        "name": "Don't Come Knocking on My Door",
-        "url": "https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h"
+        "name": "Baby Come Back",
+        "url": "https://open.spotify.com/album/0mt0K3Xgp7zN5nOZFoPJ4L"
       },
       "artists": [
         {
-          "name": "Danny Cooltmoore",
-          "url": "https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF"
-        },
-        {
-          "name": "Small Town Pimps",
-          "url": "https://open.spotify.com/artist/5Pta9k4k1L77SPVrUxAVvS"
+          "name": "TT Grace",
+          "url": "https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc"
         }
       ],
-      "duration_ms": 197324,
-      "name": "Don't Come Knocking on My Door",
-      "url": "https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu"
+      "duration_ms": 201667,
+      "name": "Baby Come Back",
+      "url": "https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0"
     },
     {
       "added_at": "2022-12-16 09:22:17",
@@ -839,34 +835,22 @@
     {
       "added_at": "2022-12-16 09:22:17",
       "album": {
-        "name": "Baby Come Back",
-        "url": "https://open.spotify.com/album/0mt0K3Xgp7zN5nOZFoPJ4L"
+        "name": "Don't Come Knocking on My Door",
+        "url": "https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h"
       },
       "artists": [
         {
-          "name": "TT Grace",
-          "url": "https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc"
-        }
-      ],
-      "duration_ms": 201667,
-      "name": "Baby Come Back",
-      "url": "https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0"
-    },
-    {
-      "added_at": "2022-12-16 09:22:17",
-      "album": {
-        "name": "Bip Bop Boom!",
-        "url": "https://open.spotify.com/album/5p5AoSQkBhNtmWYESALu5x"
-      },
-      "artists": [
+          "name": "Danny Cooltmoore",
+          "url": "https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF"
+        },
         {
-          "name": "Emmy Lou and The Rhythm Boys",
-          "url": "https://open.spotify.com/artist/0VAO3FEhPxiR9e1nAlFzbr"
+          "name": "Small Town Pimps",
+          "url": "https://open.spotify.com/artist/5Pta9k4k1L77SPVrUxAVvS"
         }
       ],
-      "duration_ms": 172293,
-      "name": "Can\u00b4t Get It out of My Mind",
-      "url": "https://open.spotify.com/track/56ViwfGK5zU5UoUXup1Lqv"
+      "duration_ms": 197324,
+      "name": "Don't Come Knocking on My Door",
+      "url": "https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu"
     },
     {
       "added_at": "2022-12-16 09:22:17",
@@ -883,6 +867,22 @@
       "duration_ms": 142560,
       "name": "Bluejean Bop",
       "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
+    },
+    {
+      "added_at": "2022-12-16 09:22:17",
+      "album": {
+        "name": "Bip Bop Boom!",
+        "url": "https://open.spotify.com/album/5p5AoSQkBhNtmWYESALu5x"
+      },
+      "artists": [
+        {
+          "name": "Emmy Lou and The Rhythm Boys",
+          "url": "https://open.spotify.com/artist/0VAO3FEhPxiR9e1nAlFzbr"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Can\u00b4t Get It out of My Mind",
+      "url": "https://open.spotify.com/track/56ViwfGK5zU5UoUXup1Lqv"
     },
     {
       "added_at": "2022-12-16 09:22:17",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-12-16 09:22:17",
       "album": {
-        "name": "Today, Tomorrow And Forever - 20 Classics",
-        "url": "https://open.spotify.com/album/0Fy5ifXfJvQhICrKpPNp1V"
+        "name": "Gene Vincent And The Blue Caps",
+        "url": "https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk"
       },
       "artists": [
         {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
         }
       ],
-      "duration_ms": 141893,
-      "name": "I Got A Lot Of Rhythm In My Soul",
-      "url": "https://open.spotify.com/track/4ZwNjuuUxTMBjRtGocNJCQ"
+      "duration_ms": 135373,
+      "name": "Hold Me, Hug Me, Rock Me",
+      "url": "https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd"
     }
   ],
   "unique_name": "Rockabilly Mania",

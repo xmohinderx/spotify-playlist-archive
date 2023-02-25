@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,198 likes - 190 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,235 likes - 190 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 52 | [Quicksand](https://open.spotify.com/track/5R0hMjFR1pbR0UMqRk2G1m) | [Val Neter](https://open.spotify.com/artist/1oIiTiQaKHPd31g7ALlkRW) | [Quicksand](https://open.spotify.com/album/2qwYNU05DhcUTRF5rtWNiz) | 2:21 |
 | 53 | [The Market](https://open.spotify.com/track/3112UHGw8PKkHkUzwHaccj) | [Fero Vic](https://open.spotify.com/artist/3OgqHqliJSd5TvOKikqzhL) | [The Market](https://open.spotify.com/album/2TusZtzJVnH8CLeG7QIVrU) | 1:54 |
 | 54 | [Rain Man](https://open.spotify.com/track/531kxTKpH4SKQbgREzhgUD) | [Kodi Koda](https://open.spotify.com/artist/4bCq5dWSbCc5ixmaTnsAPW) | [Rain Man](https://open.spotify.com/album/7zHvg8OIupzWCgzPRmOyzZ) | 1:54 |
-| 55 | [Will Power](https://open.spotify.com/track/7a6K95i1GpCbWgntBkORxB) | [Traktoren](https://open.spotify.com/artist/7bkW6OvtFA5CNSDzhsH5MJ) | [Will Power](https://open.spotify.com/album/6RveCgyIaAjAYCUJpwbRZX) | 1:47 |
+| 55 | [Will Power](https://open.spotify.com/track/7a6K95i1GpCbWgntBkORxB) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Will Power](https://open.spotify.com/album/6RveCgyIaAjAYCUJpwbRZX) | 1:47 |
 | 56 | [Endless Night](https://open.spotify.com/track/7hnJLeqLP6o1QY5OHRoK2g) | [tiredjohannes](https://open.spotify.com/artist/4Lm9BNuTUGPqgMBuIpAR2i), [Lost in Space](https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf) | [A Weekend in the Woods](https://open.spotify.com/album/77YOdqJfx29tJehsUHDIuk) | 1:46 |
 | 57 | [Night Sky](https://open.spotify.com/track/3SkA5QzMdVWcTXko6uQv2w) | [Xblaze](https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j) | [Night Sky](https://open.spotify.com/album/4UXwfIhNdsxyoQ0HoVTsTo) | 2:15 |
 | 58 | [in her feelings](https://open.spotify.com/track/0ZPHgREDGiqBHEMymgrCvy) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [in her feelings](https://open.spotify.com/album/4vN1yohGz6ViUIz6iTHhun) | 1:38 |
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 184 | [crosswalks](https://open.spotify.com/track/7qiVwIdSy2NzXWBBhRlN1A) | [figgy](https://open.spotify.com/artist/58kPkxMwTdAjnkvlfjZuip) | [crosswalks](https://open.spotify.com/album/0GEeks82tp7zoDZ0FESXPM) | 2:25 |
 | 185 | [Quiet Corner](https://open.spotify.com/track/4DSlgCK59DficPnapF5kTE) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Quiet Corner](https://open.spotify.com/album/6mAljgRl93rNIkcDzUbFsF) | 2:48 |
 | 186 | [Overlord](https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Extras Extras](https://open.spotify.com/album/389hJo8QkrYFRDpAfSr2br) | 2:13 |
-| 187 | [Beyond Sight](https://open.spotify.com/track/1roMpJzKbIqZzqS79K33oj) | [DunE](https://open.spotify.com/artist/4MWcljkqkBsrfiZu2CA88k) | [Tratoria](https://open.spotify.com/album/45xdMa03XY6auauofA1ESG) | 2:00 |
+| 187 | [Beyond Sight](https://open.spotify.com/track/1roMpJzKbIqZzqS79K33oj) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Tratoria](https://open.spotify.com/album/45xdMa03XY6auauofA1ESG) | 2:00 |
 | 188 | [Sunday Sunset](https://open.spotify.com/track/6KI3tKEcW5NBMIWcHNlh0C) | [Mr\. Donsai](https://open.spotify.com/artist/7lw3xexSn1fipl8UlSXtpX) | [Sunday Sunset](https://open.spotify.com/album/5cLEuqhXzlO6z8reu4V2DD) | 1:40 |
 | 189 | [Once There](https://open.spotify.com/track/69PdAAgrIKX9wY7k35D23o) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4) | [Once There](https://open.spotify.com/album/6hYaa2cFCMKvv9pfeKNodV) | 2:18 |
 | 190 | [where were u](https://open.spotify.com/track/4lPug66ovwaHAqWJ1lUFLW) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [where were u](https://open.spotify.com/album/2HAjfWz1lAJFKhGdO7QJ15) | 2:12 |

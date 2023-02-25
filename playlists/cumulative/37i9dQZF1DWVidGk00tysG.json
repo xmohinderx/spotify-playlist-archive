@@ -3337,6 +3337,28 @@
     },
     {
       "album": {
+        "name": "Chopin: 4 Ballades, Polonaise H\u00e9ro\u00efque, Polonaise Fantaisie, Nocturnes, Waltzes",
+        "url": "https://open.spotify.com/album/7HEVPr4OUtCfuBW0A1IrY6"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Jean-Paul Gasparian",
+          "url": "https://open.spotify.com/artist/1KAYt5PzgkE6W3ExmqoNPn"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172600,
+      "name": "Valse in E Minor, Op. posth.",
+      "url": "https://open.spotify.com/track/5hCGNc0Dtr20NoZ6gXGXw1"
+    },
+    {
+      "album": {
         "name": "Chopin: Rondos and Variations",
         "url": "https://open.spotify.com/album/0g6AaD3H8ZiPw7S4hVRsIM"
       },
@@ -3418,7 +3440,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 172600,
       "name": "Waltz in E Minor, Op. Posth.",
       "url": "https://open.spotify.com/track/2YJgIsU0vreWfKytQelclt"

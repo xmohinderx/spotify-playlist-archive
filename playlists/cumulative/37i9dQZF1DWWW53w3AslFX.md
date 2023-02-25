@@ -4,7 +4,7 @@
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-172 songs - 11 hr 5 min
+173 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [Dopamin](https://open.spotify.com/track/3FGAT7vALG7JY2QZ81MlB7) | [Maja Amcoff](https://open.spotify.com/artist/1rsfJb1udp1uOyUDKbxwsl) | [Dopamin](https://open.spotify.com/album/4dDmjEneAsduCQZjQGLUEc) | 3:10 | 2021-06-15 |  |
 | [Döda mig](https://open.spotify.com/track/5SbeOc3hiLtjSdUCCHtAKW) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY), [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Döda mig](https://open.spotify.com/album/7mgF19LOCuYQ5EE8Bti0yv) | 3:33 | 2021-06-15 |  |
 | [Döda mig](https://open.spotify.com/track/5tNn3yFfZzXasCtq9yU8Sa) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY), [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Döda mig](https://open.spotify.com/album/1CMRCHyu46YlOLpLwkTawx) | 3:33 | 2021-06-15 | 2022-07-29 |
+| [End of Time](https://open.spotify.com/track/10uqm85nQKFa49sT2JPPuB) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [End of Time](https://open.spotify.com/album/3U3XiBGlQSGzEQ9yXlVI57) | 3:22 | 2021-06-15 |  |
 | [End Of Time](https://open.spotify.com/track/1BG5tjofRTxqZOzBDfyFnj) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [End Of Time](https://open.spotify.com/album/4AK73rNJEcr34d8cJ5uH3E) | 3:22 | 2021-06-15 | 2022-07-29 |
-| [End Of Time](https://open.spotify.com/track/4gZ2txLgh6J3nAxQ3vQHdT) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [End Of Time](https://open.spotify.com/album/1lNhOO3dWsC6VoRDML3kGh) | 3:22 | 2021-06-15 |  |
+| [End Of Time](https://open.spotify.com/track/4gZ2txLgh6J3nAxQ3vQHdT) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [End Of Time](https://open.spotify.com/album/1lNhOO3dWsC6VoRDML3kGh) | 3:22 | 2021-06-15 | 2023-02-25 |
 | [Everyone Else In The World](https://open.spotify.com/track/1pmmWF3qZO1DWodZiQ0h0O) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [This Is Stina Nordenstam](https://open.spotify.com/album/1AvkkG7GVesUL13zqiY1M0) | 2:59 | 2021-06-15 |  |
 | [Everyone Else in the World](https://open.spotify.com/track/6Pp3scK3n2TxczQ5oRo1Cw) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [This Is Stina Nordenstam](https://open.spotify.com/album/2W2hkNP8Ta1x9kdhY2uFcL) | 2:59 | 2021-06-15 | 2022-07-29 |
 | [Falcons](https://open.spotify.com/track/1FNvsOtp6bnSOQTBgJOtha) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Docks](https://open.spotify.com/album/46ouJiWK0jC4QlaWP6DTCH) | 3:54 | 2021-06-15 | 2022-10-13 |

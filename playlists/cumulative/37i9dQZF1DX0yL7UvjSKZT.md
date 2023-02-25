@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-238 songs - 14 hr 57 min
+240 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Freedom](https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka) | [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Freedom](https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt) | 3:02 | 2022-07-08 |  |
 | [From The Dust](https://open.spotify.com/track/1kDmlwmcDxHS4KSvNQeyg8) | [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [From The Dust](https://open.spotify.com/album/0kLLLg6wjPc9RjJOaHHhZE) | 3:08 | 2022-01-14 |  |
 | [Going West](https://open.spotify.com/track/6D03AaCUjfhpaxrxf7AoGR) | [Michelle Rivers](https://open.spotify.com/artist/77pTWntGDAr6uRxFq2GZQc) | [Going West](https://open.spotify.com/album/65UYeqA3nLbTopSj14Udzj) | 3:02 | 2022-07-08 | 2022-10-08 |
+| [Golden](https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8) | [Ethan Setiawan](https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn) | [Golden](https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv) | 6:12 | 2023-02-24 |  |
 | [Gone](https://open.spotify.com/track/3A37e37f2HPZ3Nq75akQqW) | [Michelle Rivers](https://open.spotify.com/artist/77pTWntGDAr6uRxFq2GZQc) | [Gone](https://open.spotify.com/album/6RSSNjlOMArkHjtgMU0YFb) | 4:05 | 2022-03-25 |  |
 | [Good Intentions](https://open.spotify.com/track/6586Yb57Ussd4h1A7brBsU) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Good Intentions](https://open.spotify.com/album/39To6wr7OM6vpS3HfvD8Kb) | 3:05 | 2022-01-07 |  |
 | [Gravity](https://open.spotify.com/track/0wdptlNBbiNuog9juv7DyV) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Gravity](https://open.spotify.com/album/7CZK1FnQ4wkZJE6XiwixBq) | 3:41 | 2021-10-01 | 2022-01-22 |
@@ -202,6 +203,7 @@
 | [The Fox and the River](https://open.spotify.com/track/1hRSSZblPpjmq4vU4ZeZ0t) | [Kate Prascher](https://open.spotify.com/artist/26AEagFod7amlwiCyy0JsY) | [The Fox and the River](https://open.spotify.com/album/6ZMRkSwZzjYwBMmM3aCfeq) | 3:05 | 2022-02-25 |  |
 | [The High Road](https://open.spotify.com/track/2FaRTKC8O1ylcBlSY8P8NU) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 2:49 | 2021-10-01 | 2022-04-02 |
 | [The Horn](https://open.spotify.com/track/5mJ54mjLUJ7OSexRIVRmR4) | [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w) | [Lose Me In The Swamp](https://open.spotify.com/album/4WjMjQ7ojwSEaniI6rwMop) | 2:24 | 2022-08-26 |  |
+| [The House on Wisteria](https://open.spotify.com/track/2T9Cki45v1Cdtim8t4IOzC) | [Ben Garnett](https://open.spotify.com/artist/1vMW79N05EBwxt889CvYFO), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP), [Paul Kowert](https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB) | [The House on Wisteria](https://open.spotify.com/album/5GmaughK5b5a2W4F7DwDiM) | 4:58 | 2023-02-24 |  |
 | [The Hunt](https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Hunt](https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h) | 3:22 | 2021-10-01 |  |
 | [The Last Song](https://open.spotify.com/track/60YBCdChTNANPCInBE7nr1) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [The Last Song](https://open.spotify.com/album/051f2CtHH6ZUdj2R4PZ8qF) | 3:05 | 2022-07-29 |  |
 | [The Lonesome Season](https://open.spotify.com/track/3By1O4YkSJyMfBdRc9owtI) | [Andrew Crawford](https://open.spotify.com/artist/3E6LMXGg2UtOW7LaC4OHgN) | [The Lonesome Season](https://open.spotify.com/album/5efbJOZ97cdkB8bsHiRftB) | 3:48 | 2021-12-03 | 2022-07-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,312 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,577 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 5 | [Hamburg](https://open.spotify.com/track/0Vmyu21WT48agiq1Q4yzBs) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Hamburg](https://open.spotify.com/album/5UlsdkEmJDAgFibeZiyexh) | 2:57 |
 | 6 | [Das Schönste](https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Das Schönste](https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1) | 1:36 |
 | 7 | [Linie 72](https://open.spotify.com/track/6xN7HQDr8X0xusxdedwEme) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8), [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [jaaaaaaaaaaaaaaaa!](https://open.spotify.com/album/6K5JrkKsdo5iKcEFxK79Rk) | 3:26 |
-| 8 | [Lass Sie Reden](https://open.spotify.com/track/13aLB1KmkCh52On7ASZMQo) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q), [JESUE](https://open.spotify.com/artist/3EIiFjVdVmLOTCbgqhUCKP) | [Lass Sie Reden](https://open.spotify.com/album/6ACfV8Mg31s9C9O5SsLhi5) | 2:55 |
+| 8 | [Lass Sie Reden](https://open.spotify.com/track/13aLB1KmkCh52On7ASZMQo) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q), [JESUÉ](https://open.spotify.com/artist/3EIiFjVdVmLOTCbgqhUCKP) | [Lass Sie Reden](https://open.spotify.com/album/6ACfV8Mg31s9C9O5SsLhi5) | 2:55 |
 | 9 | [Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Einsame Insel](https://open.spotify.com/album/2bA9VJUcbmzW47Nubm8yOJ) | 2:44 |
 | 10 | [Hoffe du hasst mich](https://open.spotify.com/track/5XhQAJuecAGN1jNKy3ypTp) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Hoffe du hasst mich](https://open.spotify.com/album/1v6pJAsp7hp2eFyP5Jn15Y) | 2:00 |
 | 11 | [Trotzdem](https://open.spotify.com/track/1GyyebDa06oQi6O30C97KW) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [Trotzdem](https://open.spotify.com/album/21E0iNCqzuN4wQsdvCAE2e) | 4:35 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 77 | [Strausberger Platz](https://open.spotify.com/track/3mD1vuBTjDkRJVgZ4ykVsz) | [Torky Tork](https://open.spotify.com/artist/2ULrSviyq7At3VlxHGe1ml), [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga), [Goldroger](https://open.spotify.com/artist/3sAbVxYjczgrSmGrxcu7bM) | [Strausberger Platz](https://open.spotify.com/album/2dkB7IBPXXVswdgsfWfk86) | 2:56 |
 | 78 | [Vampir](https://open.spotify.com/track/0HP48knRNuDkoXJ7ynlbTs) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [Vampir](https://open.spotify.com/album/48qoR2gkEP5yqbkxfUSKko) | 2:34 |
 | 79 | [Autofensterkurbel](https://open.spotify.com/track/17AbXvzl1XQi9beTioB6uV) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Autofensterkurbel](https://open.spotify.com/album/0ejDLlPc6pB1gbrSdgQvLR) | 3:21 |
-| 80 | [ZuuuUuuu](https://open.spotify.com/track/6njHner5kQXzD6DQ74lxPB) | [COBEE](https://open.spotify.com/artist/7dcsTtASWT3hrWnqYbQkw8) | [ZuuuUuuu](https://open.spotify.com/album/3ytI82d89aDnCNwBCAxN6X) | 2:31 |
+| 80 | [ZuuuUuuu](https://open.spotify.com/track/6njHner5kQXzD6DQ74lxPB) | [COBEE](https://open.spotify.com/artist/7dcsTtASWT3hrWnqYbQkw8) | [ZuuuUuuu](https://open.spotify.com/album/3ytI82d89aDnCNwBCAxN6X) | 2:33 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMGM3ZTcwNThmN2MwOGEwOTNkNTFiM2Y1ZjMwMmE2ZDYy`
+Snapshot ID: `MTY3NzIwMDY3NCwwMDAwMDAwMGQ3OTlhNjFjOTUzYTA4ODk3MDVhZmZjNjhjNDNkYjZm`

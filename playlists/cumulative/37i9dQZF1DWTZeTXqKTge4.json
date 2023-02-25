@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 243204,
       "name": "Bisou L\u00e9tal",
       "url": "https://open.spotify.com/track/6BEh9v8ZJlJKynsT79FWhP"
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 171789,
       "name": "Ce Soir",
       "url": "https://open.spotify.com/track/7cjZwi0ZIiotcjPKl0ymLU"
@@ -2317,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "Donne-moi tout",
+        "url": "https://open.spotify.com/album/7qvR4RsNKAzIX4c0C4IBOz"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261176,
+      "name": "Donne-moi tout",
+      "url": "https://open.spotify.com/track/3p2F9SRs390U4dOp3siAcF"
+    },
+    {
+      "album": {
         "name": "Sul Cadran",
         "url": "https://open.spotify.com/album/5uLvNRaVm518IWRcotKuY8"
       },
@@ -2988,7 +3006,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 202500,
       "name": "Fruit d\u00e9fendu",
       "url": "https://open.spotify.com/track/4dS3ZuMB8PBN0y5nOdQRKN"
@@ -5955,6 +5973,24 @@
     },
     {
       "album": {
+        "name": "RS3",
+        "url": "https://open.spotify.com/album/3HXwfpnhD26UWEWESoz4iY"
+      },
+      "artists": [
+        {
+          "name": "Izuku",
+          "url": "https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174638,
+      "name": "RS3",
+      "url": "https://open.spotify.com/track/7ewyfiBDhVBojXtyK26rfA"
+    },
+    {
+      "album": {
         "name": "Izuku 2.0",
         "url": "https://open.spotify.com/album/0ebFweEBDJCo4LySV87ARC"
       },
@@ -6586,6 +6622,28 @@
       "duration_ms": 219193,
       "name": "Tout le monde a raison",
       "url": "https://open.spotify.com/track/5Rm2XSJvhHdx7remj1ZUNQ"
+    },
+    {
+      "album": {
+        "name": "Tout ou rien (De l'autre c\u00f4t\u00e9)",
+        "url": "https://open.spotify.com/album/6TMqENMy33MdWMGJ3ZgApt"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Negrito",
+          "url": "https://open.spotify.com/artist/1i8gGjDzv2FNoy6dHcr25K"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192853,
+      "name": "Tout ou rien - De l'autre c\u00f4t\u00e9",
+      "url": "https://open.spotify.com/track/4Gzv5t4RddodRoc5rR3Vuz"
     },
     {
       "album": {

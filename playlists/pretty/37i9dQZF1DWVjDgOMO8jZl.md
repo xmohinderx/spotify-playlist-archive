@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri il documentario speciale dedicato a Rhove e la playlist con alcune delle top promesse della musica italiana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,850 likes - 76 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,854 likes - 76 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 67 | [MANI STRETTE](https://open.spotify.com/track/5Qo4lrFwepxf9bofOradCv) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:29 |
 | 68 | [Neon](https://open.spotify.com/track/0g6UGZ5tT22aThl4DdKg37) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Neon](https://open.spotify.com/album/3HO76Ham4KcLnMY7PsCCTp) | 3:44 |
 | 69 | ['99](https://open.spotify.com/track/69wEOSLds5SSKy4lUVbaS2) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC) | [Personale](https://open.spotify.com/album/7h6T5PwDffabt7N6xBQh3Q) | 3:03 |
-| 70 | [SERPENTI](https://open.spotify.com/track/0M23VPfGeVvHpBM1rYhULk) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [SERPENTI](https://open.spotify.com/album/5XUlQst8QXgZPheieGtDG8) | 2:14 |
+| 70 | [SERPENTI](https://open.spotify.com/track/5KIKXyoOoLJ4U9gwifJDfR) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [SERPENTI](https://open.spotify.com/album/1urPzjKPh0XGtVVyqsiVXd) | 2:14 |
 | 71 | [DIPINGERE LA NOTTE](https://open.spotify.com/track/5A6Rrz4XBXPMRAlVN1tLOR) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 2:34 |
 | 72 | [Paranoia](https://open.spotify.com/track/3yHmVCjg1ed4BrPJIwj2DL) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Moquette](https://open.spotify.com/album/0oST0heRwy4pEVmiMTTqz7) | 3:21 |
 | 73 | [Petite](https://open.spotify.com/track/2Yuqyd3Ah8n2pcumd7xB6v) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Petite](https://open.spotify.com/album/7lXvqyfPkgQpx6jXTOQBni) | 2:33 |
 | 74 | [Mezzanotte](https://open.spotify.com/track/652Qiud4KveJC4uUDFDXNw) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Mezzanotte](https://open.spotify.com/album/1pNTOh7L7lDbZGelqCpEKo) | 2:04 |
-| 75 | [Carta Stagnola](https://open.spotify.com/track/4AtrGRtFW1EBlarvKAHC7v) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Carta Stagnola](https://open.spotify.com/album/5w1x81v8JwYQ3dxsDwyaFT) | 2:55 |
+| 75 | [Carta Stagnola](https://open.spotify.com/track/61Dg2SAvlHQbdDJmPs1VQk) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Carta Stagnola](https://open.spotify.com/album/2kYztqurm6GZd0VAQL7LkR) | 2:55 |
 | 76 | [Pasta Rossa](https://open.spotify.com/track/4ZM0faoYcQViZmQYKUdpyc) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Macchie](https://open.spotify.com/album/24TYUiY7aNSq7MeI9VamLh) | 3:28 |
 
-Snapshot ID: `MTY3NDYwMTI2MCwwMDAwMDAwMDUyY2M2ZGFmYWIzOGJhZDdiYjM2Nzk2YTA0YTMzYmY1`
+Snapshot ID: `MTY3NDYwMTI2MCwwMDAwMDAwMDNmOWQ2ODA3NDJjYWZmYThkODAyZWU4NWU1NGIwZjlm`

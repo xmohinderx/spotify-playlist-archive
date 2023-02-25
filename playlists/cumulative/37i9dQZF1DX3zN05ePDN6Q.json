@@ -328,6 +328,28 @@
     {
       "album": {
         "name": "Aben\u00e7oado",
+        "url": "https://open.spotify.com/album/2wmoonsjdu80s2YBtu5Knr"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "Matheusiddy",
+          "url": "https://open.spotify.com/artist/61Zw1DZ8Use6z9JATEiV93"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149536,
+      "name": "Aben\u00e7oado",
+      "url": "https://open.spotify.com/track/4KdbIsaPbgBke0NNwcu2Te"
+    },
+    {
+      "album": {
+        "name": "Aben\u00e7oado",
         "url": "https://open.spotify.com/album/2ZbrQKjotHLMaYuE58ggSw"
       },
       "artists": [
@@ -1772,7 +1794,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 190000,
       "name": "Estrela Guia",
       "url": "https://open.spotify.com/track/0QmNBQLTjE8KafF8XCDpdk"
@@ -4160,7 +4182,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 181000,
       "name": "P\u00edlula e Reza",
       "url": "https://open.spotify.com/track/5ivx2o694AnUWUvpKeGv6b"
@@ -4262,6 +4284,28 @@
       "duration_ms": 618000,
       "name": "R.U.A 12 Batalha de Vida",
       "url": "https://open.spotify.com/track/1E8nSsB4EKkKlOQOfUA9mV"
+    },
+    {
+      "album": {
+        "name": "R10",
+        "url": "https://open.spotify.com/album/79z3EHOMwua2KjuOBwRAC4"
+      },
+      "artists": [
+        {
+          "name": "Mc LK",
+          "url": "https://open.spotify.com/artist/0RjXuf7WYcmw1gHzPBM2JZ"
+        },
+        {
+          "name": "Atitude Consciente",
+          "url": "https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153088,
+      "name": "R10",
+      "url": "https://open.spotify.com/track/02IIav2VTu7SKWT2TwA3FI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-305 songs - 9 hr 3 min
+306 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/2oG2vY8Grd7DTiIjHFcw5B) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 3](https://open.spotify.com/album/7w7GcvRvmbe0CGTe8DcxEo) | 2:57 | 2022-02-25 | 2022-07-29 |
 | [Twinkle Twinkle Little Star Baby Nursery Rhyme](https://open.spotify.com/track/6KDxkfDlboIT2UPa4MfR2r) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Baby Nursery Rhymes, Vol\. 6](https://open.spotify.com/album/1fYidXnWQLgapVmgxE9Bc9) | 2:42 | 2022-02-25 |  |
 | [Wee Willie Winkie](https://open.spotify.com/track/4X8FTylLFUBFVI7islILP4) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:17 | 2022-02-25 |  |
+| [What Dinosaurs Do In The Morning](https://open.spotify.com/track/4WmFFVyReDjC4SpjuQDDEb) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Blue’s Clues & You Nursery Rhymes Vol\. 4](https://open.spotify.com/album/0NcoBxWnMK987oCOpMqgWT) | 3:17 | 2023-02-24 |  |
 | [Wheels on the Bus](https://open.spotify.com/track/2TQOTKBoA5pX25hwKXMU2J) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Vehicle Songs](https://open.spotify.com/album/0ZVKNpnP9H1gDz0BoEwjEs) | 3:27 | 2022-02-25 | 2022-11-14 |
 | [Wheels on the Bus](https://open.spotify.com/track/6YQ7aPJhk0MGpwoKfFAEbS) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 1](https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs) | 3:27 | 2022-02-25 |  |
 | [Wheels on the Bus](https://open.spotify.com/track/4kWUwbf0KeT3mRmodSeMfk) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 1](https://open.spotify.com/album/6nwmKOkyH0eaNtND9unuhm) | 3:28 | 2022-02-25 | 2022-07-29 |

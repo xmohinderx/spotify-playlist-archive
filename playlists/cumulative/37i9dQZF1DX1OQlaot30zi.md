@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con Finesse, Sfera, Shiva e Guè\. Nuovi pezzi di Rondo e Plaza, Silent Bob e tanti altri.
 
-1,359 songs - 2 day 14 hr 16 min
+1,360 songs - 2 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,8 @@
 | [Dame Dash](https://open.spotify.com/track/2LkORGk9MXJBbmmey8UqJQ) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz) | [Dame Dash](https://open.spotify.com/album/5uVAtJfp9Slm60nt10LI6C) | 2:32 | 2023-02-24 |  |
 | [Dammi tempo \(feat\. Sela\)](https://open.spotify.com/track/6F3U0d24s1uMR1T6r631Ty) | [Vago](https://open.spotify.com/artist/02HjKECtF08ZgloUOOyWHo), [Sela](https://open.spotify.com/artist/19jFDIVNrmmtUHWF9LHNXN) | [Dammi tempo \(feat\. Sela\)](https://open.spotify.com/album/1417qtVKpnm1j5uDhY7Jy4) | 3:25 | 2022-11-10 | 2022-11-25 |
 | [Damn albarn](https://open.spotify.com/track/0zfiMr2NKxBwuRvsknagFu) | [Aleaka](https://open.spotify.com/artist/63sB40l1dT9CV5vXu1E7q1), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS) | [The almighty birds](https://open.spotify.com/album/79aApijDu3waJhvArpfpR2) | 1:36 | 2022-09-01 | 2022-09-23 |
-| [Dancer \(feat\. Noizy, Rondodasosa & Capo Plaza\)](https://open.spotify.com/track/5092WBFsPhz41OsJJL6HRa) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Dancer \(feat\. Noizy, Rondodasosa & Capo Plaza\)](https://open.spotify.com/album/5iYD4DOP1xbIf03042AraN) | 3:11 | 2023-02-24 |  |
+| [Dancer \(feat\. Noizy, Rondodasosa & Capo Plaza\)](https://open.spotify.com/track/5092WBFsPhz41OsJJL6HRa) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Dancer \(feat\. Noizy, Rondodasosa & Capo Plaza\)](https://open.spotify.com/album/5iYD4DOP1xbIf03042AraN) | 3:11 | 2023-02-24 | 2023-02-25 |
+| [Dancer \(feat\. Noizy, Rondodasosa & Capo Plaza\)](https://open.spotify.com/track/57ubCgw0giJhVSayXBJ0xH) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [One Of A Kind](https://open.spotify.com/album/2IhLU2znWzCRnwUthzjrRe) | 3:11 | 2023-02-24 |  |
 | [DARKWEB](https://open.spotify.com/track/55PV87VZ2YRpBsirQyKh68) | [Lil Godvz](https://open.spotify.com/artist/5tL48hPhonwuIqhm13SOq6) | [DARKWEB](https://open.spotify.com/album/1CRBtDJllg10UDtjMKIsF3) | 2:06 | 2022-06-23 | 2022-07-01 |
 | [Darlin'](https://open.spotify.com/track/6FurxdQAUJcoXaB4J5nOEQ) | [Halba x Foldino](https://open.spotify.com/artist/4RFIOsKA6DuzE9DGGOHjPT) | [Boulevardier](https://open.spotify.com/album/4NMRoRWoYnRSu7wh1SngQb) | 2:40 | 2022-05-12 | 2022-05-20 |
 | [Dawg](https://open.spotify.com/track/59BWRUiUYhNxv7y8Ji6pXA) | [STT](https://open.spotify.com/artist/6c60C0NWReBTcF3GPLvjYY), [Julian Ross](https://open.spotify.com/artist/1zS6KfVgteM7pt8GvkNyKR) | [Dawg](https://open.spotify.com/album/3ungEzXZWgpVqIpfONaecE) | 2:28 | 2022-09-01 | 2022-09-23 |

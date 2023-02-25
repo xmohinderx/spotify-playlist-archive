@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-712 songs - 1 day 13 hr 32 min
+713 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [For Simplicity's Sake](https://open.spotify.com/track/6pQxeKnVSxdasJR9PEfFom) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [For Simplicity's Sake](https://open.spotify.com/album/4zN9OaGKrnJOb5y8bukzc7) | 1:56 | 2022-02-15 |  |
 | [Forest Canvas](https://open.spotify.com/track/0Y67hBf8raOl4JYVvohHR2) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 3:59 | 2020-01-03 | 2021-06-16 |
 | [Forgotten Years](https://open.spotify.com/track/0IaOmXNdNpq5TxRpKYfLjN) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Daydream In Silver](https://open.spotify.com/album/0W2X2Yarkdype9wknwGETD) | 3:10 | 2019-05-26\* | 2020-01-03 |
-| [Fortress](https://open.spotify.com/track/1pLbdZxfqP0jPqCbJB4A5N) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [The One We Got](https://open.spotify.com/album/1dAqoThlD7EKzg0Kg03NY3) | 3:20 | 2019-05-26\* |  |
+| [Fortress](https://open.spotify.com/track/1pLbdZxfqP0jPqCbJB4A5N) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [The One We Got](https://open.spotify.com/album/1dAqoThlD7EKzg0Kg03NY3) | 3:20 | 2019-05-26\* | 2023-02-25 |
 | [Foton](https://open.spotify.com/track/67DTlUlAPqjtNCC7zVdStU) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Texturalista](https://open.spotify.com/album/3dRDX0QndBDdTIda56G5xy) | 1:49 | 2019-12-07 | 2020-05-18 |
 | [four](https://open.spotify.com/track/2199hIaiQRnAbJaOS44MPt) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [four](https://open.spotify.com/album/195r62JIPqm8a7cANxzqfN) | 3:00 | 2019-05-26\* | 2020-01-03 |
 | [Fracture](https://open.spotify.com/track/5IQNIj54PxmBvPVh2fLuEH) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:17 | 2019-05-26\* | 2022-07-16 |
@@ -415,6 +415,7 @@
 | [Montania](https://open.spotify.com/track/6t3e2UfHXGVdxXJhPYj6Lg) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Montania](https://open.spotify.com/album/3dwBW5p65buVtiTmr2a0Wl) | 2:58 | 2021-10-06 |  |
 | [Moons in the Rings](https://open.spotify.com/track/3Y3u0mF1FF8Psi7PDnSvLI) | [Interstellar Journey](https://open.spotify.com/artist/2lVUuG2asaRByPWesKcMW4) | [Tides on Titan](https://open.spotify.com/album/09Kpj515fwXraK5qYOpx3F) | 2:56 | 2020-05-09 |  |
 | [Moonstone Beach](https://open.spotify.com/track/2EqyTHz6iFnmitFW3x1TiG) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Moonstone Beach](https://open.spotify.com/album/5zLFMYGErM2WYAYMbFZLNs) | 3:06 | 2019-07-27 |  |
+| [Morgongåva](https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Morgongåva](https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP) | 2:46 | 2023-02-25 |  |
 | [Morning Prayer](https://open.spotify.com/track/3qvydcklZvW1NAckstunKa) | [snowfx](https://open.spotify.com/artist/7qEljPmXqZJgrnV3SV7Kyd) | [Sol III](https://open.spotify.com/album/5iuAYld49EAB0vZqXBFt4m) | 2:08 | 2020-08-22 | 2021-09-14 |
 | [Motion](https://open.spotify.com/track/5770s9jrliAaLofaywzQjf) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Space](https://open.spotify.com/album/7jsqMuym5gtuuEuavy697d) | 3:35 | 2019-12-07 | 2021-10-13 |
 | [Mount Kailas](https://open.spotify.com/track/4N8fN2tAm0WbJ57ZIFsvTm) | [Enzo Electronic](https://open.spotify.com/artist/4kyWODlwZxF4tiAe4LblhX) | [ENZO](https://open.spotify.com/album/0f8wVahJ16XjT0tcyCKQkk) | 3:27 | 2019-05-26\* | 2020-05-18 |

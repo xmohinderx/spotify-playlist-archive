@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-386 songs - 19 hr 10 min
+388 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Pure Air](https://open.spotify.com/track/5dMI1sHkCxUWvh8vksx0Rz) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Pure Air](https://open.spotify.com/album/5DaR78zcqu8qM8MB5qRJwq) | 3:31 | 2021-11-10 |  |
 | [Querencia](https://open.spotify.com/track/4VdLOyYe6ZEyLx0LbYdyvy) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Querencia](https://open.spotify.com/album/6xqRYu3sp4EmrKESzm68tz) | 3:14 | 2021-11-10 |  |
 | [Recognition](https://open.spotify.com/track/6xVQVTHr7fV0LF4A0Fu2nZ) | [Vivienne Mathieu](https://open.spotify.com/artist/5E76BhZoqL5bXb38tiDtDu) | [Recognition](https://open.spotify.com/album/4l7eJPNHJBWCJW2Za5m1tz) | 2:32 | 2022-11-11 |  |
+| [Red Sky](https://open.spotify.com/track/1glTjQt7A1X2BkDDkQMnUV) | [Rippness.](https://open.spotify.com/artist/1QxFVzh0whkoFwPgwxfmBx) | [Red Sky](https://open.spotify.com/album/3BwaHNXVmLZiqbKs8Gf4J8) | 3:08 | 2023-02-24 |  |
 | [Reflections](https://open.spotify.com/track/33Gd870hCA6BtxcUsux3II) | [Arico Mist](https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu) | [Reflections](https://open.spotify.com/album/5HFHTBrxqpifCFFd4nZ28k) | 2:38 | 2022-09-30 |  |
 | [Reflections](https://open.spotify.com/track/2RZxw2tD8VenO9k5vawirO) | [Klara Forýs](https://open.spotify.com/artist/2IxUpCvKOJSylcWrtRD6i9) | [Reflections](https://open.spotify.com/album/2UFypZ8OWd8iHsdcfjkdLT) | 2:46 | 2021-11-10 |  |
 | [Regalo](https://open.spotify.com/track/5qcmNLdFifX58Gv1GurM3D) | [Lia Ventie](https://open.spotify.com/artist/3pYx1bZWCGHLXHeiicrQDK) | [Ayudarme](https://open.spotify.com/album/1auxggMk9ZEffExwWJvMcz) | 2:00 | 2022-12-20 |  |
@@ -331,6 +332,7 @@
 | [Softly](https://open.spotify.com/track/21qtqBROcwDDNJD8ppAuwB) | [Delawares](https://open.spotify.com/artist/3gvjsh2EulaYf5hIlS7Lk1) | [Softly](https://open.spotify.com/album/3eHldyd3B8vooLnelcDW8b) | 2:16 | 2022-10-21 |  |
 | [Somnium](https://open.spotify.com/track/13o8mCXKQvMhuuNErL4JZ2) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Somnium](https://open.spotify.com/album/6GGCSed3CmViPzJ244Wggg) | 3:30 | 2022-09-30 |  |
 | [somnus state](https://open.spotify.com/track/6mVQDQzb0msscfSVhVwp7g) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [somnus state](https://open.spotify.com/album/71t1pesucp5VobQLTKOqhI) | 4:40 | 2021-11-10 | 2023-02-18 |
+| [Soothing Silence](https://open.spotify.com/track/3upcrEDvoH2Bz9i7hZc2Jh) | [Lulu Ray](https://open.spotify.com/artist/31JkhPiJvenq0fyg2UzdWJ) | [Soothing Silence](https://open.spotify.com/album/4eQ7KKy8yS84W0SrvIH7LP) | 3:10 | 2023-02-24 |  |
 | [Soul Connect](https://open.spotify.com/track/1EVG8oKkYocWnjot9oPZHB) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Soul Connect](https://open.spotify.com/album/4CA9koIi5G0oRNLrPxv6UL) | 3:16 | 2021-11-10 |  |
 | [Soundness](https://open.spotify.com/track/45rdJZmlX5VNVcBEqEO89p) | [Sleepy Sine](https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa) | [Soundness](https://open.spotify.com/album/4uSscDI9dHSSI62hpoaHCp) | 3:05 | 2023-01-13 |  |
 | [South of Lapland](https://open.spotify.com/track/4iyc69HBbLOpfOgwBjn1LS) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [South of Lapland](https://open.spotify.com/album/2Ms9zH4Skbpa0fbIYTLeu5) | 3:16 | 2021-11-10 |  |

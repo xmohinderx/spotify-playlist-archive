@@ -1018,6 +1018,24 @@
     {
       "album": {
         "name": "Burial",
+        "url": "https://open.spotify.com/album/6WNWQa1Is48wF6ggW4TzC4"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133694,
+      "name": "Night Bus",
+      "url": "https://open.spotify.com/track/3dVdnRZ0LGOfNUp6bxfWKI"
+    },
+    {
+      "album": {
+        "name": "Burial",
         "url": "https://open.spotify.com/album/38MtIlsByS3HzNX7FrfEfF"
       },
       "artists": [
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 140440,
       "name": "Night Bus",
       "url": "https://open.spotify.com/track/02M7FV29TMBj8GSxECo5Bm"

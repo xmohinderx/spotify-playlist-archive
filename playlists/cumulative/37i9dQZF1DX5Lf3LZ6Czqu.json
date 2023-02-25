@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Instrumental guitar shreddery. Cover: Polyphia",
+  "description": "Instrumental guitar shreddery. Cover: Covet",
   "name": "String Theory",
   "tracks": [
     {
@@ -686,6 +686,24 @@
       "duration_ms": 222946,
       "name": "Fat Hair",
       "url": "https://open.spotify.com/track/7xtnntJ25E0IGT9fQny0IP"
+    },
+    {
+      "album": {
+        "name": "firebird",
+        "url": "https://open.spotify.com/album/16p01UoGeKCDn0r4E9zrok"
+      },
+      "artists": [
+        {
+          "name": "Covet",
+          "url": "https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280235,
+      "name": "firebird",
+      "url": "https://open.spotify.com/track/4aVjtxZglv9VpHiOvb2F6m"
     },
     {
       "album": {
@@ -1758,6 +1776,32 @@
       "duration_ms": 337360,
       "name": "Star Catchers (feat. Steve Lukather, Jason \u201cJT\u201d Thomas, Wes Stephenson, Philip Lassiter & The Philthy Hornz)",
       "url": "https://open.spotify.com/track/0jLeYaIIEyCkZSW3gxgAeL"
+    },
+    {
+      "album": {
+        "name": "Stay High [Feat. Cory Henry]",
+        "url": "https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X"
+      },
+      "artists": [
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        },
+        {
+          "name": "Stanton Moore",
+          "url": "https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193551,
+      "name": "Stay High [Feat. Cory Henry]",
+      "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
     },
     {
       "album": {

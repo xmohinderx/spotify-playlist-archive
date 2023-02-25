@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 56999,
+  "num_followers": 57068,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDg5YTEwYzU3Y2VlMDE5ZGI2YjRlYWFjNmIyNzJiNzE4",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDVhOTUzMTZjY2M1YzdmOTQ3OGUwMjg5NGJkYmExMmM2",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Grito Chayero",
-        "url": "https://open.spotify.com/album/0Q5etdp3c84hBS4RgfPv4O"
-      },
-      "artists": [
-        {
-          "name": "Sergio Galleguillo Y Los Amigos",
-          "url": "https://open.spotify.com/artist/4RWsSjLE6TMBwdYzHj2NiO"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Fabula De Amor",
-      "url": "https://open.spotify.com/track/7KAX0hjF1ieKr0k5rSPDNH"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "PACHAKUTI",
         "url": "https://open.spotify.com/album/5vSZkx2vIdCNH0IVndOHpi"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 216066,
       "name": "Te Pido En Agosto",
       "url": "https://open.spotify.com/track/39EGOt9hySCsyT0Bamt8v2"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Grito Chayero",
+        "url": "https://open.spotify.com/album/0Q5etdp3c84hBS4RgfPv4O"
+      },
+      "artists": [
+        {
+          "name": "Sergio Galleguillo Y Los Amigos",
+          "url": "https://open.spotify.com/artist/4RWsSjLE6TMBwdYzHj2NiO"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Fabula De Amor",
+      "url": "https://open.spotify.com/track/7KAX0hjF1ieKr0k5rSPDNH"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -807,18 +807,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Ven Por Mi",
-        "url": "https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8"
+        "name": "De Barrio",
+        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
       },
       "artists": [
         {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+          "name": "Franco Ramirez",
+          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
+        },
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 301800,
-      "name": "Mucho M\u00e1s Que Piel",
-      "url": "https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw"
+      "duration_ms": 212893,
+      "name": "A una Rosa",
+      "url": "https://open.spotify.com/track/0e1ffAArZDxgak5mEXdPzD"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -839,22 +843,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "De Barrio",
-        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
+        "name": "Ven Por Mi",
+        "url": "https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8"
       },
       "artists": [
         {
-          "name": "Franco Ramirez",
-          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
-        },
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 212893,
-      "name": "A una Rosa",
-      "url": "https://open.spotify.com/track/0e1ffAArZDxgak5mEXdPzD"
+      "duration_ms": 301800,
+      "name": "Mucho M\u00e1s Que Piel",
+      "url": "https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "La Flor",
-        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
-      },
-      "artists": [
-        {
-          "name": "Francisco Benitez",
-          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
-        }
-      ],
-      "duration_ms": 190113,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "La \u00daltima Estrella",
         "url": "https://open.spotify.com/album/3ZRhNcfRj7QzjK9iDNPQDc"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 228388,
       "name": "No Me Quiero Olvidar",
       "url": "https://open.spotify.com/track/0pwdW67It2KSrOIRVqFLiQ"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "La Flor",
+        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
+      },
+      "artists": [
+        {
+          "name": "Francisco Benitez",
+          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
+        }
+      ],
+      "duration_ms": 190113,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
     },
     {
       "added_at": "2022-10-07 03:00:00",

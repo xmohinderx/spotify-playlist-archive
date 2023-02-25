@@ -131,6 +131,28 @@
     },
     {
       "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5KvkvQqiXctKJJPUPTUUtV"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381389,
+      "name": "All About You - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/3N0aOVY4xR4sOP3hUCKiWN"
+    },
+    {
+      "album": {
         "name": "All I Ever Need",
         "url": "https://open.spotify.com/album/05QEZYQlfpjn0Y8dXnImv5"
       },

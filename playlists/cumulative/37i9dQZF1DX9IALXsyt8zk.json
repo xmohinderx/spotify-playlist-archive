@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Unearthing up-and-coming Korean acts. Cover: SOLE",
+  "description": "Unearthing up-and-coming Korean acts. Cover: Huh!(\ud5c8\uc131\ud604)",
   "name": "RADAR Korea",
   "tracks": [
     {
@@ -1485,6 +1485,28 @@
     },
     {
       "album": {
+        "name": "Midnight law",
+        "url": "https://open.spotify.com/album/0AoUsMZkciETOGsxubJX77"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185693,
+      "name": "HDYF (Feat. Hash Swan)",
+      "url": "https://open.spotify.com/track/32dRFUzFQND2iuWeCnWdx8"
+    },
+    {
+      "album": {
         "name": "Belief",
         "url": "https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw"
       },
@@ -2214,6 +2236,28 @@
       "duration_ms": 195026,
       "name": "MIA (Feat. CAMO, WOODZ)",
       "url": "https://open.spotify.com/track/5IzjE4F631lSstz8Co5U4O"
+    },
+    {
+      "album": {
+        "name": "Midnight law",
+        "url": "https://open.spotify.com/album/0AoUsMZkciETOGsxubJX77"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165573,
+      "name": "Midnight law (Feat. Skinny Brown)",
+      "url": "https://open.spotify.com/track/4Wd27xed0SZzYPeLdgHbsC"
     },
     {
       "album": {

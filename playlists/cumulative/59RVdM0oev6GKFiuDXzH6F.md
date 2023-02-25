@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-69 songs - 3 hr 15 min
+71 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Back to Groovy](https://open.spotify.com/track/3CTtxRGgUgrNJkDi01wjQd) | [Glaxxs](https://open.spotify.com/artist/2fS24qXq5fKHqpREWNxdmH) | [Back to Groovy](https://open.spotify.com/album/1YOBaHq1oH2UCpv4mFgeZc) | 3:10 | 2023-02-12 |  |
 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 | 2023-02-12 |  |
 | [Bounded](https://open.spotify.com/track/32obiX5zfNijobb5dTXaNe) | [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8) | [Bounded](https://open.spotify.com/album/1GKagAUJuYSXhVPMNDFLru) | 2:49 | 2023-02-12 |  |
+| [BT1](https://open.spotify.com/track/59gxVInWEnShtkIrNGUhaE) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [BT1](https://open.spotify.com/album/3mrqyJRhizCxGwOn2s7mGq) | 3:01 | 2023-02-24 |  |
 | [Cadidonia](https://open.spotify.com/track/7aGhrdyomZhRlwV1lOAs9P) | [Sr\. Funkie](https://open.spotify.com/artist/5eiKMITkmVJ07m1HoKAx3n) | [You Got Soul](https://open.spotify.com/album/3jpUTkWUzmpBsdHmgd3Yhs) | 4:30 | 2023-02-12 |  |
 | [Carol Of The Bells](https://open.spotify.com/track/1JpJXN0XW7Y72GbYAEIFbE) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Carol Of The Bells](https://open.spotify.com/album/1y4jWk6gl9MVSusP2xpixy) | 3:27 | 2023-02-12 |  |
 | [Children Of The Resistance](https://open.spotify.com/track/0Iaan4z8XUttGENkEbmZFP) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Suark](https://open.spotify.com/artist/6iLBBp88stAFjZdnn0HsdD), [Armando](https://open.spotify.com/artist/4JSChvgYDHRIC9CbaxReS9) | [Children Of The Resistance](https://open.spotify.com/album/54Jnky4Rfl83BTAiDB5dwo) | 2:53 | 2023-02-12 |  |
@@ -67,6 +68,7 @@
 | [The Drill](https://open.spotify.com/track/0vOOiBEAu9rzPW3xVB5TbN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [The Drill](https://open.spotify.com/album/5KhyVUhewmJvorDj9znDrY) | 2:19 | 2023-02-12 |  |
 | [The Freaks](https://open.spotify.com/track/1cTHUMdInmZvxVCHnzHOj2) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [The Freaks](https://open.spotify.com/album/1AZC2QcPfpS3Dn0Fpoodwb) | 4:16 | 2023-02-17 |  |
 | [The Funky Beat](https://open.spotify.com/track/51fTFfFagxRASIcULWFKqG) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [The Funky Beat](https://open.spotify.com/album/5Lf8Ll5FO250z2yfwL0M5U) | 2:20 | 2023-02-12 |  |
+| [Trujillana](https://open.spotify.com/track/47zvDIWnlhZWcWhZEDauTA) | [Maxx Lyon](https://open.spotify.com/artist/43CU8m11gF8fr4QLTxQdfW), [Andrew Hansel](https://open.spotify.com/artist/71IPHegMvPMkqmJfNs7A4V) | [Trujillana](https://open.spotify.com/album/1wR0T66gmIx2bUtPqGRX66) | 2:00 | 2023-02-24 |  |
 | [Trumpz](https://open.spotify.com/track/0fpA44Ez6El7yJHLgln0SU) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Trumpz](https://open.spotify.com/album/4YN8jzTKellfwWAcjdTDXC) | 2:07 | 2023-02-12 |  |
 | [Up To No Good](https://open.spotify.com/track/6Dxvw735HPuIEHkmhc6r9M) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL), [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl) | [Up To No Good](https://open.spotify.com/album/4g4jrbnodImR4dcwN4yv9s) | 2:32 | 2023-02-12 |  |
 | [Voodoo](https://open.spotify.com/track/7oJQgko4T7fOpu07ogRQH5) | [Ibrahin Cuevas](https://open.spotify.com/artist/26yogyTGYEqR0wbVACTzoQ), [Thvndex](https://open.spotify.com/artist/0Eospqk319OpNppJNNb4Ol) | [Voodoo](https://open.spotify.com/album/6qnEnv7henF3Card4F7FTa) | 2:53 | 2023-02-12 |  |

@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-507 songs - 21 hr 37 min
+508 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,9 +106,10 @@
 | [Days before](https://open.spotify.com/track/0Yr84Z0J8XdIFgef0Gm4wC) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Days Before](https://open.spotify.com/album/0gSYHXWZ0niLxoUr7A63nq) | 2:47 | 2023-02-17 |  |
 | [Dazzle](https://open.spotify.com/track/7wivunAmLKAfZ9j2fQrt31) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Radiance](https://open.spotify.com/album/3bU4iy7ozrDdFKvxehO0me) | 3:12 | 2021-11-10 | 2022-06-03 |
 | [Deductivism](https://open.spotify.com/track/44YPc6y7Wnh3Ochz19gVcF) | [Sasupt](https://open.spotify.com/artist/1UZDqEZC20MLeXRrbhtWbq) | [Axioms](https://open.spotify.com/album/51bUK9WeQYek8YkJ4kgWik) | 3:05 | 2021-11-10 | 2022-07-01 |
+| [Deep Blue](https://open.spotify.com/track/4N7vzUz5kg4emuU8py5PvZ) | [whiteglass](https://open.spotify.com/artist/6FrISpMCXqXSsCsqhTxnL2) | [Deep Blue](https://open.spotify.com/album/1dx8RWnHxRTuTa9LE3vROE) | 2:27 | 2023-02-24 |  |
 | [Deep Meaning](https://open.spotify.com/track/5PLhPQX56pD9C21PoPFJG7) | [Ledd Blue](https://open.spotify.com/artist/1YGWpdwoILEnUbvEZx3xnE) | [Deep Meaning](https://open.spotify.com/album/2dGnQPpPb7gn4qyawD9CU5) | 3:00 | 2022-12-09 |  |
 | [Departure](https://open.spotify.com/track/4RXvT4yndTczEZFmCo6J4b) | [Liwia Antas](https://open.spotify.com/artist/2vDjp8PFFifCgAE0MZkHap) | [Departure](https://open.spotify.com/album/3iTN7tZcBKpDYjgx8PF61K) | 3:41 | 2021-11-10 | 2022-07-08 |
-| [desert days](https://open.spotify.com/track/59PI1yLKqsJKTrTbW2st4H) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [Trankilo](https://open.spotify.com/artist/1n2Ze3zEdTYw5nc8yq4ukP) | [desert days](https://open.spotify.com/album/2az23kSrvKgdQaNJYks1wF) | 2:32 | 2022-05-20 |  |
+| [desert days](https://open.spotify.com/track/59PI1yLKqsJKTrTbW2st4H) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [Trankilo](https://open.spotify.com/artist/1n2Ze3zEdTYw5nc8yq4ukP) | [desert days](https://open.spotify.com/album/2az23kSrvKgdQaNJYks1wF) | 2:32 | 2022-05-20 | 2023-02-25 |
 | [Dial In](https://open.spotify.com/track/74UYdNAk3qSD6U4V5DShef) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Call Me](https://open.spotify.com/album/6MD0V6Ap6pdO6trtrG8Vhg) | 2:59 | 2022-12-09 |  |
 | [Diffuser](https://open.spotify.com/track/1GELFfaprYpuF5iqleQ0H9) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Diffuser](https://open.spotify.com/album/1vcuZSxwSyWkHwyyMtxKci) | 4:48 | 2021-11-10 | 2022-07-08 |
 | [Dim Eyes](https://open.spotify.com/track/12c2Ttzw2pzF95V7NcGil6) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Dim Eyes](https://open.spotify.com/album/1GsILIyXFnCifMHBVPUiec) | 3:22 | 2021-11-10 |  |
@@ -168,7 +169,7 @@
 | [Fruity Flavor](https://open.spotify.com/track/4a5zK2frFoJIH7MsJvC7Lp) | [Gaura](https://open.spotify.com/artist/4Zv99UKFFZKDVl2OsQS7Vp) | [ENGL](https://open.spotify.com/album/1TlcUSr83vfKHkQ2RCsnWI) | 1:52 | 2021-11-10 | 2022-08-20 |
 | [Fun Fact](https://open.spotify.com/track/4bCQBQwCFZ9fGIzbBe8aie) | [Dozed Again](https://open.spotify.com/artist/3vOFXxcfuGSZQKpj6Ueinf) | [Fun Fact](https://open.spotify.com/album/2x7mmLM0rn4USeYDSGaEMX) | 2:01 | 2023-01-13 |  |
 | [Future Love](https://open.spotify.com/track/4exS0JoS1YgAaqdINA6FGS) | [420am](https://open.spotify.com/artist/2KPFkiMzNAp6jiKak35U6m) | [Future Love](https://open.spotify.com/album/2SGR9Rhs2ooZtY7Tx7LeV1) | 2:28 | 2022-10-28 |  |
-| [gardening notebook](https://open.spotify.com/track/6aMVqYKx96gZ88Q4wYT4eN) | [slightly wounded](https://open.spotify.com/artist/08WY7ZImEiZl4QgHPFM1MR) | [gardening notebook](https://open.spotify.com/album/4skOFMUf6dKMN9QNaj9sKF) | 1:58 | 2022-01-21 |  |
+| [gardening notebook](https://open.spotify.com/track/6aMVqYKx96gZ88Q4wYT4eN) | [feline empire](https://open.spotify.com/artist/7pNrcc1Bgzb1i88M8TnIVX) | [gardening notebook](https://open.spotify.com/album/4skOFMUf6dKMN9QNaj9sKF) | 1:58 | 2022-01-21 |  |
 | [gather around](https://open.spotify.com/track/3FrRr3UM1bdurTy0bxdU3f) | [Starzero](https://open.spotify.com/artist/2WmS1I4SYqnO6zLSXMpIlj) | [gather around](https://open.spotify.com/album/3DmutGlmDC8W3Ie9PLQiZ4) | 2:35 | 2021-11-10 | 2022-07-22 |
 | [Ghost](https://open.spotify.com/track/0lWKcKgQO4BN6z7LPS7ONH) | [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [Summit One](https://open.spotify.com/artist/4LjrwGL6ImaewVOcW6kJ42) | [Ghost](https://open.spotify.com/album/0I5nixTUAakGkdaqkiNOwW) | 2:30 | 2022-10-28 |  |
 | [ginseng](https://open.spotify.com/track/5TFVRaIcvHzbrgmBjcioTp) | [Druid](https://open.spotify.com/artist/1TdXwGMZuFrMWwqGqDSIZq) | [ginseng](https://open.spotify.com/album/5tpaXVD1rm5bud4Jkzo7XF) | 2:03 | 2022-04-15 |  |
@@ -354,7 +355,7 @@
 | [Rainbow Roadtrip](https://open.spotify.com/track/2ZJEPURa12Zyhj5X2r8DGT) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rainbow Roadtrip](https://open.spotify.com/album/5EFl9RAEIWatfOHJcM3HPR) | 3:31 | 2021-11-10 | 2022-08-20 |
 | [Real Artist](https://open.spotify.com/track/13uiS7Ku1hhcU6F6DRIwAL) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [The Daily News](https://open.spotify.com/album/5bfuQMLLbJoryVcNEbplt5) | 1:01 | 2022-05-10 | 2022-09-02 |
 | [Real space](https://open.spotify.com/track/5vaFORH4cfFX5z3qerjAVk) | [Etherealz](https://open.spotify.com/artist/0aIHVgvyg6RLaXkbg52RN8) | [Real space](https://open.spotify.com/album/3y8sIzjrmZe2UEQ2QV3RRg) | 1:59 | 2021-11-10 | 2022-06-03 |
-| [recession](https://open.spotify.com/track/7cayqs4BnxtUMuPfrj3if8) | [Sphinxa](https://open.spotify.com/artist/6iTEnXh4upG3YW3yRfoiCj) | [Recession](https://open.spotify.com/album/1tBpP6NT0HmFqqOTTQ5cNT) | 2:24 | 2022-10-07 |  |
+| [Recession](https://open.spotify.com/track/7cayqs4BnxtUMuPfrj3if8) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [Recession](https://open.spotify.com/album/1tBpP6NT0HmFqqOTTQ5cNT) | 2:24 | 2022-10-07 |  |
 | [Red Eye](https://open.spotify.com/track/0eP23MmFQeMqVSlMdyWgp5) | [Calendar Echoes](https://open.spotify.com/artist/4ANlASV891L3OO3snkMbHN) | [Red Eye](https://open.spotify.com/album/20HYMq6O9YGT6Gi17tHsWT) | 2:39 | 2022-07-22 |  |
 | [Reflect](https://open.spotify.com/track/6KoJqqoM9nwU9Gpo0mMPA9) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [Reflect](https://open.spotify.com/album/35Ho0LxFGqmkEfuiLVYHkp) | 3:09 | 2021-11-10 | 2022-05-20 |
 | [reflect](https://open.spotify.com/track/0MLoEubW0HuTuHMYphRBgd) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [reflect](https://open.spotify.com/album/3sla1YDETOdnRRrmyn5jDy) | 2:44 | 2022-07-15 |  |
@@ -459,7 +460,7 @@
 | [Thinkin' About Me](https://open.spotify.com/track/5wKVYtnhyqZfCGv0iqUGwW) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Fulton St Brunch Club](https://open.spotify.com/album/6MXluQZL5j8X5IBv8bj24Z) | 2:37 | 2022-05-10 | 2022-07-01 |
 | [Through the fields](https://open.spotify.com/track/0GyZq3mNQYAPDTWJUVWB4V) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Through the fields](https://open.spotify.com/album/4msZok2Vb2B7SG7etPBv2T) | 2:56 | 2021-11-10 |  |
 | [Through The Lense](https://open.spotify.com/track/26N4LCZnAAWNsM42U8fAgB) | [Keyser](https://open.spotify.com/artist/52XeGIGAMhVqec1ev8t3Qc) | [Through The Lense](https://open.spotify.com/album/1h0hx2D61dW17Cymqzmxoy) | 2:18 | 2021-11-10 | 2022-07-08 |
-| [Through The Wildness](https://open.spotify.com/track/2qRlg2aj8lFiN01eh4PABi) | [Inovalin Trem](https://open.spotify.com/artist/7EflRmV80Cnj9PmQZvpiUg) | [Through The Wildness](https://open.spotify.com/album/3gmXVJ5KvgK2DpMJo0yFRs) | 1:50 | 2022-06-17 |  |
+| [Through The Wildness](https://open.spotify.com/track/2qRlg2aj8lFiN01eh4PABi) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Through The Wildness](https://open.spotify.com/album/3gmXVJ5KvgK2DpMJo0yFRs) | 1:50 | 2022-06-17 |  |
 | [Time](https://open.spotify.com/track/7AlUplIMwg0AFXK4Ypj1KD) | [The Peaceful Beats Project](https://open.spotify.com/artist/2HxsVVdPzarYSgmY3UAtCB) | [Focus Inside](https://open.spotify.com/album/6j0BaPQlbezfWxEcVB7CLB) | 2:57 | 2021-11-10 | 2022-05-11 |
 | [Time Sometimes](https://open.spotify.com/track/29Ww4tSNHhIrUPpHokPEyh) | [89XZ](https://open.spotify.com/artist/4t7XSLtILeVEdoSjK7Jnym) | [Time Sometimes](https://open.spotify.com/album/0lR6x3rTonJ9blJStFzVtt) | 2:50 | 2021-11-10 |  |
 | [Timelabs](https://open.spotify.com/track/2RDgSvYyat9Ml4hgDVJ75P) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Timelabs](https://open.spotify.com/album/0LKjVPAQIJLcqA8BeKuHKH) | 2:01 | 2022-11-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: GALE",
-  "num_followers": 56554,
+  "num_followers": 56550,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzY3MiwwN2FkNzAzMTI4OTY5NzcwOTNmMzI0ZDBkYjM0YWI4YjQwZmZhNWRi",
+  "snapshot_id": "MzY3Nyw2ODg5ZTFiNWY1OTVjMzJiZjA5MmE1MWY1MGZiYmQ0YzQwZWVlNWY5",
   "tracks": [
     {
       "added_at": "2023-02-16 23:07:18",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
     },
     {
+      "added_at": "2023-02-24 15:36:20",
+      "album": {
+        "name": "Ozu Vivo (Live)",
+        "url": "https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 187936,
+      "name": "Del Mar - Acustico",
+      "url": "https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa"
+    },
+    {
       "added_at": "2023-02-24 00:02:24",
       "album": {
         "name": "Arte",
@@ -39,6 +55,58 @@
       "duration_ms": 192000,
       "name": "Arte",
       "url": "https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7"
+    },
+    {
+      "added_at": "2023-02-24 18:33:10",
+      "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 188708,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
+    },
+    {
+      "added_at": "2023-02-24 20:44:35",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 3",
+        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "Suegra",
+      "url": "https://open.spotify.com/track/3DGvNJcyicD4gHoVEvH86P"
+    },
+    {
+      "added_at": "2023-02-24 14:40:15",
+      "album": {
+        "name": "Tu Gato",
+        "url": "https://open.spotify.com/album/1mTzM08AUOMmq4qABh1YjL"
+      },
+      "artists": [
+        {
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
+        }
+      ],
+      "duration_ms": 135601,
+      "name": "Tu Gato",
+      "url": "https://open.spotify.com/track/1IxQee6XfyqJA3uvl9c0Hz"
     },
     {
       "added_at": "2023-02-23 22:58:04",
@@ -72,7 +140,7 @@
           "url": "https://open.spotify.com/artist/2jnXHPCEsDhTBvkbOdlO1e"
         }
       ],
-      "duration_ms": 141704,
+      "duration_ms": 188010,
       "name": "Cantando",
       "url": "https://open.spotify.com/track/1WJob97sAaeo6t7yo8BJor"
     },

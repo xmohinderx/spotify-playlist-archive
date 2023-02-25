@@ -1,12 +1,12 @@
 {
   "description": "Classic pop, rock and folk for a pleasant drive.",
-  "num_followers": 78176,
+  "num_followers": 78266,
   "original_name": "Mellow Classics Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM5MTE3OSwwMDAwMDAwMGVkYzQyM2I4NDgwNjMwMjlkOTY0ZGFmODdiZmFhNDgz",
+  "snapshot_id": "MTY0MzM5MTE3OSwwMDAwMDAwMGI4NmEyNzVmMzYwODdkNGZkMWIyNTk5MGM1Y2NmYmNi",
   "tracks": [
     {
       "added_at": "2019-06-11 21:00:52",
@@ -923,22 +923,30 @@
     {
       "added_at": "2019-06-11 21:00:52",
       "album": {
-        "name": "A Case Of You",
-        "url": "https://open.spotify.com/album/4GFyRjzWrfAFtj2fX6ebf6"
+        "name": "A Case of You (Original)",
+        "url": "https://open.spotify.com/album/0YwoCTGvgpe6fYNXHqwx4o"
       },
       "artists": [
         {
-          "name": "Leopanforte",
-          "url": "https://open.spotify.com/artist/72ptKrXdQG9VlKwtwzwpi7"
+          "name": "enessaresmi",
+          "url": "https://open.spotify.com/artist/5hcdHrCRQ6hYXB2yT5mdpD"
         },
         {
-          "name": "cody06",
-          "url": "https://open.spotify.com/artist/2UTGurWdxcnfsCAK0FopWO"
+          "name": "Neverever",
+          "url": "https://open.spotify.com/artist/5M3VY7TrFsUHKYCwQdbFTw"
+        },
+        {
+          "name": "Aytow\u00e9n",
+          "url": "https://open.spotify.com/artist/38DFKUlj1mjYr0MYOSxFNW"
+        },
+        {
+          "name": "Sava\u015f\u015f",
+          "url": "https://open.spotify.com/artist/35qcu7CKQicWBv7yTIKrqD"
         }
       ],
-      "duration_ms": 264384,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/47puzbYTZ8BDKrD2GnMQXi"
+      "duration_ms": 264437,
+      "name": "A Case of You - Original",
+      "url": "https://open.spotify.com/track/4hThwlnWP8w8coCt7l56Da"
     },
     {
       "added_at": "2019-06-11 21:00:52",

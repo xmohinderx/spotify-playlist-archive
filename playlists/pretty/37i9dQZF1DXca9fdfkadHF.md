@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,911 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,981 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 46 | [Tus Alas Caerán](https://open.spotify.com/track/47RPhZOsbbgeSugavCkqtT) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [\[Campo De Almas\]](https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC) | 5:40 |
 | 47 | [El Hombre Que Quería Ser un Arbol](https://open.spotify.com/track/2MxQZWdX4CVshx2L9WTj7L) | [Rafo Raez y los Paranoias](https://open.spotify.com/artist/481gdbLADpe8TGkv8Td4a5) | [Camisa](https://open.spotify.com/album/3o3jj7LXcJ8JZj46Eti6eu) | 3:51 |
 | 48 | [Clon](https://open.spotify.com/track/3UGyNybOojLXwEWEjC4h42) | [Huelga de hambre](https://open.spotify.com/artist/5HBq2CbvH0j3HsbTSD7ySQ) | [Máquina y Espíritu](https://open.spotify.com/album/2HYHSHyjYiInfqgPshmkLI) | 5:00 |
-| 49 | [Quién Me Entiende](https://open.spotify.com/track/2jHCuQ38CWKqSMUAH5jlp1) | [Calle Sexta](https://open.spotify.com/artist/1hVQbWUjkv6qGzQQ59Dvui) | [Más Peruanos Que el Rock, Vol\. 2](https://open.spotify.com/album/7nFEFppkVpb6SYDDnBFqjJ) | 3:20 |
+| 49 | [Quién Me Entiende](https://open.spotify.com/track/3DTSKEFDbHZQHJOL3NoaaB) | [Calle Sexta](https://open.spotify.com/artist/1hVQbWUjkv6qGzQQ59Dvui) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0MFkglbEJAh1dT5D6Q9Rd7) | 3:22 |
 | 50 | [Solo estoy](https://open.spotify.com/track/60VYMG9lj4p8WfDTFZXEOZ) | [Los York's](https://open.spotify.com/artist/5fOfpeBPZeyWDHPOHA8UY5) | [68](https://open.spotify.com/album/5zMLdhfL7vQOKvofoU4Z7R) | 4:40 |
 | 51 | [Oirán Tu Voz, Oirán Nuestra Voz](https://open.spotify.com/track/50MinBuDveXXwAagB1wtC1) | [Leusemia](https://open.spotify.com/artist/35BTdhvVMG0JrhFriUiT0U) | [Más Peruanos Que el Rock, Vol\. 2](https://open.spotify.com/album/7nFEFppkVpb6SYDDnBFqjJ) | 3:35 |
 | 52 | [Otra Mejor Que Tú](https://open.spotify.com/track/5gUp2GYPSZulV3q5ilvY7a) | [Los Datsuns](https://open.spotify.com/artist/7mLWJvI7Qjetu2WJZbz96L) | [Ritmo y Movimiento Con los Datsun´s](https://open.spotify.com/album/3OzwNkPFtLV2Mytl1f5Oc4) | 2:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 59 | [Confusión](https://open.spotify.com/track/6SiQcAM3WKVf9eP2WQZ0Ok) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Confusión](https://open.spotify.com/album/39JBhk7OBHt3Zv61nZcFte) | 2:46 |
 | 60 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 |
 
-Snapshot ID: `MTY0ODc4OTIwMCwwMDAwMDAwMDUwOTkzN2Q2NmZmYzQ3YzMyNzYyMmY4NmIwYzEyZmMx`
+Snapshot ID: `MTY0ODc4OTIwMCwwMDAwMDAwMDJmNjYyZTMyYzUxM2RlYjIyMjQ1YzQwN2Q4M2YxYTNk`

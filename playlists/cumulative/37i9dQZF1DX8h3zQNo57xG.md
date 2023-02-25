@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-107 songs - 5 hr 48 min
+110 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Binaural Delta 2 Hz](https://open.spotify.com/track/4HbRNPuvixnD5XDlIK6AnO) | [Relaxation Sleep Meditation](https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE) | [Binaural Beats and Isochronic Programs](https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR) | 2:00 | 2021-12-22 |  |
 | [Binaural Delta 2hz 110hz and 112hz](https://open.spotify.com/track/4FYhs5Z79Y0VVE1Kc6WT3K) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Binaural Delta and Theta Brainwaves for Sleep](https://open.spotify.com/album/4wWOPfIqG0U0Q060BU9AS6) | 2:32 | 2021-12-22 |  |
 | [Binaural Delta 3hz 165hz and 168hz](https://open.spotify.com/track/3WNrFejiZtnlgRRaHrvu2P) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Binaural Delta and Theta Brainwaves for Sleep](https://open.spotify.com/album/4wWOPfIqG0U0Q060BU9AS6) | 2:32 | 2021-12-22 |  |
+| [Binaural Delta Sinus 100 Hz \- 01 Hz](https://open.spotify.com/track/5NnZTu4Dc15A3g86JYJY7r) | [Beta Alfa](https://open.spotify.com/artist/6hdkyLVOsjONF1L6Oeb8fq) | [Binaural Delta Sinus 100 Hz \- 01 Hz](https://open.spotify.com/album/6y2efjzrr91Da0VFxJTSF8) | 3:09 | 2023-02-24 |  |
 | [Binaural Delta Sinus 100 Hz \- 101 Hz](https://open.spotify.com/track/5Pe3Kek5rswnCvJBbP91I2) | [Heals My Heart](https://open.spotify.com/artist/5QPA7LX2GxnEwy9Fybc6ge) | [Binaural Delta Sinus 100 Hz \- 101 Hz](https://open.spotify.com/album/0jH9JHE9uqA3lYgDMBQR2S) | 2:16 | 2021-12-22 |  |
 | [Binaural Delta Sinus 100 Hz \- 104 Hz](https://open.spotify.com/track/1LSQ8a2oFahaR1pxzXdUMc) | [Heals My Heart](https://open.spotify.com/artist/5QPA7LX2GxnEwy9Fybc6ge) | [Binaural Delta Sinus 100 Hz \- 101 Hz](https://open.spotify.com/album/0jH9JHE9uqA3lYgDMBQR2S) | 2:24 | 2021-12-22 |  |
 | [Binaural Delta Sinus 125 Hz](https://open.spotify.com/track/1Kzm6JoQj3rhqD1rvTCHFl) | [Zen Sleep Zone](https://open.spotify.com/artist/5ecMRLEZ4N8JRsWvYw5hEA) | [Binaural Delta Sinus 125 Hz](https://open.spotify.com/album/206e4Y8ZLuNJsWmlf1lcI2) | 2:05 | 2021-12-22 |  |
@@ -42,12 +43,14 @@
 | [Delta 78.3\-80.8Hz](https://open.spotify.com/track/18lxuqcr3Dho1EZidOZeX4) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Binaural Delta Sleep Songs](https://open.spotify.com/album/5fUyFJBEcBxOwCHXzbEwXe) | 3:56 | 2021-12-22 |  |
 | [Delta 98.7\-99.6Hz](https://open.spotify.com/track/2Gheo1PFDuVFA8RG1zCMKw) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Binaural Delta Sleep Songs](https://open.spotify.com/album/5fUyFJBEcBxOwCHXzbEwXe) | 4:09 | 2021-12-22 |  |
 | [Delta Air 2 Hz](https://open.spotify.com/track/1zK3i6SOS8jVVkSPbX1ZYI) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Air](https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj) | 3:04 | 2022-09-06 |  |
+| [Delta Binaural Sinus 90 Hz \- 91 Hz \- Deep Sleep](https://open.spotify.com/track/0VMnVCV7JffUcVkVluWTdG) | [Sleepville](https://open.spotify.com/artist/5db5qIk2KmZR5tWyTx6XHo) | [Delta Binaural Sinus 90 Hz \- 91 Hz \- Deep Sleep](https://open.spotify.com/album/7x2SHxOdLaJC8CfKHx5HXM) | 3:14 | 2023-02-24 |  |
 | [Delta Crossing 58.6Hz \- 62.3Hz](https://open.spotify.com/track/2EIXvo3H0SPDZtFiSfFaaX) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Delta Crossing 58.6Hz \- 62.3Hz](https://open.spotify.com/album/3ebC33TqEfXecgoziyc9tM) | 3:46 | 2022-07-27 |  |
 | [Delta Deep 80Hz \- 84Hz](https://open.spotify.com/track/5BG09azTJhFK50nEx60YuT) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Delta Deep 80Hz \- 84Hz](https://open.spotify.com/album/7F30kdRKhpV392urnfBjrf) | 3:04 | 2022-07-27 |  |
 | [Delta Dream \(96Hz \- 99Hz\)](https://open.spotify.com/track/0SZxVJIE8Oz96g8njMMUg7) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 4:00 | 2021-12-22 |  |
 | [Delta Equinox 3 Hz](https://open.spotify.com/track/1kFCJ9w9EWje4YHKGfSu62) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Equinox](https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o) | 2:39 | 2022-12-09 |  |
 | [Delta Flow 108Hz \- 111Hz](https://open.spotify.com/track/4b6B97mdO3KjViKcgrlMQw) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Delta Patterns](https://open.spotify.com/album/3ygEMyVK61m7M9SEZvnaAI) | 2:50 | 2021-12-22 |  |
 | [Delta Flow 93Hz \- 96Hz](https://open.spotify.com/track/2nehZ56ki7zOcpZ0MkTCZT) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Delta Patterns](https://open.spotify.com/album/3ygEMyVK61m7M9SEZvnaAI) | 2:15 | 2021-12-22 |  |
+| [Delta Focus State 88Hz\-90.5Hz](https://open.spotify.com/track/78DkfPm6IltArRG4ge1QDF) | [Neuron Minds](https://open.spotify.com/artist/6P6WQWh9HeWRyRWrdYqU0B) | [Delta Focus State 88Hz\-90.5Hz](https://open.spotify.com/album/5NjFj0ud9z0o8KEuDhosWW) | 2:48 | 2023-02-24 |  |
 | [Delta Moon 2 Hz](https://open.spotify.com/track/77rhlG3KXXNvvaYEZczWwa) | [The Inner Circle](https://open.spotify.com/artist/0mRW2BlrPBuwMkmtgZbDIB) | [Binaural Sphere](https://open.spotify.com/album/02tvTtzLWwJkElS8m4diA5) | 2:58 | 2021-12-22 |  |
 | [Delta Pattern 101.0 Hz \- 103.0 Hz](https://open.spotify.com/track/6ZG23W2shJNTChsot9DZlc) | [Binaural Healing](https://open.spotify.com/artist/39LOiQkqidIYHMRLetlCsN) | [Delta Pattern Series \- Pure Sinus](https://open.spotify.com/album/6wj0JA3zY8afKCosI3PACG) | 3:04 | 2021-12-22 |  |
 | [Delta Pattern 101.0 Hz \- 103.0 Hz & Pad](https://open.spotify.com/track/3XXSWBI7BfruIcVFu8Wzqs) | [Binaural Healing](https://open.spotify.com/artist/39LOiQkqidIYHMRLetlCsN) | [Delta Pattern Series \- Pads](https://open.spotify.com/album/0nVPKKBgeDtQglrE23sqFV) | 3:04 | 2021-12-22 |  |

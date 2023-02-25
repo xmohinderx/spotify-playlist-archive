@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/0mJoluase48Igg9q7tlDHx"
+      },
+      "artists": [
+        {
+          "name": "Polygon",
+          "url": "https://open.spotify.com/artist/5BGIoAtF2cwgcydpnUyFkF"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205517,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/5ShOfO7H7GhaSH3m3UL8pg"
+    },
+    {
+      "album": {
         "name": "Bring Me The Light (Rob Gasser Remix)",
         "url": "https://open.spotify.com/album/30gpaJcuO1M6izxV6osZvG"
       },

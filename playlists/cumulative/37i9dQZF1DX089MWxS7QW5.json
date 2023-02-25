@@ -2927,6 +2927,24 @@
     },
     {
       "album": {
+        "name": "what is love",
+        "url": "https://open.spotify.com/album/3OTYp7rdFNh8RQWSbnaKpk"
+      },
+      "artists": [
+        {
+          "name": "Bambiroyalprince",
+          "url": "https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "what is love",
+      "url": "https://open.spotify.com/track/5HukOZte1mcNcOgufptAOp"
+    },
+    {
+      "album": {
         "name": "what we need",
         "url": "https://open.spotify.com/album/5anfMMK1UdAekDViVFyFmk"
       },

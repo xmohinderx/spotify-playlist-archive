@@ -4,12 +4,12 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-133 songs - 12 hr 24 min
+134 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [African Shabtay](https://open.spotify.com/track/0KFqWGc2VNfpCbi6PuX218) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [African Shabtay](https://open.spotify.com/album/6Rj2gkyntZqABajRBksHMm) | 5:26 | 2021-10-08 | 2022-07-29 |
-| [Akashic Xronicles](https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Akashic Xronicles](https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P) | 4:27 | 2021-10-01 |  |
+| [Akashic Xronicles](https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Akashic Xronicles](https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P) | 4:27 | 2021-10-01 | 2023-02-25 |
 | [Amusement](https://open.spotify.com/track/5mUKcIhfS0oHhu2eNPoFjc) | [EIKO＋ERIKO](https://open.spotify.com/artist/6b7oAa2JOCrhHAxDCqb7sz) | [Amusement](https://open.spotify.com/album/1PnWjfmh5UuuZTD2KVFau1) | 7:00 | 2021-07-30 | 2022-07-29 |
 | [Apocahop](https://open.spotify.com/track/6ZmEv6dHADpoHDFSxIZSzh) | [Waldo's Gift](https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb) | [Improvisations Vol II](https://open.spotify.com/album/3zrF1KzyXfuh29rEEl8z5H) | 2:51 | 2022-08-19 | 2022-11-09 |
 | [Apocalypse Now](https://open.spotify.com/track/3aZvt0djRodfoPlxkGF2wb) | [Matt Twaddle](https://open.spotify.com/artist/0xNiJqc5OTckg9UswHJzDq) | [Apocalypse Now](https://open.spotify.com/album/3i1nNBwyjUGA66ZCttSurf) | 4:17 | 2021-07-23 | 2022-07-29 |
@@ -96,6 +96,7 @@
 | [Rain Dog](https://open.spotify.com/track/6TQGEC5VTnyphFPDPcf5D4) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Bookshelf](https://open.spotify.com/album/3vWw8xYPwpYzlvK253yLdQ) | 4:20 | 2021-01-27 | 2022-07-29 |
 | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE) | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/album/3L6Ftrxf6KXKMOd5vXWquC) | 4:08 | 2021-05-14 | 2023-02-10 |
 | [Sacred Spheres \- Live](https://open.spotify.com/track/5ktGLksuHwjxlFOZ7s5pXx) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Sacred Spheres \(Live\)](https://open.spotify.com/album/4hDnE5xdFZayJ3BYdFZTfZ) | 3:05 | 2022-03-11 | 2022-07-28 |
+| [Sands Of Time](https://open.spotify.com/track/4i3jOeue9K8kh73ZXW7All) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Sands Of Time](https://open.spotify.com/album/0mLsY0d1yTovXfhEAWqwAi) | 2:07 | 2023-02-24 |  |
 | [Scorching Sun](https://open.spotify.com/track/10rD8xLRTu1AWQPFtF7G6Q) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Scorching Sun](https://open.spotify.com/album/4GNwKztAL6RgrbbylF2YG3) | 3:52 | 2021-08-27 | 2022-07-29 |
 | [Scorpion](https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ) | [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Scorpion](https://open.spotify.com/album/5g4aSzfcbbU1Kx5qyrGLGv) | 3:38 | 2022-06-03 | 2022-10-03 |
 | [Seven](https://open.spotify.com/track/6nz7H9YLI6TYGo3riLJBaR) | [Alberto Rigoni](https://open.spotify.com/artist/5YPN5P1LS2tcQZAPEpo0ZM), [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR), [Bryan Beller](https://open.spotify.com/artist/2LPwVhvrjOXEvgfLOpHJQ1) | [Grains of Sand](https://open.spotify.com/album/0xSWVE4Rtvo9Se1UanwNLz) | 4:19 | 2022-09-16 | 2022-10-22 |

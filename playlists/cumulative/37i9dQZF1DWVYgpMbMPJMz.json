@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Matt Redman",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Mitch Wong",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -180,6 +180,24 @@
       "duration_ms": 193040,
       "name": "Ark",
       "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
+    },
+    {
+      "album": {
+        "name": "This is the Hour",
+        "url": "https://open.spotify.com/album/4OiQsMzlsHT0n8A4wv37ZE"
+      },
+      "artists": [
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306848,
+      "name": "As For Me (Psalm 2)",
+      "url": "https://open.spotify.com/track/4Cp6WWcFtRWwDkvf8o5Fr0"
     },
     {
       "album": {
@@ -386,7 +404,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 246345,
       "name": "Beauty For Ashes - Live At Chapel",
       "url": "https://open.spotify.com/track/56zhUVLASquK3UZrzUPJlB"
@@ -652,7 +670,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 204939,
       "name": "Best Thing - Stripped",
       "url": "https://open.spotify.com/track/2qqFqyTvtNjKjW3cGQt1kM"
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 274697,
       "name": "Help Me Live in Step - Live",
       "url": "https://open.spotify.com/track/6LgNEqbZd7TBNSpjTsomIM"
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 324680,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/4WFQuYCno9UqHi7NrCKWUh"
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
@@ -2180,6 +2198,24 @@
       "duration_ms": 468274,
       "name": "Homecoming - Live",
       "url": "https://open.spotify.com/track/18Kt9lI9qQK5hUHtaIPOP2"
+    },
+    {
+      "album": {
+        "name": "Honest Offering (Live)",
+        "url": "https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277347,
+      "name": "Honest Offering / I Surrender All - Live",
+      "url": "https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G"
     },
     {
       "album": {
@@ -4031,6 +4067,24 @@
     },
     {
       "album": {
+        "name": "Nothing Is Impossible (Live In Manila)",
+        "url": "https://open.spotify.com/album/7mKROIDACa2Tf6IB123KKd"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263635,
+      "name": "Nothing Is Impossible - Live In Manila",
+      "url": "https://open.spotify.com/track/5sdeswrsYUIMTyYoOwc7jS"
+    },
+    {
+      "album": {
         "name": "Breathe In, Sing Out (Live from Anchour Studio)",
         "url": "https://open.spotify.com/album/2nQhu2sxD4GWLOY8XGgDEv"
       },
@@ -4324,7 +4378,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 328379,
       "name": "Pentecost",
       "url": "https://open.spotify.com/track/0ZuuIrZJALT1OkQax7Ns1u"
@@ -4386,7 +4440,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 323051,
       "name": "Praise Opens Prison Doors - Live",
       "url": "https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB"
@@ -5162,7 +5216,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 240566,
       "name": "Strongholds",
       "url": "https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH"
@@ -5214,6 +5268,28 @@
       "duration_ms": 559206,
       "name": "Surrendered",
       "url": "https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL"
+    },
+    {
+      "album": {
+        "name": "Surrounded By Holy",
+        "url": "https://open.spotify.com/album/40Cv3OatvEElZTKKUhL2Lg"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294280,
+      "name": "Surrounded By Holy",
+      "url": "https://open.spotify.com/track/3oHBQsiTAi3FHCL2zKXvpf"
     },
     {
       "album": {
@@ -5981,6 +6057,28 @@
     },
     {
       "album": {
+        "name": "a beautiful ending, a blessed beginning",
+        "url": "https://open.spotify.com/album/1rd7BiHfgEdK11EVbuZszm"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301850,
+      "name": "To Be With The Lord",
+      "url": "https://open.spotify.com/track/4X95hDjmp1BD2ANBMIDRe2"
+    },
+    {
+      "album": {
         "name": "To The One Who Is Seated On The Throne (Live)",
         "url": "https://open.spotify.com/album/2ByngD9J0kQSo9tUgiPiZh"
       },
@@ -6718,6 +6816,24 @@
       "duration_ms": 368901,
       "name": "You Remain - Live",
       "url": "https://open.spotify.com/track/5OSWlFATPnMqNAidk1a0cT"
+    },
+    {
+      "album": {
+        "name": "You've Already Won (Radio Version)",
+        "url": "https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262540,
+      "name": "You've Already Won - Radio Version",
+      "url": "https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1"
     },
     {
       "album": {

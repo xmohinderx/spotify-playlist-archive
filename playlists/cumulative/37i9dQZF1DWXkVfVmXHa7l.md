@@ -4,7 +4,7 @@
 
 > Music from Attack on Titan!「進撃の巨人」公式プレイリスト！ ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
-114 songs - 8 hr 37 min
+115 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Zero Eclipse](https://open.spotify.com/track/3MRtp8nHiflu8rrmLYB07X) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「進撃の巨人」Season3 オリジナルサウンドトラック](https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD) | 4:13 | 2022-02-08 | 2022-07-29 |
 | [ətˈæk 0N tάɪtn](https://open.spotify.com/track/6xRyarDnqu0VIpfFeyRy3x) | [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz), [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 4:16 | 2022-02-08 | 2022-07-29 |
 | [ətˈæk 0N tάɪtn<TFSv>](https://open.spotify.com/track/7cJyOWBZ2Moscj0LlNQexC) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02](https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx) | 4:57 | 2022-06-21 | 2022-07-29 |
+| [エレン・イェーガーからのスペシャルメッセージ!](https://open.spotify.com/track/4iCqnOP7H0CW1uJHMFoKzb) | [TVアニメ「進撃の巨人」](https://open.spotify.com/artist/1fAOhUHFKEY4ublVIH8saI) | [「進撃の巨人」エレン・イェーガーからのスペシャルメッセージ!](https://open.spotify.com/album/3c9hxI2scBzDg0HcIgzCDK) | 0:40 | 2023-02-24 |  |
 | [僕の戦争](https://open.spotify.com/track/1UDw29EsOh3Rx1e5fYsbaG) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [僕の戦争](https://open.spotify.com/album/5wi31xge1BG1X8ME1eyhdi) | 4:40 | 2022-02-08 | 2022-07-29 |
 | [夕暮れの鳥](https://open.spotify.com/track/4dZDlAkUb9b4hFkj6TNfK3) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [幼さを入院させて](https://open.spotify.com/album/1BZrhUoHveceCAbxUmMnuE) | 5:03 | 2022-02-08 | 2023-02-10 |
 | [夕暮れの鳥](https://open.spotify.com/track/79xW4zeNFlcp5VKyvWk3cC) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [夕暮れの鳥/光の言葉](https://open.spotify.com/album/0wtAqG9NElftFjg2mHzOFN) | 5:04 | 2023-02-09 |  |

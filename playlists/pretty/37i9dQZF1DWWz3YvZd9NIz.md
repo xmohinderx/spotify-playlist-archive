@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,246 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,679 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 63 | [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 |
 | 64 | [All Of Me \- Hardstyle Remix](https://open.spotify.com/track/5cQxA8ZS9WeLuKRlITbzAj) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Sam Darris Del Pino Bros](https://open.spotify.com/artist/0k78bLLU3hYYYcKzGZzvrS) | [All Of Me \(Hardstyle Remix\)](https://open.spotify.com/album/6mHRTXGitwY2KC3Dw3CxxF) | 4:00 |
 | 65 | [Ecuador \(Hardstyle Mix\)](https://open.spotify.com/track/4PnRDsx6405Mn5DeY25J5t) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem) | [Ecuador \(Hardstyle Mix\)](https://open.spotify.com/album/4YpH7Q6JO3bCpWpsG6XlM7) | 2:10 |
-| 66 | [Hijo De La Luna](https://open.spotify.com/track/3d8mrYLI17XeqylHPPvHGx) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Steve Modana](https://open.spotify.com/artist/2RibwN2CQvXRHdfxap3KWh), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk) | [Hijo De La Luna](https://open.spotify.com/album/4D8hX9ItzQ9ITgCRCSbRdo) | 3:34 |
-| 67 | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi) | [Hard But Crazy](https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/album/6I2xwqoSru4cd1YYV3LU3L) | 2:45 |
+| 66 | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi) | [Hard But Crazy](https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/album/6I2xwqoSru4cd1YYV3LU3L) | 2:45 |
+| 67 | [Hijo De La Luna](https://open.spotify.com/track/3d8mrYLI17XeqylHPPvHGx) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Steve Modana](https://open.spotify.com/artist/2RibwN2CQvXRHdfxap3KWh), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk) | [Hijo De La Luna](https://open.spotify.com/album/4D8hX9ItzQ9ITgCRCSbRdo) | 3:34 |
 | 68 | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4) | 3:22 |
-| 69 | [Truly Madly Deeply](https://open.spotify.com/track/61yudMS42OFC6KWgmbqwQ7) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Kelly Matejcic](https://open.spotify.com/artist/0CTUM73g5EM0oTdkW35GLM) | [Truly Madly Deeply](https://open.spotify.com/album/2bhTRpPgIEee2mk1xLDTAX) | 3:28 |
+| 69 | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/track/2oh6jvkOXFs2DTn4ZRtA2i) | [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6) | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/album/0gCd0ywIXYZPmxsNu42vm7) | 3:15 |
 | 70 | [Twerk Anthem](https://open.spotify.com/track/0cZ6KOvnLf0C0GKLti31No) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Twerk Anthem](https://open.spotify.com/album/3cWHRG6B0GYAgusM50re31) | 2:50 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMGE5MjFkYWJhNzQyZmI2NTJhMWYzNGE4YTI1OTcyMDNl`
+Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMGYwNmQ1ZGM5ZTcxZDljMjEyYzU0ZTJhZGVlZDkzZmJh`

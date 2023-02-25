@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "V\u00f6gel",
+        "url": "https://open.spotify.com/album/7ofPT1pFfppppZKF1l6jrh"
+      },
+      "artists": [
+        {
+          "name": "Olec M\u00fcn",
+          "url": "https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334000,
+      "name": "Gavina",
+      "url": "https://open.spotify.com/track/1cnkQQvgQnxCm4eQGwtHhs"
+    },
+    {
+      "album": {
         "name": "Gavina",
         "url": "https://open.spotify.com/album/4RteWlcqa9xzb6iKmo0ZAr"
       },
@@ -956,7 +974,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 334000,
       "name": "Gavina",
       "url": "https://open.spotify.com/track/3dl8ypgkuvNw4vn3HFE1ky"

@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Letter B Song",
+        "url": "https://open.spotify.com/album/5q2xQhlLtoUeu2L8CJEpwi"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67500,
+      "name": "Letter B Song",
+      "url": "https://open.spotify.com/track/5xL1i0wCQ1kAk5YiaIow1S"
+    },
+    {
+      "album": {
         "name": "N Is for Numbers!",
         "url": "https://open.spotify.com/album/2adtSJ5NVSnB3YPNfValJ0"
       },

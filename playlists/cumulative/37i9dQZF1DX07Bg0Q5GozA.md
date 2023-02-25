@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: The Blessed Madonna
 
-213 songs - 16 hr 36 min
+215 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Act One \- Edit](https://open.spotify.com/track/65uNCvnsgLI8O7JriMZ6Wi) | [Brandt Brauer Frick](https://open.spotify.com/artist/29TG40TGDvrOFQZM4adBf7), [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Act One](https://open.spotify.com/album/6QPss1H5EjNUyeBno9EmPe) | 3:20 | 2023-02-16 |  |
 | [All Comes Crashing \- CVCHE Remix](https://open.spotify.com/track/3HJmf591A9KspqCVPEiUja) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [CVCHE](https://open.spotify.com/artist/0AVoyEEWwMPhMIiBujqkQP) | [All Comes Crashing \(CVCHE Remix\)](https://open.spotify.com/album/7pySoRsn8T7Msc6i53ItAI) | 4:55 | 2022-12-15 |  |
 | [ALL I WANT](https://open.spotify.com/track/076eiWHHHFGmjduZQM4v5G) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [ALL I WANT](https://open.spotify.com/album/715TgYzWSZPq3i2BB5sOaV) | 3:53 | 2023-02-09 |  |
+| [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 | 2023-02-24 |  |
 | [Alles](https://open.spotify.com/track/5jzKFezfgLc58sxOYHO7N7) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Hermetica](https://open.spotify.com/album/7hpMuiN4TsnHWqqndo6IMK) | 6:07 | 2022-12-30 | 2023-01-02 |
 | [Amnesia](https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy \- Chapter 1](https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz) | 4:03 | 2023-02-09 |  |
 | [Andrew](https://open.spotify.com/track/0ZHnNz24gXtnyFsCeECPnZ) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [Andrew](https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0) | 2:44 | 2022-12-30 | 2023-01-02 |
@@ -175,7 +176,7 @@
 | [Sensitive Child \- Soulwax Remix](https://open.spotify.com/track/0fER4siVB8s68N3JkFAI4O) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Sensitive Child \(Soulwax Remix\)](https://open.spotify.com/album/1j93UmCt06HQ9XCVqAitcA) | 5:46 | 2022-12-15 |  |
 | [Separate Us](https://open.spotify.com/track/1OTfGZcyl7Eh5TXaDtLgod) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [Separate Us](https://open.spotify.com/album/6XMwkgtX332rhk2tT7CXZz) | 3:21 | 2022-12-15 |  |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2022-12-15 | 2023-02-24 |
-| [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-02-23 |  |
+| [Shades Of Love \(feat\. The Joy\) \- Edit](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-02-23 |  |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 | 2022-12-30 | 2023-01-02 |
 | [Snooze 4 Love \- Dixon Remix](https://open.spotify.com/track/738oaUEbgZrY0dQTBaHFx1) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [Snooze 4 Love \(Remixed\)](https://open.spotify.com/album/1JFyo1nOaCqKkBRs2ogTuG) | 7:28 | 2022-12-30 | 2023-01-02 |
 | [Snowblind](https://open.spotify.com/track/7eK2khaEOjLozVLBYgqv9F) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Time On My Hands](https://open.spotify.com/album/0t8kLm7w7kw5k97T8iUge9) | 3:57 | 2022-12-15 | 2023-01-06 |
@@ -211,7 +212,8 @@
 | [Wenn Die Welt Weint](https://open.spotify.com/track/4Nu3ioTzEbCC48lD2UX4co) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Wenn Die Welt Weint](https://open.spotify.com/album/22uorOmcd34IXxtZvPKdbD) | 2:55 | 2022-12-15 |  |
 | [Wet Cement \- Kareem Ali Remix](https://open.spotify.com/track/0ifI6yZ047szP2E252EJUY) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Wet Cement \(Kareem Ali Remix\)](https://open.spotify.com/album/0yP7kQHYuDp1lOvHILN5t2) | 5:43 | 2023-01-05 | 2023-01-20 |
 | [When You Wake up Tomorrow](https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Chance](https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB) | 6:46 | 2022-12-30 | 2023-01-02 |
-| [White Walls](https://open.spotify.com/track/4ufmFZIkDvgOKRoVC7CmuK) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Running/White Walls EP](https://open.spotify.com/album/4H4BjITPy4ySL9EnDrWDlq) | 4:35 | 2023-02-23 |  |
+| [White Walls](https://open.spotify.com/track/3CuCZPForUo8r9Cwl8IuW7) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Running / White Walls](https://open.spotify.com/album/4uefJDQWx5GQr8havtOMuf) | 4:35 | 2023-02-24 |  |
+| [White Walls](https://open.spotify.com/track/4ufmFZIkDvgOKRoVC7CmuK) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Running/White Walls EP](https://open.spotify.com/album/4H4BjITPy4ySL9EnDrWDlq) | 4:35 | 2023-02-23 | 2023-02-25 |
 | [Windbells](https://open.spotify.com/track/5wg6wNS6UiLCTMuLuwFIAO) | [Soft Saints](https://open.spotify.com/artist/1xsodKGkw82rcq4rpT6xih) | [Infinity Pool](https://open.spotify.com/album/6sbr4fnqn7VnSYg8CETgEa) | 3:49 | 2022-12-30 | 2023-01-02 |
 | [Wolf \- Boys Noize Remix](https://open.spotify.com/track/1cNQtla3jWus7dSwfJV1oG) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Wolf \(Boys Noize Remix\)](https://open.spotify.com/album/6sx8z31IKn73hte9q9SzyI) | 5:01 | 2022-12-15 |  |
 | [Yonder](https://open.spotify.com/track/4PIgYYjyLWSRxHXQotXfVo) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Yonder](https://open.spotify.com/album/2TupW0ECz9yne6k2TC2yVO) | 4:54 | 2022-12-15 | 2023-01-20 |

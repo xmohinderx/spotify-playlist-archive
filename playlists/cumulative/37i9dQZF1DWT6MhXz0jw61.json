@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 187000,
       "name": "42",
       "url": "https://open.spotify.com/track/5NKs8f3O7Xemhd6aYXqho2"
@@ -855,6 +855,28 @@
     },
     {
       "album": {
+        "name": "Star Power",
+        "url": "https://open.spotify.com/album/7kRhfYHR1agIzy2W7xwnPK"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Courtney Noelle",
+          "url": "https://open.spotify.com/artist/3GDkfd4W2ucI99TJZOYkfe"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277141,
+      "name": "Bankroll (feat. Courtney Noelle)",
+      "url": "https://open.spotify.com/track/27GiM5fyEZLZxXpV2pT8ju"
+    },
+    {
+      "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
       },
@@ -1204,6 +1226,24 @@
       "duration_ms": 193253,
       "name": "Blue Hundreds",
       "url": "https://open.spotify.com/track/0MC5f84F0ZAGoOkBqkbEKg"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/41QRDll7uVEhOxYa35BdNY"
+      },
+      "artists": [
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190525,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/6MWUqZrDQWyoRde2pYSlpA"
     },
     {
       "album": {
@@ -1619,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Look Both Ways",
+        "url": "https://open.spotify.com/album/55NDLkwKO2idO20my0dXs8"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/0lPLcyYX8VmJ0GcePZriZv"
+    },
+    {
+      "album": {
         "name": "Cnt Go Back ( Tell Me )",
         "url": "https://open.spotify.com/album/19IJl9Ff6Zm225nGWkFEZo"
       },
@@ -1658,7 +1716,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 311078,
       "name": "Cnt Go Back ( Tell Me )",
       "url": "https://open.spotify.com/track/4R46ReBxBXjhEQhY2Gh4Jy"
@@ -1956,7 +2014,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 264000,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/2pifkKyH7zHadphSEkuqPQ"
@@ -2566,7 +2624,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 180705,
       "name": "Downplay",
       "url": "https://open.spotify.com/track/1YK0q3SB7F3PtbZiH50S8x"
@@ -2967,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "Ghost Mode",
+        "url": "https://open.spotify.com/album/5bEfOL1sP6CiGnWSCSAOlL"
+      },
+      "artists": [
+        {
+          "name": "Payroll Giovanni",
+          "url": "https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193028,
+      "name": "Feel How I Look",
+      "url": "https://open.spotify.com/track/6lNcE3B3WcN61iImRuO6rb"
+    },
+    {
+      "album": {
         "name": "$oul $old $eparately",
         "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
       },
@@ -3110,6 +3186,28 @@
       "duration_ms": 146896,
       "name": "FLOAT (feat. Mamii)",
       "url": "https://open.spotify.com/track/7JADyHONoFkZr3Re80iwLy"
+    },
+    {
+      "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "album": {
@@ -3570,7 +3668,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 221624,
       "name": "Good Friday",
       "url": "https://open.spotify.com/track/06sZ51gSjEQXBa0UXAp8F5"
@@ -3845,6 +3943,24 @@
     },
     {
       "album": {
+        "name": "Look Both Ways",
+        "url": "https://open.spotify.com/album/55NDLkwKO2idO20my0dXs8"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188053,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5674iMrLRLr8Cl2TR1uEFM"
+    },
+    {
+      "album": {
         "name": "Highlife",
         "url": "https://open.spotify.com/album/3ougtWVAzlkKT3hc1xajmy"
       },
@@ -3958,7 +4074,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 154560,
       "name": "How It Coulda Been",
       "url": "https://open.spotify.com/track/5iir1RuW27NUtFEH2Zyfd2"
@@ -4721,6 +4837,24 @@
     },
     {
       "album": {
+        "name": "Layman's Terms",
+        "url": "https://open.spotify.com/album/3ExIgNLwQJ9TV2e7CupUHy"
+      },
+      "artists": [
+        {
+          "name": "YUNGMORPHEUS",
+          "url": "https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Layman's Terms",
+      "url": "https://open.spotify.com/track/358q6TGpYobcdbTaQqi0so"
+    },
+    {
+      "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
       },
@@ -4828,7 +4962,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 183829,
       "name": "Life of a Walrus",
       "url": "https://open.spotify.com/track/7cC7wG6xATFJfXfQWrqByp"
@@ -4854,6 +4988,28 @@
       "duration_ms": 233000,
       "name": "Light Years (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/1rPLVDp1qxgIn15gyquhqG"
+    },
+    {
+      "album": {
+        "name": "Lightsabers (feat. C Dot Castro)",
+        "url": "https://open.spotify.com/album/3qQQF9zSGLWhyWBWGtXZD9"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "C Dot Castro",
+          "url": "https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290844,
+      "name": "Lightsabers (feat. C Dot Castro)",
+      "url": "https://open.spotify.com/track/67w6FFEfUw7rYNPgKAJCRQ"
     },
     {
       "album": {
@@ -5628,7 +5784,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 180000,
       "name": "Neybors",
       "url": "https://open.spotify.com/track/17PBGFi8cRuahLFErgN0Cj"
@@ -5682,7 +5838,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 359948,
       "name": "No One Ever Really Dies",
       "url": "https://open.spotify.com/track/1sOGmmt30gfnbXPIDVxBXw"
@@ -5752,6 +5908,24 @@
       "duration_ms": 236799,
       "name": "Not For Nothing (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE"
+    },
+    {
+      "album": {
+        "name": "Even God Has A Sense Of Humor",
+        "url": "https://open.spotify.com/album/4joXp47OdL7OR96VI80yLF"
+      },
+      "artists": [
+        {
+          "name": "Maxo",
+          "url": "https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184380,
+      "name": "Nuri",
+      "url": "https://open.spotify.com/track/4dnO4Zq13moH46pBfMIV73"
     },
     {
       "album": {
@@ -6597,6 +6771,28 @@
     },
     {
       "album": {
+        "name": "Real Ones",
+        "url": "https://open.spotify.com/album/68H6LwUmQnUtRxVitstmt4"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228658,
+      "name": "Real Ones",
+      "url": "https://open.spotify.com/track/364iH9PRTLwG7Lvr3MqPpa"
+    },
+    {
+      "album": {
         "name": "Real Real (feat. Kent Jamz)",
         "url": "https://open.spotify.com/album/21BHBTRvTbeWcDxzVkJ2pr"
       },
@@ -6947,6 +7143,28 @@
     },
     {
       "album": {
+        "name": "College Park",
+        "url": "https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155843,
+      "name": "Shimmy (feat. Joey Bada$$)",
+      "url": "https://open.spotify.com/track/7vL9rAHS2fLo8EjvGvtWr7"
+    },
+    {
+      "album": {
         "name": "Show You",
         "url": "https://open.spotify.com/album/23nI961Qgp4InnRf13n1ES"
       },
@@ -7272,7 +7490,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 212571,
       "name": "SPEECHLESS",
       "url": "https://open.spotify.com/track/6blbFxUw2KSHAuzC9bH2iQ"
@@ -8080,7 +8298,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 191033,
       "name": "Titanium Clocks",
       "url": "https://open.spotify.com/track/2cJFtZXzVdNnHKFXwocUxK"

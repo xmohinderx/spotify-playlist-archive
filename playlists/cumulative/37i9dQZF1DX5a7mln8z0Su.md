@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-213 songs - 12 hr 3 min
+214 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Star Is Falling](https://open.spotify.com/track/0GBC7xNTLl6d0I3RGSdf0V) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Fatal Album Ⅲ](https://open.spotify.com/album/5I2IjvBDa9nJ9F5GOLZIyy) | 1:58 | 2022-05-11 | 2022-07-28 |
 | [addiction](https://open.spotify.com/track/3T21MLVwNG6Qf2KvqStsck) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [addiction](https://open.spotify.com/album/4Fo8bAywFUH3tok8W2r9B9) | 3:30 | 2022-05-11 | 2022-07-27 |
 | [After Tonight](https://open.spotify.com/track/1gvwigq4WUiVIusjtj69PE) | [Joy o'clock](https://open.spotify.com/artist/60oTGYNSgRlDlYqsNUtDKf) | [After Tonight](https://open.spotify.com/album/15ujTiasrrYEQoNZ1bt7ez) | 3:48 | 2022-05-11 | 2022-06-13 |
+| [Akita \(Feat\. hartts\) \(Prod\. OBSN\)](https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Akita](https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS) | 3:44 | 2023-02-24 |  |
 | [All I Have](https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [All I Have](https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ) | 2:48 | 2022-06-09 |  |
 | [Alone](https://open.spotify.com/track/3b68cnOtUujowS1vKK7klK) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Alone](https://open.spotify.com/album/2wD9q03no4yJClNcp9HbTZ) | 3:03 | 2022-05-11 | 2022-12-30 |
 | [Angae](https://open.spotify.com/track/50kyft8lFid4ol27SQwIJQ) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Drawing](https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF) | 2:36 | 2022-05-11 | 2022-07-14 |
@@ -185,7 +186,7 @@
 | [Then](https://open.spotify.com/track/4SCDDkFIkiN9wOZgOPdEFK) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:11 | 2022-06-20 | 2022-07-22 |
 | [Then](https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:11 | 2022-07-08 |  |
 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 | 2022-07-04 |  |
-| [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 | 2022-05-11 |  |
+| [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 | 2022-05-11 | 2023-02-25 |
 | [Tictoc Tictoc Tictoc \(with Beenzino\)](https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:56 | 2022-05-11 |  |
 | [Time \(Feat\. EunBii\) \(Prod\. Truman\)](https://open.spotify.com/track/1rnldoTHejIYzvMRtwbNJQ) | [Baeksik](https://open.spotify.com/artist/6ZBi6tKlLbqzIQJinKMKWz), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [Time Paradox](https://open.spotify.com/album/6bMNvyEefv9zRFQnfoG8Ba) | 3:27 | 2022-05-11 | 2022-07-26 |
 | [Time does not wait for us](https://open.spotify.com/track/4JflsE7yI1tJNJNKPIJQPI) | [roon](https://open.spotify.com/artist/1Wq5gAIzVM5HKXv2j94j2j) | [In Mood for Love](https://open.spotify.com/album/7woVM2fDLB3cXrUmwK2mxs) | 3:36 | 2022-05-11 | 2022-07-26 |

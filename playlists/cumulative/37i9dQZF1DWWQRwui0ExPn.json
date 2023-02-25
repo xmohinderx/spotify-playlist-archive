@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "2nd Block To The Left, Then Right",
+        "url": "https://open.spotify.com/album/59UNlrnCuuvXxZtOk7gblZ"
+      },
+      "artists": [
+        {
+          "name": "1930",
+          "url": "https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109500,
+      "name": "2nd Block To The Left, Then Right",
+      "url": "https://open.spotify.com/track/68UutHhzus0eXguaOx0g9d"
+    },
+    {
+      "album": {
         "name": "2PM",
         "url": "https://open.spotify.com/album/68PxymJmOtbGNurAtR8cUD"
       },
@@ -19390,7 +19408,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 107909,
       "name": "Committed To The Beat",
       "url": "https://open.spotify.com/track/0W9OwdBkPx3wY1ObtDKbmc"
@@ -53356,7 +53374,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 164814,
       "name": "Love & Hate",
       "url": "https://open.spotify.com/track/08lCBUQqTv7vA84lK0Krnb"
@@ -59436,6 +59454,24 @@
       "duration_ms": 156000,
       "name": "Moonshine Plaza",
       "url": "https://open.spotify.com/track/0eV0GhobQSqR4K0DQQQ3mH"
+    },
+    {
+      "album": {
+        "name": "Moonwake",
+        "url": "https://open.spotify.com/album/0BqlxyjuQpMrAijorHIolB"
+      },
+      "artists": [
+        {
+          "name": "Cherry Vans",
+          "url": "https://open.spotify.com/artist/1TAqi3mSEZKy6tE4phpnJo"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Moonwake",
+      "url": "https://open.spotify.com/track/4L9Mh0etZXTjvS3YdZW0Ka"
     },
     {
       "album": {
@@ -69020,7 +69056,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 135779,
       "name": "peace on earth",
       "url": "https://open.spotify.com/track/594aaeurIaDSN580YZJ6q7"
@@ -91786,8 +91822,8 @@
       },
       "artists": [
         {
-          "name": "oktav.",
-          "url": "https://open.spotify.com/artist/65HyXVxKg7jQrAhT9knhK9"
+          "name": "Hi Hat Henry",
+          "url": "https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52"
         }
       ],
       "date_added": "2022-10-28",
@@ -101934,7 +101970,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 90000,
       "name": "Winter Melody",
       "url": "https://open.spotify.com/track/1p97ORAMUOY7ThHkyokXgC"

@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 132485,
+  "num_followers": 132565,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGY4NDBmYzVhNDU3NjE3Y2VjNmVmNDY3MjlhMmRiYWIy",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDdjMGM1MDBmZDk2NmYxNjZkOWNlM2I5ZDM0ZjFkZDQw",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Existential Beast",
-        "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lee Richards",
-          "url": "https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc"
-        }
-      ],
-      "duration_ms": 367480,
-      "name": "Golden Gate",
-      "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Vanishing Shores",
         "url": "https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 212725,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Existential Beast",
+        "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lee Richards",
+          "url": "https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc"
+        }
+      ],
+      "duration_ms": 367480,
+      "name": "Golden Gate",
+      "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
     }
   ],
   "unique_name": "Psych & Groove",

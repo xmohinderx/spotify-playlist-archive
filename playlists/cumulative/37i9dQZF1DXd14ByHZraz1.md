@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Groove Delight
 
-117 songs - 5 hr 59 min
+118 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [The Drop \- Öwnboss Remix](https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [The Drop \(Ownboss Remix\)](https://open.spotify.com/album/0xpfN2PvmlHbF5ki5u3RJR) | 2:56 | 2022-12-23 |  |
 | [The Upside Down](https://open.spotify.com/track/1jtvLN2p1q2lTQL5Qb5Igs) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [hollywhaaat](https://open.spotify.com/artist/2mP5CeI6PYuKIAav3iVsOQ) | [The Upside Down](https://open.spotify.com/album/5NEZVPF8IHVGdZdsVPCjud) | 3:48 | 2022-07-29 |  |
 | [The Way](https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo) | [Mary Mesk](https://open.spotify.com/artist/7Fc6qlNa6F4ONSLfJjlfjJ), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [The Way](https://open.spotify.com/album/25cyAsBHAUIIME98kp0wXY) | 4:31 | 2021-12-24 | 2023-01-28 |
-| [This Feeling](https://open.spotify.com/track/3hQpBuFdNnFM38NjTeg0XQ) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [This Feeling](https://open.spotify.com/album/5H39x8Yael0buJaEmmK7Xe) | 3:16 | 2022-04-22 |  |
+| [This Feeling](https://open.spotify.com/track/3hQpBuFdNnFM38NjTeg0XQ) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [This Feeling](https://open.spotify.com/album/5H39x8Yael0buJaEmmK7Xe) | 3:16 | 2022-04-22 | 2023-02-25 |
+| [This Feeling](https://open.spotify.com/track/79SrdoXn93tgSzksq73X2y) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [This Feeling](https://open.spotify.com/album/1sumCybVSXAHHhMtfW3iFB) | 3:16 | 2023-02-10 |  |
 | [Time \- Sevek Remix](https://open.spotify.com/track/5grzVCT8ZFzWGBLZQs5dkH) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Time \(Sevek Remix\)](https://open.spotify.com/album/58AZcrMLTjgrsHrTByNX5L) | 2:25 | 2022-07-01 |  |
 | [Vale la Pena](https://open.spotify.com/track/1BEgJDSmeQKAgMNrN1TOU7) | [Aleexs](https://open.spotify.com/artist/3reHBaWTCkLFZjq1vnWwfo), [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq) | [Vale la Pena](https://open.spotify.com/album/7jqGbGH3ItFamt5zRC0nJj) | 2:41 | 2022-12-12 | 2023-01-21 |
 | [Warning](https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Warning](https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp) | 5:36 | 2022-11-25 | 2023-01-21 |

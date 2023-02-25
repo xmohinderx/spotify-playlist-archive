@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Ne Obliviscaris
 
-604 songs - 2 day 4 hr 2 min
+606 songs - 2 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [At the behest of night](https://open.spotify.com/track/7fHFdpyc17WghB8DAicz6S) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2CUsVsLGck7UNb0XCi7Mvw) | 5:03 | 2022-09-02 | 2023-01-21 |
 | [At the Behest of Origins](https://open.spotify.com/track/1T3tO7bdsMwlA8W4hWbXwE) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [At the Behest of Origins](https://open.spotify.com/album/6WdZ2mbYCKFIB8NcTOJUef) | 4:32 | 2021-12-17 | 2022-01-22 |
 | [At the End](https://open.spotify.com/track/0Wc3gD4Fp7TNiX5AmBFbEO) | [Recode the Subliminal](https://open.spotify.com/artist/68FB6q7XC6TDdyMeGmH5Yo) | [The Cost of Every Man](https://open.spotify.com/album/4XoPUpQ9mzPFKwDvCVZMEP) | 3:58 | 2021-12-17 | 2022-01-27 |
+| [Atropos](https://open.spotify.com/track/5LmeXeJ8McsxWZXgPkyhxs) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Atropos](https://open.spotify.com/album/3B1hA33fuFZKtet8TbZg9M) | 8:23 | 2023-02-24 |  |
 | [Aurora](https://open.spotify.com/track/6ZNISOKE44BV11yE5IigJ1) | [Cynic](https://open.spotify.com/artist/5nXldeedEas60jZnMi40p4) | [Ascension Codes](https://open.spotify.com/album/3X6Y48lW0sNxNrLLfDdLP3) | 4:33 | 2022-01-14 | 2022-07-27 |
 | [Avatar](https://open.spotify.com/track/12f0f3XqpyPb4O8bdtDn3E) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Artificial Void](https://open.spotify.com/album/6x5jAsKU1x9JB5u5eZ6sLg) | 5:46 | 2022-07-13 |  |
 | [Awaken the Master](https://open.spotify.com/track/2K369VsZZtrd84dnVUv1Wh) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [A View From The Top Of The World](https://open.spotify.com/album/5eukDoHISjksEavVxVKcXn) | 9:47 | 2021-12-17 | 2023-01-21 |
@@ -297,6 +298,7 @@
 | [Lost in my Mind](https://open.spotify.com/track/3KJBjsUATAY3jUNfZPp0Nx) | [Lone Survivors](https://open.spotify.com/artist/4qm7V3zSCeJApeZhmSCLeh) | [Lost in my Mind](https://open.spotify.com/album/44R9KfUswdil0UqQE7JY5i) | 4:28 | 2022-07-13 | 2022-07-28 |
 | [Lotus](https://open.spotify.com/track/3aUXwNbiCZRkuA0p2Ic79Y) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Lotus](https://open.spotify.com/album/4XiQU9w2Ldk1WYSa8Qm5qd) | 5:23 | 2021-12-17 | 2022-07-01 |
 | [Love in the Time of Pestilence](https://open.spotify.com/track/1L4BtGYob6EaRXLDzSmcom) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Love in the Time of Pestilence](https://open.spotify.com/album/2umQh1Vbk9Kxvpg8dlkvId) | 7:41 | 2021-12-31 | 2022-07-27 |
+| [Lovebite](https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Lovebite](https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX) | 3:49 | 2023-02-24 |  |
 | [Lucid \- Instrumental](https://open.spotify.com/track/2ZxbarbDgwGoe2DwoNM3v7) | [Divitius](https://open.spotify.com/artist/3OpDQOKBjTtNipHUBb9ABW) | [The Arcadian Parallel](https://open.spotify.com/album/7ja3OhYK0rI9jO9N1rnc6r) | 4:30 | 2022-07-13 |  |
 | [Lunatic Fringe](https://open.spotify.com/track/5aFvQjdc3KvJEvUkEHI7TL) | [Four Stroke Baron](https://open.spotify.com/artist/091cSUyhQCRgJreqXy17m5) | [Lunatic Fringe](https://open.spotify.com/album/5rrj2JXuTlR2QY3vtrSQTE) | 4:13 | 2021-12-17 | 2022-07-28 |
 | [Mahogany](https://open.spotify.com/track/1XJQgKs647fs99TP9ezrx0) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Sota](https://open.spotify.com/artist/6ePZyisYTEtSze2cCNS2Kb) | [Mahogany](https://open.spotify.com/album/2B6TPvaY8dSGRapwJCQDfJ) | 5:01 | 2021-12-17 | 2022-07-27 |
@@ -462,7 +464,7 @@
 | [Straight Lines](https://open.spotify.com/track/6WTioFyIEiYB5Ge0SJO8Rd) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Witness](https://open.spotify.com/album/3FVRmhZVaZfLvqHupMbJ6V) | 4:22 | 2022-07-08 | 2022-09-03 |
 | [String Theory](https://open.spotify.com/track/6KKw70o8ZTy8LVltAyUwGw) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [String Theory](https://open.spotify.com/album/2VbMfWccghg85IgMXkaPiv) | 4:56 | 2021-12-17 | 2022-09-03 |
 | [Stuck](https://open.spotify.com/track/74vy9v25MuoqNVBdAjGwJC) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Malina](https://open.spotify.com/album/0DvboP39IwpnJU9QrKIpDW) | 6:48 | 2021-12-17 | 2022-09-03 |
-| [Such a Shame](https://open.spotify.com/track/31ecPwecmstplaiMrDUpPs) | [Kôôver](https://open.spotify.com/artist/7Hr5q9aRiMPF8C3VxS3UKa) | [Metal Covers, Vol\. 1](https://open.spotify.com/album/6AJ0wg09tASuePn8zKV8nP) | 4:13 | 2022-04-01 |  |
+| [Such a Shame](https://open.spotify.com/track/31ecPwecmstplaiMrDUpPs) | [Kôôver](https://open.spotify.com/artist/7Hr5q9aRiMPF8C3VxS3UKa) | [Metal Covers, Vol\. 1](https://open.spotify.com/album/6AJ0wg09tASuePn8zKV8nP) | 4:13 | 2022-04-01 | 2023-02-25 |
 | [Sundowner](https://open.spotify.com/track/3xktHOVxDZqnfzd5J7YqmA) | [Four Stroke Baron](https://open.spotify.com/artist/091cSUyhQCRgJreqXy17m5) | [Sundowner](https://open.spotify.com/album/5AG9QH3YQSsr2lNO0tYiTK) | 4:22 | 2021-12-17 | 2022-07-28 |
 | [Sunshine Dust](https://open.spotify.com/track/2l7nVNOhkH9GveLLidCP6l) | [Skyharbor](https://open.spotify.com/artist/0YbvZPP1HufDyWIsR0ei6K) | [Sunshine Dust](https://open.spotify.com/album/4VWICVl0jvAPNIN0qePUaO) | 6:19 | 2022-01-14 | 2022-01-17 |
 | [Surrounded \- Live in NYC \- 1993](https://open.spotify.com/track/4gi86wbezjWWY6UcSFHZut) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: Live in NYC \- 1993](https://open.spotify.com/album/02Y334D78pAitL6f5nxgxE) | 5:58 | 2022-03-18 |  |

@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-354 songs - 21 hr 6 min
+356 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Maayam Seithaai Poovae \- From "Think Indie"](https://open.spotify.com/track/2QLaEmLzz4tfHtdxmMHbqX) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104) | [Maayam Seithaai Poovae \(From "Think Indie"\)](https://open.spotify.com/album/6yjQ1vNDcwSsXp1VFKpezr) | 4:04 | 2022-05-05 | 2022-10-11 |
 | [Maayaval](https://open.spotify.com/track/5ja2zSzH6k4Ca4sJ3Graay) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Mass Kajan](https://open.spotify.com/artist/49irWLkS1LxmPgNe1xJ0Vx) | [Maayaval](https://open.spotify.com/album/2WDgo4S3typ3WZyJJZ7sVc) | 3:06 | 2023-02-14 |  |
 | [Madhubala \- Tamil](https://open.spotify.com/track/5WNXPdJZ1Pp0rp7T9GJM9g) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Madhubala \(Tamil\)](https://open.spotify.com/album/6TYjxDUedDYXzChCyQVQCd) | 4:52 | 2022-11-17 |  |
+| [Maiyal](https://open.spotify.com/track/5CDoT9DeBTgLbJP9h7cNNn) | [K L Revanth](https://open.spotify.com/artist/3FGLO2665aCenkZD9vF1eB), [Varshini Shankar](https://open.spotify.com/artist/0ckwDyqphwaCPqdYubBF02) | [Maiyal](https://open.spotify.com/album/1O8xGmpRfJs3VAppThcJcE) | 3:44 | 2023-02-24 |  |
 | [Malar](https://open.spotify.com/track/23oT1fb1GhQD0kSeLpVtHv) | [Ashwin Aryan](https://open.spotify.com/artist/7w7JsEht5xieUuMnFgLNZ1) | [Malar](https://open.spotify.com/album/05IECVozPGpijuQFN2a9wI) | 3:35 | 2022-10-14 | 2022-11-15 |
 | [Manadhin Oru Paadhi](https://open.spotify.com/track/6hSH5IxsxMEJXCI7TrBx1g) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Manadhin Oru Paadhi](https://open.spotify.com/album/3UadsOOLsAcCKDMQkUcejb) | 3:08 | 2022-08-11 | 2023-02-07 |
 | [Manadhooram](https://open.spotify.com/track/6Zcz4HJ0b6f3t1iDaA3Erg) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Lal Krishna](https://open.spotify.com/artist/6T9d3iP4qFaKzPATYC0lYE) | [Manadhooram](https://open.spotify.com/album/2aH0VNj51zVHzk9hWk83Ap) | 2:41 | 2023-01-18 |  |
@@ -215,6 +216,7 @@
 | [Nee Mattum \- From "Think Indie"](https://open.spotify.com/track/3MatT4IdI5LqHuaIZxHXRu) | [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm) | [Nee Mattum \(From "Think Indie"\)](https://open.spotify.com/album/2vagld4YbwNZ7n4iCzugb3) | 3:17 | 2023-02-16 |  |
 | [Nee Oli](https://open.spotify.com/track/5ZrQwvzjmKWnrG1bKk4t13) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm) | [Nee Oli](https://open.spotify.com/album/4aF2eczsQ9eLheYM79lew6) | 3:50 | 2022-12-30 |  |
 | [Nee Podhum Anbe \(Original Soundtrack\)](https://open.spotify.com/track/6PoOgECgWgrFTYdjj94igE) | [Vandana Mazan](https://open.spotify.com/artist/67snLh57JOf5wtRMBaJwmv) | [Nee Podhum Anbe \(Original Soundtrack\)](https://open.spotify.com/album/4oDpsTrs9f4fsybucaxDKU) | 5:17 | 2022-05-27 | 2022-06-17 |
+| [Nee Yaara Molae](https://open.spotify.com/track/1luxy3SaDVnirLgkKg11V5) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Prince Bii](https://open.spotify.com/artist/53fPFYyYxmwkuhQyZE65rF) | [Nee Yaara Molae](https://open.spotify.com/album/6GPTtTKpa40llzK6TNChgq) | 3:30 | 2023-02-24 |  |
 | [Neeya Neeya](https://open.spotify.com/track/57ppMpz7qTjj3FtHxYlloe) | [K L Revanth](https://open.spotify.com/artist/3FGLO2665aCenkZD9vF1eB), [Juvin Jonix](https://open.spotify.com/artist/0Yxtk271vmZRIajIjR1aHv), [Anandita Krishanan](https://open.spotify.com/artist/71y2TPjvA0Am5wCCN52vEN) | [Neeya Neeya](https://open.spotify.com/album/3jo91pT0NEfhdYNtSe9Z5p) | 3:50 | 2022-09-27 | 2022-10-14 |
 | [Neeye](https://open.spotify.com/track/10pQAPHnkCXsN3i6Ur1Ue8) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Neeye](https://open.spotify.com/album/3pnvov3dH9shA0n6ddOy8R) | 3:07 | 2022-09-27 | 2022-11-17 |
 | [Neeye Oli](https://open.spotify.com/track/4TZb8HB5VEIRphX4CV7qXj) | [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Neeye Oli](https://open.spotify.com/album/7kteCK6dcvokkmehLt8Cxh) | 3:57 | 2021-12-01 | 2022-08-12 |

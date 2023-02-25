@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,873 likes - 309 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,028 likes - 309 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 36 | [Rugged Soul](https://open.spotify.com/track/32j4lUE7CpoTIGUVM2ZN9n) | [Skeleton Panda](https://open.spotify.com/artist/0PuasH1K6rjltXwNAl06wQ) | [Rugged Soul](https://open.spotify.com/album/0JL0uJmED5AQeBfgmqDDwP) | 1:39 |
 | 37 | [Saturday Bbq](https://open.spotify.com/track/0TisGOx1QUhgqRLRJntfwe) | [Pat Kujala](https://open.spotify.com/artist/4myCjaaRFXSNYDhXsOOfUK) | [Saturday Bbq](https://open.spotify.com/album/5y1TH7dDW1uQrDoc8g5Zl2) | 2:26 |
 | 38 | [Really Get Going](https://open.spotify.com/track/69Go42QZw7dC2Ehl0pZhCi) | [Steefann](https://open.spotify.com/artist/6bQY0OdvrUz4BUlajKcLfF) | [Really Get Going](https://open.spotify.com/album/4MACdcvjpSigHwHLxWDhyx) | 2:35 |
-| 39 | [Sorbets](https://open.spotify.com/track/0myyZ5la6POCla0TiQAlJI) | [StuntBoy](https://open.spotify.com/artist/4Of78o29P758Xa4ZluzsS1) | [Reach Out](https://open.spotify.com/album/75Scz9V5C2kpPIWAQyJT26) | 2:00 |
+| 39 | [Sorbets](https://open.spotify.com/track/0myyZ5la6POCla0TiQAlJI) | [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [Reach Out](https://open.spotify.com/album/75Scz9V5C2kpPIWAQyJT26) | 2:00 |
 | 40 | [Catalangelo](https://open.spotify.com/track/5dW5pzdqZZd9cnFi5hV18S) | [Aberdeen/Stavanger](https://open.spotify.com/artist/1pr2LbfqeB3gh6KUIRKVPk) | [Catalangelo](https://open.spotify.com/album/7o5I6xcwbFCtjSZlVluria) | 2:08 |
 | 41 | [sunday am](https://open.spotify.com/track/1gr9Risxpt6BfHdu5VxtAx) | [SLKBTS](https://open.spotify.com/artist/4hYblY3tnJxMJEPXIu1ikR) | [sunday am](https://open.spotify.com/album/2HAaftOkwFzPXYuBeifJU8) | 1:58 |
 | 42 | [Summer Haze](https://open.spotify.com/track/7sTB4R9y1hyAxxA2mixs3L) | [Flimbo](https://open.spotify.com/artist/0kqL9mr7IkoVgzLpIvfUhp) | [Summer Haze](https://open.spotify.com/album/3MQOnybwcpMFWWpHfO8n7X) | 1:44 |

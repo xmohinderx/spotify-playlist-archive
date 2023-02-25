@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,431 likes - 134 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,436 likes - 134 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 101 | [Omit The Feeble Meat](https://open.spotify.com/track/6MX2R5xvIUf6c6Q9cjoSJN) | [Squirrely Bass](https://open.spotify.com/artist/16szDgocdMVICKd53On8MK) | [Omit The Feeble Meat](https://open.spotify.com/album/1LiXDvjxnxdnnCiw7Xbplf) | 2:41 |
 | 102 | [Brooding T\-Rex](https://open.spotify.com/track/2atx7EGXuT2Gi0m2M9ImyQ) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:37 |
 | 103 | [Journey In](https://open.spotify.com/track/4ir4jAGbMUcLpIfRGI77Ir) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 1:36 |
-| 104 | [Maharani Ardiga](https://open.spotify.com/track/2jruslhpwLSNiqinVoumWD) | [Jazzmute](https://open.spotify.com/artist/4LzHhUnugb5z8T2dfgQHGS) | [Freefall](https://open.spotify.com/album/1RrbJ0k3FCQIzXUBe51yNf) | 1:35 |
+| 104 | [Maharani Ardiga](https://open.spotify.com/track/2jruslhpwLSNiqinVoumWD) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Freefall](https://open.spotify.com/album/1RrbJ0k3FCQIzXUBe51yNf) | 1:35 |
 | 105 | [Donnie DarKo](https://open.spotify.com/track/2KGATOvaBe8tw2hvB2Suc1) | [Sarach](https://open.spotify.com/artist/50NbkaTw0JbpYCMyHvAfIM), [baru](https://open.spotify.com/artist/1F8qMVXNHlvxGFkHLdWvvL) | [Donnie DarKo](https://open.spotify.com/album/44NTVo4xYykD6ni27p3yoG) | 2:14 |
 | 106 | [Trippier](https://open.spotify.com/track/4bT3N5SidnYnydelbL3FVL) | [Stanz Vanz](https://open.spotify.com/artist/01swNkzCEWNS1bFpINjuAN) | [Trippier](https://open.spotify.com/album/6JO4wwfTK87vMPGkub8XWf) | 3:35 |
 | 107 | [Rooftop](https://open.spotify.com/track/6849JqU4mi9w90w8pQABt9) | [Prashant!](https://open.spotify.com/artist/4CjSeBGPPvu2DXCVdN8gK2) | [Vol\. \#002](https://open.spotify.com/album/3klKcK3sSrrynypVWQsa7P) | 2:17 |
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 130 | [Reason \(Instrumental\)](https://open.spotify.com/track/3m9dTM1EGwaTMZlWz35IO4) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Reason \(Instrumental\)](https://open.spotify.com/album/79wdqvPlARnL1sXcEbnIHI) | 2:49 |
 | 131 | [Here](https://open.spotify.com/track/0gM7n7YMyfFIK4gBxAnJ02) | [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0), [Fri](https://open.spotify.com/artist/5laFIPE0PAzSuNXTNUuXyu) | [Beat Tape, Vol\. 1 / Mentally, I'm Here](https://open.spotify.com/album/3QqAwG3j81xnL6SZVIGlG3) | 0:57 |
 | 132 | [Summertimes](https://open.spotify.com/track/1t8fB7vpw6WY82MzzSu5EC) | [Miss Sangria](https://open.spotify.com/artist/7qFNxNfrKpdnnDIaQkh4Ou) | [Floweristic](https://open.spotify.com/album/2K069mIX5P0ad1wZTtpOE7) | 1:44 |
-| 133 | [the simmer down](https://open.spotify.com/track/54FEr0qrTnmTsXoYsVwlJf) | [deep priority](https://open.spotify.com/artist/6WuTGuEcw8UuQfKSmH1R6J) | [innercity beatloops](https://open.spotify.com/album/5on8BGb50hANx3oVg8zGHO) | 1:51 |
+| 133 | [the simmer down](https://open.spotify.com/track/54FEr0qrTnmTsXoYsVwlJf) | [Farmor](https://open.spotify.com/artist/6PSXPlcJRWbnLFb5XZRK63) | [innercity beatloops](https://open.spotify.com/album/5on8BGb50hANx3oVg8zGHO) | 1:51 |
 | 134 | [YVR](https://open.spotify.com/track/0yr5SOfo3cErueF3GAoITq) | [GEO\-X](https://open.spotify.com/artist/5VjntCrceRx7AkVib6leeR) | [White Criss](https://open.spotify.com/album/4CZ5iModUePvfKst8fN5gR) | 3:05 |
 
 Snapshot ID: `MTY3Njk5MDQzNSwwMDAwMDAwMDUwYWIyMThlMGQ3YjJmYTU5MDgyZDEwOWI2MGVlZDM4`

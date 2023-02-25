@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "BLIND",
+        "url": "https://open.spotify.com/album/3N6aevLWDHClADfBe8MY0X"
+      },
+      "artists": [
+        {
+          "name": "Ambians",
+          "url": "https://open.spotify.com/artist/6OBPJ5nCAxX0NWqDUfzJYg"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "BLIND",
+      "url": "https://open.spotify.com/track/5NlOyaEtji1DNwsWiOjmXP"
+    },
+    {
+      "album": {
         "name": "Blue Pearl",
         "url": "https://open.spotify.com/album/4Zo1Q2PXOGtV2OirdktdYY"
       },
@@ -946,7 +964,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 192579,
       "name": "Last Chances",
       "url": "https://open.spotify.com/track/4t3Sb48ky45dt5EfPSehZw"
@@ -968,6 +986,24 @@
       "duration_ms": 242500,
       "name": "Lately I've Been Wondering",
       "url": "https://open.spotify.com/track/0NQEzguxVbjYvVeveED6s3"
+    },
+    {
+      "album": {
+        "name": "Let Me Play For You",
+        "url": "https://open.spotify.com/album/3iaRPX0CtnZXks49RHIJaj"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Ellinia",
+          "url": "https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Lean Back",
+      "url": "https://open.spotify.com/track/6rxfQwonRsrHU41h3TCmGW"
     },
     {
       "album": {
@@ -1241,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "On Eagle's Wings",
+        "url": "https://open.spotify.com/album/1ARB7c723GVVygELT8DzoS"
+      },
+      "artists": [
+        {
+          "name": "Axione",
+          "url": "https://open.spotify.com/artist/29wsDWZgbwNUfV26q33dmC"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151747,
+      "name": "On Eagle's Wings",
+      "url": "https://open.spotify.com/track/1ocwTeXjR7EkkXEyix92Ma"
+    },
+    {
+      "album": {
         "name": "Electric Hearts",
         "url": "https://open.spotify.com/album/0oz8kXBIk0xIMrylycgwPs"
       },
@@ -1310,6 +1364,24 @@
       "duration_ms": 158307,
       "name": "One Fine Day",
       "url": "https://open.spotify.com/track/1TzWtETf8eo588fqJllZ4Y"
+    },
+    {
+      "album": {
+        "name": "Let Me Play For You",
+        "url": "https://open.spotify.com/album/3iaRPX0CtnZXks49RHIJaj"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Ellinia",
+          "url": "https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144857,
+      "name": "One Step",
+      "url": "https://open.spotify.com/track/3TR4OoqzX947WgOxG1d5F3"
     },
     {
       "album": {
@@ -1558,7 +1630,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 152306,
       "name": "Shiosai",
       "url": "https://open.spotify.com/track/5ctRFJdqVhr0wWSBeY2BqC"
@@ -1979,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "Time Capsule",
+        "url": "https://open.spotify.com/album/0utIoHGnEg9loR0CPo7Xfr"
+      },
+      "artists": [
+        {
+          "name": "Shawn Moe",
+          "url": "https://open.spotify.com/artist/4J11X0SKdQw8qEsDMXJxug"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132700,
+      "name": "Time Capsule",
+      "url": "https://open.spotify.com/track/3a2aJxxr1gwXnQXzdij1K2"
+    },
+    {
+      "album": {
         "name": "Towards Daylight",
         "url": "https://open.spotify.com/album/52kuliw2gKIqyaZbdJMe6z"
       },
@@ -2116,7 +2206,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 310000,
       "name": "You Decide",
       "url": "https://open.spotify.com/track/6af2G4iym8KvVXcL6CvYG9"

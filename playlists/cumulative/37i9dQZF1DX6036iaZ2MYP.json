@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Ayra Starr",
+  "description": "Tracks popping off in the Afro scene. Cover: Aya Nakamura",
   "name": "Peppeh",
   "tracks": [
     {
@@ -1703,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/4gSUv6jfjDJXL8to2ep6Hj"
+      },
+      "artists": [
+        {
+          "name": "Yacn",
+          "url": "https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/2hNHmy4JZqx5eWUYsNB9lt"
+    },
+    {
+      "album": {
         "name": "Never Let Go Remix",
         "url": "https://open.spotify.com/album/4fV1WkpgkI1eeisnKQjohB"
       },
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 158400,
       "name": "NO PLASTIC",
       "url": "https://open.spotify.com/track/6EogXiW8jsO38lWb7fZLF1"
@@ -2606,7 +2624,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 159344,
       "name": "Wat Het Is",
       "url": "https://open.spotify.com/track/3PAPCLyMceCymHkAUbrDMi"

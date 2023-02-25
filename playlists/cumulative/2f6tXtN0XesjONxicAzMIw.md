@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2f6tXtN0XesjONxicAzMIw.md) - cumulative - [plain](/playlists/plain/2f6tXtN0XesjONxicAzMIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2f6tXtN0XesjONxicAzMIw)
 
-### [2000s Hits Throwbacks \| Top 100 Songs](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
+### [2000s HITS THROWBACKS \| TOP 100 SONGS](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
 
 > The best of the 2000s from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 

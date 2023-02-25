@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 165517,
       "name": "Dottore",
       "url": "https://open.spotify.com/track/5KhyB4m7bwe7m1Ssd6kMq7"
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 175609,
       "name": "Fammi sapere",
       "url": "https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ"
@@ -1994,7 +1994,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 233920,
       "name": "Honey - Original mix",
       "url": "https://open.spotify.com/track/5AGGlWNS6to8ccEt4goFd8"
@@ -2092,10 +2092,32 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 238074,
       "name": "Insegnami la vita",
       "url": "https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC"
+    },
+    {
+      "album": {
+        "name": "Malcostume",
+        "url": "https://open.spotify.com/album/3Vs9kjaUuXS0DXq7PmPlBn"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Casto",
+          "url": "https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F"
+        },
+        {
+          "name": "Romina Falconi",
+          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238074,
+      "name": "Insegnami la vita",
+      "url": "https://open.spotify.com/track/2yGUjCGNdrRzL2vmtaISZT"
     },
     {
       "album": {
@@ -2294,7 +2316,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 183311,
       "name": "La Suora",
       "url": "https://open.spotify.com/track/0IGvfJenQDntbHqBl7UtuU"
@@ -2342,7 +2364,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 231774,
       "name": "LANCIA DELTA INTEGRALE",
       "url": "https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI"
@@ -2360,7 +2382,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 195790,
       "name": "lasciami andare!",
       "url": "https://open.spotify.com/track/3271XiQoOnVW3TzJhTvO8N"
@@ -2450,7 +2472,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 183196,
       "name": "Lingua in Fiamme",
       "url": "https://open.spotify.com/track/5bViZhr1ilSTa5CKy2Lbyy"
@@ -2594,7 +2616,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 169753,
       "name": "Magari Vivi",
       "url": "https://open.spotify.com/track/0yPWp3eBcoREfTTU4U1QwC"
@@ -3604,7 +3626,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Repito - Populous Remix",
       "url": "https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw"
@@ -4454,7 +4476,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 203684,
       "name": "Tocco di Lusso",
       "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
@@ -4548,7 +4570,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 260473,
       "name": "Tropicanal",
       "url": "https://open.spotify.com/track/63NuCcaxGfsgHssX8M0xkn"
@@ -4700,7 +4722,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 254186,
       "name": "We're So Lovely - Hard Ton Remix",
       "url": "https://open.spotify.com/track/6qxn9Wge4mHwcDhr8R6R0p"

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,901 likes - 220 songs - 13 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,904 likes - 220 songs - 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Going Home](https://open.spotify.com/track/7oxXlTpmfuWEyaESin1cKJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Going Home](https://open.spotify.com/album/3PI1CnYgGDhyUus3609otC) | 2:06 |
 | 2 | [In The Air](https://open.spotify.com/track/4ub1JODSX5rGlcKhckbRgM) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [In The Air](https://open.spotify.com/album/00wZ6R07W9BsSAm7sozAmS) | 2:32 |
-| 3 | [Gasteria](https://open.spotify.com/track/4eWxdRtALlb44ggdcWVW8K) | [Gaura](https://open.spotify.com/artist/4Zv99UKFFZKDVl2OsQS7Vp) | [Gasteria](https://open.spotify.com/album/0Jhvii8lPj3SsXzxO6GPZG) | 1:21 |
+| 3 | [Gasteria](https://open.spotify.com/track/4eWxdRtALlb44ggdcWVW8K) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Gasteria](https://open.spotify.com/album/0Jhvii8lPj3SsXzxO6GPZG) | 1:21 |
 | 4 | [Night Stroll](https://open.spotify.com/track/1Ucx9ID568FuqWfxNt7f7E) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Rooftop Sessions](https://open.spotify.com/album/1k9R00w206ngLhFw5NblFV) | 2:50 |
 | 5 | [Garden](https://open.spotify.com/track/2iGZlVQzrSSqfQjUebJ0Qf) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Garden](https://open.spotify.com/album/558o76jGzsoU2lUf27jzz0) | 3:17 |
 | 6 | [Eremito](https://open.spotify.com/track/4K4tXvsNSkxkmo88sdjdSH) | [Morpheus Two](https://open.spotify.com/artist/1YFyublQissuj82xACfDxj) | [Eremito](https://open.spotify.com/album/1Mjfh4k7pxFSQGFkmmYYr5) | 2:01 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 28 | [SDDS](https://open.spotify.com/track/64KlnwwIJFZiyTx2npti1W) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [Branko Presents: Enchufada Na Zona Vol\. 2](https://open.spotify.com/album/2qKCTElpP87LV5PdqDFgxt) | 3:35 |
 | 29 | [Midnight Diner](https://open.spotify.com/track/01lpL7ZN4x3znSlYCGFV89) | [oksami](https://open.spotify.com/artist/1b0Xogb0sa1XfgUXFWPb26) | [Midnight Diner](https://open.spotify.com/album/6TtrE0YPHoYdOqWKeTZ8Kw) | 2:50 |
 | 30 | [Aura](https://open.spotify.com/track/56TPwVBv9GY1YmrRQioDMz) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [Aura](https://open.spotify.com/album/2dBroQ7HmAmQM58zcxLGtG) | 1:47 |
-| 31 | [Sunhat](https://open.spotify.com/track/1coFcVuX3Ws09wptKbIzKE) | [Phil Morison](https://open.spotify.com/artist/6H7RQb4Me099lhkXM3D0e2) | [Sapatos](https://open.spotify.com/album/4glz3ZGCcq49a3qIGIhykp) | 1:41 |
+| 31 | [Sunhat](https://open.spotify.com/track/1coFcVuX3Ws09wptKbIzKE) | [Rudy Boy](https://open.spotify.com/artist/3oAXW0WYR5lFZdx62Vr8OM) | [Sapatos](https://open.spotify.com/album/4glz3ZGCcq49a3qIGIhykp) | 1:41 |
 | 32 | [Roronoa](https://open.spotify.com/track/1rMkIrW3SoR42ZLX3d26m0) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Roronoa](https://open.spotify.com/album/4ELgzCYaKWZ0ShzrH1mnKK) | 2:14 |
 | 33 | [Bossa Bem](https://open.spotify.com/track/203h5qdRjnASiE1dOXzEmY) | [The Directionz](https://open.spotify.com/artist/66vdhayY3Ab8VeJUxKQmiR) | [Bossa Bem](https://open.spotify.com/album/2yRNisFBclumNBbUhE4ZXw) | 2:17 |
 | 34 | [sunshine](https://open.spotify.com/track/6PhsEeekyldBPZ55toYDDE) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [sunshine](https://open.spotify.com/album/25DoamTx8yHEhwGQ4nWEIG) | 2:18 |

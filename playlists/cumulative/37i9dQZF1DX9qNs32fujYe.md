@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Lamb of God
+> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: In Flames
 
-694 songs - 2 day 3 hr 40 min
+695 songs - 2 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Masters of War](https://open.spotify.com/track/4Avnu5FR70qWD9VxandTWe) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Masters of War](https://open.spotify.com/album/0w8qn4MsyCw0d8i98QiZTh) | 4:34 | 2021-12-17 | 2023-02-11 |
 | [Maximus](https://open.spotify.com/track/1K39nmA9tBudF6jNiV1iO6) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Maximus](https://open.spotify.com/album/4FGuBSsKGaTw0MV7qBeq16) | 4:12 | 2021-12-17 | 2022-07-21 |
 | [Mean, Green, Killing Machine](https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [The Grinding Wheel](https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz) | 7:29 | 2022-03-22 | 2022-11-13 |
+| [Meet Your Maker](https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:57 | 2023-02-24 |  |
 | [Memento Mori](https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 5:48 | 2022-07-13 |  |
 | [Memento Mori](https://open.spotify.com/track/6V1tb8rFw1nPeOXX4sccTC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Memento Mori](https://open.spotify.com/album/7jBx6OxyVMHSmAzLHxchIh) | 5:48 | 2021-12-17 | 2022-07-28 |
 | [Metal Division](https://open.spotify.com/track/6IHYWWmVyVXVk8b8rBYy9z) | [Mystic Prophecy](https://open.spotify.com/artist/5kUzPpkPyNpxRYd66c8nYG) | [Metal Division](https://open.spotify.com/album/0cVq9qXjU2QnlocsDrHrRr) | 3:29 | 2021-12-17 | 2022-07-25 |
@@ -569,7 +570,7 @@
 | [The Absurd Circus](https://open.spotify.com/track/7AIn6M10fCE6OTR4vUkfST) | [Labyrinth](https://open.spotify.com/artist/3SG07EEING9Ytq5yFSSuff) | [The Absurd Circus](https://open.spotify.com/album/4LxSkxOmFuHtZ4j4VujGk5) | 6:16 | 2022-01-28 | 2022-04-21 |
 | [The Best Is yet to Come](https://open.spotify.com/track/0ojGXbSAH6INkZX24Kfs2u) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Too Mean to Die](https://open.spotify.com/album/1Ua7bczSzWunvSHJQ44tQD) | 4:47 | 2021-12-17 | 2022-08-20 |
 | [The Bitter Truth](https://open.spotify.com/track/27f65EiuDGegM0kGdYEWKF) | [Savage Messiah](https://open.spotify.com/artist/1kOg7VnU8brFniiq9RnR9X) | [The Bitter Truth](https://open.spotify.com/album/4boSzLSBAFRrlmEh9ntxL9) | 4:03 | 2021-12-17 | 2022-05-12 |
-| [The Book of Heavy Metal \(March of the Metallians\)](https://open.spotify.com/track/07Vk1JPd5MgBJxdrMpnLNh) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [The Book of Heavy Metal](https://open.spotify.com/album/6ZWMfxSgjm7dlS6jbypNDW) | 5:25 | 2021-12-17 |  |
+| [The Book of Heavy Metal \(March of the Metallians\)](https://open.spotify.com/track/07Vk1JPd5MgBJxdrMpnLNh) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [The Book of Heavy Metal](https://open.spotify.com/album/6ZWMfxSgjm7dlS6jbypNDW) | 5:25 | 2021-12-17 | 2023-02-25 |
 | [The Chapeltown Rag](https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:49 | 2022-10-07 | 2023-02-11 |
 | [The Chapeltown Rag](https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Chapeltown Rag](https://open.spotify.com/album/4I3hdRt7CVofGcgbheQ2fk) | 4:51 | 2022-07-13 | 2022-10-08 |
 | [The Circle Of Five](https://open.spotify.com/track/5jdR14PR0vkIpEWwhcl2S2) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [The Circle Of Five](https://open.spotify.com/album/5VJp3QUj1sZYDoSQIJ706N) | 5:25 | 2021-12-29 | 2022-07-15 |

@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-383 songs - 20 hr 4 min
+385 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Amygdala](https://open.spotify.com/track/5921nMZXq52f54Jv57BE80) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Soulythical](https://open.spotify.com/album/30Vh9X9ijMHyg7lcpoejNK) | 3:38 | 2022-05-26 |  |
 | [Andare Lentamente](https://open.spotify.com/track/5foXZOVwYZ9Xs0P61JHHqF) | [Spacious Minds](https://open.spotify.com/artist/1Whq2mxIJ5AjZWxQY19S7V) | [Andare Lentamente](https://open.spotify.com/album/0fjDEGWTfCMf9B9mnjgENQ) | 2:26 | 2022-05-26 |  |
 | [anhelo](https://open.spotify.com/track/7dgNKgQTOXvDyL4oX1xrZ3) | [Ezechiel Almonte](https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9) | [anhelo](https://open.spotify.com/album/5CYhPhBDl0VX9OdvUto91Q) | 3:32 | 2022-05-26 |  |
+| [Anjali \- Remix](https://open.spotify.com/track/54t25Sdax8fIzOanfyEaOA) | [Science Of Dreams](https://open.spotify.com/artist/1KKkMFJaPv6zDbGVIPsM8c) | [Anjali \- Remix](https://open.spotify.com/album/14MahO5Xy3LjPioauZYwc0) | 2:16 | 2023-02-24 |  |
 | [Ankomst](https://open.spotify.com/track/2f1sFLNAFkimScFnAZaEaI) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Avfärd](https://open.spotify.com/album/6dNiLX15nkS1qOT3IiHuGh) | 2:34 | 2022-05-26 |  |
 | [Appel et Réponse](https://open.spotify.com/track/1wn665fN603FkN1UYzvJrh) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Appel et Réponse](https://open.spotify.com/album/6ChkMhVDwf2n4hcvCRivLD) | 2:32 | 2022-05-26 |  |
 | [Arctic Breeze](https://open.spotify.com/track/7qmcnHl8UZCv2gGBxqc7wb) | [Meliore](https://open.spotify.com/artist/2idtXzJnFZXORxj1JhTTqZ) | [Arctic Breeze](https://open.spotify.com/album/6moDvmPDI98joxpiImmnDr) | 2:25 | 2022-05-26 |  |
@@ -189,6 +190,7 @@
 | [Let Me Disappear](https://open.spotify.com/track/16HtsIT4MCXQEbAXfT1rGP) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [Let Me Disappear](https://open.spotify.com/album/5xe8NT7aIklJe7Rd1nsQWc) | 3:23 | 2022-05-26 |  |
 | [Leviathan](https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ) | [Dean Delaux](https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0) | [Leviathan](https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz) | 2:24 | 2022-05-26 |  |
 | [Levitate](https://open.spotify.com/track/7dZchcSQZRcqLs9g5FkbYs) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Levitate](https://open.spotify.com/album/6cLDivlBobugdVdPeKuySN) | 1:30 | 2022-05-26 |  |
+| [Levitation](https://open.spotify.com/track/7sDw7w9CNE4NXO30E7Hcr2) | [Rippness.](https://open.spotify.com/artist/1QxFVzh0whkoFwPgwxfmBx) | [Red Sky](https://open.spotify.com/album/3BwaHNXVmLZiqbKs8Gf4J8) | 3:10 | 2023-02-24 |  |
 | [Liberation](https://open.spotify.com/track/5t4VSTxtgOvcAsk5FcKnh7) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 2:43 | 2022-05-26 |  |
 | [Libero](https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx) | [André Calmaz](https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht) | [Evanescenza](https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK) | 3:06 | 2023-01-27 |  |
 | [Light](https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Light](https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI) | 2:49 | 2022-09-02 |  |

@@ -1361,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "All Yours, Vol. 1",
+        "url": "https://open.spotify.com/album/1XJU5A9j0HQnxa7qxaOI3O"
+      },
+      "artists": [
+        {
+          "name": "NASHE",
+          "url": "https://open.spotify.com/artist/2GUJqSGRk1wqqvcbELRMAC"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216973,
+      "name": "Eat You Up",
+      "url": "https://open.spotify.com/track/535GtRsCDLp9H6x8Hff5D0"
+    },
+    {
+      "album": {
         "name": "With Love (Deluxe)",
         "url": "https://open.spotify.com/album/5Dv1bxV6dqdgmzUZnnJITh"
       },
@@ -1372,7 +1390,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 216973,
       "name": "Eat You Up",
       "url": "https://open.spotify.com/track/5EfC8dEGT6hRMpvBkVoMiX"

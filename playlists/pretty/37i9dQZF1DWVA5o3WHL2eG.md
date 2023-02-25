@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Listen to women at full volume\. Cover: Leony
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,459 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,495 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 17 | [Klippe](https://open.spotify.com/track/5v55WAa8wfRaVpVHAMDeqc) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Klippe](https://open.spotify.com/album/0pfjDkd226jzAU1El7wokl) | 2:38 |
 | 18 | [Vollnarkose](https://open.spotify.com/track/2xH7rLuS7c3k0cwsb4hkeG) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Vollnarkose](https://open.spotify.com/album/0c37Xnqx3Yu9RrgkoLolW3) | 2:47 |
 | 19 | [Strassenlichter](https://open.spotify.com/track/7cTCN89RGvzAWMtx0tko6J) | [LUANA](https://open.spotify.com/artist/1n5afsM6tuJMrJJbkH5xob) | [Strassenlichter](https://open.spotify.com/album/1pRsFERBKpqIEPIU1Shs7R) | 2:06 |
-| 20 | [Nie wieder lieben](https://open.spotify.com/track/76L2zQcFKry2jymKVskX1H) | [Zemine](https://open.spotify.com/artist/7zB3RuBgX3ssVdhKBQOEjJ) | [Nie wieder lieben](https://open.spotify.com/album/7CgxVFIWA5xaE7EpkZspKx) | 3:12 |
-| 21 | [Blaues Kleid](https://open.spotify.com/track/6z0POlmbcfoQrDFEnGuOiz) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Blaues Kleid](https://open.spotify.com/album/1XsIzAV1ikJKewJl9Jrr3c) | 2:47 |
+| 20 | [Blaues Kleid](https://open.spotify.com/track/6z0POlmbcfoQrDFEnGuOiz) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Blaues Kleid](https://open.spotify.com/album/1XsIzAV1ikJKewJl9Jrr3c) | 2:47 |
+| 21 | [Nie wieder lieben](https://open.spotify.com/track/76L2zQcFKry2jymKVskX1H) | [Zemine](https://open.spotify.com/artist/7zB3RuBgX3ssVdhKBQOEjJ) | [Nie wieder lieben](https://open.spotify.com/album/7CgxVFIWA5xaE7EpkZspKx) | 3:12 |
 | 22 | [KOMM MIT MIR](https://open.spotify.com/track/3a4elNaJUIOcRGlo7fs3ru) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw), [Namika](https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz) | [DIRTY SOUTH](https://open.spotify.com/album/4fxWfSWop2N2u5HTF4WNJf) | 3:06 |
 | 23 | [kann nicht schlafen \(ich lieg wach\)](https://open.spotify.com/track/0J7XFx01lrlEjrvXWDPz2x) | [3LNA](https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP) | [kann nicht schlafen \(ich lieg wach\)](https://open.spotify.com/album/4j51z3n4ESXsklaACAc1Ax) | 2:36 |
 | 24 | [Bienennest](https://open.spotify.com/track/45fAUlR4UMhnH0g2sxF3U2) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Bienennest](https://open.spotify.com/album/5IiXuGdya1sEyxr2FDOBOh) | 3:28 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 30 | [The More I Bite](https://open.spotify.com/track/4cGQFb9fFfw3nmSNm3L2JE) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX) | [The More I Bite](https://open.spotify.com/album/16O7AReSw4Lk6ytVghcVIt) | 2:18 |
 | 31 | [unser outro](https://open.spotify.com/track/02gROagmZFL4Bq6wZcMNcu) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [unser outro](https://open.spotify.com/album/4b57lz0ovywOxXdwO1Yzsd) | 3:17 |
 | 32 | [Stuck in My Head](https://open.spotify.com/track/1GSOAXoDgZaLuV0bgLQQtG) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Stuck in My Head](https://open.spotify.com/album/5jeJQGoMtrCbLk841fVXoC) | 2:38 |
-| 33 | [Walkie Talkie Booty Call \- Mausipop Version](https://open.spotify.com/track/2WW6cIIBiRIxHOTQ4MSgxe) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Walkie Talkie Booty Call \(Mausipop Version\)](https://open.spotify.com/album/5ezWr8v98gPIA9NoUcfh0o) | 2:06 |
-| 34 | [Power of Today](https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power of Today](https://open.spotify.com/album/7yIK0Y0jH33BaFWcuQJnEI) | 6:19 |
+| 33 | [Power of Today](https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power of Today](https://open.spotify.com/album/7yIK0Y0jH33BaFWcuQJnEI) | 6:19 |
+| 34 | [Walkie Talkie Booty Call \- Mausipop Version](https://open.spotify.com/track/2WW6cIIBiRIxHOTQ4MSgxe) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Walkie Talkie Booty Call \(Mausipop Version\)](https://open.spotify.com/album/5ezWr8v98gPIA9NoUcfh0o) | 2:06 |
 | 35 | [This One's for You](https://open.spotify.com/track/4jGwo6XYSxgBZ7UkrhlLvE) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [This One's for You](https://open.spotify.com/album/5IT3PmuTYMzz35OOgiO4J2) | 4:14 |
 | 36 | [Affirmation Practice](https://open.spotify.com/track/2nArEaoCGtb6ws4wO4cI9a) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Affirmation Practice](https://open.spotify.com/album/2tnN5ey40OEsFKIurIWNsK) | 5:11 |
 | 37 | [Say My Name](https://open.spotify.com/track/0uc8dunUbcQxjqgPPTsIG8) | [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [Say My Name](https://open.spotify.com/album/18zOW95fsCYH9a7uk8PQhI) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Come Oblivion](https://open.spotify.com/track/0Ma5tlwPggGeLREymwSRRj) | [Gemma Ray](https://open.spotify.com/artist/2yFINwzZpVkgFhKLpuAAle) | [Gemma Ray & The Death Bell Gang](https://open.spotify.com/album/6lNtWS3Xj1gtj9yg7bwGKq) | 3:47 |
 | 50 | [Verrückt nach dir](https://open.spotify.com/track/6JvbriIzMHaGk2oIKuaFyQ) | [RIA](https://open.spotify.com/artist/1uEz1ky7M03Huwn2WzeSyK) | [Verrückt nach dir](https://open.spotify.com/album/4NH3NexFiXUSlLgsz7HvLN) | 2:57 |
 
-Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMGEzMjU1ZjM4NmEyMDFlZTMyMTAzOTBjZWVlMDI3YTJm`
+Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMGQ4MmQwYTA2ZjNmYjg2YjFkMDM1MDE0Y2U2MWE1NzFh`

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-12-28",
   "description": "Le cin\u00e9ma \u00e7a s'\u00e9coute aussi.",
-  "name": "Bandes Originales & Pop Corn",
+  "name": "BO & Pop Corn",
   "tracks": [
     {
       "album": {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 192986,
       "name": "All For Us - from the HBO Original Series Euphoria",
       "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
@@ -60,7 +60,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 157586,
       "name": "All I Want Is You",
       "url": "https://open.spotify.com/track/5sIBOrRLBI6ypREdEPj2wQ"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 79093,
       "name": "Aloha! (Main Title Theme) - from \u201cThe White Lotus: Season 1\u201d",
       "url": "https://open.spotify.com/track/4jNa66Mi5PgcXrEaCiPNMu"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 127786,
       "name": "Amarcord",
       "url": "https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG"
@@ -118,10 +118,76 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 234026,
       "name": "Amore mio aiutami - Main Theme",
       "url": "https://open.spotify.com/track/29KwH2LEjfWEtiC2jCrLVw"
+    },
+    {
+      "album": {
+        "name": "2001 - A Space Odyssey",
+        "url": "https://open.spotify.com/album/3AzJfHje1Uym5QC5vt7WKK"
+      },
+      "artists": [
+        {
+          "name": "Johann Strauss II",
+          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600666,
+      "name": "An der sch\u00f6nen blauen Donau, Op.314",
+      "url": "https://open.spotify.com/track/5siXMmAafNxDlgcsLsqL9R"
+    },
+    {
+      "album": {
+        "name": "Juno (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5QLWzI3zMjxnI4ry0Wu6IS"
+      },
+      "artists": [
+        {
+          "name": "Michael Cera",
+          "url": "https://open.spotify.com/artist/4xXQxNcBCtsaz6Gw1IblE3"
+        },
+        {
+          "name": "Elliot Page",
+          "url": "https://open.spotify.com/artist/0P6soo9LS5O854DcUpEtSc"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116706,
+      "name": "Anyone Else but You",
+      "url": "https://open.spotify.com/track/7mOYvqE4mvNWW0Oe3O9DxG"
+    },
+    {
+      "album": {
+        "name": "Back To The Future (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0jz1nb6dEh9PvRZr9bs387"
+      },
+      "artists": [
+        {
+          "name": "The Outatime Orchestra",
+          "url": "https://open.spotify.com/artist/2taffC19qE4FkJpPPfMzqw"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Back To The Future",
+      "url": "https://open.spotify.com/track/5F7I0CfdEnVSPlwFabMyIi"
     },
     {
       "album": {
@@ -144,6 +210,28 @@
       "duration_ms": 324600,
       "name": "Balcony Scene (Tonight)",
       "url": "https://open.spotify.com/track/63qvbi2vkMATRpLUTiuSdu"
+    },
+    {
+      "album": {
+        "name": "OSS 117: Le Caire, nid d'espions (Bande originale du film)",
+        "url": "https://open.spotify.com/album/3wiE2l6aNNoAYYKSQjcYUh"
+      },
+      "artists": [
+        {
+          "name": "Jean Dujardin",
+          "url": "https://open.spotify.com/artist/1SNXHU6Ra98YVdhuoZC5FM"
+        },
+        {
+          "name": "l'Orchestre Oriental",
+          "url": "https://open.spotify.com/artist/3ZmIWL4BoiI80kX22jMG5y"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198600,
+      "name": "Bambino",
+      "url": "https://open.spotify.com/track/4EDlZc7p6aOCuymmnQa5OJ"
     },
     {
       "album": {
@@ -176,7 +264,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 128280,
       "name": "Bathroom Dance",
       "url": "https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC"
@@ -194,10 +282,46 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 220560,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "album": {
+        "name": "37\u00b02 le matin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2pIZNnAgeWIrWGyZb3Etrt"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "Betty et Zorg",
+      "url": "https://open.spotify.com/track/6vHmR3htXYkcXoKf6ktNfu"
+    },
+    {
+      "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354947,
+      "name": "Bohemian Rhapsody - 2011 Remaster",
+      "url": "https://open.spotify.com/track/6AWe04n4zsYkGKb3Pf7LMk"
     },
     {
       "album": {
@@ -216,7 +340,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 159430,
       "name": "Burn Butcher Burn - from \"The Witcher: Season 2\" Soundtrack",
       "url": "https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm"
@@ -234,10 +358,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 230720,
       "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
       "url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2"
+    },
+    {
+      "album": {
+        "name": "Bagdad Cafe",
+        "url": "https://open.spotify.com/album/7mWCUfRFz4lmttQsDo56BK"
+      },
+      "artists": [
+        {
+          "name": "Jevetta Steele",
+          "url": "https://open.spotify.com/artist/60uus5jXLZ6fArMHuqpQoR"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322093,
+      "name": "Calling You - Bagdad Cafe/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0TwsjNAtErKrdFImpIg9To"
     },
     {
       "album": {
@@ -252,7 +394,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 101572,
       "name": "Cambridge, 1963",
       "url": "https://open.spotify.com/track/7iLVpb0WAgeVRn2wSdmdrd"
@@ -270,7 +412,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 244573,
       "name": "Can't Fight City Halloween",
       "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
@@ -292,10 +434,54 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
+    },
+    {
+      "album": {
+        "name": "Hier & demain",
+        "url": "https://open.spotify.com/album/3cUJDFMQQtDDiFo1wyvWG0"
+      },
+      "artists": [
+        {
+          "name": "Anne Germain",
+          "url": "https://open.spotify.com/artist/4bAsmozSfvwPmObx4U5Vzw"
+        },
+        {
+          "name": "Claude Parent",
+          "url": "https://open.spotify.com/artist/20T56aCfFmFypic33y88UQ"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234360,
+      "name": "Chanson des jumelles - From \"Les demoiselles de Rochefort\"",
+      "url": "https://open.spotify.com/track/0otrM26ykhxMBEVOA8cuWG"
+    },
+    {
+      "album": {
+        "name": "Tout ce qui brille (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5THGRTWYfqHjw8DfD9tAHF"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9raldine Nakache",
+          "url": "https://open.spotify.com/artist/0IDsFBG1IGixFtXn0fWEFe"
+        },
+        {
+          "name": "Le\u00efla Bekhti",
+          "url": "https://open.spotify.com/artist/0glFopPWoGI1iAwltIpxOA"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "Chanson sur une dr\u00f4le de vie",
+      "url": "https://open.spotify.com/track/12zakSjWxrohomLLgxTkCR"
     },
     {
       "album": {
@@ -310,10 +496,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 217186,
       "name": "Che Vuole Questa Musica Stasera",
       "url": "https://open.spotify.com/track/6wrptu9SlLfq8bE6C86kEX"
+    },
+    {
+      "album": {
+        "name": "Made In France",
+        "url": "https://open.spotify.com/album/6i5Nnj3Hq4PqL5JdKTdCwP"
+      },
+      "artists": [
+        {
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212613,
+      "name": "Chi Ma\u00ef",
+      "url": "https://open.spotify.com/track/1JFrbhU6IDAvHtUbmYayEW"
     },
     {
       "album": {
@@ -350,7 +554,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 198080,
       "name": "Climbing up \"Iknimaya - The Path to Heaven\"",
       "url": "https://open.spotify.com/track/15KqdThHtueKDitVDzKNkF"
@@ -368,7 +572,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 176859,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
@@ -433,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
+    },
+    {
+      "album": {
         "name": "The Truman Show (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2uMsRKnaZ0Iy9wVI4F0X8a"
       },
@@ -451,6 +673,42 @@
     },
     {
       "album": {
+        "name": "Comme un boomerang",
+        "url": "https://open.spotify.com/album/7IoGi1b3jxA6FXOaoa66iK"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146186,
+      "name": "Elisa - Bande originale du film \"L'horizon\"",
+      "url": "https://open.spotify.com/track/6aJm7Q98ZFmGNYFWd3coJF"
+    },
+    {
+      "album": {
+        "name": "E.T. The Extra Terrestrial",
+        "url": "https://open.spotify.com/album/3Pood3AEXTNuRqXlEvLLUf"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229293,
+      "name": "End Credits - Soundtrack Reissue (2002)",
+      "url": "https://open.spotify.com/track/5NHDsqd1YrYqTJxaLddelw"
+    },
+    {
+      "album": {
         "name": "TRON: Legacy",
         "url": "https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx"
       },
@@ -462,7 +720,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 156480,
       "name": "End of Line - From \"TRON: Legacy\"/Score",
       "url": "https://open.spotify.com/track/72MoCPAnz0UljAVmwHHw3Y"
@@ -487,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Rocky IV",
+        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245640,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
+    },
+    {
+      "album": {
         "name": "Fame (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
       },
@@ -498,10 +774,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 316066,
       "name": "Fame",
       "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
+    },
+    {
+      "album": {
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
       "album": {
@@ -523,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Footloose (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Tx8adY1323eMrMuvPILpl"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226280,
+      "name": "Footloose - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/4lUquPSQVHZv1eKuswOLsG"
+    },
+    {
+      "album": {
         "name": "Braveheart (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/11RrIE8R4WdmybwaItRa97"
       },
@@ -538,7 +850,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 247333,
       "name": "For The Love Of A Princess",
       "url": "https://open.spotify.com/track/22yxHt6UqZpH7tP6W4PooI"
@@ -556,10 +868,32 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 134133,
       "name": "Gabriel's Oboe",
       "url": "https://open.spotify.com/track/6opPrJUpq4Pl5c84eCwLmo"
+    },
+    {
+      "album": {
+        "name": "Gangsta's Paradise",
+        "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        },
+        {
+          "name": "L.V.",
+          "url": "https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240693,
+      "name": "Gangsta's Paradise",
+      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     },
     {
       "album": {
@@ -574,7 +908,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 239133,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
@@ -599,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Stull",
+        "url": "https://open.spotify.com/album/07gzuMURkIJ7Iatsz3Uqw0"
+      },
+      "artists": [
+        {
+          "name": "Urge Overkill",
+          "url": "https://open.spotify.com/artist/5LEUigTSXpwrtERRcSW1N4"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189626,
+      "name": "Girl, You'll Be a Woman Soon",
+      "url": "https://open.spotify.com/track/1mSzuXVjjKC0bPh6iG6xjy"
+    },
+    {
+      "album": {
         "name": "Rocky Balboa",
         "url": "https://open.spotify.com/album/50mja1rtC0ExIrSw9SoT5j"
       },
@@ -610,7 +962,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 157622,
       "name": "Going The Distance",
       "url": "https://open.spotify.com/track/09ZLthJQ2SCYKMsrsDPcfw"
@@ -628,7 +980,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 170240,
       "name": "Gonna Fly Now",
       "url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs"
@@ -682,7 +1034,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 161500,
       "name": "Highschool Lover",
       "url": "https://open.spotify.com/track/366QpkppDb9f5TVamPSpgH"
@@ -708,7 +1060,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 91080,
       "name": "Hoist the Colours - From \"Pirates of the Caribbean: At World's End\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1xvtgNKtzZwOeLDkxgMzav"
@@ -726,10 +1078,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 123533,
       "name": "I Drive",
       "url": "https://open.spotify.com/track/1ptBH8MFuEgtEcjcU6t5t1"
+    },
+    {
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
       "album": {
@@ -744,7 +1114,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 132840,
       "name": "I Wish I Had a Hundred Years",
       "url": "https://open.spotify.com/track/5lb8hYTICPj3WGIiaW1qla"
@@ -762,7 +1132,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 159666,
       "name": "I'm Forrest... Forrest Gump",
       "url": "https://open.spotify.com/track/1ijrMIqQvZNsnoqGukPzFD"
@@ -780,10 +1150,94 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 179173,
       "name": "Iko Iko",
       "url": "https://open.spotify.com/track/0sXuP9uIFdL9AQbMGhRTIG"
+    },
+    {
+      "album": {
+        "name": "30 ans d\u00e9j\u00e0 : 1993",
+        "url": "https://open.spotify.com/album/294IjjnQiJFJeMQsSxxRzN"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314186,
+      "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/5ZOkjjskGZAeGSTcpHD3wZ"
+    },
+    {
+      "album": {
+        "name": "Classics at the Movies: Adventure",
+        "url": "https://open.spotify.com/album/4Ni99xL6RBog7Z1xpdKZCk"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Philharmonic Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3KVFlfZ7gBNLbGMXp0efKH"
+        },
+        {
+          "name": "Richard Hayman",
+          "url": "https://open.spotify.com/artist/68tBK9r9zdViB8V73G5SA9"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335506,
+      "name": "Indiana Jones Theme",
+      "url": "https://open.spotify.com/track/60ZYLVPmSNY9r0Uquaivvs"
+    },
+    {
+      "album": {
+        "name": "Subway (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ANBL8v09CCeAvEgZSarT3"
+      },
+      "artists": [
+        {
+          "name": "\u00c9ric Serra",
+          "url": "https://open.spotify.com/artist/1DptMAbvFajxK4ZObg1OdA"
+        },
+        {
+          "name": "Arthur Simms",
+          "url": "https://open.spotify.com/artist/1lslIiVrivMCgmGSDMwcSE"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275106,
+      "name": "It's Only Mystery",
+      "url": "https://open.spotify.com/track/63ateUylxJ1MdQMl9tDjid"
+    },
+    {
+      "album": {
+        "name": "Dr. No (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Dp4VgGFm2TTcLZABnHPWz"
+      },
+      "artists": [
+        {
+          "name": "John Barry Orchestra",
+          "url": "https://open.spotify.com/artist/0RY2EG9XPPwZOliIkTOiog"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107566,
+      "name": "James Bond Theme",
+      "url": "https://open.spotify.com/track/7JlloKiG2pSNmRfpoB7kUD"
     },
     {
       "album": {
@@ -798,10 +1252,76 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 149880,
       "name": "Knockin' On Heaven's Door",
       "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
+    },
+    {
+      "album": {
+        "name": "L'aile ou la cuisse (Bande originale du film de Claude Zidi)",
+        "url": "https://open.spotify.com/album/24iTJqS3twJ44tRpOUGvZp"
+      },
+      "artists": [
+        {
+          "name": "Vladimir Cosma",
+          "url": "https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149426,
+      "name": "L'aile ou la cuisse",
+      "url": "https://open.spotify.com/track/3312vCIRGN7Z7Zg7QuAa57"
+    },
+    {
+      "album": {
+        "name": "Le Roi Lion (Bande Originale Fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/40YiN3kE9hCzPh86FAMVVg"
+      },
+      "artists": [
+        {
+          "name": "China Moses",
+          "url": "https://open.spotify.com/artist/2KqBple0Yu8pssNGNvWNmV"
+        },
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241800,
+      "name": "L'histoire de la vie/Nants' Ingonyama",
+      "url": "https://open.spotify.com/track/3nDpT4CRyVhnkGcJ0LdbqA"
+    },
+    {
+      "album": {
+        "name": "La cit\u00e9 de la peur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/2LEh0ccOvIlNdg8BUcDD6o"
+      },
+      "artists": [
+        {
+          "name": "Philippe Chany",
+          "url": "https://open.spotify.com/artist/1y6zrMJgLVm8khnIIsWqoK"
+        },
+        {
+          "name": "Alain Chabat",
+          "url": "https://open.spotify.com/artist/2az7X29Jk5Epmx81Yv1PnZ"
+        },
+        {
+          "name": "G\u00e9rard Darmon",
+          "url": "https://open.spotify.com/artist/2G2O2WpqKBSMwfF7uRda3R"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208733,
+      "name": "La carioca",
+      "url": "https://open.spotify.com/track/7jVR2gSVYg6GNwbE4FbI33"
     },
     {
       "album": {
@@ -816,10 +1336,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 264960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/38p8YDx5gepOiK4SnEfoB4"
+    },
+    {
+      "album": {
+        "name": "Le tourbillon de ma vie (Best Of 2017)",
+        "url": "https://open.spotify.com/album/6gRQtl64VsWWTh26IuNoGP"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Moreau",
+          "url": "https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126960,
+      "name": "Le tourbillon",
+      "url": "https://open.spotify.com/track/0ZRnvyA5MxbgTCfWRw3YU4"
     },
     {
       "album": {
@@ -834,10 +1372,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 115120,
       "name": "Leaving Caladan",
       "url": "https://open.spotify.com/track/5glKprpzpGW5Pf4wB9gNPq"
+    },
+    {
+      "album": {
+        "name": "Nous irons tous au paradis (Bande originale du film d'Yves Robert)",
+        "url": "https://open.spotify.com/album/1TKvJAdscO5z0F0LOti08t"
+      },
+      "artists": [
+        {
+          "name": "Vladimir Cosma",
+          "url": "https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168973,
+      "name": "Les souvenirs de l'\u00e9l\u00e9phant",
+      "url": "https://open.spotify.com/track/39x7CP49QlOrPJmJArBS9L"
     },
     {
       "album": {
@@ -852,7 +1408,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 589094,
       "name": "Light of the Seven",
       "url": "https://open.spotify.com/track/1SbsbLsUMnAKWHx1zAV6ER"
@@ -870,10 +1426,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 192773,
       "name": "Live And Let Die - 2018 Remaster",
       "url": "https://open.spotify.com/track/0VV8wkOM4w78A2OHZOTzNP"
+    },
+    {
+      "album": {
+        "name": "8 Mile (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/353HFOqGHySp027oyr3aGs"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320293,
+      "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+      "url": "https://open.spotify.com/track/6GkTKjv1XbFVdI2D8vvDPu"
     },
     {
       "album": {
@@ -888,7 +1462,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 152093,
       "name": "Love Is A Losing Game - Live At The Mercury Music Awards",
       "url": "https://open.spotify.com/track/1DYCdxNAVNUCAOlAi7aP5o"
@@ -906,7 +1480,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 173333,
       "name": "Love Is Strange",
       "url": "https://open.spotify.com/track/66Yxbr2UODJjVBKdZtbnOL"
@@ -950,7 +1524,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 234400,
       "name": "Lux Aeterna",
       "url": "https://open.spotify.com/track/62Da3JOu9H9EIgmqV7DoLG"
@@ -972,6 +1546,24 @@
       "duration_ms": 191053,
       "name": "Main on End",
       "url": "https://open.spotify.com/track/5POrWnsqEV6HwTcRKLdXxk"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385920,
+      "name": "Main Title and The Attack on the Jakku Village",
+      "url": "https://open.spotify.com/track/0o9AEYW61Jb0dwmHlVhXk5"
     },
     {
       "album": {
@@ -1004,10 +1596,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 258973,
       "name": "Meet Me in the Morning",
       "url": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
+    },
+    {
+      "album": {
+        "name": "Mission Impossible (Music From The Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/1aCteG5YyqJJru3TSGTx79"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62826,
+      "name": "Mission Impossible - Main Theme",
+      "url": "https://open.spotify.com/track/1lJOpbGH9gjjgcIumHIBrT"
     },
     {
       "album": {
@@ -1022,7 +1632,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 208694,
       "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
       "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
@@ -1040,7 +1650,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 183813,
       "name": "Mr. Moustafa",
       "url": "https://open.spotify.com/track/1uNhvxpkPrNHUNfeclo6xD"
@@ -1080,7 +1690,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 248964,
       "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
       "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
@@ -1102,7 +1712,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
@@ -1127,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258413,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
+    },
+    {
+      "album": {
         "name": "No Time To Die",
         "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
       },
@@ -1138,10 +1766,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 242265,
       "name": "No Time To Die",
       "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
+    },
+    {
+      "album": {
+        "name": "No Time To Die (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244213,
+      "name": "No Time To Die",
+      "url": "https://open.spotify.com/track/527BVezmvYjbc4JlVJW4Xj"
     },
     {
       "album": {
@@ -1160,7 +1806,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 212666,
       "name": "Nobody Does It Better",
       "url": "https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC"
@@ -1178,7 +1824,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 267504,
       "name": "Nothing Is Lost (You Give Me Strength)",
       "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
@@ -1214,7 +1860,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 204222,
       "name": "Pass The Dutchie",
       "url": "https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe"
@@ -1232,7 +1878,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 38487,
       "name": "Pink Soldiers",
       "url": "https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59"
@@ -1250,7 +1896,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 133320,
       "name": "Play With Fire - Mono Version",
       "url": "https://open.spotify.com/track/30V02AmDYMRvrHE4L8cZAo"
@@ -1279,6 +1925,42 @@
     },
     {
       "album": {
+        "name": "Noughties Hits",
+        "url": "https://open.spotify.com/album/38d7EZ8T6z6DHZhaBtymB1"
+      },
+      "artists": [
+        {
+          "name": "All Saints",
+          "url": "https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268746,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/2oncAh9o85pq1aswacLqAz"
+    },
+    {
+      "album": {
+        "name": "Les bronz\u00e9s font du ski (40\u00e8me anniversaire)",
+        "url": "https://open.spotify.com/album/6pimTM4WQFlVc8Kl5KQ3aG"
+      },
+      "artists": [
+        {
+          "name": "Michel Blanc",
+          "url": "https://open.spotify.com/artist/27MjLiRbNSQRsj5HeVqnOh"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41574,
+      "name": "Quand te reverrai-je, pays merveilleux ?",
+      "url": "https://open.spotify.com/track/3V4JVjXmwzRpbT0ev7sns0"
+    },
+    {
+      "album": {
         "name": "First Man (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4NFpOHIv0hJa9of0IQsgKw"
       },
@@ -1290,7 +1972,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 135106,
       "name": "Quarantine",
       "url": "https://open.spotify.com/track/3c1nWxMzw76sU66l3VN9rL"
@@ -1308,7 +1990,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 234156,
       "name": "Quietly Yours",
       "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
@@ -1326,7 +2008,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 288000,
       "name": "Rachel's Song",
       "url": "https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq"
@@ -1366,7 +2048,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 98440,
       "name": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\"",
       "url": "https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt"
@@ -1384,7 +2066,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 300840,
       "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
       "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
@@ -1402,10 +2084,32 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 158773,
       "name": "Salamander Eyes",
       "url": "https://open.spotify.com/track/4w0sBSIgy945h7TZE0FUbc"
+    },
+    {
+      "album": {
+        "name": "Cl\u00e9o de 5 \u00e0 7 (Bande originale du film)",
+        "url": "https://open.spotify.com/album/3HYxMZ7wzK28cXs33qnYiP"
+      },
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        },
+        {
+          "name": "Corinne Marchand",
+          "url": "https://open.spotify.com/artist/04upRmddDK0nZH0Xot3Lwe"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134026,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/6Ub63208eZVnT6UPQm4fGH"
     },
     {
       "album": {
@@ -1442,10 +2146,84 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 159453,
       "name": "Sign of the Times - Stripped",
       "url": "https://open.spotify.com/track/0uaJBwwtP6FMqdDpHYNOk0"
+    },
+    {
+      "album": {
+        "name": "Singin'in the Rain (Original Soudtrack from ''Clockwork Orange'')",
+        "url": "https://open.spotify.com/album/2OHAaduh0bpLwlzpSrQgEc"
+      },
+      "artists": [
+        {
+          "name": "Gene Kelly",
+          "url": "https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165480,
+      "name": "Singin' in the Rain - Original Soudtrack from ''Clockwork Orange''",
+      "url": "https://open.spotify.com/track/5uWCgckWjHVqsfgp4dTpyF"
+    },
+    {
+      "album": {
+        "name": "120 Battements Par Minute - Original Soundtrack",
+        "url": "https://open.spotify.com/album/49rCXCLvUAX3JSC7uM5b94"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        },
+        {
+          "name": "Arnaud Rebotini",
+          "url": "https://open.spotify.com/artist/4qnTdOhzCAvoRf8PObGr1h"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336224,
+      "name": "Smalltown Boy (Arnaud Rebotini Remix)",
+      "url": "https://open.spotify.com/track/69FeytZ9qPT1fw2XclVlMz"
+    },
+    {
+      "album": {
+        "name": "Annette (Unlimited Edition) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1qqZSTptKt9zXK4zJkkNPf"
+      },
+      "artists": [
+        {
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+        },
+        {
+          "name": "Adam Driver",
+          "url": "https://open.spotify.com/artist/37eFQoWqQ7wwYH8OuLXY9M"
+        },
+        {
+          "name": "Marion Cotillard",
+          "url": "https://open.spotify.com/artist/264YmdiSc68XVog9LYQ8na"
+        },
+        {
+          "name": "Simon Helberg",
+          "url": "https://open.spotify.com/artist/124lZr6ikVgYmAChW7etQp"
+        },
+        {
+          "name": "Chorus Girls & Boys",
+          "url": "https://open.spotify.com/artist/3w1clEDEIYLkQYhd1vfmn6"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233533,
+      "name": "So May We Start",
+      "url": "https://open.spotify.com/track/1FZ6wsqNIEiAGQLhpPQ5El"
     },
     {
       "album": {
@@ -1478,7 +2256,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 154493,
       "name": "Spiritual",
       "url": "https://open.spotify.com/track/7bUsesodBH1tITKTFXWK9k"
@@ -1514,10 +2292,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 153294,
       "name": "Still Don't Know My Name",
       "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
+    },
+    {
+      "album": {
+        "name": "PHILADELPHIA - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/7EpzUNDXiDs0OJT4JERRYa"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252493,
+      "name": "Streets of Philadelphia",
+      "url": "https://open.spotify.com/track/5Nj8kBJdpJJ4I9wxQyp8JH"
     },
     {
       "album": {
@@ -1532,7 +2328,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 203893,
       "name": "Stuck In The Middle With You",
       "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
@@ -1550,7 +2346,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 102013,
       "name": "Succession (Main Title Theme)",
       "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
@@ -1608,10 +2404,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 407533,
       "name": "The Batman",
       "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71"
+    },
+    {
+      "album": {
+        "name": "Le grand bleu (Version Longue)",
+        "url": "https://open.spotify.com/album/72jMEK32ryViXHuge1T7zQ"
+      },
+      "artists": [
+        {
+          "name": "\u00c9ric Serra",
+          "url": "https://open.spotify.com/artist/1DptMAbvFajxK4ZObg1OdA"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288293,
+      "name": "The Big Blue - Overture",
+      "url": "https://open.spotify.com/track/3A5l6QS6oJEWrL9sSN3l2c"
     },
     {
       "album": {
@@ -1630,7 +2444,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 194866,
       "name": "The Boss",
       "url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1"
@@ -1648,7 +2462,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 270213,
       "name": "The Chain - 2004 Remaster",
       "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
@@ -1666,10 +2480,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 130933,
       "name": "The Danish Girl",
       "url": "https://open.spotify.com/track/02gNzeeffcCXtx9qL39qHj"
+    },
+    {
+      "album": {
+        "name": "Once Upon a Time in the West - Ennio Morricone Music Collection (The Complete Edition)",
+        "url": "https://open.spotify.com/album/2tEHkzwQcKi1B0h0QXVv7P"
+      },
+      "artists": [
+        {
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162386,
+      "name": "The Good, the Bad and the Ugly (From \"The Good, the Bad and the Ugly\")",
+      "url": "https://open.spotify.com/track/150bCeASorH3nlZHCrWWz9"
     },
     {
       "album": {
@@ -1684,7 +2516,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 96560,
       "name": "The Heart Asks Pleasure First",
       "url": "https://open.spotify.com/track/4RW7EZi7SHSLRwvn1Q8Mqj"
@@ -1706,7 +2538,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 157026,
       "name": "The Imitation Game",
       "url": "https://open.spotify.com/track/0o9ivTBX7mjTnaUYF4Gk6t"
@@ -1724,7 +2556,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 137773,
       "name": "The John Dunbar Theme (From \"Dances With Wolves\")",
       "url": "https://open.spotify.com/track/1ghqlcFUP85h1Gxn4Oa2Kt"
@@ -1742,7 +2574,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 530532,
       "name": "The Night King",
       "url": "https://open.spotify.com/track/1aDklx1GaBqHFowCzz63wU"
@@ -1778,7 +2610,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 239769,
       "name": "Them",
       "url": "https://open.spotify.com/track/2tr4oclswJ6v3dfDlI01HD"
@@ -1814,7 +2646,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 200266,
       "name": "Theme From Love Story",
       "url": "https://open.spotify.com/track/5qjVtEglMJOGe3xCCbjN25"
@@ -1840,7 +2672,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 255693,
       "name": "Theme From Schindler's List",
       "url": "https://open.spotify.com/track/42gZM6AQ9BDMaTyTmMDVlN"
@@ -1876,10 +2708,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 275556,
       "name": "Time",
       "url": "https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown"
+    },
+    {
+      "album": {
+        "name": "Scarface (Expanded Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ccQdoDqZsqWlflxEIg0F3"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Moroder",
+          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "Tony's Theme",
+      "url": "https://open.spotify.com/track/7gYA9Bs2gqTiwjHkzLi1Yg"
     },
     {
       "album": {
@@ -1894,7 +2744,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 89293,
       "name": "Tuyo (Narcos Theme) - A Netflix Original Series Soundtrack",
       "url": "https://open.spotify.com/track/6Dc2tCivms1s2X9myWe4ni"
@@ -1919,6 +2769,46 @@
     },
     {
       "album": {
+        "name": "Ghost (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6PlZUV3FMYqf1OG5mRWGtV"
+      },
+      "artists": [
+        {
+          "name": "Maurice Jarre",
+          "url": "https://open.spotify.com/artist/6iyQYs37mRXLW04Z9NOnNT"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239746,
+      "name": "Unchained Melody (From \"Ghost\") - Orchestral Version",
+      "url": "https://open.spotify.com/track/6M2LKerOxhlmymtAiuJynC"
+    },
+    {
+      "album": {
+        "name": "The Chorus (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4VVDHVgGIOh68k2VRq9tq0"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coulais",
+          "url": "https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R"
+        },
+        {
+          "name": "Les Petits Chanteurs de Saint-Marc",
+          "url": "https://open.spotify.com/artist/026nk210FPO26xMwpoew70"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139773,
+      "name": "Vois sur ton chemin",
+      "url": "https://open.spotify.com/track/6Q00zs8KvmXWdwlHD7PZZ2"
+    },
+    {
+      "album": {
         "name": "Watercolor Eyes (From \u201cEuphoria\u201d An HBO Original Series)",
         "url": "https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF"
       },
@@ -1930,7 +2820,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 211613,
       "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
       "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
@@ -1990,7 +2880,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
@@ -2008,7 +2898,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 161906,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
@@ -2026,7 +2916,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 108986,
       "name": "You're A Mean One, Mr. Grinch",
       "url": "https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL"

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX39iJO9NeCvA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX39iJO9NeCvA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX39iJO9NeCvA)
 
-### [TRIGUN \-トライガン\-](https://open.spotify.com/playlist/37i9dQZF1DX39iJO9NeCvA)
+### [TRIGUN series トライガン シリーズ](https://open.spotify.com/playlist/37i9dQZF1DX39iJO9NeCvA)
 
-> Listen to soundtracks from SF anime series "TRIGUN".「トライガン」シリーズの楽曲を1つのプレイリストで。©︎内藤泰弘/少年画報社・トライガン製作委員会
+> Listen to soundtracks from SF anime series "TRIGUN".「トライガン」シリーズの楽曲を1つのプレイリストで。© 2023 内藤泰弘・少年画報社／「TRIGUN STAMPEDE」製作委員会
 
 38 songs - 2 hr 6 min
 

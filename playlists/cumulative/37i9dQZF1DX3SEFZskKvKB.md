@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-106 songs - 6 hr 3 min
+107 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Ghostly Dome](https://open.spotify.com/track/5XoPvzUlpMqUwbd7vzFPWp) | [Aqualypt](https://open.spotify.com/artist/7nTsvLMZz3GLEWO8mUoxlI) | [Ghostly Dome](https://open.spotify.com/album/6wAt1Jv6LDK1D23tqgW8h8) | 2:39 | 2022-10-14 |  |
 | [Harmony of the Elements](https://open.spotify.com/track/31q1XqoqpW818uPGceQChi) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Harmony of the Elements & Silver Spring](https://open.spotify.com/album/1Q8xSFkxaWPDBaQBBmrDpi) | 3:39 | 2022-12-20 |  |
 | [Healing Drums](https://open.spotify.com/track/1JnMcSLVT3QlZYuovCk8dL) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [Worship African Experience: Shamanic Serenity, Relaxing Drums, Tribal Meditation](https://open.spotify.com/album/1YasVpcLqeQPWSFDsHHOOt) | 4:24 | 2022-05-26 |  |
+| [Healing Forest](https://open.spotify.com/track/3IHG0LxWiwcRQRDJZBYmPB) | [Percussion As Medicine](https://open.spotify.com/artist/3FRJVDCXmMrOEnjzr24ful) | [Healing Forest](https://open.spotify.com/album/6f6O581b2i2giL3jRJ8sVb) | 3:08 | 2023-02-25 |  |
 | [Healing Ritual](https://open.spotify.com/track/2LV4q6wKUyBIMJ1KxCqYsT) | [Five Senses Meditation Sanctuary](https://open.spotify.com/artist/2yQankcHwEvfEbpyRXqeVz) | [Mystical Spiritual Journey: Shamanic World, Sacral Dance, Native Flute & Drums, Discovery of New Senses, Deep Meditation, Shamanic Chants](https://open.spotify.com/album/25wFtxwlz5Dx0DGl0NFFHP) | 6:06 | 2022-05-26 | 2022-10-01 |
 | [Healing Shaman Dance \(The Spiritual Companion\)](https://open.spotify.com/track/6wJOdAFs9ANTqLmUgqP3YT) | [Handpan Player](https://open.spotify.com/artist/5ASKao4QmrWIwcwCZk3o8j), [Chill Out Universe](https://open.spotify.com/artist/1s1zaTgXl0h2Bezu4QeL6H) | [Healing Shaman Dance \(The Spiritual Companion\)](https://open.spotify.com/album/2hbKCdH4ug6D6oJu3kn5ls) | 4:06 | 2022-05-26 |  |
 | [Healing Therapy and African Relaxing Sounds](https://open.spotify.com/track/2WqgXhuErMqlin2Eh0PO6K) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [African Music and Sun Energy: Insomnia Healing and Anxiety Symptoms with New Age Music Therapy](https://open.spotify.com/album/2fWii6GXDFVFuaJITHaik5) | 4:56 | 2022-05-26 |  |
@@ -76,7 +77,7 @@
 | [Protected](https://open.spotify.com/track/39c0wkcay8Zk7gAiibB6OZ) | [Sonic Ark](https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1) | [Found](https://open.spotify.com/album/5S45s0wsGcnj4gx7UmoRti) | 3:04 | 2022-05-26 |  |
 | [Ramadu Meditation](https://open.spotify.com/track/30bl33zjZCyeueDwytjKy5) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [Worship African Experience: Shamanic Serenity, Relaxing Drums, Tribal Meditation](https://open.spotify.com/album/1YasVpcLqeQPWSFDsHHOOt) | 4:35 | 2022-05-26 | 2023-01-28 |
 | [Returning It All](https://open.spotify.com/track/3vYXmN6uvbcVXwWdxG145s) | [Corrid](https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy) | [Returning It All](https://open.spotify.com/album/2oryCbHtb3HeSPbzg0G9D7) | 2:28 | 2022-05-26 |  |
-| [Sacred Experience](https://open.spotify.com/track/3MrasYrJku7i1nteS1tJaD) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Shades of Percussion and Drums: Ethnic Instrumental Fantasies](https://open.spotify.com/album/6mYSCjqocuBK0qz28UoxGt) | 3:23 | 2022-05-26 |  |
+| [Sacred Experience](https://open.spotify.com/track/3MrasYrJku7i1nteS1tJaD) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Shades of Percussion and Drums: Ethnic Instrumental Fantasies](https://open.spotify.com/album/6mYSCjqocuBK0qz28UoxGt) | 3:23 | 2022-05-26 | 2023-02-25 |
 | [Sacred Mountain](https://open.spotify.com/track/6T8WTmpbCkzJVhR3ut2aCq) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Bless The Rains In India](https://open.spotify.com/album/7ztQjntjsQwv8BnmwH2SqU) | 2:21 | 2022-05-26 |  |
 | [Sand of the Desert](https://open.spotify.com/track/3vvRalqHBwE90YlukV71Qm) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Dances: Shamanic Meditation Journey, Indian Spirit, Ethnic Drums, African Relaxation](https://open.spotify.com/album/3R2yCJSvzc8BREIV3e0ym0) | 3:34 | 2022-05-26 |  |
 | [Sapana](https://open.spotify.com/track/3vF3QhICER6LgljDmPDyFR) | [Mathura Horizon](https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm) | [Sapana](https://open.spotify.com/album/2jffMkVB0aQ7p0dZx3Xd3e) | 3:39 | 2022-07-08 |  |

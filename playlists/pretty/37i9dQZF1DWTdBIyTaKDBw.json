@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 42182,
+  "num_followers": 42243,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzNDg4MiwwMDAwMDAwMDEzMTJmZGM3Y2I1MmQxODU1M2RlMTkzYzM4OTVmMDMx",
+  "snapshot_id": "MTY3NzIzNDkyOSwwMDAwMDAwMGZlOGFkNzc1YzZkMDgxYTc2Y2Y2ODliNjk0MTZjMzRj",
   "tracks": [
     {
       "added_at": "2023-01-25 08:21:22",
@@ -301,6 +301,22 @@
       "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
     },
     {
+      "added_at": "2023-02-25 09:05:10",
+      "album": {
+        "name": "Snowy Stars",
+        "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Snowy Stars",
+      "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
+    },
+    {
       "added_at": "2023-01-25 08:21:22",
       "album": {
         "name": "24\u2103",
@@ -475,22 +491,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "gr8",
-        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 158468,
-      "name": "gr8",
-      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "YUMI's Cells, Pt. 10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5CqqZ9yXSWFitudW1r70sX"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 236626,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/2EiYnN1JJem3mrzvs2IOGN"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "gr8",
+        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 158468,
+      "name": "gr8",
+      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 205854,
-      "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
-      "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "Sweeet",
         "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 177999,
       "name": "Sugardance",
       "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 205854,
+      "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
+      "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -767,6 +783,26 @@
       "duration_ms": 149062,
       "name": "Darling You",
       "url": "https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "Tailor",
+        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
+      },
+      "artists": [
+        {
+          "name": "The BLANK Shop",
+          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
+        },
+        {
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
+        }
+      ],
+      "duration_ms": 300317,
+      "name": "Love song (Feat. WONPIL(DAY6))",
+      "url": "https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -831,26 +867,6 @@
       "duration_ms": 260812,
       "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
       "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
-        "name": "Tailor",
-        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
-      },
-      "artists": [
-        {
-          "name": "The BLANK Shop",
-          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
-        },
-        {
-          "name": "WONPIL",
-          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
-        }
-      ],
-      "duration_ms": 300317,
-      "name": "Love song (Feat. WONPIL(DAY6))",
-      "url": "https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "Fuzzy peach",
-        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "Fuzzy peach",
-      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "Night Mood",
         "url": "https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 254866,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "Fuzzy peach",
+        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 251653,
+      "name": "Fuzzy peach",
+      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -1155,6 +1171,22 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/5BYA62etDUYPIQZHbKizeu"
+      },
+      "artists": [
+        {
+          "name": "Yoon Hyun Sang",
+          "url": "https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Dancing Universe",
+      "url": "https://open.spotify.com/track/21GmIfb64BYbDSqCr5jf8K"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
         "name": "LISH",
         "url": "https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj"
       },
@@ -1171,22 +1203,6 @@
       "duration_ms": 224778,
       "name": "I don't want (feat.So Jung of LADIES\u2019 CODE)",
       "url": "https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
-        "name": "LOVER",
-        "url": "https://open.spotify.com/album/5BYA62etDUYPIQZHbKizeu"
-      },
-      "artists": [
-        {
-          "name": "Yoon Hyun Sang",
-          "url": "https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Dancing Universe",
-      "url": "https://open.spotify.com/track/21GmIfb64BYbDSqCr5jf8K"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -1239,22 +1255,6 @@
       "duration_ms": 228000,
       "name": "Back Home",
       "url": "https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
-        "name": "Home Alone",
-        "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
-      },
-      "artists": [
-        {
-          "name": "cylinder",
-          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Winter Theater",
-      "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
     }
   ],
   "unique_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",

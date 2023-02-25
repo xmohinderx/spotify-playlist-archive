@@ -4,7 +4,7 @@
 
 > A mediterranean sundown soundtrack.
 
-146 songs - 12 hr 12 min
+147 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Intimate Fantasy](https://open.spotify.com/track/7MQE5Gx0g0DkHvH2PwgOgs) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy](https://open.spotify.com/album/0GHOsdfrpoTotkc5atzmJ9) | 8:13 | 2022-09-05 | 2022-10-21 |
 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 | 2022-09-05 |  |
 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 | 2022-09-05 |  |
-| [Josephine \- French Edit](https://open.spotify.com/track/34SVJolkVb1gdfv4wNdrGh) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 7:08 | 2022-09-05 |  |
+| [Josephine \- French Edit](https://open.spotify.com/track/34SVJolkVb1gdfv4wNdrGh) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 7:08 | 2022-09-05 | 2023-02-25 |
 | [Kasoto \- Noche Española Remix](https://open.spotify.com/track/3zoWsC5mGgYua60WGWM5fK) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax), [Noche Española](https://open.spotify.com/artist/0L9lUdMibw0dRYVDj4TNdQ) | [Kasoto](https://open.spotify.com/album/0lcfkmdUXpsQ8G7lvLqaor) | 5:42 | 2022-09-05 | 2022-11-13 |
 | [Kerala](https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:57 | 2022-09-05 |  |
 | [Kindness](https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Kindness](https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV) | 2:36 | 2022-09-05 |  |
@@ -135,6 +135,7 @@
 | [The Rhythm Of A Dividing Pair](https://open.spotify.com/track/3c8mNUeqbasEt6BvzYtxNb) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Bryanbaum Wiltzie](https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [The Undivided Five](https://open.spotify.com/album/3AuhGsh99iTqA57kn3rzvl) | 4:52 | 2022-09-05 | 2022-10-07 |
 | [The Walk](https://open.spotify.com/track/3w1c4GTh6HqNYmLLgvfdPW) | [Passion Social Club](https://open.spotify.com/artist/1K8BfsZAXDwuODbBXaM8lB) | [The Walk](https://open.spotify.com/album/7t1C1qgxY1QXgbDoeX2w4I) | 6:31 | 2022-09-05 | 2023-02-01 |
 | [Three](https://open.spotify.com/track/7FKhuZtIPchBVNIhFnNL5W) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 3:49 | 2022-09-05 |  |
+| [Through Your Hands Love Can Shine \- Turbotito Remix](https://open.spotify.com/track/1GXk8hH4VHZcUlNx7PpVUv) | [Giorgio Tuma](https://open.spotify.com/artist/4JiOObzTWLYWJwH65qgfFK), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [Through Your Hands Love Can Shine \(Turbotito Remix\)](https://open.spotify.com/album/59LOmRApH3tOESVQc0GujE) | 5:49 | 2023-02-02 |  |
 | [Through Your Hands Love Can Shine \- Turbotito Remix](https://open.spotify.com/track/2M8eaC2IWg5ZBwsA9UqqQr) | [Giorgio Tuma](https://open.spotify.com/artist/4JiOObzTWLYWJwH65qgfFK), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [Through Your Hands Love Can Shine \(Turbotito Remix\)](https://open.spotify.com/album/5jUS71e4s4HKwW030YrfMh) | 5:49 | 2022-09-05 | 2022-11-13 |
 | [Tiefer \- Edit](https://open.spotify.com/track/3G7SL29sPxI9Nyw96Awvdt) | [Boozoo Bajou](https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3) | [Tiefer](https://open.spotify.com/album/4lz9XAbb1eRlrQ4uAvh6eg) | 3:34 | 2022-09-05 | 2022-11-20 |
 | [Tiefer \- Edit](https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe) | [Boozoo Bajou](https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3) | [Tiefer](https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14) | 3:34 | 2022-09-05 |  |

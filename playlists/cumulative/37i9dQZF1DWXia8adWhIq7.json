@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Cora\u00e7\u00e3o de Aprendiz",
+        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
+      },
+      "artists": [
+        {
+          "name": "Gabro",
+          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303071,
+      "name": "Cora\u00e7\u00e3o de Aprendiz",
+      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
+    },
+    {
+      "album": {
         "name": "Crescer",
         "url": "https://open.spotify.com/album/7eodR01E7NwsvSRIm0JY9T"
       },
@@ -486,7 +504,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 221462,
       "name": "Dono do Tempo",
       "url": "https://open.spotify.com/track/2NFXTNVoKxWVRdda1VDDwB"
@@ -636,7 +654,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 279428,
       "name": "Eu Digo Sim",
       "url": "https://open.spotify.com/track/5iM0mfAZx3H6G8D2ZCejWz"
@@ -904,6 +922,28 @@
       "duration_ms": 215061,
       "name": "Me Leva Al\u00e9m",
       "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
+    },
+    {
+      "album": {
+        "name": "Melhor Lugar",
+        "url": "https://open.spotify.com/album/67lLOGcSwcIDCiuBIfSjnL"
+      },
+      "artists": [
+        {
+          "name": "Get Worship",
+          "url": "https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp"
+        },
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242307,
+      "name": "Melhor Lugar",
+      "url": "https://open.spotify.com/track/0z2nfnbrtLP3DfuOvPH0vD"
     },
     {
       "album": {
@@ -1218,7 +1258,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 296506,
       "name": "Saudade de Cristo",
       "url": "https://open.spotify.com/track/3MOEKrdqzMFBkNo7z49xhX"
@@ -1592,6 +1632,24 @@
       "duration_ms": 181333,
       "name": "Um Novo Lugar",
       "url": "https://open.spotify.com/track/1CFcWP4avTVNTJyS0v1nuC"
+    },
+    {
+      "album": {
+        "name": "Vai Ser Melhor",
+        "url": "https://open.spotify.com/album/2qKeZs3J2ihqc5YlLmb5yL"
+      },
+      "artists": [
+        {
+          "name": "Dani Ferber",
+          "url": "https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Vai Ser Melhor",
+      "url": "https://open.spotify.com/track/6FRFSFbFcrMjFCOstsDiLy"
     },
     {
       "album": {

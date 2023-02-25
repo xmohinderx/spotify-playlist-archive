@@ -1,13 +1,105 @@
 {
   "description": "Rap from hell. Cover: $uicideboy$ & Shakewell",
-  "num_followers": 437825,
+  "num_followers": 438233,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY1NjUyMiwwMDAwMDAwMDcyOTM4YmE2OWMyOWUxYzZhMjU5ZWU0ZmU1YmFhZTE0",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGE0N2RmMDM1NjIzNDkzZDViZjE1YmFhMGM5NTM0NmY5",
   "tracks": [
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "GHOSTKILLA",
+        "url": "https://open.spotify.com/album/3Rm8UjPex1pU2tmmxFWSzu"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "duration_ms": 139469,
+      "name": "GHOSTKILLA",
+      "url": "https://open.spotify.com/track/5ON0eOpVmlRo9PZctdBbuQ"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "SHAMELESS $UICIDE",
+        "url": "https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "SHAMELESS $UICIDE",
+      "url": "https://open.spotify.com/track/1vjon7jtpF5usLV2CVxtsw"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Freddie's Inferno (Deluxe)",
+        "url": "https://open.spotify.com/album/07YX7oCO5D6zr1NVDEeSAd"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 146989,
+      "name": "Five Nights (feat. Danny Brown)",
+      "url": "https://open.spotify.com/track/345lVnvY38p44UbPC20f2U"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "NECROSSISM",
+        "url": "https://open.spotify.com/album/6tnsPiqgWU9EG8xh8PJBLm"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "duration_ms": 101725,
+      "name": "Necrossist",
+      "url": "https://open.spotify.com/track/5HUpPwK5mJWEHSEMKuYPqO"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "NOTHING IS FOREVER",
+        "url": "https://open.spotify.com/album/74wHsULDsjbJQ7HSBjH49z"
+      },
+      "artists": [
+        {
+          "name": "HAARPER",
+          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+        }
+      ],
+      "duration_ms": 152316,
+      "name": "NOTHING IS FOREVER",
+      "url": "https://open.spotify.com/track/4PQmQnDUxanb5NkYAToaQr"
+    },
     {
       "added_at": "2023-02-16 20:24:20",
       "album": {
@@ -27,38 +119,6 @@
       "duration_ms": 195600,
       "name": "Big Shot Cream Soda",
       "url": "https://open.spotify.com/track/3wHRgXJJTTwS2CkusTpn56"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "NOTHING IS FOREVER",
-        "url": "https://open.spotify.com/album/74wHsULDsjbJQ7HSBjH49z"
-      },
-      "artists": [
-        {
-          "name": "HAARPER",
-          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
-        }
-      ],
-      "duration_ms": 152316,
-      "name": "NOTHING IS FOREVER",
-      "url": "https://open.spotify.com/track/4PQmQnDUxanb5NkYAToaQr"
-    },
-    {
-      "added_at": "2023-02-13 20:43:12",
-      "album": {
-        "name": "You Make Me Sick!",
-        "url": "https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 138299,
-      "name": "You Make Me Sick!",
-      "url": "https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq"
     },
     {
       "added_at": "2023-02-13 20:43:12",
@@ -81,24 +141,20 @@
       "url": "https://open.spotify.com/track/1mMd869pIVfM8TurlkPjAH"
     },
     {
-      "added_at": "2023-02-16 20:34:22",
+      "added_at": "2023-02-13 20:43:12",
       "album": {
-        "name": "Situation",
-        "url": "https://open.spotify.com/album/6iMDmTkNA9LyQyaGbdfyBt"
+        "name": "You Make Me Sick!",
+        "url": "https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ"
       },
       "artists": [
         {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        },
-        {
-          "name": "GREAF",
-          "url": "https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP"
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         }
       ],
-      "duration_ms": 108460,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/54s3N71zDs0M9HBPc5SEAK"
+      "duration_ms": 138299,
+      "name": "You Make Me Sick!",
+      "url": "https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -119,6 +175,174 @@
       "duration_ms": 150193,
       "name": "from up on silent hill",
       "url": "https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR"
+    },
+    {
+      "added_at": "2023-01-30 15:25:52",
+      "album": {
+        "name": "OCTOPUS.LADY",
+        "url": "https://open.spotify.com/album/56JMyJsWVb1YLVldbau63p"
+      },
+      "artists": [
+        {
+          "name": "Changeline",
+          "url": "https://open.spotify.com/artist/6y4WxCw3Pu2MnjqSBtoxSJ"
+        }
+      ],
+      "duration_ms": 156476,
+      "name": "OCTOPUS.LADY",
+      "url": "https://open.spotify.com/track/4vjj0bcIG5O3FA0C9cXNR8"
+    },
+    {
+      "added_at": "2023-02-16 20:34:22",
+      "album": {
+        "name": "Situation",
+        "url": "https://open.spotify.com/album/6iMDmTkNA9LyQyaGbdfyBt"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        },
+        {
+          "name": "GREAF",
+          "url": "https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP"
+        }
+      ],
+      "duration_ms": 108460,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/54s3N71zDs0M9HBPc5SEAK"
+    },
+    {
+      "added_at": "2022-11-09 14:43:01",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+    },
+    {
+      "added_at": "2022-11-29 21:07:17",
+      "album": {
+        "name": "Side Effects EP",
+        "url": "https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx"
+      },
+      "artists": [
+        {
+          "name": "Chris Travis",
+          "url": "https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5"
+        }
+      ],
+      "duration_ms": 206124,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk"
+    },
+    {
+      "added_at": "2022-09-02 06:10:00",
+      "album": {
+        "name": "Wrath",
+        "url": "https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 113553,
+      "name": "Wrath",
+      "url": "https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ"
+    },
+    {
+      "added_at": "2022-12-09 05:09:00",
+      "album": {
+        "name": "LOCKJAW!",
+        "url": "https://open.spotify.com/album/3rNczKh7EbjzJCdDNrasnT"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "Dozy Doe",
+          "url": "https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "LOCKJAW!",
+      "url": "https://open.spotify.com/track/1rFCvKfD7szM7oUp6Et82B"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Eye Spy",
+        "url": "https://open.spotify.com/album/4XQRSMdDwj2LfZS1SaQoXB"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 146635,
+      "name": "Eye Spy",
+      "url": "https://open.spotify.com/track/0JSZ9N0NVLTR6N16YpTyp3"
+    },
+    {
+      "added_at": "2022-09-02 06:10:00",
+      "album": {
+        "name": "Antarctica",
+        "url": "https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 126850,
+      "name": "Antarctica",
+      "url": "https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2"
+    },
+    {
+      "added_at": "2022-09-02 06:10:00",
+      "album": {
+        "name": "ANTI-ICON",
+        "url": "https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 151625,
+      "name": "Fed Up",
+      "url": "https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp"
+    },
+    {
+      "added_at": "2023-01-05 14:55:55",
+      "album": {
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/7l72jwIz37QsEP1RzSNG5O"
+      },
+      "artists": [
+        {
+          "name": "YOUNGX777",
+          "url": "https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/7mlagGXcvSapZdWesGpmdS"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -161,6 +385,30 @@
       "url": "https://open.spotify.com/track/76arGa0Ye5GwQi0uu1obxs"
     },
     {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Coven",
+        "url": "https://open.spotify.com/album/5lvfSW9rBcjGVZqu7oi5dQ"
+      },
+      "artists": [
+        {
+          "name": "nAvvvi",
+          "url": "https://open.spotify.com/artist/2xTxOg2hhTL9PV8IYaZ18W"
+        },
+        {
+          "name": "Fenrir",
+          "url": "https://open.spotify.com/artist/4YZviEft6zoVGQdKJ0DOuH"
+        },
+        {
+          "name": "Kill Dyll",
+          "url": "https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "Coven",
+      "url": "https://open.spotify.com/track/4jaTTZNqlpt2QISSLvtRoC"
+    },
+    {
       "added_at": "2023-02-08 18:36:24",
       "album": {
         "name": "I Don't Fuck With Conversation",
@@ -201,62 +449,6 @@
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
     },
     {
-      "added_at": "2023-01-05 14:55:55",
-      "album": {
-        "name": "TOXIC",
-        "url": "https://open.spotify.com/album/7l72jwIz37QsEP1RzSNG5O"
-      },
-      "artists": [
-        {
-          "name": "YOUNGX777",
-          "url": "https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh"
-        }
-      ],
-      "duration_ms": 84000,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/7mlagGXcvSapZdWesGpmdS"
-    },
-    {
-      "added_at": "2022-11-09 14:43:01",
-      "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 169946,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
-      "added_at": "2023-02-16 20:24:20",
-      "album": {
-        "name": "Helmut Lang",
-        "url": "https://open.spotify.com/album/3ZKiAPqWoe5pLYpOceREqS"
-      },
-      "artists": [
-        {
-          "name": "Letoa",
-          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
-        },
-        {
-          "name": "lilbubblegum",
-          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
-        },
-        {
-          "name": "Dozy Doe",
-          "url": "https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Helmut Lang",
-      "url": "https://open.spotify.com/track/3fegtZrtpwZlcPRJOAm6yG"
-    },
-    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "PRISONER OF DARKNESS",
@@ -273,20 +465,24 @@
       "url": "https://open.spotify.com/track/1CYwQ5CvUIWbCojH7s6YXW"
     },
     {
-      "added_at": "2023-01-30 15:25:52",
+      "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "OCTOPUS.LADY",
-        "url": "https://open.spotify.com/album/56JMyJsWVb1YLVldbau63p"
+        "name": "Pharaohs Inferno",
+        "url": "https://open.spotify.com/album/4OdcnO5LOeaNpbQLP0LEPs"
       },
       "artists": [
         {
-          "name": "Changeline",
-          "url": "https://open.spotify.com/artist/6y4WxCw3Pu2MnjqSBtoxSJ"
+          "name": "Ak3k",
+          "url": "https://open.spotify.com/artist/0gPRM04U6TYVD5jX13XIpE"
+        },
+        {
+          "name": "Santos Santana",
+          "url": "https://open.spotify.com/artist/4qd3YiK0hARXWStzGqHRja"
         }
       ],
-      "duration_ms": 156476,
-      "name": "OCTOPUS.LADY",
-      "url": "https://open.spotify.com/track/4vjj0bcIG5O3FA0C9cXNR8"
+      "duration_ms": 208596,
+      "name": "Pick up the Shells",
+      "url": "https://open.spotify.com/track/409C3STEkCZjpJdFcKwI5W"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -315,22 +511,6 @@
       "duration_ms": 199768,
       "name": "KILLERS AND ROBBERS (feat. Denzel Curry, midwxst & Matt Ox)",
       "url": "https://open.spotify.com/track/2XXFajkaWMZ2ukPNPKgLWa"
-    },
-    {
-      "added_at": "2022-11-29 21:07:17",
-      "album": {
-        "name": "Side Effects EP",
-        "url": "https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx"
-      },
-      "artists": [
-        {
-          "name": "Chris Travis",
-          "url": "https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5"
-        }
-      ],
-      "duration_ms": 206124,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -387,6 +567,26 @@
       "duration_ms": 131181,
       "name": "First Light",
       "url": "https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Bitch Again",
+        "url": "https://open.spotify.com/album/3a2nWZdcivOmcvfnp7HQ2Y"
+      },
+      "artists": [
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        }
+      ],
+      "duration_ms": 199731,
+      "name": "Bitch Again",
+      "url": "https://open.spotify.com/track/0sm3gJGMnyY22jt0UokKTx"
     },
     {
       "added_at": "2023-02-13 20:43:12",
@@ -593,24 +793,28 @@
       "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
     },
     {
-      "added_at": "2022-12-09 05:09:00",
+      "added_at": "2023-02-16 20:24:20",
       "album": {
-        "name": "LOCKJAW!",
-        "url": "https://open.spotify.com/album/3rNczKh7EbjzJCdDNrasnT"
+        "name": "Helmut Lang",
+        "url": "https://open.spotify.com/album/3ZKiAPqWoe5pLYpOceREqS"
       },
       "artists": [
         {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+          "name": "Letoa",
+          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+        },
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
         },
         {
           "name": "Dozy Doe",
           "url": "https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf"
         }
       ],
-      "duration_ms": 134117,
-      "name": "LOCKJAW!",
-      "url": "https://open.spotify.com/track/1rFCvKfD7szM7oUp6Et82B"
+      "duration_ms": 145000,
+      "name": "Helmut Lang",
+      "url": "https://open.spotify.com/track/3fegtZrtpwZlcPRJOAm6yG"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -631,22 +835,6 @@
       "duration_ms": 88419,
       "name": "breakdown!",
       "url": "https://open.spotify.com/track/2N7OUktLHAQxHCCXCMqSK0"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "Eye Spy",
-        "url": "https://open.spotify.com/album/4XQRSMdDwj2LfZS1SaQoXB"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 146635,
-      "name": "Eye Spy",
-      "url": "https://open.spotify.com/track/0JSZ9N0NVLTR6N16YpTyp3"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -705,22 +893,6 @@
       "url": "https://open.spotify.com/track/3Qw7LPrzt23bdQXMsguiyb"
     },
     {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Antarctica",
-        "url": "https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 126850,
-      "name": "Antarctica",
-      "url": "https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2"
-    },
-    {
       "added_at": "2022-10-14 04:47:00",
       "album": {
         "name": "from hell, with love",
@@ -735,22 +907,6 @@
       "duration_ms": 109792,
       "name": "from hell, with love",
       "url": "https://open.spotify.com/track/1atUX5yDsZpz82R6B55UEP"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Wrath",
-        "url": "https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 113553,
-      "name": "Wrath",
-      "url": "https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -807,22 +963,6 @@
       "duration_ms": 202158,
       "name": "8 O 8",
       "url": "https://open.spotify.com/track/5ndGoKCS93cEy7pL2RjaM2"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "ANTI-ICON",
-        "url": "https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz"
-      },
-      "artists": [
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 151625,
-      "name": "Fed Up",
-      "url": "https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp"
     },
     {
       "added_at": "2022-12-09 05:09:00",
@@ -901,22 +1041,6 @@
       "url": "https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Family Friendly Radio",
-        "url": "https://open.spotify.com/album/1DXM2vIe13wYX32ajhppHw"
-      },
-      "artists": [
-        {
-          "name": "MVRTYR",
-          "url": "https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ"
-        }
-      ],
-      "duration_ms": 109245,
-      "name": "Family Friendly Radio",
-      "url": "https://open.spotify.com/track/3QNbrKiqcWuThK0tF1BicK"
-    },
-    {
       "added_at": "2022-09-02 06:10:00",
       "album": {
         "name": "Sing Me a Lullaby, My Sweet Temptation",
@@ -979,22 +1103,6 @@
       "duration_ms": 135826,
       "name": "North Memphis",
       "url": "https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr"
-    },
-    {
-      "added_at": "2022-12-09 05:09:00",
-      "album": {
-        "name": "THE GOV'T GAVE US GUNS",
-        "url": "https://open.spotify.com/album/5o0qJK6COqONoWG7FtTeHW"
-      },
-      "artists": [
-        {
-          "name": "ICECOLDBISHOP",
-          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
-        }
-      ],
-      "duration_ms": 116794,
-      "name": "THE GOV'T GAVE US GUNS",
-      "url": "https://open.spotify.com/track/3gfeujZDkVn104FOyT3FB3"
     },
     {
       "added_at": "2022-09-02 06:10:00",
@@ -1463,22 +1571,6 @@
     {
       "added_at": "2022-09-02 06:10:00",
       "album": {
-        "name": "shoot to kill",
-        "url": "https://open.spotify.com/album/15bCxxxtbnTvJmIL6NLeKA"
-      },
-      "artists": [
-        {
-          "name": "Stoopa",
-          "url": "https://open.spotify.com/artist/1Dvz7bquj2cSDyEUz1C8hx"
-        }
-      ],
-      "duration_ms": 87881,
-      "name": "shoot to kill",
-      "url": "https://open.spotify.com/track/6cWVyn26nB2UHorE0iyQ8g"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
         "name": "War",
         "url": "https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX"
       },
@@ -1637,38 +1729,6 @@
       "url": "https://open.spotify.com/track/3ICBNoMJAznVpzlNhEdMvG"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "BBB",
-        "url": "https://open.spotify.com/album/4rGLI0V0gvkRyQ1jINbr9Q"
-      },
-      "artists": [
-        {
-          "name": "MAKAVELIGODD",
-          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "BBB",
-      "url": "https://open.spotify.com/track/6loszPJbFQOVl4tiFht8Ds"
-    },
-    {
-      "added_at": "2022-09-30 05:45:00",
-      "album": {
-        "name": "what i see when i'm walking alone at night",
-        "url": "https://open.spotify.com/album/1An8EBw9h670Cmzuzd2m05"
-      },
-      "artists": [
-        {
-          "name": "Dexndre",
-          "url": "https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7"
-        }
-      ],
-      "duration_ms": 133858,
-      "name": "what i see when i'm walking alone at night",
-      "url": "https://open.spotify.com/track/3ekCDlvLHI0kFj2U1W81oQ"
-    },
-    {
       "added_at": "2022-09-02 06:10:00",
       "album": {
         "name": "I Chose Violence",
@@ -1811,42 +1871,6 @@
       "duration_ms": 126980,
       "name": "Dorohedorohe Drip",
       "url": "https://open.spotify.com/track/2lcRTWOwCNffdwCs8zEDo7"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Jekyll & Hyde",
-        "url": "https://open.spotify.com/album/5iCk6JXpLWMKygsqQqE2Nm"
-      },
-      "artists": [
-        {
-          "name": "Kiing Loki",
-          "url": "https://open.spotify.com/artist/27PvM4IkuVoTlz5uSQtYgD"
-        },
-        {
-          "name": "unknwnshi",
-          "url": "https://open.spotify.com/artist/6WFULoKZ38376gTjf6KpHw"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Jekyll & Hyde",
-      "url": "https://open.spotify.com/track/7DylVsrjhxN8sdlUcWbJMk"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "WICKED RITUALS",
-        "url": "https://open.spotify.com/album/2khD8vCEaCE0nX2NGz24wq"
-      },
-      "artists": [
-        {
-          "name": "TUNDRAMANE",
-          "url": "https://open.spotify.com/artist/3ucTA7IrKCwHk3EvnfRVOu"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "WICKED RITUALS",
-      "url": "https://open.spotify.com/track/38l1bPo0NG2i5ABgNyeqT4"
     }
   ],
   "unique_name": "TIRADE",

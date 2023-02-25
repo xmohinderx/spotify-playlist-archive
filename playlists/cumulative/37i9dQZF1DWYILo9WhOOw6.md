@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-80 songs - 4 hr 10 min
+83 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,9 @@
 | [Delta 78.3\-80.8Hz](https://open.spotify.com/track/18lxuqcr3Dho1EZidOZeX4) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Binaural Delta Sleep Songs](https://open.spotify.com/album/5fUyFJBEcBxOwCHXzbEwXe) | 3:56 | 2023-01-20 |  |
 | [Delta 98.7\-99.6Hz](https://open.spotify.com/track/2Gheo1PFDuVFA8RG1zCMKw) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Binaural Delta Sleep Songs](https://open.spotify.com/album/5fUyFJBEcBxOwCHXzbEwXe) | 4:09 | 2023-01-20 |  |
 | [Delta Air 2 Hz](https://open.spotify.com/track/1zK3i6SOS8jVVkSPbX1ZYI) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Air](https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj) | 3:04 | 2023-01-20 |  |
+| [Delta Binaural Sinus 90 Hz \- 91 Hz](https://open.spotify.com/track/5h7shlrQDPiG6hU4ZwcENM) | [brozains](https://open.spotify.com/artist/7gUQb4sAvvLplz558JypaA) | [Delta Binaural Sinus 90 Hz \- 91 Hz](https://open.spotify.com/album/4tyxvnBqk6ZYry5XCeQt3g) | 3:09 | 2023-02-24 |  |
+| [Delta Binaural Sinus 90 Hz \- 91 Hz \- Deep Sleep](https://open.spotify.com/track/0VMnVCV7JffUcVkVluWTdG) | [Sleepville](https://open.spotify.com/artist/5db5qIk2KmZR5tWyTx6XHo) | [Delta Binaural Sinus 90 Hz \- 91 Hz \- Deep Sleep](https://open.spotify.com/album/7x2SHxOdLaJC8CfKHx5HXM) | 3:14 | 2023-02-24 |  |
+| [Delta Binaural Sinus 90 Hz \- 91 Hz \- Sleep & Relaxation](https://open.spotify.com/track/2YKt33Zzt3ljsMK7bhrlFM) | [E\_90](https://open.spotify.com/artist/027u97ysIth7sXh3py0Pfg) | [Delta Binaural Sinus 90 Hz \- 91 Hz \- Sleep & Relaxation](https://open.spotify.com/album/11UyZAncEjgX1d0hLo4Yg9) | 3:19 | 2023-02-24 |  |
 | [Delta Crossing 58.6Hz \- 62.3Hz](https://open.spotify.com/track/2EIXvo3H0SPDZtFiSfFaaX) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Delta Crossing 58.6Hz \- 62.3Hz](https://open.spotify.com/album/3ebC33TqEfXecgoziyc9tM) | 3:46 | 2023-01-20 |  |
 | [Delta Deep 80Hz \- 84Hz](https://open.spotify.com/track/5BG09azTJhFK50nEx60YuT) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Delta Deep 80Hz \- 84Hz](https://open.spotify.com/album/7F30kdRKhpV392urnfBjrf) | 3:04 | 2023-01-20 |  |
 | [Delta Dream \(96Hz \- 99Hz\)](https://open.spotify.com/track/0SZxVJIE8Oz96g8njMMUg7) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 4:00 | 2023-01-20 |  |

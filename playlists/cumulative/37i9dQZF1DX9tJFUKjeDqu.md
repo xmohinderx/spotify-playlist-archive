@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-117 songs - 7 hr 44 min
+119 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Blues On 5th Avenue](https://open.spotify.com/track/2AmEPE041ByXKpMuNGlfPf) | [Patrick Yandall](https://open.spotify.com/artist/4sdBlhjR2yhvidXrNrzimI) | [Of Two Cities](https://open.spotify.com/album/7iWSzyoy9SrCmIIRAY9s1w) | 5:14 | 2022-04-15 |  |
 | [Bourbon Please](https://open.spotify.com/track/3udysyynIpSz9II7pDJITA) | [PC Soares](https://open.spotify.com/artist/4kAqX4WBKDxCuyykSu0WMt) | [Bourbon Please](https://open.spotify.com/album/4O01Xv4ikVGTb45Lnhw5uR) | 5:16 | 2022-04-15 |  |
 | [Carrot Blues](https://open.spotify.com/track/258O8WGN7xeiaID4eNESGi) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Carrot Blues](https://open.spotify.com/album/3smwLdvA2PWj7VYTsA9W8J) | 2:19 | 2023-01-27 |  |
+| [Coffee Break Blues](https://open.spotify.com/track/69xc8xiEWlKE4ughhki1uA) | [Benji Strings](https://open.spotify.com/artist/69rJuPwfPst9467Mm44hHs) | [Coffee Break Blues](https://open.spotify.com/album/4UNwW6wGi9XIKupflS2cnj) | 1:53 | 2023-02-24 |  |
 | [Cristo Redentor](https://open.spotify.com/track/0QZ1JgRuAK83hsqJ8vio04) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [Spread The Love](https://open.spotify.com/album/4RFvY4SxDOjOhoOOrKu2Nz) | 5:12 | 2022-04-15 | 2022-07-29 |
 | [Cristo Redentor](https://open.spotify.com/track/08ubKgFasQsPB2YdmKMW9X) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Spread The Love](https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht) | 5:12 | 2022-04-15 |  |
 | [Dana's Song](https://open.spotify.com/track/7izyXZtIw69OhbeDb2jkTu) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP) | [Twelve Hours](https://open.spotify.com/album/5VWXunq9g3JCd2wo3ecpYL) | 6:20 | 2022-04-15 |  |
@@ -82,6 +83,7 @@
 | [Poontang](https://open.spotify.com/track/7vNS5HDDcbf06EA4k6gqWe) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Good Feelin'](https://open.spotify.com/album/4tRciHLk7U2JNVkcbbMrxA) | 2:55 | 2022-04-15 |  |
 | [Purple Skies](https://open.spotify.com/track/0TM2u2DKglzh1RYTarLjOt) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Purple Skies](https://open.spotify.com/album/6GzaE8sjbYXbUKEKYurLiY) | 2:13 | 2022-11-18 |  |
 | [Rainbow Bird Blues](https://open.spotify.com/track/2pQzKjn9C68S4bnnXJMOl6) | [Wolf Mail](https://open.spotify.com/artist/2bN1TY9rrW2axotPjQzFV6) | [Blue Fix](https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16) | 5:28 | 2022-04-15 |  |
+| [Rainy Day Blues](https://open.spotify.com/track/3LLkcx4aJEtLFYemy1RjZh) | [Homeboy](https://open.spotify.com/artist/30s7ciNzZ7ULqyMmFvpEeE) | [Rainy Day Blues](https://open.spotify.com/album/3ASDklCaL6JBF57JZXOBdm) | 2:58 | 2023-02-24 |  |
 | [Rainy Day Blues](https://open.spotify.com/track/3s6ezi7niuEzr1xgqERNsj) | [Michael Fix](https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci) | [Rainy Day Blues](https://open.spotify.com/album/01zVpYm27HjF8DCcCLDn34) | 3:03 | 2022-04-15 |  |
 | [Rainy Day Blues \- Instrumental](https://open.spotify.com/track/2wDMSutZ0eXoB1cQ0WE8f7) | [Tom Nicholls](https://open.spotify.com/artist/2YEluKwvonHGvzeLrCqtyi) | [Rainy Day Blues \(Instrumental\)](https://open.spotify.com/album/6I4k1yLhMfuJGl7j680IXi) | 2:28 | 2022-04-15 |  |
 | [Red Dirt](https://open.spotify.com/track/3z1rYUvrX29vA2thDTTNBs) | [Torbjörn Sörenson](https://open.spotify.com/artist/6hy4IkbbvbRXoXREwZpw4i) | [Red Dirt](https://open.spotify.com/album/1wByxDUH6YkilEPLyvTt3G) | 4:29 | 2022-04-15 |  |

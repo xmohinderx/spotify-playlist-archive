@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6108,
+  "num_followers": 6106,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMGEyZWVkYjkyMjM4OWMwODk0NDZlYWM0NWQxOGY2NDE1",
+  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMDI4ODIxNDJkNDEzNzBhYTQyZWZmMDQ5ZmE1YjZkMjdi",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Cl\u00e1ssicos",
+        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 220788,
+      "name": "Maravilhoso \u00c9 / Rei dos Reis",
+      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "A Can\u00e7\u00e3o de Natal",
         "url": "https://open.spotify.com/album/7MFHWfAfMt5Ueioziy2y8O"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Cl\u00e1ssicos",
-        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 220788,
-      "name": "Maravilhoso \u00c9 / Rei dos Reis",
-      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Gl\u00f3ria a Deus nas Alturas",
         "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
       },
@@ -503,26 +503,6 @@
       "duration_ms": 242192,
       "name": "Gl\u00f3ria a Deus nas Alturas",
       "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "\u00d3, Vinde, Adoremos",
-        "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
-      },
-      "artists": [
-        {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "\u00d3, Vinde, Adoremos",
-      "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -555,6 +535,26 @@
       "duration_ms": 322058,
       "name": "Busquem a Jesus",
       "url": "https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "\u00d3, Vinde, Adoremos",
+        "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
+      },
+      "artists": [
+        {
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\u00d3, Vinde, Adoremos",
+      "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
     },
     {
       "added_at": "2022-12-09 06:26:14",

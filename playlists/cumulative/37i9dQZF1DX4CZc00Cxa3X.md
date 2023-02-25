@@ -4,14 +4,14 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-196 songs - 15 hr 34 min
+197 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2c](https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 7:52 | 2022-03-17 |  |
 | [310](https://open.spotify.com/track/2jdNVXrmEvEa16mLGsqCjB) | [Koiwa](https://open.spotify.com/artist/7cVHUQpOTXqA7tbHCkIQqS) | [310](https://open.spotify.com/album/6wHh9OpcjKM3mOObQkCGhG) | 5:32 | 2022-09-12 | 2023-01-29 |
 | [A Field of Night](https://open.spotify.com/track/0YeA95qfyzG5jhm8M5XTpp) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ) | 7:33 | 2022-09-20 |  |
-| [absinthe](https://open.spotify.com/track/7HobaQWJb0qCzsNKmo72dk) | [achorda](https://open.spotify.com/artist/7eAAcHiYdiwMT8iBNs67v0), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [absinthe](https://open.spotify.com/album/6FwAqO2Cc0MXQ4Ox1qd4qu) | 1:22 | 2023-02-20 |  |
+| [absinthe](https://open.spotify.com/track/7HobaQWJb0qCzsNKmo72dk) | [achorda](https://open.spotify.com/artist/7eAAcHiYdiwMT8iBNs67v0), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [absinthe](https://open.spotify.com/album/6FwAqO2Cc0MXQ4Ox1qd4qu) | 1:22 | 2023-02-17 |  |
 | [Addendum 3](https://open.spotify.com/track/7A5GvMlsEQkiRcL4zx8W3K) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr), [Wayne Robert Thomas](https://open.spotify.com/artist/7yueLMbHp3xEU37tq8JId1) | [To Those Who Dwelt in a Land of Deep Darkness](https://open.spotify.com/album/5gCoXk0VCqw3fLcK6aseuV) | 8:00 | 2022-09-12 |  |
 | [Adrift](https://open.spotify.com/track/3jexA82J4b3Nd72TbgMAZO) | [Science Of Sleeping](https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn) | [Ocean Sleep](https://open.spotify.com/album/647uuDQfKJ5QZb1BSduDw2) | 5:00 | 2022-03-17 | 2022-12-06 |
 | [Adrift In Memory](https://open.spotify.com/track/0Cv17wDbSTPqkTXTTkt2KV) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 2:55 | 2022-05-25 |  |
@@ -135,6 +135,7 @@
 | [Phase 10](https://open.spotify.com/track/2DIpVyc5mtyfEHj8FNdZGF) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Meditation: You Are Relaxed](https://open.spotify.com/album/1Q0s12XR8nQNiImc9KBO4v) | 3:00 | 2023-01-20 |  |
 | [Phase 10](https://open.spotify.com/track/6sDe8RA7VqWfBUYg3fiBwD) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Meditation: You Are Relaxed](https://open.spotify.com/album/4QL5klSQaSxjr5ahXU4Mex) | 3:00 | 2022-08-19 | 2022-12-16 |
 | [Prue Lewarne](https://open.spotify.com/track/11fCNGmz7r3cEzaqwakkLB) | [Aix Em Klemm](https://open.spotify.com/artist/42DUzz9SdjV6ih3rbUaHma) | [Aix Em Klemm](https://open.spotify.com/album/5tiWSutt09Cqi6ty1dYzXJ) | 7:19 | 2022-03-30 | 2023-02-10 |
+| [Ray](https://open.spotify.com/track/4DZZQbBwmrheEeiVqvkpEx) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn), [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Ray](https://open.spotify.com/album/0RFSLWfMPONtCdhxIRvCPL) | 4:56 | 2023-02-25 |  |
 | [Relax 6 \(Awakening\)](https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X) | [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Sleep Better](https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG) | 9:59 | 2022-09-20 | 2023-02-18 |
 | [Requiem](https://open.spotify.com/track/1NFDuSokDMAiE4iRuac5sl) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Headwaters](https://open.spotify.com/album/4zw3XeZ8dDXuUDcd1flLtl) | 12:27 | 2022-11-11 | 2023-02-18 |
 | [Resolve](https://open.spotify.com/track/3uIVrCIl65nlhaFL80bt2N) | [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy) | [Resolve](https://open.spotify.com/album/3zg1VuUxrTaOtItzW5pzE9) | 3:09 | 2022-03-17 | 2022-07-28 |
@@ -145,7 +146,7 @@
 | [Sealed](https://open.spotify.com/track/3nagQKjvGa9hhVHGmFzFdC) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Oto No Wa: Selected Sounds of Japan 1988\-2018](https://open.spotify.com/album/6u6zXpuGoDl7xJfUK49WVn) | 5:51 | 2022-03-17 | 2023-01-28 |
 | [Seconds](https://open.spotify.com/track/2ROZkHmSV46OD2ESB6gpzs) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Seconds / Hólar](https://open.spotify.com/album/4uVGQKa9PFkytxLsLDkLJ6) | 2:03 | 2022-07-08 |  |
 | [Seconds](https://open.spotify.com/track/3vXmJi22FQIryr1IpTHOnX) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Seconds / Hólar](https://open.spotify.com/album/7Fgaunz4sA3JMGrfaa1YBC) | 2:03 | 2022-03-17 | 2022-07-29 |
-| [Severance](https://open.spotify.com/track/1Xb23c8l5v0syXyCcUmpPH) | [Mark Rushton](https://open.spotify.com/artist/3o7In5aHAnzK7WYGHY5Khx) | [There Are Always Other Possibilities](https://open.spotify.com/album/3VAhvgDUmBYGgUlS5jAliL) | 9:07 | 2022-12-20 |  |
+| [Severance](https://open.spotify.com/track/1Xb23c8l5v0syXyCcUmpPH) | [Mark Rushton](https://open.spotify.com/artist/3o7In5aHAnzK7WYGHY5Khx) | [There Are Always Other Possibilities](https://open.spotify.com/album/3VAhvgDUmBYGgUlS5jAliL) | 9:07 | 2022-12-20 | 2023-02-25 |
 | [Severed Seas](https://open.spotify.com/track/0JCS05r42jjYLPrUm9dl2g) | [Amulets](https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt) | [Severed Seas](https://open.spotify.com/album/6IRHUBpwNwCOpIBC25kYUO) | 8:08 | 2022-03-17 | 2023-01-07 |
 | [Silken Pt\. 2.1](https://open.spotify.com/track/6rzDeRJStPBNFRho5sduJG) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:52 | 2022-03-17 | 2022-09-13 |
 | [Sleep Cycle](https://open.spotify.com/track/0I3dIMAX86mepOPGEOJpQC) | [Rosentwig](https://open.spotify.com/artist/3RvDvs8u3A7qVJjkG6NoPb) | [Sleep Cycle](https://open.spotify.com/album/0yazt3WhxjNeM6cTmMmcAl) | 4:32 | 2023-01-27 | 2023-02-20 |
@@ -203,6 +204,6 @@
 | [Zero Gravity](https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX) | [Rippling](https://open.spotify.com/artist/4TqiKIyB4xErPAwK4oynTG), [CONNXCT](https://open.spotify.com/artist/0KxtmUPKJe0Rz1TWFaSb4B), [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Zero Gravity](https://open.spotify.com/album/7E8OVvnwnsAAhyiYrrRBox) | 2:39 | 2022-05-06 |  |
 | [Zkoumání duše, Pt\. 2](https://open.spotify.com/track/7fbJJEWelteCwXXACq98ZC) | [Relaxační Hudební Zóna](https://open.spotify.com/artist/7j40NtGJmeq7zorchjvy22), [Relaxační Zvuky](https://open.spotify.com/artist/3jgrS4bj9w1isq1WOAmj7z) | [Zkoumání duše](https://open.spotify.com/album/4gokAFXPBSeCmpL6aJnFz3) | 1:42 | 2022-05-25 |  |
 | [恋の予感](https://open.spotify.com/track/7ow2eDOKlvYeNcJ49Zjw6E) | [Ann Annie](https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG) | [wander into](https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21) | 2:48 | 2022-05-18 |  |
-| [着物](https://open.spotify.com/track/3u2q61kd8RfpwonVonsPw5) | [Nmesh](https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b) | [ロストエデンへのパス](https://open.spotify.com/album/6IjPpVn9OlOmcfs9en8XRA) | 4:24 | 2023-02-18 |  |
+| [着物](https://open.spotify.com/track/3u2q61kd8RfpwonVonsPw5) | [Nmesh](https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b) | [ロストエデンへのパス](https://open.spotify.com/album/6IjPpVn9OlOmcfs9en8XRA) | 4:24 | 2023-02-17 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

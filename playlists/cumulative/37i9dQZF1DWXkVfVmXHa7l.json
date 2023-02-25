@@ -1837,6 +1837,24 @@
     },
     {
       "album": {
+        "name": "\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30a8\u30ec\u30f3\u30fb\u30a4\u30a7\u30fc\u30ac\u30fc\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!",
+        "url": "https://open.spotify.com/album/3c9hxI2scBzDg0HcIgzCDK"
+      },
+      "artists": [
+        {
+          "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d",
+          "url": "https://open.spotify.com/artist/1fAOhUHFKEY4ublVIH8saI"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40771,
+      "name": "\u30a8\u30ec\u30f3\u30fb\u30a4\u30a7\u30fc\u30ac\u30fc\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!",
+      "url": "https://open.spotify.com/track/4iCqnOP7H0CW1uJHMFoKzb"
+    },
+    {
+      "album": {
         "name": "\u50d5\u306e\u6226\u4e89",
         "url": "https://open.spotify.com/album/5wi31xge1BG1X8ME1eyhdi"
       },

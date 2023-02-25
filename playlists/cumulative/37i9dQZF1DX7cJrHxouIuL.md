@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-183 songs - 8 hr 47 min
+185 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Do You Hear the Birds Singing?](https://open.spotify.com/track/4gSpTGrxnh8xGSTs9t0Lga) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Mind of My Own](https://open.spotify.com/album/1vVu1xyubkJrslVtb1UHnk) | 2:37 | 2022-04-15 |  |
 | [Don't Grow up Too Soon](https://open.spotify.com/track/29Df1XJyKy7pYw3G79Fx36) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:29 | 2022-04-15 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/6xAjAocTRpKamQlCy50RRQ) | [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Zee Avi's Nightlight](https://open.spotify.com/album/2R8cMVzWRFq0Rsc2WZi97U) | 1:51 | 2022-04-15 |  |
+| [Earth to Nigel](https://open.spotify.com/track/4exsZFcEo4idhJN0AFWZbF) | [The Sticker Club](https://open.spotify.com/artist/1Zn205TqWmfazNWJ65nGrs) | [Earth to Nigel](https://open.spotify.com/album/5o9gLXrUXPFt3W89qEsitn) | 2:12 | 2023-02-24 |  |
 | [Electric Car](https://open.spotify.com/track/0wGtYIrTodIcfv9P9ALsx3) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O), [Robin Goldwasser](https://open.spotify.com/artist/3hMMtIOxxEPNUUWVRbGEGG) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 3:22 | 2022-04-15 |  |
 | [Every Voice](https://open.spotify.com/track/06mJxVb3orAnVZzQXVnS2Y) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Every Voice](https://open.spotify.com/album/6O2hzAFNinpSa2dlcx7DOz) | 3:31 | 2022-04-15 |  |
 | [Fluff](https://open.spotify.com/track/5GkNmyY5arMb8ffnPJjDqd) | [Formidable Vegetable](https://open.spotify.com/artist/05bnLQhAfblYSOpPdrZBAT) | [In Real Life](https://open.spotify.com/album/2M06NabAq3bZDl8ZHJlUOn) | 3:37 | 2022-04-15 |  |
@@ -105,6 +106,7 @@
 | [Little Bitta You](https://open.spotify.com/track/0MAmaesEcenot1iKsV08S1) | [Andrew & Polly](https://open.spotify.com/artist/49jFRUETZfd3qMb92TcWda) | [Odds & Ends](https://open.spotify.com/album/7z0GxmcXQ2pxwN3fEKC4N2) | 2:20 | 2022-04-15 |  |
 | [Little Grey Cloud \(It's OK to Cry\)](https://open.spotify.com/track/53nTk9BFCViL3FJgfbjPKW) | [Benny Time](https://open.spotify.com/artist/0SP4cps3hSDgkfhHhJHEqU), [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN), [Eastcoast inspirational Singers](https://open.spotify.com/artist/6XcbtC6qmgQZ9FJNcixuqC) | [Little Grey Cloud \(It's OK to Cry\)](https://open.spotify.com/album/5xgjSD4LXKUEZJH37ZS5jV) | 3:12 | 2022-04-15 |  |
 | [Long as I Got You](https://open.spotify.com/track/5mk8u1etFH79BfcNVuCPOx) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Lemonade](https://open.spotify.com/album/6JrSmqY6OEERxikQHUQ2vf) | 2:23 | 2022-04-15 |  |
+| [Love's a Game](https://open.spotify.com/track/3t87ehri6fGJu8aSlxYqEO) | [The New Fangles](https://open.spotify.com/artist/6oZcoOXMpv9ubyQIxAwoWB) | [Love's a Game](https://open.spotify.com/album/0kd5w8gTdUzxuwyIAIVgjh) | 2:58 | 2023-02-24 |  |
 | [Made For Feelings](https://open.spotify.com/track/6d4xmldjjcZrvd9juUVMwK) | [Hot Toast Music Company](https://open.spotify.com/artist/4RD7ZKkKA4xqv87XSUvkXX) | [All The Feels](https://open.spotify.com/album/2d5veNMk0bW0m82HftXxKc) | 3:50 | 2023-01-27 |  |
 | [Magnolia Tree](https://open.spotify.com/track/3JFY8pm1zVpC3DlA6yB6FG) | [Suzi Shelton](https://open.spotify.com/artist/6KVBsjr33qLBA2CnlnRYEf) | [Magnolia Tree](https://open.spotify.com/album/05L03Xp2wSBc4jRbbYj0gc) | 2:53 | 2022-04-15 |  |
 | [Marshmallow Man](https://open.spotify.com/track/4flkzWTDmvtUzoVxC1ESI5) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb), [Suzi Shelton](https://open.spotify.com/artist/3d96ULtRFWtch9ulNHFnpo) | [28 Days](https://open.spotify.com/album/2p5QfPVnqGhJDtrntQpX7Z) | 2:36 | 2022-04-15 |  |

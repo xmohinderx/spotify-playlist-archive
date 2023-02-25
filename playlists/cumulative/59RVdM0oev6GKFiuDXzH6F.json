@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "BT1",
+        "url": "https://open.spotify.com/album/3mrqyJRhizCxGwOn2s7mGq"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "BT1",
+      "url": "https://open.spotify.com/track/59gxVInWEnShtkIrNGUhaE"
+    },
+    {
+      "album": {
         "name": "You Got Soul",
         "url": "https://open.spotify.com/album/3jpUTkWUzmpBsdHmgd3Yhs"
       },
@@ -1228,6 +1250,28 @@
       "duration_ms": 140606,
       "name": "The Funky Beat",
       "url": "https://open.spotify.com/track/51fTFfFagxRASIcULWFKqG"
+    },
+    {
+      "album": {
+        "name": "Trujillana",
+        "url": "https://open.spotify.com/album/1wR0T66gmIx2bUtPqGRX66"
+      },
+      "artists": [
+        {
+          "name": "Maxx Lyon",
+          "url": "https://open.spotify.com/artist/43CU8m11gF8fr4QLTxQdfW"
+        },
+        {
+          "name": "Andrew Hansel",
+          "url": "https://open.spotify.com/artist/71IPHegMvPMkqmJfNs7A4V"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Trujillana",
+      "url": "https://open.spotify.com/track/47zvDIWnlhZWcWhZEDauTA"
     },
     {
       "album": {

@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
         "name": "Change the Whole Thing / Hey Blondie",
         "url": "https://open.spotify.com/album/1jt3dMRUuG64y9YgqRMm2m"
       },
@@ -2336,7 +2354,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-25",
       "duration_ms": 206362,
       "name": "Fire Away",
       "url": "https://open.spotify.com/track/7JyZzz4rMPMWMsb27vArSN"
@@ -6830,7 +6848,7 @@
           "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "date_added": "2023-02-14",
+      "date_added": "2023-02-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213386,

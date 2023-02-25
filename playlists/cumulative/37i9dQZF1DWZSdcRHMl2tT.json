@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "10pm",
+        "url": "https://open.spotify.com/album/7MJsQ6xb1pxzQxwyjM3FbU"
+      },
+      "artists": [
+        {
+          "name": "Maea Sid",
+          "url": "https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168688,
+      "name": "10pm",
+      "url": "https://open.spotify.com/track/2eKgDX8dvexRVHjQ9uq4KV"
+    },
+    {
+      "album": {
         "name": "3 ways of summer",
         "url": "https://open.spotify.com/album/0jFOGkyXQ5VpCzfJ6vr55C"
       },
@@ -2074,6 +2092,24 @@
       "duration_ms": 252672,
       "name": "Forest Spirit",
       "url": "https://open.spotify.com/track/3Y0InfIgRhpHbxFiAmPtkm"
+    },
+    {
+      "album": {
+        "name": "Forwards",
+        "url": "https://open.spotify.com/album/58ZW1Ll7XhQ7vTcZGPsvlr"
+      },
+      "artists": [
+        {
+          "name": "Chimi Berry",
+          "url": "https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178963,
+      "name": "Forwards",
+      "url": "https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s"
     },
     {
       "album": {

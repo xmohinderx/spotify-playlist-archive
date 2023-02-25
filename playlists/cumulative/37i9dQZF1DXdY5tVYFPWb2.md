@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-437 songs - 1 day 4 hr 57 min
+438 songs - 1 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Music, Dance & Love](https://open.spotify.com/track/2DAJbIQTf3xv8l12NJMwey) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [MUSIC, DANCE & LOVE](https://open.spotify.com/album/4KAOXSADegSXNIkGkHoQJq) | 4:33 | 2022-11-15 | 2022-11-23 |
 | [Music, Dance & Love](https://open.spotify.com/track/3QN1ptGLRym2YgBXOy8esa) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Music, Dance & Love](https://open.spotify.com/album/1fvF659Q8PetSR3R8HaQDE) | 4:33 | 2022-11-01 | 2022-11-03 |
 | [Music, Dance & Love](https://open.spotify.com/track/7DbuirumWBjbLNDjImz7H9) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Music, Dance & Love](https://open.spotify.com/album/53RSNtlBrBo908JZQcWo5q) | 4:33 | 2022-11-01 | 2022-11-19 |
+| [Must Be Love](https://open.spotify.com/track/3aRb0l183NvGHFxrCJSuJ5) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Must Be Love](https://open.spotify.com/album/3zjf043R7hfhOWybjg3btf) | 3:19 | 2023-02-23 |  |
 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 | 2023-01-12 |  |
 | [Natsume](https://open.spotify.com/track/5Kk3UOcmc6uHuFIf1yI7il) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Natsume](https://open.spotify.com/album/1zDuHfKUHI0SRimAdD8whm) | 2:37 | 2022-05-24 | 2022-11-14 |
 | [Natural](https://open.spotify.com/track/0o313xtpNX0r3gx5TZSwK0) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Natural](https://open.spotify.com/album/6mgmUHvmxOcfr4YZGfxWti) | 2:50 | 2022-08-18 | 2022-11-17 |
@@ -310,7 +311,7 @@
 | [うそつき](https://open.spotify.com/track/6tKhV1RnmuzL3rdjBEVMcO) | [Sakura Motoyama](https://open.spotify.com/artist/0paAjezDbecmF7vgAVS0hC) | [うそつき](https://open.spotify.com/album/6QghdFGpV6RT0yu63fwy2G) | 4:30 | 2022-08-30 | 2022-09-07 |
 | [うらめしや](https://open.spotify.com/track/4BH0ewgz8IF3RqSEMM4xoa) | [ポニーのヒサミツ](https://open.spotify.com/artist/5Jgmn1ZKXTKLR1uxbu0lSg) | [うらめしや](https://open.spotify.com/album/5y6VarJO0wRMLUERYjo0Fu) | 2:56 | 2022-05-31 | 2022-06-08 |
 | [お茶](https://open.spotify.com/track/3jpE1IiRxKi25R05n0YIZo) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Are U Romantic?](https://open.spotify.com/album/7mDjC27mmAVS3mnrPUjgZS) | 4:18 | 2022-05-24 | 2022-07-24 |
-| [きっと愛](https://open.spotify.com/track/6fK6tauA3ezRp7Xs2vqCJp) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [きっと愛](https://open.spotify.com/album/2H95SH82s3jXWt6XOAByC3) | 3:19 | 2023-02-23 |  |
+| [きっと愛](https://open.spotify.com/track/6fK6tauA3ezRp7Xs2vqCJp) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [きっと愛](https://open.spotify.com/album/2H95SH82s3jXWt6XOAByC3) | 3:19 | 2023-02-23 | 2023-02-25 |
 | [くちぶえ](https://open.spotify.com/track/5pLJN1059GYVb8RxONcG4f) | [OSTRIP](https://open.spotify.com/artist/7sRCMTc2ZLX4HcWGQngam3) | [くちぶえ](https://open.spotify.com/album/6kFP9IBA9Lj5gMdg9k1nKK) | 4:19 | 2022-06-21 | 2022-07-21 |
 | [このまま夢で feat\. AAAMYYY](https://open.spotify.com/track/7mYt61pj41CSwSiOovNzk0) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [NOTE](https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa) | 3:54 | 2022-08-02 |  |
 | [この街はパレード](https://open.spotify.com/track/2bNXK6Ln7DfEdVlHlVpW8w) | [sty](https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z) | [この街はパレード](https://open.spotify.com/album/2W84t0fIocPZhoMOkaLDiY) | 3:08 | 2022-09-06 | 2022-09-09 |
